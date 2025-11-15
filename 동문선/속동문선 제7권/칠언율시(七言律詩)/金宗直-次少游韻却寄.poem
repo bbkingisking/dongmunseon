@@ -1,0 +1,49 @@
+canonical:
+  title: 次少游韻却寄
+  author: 金宗直
+  language: lzh
+  text: 持身纔足備三孱處世眞同竊一斑才盡夢探懷裏筆春歸日皺鏡中顔茆茨空卜東西瀼詞賦還慙大小山吾黨如君知者少雪車冰柱可追攀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次少游韻却寄
+  author: 金宗直
+  language: lzh
+  text: 持身纔足備三孱。處世眞同竊一斑。才盡夢探懷裏筆。春歸日皺鏡中顔。茆茨空卜東西瀼。詞賦還慙大小山。吾黨如君知者少。雪車冰柱可追攀。
+korean:
+  title: 차 소유운 각기
+  author: 김종직
+  language: kor
+  text: |-
+    몸을 가지려면 비로소 삼잔을 갖추어야 족하고
+    세상에 사는 것은 진실로 일반을 훔치는 것과 같다
+    재주가 다하매 꿈에 품 속의 붓을 더듬고
+    봄이 돌아가매 날로 거울 속의 얼굴이 주름진다
+    띠집은 헛되이 동쪽 서쪽의 산골물에 정했고
+    사부는 도리어 크고 작은 산을 부끄러워한다
+    우리 무리는 그대와 같은데 아는 사람이 적네
+    눈 수레와 얼음기둥으로 도와주어야 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0740&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Soyou's Rhyme, Sent Separately
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    To hold oneself together, one barely manages three meager things.
+    Living in the world is truly like stealing a single glimpse.
+    When talent runs dry, in dreams I grope for the brush within my breast.
+    As spring departs, day by day the face in the mirror grows lined.
+    The thatched cottage vainly settles by mountain streams, east and west.
+    My words, like mountains great and small, inspire only shame.
+    Few among our circle know one like you.
+    Snow-laden carts and ice-built pillars—these we must climb together.
+  footnotes:
+  - key: ''
+    value: The poem uses the metaphor of 'stealing a glimpse' to express the limited perspective and fleeting nature of human existence
+  - key: ''
+    value: The 'brush within my breast' refers to one's inner poetic capacity and creative spirit
+  - key: ''
+    value: References to 'great and small mountains' likely allude to other poets or literary traditions, expressing humble self-assessment
+  - key: ''
+    value: The closing image of 'snow carts and ice pillars' suggests shared hardship and mutual support among kindred spirits

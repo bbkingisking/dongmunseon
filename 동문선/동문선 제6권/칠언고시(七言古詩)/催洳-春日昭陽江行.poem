@@ -1,0 +1,104 @@
+canonical:
+  title: 春日昭陽江行
+  author: 崔洳
+  language: lzh
+  text: 上元佳節好風煙千古昭陽江上天山光靑靑倒鏡面柳帶裊裊搖風前江邊行客發春興信馬閑吟垂竹鞭入城景物更奇絶野廣白沙分二川停車久立汀洲際白鷗落照心悠然想見當時全盛日朱樓畫閣擁管絃繁華一逐東流去江草江花年復年誰家玉笛吹落梅令人無端感旅懷昔日紅粧映水處浣沙石老空莓苔吾人年少好遊樂每逢勝景輒忘迴鸚鵡洲邊木蘭棹鳳凰臺上黃金盃自從身嬰利名累十載蠢蠢趨塵埃如今按轡水雲界坐使逸想凌蓬萊此江無盡眞聲色休噵關東多寂寞誰將醉墨語江風紫薇花下草綸客
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春日昭陽江行
+  author: 崔洳
+  language: lzh
+  text: 上元佳節好風煙。千古昭陽江上天。山光靑靑倒鏡面。柳帶裊裊搖風前。江邊行客發春興。信馬閑吟垂竹鞭。入城景物更奇絶。野廣白沙分二川。停車久立汀洲際。白鷗落照心悠然。想見當時全盛日。朱樓畫閣擁管絃。繁華一逐東流去。江草江花年復年。誰家玉笛吹落梅。令人無端感旅懷。昔日紅粧映水處。浣沙石老空莓苔。吾人年少好遊樂。每逢勝景輒忘迴。鸚鵡洲邊木蘭棹。鳳凰臺上黃金盃。自從身嬰利名累。十載蠢蠢趨塵埃。如今按轡水雲界。坐使逸想凌蓬萊。此江無盡眞聲色。休噵關東多寂寞。誰將醉墨語江風。紫薇花下草綸客。
+korean:
+  title: 춘일 소양강행
+  author: 최여
+  language: kor
+  text: |-
+    상원의 아름다운 날에 풍경이 좋은데
+    천고의 소양강 위의 하늘일러라
+    산 빛은 푸르러 거울 속에 거꾸러졌고
+    하늘하늘 버들 띠는 바람 앞에 흔들린다
+    강가의 나그네 봄 흥을 못 이겨
+    말 위에서 한가로이 읊조리며 대 채찍을 드리웠다
+    성에 들자 경물은 더욱 뛰어나
+    넓은 들 흰 모래는 두 고을을 나누었네
+    수레를 멈추고 한 동안 강가에 섰더니
+    흰 갈매기 지는 해에 마음이 유유하다
+    옛날의 한창 번성한 그 때를 생각노니
+    붉은 누대 그림집은 관현을 끼었으리
+    번화가 동으로 흐르는 물을 따라갔으니
+    강 풀과 강 꽃만 해마다 푸르고 붉었다
+    누구 집의 옥젓대가 낙매곡을 부는가
+    지금 사람 무단히 나그네 정을 느낀다
+    옛날에 붉은 단장이 물에 번지던 곳에
+    비단 씻던 돌은 늙어 푸른 이끼만 끼었네
+    우리는 나이 젊고 놀기를 즐기어
+    좋은 경치 만날 때마다 돌아가기를 잊네
+    앵무주 가에서 목란의 노를 젓고
+    봉황대 위에서 황금의 술잔 들었다
+    몸이 이익과 명예를 좇고부터
+    십 년 동안 허덕허덕 세속을 달렸구나
+    이제는 물과 구름 세계에서 말고삐를 놓으니
+    앉아서 솟는 흥취 봉래를 뒤집는다
+    이 강의 소리와 경치 다함 없나니
+    관동에 적막하다고 말하지 말라
+    누가 취한 먹으로 강바람에 말하리
+    자미화 밑에 윤을 초하는 손님이라고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0620&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 앵무주(鸚鵡洲) …… 들었다 : '
+    value: 앵무주는 황학루(黃鶴樓) 부근에 있고 봉황대(鳳凰臺)는 금릉(金陵)에 있는데, 모두 이백이 시를 짓고 놀던 명승지이다.
+  - key: '[주-D002] 자미화(紫微花) …… 윤(綸) : '
+    value: 당나라 때 중서성(中書省)을 자미성(紫微省)이라 하고, 그 안에 자미화(紫微花) 두 그루가 백락천(白樂天)이 심은 것이라 한다. 윤(綸)은 제고(制誥)를 말한 것이다.
+  - key: '[주-D001] 沙 : '
+    value: 紗
+english:
+  title: A Journey Along the Soyang River on a Spring Day
+  author: Choi Yeo
+  language: eng
+  text: |-
+    On this fine festival of the first moon, the wind and clouds are clear,
+    Beneath the Soyang River's ancient sky, ten thousand years of spring appear.
+    The mountains' verdant light inverts upon the mirror of the stream,
+    And willows dance their tender strands before the wind's soft dream.
+
+    The wayfarer upon the bank cannot contain his spring-born joy,
+    So loosely on his horse he hums, his bamboo whip held without ploy.
+    As he enters the city gates, the landscape grows yet more sublime—
+    Wide meadows, white sand dividing two counties, sublime in space and time.
+
+    He halts his carriage long beside the riverside expanse,
+    Where white gulls rest in sunset's glow, and his heart enters a trance.
+    He conjures up that golden age of glory and of grace,
+    When crimson towers and painted halls held music's dwelling place.
+
+    Yet all that splendor followed the eastward-flowing stream,
+    And only river grasses grew and flowers bloomed, it would seem.
+    Who plays the jade flute now, composing melodies of fall?
+    And stirs within this traveler's breast a melancholy call.
+
+    Where once the rosy maiden's form was mirrored in the flow,
+    The stone where silk was washed grows old, now covered over with moss below.
+    In youth we loved to wander where fair vistas met our eye,
+    And every time we found some beauty, homeward thoughts would fly.
+
+    We rowed our boats from Parrot Isles with oars of orchid wood,
+    And raised our golden cups on high where Phoenix Towers stood.
+    But since ambition bound my soul to fame and wealth's pursuit,
+    For ten long years I've struggled through the world's corrupting route.
+
+    Now I release my reins at last within this realm of cloud and stream,
+    And sitting here, my spirit soars to lands of blessed dream.
+    This river's voice and beauty know no end, no final shore—
+    Say not that lands of Kwan-dong fall to silence evermore!
+
+    Who speaks to river winds with brush drunk deep in living ink?
+    A guest beneath the purple flowers, composing words that link
+    The old imperial gardens where the wise men penned their will—
+    I am but one who grasps the pen along this timeless hill.
+  footnotes:
+  - key: ''
+    value: Parrot Isles and Phoenix Towers were famous haunts of the poet Li Bai during the Tang dynasty, celebrated in classical Chinese literature as places of beauty and artistic inspiration.
+  - key: ''
+    value: The purple flowers reference the imperial gardens where great poets and officials once composed official decrees and literary works.

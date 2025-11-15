@@ -1,0 +1,51 @@
+canonical:
+  title: 崔守璜
+  author: 李承休
+  language: lzh
+  text: 幾年孤迹寄江山更踏京塵一夢閒故舊皆爲天上貴困窮誰救轍中乾相逢盡怪形容變欲語先羞舌頰頑曾忝金蘭緣不淺寬懷時復一彈冠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 崔守璜
+  author: 李承休
+  language: lzh
+  text: 幾年孤迹寄江山。更踏京塵一夢閒。故舊皆爲天上貴。困窮誰救轍中乾。相逢盡怪形容變。欲語先羞舌頰頑。曾忝金蘭緣不淺。寬懷時復一彈冠。
+korean:
+  title: 지원 갑자에 서울에 와서 최수황
+  author: 이승휴
+  language: kor
+  text: |-
+    몇 해 동안 외로운 종적을 강산에 부쳤다가
+    다시금 서울에 오니 한바탕 꿈인 듯
+    옛 친구는 모두 다 하늘 위의 귀한 몸 되었는데
+    곤궁한 내 신세, 확철의 고기를 누가 구할꼬
+    만나는 사람마다 모양과 얼굴이 몹시 변했다고
+    말을 하자니 혀가 굳어진 것 부끄럽습네
+    진작 금란의 사귐을 맺은 인연이 있길래
+    이따금 회포 풀고 갓을 털기도 하옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0740&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금란(金蘭) : '
+    value: 《주역(周易)》에, “사람이 마음을 같이하면 그 날카로움이 쇠를 끊고, 마음을 같이하는 말은 그 내음이 난초와 같다.” 하였다. 금란(金蘭)은 깊은 우정(友情)을 말한다.
+  - key: '[주-D002] 갓을 털기 : '
+    value: 한(漢)나라 왕길(王吉)이 공우(貢禹)와 친한 벗이었는데, 그때에 사람들이 말하기를, “왕양(王陽 왕길의 字가 子陽)이 벼슬에 있으면 공공(貢公)은 갓을 턴다[王陽在位 貢公彈冠].” 했다. 《漢書》 주석에, “갓을 터는 것은 미구에 벼슬에 들어가겠기 때문이다.” 하였다.
+english:
+  title: To Choi Su-hwang
+  author: Lee Seung-hu
+  language: eng
+  text: |-
+    For years I cast my lonely shadow across rivers and mountains,
+    yet returning to the capital, all seems a dream.
+    Old friends have all risen to heights beyond reach,
+    and who will rescue me, stranded in poverty's rut?
+
+    Each face I meet bears the marks of time's transformation,
+    and shame seals my tongue when I try to speak.
+    Yet the bond of gold and orchid between us runs deep—
+    so now and then we brush the dust from our hats,
+    cherishing the hope that fortune may turn again.
+  footnotes:
+  - key: ''
+    value: 'Gold and orchid (金蘭): A classical metaphor for deep and noble friendship, derived from the I Ching: ''When hearts are one, their sharpness cuts through metal; when words flow from unified hearts, their fragrance is that of orchids.'''
+  - key: ''
+    value: 'Brushing the dust from our hats: An allusion to the Han Dynasty friendship between Wang Yang and Gong Yu, whose colleagues said, ''When Wang Yang holds office, Gong Yu dusts off his hat''—meaning one friend prepares to join the other in service, a gesture of hope for mutual advancement.'

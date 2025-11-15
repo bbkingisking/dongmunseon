@@ -1,0 +1,48 @@
+canonical:
+  title: 角山
+  author: 趙浚
+  language: lzh
+  text: 霜落江寒鴈正飛千帆一色夕陽時高冠扶國有榮辱短棹釣魚無是非萬頃稻粱黃世界半江秋浪碧琉璃蘆花如雪山如畫薄暮歸來雨滿衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 角山
+  author: 趙浚
+  language: lzh
+  text: 霜落江寒鴈正飛。千帆一色夕陽時。高冠扶國有榮辱。短棹釣魚無是非。萬頃稻粱黃世界。半江秋浪碧琉璃。蘆花如雪山如畫。薄暮歸來雨滿衣。
+korean:
+  title: 각산
+  author: 조준
+  language: kor
+  text: |-
+    서리 내리자 강은 차갑고 기러기는 나는데
+    천 폭 돛이 모두 석양 빛일세
+    높은 갓으로 나라를 부축하니 영욕이 있었는데
+    작은 배에 고기를 낚으니 시비가 없네
+    만 이랑 벼는 누른빛 세계
+    반강의 가을 물결은 새파란 유리
+    갈꽃은 눈 같고 산은 그림 같은데
+    해질 무렵 돌아오느라니 비가 옷에 가득차네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Gaksan
+  author: Jo Jun
+  language: eng
+  text: |-
+    Frost falls and the river grows cold as wild geese take flight,
+    A thousand sails all gilded in the evening sun's light.
+    With tall official's cap, I upheld the realm through honor and shame,
+    But casting line from small boat, I find no victory or blame.
+
+    Ten thousand fields of ripened grain turn the world to gold,
+    Half the river's autumn waves gleam like jade and jade of old.
+    Reeds bloom white as winter snow, mountains painted on the sky—
+    Returning at dusk, my robes are drenched where rain and river meet nearby.
+  footnotes:
+  - key: ''
+    value: 'The poem contrasts two modes of life: active service to the state (represented by the official''s cap) with quiet retirement and fishing, suggesting a transition or reflection on the poet''s own journey.'
+  - key: ''
+    value: The imagery of frost, geese, and autumn water evokes the traditional East Asian theme of seasonal decline as a meditation on transience and the passage of time.
+  - key: ''
+    value: The final image of rain-soaked robes suggests both the physical toll of travel and a spiritual renewal through return to nature.

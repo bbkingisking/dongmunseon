@@ -1,0 +1,54 @@
+canonical:
+  title: 次淳夫咏雪韻
+  author: 曺偉
+  language: lzh
+  text: 蕭蕭穿密室蔌蔌墜空林陌上無遊騎簷間有凍禽嚙氈懷苦節詠絮想芳心倂起山陰興扁舟月下尋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次淳夫咏雪韻
+  author: 曺偉
+  language: lzh
+  text: 蕭蕭穿密室。蔌蔌墜空林。陌上無遊騎。簷間有凍禽。嚙氈懷苦節。詠絮想芳心。倂起山陰興。扁舟月下尋。
+korean:
+  title: 차 순부 영설운
+  author: 조위
+  language: kor
+  text: |-
+    쓸쓸히 비밀한 방 뚫는가 하면
+    싸락싸락 빈 수풀에 떨어진다
+    거리 위에는 노는 말 없고
+    처마 속에는 어는 새 있다
+    담요를 씹으며 괴로운 절개를 슬퍼하고
+    버들개지 읊으면서 꽃다운 마음을 생각한다
+    산음의 흥취를 모두 일으켜
+    조각배 타고 달 아래서 찾는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0580&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 담요를 씹으며 괴로운 절개 : '
+    value: 한(漢)나라의 소무(蘇武)라는 사람이 흉노에게 사절로 갔다가 강제 억류하고 항복하기를 청했으나, 그것을 거절하였으므로 북쪽 사막가의 호수 곁으로 귀양보내 살기를 19년 동안 하였는데, 겨울에 먹을 것이 없어서 깔고 있던 담요를 뜯어서 눈과 싸서 먹기도 하였다 한다.
+  - key: '[주-D002] 버들개지 읊으면서 꽃다운 마음 : '
+    value: 진(晉)나라의 사안(謝安)이 여러 아들과 딸뜰에게, “저 눈 오는 것이 무엇과 같다고 비유하겠는가.” 하고 물으니, 어린 딸 도온(道薀)이 버들개지가 바람에 날리는 것[柳絮因風飛]과 같다고 하는 것이 좋겠다 하여서 유명하였다.
+  - key: '[주-D003] 산음(山陰)의 흥취를 모두 일으켜 : '
+    value: 진(晉)나라의 왕자유(王子猶)라는 사람이 눈 오는 밤에 산음 땅에 있는 친구 대안도(戴安道)를 찾아 갔다가 문 앞까지 가서 주인을 찾지 아니하고 모두 돌아가며, “흥이 나서 왔다가 흥이 다하니 돌아간다.”고 하였다.
+english:
+  title: Following Soonbu's Rhyme on Snow
+  author: Jo Wi
+  language: eng
+  text: |-
+    Desolate snow threads through the shuttered room,
+    Patter by patter falls through the bare grove.
+    No idle riders journey down the path,
+    Yet frozen birds nest in the eaves.
+
+    I chew the felt and mourn my steadfast will,
+    Recite the willow floss and dream of grace.
+    The mountain mood stirs wholly in my breast—
+    I board a small boat, seeking under moonlight.
+  footnotes:
+  - key: ''
+    value: The poet alludes to Su Wu of the Han dynasty, who endured nineteen years of exile in the northern desert rather than submit to his captors. In winter hunger, he would shred his felt blanket and eat it mixed with snow—a symbol of unbreakable integrity.
+  - key: ''
+    value: This references the famous snowy moment when Xie An asked his children what snow resembled. His young daughter's answer—willow catkins dancing on the wind—became celebrated as the most elegant simile, representing poetic grace and refined sensibility.
+  - key: ''
+    value: 'The Mountain Shade reference evokes Wang Ziyou of the Jin dynasty, who traveled through snow on an impulse to visit a friend, then turned back at his gate without entering, saying: ''I came with joy, but now my joy has passed—so I depart.'' A meditation on transient inspiration and the pursuit of beauty.'

@@ -1,0 +1,47 @@
+canonical:
+  title: 春寒
+  author: 鄭希良
+  language: lzh
+  text: 水國春全薄寒威未解嚴狂風猶料峭小雨自廉纖地僻經過少身孤老病兼微暝眞可愛炙背坐茅簷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春寒
+  author: 鄭希良
+  language: lzh
+  text: 水國春全薄。寒威未解嚴。狂風猶料峭。小雨自廉纖。地僻經過少。身孤老病兼。微暝眞可愛。炙背坐茅簷。
+korean:
+  title: 춘한
+  author: 정희량
+  language: kor
+  text: |-
+    물나라에는 아직도 봄이 엷어
+    추위가 그 위엄을 풀지 않았다
+    미친 사람은 아직도 요초하고
+    가랑비는 스스로 염섬하여라
+    땅이 궁벽하여 지나가는 이 적고
+    몸이 외로운데 노병을 겹했구나
+    약간의 따슨 빛도 참으로 좋아
+    등을 쬐며 처마 밑에 앉는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0780&viewSync=OT
+  footnotes: []
+english:
+  title: Spring Cold
+  author: Jeong Hee-ryang
+  language: eng
+  text: |-
+    In the water country, spring remains thin and pale.
+    The chill has not yet surrendered its severity.
+    Wild winds still bite with their sharp edge.
+    Fine rain falls delicate and spare.
+    The remote land sees few travelers pass.
+    My solitary body bears both age and sickness.
+    Yet even the faint warmth of light grows precious—
+    I sit beneath the eaves, warming my back in its glow.
+  footnotes:
+  - key: ''
+    value: The 'water country' (水國) likely refers to a region characterized by marshes or low-lying wetlands, which in spring would retain winter's chill longer than higher ground.
+  - key: ''
+    value: The contrast between the harsh natural forces (wind and rain) and the speaker's humble contentment with small comforts reflects a meditative acceptance of one's station and circumstances.
+  - key: ''
+    value: The poem progresses from describing the season's lingering harshness to an intimate domestic scene, suggesting how limited moments of warmth—both physical and spiritual—sustain us.

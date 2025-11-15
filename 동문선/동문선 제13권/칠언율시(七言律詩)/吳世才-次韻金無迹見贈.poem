@@ -1,0 +1,58 @@
+canonical:
+  title: 次韻金無迹見贈
+  author: 吳世才
+  language: lzh
+  text: 才先李賀賦高軒道比楊雄入聖門大百圍材無用用長三尺喙不言言仙童不寄西山藥公子須傾北海樽七葉蟬貂餘慶在忠純終被漢家恩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻金無迹見贈
+  author: 吳世才
+  language: lzh
+  text: 才先李賀賦高軒。道比楊雄入聖門。大百圍材無用用。長三尺喙不言言。仙童不寄西山藥。公子須傾北海樽。七葉蟬貂餘慶在。忠純終被漢家恩。
+korean:
+  title: 김무적이 준 시에 차운하여
+  author: 오세재
+  language: kor
+  text: |-
+    재주는 고헌과를 지은 이하보다 앞서고
+    도는 성문에 든 양웅에 비할 만도
+    백 아름 큰 재목은 쓰임 없음에 쓰일꺼나
+    석 자 긴 주둥이는 말 없음을 말로 삼네
+    선동이 서산의 약을 안 부쳐오니
+    공자는 북해의 술병이나 기울일 밖에
+    일곱 대 선초로 여경을 누리는 그대
+    깨끗한 충성이 끝내 국은을 입고야 말리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고헌과(高軒過)를 지은 이하(李賀) : '
+    value: 당나라 시인 이하(李賀)가 일곱 살에 시를 잘 지었는데, 한유(韓愈)ㆍ황보식(皇甫湜)이 찾아가 시를 지으라 하니 즉석에서 지어 부른 시(詩)가 〈고헌과(高軒過)〉란 제목이었다. 두 사람이 보고 크게 놀랐다. 고헌과(高軒過)는 높은 수레가 들렀다는 말이다.
+  - key: '[주-D002] 양웅(揚雄) : '
+    value: 《역(易)》에 비겨, 〈태현(太玄)〉을 짓고, 《논어》에 비겨 〈법언(法言)〉을 지었다.
+  - key: '[주-D003] 백 아름 …… 쓰일꺼나 : '
+    value: 《장자(莊子)》에서 나온 말인데, 혜자(惠子)가 말하기를, “내가 큰 나무가 있는데, 큰 뿌리는 옹종(擁腫)하여 먹줄에 맞지 아니하고, 작은 가지는 굽어 규구(規矩)에 맞지 아니하여 길 가에 서 있어도 대목이 돌아보지 아니한다.” 하니 장자(莊子)는 말하기를, “자네가 큰 나무가 있고도 쓸 데가 없다면 무하유(無何有)의 고을 광막(廣莫)한 들에 심어 두고, 그 밑에서 소요(逍遙)하면 그 나무가 도끼에 찍혀 죽지 아니할 것이 아닌가.” 하였다.
+  - key: '[주-D004] 북해(北海)의 술병 : '
+    value: 후한(後漢)  공융(孔融)이 북해상(北海相)이었는데, 객(客)을 좋아하여 늘 말하되, “자리에 손이 늘 차고, 술병에 술이 안 비니 내가 근심이 없다.” 하였다.
+english:
+  title: A Poem in Response to Kim Mujeok's Gift
+  author: Oh Se-jae
+  language: eng
+  text: |-
+    Your talent surpasses even Li He, the child prodigy who composed "The High Carriage Passes,"
+    Your virtue rivals Yang Xiong, who entered the sacred halls of wisdom.
+    The massive timber, a hundred fathoms around, finds use precisely in its uselessness—
+    The three-foot-long bill speaks profoundly through silence.
+
+    The immortal boy brings no medicine from the western hills,
+    Yet you, noble sir, need only tip the wine cup of the northern sea.
+    Seven generations have worn the insignia of favor and grace,
+    And your pure loyalty shall finally receive the empire's eternal blessing.
+  footnotes:
+  - key: ''
+    value: Li He (李賀) was a Tang dynasty poet celebrated for composing 'The High Carriage Passes' at just seven years old, impressing the great scholar Han Yu and Huangfu Shi with his precocious talent.
+  - key: ''
+    value: Yang Xiong (揚雄) was a Han dynasty scholar who created philosophical works meant to rival the Classic of Changes and the Analects, representing the highest scholarly achievement.
+  - key: ''
+    value: The image of the massive, unusable timber derives from the Zhuangzi's parable of the great tree—useless wood that escapes the carpenter's axe and finds freedom precisely through its worthlessness.
+  - key: ''
+    value: The 'wine cup of the northern sea' refers to Kong Rong (孔融), governor of the northern sea region, whose hospitality was so legendary that he boasted his wine cup was never empty and his table never lacked guests.

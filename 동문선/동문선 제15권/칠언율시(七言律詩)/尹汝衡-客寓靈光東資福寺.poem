@@ -1,0 +1,49 @@
+canonical:
+  title: 客寓靈光東資福寺
+  author: 尹汝衡
+  language: lzh
+  text: 東林寺在郡城東牢落行裝寄此中萬種覊愁紛若絮十年遊跡蕩如蓬雲含暝色低岩樹雨報秋聲打井桐到處賈胡留底事流年催鬢客囊空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 客寓靈光東資福寺
+  author: 尹汝衡
+  language: lzh
+  text: 東林寺在郡城東。牢落行裝寄此中。萬種覊愁紛若絮。十年遊跡蕩如蓬。雲含暝色低岩樹。雨報秋聲打井桐。到處賈胡留底事。流年催鬢客囊空。
+korean:
+  title: 영광 동쪽 자복사에 나그네로 묵으며
+  author: 윤여형
+  language: kor
+  text: |-
+    고을 성 동쪽에 있는 동림사(중국에 있는 절인데 백거이(白居易)가 있었다)
+    괴나리 봇짐 들고 와 이 안에 몸 부쳤네
+    만가지 나그네 시름은 헌 솜처럼 엉켰는데
+    10년간 떠다닌 종적은 쑥대[뿌리없이 바람에 날아다니는 풀]와도 같았구나
+    저녁빛을 띤 구름은 바위 나무에 나직하고
+    가을 소식 전하는 비는 우물 가 오동잎을 때리누나
+    장돌뱅이처럼 묵고 다니는 신세
+    세월 흘러 머리는 희고 주머니는 비었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0810&viewSync=OT
+  footnotes: []
+english:
+  title: Lodging as a Guest at Jabok Temple, East of Yeongwang
+  author: Yun Yeohyung
+  language: eng
+  text: |-
+    Dongrim Temple stands east of the provincial city.
+    I've cast my weathered traveling bundle here within its walls.
+    Ten thousand griefs of wandering tangle like scattered cotton—
+    ten years of drifting leave tracks as rootless as tumbleweed.
+
+    Clouds heavy with twilight descend upon the rocky trees,
+    while autumn rain taps messages on parasol leaves by the well.
+
+    What use is there for a merchant passing through these lands?
+    Years slip away—my temples graying, my purse grown light.
+  footnotes:
+  - key: ''
+    value: 'Dongrim Temple: A reference to the famous temple in China where the Tang poet Bai Juyi (白居易) once stayed, evoking themes of Buddhist refuge and scholarly retreat.'
+  - key: ''
+    value: 'Tumbleweed: A metaphor for aimless wandering without direction or root, contrasting the speaker''s decade of travel with the natural restlessness of the plant.'
+  - key: ''
+    value: 'The parasol tree: A traditional image in East Asian poetry symbolizing autumn, melancholy, and the passage of time.'

@@ -1,0 +1,49 @@
+canonical:
+  title: 黃驪江泛舟
+  author: 李奎報
+  language: lzh
+  text: 桂棹蘭舟截碧漣紅粧明媚水中天飣盤纔見團臍蠏掛網還看縮頸鯿十里煙花眞似畫一江風月不論錢沙鷗熟聽漁歌響飛渡灘前莫避船
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 黃驪江泛舟
+  author: 李奎報
+  language: lzh
+  text: 桂棹蘭舟截碧漣。紅粧明媚水中天。飣盤纔見團臍蠏。掛網還看縮頸鯿。十里煙花眞似畫。一江風月不論錢。沙鷗熟聽漁歌響。飛渡灘前莫避船。
+korean:
+  title: 황려강 범주
+  author: 이규보
+  language: kor
+  text: |-
+    계수 돛대 목란주로 푸른 강을 가로지르니
+    울긋불긋 단장한 기생들 물에 고이 비추었네
+    안주 상에, 저 보아, 배꼽 둥근 게 놓였네
+    그물 드니 저게 뭔가, 목 움츠린 병어로군
+    십 리 아지랑이는 진정 그림 같은데
+    한 강 풍월은 값을 어이 논하리
+    모래위의 갈매기들아, 뱃노래 익히 들었으니
+    여울 앞까지 날아와 배를 피하지 말거라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: Boating on the Hwangryeo River
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    With cinnamon oars and orchid-wood boat, we cut through the jade-green ripples,
+    Billowed skirts and painted faces mirror themselves in the water's sky.
+    On the feast platter, behold—crabs with round bellies piled high,
+    Cast the net and see what comes—fish with shrunken necks writhe and squirm.
+    Ten leagues of mist and flowers truly paint themselves as pictures,
+    One river of wind and moon—how could we ever reckon its worth?
+    Sanderlings upon the sand, you have learned the fishermen's songs so well,
+    Fly down to the rapids ahead, do not flee from our passing boat.
+  footnotes:
+  - key: ''
+    value: The 'cinnamon oars' and 'orchid-wood boat' reference the luxurious materials of a pleasure vessel, establishing the leisured, aesthetic tone of the journey.
+  - key: ''
+    value: '''Water''s sky'' is a poetic reversal suggesting the reflection of sky in water, creating a sense of suspended, dreamlike travel between worlds.'
+  - key: ''
+    value: The feast items (crabs and fish) represent the abundance and pleasure available on the river, while also grounding the poem in sensory, earthly detail.
+  - key: ''
+    value: The closing address to the sanderlings blurs the boundary between observer and observed, inviting the natural world to participate in the human experience of the journey.

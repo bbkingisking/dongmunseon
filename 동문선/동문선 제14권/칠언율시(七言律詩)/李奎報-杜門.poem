@@ -1,0 +1,53 @@
+canonical:
+  title: 杜門
+  author: 李奎報
+  language: lzh
+  text: 爲避人間謗議騰杜門高卧髮鬅鬙初如蕩蕩懷春女漸作寥寥結夏僧兒戲牽衣聊足樂客來敲戶不須譍窮通榮辱皆天賦斥鷃何曾羨大鵬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 杜門
+  author: 李奎報
+  language: lzh
+  text: 爲避人間謗議騰。杜門高卧髮鬅鬙。初如蕩蕩懷春女。漸作寥寥結夏僧。兒戲牽衣聊足樂。客來敲戶不須譍。窮通榮辱皆天賦。斥鷃何曾羨大鵬。
+korean:
+  title: 두문
+  author: 이규보
+  language: kor
+  text: |-
+    인간의 비방과 의논을 피하려고
+    문 닫고 누웠으니 머리가 덥수룩
+    처음엔 마음 설렌 봄처녀 같더니
+    차츰 고요한 여름 참선하는 중이 되네
+    애들이 장난으로 옷을 당기니, 어와, 두리둥둥
+    손님 와 문을 두드려도 들은 둥 만 둥
+    궁통과 영욕이 모두 하늘이 명하는 것
+    메추리 암만 작아도 대붕이 부럽잖네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 메추리 암만 …… 부럽잖네 : '
+    value: 붕새는 9만 리를 솟아 올라 북명(北冥)에서 남명(南冥)으로 훨훨 날아가는데, 메추리가 가지와 가지 사이로 팔짝팔짝 날며 하는 말, “저 붕새는 뭘 하러 9만 리씩 남쪽으로 가는고.” 《장자》
+english:
+  title: Closing the Gate
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    To escape the world's slander and reproach,
+    I shut my door and lie in rest, my hair grown wild.
+    At first I was like a maiden in spring,
+    her heart trembling with new desire.
+    Now I have become a monk in summer's silence,
+    deep in meditation.
+
+    When children tug at my sleeve in play—
+    oh, what simple joy that brings!
+    When visitors knock upon my door,
+    I hear them not, I answer not.
+
+    Poverty and wealth, shame and honor—
+    all are decreed by Heaven's hand.
+    Why should a quail, however small,
+    envy the great roc's boundless flight?
+  footnotes:
+  - key: ''
+    value: 'The final image alludes to the Zhuangzi: the great roc ascends ninety thousand li to fly from the Northern Abyss to the Southern Abyss, while the quail hops between branches, asking why the roc bothers with such a journey. The quail represents contentment with one''s station, however humble.'

@@ -1,0 +1,48 @@
+canonical:
+  title: 贈同年郭復佐郞
+  author: 鄭居寬
+  language: lzh
+  text: 遷居非市井寂寞興何淸當戶丘麻長滿庭秋草生家貧自存道身懶不營名故舊相過少方從閱世情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈同年郭復佐郞
+  author: 鄭居寬
+  language: lzh
+  text: 遷居非市井。寂寞興何淸。當戶丘麻長。滿庭秋草生。家貧自存道。身懶不營名。故舊相過少。方從閱世情。
+korean:
+  title: 증 동년 곽복좌랑
+  author: 정거관
+  language: kor
+  text: |-
+    숨어사는 곳 시정이 아니어니
+    적막하니 흥이 맑구나
+    문 앞에는 언덕, 삼[丘麻]이 자라고
+    뜰에 가득 가을 풀이 우거졌네
+    집이 가난하니 절로 도를 지냈고
+    몸이 게을러 이름을 안 구하네
+    친구들 찾는 이 적으리니
+    이제야 세정을 아오리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0950&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 언덕, 삼[丘麻] : '
+    value: 《시경》 〈왕풍(王風)〉에 구마(丘麻)를 노래한 편(篇)이 있는데, 서(序)에 이르되, 어진 사람이 쫓겨나므로 국인(國人)이 그를 생각하여 지은 것이라 하였다.
+english:
+  title: A Gift for My Classmate Guo Fuozuo, a Gentleman
+  author: Jung Geo-gwan
+  language: eng
+  text: |-
+    I dwell not in the marketplace of town,
+    In solitude, my spirit finds its grace.
+    Before my gate, the grasses climb the mound,
+    And autumn weeds spread thick across my yard.
+
+    In poverty, the Way sustains itself,
+    My idle form seeks neither fame nor name.
+    Few old friends venture to this remote place—
+    Only now do I understand the world's true face.
+  footnotes:
+  - key: ''
+    value: The "grasses climbing the mound" (丘麻) alludes to a poem from the Book of Songs, traditionally understood as lament for a virtuous person driven from their post. Here it carries echoes of voluntary withdrawal and dignified solitude.
+  - key: ''
+    value: This poem celebrates the retirement of Guo Fuozuo, a fellow graduate, suggesting that withdrawal from public life and the pursuit of rank is not a failure but a kind of wisdom.

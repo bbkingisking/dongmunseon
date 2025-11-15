@@ -1,0 +1,88 @@
+canonical:
+  title: 獻高山半刺
+  author: 周贇
+  language: lzh
+  text: 白雲飛南日千里客子望雲行未已馬頭處處臘梅香經盡山山雪溪水五管雖是皆賢侯雙目祗向征鴻視朅來高山問主人共道風流貴公子一謁公顔識公意待我眷眷心愈喜不唯白飯與靑蒭兼使蛾眉勸浮蟻是時天氣回微暄洛水蕩漾春波翻倚醉時過竹翠寺尋幽暗入桑麻村高山之遊樂復樂此樂盡是吾公恩安得留公百萬日陪公日日傾金尊傾金尊弄綵筆與君終始爲弟昆君不見文擧曾收禰衡直至今千載流嘉言
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獻高山半刺
+  author: 周贇
+  language: lzh
+  text: 白雲飛南日千里。客子望雲行未已。馬頭處處臘梅香。經盡山山雪溪水。五管雖是皆賢侯。雙目祗向征鴻視。朅來高山問主人。共道風流貴公子。一謁公顔識公意。待我眷眷心愈喜。不唯白飯與靑蒭。兼使蛾眉勸浮蟻。是時天氣回微暄。洛水蕩漾春波翻。倚醉時過竹翠寺。尋幽暗入桑麻村。高山之遊樂復樂。此樂盡是吾公恩。安得留公百萬日。陪公日日傾金尊。傾金尊弄綵筆。與君終始爲弟昆。君不見文擧曾收禰衡直。至今千載流嘉言。
+korean:
+  title: 헌 고산 반자
+  author: 주빈
+  language: kor
+  text: |-
+    흰 구름이 남으로 날아 매일 천 리
+    길손은 구름을 바라며 끝없이 가네
+    말머리에 부딪는 곳곳의 납매 향기
+    산마다 눈 흘러내리는 물, 모조리 지날 때
+    오관이 비록 다 어진 군수이긴 하나
+    두 눈은 항상 가는 기러기만 따랐네
+    고산으로 와 주인을 물으니
+    다들 그는 풍류 귀공자라 하더라
+    한 번 공의 안면을 뵙자 공의 뜻을 알았으니
+    대우 관곡하여서 내 마음 더욱 기뻤노라
+    오직 흰 밥 푸른 꼴뿐만 아니라
+    겸하여 미인 시켜 술을 권하니
+    이때 천기는 가벼이 따스하여
+    낙수의 봄 물결이 넘실거린다
+    취기 띠고 죽취사를 물으며
+    경치 찾아 상마촌에 들렸노라
+    고산의 놀이 즐거울사 즐거울사
+    이 즐거움은 모두 공의 은덕이라
+    어찌하면 공에게 백만 일 머물러서
+    나날이 공 모시고 금 술병 기울일꼬
+    금 술병 기울이며 붓을 희롱하며
+    시종 그대와 형제간이 되리라
+    그대 보았으리, 문거가 곧은 말하는 예형을 사귄 것을
+    지금까지 천 년 동안 좋은 얘기로 전해오니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두 눈은 …… 따랐네 : '
+    value: 공자(孔子)가 위령공(衛靈公)과 이야기하는데, 위령공이 말을 귀담아 듣지 아니하고, 날아가는 기러기를 쳐다보므로 공자는 곧 위(衛)나라를 떠나서 다른 나라로 갔다.
+  - key: '[주-D002] 흰 밥 푸른 꼴[白飯淸蒭] : '
+    value: 두보의 시에, “종에게는 흰 밥을 주고 말에게는 푸른 꼴을 주네[與奴飯馬淸蒭].”라는 구절이 있다.
+  - key: '[주-D003] 문거(文擧)가 …… 예형(禰衡)을 사귄 것 : '
+    value: 한(漢)나라 공융(공융 자(字)는 文擧)이 예형(禰衡)의 재주를 칭찬하고 깊이 사귀었는데, 예형은 곧은 말로 남을 비평하기로 유명하였다.
+english:
+  title: A Tribute to Gosan, the Provincial Inspector
+  author: Zhou Bin
+  language: eng
+  text: |-
+    White clouds fly southward a thousand leagues each day.
+    A wanderer gazes after them, his journey never-ending.
+    Wherever the horse's head turns, wintersweet perfume greets us.
+    Through mountains after mountains, snow-fed waters flow.
+
+    Though five officials all prove virtuous and wise,
+    Your eyes alone follow the wild geese in flight.
+    I came to Gosan seeking out its master,
+    And all spoke of him—a gentleman of refined taste.
+
+    One audience with your face revealed your heart to me,
+    And your generous welcome filled my own heart with joy.
+    Not merely white rice and green fodder for the beasts,
+    But fair-browed maidens urging wine upon their guest.
+
+    The season turns toward gentle warmth,
+    The Lo River swells with spring's returning waves.
+    I pass through Zhucui Temple in a pleasant haze,
+    Then seek the quiet village nestled among the mulberry fields.
+
+    The pleasures of Gosan—joy upon joy!
+    Yet all this delight flows from your grace alone.
+    How could I linger here a hundred thousand days,
+    Daily accompanying you, forever tilting golden cups?
+
+    Tilting golden cups, playing with the brush,
+    Remaining brothers to the end, you and I.
+    Did you not hear how Wen Ju once cherished Nise,
+    Whose honest words have echoed down a thousand years?
+  footnotes:
+  - key: ''
+    value: The reference to eyes following wild geese alludes to Confucius's departure from the state of Wei, frustrated that its ruler was inattentive to his teachings.
+  - key: ''
+    value: White rice and green fodder is an expression from Du Fu's poetry, used here to suggest the generous provisions offered to both servant and horse.

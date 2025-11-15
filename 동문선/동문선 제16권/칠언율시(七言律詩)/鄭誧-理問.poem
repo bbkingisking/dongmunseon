@@ -1,0 +1,55 @@
+canonical:
+  title: 理問
+  author: 鄭誧
+  language: lzh
+  text: 早修天爵樂閑身死厭馳名拜路塵去國士衡長作客登樓王粲政思親秋風淅淅黃花老世事悠悠白髮新尊酒論文更何日異鄕相見恐難頻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 理問
+  author: 鄭誧
+  language: lzh
+  text: 早修天爵樂閑身。死厭馳名拜路塵。去國士衡長作客。登樓王粲政思親。秋風淅淅黃花老。世事悠悠白髮新。尊酒論文更何日。異鄕相見恐難頻。
+korean:
+  title: 이문
+  author: 정포
+  language: kor
+  text: |-
+    천작을 일찍 닦아 한가한 몸 즐기거니
+    이름 내려 먼지에 절하긴 죽어도 싫으이
+    사형은 고향 떠나 늘 나그네 신세
+    왕찬은 다락에 올라 어버이를 생각하네
+    가을 바람 우수수 국화는 시들었고
+    세상일 그렁저렁 백발만 새로워라
+    한 병 술로 어느 날 다시 글을 논할까
+    타향이라 자주 만나지 못할까 하옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이문(理問) : '
+    value: 벼슬 이름. 원대(元代) 행중서성(行中書省)의 형명(刑名)을 감핵(勘核)하는 벼슬.
+  - key: '[주-D002] 천작(天爵) : '
+    value: “인의(仁義)와 충신(忠信)은 하늘의 벼슬[天爵]이요, 공경(公卿)ㆍ대부(大夫)는 사람의 벼슬[人爵]이다.” 하였다.
+  - key: '[주-D003] 먼지에 절하긴 : '
+    value: 권력자가 타고 가는 수레의 뒤에서 일어나는 먼지에 절함.
+  - key: '[주-D004] 사형(士衡) : '
+    value: 진(晋) 육기(陸機)의 자.
+english:
+  title: On Principle
+  author: Jung Po
+  language: eng
+  text: |-
+    Early I cultivate Heaven's rank and cherish this leisure-bound body,
+    Yet fame that bows before the dust of carriages—even death cannot erase my loathing.
+    Lu Ji, having left his country, remains forever a wanderer,
+    Wang Can climbs the tower, his thoughts returning to his parents.
+    Autumn wind whispers through the yellowed chrysanthemums,
+    As worldly affairs drift on, only white hair grows ever new.
+    When shall we meet again over wine and discourse on the Way?
+    Far from home, I fear such meetings will grow ever rare.
+  footnotes:
+  - key: ''
+    value: Lu Ji (陸機, courtesy name Shihheng/士衡) was a celebrated poet-official of the Jin dynasty who spent much of his career away from his homeland, a parallel to the speaker's own displacement.
+  - key: ''
+    value: Wang Can (王粲) was a famous literatus of the Han-Wei period known for his homesickness when serving far from his birthplace, particularly expressed in his poem 'Climbing the Tower'.
+  - key: ''
+    value: Heaven's rank (天爵) refers to moral virtues like benevolence and righteousness, as opposed to worldly official titles—the poet chooses cultivation of virtue over pursuit of fame.

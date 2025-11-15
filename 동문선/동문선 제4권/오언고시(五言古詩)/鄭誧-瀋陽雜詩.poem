@@ -1,0 +1,95 @@
+canonical:
+  title: 瀋陽雜詩
+  author: 鄭誧
+  language: lzh
+  text: 秋氣日已嚴衆草漸衰歇遊子苦思歸日月多如髮世情未易測公論難輕發常喜斷經過矧肯事干謁閉門無所爲焚香至日沒此懷誰與論浩歌對明月明月流中天晃朗無纖陰幽人喜無寐兀坐到夜深夜深群動息浩然萬里心比隣有遠客席月鳴瑤琴初彈紫芝曲漸變操南音聞之三嘆息和以梁父唫徘徊月漸側悲風生遠林將子且止之毋使我沾襟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 瀋陽雜詩
+  author: 鄭誧
+  language: lzh
+  text: 秋氣日已嚴。衆草漸衰歇。遊子苦思歸。日月多如髮。世情未易測。公論難輕發。常喜斷經過。矧肯事干謁。閉門無所爲。焚香至日沒。此懷誰與論。浩歌對明月。明月流中天。晃朗無纖陰。幽人喜無寐。兀坐到夜深。夜深群動息。浩然萬里心。比隣有遠客。席月鳴瑤琴。初彈紫芝曲。漸變操南音。聞之三嘆息。和以梁父唫。徘徊月漸側。悲風生遠林。將子且止之。毋使我沾襟。
+korean:
+  title: 심양 잡시
+  author: 정포
+  language: kor
+  text: |-
+    가을 기운 날마다 엄하여
+    뭇 초목 점점 쇠하고 마른다
+    멀리 떠도는 사람이 괴롭게 돌아가기를 생각하니
+    세월이 터럭 같이 많도다
+    세정은 쉽게 헤아릴 수 없고
+    공론은 가볍게 펴기 어렵도다
+    아는 이끼리의 추축도 끊는 것을 기뻐하거든
+    하물며 청알을 일삼으랴
+    문을 닫고 하는 것 없이
+    해가 지도록 향만 태운다
+    이 회포를 누구와 의논하리
+    크게 노래하며 명월을 대하노라
+    밝은 달 중천에 흐르는데
+    휘영청 가는 구름도 없다
+    유인이 기뻐서 잠 못 이루고
+    밤이 깊도록 오뚝이 앉아 있다
+    밤은 깊고 온갖 소리 그쳤으니
+    내 마음 호연하여 만 리를 달리노라
+    가까운 이웃에 먼 손이 있어
+    달빛을 깔고 앉아 거문고를 울린다
+    처음에는 자지곡을 퉁기더니
+    나중에는 차츰 남음으로 변하였네
+    듣고서 세 번 탄식하고는
+    양보음으로 거기에 화답한다
+    배회하는 동안에 달은 점점 기울고
+    슬픈 바람은 먼 숲에 일어난다
+    그대 그 거문고를 그치어
+    내 옷깃을 눈물에 적시우지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0540&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 자지곡(紫芝曲) : '
+    value: 상산(商山)의 사호(四晧)가 산에 숨어 있으면서 〈자지곡(紫芝曲)〉을 지어 불렀는데, “붉은 지초는 요기(療飢)할 수 있네.” 하였다.
+  - key: '[주-D002] 양보음(梁父唫) : '
+    value: 제갈량(諸葛亮)이 숨어 살 때에 〈양보음(梁父唫)〉이란 노래를 잘 불렀는데, 그것은 어진 사람이 세상에서 박해를 받는 것을 탄식한 것이다.
+english:
+  title: Miscellaneous Poems on Shenyang
+  author: Jung Po
+  language: eng
+  text: |-
+    Autumn's breath grows harsh with each passing day,
+    and the myriad grasses wither and fade away.
+    The wanderer's heart aches with longing to return—
+    how the months and years pile up like strands of hair!
+
+    The ways of the world are hard to fathom,
+    and public discourse resists being lightly spoken.
+    If one rejoices in severing ties with acquaintances,
+    why would one concern oneself with petitions and appeals?
+
+    I close my door and find nothing to do,
+    burning incense until the sun sets.
+    Who could I share this melancholy with?
+    I sing loudly, facing the bright moon.
+
+    The radiant moon flows across mid-heaven,
+    its brilliance unmarred by the thinnest shadow.
+    The hermit, delighted, cannot sleep,
+    sitting rigidly through the deepening night.
+
+    As night deepens, all sounds fade away,
+    and my spirit roams freely across ten thousand li.
+    Beyond my humble wall lives a distant guest,
+    who spreads moonlight and sounds the jade zither.
+
+    First he plays the Song of Purple Mushrooms,
+    then gradually shifts to southern melodies.
+    Hearing this, I sigh three times in succession,
+    and respond with the Dirge of Liangfu.
+
+    As we linger, the moon descends toward the horizon,
+    and a melancholy wind stirs in the distant forest.
+    Let your playing cease, my friend—
+    do not drench my garment with tears.
+  footnotes:
+  - key: ''
+    value: 'The Song of Purple Mushrooms (紫芝曲): An ancient song of retreat, traditionally sung by the Four Hoary Elders of Mount Shang, who withdrew from the world. The lyrics celebrate the purple iris plant as sustenance for the recluse.'
+  - key: ''
+    value: 'The Dirge of Liangfu (梁父唫): A famous lament traditionally associated with Zhuge Liang during his period of seclusion. It expresses the sorrow of virtuous persons persecuted by the world.'

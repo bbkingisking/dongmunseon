@@ -1,0 +1,48 @@
+canonical:
+  title: 嘉州路上聞王評理下世
+  author: 李崇仁
+  language: lzh
+  text: 我自江南返公亡路上聞傷心將落日滿目未歸雲談笑三生夢精靈四尺墳他時人物論空此揖英芬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 嘉州路上聞王評理下世
+  author: 李崇仁
+  language: lzh
+  text: 我自江南返。公亡路上聞。傷心將落日。滿目未歸雲。談笑三生夢。精靈四尺墳。他時人物論。空此揖英芬。
+korean:
+  title: 가주 노상에서 왕평리의 죽음을 듣고
+  author: 이숭인
+  language: kor
+  text: |-
+    내가 강남에서 돌아오다가
+    도중에서 그대 죽음을 들었네
+    마음 상하노니 장차 떨어지는 해요
+    눈에 가득한 것은 돌아가지 못하는 구름이네
+    웃고 말하던 것은 삼생의 꿈이었고
+    혼령은 넉 자 높이 무덤이로구나
+    다른 날 인물을 논할 것인데
+    속절없이 높은 인품 우러르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0460&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼생(三生) : '
+    value: 불교에서 말하는 전생(前生)ㆍ금생(今生)ㆍ내생(來生)이다.
+english:
+  title: Hearing of Wang the Magistrate's Death on the Road to Jiazhou
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Returning from the lands south of the Yangtze,
+    I heard upon the road that you had passed.
+    My heart breaks—the setting sun descends,
+    And clouds that cannot return fill my eyes.
+
+    Our laughter and conversation were but a dream of three lifetimes,
+    Your spirit now a four-foot mound of earth.
+    When we speak of worthy men in days to come,
+    I shall bow to your memory, your excellence enduring.
+  footnotes:
+  - key: ''
+    value: 'Three lifetimes (三生): In Buddhist philosophy, this refers to past life, present life, and future life—the eternal cycle of existence.'
+  - key: ''
+    value: 'Four-foot mound: A poetic reference to a grave, emphasizing the brevity of life and the physical smallness of death''s monument.'

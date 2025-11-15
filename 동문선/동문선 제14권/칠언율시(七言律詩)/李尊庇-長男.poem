@@ -1,0 +1,50 @@
+canonical:
+  title: 長男
+  author: 李尊庇
+  language: lzh
+  text: 物無美惡終歸用苦李誰嫌着子多長息久朝天子所次兒新付法王家移忠固是爲臣分割愛其如出世何還笑老翁猶滯念有時魂夢杳天涯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長男
+  author: 李尊庇
+  language: lzh
+  text: 物無美惡終歸用。苦李誰嫌着子多。長息久朝天子所。次兒新付法王家。移忠固是爲臣分。割愛其如出世何。還笑老翁猶滯念。有時魂夢杳天涯。
+korean:
+  title: 그때 장남
+  author: 이존비
+  language: kor
+  text: |-
+    좋건 궂건 물건은 다 쓸 데가 있는 법
+    쓴 외얏 열매 많음을 누가 탓하리
+    맏놈은 오래 천자의 처소에 가 있고
+    둘째놈은 새로 부처님 집에 부쳤구나
+    충성을 옮김은 워낙 신하의 분수라
+    사랑을 베어서 출가함을 어쩌리
+    우스워라, 늙은이가 오히려 마음에 걸려
+    이따금 몽혼이 숫제 하늘가에 헤매누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0730&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 쓴 외얏 열매 많음 : '
+    value: 진(晉)나라 왕융(王戎)이 여러 사람과 함께 길을 가다가 오얏나무 열매가 많이 열린 것을 보고 사람들은 땄으나 왕융은 손을 대지 아니하며, “길가의 오얏나무에 많은 열매가 그대로 있는 것을 보니 반드시 먹을 수 없는 쓴 오얏일 것이다.” 하더니, 과연 쓴 열매였다. 작자(作者)의 성이 이씨(李氏)이므로 이 말을 인용한 것이다.
+  - key: '[주-D002] 충성을 옮김 : '
+    value: 부모를 떠나 벼슬하는 사람은 효(孝)를 옮겨서 충(忠)을 하여야 한다는 옛말이 있다.
+english:
+  title: The Eldest Son
+  author: Lee Jonbi
+  language: eng
+  text: |-
+    All things, fair or foul, find their purpose in the end.
+    Who would fault the bitter plum for bearing fruit abundant?
+    The eldest has long dwelt in the palace of the Son of Heaven,
+    While the second has lately been offered to the Buddha's house.
+
+    To transfer loyalty is the duty of a subject true—
+    Yet how can a father sever love when his son seeks the dharma?
+    The old man laughs at himself, still caught in worldly bonds,
+    As his wandering spirit dreams, lost in distant skies.
+  footnotes:
+  - key: ''
+    value: The reference to the bitter plum alludes to a famous anecdote of Wang Rong, who recognized unripe plums by their quantity on the roadside. The poet, sharing the surname Li (李), employs this parable to reflect on his own circumstances.
+  - key: ''
+    value: In classical thought, a son who leaves his parents for official service must transform filial piety into loyalty to the throne—a principle the poet contemplates as his sons pursue their separate paths.

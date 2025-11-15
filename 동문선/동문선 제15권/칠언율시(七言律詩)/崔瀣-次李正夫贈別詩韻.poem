@@ -1,0 +1,45 @@
+canonical:
+  title: 次李正夫贈別詩韻
+  author: 崔瀣
+  language: lzh
+  text: 旅食荒村足斷膓流年况復去堂堂謾留空自多新句獨飮如何放舊狂北望王城秋樹遠南行澤國暮雲長明君在上無欺蔽不用虛今壯志傷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次李正夫贈別詩韻
+  author: 崔瀣
+  language: lzh
+  text: 旅食荒村足斷膓。流年况復去堂堂。謾留空自多新句。獨飮如何放舊狂。北望王城秋樹遠。南行澤國暮雲長。明君在上無欺蔽。不用虛今壯志傷。
+korean:
+  title: 이정부의 송별시에 차운하여
+  author: 최해
+  language: kor
+  text: |-
+    시골 마을에 여식하는 몸 기막히오
+    하물며 가는 세월은 빠르기도 하네
+    부질없이 묵느라니 새로 짓는 시만 늘고
+    혼자 마시니 전날처럼 광태 부릴 수 없네
+    북으로 서울 바라보니 가을 나무가 머나먼데
+    남으로 가는 물고장엔 저녁 구름이 길구나
+    명군이 위에 계셔 속임도 가림도 없으니
+    어찌 공연히 장한 뜻을 상하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Yi Jeong-bu's Farewell Poem
+  author: Choi Hae
+  language: eng
+  text: |-
+    My body wanders through desolate villages, subsisting on meager fare—how it cuts the heart.
+    And the fleeting years rush past like tumbling waters.
+    I pen new verses in vain, gathering words like dust,
+    yet drinking alone, I cannot summon the wild spirit of old.
+
+    North: I gaze toward the capital, autumn trees fade into distance.
+    South: I journey toward the marshlands where evening clouds stretch endlessly.
+
+    Yet a virtuous ruler reigns above, with no deception, no shadow of court intrigue—
+    so why should I allow this sorrow to wound my noble aspirations?
+  footnotes:
+  - key: ''
+    value: This poem is written in response to a farewell poem by Yi Jeong-bu, following the classical practice of matching rhyme schemes. The contrast between personal melancholy and faith in righteous governance reflects the literati's perennial tension between withdrawal and service.

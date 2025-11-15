@@ -1,0 +1,48 @@
+canonical:
+  title: 仙槎寺
+  author: 金宗直
+  language: lzh
+  text: 偶到仙槎寺巖空松桂秋鶴飜羅代盖龍蹴佛天毬細雨僧縫衲寒江客棹舟孤雲書帶草獵獵滿池頭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仙槎寺
+  author: 金宗直
+  language: lzh
+  text: 偶到仙槎寺。巖空松桂秋。鶴飜羅代盖。龍蹴佛天毬。細雨僧縫衲。寒江客棹舟。孤雲書帶草。獵獵滿池頭。
+korean:
+  title: 선사사
+  author: 김종직
+  language: kor
+  text: |-
+    내 우연히 선사사에 이르니
+    바위는 쓸쓸한데 소나무 계수나무에는 가을 깃들었다
+    두루미는 신라 시대의 일산을 펴고
+    용은 부처 하늘의 공을 찬다
+    보슬비 내리는데 중은 누더기 깁고
+    차가운 강물에는 길손이 노를 젓네
+    외로운 구름 조각 어지러운 풀을 띠고
+    바람 소리와 함께 못 머리에 가득 찼다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0250&viewSync=OT
+  footnotes: []
+english:
+  title: Seonsa Temple
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    By chance I arrive at Seonsa Temple—
+    Amid bare rocks, autumn settles on pine and cinnamon.
+    A crane spreads its parasol from the Silla age,
+    A dragon dances with the Buddha's celestial sphere.
+
+    Fine rain falls as the monk mends his tattered robe,
+    On the cold river the wanderer poles his boat.
+    A solitary cloud, threadbare and scattered,
+    Sweeps across the pond's edge with the whistling wind.
+  footnotes:
+  - key: ''
+    value: Seonsa Temple (仙槎寺) is located in what is now South Korea, a site of historical Buddhist significance.
+  - key: ''
+    value: The 'Silla age parasol' (羅代盖) references the ancient Silla kingdom, suggesting the temple's venerable history and grandeur.
+  - key: ''
+    value: The 'Buddha's celestial sphere' (佛天毬) evokes a sense of divine play and the temple's spiritual atmosphere, possibly referencing temple ornamentation or a poetic metaphor for enlightenment.

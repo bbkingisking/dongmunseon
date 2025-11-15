@@ -1,0 +1,55 @@
+canonical:
+  title: 狂吟
+  author: 李穡
+  language: lzh
+  text: 我本靜者無紛紜動而不止風中雲我本通者無彼此塞而不流井中水水兮應物不迷於姸媸雲兮無心不局於合離自然上契天之心我又何爲兮從容送光陰有錢沽酒不復疑有酒尋花何可遅看花飮酒散白髮好向東山弄風月
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 狂吟
+  author: 李穡
+  language: lzh
+  text: 我本靜者無紛紜。動而不止風中雲。我本通者無彼此。塞而不流井中水。水兮應物不迷於姸媸。雲兮無心不局於合離。自然上契天之心。我又何爲兮從容送光陰。有錢沽酒不復疑。有酒尋花何可遅。看花飮酒散白髮。好向東山弄風月。
+korean:
+  title: 광음
+  author: 이색
+  language: kor
+  text: |-
+    나는 본디 고요한 자, 시끄럼이 없는데
+    움직여 그치지 않는 건 바람 가운데 구름이라
+    나는 본디 트인 자, 이것도 저것도 없으려니
+    막혀서 흐르지 않는 우물 속 물이라네
+    물은 만물을 비칠 제 고운 것 추한 것 그대로 밝혀 주고
+    구름은 무심하여 모임 갈림 멋대로
+    그리하여 자연 위로 천심과 맞나니
+    나만 어이 또 조용히 세월만 보낼 것인가
+    돈 있으면 술 사 먹자, 무얼 의심할 것이냐
+    술 있으면 꽃을 찾자, 무얼 주저할 것이냐
+    꽃 보며 술 마시고 백발을 흩날리며
+    동산에 멋대로 올라 풍월을 희롱하자꾸나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: Wild Verses
+  author: Lee Saek
+  language: eng
+  text: |-
+    I am by nature one of stillness, untouched by clamor,
+    yet I move endlessly—a cloud upon the wind.
+    I am by nature one of openness, knowing no division,
+    yet I am blocked and cannot flow—like water in a well.
+
+    Water reflects all things without clinging to beauty or ugliness,
+    Clouds drift without intention, indifferent to gathering or parting.
+    Thus does nature align with Heaven's heart above,
+    so why should I alone sit quiet, watching time slip away?
+
+    If I have coin, let me buy wine—what cause for doubt?
+    If I have wine, let me seek the flowers—what reason to hesitate?
+    Looking at blossoms and drinking wine, scattering my silver hairs,
+    I shall climb the eastern hill and play with wind and moonlight.
+  footnotes:
+  - key: ''
+    value: The poem contrasts the poet's inner nature (stillness, openness) with outer manifestations (moving cloud, blocked water), suggesting the tension between transcendent ideals and worldly involvement.
+  - key: ''
+    value: '''Eastern hill'' evokes the famous refuge of recluse-scholars in classical Chinese literature, here reimagined as a place not of withdrawal but of carefree enjoyment.'

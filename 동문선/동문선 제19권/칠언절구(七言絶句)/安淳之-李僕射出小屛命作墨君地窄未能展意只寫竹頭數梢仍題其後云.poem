@@ -1,0 +1,39 @@
+canonical:
+  title: 李僕射出小屛命作墨君地窄未能展意只寫竹頭數梢仍題其後云
+  author: 安淳之
+  language: lzh
+  text: 樓下篁林百尺脩樓高只得數梢頭要看拔地凌凌玉且踏層梯蹔下樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李僕射出小屛命作墨君地窄未能展意只寫竹頭數梢仍題其後云
+  author: 安淳之
+  language: lzh
+  text: 樓下篁林百尺脩。樓高只得數梢頭。要看拔地凌凌玉。且踏層梯蹔下樓。
+korean:
+  title: 이복야가 작은 병풍을 내어 놓고 그림을 그리라 하나 자본이 좁아 뜻을 다 펼 수 없으므로, 다만 대나무 꼭대기 몇 가지를 그리고 그 뒤에 쓰다
+  author: 안순지
+  language: kor
+  text: |-
+    다락 아래 대 수풀 백 척이나 솟았는데
+    다락이 높아 다만 두어 가지만 보이네
+    땅을 뽑는 능릉한 옥을 보고자 하면
+    층계를 밟아 다락을 내려야 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0630&viewSync=OT
+  footnotes: []
+english:
+  title: 'Written on a Small Folding Screen at the Request of Minister Lee: Constrained by Narrow Space, I Could Only Paint a Few Bamboo Tops'
+  author: An Sunui
+  language: eng
+  text: |-
+    Below the tower, a bamboo grove stretches a hundred feet high,
+    Yet from the tower, I glimpse only a few slender tips.
+    To see the jade that rises and pierces the earth,
+    You must descend the layered stairs and come down.
+  footnotes:
+  - key: ''
+    value: The poem plays on the constraint of the small folding screen, which allows only a partial view of the bamboo grove. This physical limitation becomes a metaphor for perspective and understanding—one must change position to see the whole.
+  - key: ''
+    value: The bamboo is described as 'jade,' a traditional poetic comparison that elevates the subject and suggests both purity and nobility.
+  - key: ''
+    value: Minister Lee (李僕射) was a high-ranking official; the poem is a witty response to his commission, turning the technical limitation into philosophical reflection.

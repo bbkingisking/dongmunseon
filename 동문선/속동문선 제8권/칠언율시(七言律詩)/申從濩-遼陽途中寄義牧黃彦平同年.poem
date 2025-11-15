@@ -1,0 +1,48 @@
+canonical:
+  title: 遼陽途中寄義牧黃彦平同年
+  author: 申從濩
+  language: lzh
+  text: 江頭遠送駐行旌別後悠悠尙慘情千里關河年律暮五更風雪夢魂驚山連漠北黃龍塞路向遼東銕鳳城屈指歸期在春半一杯思與共君傾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遼陽途中寄義牧黃彦平同年
+  author: 申從濩
+  language: lzh
+  text: 江頭遠送駐行旌。別後悠悠尙慘情。千里關河年律暮。五更風雪夢魂驚。山連漠北黃龍塞。路向遼東銕鳳城。屈指歸期在春半。一杯思與共君傾。
+korean:
+  title: 요양 도중 기의목 황언평 동년
+  author: 신종호
+  language: kor
+  text: |-
+    강 머리에 멀리 전송하노라고 가는 깃발을 멈췄더니
+    이별한 뒤에 아직 길고 긴 슬픈 심정이누나
+    천리의 관하에는 해가 저물었는데
+    오경의 바람과 눈에 꿈속의 혼이 놀랬도다
+    산은 막북의 황룡새에 잇달았고
+    길은 요동의 철봉성으로 향한다
+    돌아올 기약 손꼽아 보면 내년 중춘에 있거니
+    술 한 잔 들면서 그대와 함께 마실 때를 생각한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Written on the Road to Liaoyang, Sent to Uiok Yi-mok and Hwang Eon-pyeong, My Contemporaries
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    At the river's head I watched you depart, the banner halting in the distance.
+    Since our parting, sorrow lingers still, stretching long and deep.
+    A thousand leagues of mountain passes fade as the year grows dim,
+    And at the fifth watch, wind and snow startle my dreaming soul.
+
+    Mountains chain toward the Huanglong fortress beyond the northern wastes,
+    While the road leads onward to the Iron Phoenix city of Liaodong.
+    Counting on my fingers, homecoming falls in mid-spring,
+    And I imagine sharing a cup of wine with you then.
+  footnotes:
+  - key: ''
+    value: The fifth watch refers to the early morning hours (around 3-5 AM in traditional timekeeping), evoking the speaker's restless, sleepless nights during travel.
+  - key: ''
+    value: The Huanglong fortress and Iron Phoenix city are poetic names for frontier fortifications in the Liaodong region, emphasizing the remote, barren landscape of the journey.
+  - key: ''
+    value: Mid-spring of the following year marks the anticipated reunion, suggesting the speaker expects to return within a year's time.

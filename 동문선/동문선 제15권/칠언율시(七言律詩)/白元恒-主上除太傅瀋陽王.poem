@@ -1,0 +1,57 @@
+canonical:
+  title: 主上除太傅瀋陽王
+  author: 白元恒
+  language: lzh
+  text: 玉詔傳從碧縷門新除太傅作東藩千年遇主山河誓三葉勤王雨露恩兔郡桑麻添國界鶴城花月入宮園日迎賀客身無暇又被呼來謁至尊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 主上除太傅瀋陽王
+  author: 白元恒
+  language: lzh
+  text: 玉詔傳從碧縷門。新除太傅作東藩。千年遇主山河誓。三葉勤王雨露恩。兔郡桑麻添國界。鶴城花月入宮園。日迎賀客身無暇。又被呼來謁至尊。
+korean:
+  title: 주상께서 태부 심양왕으로 제수하며
+  author: 백원항
+  language: kor
+  text: |-
+    옥조가 벽루문에서 내리시와
+    새로 태부로 제수하사 동녘 번방을 삼으셨도다
+    천 년만에 임금을 만나 산하로 맹세하고
+    삼 대째 근왕하여 우로의 은혜 받도다
+    토군의 뽕과 삼이 나라강토 보태주고
+    학성의 꽃과 달이 궁원으로 들어오네
+    하객을 맞으시느라 날마다 바쁘신데
+    또 부름 받자오시와 지존께 알현하시네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주상(主上) : '
+    value: 충선왕(忠宣王). 충렬왕(忠烈王) 34년(1308) 5월에 전왕(前王)으로서 원(元) 무종(武宗) 정책(定策)의 공으로 심양왕에 봉해졌다.
+  - key: '[주-D002] 천 년 만에 …… 맹세하고 : '
+    value: 천 년 만에 한 번이나 만날 수 있는 성군(聖君). 즉 여기서는 심양왕(瀋陽王)이 원나라 황제의 은덕을 입었다는 말이고, 한 고조(漢高祖)가 공신에게 땅을 봉해 줄 때에 그 맹세하는 글에, “황하수(黃河水)가 줄어서 띠만큼 좁아지고 태산이 달아서 숫돌만큼 되도록 영원히 나라를 지켜 자손에까지 전하자.” 하였다.
+  - key: '[주-D003] 근왕(勤王) : '
+    value: 왕사(王事)에 근로(勤勞)하였다는 말인데, 여기서는 심양왕이 원라에 공이 있다는 말이다.
+  - key: '[주-D004] 우로(雨露) : '
+    value: 초목(草木)이 비와 이슬을 맞고 자라는 것과 같은 은혜다.
+english:
+  title: On the Appointment of the Crown Prince as Grand Tutor and King of Shenyang
+  author: Baek Won-hang
+  language: eng
+  text: |-
+    The jade edict descends from the gate of jade towers,
+    Newly appointed Grand Tutor, he becomes the eastern fiefdom's lord.
+    After a thousand years of seeking, he meets his sovereign—
+    mountains and rivers witness his sacred oath.
+    Three generations have served the throne with devotion,
+    reaping rewards like rain and dew upon the earth.
+    From Tuland the silkworms and hemp extend the kingdom's borders,
+    and from Crane City flowers and moonlight enter the palace gardens.
+    Each day he welcomes visiting nobles, never resting—
+    now summoned again to pay obeisance to the supreme one.
+  footnotes:
+  - key: ''
+    value: The sovereign referred to is King Chungseon, who was enfeoffed as King of Shenyang in 1308 through merit in supporting the Yuan Emperor Wuzong's succession.
+  - key: ''
+    value: The 'thousand years' alludes to the rare blessing of encountering a sage-king—here reflecting the royal favor bestowed upon the King of Shenyang by the Yuan throne.
+  - key: ''
+    value: The metaphor of 'rain and dew' describes imperial grace, as natural as moisture nourishing growing things.

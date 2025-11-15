@@ -1,0 +1,47 @@
+canonical:
+  title: 遊高住寺
+  author: 鄭思道
+  language: lzh
+  text: 偶出村廬成獨遊尋僧馬上更悲秋長松偃盖如迎送疊嶂開屛解挽留坐久夕陰生邃壑風來霜葉亂虛樓團欒煮茗同淸話忘却悠悠放逐愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊高住寺
+  author: 鄭思道
+  language: lzh
+  text: 偶出村廬成獨遊。尋僧馬上更悲秋。長松偃盖如迎送。疊嶂開屛解挽留。坐久夕陰生邃壑。風來霜葉亂虛樓。團欒煮茗同淸話。忘却悠悠放逐愁。
+korean:
+  title: 유 고주사
+  author: 정사도
+  language: kor
+  text: |-
+    우연히 마을집을 나가 혼자 놀아 보려고
+    중 찾아가는 말 위에서 가을을 슬퍼하네
+    솔은 일산을 벌이고 손을 맞고 보내는 듯
+    산들은 병풍을 치고 나를 만류하누나
+    한참 앉았노라니 깊은 골짝에 저녁 그늘 생기고
+    바람결에 낙엽은 빈 다락에 어지러운데
+    차를 끓이며 도란도란 이야기하니
+    나도 몰래 허튼 시름이 말끔 잊어지누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: A Visit to Gojusa Temple
+  author: Jeong Sado
+  language: eng
+  text: |-
+    I wandered out from the village on a whim, alone.
+    On horseback seeking the monk, autumn's sorrow fills my heart.
+    Tall pines spread their canopies like welcoming hands,
+    While layered peaks stand as screens that bid me stay.
+    Sitting long, dusk gathers in the deepest valleys,
+    And wind-tossed leaves scatter across the empty tower.
+    As we brew tea and speak in hushed, familiar tones,
+    Unawares, the weight of my wandering griefs dissolves.
+  footnotes:
+  - key: ''
+    value: Gojusa (高住寺) is a Buddhist temple, likely in Korea, suggesting the poet's visit to seek spiritual refuge or respite.
+  - key: ''
+    value: The natural imagery of pines and peaks personified as welcoming and detaining the visitor reflects the classical trope of nature as both companion and mirror to human emotion.
+  - key: ''
+    value: The final image of tea-drinking and conversation represents the intimate communion between host and guest, and the healing power of simple human connection in solitude.

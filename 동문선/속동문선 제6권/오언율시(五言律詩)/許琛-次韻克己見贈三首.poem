@@ -1,0 +1,91 @@
+canonical:
+  title: 次韻克己見贈三首
+  author: 許琛
+  language: lzh
+  text: 涉世常無策塵機歲月深家貧身易老愁重酒難禁落莫憐吾道依違惜壯心唾壺頻醉擊猿鳥駭狂吟束閣知無用希賢歎不如徒將三寸舌猶誦五車書身世龍鍾極親朋記憶踈向來生事拙消瘦坐淸虛世事看來熟棊飜局局新休誇印如斗自笑甑生塵几案留三友林蔬當八珍好觀齊物論誰識贗耶眞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻克己見贈三首
+  author: 許琛
+  language: lzh
+  text: 涉世常無策。塵機歲月深。家貧身易老。愁重酒難禁。落莫憐吾道。依違惜壯心。唾壺頻醉擊。猿鳥駭狂吟。束閣知無用。希賢歎不如。徒將三寸舌。猶誦五車書。身世龍鍾極。親朋記憶踈。向來生事拙。消瘦坐淸虛。世事看來熟。棊飜局局新。休誇印如斗。自笑甑生塵。几案留三友。林蔬當八珍。好觀齊物論。誰識贗耶眞。
+korean:
+  title: 차운 극기 견증 삼수
+  author: 허침
+  language: kor
+  text: |-
+    세상 살아가기에 항상 계책이 없어
+    먼지 앉은 베틀에 세월이 깊었다
+    집이 가난하매 봄이 쉽게 늙고
+    시름이 무거우매 술 금하기 어렵다
+    쓸쓸하여라, 내 도가 가엾고
+    우물쭈물하다가 장한 마음 아깝다
+    취하여 자주 침그릇을 치나니
+    원숭이와 새가 놀라 어지러이 운다
+    한 쪽에 버려졌으매 쓸데없음 알았고
+    어질기를 바랐으나 못 된 것 한탄한다
+    한갓 세 치 되는 혀를 가지고
+    그래도 다섯 수래의 책을 외운다
+    신세는 고달파 지극히 구지레한데
+    친한 벗들은 기억에서 성기다
+    지금까지 살아온 일 옹졸하거니
+    바짝 여윈 그대로 청허에 앉아 있다
+    세상 일 많이 보아 익혀 왔는데
+    바둑은 쓸고 나면 판마다 새로워라
+    인이 말[斗]만 하다고 자랑하지 말라
+    솥에서 먼저 나는 것 스스로 웃네
+    책상에는 언제나 세 벗이 있고
+    수풀 속 채소는 8진미를 당한다
+    즐겨 제물론을 읽어 보지만
+    가짜 진짜를 그 누가 알랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 재물론(齊物論) : '
+    value: 《장자》남화경(南華經)의 제일 첫머리에 있는 글이니, 만물은 평등하다는 뜻이다.
+english:
+  title: Three Poems Responding to the Rhyme of Keuk-gi's Gift
+  author: Heo Chim
+  language: eng
+  text: |-
+    I
+
+    Navigating the world, I have never found strategy,
+    Dust settles deep in the loom of passing years.
+    With poverty, spring itself grows old too quickly,
+    With sorrow weighing heavy, wine cannot be refused.
+    How desolate—I pity my own path,
+    Hesitating still, I grieve the waste of vigor.
+    Drunk, I strike the spittoon again and again,
+    Monkeys and birds startle at my wild cry.
+
+    II
+
+    Shelf-bound, I know my uselessness,
+    Wishing for wisdom, I lament my distance from it.
+    With only a three-inch tongue,
+    I still recite the five cartloads of books.
+    My lot is worn and weathered to the extreme,
+    Old friends fade from memory's grasp.
+    All my life's work has been clumsy,
+    Gaunt and hollow, I sit in emptiness.
+
+    III
+
+    Worldly matters, seen through long experience, feel worn familiar,
+    Yet Go, shuffled anew, transforms with every board.
+    Do not boast of favors measured by the peck,
+    I laugh at myself—dust already gathers on the tripod.
+    Three friends keep vigil at my desk,
+    Wild greens serve as the eight delicacies.
+    I delight in reading the Treatise on Equalizing Things,
+    But who can truly distinguish the counterfeit from the real?
+  footnotes:
+  - key: ''
+    value: The Treatise on Equalizing Things (齊物論) is the opening chapter of the Zhuangzi, expressing the principle that all things are fundamentally equal.
+  - key: ''
+    value: The 'three friends' traditionally refers to brush, ink, and paper—the scholar's constant companions.
+  - key: ''
+    value: The 'five cartloads of books' is a classical allusion to vast learning.
+  - key: ''
+    value: The spittoon struck in drunken emotion recalls the Tang poet Du Fu's famous image of utensils used in moments of passionate release.

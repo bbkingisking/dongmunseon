@@ -1,0 +1,53 @@
+canonical:
+  title: 賀任相國門生趙司成冲領門生獻壽
+  author: 李仁老
+  language: lzh
+  text: 十年黃閣佐昇平三闢春闈獨擅盟國士從來酬國士門生今復得門生風雲變化鯤鵬擊布葛繽紛鵠鷺明金液一盃公萬壽王笙宜命喜遷鶯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀任相國門生趙司成冲領門生獻壽
+  author: 李仁老
+  language: lzh
+  text: 十年黃閣佐昇平。三闢春闈獨擅盟。國士從來酬國士。門生今復得門生。風雲變化鯤鵬擊。布葛繽紛鵠鷺明。金液一盃公萬壽。王笙宜命喜遷鶯。
+korean:
+  title: 임상국의 문생 사성 조충이 문생들을 거느리고 헌수함을 하례하며
+  author: 이인로
+  language: kor
+  text: |-
+    10년 동안 정승으로 태평을 돕고
+    세 봄이나 과거에 주시관이 되었네
+    국사라야 워낙 국사의 은을 갚는 것
+    문생이 이제 또 문생을 얻었소 그려
+    풍운이 변화하매 곤과 붕이 〈날개를〉 치고
+    베와 칡(벼슬 못한 서민)이 분분한 속에 고니 해오리 분명하네
+    황금주 한 잔에 만세를 누리소서
+    어사악 피리소리 희천앵곡을 부르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 국사(國士)라야 …… 갚는 것 : '
+    value: 전국(戰國) 때에 조양자(趙襄子)가 지백(智伯)을 쳐서 멸하니, 지백의 신하 예양(豫讓)이 조양자에게 원수를 갚으려 하므로 조양자가 잡아 와서 말하기를, “네가 전일에 범씨(范氏)와 중행씨(中行氏)의 신하가 되었는데, 지백이 범씨와 중행씨를 멸할 때에는 네가 그들을 위하여 지백에게 원수를 갚지 않고 도리어 지백의 신하가 되었는데, 오늘날 지백이 망한 뒤에는 왜 나에게 원수를 꼭 갚으려고 하는가.” 하니, 예양이 답하기를, “범씨와 중행씨는 나를 보통사람으로 대우하였으므로 나도 보통사람으로 갚았고, 지백은 나를 국사(國士)로 대우하였으므로 나도 국사의 은혜로써 갚는다.” 하였다.
+  - key: '[주-D002] 풍운(風雲)이 …… 〈날개를〉 치고 : '
+    value: 《장자(莊子)》소요유편에 “북명(北溟)에 고기가 있으니, 그 이름은 곤(鯤)이고 크기는 몇 천 리인지 모른다.”고 하였는데, 변화하여 새가 되는데, 이 때 붕(鵬)이라 부르며 크기가 몇천 리인지 모른다. 여기서는 과거한 사람들에 비유하였다.
+  - key: '[주-D003] 고니[鵠] 해오리 분명하네 : '
+    value: 벼슬한 사람이 조회(朝會)에 차례대로 서는 것을 곡(鵠)과 노(鷺)의 항렬(行列)에 비유한다.
+english:
+  title: Offering Congratulations as Lord Minister's Student Zhao Sicheng Leads His Students in Presenting Birthday Wishes
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Ten years serving as Prime Minister, supporting the realm in peace,
+    Thrice presiding over the spring examination hall, wielding sole authority.
+    Men of talent repay the kindness of talented men—
+    Now the student has gained his own students in turn.
+    When wind and cloud shift, the Kun transforms, the Peng strikes its mighty wings,
+    Amid the hemp and mulberry of common folk, the swan and heron stand resplendent.
+    With golden wine in a single cup, may you live ten thousand years,
+    As the jade flute plays the songs of joy eternal.
+  footnotes:
+  - key: ''
+    value: The phrase 'men of talent repay the kindness of talented men' references the story of Yeyang from the Warring States period, who distinguished between being treated as an ordinary person versus being treated as a talented person—serving each master accordingly. Here it celebrates how those elevated through merit nurture the next generation of talented students.
+  - key: ''
+    value: The transformation of the Kun (鯤) and Peng (鵬) alludes to the Zhuangzi's parable of metamorphosis, where a great fish transforms into a vast bird. The poem uses this to symbolize the ascension of those who pass the examinations.
+  - key: ''
+    value: The swan (鵠) and heron (鷺) represent officials standing in proper court procession, an image of orderly hierarchy and excellence.

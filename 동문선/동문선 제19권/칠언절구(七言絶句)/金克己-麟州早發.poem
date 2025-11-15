@@ -1,0 +1,37 @@
+canonical:
+  title: 麟州早發
+  author: 金克己
+  language: lzh
+  text: 漏鼓逢逢報五更張旍出郭赴前程戍樓隔嶺催殘角膓斷先聞出塞聲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 麟州早發
+  author: 金克己
+  language: lzh
+  text: 漏鼓逢逢報五更。張旍出郭赴前程。戍樓隔嶺催殘角。膓斷先聞出塞聲。
+korean:
+  title: 인주 조발
+  author: 김극기
+  language: kor
+  text: |-
+    누고 둥둥 오경을 알리니
+    깃발 날리며 성문을 나와 길을 떠나네
+    수루는 고개 너머 남은 군악을 재촉하는데
+    애 끊느니 출새(出塞)의 곡조 먼저 들리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0830&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 출새(出塞)의 곡조 : '
+    value: 국경으로 출병할 때에는 군악(軍樂)으로 출새곡(出塞曲)을 울린다.
+english:
+  title: Early Departure from Rinzhou
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The water clock sounds its deep tones, announcing the fifth watch of night.
+    Banners unfurl as we pass through the gate, embarking on our journey.
+    From the garrison tower beyond the ridge, the remnant military pipes call out,
+    And my heart breaks as I hear first the "Crossing the Frontier" melody.
+  footnotes:
+  - key: ''
+    value: '"Crossing the Frontier" (出塞) is the traditional military tune played when soldiers depart for battle at the frontier.'

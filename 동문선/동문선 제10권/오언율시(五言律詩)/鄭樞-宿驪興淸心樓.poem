@@ -1,0 +1,44 @@
+canonical:
+  title: 宿驪興淸心樓
+  author: 鄭樞
+  language: lzh
+  text: 夜入黃驪縣舟人欲臥時渚行風作暴樓宿月如期天豁長江動沙明雜樹奇三更發淸嘯便覺舞馮夷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿驪興淸心樓
+  author: 鄭樞
+  language: lzh
+  text: 夜入黃驪縣。舟人欲臥時。渚行風作暴。樓宿月如期。天豁長江動。沙明雜樹奇。三更發淸嘯。便覺舞馮夷。
+korean:
+  title: 숙 여흥 청심루
+  author: 정추
+  language: kor
+  text: |-
+    밤에 황려현에 드니
+    뱃사람 자려 할 때이어라
+    물가에 다니니 바람이 사나움 부리더니
+    다락에 자니 달이 기약한 것처럼 오네
+    하늘이 넓으니 긴 강이 움직이고
+    모래가 밝으니 온갖 나무들이 기이하다
+    삼경에 맑은 휘파람 부노니
+    문득 수신이 춤추는 것 같으이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0170&viewSync=OT
+  footnotes: []
+english:
+  title: 'Night in Yeohung: Lodging at Qingxin Tower'
+  author: Jung Chu
+  language: eng
+  text: |-
+    Night falls as we enter Hwangyeo County,
+    when the boatman seeks his rest.
+    But wind stirs violent along the shore,
+    and the moon arrives at the tower as promised.
+
+    The sky opens wide—the long river stirs,
+    the sand glows bright—strange trees take form.
+    At the third watch, I whistle clear and pure,
+    and suddenly it seems the river god dances.
+  footnotes:
+  - key: ''
+    value: The 'third watch' (삼경) refers to the middle of the night in traditional timekeeping. 'Fengyi' (馮夷) is the river god of the Yellow River, here invoked poetically through the speaker's music.

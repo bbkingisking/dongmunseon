@@ -1,0 +1,66 @@
+canonical:
+  title: 京師
+  author: 李穡
+  language: lzh
+  text: 楊柳依依送我歸此行還勝昔歸時雖然物色無干涉自是人心有喜悲走馬看花猶到我落驢在野未知誰松都醴酒今應熟狂興先判醉賦詩一曲沙堤傍碧溪毬庭東畔紫門西陳言又切譏應甚見事殊遲意轉迷窓近綠槐風細細堦翻紅藥雨淒淒重游未必年顔少更草諫書雞欲棲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 京師
+  author: 李穡
+  language: lzh
+  text: 楊柳依依送我歸。此行還勝昔歸時。雖然物色無干涉。自是人心有喜悲。走馬看花猶到我。落驢在野未知誰。松都醴酒今應熟。狂興先判醉賦詩。一曲沙堤傍碧溪。毬庭東畔紫門西。陳言又切譏應甚。見事殊遲意轉迷。窓近綠槐風細細。堦翻紅藥雨淒淒。重游未必年顔少。更草諫書雞欲棲。
+korean:
+  title: 경사
+  author: 이색
+  language: kor
+  text: |-
+    버들빛이 우거져서 돌아가는 나를 보내주니
+    이번 길이 전번보다 오히려 나은가베
+    비록 풍경이야 아무 간섭없겠지만
+    절로 사람의 맘에 기쁨과 슬픔이 있네
+    말 달려 꽃구경 하는 재미 나한테도 있지만
+    나귀에 떨어져 들에 있는 사람은 누구 누구던고
+    송도의 술이 지금쯤 익었으려니
+    돌아가 흠뻑 취하여 시를 지으려고 먼저 준비하네
+    푸른 시내 옆에 한 구비 모랫둑
+    구정 동쪽 자문 서쪽
+    아뢴 말씀 간절했으니 비방도 심할 것
+    일을 헤아리기 더디니 내 뜻이 더욱 희미하네
+    창 앞 푸른 느티나무엔 바람이 솔솔
+    섬돌에 번득이는 홍작약 비가 우수수 오리
+    하필 젊어서만 구실을 다시 할꼬
+    다시금 간초[간언의 초고]를 쓰니 해가 저물 무렵
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0640&viewSync=OT
+  footnotes: []
+english:
+  title: The Capital
+  author: Lee Saek
+  language: eng
+  text: |-
+    Willows bend and wave—sending me homeward with their grace.
+    This journey proves better than the last time I returned.
+    Though the landscape remains indifferent to my plight,
+    The human heart naturally harbors both joy and sorrow.
+
+    To ride hard viewing blossoms—such pleasures come to me,
+    Yet the one thrown from his donkey, lost in the fields—who knows his name?
+    The wines of Song-do must be ripening now.
+    I'll return and lose myself in drink, ready to compose wild verses.
+
+    One curve of sand-bank beside the jade-green creek,
+    East of the palace grounds, west of the purple gate.
+    My earnest words were plain—criticism cuts deeply indeed.
+    Slow to grasp the truth, my own thoughts grow ever dimmer.
+
+    Before the window, the green parasol tree—wind whispers soft and fine.
+    On the stone steps, red peonies trembling as rain falls, pittering and pattering.
+    Though I grow old, could youth alone have justified my service?
+    Yet here I am, drafting another memorial as dusk descends.
+  footnotes:
+  - key: ''
+    value: Song-do (송도) refers to Kaesong, the capital of Goryeo, suggesting the speaker is returning from the royal capital.
+  - key: ''
+    value: The image of being thrown from one's donkey suggests losing one's position or favor at court.
+  - key: ''
+    value: The final lines reference the speaker's ongoing role in government—"drafting another memorial" suggests preparing advice or remonstrance for the throne, a duty that weighs on him as he ages.

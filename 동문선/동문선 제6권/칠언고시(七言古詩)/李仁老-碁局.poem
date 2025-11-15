@@ -1,0 +1,57 @@
+canonical:
+  title: 碁局
+  author: 李仁老
+  language: lzh
+  text: 玉石交飛紅日晚遊人也宜樵柯爛苒苒蛛絲籠碧虛翩翩鴈影倒銀漢鼠穴纔通趙將闘鶴唳已覺秦兵散兀坐凝神百不聞座中眞得巢由隱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 碁局
+  author: 李仁老
+  language: lzh
+  text: 玉石交飛紅日晚。遊人也宜樵柯爛。苒苒蛛絲籠碧虛。翩翩鴈影倒銀漢。鼠穴纔通趙將闘。鶴唳已覺秦兵散。兀坐凝神百不聞。座中眞得巢由隱。
+korean:
+  title: 기국
+  author: 이인로
+  language: kor
+  text: |-
+    옥 돌이 번갈아 날다 붉은 해가 저무니
+    나무하는 사람의 도끼 자루가 썩어 마땅하도다
+    가냘픈 거미줄은 푸른 허공을 싸고
+    나는 기러기 그림자는 은하수에 거꾸로 비친다
+    쥐구멍은 조장이 겨우 통해 싸웠고
+    학이 울매 이미 진나라 군사의 흩어졌음을 알리라
+    오똑히 앉아 정신을 쏟으매 아무 것도 들리지 않으니
+    그 자리는 진실로 소보와 허유의 숨은 정을 얻었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 나무하는 …… 마땅하도다 : '
+    value: 옛날에 왕질(王質)이 산에 나무하러 가서 신선들이 바둑두는 것을 구경하다가 신선이 주는 음식을 얻어 먹고 배고픈 줄을 모르고 신선들이 바둑을 다 둔 뒤에 돌아보니 그 동안에 세월이 얼마나 오래 되었는지 옆에 놓아 두었던 도끼 자루가 벌써 썩어 있었다 한다.
+  - key: '[주-D002] 쥐구멍은 …… 싸웠고 : '
+    value: 진(秦)나라와 한(韓)나라가 알여(閼與)에서 싸우면서 한(韓)나라가 조(趙)나라에 구원을 청하니 조사(趙奢)가 말하기를, “길이 험하고 좁아서 두 쥐가 구멍에서 싸우는 것 같아서 장수가 용맹한 자 이길 것입니다.” 하였다.
+  - key: '[주-D003] 학이 …… 알리라 : '
+    value: 진왕(秦王)  부견(苻堅)이 진(晋)을 치다가 패하여 군사들이 달아날 때 바람 소리와 학(鶴)의 울음을 듣고도 진(晋)의 군사가 추격하는 줄 알고 놀래었다.
+  - key: '[주-D004] 소보(巢父)와 허유(許由) : '
+    value: 바둑을 좌은(坐隱)이라 하는데, 그것은 앉아서 세상 일을 잊는다는 뜻이며, 소보(巢父)와 허유(許由)는 요(堯)가 임금의 자리를 사양하여 주는 것을 받지 않고 기산(箕山)에 숨어서 살았다.
+english:
+  title: The Game of Stones
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Jade and stone dance across the board as the crimson sun descends,
+    And the woodcutter's axe-handle rots away, as it ought.
+    Gossamer threads of spiders veil the emerald emptiness,
+    While wild geese's shadows drift inverted in the silver stream.
+    Mouse-holes sufficed for generals locked in desperate struggle,
+    Yet a crane's cry announced the scattering of empire's legions.
+    Sitting still, the mind absorbed in nothing that can be heard—
+    In this very seat dwells the reclusion of sages long forgotten.
+  footnotes:
+  - key: ''
+    value: The woodcutter's rotting handle alludes to Wang Zhi, who watched immortals playing go and lost track of time so completely that his axe-handle decayed to dust—a metaphor for transcendence through the game.
+  - key: ''
+    value: The mouse-hole battle references the stratagems of ancient generals, suggesting that even in the smallest spaces, great conflicts are decided by skill and courage.
+  - key: ''
+    value: The crane's cry draws from the famous account of Emperor Fu Jian of Qin, whose army mistook the sound of cranes for pursuing enemies and fled in panic.
+  - key: ''
+    value: Chao Fu and Xu You were sage hermits who refused earthly power and retreated to mountains to live in seclusion—figures embodying the ultimate freedom from worldly concerns.

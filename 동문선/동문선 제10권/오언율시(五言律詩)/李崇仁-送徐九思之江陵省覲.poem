@@ -1,0 +1,46 @@
+canonical:
+  title: 送徐九思之江陵省覲
+  author: 李崇仁
+  language: lzh
+  text: 客從京國出遙向故園歸山水人居勝樓臺暑氣微寂寥徐孺榻文彩老萊衣何日能相見尋君夢遠飛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送徐九思之江陵省覲
+  author: 李崇仁
+  language: lzh
+  text: 客從京國出。遙向故園歸。山水人居勝。樓臺暑氣微。寂寥徐孺榻。文彩老萊衣。何日能相見。尋君夢遠飛。
+korean:
+  title: 강릉으로 귀성하는 서구사를 보내며
+  author: 이숭인
+  language: kor
+  text: |-
+    손이 서울로부터 나가
+    멀리 고향으로 돌아가네
+    산수는 사람 살기에 좋고
+    누대에는 더운 기운이 덜어지네
+    빈 서유자의 탑이 비었고
+    노래자의 옷이 채색이네
+    어느 날쯤 만나 보게 될까
+    그대 찾아 꿈이 멀리 날리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off Xu Jiusi as He Returns to Jiangling to Pay Respects
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    A traveler departs from the capital,
+    Heading far toward his native home.
+    Mountains and waters offer joy to the living,
+    While cooling breezes drift through high towers.
+
+    The hermit's empty chamber stands lonely,
+    Stained with the colors of an old sage's robe.
+    When shall we meet again?
+    My dreams fly far in search of you.
+  footnotes:
+  - key: ''
+    value: Xu Jiusi (徐九思) was a contemporary figure undertaking an official journey. This poem celebrates his departure and expresses the poet's longing for reunion.
+  - key: ''
+    value: The 'hermit's chamber' and 'old sage's robe' are literary allusions invoking the ideals of scholarly retreat and virtue, suggesting the noble character of the departing traveler.

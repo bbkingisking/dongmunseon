@@ -1,0 +1,47 @@
+canonical:
+  title: 題興敎僧統餞行詩軸
+  author: 李達衷
+  language: lzh
+  text: 但要無心耳何傷有髮乎莫言儒斥佛甞謂我忘吾擾擾慕羶蟻區區吞餌魚幻生多恠事轟醉乃良圖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題興敎僧統餞行詩軸
+  author: 李達衷
+  language: lzh
+  text: 但要無心耳。何傷有髮乎。莫言儒斥佛。甞謂我忘吾。擾擾慕羶蟻。區區吞餌魚。幻生多恠事。轟醉乃良圖。
+korean:
+  title: 흥교 승통을 전송하는 시축
+  author: 이달충
+  language: kor
+  text: |-
+    다만 무심을 요할 뿐
+    내 두발 있는 것이 무슨 상관인가
+    유가 불을 배척한다고 이르지 말게
+    내가 나를 잊으라고 생각하네
+    부산하게 누린 것을 찾는 개미들이요
+    구구하게 미끼를 무는 물고기들이네
+    부생이란 해괴한 일 많으니
+    크게 취하는 것이 가장 상책이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 다만 무심(無心)을 요할 뿐 : '
+    value: 불법(佛法)에서는 무심(無心)을 주장하므로, 자기는 머리를 깎고 중이 되지 않아도 무심만 공부하면 된다는 뜻이다.
+english:
+  title: A Poem on the Occasion of Sending Off the Head Monk of Xingjiao
+  author: Lee Dal-chung
+  language: eng
+  text: |-
+    All that matters is an empty mind—
+    why should these locks of hair concern me?
+    Do not say that Confucianism rejects the Buddha;
+    I believe I must forget myself.
+    Ants scurry about, coveting their feasts,
+    fish nibble at bait with petty greed.
+    Since illusion births such strange affairs,
+    deep intoxication is the wisest path.
+  footnotes:
+  - key: ''
+    value: The reference to 'empty mind' (無心) invokes the Buddhist principle of non-attachment and the transcendence of the self—suggesting that one need not shave one's head and become a monk to pursue such emptiness of mind.
+  - key: ''
+    value: The contrast between Confucianism and Buddhism reflects a common intellectual debate in East Asian thought, with the poet suggesting that the pursuit of non-attachment transcends sectarian boundaries.

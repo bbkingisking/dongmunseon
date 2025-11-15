@@ -1,0 +1,47 @@
+canonical:
+  title: 過東峯館河橋
+  author: 金克己
+  language: lzh
+  text: 蔟蔟亂峯閒虹橋跨碧灣雪寒愁北去風暖喜東還宿凍碎圭璧驚灘鳴佩環鄕心催縱轡未暇弄潺湲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過東峯館河橋
+  author: 金克己
+  language: lzh
+  text: 蔟蔟亂峯閒。虹橋跨碧灣。雪寒愁北去。風暖喜東還。宿凍碎圭璧。驚灘鳴佩環。鄕心催縱轡。未暇弄潺湲。
+korean:
+  title: 동봉관의 하교를 지나며
+  author: 김극기
+  language: kor
+  text: |-
+    뾰족뾰족 뭇 봉우리 사이에
+    무지개 다리가 푸른 시내에 걸쳤네
+    이 찬 눈에 북으로 가기 시름일러니
+    따스한 바람 불면 동으로 돌아오리
+    묵은 여름길은 옥이 부숴지고
+    흐르는 여울은 패물 고리[環] 울리는 듯
+    고향 생각에 말고삐를 다그치노니
+    흐르는 물에 한가로이 희롱할 틈도 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0390&viewSync=OT
+  footnotes: []
+english:
+  title: Crossing the River Bridge at East Peak Lodge
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Clustered peaks rise jagged all around,
+    A rainbow bridge arcs over emerald stream.
+    Cold snow weighs heavy on the northbound heart,
+    Warm wind whispers—turn back east again.
+    Old frost shatters jade upon the path,
+    White rapids chime like jade pendants ringing.
+    Homesickness quickens the reins I hold,
+    No leisure left to linger with the flowing waters.
+  footnotes:
+  - key: ''
+    value: The 'rainbow bridge' and 'emerald stream' establish the work's setting at a mountain pass, suggesting a traveler's perspective at a moment of natural beauty.
+  - key: ''
+    value: The contrast between north (departure) and east (return/home) reflects the traditional directional symbolism in East Asian poetry, where east often represents renewal and homecoming.
+  - key: ''
+    value: The imagery of jade shattering and jade pendants ringing uses mineral and precious object metaphors common in classical Chinese poetry to describe the harsh beauty of winter landscapes.

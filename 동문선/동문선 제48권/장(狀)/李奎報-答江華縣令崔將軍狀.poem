@@ -1,0 +1,42 @@
+canonical:
+  title: 答江華縣令崔將軍狀
+  author: 李奎報
+  language: lzh
+  text: 墮自層霄出臨澤國履雙鳧之舃猶占仙曹傳一鴈之書先貽寶翰恭惟某官相門貴胄黌舍舊身黑槊揚威驟作千夫之長靑雲蹶足暫爲百里之師翻覆本如鬬碁胷襟寧有滯芥某佇及趨風之日方諧披霧之期
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 答江華縣令崔將軍狀
+  author: 李奎報
+  language: lzh
+  text: 墮自層霄。出臨澤國。履雙鳧之舃。猶占仙曹。傳一鴈之書。先貽寶翰。恭惟某官。相門貴胄。黌舍舊身。黑槊揚威。驟作千夫之長。靑雲蹶足。暫爲百里之師。翻覆本如鬬碁。胷襟寧有滯芥。某佇及趨風之日。方諧披霧之期。
+korean:
+  title: 답 강화현령 최장군 장
+  author: 이규보
+  language: kor
+  text: 조정으로부터 떨어져나와서 바닷고을을 맡아 다스리며, 부석(鳧舃)을 신고 오히려 선관(仙官)이 되었는데 안서(雁書)를 전하여 먼저 보배로운 글월을 내려주셨습니다. 삼가 생각건대, 모관(某官)은 정승 집안의 귀한 자손이며, 태학관의 선비 출신으로서, 흑삭(黑槊)으로 위엄을 떨침에 갑자기 천 사람의 장이 되었고, 청운(靑雲)에 발이 이끌려서 잠시 백리 지방의 수령으로 앉았으니, 변복이란 본시 바둑두기와 같은지라, 가슴속의 불평이야 어찌 털끝만큼인들 있겠습니까. 모(某)는 장차 존전(尊前)에 나아가는 날에, 바야흐로 안개 속에서 달을 보는 기쁨이 있을 줄 믿습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 부석(鳧舃) : '
+    value: 왕교(王喬)는 동한(東漢) 사람으로 현종(顯宗) 때에 섭현(葉縣)의 수령이 되었는데, 신술(神術)을 지니어 매월 초하루 보름이면 항상 고을을 떠나 대궐에 나아가서 황제를 뵈오니, 황제는 그가 자주 오는데도 수레나 말이 보이지 않는 것을 괴이하게 여겨 태사(太史)로 하여금 지켜보게 하였던바, 그가 도착할 무렵에 오리 두 마리가 동남방에서 날아오므로 이에 오리가 이름을 기다려 그물을 쳐서 잡아보니, 오리는 없어지고 다만 한 켤레의 신이 있을 따름인데, 그 신은 상서(尙書) 관속에 내려준 신이었다.
+  - key: '[주-D002] 안서(雁書) : '
+    value: 《한서(漢書)》 소무전(蘇武傳)에, “천자(天子)가 상림원(上林苑)에서 활을 쏘다가 기러기를 잡았는데, 그 발에 비단에 쓴 편지가 달려 있기로 펴서 본즉 소무(蘇武)가 어떤 방죽 속[澤中]에 있다.” 하였다는 말이 있다. 그래서 편지를 전달하는 데 이 일을 빌려서 안서(雁書)라 칭한다.
+english:
+  title: Response to a Letter from Choe the General, Governor of Kanghua County
+  author: Lee Kyubo
+  language: eng
+  text: |-
+    Descended from the high court, you have taken charge of a maritime province, wearing the shoes of a wandering immortal, yet still honored among celestial officials. You sent word by wild geese, bestowing upon me this precious letter first.
+
+    I humbly consider: you, sir, are of noble stock from a minister's house, a scholar trained in the great academy. Wielding the black lance with authority, you suddenly rose to lead a thousand men. With feet drawn upward on azure clouds, you now briefly govern a hundred-li district. Such reversals of fortune are but like moves upon a Go board—how could the slightest resentment lodge in your noble breast?
+
+    I await the day when I may approach your honored presence, when the mists shall part and I may behold the moon.
+  footnotes:
+  - key: ''
+    value: The 'shoes of a wandering immortal' refers to the legendary Wang Qiao of the Eastern Han, who mysteriously traveled monthly to the imperial court without visible conveyance, his mode of transport revealed only as a pair of shoes caught in a net.
+  - key: ''
+    value: The 'word by wild geese' alludes to Su Wu of the Han dynasty, whose letter was famously delivered by a goose with a message tied to its leg.
+  - key: ''
+    value: The 'black lance' and 'azure clouds' are classical symbols of military authority and official advancement respectively.
+  - key: ''
+    value: The 'Go board' metaphor suggests that changes in fortune, whether rise or fall, are natural and expected in the game of life.

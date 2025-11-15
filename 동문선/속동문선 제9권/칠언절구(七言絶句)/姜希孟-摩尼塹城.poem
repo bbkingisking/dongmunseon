@@ -1,0 +1,37 @@
+canonical:
+  title: 摩尼塹城
+  author: 姜希孟
+  language: lzh
+  text: 海上孤城玉界寒風吹沆瀣露凝漙步虛人在靑冥外吟罷瓊章月滿壇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 摩尼塹城
+  author: 姜希孟
+  language: lzh
+  text: 海上孤城玉界寒。風吹沆瀣露凝漙。步虛人在靑冥外。吟罷瓊章月滿壇。
+korean:
+  title: 마니 참성
+  author: 강희맹
+  language: kor
+  text: |-
+    바다 위의 외로운 성의 옥계가 찬데
+    바람은 항해를 불어 어린 이슬이 동글다
+    허공을 걷는 사람은 푸른 하늘 밖에 있어
+    경장을 읊어 마치자 달이 단에 가득하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 항해(沆瀣) : '
+    value: 이슬 기운이란 뜻인데, 신선이 그것을 마시고 산다고 하였다.
+english:
+  title: The Fortress of Mani
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    Upon the sea, a lonely fortress in jade—how cold the boundaries.
+    The wind sweeps through the ethereal mist as dewdrops gather and gleam.
+    The wanderer treading emptiness dwells beyond the azure sky.
+    When the verse concludes, the moon fills the altar with its glow.
+  footnotes:
+  - key: ''
+    value: '沆瀣 (ethereal mist): A mystical vapor believed to sustain the immortals, here evoking both the dewdrops of dawn and the breath of heaven itself.'

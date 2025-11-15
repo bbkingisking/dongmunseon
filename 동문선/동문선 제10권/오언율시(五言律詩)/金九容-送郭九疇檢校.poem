@@ -1,0 +1,50 @@
+canonical:
+  title: 送郭九疇檢校
+  author: 金九容
+  language: lzh
+  text: 萬里天王地何年息戰塵元戎方授鉞信使遠交隣跋涉來蒼海驅馳向紫宸自今爭刮目重見至元春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送郭九疇檢校
+  author: 金九容
+  language: lzh
+  text: 萬里天王地。何年息戰塵。元戎方授鉞。信使遠交隣。跋涉來蒼海。驅馳向紫宸。自今爭刮目。重見至元春。
+korean:
+  title: 송 곽구주 검교
+  author: 김구용
+  language: kor
+  text: |-
+    만리 천왕이 땅에
+    어느 해 싸움의 티끌이 그치려는고
+    장군은 바야흐로 도끼를 받는데
+    사신은 멀리 이웃 나라를 사귀러 왔네
+    발섭해서 창해로 왔다가
+    달리고 달리어 임금에게로 돌아가네
+    이제부터 서로 눈을 닦고
+    거듭 지원 봄을 보게 하세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off Guo Jiuzhou on His Inspection Tour
+  author: Kim Gu-yong
+  language: eng
+  text: |-
+    Across ten thousand li stretches the heaven-king's land.
+    When will the dust of war at last settle?
+    The general receives his axe of command,
+    while the envoy comes far to bind neighboring states.
+
+    Through mountain and stream to the azure sea he traveled,
+    then galloped and galloped toward the purple palace.
+    From this day forward let us wipe our eyes clear—
+    we shall see the Zhiyuan spring bloom anew.
+  footnotes:
+  - key: ''
+    value: The 'heaven-king's land' refers to the vast empire under imperial rule, likely during the Mongol Yuan dynasty period.
+  - key: ''
+    value: The 'axe of command' (鉞) symbolizes military authority and authority to act on behalf of the throne.
+  - key: ''
+    value: The 'purple palace' (紫宸) is a classical allusion to the imperial court.
+  - key: ''
+    value: Zhiyuan (至元) was an era name of the Yuan dynasty, suggesting an era of renewed peace and prosperity.

@@ -1,0 +1,48 @@
+canonical:
+  title: 次伊川軒上韻
+  author: 朴楗
+  language: lzh
+  text: 客路無歡興窮閻祗可傷數椽茅屋小一頃石田荒屢詔蠲租稅旁招選郡良承宣無善策空愧召公棠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次伊川軒上韻
+  author: 朴楗
+  language: lzh
+  text: 客路無歡興。窮閻祗可傷。數椽茅屋小。一頃石田荒。屢詔蠲租稅。旁招選郡良。承宣無善策。空愧召公棠。
+korean:
+  title: 차 이천헌 상운
+  author: 박건
+  language: kor
+  text: |-
+    나그네 길에 즐거운 흥이 없고
+    궁한 마을에 다만 마음 상하네
+    두어 서까래 띠지붕의 집은 작고
+    한 이랑의 돌밭은 거칠어 있구나
+    여러 번 명령내려 조세를 면제하고
+    또 다시 불러 착한 사람 뽑는다네
+    위의 은혜 선전할 좋은 계책 없으매
+    속절없이 소공당을 부끄러워하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소공당(召公棠) : '
+    value: 예전 주(周)나라 때에 소공이 행정을 잘 하여서 민심이 감복하였다. 그 가 지방을 순행할 때에 어떤 아가위 나무[棠] 아래에서 쉬었는데, 백성들은 소공이 쉬던 나무라 하여 가지 하나 자르지 아니하고 잘 위하였다 한다.
+english:
+  title: Following the Rhyme of Icheon Pavilion
+  author: Park Geon
+  language: eng
+  text: |-
+    The traveler's path holds no joy,
+    In poverty's cramped lane, only heartache remains.
+    A thatched roof spans but a few rafters—
+    The cottage stands meager and small.
+    One plot of stony field lies barren and waste.
+
+    Many edicts have come to forgive the taxes,
+    Calls repeated to choose the worthiest from among us.
+    Yet I, who proclaim these royal favors,
+    Have no strategy worthy to offer,
+    And stand ashamed before the memory of Duke Shao's pear tree.
+  footnotes:
+  - key: ''
+    value: Duke Shao of the Zhou dynasty was renowned for his virtuous governance and the people's devotion to him. Legend tells that when he rested beneath a pear tree during his inspection of the provinces, the people so revered the spot that they refused to prune even a single branch from it, preserving it as a monument to his benevolence. The poet invokes this image to express his inadequacy in matching such exemplary leadership.

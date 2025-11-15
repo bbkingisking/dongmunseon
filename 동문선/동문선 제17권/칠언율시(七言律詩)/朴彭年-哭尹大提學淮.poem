@@ -1,0 +1,62 @@
+canonical:
+  title: 哭尹大提學淮
+  author: 朴彭年
+  language: lzh
+  text: 孫桐祖栗繼箕裘華國文章第一流楊子夢中成吐鳳庖丁眼底欠全牛人閒未畢抽金樻天上誰催記玉樓惆悵九原難可作遺書應傍茂陵求
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 哭尹大提學淮
+  author: 朴彭年
+  language: lzh
+  text: 孫桐祖栗繼箕裘。華國文章第一流。楊子夢中成吐鳳。庖丁眼底欠全牛。人閒未畢抽金樻。天上誰催記玉樓。惆悵九原難可作。遺書應傍茂陵求。
+korean:
+  title: 곡 윤대제학회
+  author: 박팽년
+  language: kor
+  text: |-
+    율의 손자, 동의 아들로 대대 기구를 이어
+    나라를 빛낸 문장이 과연 제일류러니
+    양자는 꿈에 흰 봉을 토했고
+    포정의 눈에는 온전한 소가 없더라
+    인간에서 아직 금궤를 다 펴보지 못했는데
+    하늘에서 누가 옥루에 기문 짓기 재촉했나
+    애달파라 지하에서 다시 일어나지 못하리니
+    남긴 글은 응당 무릉 구하시리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0770&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 율(栗)의 …… 아들 : '
+    value: 회(淮)는 동헌(桐軒) 윤소종(尹詔宗)의 아들이며 윤택(尹澤)의 손자이다.
+  - key: '[주-D002] 양자(揚子)는 …… 토했고 : '
+    value: 한(漢) 양웅(揚雄). 양웅이 《태현경》을 지을 때 꿈에 흰 봉을 토했다.
+  - key: '[주-D003] 포정(庖丁)의 …… 없더라 : '
+    value: 소를 가르는 신기(神技)를 가진 포정(庖丁)이 위(魏)나라 문혜군(文惠君) 앞에서 그의 기술 연마(鍊磨)의 과정을 술회한 말. “처음 신이 소를 기를 때엔 보는 바가 소아닌 것이 없었지요. 그러다가 3년 뒤에는 일찍이 ‘온전한 소’를 본 적이 없나이다.” 하였다. 보는 대상(對象)이 모조리 짝짝 갈려[分析] 보였다는 말.
+  - key: '[주-D004] 인간에서 …… 못했는데 : '
+    value: 금궤에 있는 책을 펴보고 국사(國史) 짓는 것을 마치지 못했다는 말이다.
+  - key: '[주-D005] 하늘에서 …… 재촉했나 : '
+    value: 당(唐)나라 이하(李賀)에게 낮에 어떤 붉은 옷 입은 사람이 와서, “옥황상제가 백옥루(白玉樓)를 지었는데 당장 그대를 불러 기문을 지으려 한다.” 하더니, 이하가 곧 죽었다.
+  - key: '[주-D006] 지하(地下)에서 …… 못하리니 : '
+    value: 한 무제(漢武帝)의 능이다. 여기서는 사마상여(司馬相如)가 병으로 벼슬을 그만두고 여기와 살고 있어, 무제가 말하되, “상여가 병이 심하다 하니 가서 그가 저술한 글을 모두 가져오라.” 하니, 상여의 처인 탁문군이 상여가 남긴 봉선문(封禪文)을 바쳤다.
+english:
+  title: Lament for Yun, the Great Councilor of Studies
+  author: Park Peng-nyon
+  language: eng
+  text: |-
+    Grandson of Yul, son of Tong—inheriting the ways of your ancestors,
+    Your writings graced the nation, truly of the finest order.
+    Yang Hsiung in dreams exhaled the white phoenix,
+    Yet Pao Ding's eye beheld no ox complete.
+
+    In this mortal realm, you could not finish unfurling the golden casket,
+    When Heaven summoned you to inscribe the Jade Mansion above.
+    Alas, from the nine springs you cannot return,
+    Your legacy must seek the Master of Mauling's tomb for safekeeping.
+  footnotes:
+  - key: ''
+    value: Yang Hsiung (揚雄), Han Dynasty scholar, was said to have dreamed of expelling a white phoenix while composing the Profound Mystery canon—a metaphor for inspired literary creation.
+  - key: ''
+    value: Pao Ding, the legendary butcher, told Lord Wenhui that after three years of practice, he no longer saw a whole ox before him—only the spaces between parts—suggesting perfect mastery transcends ordinary perception.
+  - key: ''
+    value: Li Ho of the Tang Dynasty was visited by a crimson-robed messenger announcing that the Jade Emperor had completed the White Jade Tower and required him to compose its inscription. Li Ho died shortly after.
+  - key: ''
+    value: The reference to Sima Xiangru's tomb and his widow presenting his unfinished works suggests the hope that Yun's scholarly legacy will be preserved for posterity.

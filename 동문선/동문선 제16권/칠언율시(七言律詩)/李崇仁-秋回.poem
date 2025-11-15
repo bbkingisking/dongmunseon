@@ -1,0 +1,49 @@
+canonical:
+  title: 秋回
+  author: 李崇仁
+  language: lzh
+  text: 天末秋回尙未歸孤城落照不勝悲曾陪鴛鷺趨文陛今向江湖理釣絲骨自罹讒成大瘦詩因放意有新奇明珠薏苡終須辨只恐難調長者兒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋回
+  author: 李崇仁
+  language: lzh
+  text: 天末秋回尙未歸。孤城落照不勝悲。曾陪鴛鷺趨文陛。今向江湖理釣絲。骨自罹讒成大瘦。詩因放意有新奇。明珠薏苡終須辨。只恐難調長者兒。
+korean:
+  title: 추회
+  author: 이숭인
+  language: kor
+  text: |-
+    하늘 끝에 가을이 와도 아직 못 돌아가니
+    외로운 성 해질녘에 슬픔을 못 이기네
+    일찍이 조정에 나가 사신으로 참예했더니
+    지금은 강호에 와서 낚시줄을 다스리네
+    참소에 걸린 뒤로 뼈는 몹시 여위었으나
+    멋대로 막 지으니 시는 되려 신기해라
+    구슬과 율무 씨는 마침내 가려질거나
+    걱정은 그저 장자아 다루기 어려운 것
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0940&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구슬과 율무[薏苡] 씨는 …… 가려[辨]질거나 : '
+    value: 한(漢) 마원(馬援)이 교지(交趾)에 있을 때 항상 율무 씨를 먹다가[먹으면 몸을 가볍게 하고 욕심이 적어지고 또 장기(瘴氣)를 이긴다 한다.] 환군(還軍)할 때 한 수레에 싣고 왔었다. 그가 죽은 뒤에 그를 참소하여 상소한 자가 말하기를, “그가 전에 싣고 돌아온 것이 모두 구슬과 물소뿔[文犀]이라.” 했다. 뇌물을 받지 않고 억울하게 비방을 입는다는 말.
+  - key: '[주-D002] 걱정은 그저 …… 어려운 것 : '
+    value: 마원이 말하기를, “내가 임금의 두터운 은혜를 받았으므로 국사에 죽는 몸이 되지 못할까 염려하였더니 이제는 소원대로 되게 되었다. 다만 장자가(長者家) 아이들이 혹 좌우에 있거나 혹 종사(從事)가 되었을 때에 그것을 다루기 어렵다.” 하였다. 장자아(長者兒)는 권세 있는 집 자제를 가리킨 것이다.
+english:
+  title: Autumn's Return
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Autumn arrives at heaven's edge, yet I remain unable to return.
+    In the solitary fortress, sunset's glow cannot overcome my sorrow.
+    Once I attended court, serving as an official at the literary gate.
+    Now I come to rivers and lakes, tending to my fishing line.
+    Since slander struck me down, my bones have grown thin as shadow,
+    Yet writing freely, my verses bloom with unexpected grace.
+    Pearls and seeds of Job's tears shall surely be vindicated,
+    But I fear—how difficult it is to navigate the powerful man's son.
+  footnotes:
+  - key: ''
+    value: The reference to pearls and Job's tears alludes to the story of Ma Yuan, a Han Dynasty general falsely accused of accepting bribes upon his return from the southern frontier. Though he had only brought back medicinal seeds for their purifying properties, his enemies claimed he carried precious stones and ivory. The poet invokes this as a symbol of innocence persecuted by slander.
+  - key: ''
+    value: The 'powerful man's son' refers to the children of the privileged and influential—those whose favor and influence cannot be easily managed, representing a deeper anxiety about navigating the treacherous politics of court service.

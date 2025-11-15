@@ -1,0 +1,37 @@
+canonical:
+  title: 登城頭望鴨綠江
+  author: 成重淹
+  language: lzh
+  text: 澄江如練荻花秋兩岸沙明下白鷗落日湖山無限好烟波何事使人愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登城頭望鴨綠江
+  author: 成重淹
+  language: lzh
+  text: 澄江如練荻花秋。兩岸沙明下白鷗。落日湖山無限好。烟波何事使人愁。
+korean:
+  title: 등 성두 망 압록강
+  author: 성중엄
+  language: kor
+  text: |-
+    맑은 강물 흰 깁인 양 갈꽃은 가을이라
+    두 언덕 밝은 모래 흰 해오라기 내렸어라
+    해질녘 이 강산이 무한히 아름다우니
+    내 낀 물결 어이하여 시름 자아내나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: Viewing the Yalu River from the City Wall
+  author: Sung Jung-eom
+  language: eng
+  text: |-
+    The clear waters stretch like white silk, reed flowers mark the autumn—
+    Both banks bright with sand, white herons descend.
+    As the sun falls, these mountains and waters hold endless beauty,
+    Yet why do the misty waves stir such sorrow in my heart?
+  footnotes:
+  - key: ''
+    value: The Yalu River (압록강) forms the border between Korea and China, making it a historically significant subject in Korean poetry. This poem likely dates to the Joseon period when such border landscapes held particular cultural resonance.
+  - key: ''
+    value: The image of waters 'like white silk' (練, yeun) is a classical poetic convention borrowed from Chinese verse, suggesting both the river's clarity and its precious, delicate nature.

@@ -1,0 +1,52 @@
+canonical:
+  title: 讀史
+  author: 金宗直
+  language: lzh
+  text: 一片心從竹素遊無端枉作杞天憂黃虞邈邈成千古孔孟栖栖志九州世事那堪狗脚朕民生肯要死猪愁靑山隱几閑料理松籟蕭蕭自送秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀史
+  author: 金宗直
+  language: lzh
+  text: 一片心從竹素遊。無端枉作杞天憂。黃虞邈邈成千古。孔孟栖栖志九州。世事那堪狗脚朕。民生肯要死猪愁。靑山隱几閑料理。松籟蕭蕭自送秋。
+korean:
+  title: 독사
+  author: 김종직
+  language: kor
+  text: |-
+    한조각 마음이 죽소(옛 사적)를 좇아 놀다가
+    무단히 억울하게 기요의 근심을 짓는다
+    황우는 아득하여 천고를 이루었는데
+    공맹은 바쁘게 구주를 뜻하였네
+    세상일이 개 다리 같은 황제임을 어찌 견디리
+    민생은 죽는 돼지의 근심임을 반드시 알겠다
+    안석에 기대 푸른 산을 한가히 요리하노니
+    솔바람은 쓸쓸히 가을을 보내 준다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0710&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 황우(黃虞) : '
+    value: 중국의 전설시대인 5천년 전에 황제(黃帝)라는 임금이 있었고, 그 후에 우순(虞舜)이 있었으므로 그 둘을 합하여 황우(黃虞)라고 말한 것이다.
+  - key: '[주-D002] 개 …… 황제 : '
+    value: 남북조 시대에 북위(北魏) 말년이 되어 신하가 권력을 잡고 있었다. 그때에 북위의 황제가 짐(朕)이라고 말하니까 그 권력 잡은 신하가 혼자말로, “짐이 부슨 개 다리 같은 짐이야.” 하고, 그 후에 그 황제를 죽였었다.
+english:
+  title: Reading History
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    My heart plays among the scrolls of ancient records,
+    yet somehow I stumble into anxieties not my own.
+    Yellow Emperor and sage Yu fade into antiquity,
+    while Confucius and Mencius hastened through the nine provinces.
+    How can one bear when the world's affairs become but a dog's hind legs—
+    the meaningless title of an emperor?
+    Yet common folk must know their fate: the worry of a pig before slaughter.
+    Leaning against my armrest in the green mountains, I arrange all things at leisure,
+    while pine wind whispers softly, bidding autumn farewell.
+  footnotes:
+  - key: ''
+    value: Yellow Emperor and Yu refer to the legendary sage-kings of ancient China, representing the idealized past that the historian inevitably contemplates.
+  - key: ''
+    value: The 'dog's hind legs' is an allusion to the Northern Wei period when ministers held true power while emperors held only hollow titles—a commentary on the futility of worldly authority.
+  - key: ''
+    value: The contrast between historical contemplation and mountain retreat reflects the poet's resolution to withdraw from the cycle of history's sorrows into natural quietude.

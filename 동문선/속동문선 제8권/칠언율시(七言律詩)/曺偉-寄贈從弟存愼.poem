@@ -1,0 +1,57 @@
+canonical:
+  title: 寄贈從弟存愼
+  author: 曺偉
+  language: lzh
+  text: 病骨崢嶸瘦十分鬢毛衰颯白紛紛覊懷正苦龍灣月歸夢頻過鳥嶺雲少日金鑾曾視草老來鐵馬欲從軍故園消息今何似爲問梅兄與竹君存愼問余從軍故云
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄贈從弟存愼
+  author: 曺偉
+  language: lzh
+  text: 病骨崢嶸瘦十分。鬢毛衰颯白紛紛。覊懷正苦龍灣月。歸夢頻過鳥嶺雲。少日金鑾曾視草。老來鐵馬欲從軍。故園消息今何似。爲問梅兄與竹君。存愼問余從軍故云。
+korean:
+  title: 기증 종제 존신
+  author: 조위
+  language: kor
+  text: |-
+    존신이 이 때 함창현감(咸昌縣監)이 되었다.
+    병든 뼈는 한껏 여위었는데
+    살쩍 우수수 허옇게 헝클어졌다
+    나그네 회포는 정히 용만의 달에 괴롭고
+    돌아가는 꿈은 자주 조령의 구름을 지난다
+    젊은 때에는 금란에서 일찍이 시초하였는데
+    늘그막에는 철마를 종군하려 한다
+    고향의 소식이 지금 어떠한가
+    나를 위해 매형과 죽군에게 문안하여다오
+    존신이 내게 종군하겠는가고 물었기 때문에 말한 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금란(金鑾) : '
+    value: 당나라 한림원(翰林院)이 금란전(金鑾殿)에 있었다.
+  - key: '[주-D002] 시초(視草) 하였는데 : '
+    value: 한림학사는 임금의 발표할 글을 대작(代作)하는데 이것을 초고를 본다[視草]한다.
+english:
+  title: A Gift and Message to My Younger Brother Jonshim
+  author: Cho Wi
+  language: eng
+  text: |-
+    My frame grows thin as frost-blighted bone,
+    White hairs scatter and fall like winter snow.
+    As a wanderer, I ache beneath the moon of Yongman,
+    While dreams of home drift past the clouds of Joling.
+
+    In youth, I once held the brush in the Golden Hall,
+    Yet now in age, I yearn to ride with the iron cavalry.
+    What word comes from my native garden these days?
+    I ask you—send my regards to Elder Plum and Lord Bamboo.
+
+    Since you questioned whether I would join the army,
+    I offer you this answer.
+  footnotes:
+  - key: ''
+    value: The Golden Hall (金鑾) refers to the Hall of the Hanlin Academy during the Tang Dynasty, where the author served as a court scribe in his youth.
+  - key: ''
+    value: Yongman (龍灣) and Joling (鳥嶺) are mountain passes that evoke the physical distance from his home.
+  - key: ''
+    value: Elder Plum and Lord Bamboo are poetic names for relatives or close associates, using the scholar's traditional imagery of noble plants.

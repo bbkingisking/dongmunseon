@@ -1,0 +1,47 @@
+canonical:
+  title: 永明寺次韻
+  author: 朴義
+  language: lzh
+  text: 擬欲輕舟訪僧寺狂歌醉舞流中流臺前㶑灧一江面島外出沒千山頭興多游子語擾擾道高老衲言休休月巖峯上一輪月照破人人今古愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永明寺次韻
+  author: 朴義
+  language: lzh
+  text: 擬欲輕舟訪僧寺。狂歌醉舞流中流。臺前㶑灧一江面。島外出沒千山頭。興多游子語擾擾。道高老衲言休休。月巖峯上一輪月。照破人人今古愁。
+korean:
+  title: 영명사 차운
+  author: 박의
+  language: kor
+  text: |-
+    가벼운 배를 타고 절 찾아 오느라고
+    광가ㆍ취무로 중류를 흘러왔네
+    대 앞에 넘실넘실 한 강의 수면
+    섬 밖에 들락날락 천 산의 머리
+    흥겨워라, 유객들의 지껄이는 소리 왁작
+    도 높은 늙은 중은 말씨도 조용하네
+    월암봉 위에 뜬 둥그런 저 달은
+    만 사람 고금 시름을 샅샅이 비추누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: In Rhyme with Yeongmyeong Temple
+  author: Park Ui
+  language: eng
+  text: |-
+    In a light skiff I come seeking the temple,
+    Wild songs and drunken dancing drift down the current.
+    Before the terrace, ripples shimmer across the river's face,
+    Beyond the isle, a thousand peaks rise and fall.
+    How the spirits of wandering guests ring out in chatter and noise—
+    But the way of the old monk runs deep, his words fall silent.
+    Atop Moon Rock Peak, a full moon hangs in the sky,
+    Illuminating the ancient and present sorrows in every heart.
+  footnotes:
+  - key: ''
+    value: Yeongmyeong Temple (永明寺) was a notable Buddhist temple, likely in Korea. This poem appears to be written in response to another work (hence 'in rhyme with'), following a classical poetic convention.
+  - key: ''
+    value: The contrast between the exuberant joy of the worldly guests and the serene silence of the enlightened monk reflects Buddhist philosophical themes common in East Asian poetry.
+  - key: ''
+    value: The final image of the moon illuminating universal human sorrow draws on the moon as a symbol of enlightenment and transience in Buddhist and Daoist traditions.

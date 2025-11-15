@@ -1,0 +1,77 @@
+canonical:
+  title: 鎭邊
+  author: 李仁復
+  language: lzh
+  text: 我本農家子今來戍海壖每見風色惡怕上耀兵船深院春光暖崇臺月影淸向來歌舞地戰鼓有新聲烽火遙傳警弓刀卽啓行休言今賊易倭俗本輕生慶尙徵兵急全羅轉粟遲自從囊褚盡誰與療朝飢樓上旌旗動江頭鼓角鳴終當聞杖杜免使賦重英
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鎭邊
+  author: 李仁復
+  language: lzh
+  text: 我本農家子。今來戍海壖。每見風色惡。怕上耀兵船。深院春光暖。崇臺月影淸。向來歌舞地。戰鼓有新聲。烽火遙傳警。弓刀卽啓行。休言今賊易。倭俗本輕生。慶尙徵兵急。全羅轉粟遲。自從囊褚盡。誰與療朝飢。樓上旌旗動。江頭鼓角鳴。終當聞杖杜。免使賦重英。
+korean:
+  title: 진변
+  author: 이인복
+  language: kor
+  text: |-
+    나는 본래 농군의 아들로
+    이제 수자리 땅에 와 바다를 지킨다
+    매양 바람빛이 나쁜 것을 보면
+    열병선에 오르기를 두려워하네
+    깊은 동산에 봄빛이 따뜻하고
+    높은 대에 달그림자 맑아라
+    지난날 노래하고 춤추던 자리에
+    전고는 새 소리를 울리네
+    봉화는 아득히 경보를 전하는데
+    활과 칼로 곧 출발하네
+    이번 도적은 쉽다고 말하지 말라
+    왜놈의 풍속이 본래 삶을 가벼이 여기느니
+    경상도에 징병이 급한데
+    전라도에 군량 운반이 더디다
+    이로부터 주머니에 돈이 말랐는데
+    누구와 함께 아침 요기를 할거나
+    다락 위에 깃발이 휘날리니
+    강 기슭에 고각이 울린다
+    마침내 체두(杕杜)를 들리게 하고
+    중영(重英)을 부하는 것을 면하게 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 체두(杕杜) : '
+    value: 《시경》의 〈체두편(杕杜篇)〉은 병역(兵役)에 갔다가 돌아온 사람을 위로하는 시이다.
+  - key: '[주-D002] 중영(重英) : '
+    value: 《시경》 〈청인편(淸人篇)〉은 군사가 국경(國境)에서 오래 돌아오지 못한 것을 읊은 시인데, 그 시에 ‘이모중영(二矛重英)’이란 구절이 있다.
+english:
+  title: Guarding the Border
+  author: Lee In-bok
+  language: eng
+  text: |-
+    I was born a farmer's son,
+    Now posted to guard the coastal frontier.
+    Whenever I see the sky darken with storm,
+    I fear to board the war-vessel.
+
+    In the deep courtyard, spring light grows warm,
+    On the high tower, moonlight shines clear.
+    Where once we sang and danced without care,
+    Now war drums sound their new refrain.
+
+    Beacon fires flash warnings from afar,
+    Bows and blades are readied for the march.
+    Do not speak lightly of the foe—
+    The Japanese hold their lives in contempt.
+
+    Gyeongsan cries urgent for soldiers,
+    Jeolla delays in gathering grain.
+    Since our coffers have run dry,
+    Who will ease my hunger at dawn?
+
+    On the tower, banners flutter and rise,
+    Along the river, war horns cry.
+    May we hear songs of soldiers' return,
+    And be spared the sorrow of endless war.
+  footnotes:
+  - key: ''
+    value: 'The poem alludes to two classical passages from the Shijing (Book of Poetry): the ''Zhidu'' (杕杜) which offers comfort to returning soldiers, and the ''Qingren'' (淸人) which laments soldiers long delayed at the frontier. These classical references elevate the personal suffering described here to a timeless dimension of military service.'
+  - key: ''
+    value: The poem reflects the historical reality of Korean coastal defense against Japanese pirates (倭) during the Joseon period, when provincial levies and supply lines were stretched thin.

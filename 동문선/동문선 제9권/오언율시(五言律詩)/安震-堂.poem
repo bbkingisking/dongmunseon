@@ -1,0 +1,48 @@
+canonical:
+  title: 堂
+  author: 安震
+  language: lzh
+  text: 東歸席未暖北去策偏長別馬便驤首情人空斷膓雲閒靄蓂陛天外望萱堂富貴年猶少須知定省忙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 堂
+  author: 安震
+  language: lzh
+  text: 東歸席未暖。北去策偏長。別馬便驤首。情人空斷膓。雲閒靄蓂陛。天外望萱堂。富貴年猶少。須知定省忙。
+korean:
+  title: 당
+  author: 안진
+  language: kor
+  text: |-
+    동으로 돌아와 자리도 따습기 전에
+    북으로 또 가니 포부가 장하구나
+    떠나는 말은 곧장 머리를 들먹이는데
+    정든 사람은 속절없이 애를 끊는구나
+    구름 사이에 어좌가 뵈오랴만
+    하늘 밖으로 훤당을 바라보리
+    부귀하고 나이 아직 젊으니
+    부모님 조석 봉양 바쁜 줄도 알아야 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0740&viewSync=OT
+  footnotes: []
+english:
+  title: The Hall
+  author: An Jin
+  language: eng
+  text: |-
+    I return from the east, my seat still warm,
+    Yet north again I must depart, my ambitions stretch far.
+    The parting horse tosses its head with eagerness,
+    While my beloved's heart breaks in silent anguish.
+
+    Through clouds I glimpse the royal court,
+    Beyond the heavens I see my ancestral hall.
+    Though youth grants me wealth and standing,
+    I must remember—duty to parents calls, morning and evening.
+  footnotes:
+  - key: ''
+    value: The 'parting horse' and 'beloved' suggest the speaker is torn between pursuing official ambitions (traveling north) and familial obligations and romantic ties (returning home to the east).
+  - key: ''
+    value: The 'ancestral hall' (훤당) represents both family heritage and filial duty, contrasted with the speaker's pursuit of official position and 'wealth and standing.'
+  - key: ''
+    value: The final couplet emphasizes the Confucian virtue of filial piety (정성), suggesting that despite youth and ambition, one must not neglect the duty of serving and caring for one's parents.

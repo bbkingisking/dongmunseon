@@ -1,0 +1,96 @@
+canonical:
+  title: 上直門下
+  author: 李奎報
+  language: lzh
+  text: 天上金精落山西鐵幹喬家承班定遠國倚霍嫖姚白玉含中潤靑松守後彫虹盤三斗膽嶽立八圍腰李廣今飛漢天驕不吠高鼇擎仙島聳鳳入禁池翹直論驚群俊孤忠翼兩朝身兼雙美具官剩十旬超我是冰鄕冷那堪陸海漂引吭思一振何幸借扶搖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上直門下
+  author: 李奎報
+  language: lzh
+  text: 天上金精落。山西鐵幹喬。家承班定遠。國倚霍嫖姚。白玉含中潤。靑松守後彫。虹盤三斗膽。嶽立八圍腰。李廣今飛漢。天驕不吠高。鼇擎仙島聳。鳳入禁池翹。直論驚群俊。孤忠翼兩朝。身兼雙美具。官剩十旬超。我是冰鄕冷。那堪陸海漂。引吭思一振。何幸借扶搖。
+korean:
+  title: 상 직문하
+  author: 이규보
+  language: kor
+  text: |-
+    하늘의 금정이 뚝 떨어져서
+    산서에 쇠 기둥이 우뚝 솟았네
+    가풍이 대대로 이은 반정원(한나라의 명장)
+    국가가 의지하는 곽표요 장군
+    인격은 백옥이 윤택함을 머금은 듯
+    절개는 청송이라 뒤에야 지리
+    서 말 담이 무지개처럼 서리어
+    여덟 아름 허리로 산같이 우뚝
+    이광이 지금의 비장군(날랜장군)이니
+    오랑캐들 감히 요에게 짖지 못하네
+    자다가 선도를 높이 받들고
+    봉황이 금지에 날아들어서
+    곧은 의논 여러 사람을 깜짝 놀래고
+    깊은 충성 두 왕조를 섬기어 오니
+    몸에는 쌍미가 모두 갖추었고
+    벼슬은 백일에 뛴 것보다 지났네
+    나는 얼음 고장의 차디찬 신세
+    뭍으로 바다로 어이 떠돌리
+    목 늘여 붕새처럼 떨치려노니
+    회오리 바람 좀 빌려주옵소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 직문하(直門下) : '
+    value: 여기서는 직문하성(直門下省) 김적후(金迪侯)를 말한다.
+  - key: '[주-D002] 산서(山西) : '
+    value: 한(漢)나라 때에 산동(山東)에서는 재상[相]이 나고, 산서(山西)에서는 장수(將帥)가 났다.
+  - key: '[주-D003] 곽표요(霍嫖姚) : '
+    value: 한(漢) 곽거병(霍去病). 무제(武帝) 때 표요교위(嫖姚校尉)로서 뒤에 관군후(冠軍侯)로 여섯 번 흉노(凶奴)를 쳐 큰 공을 세웠다.
+  - key: '[주-D004] 절개는 …… 뒤에야 지리 : '
+    value: “겨울이 된 뒤에야 소나무, 잣나무가 뒤에 시들어짐을 아나니라[歲寒然後 知松柏之後彫也].” 《論語》 절개가 굳음을 비유한 공자의 말이다.
+  - key: '[주-D005] 오랑캐들 감히……못하네 : '
+    value: “도척(盜跖)의 개가 요(堯)를 짓는 것은 요(堯)가 불인(不仁)한 것이 아니라 제 주인 아닌 까닭이다.” 하는 옛말이 있는데, 여기서는 오랑캐와 우리의 사이에 그 말을 인용하였다.
+  - key: '[주-D006] 봉황(鳳凰)이……날아들어서 : '
+    value: 중서성(中書省)을 봉황지(鳳凰池)라 한다.
+  - key: '[주-D007] 쌍미(雙美) : '
+    value: 충(忠)과 효(孝). “어여쁠시고, 충과 효, 쌍미로 기린각에 그렸도다[可憐忠與孝 雙美畵麒麟].” 《杜甫詩》
+  - key: '[주-D008] 벼슬은……지났네 : '
+    value: 삼국 때 위(魏) 순상(荀爽)이 포의(布衣)로부터 일어나 95일에 삼공에 이르렀다.
+  - key: '[주-D009] 회오리 바람 : '
+    value: 붕새[鵬]가 북명(北冥)에서 남명(南冥)으로 옮아갈 제 회오리 바람을 치고 9만리로 올라갔다 한다.
+english:
+  title: To the Vice Director of the Gate
+  author: Lee Kyu-bo
+  language: eng
+  text: |-
+    Celestial gold descends from heaven's height,
+    And iron pillars rise in mountain's might.
+    Your house inherits Ban's distant line,
+    The nation rests on Huo's design.
+    White jade holds luster in your name,
+    Green pines endure through frost's hard claim.
+    A rainbow spans your triple talent wide,
+    Eight folds of earth mark where you bide.
+
+    Li Guang reborn in this swift age,
+    The northern tribes dare not engage.
+    The great tortoise lifts the isle so high,
+    The phoenix enters heaven's sky.
+    Your steadfast words shake crowds of men,
+    Your loyal heart serves realm and then—
+    Two sovereigns blessed by your devotion true,
+    Both virtues meet, both graces shine in you.
+    Your advancement swift beyond compare,
+    While I, from frost-bound lands laid bare,
+    Drift homeless across earth and sea.
+
+    Now let me stretch my neck and soar,
+    And steal the whirlwind's mighty roar.
+  footnotes:
+  - key: ''
+    value: Ban Dingyuan and Huo Qubing were celebrated generals of the Han Dynasty, symbols of military excellence and loyal service.
+  - key: ''
+    value: The reference to Li Guang invokes another legendary Han general, representing swift and decisive leadership.
+  - key: ''
+    value: The phoenix entering the 'celestial pool' alludes to appointment to high office in the central government.
+  - key: ''
+    value: The poem contrasts the subject's dual virtues of loyalty (忠) and filial piety (孝), drawn from Confucian ideals.
+  - key: ''
+    value: The final image of the great bird (鵬) seeking the whirlwind wind references the Daoist philosopher Zhuangzi, suggesting the poet's hope for advancement through supernatural or providential aid.

@@ -1,0 +1,57 @@
+canonical:
+  title: 上致仕孫參政賀年狀
+  author: 金富軾
+  language: lzh
+  text: 舜璣觀象方知七政之和堯曆授時共愛三陽之泰恭惟致政相國天民先覺本朝老成若濟大川早施舟楫之用猶弃弊屣遽謝軒裳之榮獨游無何永錫難老矧履彙征之吉益延大有之祥某等官守所拘展謁無路
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上致仕孫參政賀年狀
+  author: 金富軾
+  language: lzh
+  text: 舜璣觀象。方知七政之和。堯曆授時。共愛三陽之泰。恭惟致政相國。天民先覺。本朝老成。若濟大川。早施舟楫之用。猶弃弊屣。遽謝軒裳之榮。獨游無何。永錫難老。矧履彙征之吉。益延大有之祥。某等官守所拘。展謁無路。
+korean:
+  title: 상 치사 손참정 하연 장
+  author: 김부식
+  language: kor
+  text: 순(舜) 임금의 선기(璿璣 혼천의(渾天儀))로 상(象)을 관찰하니, 바야흐로 칠정(七政)의 화(和)를 알고, 요(堯) 임금의 책력으로 계절을 지시함에 모두 삼양(三陽)의 태(泰 《주역》의 괘 이름)를 사랑합니다. 삼가 생각건대, 치정 상국(致政相國)은 천민(天民)의 선각(先覺)이요 본조(本朝)의 노성(老成)으로서, 큰 내를 건너게 될 적에는 진작 주즙(舟楫)의 구실을 하시었는데, 지금은 헌 신짝 버리듯이 선뜻 헌상(軒裳)의 영화를 사(謝)하시고, 홀로 무하유(無何有)의 고향에 노닐어 길이 난로(難老)를 누리시는데 하물며 휘정(彙征)의 길한 때를 당해서, 더욱 대유(大有)의 상서를 연장하게 되는 것이겠습니까. 모(某) 등은 관수(官守)에 얽매여 뵈올 길이 없음을 한탄합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 칠정(七政) : '
+    value: 일(日)ㆍ월(月)과 수(水)ㆍ화(火)ㆍ금(金)ㆍ목(木)ㆍ토(土)의 오성(五星)을 말한 것이다. 《서경(書經)》 순전(舜典)에, “선기옥형(璿璣玉衡)을 살펴서 칠정(七政)을 가지런히 한다[在璿璣玉衡齊七政].” 하였다.
+  - key: '[주-D002] 휘정(彙征) : '
+    value: 휘(彙)는 유(類)와 같은 뜻이다. 《주역(周易)》 태(泰)괘에, “잔디를 뽑듯이 그 유로써 간다.[拔芧茹以其彙征]” 하였고, 주에, “군자가 등용되면 그 유가 따라서 등용된다는 뜻이다.” 하였다.
+english:
+  title: New Year Congratulations Sent to Retired Minister Son, Former Prime Minister
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    When Shun gazed through the celestial sphere to observe the heavens,
+    he came to understand the harmony of the seven luminaries.
+    When Yao set forth his calendar to mark the seasons,
+    all rejoiced in the auspiciousness of triple yang.
+
+    Reverently I consider: the retired Prime Minister stands
+    as heaven's chosen sage, the seasoned pillar of our realm.
+    When great rivers must be crossed, he early provided the oars and boats—
+    yet now, like discarding worn-out sandals,
+    he has gladly laid aside the splendor of office.
+
+    Solitary he wanders in that realm beyond all things,
+    granted the blessing of never growing old.
+    Moreover, as fortune's auspicious current flows,
+    it shall yet prolong the abundance of greater prosperity.
+
+    We lesser officials, bound by our duties,
+    find ourselves without means to pay our respects.
+  footnotes:
+  - key: ''
+    value: The seven luminaries (七政) refer to the sun, moon, and five planets—water, fire, metal, wood, and earth—representing the celestial order that ancient sage-kings harmonized.
+  - key: ''
+    value: The phrase 'auspiciousness of triple yang' (三陽之泰) alludes to the hexagram Tai (泰) from the Book of Changes, symbolizing peace and prosperity.
+  - key: ''
+    value: The reference to Shun's celestial sphere (璿璣) and Yao's calendar-setting evokes the ancient Chinese ideal of sage rulers who maintained cosmic harmony.
+  - key: ''
+    value: '''That realm beyond all things'' (無何有) is a Daoist concept of perfect freedom from worldly concerns.'
+  - key: ''
+    value: The mention of 'fortune's auspicious current' draws on the I Ching's principle that when virtuous leaders are elevated, their excellence naturally draws others of similar merit to follow their example.

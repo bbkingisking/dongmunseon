@@ -1,0 +1,48 @@
+canonical:
+  title: 惕若齋銘
+  author: 鄭夢周
+  language: lzh
+  text: 惟天之行日九萬程須臾有間物便不生逝者如斯衮衮無已一念作病血脉中否君子畏之夕惕乾乾積力之極對越在天
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 惕若齋銘
+  author: 鄭夢周
+  language: lzh
+  text: 惟天之行。日九萬程。須臾有間。物便不生。逝者如斯。衮衮無已。一念作病。血脉中否。君子畏之。夕惕乾乾。積力之極。對越在天。
+korean:
+  title: 척약재 명
+  author: 정몽주
+  language: kor
+  text: 하늘의 운항하는 것은 날마다 9만 리라. 잠깐이라도 간단(間斷)이 있다면, 물(物)이 나지 못한다. 운행하는 것은 이와 같아서 쉬지 않는다. 잠깐 동안이라도 병이 생기면 혈맥(血脈)이 중단되는 것이니, 군자가 그것을 무서워하여 밤이면 두려워 반성하고 공부를 지극히 쌓으면, 하늘을 대할 수 있을 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription for the Hall of Vigilant Restraint
+  author: Jeong Mongju
+  language: eng
+  text: |-
+    The heavens move ceaselessly,
+    Traversing ninety thousand leagues each day.
+    Should there be even a moment's pause,
+    Nothing would grow or flourish.
+
+    Time flows ever onward without rest,
+    Yet a single instant of negligence
+    Brings sickness to the blood vessels,
+    Interrupts the vital flow.
+
+    The noble one trembles at this truth,
+    Each evening seized by reverent fear,
+    Reflecting on the vast expanse.
+    Through relentless cultivation,
+    Through the accumulation of strength,
+    One stands at last before Heaven,
+    Meeting its countenance with dignity.
+  footnotes:
+  - key: ''
+    value: The Hall of Vigilant Restraint (惕若齋) refers to a study or meditation hall, emphasizing constant watchfulness and self-discipline.
+  - key: ''
+    value: The ninety thousand leagues represents the vastness of Heaven's ceaseless motion, used as an image for the continuous cycle of natural and moral order.
+  - key: ''
+    value: The blood vessel metaphor illustrates how even momentary moral negligence disrupts one's inner harmony and virtue.

@@ -1,0 +1,47 @@
+canonical:
+  title: 皇都
+  author: 鄭夢周
+  language: lzh
+  text: 尺劒龍飛定四維一時豪傑爲扶持山河帶礪徐丞相天地經綸李太師駙馬林池春爛熳國公樓閣月參差始知盛代功臣後共享昇平萬世期
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 皇都
+  author: 鄭夢周
+  language: lzh
+  text: 尺劒龍飛定四維。一時豪傑爲扶持。山河帶礪徐丞相。天地經綸李太師。駙馬林池春爛熳。國公樓閣月參差。始知盛代功臣後。共享昇平萬世期。
+korean:
+  title: 황도
+  author: 정몽주
+  language: kor
+  text: |-
+    삼척 검 들고 용처럼 날아 천하를 정하시니
+    당대의 호걸들이 모두 나와 받들었네
+    산하를 띠와 숫돌로 맹세한 이는 서 승상[명나라 개국 공신 서달]
+    천지를 경륜하는 분은 이 태사[명나라 개국 공신 이선장]
+    부마댁 숲속 연못 가엔 봄꽃이 난만하고
+    국공의 누각에는 달빛이 흐트러졌다
+    알겠구나 좋은 시대 공신들의 후손들이
+    다 함께 태평을 즐겨 만세토록 기약함을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 산하(山河)를 띠와 숫돌 : '
+    value: 한(漢) 고조(高祖)가 공신(功臣)들에게 나라를 봉해 주면서 맹세한 글에, “황하가 띠와 같이, 태산이 숫돌과 같이 되도록 나라가 길이 있게 하고 이것이 후손들에게 미치리라.” 하였다.
+english:
+  title: The Imperial Capital
+  author: Jung Mong-ju
+  language: eng
+  text: |-
+    A foot-long sword flies like a dragon to order the four directions.
+    In this time, all the heroes emerge and pledge their support.
+    The mountains and rivers swear by the sash and whetstone—such is Minister Xu's vow.
+    Heaven and earth are ordered through the wisdom of Chancellor Li.
+    By the royal son-in-law's forest pool, spring blossoms bloom in profusion.
+    On the duke's pavilion, moonlight scatters in gentle disarray.
+    Now I understand: the descendants of great ministers in this prosperous age
+    Together enjoy the peace that extends through ten thousand generations.
+  footnotes:
+  - key: ''
+    value: Mountains and rivers sworn by sash and whetstone refers to an oath made by the Han dynasty founder, promising that the realm would endure as long as the Yellow River remains a sash and Mount Tai remains a whetstone—a blessing extended to descendants. Here it evokes the enduring loyalty and divine sanction of the founding ministers.
+  - key: ''
+    value: The poem commemorates the founding of the Ming dynasty and celebrates its principal architects, particularly the sage ministers who helped establish stability and prosperity.

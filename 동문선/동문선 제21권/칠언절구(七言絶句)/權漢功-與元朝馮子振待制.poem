@@ -1,0 +1,37 @@
+canonical:
+  title: 與元朝馮子振待制
+  author: 權漢功
+  language: lzh
+  text: 玉樹淸風滿九天紫皇香案一儒仙大平文物重興後圖畫凌烟尙少年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 與元朝馮子振待制
+  author: 權漢功
+  language: lzh
+  text: 玉樹淸風滿九天。紫皇香案一儒仙。大平文物重興後。圖畫凌烟尙少年。
+korean:
+  title: 여원조풍자진대제
+  author: 권한공
+  language: kor
+  text: |-
+    옥나무의 맑은 바람 구천에 가득한데
+    자황의 향안 앞에 한 사람 유선이네
+    태평 세상의 문물이 다시 일어난 뒤에
+    능연각에 그려지니 아직 소년이었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0820&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 능연각(凌烟閣) : '
+    value: 당나라에서 능연각(凌烟閣)에다 공신(功臣)들의 초상을 그렸다.
+english:
+  title: To Yuan Dynasty Official Feng Zizhen
+  author: Kwon Han-gong
+  language: eng
+  text: |-
+    The jade tree's clear wind fills the nine heavens,
+    Before the Purple Emperor's fragrant altar stands one Confucian sage.
+    After the great peace and culture flourished anew,
+    Painted in the Hall of Soaring Smoke—still youthful then.
+  footnotes:
+  - key: ''
+    value: The Hall of Soaring Smoke (凌烟閣) refers to the famous hall in Tang Dynasty China where portraits of meritorious officials were displayed.

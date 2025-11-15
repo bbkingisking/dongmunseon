@@ -1,0 +1,45 @@
+canonical:
+  title: 寒食村家
+  author: 金宗直
+  language: lzh
+  text: 禁火之辰春事多芳菲點檢在農家鳩鳴糓糓棣棠葉蝶飛欵欵蕪菁花帶樵壠上烏犍返挑菜籬邊釵䯻歌有田不歸戀五斗元亮笑人將奈何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寒食村家
+  author: 金宗直
+  language: lzh
+  text: 禁火之辰春事多。芳菲點檢在農家。鳩鳴糓糓棣棠葉。蝶飛欵欵蕪菁花。帶樵壠上烏犍返。挑菜籬邊釵䯻歌。有田不歸戀五斗。元亮笑人將奈何。
+korean:
+  title: 한식 촌가
+  author: 김종직
+  language: kor
+  text: |-
+    불을 금하는 때(한식)에는 봄일이 많나니
+    방비를 점검하는 것도 농가에 있다
+    비둘기는 국국 아가위 나무 잎에서 울고
+    자비는 훨훨 무우꽃에서 나네
+    나무를 지는 밭두덕 위에는 검정 송아지 돌아오고
+    나물 가리는 울타리 밑에는 쪽진 여자가 노래한다
+    밭이 있어도 돌아가지 않음은 쌀 다섯 말에 집착함이니
+    원량이 사람을 웃은들 장차 어찌하리오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0820&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 원량(元亮) : '
+    value: 진(晉)나라의 도연명이다. 그는 팽택현(彭澤縣)의 현령으로 갔었는데, 그 봉급이 쌀 닷말이었다. 그 닷말 쌀로 하여 매이는 것이 싫다고 하여 유명한 귀거래사(歸去來辭)를 짓고 돌아가 버렸다. 그러므로 나도 그 현령의 봉급에 맛들여서 돌아가지 아니하면 도연명에게 웃음을 당한다는 말이다.
+english:
+  title: Spring in a Village on Cold Food Day
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    When the day comes to extinguish all fires, spring's labor multiplies.
+    Even the farmer inspects what blossoms fall where.
+    Doves coo softly among the Chinese scholar tree leaves,
+    Butterflies drift lightly through the rapeseed flowers.
+    On the ridged fields where woodcutters toil, black calves return home,
+    And by the garden fence where greens are gathered, a young girl sings.
+    Yet some refuse to leave, enslaved by five measures of rice—
+    Would not Tao Yuanming laugh at such folly?
+  footnotes:
+  - key: ''
+    value: Tao Yuanming (元亮, 陶淵明) was a celebrated Jin Dynasty poet who served as magistrate of Pengze County, receiving only five measures of rice as stipend. Famously rejecting this modest salary as beneath his dignity, he wrote the renowned essay 'Return to the Fields' and retired from official service. The poet alludes to Tao's principled departure to mock those who remain bound to meager compensation.

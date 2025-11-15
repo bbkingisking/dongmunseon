@@ -1,0 +1,53 @@
+canonical:
+  title: 八月初九日夜坐
+  author: 韓脩
+  language: lzh
+  text: 皇天分四時寒暑各有節祝融何不廉八月尙炎熱今霄金氣應揮扇始得輟悠然坐南榮仰視乾文列月在析木津不見西柄揭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 八月初九日夜坐
+  author: 韓脩
+  language: lzh
+  text: 皇天分四時。寒暑各有節。祝融何不廉。八月尙炎熱。今霄金氣應。揮扇始得輟。悠然坐南榮。仰視乾文列。月在析木津。不見西柄揭。
+korean:
+  title: 8월 9일 밤에 앉아
+  author: 한수
+  language: kor
+  text: |-
+    하늘이 사시를 나누어서
+    춥고 더움이 각각 절후가 있다
+    축융이 어찌 청렴하지 못한가
+    팔월이 아직도 불꽃처럼 덥구나
+    오늘 밤에 가을 기운이 움직이니
+    부채 흔들기를 비로소 멈추었다
+    한가히 남쪽 처마 밑에 앉아서
+    벌여 있는 달과 별들을 우러러본다
+    달은 석목진(천문학(天文學) 용어)에 있건만
+    서병(천문학(天文學) 용어) 드는 것이 뵈지 않는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Night of the Ninth Day of the Eighth Month
+  author: Han Soo
+  language: eng
+  text: |-
+    Heaven divides the four seasons,
+    Cold and heat each have their proper time.
+    Why does Zhurong show no restraint?
+    August still burns with fierce flame.
+
+    Tonight the autumn breath stirs,
+    And I set down my fan at last.
+    At ease beneath the southern eaves,
+    I gaze up at the stars spread wide.
+
+    The moon rests in Xishi's ford,
+    Yet I cannot see the western handle rise.
+  footnotes:
+  - key: ''
+    value: Zhurong (祝融) is the Chinese god of fire, invoked here to explain the persistent summer heat in the eighth lunar month.
+  - key: ''
+    value: The southern eaves (南榮) refers to a sheltered, pleasant spot—likely the poet's preferred resting place.
+  - key: ''
+    value: Xishi's ford (析木津) and the western handle (西柄) are classical Chinese astronomical references marking specific positions in the night sky.

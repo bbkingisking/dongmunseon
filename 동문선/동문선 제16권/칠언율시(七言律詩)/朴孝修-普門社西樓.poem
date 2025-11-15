@@ -1,0 +1,50 @@
+canonical:
+  title: 普門社西樓
+  author: 朴孝修
+  language: lzh
+  text: 松間喝道遠尋師春盡山花半在枝薄領堆邊身自老水雲鄕裏夢常馳祖禪每欲將心問民瘼那堪放手醫徙倚未能題勝景俗塵還繞下樓時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 普門社西樓
+  author: 朴孝修
+  language: lzh
+  text: 松間喝道遠尋師。春盡山花半在枝。薄領堆邊身自老。水雲鄕裏夢常馳。祖禪每欲將心問。民瘼那堪放手醫。徙倚未能題勝景。俗塵還繞下樓時。
+korean:
+  title: 보문사 서루
+  author: 박효수
+  language: kor
+  text: |-
+    솔 사이로 갈도하며 멀리 스님 찾아오니
+    봄도 다해 산꽃이 반이나 떨어졌네
+    공문서 더미 속에 몸은 절로 늙어도
+    운수 그윽한 곳에 꿈은 노상 달렸네
+    조선께 매양 마음을 가지고 묻고자 하나
+    민생고에 어찌 의원의 손을 떼리
+    와서 놀면서 좋은 경치 시로 쓰기 전에
+    다락을 내리느라니 속진 도로 감도네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 갈도(喝道) : '
+    value: 관원이 출입할 때에 벽제(辟除)하는 것을 갈도(喝道)라 하는데, 소나무 사이에 갈도(喝道)하는 것은 당나라 이의산(李義山)이 열거(列擧)한 몇 가지 살풍경(殺風景)의 하나이다. 그것은 산에 놀러가는 사람은 한가하고 맑은 취미를 찾는 것인데, 관원이 소나무 숲 사이에 벽제(辟除) 소리를 높이 하는 것을 조롱하는 말이다. 여기서는 작자(作者)가 관원이므로, 이런 말을 인용하여 조롱한 것이다.
+  - key: '[주-D002] 조선(祖禪)께 …… 묻고자 : '
+    value: 달마조사(達摩祖師)가 소실산(少室山)에 있을 때에 혜가(惠可)가 와서, “마음이 불안하니 편안케 하여 주소서.” 하고 물은즉, 달마(達摩)는, “마음을 가져 오너라. 너를 안심시켜주마.[將心來與汝安]” 하였다.
+english:
+  title: Western Tower of Pomunsa Temple
+  author: Park Hyo-su
+  language: eng
+  text: |-
+    Through pine groves sounds the herald's call as I seek the distant master;
+    Spring has passed, and half the mountain flowers have fallen from their branches.
+    Amid the heap of official documents my body grows old of itself,
+    Yet in that realm of water and cloud my dreams forever race.
+
+    To the ancestral Buddha I wish always to bring my troubled heart,
+    But how can the healer withdraw his hand from the people's suffering?
+    Before I could linger long enough to compose the landscape's beauty,
+    The descent from this tower draws me back into the dust of the world.
+  footnotes:
+  - key: ''
+    value: The opening image of the herald's call through the pines references Li Yishan's famous critique of 'scene-killing' sights—the irony being that the poet himself, as an official, embodies this intrusion of worldly authority into nature's realm.
+  - key: ''
+    value: 'The reference to the ancestral Buddha alludes to Bodhidharma''s teaching to Hui-ke: ''Bring me your mind and I will set it at ease''—a koan questioning the very nature of mind-seeking itself.'

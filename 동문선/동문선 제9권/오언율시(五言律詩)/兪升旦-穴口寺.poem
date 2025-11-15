@@ -1,0 +1,47 @@
+canonical:
+  title: 穴口寺
+  author: 兪升旦
+  language: lzh
+  text: 地縮兼旬路天低近尺隣雨宵猶見月風晝不躋塵晦朔潮爲曆寒暄草記辰干戈看世事堪羨臥雲人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 穴口寺
+  author: 兪升旦
+  language: lzh
+  text: 地縮兼旬路。天低近尺隣。雨宵猶見月。風晝不躋塵。晦朔潮爲曆。寒暄草記辰。干戈看世事。堪羨臥雲人。
+korean:
+  title: 혈구사
+  author: 유승단
+  language: kor
+  text: |-
+    열흘 길이나 줄었고
+    하늘이 나직히 한 자[尺] 이웃인 듯
+    비오는 밤에도 달을 그냥 보겠고
+    바람 부는 낮에도 먼지를 안 밟네
+    초하루ㆍ그믐은 조수로 책력 삼고
+    더위와 추위는 풀이 철을 표시하네
+    세상을 보니 전벌뿐
+    구름에 누워있는 사람 몹시도 부러워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0420&viewSync=OT
+  footnotes: []
+english:
+  title: Hyulgu Temple
+  author: Yu Seungdan
+  language: eng
+  text: |-
+    Ten days' journey compressed into one,
+    the sky hangs low, barely a hand's span away.
+    Even on rainy nights the moon remains visible,
+    on windy days no dust settles on the path.
+    New moon and full moon mark the calendar by tide,
+    the grasses measure the seasons by heat and cold.
+    When I look upon the world, I see only war and strife—
+    how I envy those who sleep among the clouds.
+  footnotes:
+  - key: ''
+    value: The compression of distance and lowering of sky suggest a spiritual sanctuary removed from worldly concerns.
+  - key: ''
+    value: The reference to natural cycles (tides, seasonal grasses) indicates a place where cosmic order remains intact and observable.
+  - key: ''
+    value: The closing contrast between the turmoil of the world and the peace of those dwelling in clouds reflects a common Buddhist and Daoist ideal of withdrawal from society.

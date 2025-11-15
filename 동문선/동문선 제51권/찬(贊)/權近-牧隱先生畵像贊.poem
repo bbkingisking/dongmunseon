@@ -1,0 +1,33 @@
+canonical:
+  title: 牧隱先生畵像贊
+  author: 權近
+  language: lzh
+  text: 挺天資之粹美窮聖學之精微胷襟洒落瑩徹光輝踐履極於篤實文章妙於發揮匪點之狂而有詠歸之興猶惠之和而無不恭之譏學者仰之如山斗國家倚之如蓍龜膺大拜而不變其塞履大難而不怵於威赤心彌諒素節不移眞公所以自道之辭也若夫江漢滔滔雲烟霏霏追逐歐韓並駕齊馳後之觀者知吾言之不欺也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 牧隱先生畵像贊
+  author: 權近
+  language: lzh
+  text: 挺天資之粹美。窮聖學之精微。胷襟洒落。瑩徹光輝。踐履極於篤實。文章妙於發揮。匪點之狂而有詠歸之興。猶惠之和而無不恭之譏。學者仰之如山斗。國家倚之如蓍龜。膺大拜而不變其塞。履大難而不怵於威。赤心彌諒。素節不移。眞公所以自道之辭也。若夫江漢滔滔。雲烟霏霏。追逐歐韓。並駕齊馳。後之觀者。知吾言之不欺也。
+korean:
+  title: 목은선생화상 찬
+  author: 권근
+  language: kor
+  text: 천품은 순수하며 아름답게 타고났으며 성인의 학문에 대하여 정미한 곳까지 철저히 연구하였다. 마음가짐이 시원스러워서 환하게 밝으며 빛이 나도다. 실천에 있어서는 매우 독실하였으며 문장은 그 표현력이 기발하였다. 증점(曾點) 같은 광(狂)이 아니면서도 “시를 읊으며 돌아가리라.”는 취미를 가졌고 유하혜(柳下惠)의 화(和)와 같으면서도 “세상을 비웃는다.”는 비난은 받지 않았다. 학자들은 그를 태산북두(泰山北斗)처럼 우러러 보았고 나라에서는 그를 시귀(蓍龜)처럼 믿었다. 대신으로 임명을 받았으나 그의 지조는 변하지 않았고 큰 어려움을 당하면서도 위엄을 두려워하지 아니하였다. 붉은 마음을 더욱 미더웠고 근본 절조는 옮기지 아니하였다. 이것은 공이 스스로 자기를 평한 말이라 할 수 있다. 만약 강물은 출렁거리며 연기와 구름이 어려 있을 때 구양수(歐陽修)ㆍ한유(韓愈)와 고삐를 같이 잡고 나란히 달리는 듯한 그의 문장에 대하여 세상에 보는 사람들의 나의 말이 속은 것이 아님을 알아 줄 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: A Eulogy on the Portrait of Master Mokeun
+  author: Gwon Geun
+  language: eng
+  text: He possessed the purest talents by nature, their beauty refined and luminous. He exhausted the subtleties of the sage's learning, plumbing its depths. His spirit was expansive and clear, radiant with crystalline brilliance. In conduct, his sincerity was absolute; in composition, his expression was masterly. Though not possessed of the recklessness of Zengdian, he harbored the soul of one who would recite verse and drift homeward. Like Liuxia Hui in his harmony, yet free from the reproach of worldly scorn. Scholars gazed upon him as they gaze upon the Northern Star above Taishan. The realm trusted him as it trusts the oracle bones and divining stalks. Though called to high office, his integrity remained unchanged. When great calamities came, he did not tremble before power. His crimson heart grew ever more steadfast, his white principles immovable. These are the words by which the Master judged himself. And when one beholds his writings—like the Yangtze and Yellow Rivers surging forth, like mist and cloud gathering—moving in harmony with the brush-strokes of Ouyang Xiu and Han Yu, riding in parallel majesty, then shall those who view them in ages to come know that my words carry no deception.
+  footnotes:
+  - key: ''
+    value: Zengdian and Liuxia Hui were virtuous figures from ancient China; their names here represent ideals of both aspiration and moral rectitude without affectation.
+  - key: ''
+    value: The Northern Star above Taishan (泰山北斗) is a classical metaphor for one worthy of universal respect and emulation.
+  - key: ''
+    value: The oracle bones and divining stalks (蓍龜) represent sources of reliable counsel and guidance.
+  - key: ''
+    value: Ouyang Xiu and Han Yu were renowned Tang and Song literati whose literary mastery set the standard for excellence.

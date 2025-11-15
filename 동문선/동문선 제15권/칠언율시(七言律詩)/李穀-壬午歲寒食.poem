@@ -1,0 +1,50 @@
+canonical:
+  title: 壬午歲寒食
+  author: 李穀
+  language: lzh
+  text: 宦路從來足是非更堪親老遠庭闈已從客路逢寒食也任京塵染素衣細雨忽來驚節換落花如掃惜春歸忍貧要趁良辰醉鬂髮多情心事違
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 壬午歲寒食
+  author: 李穀
+  language: lzh
+  text: 宦路從來足是非。更堪親老遠庭闈。已從客路逢寒食。也任京塵染素衣。細雨忽來驚節換。落花如掃惜春歸。忍貧要趁良辰醉。鬂髮多情心事違。
+korean:
+  title: 임오세 한식
+  author: 이곡
+  language: kor
+  text: |-
+    벼슬길이 전부터 시비가 많은 터에
+    늙으신 어버이를 멀리 떠나 있으리만
+    이미 객지에서 한식을 만났으니
+    서울 먼지 흰 옷을 물들인 대로
+    가랑비가 문득 오니 철 바뀐 것 놀라와라
+    낙화도 쓴 듯 하니 이 봄도 늦어지리
+    가난해도 명절이면 놓치지 말고 취할 것이
+    다정한 젊은 시절에 어긋나는 내 심사
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 서울 먼지 …… 물들인 대로 : '
+    value: 위(魏)나라 조식(曹植)의 시에, “서울에 풍진이 많으니 흰 옷이 변하여 검어지네[京洛多塵素衣化爲緇].”라는 구절이 있다.
+english:
+  title: Cold Food Festival in the Year of Renmu
+  author: Lee Gok
+  language: eng
+  text: |-
+    The official's path has always been rife with right and wrong,
+    yet here I linger far from aging parents at home.
+    Already in exile have I encountered the Cold Food Festival,
+    and let the dust of the capital soil my white robes as it will.
+
+    Soft rain arrives sudden, startling the turn of seasons—
+    falling petals swept away, I grieve spring's departure.
+    Poor though I am, when the feast day comes I will not miss it;
+    I'll drink to drown the sorrow of my heart's betrayal of youth.
+  footnotes:
+  - key: ''
+    value: The 'Cold Food Festival' (한식) was traditionally observed on the day before the Spring Equinox, when no fires were lit and only cold food was eaten.
+  - key: ''
+    value: 'The white robes soiled by capital dust alludes to Cao Zhi''s poem: ''The capital is thick with dust, and white robes turn to black.'' This imagery suggests the corruption of official life in the capital.'
+  - key: ''
+    value: The poet contrasts his impoverishment and exile with the duty to observe proper ritual during festivals, expressing the tension between physical hardship and emotional obligation.

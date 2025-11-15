@@ -1,0 +1,86 @@
+canonical:
+  title: 題日出扶桑圖
+  author: 申從濩
+  language: lzh
+  text: 東方碧海蘸天濕鼇極浮浮如覆笠搏桑枝頭鷄一聲萬縷丹霞吹水立羲和女子獨西行浪底敲日玻瓈聲火龍擎出黃金輪霓旌絳節紛縱橫人閒更漏檛未畢三十六宮夜如漆蘭房香夢春酣酣寶欄十二湘簾密須臾千門萬戶闢一抹晨光射天赤看圖使我雙眸開怳然身在琅瑘臺秦橋鞭石血未乾羡門安期安在哉兩袖仙飊冷似水吾欲乘此觀蓬萊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題日出扶桑圖
+  author: 申從濩
+  language: lzh
+  text: 東方碧海蘸天濕。鼇極浮浮如覆笠。搏桑枝頭鷄一聲。萬縷丹霞吹水立。羲和女子獨西行。浪底敲日玻瓈聲。火龍擎出黃金輪。霓旌絳節紛縱橫。人閒更漏檛未畢。三十六宮夜如漆。蘭房香夢春酣酣。寶欄十二湘簾密。須臾千門萬戶闢。一抹晨光射天赤。看圖使我雙眸開。怳然身在琅瑘臺。秦橋鞭石血未乾。羡門安期安在哉。兩袖仙飊冷似水。吾欲乘此觀蓬萊。
+korean:
+  title: 제 일출 부상도
+  author: 신종호
+  language: kor
+  text: |-
+    동쪽의 푸른 바다가 하늘 끝을 적시었는데
+    둥실 떠 있는 섬이 갓을 엎은 것 같구나
+    부상 가지 끝에 닭이 한 마리 우니
+    만 올 붉은 놀이 물을 불며 일어서네
+    희화 여자가 혼자 서쪽으로 가서
+    물결 밑에 해를 두드려 유리 소리를 내더니만
+    화룡이 황금 바퀴를 받들고 나오니
+    무지개 깃발, 붉은 절이 가로 세로 펄펄
+    인가의 경루는 아직 다 못 쳐서
+    삼십 육 궁이 모두 캄캄 칠야
+    난방의 향몽이 한창 무르녹고
+    열두 보란에 상렴이 겹겹하더니만
+    이윽고 천문ㆍ만호가 활짝 열리니
+    한 가닥 새벽빛이 하늘을 빨갛게 쏘누나
+    그림을 보니 내 두 눈이 활짝 열려
+    이 몸이 바로 낭야대에 있는 듯
+    진교의 돌 채찍질은 피가 아직 안 말랐는데
+    선문생ㆍ안기자는 어디에 있단 말고
+    두 소매의 신선 바람이 물처럼 써늘하니
+    내, 이 바람 타고 봉래 구경하려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 희화(羲和) 여자 : '
+    value: 해의 수레를 모는 어자(御者). 희화국의 여자라 한다. 《山海經》
+  - key: '[주-D002] 낭야대(琅琊臺) : '
+    value: 중국 산동성(山東省) 해변에 있던 대(臺). 진 시황(秦始皇)이 그 대를 묻고 각석기공(刻石紀功)했었다.
+  - key: '[주-D003] 진교(秦橋)의 돌 채찍질 : '
+    value: 진 시황이 돌다리를 만들어 그것을 디디고 바다를 건너 해 뜨는 곳을 가 보려 하니, 신인(神人)이 나타나 돌을 몰아 바다로 내려가는데, 돌이 빨리 가지 않으면 신(神)이 채찍으로 갈겨 돌에 피가 났다 한다.
+english:
+  title: On a Painting of the Sun Rising over Fusang
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    The eastern sea of jade-green washes the rim of heaven,
+    And the tortoise-island floats like an inverted hat.
+    A rooster cries at the tip of the Fusang tree,
+    As ten thousand threads of crimson dawn rise up, blown across the waters.
+
+    The charioteer of the sun departs alone toward the west,
+    Tapping the sun beneath the waves with a glassy sound,
+    While fire-dragons bear forth the golden wheel,
+    And rainbow banners and scarlet pennants stream in wild array.
+    In human dwellings the night-drum has not yet finished,
+    The thirty-six palaces remain dark as pitch,
+    And fragrant spring dreams lie heavy in the orchid chamber,
+    While gauze curtains hang thick over twelve balustrades.
+
+    Suddenly a thousand gates and ten thousand doors open wide,
+    And a single stroke of dawn light shoots across the reddening sky.
+    Seeing this painting, my eyes fly wide open,
+    And I find myself standing upon the Langya Terrace,
+    Where blood still stains the stones of Qin's whipped bridge—
+    Where are Xianmen and Anqi now?
+
+    The immortal wind upon my sleeves chills like water,
+    And I would ride this wind to glimpse the Mount Penglai.
+  footnotes:
+  - key: ''
+    value: 'Fusang (扶桑): In Chinese mythology, the cosmic tree at the eastern edge of the world where the sun rises.'
+  - key: ''
+    value: 'The charioteer of the sun (羲和): In classical Chinese cosmology, the divine charioteer who drives the sun''s chariot across the sky.'
+  - key: ''
+    value: 'Langya Terrace (琅琊臺): A legendary terrace on the coast of Shandong where the First Emperor of Qin sought to view the sunrise.'
+  - key: ''
+    value: 'The stones of Qin''s whipped bridge: A reference to Qin Shi Huang''s attempt to cross the sea to find the land of immortals; according to legend, divine beings whipped the stones used to build the bridge, which bled.'
+  - key: ''
+    value: 'Xianmen and Anqi (羡門、安期): Immortals from Chinese legend sought by the First Emperor in his quest for eternal life.'
+  - key: ''
+    value: 'Mount Penglai (蓬萊): One of the three legendary islands of immortals in East Asian mythology.'

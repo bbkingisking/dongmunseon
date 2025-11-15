@@ -1,0 +1,31 @@
+canonical:
+  title: 謝功臣呼起居表
+  author: 李齊賢
+  language: lzh
+  text: 聞九奏於鈞天猶尋一夢效三呼於嵩岳每祝萬年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝功臣呼起居表
+  author: 李齊賢
+  language: lzh
+  text: 聞九奏於鈞天。猶尋一夢。效三呼於嵩岳。每祝萬年。
+korean:
+  title: 사 공신호 기거 표
+  author: 이제현
+  language: kor
+  text: 균천(鈞天)에서 구주(九奏)를 들었사옴에 오히려 한 꿈을 생각하오며, 숭악(崇岳)에 삼호(三呼)를 바치옴에 매양 만년(萬年)을 비나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0380&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial Expressing Gratitude to the Meritorious Officials
+  author: Lee Je-hyeon
+  language: eng
+  text: Having heard the Nine Movements played in Heaven's Court, I still regard it as a fleeting dream. Offering the Three Calls upon the Sacred Mountain, I ever pray for ten thousand years of blessings.
+  footnotes:
+  - key: ''
+    value: The 'Nine Movements' (九奏) refers to ancient celestial music, evoking the ephemeral nature of earthly honors and achievements.
+  - key: ''
+    value: The 'Three Calls' (三呼) alludes to ritual gestures of respect and blessing, commonly used in court ceremonies to invoke longevity and prosperity for the realm.
+  - key: ''
+    value: The contrast between the ephemeral 'dream' and the eternal prayer for 'ten thousand years' reflects the tension between the transient nature of worldly recognition and the enduring hope for lasting peace.

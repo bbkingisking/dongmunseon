@@ -1,0 +1,29 @@
+canonical:
+  title: 物狀
+  author: 李奎報
+  language: lzh
+  text: 云云土毛修貢雖未肩百辟之造庭暄背獻尊尙欲齒萬方之旅實前件物等豈曰多儀之享斯惟寡用之資唯是至誠達于聦鑒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 李奎報
+  language: lzh
+  text: 云云。土毛修貢。雖未肩百辟之造庭。暄背獻尊。尙欲齒萬方之旅實。前件物等。豈曰多儀之享。斯惟寡用之資。唯是至誠。達于聦鑒。
+korean:
+  title: 물장
+  author: 이규보
+  language: kor
+  text: 운운.토산물(土産物)을 조공하면서 백관(百官)이 모인 뜰에 어깨를 나란히 하지는 못하오나, 등을 쪼이던 햇볕을지존(至尊)께 올리려는 마음으로 만방(萬方)의 여러 공물(貢物)에 끼이려 하나이다. 앞의 물건들을 가지고 어떻게 예의(禮儀)에 흡족한 드림이라 하오리이까마는, 그나마 적게 쓸 물자(物資)이오니, 오직 이 정성으로 성감(聖鑒)에 달(達)하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 등을 쪼이던 햇볕을 : '
+    value: 농부가 등에 햇살을 쬠을 지락(至樂)으로 생각하여, 천자(天子)에게 진상(進上)했다는 고사(故事)이다. 《杜甫詩》
+english:
+  title: Offering of Local Goods
+  author: Lee Gyubo
+  language: eng
+  text: Thus do we present the modest products of our soil. Though we cannot stand shoulder to shoulder with the hundred officials in the great court of the sovereign, we wish to offer what the farmer's back has warmed beneath the sun to the Exalted One, and thereby join among the tributes of the ten thousand regions. These humble items before you—can they be said to fulfill the requirements of proper ceremony? They are but meager resources for use. Yet it is only through this sincerity that we hope to reach the ears and eyes of the sage.
+  footnotes:
+  - key: ''
+    value: The reference to 'what the farmer's back has warmed beneath the sun' alludes to the classical tale of offering the simple joy of peasant labor—the warmth of the sun on one's back—to the Son of Heaven, found in Du Fu's poetry.

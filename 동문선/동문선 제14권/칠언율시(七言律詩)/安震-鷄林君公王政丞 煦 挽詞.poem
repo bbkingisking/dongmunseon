@@ -1,0 +1,54 @@
+canonical:
+  title: 鷄林君公王政丞 煦 挽詞
+  author: 安震
+  language: lzh
+  text: 正朝木稼豈徒哉應爲高官報有災草草盖棺遼野遠堂堂柱國泰山頹朱門日迫千家慘丹旐風生萬壑衰回首德陵山下路碧雲秋色鎖崔嵬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鷄林君公王政丞 煦 挽詞
+  author: 安震
+  language: lzh
+  text: 正朝木稼豈徒哉。應爲高官報有災。草草盖棺遼野遠。堂堂柱國泰山頹。朱門日迫千家慘。丹旐風生萬壑衰。回首德陵山下路。碧雲秋色鎖崔嵬。
+korean:
+  title: 계림군공 왕정승 후 만사
+  author: 안진
+  language: kor
+  text: |-
+    정촛날 나무 고드름이 어찌 우연했으리
+    고관을 위하여 재난을 예고하였네
+    초초히 요동 들에서 관을 닫다니
+    당당한 나라의 기둥, 태산이 무너졌구나
+    주문 저문 날에 집집이 구슬퍼하고
+    명정이 펄럭이니 바람도 설워하네
+    덕능(충선왕(忠宣王)의 능. 개성(開城)에 있다) 산밑 길에 머리를 돌려보니
+    푸른 구름 가을빛이 드높이 잠겨 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0940&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 안진(安震) : '
+    value: 김종직(金宗直)의 점필재집(佔畢齋集) 청구풍아(靑丘風雅)에서는 작가가 방서(方曙)로 되어 있다.
+  - key: '[주-D002] 고드름 : '
+    value: 예로부터 나무에 고드름이 열면 현인(賢人)이나 고관(高官)에게 재앙이 있다 한다.
+  - key: '[주-D003] 당당한 나라의 …… 무너졌구나 : '
+    value: 공자가 돌아가기 전 7일 아침에 불렀다는 노래. “태산이 무너지려는가, 대들보가 부러지려는가, 철인이 이울려는가[泰山其頹乎 梁木其壞乎 哲人其萎乎].”《禮 檀弓》
+  - key: '[주-D001] 玽 : '
+    value: 珣
+english:
+  title: Elegy for Minister Wang, Lord of Gyerim
+  author: An Jin
+  language: eng
+  text: |-
+    On this winter's dawn, why should frozen branches form by chance?
+    They foretell calamity for one of highest rank.
+    Hastily the coffin closes in the distant Liaodong fields—
+    The great pillar of the realm, Mount Tai itself, has crumbled.
+
+    At red gates and crimson banners, house by house the people grieve,
+    The very winds lament as they stir the mourning pennants.
+    Turning back to gaze upon the path below Deung-neung's hill,
+    Blue clouds and autumn's hue lie trapped upon the lofty peaks.
+  footnotes:
+  - key: ''
+    value: The falling icicles from trees were traditionally believed to portend calamity befalling worthy officials or noble persons.
+  - key: ''
+    value: The phrase 'Mount Tai crumbles' alludes to the Analects, where Confucius uttered these words seven days before his death, expressing the loss of sage wisdom from the world.

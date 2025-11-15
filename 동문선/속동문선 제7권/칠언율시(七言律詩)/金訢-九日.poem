@@ -1,0 +1,64 @@
+canonical:
+  title: 九日
+  author: 金訢
+  language: lzh
+  text: 愁邊無奈菊花枝三嗅淸香當一巵作客不堪逢令節憑高逾覺在遐陲蕭蕭草木窮秋後渺渺烟波薄暯時迢遞故山登眺處遙知欠我醉吟詩試登絶頂作重陽旋買前村濁酒觴佳節偏驚孤客意寒花只作故園香明年何處逢今夕此日扁舟滯異鄕不見長安渾欲老孤雲落照共蒼茫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九日
+  author: 金訢
+  language: lzh
+  text: 愁邊無奈菊花枝。三嗅淸香當一巵。作客不堪逢令節。憑高逾覺在遐陲。蕭蕭草木窮秋後。渺渺烟波薄暯時。迢遞故山登眺處。遙知欠我醉吟詩。試登絶頂作重陽。旋買前村濁酒觴。佳節偏驚孤客意。寒花只作故園香。明年何處逢今夕。此日扁舟滯異鄕。不見長安渾欲老。孤雲落照共蒼茫。
+korean:
+  title: 구일
+  author: 김흔
+  language: kor
+  text: |-
+    시름 끝에 국화 가지를 어찌할 수 없어서
+    맑은 향기 세 번 맡아 한 잔 술 마시는 것을 대신했네
+    나그네 되었으매 좋은 때 만난 것을 견디지 못하겠고
+    높은 곳 의지하매 먼 변방에 있음을 깨닫겠다
+    소소한 풀과 나무는 늦가을 뒤요
+    묘묘한 연기와 물결은 해가 지는 때일네
+    멀고 멀다 내 고향을 산에 올라 바라볼 때
+    술에 취하고 시를 읊음이 내게 없는 것을 비로소 알겠구나
+    시험삼아 산마루에 오르매 중양이 되었구나
+    급히 앞 마을의 탁주를 사서 잔질해 보다
+    좋은 절후는 치우치게 외로운 손의 뜻을 놀라게 하는데
+    차거운 꽃은 다만 고향 동산의 향기를 가졌다
+    명년에는 어느 곳에서 오늘 밤을 만날건가
+    이날에는 조각배로 타향에 머물거니
+    장안을 보지 못하고 완전히 늙으려 하는데
+    외로운 구름과 떨어지는 해가 함께 아득하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1220&viewSync=OT
+  footnotes: []
+english:
+  title: The Ninth Day
+  author: Kim Heun
+  language: eng
+  text: |-
+    At sorrow's end, I cannot help but turn to chrysanthemum branches—
+    three times I breathe their pure fragrance to substitute for wine.
+    A wanderer meeting the festive season cannot bear its weight,
+    and leaning on the heights, I realize how distant I have become.
+
+    Scattered grasses and trees exhaust the late autumn's end,
+    while misty waves grow thin as daylight fades away.
+    Far, so far when I climb the mountain to gaze toward my homeland—
+    only then do I know what drunken verses I have lost.
+
+    I venture to the mountain's peak and find it is Double Ninth,
+    and hastily purchase cloudy wine from the village below.
+    The festive season strikes the lonely heart of this traveler with wonder,
+    and cold flowers hold only the fragrance of my distant home.
+
+    Where shall I meet this evening when another year arrives?
+    Today my small boat remains stranded in this foreign land.
+    Unable to see Chang'an, I feel myself grow old,
+    while solitary clouds and setting sun merge into obscurity.
+  footnotes:
+  - key: ''
+    value: Double Ninth (中陽) refers to the ninth day of the ninth lunar month, a traditional East Asian festival celebrated on high places.
+  - key: ''
+    value: Chang'an (長安) refers to the ancient capital, symbolizing home and a place of belonging.

@@ -1,0 +1,51 @@
+canonical:
+  title: 卽事
+  author: 柳方善
+  language: lzh
+  text: 四山松櫟一茅廬坐負墻暄睡味餘衣縫每捫王猛虱漁竿空釣呂望魚軒裳已是無心得金玉何須滿意儲芋栗自堪謀送日盤飱不必蟹爲胥
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 卽事
+  author: 柳方善
+  language: lzh
+  text: 四山松櫟一茅廬。坐負墻暄睡味餘。衣縫每捫王猛虱。漁竿空釣呂望魚。軒裳已是無心得。金玉何須滿意儲。芋栗自堪謀送日。盤飱不必蟹爲胥。
+korean:
+  title: 즉사
+  author: 유방선
+  language: kor
+  text: |-
+    첩첩 산중 솔나무, 참나무 사이 한 초가
+    담 등지고 해바라기, 졸음 솔솔 오누나
+    옷 꿰맨 데선 노 왕맹처럼 이를 잡고
+    낚싯대론 부질없이 강태공처럼 고기 낚기
+    높은 벼슬은 하마 얻을 마음 없으니
+    금과 옥을 욕심 부려 저축해서 무엇하리
+    토란이랑 밤이랑 날 보내기 넉넉하니
+    반찬에 하필 게장을 먹어 무삼하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0570&viewSync=OT
+  footnotes: []
+english:
+  title: On the Present Moment
+  author: Yu Bang-seon
+  language: eng
+  text: |-
+    Through mountains layered upon mountains, pine and oak stand,
+    A simple thatched hut nestled between the trees.
+    Back against the wall, I warm myself in the sun's embrace,
+    Sleepiness drifts gently over me.
+
+    In the seams of my robe, I pluck lice like Wang Meng of old,
+    With my fishing rod I cast in vain, playing at being Lü Wang.
+    High office holds no allure for this heart of mine—
+    What use is it to covet gold and jade?
+
+    Taros and chestnuts suffice to see my days through,
+    And why must I pine for crab sauce on my humble plate?
+  footnotes:
+  - key: ''
+    value: Wang Meng (王猛) was a historical figure known for his humble origins and simple living before rising to prominence.
+  - key: ''
+    value: Lü Wang (呂望), also known as the Duke of Zhou, was a legendary sage-fisherman who eventually became a great advisor.
+  - key: ''
+    value: The imagery of picking lice from one's garments and fishing are classical metaphors for contentment with simplicity and detachment from worldly ambitions.

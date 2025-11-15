@@ -1,0 +1,42 @@
+canonical:
+  title: 自遣
+  author: 金克儉
+  language: lzh
+  text: 老覺許身何太愚便思收迹卧江湖却將屛盡豺狼志付與剛蟲搏兎狐
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自遣
+  author: 金克儉
+  language: lzh
+  text: 老覺許身何太愚。便思收迹卧江湖。却將屛盡豺狼志。付與剛蟲搏兎狐。
+korean:
+  title: 자견
+  author: 김극검
+  language: kor
+  text: |-
+    늙어서 깨달으매 이 몸은 어찌 그리 어리석은가
+    곧 자취를 거두려 생각하고 강호에 누워 있다
+    이내 승냥이와 이리 같은 뜻을 잡아 물리쳐 버리고
+    굳센 벌레에 붙여 주어 토끼와 여우를 친다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0610&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Consolation
+  author: Kim Geuk-geom
+  language: eng
+  text: |-
+    In my old age I awaken to this truth—
+    how foolish I have been all along.
+    So now I gather up my tracks and turn away,
+    to lie at rest beside the river.
+
+    I cast aside the wolf and jackal's hunger,
+    the predatory dreams that gnawed within.
+    I offer them instead to the fierce beetle,
+    to let it chase the rabbit and the fox.
+  footnotes:
+  - key: ''
+    value: '"River" (江湖) traditionally symbolizes a reclusive life withdrawn from worldly affairs in classical Chinese poetry.'
+  - key: ''
+    value: The imagery of insects, rabbits, and foxes represents the poet redirecting petty ambitions and worldly desires toward insignificant pursuits, thereby freeing himself from them.

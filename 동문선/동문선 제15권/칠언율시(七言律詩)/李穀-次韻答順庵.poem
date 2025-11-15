@@ -1,0 +1,49 @@
+canonical:
+  title: 次韻答順庵
+  author: 李穀
+  language: lzh
+  text: 半生光景屬離居旅食從來不願餘䆫外芭蕉饒夜雨盤中苜蓿富春蔬家貧自有簞瓢樂計拙非因翰墨踈時到煙花禪榻畔坐忘身世等籧廬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻答順庵
+  author: 李穀
+  language: lzh
+  text: 半生光景屬離居。旅食從來不願餘。䆫外芭蕉饒夜雨。盤中苜蓿富春蔬。家貧自有簞瓢樂。計拙非因翰墨踈。時到煙花禪榻畔。坐忘身世等籧廬。
+korean:
+  title: 차운 답 순암
+  author: 이곡
+  language: kor
+  text: |-
+    반평생을 정든 고향 떠나 사니
+    객지에서 밥 먹는 신세 다른 원이 없사외다
+    창밖의 파초잎은 밤비에 흐뭇했고
+    소반 위의 거여목 봄나물이 푸짐하네
+    집이 가난해도 단표의 즐거움을 가졌도다
+    생계가 서투르지 문필이 짧기 때문은 아니로세
+    이따금 절을 찾아 선탑 앞에 이르러
+    좌망하면 인생이 거려 같은걸
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0670&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 단표(簞瓢)의 즐거움 : '
+    value: 공자의 제자 안회(顔回)는 집이 가난하여 한 바구니 밥과 한 바가지 물을 마시면서도 그 즐거움을 고치지 아니하였다.
+  - key: '[주-D002] 좌망하면 …… 같은걸 : '
+    value: 좌망(坐忘)은 《장자(莊子)》에 있는 말인데 수양(修養)으로 앉아서 모든 것을 잊는다는 것이며, 거려(蘧廬)는 객관(客館)인데 한 번 자고 지나면 그만이란 뜻으로 인생에 비한다.
+english:
+  title: In Response to Sunam, Following His Rhyme Scheme
+  author: Lee Gok
+  language: eng
+  text: |-
+    Half my life has drifted in separation from my native soil,
+    A wanderer eating borrowed rice—I ask for nothing more.
+    Beyond the window, banana leaves drink in the night rain,
+    On the table before me, spring greens lie abundant and fresh.
+    Though my house stands poor, I possess the joy of simple sustenance—
+    Not that my wit is dull or my brush lacks skill,
+    But when I find my way to the temple, to sit beneath the meditation hall,
+    Forgetfulness comes, and this life becomes no more than a wayfarer's inn.
+  footnotes:
+  - key: ''
+    value: The 'joy of simple sustenance' alludes to Confucius's disciple Yan Hui, who remained cheerful despite eating from a single basket and drinking from a single gourd.
+  - key: ''
+    value: '''Forgetting while sitting'' (zuowang) derives from the Zhuangzi and refers to spiritual cultivation through meditation. The ''wayfarer''s inn'' (julu) represents the transient nature of human existence—a place one passes through for a single night.'

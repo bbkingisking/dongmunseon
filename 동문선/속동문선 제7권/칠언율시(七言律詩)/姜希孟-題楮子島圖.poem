@@ -1,0 +1,45 @@
+canonical:
+  title: 題楮子島圖
+  author: 姜希孟
+  language: lzh
+  text: 王孫泉石入膏肓料理平湖十里㽵玉鏡光分天上下靑螺影倒水中央輕舟短棹通麻浦豐草長郊接華陽小少昔年曾歷此畫中疑有舊滄浪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題楮子島圖
+  author: 姜希孟
+  language: lzh
+  text: 王孫泉石入膏肓。料理平湖十里㽵。玉鏡光分天上下。靑螺影倒水中央。輕舟短棹通麻浦。豐草長郊接華陽。小少昔年曾歷此。畫中疑有舊滄浪。
+korean:
+  title: 제 저자도도
+  author: 강희맹
+  language: kor
+  text: |-
+    왕손으로 천석이 고황에 들어
+    십 리 평호에 별장을 마련했다
+    옛 거울의 빛은 하늘을 아래위로 나누었는데
+    푸른 산 그림자는 물의 한복판에 거꾸로 섰다
+    가벼운 배에 짧은 돛대로 마포와 통하여 가면
+    풀이 우거진 넓은 들은 화양에 접하였다
+    젊은 옛날에 일찍이 여기를 지났거니
+    그림 속에 옛날 알던 물결이 있는가 의심한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0510&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 왕손(王孫)으로 …… 들어 : '
+    value: 이 시에 왕손은 누구를 지칭한 것인지 미상이나, 옛사람으로 샘물과 돌에 고질병이 들어서 세상에 나오고 싶지 않다고 말한 사람이 있었다.
+english:
+  title: On a Painting of Choji Island
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    A nobleman's springs and stones have settled deep in his marrow—
+    he has arranged a villa across ten leagues of placid lake.
+    The ancient mirror's light divides the heavens above and below,
+    while blue peaks cast their shadows inverted in the water's heart.
+    In a light boat with short sail, gliding toward the hemp marshes,
+    rich meadows stretch toward the southern realm.
+    In my youth I once passed through these same waters—
+    and now I wonder: does the painting hold that old familiar wave?
+  footnotes:
+  - key: ''
+    value: The "nobleman" (王孫) referenced here remains uncertain, though classical tradition speaks of one who, afflicted by springs and stones, withdrew from the world, unwilling to return to public life.

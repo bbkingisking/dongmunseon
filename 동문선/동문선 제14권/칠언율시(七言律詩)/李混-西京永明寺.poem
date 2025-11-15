@@ -1,0 +1,40 @@
+canonical:
+  title: 西京永明寺
+  author: 李混
+  language: lzh
+  text: 永明寺中僧不見永明寺前江自流山空孤塔立庭際人斷小舟橫渡頭長天去鳥欲何向大野東風吹不休往事微茫問無處淡煙斜日使人愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西京永明寺
+  author: 李混
+  language: lzh
+  text: 永明寺中僧不見。永明寺前江自流。山空孤塔立庭際。人斷小舟橫渡頭。長天去鳥欲何向。大野東風吹不休。往事微茫問無處。淡煙斜日使人愁。
+korean:
+  title: 서경 영명사
+  author: 이혼
+  language: kor
+  text: |-
+    영명사 안에 중은 안 보이고
+    영명사 앞에 물만 절로 흐르누나
+    빈 산 외로운 탑이 뜰가에 섰고
+    사람 없는 나루에 작은 배가 비껴 있네
+    장천에 나는 새는 어디로 가려는고
+    넓은 벌에 동풍은 쉴 새 없이 부는구나
+    아득한 지난 일을 물을 곳이 없으니
+    엷은 연기 비낀 석양에 시름겨워지옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0800&viewSync=OT
+  footnotes: []
+english:
+  title: Yeongmyeong Temple in Western Capital
+  author: Lee Hoon
+  language: eng
+  text: |-
+    Within Yeongmyeong Temple, no monks are seen.
+    Before Yeongmyeong Temple, only waters flow of their own accord.
+    In the empty mountain, a solitary pagoda stands at the courtyard's edge.
+    At the deserted ferry, a small boat lies abandoned.
+    Where does the bird flying through endless sky intend to go?
+    Across the vast plain, the eastern wind never ceases its blow.
+    Of those distant days now faded, there is no one left to ask—
+    And in the thin mist and slanting rays of dusk, sorrow weighs upon my heart.

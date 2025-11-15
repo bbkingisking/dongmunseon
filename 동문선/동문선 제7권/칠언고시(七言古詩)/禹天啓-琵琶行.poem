@@ -1,0 +1,77 @@
+canonical:
+  title: 琵琶行
+  author: 禹天啓
+  language: lzh
+  text: 小槽斑斑雙鳳紋玉色鮮明金縷紅輕攏重撚動香撥大絃小絃聲不同淸商雅韻極廉細微音澹弄還玲瓏春禽得䐘韻桃李秋虫抱雨鳴梧桐君不見呼韓婦人思漢宮萬里秋風沙漠中旆旌迢忽地接天簫鼓淒迷霜滿空搔首重彈空塞鴻又不見盆浦妖娘嫁商客離別年年烟水隔蠨蛸板屋月紛紛蘆葦江亭風索索擁袂一抹如裂帛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 琵琶行
+  author: 禹天啓
+  language: lzh
+  text: 小槽斑斑雙鳳紋。玉色鮮明金縷紅。輕攏重撚動香撥。大絃小絃聲不同。淸商雅韻極廉細。微音澹弄還玲瓏。春禽得䐘韻桃李。秋虫抱雨鳴梧桐。君不見呼韓婦人思漢宮。萬里秋風沙漠中。旆旌迢忽地接天。簫鼓淒迷霜滿空。搔首重彈空塞鴻。又不見盆浦妖娘嫁商客。離別年年烟水隔。蠨蛸板屋月紛紛。蘆葦江亭風索索。擁袂一抹如裂帛。
+korean:
+  title: 비파행
+  author: 우천계
+  language: kor
+  text: |-
+    좁은 복판에 아롱다롱 쌍봉 무늬라
+    옥의 색은 선명하고 금실[金綏]은 붉구나
+    살금 짚고 힘주어 짚으며 향나무 꼬치 움직이면
+    큰 줄 작은 줄 소리가 같지 않아
+    맑은 상조 아담한 운율 극히 분명하고 섬세하여라
+    가냘픈 음운 담담한 곡조 또다시 아기자기하나니
+    봄 새는 햇빛 받아 도리꽃에 노래하고
+    가을벌레는 비를 안아 오동잎에 우는구나
+    그대 보았으리, 호한부인이 한궁을 생각할 때
+    만 리의 가을바람이 사막 속에
+    깃발은 아물아물, 땅과 하늘이 맞붙고
+    북 피리 처량할 사 서리는 공중에 가득한데
+    머리 긁적거리며 타고 또 타나 듣는 이 기러기뿐인 것을
+    또 보았으리, 분포의 고운 계집 장사치에게 시집갔는데
+    이별 연 년 연파가 가로막아
+    거미줄 친 문틈에 달빛이 산란하고
+    갈대꽃 강 정자에 바람은 우수수
+    소매 걷고 비파줄 한 번 뜯는 소리 비단 찢는 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 비파행(琵琶行) : '
+    value: '당나라 백낙천(白樂天)이 심양(潯陽: 湓浦)에 귀양가 있을 때에 밤에 강 위에서 비파소리를 들었는데, 비파 타는 그 여인은 장안(長安)의 기생으로 상인(商人)에게 시집와서, 남편이 장사하러 간 사이에 비파로 시름을 하소연하는 것이었다. 백낙천이 시를 지어 주었는데, 그것이 유명한 비파행(琵琶行)이다.'
+  - key: '[주-D002] 호한부인(呼韓婦人) : '
+    value: 한(漢)나라 궁녀 왕소군(王昭君)이 흉노(匈奴)의 호한야선우(呼韓邪單于)에게 시집가면서 말 위에서 비파를 타서 애절한 심정을 하소연하였다.
+  - key: '[주-D001] 䐘 : '
+    value: 暖
+english:
+  title: The Pipa Song
+  author: Yu Cheon-gye
+  language: eng
+  text: |-
+    Upon the narrow soundboard, twin phoenixes dance in motley pattern.
+    The jade gleams pure, the golden threads blush crimson.
+    With gentle pressing and forceful plucking, the fragrant plectrum moves—
+    the thick strings and thin strings sing in discord.
+    Clear and refined, the elegant melody flows with exquisite precision,
+    while tender notes drift like gossamer through the intricate passages.
+
+    Spring birds, warmed by sunlight, trill upon the peach and plum,
+    and autumn insects, cradling rain, weep through parasol leaves.
+
+    Do you not see how the Xiongnu bride mourned the Han palace?
+    Across ten thousand leagues the autumn wind swept the desert waste,
+    where banners wavered at the edge where earth meets sky,
+    and pipes and drums wailed desolate as frost filled the void—
+    there she plucked her strings again and again, and only the geese heard her cry.
+
+    Do you not see how the beauty of Pupu married a merchant trader?
+    Year after year, parted by mist and water's separation,
+    where spider-thread windows drift with scattered moonlight
+    and reeds by the riverside pavilion sigh in the wind's cold caress—
+    when she sweeps her sleeve and plucks the pipa's string but once,
+    it tears the silence like rending silk.
+  footnotes:
+  - key: ''
+    value: This poem is an imitative work inspired by Bai Juyi's famous 'Pipa Song' (琵琶行), written after he was exiled to Pupu. The original poem recounts an encounter with a courtesan from Chang'an who had married a merchant, and who expressed her sorrow through the pipa.
+  - key: ''
+    value: The reference to the 'Xiongnu bride' alludes to Wang Zhaojun (王昭君), a Han court lady who was sent to marry the Xiongnu chieftain Huhanye Chanyu. Legend tells that she played the pipa on horseback to lament her fate, becoming a symbol of tragic separation.
+  - key: ''
+    value: The pipa (琵琶) is a four-stringed Chinese lute whose music was prized for its expressive and melancholic qualities in classical literature.

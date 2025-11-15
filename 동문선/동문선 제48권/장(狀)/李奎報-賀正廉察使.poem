@@ -1,0 +1,49 @@
+canonical:
+  title: 賀正廉察使
+  author: 李奎報
+  language: lzh
+  text: 人統甫迴適啓首春之始使華尙遠莫親壽酒之斟恭惟按部相公器度汪汪風神落落登范車而廵問威震方州當高曆之肇頒慶叢幕府某等猥分憂寄忝屬仁庥但緣身繫於佩符未獲膝行而奉履
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀正廉察使
+  author: 李奎報
+  language: lzh
+  text: 人統甫迴。適啓首春之始。使華尙遠。莫親壽酒之斟。恭惟按部相公。器度汪汪。風神落落。登范車而廵問。威震方州。當高曆之肇頒。慶叢幕府。某等猥分憂寄。忝屬仁庥。但緣身繫於佩符。未獲膝行而奉履。
+korean:
+  title: 하정 염찰사
+  author: 이규보
+  language: kor
+  text: 인통(人統)이 바야흐로 돌아옴에 첫봄이 비로소 열렸는데 사화(使華)는 멀리 계시어 친히 수주(壽酒)를 올리지 못합니다. 삼가 생각건대, 안부상공(按部相公)은 국량이 활달하고 풍신이 뛰어나며, 수레에 올라 시찰함에 위엄이 지방에 떨치고, 새 책력을 비로소 반포함에 경사는 막부(幕府)에 모입니다. 모(某) 등은 외람되이 한 지방을 맡아 다스림에 어지신 성화를 접하게 되었으나, 다만 몸이 직무에 얽매여서 존전(尊前)에 나아가 수종을 들지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0400&viewSync=OT
+  footnotes: []
+english:
+  title: Congratulations to Inspector Yeom on His Appointment
+  author: Lee Kyubo
+  language: eng
+  text: |-
+    As the era returns to its beginning,
+    the first spring at last unfolds.
+    Yet the emissary remains distant,
+    and I cannot personally present the wine of longevity.
+
+    With reverence, I reflect on Inspector Yeom:
+    His capacities vast and encompassing,
+    his bearing graceful and distinguished.
+    Mounted upon his carriage of inspection,
+    his authority reverberates through the provinces.
+    As the new calendar is proclaimed,
+    felicitations gather within the halls of office.
+
+    Though we humble servants are assigned to our posts
+    and blessed by your magnanimous grace,
+    our bodies remain bound to duty's seal.
+    Thus we cannot kneel before your presence
+    to offer our attendance and service.
+  footnotes:
+  - key: ''
+    value: The 'wine of longevity' is a traditional New Year offering to honor officials and express good wishes.
+  - key: ''
+    value: The 'carriage of inspection' refers to the official duties of the regional inspector who travels throughout his jurisdiction.
+  - key: ''
+    value: The 'new calendar' marks the beginning of a new reign period or administrative cycle, a significant official event in traditional East Asian governance.

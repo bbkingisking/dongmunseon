@@ -1,0 +1,54 @@
+canonical:
+  title: 題金海府披雲樓次韻
+  author: 朴孝修
+  language: lzh
+  text: 連山斷處海門空猶勝靈仙擘華功七點煙鬟憑檻外自注士人云南浦中有七點山 萬竿霜骨捲簾中鯨濤暗澹和腥雨蜃閣虛明映彩虹自恠登臨簿書裏紛生喜怒似狙公
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題金海府披雲樓次韻
+  author: 朴孝修
+  language: lzh
+  text: 連山斷處海門空。猶勝靈仙擘華功。七點煙鬟憑檻外。自注。士人云南浦中有七點山。 萬竿霜骨捲簾中。鯨濤暗澹和腥雨。蜃閣虛明映彩虹。自恠登臨簿書裏。紛生喜怒似狙公。
+korean:
+  title: 제 김해부피운루 차운
+  author: 박효수
+  language: kor
+  text: |-
+    연봉 끊어진 곳에 휑한 바다
+    신령이 태화를 쪼갠 것 보다 더 나은 경치
+    난간 밖에 일곱 점 구름낀 더벅머리
+    지방 사람들이 말하되, 남쪽 포구에 칠점산이 있다 함
+    발 걷으니 만 그루 푸른 대
+    고래 물결 어두컴컴 비린 비가 내리고
+    신기루 보이는 듯 무지개가 뻗쳤구나
+    이런 좋은 데를 올라서도 문서더미나 처결하다니
+    분분히 희노하는 꼴 잔나비와 비슷쿠나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 분분히 …… 잔나비 : '
+    value: 옛날에 저공(狙公)이 잔나비를 여러 마리 기르는데, 잔나비들에게, “아침에는 밤[栗] 세 알을 주고 저녁에는 밤 네 알을 주겠다.” 하니, 잔나비들이 모두 성을 내었다. 저공(狙公)은 다시, “그러면 아침에는 네 알을 주고 저녁에는 세 알을 주겠다.” 하니, 잔나비들은 기뻐하였다. 이것은 실상은 일반인데 공연히 기뻐하였다 성내었다 하는 것이다. 이것은 장자(莊子)에 있는 말인데, 여기서는 이 누각에 오르나 관청에 있으나 문서 처결하는 일은 일반이라는 뜻이다.
+english:
+  title: Inscribed on the Piyun Pavilion of Gimhae Prefecture, Following the Rhyme
+  author: Park Hyo-su
+  language: eng
+  text: |-
+    Where the linked peaks break apart, the sea gate stands empty—
+    a sight more wondrous than when spirits cleaved the splendor of Taihwa.
+    Seven misty pinnacles crown the view beyond the railing;
+    the locals say seven peaks rise from the southern harbor.
+
+    A thousand stalks of jade bamboo sway when shutters draw closed.
+    The whale-waves darken, mingling brine with falling rain,
+    while mirage towers shimmer, reflecting arcs of rainbow.
+
+    Strange, that even from this pavilion perched above beauty,
+    I toil through ledgers and documents—my heart swinging between delight and despair
+    no differently than a monkey dancing to his keeper's will.
+  footnotes:
+  - key: ''
+    value: The 'seven misty pinnacles' (七點煙鬟) refers to the Seven Points Mountains visible from the southern harbor of Gimhae.
+  - key: ''
+    value: Taihwa (太化) refers to a legendary spiritual realm, suggesting the pavilion's view rivals even divine landscapes.
+  - key: ''
+    value: The final comparison alludes to Zhuangzi's parable of the monkey keeper (狙公), where a keeper's monkeys grow happy or angry not from actual change but from the way their portions are named—here representing how officials' moods fluctuate over trivial administrative matters despite the unchanging nature of their duties.

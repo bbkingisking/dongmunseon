@@ -1,0 +1,57 @@
+canonical:
+  title: 戟巖
+  author: 吳世才
+  language: lzh
+  text: 北嶺石巉巉傍人號戟岩逈撞乘鶴晉高刺上天咸揉柄電爲火洗鋒霜是塩何當作兵器敗楚亦亡凡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 戟巖
+  author: 吳世才
+  language: lzh
+  text: 北嶺石巉巉。傍人號戟岩。逈撞乘鶴晉。高刺上天咸。揉柄電爲火。洗鋒霜是塩。何當作兵器。敗楚亦亡凡。
+korean:
+  title: 극암
+  author: 오세재
+  language: kor
+  text: |-
+    북쪽 고개의 삐죽삐죽한 돌을
+    사람들이 부르기를 창바위라고
+    솟기는 학을 탄 왕자진(王子晋)을 들이받고
+    높으기는 하늘에 오르는 무함을 찌르네
+    자루를 다듬는 데는 번개가 불이 되고
+    날[鋒]을 씻는 데는 서리가 소금되네
+    어쩌면 정직 병기를 만들어
+    초나라 이기고서 또 범나라 망칠꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 극암(戟巖) : '
+    value: 개성(開城) 북쪽 31리에 있는 험한 바위. 이 시는 어려운 운(韻)을 응구첩대(應口輒對)한 글이다.
+  - key: '[주-D002] 학(鶴)을 탄 왕자진(王子晋) : '
+    value: 주령왕(周靈王)의 태자 진(晋). 피리를 잘 불어 후령(緱嶺)에서 신선이 되어 학을 타고 하늘로 올라갔다. 《列仙傳》
+  - key: '[주-D003] 하늘에 오르는 무함(巫咸) : '
+    value: 황제(黃帝) 때(혹설에는 은(殷) 중종(中宗) 때) 신무(神巫). 그가 하늘에서 땅으로 오르내렸다 한다.
+  - key: '[주-D004] 범(凡)나라 : '
+    value: 창범(刱凡)과 같다.
+english:
+  title: Lance Rock
+  author: O Se-jae
+  language: eng
+  text: |-
+    North of the ridge, the stone rises jagged and sharp.
+    People call it Lance Rock.
+    It strikes down at Prince Wang-ja-jin riding his crane,
+    Its height pierces even where Wu-ham ascends to heaven.
+    In the shaping of its shaft, lightning becomes fire,
+    In the washing of its blade, frost becomes salt.
+    Oh, if only it could become a weapon of righteousness—
+    To defeat Chu and topple the realm of Fan!
+  footnotes:
+  - key: ''
+    value: Lance Rock (戟巖) is a steep crag thirty-one li north of Gaeseong, known for its perilous terrain. This poem was composed as an extemporaneous verse response (應口輒對), a challenging poetic game played in court.
+  - key: ''
+    value: Prince Wang-ja-jin (王子晋) was the crown prince of Zhou Lingwang. A master of the flute, he transcended mortality on Mount Gou-ling and ascended to heaven riding a crane, according to classical legend.
+  - key: ''
+    value: Wu-ham (巫咸) was the divine shaman of the Yellow Emperor's era who traversed between heaven and earth, embodying cosmic movement and celestial power.
+  - key: ''
+    value: The poem's final lines invoke the legendary spear-wielders of antiquity, imagining the rock as a weapon that might secure victory over Chu and topple the ancient realm of Fan, merging the natural monument with martial heroism.

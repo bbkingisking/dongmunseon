@@ -1,0 +1,41 @@
+canonical:
+  title: 酒壺銘
+  author: 李奎報
+  language: lzh
+  text: 壺兮壺兮盛酒斗二傾則復盛何時不醉凡我之身豁予之意或舞或歌皆汝所使隨尒者子但不竭耳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 酒壺銘
+  author: 李奎報
+  language: lzh
+  text: 壺兮壺兮。盛酒斗二。傾則復盛。何時不醉。凡我之身。豁予之意。或舞或歌。皆汝所使。隨尒者子。但不竭耳。
+korean:
+  title: 주호 명
+  author: 이규보
+  language: kor
+  text: 병아 병아 너에게 말 두되 술을 담게 된다. 기울이고는 다시 담아 두니 취하지 아니한 때는 없다. 나의 몸을 윤택하게 하고 나의 뜻을 시원하게 한다. 춤을 추고 노래를 부르는 것이 모두 네가 시킨 것이다. 너를 따라 다니는 자는 나이니 다만 술이 바닥이 나지나 말라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0130&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on a Wine Jar
+  author: Lee Gyeong-bo
+  language: eng
+  text: |-
+    O jar, O jar!
+    You hold two measures of wine.
+    Tipped and filled again,
+    when is there a moment I am not drunk?
+
+    You sweeten my very being,
+    refresh the spirit within me.
+    Whether I dance or sing,
+    all follows your command.
+
+    I am the one who follows you—
+    only ask that you never run dry.
+  footnotes:
+  - key: ''
+    value: This poem playfully personifies the wine jar as the controlling force in the poet's life, inverting the typical relationship between master and vessel. The jar becomes a benevolent tyrant whose "commands" lead to music and movement.
+  - key: ''
+    value: The repeated "O jar, O jar" opening mimics the tone of ancient Chinese inscriptions (铭), which typically began by directly addressing the object being memorialized.

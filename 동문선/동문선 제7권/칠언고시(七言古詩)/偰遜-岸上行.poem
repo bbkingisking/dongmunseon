@@ -1,0 +1,48 @@
+canonical:
+  title: 岸上行
+  author: 偰遜
+  language: lzh
+  text: 岸上靑山石巃嵸岸下黃泥萬篙孔日落天寒不見人一箇哀鴻度丘壠我行感此歌慨慷朔風吹衣骨欲僵男兒墮地須侯王安得排雲掃氛祲致身稷契君虞唐
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 岸上行
+  author: 偰遜
+  language: lzh
+  text: 岸上靑山石巃嵸。岸下黃泥萬篙孔。日落天寒不見人。一箇哀鴻度丘壠。我行感此歌慨慷。朔風吹衣骨欲僵。男兒墮地須侯王。安得排雲掃氛祲。致身稷契君虞唐。
+korean:
+  title: 안상행
+  author: 설손
+  language: kor
+  text: |-
+    언덕 위는 푸른 산, 돌이 옹기종기
+    언덕 밑은 누른 진흙 수많은 삿대 구멍
+    해는 지고 하늘은 찬데 사람은 보이지 않고
+    한 마리 슬픈 기러기가 두렁을 지난다
+    내가 가다가 이것을 느껴 슬피 노래하니
+    북풍이 옷에 스며들어 뼈가 굳으려 한다
+    남아 땅에 떨어지면[墮地 출생] 후나 왕이 돼야 한다
+    어떻게 구름 헤치고
+    자신은 직ㆍ설(당후 때 요ㆍ순의 어진 신하) 되고 임금은 우당되게 할꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: Walking Along the Bank
+  author: Seol Son
+  language: eng
+  text: |-
+    Above the bank, green mountains, stones clustered and craggy.
+    Below the bank, yellow mud pierced by countless pole-marks.
+    The sun sets, the sky grows cold, no people are seen—
+    only a single mournful wild goose crossing the ridge.
+
+    Walking here, my heart is moved to sing with sorrow,
+    and the north wind seeps into my clothes till my bones ache.
+    When a man is born into this world, he should seek to serve a king.
+    How can I part the clouds and scatter the mist,
+    so that I myself become worthy like Zhi and Xie, and my lord like Yu and Yao?
+  footnotes:
+  - key: ''
+    value: Zhi and Xie refer to virtuous ministers of ancient sage-kings Yu and Yao of legend, representing the ideal of loyal service and wise counsel. The poem yearns to fulfill this noble aspiration.
+  - key: ''
+    value: The imagery of the wild goose reflects the poet's own solitary condition and melancholy contemplation of his circumstances and unfulfilled ambitions.

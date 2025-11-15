@@ -1,0 +1,50 @@
+canonical:
+  title: 九日聞諸公有會
+  author: 林椿
+  language: lzh
+  text: 身在天涯歲又催登高自有望鄕臺五年去國長爲客九日無人共把杯紅葉忽聞霜後落黃花猶似亂前開莫嫌擧止非閑雅須向龍山許一陪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九日聞諸公有會
+  author: 林椿
+  language: lzh
+  text: 身在天涯歲又催。登高自有望鄕臺。五年去國長爲客。九日無人共把杯。紅葉忽聞霜後落。黃花猶似亂前開。莫嫌擧止非閑雅。須向龍山許一陪。
+korean:
+  title: 9월 9일에 여러분의 모임에서 있었던 말을 듣고
+  author: 임춘
+  language: kor
+  text: |-
+    하늘 가에 떠도는 신세 해가 또 저물어가니
+    어디서 등고하리 망향대에나 오를까
+    5년이나 서울 떠나 노상 나그네 신세
+    9일에 누구와 함께 같이 잔을 잡을까
+    단풍잎은 서리 온 뒤에 모두 다 졌는데
+    누른 국화는 난리 전같이 그대로 되는구나
+    내 행색이 꾀죄함을 과히 탓하지 말고
+    용산에 올라가거든 부디 나를 불러주소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 어디서 …… 오를까 : '
+    value: 중국 고대의 풍속에 9월 9일이 되면 높은 데 올라가서 재액(災厄)을 피한다.
+  - key: '[주-D002] 용산(龍山) : '
+    value: 진(晋)나라 맹가(孟嘉)가 황온(桓溫)의 참군(叅軍)이 되었더니, 9월 9일에 온이 용산에 놀때 요좌(僚佐)가 다 모였는데, 바람이 가의 모자를 불어 떨어뜨리니, 가가 깨닫지 못하였다. 온이 손성(孫盛)에게 명하여 글을 지어 조롱하고, 가가 또한 글을 지어 대답하니 그 글이 심히 아름다웠다.
+english:
+  title: On the Ninth Day, Hearing of the Gathering of the Gentlemen
+  author: Lim Chun
+  language: eng
+  text: |-
+    Adrift at heaven's edge, the year grows short,
+    Where shall I climb to see the distant home?
+    Five years I've wandered far from the capital,
+    A lonely guest with none to share the wine on this ninth day.
+
+    The crimson leaves have all fallen since the frost came,
+    Yet still the golden chrysanthemums bloom as before.
+    Forgive my humble, ungainly appearance,
+    If you climb Dragon Mountain, I beg you—call for me.
+  footnotes:
+  - key: ''
+    value: The ninth day of the ninth month in ancient Chinese tradition was celebrated by climbing to high places to ward off calamity.
+  - key: ''
+    value: Dragon Mountain (용산) alludes to the famous anecdote of Meng Jia of the Jin Dynasty, who attended a gathering on the ninth day and whose hat was blown off by the wind. Despite being ridiculed in a poem by Sun Sheng, Meng Jia's response was considered beautifully composed. The reference carries connotations of resilience and literary grace in the face of misfortune.

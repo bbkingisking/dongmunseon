@@ -1,0 +1,51 @@
+canonical:
+  title: 臥陶軒圖自贊
+  author: 李仁老
+  language: lzh
+  text: 謂爲智耶不如樗謂爲愚耶不如蘧虛舟無忤死灰何居恥爭先於捷徑聊寄宿於蘧廬人呼金粟如來之後身自號古葛天氏之遺民
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 臥陶軒圖自贊
+  author: 李仁老
+  language: lzh
+  text: 謂爲智耶不如樗。謂爲愚耶不如蘧。虛舟無忤。死灰何居。恥爭先於捷徑。聊寄宿於蘧廬。人呼金粟如來之後身。自號古葛天氏之遺民。
+korean:
+  title: 와도헌도자 찬
+  author: 이인로
+  language: kor
+  text: |-
+    지혜롭다 이른다면 저리자만 못하고
+    어리석다 이른다면 거백옥만 못하네
+    빈 배라 남을 거스릴 까닭 없고
+    식은 재라 불이 어찌 붙으리
+    지름길로 앞서기를 부끄러워하고
+    애오라지 거려에서 잠을 부치네
+    사람들은 금속여래의 후신이라 부르지만
+    자신은 옛날 갈천씨의 유민이라 칭하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0080&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Inscription on a Painting of the Wotao Pavilion
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Call me wise? I fall short of Chuo the oak tree.
+    Call me foolish? I cannot match Qu Boyu.
+    An empty boat offends no one—
+    what fire could kindle cold ashes?
+    I am ashamed to race ahead on the shortcut path,
+    so I lodge for now in a simple thatched hut.
+    People call me the reincarnation of the golden Sakyamuni,
+    but I claim kinship with the remnant folk of ancient Ge-heaven.
+  footnotes:
+  - key: ''
+    value: Chuo and Qu Boyu are Daoist sages known for their wisdom and avoidance of worldly affairs. The reference alludes to the Zhuangzi.
+  - key: ''
+    value: The 'empty boat' is a metaphor from Zhuangzi for freedom from attachment and conflict.
+  - key: ''
+    value: Cold ashes represent a state of spiritual quiescence and detachment from the world.
+  - key: ''
+    value: Sakyamuni is the historical Buddha; the reference playfully inverts the Buddhist concept of reincarnation.
+  - key: ''
+    value: The Ge-heaven (갈천) tradition refers to an ancient, ideal society untouched by corruption—a Daoist mythical reference.

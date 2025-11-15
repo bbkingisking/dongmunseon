@@ -1,0 +1,50 @@
+canonical:
+  title: 送偰符寶還大明
+  author: 李仁復
+  language: lzh
+  text: 帝運初興漢民心久戴商羨君來奉使愧我未觀光驛路山橫翠船䆫月送涼贈言吾不佞努力更流芳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送偰符寶還大明
+  author: 李仁復
+  language: lzh
+  text: 帝運初興漢。民心久戴商。羨君來奉使。愧我未觀光。驛路山橫翠。船䆫月送涼。贈言吾不佞。努力更流芳。
+korean:
+  title: 명나라로 돌아가는 설부보를 보내며
+  author: 이인복
+  language: kor
+  text: |-
+    제왕의 운은 처음 한나라를 일으켰고
+    민심이 상나라를 추대한 지 오래이네
+    부러웁다 그대는 사신으로 왔는데 부끄럽다
+    나는 아직 관광하지 못 하였네
+    역로에는 산이 푸르르게 비꼈고
+    선창에는 달이 서늘함을 보내네
+    불초한 내가 그대에게 말을 주노니
+    노력하여 꽃다운 이름을 흘러 전하소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Seeing Off Xie Fu the Emissary Returning to the Great Ming
+  author: Lee In-bok
+  language: eng
+  text: |-
+    The imperial fortune first rose with the Han,
+    The people's hearts long upheld the Shang.
+    I envy you who came as an envoy here—
+    I am ashamed I have not yet beheld that light.
+
+    On the courier roads, mountains glow emerald green,
+    From the boat's windows, moonlight sends its chill.
+    Though I am but unworthy in my counsel,
+    Striving forward, may your fragrant name endure.
+  footnotes:
+  - key: ''
+    value: The reference to Han and Shang dynasties suggests a historical parallel, likely alluding to the succession of dynasties and the poet's own era's relationship to Ming authority.
+  - key: ''
+    value: The 'envoy' (使) being sent off is traveling on official business, creating the occasion for this farewell poem of respect and admiration.
+  - key: ''
+    value: The imagery of mountains and moonlight represents the journey ahead and the passage of time, common motifs in farewell verse.
+  - key: ''
+    value: '''Fragrant name'' (流芳) is an idiom meaning lasting fame and good reputation.'

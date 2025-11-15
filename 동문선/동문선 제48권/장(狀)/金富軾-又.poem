@@ -1,0 +1,31 @@
+canonical:
+  title: 又
+  author: 金富軾
+  language: lzh
+  text: 陰剝而窮陽潛以復魯史謹書於日至周家恭用於天正伏惟某官奧識鄰幾宏材拔萃謀猷密勿久司帷幄之籌德業崇高行據廟堂之位茂對三微之統翕臻百福之祥某等伏限守符無階望履
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 又
+  author: 金富軾
+  language: lzh
+  text: 陰剝而窮。陽潛以復。魯史謹書於日至。周家恭用於天正。伏惟某官。奧識鄰幾。宏材拔萃。謀猷密勿。久司帷幄之籌。德業崇高。行據廟堂之位。茂對三微之統。翕臻百福之祥。某等伏限守符。無階望履。
+korean:
+  title: 우
+  author: 김부식
+  language: kor
+  text: 음(陰)은 녹아서 다 없어지게 되었고, 양(陽)은 가만한 가운데 회복이 되었으니, 노사(魯史)는 삼가 일지(日至)를 기록하고, 주(周)나라는 공순히 천정(天正)을 사용하였습니다. 엎드려 생각건대 모관(某官)은 심오한 학식은 기미를 알고, 굉장한 인격은 무리에서 뛰어났습니다. 계획은 주밀하여 오래 유악(帷幄)의 운주(運籌)를 맡았었으니, 숭고한 덕업(德業)은 마침내 묘당(廟堂)의 자리에 처할 것입니다. 삼미(三微)의 통(統)을 당하여, 백복의 상서를 받으소서. 모 등은 수직(守職)의 제한이 있어 존안(尊顔)을 뵈올 길 없습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천정(天正)을 사용하였습니다 : '
+    value: 《후한서(後漢書)》 진총전(陳寵傳)에, “11월을 하늘의 정(正)으로 삼으므로 주(周)나라가 봄으로 삼았고, 12월을 땅의 정(正)으로 삼으므로 은(殷)나라가 봄으로 삼았고, 13월, 즉 정월을 정(正)으로 삼으므로 하(夏)나라가 봄으로 삼았다. 그래서 삼미(三微)가 나타나게 되어 삼통(三統)을 관통하였다.” 하였다.
+english:
+  title: Again
+  author: Kim Bu-sik
+  language: eng
+  text: Yin wanes and exhausts itself; Yang stirs in silence and returns. The historians of Lu faithfully inscribe the Winter Solstice; the Zhou dynasty reverently observe Heaven's Beginning. I humbly contemplate your excellence—your learning peers into the subtle workings of heaven and earth, your noble character stands forth among the multitudes. Your counsels run deep and secret; long have you held the strategies of the inner chamber, steering the wheels of state. Your virtue towering high, your deeds at last shall claim a seat in the ancestral temple. To marshal the three phases of heaven's grace, to gather the hundred blessings of auspicious signs—such is your destiny. Yet we, bound by our humble stations, have no path to come before you.
+  footnotes:
+  - key: ''
+    value: The 'Winter Solstice' and 'Heaven's Beginning' refer to traditional moments of astronomical and calendrical significance marking cosmic renewal, particularly important in East Asian state ceremonies and historical record-keeping.
+  - key: ''
+    value: The 'three phases' (三微) and 'three lineages' (三統) allude to the three ancient dynasties' different methods of calculating the beginning of the year, all of which represent different phases of celestial order flowing through human governance.

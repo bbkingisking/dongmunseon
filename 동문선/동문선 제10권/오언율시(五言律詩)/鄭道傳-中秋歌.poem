@@ -1,0 +1,45 @@
+canonical:
+  title: 中秋歌
+  author: 鄭道傳
+  language: lzh
+  text: 歲歲中秋月今宵最可憐一天風露寂萬里海山連故國應同見渾家想未眠誰知相憶意兩地各茫然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中秋歌
+  author: 鄭道傳
+  language: lzh
+  text: 歲歲中秋月。今宵最可憐。一天風露寂。萬里海山連。故國應同見。渾家想未眠。誰知相憶意。兩地各茫然。
+korean:
+  title: 중추가
+  author: 정도전
+  language: kor
+  text: |-
+    해마다 보는 한가위 달이건만
+    오늘밤만은 더욱 애처롭구나
+    한 하늘에 풍로는 고요한데
+    만리에 해산이 연하였네
+    고장에서도 응당 같이 보려니
+    온 집안이 아마도 잠들지 못하리
+    서로 그리는 뜻이
+    두 곳에서 각각 시름인 줄 누가 알랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0620&viewSync=OT
+  footnotes: []
+english:
+  title: Mid-Autumn Song
+  author: Jeong Do-jeon
+  language: eng
+  text: |-
+    Year after year, the mid-autumn moon appears,
+    Yet tonight it tugs at the heart more tenderly.
+    Across one sky the wind and dew lie still,
+    A thousand leagues of sea and mountains merge.
+    In my homeland they too must gaze upon it—
+    The whole household, I imagine, cannot sleep.
+    Who knows the longing that binds us,
+    Each place drowning in its own sorrow?
+  footnotes:
+  - key: ''
+    value: Mid-Autumn (중추/中秋) refers to the eighth lunar month, celebrated in East Asian cultures with viewing the full moon. The festival carries deep significance for family reunion and remembrance of distant loved ones.
+  - key: ''
+    value: The poem's power lies in its exploration of how the same moon witnessed from different places becomes a poignant reminder of separation, transforming a familiar annual sight into an intimate meditation on distance and shared longing.

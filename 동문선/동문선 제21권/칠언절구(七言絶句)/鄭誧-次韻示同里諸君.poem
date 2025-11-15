@@ -1,0 +1,45 @@
+canonical:
+  title: 次韻示同里諸君
+  author: 鄭誧
+  language: lzh
+  text: 詩顚草聖外無餘自笑平生與世踈竹弟縱能從我老錢兄還有絶交書
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻示同里諸君
+  author: 鄭誧
+  language: lzh
+  text: 詩顚草聖外無餘。自笑平生與世踈。竹弟縱能從我老。錢兄還有絶交書。
+korean:
+  title: 차운하여 동리 제군에게 보임
+  author: 정포
+  language: kor
+  text: |-
+    시전과 초성 밖에 다른 일 없어
+    한평생 세상과 성긴 것을 스스로 웃는다
+    죽제는 비록 능히 나를 따라 늙지만
+    전형은 도리어 절교서가 있었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0750&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 시전(詩顚)과 초성(草聖) : '
+    value: 시전(詩顚)은 시에 미쳤단 말이요, 초성(草聖)은 초서를 잘 쓴다는 말이다.
+  - key: '[주-D002] 전형(錢兄) : '
+    value: 진(晋)나라 노포(魯褒)가 세상 사람들이 돈을 좋아하는 것을 비양하여 〈전신론(錢神論)〉을 지었는데, ‘세상 사람들은 돈을 형님이라 부른다.’는 구절이 있다.
+  - key: '[주-D003] 절교서(絶交書) : '
+    value: 진(晋)나라 해강(嵇康)이 산도(山濤)에게 보낸 절교서(絶交書)가 유명한데, 여기서는 돈과 인연이 끊어졌다는 뜻으로 썼다.
+english:
+  title: In Response to a Rhyme, Shown to Fellow Villagers
+  author: Jung Po
+  language: eng
+  text: |-
+    Beyond poetry's frenzy and the sage of cursive script, there is nothing else.
+    I laugh at myself—a lifetime spent estranged from the world.
+    Though Brother Bamboo may grow old following my path,
+    Brother Money has written me a letter of severance.
+  footnotes:
+  - key: ''
+    value: 'Poetry''s frenzy and the sage of cursive script: References to being obsessed with poetry and skilled in cursive calligraphy—the poet''s sole pursuits.'
+  - key: ''
+    value: 'Brother Bamboo and Brother Money: Bamboo represents a loyal friend who follows the poet''s reclusive way; Money alludes to the ''Money God'' from classical Chinese literature, symbolizing the material world from which the poet has withdrawn.'
+  - key: ''
+    value: 'Letter of severance: An allusion to the famous letter of severance in Chinese history, here suggesting the poet has broken ties with worldly wealth and concerns.'

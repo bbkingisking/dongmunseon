@@ -1,0 +1,42 @@
+canonical:
+  title: 小雨
+  author: 徐居正
+  language: lzh
+  text: 朝來小雨更廉纖落絮飛花滿一簾九十日春今已暮病餘杯酒懶重拈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 小雨
+  author: 徐居正
+  language: lzh
+  text: 朝來小雨更廉纖。落絮飛花滿一簾。九十日春今已暮。病餘杯酒懶重拈。
+korean:
+  title: 소우
+  author: 서거정
+  language: kor
+  text: |-
+    아침에 오는 가랑비가 더욱 보슬거리어
+    지는 버들개지와 날으는 꽃이 온 밭에 가득 찬다
+    90일의 봄도 이제 이미 저무는데
+    앓은 뒤의 술잔을 힘없이 거푸 잡는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Light Rain
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Morning brings the finest drizzle,
+    More delicate than silk threads.
+    Falling catkins and drifting blossoms
+    Fill the entire window frame.
+
+    Ninety days of spring have already faded—
+    The season closes in upon itself.
+    Sick and weary, I reach for the wine cup again,
+    With trembling, listless hands.
+  footnotes:
+  - key: ''
+    value: The 'ninety days of spring' refers to the traditional three months of spring, a classical allusion marking the passage of time and the transience of the season.
+  - key: ''
+    value: The falling catkins and blossoms represent spring's ephemeral beauty, a common metaphor in East Asian poetry for the fleeting nature of life and youth.

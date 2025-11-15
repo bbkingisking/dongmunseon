@@ -1,0 +1,109 @@
+canonical:
+  title: 上右諫議
+  author: 李奎報
+  language: lzh
+  text: 本生紈綺貴猶事槧鉛勞星魄從天降花妖入壁逃已傳張相印合佩呂虔刀筆洗西臺肉詩霑老杜膏謀宜前箸畫官忽後薪高粉省登淸地冰銜落彩毫早知春有脚何恨紙生毛獸困甘搖尾鷹飢望解絛賢侯同姓李郞子一門桃亦是平生幸寧敎失意呼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上右諫議
+  author: 李奎報
+  language: lzh
+  text: 本生紈綺貴。猶事槧鉛勞。星魄從天降。花妖入壁逃。已傳張相印。合佩呂虔刀。筆洗西臺肉。詩霑老杜膏。謀宜前箸畫。官忽後薪高。粉省登淸地。冰銜落彩毫。早知春有脚。何恨紙生毛。獸困甘搖尾。鷹飢望解絛。賢侯同姓李。郞子一門桃。亦是平生幸。寧敎失意呼。
+korean:
+  title: 상 우간의
+  author: 이규보
+  language: kor
+  text: |-
+    비단 옷 귀공자로 태어난 몸이
+    밤낮으로 연참에 애쓰는구나
+    별의 정이 하늘에서 내려왔고
+    화요가 벽에 들어 도망을 치네
+    이미 장상의 인을 전하였으니
+    마땅히 여건을 칼을 찰 만하네
+    글씨는 서대의 살을 씻었고
+    시는 노두의 남은 기름에 젖었네
+    꾀낼 때는 앞에 있는 저를 그었고
+    벼슬은 뒤의 섶이 문득 높아서
+    중서성의 맑은 자리 올라가 앉아
+    직언의 상소를 채필로 쓰네
+    봄이 다리 있음을 진작 알거니
+    명함지에 털이 남을 어찌 한하리
+    짐승은 궁하면 꼬리 흔들고
+    매는 굶주리면 끈 풀기 바라네
+    그대와 나는 같은 이씨
+    아드님은 또 나의 일문 복숭아
+    이 모두 내 평생의 다행스러운 일
+    설마 나를 낙망시켜 부르짖게야 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우간의(右諫議) : '
+    value: 여기서는 우간의 이세장(李世長)을 말한다.
+  - key: '[주-D002] 화요(花妖)가 …… 도망을 치네 : '
+    value: 당(唐) 무삼사(武三思)의 기녀(妓女)소아(素娥)가 공경(公卿)들을 초대한 잔치에 양공(梁公)  적인걸(狄仁傑)이 온단 말을 듣고 문득 자취를 감추어 벽 속에 숨고 나오지 않았다. 까닭을 물으니, “저는 꽃과 달의 요망한 것이온데 이제 양공은 당세의 바른 사람이라, 제가 진실로 감히 뵈옵지 못하나이다.” 하였다 한다.
+  - key: '[주-D003] 장상(張相)의 인(印) : '
+    value: 장상(張相)은 전국 때 진(秦) 장의(張儀)인데, 그가 소진(蘇秦)의 합종(合從)을 깨뜨린 연횡(連衡)의 공으로 상(相)이 되었고, 그가 죽은 뒤에 서수(犀首)가 입상(入相)하여 인(印)을 찼다.
+  - key: '[주-D004] 여건(呂虔)을 …… 찰 만하네 : '
+    value: 진(晋)나라에 여건이 차는 칼이 있는데 공인(工人)이 칼 모양을 상(相)보고 말하기를, “이 칼은 반드시 삼공(三公)이 찰 칼이요.” 하였다. 건(虔)이 왕상(王祥)이 공보(公輔)의 도량이 있다 하여 그에게 주었더니 왕상이 죽을 제 그 칼을 아우 왕람(王覽)에게 주었으므로 그의 가문에서 뒤에 대대(代代)로 삼공(三公)이 났다. 《晋書》
+  - key: '[주-D005] 글씨는 서대(西臺)의 살[肉] : '
+    value: 서대(西臺)는 당(唐)의 서가(書家) 이건중(李建中)의 호인데, 그의 글씨가 명필이었으되 비속(肥俗)하여 살이 많고 뼈가 적다는 평이 있었다.
+  - key: '[주-D006] 꾀낼 때는 앞에 있는 저[箸] : '
+    value: 한왕(漢王)이 밥을 먹고 있는데 장량(張良)이 밖에서 들어와서 일을 의논하다가 밥상의 젓가락[箸]을 빌려 들고서 계책을 헤아렸다.
+  - key: '[주-D007] 벼슬은 뒤의 …… 높아서 : '
+    value: 한 무제(漢武帝) 때에 신진(新進)들의 벼슬이 선배보다 높이 오르는 자가 많으니 급암(汲黯)이 아뢰기를, “폐하(陛下)의 사람 쓰는 것은 섶[薪]을 쌓는 것과 같아서 뒤에 오는 것이 위에 올라갑니다.” 하였다.
+  - key: '[주-D008] 봄이 다리[脚] 있음 : '
+    value: 당(唐) 송경(宋璟)이 백성을 사랑하므로 그때 사람들이 모두 송경을 “다리 있는 따스한 봄”이라 일렀다.
+  - key: '[주-D009] 명함지(名啣紙)에 털이 남 : '
+    value: 고관(高官)의 집에 명자(名刺)를 자주 들여서 종이에 털이 났다는 말이다.
+  - key: '[주-D010] 그대와 나는 …… 복숭아[桃] : '
+    value: 복숭아ㆍ오얏[桃李]은 선배(先輩)가 천거한 현사(賢士)나 그가 고시(考試)한 과거의 급제자. 작자의 자주(自註). “공(公)의 아드님과 나와는 동방(同榜).”
+english:
+  title: To the Right Remonstrator
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    Born in silk and privilege, a gentleman of ease,
+    Yet laboring day and night with brush and paper's squeeze.
+    Star-light descends from heaven's vault above,
+    While flower-demons flee the walls in fear thereof.
+
+    Already bearing the seal of Minister Zhang,
+    Fit to wear the blade of Lü Qian's rank so grand.
+    My calligraphy washes in the brush of Western Court's own art,
+    My verses steeped in the sacred ink of old Du's heart.
+
+    When planning, I grasped the chopsticks first to trace the way,
+    Yet office came when the firewood behind rose high that day.
+    Climbing to the pure seat of the Ministry of Works' height,
+    Writing remonstrance with a brush that speaks what's right.
+
+    Long knowing spring has feet to walk this earthly sphere,
+    Why lament when papers gather dust here and there?
+    When beasts are trapped, they wag their tails in hope,
+    When hawks go hungry, they await the loosened rope.
+
+    You and I share the name of Li so true,
+    Your son and mine—a peach tree bearing fruit in view.
+    These are the blessings of my life, I say,
+    Surely not meant to turn my hope to dismay.
+  footnotes:
+  - key: ''
+    value: The Right Remonstrator (右諫議) refers to Lee Se-jang, who held this position.
+  - key: ''
+    value: 'The flower-demon allusion: In Tang court, the courtesan Su''e would hide within walls upon hearing that the upright official Di Renjie would attend gatherings, refusing to appear before such a paragon of virtue.'
+  - key: ''
+    value: 'Minister Zhang''s seal: Zhang Yi of Qin broke the united alliance through his horizontal diplomacy, achieving the rank of minister.'
+  - key: ''
+    value: 'Lü Qian''s blade: A legendary sword predicted by craftsmen to belong to a man of highest rank; it passed through worthy hands and brought fortune to generations.'
+  - key: ''
+    value: The calligraphy reference alludes to Li Jianzong of Tang, known for thick, fleshy brushwork rather than elegant bone-structure.
+  - key: ''
+    value: 'The chopsticks reference: When Zhang Liang would borrow chopsticks from the table to draw out strategies while the Han King dined.'
+  - key: ''
+    value: 'The rising firewood: When later arrivals gain higher ranks than their seniors, like firewood stacked with newer pieces rising above the old.'
+  - key: ''
+    value: 'Spring with feet: A metaphor for the respected official Song Jing, whom people called ''warm spring with legs'' for his love of the people.'
+  - key: ''
+    value: 'Name-card paper: In great officials'' homes, calling cards were left so frequently that the paper itself gathered wear.'
+  - key: ''
+    value: 'Peach and plum trees: Traditional metaphors for students and protégés; here indicating shared success in the examinations.'

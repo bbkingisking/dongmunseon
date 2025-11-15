@@ -1,0 +1,52 @@
+canonical:
+  title: 渡遼曲
+  author: 李崇仁
+  language: lzh
+  text: 遼陽城中秋風起遼陽城下黃沙飛征夫渡海事驃姚幾年望鄕猶未歸空閨思婦顰雙蛾挑燈札札鳴寒梭織成錦字憑誰寄靑鳥不來知奈何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 渡遼曲
+  author: 李崇仁
+  language: lzh
+  text: 遼陽城中秋風起。遼陽城下黃沙飛。征夫渡海事驃姚。幾年望鄕猶未歸。空閨思婦顰雙蛾。挑燈札札鳴寒梭。織成錦字憑誰寄。靑鳥不來知奈何。
+korean:
+  title: 도요곡
+  author: 이숭인
+  language: kor
+  text: |-
+    요양성 중에 가을 바람 일어나고
+    요양성 아래 누런 모래 날리는데
+    바다 건넌 나그네는 무공을 세우려
+    몇 해째 고향을 바라보며 아직 못 돌아가네
+    빈 규중의 아내는 두 눈썹 찡그리고
+    등불 아래 찰깍찰깍 북을 울리리
+    비단 글자 짜내어 뉘 편에 부치오리
+    청조도 영 아니 오니 이 일을 어이할까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 비단 글자 : '
+    value: 전진(前秦)  두도(竇滔)가 양양(襄陽)을 진수(鎭守)할 때 총희(寵姬)를 데리고 부임하여 그 처 소씨(蘇氏)와는 소식을 끊었더니, 소씨가 설워하여 비단에 회문시(回文詩) 2백여 수를 짜넣어 도에게 부치니, 도가 그 비단 글자를 보고 감동되어 수레를 갖추어 소씨를 맞아갔다.
+  - key: '[주-D002] 청조(靑鳥) : '
+    value: 서왕모(西王母)의 옆에 세 푸른 새가 있는데, 서왕모가 하강하려면 먼저 사자로 청조가 날아온다 한다. 《漢武故事》
+english:
+  title: Song of Crossing the Liao
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Autumn wind rises within Liaoya's walls,
+    Yellow sand swirls below the fortress.
+    The wanderer crosses seas to seek glory,
+    Yet year after year gazes homeward, still unreturned.
+
+    In her empty chamber, the waiting wife furrows her brow,
+    Beneath the lamplight, her shuttle clicks and trembles.
+    She weaves her heart into brocade words—
+    But to whom can she send them?
+    The blue bird brings no message.
+    What remedy remains for her despair?
+  footnotes:
+  - key: ''
+    value: The 'brocade words' allude to the legend of Su Hui (蘇氏), who wove over two hundred palindromic poems into silk to reach her absent husband, Du Tao. When he beheld her woven message, his heart was moved and he sent for her.
+  - key: ''
+    value: The 'blue bird' (青鳥) traditionally serves as a messenger of the Queen Mother of the West. Its absence signifies the failure of communication between separated lovers.

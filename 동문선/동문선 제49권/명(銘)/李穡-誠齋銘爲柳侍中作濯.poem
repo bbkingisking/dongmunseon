@@ -1,0 +1,31 @@
+canonical:
+  title: 誠齋銘爲柳侍中作濯
+  author: 李穡
+  language: lzh
+  text: 居而靜專巍乎泰山之安也動而不括沛乎春風之發也屋漏廣庭王道天德髮可容乎不誠無物
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 誠齋銘爲柳侍中作濯
+  author: 李穡
+  language: lzh
+  text: 居而靜專。巍乎泰山之安也。動而不括。沛乎春風之發也。屋漏廣庭。王道天德。髮可容乎。不誠無物。
+korean:
+  title: 성재명 위 유시중작 탁
+  author: 이색
+  language: kor
+  text: 들어 앉았을 때에는 고요하고 전일하니 높직하여 태산의 안정됨 같고 움직여서는 쉬지 아니 하니 봄바람이 불어온 듯하다. 홀로 있을 때나 여러 사람 보는 데서나 한결같으니 왕도(王道)  천덕(天德)이로다. 일호(一毫)라도 딴 것이 있겠는가, 정성이 아니면 물(物)이 없는 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0230&viewSync=OT
+  footnotes: []
+english:
+  title: A Moral Inscription for Ryu Si-jung, on Purification
+  author: Lee Saek
+  language: eng
+  text: 'In stillness and solitude, the mind is gathered—steadfast as Mount Tai in its repose. In motion, there is no cessation—abundant as the spring wind breaking forth. Whether alone in the chamber or before the world''s eyes, the virtue remains unchanged: this is the Way of Kings, the Heaven-given Virtue. Not even the finest thread could harbor discord. For without sincerity, nothing truly exists.'
+  footnotes:
+  - key: ''
+    value: Mount Tai (泰山) is a classical symbol of stability and endurance in Chinese philosophy and poetry.
+  - key: ''
+    value: The 'Way of Kings' (王道) and 'Heaven-given Virtue' (天德) are foundational Confucian concepts representing moral governance aligned with cosmic order.
+  - key: ''
+    value: The phrase 'without sincerity, nothing truly exists' reflects the Neo-Confucian metaphysical principle that authenticity and sincerity (誠) are the fundamental substance of reality.

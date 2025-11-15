@@ -1,0 +1,46 @@
+canonical:
+  title: 過楊州
+  author: 鄭夢周
+  language: lzh
+  text: 經過楚地山川像想隋家宮闕往時興廢誰嗟此日繁華可悅仙花香杳難尋官柳依依堪折晚來偶泊蘭舟二十四橋明月
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過楊州
+  author: 鄭夢周
+  language: lzh
+  text: 經過楚地山川。像想隋家宮闕。往時興廢誰嗟。此日繁華可悅。仙花香杳難尋。官柳依依堪折。晚來偶泊蘭舟。二十四橋明月。
+korean:
+  title: 과양주
+  author: 정몽주
+  language: kor
+  text: |-
+    초나라 땅의 산천을 지나가면서
+    수나라의 궁궐을 상상해 보나니
+    지난 날의 흥망을 누가 슬퍼할건가
+    오늘의 번화를 즐길 만하구나
+    선화 아득하여 찾기 어려운데
+    관류는 무성하여 꺾을 만하구나
+    때마침 밤에 와서 목난주에서 자노니
+    이십사교의 밝은 달일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0250_020_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이십사교의 밝은 달일세 : '
+    value: 양주(楊州)의 아름다움을 말하는 이십사교 밝은 달밤[二十四橋明月夜]이라는 시가 있다.
+english:
+  title: Passing Through Yangzhou
+  author: Jung Mong-ju
+  language: eng
+  text: |-
+    Crossing through the mountains and waters of the ancient Chu lands,
+    I conjure visions of the Sui dynasty's imperial palaces.
+    Who remains to lament the rise and fall of former days?
+    Today's splendor is enough to delight the wandering heart.
+
+    The celestial flowers drift far and fade from sight,
+    Yet the willows by the canal stand thick and worthy of the plucking.
+    As evening descends, I moor my fragrant boat,
+    Beneath the luminous moon that crowns the Twenty-Four Bridges.
+  footnotes:
+  - key: ''
+    value: The 'Twenty-Four Bridges' refers to a famous sight in Yangzhou, celebrated in classical poetry for its sublime beauty, particularly under moonlight. The phrase evokes the city's reputation as a place of ethereal beauty and nostalgic contemplation.

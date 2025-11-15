@@ -1,0 +1,29 @@
+canonical:
+  title: 物狀
+  author: 金坵
+  language: lzh
+  text: 地則薄乎所恃中誠之厚天雖高也切希下聽之卑前件物等時迫處營使迴輕附兾荷寬容之賜終諧仰戴之期
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 金坵
+  language: lzh
+  text: 地則薄乎。所恃中誠之厚。天雖高也。切希下聽之卑。前件物等。時迫處營。使迴輕附。兾荷寬容之賜。終諧仰戴之期。
+korean:
+  title: 물장
+  author: 김구
+  language: kor
+  text: 땅이 박[薄]한지라 믿는 바는 정성뿐이며, 하늘이 비록 높사으나 들으시는 것은 나직함을 바라옵니다. 전건(前件)의 물품 등은 처영(處營)의 시기가 촉박하여 사행이 돌아가는 편에 가볍게 올리니, 바라건대 관용한 은사를 내리시어, 끝내 앙대(仰戴)의 기대를 가지게 하여 주시옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0430_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: Objects of Description
+  author: Kim Gu
+  language: eng
+  text: The earth is thin beneath me, and all I can rely upon is the sincerity of my heart. Though heaven stands high above, I hope it will hear the humble voice below. These humble offerings, sent in haste as the mission departs, I present lightly for your consideration. I beseech you to grant them your generous forbearance, that I might finally hold fast to the hope of revering and bearing you upon my head.
+  footnotes:
+  - key: ''
+    value: This appears to be a dedicatory piece accompanying gifts or tribute, employing the conventional language of humility and deference characteristic of official correspondence in East Asian diplomatic contexts.
+  - key: ''
+    value: The imagery of 'thin earth' and 'high heaven' draws on classical cosmological symbolism to express the vast distance between petitioner and recipient of favor.

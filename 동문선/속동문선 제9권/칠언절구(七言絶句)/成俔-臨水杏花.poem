@@ -1,0 +1,37 @@
+canonical:
+  title: 臨水杏花
+  author: 成俔
+  language: lzh
+  text: 瓠犀齒白捲唇紅蘭麝淸香散曉風似怕嬌顔容易老淡施脂粉照靑銅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 臨水杏花
+  author: 成俔
+  language: lzh
+  text: 瓠犀齒白捲唇紅。蘭麝淸香散曉風。似怕嬌顔容易老。淡施脂粉照靑銅。
+korean:
+  title: 임수 행화
+  author: 성현
+  language: kor
+  text: |-
+    박씨 같이 이는 흰데 걷어올린 입술은 붉었고나
+    난사의 맑은 향기는 새벽 바람에 픙긴다
+    아리따운 얼굴이 쉽게 늙을까 두려워 하는 것처럼
+    연지와 분을 옅게 바르고 거울에 비쳐 본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0800&viewSync=OT
+  footnotes: []
+english:
+  title: Apricot Blossoms by the Water
+  author: Seong Hyeon
+  language: eng
+  text: |-
+    White teeth like gourd seeds, lips curved and crimson—
+    the clear fragrance of orchid and musk drifts on the dawn breeze.
+    Fearing her fair face will fade too quickly with the years,
+    she applies rouge and powder lightly, gazing at her reflection in the bronze mirror.
+  footnotes:
+  - key: ''
+    value: The 'gourd seeds' (瓠犀) is a classical Chinese metaphor for perfect white teeth, drawn from the Shijing.
+  - key: ''
+    value: The 'bronze mirror' (靑銅) references the traditional mirrors of East Asia, and here symbolizes both vanity and the passage of time.

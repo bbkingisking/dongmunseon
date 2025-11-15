@@ -1,0 +1,53 @@
+canonical:
+  title: 次襄州官舍詩韻
+  author: 李達衷
+  language: lzh
+  text: 此樓風景僅瞻前來往登臨又一年簾額冷霑銀漢露琴心暖起玉田煙淸閑可喜壺中日阨塞還嫌瓮裏天欲和諸公冰雪句羞將短綆汲深泉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次襄州官舍詩韻
+  author: 李達衷
+  language: lzh
+  text: 此樓風景僅瞻前。來往登臨又一年。簾額冷霑銀漢露。琴心暖起玉田煙。淸閑可喜壺中日。阨塞還嫌瓮裏天。欲和諸公冰雪句。羞將短綆汲深泉。
+korean:
+  title: 차 양주관사 시운
+  author: 이달충
+  language: kor
+  text: |-
+    이 다락의 풍경을 겨우 앞으로만 보았더니
+    왔다갔다 올라온 지 또 1년이 되었네
+    발에 싸늘히 은하의 이슬 젖어오고
+    거문고 곡조엔 따스한 옥전 연기 일어나네
+    몸이 청한하니 병 속의 세월이 즐겁고
+    땅이 옹색하니 독 안의 하늘이 딱하구나
+    얼음ㆍ눈 같은 맑고 서늘한 시를 화답하려니
+    두레박 짧은 줄로 어이 깊은 샘물 길으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 거문고 곡조엔 …… 일어나네 : '
+    value: “남전에 날이 따스해 옥에서 연기가 나는구나.” 이 말은 당(唐) 이상은(李商隱)의 금슬시(錦瑟詩)인데, 곡조가 화(和)한 것을 표현한 말이다.
+  - key: '[주-D002] 병 속[壼中]의 세월 : '
+    value: 한(漢)나라 비장방(費長房)이 신선을 따라 병 속에 들어가 본 즉 별천지가 있었다.
+  - key: '[주-D003] 독 안의 하 : '
+    value: 해계(醢鷄)는 술에서 생긴 벌레인데 독안에서만 산다.
+english:
+  title: Matching the Rhymes of a Poem on the Official Residence in Xiangzhou
+  author: Lee Dal-chung
+  language: eng
+  text: |-
+    From this high tower, the landscape spreads only before my eyes,
+    Yet another year has passed in climbing up and down.
+    Cool dew of the Milky Way dampens the eaves,
+    While warm mist from Jade Fields rises in my zither's song.
+    In tranquil leisure, time within the gourd flows sweet,
+    Yet in this cramped and narrow place, the heavens in the jar confine.
+    I wish to answer with verses crystalline as frost and snow,
+    But my rope is short—how can it draw from depths so deep?
+  footnotes:
+  - key: ''
+    value: The 'Jade Fields' and zither allusion references Li Shangyin's famous "Brocaded Zither" poem, where the warmth and poetry harmonize with the speaker's own musical expression.
+  - key: ''
+    value: 'The ''gourd'' and ''jar'' metaphors invoke classical tales of hidden worlds: one suggests boundless paradise found within a gourd by a Daoist sage, while the other humorously suggests confinement, expressing the poet''s tension between inner peace and external constraint.'
+  - key: ''
+    value: The final image of the short rope unable to reach the deep spring is a self-deprecating refusal—the poet disclaims his ability to match the refined verses of his companions.

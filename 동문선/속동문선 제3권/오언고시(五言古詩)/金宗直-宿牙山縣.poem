@@ -1,0 +1,65 @@
+canonical:
+  title: 宿牙山縣
+  author: 金宗直
+  language: lzh
+  text: 芒芒枕海縣欝欝饒桑麻坐爲浮議搖山川如剖瓜由來考工地豈容肥私家復故不旋踵民物生光華我來卧堂皇風雨旁橫斜靑燈叩巓末老吏爭悲嗟太守愼拊循勿放黃細衙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿牙山縣
+  author: 金宗直
+  language: lzh
+  text: 芒芒枕海縣。欝欝饒桑麻。坐爲浮議搖。山川如剖瓜。由來考工地。豈容肥私家。復故不旋踵。民物生光華。我來卧堂皇。風雨旁橫斜。靑燈叩巓末。老吏爭悲嗟。太守愼拊循。勿放黃細衙。
+korean:
+  title: 숙 아산현
+  author: 김종직
+  language: kor
+  text: |-
+    멀리 바다를 베고 누운 고을이
+    우거지게 상마가 가득하건만
+    부질없는 이론에 흔들리어서
+    산천이 외쪽처럼 갈라졌구나
+    원래로 고공의 땅이
+    어찌 사가를 배불릴 것가
+    예대로 회복하면 고대 다시금
+    민물이 빛이 나서 번창하리만
+    내 와서 대청에 누웠노라니
+    비바람이 가로 몰아치는데
+    등잔 밑에 전말을 물어봤더니
+    늙은 아전이 다투어 슬프다 하네
+    태수는 백성들을 삼가 위무하여
+    누른 명주 이불 속에서 방아하지 말아라勿放黃細衙
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 원래로 …… 땅이 : '
+    value: 한(漢)나라 관제(官制)에 고공(考工)은 기계를 만드는 관청이다. 무제(武帝)의 외숙 전분(田蚡)이 승상(丞相)으로 있으면서 고공에 속하 땅을 청구하여 집을 넓히려다가 무제에게 거절을 당하였다.
+  - key: '[주-D002] 누른 명주 …… 말아라 : '
+    value: 방아(放衙)는 시간이 되어 그날의 공무를 파하는 것이다. 송 태조(宋太祖)가 어느 현령(縣令)에게, “누른 명주 이불 속에서 방아하지 말라.” 하였다. 그것은 수령이 잠만 자고 공무를 게을리 하는 것을 경계한 말이다.
+english:
+  title: Lodging at Ashan County
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Vast and cradled by the sea, this county sprawls—
+    Lush with mulberry and hemp in abundance.
+    Yet senseless debates have shaken it,
+    Rending mountain and river like a split melon.
+
+    Once this was the domain of the craftsman's art,
+    how could it fatten private houses?
+    Restore it to its proper way—
+    the people and all things will bloom with light.
+
+    I came and lay in this great hall,
+    wind and rain driving slant across.
+    At the lamplight's edge I inquired of all,
+    the old clerk answered with competing sighs.
+
+    Let the prefect tend his people with care—
+    let him not rest in yellow silk and ease,
+    abandoning his duties to slumber.
+  footnotes:
+  - key: ''
+    value: The reference to 'the domain of the craftsman's art' alludes to a historical precedent where a high official was denied permission to claim state lands for private expansion, suggesting the county's resources should serve the public good, not private interests.
+  - key: ''
+    value: The final admonition about 'yellow silk and ease' warns against administrative negligence—the prefect must not indulge in comfort while abandoning his responsibilities to the people.

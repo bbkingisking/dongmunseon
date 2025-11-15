@@ -1,0 +1,50 @@
+canonical:
+  title: 明遠樓
+  author: 鄭夢周
+  language: lzh
+  text: 靑谿石壁抱州回更起新樓眼豁開南畝黃雲知歲熟西山爽氣覺朝來風流太守二千石邂逅故人三百盃直欲夜深吹玉笛高攀明月共徘徊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 明遠樓
+  author: 鄭夢周
+  language: lzh
+  text: 靑谿石壁抱州回。更起新樓眼豁開。南畝黃雲知歲熟。西山爽氣覺朝來。風流太守二千石。邂逅故人三百盃。直欲夜深吹玉笛。高攀明月共徘徊。
+korean:
+  title: 9월 9일에 명원루
+  author: 정몽주
+  language: kor
+  text: |-
+    푸른 시내와 석벽이 골을 안고 도는 곳에
+    새로 다락을 지었더니 눈이 활짝 열리네
+    남쪽 이랑의 누른 구름 농사가 풍년이네
+    서산의 산뜻한 기운은 아침이 온 줄 알리고
+    풍류태수는 2천 석 높은 벼슬
+    뜻밖에 만난 친구 3백 잔 술 드세나
+    밤이 깊이 들거든 옥피리를 불면서
+    휘영청 밝은 달 아래 함께 거닐어 보세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0790&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 명원루(明遠樓) : '
+    value: 경상도 안자(晏子)에 있었다.
+english:
+  title: The Tower of Clear Distance
+  author: Jeong Mongju
+  language: eng
+  text: |-
+    Where the green stream and stone cliffs embrace the winding valley,
+    A new tower rises, and suddenly the world opens wide.
+    Southern fields beneath yellow clouds promise a harvest rich,
+    While western mountains breathe their crisp dawn air.
+
+    The graceful magistrate holds his office of two thousand stone,
+    By chance encountering an old friend—three hundred cups flow.
+    When the night grows deep, we'll blow the jade flute,
+    And walk together beneath the brilliant moon's bright glow.
+  footnotes:
+  - key: ''
+    value: The Tower of Clear Distance was located in Anja, Gyeongsang Province.
+  - key: ''
+    value: The 'two thousand stone' refers to the high official rank of the magistrate.
+  - key: ''
+    value: The 'three hundred cups' is a poetic expression for abundant wine and fellowship.

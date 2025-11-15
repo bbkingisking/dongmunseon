@@ -1,0 +1,61 @@
+canonical:
+  title: 療養
+  author: 李永瑞
+  language: lzh
+  text: 有誰能記一迂儒久矣離群獨索居咲殺昌黎閔已賦任他中散絶交書家貧未辦賢人酒地僻難邀丈者車攀附靑雲旣無分鹿門歸計可虛徐
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 療養
+  author: 李永瑞
+  language: lzh
+  text: 有誰能記一迂儒。久矣離群獨索居。咲殺昌黎閔已賦。任他中散絶交書。家貧未辦賢人酒。地僻難邀丈者車。攀附靑雲旣無分。鹿門歸計可虛徐。
+korean:
+  title: 병 요양
+  author: 이영서
+  language: kor
+  text: |-
+    나 같은 우활한 선비를 뉘라서 기억하리
+    친구를 떠나 혼자 살기 벌써 오래네
+    창려는 우습구나, 민기부를 짓다니
+    혜강은 맘대로 절교서를 보내라지
+    가난한 살림에 현인주를 못 마련하니
+    궁벽한 곳에 장자 수레를 어이 맡을까
+    청운에 붙어 오름이 내 분수에 없으니
+    녹문에 돌아갈 준비 내사 어이 늦추리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0820&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 창려(昌黎) : '
+    value: 당(唐)나라 한유(韓愈). 그는 자기 신세를 탄식한 〈민기부(悶己賦)〉를 지었다.
+  - key: '[주-D002] 혜강은 …… 절교서(絶交書) : '
+    value: 진(晉)나라 혜강(嵇康)이 벗 산도(山濤)가 자기를 벼슬에 천거함을 못마땅히 여겨 그에게 절교서를 보냈다.
+  - key: '[주-D003] 현인주(賢人酒) : '
+    value: 맑은 술을 ‘성인(聖人)’이라 하고 탁한 술을 ‘현인(賢人)’이라 하는데, 위(魏)나라 때에 금주령이 내려 주객(酒客)들이 쓴 은어(隱語).
+  - key: '[주-D004] 궁벽한 …… 수레 : '
+    value: 한(漢)나라 진평(陳平)은 집이 가난하여 거적으로 문을 만들었으나 문밖에 점잖은 이의 수레 바퀴 자국이 많았다.
+  - key: '[주-D005] 녹문(鹿門) : '
+    value: 산이름. 후한(後漢)의 고사(高士)  방덕공(龐德公)이 약을 캐며 은거했던 곳.
+english:
+  title: Recuperation
+  author: Lee Young-seo
+  language: eng
+  text: |-
+    Who remembers a scholar as obtuse as I?
+    Long have I dwelt apart, solitary in my seclusion.
+    Changli's folly makes me laugh—composing his Lamentation on Melancholy!
+    Let Hejing send his Letter of Severance as he pleases.
+    In my poverty, I cannot afford the wine of sages,
+    And in this remote place, how should I expect the carriage of the virtuous?
+    Climbing to azure clouds was never meant for one of my station,
+    So why delay my return to Deer Gate, that refuge of recluses?
+  footnotes:
+  - key: ''
+    value: Changli refers to Han Yu of the Tang Dynasty, who wrote the 'Lamentation on Melancholy' to express his frustrations with his circumstances.
+  - key: ''
+    value: Hejing (Xi Kang) sent a Letter of Severance to his friend Shan Tao when displeased with being recommended for official service.
+  - key: ''
+    value: During the Wei Dynasty's prohibition on alcohol, drinkers used coded language referring to clear spirits as 'sage wine.'
+  - key: ''
+    value: Chen Ping of the Han Dynasty, though poor and living behind a straw door, received many visits from distinguished guests whose carriage wheels left deep tracks outside.
+  - key: ''
+    value: Deer Gate was a mountain where Pang Degong, a recluse of the Later Han, lived gathering medicines and cultivating virtue away from the world.

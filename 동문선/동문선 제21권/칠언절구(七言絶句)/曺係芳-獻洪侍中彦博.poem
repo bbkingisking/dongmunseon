@@ -1,0 +1,37 @@
+canonical:
+  title: 獻洪侍中彦博
+  author: 曺係芳
+  language: lzh
+  text: 陽坡居士愛淸閑役役紅塵是強顔何日閉門麾俗客焚香相對說溪山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獻洪侍中彦博
+  author: 曺係芳
+  language: lzh
+  text: 陽坡居士愛淸閑。役役紅塵是強顔。何日閉門麾俗客。焚香相對說溪山。
+korean:
+  title: 헌홍시중언박
+  author: 조계방
+  language: kor
+  text: |-
+    양파거사가 맑고 한가한 것을 사랑한다 하는데
+    홍진에서 허덕이는 것은 억지로 하는 것이거니
+    언제나 문을 닫고 세속 손님 사절하고
+    향 사르고 마주하여 산수 이야길 할 것인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: A Tribute to Hong Sichung Yanbok
+  author: Cho Gyebang
+  language: eng
+  text: |-
+    They say the recluse of Yang Slope loves clarity and leisure,
+    Yet toiling in the dust of worldly affairs—surely forced upon him.
+    When at last will he close his gate to vulgar visitors,
+    And sitting across from me in incense smoke, speak of mountains and streams?
+  footnotes:
+  - key: ''
+    value: Yang Slope (陽坡) likely refers to a retreat or residence associated with the recipient. The recluse imagery suggests an ideal of withdrawal from public life.
+  - key: ''
+    value: Hong Sichung (洪侍中) appears to be an official title; Yanbok may be a personal name or courtesy name of the addressee.

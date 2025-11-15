@@ -1,0 +1,37 @@
+canonical:
+  title: 在都下
+  author: 權漢功
+  language: lzh
+  text: 鴈北來時不寄書鴈南飛日更愁予故園正隔三千里水草年年無定居
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 在都下
+  author: 權漢功
+  language: lzh
+  text: 鴈北來時不寄書。鴈南飛日更愁予。故園正隔三千里。水草年年無定居。
+korean:
+  title: 재도하
+  author: 권한공
+  language: kor
+  text: |-
+    기러기 북으로 올 때에 편지 전하지 않으니
+    기러기 남으로 날으는 날은 나를 더욱 시름하게 한다
+    내 고향은 바로 삼천 리를 격하여 있나니
+    수초 따라 해마다 일정한 거처가 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0830&viewSync=OT
+  footnotes: []
+english:
+  title: In the Capital
+  author: Kwon Han-gong
+  language: eng
+  text: |-
+    When geese fly north, they bring no letter home.
+    When geese fly south, their flight deepens my sorrow.
+    My native village lies three thousand miles away,
+    And like the waterweeds, I have no fixed dwelling through the years.
+  footnotes:
+  - key: ''
+    value: The geese serve as messengers in classical poetry—their failure to carry news heightens the speaker's isolation and longing.
+  - key: ''
+    value: The comparison of the speaker to waterweeds without a permanent home suggests displacement and rootlessness, a common theme for those separated from their homeland.

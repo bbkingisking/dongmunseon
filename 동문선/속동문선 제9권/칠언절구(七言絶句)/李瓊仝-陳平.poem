@@ -1,0 +1,37 @@
+canonical:
+  title: 陳平
+  author: 李瓊仝
+  language: lzh
+  text: 糠覈空令孺子肥人言盜嫂我全疑平生謾說奇謀六裸棹舟中自一奇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陳平
+  author: 李瓊仝
+  language: lzh
+  text: 糠覈空令孺子肥。人言盜嫂我全疑。平生謾說奇謀六。裸棹舟中自一奇。
+korean:
+  title: 진평
+  author: 이경동
+  language: kor
+  text: |-
+    겨무거리는 부질없이 시동생을 살찌게 하였거니
+    사람들은 아주머니를 도둑했다 하지마는 나는 의심하네
+    평생에 기묘한 꾀 여섯이라 말하지만
+    배 안에서 옷벗고 노저은 것 또 하나의 기묘일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0770&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 배……기묘일세 : '
+    value: 진평이 처음에 초(楚)나라에 있다가 한나라로 전향하여 가는데 나룻배를 탓더니 뱃사공이 진평에게 재물이 있는 줄 알고 강중에서 죽이려 하였다. 진평이 그 눈치를 채고 옷을 벗고 배의 노질하는 것을 도와주었다. 사공은 그 옷을 벗었는 데도 아무 것도 없음을 보고 죽이지 아니하였다.
+english:
+  title: Chen Ping
+  author: Lee Gyeong-dong
+  language: eng
+  text: |-
+    Husks and chaff pile high, yet fatten the young servant—
+    People say he stole his brother's wife, but I doubt their words.
+    Lifetime wisdom counts six stratagems of cunning,
+    Yet stripping bare to row the boat alone—that too is strategy.
+  footnotes:
+  - key: ''
+    value: This poem references the historical Chen Ping's escape from Chu to Han. A ferryman, suspecting Chen Ping carried wealth, plotted to murder him mid-river. Chen Ping, sensing the danger, removed his clothes to help row the boat. When the ferryman saw Chen Ping possessed nothing of value, he spared his life. This act of resourceful deception became legendary as another example of Chen Ping's strategic brilliance beyond his famous six stratagems.

@@ -1,0 +1,47 @@
+canonical:
+  title: 同前
+  author: 鄭招
+  language: lzh
+  text: 慈親九十尙康寧晴日高堂敞畫屛身上彩衣浮喜色手中金盞進遐齡羅紈聲色盈前席簪履雲仍列後庭惆悵早孤今白首看君此事涕頻零
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同前
+  author: 鄭招
+  language: lzh
+  text: 慈親九十尙康寧。晴日高堂敞畫屛。身上彩衣浮喜色。手中金盞進遐齡。羅紈聲色盈前席。簪履雲仍列後庭。惆悵早孤今白首。看君此事涕頻零。
+korean:
+  title: 동전
+  author: 정초
+  language: kor
+  text: |-
+    아흔 살에 아직도 강녕하신 어머님
+    맑은 날 높은 집에 그림 병풍 펼쳤네
+    몸에 입은 채의들은 모두 다 기쁨 일색
+    손에 든 금잔으로 오래 삶을 축복해 올리누나
+    능라 입은 기악은 앞 자리에 가득하고
+    잠이 차림 손증들이 뒤 뜰에 늘어섰네
+    나는 일찍 어버이 잃고 이제 머리 세었거니
+    그대의 이 일을 보고 눈물 금치 못하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0600&viewSync=OT
+  footnotes: []
+english:
+  title: On the Same Occasion
+  author: Jeong Cho
+  language: eng
+  text: |-
+    At ninety, my mother still maintains her vigor and health.
+    On this clear day, fine screens unfold in the high hall.
+    Colored silks upon her person shimmer with pure joy.
+    Golden chalices raised in hand to bless her lengthened years.
+    The sounds of silk and music fill the front pavilion,
+    While servants in their finest adornments line the rear courtyard.
+    I, orphaned early, now wear white upon my head—
+    Witnessing your good fortune, I cannot hold back my tears.
+  footnotes:
+  - key: ''
+    value: The 'golden chalice' refers to ceremonial wine cups used in celebrations of longevity, particularly those honoring elderly parents.
+  - key: ''
+    value: The contrast between the speaker's early loss of parents and the occasion being celebrated creates the poignant emotional core of the poem.
+  - key: ''
+    value: White hair is a traditional symbol of both age and mourning in East Asian poetry.

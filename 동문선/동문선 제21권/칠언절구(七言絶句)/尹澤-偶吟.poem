@@ -1,0 +1,37 @@
+canonical:
+  title: 偶吟
+  author: 尹澤
+  language: lzh
+  text: 醉後却思陳藥石老來無復進塩梅謬筭狂謀年九九平生事業已焉哉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偶吟
+  author: 尹澤
+  language: lzh
+  text: 醉後却思陳藥石。老來無復進塩梅。謬筭狂謀年九九。平生事業已焉哉。
+korean:
+  title: 우음
+  author: 윤택
+  language: kor
+  text: |-
+    취한 뒤에 도리어 약석을 바칠 것 생각하노니
+    늘그막에 와서는 다시 염매를 바칠 수 없다
+    그릇된 계산과 미친 꾀로 벌써 나이 여든 하나
+    한평생 사업은 아아 이미 끝났구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 약석(藥石) : '
+    value: 충성스러운 바른 말은 병을 고치는 약[藥石]과 같다.
+english:
+  title: Idle Verses
+  author: Yun Taek
+  language: eng
+  text: |-
+    Drunk, I recall the medicine of honest counsel,
+    yet age has robbed me of the strength to offer it.
+    False reckoning and mad schemes—already eighty-one—
+    the work of my whole life: alas, already done.
+  footnotes:
+  - key: ''
+    value: '"Medicine of honest counsel" (藥石): In classical thought, righteous and truthful words are likened to medicine that heals the spirit, just as physical remedies heal the body. The poet reflects on his inability to serve his rulers and society with such candor in his old age.'

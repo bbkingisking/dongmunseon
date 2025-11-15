@@ -1,0 +1,37 @@
+canonical:
+  title: 耳
+  author: 李仁老
+  language: lzh
+  text: 郭郛還繚繞洞穴自虛明日永夔玄國誰將赤犢行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 耳
+  author: 李仁老
+  language: lzh
+  text: 郭郛還繚繞。洞穴自虛明。日永夔玄國。誰將赤犢行。
+korean:
+  title: 이
+  author: 이인로
+  language: kor
+  text: |-
+    귀바퀴는 둘려 있는데
+    뚫린 구멍은 절로 허명하다
+    기현국(夔玄國)에 해가 긴데
+    누가 붉은 송아지를 이끌고 갈거나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 기현국(夔玄國) : '
+    value: 두현국(兜玄國)의 잘못으로 보인다. 설군조(薛君曹)가 그의 귀에서 두 청의(靑衣)가 붉은 송아지를 타고 나온 것을 보았다. 두 동자가 말하기를, “두현국(兜玄國)이 나의 귀 속에 있다.” 하고, 한 동자가 귀를 기울여 군조에게 보여주었는데, 별천지(別天地)에 화초(花草)들이 있었다. 그리하여 안에 들어가서 한 도회(都會)에 이르니, 성첩(城堞)과 누각이 굉장하고 화려하였다. 《幽怪錄》
+english:
+  title: The Ear
+  author: Lee In-ro
+  language: eng
+  text: |-
+    The city walls curve round and round,
+    yet the hollow opening shines with emptiness.
+    In the realm within the ear, the sun hangs long—
+    who will lead the crimson calf through that passage?
+  footnotes:
+  - key: ''
+    value: The 'realm within the ear' (夔玄國/兜玄國) refers to a legendary microcosm said to exist inside the human ear. According to classical lore, a traveler once glimpsed this hidden world when two youths in blue robes, riding a red calf, emerged from within an ear. Upon entering, the traveler discovered an entire celestial kingdom complete with cities, towers, and gardens—a separate cosmos dwelling in so small a space.

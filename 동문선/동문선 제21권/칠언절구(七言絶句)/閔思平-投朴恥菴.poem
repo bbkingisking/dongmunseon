@@ -1,0 +1,43 @@
+canonical:
+  title: 投朴恥菴
+  author: 閔思平
+  language: lzh
+  text: 散策松蹊尋寺了聯鞍夕照與樵還數峯晴雪靑驢背好被人嘲飯顆山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 投朴恥菴
+  author: 閔思平
+  language: lzh
+  text: 散策松蹊尋寺了。聯鞍夕照與樵還。數峯晴雪靑驢背。好被人嘲飯顆山。
+korean:
+  title: 투박치암
+  author: 민사평
+  language: kor
+  text: |-
+    소나무 사이 오솔길 걸어 절을 찾았고
+    안장을 나란히 하여 저녁볕에 나무꾼과 돌아왔다
+    두어 봉우리의 눈이 갤 때 푸른 나귀 등에
+    반과산의 조롱 남에게서 받네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0880&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 푸른 나귀 등 : '
+    value: 당나라 시인 맹호연(孟浩然)이 눈 속에 나귀를 타고 매화를 찾으며 시를 애써 지었다.
+  - key: '[주-D002] 반과산(飯顆山) : '
+    value: 이백과 두보(杜甫)가 반과산(飯顆山)에서 만나 이백이 시를 지어 주기를, ‘반과산 앞에 두보를 만나니 머리에 삿갓을 썼는데 해는 한낮이었네. 묻노라, 무엇 때문에 그토록 여위었나, 모두 종전에 시를 애써 지은 까닭이로다.’ 하였다.
+  - key: '[주-D001] 沒 : '
+    value: 投
+english:
+  title: Presenting to Chiam of Bak
+  author: Min Sa-pyeong
+  language: eng
+  text: |-
+    I wandered the pine-lined path and found the temple at last.
+    With saddles aligned, I returned at dusk with the woodcutter.
+    When snow cleared from a pair of peaks, upon my jade donkey's back—
+    I deserve the mockery of poets at Fangke Mountain.
+  footnotes:
+  - key: ''
+    value: The jade donkey recalls the Tang poet Meng Haoran, who rode through snow seeking plum blossoms while composing verses. Here, the poet invokes this image of artistic dedication in solitude.
+  - key: ''
+    value: Fangke Mountain references the meeting of Li Bai and Du Fu, where Li Bai composed verses mocking Du Fu's worn appearance, attributing it to his excessive devotion to poetry-making. The poet humorously accepts such ridicule as the inevitable cost of the poetic life.

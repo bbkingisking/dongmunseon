@@ -1,0 +1,45 @@
+canonical:
+  title: 登煙臺卽景
+  author: 成重淹
+  language: lzh
+  text: 高臺不受暑醉面更宜風出峽雲從北連江雨走東路長迷去馬天遠失飛鴻無限登臨興誰能與我同
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登煙臺卽景
+  author: 成重淹
+  language: lzh
+  text: 高臺不受暑。醉面更宜風。出峽雲從北。連江雨走東。路長迷去馬。天遠失飛鴻。無限登臨興。誰能與我同。
+korean:
+  title: 등연대 즉경
+  author: 성중엄
+  language: kor
+  text: |-
+    누대가 높아 더위 받지 않나니
+    취한 얼굴에 바람이 더욱 좋다
+    골짝에서 나는 구름 북에서 오고
+    강을 이은 비는 동쪽으로 달린다
+    길이길이 가는 말을 미혹시키고
+    하늘 멀리 날아가는 기러기를 잃었다
+    이 누대에 오르는 흥 한이 없거니
+    그 누가 있어 나와 같을 것인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0770&viewSync=OT
+  footnotes: []
+english:
+  title: 'Ascending Yantai: Spontaneous Verse on the Scene'
+  author: Sung Joong-om
+  language: eng
+  text: |-
+    The high tower shields the summer heat,
+    And wind caresses well a wine-flushed face.
+    Clouds emerge from northern gorges,
+    While rain chases eastward down the joined rivers.
+    The winding path bewilders my departing horse,
+    And distant sky swallows the flying goose.
+    My joy in climbing knows no bounds—
+    Who else could share this moment with me?
+  footnotes:
+  - key: ''
+    value: Yantai (煙臺) is a famous tower or terrace, likely referring to a scenic overlook known for its views.
+  - key: ''
+    value: The poem uses natural phenomena—clouds, rain, horse, and goose—to evoke the isolation and exhilaration of the speaker's solitary ascent.

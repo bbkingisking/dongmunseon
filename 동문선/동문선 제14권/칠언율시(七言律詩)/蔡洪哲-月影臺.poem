@@ -1,0 +1,46 @@
+canonical:
+  title: 月影臺
+  author: 蔡洪哲
+  language: lzh
+  text: 文章習氣轉崔嵬忽憶崔侯一上臺風月不隨黃鶴去煙波相逐白鷗來雨晴山色濃低檻春盡松花亂入杯更有琴心隔塵土他時好與雨雲迴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 月影臺
+  author: 蔡洪哲
+  language: lzh
+  text: 文章習氣轉崔嵬。忽憶崔侯一上臺。風月不隨黃鶴去。煙波相逐白鷗來。雨晴山色濃低檻。春盡松花亂入杯。更有琴心隔塵土。他時好與雨雲迴。
+korean:
+  title: 월영대
+  author: 채홍철
+  language: kor
+  text: |-
+    문장의 지닌 벼슬이 갈수록 으쓱해서
+    문득 최후를 회상하여 한 번 대에 올랐네
+    풍월은 황학 따라 가지 않았구나
+    연파는 길이 백구를 보내 오네
+    비 개자 산빛이 난간에 나직이 짙고
+    봄 늦어 송화가 술잔에 날려드네
+    진세를 등진 거문고의 뜻이 있으니
+    일후에 비ㆍ구름과 함께 좋이 다시 찾으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0890&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 월영대(月影臺) : '
+    value: 마산(馬山) 서쪽 해변에 있는 대(臺)인데, 최치원이 놀던 곳이다.
+english:
+  title: Moon Shadow Terrace
+  author: Chae Hong-chol
+  language: eng
+  text: |-
+    The manners of writing grow ever more ornate and grand,
+    When suddenly I recall Master Choe ascending that terrace once.
+    The wind and moon did not depart with the yellow crane,
+    Yet mist and waves continue to ferry white gulls hither.
+
+    When rain clears, mountain hues deepen along the low railing,
+    As spring wanes and pine blossoms scatter into the wine cup.
+    There dwells a lute-player's heart, untouched by worldly dust—
+    May rain and cloud return with me to seek him once again.
+  footnotes:
+  - key: ''
+    value: Moon Shadow Terrace was a pavilion on the western shore of Masan, a place frequented by Choe Chi-won, the great Silla scholar-poet.

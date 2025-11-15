@@ -1,0 +1,57 @@
+canonical:
+  title: 宣慶殿道場音讚詩應製
+  author: 金良鏡
+  language: lzh
+  text: 仙仗紅雲擁法林玉爐香穂襲檀沉四筵山水肩肩衲萬軸風雷口口音曉殿日高驚覺照夜龕燈徹訝禪心大平應享千齡慶歸佛精勤少似今
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宣慶殿道場音讚詩應製
+  author: 金良鏡
+  language: lzh
+  text: 仙仗紅雲擁法林。玉爐香穂襲檀沉。四筵山水肩肩衲。萬軸風雷口口音。曉殿日高驚覺照。夜龕燈徹訝禪心。大平應享千齡慶。歸佛精勤少似今。
+korean:
+  title: 어명에 의한 선경전도량의 음찬시
+  author: 김양경
+  language: kor
+  text: |-
+    어좌의 붉은 구름은 법림을 둘렀고
+    옥향로의 향불은 전단 침향의 향이로다
+    온 자리에는 어깨마다 산수 누비 옷
+    만축의 뇌성, 입마다 염불 소리로다
+    새벽녘 선경전 솟은 해는 각조런가
+    감실 밖의 등불은 선심이런가
+    태평 성대는 천 년을 누리오리니
+    부처님께 정진하옴이 지금만한 것 없어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 음찬(音讚) : '
+    value: 법회(法會)를 음성으로 찬미하는 것이다.
+  - key: '[주-D002] 각조(覺照) : '
+    value: 불교에서 진심(眞心)을 깨닫는 것을 각조(覺照)라 한다.
+  - key: '[주-D003] 감실(龕室) 밖의 …… 선심(禪心)이런가 : '
+    value: 불교의 선종(禪宗)에서는 마음으로 마음을 전하는 것[以心傳心]을, 등불이 등불에 광명(光明)을 전하는 데 비유하여 전등(傳燈)이라 한다.
+english:
+  title: Verses of Musical Praise for the Dharma Assembly at Seongyeong Hall, Composed by Royal Command
+  author: Kim Yang-gyeong
+  language: eng
+  text: |-
+    Celestial banners wrapped in crimson clouds embrace the dharma grove,
+    Jade censers drift with fragrant smoke—sandalwood and agarwood blend.
+    Across the four platforms, mountain and water adorn each robe,
+    Ten thousand scrolls echo with thunder; from every mouth, chanting flows.
+
+    At dawn the Seongyeong Hall rises with the sun's awakening light—
+    Does it not illuminate the true mind's awakening?
+    Within the shrine, the lamp's radiance spreads from flame to flame—
+    Is this not the mind transmitting mind in silent meditation?
+
+    A thousand years of peace and prosperity shall flourish,
+    Yet no devotion to the Buddha shines as brightly as this present age.
+  footnotes:
+  - key: ''
+    value: 'Seongyeong Hall (宣慶殿): The royal palace hall where Buddhist ceremonies were held'
+  - key: ''
+    value: The 'four platforms' refer to the congregation gathered in the dharma assembly
+  - key: ''
+    value: The transmission of mind through light alludes to the Zen Buddhist teaching of mind transmitting to mind (以心傳心), symbolized by the passing of a lamp's flame

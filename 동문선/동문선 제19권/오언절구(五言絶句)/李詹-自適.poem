@@ -1,0 +1,35 @@
+canonical:
+  title: 自適
+  author: 李詹
+  language: lzh
+  text: 舍後桑枝嫰畦西薤葉抽陂塘春水滿稚子解撑舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自適
+  author: 李詹
+  language: lzh
+  text: 舍後桑枝嫰。畦西薤葉抽。陂塘春水滿。稚子解撑舟。
+korean:
+  title: 자적
+  author: 이첨
+  language: kor
+  text: |-
+    집 뒤 뽕나무 가지 고운 새싹 트고
+    서쪽 언덕맡에 무추잎 빼어나네
+    봄물이 못에 넘치니
+    아이놈들 배를 저을 줄 아네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0590&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Delight
+  author: Lee Jam
+  language: eng
+  text: |-
+    Behind the house, tender shoots crown the mulberry branches,
+    West of the garden beds, wild garlic leaves unfurl their grace.
+    Spring waters brim and overflow the pond—
+    And now the children know to pole their little boats.
+  footnotes:
+  - key: ''
+    value: This poem celebrates simple rural contentment, depicting the arrival of spring and the innocent pleasures of country life. The progression from natural imagery to human activity suggests a harmonious connection between nature's abundance and daily existence.

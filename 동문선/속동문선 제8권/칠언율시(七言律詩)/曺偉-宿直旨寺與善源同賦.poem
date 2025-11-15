@@ -1,0 +1,53 @@
+canonical:
+  title: 宿直旨寺與善源同賦
+  author: 曺偉
+  language: lzh
+  text: 東華十載久迷津今日禪房岸角巾霜後烏椑渾脫葉月中鴦瓦漸生鱗篆盤香細寒更促佛榻燈昏軟語眞滿耳石泉淸不寐明朝其奈踏紅塵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿直旨寺與善源同賦
+  author: 曺偉
+  language: lzh
+  text: 東華十載久迷津。今日禪房岸角巾。霜後烏椑渾脫葉。月中鴦瓦漸生鱗。篆盤香細寒更促。佛榻燈昏軟語眞。滿耳石泉淸不寐。明朝其奈踏紅塵。
+korean:
+  title: 숙 직지사 여선원동부
+  author: 조위
+  language: kor
+  text: |-
+    10년 동안 동화에서 오래 길을 헤매다가
+    오늘날에 선방에서 각건이 비스듬하네
+    서리 뒤의 오비는 잎이 모두 졌는데
+    달빛 속의 원앙와는 차츰 비늘을 번득인다
+    전반의 향이 쇠잔하여 찬 밤을 재촉하고
+    불탑에 등불이 어두운데 부드러운 말이 진정이네
+    귀에 가득한 돌샘물 소리 맑아 잠 못 들거니
+    내일 아침에 어찌 다시 홍진을 밟으랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동화(東華) : '
+    value: 당나라 때에 한림학사(翰林學士)가 처음 임명될 때에 동화문(東華門)으로 들어갔다.
+  - key: '[주-D002] 원앙와(鴛鴦瓦) : '
+    value: 기왓장이 숫컷과 암컷이 서로 어울렸으므로 원앙와(鴛鴦瓦)라 한다.
+  - key: '[주-D003] 전반(篆盤)의 향 : '
+    value: 향(香)을 전자(篆字)처럼 만들어서 12시 백각(百刻)으로 하여 일주야(一晝夜)를 태운다.
+english:
+  title: An Evening at Jisi Temple with Seon-won
+  author: Jo Wi
+  language: eng
+  text: |-
+    Ten years wandering lost in the Eastern Palace's halls,
+    Today in the meditation room, my cap sits askew.
+    After frost, the parasol tree stands bare of every leaf,
+    While mandarin duck tiles gleam faintly in the moonlight.
+    Incense coils grow thin, hastening the cold night onward,
+    The temple lantern dims, and gentle voices ring with truth.
+    My ears fill with the clear song of mountain springs—
+    How can sleep come? Tomorrow I must walk through red dust once more.
+  footnotes:
+  - key: ''
+    value: The Eastern Palace (東華) refers to the prestigious entrance to imperial service, evoking the poet's long years in official duty before this monastic retreat.
+  - key: ''
+    value: Mandarin duck tiles (鴛鴦瓦) are roof tiles that fit together in pairs, symbolizing harmony and conjugal devotion—here used to suggest the temple's peaceful symmetry.
+  - key: ''
+    value: The incense (篆盤香) is inscribed in seal script to mark the hours, burning through the night—a meditation on time's passage.

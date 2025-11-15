@@ -1,0 +1,59 @@
+canonical:
+  title: 大有
+  author: 權近
+  language: lzh
+  text: 林濟遺芬遠不窮扶桑釋子振宗風一龕靜坐心灰冷萬里游觀眼界空馬島雲光鄕樹外鵠峯秋色客窓中情懷每向詩篇寫言語須憑象譯通海闊蓬壺連浩渺天低星斗漾冲融故人刮目知多少舊壑松枝盡指東
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大有
+  author: 權近
+  language: lzh
+  text: 林濟遺芬遠不窮。扶桑釋子振宗風。一龕靜坐心灰冷。萬里游觀眼界空。馬島雲光鄕樹外。鵠峯秋色客窓中。情懷每向詩篇寫。言語須憑象譯通。海闊蓬壺連浩渺。天低星斗漾冲融。故人刮目知多少。舊壑松枝盡指東。
+korean:
+  title: 본국으로 돌아가는 일본 중 대유
+  author: 권근
+  language: kor
+  text: |-
+    임제가 끼친 향기 멀리 퍼져 나가서
+    부상의 석자가 종풍을 떨쳤네
+    감실에 고요히 앉아 마음이 찬 재처럼 되었다가
+    만 리를 유람하니 안계가 텅비었네
+    마도의 뜬 구름빛 고향 나무 밖에 두고
+    곡령의 가을빛을 객창에서 맞이했네
+    정회는 매양 시를 읊어 풀었고
+    언어가 다르니 번역으로 통할 밖에
+    바다가 넓으니 봉호(신선이 사는 산)가 아득하고
+    하늘이 물에 닿아 별들이 헤엄치네
+    괄목하여 대할 수많은 벗들
+    옛 절의 소나무 가지가 모두 동을 가리켰으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 임제(臨濟) : '
+    value: 임제종(臨齊宗)은 선종(禪宗)의 일파인데, 당(唐)나라 의현(義玄)이 황얼(黃蘖)의 법을 이어 뒤에 진정부(眞定府) 임제원(臨濟院)에 있으면서 임제종을 창설했다.
+english:
+  title: Great Abundance
+  author: Kwon Geun
+  language: eng
+  text: |-
+    The fragrance of Linji spreads far, inexhaustibly distant,
+    While priests of Fusang shake forth the ancestral way.
+    Sitting still in the meditation hall, the heart turns to cold ash,
+    Yet wandering ten thousand miles, the eye opens to boundless space.
+
+    Beyond the village trees, clouds gather on Horse Island,
+    Within my travel window, autumn colors grace Crane Peak.
+    My feelings find their voice in verse,
+    And words, though strange, find understanding through translation.
+
+    The sea stretches wide, the blessed mountains fade into mist,
+    The low sky touches water where stars seem to swim.
+    How many old friends gaze anew with recognition—
+    Each pine branch of the ancient temple points toward home in the east.
+  footnotes:
+  - key: ''
+    value: Linji refers to the Linji school of Chan Buddhism, established by the Tang master Yixuan, which became a major lineage of Zen practice.
+  - key: ''
+    value: Fusang is a mythical eastern land in Chinese cosmology, here representing Japan.
+  - key: ''
+    value: The journey described traces a spiritual pilgrimage that moves between the external world of meditation halls and temples, and the internal landscape of homesickness and poetic reflection.

@@ -1,0 +1,37 @@
+canonical:
+  title: 題金海客舍
+  author: 金得培
+  language: lzh
+  text: 來管盆城二十春當時父老半成塵自從書記爲元帥屈指如今有幾人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題金海客舍
+  author: 金得培
+  language: lzh
+  text: 來管盆城二十春。當時父老半成塵。自從書記爲元帥。屈指如今有幾人。
+korean:
+  title: 제김해객사
+  author: 김득배
+  language: kor
+  text: |-
+    이 분성에 와서 관기 노릇한 지 스무 해 전이라
+    그 당시의 부로들은 반이나 티끌 되었네
+    서기(書記)로부터 원수된 이 보나니
+    지금 세상에 손가락 꼽아 몇 사람이 되는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0190&viewSync=OT
+  footnotes: []
+english:
+  title: Written at Kim Hae's Guest House
+  author: Kim Duk-bae
+  language: eng
+  text: |-
+    Twenty springs have passed since I came to manage this fortress town.
+    The elders of those days—half of them have turned to dust.
+    From clerk to commander, I have watched men rise,
+    Yet count on fingers now how many still remain.
+  footnotes:
+  - key: ''
+    value: The poem reflects on the passage of time and mortality, with the speaker contemplating how those who held power or status alongside him have largely passed away, while he himself has risen from a minor administrative position to a position of greater authority.
+  - key: ''
+    value: The 'fortress town' (분성) refers to a fortified settlement, suggesting this is written during a period of military or administrative significance in Korean history.

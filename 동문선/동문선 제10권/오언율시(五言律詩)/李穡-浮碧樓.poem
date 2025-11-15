@@ -1,0 +1,45 @@
+canonical:
+  title: 浮碧樓
+  author: 李穡
+  language: lzh
+  text: 昨過永明寺暫登浮碧樓城空月一片石老雲千秋麟馬去不返天孫何處遊長嘯倚風磴山靑江自流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 浮碧樓
+  author: 李穡
+  language: lzh
+  text: 昨過永明寺。暫登浮碧樓。城空月一片。石老雲千秋。麟馬去不返。天孫何處遊。長嘯倚風磴。山靑江自流。
+korean:
+  title: 부벽루
+  author: 이색
+  language: kor
+  text: |-
+    어제 영명사를 지나다가
+    잠깐 부벽루에 올랐어라
+    성은 비었는데 달은 한 조각이요
+    돌은 늙었는데 구름은 천추로다
+    기린마는 가서 돌아오지 않고
+    천손이 어느 곳에 노니는고
+    길게 휘파람 불고 바람 부는 언덕에 서니
+    산은 푸르고 강은 저대로 흐르더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0320&viewSync=OT
+  footnotes: []
+english:
+  title: The Floating Green Tower
+  author: Lee Suk
+  language: eng
+  text: |-
+    Yesterday I passed by Yeongmyeong Temple
+    and climbed briefly into the Floating Green Tower.
+    The city lies empty—the moon hangs, a single disc.
+    Stone grows old while clouds stretch through a thousand autumns.
+    The unicorn-horse departs and never returns.
+    Where does the Heavenly Weaver wander now?
+    I lean upon the wind-swept ridge, my long whistle cutting through—
+    while the mountains stay green and the river flows on, eternal.
+  footnotes:
+  - key: ''
+    value: The 'unicorn-horse' (기린마) and 'Heavenly Weaver' (천손) reference classical mythology, likely evoking lost dynasties or divine beings who have abandoned the earthly realm.
+  - key: ''
+    value: The contrast between the empty city and enduring natural elements (mountain, river, moon) suggests meditation on transience and permanence in human civilization.

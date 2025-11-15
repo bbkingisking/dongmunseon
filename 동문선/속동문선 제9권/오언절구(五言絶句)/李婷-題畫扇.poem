@@ -1,0 +1,35 @@
+canonical:
+  title: 題畫扇
+  author: 李婷
+  language: lzh
+  text: 黃葉秋風裏靑山落照時江南渺何處一棹去遲遲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題畫扇
+  author: 李婷
+  language: lzh
+  text: 黃葉秋風裏。靑山落照時。江南渺何處。一棹去遲遲。
+korean:
+  title: 제화선
+  author: 이정
+  language: kor
+  text: |-
+    누른 잎은 가을바람 속이요
+    푸른 산에 해가 질 때이다
+    아득하다 강남의 어느 곳인지
+    배 한 척이 느릿느릿 가고 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on a Painted Fan
+  author: Lee Jeong
+  language: eng
+  text: |-
+    Golden leaves drift in the autumn wind,
+    Blue mountains bathed in the setting sun.
+    Where is that distant Jiangnan,
+    where a lone boat drifts slowly on?
+  footnotes:
+  - key: ''
+    value: Jiangnan refers to the region south of the Yangtze River, a classical symbol of beauty and longing in East Asian poetry.

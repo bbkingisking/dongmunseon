@@ -1,0 +1,47 @@
+canonical:
+  title: 綾城鳳棲樓
+  author: 成任
+  language: lzh
+  text: 日日驅馳不暫閑登臨聊復解愁顔閭閻近海春常早松竹當簷夏亦寒簾捲山光侵畫棟日斜花影上雕欄客中無限思鄕意憑仗詩篇強自寬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 綾城鳳棲樓
+  author: 成任
+  language: lzh
+  text: 日日驅馳不暫閑。登臨聊復解愁顔。閭閻近海春常早。松竹當簷夏亦寒。簾捲山光侵畫棟。日斜花影上雕欄。客中無限思鄕意。憑仗詩篇強自寬。
+korean:
+  title: 능성봉서루
+  author: 성임
+  language: kor
+  text: |-
+    날마다 몰아 다니기에 잠깐도 한가하지 못하다가
+    누에 오르매 즐겨 근심스러운 얼굴을 펴겠다
+    여염이 바다에 가까우매 봄이 항상 이르고
+    송죽이 처마에 닿으매 여름도 선선하다
+    발을 걷으면 산빛은 화동을 침노하고
+    해가 비끼면 꽃 그림자는 조란에 오른다
+    나그네로 한량없이 고향 생각하는 마음
+    시편을 의지하여 굳이 스스로 위로한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: Phoenix Perch Pavilion in Neungseong
+  author: Seong Im
+  language: eng
+  text: |-
+    Day after day, I rush about with scarcely a moment's rest,
+    yet climbing to this tower, I find my worried brow at last begins to ease.
+    The village sits near the sea where spring arrives early,
+    and pines and bamboo touch the eaves, making summer cool.
+    When I open the blinds, mountain light invades the painted hall,
+    as the slanting sun casts flower shadows on the carved railings.
+    A traveler's heart knows endless longing for his distant home—
+    I lean on verse and poetry to console myself anew.
+  footnotes:
+  - key: ''
+    value: Neungseong (능성) is a historical place name, possibly referring to a coastal region in medieval Korea.
+  - key: ''
+    value: The 'painted hall' and 'carved railings' suggest the pavilion's elegant architecture, typical of scholarly retreats.
+  - key: ''
+    value: The poem uses the classical theme of the traveler-scholar finding solace in nature and literary composition.

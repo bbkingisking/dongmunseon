@@ -1,0 +1,53 @@
+canonical:
+  title: 古意
+  author: 徐居正
+  language: lzh
+  text: 海底珊瑚高幾丈千年試作千尋網萬牛挽出滄溟深蛟龍贔奰霹靂響搏桑日出紅濤熱光芒照耀黃金闕平生季倫麤男兒一擊破碎紛似雪紛似雪不足惜從此至寶無顔色
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 古意
+  author: 徐居正
+  language: lzh
+  text: 海底珊瑚高幾丈。千年試作千尋網。萬牛挽出滄溟深。蛟龍贔奰霹靂響。搏桑日出紅濤熱。光芒照耀黃金闕。平生季倫麤男兒。一擊破碎紛似雪。紛似雪不足惜。從此至寶無顔色。
+korean:
+  title: 고의
+  author: 서거정
+  language: kor
+  text: |-
+    바다 밑의 산호가 몇 길 높인가
+    천년 동안 시험삼아 천 길 그물을 만들어
+    만 마리 소로 창해에서 끌어 내오니
+    교룡들이 어기야차 놔성ㆍ벽력 우루루
+    부상에 해 떠올라 붉은 물결 뜨거운데
+    산호의 광망이 황금궐을 비치네
+    계륜이 본시 거칠은 사나이
+    대번에 쳐부수어 가루를 만들었것다
+    가루를 만든 것은 아까울 것 없지만
+    이로부터 지보가 면목이 없어졌네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대번에 …… 만들었것다 : '
+    value: 왕개(王愷)가 석숭(石崇=자는 계비(季備))에게 산호나무[珊瑚樹]가 두어 자나 되는 것을 자랑하니 석숭은 쇠망치로 그것을 쳐서 부숴버리고 자기의 창고에 있는 산호나무 오륙 척 되는 6, 7개를 내어 보였다.
+english:
+  title: Ancient Sentiment
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    How many fathoms high does coral rise from the ocean floor?
+    For a thousand years, as if in trial, we wove nets ten thousand fathoms deep.
+    With ten thousand oxen we dragged up the vast abyss of the blue sea—
+    the flood dragons roared and bellowed, thunder and lightning crashing.
+
+    As the sun rose over the coral fields, red waves burned hot,
+    their radiance illuminating the golden palace walls.
+    Yet this man, Season-lun, rough and coarse by nature,
+    with one strike shattered it all to dust like snow.
+
+    The dust like snow—there is nothing to regret in its breaking.
+    But from that moment, the precious treasure lost all its luster.
+  footnotes:
+  - key: ''
+    value: 'The reference to ''Season-lun'' (季倫, Season Lun) alludes to a famous historical anecdote: When Wang Kai boasted to Shi Chong about possessing a coral tree three feet tall, Shi Chong responded by smashing it with an iron hammer, then displayed six or seven coral trees from his own collection that were each six or seven feet tall—transforming what seemed precious through destruction into a display of abundance and indifference to material wealth.'
+  - key: ''
+    value: The poem employs the coral and its destruction as a metaphor for the relationship between pride and humility, wealth and its fragility, and the ultimate emptiness of possessions when stripped of their value through casual destruction.

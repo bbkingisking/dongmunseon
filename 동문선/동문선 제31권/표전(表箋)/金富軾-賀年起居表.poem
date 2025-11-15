@@ -1,0 +1,36 @@
+canonical:
+  title: 賀年起居表
+  author: 金富軾
+  language: lzh
+  text: 正朔迭用於三微寅爲人統春秋備書於五始元見天端日月所臨車書畢湊中賀 伏惟聖上光烈文虎包籠古今時乘六龍萬物以之利見敬用五事庶徵所以順行履玆交泰之辰介爾大平之福春生草木樂洽人民伏念臣等僻守海隅敻遙天闕不獲仰廁朝列抃舞丹墀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀年起居表
+  author: 金富軾
+  language: lzh
+  text: 正朔迭用於三微。寅爲人統。春秋備書於五始。元見天端。日月所臨。車書畢湊。中賀。 伏惟聖上。光烈文虎。包籠古今。時乘六龍。萬物以之利見。敬用五事。庶徵所以順行。履玆交泰之辰。介爾大平之福。春生草木。樂洽人民。伏念臣等。僻守海隅。敻遙天闕。不獲仰廁朝列。抃舞丹墀。
+korean:
+  title: 새해에 기거를 하례하는 표
+  author: 김부식
+  language: kor
+  text: 정삭(正朔)을 삼미(三微)에 번갈아 쓸[用] 제 인(寅)이 인통(人統)이 되고, 춘추(春秋)에 오시(五始)를 갖춰 씀[書]에 원(元)이 하늘 상서에 나타났으니, 해와 달이 조림(照臨)하는 곳에 수레와 글이 다 모이나이다. 중하(中賀) 엎드려 생각건대, 성상(聖上)께서 문무(文武)를 빛내는 공을 세우고 고금(古今)을 포용하시어 때를 만나 육룡(六龍)을 타시니 만물이 그로써 이(利)를 보고, 공경하여 오사(五事)를 쓰시니 온갖 징조가 거의 순조로이 행해집니다. 이러한 교태(交泰)의 때를 당하여 태평의 복을 누리시오니, 봄이 초목(草木)을 나게 하고 즐거움이 만민에 흡족하나이다. 엎드려 생각건대, 신 등은 궁벽한 해우(海隅)를 지키느라 멀리 천궐(天闕)과 떨어져 있으므로 조열(朝列)에 참가하여 단지(丹墀)에 춤추지 못하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: New Year's Respectful Salutation on the Royal Person
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    When the calendar cycles through its phases, the sign of Yin marks the order of humankind; when spring and autumn record all five beginnings, the prime element shines forth in heaven's auspiciousness. Where sun and moon cast their light, the carriages and words of civilization converge.
+
+    With utmost reverence, I contemplate: Our Sagacious Sovereign establishes glorious achievements in both civil and martial virtue, encompassing all ages past and present. Riding the six dragons of the seasons, ten thousand things find their benefit through Your Majesty's grace. In respectful practice of the five virtues, all auspicious signs proceed in harmony. In this time of supreme concordance, you enjoy the blessings of great peace—spring quickens the grasses and trees, joy overflows among all the people.
+
+    Yet I humbly reflect: We humble servants, stationed in this remote corner by the sea, stand far removed from the celestial court. Unable to take our place in the royal assembly, we cannot dance upon the vermillion terrace.
+  footnotes:
+  - key: ''
+    value: The 'six dragons' refer to the six hours of spring or the powers governing seasonal progression in classical cosmology.
+  - key: ''
+    value: 'The ''five virtues'' (五事) are the five cardinal virtues in Confucian philosophy: benevolence, righteousness, propriety, wisdom, and trustworthiness.'
+  - key: ''
+    value: The 'vermillion terrace' (丹墀) is a poetic reference to the royal palace, signifying proximity to imperial favor and participation in court ceremonies.

@@ -1,0 +1,50 @@
+canonical:
+  title: 秋日再經盱眙縣寄李長官
+  author: 崔致遠
+  language: lzh
+  text: 孤蓬再此接恩輝吟對秋風恨有違門柳已凋新歲葉旅人猶着去年衣路迷霄漢愁中老家隔煙波夢裏歸自咲身如春社鷰畫梁高處又來飛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋日再經盱眙縣寄李長官
+  author: 崔致遠
+  language: lzh
+  text: 孤蓬再此接恩輝。吟對秋風恨有違。門柳已凋新歲葉。旅人猶着去年衣。路迷霄漢愁中老。家隔煙波夢裏歸。自咲身如春社鷰。畫梁高處又來飛。
+korean:
+  title: 추일 재경 우이현 기 이 장관
+  author: 최치원
+  language: kor
+  text: |-
+    외로운 손이 두 번 예서 신세 지니
+    가을 바람에 읊조리며 여읠 일 다시 서러워지옵네
+    문 앞 버들은 새 잎 벌써 시들었건만
+    나그네 옷은 아직 작년 입던 그대로
+    하늘같이 먼 길에 시름 속 늙어가는 몸
+    바다 건너 내 집엔 꿈에나 돌아갈까
+    우습다 이 몸은 봄 사일(社日)의 제비인가
+    그림 들보 높은 곳에 또 와 노니는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우이현 : '
+    value: 지금 안휘성(安徽省) 봉양현(鳳陽縣) 동쪽에 있다. 초나라의 의제(義帝)가 도읍했던 곳이다.
+  - key: '[주-D002] 사일(社日) : '
+    value: 사신(社神), 토지, 농사, 신을 제(祭)하는 날이 봄ㆍ가을에 있는데, 춘사(春社)는 음력 2월 무일(戊日)이다. 이 날 제비가 왔다가 가을 사일[秋社]에 돌아간다 한다.
+english:
+  title: Passing Through Wuyi County Again on an Autumn Day, Sent to Manager Li
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    A solitary wanderer receives your grace a second time here.
+    Reciting verse against the autumn wind, old regrets stir anew.
+    The willows by the gate have shed their new leaves already,
+    Yet the traveler still wears the garments of last year.
+
+    On roads as distant as the heavens, I grow old in sorrow,
+    To my home beyond the smoke and waters, I return only in dreams.
+    I laugh at myself—am I the swallow of spring's sacrifice day?
+    Fluttering again high beneath the painted rafters.
+  footnotes:
+  - key: ''
+    value: Wuyi County (modern-day Fengyang, Anhui Province) was historically significant as the capital of the ancient state of Chu during its final days.
+  - key: ''
+    value: The swallow is believed to arrive with spring and depart with autumn. By comparing himself to the swallow, the speaker emphasizes the transience of his journey and his displacement from home.

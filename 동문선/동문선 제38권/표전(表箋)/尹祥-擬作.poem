@@ -1,0 +1,46 @@
+canonical:
+  title: 擬作
+  author: 尹祥
+  language: lzh
+  text: 龍馭當陽咸仰乾元之造台階奉日共荷晉錫之榮徒極感銘末由報効伏念才非致遠德無可稱幸承推轂之恩濫登鈞軸終無挾輔之績未孚輿情何圖逸驥之良遽及庸駑之品種備十六同出魯僖之無疆數嬴三千允邁衛文之匪直靈貺若玆前古所稀玆蓋大度包容至仁涵育霈澤覃及於庶類賚予荐加於臣隣遂令孱質獲蒙優渥謹當益勵愚抱罄竭丹忱嘉與百僚聿遵王道之坦蕩並用群策同調國步之平康
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 擬作
+  author: 尹祥
+  language: lzh
+  text: 龍馭當陽。咸仰乾元之造。台階奉日。共荷晉錫之榮。徒極感銘。末由報効。伏念才非致遠。德無可稱。幸承推轂之恩。濫登鈞軸。終無挾輔之績。未孚輿情。何圖逸驥之良。遽及庸駑之品。種備十六。同出魯僖之無疆。數嬴三千。允邁衛文之匪直。靈貺若玆。前古所稀。玆蓋大度包容。至仁涵育。霈澤覃及於庶類。賚予荐加於臣隣。遂令孱質。獲蒙優渥。謹當益勵愚抱。罄竭丹忱。嘉與百僚。聿遵王道之坦蕩。並用群策。同調國步之平康。
+korean:
+  title: 의정부가 말을 하사한 데 대하여 사례한 글을 의작
+  author: 윤상
+  language: kor
+  text: 임금께서 즉위하시니 하늘의 창조를 모두 우러러, 태계(台階)에서 태양을 받드니 함께 진석(晉錫)의 영광을 입었으므로, 다만 지극히 감격하여 마음에 새길 뿐이요, 보답할 길이 없습니다. 공경히 생각건대, 신은 재주가 원대(遠代)함에 이를 수 없고, 덕은 칭찬할 것이 없는데, 다행히 밀어주신 은혜를 입어 외람되이 삼공(三公)에 올랐으나, 끝까지 보필의 공적이 없으므로 뭇사람의 기대에 맞지 못하였더니, 어찌 좋은 준마(駿馬)를 주심이 노둔한 신들에게 미치실 줄 생각하였으리까. 말의 종류는 16가지나 되니 노(魯)나라 희공(僖公)의 무강(無疆)에서 나온 것과 같고, 수는 3천이나 되니 진실로 위문공(衛文公)의 비직(匪直)에 지납니다. 거룩하게 주심이 이와 같으니 옛날엔 드문 바입니다. 이것은 대개 큰 도량으로 포용하시고 지극한 인(仁)으로 기르셔서, 내리는 혜택이 만물에 미쳤으므로 하사하심이 신들에게 거듭 더하여, 드디어 용렬한 자질로 하여금 다행히 우악한 혜택을 입게 하심을 만난 것입니다.삼가 마땅히 더욱 고지식한 생각으로 힘쓰고, 충성을 다하여서 아름답게 여러 동료들과 더불어, 이 왕도(王道)의 평탄하고 넓음을 따르고, 아울러 뭇사람의 꾀를 써서, 함께 국보(國步 나라 운수)가 평강(平康)하도록 하겠습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0410_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 태계(台階) : '
+    value: 삼정승(三政丞)을 하늘의 삼태성(三台星)에 비유하였다.
+  - key: '[주-D002] 진석(晉錫)의 영광 : '
+    value: 《주역》의 진괘(晉卦)에, 천자(天子)가 제후(諸侯)에게 말을 준다[賜馬]는 말이 있다.
+  - key: '[주-D003] 노(魯)나라 …… 무강(無疆) : '
+    value: 《시경》노송(魯頌)에, “생각이 깊고 멀어 가이 없기 때문에 먹이는 말[馬]이 잘 된다.” 하였다.
+  - key: '[주-D004] 수는 …… 지납니다 : '
+    value: 《시경》위풍(衛風)에, “다만 사람이 마음을 깊이 가질 뿐 아니라 [匪直也人乘心塞潤] 큰 암말[牝馬]이 3천이나 되네.” 하였다.
+english:
+  title: In Imitation of an Official Thanksgiving for the Royal Gift of Horses
+  author: Yun Sang
+  language: eng
+  text: |-
+    When the sovereign ascends the throne, all beneath heaven revere the creative force of the cosmos. Upon the celestial platform we receive the radiance of the sun, and together partake in the glory of this auspicious bestowal. My heart overflows with gratitude beyond measure, yet I find myself without means to repay such kindness.
+
+    I humbly reflect that my talents fall short of distant vision, and my virtue lacks merit worthy of praise. Yet through the grace of your patronage, I have undeservedly risen to the highest office. Still, I have produced no significant service in counsel, and thus fail to meet the expectations of the people. How could I have imagined that such noble steeds would be granted to one as mediocre as myself?
+
+    Sixteen varieties of these magnificent horses have been bestowed—as numerous and boundless as those bred in ancient Lu under Duke Xi. Three thousand strong they number, surpassing even the vast herds of Duke Wen of Wei. Such divine generosity is rare in all of history. This springs from Your Majesty's boundless magnanimity and supreme benevolence, through which blessings extend to all creatures. Thus have I, despite my meager worth, been granted such undeserved favor.
+
+    I pledge henceforth to strengthen my earnest resolve and dedicate myself with utmost sincerity. Together with my fellow officials, I shall follow the righteous path in its clarity and breadth, and through collective wisdom guide our nation toward lasting peace and prosperity.
+  footnotes:
+  - key: ''
+    value: The three highest officials are metaphorically compared to the Three Stars of heaven, reflecting the cosmic order of governance.
+  - key: ''
+    value: The gift of horses carries symbolic significance from the ancient texts, representing the sovereign's favor and the conferral of authority.
+  - key: ''
+    value: The reference to the horses of ancient Lu and Wei evokes classical ideals of virtue and blessing extending throughout the realm.

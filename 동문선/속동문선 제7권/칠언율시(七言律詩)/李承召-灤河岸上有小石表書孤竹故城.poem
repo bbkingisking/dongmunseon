@@ -1,0 +1,58 @@
+canonical:
+  title: 灤河岸上有小石表書孤竹故城
+  author: 李承召
+  language: lzh
+  text: 民極將傾引手扶淸風萬古激頑夫平生欲樹三綱重餓死都忘七尺軀二子不慚爲義士十臣應咲是狂啚悠悠往事從誰問短碣空留古道隅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 灤河岸上有小石表書孤竹故城
+  author: 李承召
+  language: lzh
+  text: 民極將傾引手扶。淸風萬古激頑夫。平生欲樹三綱重。餓死都忘七尺軀。二子不慚爲義士。十臣應咲是狂啚。悠悠往事從誰問。短碣空留古道隅。
+korean:
+  title: 난하안상 유소석표 서고죽고성
+  author: 이승소
+  language: kor
+  text: |-
+    백성의 마룻대가 장차 기울려 하매 손으로 당겨 붙들었나니
+    만고의 맑은 바람은 완부를 격동시켰다
+    평생에 삼강의 무거움을 세우려 하였으매
+    굶어 죽어도 일곱 자의 몸을 전연 잊었다
+    두 아들은 의사 되기에 부끄럽지 않지만
+    열 신하는 아마 미친 짓이라고 웃었으리라
+    아득하여라 지나간 일 누구에게 물을꼬
+    짧은 비만 속절없이 옛길 모퉁이에 남았구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고죽(孤竹) : '
+    value: 옛날 나라 이름이었는데, 그 땅이 백이(伯夷)ㆍ숙제(叔齊) 형제가 난 곳이다.
+  - key: '[주-D002] 만고의 …… 격동시켰다 : '
+    value: 맹자의 말에, “백이의 말을 들은 사람은 완부(頑夫 욕심이 많고 고약한 자)라도 청렴해진다.” 하였다.
+  - key: '[주-D003] 삼강(三綱)의 …… 하였으매 : '
+    value: 백이ㆍ숙제 형제는 주(周)나라로 가서 문왕(文王)의 손님으로 있었는데, 문왕이 죽은 뒤에 문왕의 아들인 무왕(武王)이 자기의 임금인 은(殷)나라의 주(紂)를 치려 출병할 때에, 신하로서 임금을 친다는 것은 불가한 일이라고 말렸으나 듣지 않으므로, 수양산(首陽山)으로 가서 고사리를 캐어 먹다가 죽었다 한다. 여기서는 군(君)ㆍ신(臣)의 대의명분을 분명히 하려고 하였다는 말이다.
+  - key: '[주-D004] 열 신하 : '
+    value: 주나라의 무왕을 도와서 주(紂)를 치게 한 자는 모두 열 사람이었다. 그들은 모두 주나라의 큰 공신이었다.
+english:
+  title: A Stone Marker at the Banks of the Luan River, Recording the Ancient City of Guozhu
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    As the people's anchor beam begins to tilt,
+    He reaches out his hand to hold it steady.
+    The clear winds of ten thousand ages stir even the base and covetous.
+    Lifelong he sought to establish the weight of the Three Bonds—
+    Starving to death, he forgot his seven-foot frame entirely.
+    The two brothers knew no shame in becoming righteous men,
+    Yet the ten ministers surely mocked such madness.
+    Distant now, those matters of old—whom can we ask?
+    Only a short stone marker remains, forgotten in the corner of the ancient way.
+  footnotes:
+  - key: ''
+    value: The 'Two Brothers' refers to Bo Yi and Shu Qi of Guozhu, who famously starved on Shouyang Mountain rather than violate the Three Bonds by serving two different dynasties.
+  - key: ''
+    value: The 'clear winds' alludes to Mencius's teaching that Bo Yi's words could move even the most base and greedy to become virtuous.
+  - key: ''
+    value: The 'Ten Ministers' were the ten great officials who aided King Wu of Zhou in overthrowing the Shang, contrasting with the brothers' refusal to participate in regicide.
+  - key: ''
+    value: The 'Three Bonds' (loyalty to ruler, filial piety, and chastity) represent the fundamental principles of moral conduct that the brothers upheld unto death.

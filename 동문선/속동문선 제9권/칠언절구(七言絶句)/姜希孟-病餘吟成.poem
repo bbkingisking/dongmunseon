@@ -1,0 +1,37 @@
+canonical:
+  title: 病餘吟成
+  author: 姜希孟
+  language: lzh
+  text: 南窓終日坐忘機庭院無人鳥學飛細草暗香難覔處淡烟殘照雨霏霏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病餘吟成
+  author: 姜希孟
+  language: lzh
+  text: 南窓終日坐忘機。庭院無人鳥學飛。細草暗香難覔處。淡烟殘照雨霏霏。
+korean:
+  title: 병여음성
+  author: 강희맹
+  language: kor
+  text: |-
+    남창 앞에 종일 앉아 세속 일 잊었노라
+    정원에는 사람 없고 새는 날기 배우네
+    부드러운 풀의 그윽한 향기를 찾기 어려운 곳인데
+    맑은 연기와 저녁 햇볕에 비가 보슬거린다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0230&viewSync=OT
+  footnotes: []
+english:
+  title: A Song Composed in Recovery from Illness
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    By the south window I sit the whole day through, the world's concerns forgotten.
+    In the empty garden, a bird learns to fly.
+    The delicate fragrance of tender grass dwells in places hard to find—
+    Through pale mist and the fading light of dusk, a gentle rain falls soft.
+  footnotes:
+  - key: ''
+    value: The 'south window' evokes the tranquility sought by reclusive scholars in East Asian tradition, suggesting the poet's retreat from worldly affairs during convalescence.
+  - key: ''
+    value: The bird learning to fly may symbolize the poet's gradual recovery and return to vitality, mirroring nature's own renewal.

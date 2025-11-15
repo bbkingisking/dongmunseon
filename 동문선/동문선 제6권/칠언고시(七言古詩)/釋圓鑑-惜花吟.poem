@@ -1,0 +1,61 @@
+canonical:
+  title: 惜花吟
+  author: 釋圓鑑
+  language: lzh
+  text: 臘月念六初入郭轉頭春已七十有三日去年今年同逝川昨日今日甚奔馹昨日看花花始開今日看花花欲落花開花落不容惜春至春歸誰把捉世人但見花開落不知身與花相若君不見朝臨明鏡誇紅顔暮向北邙催紼翣須信花開花落時分明說箇無常法
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 惜花吟
+  author: 釋圓鑑
+  language: lzh
+  text: 臘月念六初入郭。轉頭春已七十有三日。去年今年同逝川。昨日今日甚奔馹。昨日看花花始開。今日看花花欲落。花開花落不容惜。春至春歸誰把捉。世人但見花開落。不知身與花相若。君不見朝臨明鏡誇紅顔。暮向北邙催紼翣。須信花開花落時。分明說箇無常法。
+korean:
+  title: 꽃을 아까와하면서
+  author: 석원감
+  language: kor
+  text: |-
+    납월 26일에 처음으로 성에 들어
+    머리 돌리는 사이 봄은 이미 70이요 사흘이네
+    지난해나 올해도 물처럼 흘러가고
+    어제도 오늘도 역말처럼 달려가네
+    어제 꽃을 보매 꽃이 처음 피더니
+    오늘 꽃을 보매 꽃이 지려 하는구나
+    꽃이 피었다 지는 것은 아낄 겨를도 없고
+    봄이 왔다 가는 것 누가 잡을 것인가
+    세상 사람은 다만 꽃이 피고 지는 것만 보고
+    제 몸이 저 꽃과 같은 줄은 모르네
+    그대는 아침에 거울 앞에서 젊은 얼굴 자랑하다가
+    저녁에는 북망을 향해 불삽을 재촉하는 것 보지 못하였는가
+    모름지기 믿어라 꽃이 피고 질 때에
+    그것은 분명 저 무상을 말하는 것이니라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0390&viewSync=OT
+  footnotes: []
+english:
+  title: Lamenting the Passing of Flowers
+  author: Seok Won-gam
+  language: eng
+  text: |-
+    On the twenty-sixth day of the twelfth moon I entered the city walls—
+    turned my head and spring was already seventy-three days old.
+    Last year and this year both flow like rivers,
+    yesterday and today rush past like galloping steeds.
+
+    Yesterday I watched the flowers beginning to open,
+    today I watch them fading away.
+    Flowers that bloom and fall leave no time for grieving,
+    spring that comes and goes—who can hold it fast?
+
+    The world sees only flowers opening and closing,
+    not knowing their own bodies mirror the blooms.
+    Did you not see how at dawn men boast before their mirrors of ruddy cheeks,
+    yet by evening hurry toward the northern grave, hastening their funeral drums?
+
+    Believe this truth when flowers bloom and fall:
+    they speak plainly of impermanence,
+    the ceaseless law that binds us all.
+  footnotes:
+  - key: ''
+    value: '北邙 (northern grave): A reference to the famous cemetery north of Luoyang, symbolizing death and the grave'
+  - key: ''
+    value: '無常法 (impermanence): A Buddhist concept central to the poem''s meditation on the transient nature of all phenomena'

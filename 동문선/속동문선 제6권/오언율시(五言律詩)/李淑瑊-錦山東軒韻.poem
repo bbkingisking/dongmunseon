@@ -1,0 +1,46 @@
+canonical:
+  title: 錦山東軒韻
+  author: 李淑瑊
+  language: lzh
+  text: 路轉羊膓去山從馬首來咨諏空自負懷抱向誰開秋晩飄紅葉池荒長紫苔郡齋眞絶境觸眼揔詩材
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 錦山東軒韻
+  author: 李淑瑊
+  language: lzh
+  text: 路轉羊膓去。山從馬首來。咨諏空自負。懷抱向誰開。秋晩飄紅葉。池荒長紫苔。郡齋眞絶境。觸眼揔詩材。
+korean:
+  title: 금산 동헌운
+  author: 이숙감
+  language: kor
+  text: |-
+    길은 양의 창자처럼 돌아가는데
+    산은 말 머리를 좇아 나오네
+    사신 가는 일 공연히 자부하고서
+    품은 이 뜻을 누구에게 하소하리
+    가을은 늦어 단풍잎 나부끼고
+    못이 거칠어 자태만 길게 자랐도다
+    이 고을의 서재는 진실로 절경이라
+    눈에 보이는 것 모두가 시의 소재일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Rhyme of the Eastern Hall at Geumsan
+  author: Lee Suk-gam
+  language: eng
+  text: |-
+    The path winds like a serpent's belly, turning back,
+    While mountains rise to meet the horse's head.
+    I boast of duties done, yet it is empty pride—
+    To whom can I confess what dwells within my heart?
+
+    Autumn deepens, scattering crimson leaves,
+    The pool lies neglected, purple moss spreads long.
+    This county's study is truly a realm apart,
+    Where all that meets the eye becomes the poet's matter.
+  footnotes:
+  - key: ''
+    value: The 'serpent's belly' and 'horse's head' are vivid metaphors for the winding mountain paths and peaks, suggesting both the arduous journey and the majesty of the landscape.
+  - key: ''
+    value: The 'county's study' (郡齋) refers to the Eastern Hall (東軒), likely an administrative building from which the speaker contemplates the surrounding natural beauty, transforming official duties into poetic inspiration.

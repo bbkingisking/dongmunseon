@@ -1,0 +1,47 @@
+canonical:
+  title: 燈夕
+  author: 李仁老
+  language: lzh
+  text: 電鞭初報一聲雷春色先凝萬歲杯銀燭影中寒漏永玉簫聲裏暖風催仙桃帶露枝偏重瑞莢含煙葉盡開輦路月明絲管沸翠蛾爭唱紫雲回
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 燈夕
+  author: 李仁老
+  language: lzh
+  text: 電鞭初報一聲雷。春色先凝萬歲杯。銀燭影中寒漏永。玉簫聲裏暖風催。仙桃帶露枝偏重。瑞莢含煙葉盡開。輦路月明絲管沸。翠蛾爭唱紫雲回。
+korean:
+  title: 관등 저녁
+  author: 이인로
+  language: kor
+  text: |-
+    번개채찍에 우뢰소리 나자
+    봄빛이 먼저 만수배에 엉기누나
+    은촛불 휘황한데 누수는 느릿하고
+    옥피리 소리속에 바람도 따스하네
+    이슬을 띤 선도는 가지가 무거운 듯
+    연기를 머금은 서협(명협(蓂莢))은 잎이 활짝 피었네
+    연로에 달이 밝고 온갖 풍악 들끓는데
+    궁녀들 자운곡을 다투어 부르누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: Evening of the Lantern Festival
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Lightning whips crack—thunder's voice rings out,
+    and spring's essence pools first in the ten-thousand-year cup.
+    Beneath the silver candle's glow the water clock drips slow,
+    while jade pipes sing, and warm wind stirs in answer.
+    The immortal peach, heavy with dew, bends its laden boughs,
+    and the sacred pods, breathing mist, burst open leaf by leaf.
+    On the palace road the moon shines bright, all instruments boil with sound—
+    the palace maidens vie with one another, singing the song of purple clouds.
+  footnotes:
+  - key: ''
+    value: The 'ten-thousand-year cup' (萬歲杯) is a ceremonial toast wishing for eternal longevity and imperial blessing, here evoking a festival celebration.
+  - key: ''
+    value: The 'immortal peach' and 'sacred pods' are auspicious symbols of longevity and good fortune in Chinese tradition.
+  - key: ''
+    value: The 'song of purple clouds' (紫雲回) likely refers to an ancient celebratory or courtly song, suggesting the refined entertainment of the palace.

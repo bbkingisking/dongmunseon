@@ -1,0 +1,33 @@
+canonical:
+  title: 謝恩起居表
+  author: 金坵
+  language: lzh
+  text: 曾覩龍顔倍切尋常之懇每承鳳詔如親咫尺之威遐祝之勤大明是照
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝恩起居表
+  author: 金坵
+  language: lzh
+  text: 曾覩龍顔。倍切尋常之懇。每承鳳詔。如親咫尺之威。遐祝之勤。大明是照。
+korean:
+  title: 사은 기거 표
+  author: 김구
+  language: kor
+  text: 일찍이 용안(龍顔)을 뵈옵사옴에 보통보다 더욱 정성이 간절하오며, 매양 봉조(鳳詔)를 받자옴에 지척(咫尺)에서 위엄을 친히 접한 듯하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 봉조(鳳詔) : '
+    value: 임금이 조서(詔書)를 반포할 때에는 나무로 만든 봉(鳳)의 입에 물렸다가 반포하였다.
+english:
+  title: Memorial of Gratitude and Obeisance
+  author: Kim Gu
+  language: eng
+  text: Having once beheld the Dragon Countenance, my devotion grows ever more fervent than in ordinary times. Each time I receive the Phoenix Edict, it is as though I stand in the very shadow of imperial majesty, feeling its presence as near as a hand's breadth away. Such is the diligence of my distant prayers, illuminated by the Great Radiance above.
+  footnotes:
+  - key: ''
+    value: 'Dragon Countenance (龍顔): A classical metaphor for the emperor''s face or presence.'
+  - key: ''
+    value: 'Phoenix Edict (鳳詔): The imperial proclamation, which was traditionally held in the beak of a wooden phoenix ornament before being issued.'
+  - key: ''
+    value: This memorial was composed as a formal expression of gratitude for imperial favor and recognition.

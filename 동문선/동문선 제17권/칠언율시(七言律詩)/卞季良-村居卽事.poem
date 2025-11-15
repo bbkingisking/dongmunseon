@@ -1,0 +1,47 @@
+canonical:
+  title: 村居卽事
+  author: 卞季良
+  language: lzh
+  text: 村居寂寞亂峯前數樹柔桑二頃田斸藥每從林下步曬書偏向日中眠江天雲盡見歸鴈山竹月明聞杜鵑回首兩鄕何限意新詩一首爲君傳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 村居卽事
+  author: 卞季良
+  language: lzh
+  text: 村居寂寞亂峯前。數樹柔桑二頃田。斸藥每從林下步。曬書偏向日中眠。江天雲盡見歸鴈。山竹月明聞杜鵑。回首兩鄕何限意。新詩一首爲君傳。
+korean:
+  title: 촌거직사
+  author: 변계량
+  language: kor
+  text: |-
+    겹겹 봉우리 앞에 쓸쓸한 촌집
+    밭 두 이랑에 뽕나무가 몇 그루
+    약을 캐다 수풀 밑에 매양 거닐고
+    책 말리다 햇빛 아래 졸기가 일쑤
+    강 하늘에 구름 걷히자 가는 기러기 보이고
+    멧대에 달 밝은데 뻐꾸기 소리 들리네
+    두 곳에서 서로 바라는 그지없는 뜻
+    시 한 수 새로 지어 그대에게 전하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0490&viewSync=OT
+  footnotes: []
+english:
+  title: 'Village Life: A Moment Observed'
+  author: Byeon Gye-ryang
+  language: eng
+  text: |-
+    Before layered peaks, the village stands in solitude.
+    A few mulberry trees on two acres of field.
+    Gathering herbs, I wander the forest floor,
+    Drying books, I drowse beneath the sun.
+    When clouds drift from the river-sky, I see returning geese,
+    When moonlight brightens the mountain bamboo, I hear the cuckoo's call.
+    Between two places, how endless the yearning—
+    I compose this poem anew to send to you.
+  footnotes:
+  - key: ''
+    value: The 'two places' likely refers to the poet's divided loyalty or affection between two locations—possibly his hometown and current residence, or between the life of seclusion and the world beyond.
+  - key: ''
+    value: The cuckoo (杜鵑, dujonge) traditionally symbolizes longing and melancholy in East Asian poetry, complementing the theme of separation.
+  - key: ''
+    value: The juxtaposition of humble rural tasks—gathering herbs and drying books—with celestial imagery suggests the poet's attempt to find spiritual meaning in simple village life.

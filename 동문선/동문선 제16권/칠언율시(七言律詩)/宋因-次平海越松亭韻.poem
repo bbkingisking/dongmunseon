@@ -1,0 +1,47 @@
+canonical:
+  title: 次平海越松亭韻
+  author: 宋因
+  language: lzh
+  text: 地接蓬萊方丈山越松仙去幾炎寒搜奇未遍嗟行迫請暇無多覺住難舊友不逢空記面良辰雖樂孰開顔明朝欲向溫泉去携酒誰從寂寞間
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次平海越松亭韻
+  author: 宋因
+  language: lzh
+  text: 地接蓬萊方丈山。越松仙去幾炎寒。搜奇未遍嗟行迫。請暇無多覺住難。舊友不逢空記面。良辰雖樂孰開顔。明朝欲向溫泉去。携酒誰從寂寞間。
+korean:
+  title: 차 평해 월송정 운
+  author: 송인
+  language: kor
+  text: |-
+    이 땅이 봉래 방장산과 맞닿았는데
+    월송정 신선이 간 지 몇 해나 되었나
+    기이한 경치 두루 못 찾으니 총총한 길 원망스럽고
+    휴가 잠깐 얻었으니 오래 묵기 어렵네
+    옛 벗들 못 만나니 얼굴만 생각날 뿐
+    좋은 절이 즐겁다 하나 무엇으로 얼굴 펴리
+    내일 아침엔 온천으로 가려 하니
+    그 누가 적막한 나를 술병 들고 좇을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Rhymes of Yuesongjing Pavilion at Pinghai
+  author: Song In
+  language: eng
+  text: |-
+    This land borders on Penglai and Fangzhang—sacred peaks of legend.
+    How many seasons have passed since the immortal of Yuesongjing departed?
+    Searching for wonders through these lands, my journey rushes onward,
+    And I lament how brief my leave has been, how hard it is to linger.
+    Old friends—I do not meet them, only their faces linger in memory.
+    Though this fine temple brings joy, what can brighten a weary heart?
+    Tomorrow at dawn I journey toward the hot springs,
+    But who will follow this solitary wanderer, bottle in hand, through the empty dark?
+  footnotes:
+  - key: ''
+    value: Penglai and Fangzhang are legendary islands of immortals in classical Chinese cosmology, suggesting the sacred nature of the landscape.
+  - key: ''
+    value: Yuesongjing (月松亭) refers to the Pavilion of the Moon and Pine, a place of spiritual significance.
+  - key: ''
+    value: The poem's final image of seeking a companion for wine conveys both loneliness and the desire for connection in travel.

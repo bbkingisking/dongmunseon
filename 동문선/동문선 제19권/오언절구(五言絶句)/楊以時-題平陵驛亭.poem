@@ -1,0 +1,35 @@
+canonical:
+  title: 題平陵驛亭
+  author: 楊以時
+  language: lzh
+  text: 稻花風際白豆莢雨餘靑物物得其所我歌溪上亭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題平陵驛亭
+  author: 楊以時
+  language: lzh
+  text: 稻花風際白。豆莢雨餘靑。物物得其所。我歌溪上亭。
+korean:
+  title: 제 평릉 역정
+  author: 양이시
+  language: kor
+  text: |-
+    벼꽃은 바람 앞에 희고
+    콩 꼬투리는 비온 뒤에 푸르다
+    물물마다 제 멋을 얻었는데
+    나는 시냇가 정자 위에서 노래하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: On the Pavilion at Pyeongneung Station
+  author: Yang Yi-si
+  language: eng
+  text: |-
+    Rice flowers gleam white beneath the wind,
+    Bean pods turn green after the rain.
+    Each thing finds its perfect place—
+    And I sing here in the pavilion by the stream.
+  footnotes:
+  - key: ''
+    value: Pyeongneung Station (平陵驛) was a rest station along a major travel route in classical Korea, making it a common subject for travelers' poems.

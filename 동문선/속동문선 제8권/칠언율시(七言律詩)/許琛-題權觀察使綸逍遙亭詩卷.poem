@@ -1,0 +1,55 @@
+canonical:
+  title: 題權觀察使綸逍遙亭詩卷
+  author: 許琛
+  language: lzh
+  text: 回頭人世隔雲泥夢斷東華迹已迷直欲枕流兼漱石也勝騎馬更聞鷄窓㘅海日蒼凉遠門對烟岑紫翠低領略湖山眞有趣杳然天地一幽棲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題權觀察使綸逍遙亭詩卷
+  author: 許琛
+  language: lzh
+  text: 回頭人世隔雲泥。夢斷東華迹已迷。直欲枕流兼漱石。也勝騎馬更聞鷄。窓㘅海日蒼凉遠。門對烟岑紫翠低。領略湖山眞有趣。杳然天地一幽棲。
+korean:
+  title: 제 권관찰사륜 소요정 시권
+  author: 허침
+  language: kor
+  text: |-
+    머리를 돌리매 인간 세상은 구름과 진흙처럼 먼데
+    동화의 꿈은 끊어져 자취가 이미 아득하다
+    바로 침류와 수석을 겸하려 하노니
+    그것은 말타고 닭소리 듣는 것보다 낫다
+    창은 창량한 먼 바다 해를 머금었는데
+    문은 불긋푸릇 나직한 산을 마주했다
+    호수와 산을 점령함이 참으로 흥취 있거니
+    아득한 천지에 그윽한 내집일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구름과 진흙처럼 먼데 : '
+    value: 구름은 높이 하늘에 있고 진흙은 낮은 땅에 있어 서로 거리가 멀다는 뜻이다.
+  - key: '[주-D002] 침류(枕流)와 수석(漱石) : '
+    value: 진(晋)나라 손초(孫楚)가 산수간에 숨어 살겠다는 뜻을 말하면서, “나는 장 돌을 베개로 삼고 흐르는 물에 입을 씻겠다.” 하려는 것이 말이 잘못 나와서, “흐르는 물을 베고 돌로 입을 씻겟노라.” 하였다. 옆에 사람이 조롱하기를, “흐르는 물을 어찌 베개로 삼으며 돌로 어찌 입을 씻으랴.” 하니, 그는 답하기를, “흐르는 물을 베개로 함은 귀를 〈세상의 더러운 말이 들어오지 않게〉 씻으려는 것이요, 돌로 입을 씻음은 이[齒]를 잘 닦으려 함이다.” 하였다는 일화(逸話)가 있다.
+  - key: '[주-D003] 말타고 닭소리 듣는 것 : '
+    value: 이것은 송나라 구양수(歐陽修)의 시에 있는 말인데, “벼슬하는 이가 새벽에 일찍 조회(朝會)하노라고 말을 타고 대궐로 가면서 닭이 우는 소리를 듣는다.”는 말이다.
+  - key: '[주-D004] 창량(滄凉) : '
+    value: 공자(孔子)가 길을 가는데 두 아이가 해[日]를 두고 변론하는 것을 들었다. 한 아이가 말하기를, “해가 처음 뜰 때에는 창창 량량(滄滄凉凉)하다가 하늘 가운데 와서는 뜨거우니, 그것은 가까우니 더웁고 멀리 있을 때에는 서늘한 것이다.” 하였다.
+english:
+  title: On the Poetry Scroll of the Leisurely Pavilion of Kwon the Provincial Inspector
+  author: Heo Chim
+  language: eng
+  text: |-
+    I turn my head—the human world lies distant as clouds and mud.
+    The dream of the Eastern Palace breaks; its traces already fade.
+    I wish to embrace the flowing stream as pillow, stones to wash my mouth—
+    Surely this surpasses riding to court at the rooster's cry.
+    My window holds the pale sun over distant seas,
+    My gate faces the mountains, purple and green, drawing near.
+    To wander through lakes and peaks—what true delight!
+    In this vast, quiet realm, I have found my sanctuary.
+  footnotes:
+  - key: ''
+    value: The allusion to 'flowing stream as pillow, stones to wash my mouth' references the legendary recluse Sun Chu, who retreated to nature with these methods of spiritual cleansing—a symbol of withdrawal from worldly corruption.
+  - key: ''
+    value: The contrast between 'riding to court at the rooster's cry' and the poet's chosen solitude invokes the image of an official hurrying to morning court, representing the demands of public duty versus the freedom of retirement.
+  - key: ''
+    value: The 'Eastern Palace' may reference the dwelling of immortals or the poet's former aspirations, now dreamlike and unreachable.

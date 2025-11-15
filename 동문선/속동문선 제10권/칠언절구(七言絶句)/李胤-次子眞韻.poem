@@ -1,0 +1,39 @@
+canonical:
+  title: 次子眞韻
+  author: 李胤
+  language: lzh
+  text: 竹陰時度小亭淸騷客吟髭斷幾莖世事無窮花自落一林幽鳥弄新晴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次子眞韻
+  author: 李胤
+  language: lzh
+  text: 竹陰時度小亭淸。騷客吟髭斷幾莖。世事無窮花自落。一林幽鳥弄新晴。
+korean:
+  title: 차 자진운
+  author: 이윤
+  language: kor
+  text: |-
+    대 그늘을 거닐매 작은 정자 경치 맑고
+    시 읊는 객의 수염 몇 줄기나 끊겼던고
+    세상 일 한이 없고 꽃은 절로 지는데
+    그윽한 숲의 새는 비 개었다고 즐겨하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Zizhen's Rhyme
+  author: Lee Yun
+  language: eng
+  text: |-
+    Walking through bamboo shade near the small pavilion—how clear the air.
+    The poet's beard grows thin, a few more strands turned white.
+    Worldly cares are endless, yet flowers fall of their own accord.
+    In the quiet grove, birds rejoice at the breaking clouds.
+  footnotes:
+  - key: ''
+    value: Zizhen (子眞) likely refers to another poet whose work this poem responds to, following the classical Chinese poetic tradition of 'responding rhyme' verses.
+  - key: ''
+    value: The greying beard serves as a metaphor for the passage of time and the poet's aging amid constant worldly turmoil.
+  - key: ''
+    value: The final image of birds rejoicing at clearing weather contrasts with human sorrow, suggesting nature's indifference to human concerns.

@@ -1,0 +1,37 @@
+canonical:
+  title: 小硯銘
+  author: 李奎報
+  language: lzh
+  text: 硯乎硯乎爾麽非爾之恥爾雖一寸窪寫我無盡意吾雖六尺長事業借汝遂硯乎吾與汝同歸生由是死由是
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 小硯銘
+  author: 李奎報
+  language: lzh
+  text: 硯乎硯乎。爾麽非爾之恥。爾雖一寸窪。寫我無盡意。吾雖六尺長。事業借汝遂。硯乎吾與汝同歸。生由是死由是。
+korean:
+  title: 소연 명
+  author: 이규보
+  language: kor
+  text: 벼루야 벼루야 네가 조그마하다 하여 너에게 수치(羞恥)가 아니다. 네가 비록 한 치 쯤 되는 웅덩이지마는 나의 한량없는 뜻을 글로 쓰게 한다. 나는 비록 키가 여섯 자나 되는데도 사업(事業)은 너를 빌려서 이루어진다. 벼루야 나랑 너랑 같이하여 사는 것도 이것으로 죽는 것도 이것으로.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on a Small Inkstone
+  author: Lee Gyeou-bo
+  language: eng
+  text: |-
+    O inkstone, O inkstone—
+    be not ashamed of your smallness.
+    Though you are but a shallow well of an inch,
+    you grant me to write my boundless thoughts.
+    I, though six feet tall,
+    accomplish my work only through you.
+    O inkstone, you and I journey together:
+    by you I live, by you I die.
+  footnotes:
+  - key: ''
+    value: The 'six feet' is a traditional measurement of human height in East Asian poetry, representing the poet's full stature and accomplishments.
+  - key: ''
+    value: This inscription reflects the classical Chinese ideal of the inkstone as an essential companion to the scholar-official, elevating a humble object to philosophical significance.

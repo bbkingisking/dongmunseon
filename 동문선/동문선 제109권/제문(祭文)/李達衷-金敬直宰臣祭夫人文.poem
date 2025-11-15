@@ -1,0 +1,42 @@
+canonical:
+  title: 金敬直宰臣祭夫人文
+  author: 李達衷
+  language: lzh
+  text: 嗚呼魂兮其有知乎旣無知矣雖言奚爲旣有知矣吾又何辭嗚呼魂兮其至斯乎陳玆薄奠庶幾格思嗚呼奈何兮噫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金敬直宰臣祭夫人文
+  author: 李達衷
+  language: lzh
+  text: 嗚呼魂兮。其有知乎。旣無知矣。雖言奚爲。旣有知矣。吾又何辭。嗚呼魂兮。其至斯乎。陳玆薄奠。庶幾格思。嗚呼奈何兮噫。
+korean:
+  title: 김경직 재신이 부인에게 드리는 제
+  author: 이달충
+  language: kor
+  text: 아, 슬프다. 혼이여, 나를 알겠는가. 알지 못한다면 비록 말을 한들 무엇하며 만일 안다면 내가 또 무슨 말을 할 필요가 있겠는가. 슬프다, 혼이여. 여기에 왔는가. 이 박전(薄奠)을 베푸니 부디 흠향하구려. 아, 어찌할꼬. 슬프다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1120_010_0420&viewSync=OT
+  footnotes: []
+english:
+  title: Sacrificial Eulogy for the Wife of Minister Kim Gyeong-jik
+  author: Lee Dal-chung
+  language: eng
+  text: |-
+    O spirit, hear me now.
+    Do you perceive these words?
+    If you know nothing,
+    what use are mere sounds?
+    If you understand all,
+    what need have I to speak?
+
+    O spirit, have you come to this place?
+    I lay before you this humble offering—
+    accept it, I pray.
+
+    Alas, what can be done?
+    O sorrow, O grief.
+  footnotes:
+  - key: ''
+    value: The 'humble offering' (薄奠, bak-jeon) refers to a modest sacrifice presented at a funeral rite, typically consisting of food and wine. Despite its simplicity, it carries profound spiritual significance.
+  - key: ''
+    value: This piece exemplifies the Neo-Confucian rhetorical tradition of addressing the departed spirit with both doubt and reverence, acknowledging the unknowable boundary between the living and the dead.

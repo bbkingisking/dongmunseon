@@ -1,0 +1,50 @@
+canonical:
+  title: 李密直
+  author: 趙簡
+  language: lzh
+  text: 具慶提衡罕見聞得賢還勝舊龍門觴中壽可重重獻堂上親皆兩兩存幾世蘭蓀相襲馥一番桃李始開繁悅軒喜氣那容說人道新添甲桂孫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李密直
+  author: 趙簡
+  language: lzh
+  text: 具慶提衡罕見聞。得賢還勝舊龍門。觴中壽可重重獻。堂上親皆兩兩存。幾世蘭蓀相襲馥。一番桃李始開繁。悅軒喜氣那容說。人道新添甲桂孫。
+korean:
+  title: 이 밀직
+  author: 조간
+  language: kor
+  text: |-
+    구경(부모가 살아 있는 것을 말함)하여 문형(대제학(大提學)) 맡음 드물게 보는 일
+    게다가 어진 문생들, 옛 용문보다 나으리라
+    헌수 잔은 거듭거듭 드려야 하리
+    당상의 어버이는 두 분이 다 계시거니
+    몇 대나 난초ㆍ혜초 향을 이어 나가는고
+    한 철의 복숭아ㆍ오얏꽃이 활짝 피었네
+    존당의 기쁜 기색을 어이 다 말씀하리
+    사람들 전하는 소식에 손자도 장원했다고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0820&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 용문(龍門) : '
+    value: “강과 바다의 고기들이 용문(龍門) 아래 모였다가 뛰어오르는 놈은 용이 된다.”는 전설에 의하여 이름이 높고 인망이 큰 사람을 비유한 것인데, 여기서는 이번 과거가 전날보다 좋은 선비를 뽑았다는 말이다.
+english:
+  title: On Yi Mil-jik's Success
+  author: Cho Gan
+  language: eng
+  text: |-
+    Both parents living—a rare sight to behold,
+    And gaining the post of Chief Examiner, rarer still.
+    Yet the worthy scholars he gathers surpass even the legendary Dragon Gate.
+    Cups of longevity wine must be raised again and again,
+    For both parents sit honored in the hall.
+
+    Generation after generation, the fragrance of orchid and aromatic grass continues,
+    And now the peach and plum blossoms burst forth in splendid bloom.
+    The joy in his chamber—how can words contain it?
+    The people speak of it everywhere:
+    another grandson has won first place in the examination.
+  footnotes:
+  - key: ''
+    value: The 'Dragon Gate' (龍門) alludes to the ancient legend where fish gather beneath a waterfall, and those that leap over it transform into dragons—a metaphor for talented scholars rising to prominence.
+  - key: ''
+    value: '''Both parents living'' (具慶) is an auspicious condition, as it means the examiner can serve his parents during their lifetime, a Confucian ideal.'

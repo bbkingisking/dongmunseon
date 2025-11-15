@@ -1,0 +1,48 @@
+canonical:
+  title: 宿滅浦院樓
+  author: 李詹
+  language: lzh
+  text: 長江衮衮向東流野闊山開天盡頭舟楫幾年人渡水風塵萬里客登樓煙籠杜子淸淮夜月小蘇仙赤壁秋歧路向南通巨鎭征驂時到此中留
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿滅浦院樓
+  author: 李詹
+  language: lzh
+  text: 長江衮衮向東流。野闊山開天盡頭。舟楫幾年人渡水。風塵萬里客登樓。煙籠杜子淸淮夜。月小蘇仙赤壁秋。歧路向南通巨鎭。征驂時到此中留。
+korean:
+  title: 숙 멸포원루
+  author: 이첨
+  language: kor
+  text: |-
+    긴 강이 출렁출렁 동쪽으로 흐르는데
+    넓은 들 트인 산 하늘 끝 닿은 곳
+    배들은 몇 해나 사람을 건네었나
+    풍진 만 리에 나그네는 다락에 올랐구나
+    연기는 자욱해 두목의 진회의 밤인가
+    달은 자그마해서 소선 적벽의 가을이로세
+    갈림길 남으로 가면 큰 진으로 통하나니
+    가는 손 이따금 예 와 묵어 가는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 연기는 …… 밤인가 : '
+    value: 두목(杜牧)의 〈야박진회(夜泊秦淮)〉시에, “연기는 찬물에 자욱, 달은 모래에 휘영청. 밤에 진회에 대니 술집이 바로 옆에 있네[煙寒實水月籠沙 夜泊秦淮近酒家].”라는 구절이 있다.
+english:
+  title: Lodging at the Tower of Miepo Monastery
+  author: Lee Cham
+  language: eng
+  text: |-
+    The long river rolls and tumbles eastward,
+    Where open fields and opened mountains reach the edge of heaven.
+    For how many years have boats ferried people across the water?
+    The wanderer, dust-weary from a thousand miles, climbs the high tower.
+
+    Smoke gathers thick—is it the night of Du Mu's Qinhuai?
+    The moon hangs small—is it autumn at Su Xian's Red Cliff?
+    The forking path southward leads to the great garrison town,
+    Where the traveling carriage sometimes comes to rest and lingers here.
+  footnotes:
+  - key: ''
+    value: 'Du Mu''s poem ''Mooring on the Qinhuai at Night'' contains the lines: ''Smoke gathers over cold water, moonlight scatters on sand; arriving at the Qinhuai by night, wine shops stand just beyond.'' The poet invokes this classical scene to evoke the melancholic beauty of the river landscape.'
+  - key: ''
+    value: The references to Du Mu and the Red Cliff (Su Xian's retreat) are allusions to famous literary sites and poets, suggesting the speaker's journey through a landscape steeped in poetic tradition.

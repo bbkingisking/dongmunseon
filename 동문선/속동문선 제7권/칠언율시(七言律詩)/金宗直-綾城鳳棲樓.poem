@@ -1,0 +1,50 @@
+canonical:
+  title: 綾城鳳棲樓
+  author: 金宗直
+  language: lzh
+  text: 連珠山上月如盤草樹無風露氣寒千陣絮雲渾欲盡一堆鈴牒不須看年華更覺中秋勝客况誰知此夜寬征旆又遵西海轉指尖將擘蟹臍團
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 綾城鳳棲樓
+  author: 金宗直
+  language: lzh
+  text: 連珠山上月如盤。草樹無風露氣寒。千陣絮雲渾欲盡。一堆鈴牒不須看。年華更覺中秋勝。客况誰知此夜寬。征旆又遵西海轉。指尖將擘蟹臍團。
+korean:
+  title: 능성봉 서루
+  author: 김종직
+  language: kor
+  text: |-
+    연주산 위에는 달이 반과 같은데
+    풀과 나무에는 바람이 없고 이슬 기운은 차다
+    천 진의 솜구름은 모두 없어지려 하거니
+    한 무더기 공문서는 보잘것도 없다
+    늙어가매 새삼스레 중추의 좋음을 깨닫겠는데
+    나그네의 정황이 이 밤에 너그러움을 그 누가 알리
+    가는 깃발은 또 서해를 따라 굴러가거니
+    손가락 끝으로는 장차 둥근 게딱지를 쪼개려 한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0780&viewSync=OT
+  footnotes: []
+english:
+  title: Phoenix Perch Tower in Neungseong
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Above Yeonju Mountain the moon hangs like a disc,
+    Where grass and trees know no wind, only the cold breath of dew.
+    Thousand formations of silken clouds are fading away—
+    A heap of documents hardly worth a glance.
+
+    In my declining years, I suddenly grasp the excellence of autumn's heart,
+    Yet who understands the solace this night brings a wanderer?
+    The banner of my journey turns again, following the western sea,
+    As my fingertip yearns to crack open the round shell of the crab.
+  footnotes:
+  - key: ''
+    value: Yeonju Mountain (連珠山) likely refers to a location near Neungseong, the setting of this work.
+  - key: ''
+    value: The 'thousand formations of silken clouds' and 'heap of documents' may contrast the natural world with bureaucratic concerns, suggesting the speaker's detachment from worldly affairs.
+  - key: ''
+    value: The 'western sea' references the journey westward, possibly toward retirement or exile.
+  - key: ''
+    value: The final image of cracking the crab shell may allude to both the Mid-Autumn Festival and the speaker's desire to pierce through life's mysteries, or it may reference a moment of culinary pleasure amid contemplation.

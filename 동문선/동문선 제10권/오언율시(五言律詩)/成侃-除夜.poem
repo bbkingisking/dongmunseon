@@ -1,0 +1,49 @@
+canonical:
+  title: 除夜
+  author: 成侃
+  language: lzh
+  text: 歲律今垂盡端如赴壑蛇呼兒數更漏喚婦落燈花永夜雲陰積嚴風雪勢斜淸談仍促酒不必阿戎家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 除夜
+  author: 成侃
+  language: lzh
+  text: 歲律今垂盡。端如赴壑蛇。呼兒數更漏。喚婦落燈花。永夜雲陰積。嚴風雪勢斜。淸談仍促酒。不必阿戎家。
+korean:
+  title: 제야
+  author: 성간
+  language: kor
+  text: |-
+    해가 지금 다하려 하매
+    구렁에 들어가는 뱀 같네
+    아이를 불러 시간을 묻고
+    아내를 시켜 등잔불꽃을 치네
+    긴 밤 구름이 어둑한데
+    엄한 바람에 눈발이 비끼네
+    맑은 이야기에 이내 술을 재촉하는 것이
+    아융의 집에서 만하겠는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구렁에 들어가는 뱀[赴壑蛇] : '
+    value: 소동파(蘇東坡)의 제야시(除夜詩)에 있는 구절인데, 구렁에 들어가는 뱀은 꼬리를 당겨도 나오게 할 수 없다는 말이다.
+  - key: '[주-D002] 아융(阿戎) : '
+    value: 두보(杜甫)가 그의 종제 아융의 집에서 과세(過歲)하면서 지은 시가 있다.
+english:
+  title: New Year's Eve
+  author: Sung Kan
+  language: eng
+  text: |-
+    The year now approaches its end,
+    like a serpent slipping into its burrow.
+    I call the children to count the watches of night,
+    and bid my wife trim the lamp's glowing flower.
+    The long night gathers clouds in darkness,
+    while harsh winds sweep the snow askew.
+    In clear conversation, wine flows freely—
+    yet need we seek the halls of a distant friend?
+  footnotes:
+  - key: ''
+    value: The serpent entering its burrow alludes to Su Dongpo's New Year's Eve poem, suggesting an irreversible passage—as one cannot pull back a serpent that has entered its lair, so the passing year cannot be recalled.
+  - key: ''
+    value: Aung (Arong) refers to Du Fu's cousin, in whose home Du Fu once spent the passing year, commemorated in verse. The allusion suggests that intimate celebration with family at home is sufficient.

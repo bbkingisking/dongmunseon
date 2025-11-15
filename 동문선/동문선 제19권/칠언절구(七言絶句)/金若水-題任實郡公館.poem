@@ -1,0 +1,37 @@
+canonical:
+  title: 題任實郡公館
+  author: 金若水
+  language: lzh
+  text: 老木荒榛夾古蹊家家猶未飽蔬藜山禽不識憂民意唯向林閒自在啼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題任實郡公館
+  author: 金若水
+  language: lzh
+  text: 老木荒榛夾古蹊。家家猶未飽蔬藜。山禽不識憂民意。唯向林閒自在啼。
+korean:
+  title: 제 임실군 공관
+  author: 김약수
+  language: kor
+  text: |-
+    늙은 나무 거친 개암 옛 개울을 덮고
+    집집마다 나물로도 오히려 배 못 불리네
+    산새는 군수의 백성 걱정한 뜻을 모르고
+    그저 숲 사이에서 마음대로 지저귀네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0600&viewSync=OT
+  footnotes: []
+english:
+  title: Written at the Residence of the Magistrate of Imsil
+  author: Kim Yak-su
+  language: eng
+  text: |-
+    Old trees and wild hazels line the ancient pathways,
+    Yet in every home, wild greens alone cannot fill hungry bellies.
+    The mountain birds know nothing of the magistrate's concern for his people—
+    They simply sing freely among the forest trees.
+  footnotes:
+  - key: ''
+    value: Imsil was a county in Jeolla Province during the Joseon period. This poem appears to have been written as a commentary on the poverty and hardship of the local residents during the poet's visit.
+  - key: ''
+    value: The contrast between nature's indifference (the birds singing freely) and human suffering reflects a common theme in Korean classical poetry—the tension between the natural world's apparent harmony and the struggles of common people.

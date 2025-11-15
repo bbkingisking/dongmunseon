@@ -1,0 +1,37 @@
+canonical:
+  title: 沒池硯銘
+  author: 李詹
+  language: lzh
+  text: 萬象鴻蒙未分六鑿伊洛渴而科斗出淮堰决而龍蛇拔氣鍾于石匪鐫匪刮體像坤靜潛心對越坦無畦町金聲玉色爾勇何其興雲吐月誰其友之君子在側豈伊玩物惟爾之則
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 沒池硯銘
+  author: 李詹
+  language: lzh
+  text: 萬象鴻蒙。未分六鑿。伊洛渴而科斗出。淮堰决而龍蛇拔。氣鍾于石。匪鐫匪刮。體像坤靜。潛心對越。坦無畦町。金聲玉色。爾勇何其。興雲吐月。誰其友之。君子在側。豈伊玩物。惟爾之則。
+korean:
+  title: 몰지연 명
+  author: 이첨
+  language: kor
+  text: 처음 천지가 생겼을 때에 여섯 구멍[六鑿]이 패여지지 않았다. 이(伊)수와 낙(洛)수가 마르게 되매 올챙이가 나오고 회수(淮水)의 제방이 터지매 용사(龍蛇)가 날뛰었네. 정기(精氣)가 돌에 모였는데 새기거나 파놓은 것이 아니다. 벼루의 몸은 곤괘(坤卦)의 고요한 것을 상징하였으니, 내가 잠심(潛心)하여 대하였네. 평탄하여 언덕이 없고 금 소리와 옥 빛이네. 자연(自然) 그대로 너의 용맹은 어떠한 구름도 일으키고 달을 토하네. 누구가 벗을 삼는고, 군자가 곁에 있다. 어찌 물건을 좋아함이랴. 너를 본뜨려는 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여섯 구멍[六鑿] : '
+    value: 안(眼) 이(耳) 비(鼻) 설(舌) 신(身) 의(意)를 육근(六根)이라 하는데 그것이 구멍이 파여져서[鑿] 순박을 해롭다 하였다는 뜻이다.
+  - key: '[주-D002] 올챙이 : '
+    value: 고대(古代)에 글자는 올챙이[科斗] 형상으로 판 서체였다.
+  - key: '[주-D003] 용사(龍蛇) : '
+    value: 후세에 잘 쓴 글씨는 용과 뱀이 날치는 듯하다 한다.
+english:
+  title: Inscription on the Inkstone of the Submerged Pool
+  author: Lee Cham
+  language: eng
+  text: In the beginning, when heaven and earth were born, the six apertures remained unpierced. When the Yi and Luo rivers ran dry, tadpoles emerged; when the Huai's dikes broke, dragons and serpents leapt forth. Celestial essence gathered in stone—yet not by chisel, not by scraping. The inkstone's form embodies the quietude of the Kun hexagram; I approach it with a focused heart. Smooth and level, without ridge or furrow, it resonates with golden sound and jade-like luster. By its very nature, such courage rises clouds and spits the moon. Who takes it as a friend? The gentleman stands at its side. Is this merely to dally with an object? No—to make it my model.
+  footnotes:
+  - key: ''
+    value: The 'six apertures' alludes to the six sense-doors (六根) in Buddhist philosophy—eyes, ears, nose, tongue, body, and mind—which are said to pierce the original simplicity of being.
+  - key: ''
+    value: Tadpoles (科斗) refers to an ancient script style whose characters resembled tadpole forms.
+  - key: ''
+    value: The phrase about dragons and serpents expresses the classical ideal that excellent calligraphy flows with the grace of these mythic creatures in motion.

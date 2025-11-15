@@ -1,0 +1,50 @@
+canonical:
+  title: 漫成
+  author: 金克己
+  language: lzh
+  text: 文章向老可相娛一劒遊邊尙五車衙罷不知爲塞吏紙䆫明處卧看書圖書滿室亂紛披睡起西軒已夕暉寒雀定栖何處樹尙貪餘粒傍階飛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漫成
+  author: 金克己
+  language: lzh
+  text: 文章向老可相娛。一劒遊邊尙五車。衙罷不知爲塞吏。紙䆫明處卧看書。圖書滿室亂紛披。睡起西軒已夕暉。寒雀定栖何處樹。尙貪餘粒傍階飛。
+korean:
+  title: 만성
+  author: 김극기
+  language: kor
+  text: |-
+    문장은 늘그막에 서로 즐길 만하이
+    칼 한 자루로 변방에 다섯 수레 책 싣고 왔네
+    공무가 파하매 내 몸 변방 관리인 줄 모르나니
+    종이 창 밝은 곳에 누워서 책을 보네
+    한 방 가득히 책을 널어놓고 헤쳐놓으며
+    잠을 깨니 서창엔 이미 저녁 햇살일세
+    찬새 깃드는 곳 어느 나무뇨
+    아직도 남은 낱알 탐내어 축대 옆을 나네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0760&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 다섯 수레 책 : '
+    value: 혜시(惠施)가 학문이 넓어서 책이 다섯 수레나 되었다. 《莊子》
+english:
+  title: Casual Verse
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    In twilight years, the written word brings joy—
+    a single blade carries five cartloads of books
+    to the borderlands.
+    When official duties close, I forget
+    I am but a frontier officer.
+    Lying by the bright window-paper, I read.
+
+    Books scatter the room in gentle chaos.
+    Waking from sleep, the western hall
+    is already bathed in evening light.
+    Where do the cold sparrows nest?
+    Still greedy for the fallen grains,
+    they flutter about the stone steps.
+  footnotes:
+  - key: ''
+    value: The phrase 'five cartloads of books' alludes to Hui Shi from the Zhuangzi, whose vast learning was said to fill five wagons with texts, symbolizing deep erudition.

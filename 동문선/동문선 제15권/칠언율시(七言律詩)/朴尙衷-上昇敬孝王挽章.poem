@@ -1,0 +1,47 @@
+canonical:
+  title: 上昇敬孝王挽章
+  author: 朴尙衷
+  language: lzh
+  text: 龍潛燕邸萃人心初政仁聲冠古今洪範經筵聞至論朱絃淸廟聽遺音山陵寂寞悲風起殿閣凄涼白日沉二十四年濡聖澤可憐臣子淚盈襟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上昇敬孝王挽章
+  author: 朴尙衷
+  language: lzh
+  text: 龍潛燕邸萃人心。初政仁聲冠古今。洪範經筵聞至論。朱絃淸廟聽遺音。山陵寂寞悲風起。殿閣凄涼白日沉。二十四年濡聖澤。可憐臣子淚盈襟。
+korean:
+  title: 상승 경효왕 만장
+  author: 박상충
+  language: kor
+  text: |-
+    연저(원나라 왕의 저택)에 용잠하실 때부터 인심 쏠려
+    첫 정사 어진 명성이 고금에 뛰어나셨네
+    경연에서 홍범편의 지론을 듣자왔고
+    종묘의 주현(종묘에 제사 지낼 때 쓰는 비파. 줄이 붉다.)은 끼친 음악을 듣자오네
+    적막한 산릉엔 슬픈 바람이 불고
+    처량한 전각에 백일이 잠겼구나
+    24년 동안 성택에 젖사온
+    신자들 어이하오리 눈물이 옷깃에 가득
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0890&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경효왕(敬孝王) : '
+    value: 공민왕(恭愍王)
+english:
+  title: Elegy for King Gyeong-hyo upon His Ascension
+  author: Park Sang-chung
+  language: eng
+  text: |-
+    When the dragon lay hidden in the Yuan court's halls, all hearts turned toward him.
+    His early reign shone with benevolence, surpassing the wisdom of ages.
+    In the royal lectures, we heard his profound discourse on the Hongfan.
+    In the temple rituals, we listened to the lingering melodies of the crimson-stringed zither.
+    Now the mountain tomb lies desolate, and sorrowful winds arise.
+    The palace halls grow cold and dim as the sun descends.
+    Twenty-four years drenched in the grace of his sage rule—
+    What solace remains for his servants, their tears flooding their robes?
+  footnotes:
+  - key: ''
+    value: King Gyeong-hyo refers to King Gongmin of Goryeo, who spent time at the Yuan court before his reign. The 'Hongfan' (洪範) is a classical text on governance included in the Book of History.
+  - key: ''
+    value: The 'crimson-stringed zither' (朱絃) refers to the ritual instruments used in ancestral worship, symbolizing the harmony of his rule.

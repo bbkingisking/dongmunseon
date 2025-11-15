@@ -1,0 +1,48 @@
+canonical:
+  title: 謫居卽事寄李評事
+  author: 洪貴達
+  language: lzh
+  text: 衰白仍多病流離更極邊投身魑魅窟極目犬羊天索寞夜無寐經過日似年廢詩還止酒無事却身便
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謫居卽事寄李評事
+  author: 洪貴達
+  language: lzh
+  text: 衰白仍多病。流離更極邊。投身魑魅窟。極目犬羊天。索寞夜無寐。經過日似年。廢詩還止酒。無事却身便。
+korean:
+  title: 적거 즉사 기 이평사
+  author: 홍귀달
+  language: kor
+  text: |-
+    쇠약하고 늙은데 또 병이 많고
+    떠돌아 다니노니 땅이 더 궁벽하다
+    몸을 던지매 도깨비의 굴이요
+    눈을 보내나니 견양(오랑캐)의 하늘이다
+    정황이 삭막하매 밤에 잠을 못 자고
+    세월에 지쳤으매 하루가 1년 같다
+    시도 그만두고 또 술도 끊었거니
+    일이 없어 도리어 몸이 편하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: 'Reflections on Exile: A Letter to Magistrate Lee'
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    My body grows weak and old, yet sickness multiplies—
+    Wandering further still, to lands ever more remote.
+    I cast myself into the demon's cavern,
+    And gaze upon the barbarian sky.
+
+    In this desolate expanse, sleep abandons the night,
+    Wearied by time's passage, each day stretches like a year.
+    I have abandoned poetry, forsaken even wine—
+    Yet in this emptiness, my body finds its ease.
+  footnotes:
+  - key: ''
+    value: The poem is addressed to a county magistrate named Lee, suggesting a letter of personal reflection sent during the author's period of exile or banishment.
+  - key: ''
+    value: The 'demon's cavern' and 'barbarian sky' are poetic metaphors for the remote, wild frontier regions where the author found himself displaced.
+  - key: ''
+    value: The paradoxical final couplet suggests that relinquishing creative pursuits and worldly indulgences paradoxically brings a measure of peace amid suffering.

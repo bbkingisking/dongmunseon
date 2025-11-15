@@ -1,0 +1,48 @@
+canonical:
+  title: 寓興
+  author: 金宗直
+  language: lzh
+  text: 無君凡幾月晦魄八環回世事詎可問故人猶不來暖泥新燕快澁雨小桃開寂寞歌春興東風吹酒盃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寓興
+  author: 金宗直
+  language: lzh
+  text: 無君凡幾月。晦魄八環回。世事詎可問。故人猶不來。暖泥新燕快。澁雨小桃開。寂寞歌春興。東風吹酒盃。
+korean:
+  title: 우흥
+  author: 김종직
+  language: kor
+  text: |-
+    그대가 없이 무릇 몇 달이던가
+    어두운 넋은 여덟 번 고리처럼 돌았네
+    세상 일을 누구에게 물을 것인가
+    고인은 아직도 오지 않나니
+    따스한 진흙에는 새로 온 제비가 즐겁고
+    깔깔한 빗 발에 작은 복숭아 열렸도다
+    쓸쓸히 봄 흥을 노래하노니
+    동쪽 바람이 술잔을 부어주네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0190&viewSync=OT
+  footnotes: []
+english:
+  title: Spring Reverie
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    How many months have passed without you?
+    The dark moon has circled eight times round.
+    To whom shall I speak of worldly matters?
+    Still my old friend does not return.
+
+    Warm mud welcomes the swallows newly come,
+    Rough rain opens the small peach blossoms.
+    In solitude I sing of spring's stirring,
+    As the east wind pours from my wine cup.
+  footnotes:
+  - key: ''
+    value: The eight cycles of the moon may reference a specific period of separation or longing, emphasizing the passage of time through natural cycles.
+  - key: ''
+    value: The imagery of returning swallows and blooming peaches contrasts the speaker's isolation—nature renews while the poet waits alone.
+  - key: ''
+    value: The final image conflates the east wind with the pouring of wine, suggesting how nature itself becomes a companion to the solitary drinker.

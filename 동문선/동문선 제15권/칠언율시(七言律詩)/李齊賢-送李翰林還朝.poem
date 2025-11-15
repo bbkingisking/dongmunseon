@@ -1,0 +1,47 @@
+canonical:
+  title: 送李翰林還朝
+  author: 李齊賢
+  language: lzh
+  text: 早知毛骨異凡流刮目靑雲得意秋三級風雷起蓬蓽九天雨露洽松楸鴨江柳暗牽離思鼇禁花開待勝遊樽酒論懷更何日白頭身事付蒼洲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送李翰林還朝
+  author: 李齊賢
+  language: lzh
+  text: 早知毛骨異凡流。刮目靑雲得意秋。三級風雷起蓬蓽。九天雨露洽松楸。鴨江柳暗牽離思。鼇禁花開待勝遊。樽酒論懷更何日。白頭身事付蒼洲。
+korean:
+  title: 환조하는 이한림을 보내며
+  author: 이제현
+  language: kor
+  text: |-
+    출중한 그대 풍골을 내 일찍이 알았더니
+    청운에 득의하는 때를 눈을 닦고 보았네
+    삼급 풍뢰가 한사의 집에 일어나고
+    구천의 우로가 조상 무덤까지 적시었네
+    압록강 푸른 버들은 이별을 아끼리만
+    금원에 핀 꽃들은 좋은 놀이를 기다리리
+    술잔 들며 언제 다시 회포를 논해볼까
+    백발인 내 신세를 산수간에 부치려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell to Yi Han-rim Returning to Court
+  author: Yi Je-hyeon
+  language: eng
+  text: |-
+    I knew long ago your noble spirit rose above the common fold,
+    and watched with opened eyes as autumn brought you fortune's glow.
+    Three levels of wind and thunder stirred above your humble home,
+    while nine heavens' rain and dew descended on your ancestors' tomb.
+    The Yalu's darkening willows cling to thoughts of parting ways,
+    and blossoms in the royal garden wait for your triumphant days.
+    When shall we lift our cups again to share what fills the heart?
+    My aging frame I now consign to mountains and to streams apart.
+  footnotes:
+  - key: ''
+    value: The 'three levels of wind and thunder' and 'nine heavens' rain and dew' are metaphorical expressions for heavenly favor and auspicious omens attending the subject's rise to prominence.
+  - key: ''
+    value: The Yalu River (압록강) marks the boundary region between Korea and what is now Manchuria, suggesting the poem may commemorate an official's return from a border post.
+  - key: ''
+    value: The final image of consigning one's aging body to 'mountains and streams' reflects the classical Chinese literati ideal of withdrawal and harmony with nature.

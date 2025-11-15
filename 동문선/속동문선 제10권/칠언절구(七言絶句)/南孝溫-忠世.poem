@@ -1,0 +1,37 @@
+canonical:
+  title: 忠世
+  author: 南孝溫
+  language: lzh
+  text: 携兒散步歷山陂紅杏梢頭月午時半死心隨春意動臨風折得最繁枝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 忠世
+  author: 南孝溫
+  language: lzh
+  text: 携兒散步歷山陂。紅杏梢頭月午時。半死心隨春意動。臨風折得最繁枝。
+korean:
+  title: 살구꽃 필 때에 시골집에 있었다. 어느날 밤에 달을 타고 충세
+  author: 남효온
+  language: kor
+  text: |-
+    아이들과 산보하여 메 언덕 지나치니
+    붉은 살구 가지 위에 달이 휘영청
+    반나마 늙은 마음 봄을 따라 움직이어
+    번화한 가지는 바람 맞아 꺾었노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Apricot Blossoms
+  author: Nam Hyo-on
+  language: eng
+  text: |-
+    Walking with my children past the ridge of Lisan,
+    red apricot branches bask in moonlit noon.
+    My half-withered heart stirs with the spring's desire—
+    I break the flowering branch that bends before the wind.
+  footnotes:
+  - key: ''
+    value: 'Lisan (歷山): A legendary sacred mountain, here used to evoke a timeless rural setting.'
+  - key: ''
+    value: The 'half-withered heart' suggests the speaker's middle age, caught between the fading of old age and the rekindling of vitality through spring's awakening.

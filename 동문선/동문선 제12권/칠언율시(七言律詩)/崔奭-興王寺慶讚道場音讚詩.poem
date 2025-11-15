@@ -1,0 +1,55 @@
+canonical:
+  title: 興王寺慶讚道場音讚詩
+  author: 崔奭
+  language: lzh
+  text: 衆寶城中創梵宮巋然規範出宸衷經探海底分龍藏塔聳雲涯掛鴈空鍾吼遠醒三界夢殿嚴全寫五天功雖將大地硏爲墨難盡高王志願洪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 興王寺慶讚道場音讚詩
+  author: 崔奭
+  language: lzh
+  text: 衆寶城中創梵宮。巋然規範出宸衷。經探海底分龍藏。塔聳雲涯掛鴈空。鍾吼遠醒三界夢。殿嚴全寫五天功。雖將大地硏爲墨。難盡高王志願洪。
+korean:
+  title: 흥왕사 경찬 도량 음찬시
+  author: 최석
+  language: kor
+  text: |-
+    종보성 안에 범궁을 이룩하니
+    드높은 규모가 모두 임금님 뜻에서 나왔네
+    바다 밑에서 경은 더듬어 용장을 나눠 온 것
+    구름 가에 탑이 솟아 기러기 나는 하늘에 걸렸네
+    종소리는 멀리 삼계의 꿈 깨우고
+    전각은 온통 오천(오천축(五天竺)의 뜻일 듯하다)의 공을 본떴네
+    대지를 갈아 먹 삼아도
+    높으신 임금님의 바램 넓고 넓어 다 쓰지 못하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0450&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 바다 밑에서 경은 더듬어 용장(龍藏) : '
+    value: 석가모니(釋迦牟尼)가 세상을 떠난 지 6백 년 뒤에 용수보살(龍樹菩薩)이 용궁(龍宮)에 감춰져 있는 《화엄경(華嚴經)》을 가져 왔다는 전설(傳說)이 있다.
+  - key: '[주-D002] 삼계(三界) : '
+    value: 범부(凡夫)가 나고 죽고 가고 오는 세계를 말하는데, 즉 욕계(欲界)ㆍ색계(色界)ㆍ무색계(無色界)이다.
+english:
+  title: Poem in Praise of the Dharma Hall at Heungwang Temple
+  author: Choe Seok
+  language: eng
+  text: |-
+    Within the jeweled city, a temple of dharma rises—
+    Its towering form springs from the sovereign's own heart.
+    From ocean depths, the sutras retrieved from dragon vaults,
+    Their treasures now divided and brought to light.
+    The pagoda ascends to kiss the edge of clouds,
+    While wild geese fly past its pointed crown.
+    The temple bell's cry echoes far, awakening
+    The dreaming minds of all three realms.
+    The halls gleam with the glory of the Five Lands of India.
+    Though one were to grind all the earth into ink,
+    The vast and boundless compassion of the High King
+    Could never be fully written.
+  footnotes:
+  - key: ''
+    value: The 'dragon vaults' refers to the legend that the Bodhisattva Nagarjuna retrieved the Avatamsaka Sutra from the Dragon King's palace, where it had been hidden for six hundred years after Buddha's parinirvana.
+  - key: ''
+    value: The 'three realms' (desire realm, form realm, and formless realm) represent the cycle of suffering through which all unenlightened beings transmigrate.
+  - key: ''
+    value: The 'Five Lands of India' refers to the traditional Buddhist divisions of the Indian subcontinent, symbolizing the spiritual geography from which Buddhism emanates.

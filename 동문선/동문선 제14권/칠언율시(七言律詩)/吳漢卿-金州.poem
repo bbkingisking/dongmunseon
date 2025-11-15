@@ -1,0 +1,50 @@
+canonical:
+  title: 金州
+  author: 吳漢卿
+  language: lzh
+  text: 誰遣波臣慰冷官忽驚紅鬣動銀盤吏人走報星軺餉稚子爭尋尺素看烹處敢辭鬵自漑食餘聊笑鋏曾彈平生口腹吾謀拙多感公恩快一飡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金州
+  author: 吳漢卿
+  language: lzh
+  text: 誰遣波臣慰冷官。忽驚紅鬣動銀盤。吏人走報星軺餉。稚子爭尋尺素看。烹處敢辭鬵自漑。食餘聊笑鋏曾彈。平生口腹吾謀拙。多感公恩快一飡。
+korean:
+  title: 금주
+  author: 오한경
+  language: kor
+  text: |-
+    누가 파신을 보내어 이 냉관(교관(敎官))을 위로하는가
+    문득 보니 붉은 지느러미가 은반에 퍼덕이네
+    아전들이 달려와 사또님의 선물 왔다고
+    어린애들은 다투어 편지를 찾아보네
+    삶은 국에 밥을 말기 감히 사양하랴
+    먹고 나니 칼을 타던 일 우스워라
+    평생에 구복의 계책 서투른 나
+    고마운 공의 덕분에 흠뻑 한 번 먹었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0770&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 파신(波臣) : '
+    value: 물고기. 장자(莊子)에, “붕어가 말하기를, 나는 동해(東海)의 파신(波臣)입니다.” 하였다.
+  - key: '[주-D002] 칼을 타던 일[彈] : '
+    value: 전국(戰國) 때 제(齊)나라 맹상군(孟嘗君)의 문객(門客) 풍환(馮驩)이 제 빈궁한 신세를 탄식하며, 검(劍)의 손잡이[鋏]를 타면서 노래하기를, “긴 칼아, 돌아갈지로다. 밥먹을 제 생선도 없네.”라고 하였다.
+english:
+  title: Golden Prefecture
+  author: Oh Han-gyeong
+  language: eng
+  text: |-
+    Who sends the river's gift to comfort this cold office?
+    Suddenly a crimson fin flutters upon the silver plate.
+    The clerks come running to announce the magistrate's offering,
+    While children scramble to read the accompanying note.
+
+    At the cooking pot, how could I refuse such bounty?
+    After the meal, I laugh at old tales of a sword's lament.
+    A lifetime of poor scheming in matters of appetite and belly—
+    Yet through the magistrate's kindness, I taste fulfillment at last.
+  footnotes:
+  - key: ''
+    value: The 'river's gift' refers to fish, metaphorically called the 'wave-minister' in classical texts, symbolizing a precious offering.
+  - key: ''
+    value: The reference to 'a sword's lament' alludes to the historical figure Feng Huan, a poor retainer who once sang mournfully while plucking his sword-hilt, lamenting the lack of fish to accompany his rice—a poignant reminder of past hardship that now contrasts with present contentment.

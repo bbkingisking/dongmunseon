@@ -1,0 +1,50 @@
+canonical:
+  title: 次安邊樓題
+  author: 李冑
+  language: lzh
+  text: 鐵關天險似秦中古塞悲笳落遠空凍雨斜連千嶂雪飢鴉驚叫一林風百年去住身先老半世悲歡氣挫雄萬里覊懷愁不語關河迢遞近山戎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次安邊樓題
+  author: 李冑
+  language: lzh
+  text: 鐵關天險似秦中。古塞悲笳落遠空。凍雨斜連千嶂雪。飢鴉驚叫一林風。百年去住身先老。半世悲歡氣挫雄。萬里覊懷愁不語。關河迢遞近山戎。
+korean:
+  title: 차 안변루제
+  author: 이주
+  language: kor
+  text: |-
+    철관의 천험은 진중과 같은데
+    옛 변방의 슬픈 날나리 소리는 먼 공중에 떨어지네
+    언 비가 비껴서 일천 산등성이의 눈에 연했고
+    굶주린 까마귀가 한 숲의 바람에 놀라 우짖네
+    백년에 갔다 머물다 몸이 먼저 늙었고
+    반 세상의 슬픔과 기쁨에서 장한 기운이 꺾이었네
+    만리의 나그네 회포를 근심스러워 말하지 않거니
+    관하는 멀어 산융에 가까웠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 철관(鐵關)의 …… 진중(秦中) : '
+    value: 철관은 철령(鐵嶺)을 말한 것인데, 진중(秦中)은 중국의 함곡관(函谷關)을 말한 것이다.
+  - key: '[주-D002] 산융(山戎) : '
+    value: 우리나라에서는 만주(滿洲)의 야인(野人)을 산융(山戎)이라 불렀다.
+english:
+  title: Written on Anbyeon Tower
+  author: Lee Ju
+  language: eng
+  text: |-
+    Iron gates rise with heaven's peril, like the passes of Qin.
+    From ancient borderlands, mournful bugle songs fall through distant sky.
+    Frozen rain slants across a thousand ridges crowned with snow;
+    Hungry crows startle and cry out among the trees that bow to wind.
+
+    A hundred years of coming and going—the body ages first.
+    Half a lifetime of sorrow and joy—bold spirits wither and break.
+    A wanderer's thousand-mile homesickness remains unspoken;
+    Beyond the garrison rivers stretching far, the mountain tribes draw near.
+  footnotes:
+  - key: ''
+    value: Iron Gates (鐵關) refers to Chollongnyong Pass; the reference to Qin (秦中) evokes the great defensive barriers of ancient China.
+  - key: ''
+    value: The 'mountain tribes' (山戎) alludes to the Jurchen peoples of Manchuria, historically a frontier concern for Korea.

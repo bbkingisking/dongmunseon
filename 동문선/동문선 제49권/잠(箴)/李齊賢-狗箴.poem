@@ -1,0 +1,31 @@
+canonical:
+  title: 狗箴
+  author: 李齊賢
+  language: lzh
+  text: 而尾之媚而舌之䑛毋鬪毋戲惟藩之毁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 狗箴
+  author: 李齊賢
+  language: lzh
+  text: 而尾之媚。而舌之䑛。毋鬪毋戲。惟藩之毁。
+korean:
+  title: 구잠
+  author: 이제현
+  language: kor
+  text: 꼬리로는 아첨을 부리고 혀[舌]로는 핥아 빤다. 싸우거나 장난치지 말라, 울타리 망가진다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_030_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Admonition to the Dog
+  author: Lee Jehyeon
+  language: eng
+  text: |-
+    With tail you flatter and fawn,
+    With tongue you lick and grovel.
+    Do not quarrel, do not play—
+    The fence lies broken in your wake.
+  footnotes:
+  - key: ''
+    value: The poem uses the dog as a vehicle for satire, likely critiquing human behavior and social vices rather than addressing canine conduct literally.

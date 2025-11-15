@@ -1,0 +1,55 @@
+canonical:
+  title: 春日送韋太尉自西川除淮南
+  author: 崔承祐
+  language: lzh
+  text: 廣陵天下最雄藩蹔借賢侯重寄分花送去思攀錦水柳迎來暮挽淮濆瘡痍從此資良藥宵旰終須緩聖君應念風前退飛鷁不知何路出雞群
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春日送韋太尉自西川除淮南
+  author: 崔承祐
+  language: lzh
+  text: 廣陵天下最雄藩。蹔借賢侯重寄分。花送去思攀錦水。柳迎來暮挽淮濆。瘡痍從此資良藥。宵旰終須緩聖君。應念風前退飛鷁。不知何路出雞群。
+korean:
+  title: 봄날에 서천 절도사로부터 회남으로 전직하는 위태위를 보내며
+  author: 최승우
+  language: kor
+  text: |-
+    광릉은 천하에 제일 웅장한 번진
+    어진 절도사 그대에게 잠깐 중임을 맡기었네
+    꽃은 거사를 차마 못 보내 금강에서 부쳐 잡고
+    버들은 늦게 온다고 회수에서 서성대네
+    백성들의 헌데ㆍ생재기는 이제 좋은 약을 얻었구나
+    주야로 애쓰는 성군의 근심을 늦추고야 말리
+    바람 앞에 거꾸로 나는 익새를 생각해 주오
+    어찌하여야 닭무리에서 학처럼 뛰어날고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 거사(去思) : '
+    value: 지방 백성에게 선정(善政)을 베푼 수령(守令)이 가고난 뒤에 백성이 그를 생각하는 것을 뜻한다.
+  - key: '[주-D002] 늦게 온다고 : '
+    value: 한(漢)나라 염숙도(廉叔度)가 촉군 태수(蜀郡太守)가 되어 선정(善政)을 베푸니 백성이 노래 부르기를, “염숙도는 왜 늦게 왔는가[廉叔度 來何暮].” 하였다.
+  - key: '[주-D003] 바람 앞에 거꾸로 나는 익새 : '
+    value: 《춘추》에 “여섯 마리 물새가 후퇴하여 날아 송나라 도읍을 지나다[六鷁退飛 過宋都].”라는 말이 있다. 여기서는 작자가 전진하지 못하고 후퇴하는 데 비유하였다.
+  - key: '[주-D004] 닭무리에서 학(鶴)처럼 뛰어날고 : '
+    value: 뭇 닭 중에 한마리 학(鶴)이 뛰어났다는 말이 있는데, 여기서는 높이 출세하는 것을 비유하였다.
+english:
+  title: Farewell to Wei, the Grand Commander, Upon His Transfer from Western Shu to Huainan in Spring
+  author: Choi Seung-woo
+  language: eng
+  text: |-
+    Guangling stands as the mightiest province beneath heaven,
+    To you, worthy commander, this weighty trust is briefly entrusted.
+    Flowers cannot bear to see you depart—they cling to the brocade waters,
+    Willows linger at dusk along the Huai, as if you came too late.
+    From this moment, the people's wounds shall find a healing balm,
+    And the sage ruler's sleepless nights may finally find rest.
+    Yet I think of the drake that flies backward against the wind—
+    How shall you soar above the flock of common birds?
+  footnotes:
+  - key: ''
+    value: 'The ''brocade waters'' and the willows'' greeting reference a classical precedent: when Lian Shudu became prefect of Shu and brought good governance, the people sang, ''Why does Lian Shudu come so late?'' The poem thus celebrates Wei''s appointment as a remedy for the suffering people.'
+  - key: ''
+    value: The drake flying backward is a reference to the Spring and Autumn Annals, representing retreat rather than advancement. The poet expresses concern that despite his virtues, Wei may face obstacles in rising higher.
+  - key: ''
+    value: The final image of a crane among chickens—a traditional symbol of nobility rising above the ordinary—poses a poignant question about Wei's ability to transcend limitations and achieve his full potential.

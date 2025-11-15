@@ -1,0 +1,37 @@
+canonical:
+  title: 元日
+  author: 金訢
+  language: lzh
+  text: 門戶何曾施欝壘杯盤未見頌椒花家貧自是輕佳節唯覺年華上鬢華
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 元日
+  author: 金訢
+  language: lzh
+  text: 門戶何曾施欝壘。杯盤未見頌椒花。家貧自是輕佳節。唯覺年華上鬢華。
+korean:
+  title: 원일
+  author: 김흔
+  language: kor
+  text: |-
+    문호에 어찌 일찍 울루를 두었던가
+    배반은 보지 못하고 추화를 외우노라
+    집이 가난하매 지금부터는 가절을 가벼이 여기리니
+    오직 세월이 흰밑 살쩍털에 오르는 것만 깨닫으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0850&viewSync=OT
+  footnotes: []
+english:
+  title: New Year's Day
+  author: Kim Hyn
+  language: eng
+  text: |-
+    What need have I for festive decorations at my door?
+    I have no wine cups filled, no fragrant peppercorn flowers to praise.
+    In poverty, I've learned to make light of such celebrations—
+    I only feel the years climbing into the white hairs of my temples.
+  footnotes:
+  - key: ''
+    value: The 'peppercorn flowers' (椒花) reference alludes to traditional New Year festivities and abundance
+  - key: ''
+    value: White hairs are a traditional metaphor for the passage of time and aging in East Asian poetry

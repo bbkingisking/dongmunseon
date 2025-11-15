@@ -1,0 +1,47 @@
+canonical:
+  title: 用林拾遺韻又呈
+  author: 李藏用
+  language: lzh
+  text: 菊園松徑兩茫然烏帽黃塵復幾年長笑俗緣紛似絮獨憐禪格淨如蓮興來欲學雲徐返老去還驚月屢圓香社迢迢空役夢不禁幽思滿詩篇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 用林拾遺韻又呈
+  author: 李藏用
+  language: lzh
+  text: 菊園松徑兩茫然。烏帽黃塵復幾年。長笑俗緣紛似絮。獨憐禪格淨如蓮。興來欲學雲徐返。老去還驚月屢圓。香社迢迢空役夢。不禁幽思滿詩篇。
+korean:
+  title: 임 습유의 운을 또 써 드림
+  author: 이장용
+  language: kor
+  text: |-
+    국화 동산, 소나무 길이 둘 다 아득한데
+    사모 쓰고 홍진에서 또 몇 해를 보내는고
+    우스워라, 속연은 어지러이 날리는 버들개지
+    그립구나, 선경은 깨끗한 연꽃
+    흥이 오면 구름처럼 천천히 돌아갈 생각
+    늙어 가니 달이 자주 둥그는 것 놀라워라
+    멀고 먼 향사 소식 몇 번이나 꿈꾸었나
+    그리움 가눌 길 없어 시로나 가득 적네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0400&viewSync=OT
+  footnotes: []
+english:
+  title: Another Poem in Response to Lin Shiyi's Rhyme Scheme
+  author: Lee Chang-yong
+  language: eng
+  text: |-
+    The chrysanthemum garden and pine-lined path both fade into distance—
+    How many years have I wandered in dust, hat upon my head?
+    I laugh at worldly ties that scatter like drifting willow seeds,
+    Yet long for the realm of meditation, pure as lotus flowers.
+    When inspiration comes, I dream of drifting back like a cloud,
+    And growing old, I marvel how the moon completes its rounds again.
+    That distant fellowship echoes through my sleep a thousand times—
+    Unable to contain this yearning, I fill my poems with longing.
+  footnotes:
+  - key: ''
+    value: The 'chrysanthemum garden and pine-lined path' evoke both natural beauty and the reclusive ideal of the scholar-hermit tradition.
+  - key: ''
+    value: The contrast between 'willow seeds' (worldly entanglement) and 'lotus flowers' (Buddhist purity) presents the poet's spiritual conflict.
+  - key: ''
+    value: The 'distant fellowship' likely refers to a circle of like-minded literati or a spiritual community, emphasizing the poet's sense of separation and yearning.

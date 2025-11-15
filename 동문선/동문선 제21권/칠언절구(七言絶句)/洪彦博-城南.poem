@@ -1,0 +1,35 @@
+canonical:
+  title: 城南
+  author: 洪彦博
+  language: lzh
+  text: 水際碧蕪渾欲合墻頭紅杏未全開春風日日城南路信馬哦詩自往來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 城南
+  author: 洪彦博
+  language: lzh
+  text: 水際碧蕪渾欲合。墻頭紅杏未全開。春風日日城南路。信馬哦詩自往來。
+korean:
+  title: 성남
+  author: 홍언박
+  language: kor
+  text: |-
+    물가의 푸른 풀은 모두 한 데 어울리려는데
+    담장 위의 붉은 살구꽃은 활짝 피지 못했다
+    날마다 봄바람 부는 성 남쪽의 길을
+    말 가는 대로 시 읊으며 그저 왔다갔다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: South of the City
+  author: Hong Eon-bak
+  language: eng
+  text: |-
+    Along the water's edge, green rushes blur and blend as one,
+    While red apricot blossoms on the wall remain half-closed.
+    Day after day the spring wind sweeps the southern road,
+    And I drift back and forth, composing verse wherever my horse wanders.
+  footnotes:
+  - key: ''
+    value: The 'southern road' refers to the area south of the city walls, a common subject of contemplation in East Asian poetry. The poem captures a moment of leisurely wandering where poetic inspiration arises naturally from the landscape itself.

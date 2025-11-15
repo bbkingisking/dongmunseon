@@ -1,0 +1,49 @@
+canonical:
+  title: 都觀察
+  author: 陳義貴
+  language: lzh
+  text: 少年杜閣揭淸風注意安危獨在公棠茇幾回持節鉞柳營今復駕英雄煙花爛熳鶯啼外雪浪滄茫鳥沒東攬轡行吟沙路永白鷗踈雨小桃紅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 都觀察
+  author: 陳義貴
+  language: lzh
+  text: 少年杜閣揭淸風。注意安危獨在公。棠茇幾回持節鉞。柳營今復駕英雄。煙花爛熳鶯啼外。雪浪滄茫鳥沒東。攬轡行吟沙路永。白鷗踈雨小桃紅。
+korean:
+  title: 강원도 도관찰
+  author: 진의귀
+  language: kor
+  text: |-
+    소년 적부터 두각에 청풍을 날렸으니
+    국가의 안위가 오로지 당신에 달렸었네
+    사당 나무 그늘에 몇 번이나 절월을 잡았던고
+    버들 영에 이제 또 영웅을 통솔하네
+    꾀꼬리 우는 밖에 꽃이 난만한데
+    물새 사라지는 동쪽에 물결이 아득하구나
+    고삐 늦추고 시 읊으며 모랫길로 가노라면
+    성긴 비 하얀 갈매기 복사꽃이 붉었으니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0520&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 버들 영[柳營] : '
+    value: 한(漢)나라 주아부(周亞夫)가 장군이 되어 세류(細柳)에 군사를 주둔하였다.
+  - key: '[주-D002] 성긴 비 …… 붉었으니리 : '
+    value: 작자 불명의 옛 시조에, “묻노라 저 선사야, 관동 풍경 어떻더니, 명사십리(明沙十里)에 해당화는 붉어 있고, 원포(遠浦)에 양양백구(兩兩白鷗)는 비소우(飛疎雨)를 하더라.” 하였다.
+english:
+  title: The Provincial Inspector
+  author: Chen Yigui
+  language: eng
+  text: |-
+    Since youth, Du Ge has raised his clear wind high,
+    The safety of the realm rests upon you alone.
+    Beneath the parasol tree's shade, how many times you've grasped the symbols of command,
+    Now in the willow encampment, you marshal heroes once again.
+    Beyond where orioles sing, flowers bloom in profusion,
+    Where water birds vanish eastward, the waves stretch vast and dim.
+    As I loosen the reins and chant verses along the sandy path,
+    White gulls scatter through the sparse rain—and peach blossoms glow red.
+  footnotes:
+  - key: ''
+    value: The 'willow encampment' alludes to Zhou Yafu of the Han Dynasty, the great general who maintained such strict discipline at his camp by the fine willows that even the imperial carriage was turned back at the gates.
+  - key: ''
+    value: 'The final image of white gulls and red peach blossoms echoes an ancient sijo: ''Ask me, old hermit, what is the landscape of Gwandong like? Along the ten li of bright sand the rose mallow blooms red, and by the distant shore white gulls fly sparse through the rain.'''

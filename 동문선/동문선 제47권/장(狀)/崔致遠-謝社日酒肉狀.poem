@@ -1,0 +1,44 @@
+canonical:
+  title: 謝社日酒肉狀
+  author: 崔致遠
+  language: lzh
+  text: 右伏蒙恩慈特賜前件酒肉等者伏以候鷰應期勾龍受祀一半之韶光欲老千般之旅思相攻只知吟樂國之春豈料捧仙家之賜陵分甘膬淮减香醲想田夫醉舞之塲起海客狂歌之興敢效陳平壯志便發大言唯尋徐邈前蹤略判中聖其肉幷酒謹跪領訖下情無任感戴之至
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝社日酒肉狀
+  author: 崔致遠
+  language: lzh
+  text: 右伏蒙恩慈。特賜前件酒肉等者。伏以候鷰應期。勾龍受祀。一半之韶光欲老。千般之旅思相攻。只知吟樂國之春。豈料捧仙家之賜。陵分甘膬。淮减香醲。想田夫醉舞之塲。起海客狂歌之興。敢效陳平壯志。便發大言。唯尋徐邈前蹤。略判中聖。其肉幷酒。謹跪領訖。下情無任感戴之至。
+korean:
+  title: 사 사일 주육 장
+  author: 최치원
+  language: kor
+  text: 은자(恩慈)께서 특별히 전건(前件)의 술과 고기를 내려주심을 엎드려 입었습니다.엎드려 생각건대 봄철 제비가 시기에 따라 오고, 구룡(句龍)이 제사를 받으니, 봄빛은 반(半)이나 지나 저물어가고, 천 가지 나그네의 회포는 서로 치미는데, 다만 낙국(樂國 좋은 나라)의 봄을 노래할 것만 알았을 뿐인데 어찌 선가(仙家)의 선물을 받으리라고 생각이나 했겠습니까. 능현(陵縣)의 감취(甘膬 연한 고기)를 나눠주고, 회해(淮海)의 향기로운 술을 털어주시니 농사꾼이 취해 춤추는 마당을 생각하고, 바다 나그네의 마구 노래하는 흥취를 돋구며, 감히 진평(陳平)의 장한 뜻을 본받아 문득 큰 소리를 치고 오직 서막(徐邈)의 그전에 했던 일을 찾아서 약간 중성(中聖)이 될 것을 판단합니다. 그 술과 그 고기를 삼가 무릎 꿇어 받으니 하정(下情)에 지극히 감사함을 이길 길 없습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0500_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구룡(句龍) : '
+    value: 구룡(句龍)은 사람 이름인데 공공씨(共工氏)의 아들로서 사(社)를 맡았다. 《주례(周禮)》 춘관(春官)  대종백(大宗伯) 주소(註疏)에 “구룡은 전욱(顓頊)의 토정(土正)이었는데, 뒤에 토지의 신으로 제사 지낸다.” 하였다.
+  - key: '[주-D002] 진평(陳平) : '
+    value: 《사기(史記)》 진평세가(陳平世家)에, “진평이 마을의 사(社)에서 제사 지낸 고기를 나누면서 하는 말이, 만약 나로 하여금 천하를 맡게 하더라도 역시 이 고기 나누듯이 골고루 하겠다.” 하였다.
+  - key: '[주-D003] 서막(徐邈)의 …… 일 : '
+    value: 각주 '중성(中聖)'
+english:
+  title: A Letter of Gratitude for Wine and Meat Offered on the Day of the Earth God Festival
+  author: Choe Chi-won
+  language: eng
+  text: |-
+    I humbly receive this gracious bestowal of wine and meat from Your Benevolence.
+
+    I reflect that as swallows return with the season and the Earth God receives his proper offerings, half the spring's light has already faded, and a thousand traveler's longings assault the heart. I knew only to sing of the joy found in this fair realm—how could I have imagined receiving gifts from the celestial halls?
+
+    You divide the tender flesh from the fertile lands and dispense the fragrant brew from distant waters. I envision the farmer's drunken dance in the fields and feel stirred by the wild song of the sea-wanderer. Daring to follow the noble aspirations of Chen Ping, I make bold to speak: seeking only to trace the footsteps of Xu Mai, I trust I may become worthy of understanding.
+
+    With reverent genuflection, I accept this wine and meat. My humble heart overflows with gratitude beyond measure.
+  footnotes:
+  - key: ''
+    value: The Earth God (Gou Long) was traditionally honored with sacrificial offerings at the beginning of spring, a custom referenced here to frame the season of this gift.
+  - key: ''
+    value: Chen Ping, a minister of the Han dynasty, was known for his fair distribution of sacrificial meat at communal gatherings, becoming a symbol of just and equitable governance.
+  - key: ''
+    value: The reference to Xu Mai alludes to one who achieved wisdom and moderation, contrasting the poet's wish to embody both restraint and understanding in receiving this honor.

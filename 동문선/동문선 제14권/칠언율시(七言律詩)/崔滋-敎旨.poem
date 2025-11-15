@@ -1,0 +1,48 @@
+canonical:
+  title: 敎旨
+  author: 崔滋
+  language: lzh
+  text: 乾坤日月與星辰同是毗盧一法身散作光明猶謂化指言妖異豈爲眞人因幻見罹疑網佛擧神章掃妄塵一讀可消烖八萬况今五日禮王輪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 敎旨
+  author: 崔滋
+  language: lzh
+  text: 乾坤日月與星辰。同是毗盧一法身。散作光明猶謂化。指言妖異豈爲眞。人因幻見罹疑網。佛擧神章掃妄塵。一讀可消烖八萬。况今五日禮王輪。
+korean:
+  title: 교지
+  author: 최자
+  language: kor
+  text: |-
+    하늘 땅, 해와 달, 뭇 별들이
+    모두 다 비로의 한 법신
+    흩어져 빛을 냄이 모조리 화신인데
+    변괴라 지목함이 그 어찌 참일소냐
+    사람은 환견으로 의심 그물에 걸려도
+    부처는 신장을 들어 망령 티끌을 쓰시네
+    한 번 읽으면 팔만 재앙을 소멸시키니
+    하물며 이제 닷새나 왕륜(송악산(松嶽山))에 있었던 큰 절[寺])에 예함이랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 비로(毘盧) : '
+    value: 비로차나불(毘盧遮那佛)의 약칭. 부처의 진신(眞身). 본뜻은 광명편조(光明遍照)이다.
+english:
+  title: A Teaching
+  author: Choe Ja
+  language: eng
+  text: |-
+    Heaven and earth, sun and moon, and the myriad stars—
+    All are but one dharma body of Vairocana.
+    Scattered as light, all forms are manifestations divine;
+    Yet how can calling them strange transformations be true?
+
+    Humankind, caught in illusion's snare of doubt,
+    While Buddha raises sacred texts to sweep away delusion's dust.
+    A single reading destroys eighty thousand afflictions;
+    How much more, then, five days of reverence at the royal wheel's temple?
+  footnotes:
+  - key: ''
+    value: 'Vairocana (毘盧遮那佛): The primordial Buddha of infinite light whose illumination pervades all existence. In Buddhist philosophy, all phenomena are manifestations of this supreme dharma body.'
+  - key: ''
+    value: The 'royal wheel' (王輪) refers to Songak-san (松嶽山), a sacred Buddhist site, suggesting a place of pilgrimage and spiritual devotion.

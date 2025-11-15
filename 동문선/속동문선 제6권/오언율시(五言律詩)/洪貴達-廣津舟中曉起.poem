@@ -1,0 +1,45 @@
+canonical:
+  title: 廣津舟中曉起
+  author: 洪貴達
+  language: lzh
+  text: 舟中晨起坐相對是靑燈鷄犬知村近星河驗水澄隨身唯老病屈指少親朋世事又撩我東方紅日昇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 廣津舟中曉起
+  author: 洪貴達
+  language: lzh
+  text: 舟中晨起坐。相對是靑燈。鷄犬知村近。星河驗水澄。隨身唯老病。屈指少親朋。世事又撩我。東方紅日昇。
+korean:
+  title: 광진 주중 효기
+  author: 홍귀달
+  language: kor
+  text: |-
+    배 안에서 새벽에 일어나 앉으니
+    서로 마주하는 것이 바로 푸른 등이다
+    닭 소리 개 소리에 마을 가까움 알고
+    저 은하수는 맑은 물 본 받았다
+    몸에 따르는 것 오직 병과 늙음인데
+    손꼽아 보매 친지와 벗은 적도다
+    세상 일이 또 나를 움켜잡나니
+    어느새 동방에서 붉은 해 뜬다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: Dawn Rising in a Boat at Gwangjin
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    Waking at dawn in the boat, I sit.
+    Facing me is nothing but a green lamp.
+    From the cry of roosters and dogs, I know the village draws near.
+    That river of stars reflects the clarity of these waters.
+    Following my body, there is only age and sickness.
+    Counting on my fingers, I find few friends and kin.
+    The world's affairs seize me once again—
+    And look, the red sun rises in the east.
+  footnotes:
+  - key: ''
+    value: Gwangjin (廣津) is a location on the Han River near Seoul, historically significant as a crossing point.
+  - key: ''
+    value: The 'river of stars' refers to the Milky Way, which in classical East Asian poetry often symbolizes the temporal flow and the distance between things.

@@ -1,0 +1,71 @@
+canonical:
+  title: 牧隱
+  author: 柳洵
+  language: lzh
+  text: 吸江傾海飮無盡驚風泣鬼筆不輟若有人兮有此調玩世獨立天下絶行歌楚地春醉吟梁園月有時飯山逢杜甫天下雌雄兩未决金鑾殿上春風開力士稍黠鞾可脫耽詩我非愚誥酒王何哲聊爾耳不是魔停柸投筆長呵呵洞庭波岳陽樓聊與皓月長婆娑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 牧隱
+  author: 柳洵
+  language: lzh
+  text: 吸江傾海飮無盡。驚風泣鬼筆不輟。若有人兮有此調。玩世獨立天下絶。行歌楚地春。醉吟梁園月。有時飯山逢杜甫。天下雌雄兩未决。金鑾殿上春風開。力士稍黠鞾可脫。耽詩我非愚。誥酒王何哲。聊爾耳不是魔。停柸投筆長呵呵。洞庭波岳陽樓。聊與皓月長婆娑。
+korean:
+  title: 목은
+  author: 유순
+  language: kor
+  text: |-
+    강을 빨고 바다를 기울여 무진무진 마시고
+    바람을 놀래고 귀신을 울려 붓을 멈추지 않았네
+    이런 사람이 이런 절창 가지고
+    세상 깔보며 우뚝 섰으니 천하의 절재
+    초 땅의 봄에 다니면서 노래하고
+    양원 달에 취하여 읊고
+    때로는 반산에서 두보를 만나
+    천하의 승부를 피차 결정 못 했네
+    금란전 위에 봄바람이 시원한데
+    역사가 좀 똑똑하니 신을 벗을 만도
+    시를 즐기는 내가 어리석음 아니요
+    술을 힐난하는 왕이 어찌 현철하리
+    애오라지 그러할 뿐 도깨비가 아니로세
+    잔 멈추고 붓 던지며 “하, 하, 하” 긴 웃음
+    동정파ㆍ악양루에
+    밝은 달과 짝하여 길이 너울너울 춤추려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 반산(飯山) : '
+    value: 이백(李白)이 반과산(飯顆山)에서 두보(杜甫)와 시로써 서로 화답하였다. 《春日懷李白》
+  - key: '[주-D002] 역사(力士) : '
+    value: 이백이 청평사(淸平詞) 3장을 짓기 전에, 이백의 조건부 요구로 당 명황(唐明皇)이 고역사(高力士)에게 특히 명하여 이백의 신을 벗기게 했다.
+english:
+  title: The Recluse
+  author: Yu Shun
+  language: eng
+  text: |-
+    I drink in the river's flow, drain the sea itself—
+    endless, boundless the draught.
+    Stirring wind to tears, moving ghosts to weeping,
+    my brush never ceases its dance.
+    When one possesses such a song,
+    such a sublime utterance,
+    standing alone in contempt of the world—
+    this is the rarest talent under heaven.
+    I wander singing through the spring of Chu,
+    intoxicated, chanting by the moon of Liang.
+    Sometimes at Fan Mountain I encounter Du Fu,
+    yet neither of us can settle who holds the crown.
+    Spring wind opens above the Golden Palace—
+    even the attendant, grown clever, may slip off his boots.
+    That I love poetry does not make me foolish;
+    that the King criticizes wine does not make him wise.
+    I am simply thus, nothing more—no demon, no specter.
+    I set down my cup, cast aside my brush, and laugh—
+    ha, ha, ha—a long, lingering laugh.
+    Across Dongting's waters, by Yueyang Tower,
+    I dance forever with the bright moon,
+    swaying, swaying through the night.
+  footnotes:
+  - key: ''
+    value: Fan Mountain refers to the legendary meeting where Li Bai and Du Fu exchanged verses. This poem draws on their storied rivalry in poetry.
+  - key: ''
+    value: The reference to the attendant removing boots alludes to a famous anecdote where the Tang Emperor, at Li Bai's request, commanded High Attendant Gao Lishi to remove Li Bai's boots—a reversal of normal court protocol, suggesting the poet's elevated status and independence.

@@ -1,0 +1,49 @@
+canonical:
+  title: 虱箴
+  author: 李奎報
+  language: lzh
+  text: 虱從何生黠莫如爾入必深縫目所未到多匿褌底手所未至自謂得計噆人不止人不堪毒必莫忍置捫之搜之投畀火熾熾火不受投畀饞蟻饞蟻不受爪甲亦利虱兮虱兮毋促乃死
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 虱箴
+  author: 李奎報
+  language: lzh
+  text: 虱從何生。黠莫如爾。入必深縫。目所未到。多匿褌底。手所未至。自謂得計。噆人不止。人不堪毒。必莫忍置。捫之搜之。投畀火熾。熾火不受。投畀饞蟻。饞蟻不受。爪甲亦利。虱兮虱兮。毋促乃死。
+korean:
+  title: 슬잠
+  author: 이규보
+  language: kor
+  text: 이[虱]가 어데서 나왔던고, 교활하기가 너같은 것이 없다. 반드시 깊이 옷 꿰맨 틈으로 들어가니, 눈[目]이 미치지 못한다. 잠방이 밑에 많이 숨어서 손이 미치지 못한다. 제 딴은 잘된 꾀라 하여, 사람을 물어 그칠 줄을 모른다. 사람이 가려움을 견디지 못하여 반드시 그대로 둘 수가 없다. 만져보고 더듬어 찾아내어 불[火] 속에다 던진다. 불이 받아들이지 않으면 배고픈 개미에게 준다. 개미도 받아드리지 않으면 사람의 손톱도 또한 날카롭다. 이[虱]야 이야, 너의 죽음을 재촉하지 말아라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_030_0040&viewSync=OT
+  footnotes: []
+english:
+  title: A Reproof of Lice
+  author: Lee Gyeongbo
+  language: eng
+  text: |-
+    Where did you crawl from, you creature of cunning?
+    No vermin matches your cleverness.
+    You slip into the deepest seams of cloth,
+    Places the eye cannot reach.
+    You hide thick beneath the undergarments,
+    Beyond the grasp of searching hands.
+    You think yourself so clever,
+    Biting ceaselessly on human skin.
+    But we cannot endure your torment—
+    We will not leave you be.
+    We search and feel and find you out,
+    Then cast you into the blazing fire.
+    If the flames refuse to take you,
+    We give you to the hungry ants.
+    If even the ants reject you,
+    Human fingernails are sharp as well.
+    Oh louse, oh louse,
+    Do not hasten toward your death.
+  footnotes:
+  - key: ''
+    value: This poem is written in the classical Chinese form of a 'zhenwen' (箴文) or admonitory essay. Though addressed to a louse, it likely carries satirical commentary on concealment, cunning, and inevitable reckoning.
+  - key: ''
+    value: The reference to the louse hiding in seams and garments reflects the specific vulnerabilities of clothing-dwelling parasites, a common concern in pre-modern East Asia.
+  - key: ''
+    value: The final couplet's paradoxical warning—'do not hasten toward your death'—may suggest dark humor or irony about the creature's inevitable doom, typical of Lee Gyeongbo's wit.

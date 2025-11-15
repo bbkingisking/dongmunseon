@@ -1,0 +1,35 @@
+canonical:
+  title: 梅
+  author: 姜希孟
+  language: lzh
+  text: 黃昏籬落見橫枝緩步尋香到水湄千載羅浮一輪月至今來照夢醒時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 梅
+  author: 姜希孟
+  language: lzh
+  text: 黃昏籬落見橫枝。緩步尋香到水湄。千載羅浮一輪月。至今來照夢醒時。
+korean:
+  title: 매
+  author: 강희맹
+  language: kor
+  text: |-
+    황혼의 울타리에 비스듬한 가지 보고
+    느린 걸음으로 향기를 찾아 물가에 이르렀다
+    천재의 나부의 한 수레바퀴 달이
+    지금에도 꿈 깰 때면 와서 비춘다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Plum Blossom
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    At dusk I glimpse the angled branch beyond the fence.
+    With measured steps I follow fragrance to the water's edge.
+    A thousand years—the moon above Luofu's plum trees,
+    still comes to illuminate the moment when dreams awaken.
+  footnotes:
+  - key: ''
+    value: Luofu (羅浮) refers to Mount Luofu in southern China, renowned in classical literature as a place of plum blossoms and immortal dwelling. The reference evokes the timeless quality of natural beauty transcending ages.

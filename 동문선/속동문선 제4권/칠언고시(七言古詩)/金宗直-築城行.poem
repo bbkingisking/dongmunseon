@@ -1,0 +1,46 @@
+canonical:
+  title: 築城行
+  author: 金宗直
+  language: lzh
+  text: 秋禾蕭蕭不滿耞滌塲未旣催徵科海上復調兩城役八頃一抽人如麻西呼東叫伯格長豈不少緩畏使家憑渠勿和澤門謳三浦之夷心腹憂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 築城行
+  author: 金宗直
+  language: lzh
+  text: 秋禾蕭蕭不滿耞。滌塲未旣催徵科。海上復調兩城役。八頃一抽人如麻。西呼東叫伯格長。豈不少緩畏使家。憑渠勿和澤門謳。三浦之夷心腹憂。
+korean:
+  title: 축 성 행
+  author: 김종직
+  language: kor
+  text: |-
+    가을 벼 쓸쓸하여 도리깨에도 안 차는데
+    마당질도 못 다 해서 세 물라고 재촉하네
+    해변에는 또 두 성을 쌓는 역사
+    농가에 한 사람씩 삼대같이 뽑느라고
+    소리 소리 지르는 징병관들
+    왜 좀 늦춰 안 주는가 상사가 두렵다네
+    허지만 부디 택문 노래는 화답치 마소
+    삼포의 왜놈들이 심복의 걱정일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0620&viewSync=OT
+  footnotes: []
+english:
+  title: The Building of Fortresses
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Autumn's harvest withers thin, not even filling the threshing floor.
+    The yard-work unfinished, yet they cry for taxes due.
+    And now the coast demands two fortresses be raised—
+    from every eight acres, men are plucked like strands of grass.
+
+    Voices calling east and west, overseers barking orders,
+    why grant no respite? The magistrate's wrath we fear.
+    Yet I implore you, do not echo the songs of Taekmon,
+    for the Japonese of Sampo weigh heavy on our hearts.
+  footnotes:
+  - key: ''
+    value: Taekmon (택문) likely refers to a place or administrative figure associated with conscription; the plea not to sing its songs suggests a warning against spreading word of oppressive policies.
+  - key: ''
+    value: Sampo (삼포) was a historical Korean trading port where Japanese merchants and pirates operated, representing a complex source of both commerce and military threat during the Joseon period.

@@ -1,0 +1,37 @@
+canonical:
+  title: 同前
+  author: 安起
+  language: lzh
+  text: 霞鶩齊飛丹檻外君王同樂翠微閒此時行幸眞堪畫百紫千紅已滿山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同前
+  author: 安起
+  language: lzh
+  text: 霞鶩齊飛丹檻外。君王同樂翠微閒。此時行幸眞堪畫。百紫千紅已滿山。
+korean:
+  title: 동전
+  author: 안기
+  language: kor
+  text: |-
+    노을과 따오기는 붉은 난간 밖에 나란히 날으는데
+    군왕이 취미 사이에서 같이 즐기시네
+    이 때의 행행을 진실로 그릴 만하니
+    백 가지 자줏빛과 천 가지 붉은 빛이 이미 산에 가득 찼네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0980&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 노을과 따오기는 : '
+    value: 왕발(王勃)의 글에, ‘떨어진 노을은 외로운 따오기와 가지런히 난다[落霞與孤鶩齊飛].’란 명구(名句)가 있다.
+english:
+  title: Same as Before
+  author: An Gi
+  language: eng
+  text: |-
+    Rosy clouds and wild geese fly together beyond the crimson rail,
+    While the royal lord finds joy in the emerald haze.
+    Surely this royal excursion deserves to be painted—
+    A hundred shades of purple and a thousand hues of red already fill the mountain.
+  footnotes:
+  - key: ''
+    value: 'The opening line alludes to the famous couplet from Wang Bo: ''The falling glow and solitary goose fly together in formation''—a celebrated phrase that has inspired countless poets.'

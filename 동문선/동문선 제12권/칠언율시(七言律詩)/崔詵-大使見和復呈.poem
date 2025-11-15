@@ -1,0 +1,51 @@
+canonical:
+  title: 大使見和復呈
+  author: 崔詵
+  language: lzh
+  text: 一陪高論道途中才似楊雄賦射熊王氏系從淮水遠相如名與泰山崇詩姸自可侔西子筆健還堪搏北宮多謝賢侯迴顧眄枉將珍髢鬻諸戎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大使見和復呈
+  author: 崔詵
+  language: lzh
+  text: 一陪高論道途中。才似楊雄賦射熊。王氏系從淮水遠。相如名與泰山崇。詩姸自可侔西子。筆健還堪搏北宮。多謝賢侯迴顧眄。枉將珍髢鬻諸戎。
+korean:
+  title: 대사가 화답하기로 다시 드림
+  author: 최선
+  language: kor
+  text: |-
+    도중에 고론을 모시고 듣자오니
+    재주가 사웅부를 지은 양웅과 비슷하네
+    왕씨의 계보는 멀리 회수로부터
+    상여(한대(漢代)의 사종(詞宗) 사마상여(司馬相如))의 명성은 높기가 태산과 같네
+    곱디고운 시태는 서시라 할까
+    튼튼한 필력은 북궁(전국 때 용사(勇士) 북궁유(北宮黝))을 칠 만하도다
+    고마워라 현후(賢侯)께서 돌보아 주시니
+    진기한 다리를 오랑캐에게 파신 것 같아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0800&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사웅부(射熊賦) : '
+    value: 양웅(揚雄)이 지은 부(賦)에 사냥을 서(叙)한 것이 많고, 곰을 쏘는 데에 관한 사구(辭句)가 많다.
+english:
+  title: In Response to the Envoy's Verse
+  author: Choe Seon
+  language: eng
+  text: |-
+    Along the road I heard your lofty discourse,
+    Your talents rival Yang Xiong's rhapsodies of the hunt.
+    The Wang lineage stretches back to the distant Huai,
+    While Sima Xiangru's fame rises high as Mount Tai.
+    Your verses shine fair as Xi Shi herself,
+    Your brush-strokes strike as forcefully as the warrior of old.
+    How grateful I am for the noble lord's regard,
+    That precious gifts should not be wasted on distant lands.
+  footnotes:
+  - key: ''
+    value: Yang Xiong was a renowned Han Dynasty poet known for his rhapsodies featuring hunting scenes and archery imagery, here invoked to praise the envoy's literary prowess.
+  - key: ''
+    value: Sima Xiangru was a celebrated Han Dynasty poet and diplomat whose name became synonymous with literary excellence.
+  - key: ''
+    value: Xi Shi, a legendary beauty of ancient China, represents supreme aesthetic refinement.
+  - key: ''
+    value: The closing couplet plays on the irony of such refined talents and gifts being directed toward foreign or unworthy recipients.

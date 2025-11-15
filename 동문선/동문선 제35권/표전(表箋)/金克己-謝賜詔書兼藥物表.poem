@@ -1,0 +1,36 @@
+canonical:
+  title: 謝賜詔書兼藥物表
+  author: 金克己
+  language: lzh
+  text: 言出明綸先慰驅馳之役澤零湑露曲頒瞑眩之珍中謝 陪臣受命海邦朝正天邑塗山玉帛庶無後於會同禹域梯航玆未堪於勞悴豈期元后猶記遠人恐嬰行邁之勤因爽節宣之適鸞迴天上泥函垂帝詔之溫兔擣月中玉合降仙丹之妙沉痾去體喜氣塡胷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝賜詔書兼藥物表
+  author: 金克己
+  language: lzh
+  text: 言出明綸。先慰驅馳之役。澤零湑露。曲頒瞑眩之珍。中謝。 陪臣受命海邦。朝正天邑。塗山玉帛。庶無後於會同。禹域梯航。玆未堪於勞悴。豈期元后。猶記遠人。恐嬰行邁之勤。因爽節宣之適。鸞迴天上。泥函垂帝詔之溫。兔擣月中。玉合降仙丹之妙。沉痾去體。喜氣塡胷。
+korean:
+  title: 사사조서겸약물표
+  author: 김극기
+  language: kor
+  text: |-
+    밝은 윤음(綸音)을 말씀하시어 먼저 먼 길의 수고를 위로하시고, 은덕을 이슬같이 내리시어 친절히 진기한 약물(藥物)을 나누어 주셨나이다. 중사(中謝)
+    배신이 해방(海邦)의 명을 받들고 천읍(天邑)에 조회함에 있어 도산(塗山)의 옥백(玉帛)을 회동(會同)에 뒤지지 않고자 우역(禹域 중국)의 제항(梯航)에 여간한 고생을 겪었사온대 뜻밖에도 성상께서 오히려 멀리 오는 사람을 생각하시어 혹 노독(路毒)에 걸릴까 염려하사 적당히 치료할 방법을 베풀어 주시오니, 난(鸞)새가 하늘 위에서 내려와 이함(泥凾 임금의 조서(詔書))에 따뜻한 조서(詔書)를 내리시자, 토끼가 달 가운데 방아를 찧어 옥합(玉盒)에 묘한 선단(仙丹)을 내려보내 주시니 온 몸에 병이 가시고 가슴속에 기쁜 기운이 가득차옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 도산(塗山) …… 않고자 : '
+    value: 우(禹)가 도산에서 제후(諸侯)를 모으는데, 옥(玉)과 비단[帛]을 예물로 가지고 모인 자가 만국(萬國)이었다 한다.
+english:
+  title: Memorial Presenting the Royal Edict and Gratitude for Medicinal Gifts
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Your luminous words of grace first soothe the weariness of distant travel, and your benevolence descends like gentle dew, bestowing upon us the rarest of medicines with utmost kindness.
+
+    Your humble servant, governing this maritime realm, journeyed to pay respects at the celestial capital. Though bearing jade and silk to match the gatherings of old, the roads through the lands of Yu proved arduous beyond measure. Yet unexpectedly, the Sage still remembers those who come from afar, and fearing the ailments of travel might strike us down, graciously provided the means of healing. As the auspicious bird descends from heaven above, bearing your warmth in imperial decree, and as the jade rabbit in the moon pestle pounds the elixir of immortals, the sickness departs from my body and joy fills my chest to overflowing.
+  footnotes:
+  - key: ''
+    value: The reference to jade and silk alludes to the legendary assembly at Mount Tu, where the sage king Yu gathered ten thousand nations, each bearing jade and silk as tribute.
+  - key: ''
+    value: 'The imagery of the auspicious bird (luan) and jade rabbit combines celestial symbolism: the bird represents imperial grace descending from heaven, while the rabbit represents the divine medicine prepared in the lunar palace.'

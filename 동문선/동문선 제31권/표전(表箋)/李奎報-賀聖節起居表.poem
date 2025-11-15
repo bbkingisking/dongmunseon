@@ -1,0 +1,33 @@
+canonical:
+  title: 賀聖節起居表
+  author: 李奎報
+  language: lzh
+  text: 云云再朝魏闕全身是飮化之誠今復舊都擧足皆蹈恩之地况屬踐修於藩職益殫蘄嚮於皇齡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀聖節起居表
+  author: 李奎報
+  language: lzh
+  text: 云云。再朝魏闕。全身是飮化之誠。今復舊都。擧足皆蹈恩之地。况屬踐修於藩職。益殫蘄嚮於皇齡。
+korean:
+  title: 성절에 기거를 하례하는 표
+  author: 이규보
+  language: kor
+  text: 운운.두 번 위궐(魏闕)에 조회할 적에 온 몸이 곧 성화(聖化)를 마시는 정성이더니, 이제 구도(舊都)를 회복하니 발 가는 곳이 모두 황은(皇恩)을 밟는 땅이로소이다. 하물며 번직(藩職)을 이어 닦는 몸이니 더욱 성수(聖壽)를 빌어 충성을 다하려 하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0610&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial Addressing the Sovereign's Birthday
+  author: Lee Gyubo
+  language: eng
+  text: '...And so, twice have I journeyed to pay homage at the imperial gates, my entire being absorbed in the sacred transformation of Your Majesty''s grace. Now that we have restored to the ancient capital, each step I take treads upon the blessed earth of imperial benevolence. How much more so, as I continue to fulfill my duties in the provincial ranks—I dedicate myself ever more earnestly to celebrating Your Majesty''s longevity and offering my unwavering loyalty.'
+  footnotes:
+  - key: ''
+    value: '魏闕 (Wei Que): The imperial palace gates, a classical reference to the seat of imperial power'
+  - key: ''
+    value: '聖化 (Sacred transformation): The transformative influence of the sovereign''s virtue upon all things'
+  - key: ''
+    value: '舊都 (Ancient capital): Likely referring to the restoration of Gaeseong or another former capital'
+  - key: ''
+    value: '皇恩 (Imperial benevolence): The grace and favor of the ruler'

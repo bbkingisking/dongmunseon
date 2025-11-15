@@ -1,0 +1,37 @@
+canonical:
+  title: 西樓晩望
+  author: 金克己
+  language: lzh
+  text: 江風習習獵春叢塞日濛濛臥晚空水色連天煙覆地樵蹊釣瀨有無中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西樓晩望
+  author: 金克己
+  language: lzh
+  text: 江風習習獵春叢。塞日濛濛臥晚空。水色連天煙覆地。樵蹊釣瀨有無中。
+korean:
+  title: 서루 만망
+  author: 김극기
+  language: kor
+  text: |-
+    강바람 살랑살랑 봄 풀섶을 스치는데
+    변방의 해는 어스름히 늦은 하늘에 누웠네
+    물빛은 하늘에 닿고 연기는 땅을 덮으니
+    나무꾼 길 낚시 여울은 보일 듯 말 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0740&viewSync=OT
+  footnotes: []
+english:
+  title: Evening View from the Western Tower
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The river wind whispers softly through the spring thickets,
+    While the border sun grows dim, resting in the evening sky.
+    Water's hue merges with heaven, mist blankets the earth—
+    The woodcutter's path and fishing shallows hover between being and void.
+  footnotes:
+  - key: ''
+    value: The 'Western Tower' (西樓) suggests a vantage point of contemplation, possibly on the frontier or boundary between civilizations, reflecting the poet's position observing the liminal space between day and night, earth and sky.
+  - key: ''
+    value: The final couplet's ambiguity—'보일 듯 말 듯' (appearing yet disappearing)—captures a moment where human traces in nature become indistinct, suggesting the transience of human activity within the vast natural world.

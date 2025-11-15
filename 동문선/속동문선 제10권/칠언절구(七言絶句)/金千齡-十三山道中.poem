@@ -1,0 +1,39 @@
+canonical:
+  title: 十三山道中
+  author: 金千齡
+  language: lzh
+  text: 削成蒼玉列參差一抹斜陽看更奇自是愛山忘去路傍人錯道馬行遲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 十三山道中
+  author: 金千齡
+  language: lzh
+  text: 削成蒼玉列參差。一抹斜陽看更奇。自是愛山忘去路。傍人錯道馬行遲。
+korean:
+  title: 십삼산 도중
+  author: 김천령
+  language: kor
+  text: |-
+    푸른 옥 깎아 올망졸망 벌였으니
+    일말의 비낀 양지 보기에 더욱 기이해라
+    스스로 산을 사랑하여 갈 길을 잊었거늘
+    곁 사람 길을 그릇 알고 말 걸음이 더디다네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road Through Thirteen Mountains
+  author: Kim Cheon-ryeong
+  language: eng
+  text: |-
+    Carved from jade, the peaks stand staggered and steep,
+    A stroke of slanting sunlight makes them stranger still.
+    Lost in love for the mountains, I forget the path ahead—
+    My companion thinks the horse grows slow, not knowing why.
+  footnotes:
+  - key: ''
+    value: The 'jade' refers to the verdant beauty of the mountain peaks, suggesting their precious, sculpted quality in the landscape.
+  - key: ''
+    value: The 'slanting sunlight' (evening light) enhances the otherworldly appearance of the mountains, creating an almost mystical atmosphere.
+  - key: ''
+    value: The poem plays on the tension between aesthetic absorption and practical journey—the speaker's love of the scenery causes them to lag behind, which the companion misinterprets as the horse being weary.

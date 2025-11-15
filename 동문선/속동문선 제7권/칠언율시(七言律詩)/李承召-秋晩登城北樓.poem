@@ -1,0 +1,54 @@
+canonical:
+  title: 秋晩登城北樓
+  author: 李承召
+  language: lzh
+  text: 世事聞來可掉頭起登高堞散幽愁十年旅况千莖雪萬戶砧聲一葉秋更有深樽開北海能容老子上南樓泠然欲御長風去汗漫相期出九州
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋晩登城北樓
+  author: 李承召
+  language: lzh
+  text: 世事聞來可掉頭。起登高堞散幽愁。十年旅况千莖雪。萬戶砧聲一葉秋。更有深樽開北海。能容老子上南樓。泠然欲御長風去。汗漫相期出九州。
+korean:
+  title: 추만 등성북루
+  author: 이승소
+  language: kor
+  text: |-
+    세상일을 들어보니 머리 흔들 만하여
+    일어나 높은 성에 올라 깊은 시름 헤친다
+    십 년 동안의 나그네 정황은 천 줄기의 눈이요
+    만호의 다듬이 소리는 한 잎사귀의 가을이다
+    다시 깊은 술항아리 있어 북해가 열렸고
+    능히 늙은 나그네의 남루에 오름을 용납할 수가 있다
+    서늘하게 멀리서 오는 바람을 몰고 가서
+    한만히 구주를 벗어나기 기약하려 한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한 잎사귀의 가을이다 : '
+    value: 입추(立秋)가 되면 오동나무 잎사귀 하나가 떨어진다고 한다. 그래서 한 잎사귀가 떨어지면 아, 가을이 왔다 하는 감을 갖게 한다고 한다.
+  - key: '[주-D002] 술항아리 …… 열렸고 : '
+    value: 한나라 말년에 공융(孔融)이라는 사람이 북해태수(北海太守)가 되었으므로 공북해(孔北海)라고 한다. 그의 평생 소원은 자리 위에 손님이 항상 가득하게 앉아 있고[座上客常滿] 술항아리에 술이 비지 않는 것[樽中酒不空]이라 하였다.
+  - key: '[주-D003] 서늘하게 …… 가서 : '
+    value: 옛날에 열어구(列禦寇)라는 사람이 바람을 타고 서늘하게[冷然] 달려갔다고 한다. 그래서 이 시의 작자도 그처럼 바람을 타고 세상 밖으로 나갔으면 하는 것이다.
+english:
+  title: Climbing the Northern Tower of the City Wall on a Late Autumn Evening
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    Hearing of worldly affairs, I can only shake my head.
+    I rise and climb the high ramparts to scatter my deep sorrow.
+    Ten years of wandering are like a thousand threads of snow,
+    While the fulling stones of ten thousand homes become a single fallen leaf of autumn.
+
+    Yet there remains a deep jar of wine that opens the Northern Sea,
+    And it welcomes this old traveler to ascend the Southern Tower.
+    Cool and clear, I would ride away upon the wind,
+    And pledge with fate to depart beyond the Nine States.
+  footnotes:
+  - key: ''
+    value: Northern Sea and Southern Tower reference Kong Rong (孔融), a celebrated host of the Eastern Han whose lifelong wish was to keep his hall filled with guests and his wine cups never empty—a symbol of generous hospitality and refined fellowship.
+  - key: ''
+    value: The image of riding the cool wind alludes to the Daoist immortal Lie Yukou (列禦寇), who could travel swiftly upon the wind itself, suggesting the speaker's desire to transcend the mundane world.
+  - key: ''
+    value: A single fallen leaf of autumn—in Chinese poetic tradition, the fall of a parasol tree leaf signals the beginning of autumn, condensing the vastness of seasonal change into one delicate moment.

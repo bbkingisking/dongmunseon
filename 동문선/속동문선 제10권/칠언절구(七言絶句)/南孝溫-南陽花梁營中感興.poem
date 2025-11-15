@@ -1,0 +1,37 @@
+canonical:
+  title: 南陽花梁營中感興
+  author: 南孝溫
+  language: lzh
+  text: 飽向人間聽是非黃塵撲面壯啚違楊雄不語嘲誰解瘦骨成稜舌本肥
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 南陽花梁營中感興
+  author: 南孝溫
+  language: lzh
+  text: 飽向人間聽是非。黃塵撲面壯啚違。楊雄不語嘲誰解。瘦骨成稜舌本肥。
+korean:
+  title: 남양 화량영중 감흥
+  author: 남효온
+  language: kor
+  text: |-
+    인간 시비 귀 익혀 듣고 나니
+    얼굴엔 누른 티끌 장한 뜻은 못 이뤘소
+    양웅이 말 없으니 뉘가 조소 풀어 줄고
+    여윈 뼈는 성릉하나 혀는 아직 살찌었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 양웅(揚雄)이 …… 줄고 : '
+    value: 한 나라 시대 사람인 양웅이 〈해조부(解嘲賦)〉라는 글을 지은 일이 있다.
+english:
+  title: Reflections at Namyang Hwaliang Camp
+  author: Nam Hyowon
+  language: eng
+  text: |-
+    My ears have grown weary hearing the world's endless disputes.
+    Yellow dust clings to my face; my noble aspirations lie unfulfilled.
+    Yang Xiong kept silent—who will untangle his mockery?
+    My bones have withered to sharp ridges, yet still my tongue grows fat.
+  footnotes:
+  - key: ''
+    value: Yang Xiong (揚雄), a Han Dynasty scholar, composed the essay 'Untangling the Ridicule' (解嘲賦) in response to accusations against him. The poem invokes his example of dignified silence in the face of criticism and misunderstanding.

@@ -1,0 +1,48 @@
+canonical:
+  title: 送安邊府使朴始行赴任
+  author: 洪貴達
+  language: lzh
+  text: 憶昨遊觀大嶺東與君詩酒趁春風竹樓雲散靑山出鏡浦天晴碧海空鯨浪亂侵沙路白馬蹄輕蹴海棠紅一生意氣長年別此日那堪更燕鴻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送安邊府使朴始行赴任
+  author: 洪貴達
+  language: lzh
+  text: 憶昨遊觀大嶺東。與君詩酒趁春風。竹樓雲散靑山出。鏡浦天晴碧海空。鯨浪亂侵沙路白。馬蹄輕蹴海棠紅。一生意氣長年別。此日那堪更燕鴻。
+korean:
+  title: 송 안변부사 박시행 부임
+  author: 홍귀달
+  language: kor
+  text: |-
+    생각하면 옛날에 큰 영 동쪽을 구경할 때
+    그대와 함께 시와 술로 봄바람을 맞았다
+    죽루(삼척 죽서루)에 구름이 흩어져 푸른 산이 나왔고
+    경포(강릉 경포대)에 하늘이 맑아 푸른 바다가 비었었다
+    고래 물결은 어지러이 흰 모랫길을 침노했고
+    말 발굽은 가벼이 붉은 해당화를 찾았다
+    일생의 의기가 여러 해 이별했거니
+    오늘에 어찌 다시제비와 기러기 됨을 견디랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1000&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 제비와 …… 견디랴 : '
+    value: 제비는 가을에 남쪽으로 갔다가 봄에 오고, 기러기는 봄에 북쪽으로 갔다가 가을에 오므로 서로 만나지 못하는 것이다.
+english:
+  title: Farewell to Park Si-haeng, Newly Appointed Governor of Anbyeon
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    I recall those days when we wandered east beyond the great ridge,
+    Sharing wine and verse together as spring winds caressed us.
+    When clouds dispersed from the Bamboo Tower and green peaks emerged,
+    And clear skies opened over Mirror Lake, leaving the blue sea bare.
+
+    Whale-churned waves rushed wild across the pale sand road,
+    While our horses' hooves lightly crushed the crimson coral flowers.
+    A lifetime's friendship severed now by years of separation—
+    How can I bear to see you go, like swallows and geese that never meet?
+  footnotes:
+  - key: ''
+    value: The Bamboo Tower (Jukseo-ru) refers to a pavilion in Samcheok; Mirror Lake (Gyeongpo) refers to a lake near Gangneung. Both are scenic spots in the eastern regions.
+  - key: ''
+    value: The final image draws on the classical conceit of swallows and geese as symbols of lovers separated by seasons—swallows fly south in autumn and return in spring, while geese fly north in spring and return in autumn, so they never encounter each other.

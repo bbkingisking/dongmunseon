@@ -1,0 +1,45 @@
+canonical:
+  title: 順興宿水寺樓
+  author: 魯璵
+  language: lzh
+  text: 輕裝短帽一尋幽蘭院依然十載遊壁價幾年詩共重寺名千古水同流寒推嶽色僧扃戶冷踏溪聲客上樓長嘯徘徊日云暮倚欄回首起鄕愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 順興宿水寺樓
+  author: 魯璵
+  language: lzh
+  text: 輕裝短帽一尋幽。蘭院依然十載遊。壁價幾年詩共重。寺名千古水同流。寒推嶽色僧扃戶。冷踏溪聲客上樓。長嘯徘徊日云暮。倚欄回首起鄕愁。
+korean:
+  title: 순흥 숙수사루
+  author: 노여
+  language: kor
+  text: |-
+    가벼운 행장, 짧은 모자 쓰고 그윽한 곳 찾아드니
+    난원에 10년 전 놀이하던 곳 의연하구나
+    벽 값은 언제나 시로써 중해질꼬
+    절 이름은 천고의 물과 함께 흐르네
+    선뜻 산빛을 밀어 내며 중이 문을 닫는구나
+    싸늘한 물소리 밟으면서 손이 다락에 오르네
+    휘파람 불며 서성거리는데 해가 차차 저무니
+    난간서 머리 돌리매 고향 생각 이누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0900&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 난원(蘭院) : '
+    value: 당나라 왕파(王播)가 과거(科擧)에 오르기 전에 양주(楊州)의 절에 있으면서 중에게 밥을 얻어 먹었다. 그 뒤에 왕파가 절도사(節度使)가 되어 그 절에 놀러 가서 목란원(木蘭院)에서 시를 짓기를, “20년 전에 이 원(院)에 놀 적에 목란꽃이 피고 원(院)이 처음 이룩되었는데, 오늘날 그때 다니던 곳에 거듭 이르니 나무는 늙어 꽃이 없고 중은 흰 머리로세[二十年前此院遊 木蘭花發院新修 如今再到經行處 樹老無花僧白頭].”라 하였다.
+english:
+  title: At the Tower of Suksu Temple, Sunheung
+  author: No Yeo
+  language: eng
+  text: |-
+    With light pack and simple hat, I seek the hidden grove,
+    The orchid garden stands as it did ten years past—
+    How many years have poems made these walls precious?
+    The temple's name flows eternal with the waters.
+    Mountain colors drift as monks bar their doors to the cold,
+    Footsteps echo on icy streams as I climb to the tower.
+    Whistling and wandering, the sun sinks low,
+    Leaning on the railing, I turn back and sigh for home.
+  footnotes:
+  - key: ''
+    value: The 'orchid garden' (蘭院) alludes to a famous Tang poem by Wang Ba, who returned after twenty years to a temple where he once stayed in poverty. Like Wang Ba revisiting his past, the poet experiences the bittersweet recognition of time's passage in familiar places.

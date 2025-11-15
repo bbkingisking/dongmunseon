@@ -1,0 +1,31 @@
+canonical:
+  title: 上大金皇帝起居表
+  author: 李奎報
+  language: lzh
+  text: 路距玉京未識幾千餘里心懸蘂闕固非一二許年區區之懷吶吶難旣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上大金皇帝起居表
+  author: 李奎報
+  language: lzh
+  text: 路距玉京。未識幾千餘里。心懸蘂闕。固非一二許年。區區之懷。吶吶難旣。
+korean:
+  title: 대금 황제께 문안하는 글
+  author: 이규보
+  language: kor
+  text: 길이 옥경(玉京)을 상거하기 무릇 몇천여 리인지 모르겠으나, 마음은 예궐(蘂闕)에 달린 지 진실로 한두 해쯤이 아닌지라, 구구한 회포를 말씀으로 다 표현하기 어렵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0420_010_0330&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial of Respect to the Great Jin Emperor
+  author: Lee Gyubo
+  language: eng
+  text: Though the road stretches countless thousands of li from the Jade Capital, my heart has long dwelt at the Imperial Palace—not merely for one or two years, but far longer. How difficult it is to express in mere words the yearning that fills my breast.
+  footnotes:
+  - key: ''
+    value: Jade Capital (玉京) refers to the imperial seat of the Jin Dynasty.
+  - key: ''
+    value: The Imperial Palace (蘂闕) is a poetic reference to the emperor's residence, emphasizing the speaker's emotional attachment despite physical distance.
+  - key: ''
+    value: This work was composed during the period when Korea maintained diplomatic relations with the Jin Dynasty.

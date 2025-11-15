@@ -1,0 +1,50 @@
+canonical:
+  title: 古意
+  author: 李穡
+  language: lzh
+  text: 早行莫太早太早令人迷夜半便發軔前途互高低人家在何許時聞林外雞趍歧旣已迷未辨山東西天明始知悔我行何栖栖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 古意
+  author: 李穡
+  language: lzh
+  text: 早行莫太早。太早令人迷。夜半便發軔。前途互高低。人家在何許。時聞林外雞。趍歧旣已迷。未辨山東西。天明始知悔。我行何栖栖。
+korean:
+  title: 고의
+  author: 이색
+  language: kor
+  text: |-
+    일찍 가더라도 너무 이르게는 말아라
+    너무 이르면 아득해지리로다
+    밤중에 수레가 출발하니
+    앞길이 울퉁불퉁하여라
+    인가는 어디에 있는고
+    때때로 숲 밖의 닭소리 들려 온다
+    갈림길에 당하니 벌써 희미해져서
+    산의 동서쪽을 분간할 수 없구나
+    하늘이 밝은 뒤에 비로소 뉘우치니
+    내 갈길이 어찌 그리 바쁘던고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0190&viewSync=OT
+  footnotes: []
+english:
+  title: An Ancient Sentiment
+  author: Lee Saek
+  language: eng
+  text: |-
+    To travel early, yet not too early—
+    for excessive haste obscures the way.
+    Setting out at midnight,
+    the road ahead rises and falls in shadow.
+
+    Where do the villages lie?
+    Only the distant cry of roosters breaks the darkness.
+    When I reach the fork in the path,
+    all grows indistinct—
+    I cannot tell east from west upon the mountain.
+
+    Only when dawn breaks do I see my folly:
+    why did I rush so headlong down this winding road?
+  footnotes:
+  - key: ''
+    value: This poem plays on the tension between urgency and caution, using the nocturnal journey as an extended metaphor for life's ambitions and the consequences of impatience.

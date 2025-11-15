@@ -1,0 +1,47 @@
+canonical:
+  title: 再和擇之
+  author: 朴誾
+  language: lzh
+  text: 深秋木落葉侵關戶牖全輸一面山縱有盃尊誰共對已愁風雨欲催寒天應於我賦窮相菊亦與人無好顔撥棄憂懷眞達士莫敎病眼謾長潸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 再和擇之
+  author: 朴誾
+  language: lzh
+  text: 深秋木落葉侵關。戶牖全輸一面山。縱有盃尊誰共對。已愁風雨欲催寒。天應於我賦窮相。菊亦與人無好顔。撥棄憂懷眞達士。莫敎病眼謾長潸。
+korean:
+  title: 재화 택지
+  author: 박은
+  language: kor
+  text: |-
+    가을이 깊어 떨어지는 나뭇잎이 문을 침노하는데
+    들창문은 한 쪽의 산을 모두 차지하였네
+    비록 한 항아리의 술이 있은들 누구와 마주하리
+    이미 바람과 비가 추위를 재촉할 것을 걱정한다
+    하늘은 아마 내게 궁상을 태어 주었나보네
+    국화도 내게 대해 좋은 얼굴 않는구나
+    근심스러운 회포를 떨어 버려야 진실로 달사거니
+    이 병든 눈에 눈물을 흘리지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: A Second Response to Taek-ji
+  author: Park Eun
+  language: eng
+  text: |-
+    Deep autumn—fallen leaves crowd at my gate,
+    and through the window, a single mountain fills my view.
+    Though wine sits waiting in its vessel,
+    who is there to drink it with me?
+    Already I dread the wind and rain hurrying winter near.
+
+    Has heaven perhaps assigned me a face of poverty?
+    Even the chrysanthemums turn away their beauty.
+    I must cast off this weight of sorrow to be truly wise—
+    let not these weary eyes spill tears in vain.
+  footnotes:
+  - key: ''
+    value: This poem appears to be a response ('再和') to another work by someone known as Taek-ji ('擇之'), following the classical Korean literati custom of poetic exchange and reply.
+  - key: ''
+    value: The chrysanthemum traditionally symbolizes resilience and virtue in East Asian poetry; its indifference here deepens the speaker's sense of isolation and rejection by nature itself.

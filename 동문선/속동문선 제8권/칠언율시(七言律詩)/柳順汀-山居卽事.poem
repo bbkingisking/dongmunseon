@@ -1,0 +1,46 @@
+canonical:
+  title: 山居卽事
+  author: 柳順汀
+  language: lzh
+  text: 雨霽黃梅晩色明開簾獨坐對岩扃林閒鳳尾蕨芽老園裏蠶頭菁子成素月臨牎宵代燭淸泉漱石曉聞笙閉門白髮從蕭颯閑摘松肪養性靈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山居卽事
+  author: 柳順汀
+  language: lzh
+  text: 雨霽黃梅晩色明。開簾獨坐對岩扃。林閒鳳尾蕨芽老。園裏蠶頭菁子成。素月臨牎宵代燭。淸泉漱石曉聞笙。閉門白髮從蕭颯。閑摘松肪養性靈。
+korean:
+  title: 산거 즉사
+  author: 유순정
+  language: kor
+  text: |-
+    황매 비는 개고 저문 빛이 밝은데
+    발을 열고 홀로 앉아 바윗문을 마주하네
+    숲 사이의 봉의 꼬리는 고사리 순이 늦어가고
+    동산 속의 누에 머리는 무우씨가 익어가네
+    밝은 달이 창에 들어 밤에 촛불을 대신하는데
+    맑은 샘물은 돌을 씻어 새벽에 생황 소리를 듣는 듯
+    문을 닫고 흰 머리털 쓸쓸한 대로 맡겨 두고
+    한가로이 송진을 따서 성령을 기르노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 황매(黃梅)비는 : '
+    value: 4월에 매화 열매가 누렇게 익을 때에 오는 비를 황매우(黃梅雨)라 한다.
+english:
+  title: 'Mountain Dwelling: Immediate Impressions'
+  author: Yu Sunjung
+  language: eng
+  text: |-
+    Rain clears on yellow plums, and the fading light shines bright;
+    I draw back the curtain, sitting alone before the stone gate.
+    In the forest depths, the bracken fronds of the phoenix-tail fern grow old,
+    In the garden, the silkworm heads ripen as mustard seeds swell.
+
+    The pale moon enters through my window, replacing candlelight at night,
+    The clear spring washes over stones, and I hear the reed pipe's song at dawn.
+    With the door closed, I let my white hair fall as it will, unadorned,
+    At leisure gathering pine resin to nourish the spirit within.
+  footnotes:
+  - key: ''
+    value: Yellow plum rain (黃梅雨) refers to the rains that fall in the fourth lunar month when plum fruits ripen to golden yellow—a liminal season between spring and summer that carries both melancholy and promise.

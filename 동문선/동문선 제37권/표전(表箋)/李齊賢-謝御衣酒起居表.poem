@@ -1,0 +1,29 @@
+canonical:
+  title: 謝御衣酒起居表
+  author: 李齊賢
+  language: lzh
+  text: 父臨普率恩徧濱海之封嬰慕寬仁心切後天之祝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝御衣酒起居表
+  author: 李齊賢
+  language: lzh
+  text: 父臨普率。恩徧濱海之封。嬰慕寬仁。心切後天之祝。
+korean:
+  title: 사 어의주 기거 표
+  author: 이제현
+  language: kor
+  text: 폐하께서는 온 천하에 아버지로 임하심에 은혜가 바닷가의 나라에까지 두루하시고, 신은 너그럽고 인자하신 덕을 어린애처럼 사모함에 마음은 후천(後天)의 축수가 간절하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 후천(後天)의 축수 : '
+    value: 하늘보다도 뒤에까지 산다는 뜻이다.
+english:
+  title: Memorial of Gratitude for the Imperial Gift of Wine and Regards for Well-being
+  author: Lee Je-hyun
+  language: eng
+  text: Your Majesty stands as father to all under heaven, and your benevolence reaches even to the distant lands by the sea. I, a mere child, gaze upon your magnanimous and humane virtue with longing heart, and humbly wish that your life may endure beyond the heavens themselves.
+  footnotes:
+  - key: ''
+    value: '''Life beyond the heavens'' (後天) is a poetic expression for longevity and blessings that exceed even celestial measure.'

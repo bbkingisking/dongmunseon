@@ -1,0 +1,37 @@
+canonical:
+  title: 進奉起居表
+  author: 金坵
+  language: lzh
+  text: 寅賓日出勉傾葵藿之心申錫天休想擁岡陵之祚屬當輸貢彌劇效誠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 進奉起居表
+  author: 金坵
+  language: lzh
+  text: 寅賓日出。勉傾葵藿之心。申錫天休。想擁岡陵之祚。屬當輸貢。彌劇效誠。
+korean:
+  title: 진봉 기거 표
+  author: 김구
+  language: kor
+  text: 해돋이를 손님처럼 공경하매 규곽(葵藿)의 마음을 기울이길 힘쓰고, 천휴(天休 하늘이 주는 아름다운 것)를 거듭 내리매, 강릉(岡陵)의 복을 안으실 줄로 생각되오며, 때마침 조공 바칠 때를 당하오매 더욱 정성을 바침이 급하옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강릉(岡陵) : '
+    value: 높고 크다는 뜻이다. 《시경》 〈소아(小雅)〉 천보장(天保章)에, “강(岡)과 같고 능(陵)과 같다[如岡如陵].” 하였다.
+english:
+  title: Memorial of Tribute and Obeisance
+  author: Kim Gu
+  language: eng
+  text: |-
+    As the sun rises and receives reverence like an honored guest,
+    I bend my heart like the sunflower and mallow turning toward the light.
+    When Heaven's grace descends repeatedly,
+    I imagine the sovereign embraced in majesty and grandeur.
+    Now that the season of tribute arrives,
+    My earnest devotion burns ever more urgent.
+  footnotes:
+  - key: ''
+    value: The 'sunflower and mallow' (葵藿) is a classical allusion to plants that naturally turn toward the sun, symbolizing loyal subjects who orient themselves toward their ruler.
+  - key: ''
+    value: The 'majesty and grandeur' (岡陵) echoes the Shijing, invoking the image of the ruler as high and mighty as mountains and hills.

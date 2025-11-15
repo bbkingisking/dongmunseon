@@ -1,0 +1,46 @@
+canonical:
+  title: 次旌善郡韻
+  author: 許少由
+  language: lzh
+  text: 樓上奇觀富森羅指點間水淸何濯足簾豁可迴顔纛亂風前竹螺排雨後山當年誰撥此天地所曾慳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次旌善郡韻
+  author: 許少由
+  language: lzh
+  text: 樓上奇觀富。森羅指點間。水淸何濯足。簾豁可迴顔。纛亂風前竹。螺排雨後山。當年誰撥此。天地所曾慳。
+korean:
+  title: 차 정선군 운
+  author: 허소유
+  language: kor
+  text: |-
+    다락 위에 올라보니 좋은 경치 많기도 하이
+    만상이 지점하는 앞에 삼라했구나
+    물 맑으니 어이 발을 씻으리
+    발[簾]이 넓으니, 얼굴을 돌릴 만하네
+    바람 앞의 대[竹]는 깃발이 펄럭이듯
+    비온 뒤의 산은 소라처럼 늘어섰네
+    이 좋은 곳을 당초에 누가 드러냈나
+    천지도 이런 비경을 오래 아꼈으려니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0930&viewSync=OT
+  footnotes: []
+english:
+  title: Following the Rhymes of Jeongson County
+  author: Heo So-yu
+  language: eng
+  text: |-
+    From the tower's height, fine vistas abound,
+    A thousand forms pointed out in their place.
+    Water so clear—why wash one's feet?
+    With curtains drawn back, one can turn one's face.
+
+    Before the wind, bamboo flags flutter,
+    After the rain, mountains rise like spiraled shells.
+    Who first revealed this splendid realm?
+    Even Heaven and Earth have kept such beauty close.
+  footnotes:
+  - key: ''
+    value: The reference to washing feet alludes to the classical gesture of cleansing oneself in pure waters, here suggesting that the water itself is so clear and perfect it seems almost too precious for such mundane use.
+  - key: ''
+    value: The spiral shells (螺) rising like mountains after rain is an image of layered peaks emerging through mist, creating a natural pattern that resembles the chambers of a shell.

@@ -1,0 +1,38 @@
+canonical:
+  title: 東京留守耿倅上新知留狀
+  author: 朴浩
+  language: lzh
+  text: 右某等昨得邸報伏承光奉朝符卓司宮鑰伏惟慶慰恭以新恩相公蘭庭襲美笋秩飛榮民版之曹載標於殊續宰衡之任將敍於榮聯暫膺眷注之恩俯揔居留之職滿都疲俗已積望於舒蘇屬幕微寮倍馳誠於攀託忻瞻竝集敷述奚殫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東京留守耿倅上新知留狀
+  author: 朴浩
+  language: lzh
+  text: 右某等昨得邸報。伏承光奉朝符。卓司宮鑰。伏惟慶慰。恭以新恩相公。蘭庭襲美。笋秩飛榮。民版之曹載標於殊續。宰衡之任將敍於榮聯。暫膺眷注之恩。俯揔居留之職。滿都疲俗。已積望於舒蘇。屬幕微寮。倍馳誠於攀託。忻瞻竝集。敷述奚殫。
+korean:
+  title: 동경 유수 경쉬 상 신지류 장
+  author: 박호
+  language: kor
+  text: 모(某) 등은 어제 저보(邸報)를 얻어보고서 비로소 빛나게 조부(朝符)를 받드시고, 우뚝 궁약(宮鑰 자물쇠)을 맡으신 것을 살폈습니다. 엎드려 경축하옵니다. 삼가 생각건대, 신은 상공(新恩相公)은 난정(蘭庭)에서 아름다움을 승습하였고, 순질(笋秩)에서 영예를 날렸으며, 백성의 판적(版籍)을 맡은 자리에서 특수한 업적을 세웠으므로 재형(宰衡)의 소임이 장차 영광스럽게 승진 발령될 것이나 잠시 권주(眷注)의 은혜에 부응하기 위하여 굽히어 거류(居留)의 직을 총괄하게 되었으니, 온 도성의 피폐한 민속은 이미 소생의 희망에 쌓여 있고 막하의 속관들은 더욱 두터이 붙잡고 의탁하는 정성이 쏠립니다. 모두 모여 기꺼이 우러름에 어찌 아뢰기를 극진히 아니하겠습니까.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 순질(笋秩) : '
+    value: 반열 중에 가장 빼어난 자를 이른 것이다. 당(唐)나라 장응(蔣凝)이 풍채가 아름다워 칭호를 옥순반(玉笋班)이라 함과 동시에, 매양 조사(朝士)의 집에 가면 그 집에서 상서로 여겼다. 순질은 순반(笋班)과 같은 말이다.
+english:
+  title: A Letter of Congratulation to the New Governor-General of the Eastern Capital
+  author: Park Ho
+  language: eng
+  text: |-
+    We have received word through official dispatch, and thus learned that you have been honored to receive the royal seal and entrusted with the keys of state office. We express our heartfelt congratulations.
+
+    Consider how our newly appointed Minister, blessed by fortune in the orchid gardens of refinement, has soared through ranks of distinction, leaving singular marks upon the registers of the realm. Though the position of Prime Minister surely awaits your future ascent in glory, you have graciously accepted this temporary charge as Guardian of the Capital, bending your will to serve the royal attention.
+
+    The weary spirit of our entire city now rests upon hopes of your renewal and restoration. Those of us in the lower ranks of your administration pour forth our loyalty and devotion with redoubled fervor. Gathered together in eager anticipation, how could we fail to offer our profound gratitude?
+  footnotes:
+  - key: ''
+    value: The 'keys of state office' (宮鑰) is a metaphorical reference to assuming high administrative authority.
+  - key: ''
+    value: '''Orchid gardens of refinement'' (蘭庭) refers to a cultured and esteemed lineage or background.'
+  - key: ''
+    value: The 'registers of the realm' alludes to administrative achievements in civil service positions overseeing the people.

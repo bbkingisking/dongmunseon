@@ -1,0 +1,68 @@
+canonical:
+  title: 海月樓看月
+  author: 釋天因
+  language: lzh
+  text: 西風蕭蕭天氣涼南樓獨坐心悠然忽看海月上雕檻四虛晃朗開陰煙初疑坐我銀色界又恐飛上玉壺天泠泠沆瀣淸入骨一洗百慮塵勞緣此樓得月都幾時四時月照何曾偏皆言月色秋更好風磨露洗添淸姸誰知桂魄元不死照來照去無窮年君看海月千古唯一色淸白本是吾家傳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 海月樓看月
+  author: 釋天因
+  language: lzh
+  text: 西風蕭蕭天氣涼。南樓獨坐心悠然。忽看海月上雕檻。四虛晃朗開陰煙。初疑坐我銀色界。又恐飛上玉壺天。泠泠沆瀣淸入骨。一洗百慮塵勞緣。此樓得月都幾時。四時月照何曾偏。皆言月色秋更好。風磨露洗添淸姸。誰知桂魄元不死。照來照去無窮年。君看海月千古唯一色。淸白本是吾家傳。
+korean:
+  title: 해월루 간월
+  author: 석천인
+  language: kor
+  text: |-
+    서쪽 바람이 쓸쓸하여 기운이 찬데
+    남쪽 누각에 홀로 앉았으매 마음이 슬퍼지도다
+    문득 보니 바다 달이 아로새긴 난간에 오르니
+    사방 허공이 빛나고 밝아 음침한 연기를 걷도다
+    처음에는 내가 은빛깔 세계에 앉았나 의심하였더니
+    다음에는 옥호천에 날아 올랐나 두려워했다
+    차갑고 산뜻하여 푸른 기운이 뼈속에 드니
+    이 세상 백 가지 티끌 인연을 씻는다
+    이 누대가 달을 얻은 지 얼마인지 모르지만
+    네 철의 달이 어찌 다르게 비치랴마는
+    모두 말하기를 달빛은 가을에 더욱 좋다 하는데
+    바람이 갈고 이슬이 씻어 더욱 맑고 고와라
+    누가 알랴 계수 넋은 원래 죽지 않아서
+    비춰 오고 비춰 가기 무궁한 세월일세
+    그대는 보라 바다 달이 천고에 오직 한 빛인 것을
+    맑고 깨끗한 것은 본래 우리 집에서 전해 오는 것이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옥호천(玉壺天)에 날아 올랐나 : '
+    value: 비장방(費長房)이 한 노인을 따라 병 속[壺中]에 들어가니 별천지(別天地)가 있었다 하는데 여기서는 그것을 인용한 것인 듯하다.
+  - key: '[주-D002] 맑고 …… 것이다 : '
+    value: 한(漢)나라 양진(楊震)이 말하기를, “내가 자손에게 재물을 주지 않는 대신 청백리(淸白吏)의 자손이란 명예를 전하여 주리라.” 하였다. 대대로 청백한 것을 청백전가(淸白傳家)라 한다. 여기서는 달의 청백함을 사람의 청백에 비유하였다.
+english:
+  title: Viewing the Moon from the Sea-Moon Pavilion
+  author: Seok Cheon-in
+  language: eng
+  text: |-
+    The west wind whispers its desolation, the air turns cold.
+    Alone in the southern tower, my heart grows wistful.
+    Suddenly the moon above the sea rises past carved railings,
+    and the four directions brighten, darkness swept away.
+
+    At first I wondered if I sat in a realm of silver light,
+    then feared I had soared to the heaven in the jade vessel.
+    The chill seeps through, crystalline and pure, into my very bones—
+    washing away a hundred worldly cares and dusty bonds.
+
+    How long has this tower known the moon's companionship?
+    Yet the four seasons' moonlight falls always the same.
+    All say autumn's radiance surpasses every other time,
+    when wind polishes and dew cleanses, adding radiance anew.
+
+    Who knows the cassia-spirit never truly dies?
+    It shines coming, shines going, through endless ages.
+    Look—the sea-moon holds but one color through all eternity:
+    that clarity and purity passed down through our lineage.
+  footnotes:
+  - key: ''
+    value: The 'heaven in the jade vessel' alludes to the legend of Fei Changfang, who followed an old man into a bottle to discover an entire realm within—a poetic image of transcendence through the moon's contemplation.
+  - key: ''
+    value: The final image of clarity and purity as a transmitted family legacy echoes Yang Zhen's famous declaration to pass down the reputation of an incorruptible official rather than material wealth—here the poet elevates the moon's eternal purity as the true inheritance.

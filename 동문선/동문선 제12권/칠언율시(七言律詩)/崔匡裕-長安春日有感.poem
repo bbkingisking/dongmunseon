@@ -1,0 +1,50 @@
+canonical:
+  title: 長安春日有感
+  author: 崔匡裕
+  language: lzh
+  text: 麻衣難拂路歧塵鬂改顔衰曉鏡新上國好花愁裏艷故園芳樹夢中春扁舟煙月思浮海羸馬關河倦問津祗爲未酬螢雪志綠楊鶯語大傷神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長安春日有感
+  author: 崔匡裕
+  language: lzh
+  text: 麻衣難拂路歧塵。鬂改顔衰曉鏡新。上國好花愁裏艷。故園芳樹夢中春。扁舟煙月思浮海。羸馬關河倦問津。祗爲未酬螢雪志。綠楊鶯語大傷神。
+korean:
+  title: 장안 춘일 유감
+  author: 최광유
+  language: kor
+  text: |-
+    삼옷에 길거리의 먼지를 털기 어려우니
+    새벽에 거울 보니 흰 털도 새로워라
+    상국의 좋은 꽃들은 시름 속에 곱구나
+    내 고향 꽃다운 나무는 꿈속의 봄일 뿐
+    조그만 배로 바다에나 떠갈 생각
+    여윈 말 타고 관하에 나루 묻기도 지쳤네
+    형설의 처음 뜻을 아직도 못 이뤘으니
+    버들에 꾀꼬리 소리 울어도 마음 몹시 상하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼옷[麻衣] : '
+    value: 당(唐)ㆍ송(宋) 때에 과거에 오르지 못한 선비가 입는 옷이다.
+english:
+  title: 'Spring Day in Chang''an: Reflections on Feeling'
+  author: Choe Gwang-yu
+  language: eng
+  text: |-
+    My coarse robes cannot brush away the dust that clings to every path.
+    At dawn the mirror shows me anew—gray hair has joined the white.
+    In the capital, fair blossoms bloom radiant through my sorrow.
+    But the flowering trees of home exist only in my dreams of spring.
+
+    I think of drifting seaward in a small boat through mist and moonlight.
+    Tired on my lean horse, I weary of asking the way at every crossing.
+
+    Still unfulfilled, the vow I made beneath my books and lamp—
+    even as orioles sing sweet songs in the willow trees,
+    my heart breaks all the more.
+  footnotes:
+  - key: ''
+    value: The "coarse robes" (麻衣) refer to the garments worn by unsuccessful scholars of the Tang and Song dynasties, symbolizing failure in the civil service examinations.
+  - key: ''
+    value: '"The vow beneath books and lamp" (螢雪之志) is a classical allusion to the study and ambition of poor scholars, referencing Che Yin who studied by reflected moonlight and Sun Kang who read by snow''s light.'

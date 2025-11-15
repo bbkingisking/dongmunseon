@@ -1,0 +1,80 @@
+canonical:
+  title: 巡菜圃有作
+  author: 徐居正
+  language: lzh
+  text: 君不見早韭晩菘周顒興菰菜蓴絲張翰樂又不見文仝太守饞筍脯易簡學士愛虀汗人生適口是眞味咬菜亦自能當肉我園中有數畝餘年年滿意種佳蔬蕪菁蘿蔔與萵苢靑芹白芋仍紫蘇薑蒜葱蓼五味全細燖爲羹沉爲葅我生本是藜藿腸嗜之如密復如糖畢竟我與何曾同一飽不須食前方丈羅膏粱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 巡菜圃有作
+  author: 徐居正
+  language: lzh
+  text: 君不見早韭晩菘周顒興。菰菜蓴絲張翰樂。又不見文仝太守饞筍脯。易簡學士愛虀汗。人生適口是眞味。咬菜亦自能當肉。我園中有數畝餘。年年滿意種佳蔬。蕪菁蘿蔔與萵苢。靑芹白芋仍紫蘇。薑蒜葱蓼五味全。細燖爲羹沉爲葅。我生本是藜藿腸。嗜之如密復如糖。畢竟我與何曾同一飽。不須食前方丈羅膏粱。
+korean:
+  title: 순 채포 유작
+  author: 서거정
+  language: kor
+  text: |-
+    그대는 못 보았는가. 이른 부추 늦은 배추의 주옹의 홍과
+    고미나물 순나물의 장한의 낙을
+    또 못 보았는가. 문동 태수가 죽순을 즐겨 먹고
+    이간 학사가 부추즙을 좋아한 것을
+    인생이 입에 맞으면 그게 진미지
+    채소를 씹어도 고기만 못하지 않다네
+    내 집 동산에 몇 이랑 공지가 있어
+    해마다 넉넉히 채소를 심네
+    배추랑 무우랑 상추랑
+    미나리랑 토란이랑 자소랑
+    생강 마늘 파 여뀌 오미 양념을 갖추어
+    데쳐선 국끓이고 담가선 김치 만드네
+    내 식성이 본디 채식을 즐겨
+    꿀처럼 사탕처럼 달게 먹으니
+    필경 내나 하증이나 다 같이 배부른데
+    식전방장 고량진미를 벌일 필요가 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이른 부추 …… 주옹(周顒) : '
+    value: 주옹(周顒)이 산중에 있을 때에 임금이 묻기를, “산중에서 무슨 맛난 것을 먹는가.” 하니, 그는, “첫봄에 부추와 늦가을에 배추가 맛이 좋습니다.” 하였다.
+  - key: '[주-D002] 이간(易簡) …… 좋아한 것을 : '
+    value: 송나라 소이간(蘇易簡)에게 임금이 묻기를, “무슨 음식이 맛나는가.” 하니, 대답하기를, “때에 따라 일정하지 않습니다. 신이 한 번은 술을 취하게 먹고 새벽에 목이 마른데 마실것이 없어 뜰앞에 부추를 담근 독이 있기에 그 즙을 마셨더니 그 맛이 제일 신선하고 좋았습니다.” 하였다.
+  - key: '[주-D003] 필경 내나 …… 배부른데 : '
+    value: 진(晋)나라 하증(何曾)이 음식을 사치스럽게 먹어서 한 끼에 만전(萬錢)은 소비하였다, 소동파가 채소 먹는 것을 두고 지은 시에, “내나 하증이나 한 번 배부르기는 일반이다.” 하였다.
+  - key: '[주-D001] 苢 : '
+    value: 苣
+english:
+  title: Wandering Through the Vegetable Garden
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Have you not heard of Zhou Yong's delight—
+    early spring leeks and late autumn cabbage?
+    Or Zhang Han's joy in lake greens and tender shoots?
+
+    Have you not seen how the governor Wen Tong craved bamboo shoots,
+    while the scholar Yi Jian savored pickled scallion juice?
+
+    What truly delights the palate is the measure of fine taste—
+    bitings of greens rival the savor of meat.
+
+    In my garden plot lie several rows of open ground,
+    where year after year I plant with generous hand:
+    cabbage and radish, lettuce too,
+    watercress and taro, fragrant perilla as well.
+
+    Ginger, garlic, scallions, bistort—all five flavors complete.
+    Simmered gently into broth, or salted into preserve.
+
+    My stomach has always favored the humble green,
+    I taste them sweet as honey, sweet as sugar.
+
+    In the end, whether I or the lavish He Zeng—
+    both arrive at fullness just the same.
+    Why need I spread before the feast a thousand delicacies,
+    when simple greens suffice?
+  footnotes:
+  - key: ''
+    value: 'Zhou Yong was a recluse who, when the emperor asked what delicacies he enjoyed in the mountains, replied: ''Early spring leeks and late autumn cabbage.'''
+  - key: ''
+    value: Yi Jian (Su Yi Jian of Song) told the emperor that pickled scallion juice he drank one morning proved the finest and most refreshing taste he had ever known.
+  - key: ''
+    value: 'He Zeng of the Jin dynasty was infamous for his extravagant feasts, spending ten thousand coins per meal. Su Dongpo, in a poem about eating vegetables, wrote: ''Whether I or He Zeng, we both come to fullness just once.'''

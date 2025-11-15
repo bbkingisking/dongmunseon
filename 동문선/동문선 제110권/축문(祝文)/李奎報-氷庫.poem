@@ -1,0 +1,39 @@
+canonical:
+  title: 氷庫
+  author: 李奎報
+  language: lzh
+  text: 桃棘以除方啓陰寒之室蘋蘩可薦敢干聦直之靈兾借明歆導宣和氣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 氷庫
+  author: 李奎報
+  language: lzh
+  text: 桃棘以除。方啓陰寒之室。蘋蘩可薦。敢干聦直之靈。兾借明歆。導宣和氣。
+korean:
+  title: 빙고
+  author: 이규보
+  language: kor
+  text: 복숭아나무 활과 가시화살로 악한 귀신을 물리치고, 바야흐로 그늘지고 차가운 얼음 창고를 엽니다. 새봄의 마름[蘋]과 다북쑥[蘩]이 제물로 바칠 만하므로, 감히 총명하고 정직한 신령에게 간구(干求)하오니, 바라건대, 밝게 흠향하시고 이끌어 화기(和氣)를 선양(宣揚)하옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0080&viewSync=OT
+  footnotes: []
+english:
+  title: The Ice House
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    With peach wood and thorns I drive away the malevolent spirits,
+    And now open the shadowed, cold chamber of ice.
+    With fresh waterweed and mugwort as sacred offerings,
+    I dare beseech the bright and righteous divine spirit—
+    May you graciously receive these gifts,
+    And guide forth the harmony of spring's warm breath.
+  footnotes:
+  - key: ''
+    value: The peach wood and thorns were traditionally used in East Asian ritual practices to ward off evil spirits and malevolent forces.
+  - key: ''
+    value: The ice house (빙고, 氷庫) was an important structure in medieval Korean society for storing ice harvested during winter, used for food preservation and cooling.
+  - key: ''
+    value: The offering of waterweed (蘋) and mugwort (蘩) reflects traditional Korean and Chinese ritual practices of presenting plants symbolizing purification and renewal.
+  - key: ''
+    value: The poem celebrates the opening of the ice storage in spring, invoking a divine spirit to bless the season's transition and bring harmonious weather.

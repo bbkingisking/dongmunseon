@@ -1,0 +1,35 @@
+canonical:
+  title: 贈梓谷蘭若獨居僧
+  author: 崔致遠
+  language: lzh
+  text: 除聽松風耳不喧結茅深倚白雲根世人知路飜應恨石上莓苔汚屐痕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈梓谷蘭若獨居僧
+  author: 崔致遠
+  language: lzh
+  text: 除聽松風耳不喧。結茅深倚白雲根。世人知路飜應恨。石上莓苔汚屐痕。
+korean:
+  title: 재곡난야에 홀로 있는 중에게
+  author: 최치원
+  language: kor
+  text: |-
+    솔바람소리 듣는 것 외에는 귀가 시끄럽지 않고
+    띠풀로 집을 이으니 흰 구름 깊은 골짜기로다
+    세상사람 예 오는 길 아는 것이 도리어 한이어라
+    돌 위의 이끼를 신자국이 더럽히는구려
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0080&viewSync=OT
+  footnotes: []
+english:
+  title: To a Solitary Monk at the Orchid Temple in Jagu Valley
+  author: Choe Chiwon
+  language: eng
+  text: |-
+    Save for the whisper of pine wind, the ear knows no clamor—
+    A grass-thatched hut nestles in the white cloud's deep embrace.
+    Yet still men know the path here, and therein lies my lament:
+    the moss upon the stone, once pure, bears now the stain of footprints.
+  footnotes:
+  - key: ''
+    value: The poem presents an ironic tension between the monk's sought-after solitude and the intrusion of the outside world, with the final image of footprints on moss serving as a poignant symbol of how even sacred spaces cannot fully escape the world's touch.

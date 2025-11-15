@@ -1,0 +1,87 @@
+canonical:
+  title: 次晋山韻贈學專上人 二首
+  author: 盧思愼
+  language: lzh
+  text: 呂枕五十年一覺空彷彿欲知夢幻境試問瞿曇佛晉山世▣盡思歸衣欲拂昨夜夢山林眼前無俗物白雲生杖屨豈復戀朱紱鄭人得駭鹿以實爲夢然古莽多睡眠將夢以爲全夢覺旣無定眞妄竟誰傳形神忽開闔起滅同雲烟念念不可留逝去如流川若爲神自凝夢覺俱蹄筌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次晋山韻贈學專上人 二首
+  author: 盧思愼
+  language: lzh
+  text: 呂枕五十年。一覺空彷彿。欲知夢幻境。試問瞿曇佛。晉山世▣盡。思歸衣欲拂。昨夜夢山林。眼前無俗物。白雲生杖屨。豈復戀朱紱。鄭人得駭鹿。以實爲夢然。古莽多睡眠。將夢以爲全。夢覺旣無定。眞妄竟誰傳。形神忽開闔。起滅同雲烟。念念不可留。逝去如流川。若爲神自凝。夢覺俱蹄筌。
+korean:
+  title: 차 진산 운 증 학전상인 이수
+  author: 노사신
+  language: kor
+  text: |-
+    50년 황량꿈을
+    깨고 나니 모두 헛되네
+    몽환의 경계를 알고 싶어
+    시험삼아 구담불(석가모니)에게 물어보노라
+    진산이 세상□ 다하여, 돌아갈 생각에 옷을 털며
+    어젯 밤에 꾼 산림의 꿈
+    안중에 속물이 없데
+    지팡이와 신 자국에 흰 구름이 나거니
+    어찌 다시 벼슬에 미련 있으리
+    정나라 사람이 놀란 사슴을 잡고
+    현실을 꿈으로 생각했으며
+    옛 망사람은 잠이 많아서
+    꿈을 생시로 여기었다네
+    꿈과 깸이 일정한 것 없으니
+    참인지 망인지 뉘라서 알리
+    형과 신이 문득 여닫기매
+    생기고 꺼짐이 구름과 연기와 같아
+    념념에 멈출 수 없으니
+    모두 흘러감이 냇물과 같네
+    어찌하면 신이 스스로 엉키어
+    꿈과 깸을 모두 제전으로 여길꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 50년 황량(黃粱)꿈 : '
+    value: 중국 한단(邯鄲)에 사는 노생(盧生)이 객점(客店)에서 여옹(呂翁)을 만나 자기의 곤궁한 신세를 탄식하였더니, 여옹이 베개 하나를 내어 주며, “이 베개를 베고 누으면 뜻대로 될 것이요.” 하였다. 노생은 그 베개를 베고 곧 잠이 들었는데 꿈에, “50년 동안 장상(將相)에 이르기 까지 극도의 영화를 누리다가 80세에 죽었다.” 하여 깨어 보니, 한바탕 꿈으로 처음 누울 때에 그 집 주인이 황량(黃粱)을 솥에 넣어 찌는 것을 보았는데, 황량(黃粱)이 아직 익지 않았었다.
+  - key: '[주-D002] 정(鄭)나라 …… 생각했으며 : '
+    value: 《열자(列子)》에, “정나라 사람이 들에서 사슴을 잡아 죽여서 다른 사람이 보지 못하게 파초 잎으로 덮어 두고, 집에 왔다가 다시 가서 보니 사슴 덮은 곳이 어데인지를 잊어 버렸는데 그것이 꿈이라고 생각하였다.” 한다.
+  - key: '[주-D003] 형(形)과 …… 여닫기매 : '
+    value: 닫기는 것은 자는 것이요, 열리는 것은 깨는 것이다.
+  - key: '[주-D004] 신(神)이 …… 엉키어 : '
+    value: 《장자》에서 나온 말인데 정신이 전일하여 엉킨다는 뜻이다.
+  - key: '[주-D005] 제전(諦筌) : '
+    value: 제(蹄)는 토끼를 잡는 기구요 전(筌)은 물고기를 잡는 기구이니, 토끼와 물고기를 얻는 것이 목적이므로 토끼와 물고기를 얻은 뒤에는 제(蹄)와 전(筌)은 잊어야 한다는 것이다.[得兎忘蹄, 得魚忘筌] 《莊子》
+english:
+  title: Two Poems in the Rhyme of Jeonsan, Presented to the Learned Monk Sangin
+  author: Roh Sa-shin
+  language: eng
+  text: |-
+    Fifty years of dreams on the yellow millet pillow—
+    Awake now, all proves empty and vain.
+    Wishing to understand the realm of illusion,
+    I turn in question to the Buddha Shakyamuni.
+
+    Jeonsan's worldly affairs exhaust themselves;
+    Homesick, I brush dust from my robes.
+    Last night I dreamed of mountain forests—
+    No vulgar thought before my eyes.
+    White clouds rise from staff and straw sandal;
+    How could I cling to office and rank?
+
+    The man of Zheng caught a startled deer,
+    Yet thought reality itself a dream.
+    The ancients slept so deeply,
+    They mistook their dreams for waking life.
+    Dream and waking have no fixed boundary;
+    Who can distinguish true from false?
+
+    Form and spirit suddenly open and close—
+    Arise and cease like clouds and mist.
+    Thought after thought cannot be held;
+    All flows away like streaming water.
+    How can the spirit congeal in stillness,
+    That dream and waking both become like forgotten snares?
+  footnotes:
+  - key: ''
+    value: 'The ''yellow millet pillow'' refers to a famous Chinese tale of illusion: a poor man dreams fifty years of glory and success in the time it takes millet to cook.'
+  - key: ''
+    value: 'The Zheng man''s deer is another classical tale illustrating the ambiguity between dream and reality: a hunter forgot where he had hidden a deer he killed, and came to believe the entire incident was merely a dream.'
+  - key: ''
+    value: The final image of forgotten snares draws from Zhuangzi's teaching that once the purpose is achieved, the tools should be forgotten—suggesting transcendence beyond the duality of dream and waking.

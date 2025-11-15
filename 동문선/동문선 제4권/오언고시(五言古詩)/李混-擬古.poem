@@ -1,0 +1,60 @@
+canonical:
+  title: 擬古
+  author: 李混
+  language: lzh
+  text: 昨日花滿樹今日花辭枝東風有何忙開花無停期花開亦莫喜花落亦莫悲此花雖已落還復有開時不見靑銅裏朱顔日日衰賢愚同歸盡毁塚空纍纍置之飮美酒惻愴終何爲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 擬古
+  author: 李混
+  language: lzh
+  text: 昨日花滿樹。今日花辭枝。東風有何忙。開花無停期。花開亦莫喜。花落亦莫悲。此花雖已落。還復有開時。不見靑銅裏。朱顔日日衰。賢愚同歸盡。毁塚空纍纍。置之飮美酒。惻愴終何爲。
+korean:
+  title: 옛시를 본받아
+  author: 이혼
+  language: kor
+  text: |-
+    어제는 나무에 가득하더니
+    오늘은 가지를 하작하네
+    동쪽 바람은 무엇이 바쁘기에
+    꽃 피우기에 멈출 때가 없는가
+    꽃이 피어도 기뻐하지 말게나
+    꽃이 떨어져도 슬퍼할 것 없어라
+    이 꽃이 지금은 떨어졌지만
+    도로 필 때가 다시 있으리
+    보지 못하는가 저 푸른 거울 속에
+    불그레한 얼굴이 날로 쇠하는 것을
+    어진 이나 어리석은 이 모두 죽음으로 돌아가니
+    허물어진 무덤만 속절없이 총총하네
+    두어라 맛난 술이나 마시자
+    슬퍼하고 한탄한들 마침내 무엇하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0250&viewSync=OT
+  footnotes: []
+english:
+  title: In Imitation of the Ancients
+  author: Lee Hun
+  language: eng
+  text: |-
+    Yesterday the tree stood clothed in blossoms,
+    Today the flowers have left the branches.
+    Why does the east wind hurry so?
+    Ceaseless in its urge to open flowers.
+
+    When flowers bloom, do not rejoice,
+    When flowers fall, do not grieve.
+    Though these blossoms now have scattered,
+    There will come a time they bloom again.
+
+    Do you not see in that bronze mirror,
+    How the rosy cheeks fade day by day?
+    Both the wise and foolish return to dust,
+    Crumbled tombs stand scattered and forlorn.
+
+    Let us put such thoughts aside and drink fine wine—
+    What good is sorrow and lamentation in the end?
+  footnotes:
+  - key: ''
+    value: The 'bronze mirror' (청동, blue bronze) is a traditional metaphor for time's passage and the aging of beauty, suggesting reflection on mortality itself.
+  - key: ''
+    value: This poem employs the classical theme of *carpe diem* common to both Chinese and Korean poetry, balancing acceptance of life's transience with the gentle encouragement to find solace in simple pleasures.

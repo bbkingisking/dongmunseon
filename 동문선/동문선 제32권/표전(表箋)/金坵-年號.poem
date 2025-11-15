@@ -1,0 +1,38 @@
+canonical:
+  title: 年號
+  author: 金坵
+  language: lzh
+  text: 祖功宗德跨五登三端本紀年從一至萬恭承鴻號倍切慶悰云云念居東隅甞事上國顧漢皇提劒禮文之作未遑雖舜帝在衡正朔之頒盖闕今者皇帝陛下中天下而立統皇極以臨義取此而改元名以之而覃遠四海一家之從令咸與惟新三韓億載之効誠自今更始
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 年號
+  author: 金坵
+  language: lzh
+  text: 祖功宗德。跨五登三。端本紀年。從一至萬。恭承鴻號。倍切慶悰。云云。念居東隅。甞事上國。顧漢皇提劒。禮文之作未遑。雖舜帝在衡。正朔之頒盖闕。今者皇帝陛下。中天下而立。統皇極以臨。義取此而改元。名以之而覃遠。四海一家之從令。咸與惟新。三韓億載之効誠。自今更始。
+korean:
+  title: 연호
+  author: 김구
+  language: kor
+  text: 조종(祖宗)의 공덕(功德)이 오제(五帝)와 삼황(三皇)을 능가하시니, 국가의 기원(紀元)이 하나에서 만(萬)에 이르리니 엎드려 큰 연호(年號)를 받자오매 경축하는 마음이 배(倍)나 간절하옵나이다. 운운. 신(臣)이 동우(東隅)에 살면서 상국(上國)을 섬겼는데 역사를 돌아보옵건대, 한황(漢皇 한나라 태조 유방(劉邦))은 검(劍)을 들고 일어났으므로 예문(禮文)을 지을 뜻이 없었고, 순(舜) 임금은 치마를 드리우고 무위의 정치를 하셨으나 정삭(正朔)의 반포(頒布)를 궐(闕)하였습니다. 이제 황제 폐하께옵서는 천하 한복판에 서서 통일된 황제로 군림(君臨)하시어 그 뜻으로 기원을 고치시고 국위(國威)를 더욱 원방(遠方)에까지 미치시오니, 사해 일가(四海一家)로 명을 좇아 다 함께 유신(惟新)될 것이요. 삼한 억재(三韓億載)의 충성을 다함이 이제부터 다시 시작되오리이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: On the Era Name
+  author: Kim Gu
+  language: eng
+  text: |-
+    The ancestral virtues surpass the Five Emperors and Three Sovereigns, as the realm's chronology extends from one to ten thousand. We humbly receive this great era name, and our joy in this auspicious occasion grows ever deeper.
+
+    Your servant dwells in the eastern corner, having served the celestial realm. Yet looking back through history: when the Han Emperor drew his sword to establish his rule, he had no leisure for ritual refinement; and though the sage Shun draped his robes and governed through non-action, he neglected to promulgate the proper calendar.
+
+    But now Your Imperial Majesty stands at the center of all beneath heaven, unified in sovereign authority. By this virtue, the era is renamed and the imperial prestige extends to distant lands. The four seas become one family, all joining in renewal through your decree. From this day forward, the three Korean kingdoms renew their eternal loyalty, beginning anew their devotion.
+  footnotes:
+  - key: ''
+    value: The 'five' and 'three' refer to legendary Chinese rulers, invoking the golden age of sage-kings
+  - key: ''
+    value: The 'Han Emperor' alludes to Liu Bang, founder of the Han dynasty, whose military rise left little room for ceremonial matters
+  - key: ''
+    value: The reference to Shun represents the ideal of virtuous non-action in governance
+  - key: ''
+    value: '''Three Korean kingdoms'' refers to the historical kingdoms of Korea, here pledging renewed allegiance'

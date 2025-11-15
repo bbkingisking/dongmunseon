@@ -1,0 +1,35 @@
+canonical:
+  title: 臥水木橋
+  author: 辛蕆
+  language: lzh
+  text: 斫斷長條跨一灘濺霜飛雪帶驚瀾須臾步步臨深意移向功名宦路看
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 臥水木橋
+  author: 辛蕆
+  language: lzh
+  text: 斫斷長條跨一灘。濺霜飛雪帶驚瀾。須臾步步臨深意。移向功名宦路看。
+korean:
+  title: 와수목교
+  author: 신천
+  language: kor
+  text: |-
+    긴 나뭇가지를 끊어 한 여울에 걸쳤는데
+    뿌리는 서리를 뿌리고 눈을 날리며 놀란 물결 띠어 있다
+    잠깐 사이 걷고 걸어 물 깊은 곳에 이르렀을 때의 마음을
+    공명 벼슬길에 옮겨서 비교해 보자
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: Crossing the Wooden Bridge over Water
+  author: Sin Cheon
+  language: eng
+  text: |-
+    A long branch is hewn and laid across the shallow rapids,
+    spraying frost and scattering snow, stirring the frightened waves.
+    In but a moment, step by step, the mind arrives at the abyss—
+    shift your gaze to the path of fame and office.
+  footnotes:
+  - key: ''
+    value: The wooden bridge serves as a metaphor for the precarious journey through life and worldly ambition. The crossing from solid branch to deep water parallels the transition from modest simplicity to the dangerous allure of official rank and renown.

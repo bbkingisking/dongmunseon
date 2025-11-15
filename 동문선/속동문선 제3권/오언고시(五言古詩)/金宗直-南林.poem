@@ -1,0 +1,65 @@
+canonical:
+  title: 南林
+  author: 金宗直
+  language: lzh
+  text: 耽耽南林虎擇肉坊郭閒夜夜恣橫行白日眠榛菅我聞投袂起意欲摧其斑遂徵爪牙士鼓角騰蒼巒返照射翠密白羽驚朱殷更長火圍暗天若保凶姦鷄鳴失所在回首愁重山儒將古來少聊且偃旗還
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 南林
+  author: 金宗直
+  language: lzh
+  text: 耽耽南林虎。擇肉坊郭閒。夜夜恣橫行。白日眠榛菅。我聞投袂起。意欲摧其斑。遂徵爪牙士。鼓角騰蒼巒。返照射翠密。白羽驚朱殷。更長火圍暗。天若保凶姦。鷄鳴失所在。回首愁重山。儒將古來少。聊且偃旗還。
+korean:
+  title: 10월 18일에 남림
+  author: 김종직
+  language: kor
+  text: |-
+    위풍 있게 엿보는 남림의 범이
+    인가에 내려와 먹이를 찾아
+    밤마다 멋대로 횡행하면서
+    대낮에도 숲속에 잔다 하기에
+    내가 듣고 후닥닥 팔을 걷고 일어나
+    기어이 그 범을 잡고야 말려고
+    드디어 사졸들을 징집하여서
+    고각이 푸른 뫼를 들끓이었네
+    석양이 뉘엿뉘엿 산을 비칠 때
+    백우전이 늙은 피를 쏟게 하여서
+    기나 긴 밤 불 피우고 둘러 앉았더니
+    하늘이 흉간을 살려 준 듯
+    닭이 울자 그만 간 곳 모르니
+    돌아보매 겹겹의 산들이 걱정 되네
+    유장은 예로부터 적은 터이니
+    애오라지 기를 누이고 돌아올 밖에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유장(儒將) : '
+    value: 유자(儒者)로서 장수가 된 사람이다. 여기서 자기는 유자이기 때만에 장수의 자격이 없다는 뜻이다.
+english:
+  title: The Tiger of the Southern Forest
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    There prowls a tiger in the Southern Forest,
+    Slipping down to the villages to feast,
+    Ranging wild through each night,
+    Sleeping in the thickets even by day.
+
+    Hearing this, I rose with sudden fury,
+    Determined to crush the beast's spotted hide.
+    I mustered soldiers and drew my blade,
+    And war drums thundered through the green peaks.
+
+    As sunset's glow swept the mountainside,
+    White-feathered arrows drank deep crimson blood.
+    Throughout the endless night we circled with fire,
+    Thinking Heaven itself protected the demon.
+
+    When the rooster crowed, it had vanished—
+    None could say where it fled.
+    Turning back, I gazed at the layered mountains with dread.
+    For a scholar-general is rare in this world,
+    So I can only lower my banner and return.
+  footnotes:
+  - key: ''
+    value: A 'scholar-general' (유장) refers to one who has become a military commander despite being a Confucian scholar—a rare combination. The poet uses this self-awareness to acknowledge the limits of his authority and wisdom in pursuing the tiger.

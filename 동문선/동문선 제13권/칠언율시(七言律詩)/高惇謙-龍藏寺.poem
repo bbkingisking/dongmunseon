@@ -1,0 +1,47 @@
+canonical:
+  title: 龍藏寺
+  author: 高惇謙
+  language: lzh
+  text: 絶勝峯巒玉一叢新開小閣壓靑空憑凌洞壑淸虛裏映帶煙霞縹緲中雪後客登銀色界月明人卧水精宮吾師宴坐無心處檻外嘐嘐萬竅風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 龍藏寺
+  author: 高惇謙
+  language: lzh
+  text: 絶勝峯巒玉一叢。新開小閣壓靑空。憑凌洞壑淸虛裏。映帶煙霞縹緲中。雪後客登銀色界。月明人卧水精宮。吾師宴坐無心處。檻外嘐嘐萬竅風。
+korean:
+  title: 용장사
+  author: 고돈겸
+  language: kor
+  text: |-
+    한 떨기 옥인 양 절승한 봉우리에
+    새로 지은 조그만 누각이 반공에 솟았네
+    맑고 빈 골짝에 우뚝한 가운데
+    아득히 안개와 놀을 띠었구나
+    눈 온 뒤에 오르는 손은 은세계에 노니는 듯
+    달 밝은 밤에 사람들은 수정궁에 누워 있네
+    저 스님 무심히 앉아 있는 곳
+    난간 밖 바람소리가 솨솨 하누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Dragon Repository Temple
+  author: Ko Dun-gyeom
+  language: eng
+  text: |-
+    A solitary peak gleams like jade, supreme and perfect,
+    A newly built pavilion rises against the azure sky.
+    Within the clarity of emptied ravines,
+    Misty clouds trail their gossamer veils.
+    After snow, visitors ascend to a realm of silver,
+    Beneath the moon, souls rest in palaces of crystal.
+    The master sits in thoughtless meditation,
+    While beyond the railings, the wind sighs through ten thousand hollows.
+  footnotes:
+  - key: ''
+    value: Dragon Repository Temple (龍藏寺) is a Buddhist monastery; the poem celebrates both its architectural beauty and spiritual significance.
+  - key: ''
+    value: The imagery of 'silver' and 'crystal' palace evoke Buddhist cosmology and the transcendent beauty perceived through spiritual practice.
+  - key: ''
+    value: The final image of wind through 'ten thousand hollows' suggests the presence of the divine permeating all natural forms, a common motif in East Asian Buddhist poetry.

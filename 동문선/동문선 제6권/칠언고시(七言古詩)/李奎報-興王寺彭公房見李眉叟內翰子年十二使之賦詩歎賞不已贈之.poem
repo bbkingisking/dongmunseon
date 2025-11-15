@@ -1,0 +1,59 @@
+canonical:
+  title: 興王寺彭公房見李眉叟內翰子年十二使之賦詩歎賞不已贈之
+  author: 李奎報
+  language: lzh
+  text: 片雲紺髮覆額新雙電光寒猛射人彭公鑒識眞天眼撫頂云是天騏驎一篇新詩風雨快萬丈雄氣江海溢鳳子鸞雛有異毛瑤泉玉水無凡派何必王家珠樹三迺翁生兒靑出藍殷勤寄謝李眉叟不如還與阿戎談
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 興王寺彭公房見李眉叟內翰子年十二使之賦詩歎賞不已贈之
+  author: 李奎報
+  language: lzh
+  text: 片雲紺髮覆額新。雙電光寒猛射人。彭公鑒識眞天眼。撫頂云是天騏驎。一篇新詩風雨快。萬丈雄氣江海。溢鳳子鸞雛有異毛。瑤泉玉水無凡派。何必王家珠樹三。迺翁生兒靑出藍。殷勤寄謝李眉叟。不如還與阿戎談。
+korean:
+  title: 흥왕사 팽공 방이 이미수 내한의 아들을 보니 나이 열두 살이라, 시를 짓게 하여 보고 칭찬해 마지 아니하면서 이 글을 준다
+  author: 이규보
+  language: kor
+  text: |-
+    조각 구름 검푸른 머리가 이마 덮어 새로운데
+    번쩍이는 두 눈빛이 차디차게 쏘아 본다
+    팽공의 밝은 지식은 참으로 하늘 눈이어서
+    정수리 어루만지며 이것은 하늘 기린이다 하였다
+    한 편의 새로운 시는 풍우처럼 빠른데
+    만 길의 웅장한 기운은 강과 바다처럼 넘친다
+    봉 새끼와 난새 새끼는 이상한 털이 있고
+    요천과 옥수에 보통 흐름이 없나니
+    어찌 꼭 왕가에만 세 그루 구슬나무 있으랴
+    이 첨지 아기 낳으매 쪽보다 더 푸르다
+    은근히 이미수에게 말하자니
+    아융과 이야기하는 것보다 도리어 못하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 왕가(王家)에만 …… 있으랴 : '
+    value: 당나라 왕발(王勃)의 삼형제(三兄弟)가 모두 글을 잘하므로 두이간(杜易簡)이, “왕씨 집의 세 구슬나무라[王家三珠樹].”고 칭찬하였다.
+  - key: '[주-D001] 予 : '
+    value: 子
+english:
+  title: At Xingwang Temple, Seeing the Twelve-Year-Old Son of Yi Meishu, the Royal Scribe, Presented by Master Peng of the Temple After Marveling at His Poem
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    A wisp of cloud—dark hair crowns the brow, fresh and new.
+    Two flashing eyes shoot forth their cold, piercing light.
+    Master Peng's discerning wisdom is the very eye of heaven;
+    He strokes the crown and says, "This is heaven's qilin."
+
+    One new poem flows swift as wind and rain,
+    Vast energy surges like the Yangtze and sea.
+    The phoenix chick and luan chick bear extraordinary plumage;
+    Jade spring and precious water flow with no common current.
+
+    Why speak only of the Wang family's three pearl trees?
+    When this elder's son is born, his brilliance surpasses even the blue.
+    I wish to convey my heartfelt praise to Yi Meishu,
+    Yet even speaking with Ayong himself would scarce suffice.
+  footnotes:
+  - key: ''
+    value: The 'three pearl trees' refers to the three talented brothers of Wang Bo of the Tang Dynasty, whom Du Yijian praised as 'the three pearl trees of the Wang household,' an allusion suggesting exceptional literary talent runs in families.
+  - key: ''
+    value: Ayong (阿庸) likely refers to a figure of exceptional wisdom or virtue from classical sources, invoked here as a standard of excellence.

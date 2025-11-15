@@ -1,0 +1,33 @@
+canonical:
+  title: 箕子殿時祭祝文
+  author: 尹淮
+  language: lzh
+  text: 九疇是陳萬世之彝倫乃敍八條爲敎東方之禮俗以興玆値仲秋聿修明薦
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 箕子殿時祭祝文
+  author: 尹淮
+  language: lzh
+  text: 九疇是陳。萬世之彝倫乃敍。八條爲敎。東方之禮俗以興。玆値仲秋。聿修明薦。
+korean:
+  title: 기자전에 올리는 시제의 축문
+  author: 윤회
+  language: kor
+  text: 구주(九疇)를 베푸시니, 만대(萬代)의 떳떳한 윤리가 퍼졌으며, 팔조(八條)의 가르침을 펴시니, 우리나라의 예속이 일어났습니다. 이에, 중추절을 당하여 삼가 맑은 천사(薦祀)를 거행합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구주(九疇) : '
+    value: 천하를 다스리는 아홉 개의 법으로 오행(五行)ㆍ오사(五事)ㆍ팔정(八政)ㆍ오기(五紀)ㆍ황극(皇極)ㆍ삼덕(三德)ㆍ계의(稽疑)ㆍ서징(庶徵)ㆍ오복(五福)의 구법(九法)인데 《서경(書經)》에 있다.
+english:
+  title: Sacrificial Prayer Offered at the Shrine of Kija
+  author: Yun Hoe
+  language: eng
+  text: The Nine Principles are laid forth—the eternal moral order of ten thousand ages finds its place. The Eight Precepts are proclaimed—the rites and customs of the Eastern realm take root and flourish. Now, as autumn's midpoint arrives, we reverently present this clear offering, respectful and sincere.
+  footnotes:
+  - key: ''
+    value: 'The Nine Principles (구주) refer to the nine fundamental laws of governance found in the Book of History: the Five Elements, Five Duties, Eight Policies, Five Records, Supreme Norm, Three Virtues, Verification through Divination, Auspicious Signs, and Five Blessings.'
+  - key: ''
+    value: Kija (기자) was a legendary sage-king of ancient Korea, credited with bringing Chinese civilization and moral teachings to the Korean peninsula.
+  - key: ''
+    value: This is a ritual prayer (축문) to be recited during the autumn sacrifice (時祭) held at Kija's shrine, likely during the Chuseok festival (중추절, mid-autumn).

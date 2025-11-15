@@ -1,0 +1,45 @@
+canonical:
+  title: 書懷
+  author: 柳洵
+  language: lzh
+  text: 龍鍾七十歲高卧是前期暖突坐常戀枯筇出每持兒孫閑處伴書卷病中醫浩笑塵機外身謀獨自奇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書懷
+  author: 柳洵
+  language: lzh
+  text: 龍鍾七十歲。高卧是前期。暖突坐常戀。枯筇出每持。兒孫閑處伴。書卷病中醫。浩笑塵機外。身謀獨自奇。
+korean:
+  title: 서회
+  author: 유순
+  language: kor
+  text: |-
+    나이 이미 70이 되었거니
+    높이 눕는 것 전날의 기약이라
+    앉을 때는 언제나 온돌을 생각하고
+    나갈 때는 매양 지팡이를 가진다
+    아들 손자는 한가한 곳의 벗이요
+    서책은 항상 앓을 때의 의원이라
+    티끌 세상 밖에서 크게 웃나니
+    몸은 홀로 스스로 기이하기 꾀한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_1060&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections on My Life
+  author: Yu Sun
+  language: eng
+  text: |-
+    Seventy years have bent this weary frame,
+    Reclining high was my long-cherished dream.
+    Warm ondol calls whenever I must sit,
+    And walking out, my staff becomes my friend.
+    Grandchildren gather in leisure's gentle space,
+    While books prescribe their healing balm for pain.
+    I laugh beyond the dust of worldly strife—
+    And find it strange that solitude suffices.
+  footnotes:
+  - key: ''
+    value: Ondol (온돌) refers to the traditional Korean underfloor heating system, suggesting comfort and domestic contentment in old age.
+  - key: ''
+    value: The poem contrasts withdrawal from worldly concerns ('dust of worldly strife') with a serene acceptance of simple domestic pleasures and intellectual pursuits.

@@ -1,0 +1,37 @@
+canonical:
+  title: 澄心軒次韻
+  author: 金壽童
+  language: lzh
+  text: 風生珍簟翠紋流竹影波光滿箔秋莫遣渚禽啼夜月樓中宿客動覊愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 澄心軒次韻
+  author: 金壽童
+  language: lzh
+  text: 風生珍簟翠紋流。竹影波光滿箔秋。莫遣渚禽啼夜月。樓中宿客動覊愁。
+korean:
+  title: 징심헌 차운
+  author: 김수동
+  language: kor
+  text: |-
+    자리에 바람 나서 푸른 무늬 흐르는 듯
+    대 그림자 물결 빛 한 주렴에 가득하구나
+    물새 시키어서 달밤에 우지 마오
+    누 속에 묵는 객이 시름 절로 나노매라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: Following the Rhymes at Cheongsim Pavilion
+  author: Kim Su-dong
+  language: eng
+  text: |-
+    Wind stirs the precious mat, jade patterns seeming to flow.
+    Bamboo shadows and water's gleam fill the entire autumn screen.
+    Do not let the river birds cry through the moonlit night—
+    A guest lodging in the tower feels wandering sorrow awaken.
+  footnotes:
+  - key: ''
+    value: Cheongsim Pavilion (澄心軒) was likely a study or retreat space, and this poem follows the rhyme scheme of an earlier poem written about or at this location.
+  - key: ''
+    value: The 'precious mat' and 'jade patterns' evoke the refined aesthetics of a scholar's retreat, while bamboo remains a traditional symbol of virtue and integrity in East Asian poetry.

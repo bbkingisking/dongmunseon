@@ -1,0 +1,50 @@
+canonical:
+  title: 贈李湛之
+  author: 林椿
+  language: lzh
+  text: 去國同流落今朝復入關天敎雙劒合亂後幾珠還歲月粘衰鬢風霜改舊顔平生交分合猶喜更追攀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈李湛之
+  author: 林椿
+  language: lzh
+  text: 去國同流落。今朝復入關。天敎雙劒合。亂後幾珠還。歲月粘衰鬢。風霜改舊顔。平生交分合。猶喜更追攀。
+korean:
+  title: 증 이담지
+  author: 임춘
+  language: kor
+  text: |-
+    서울 떠나 함께 유락했더니
+    오늘 아침 다시 성안에 들어왔네
+    하늘이 시켜 두 검이 합했지만
+    난리 뒤에 몇 구슬이 돌아왔나
+    세월은 허연 머리에 붙어 있네
+    풍상에 옛 얼굴은 모두 달라지고
+    평생에 우리들 교분이 맞았는데
+    이제 또 추축하게 되니 그 기쁨이 어떠하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두 검(劍)이 합했지만 : '
+    value: 진나라 장화(張華)가 뇌환(雷煥)을 시켜 풍성(豐城)의 옥터[獄基]를 파서 보검(寶劍)한 쌍을 얻었는데, 하나는 장화가 가지고 하나는 뇌환이 가졌었다. 장화가 화(禍)를 당하여 죽은 뒤에 칼이 어디 간지를 몰랐다. 뇌환이 죽은 뒤에 그 아들이 그 칼을 차고 연평진(延平津)을 건너가다 칼이 문득 칼집에서 빠져 나와서 강물 속에 뛰어 들어갔다. 잠수부(潛水夫)를 시켜 물속에 들어가 보니 두 용[雙龍]이 서리어 있었다. 뇌환의 아들이 말하기를, “전일에 선공(先公 돌아간 아버지)이 이 칼은 신물(神物)이므로 반드시 끝에 가서는 서로 합쳐질 것이라 하더니, 과연 오늘에 두 칼이 서로 합친 것이다.” 하였다.
+  - key: '[주-D002] 구슬 : '
+    value: 합포(合浦)에 구슬이 많이 나는데, 수령(守令)들이 탐하고 더러운 탓으로 구슬이 차츰 교지(交趾)로 옮아가더니, 맹상(孟嘗)이 합포태수가 되어 선정(善政)을 하매 갔던 구슬이 다시 돌아왔다 한다. 《後漢書 孟嘗傳》
+english:
+  title: A Gift for Yi Dam-ji
+  author: Lim Chun
+  language: eng
+  text: |-
+    We fled the capital together, both cast adrift,
+    Yet this morning we cross back through the gates.
+    Heaven ordained the twin swords should reunite—
+    How many pearls have found their way home after the chaos?
+
+    Years cling like frost upon my graying hair,
+    Wind and time have weathered my old face beyond knowing.
+    Though the bonds of friendship have their seasons,
+    What joy it is to seek and climb together once more.
+  footnotes:
+  - key: ''
+    value: 'The ''twin swords'' alludes to a famous legend from Chinese antiquity: two sacred swords were separated between two men, Zhang Hua and Lei Huan. After Zhang Hua''s death and ruin, Lei Huan''s descendant carried one sword across the river. It suddenly leapt from its sheath into the water, where divers found two dragons entwined beneath the surface. This symbolizes destined reunion.'
+  - key: ''
+    value: The 'pearls' reference the pearls of Hepu, which ceased to be harvested when corrupt officials ruled the region. When the virtuous Meng Chang became governor, the pearls mysteriously returned. This symbolizes the restoration of what was lost through righteous governance.

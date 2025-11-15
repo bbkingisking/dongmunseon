@@ -1,0 +1,37 @@
+canonical:
+  title: 鷰尋玉京
+  author: 李齊賢
+  language: lzh
+  text: 翩翩隻燕訪空閨應感佳人惜別詩相對知心不知語一庭風雨落花時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鷰尋玉京
+  author: 李齊賢
+  language: lzh
+  text: 翩翩隻燕訪空閨。應感佳人惜別詩。相對知心不知語。一庭風雨落花時。
+korean:
+  title: 연심옥경
+  author: 이제현
+  language: kor
+  text: |-
+    훨훨 날으는 한 쌍 제비가 공규를 찾은 것은
+    아마 아리따운 사람의 석별의 시에 감동되었음이리라
+    서로 대해 마음은 아나 말을 하지 못했거니
+    한 뜰의 바람비에 꽃 떨어질 때이리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 연심옥경(鷰尋玉京) : '
+    value: 혜원법사(惠遠法師)가 여산(盧山)에 있을 때에 손을 전송하였으되 호계(虎溪)를 넘지 않았는데, 만일 거기를 지나면 범이 소리를 질렀으므로 호계(虎溪)라 하였다. 하루는 도연명(陶淵明)과 도사(道士)  육수정(陸修靜)을 전송하면서 이야기를 하다가 호계를 넘는 줄 몰랐다가 깨닫고는 세 사람이 일제히 웃었다. 후인(後人)들이 삼소도(三笑圖)를 그려서 전하는 이가 있었다. 이 시의 뜻은 세 사람의 웃음이 세상 사람들이 유(儒)ㆍ불(佛)ㆍ도(道)의 본의가 같음을 모른다는 것을 웃었다는 뜻이다.
+english:
+  title: A Swallow Seeks the Jade Capital
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    A solitary swallow flutters, visiting the empty chamber—
+    Perhaps moved by the parting verses of a lovely soul.
+    Facing one another, our hearts know, yet words fail us;
+    In the garden where wind and rain scatter the flowers.
+  footnotes:
+  - key: ''
+    value: The title alludes to the famous "Three Laughs" story of Huiyuan, Tao Yuanming, and Lu Xiujing at Tiger Gorge, where the three representatives of Buddhist, Daoist, and Confucian traditions realized their paths converge—suggesting that understanding transcends the divisions of the world.

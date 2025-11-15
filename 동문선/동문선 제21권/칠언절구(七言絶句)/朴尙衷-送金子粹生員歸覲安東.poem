@@ -1,0 +1,39 @@
+canonical:
+  title: 送金子粹生員歸覲安東
+  author: 朴尙衷
+  language: lzh
+  text: 浩然歸志白雲秋大學諸生可得留侍奉高堂應不暇那堪一醉暎湖樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送金子粹生員歸覲安東
+  author: 朴尙衷
+  language: lzh
+  text: 浩然歸志白雲秋。大學諸生可得留。侍奉高堂應不暇。那堪一醉暎湖樓。
+korean:
+  title: 송김자수생원귀근안동
+  author: 박상충
+  language: kor
+  text: |-
+    호연히 돌아갈 뜻 흰 구름 가을인데
+    태학의 여러 유생들 붙들 수 있겠는가
+    고당을 모셔 받드느라 틈이 없으리니
+    어찌 저 영호루에서 한 번 취할 수 있으랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0590&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off Kim Ja-su, Student of the National Academy, as He Returns to Andong to Pay Respects to His Parents
+  author: Park Sang-choong
+  language: eng
+  text: |-
+    With resolute heart to return, white clouds fill the autumn sky—
+    How could the students of the Great Academy persuade him to stay?
+    Attending to his aging parents leaves him no spare moment,
+    So how could he linger drunk upon the Yinghu Pavilion tower?
+  footnotes:
+  - key: ''
+    value: The Great Academy (太學) refers to the national university where promising scholars studied.
+  - key: ''
+    value: Yinghu Pavilion (暎湖樓) was a famous pavilion associated with leisure and drinking, representing the temptations of the capital that the recipient must leave behind.
+  - key: ''
+    value: The poem celebrates the recipient's filial duty, portraying his return home as more compelling than the pleasures of scholarly life in the capital.

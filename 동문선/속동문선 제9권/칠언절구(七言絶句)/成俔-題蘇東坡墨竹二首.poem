@@ -1,0 +1,50 @@
+canonical:
+  title: 題蘇東坡墨竹二首
+  author: 成俔
+  language: lzh
+  text: 與可襟胷逈脫塵雪堂分得十分新至今留𨁯鵝溪繭千載知音會有人風戰婆娑散不收一林淸趣飽高秋恍驚閙耳蕭蕭響夢卧瀟湘閣岸舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題蘇東坡墨竹二首
+  author: 成俔
+  language: lzh
+  text: 與可襟胷逈脫塵。雪堂分得十分新。至今留𨁯鵝溪繭。千載知音會有人。風戰婆娑散不收。一林淸趣飽高秋。恍驚閙耳蕭蕭響。夢卧瀟湘閣岸舟。
+korean:
+  title: 제 소동파 묵죽 이수
+  author: 성현
+  language: kor
+  text: |-
+    여가의 마음 속은 멀리 티끌을 벗어났나니
+    설당에서 나누어 얻으매 완전히 새롭구나
+    지금에 그 자취를 아계의 고치에 남기었거니
+    천재의 지음하되 응당 사람 있으리라
+    바람이 우수수 흔들어 떨어진 것 거두지 않나니
+    한 숲의 맑은 흥취가 높은 가을에 배불렀다
+    귀에 시끄러운 소소한 소리에 홀리고 놀라다가
+    꿈에는 소상각 언덕밑의 배에 누웠다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0810&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여가(與可) : '
+    value: 송나라의 문인화가(文人畵家)인 문동(文仝)의 자이다. 그는 대[竹]를 잘 그렸으므로 소동파가 그에게 대 그리는 법을 배웠다.
+english:
+  title: Two Poems on Su Dongpo's Ink Bamboo
+  author: Seong Hyeon
+  language: eng
+  text: |-
+    Yuke's heart transcends the dust of the world—
+    At Snow Hall he received his share, wholly renewed.
+    Yet his traces remain in the cocoons of Gokchestream,
+    And through a thousand years, kindred spirits shall surely come.
+
+    Wind buffets and scatters without gathering again,
+    One grove of clarity drunk deep in the high autumn.
+    Startled by the whisper of noise at my ear,
+    I dream myself lying in a boat beneath Soyang's bank.
+  footnotes:
+  - key: ''
+    value: Yuke (與可) was the courtesy name of Wen Tong, a literati-painter of the Song Dynasty renowned for his bamboo paintings. Su Dongpo learned the art of painting bamboo from him.
+  - key: ''
+    value: Snow Hall (雪堂) and Gokchestream (鵝溪) refer to places associated with Su Dongpo and the tradition of ink bamboo painting.
+  - key: ''
+    value: Soyang (瀟湘) evokes the misty rivers of southern China, a classical setting for poetic reverie.

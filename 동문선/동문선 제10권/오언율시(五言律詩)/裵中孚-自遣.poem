@@ -1,0 +1,44 @@
+canonical:
+  title: 自遣
+  author: 裵中孚
+  language: lzh
+  text: 吾愛吾廬好終年掩竹扉檢書尋古架換酒典朝衣水淺魚猶樂林深鳥自歸怡然觀物化不是避人譏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自遣
+  author: 裵中孚
+  language: lzh
+  text: 吾愛吾廬好。終年掩竹扉。檢書尋古架。換酒典朝衣。水淺魚猶樂。林深鳥自歸。怡然觀物化。不是避人譏。
+korean:
+  title: 자견
+  author: 배중부
+  language: kor
+  text: |-
+    나는 나의 집 좋다고 사랑하여
+    종년토록 대싸립을 닫고 사네
+    책을 찾으려고 옛 서가를 뒤지고
+    술과 바꾸려고 조복을 잡히네
+    물은 얕아도 물고기들이 오히려 좋아하고
+    숲이 짙으매 산새들은 절로 돌아오네
+    즐겁게 물화를 보려 함이니
+    인간의 말썽을 피하려함도 아니네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0240&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Consolation
+  author: Bae Joong-bu
+  language: eng
+  text: |-
+    I cherish my humble dwelling well,
+    All year I keep the bamboo gate closed.
+    I search through ancient shelves for books,
+    And trade my court robes for wine.
+
+    Though shallow, the waters delight the fish,
+    And deep in the woods, birds return of their own.
+    Contentment comes from watching all things transform—
+    Not from fleeing the world's sharp tongue.
+  footnotes:
+  - key: ''
+    value: The bamboo gate represents the poet's retreat from official life. 'Court robes' (朝衣) symbolize his abandonment of bureaucratic ambition. The poem suggests that his withdrawal is philosophical rather than escapist—he observes the natural world's harmony and finds peace in understanding impermanence.

@@ -1,0 +1,37 @@
+canonical:
+  title: 寄金鐘寺淸長老
+  author: 郭㻒
+  language: lzh
+  text: 睡起思舊友擧頭望松山淸風吹不盡白雲心自閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄金鐘寺淸長老
+  author: 郭㻒
+  language: lzh
+  text: 睡起思舊友。擧頭望松山。淸風吹不盡。白雲心自閑。
+korean:
+  title: 기 금종사 청장로
+  author: 곽균
+  language: kor
+  text: |-
+    자다가 일어나 옛 벗을 생각하고
+    머리 들어 송산을 바라보네
+    맑은 바람은 불어서 다하지 않거니
+    흰 구름에 마음이 절로 한가하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0380&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to the Venerable Cheong at Geumjong Temple
+  author: Gwak Gyun
+  language: eng
+  text: |-
+    Waking from sleep, I think of an old friend,
+    I lift my head and gaze toward Pine Mountain.
+    The clear wind blows on without end,
+    And my heart grows naturally idle in the white clouds.
+  footnotes:
+  - key: ''
+    value: Pine Mountain (松山) likely refers to a specific sacred mountain near Geumjong Temple, a place of spiritual significance.
+  - key: ''
+    value: The poem contrasts the restless act of remembrance with the natural tranquility found in contemplating landscape, suggesting that connection with nature may transcend the distance between distant friends.

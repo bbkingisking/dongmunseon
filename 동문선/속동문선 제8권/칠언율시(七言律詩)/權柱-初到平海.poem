@@ -1,0 +1,45 @@
+canonical:
+  title: 初到平海
+  author: 權柱
+  language: lzh
+  text: 瘴雲篩雨濕柴荊十日何曾見一晴欹枕不堪群蚤集臨飧還苦亂蠅鳴獰蛇欝屈椽閒動紫蟻縱橫席上行何處堂高塵不到捲簾高卧夢蓬瀛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 初到平海
+  author: 權柱
+  language: lzh
+  text: 瘴雲篩雨濕柴荊。十日何曾見一晴。欹枕不堪群蚤集。臨飧還苦亂蠅鳴。獰蛇欝屈椽閒動。紫蟻縱橫席上行。何處堂高塵不到。捲簾高卧夢蓬瀛。
+korean:
+  title: 초도 평해
+  author: 권주
+  language: kor
+  text: |-
+    장기낀 구름이 비를 체질하여 가시 사립문을 적시는데
+    열흘 동안 한 번도 개는 날 못 보겠네
+    베개를 의지하매 모여드는 벼룩떼에 견디지 못하겠고
+    밥상을 대하면 어지러운 파리 소리에 괴롭도다
+    모진 뱀은 서까래 사이에서 꿈틀거리는데
+    자줏빛 개미는 자리 위에 이리저리 다닌다
+    어느 곳에서는 집이 높아 티끌이 이르지 않아서
+    발을 걷고 높이 누워 봉영을 꿈꾸는고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 봉영(蓬瀛) : '
+    value: 봉래산(蓬萊山)ㆍ영주산(瀛洲山)의 신선이 사는데를 말한 것이다.
+english:
+  title: First Arriving at Pinghai
+  author: Kwon Ju
+  language: eng
+  text: |-
+    Miasmic clouds strain the rain, drenching the thorny gate,
+    Yet ten days pass without a single clear sky.
+    Leaning on my pillow, I cannot bear the gathering fleas,
+    And at my meal, tormented by the chaos of buzzing flies.
+    Ferocious serpents writhe between the rafters,
+    Purple ants march in lines across my mat.
+    Where is that lofty hall dust cannot reach?
+    I roll up my curtains and lie high, dreaming of the islands of the immortals.
+  footnotes:
+  - key: ''
+    value: Bongying (蓬瀛) refers to the mythical mountains Penglai and Yingzhou, legendary dwelling places of the Immortals in Chinese tradition—here symbolizing an idealized refuge from earthly misery.

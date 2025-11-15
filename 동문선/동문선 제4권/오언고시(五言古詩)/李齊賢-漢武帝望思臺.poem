@@ -1,0 +1,66 @@
+canonical:
+  title: 漢武帝望思臺
+  author: 李齊賢
+  language: lzh
+  text: 漢皇好奇士江充來犬臺舌端寄毒螫肚裏藏禍胎狺狺吠舊主全趙飛驚灰茂陵自英武將相多賢才胡爲不絜矩利祿崇奸回天倫化豺虎戾園空草萊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漢武帝望思臺
+  author: 李齊賢
+  language: lzh
+  text: 漢皇好奇士。江充來犬臺。舌端寄毒螫。肚裏藏禍胎。狺狺吠舊主。全趙飛驚灰。茂陵自英武。將相多賢才。胡爲不絜矩。利祿崇奸回。天倫化豺虎。戾園空草萊。
+korean:
+  title: 한 무제 망사대
+  author: 이제현
+  language: kor
+  text: |-
+    한나라 임금은 기사를 좋아하여
+    강충이 견대궁으로 왔네
+    혀 끝에는 사람 쏘는 독한 벌레 붙었고
+    뱃속에는 뱃속에서 앙화의 태를 간직하였네
+    으르렁 왈왈 옛 주인을 짖어대니
+    온 조나라가 놀란 재 되어 날았거니
+    무릉(무제)은 스스로 영무로 왔기에
+    장수와 정승의 어진 재목 많았네
+    어째서 미루어 생각 못 하고
+    간특한 놈에게 녹을 주었던가
+    천륜이 승냥이나 범으로 화하여
+    여원에 속절없이 풀만 우거졌었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한 무제 망사대(漢武帝望思臺) : '
+    value: 무제의 태자가 모함을 받자 강충을 죽이고 무제의 노여움을 두려워하여 자살하니 무제가 후회하여 망사대를 지어 아들을 생각하였다.
+  - key: '[주-D002] 으르렁 …… 짖어대니 : '
+    value: 강충은 조왕(趙王)의 신하로서, 무제에게 조왕의 죄악을 고발하였다.
+  - key: '[주-D003] 어째서 …… 못 하고 : '
+    value: 강충은 조왕의 신하로서 조왕을 배신하였으니, 장차 한(漢)나라에 대하여서도 배반할 것을 왜 미루어 생각하지 않았는가 하는 뜻이다.
+  - key: '[주-D004] 여원(戾園) : '
+    value: 무제의 태자가 죽은 뒤에 시호[諡]를 여태자(戾太子)라 하고, 뒤에 그 무덤을 여원(戾園)이라 하였다.
+english:
+  title: Emperor Wu of Han Contemplates from the Tower of Longing
+  author: Lee Je-hyun
+  language: eng
+  text: |-
+    The Han emperor loved men of unusual talent.
+    Jiang Chong came to the Keeper of Dogs' tower.
+    Poison dripped from his tongue like a viper's fang,
+    While in his belly he nursed the seeds of ruin.
+
+    Growling and barking, he bit the hand of his old master,
+    And all of Zhao became ash scattered on the wind.
+    The Emperor himself was valiant and strong,
+    With generals and ministers of true wisdom arrayed.
+
+    Why then did he not see the signs ahead?
+    Why grant favor to deceit and treachery?
+    Human bonds turned to jackals and tigers,
+    And the garden of the heir grows wild with grass alone.
+
+    Now from this tower he looks and grieves,
+    Remembering what cannot be undone.
+  footnotes:
+  - key: ''
+    value: This poem concerns the tragedy of Emperor Wu's heir apparent, who was falsely accused by the informer Jiang Chong. The heir, fearing the emperor's wrath, took his own life. Jiang Chong, originally a servant to the King of Zhao whom he had betrayed to the Emperor, became the instrument of this catastrophe.
+  - key: ''
+    value: The 'Tower of Longing' was built by Emperor Wu after his son's death to commemorate him, standing as a monument to remorse and the irreversible consequences of misplaced trust.

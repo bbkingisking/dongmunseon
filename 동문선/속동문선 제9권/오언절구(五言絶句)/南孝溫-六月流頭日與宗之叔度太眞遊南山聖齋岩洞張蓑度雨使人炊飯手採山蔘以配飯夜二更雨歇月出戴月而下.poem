@@ -1,0 +1,39 @@
+canonical:
+  title: 六月流頭日與宗之叔度太眞遊南山聖齋岩洞張蓑度雨使人炊飯手採山蔘以配飯夜二更雨歇月出戴月而下
+  author: 南孝溫
+  language: lzh
+  text: 老子老持律詩扁已戒荒溪山起我病馮婦下車忙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 六月流頭日與宗之叔度太眞遊南山聖齋岩洞張蓑度雨使人炊飯手採山蔘以配飯夜二更雨歇月出戴月而下
+  author: 南孝溫
+  language: lzh
+  text: 老子老持律。詩扁已戒荒。溪山起我病。馮婦下車忙。
+korean:
+  title: 6월 유두날에 종지ㆍ숙도ㆍ태진과 함께 남산성 재암동에 놀러가서 도롱이를 펴 비를 피하며, 사람을 시켜 밥을 짓고 손수 산삼을 캐어 반찬을 하였다. 밤 오경이나 되어서 비가 그치고 달이 나와서 달빛을 보며 내려 왔다.
+  author: 남효온
+  language: kor
+  text: |-
+    늙은이가 늙어서도 율을 가지며
+    시편에서 이미 계가 거칠었다
+    시내와 산이 내 병을 일으키는데
+    풍부는 수레에서 내리기가 바쁘다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 풍부(馮婦)는……바쁘다 : '
+    value: 옛날 진(晉)나라의 호랑이를 손으로 때려 잡았다는 사람인데, 나중에는 그런 짓한 것을 후회하고 다시는 잡지 않겠다고 맹세하였다. 그는 그 후에 차를 타고 길을 가다가 여러 사람이 호랑이를 쫓는 것을 보고 팔을 걷어 차에서 내려와 쫓아갔다는 맹자의 말이 있다.
+english:
+  title: On the Sixth Day of the Sixth Month, Traveling with Zongzhi, Shukdo, and Taizhen to the Sacred Precinct Rock Cavern of South Mountain—Spreading Out Rain Cloaks to Shelter from the Rain, Having Others Prepare Meals While I Gathered Mountain Ginseng by Hand to Accompany the Rice. As Night Deepened to the Second Watch, the Rain Ceased and the Moon Emerged; We Descended by Moonlight
+  author: Nam Hyowon
+  language: eng
+  text: |-
+    The old man grows old yet holds to discipline,
+    The psalms have long warned against excess.
+    Yet streams and mountains stir my ailments awake—
+    And Feng Fu, despite his oaths, descends from his carriage in haste.
+  footnotes:
+  - key: ''
+    value: Feng Fu (馮婦) alludes to a figure from Mencius who once caught tigers with his bare hands but later swore never to do so again. Yet seeing others chase a tiger, he could not resist—he rolled up his sleeves and leaped from his carriage to join the hunt. Here the poet uses this figure to suggest the irresistible pull of nature's call, contrasting with the discipline and restraint mentioned in the opening lines.
+  - key: ''
+    value: The title's elaborate detail—gathering wild ginseng by hand, eating simple fare, sheltering from rain together—suggests a literati outing that sought virtue and simplicity, yet the poem's conclusion hints at the difficulty of maintaining such resolve against life's compelling movements.

@@ -1,0 +1,35 @@
+canonical:
+  title: 七站途中
+  author: 偰遜
+  language: lzh
+  text: 千山飛雪曉糢糊忽放新晴學畫圖不似江南春二月石橋流水浴雙鳧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 七站途中
+  author: 偰遜
+  language: lzh
+  text: 千山飛雪曉糢糊。忽放新晴學畫圖。不似江南春二月。石橋流水浴雙鳧。
+korean:
+  title: 칠참도중
+  author: 설손
+  language: kor
+  text: |-
+    산마다 나는 눈에 새벽이 희미하더니
+    갑자기 새로운 햇빛을 놓아 마치 그림 같아라
+    강남의 봄 이월달과 같지 않아서
+    돌다리 흐르는 물에 오리 한 쌍이 목욕하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1210&viewSync=OT
+  footnotes: []
+english:
+  title: Seven Stages Along the Way
+  author: Seol Son
+  language: eng
+  text: |-
+    A thousand mountains wrapped in flying snow at dawn's dim light—
+    Suddenly the sun breaks through, like brushstrokes on painted silk.
+    Unlike the spring of the southern lands in the second month,
+    A pair of ducks bathe where the stone bridge meets the flowing stream.
+  footnotes:
+  - key: ''
+    value: The 'seven stages' in the title refers to the stages of a journey, likely a travel record or diary entry marking one station along the way

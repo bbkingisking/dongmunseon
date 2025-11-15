@@ -1,0 +1,57 @@
+canonical:
+  title: 次李賀將進酒韻
+  author: 釋達全
+  language: lzh
+  text: 東方日高睡正濃夜光枕頭三丈紅鳳花半臂掛屛上呼兒質酒梨花風隆隆一搥呼月鼓醉擊珊瑚如意舞燭龍呀呀燒薄暮闌干啼作眞珠雨錦茵吐了復含巵千鍾一品兩塵土
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次李賀將進酒韻
+  author: 釋達全
+  language: lzh
+  text: 東方日高睡正濃。夜光枕頭三丈紅。鳳花半臂掛屛上。呼兒質酒梨花風。隆隆一搥呼月鼓。醉擊珊瑚如意舞。燭龍呀呀燒薄暮。闌干啼作眞珠雨。錦茵吐了復含巵。千鍾一品兩塵土。
+korean:
+  title: 차 이하 장진주운
+  author: 석달전
+  language: kor
+  text: |-
+    해는 높이 돋았는데 잠은 한창 폭들어
+    야광침 머리맡에 세 발이나 붉었네
+    봉과 꽃 그린 배자가 병풍에 걸린 것을
+    아이 불러 잡히고 이화풍(술이름)을 사오라네
+    두둥둥 한 번 북을 치며
+    취하여 산호 여의(방망이) 치면서 춤을 춘다
+    불을 머금은 촉룡이 황혼에 타면
+    난간에 눈물 흘려 진주비가 되는구나
+    비단 요에 토하고도 다시 잔을 드나니
+    천종록과 일품관이 둘 다 진토일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장진주(將進酒) : '
+    value: 당나라 이하(李賀)는 이름 높은 시인(詩人)인데 〈장진주(將進酒)〉란 제목으로 지은 시가 있다.
+  - key: '[주-D002] 불을 …… 촉룡(燭龍) : '
+    value: 촉룡(燭龍)은 신장(身長)이 천 리인데 입에 촛불을 머금고 천문(天門)에 비친다. 《山海經》
+english:
+  title: In Response to Li He's 'About to Drink Wine,' Using His Rhymes
+  author: Shi Daquan
+  language: eng
+  text: |-
+    The sun climbs high while sleep deepens its grip,
+    The luminous pillow glows three feet of crimson at my head.
+    A phoenix-flowered robe hangs upon the screen—
+    I call the boy to pawn it for wine, that pear-blossom breeze.
+
+    Boom! One strike of the moon-drum echoes,
+    Drunk, I dance with coral scepter in hand.
+    When the candle-dragon exhales fire at dusk,
+    Railing-hung tears transform to pearls of rain.
+
+    The silk cushion receives all, then reaches for the cup again,
+    A thousand chalices and finest vintage both turn to dust.
+  footnotes:
+  - key: ''
+    value: This poem responds to Li He's famous Tang Dynasty poem 'About to Drink Wine' (將進酒), employing the same rhyme scheme as an homage and creative challenge.
+  - key: ''
+    value: The candle-dragon (燭龍) is a mythological creature from ancient Chinese cosmology, described in the Classic of Mountains and Seas as a thousand-li-long being that holds flame in its mouth and illuminates the heavens.
+  - key: ''
+    value: The imagery of 'pear-blossom breeze' refers to a noted wine variety, adding layers of sensory and poetic association to the drinking theme.

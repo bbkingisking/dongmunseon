@@ -1,0 +1,39 @@
+canonical:
+  title: 帶雨題淸州東軒
+  author: 成俔
+  language: lzh
+  text: 畫屛高枕掩羅幃別院無人瑟已希爽氣滿簾新睡覺一庭微雨濕薔薇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 帶雨題淸州東軒
+  author: 成俔
+  language: lzh
+  text: 畫屛高枕掩羅幃。別院無人瑟已希。爽氣滿簾新睡覺。一庭微雨濕薔薇。
+korean:
+  title: 대우 제 청주 동헌
+  author: 성현
+  language: kor
+  text: |-
+    그림 병풍에 높은 베개 비단 휘장 가리웠나니
+    별원에 사람이 없고 비파 이미 드물었다
+    시원한 기운이 발에 차고 새로 잠이 깨었는데
+    온 뜰의 보슬비가 장미꽃을 적시더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0790&viewSync=OT
+  footnotes: []
+english:
+  title: 'Bearing Rain: Written at the Eastern Pavilion of Cheongju'
+  author: Seong Hyeon
+  language: eng
+  text: |-
+    Behind painted screens and high pillows, silk curtains drawn closed.
+    In the distant garden, no soul stirs—the lute strings grow silent.
+    Fresh winds drift through the latticed window; I wake from new sleep.
+    Across the courtyard, soft rain falls, dampening the roses.
+  footnotes:
+  - key: ''
+    value: The 'Eastern Pavilion' (東軒) likely refers to the poet's quarters or study in Cheongju, a provincial administrative center during the Joseon period.
+  - key: ''
+    value: The imagery of the lute (瑟) represents both the absence of music and, symbolically, the quietude of solitude and contemplation.
+  - key: ''
+    value: The final image of rain-dampened roses combines visual delicacy with a subtle melancholy, characteristic of Korean literati poetry of the era.

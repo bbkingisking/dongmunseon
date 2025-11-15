@@ -1,0 +1,37 @@
+canonical:
+  title: 朴杏山全之宅有題
+  author: 洪奎
+  language: lzh
+  text: 酒盞常須滿茶甌不用深杏山終日雨細細更論心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 朴杏山全之宅有題
+  author: 洪奎
+  language: lzh
+  text: 酒盞常須滿。茶甌不用深。杏山終日雨。細細更論心。
+korean:
+  title: 박행산 전지 댁에 제하며
+  author: 홍규
+  language: kor
+  text: |-
+    술잔은 모름지기 항상 가득해야 하느니
+    차 그릇은 반드시 가득 부을 필요가 없는 것일세
+    행산에 하루 종일 비가 오는데
+    다시 세세히 마음을 논하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0320&viewSync=OT
+  footnotes: []
+english:
+  title: Written at Park Haengsan's Cottage
+  author: Hong Gyui
+  language: eng
+  text: |-
+    Wine cups must always brim full,
+    Yet tea bowls need not overflow—
+    All day the rain falls on Apricot Mountain,
+    And in its gentle persistence, the heart finds discourse.
+  footnotes:
+  - key: ''
+    value: Apricot Mountain (杏山) refers to Park Haengsan's residence, playing on the character for 'apricot' (杏) in his name.
+  - key: ''
+    value: The poem contrasts the fullness required for wine with the restraint appropriate for tea, suggesting different approaches to life's pleasures and contemplation.

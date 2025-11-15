@@ -1,0 +1,37 @@
+canonical:
+  title: 晉陽留別
+  author: 全坦夫
+  language: lzh
+  text: 久住眞無計重來未必期人生百歲內長作一相思
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 晉陽留別
+  author: 全坦夫
+  language: lzh
+  text: 久住眞無計。重來未必期。人生百歲內。長作一相思。
+korean:
+  title: 진양 유별
+  author: 전탄부
+  language: kor
+  text: |-
+    오래 머무르자니 참으로 계책이 없는데
+    거듭 오는 일 기약하기 어려워라
+    인생 백 년 안에
+    길이 상사 한 가지만 짓누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Parting at Jinyang
+  author: Jeon Tanbu
+  language: eng
+  text: |-
+    Long have I lingered here, yet find no way to stay.
+    To return again, I dare not fix a time.
+    Within a hundred years of mortal life,
+    I am left with only this enduring longing.
+  footnotes:
+  - key: ''
+    value: Jinyang (晉陽) refers to an ancient region, likely a place of significance in the poet's journey or emotional landscape.
+  - key: ''
+    value: The poem plays on the tension between the desire to remain and the impossibility of permanence—a common theme in East Asian poetry of parting and separation.

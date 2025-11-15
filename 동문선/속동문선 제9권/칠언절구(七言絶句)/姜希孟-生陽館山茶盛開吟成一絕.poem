@@ -1,0 +1,37 @@
+canonical:
+  title: 生陽館山茶盛開吟成一絕
+  author: 姜希孟
+  language: lzh
+  text: 山茶花發簇嫣紅歲久根盤作大叢自是地偏車馬少年年開謝小園中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 生陽館山茶盛開吟成一絕
+  author: 姜希孟
+  language: lzh
+  text: 山茶花發簇嫣紅。歲久根盤作大叢。自是地偏車馬少。年年開謝小園中。
+korean:
+  title: 생양관 산다 성개 음성일절
+  author: 강희맹
+  language: kor
+  text: |-
+    산다화 피어 아립땁고 붉은 색을 모았는데
+    오랜 해에 뿌리가 서리어 큰 떨기가 되었구나
+    이것은 땅이 궁벽에 수레와 말이 적기에
+    해마다 동산에서 피었다 질 뿐이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0250&viewSync=OT
+  footnotes: []
+english:
+  title: Upon the Camellia Blossoms Blooming at Saengyang Pavilion
+  author: Kang Heemeng
+  language: eng
+  text: |-
+    The camellia flowers burst forth in clustered crimson,
+    Their roots, through long years, have grown into a mighty thicket.
+    It is only because this remote place sees few carriages and horses—
+    Year after year they bloom and fade within this small garden alone.
+  footnotes:
+  - key: ''
+    value: Saengyang Pavilion (生陽館) was a significant literary and cultural space in medieval Korea, making this poem a reflection on the quiet beauty of scholarly retreat.
+  - key: ''
+    value: The camellia (山茶) holds special significance in East Asian poetry as a symbol of resilience and enduring beauty despite isolation.

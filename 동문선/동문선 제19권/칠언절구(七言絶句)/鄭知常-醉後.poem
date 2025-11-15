@@ -1,0 +1,38 @@
+canonical:
+  title: 醉後
+  author: 鄭知常
+  language: lzh
+  text: 桃花紅雨鳥喃喃繞屋靑山閒翠嵐一頂烏紗慵不整醉眠花塢夢江南
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 醉後
+  author: 鄭知常
+  language: lzh
+  text: 桃花紅雨鳥喃喃。繞屋靑山閒翠嵐。一頂烏紗慵不整。醉眠花塢夢江南。
+korean:
+  title: 취후
+  author: 정지상
+  language: kor
+  text: |-
+    복사꽃 붉은 비에 새들이 지저귀니
+    집을 둘러싼 청산에는 푸른 이내 아른거리네
+    이마에 비스듬한 오사모 게으른 탓이어니
+    취하여 꽃동산에 누워 강남을 꿈꾸네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0460&viewSync=OT
+  footnotes: []
+english:
+  title: Drunk
+  author: Jung Ji-sang
+  language: eng
+  text: |-
+    Pink peach blossoms fall like rain, and birds chirp their gentle song.
+    Green mountains encircle my home, their slopes hazed in tender mist.
+    My black silk cap sits askew upon my brow—
+    laziness wins the day.
+    Drunk, I rest among the flowers and dream of the south.
+  footnotes:
+  - key: ''
+    value: The 'black silk cap' (烏紗) is a traditional official's hat, suggesting the speaker's rank or past position, making the lazy intoxication all the more poignant as an escape from duty.
+  - key: ''
+    value: 江南 (Gangnam/the south) represents a place of beauty and longing in classical poetry, often symbolizing either a beloved land or an idealized realm of leisure and pleasure.

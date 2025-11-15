@@ -1,0 +1,45 @@
+canonical:
+  title: 客夜
+  author: 鄭夢周
+  language: lzh
+  text: 客夜人誰問沉吟欲二更詩從枕上得燈在壁閒明默默思前事遙遙計去程俄然睡一覺童僕報鷄鳴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 客夜
+  author: 鄭夢周
+  language: lzh
+  text: 客夜人誰問。沉吟欲二更。詩從枕上得。燈在壁閒明。默默思前事。遙遙計去程。俄然睡一覺。童僕報鷄鳴。
+korean:
+  title: 객야
+  author: 정몽주
+  language: kor
+  text: |-
+    나그네 밤에 누가 찾으리
+    혼자 읊조리니 이경이 되려 하네
+    시는 베개 위로 쫓아 얻고
+    등잔불은 벽 사이에 밝네
+    묵묵히 지난 일을 생각하고
+    곰곰이 갈길을 헤어 보네
+    깜빡 졸다가 깨니
+    아이놈이 닭이 운다 하더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: A Traveler's Night
+  author: Jung Mong-ju
+  language: eng
+  text: |-
+    Who comes to visit a traveler in the night?
+    Alone I murmur verses as the second watch draws near.
+    Poems are plucked from my pillow,
+    Lantern light gleams through the wall's narrow gap.
+    Silently I ponder what has passed,
+    Carefully I measure the road ahead.
+    Suddenly sleep takes me in its brief embrace—
+    Then a servant's voice: the rooster crows at dawn.
+  footnotes:
+  - key: ''
+    value: The 'second watch' (二更) refers to the traditional divided night; this would be approximately 10 PM, suggesting deep contemplation in the small hours.
+  - key: ''
+    value: The image of poems coming 'from the pillow' suggests dreams and inspiration arising from the solitude of travel and reflection.

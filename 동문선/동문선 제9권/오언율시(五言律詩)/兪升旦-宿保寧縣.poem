@@ -1,0 +1,45 @@
+canonical:
+  title: 宿保寧縣
+  author: 兪升旦
+  language: lzh
+  text: 晝發海豐郡侵宵到保寧竹鳴風警寢雲泣雨留行暮靄頭還重朝暾骨乍輕始知身老病唯解卜陰晴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿保寧縣
+  author: 兪升旦
+  language: lzh
+  text: 晝發海豐郡。侵宵到保寧。竹鳴風警寢。雲泣雨留行。暮靄頭還重。朝暾骨乍輕。始知身老病。唯解卜陰晴。
+korean:
+  title: 보령현에서 자며
+  author: 유승단
+  language: kor
+  text: |-
+    낮에 해풍 골을 떠나서
+    밤에야 보령에 왔네
+    바람이 부니 대[竹] 소리가 잠을 깨우고
+    구름이 울어 비가 갈 길을 막는구나
+    저녁 안개에 머리가 몹시 무겁더니
+    아침 해 뜨니 몸이 잠깐 가벼워지네
+    이제야 알았노니, 늙고 병든 몸은
+    날 갤지, 날 흐릴지를 점치듯 하는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0410&viewSync=OT
+  footnotes: []
+english:
+  title: Lodging at Boryeong County
+  author: Yu Seung-dan
+  language: eng
+  text: |-
+    I departed Haepung in daylight,
+    Reaching Boryeong as night fell.
+    Wind through the bamboo startles my sleep,
+    Clouds weep—rain blocks the road ahead.
+    Evening mist weighs heavy upon my head,
+    Morning sun briefly lifts the burden from my bones.
+    Now I understand: this aging, afflicted frame
+    Can only divine the weather—clearing or gathering clouds.
+  footnotes:
+  - key: ''
+    value: Haepung (海豐) and Boryeong (保寧) are place names in classical Korea. The poet's journey from one to the other frames the overnight stay that becomes a meditation on aging and mortality.
+  - key: ''
+    value: The final couplet employs divination imagery—traditionally used to predict external fortune—as a metaphor for the body's helpless dependence on circumstance, suggesting that age reduces human agency to mere passive observation.

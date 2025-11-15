@@ -1,0 +1,37 @@
+canonical:
+  title: 廉侍中悌臣第盆梅
+  author: 金仁館
+  language: lzh
+  text: 一見初驚眼不塵靑裙縞袂照人新隔窓風雪徒爲惡好向華堂已報春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 廉侍中悌臣第盆梅
+  author: 金仁館
+  language: lzh
+  text: 一見初驚眼不塵。靑裙縞袂照人新。隔窓風雪徒爲惡。好向華堂已報春。
+korean:
+  title: 염시중제신제분매
+  author: 김인관
+  language: kor
+  text: |-
+    한 번 보자 처음으로 눈이 깨끗해짐을 놀랐나니
+    푸른 바지 흰 소매로 사람을 비춰 새로워라
+    창 밖의 바람과 눈은 헛 발악이라
+    분매ㆍ화당을 향해 이미 봄을 알려 주네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0570&viewSync=OT
+  footnotes: []
+english:
+  title: Plum Blossoms in a Vase Presented to Minister Lim Jehsin
+  author: Kim Inwan
+  language: eng
+  text: |-
+    One glimpse awakens the eye to pristine clarity—
+    In green robe and white sleeves, she gleams with newborn grace.
+    Wind and snow rage uselessly beyond the window;
+    The plum in its jade vase already whispers spring to the grand hall.
+  footnotes:
+  - key: ''
+    value: The poem employs personification of the plum blossom, describing it with the imagery of a woman in traditional court dress to capture both its visual beauty and symbolic significance as a harbinger of spring.
+  - key: ''
+    value: The contrast between the external winter storm and the interior warmth represents the resilience and constancy of the plum—a classical symbol in East Asian poetry of virtue that remains unmoved by adversity.

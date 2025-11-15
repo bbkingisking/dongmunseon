@@ -1,0 +1,67 @@
+canonical:
+  title: 萬里瀨二首
+  author: 朴誾
+  language: lzh
+  text: 大隱岩前雪春來又一奇偶因淸興出不與主人期獨立鳴禽近長吟下筆遲君家容放曠却恐駭今時醉嚼岩間雪狂遺頭上巾時應投懶散境自着淸眞澗曲音生石松高影落茵小詩偸勝景君婦豈余嗔自註君不知有此景恐婦嗔也醉中雜言多涉狂僭死罪死罪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 萬里瀨二首
+  author: 朴誾
+  language: lzh
+  text: 大隱岩前雪。春來又一奇。偶因淸興出。不與主人期。獨立鳴禽近。長吟下筆遲。君家容放曠。却恐駭今時。醉嚼岩間雪。狂遺頭上巾。時應投懶散。境自着淸眞。澗曲音生石。松高影落茵。小詩偸勝景。君婦豈余嗔。自註。君不知有此景。恐婦嗔也。醉中雜言。多涉狂僭。死罪死罪。
+korean:
+  title: 만리뢰이수
+  author: 박은
+  language: kor
+  text: |-
+    봄이 오매 대은암 앞의 눈도
+    하나의 기이한 경치가 된다
+    우연히 맑은 용이 솟아났지만
+    주인과 함께 기약한 것 아니다
+    혼자 섰으매 새가 가까이 오고
+    길이 읊조리나 붓 들기 더디어라
+    그대 집에서 방광을 용납하지만
+    세상을 놀래게 할까 도리어 두려워하네
+    취하여 바위 사이 눈을 씹으며
+    미쳐서 머리 위의 수건을 빠뜨렸다
+    시절은 응당 하염없이 보냈지만
+    경계는 스스로 청진을 가졌으리
+    골짝 물 굽이치매 돌에서 소리 나고
+    솔이 높아 그림자 자리에 떨어진다
+    졸한 시로 승경을 훔쳐 왔거니
+    그대 부인 어찌 나를 성내랴
+    스스로 주(註)하기를, “그대는 이런 광경이 있은 줄을 알지 못하지마는, 그대 부인이 성낼까 두렵다. 취중의 잡된 말이 많이 미치고 외람되었다. 죽을죄다 죽을죄다.” 하였다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 만리뢰(萬里瀨) : '
+    value: 이 시는 남곤(南袞)의 집에서 지은 시인데, 그의 집은 삼청동(三淸洞) 깊숙이 있었다. 그 앞에는 산 개울물이 흐르고 뒤에는 큰 바위가 있었는데, 이 시의 작자 박온(朴誾)이 집주인인 남곤을 조롱하느라고 그 시냇물을 만리뢰라 하였으니, 주인인 남곤이 벼슬하느라고 아침 일찍 나가서 저녁 늦게 돌아오므로, 문 앞에 있는 시내도 만리 밖에 있는 것처럼 멀고, 집 뒤에 있는 바위도 알지 못하니, 대은(大隱) 즉 숨은 것이라 하고 이름 짓기를 대은암이라 하였다.
+english:
+  title: 'Ten Thousand Miles Away: Two Poems'
+  author: Park Eun
+  language: eng
+  text: |-
+    When spring arrives, the snow before Great Hidden Rock
+    becomes itself a marvel.
+    By chance, clear intent rose within me—
+    yet I made no appointment with the master.
+    Standing alone, birds draw near,
+    and my brush hesitates as the poem lengthens.
+    Though your household tolerates wildness,
+    I fear it might startle the world.
+
+    Drunk, I chew the snow between the stones,
+    mad, I lose the turban from my head.
+    The season passes as it must,
+    yet the scene holds its own clarity true.
+    Where the creek bends, sound is born from rock,
+    where the pine stands high, shadow falls upon the moss.
+    In a drowsy poem I have stolen the finest views—
+    how could your lady wife hold it against me?
+
+    [Author's note: You know nothing of this place, yet I fear your lady will be angered. These are drunken ramblings, many of them presumptuous and wild. Forgive me, forgive me.]
+  footnotes:
+  - key: ''
+    value: These poems were written at the home of Nam Gon in the deep recesses of Samcheong District. A mountain stream flowed before his house and a great rock stood behind it. Park Eun playfully named the stream 'Ten Thousand Miles Away' to mock his host, for Nam Gon, occupied with official duties, would leave early and return late, making even the nearby stream seem distant as ten thousand miles, and leaving him ignorant of the great rock behind his own home—hence 'Great Hidden Rock.'
+  - key: ''
+    value: 'Park Eun''s self-deprecating note reveals the poem''s wit: he jests about the host''s obliviousness while humorously apologizing for his own drunken excess and presumption.'

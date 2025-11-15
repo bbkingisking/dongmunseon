@@ -1,0 +1,38 @@
+canonical:
+  title: 賀冬至表
+  author: 李崇仁
+  language: lzh
+  text: 麟史書春黃鍾應一陽之復鷄人唱曉丹扆受四方之朝瑞藹觚稜臚傳閶闔恭惟云云明哲作則中正有臨心篤化工之生成無偏無黨禮勤慈闈之奉養不愆不忘適當道長之辰丕擁朋來之慶伏念云云承乏攬轡阻參綴班映日卿雲睇蓬萊之五色齊天壽筭效嵩嶽之三呼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀冬至表
+  author: 李崇仁
+  language: lzh
+  text: 麟史書春。黃鍾應一陽之復。鷄人唱曉。丹扆受四方之朝。瑞藹觚稜。臚傳閶闔。恭惟云云。明哲作則。中正有臨。心篤化工之生成。無偏無黨。禮勤慈闈之奉養。不愆不忘。適當道長之辰。丕擁朋來之慶。伏念云云。承乏攬轡。阻參綴班。映日卿雲。睇蓬萊之五色。齊天壽筭。效嵩嶽之三呼。
+korean:
+  title: 하 동지 표
+  author: 이숭인
+  language: kor
+  text: 인사(麟史)에 봄이라 썼으니, 황종(黃鍾)이 일양(一陽)의 내복(來復)에 응하고, 계인(鷄人)이 새벽을 고하니, 단의(丹扆 붉은 병풍)를 치고 사방의 조회를 받으시자 상서가 대궐에 엉기고 선지(宣旨)가 천문(天門)에 전해지옵나이다. 공손히 생각하옵건대, 명철(明哲)을 법칙으로 삼으시고 중정(中正)으로 임어(臨御)하시어 화공(化工)의 생성(生成)으로 마음을 전일(專一)하게 하되 치우치거나 편들지도 아니하고 자위(慈闈)의 봉양(奉養)을 예(禮)로써 부지런히 하시되 잘못하거나 잊으시지 않으시니 마침 도(道)가 길어지는 때를 만나 크게 벗들이 오는 경사를 끌어안으옵나이다. 엎드려 생각하옵건대, 운운. 봉직(封職)에 고삐를 잡아 당길 만한 자격이 없사옵고, 하반(賀班)의 한 자리에 끼이지 못하오나, 해[日]에 비추는 봉래(蓬萊)의 오색(五色) 경운(卿雲)을 바라보면서, 하늘과 같으신 성수(聖壽)를 비옵되 숭악(嵩嶽)에서 만세 삼창하는 정성을 다하겠나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 계인(鷄人)이 새벽을 고하니 : '
+    value: 계인은 벼슬 이름으로, 궁중에서 닭을 기르면서 큰 제사가 있을 때에는 백관을 깨운다.
+english:
+  title: Memorial Celebrating the Winter Solstice
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    The chronicles of history record spring's turning, as the Yellow Bell resonates with the return of the primal yang. The palace keepers announce the dawn, and beneath the crimson canopy, the court receives the homage of all directions. Auspicious clouds gather at the palace gates, and imperial edicts are proclaimed through heaven's doors.
+
+    With reverence I contemplate: Your Majesty takes luminous wisdom as your measure, governs through perfect balance and righteousness, dedicating your heart wholly to the generative work of heaven and earth—showing neither bias nor favor. With ceremonial devotion you nurture the maternal chambers, neither erring nor forgetting your filial duty. In this auspicious time when the sun's path lengthens, you embrace the great fortune of fellowship and blessing.
+
+    Humbly I reflect: Though unworthy to hold the reins of office and unfit to stand among those who offer congratulations, gazing upon the five-colored auspicious clouds that shimmer like the Islands of Immortals in the sunlight, I bow before your sage longevity—matching my fervent prayers to the threefold acclamation that echoes from sacred Mount Song.
+  footnotes:
+  - key: ''
+    value: The Yellow Bell (黃鍾) represents the first of the twelve musical notes associated with the winter solstice and the return of yang energy in cosmological cycles.
+  - key: ''
+    value: The palace keepers traditionally awakened officials at dawn, especially during important ceremonies and celebrations.
+  - key: ''
+    value: The Islands of Immortals (蓬萊) and Mount Song (嵩嶽) are sacred peaks in Chinese cosmology associated with longevity and divine blessing.

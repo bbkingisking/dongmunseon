@@ -1,0 +1,46 @@
+canonical:
+  title: 送江陵徐廉使
+  author: 金九容
+  language: lzh
+  text: 載酒東郊欲暮秋菊花叢畔送君游一聲鴈度靑天外千里人歸碧海陬鶴髮慈親曾斷織綉衣使者正停輈遙知州郡爭奔走獻壽堂前喜氣浮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送江陵徐廉使
+  author: 金九容
+  language: lzh
+  text: 載酒東郊欲暮秋。菊花叢畔送君游。一聲鴈度靑天外。千里人歸碧海陬。鶴髮慈親曾斷織。綉衣使者正停輈。遙知州郡爭奔走。獻壽堂前喜氣浮。
+korean:
+  title: 송 강릉 서렴사
+  author: 김구용
+  language: kor
+  text: |-
+    술 싣고 동교에 나오니 때는 늦가을
+    국화 포기 옆에서 그대를 보내옵네
+    외마디 울음으로 기러기는 하늘 밖을 건너는데
+    천 리 길에 사람은 푸른 바닷가로 돌아가누나
+    백발 어머님은 일찍 짜던 베를 끊으셨지
+    수의 사자가 방금 수레를 멈추었네
+    여러 고을 수령들 다투어 이바지하니
+    헌수당 즐거운 잔칠 멀리 보는 듯하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_1010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백발 어머님은 …… 끊으셨지 : '
+    value: 맹자가 젊어서 배우다가 중도에 돌아오니 그의 어머니가 칼로 짜던 베를 끊으며 말하기를, “네가 학업을 폐함은 내가 이 베를 끊음과 같으니라.” 하니, 맹자가 두려워 아침부터 저녁까지 부지런히 공부했다. 《列女傳》
+english:
+  title: Farewell to Magistrate Seo Yeom of Gangneung
+  author: Kim Gu-yong
+  language: eng
+  text: |-
+    I carry wine to the eastern fields as autumn fades to dusk,
+    And bid you farewell beside the chrysanthemum blooms.
+    A crane's call echoes as wild geese cross beyond the blue sky—
+    A thousand leagues away, you journey to the emerald sea's edge.
+
+    Your white-haired mother long ago cut short her weaving threads,
+    As now the imperial messenger halts his carriage at your gate.
+    I hear the magistrates of distant provinces compete in their offerings,
+    And joy shimmers before the Hall of Longevity's celebration.
+  footnotes:
+  - key: ''
+    value: The reference to the mother cutting her weaving threads alludes to the story of Mencius's mother from the Records of Exemplary Women, where she severed her loom work to teach her son the consequences of abandoning his studies—here repurposed to evoke filial duty and the weight of official responsibility.

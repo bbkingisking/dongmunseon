@@ -1,0 +1,46 @@
+canonical:
+  title: 日本躑躅
+  author: 權建
+  language: lzh
+  text: 聞說名花在海東遠來枝葉尙蒙蘢人心自是分區域物性何曾有異同風送細香薰麝腦露霑芳臉膩猩紅至今却笑乘槎客獨取葡萄種漢宮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 日本躑躅
+  author: 權建
+  language: lzh
+  text: 聞說名花在海東。遠來枝葉尙蒙蘢。人心自是分區域。物性何曾有異同。風送細香薰麝腦。露霑芳臉膩猩紅。至今却笑乘槎客。獨取葡萄種漢宮。
+korean:
+  title: 일본 척촉
+  author: 권건
+  language: kor
+  text: |-
+    들으매 유명한 꽃이 해동에 있다 하더니
+    멀리 왔어도 가지와 잎사귀는 아직도 무성하구나
+    사람의 마음이 스스로 구역을 나눈 것이지
+    식물의 성질에야 어찌 일찍 같고 다름 있으랴
+    바람은 가늘은 향기를 보내어 사향 용을 피우고
+    이슬은 꽃다운 뺨을 적시어 성홍색을 번지르하게 하네
+    지금에 와서 문득 떼배를 탄 손이 웃나니
+    홀로 포도만 가져다 한궁에 심었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 홀로 포도만 …… 심었네 : '
+    value: 한 무제(漢武帝) 때에 장건(張騫)이 서역(西域)에 다녀 오면서 포도(葡萄)의 종자를 가져 왔다.
+english:
+  title: Japanese Azalea
+  author: Gwon Geon
+  language: eng
+  text: |-
+    I hear tell of a famous flower blooming in the eastern sea,
+    and though it traveled far, its branches and leaves remain luxuriant still.
+    It is the human heart that draws these borders and divisions—
+    why would nature itself ever know such difference and distinction?
+
+    The wind carries delicate fragrance to perfume the musk-scented air,
+    while dew beads the lovely face and stains it deepest crimson.
+    Yet now I cannot help but smile at those ancient travelers,
+    who brought only grapes to plant in the halls of Han.
+  footnotes:
+  - key: ''
+    value: The final couplet alludes to Zhang Qian of the Han Dynasty, who returned from his journey to the Western Regions bearing grape seeds, which he presented to Emperor Wu of Han. The poet contrasts this historical choice with the beauty of the azalea itself, suggesting a commentary on what is valued and what is overlooked.

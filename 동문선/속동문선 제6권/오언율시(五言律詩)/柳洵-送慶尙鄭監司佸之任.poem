@@ -1,0 +1,46 @@
+canonical:
+  title: 送慶尙鄭監司佸之任
+  author: 柳洵
+  language: lzh
+  text: 耆舊非淪喪風流尙典刑絲綸降金闕膏澤沛南溟夜按雞林笛春乘洛水舲閑情容有此亦不背常經
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送慶尙鄭監司佸之任
+  author: 柳洵
+  language: lzh
+  text: 耆舊非淪喪。風流尙典刑。絲綸降金闕。膏澤沛南溟。夜按雞林笛。春乘洛水舲。閑情容有此。亦不背常經。
+korean:
+  title: 송 경상정감사 활지임
+  author: 유순
+  language: kor
+  text: |-
+    나이 늙어서도 아주 곯지 않았거니
+    풍류는 그래도 옛법을 숭상한다
+    사륜(임금의 조칙)이 한 번 금궐에서 내렸거니
+    기름진 그 은택은 남명에 쏟아진다
+    밤에는 계림의 젓대 어루만지고
+    봄에는 낙수의 배를 타리라
+    한가한 심정은 이럴 수도 있으리니
+    이 또한 떳떳한 법 저버리지 않음이리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_1050&viewSync=OT
+english:
+  title: Seeing Off Jeong, the Inspector of Gyeongsang Province, to His Post
+  author: Yu Sun
+  language: eng
+  text: |-
+    Though aged, the old masters have not utterly declined—
+    their elegant refinement still upholds the ancient ways.
+    The imperial edict descends from the golden palace,
+    and its abundant grace pours forth upon the southern sea.
+    By night I shall touch the flute of Gyerim,
+    in spring I shall ride the boats of the Luo River.
+    Such leisured sentiments may well find their place—
+    they too do not abandon the constant law.
+  footnotes:
+  - key: ''
+    value: Gyerim (계림) is an ancient name for the Silla Kingdom, here referring to the Gyeongsang region.
+  - key: ''
+    value: The reference to the Luo River combines allusion to the historical officials of ancient China with the inspector's new duties in Korea.
+  - key: ''
+    value: The poem celebrates the recipient's appointment while expressing that refined leisure and official duty need not conflict with virtue.

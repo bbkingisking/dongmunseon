@@ -1,0 +1,46 @@
+canonical:
+  title: 早秋書情
+  author: 朴仁範
+  language: lzh
+  text: 古槐花落早蟬鳴却憶前年此日程千緖旅愁因感起幾莖霜髮爲貧生堪知折桂心還暢直到逢秋夢不驚每念受恩恩更重欲將酬德覺身輕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 早秋書情
+  author: 朴仁範
+  language: lzh
+  text: 古槐花落早蟬鳴。却憶前年此日程。千緖旅愁因感起。幾莖霜髮爲貧生。堪知折桂心還暢。直到逢秋夢不驚。每念受恩恩更重。欲將酬德覺身輕。
+korean:
+  title: 조추 서정
+  author: 박인범
+  language: kor
+  text: |-
+    홰나무 꽃이 지고 초가을 매미 우니
+    작년 이 날에 가던 길이 회상되네
+    천 가지 나그네 시름은 느낌에서 잃었고
+    몇 줄기 흰 머리가 가난 때문에 생겼는고
+    계수를 꺾고 나니 마음이 숫제 후련하여
+    가을이 정작 와도 꿈도 별로 안 놀라네
+    받은 은혜 생각할수록 은혜 더욱 무거운데
+    그 덕을 갚으려 하니 몸을 아끼지 못하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0240&viewSync=OT
+  footnotes: []
+english:
+  title: 'Early Autumn: Sentiments in Writing'
+  author: Park In-beom
+  language: eng
+  text: |-
+    The ancient parasol tree sheds its flowers, early cicadas cry in autumn—
+    I recall the path I walked this same day last year.
+    A thousand threads of wanderer's sorrow dissolved in sudden feeling,
+    White hairs sprouted on my head, each one born of poverty.
+
+    Yet plucking the cassia branch, my heart grows strangely light,
+    When autumn truly arrives, my dreams are scarcely troubled.
+    The more I ponder the grace I have received, the heavier it becomes,
+    And seeking to repay such debt, I find myself willing to surrender all.
+  footnotes:
+  - key: ''
+    value: The cassia tree (계수/桂) traditionally symbolizes official success and advancement in Chinese and East Asian poetry. Here, its plucking represents achievement or aspiration fulfilled.
+  - key: ''
+    value: The contrast between the speaker's outward troubles (white hair, poverty, wanderer's sorrow) and inner peace (light heart, undisturbed dreams) reflects the poem's central tension between material hardship and spiritual contentment grounded in gratitude.

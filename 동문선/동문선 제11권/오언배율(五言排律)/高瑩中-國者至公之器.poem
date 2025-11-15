@@ -1,0 +1,61 @@
+canonical:
+  title: 國者至公之器
+  author: 高瑩中
+  language: lzh
+  text: 國者之爲器由來號至公大含群俗類用係一人躳皥皥民居內平平道在中持盈曾有戒傳世永無窮只貴陶鈞妙寧云鑄冶功一傾難復正願上愼初終
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 國者至公之器
+  author: 高瑩中
+  language: lzh
+  text: 國者之爲器。由來號至公。大含群俗類。用係一人躳。皥皥民居內。平平道在中。持盈曾有戒。傳世永無窮。只貴陶鈞妙。寧云鑄冶功。一傾難復正。願上愼初終。
+korean:
+  title: 나라는 지극히 공변된 그릇이다
+  author: 고영중
+  language: kor
+  text: |-
+    나라라는 것의 그릇이
+    원래 지극히 공변되다 일컬어 오네
+    큼직해서 세속의 모든 종류 포함하나
+    쓰기는 한 분(임금)에 달려 있는 것
+    백성들 그 안에 즐겁게 살고
+    편당 없으면 도가 그 속에 있으리
+    찬 그릇 들 듯 하란 경계 잘 지키어야
+    대대로 전하여 길이 무궁하리니
+    도균의 묘함이 귀한 것일 뿐
+    붓고 풀무질하는 공을 이르랴
+    한 번 기울이면 도로 바로잡지 못하나니
+    임금님, 처음과 끝을 삼가시옵소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 찬[盈] 그릇 들 듯[持盈] : '
+    value: 송나라 소이간(蘇易簡)이 임금에게 아뢰기를, “물이 그릇에 가득 차면 엎질러지는 것이니 폐하(陛下)께서는 찬 그릇 들 듯 조심하소서.” 하였다.
+  - key: '[주-D002] 도균(陶鈞) : '
+    value: 도(陶)는 질그릇 만드는 사람, 균(鈞)은 질그릇 만드는 데 쓰는 굴틀[轉器]. 주(注)에, “성왕이 세상과 풍속을 제어함은 질그릇 만드는 사람이 굴틀을 굴림과 같다.”는 말이 있다.
+english:
+  title: 'The State: A Vessel of Ultimate Impartiality'
+  author: Ko Young-joong
+  language: eng
+  text: |-
+    A state, that vessel of ours,
+    has always been called supremely impartial.
+    Vast enough to embrace all manner of people,
+    yet its operation rests upon a single man's shoulders.
+
+    Within it the people dwell in contentment,
+    and when there is no partiality, the Way dwells in its center.
+    When holding fullness, beware—
+    there is an ancient warning to heed.
+    Passing down through generations,
+    may it endure without end.
+
+    What is precious is the artistry of the potter's wheel,
+    not the crude work of forge and flame.
+    Once tilted, it cannot be set right again—
+    O Lord, I beseech you: be mindful of beginning and end.
+  footnotes:
+  - key: ''
+    value: The image of 'holding fullness' (持盈) derives from the admonition that when water fills a vessel to the brim, it overflows—a metaphor for rulers to guard against excess and maintain balance.
+  - key: ''
+    value: The 'potter's wheel' (陶鈞) represents the sage ruler's subtle governance, like a potter shaping clay on the wheel—the natural, artful molding of society, rather than crude force.

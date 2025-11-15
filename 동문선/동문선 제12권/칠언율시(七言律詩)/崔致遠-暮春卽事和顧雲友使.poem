@@ -1,0 +1,49 @@
+canonical:
+  title: 暮春卽事和顧雲友使
+  author: 崔致遠
+  language: lzh
+  text: 東風遍閱百般香意緖偏饒柳帶長蘇武書回深塞盡莊周夢逐落花忙好憑殘景朝朝醉難把離心寸寸量正是浴沂時節日舊遊魂斷白雲鄕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 暮春卽事和顧雲友使
+  author: 崔致遠
+  language: lzh
+  text: 東風遍閱百般香。意緖偏饒柳帶長。蘇武書回深塞盡。莊周夢逐落花忙。好憑殘景朝朝醉。難把離心寸寸量。正是浴沂時節日。舊遊魂斷白雲鄕。
+korean:
+  title: 늦은 봄 즉흥으로 동료사자 고운에게 화답하며
+  author: 최치원
+  language: kor
+  text: |-
+    봄바람에 온갖 꽃 향내를 겪어 왔네만
+    정서는 기나긴 버들가지에 더욱 끌리네
+    소무의 글월은 변방서 돌아오고
+    장주의 꿈은 낙화를 좇아 바쁘네
+    남은 경치 빙자하여 아침마다 취하노니
+    이별의 정은 촌촌이 헤아리기 어려우이
+    때는 정히 기수에 멱감는 시절
+    예 놀던 일 생각하니 혼이 흰구름 위에로
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소무(蘇武)의 글월 : '
+    value: 한나라 무제(武帝) 때 소무가 흉노(匈奴)에 사신(使臣)으로 갔다가 굴하지 않고 북해(北海)에 구금된 지 19년이 되었다. 흉노는 그가 이미 죽었다고 속였는데 본국에서 그것을 탐지해 알고 기러기 발에 글월을 매어 부쳐 소식을 통하여 왔고, 거짓말로 흉노를 힐책하여 돌려왔다.
+english:
+  title: 'Late Spring: Improvised Verse in Response to My Colleague Envoy Gowun'
+  author: Choe Chiwon
+  language: eng
+  text: |-
+    The spring wind has carried the fragrance of a hundred flowers,
+    Yet my heart lingers longest on the willow's trailing grace.
+    SuWu's letters return from the distant frontier's end,
+    While Zhuangzi's dream chases after falling blossoms in haste.
+    I borrow these fading vistas to drink myself drunk each dawn,
+    Yet the sorrow of parting cannot be measured inch by inch.
+    Now comes the very season of bathing in the Yi River—
+    Memories of our old wandering break my spirit toward white clouds.
+  footnotes:
+  - key: ''
+    value: 'Su Wu: A Han dynasty envoy who, refusing to submit to the Xiongnu, was imprisoned at the North Sea for nineteen years. His letters, famously tied to a wild goose''s leg, eventually reached the Han court and secured his return.'
+  - key: ''
+    value: 'Zhuangzi''s dream: An allusion to Zhuangzi''s famous butterfly dream, suggesting the fleeting and illusory nature of experience.'
+  - key: ''
+    value: 'Bathing in the Yi River: A classical reference to Confucius and his disciples bathing in the Yi River—symbolizing renewal, community, and lost innocence.'

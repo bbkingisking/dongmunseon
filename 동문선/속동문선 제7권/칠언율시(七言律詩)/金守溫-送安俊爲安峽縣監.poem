@@ -1,0 +1,51 @@
+canonical:
+  title: 送安俊爲安峽縣監
+  author: 金守溫
+  language: lzh
+  text: 子之先子與吾偕幾度從容坐縣齋今日見君渾舊意衰年遇境動傷懷石田民散春無種草閣山深晝亦䨪最是一方幽絶處須敎黎庶厚生涯縣監先公安壽希爲靑山守僕覲親廷道所經頗甞內交故云
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送安俊爲安峽縣監
+  author: 金守溫
+  language: lzh
+  text: 子之先子與吾偕。幾度從容坐縣齋。今日見君渾舊意。衰年遇境動傷懷。石田民散春無種。草閣山深晝亦䨪。最是一方幽絶處。須敎黎庶厚生涯。縣監先公安壽希爲靑山守。僕覲親廷道所經。頗甞內交故云。
+korean:
+  title: 송 안준 위 안협현감
+  author: 김수온
+  language: kor
+  text: |-
+    그대의 선친은 나와 친구였거니와
+    몇 번이나 종용히 현재에 앉았던가
+    오늘에 그대 보매 모두 옛날 뜻인데
+    늙어서 경계 만나매 슬픈 마음 동한다
+    돌밭이라 백성들 흩어지매 봄에도 씨 뿌리는 이 없는데
+    초막에 산이 깊으리 낮도 또한 어둑하네
+    거기는 한 쪽의 가장 깊숙한 곳이라
+    부디 백성들 생활을 넉넉하게 하라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0020&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell to An Jun Upon His Appointment as County Magistrate of An Gorge
+  author: Kim Soo-on
+  language: eng
+  text: |-
+    Your father once walked beside me as a friend,
+    How often we sat at leisure in the county office,
+    Today, beholding you, all those old ties return—
+    And age, encountering these scenes, stirs my weary heart.
+
+    Stone fields lie barren, people scattered far,
+    No one plants seeds when spring arrives.
+    The grass-roofed hall nestles deep in mountains,
+    Where even noon grows dim with shadow.
+
+    This land is one of deepest solitude,
+    Yet you must nurture your people's livelihood.
+  footnotes:
+  - key: ''
+    value: An Jun is being appointed to An Gorge County (安峽縣), a remote and impoverished region.
+  - key: ''
+    value: The 'stone fields' and 'scattered people' suggest the county's economic hardship and depopulation.
+  - key: ''
+    value: The speaker, having served in government alongside An Jun's father, now entrusts the younger man with the difficult task of revitalizing this troubled place.

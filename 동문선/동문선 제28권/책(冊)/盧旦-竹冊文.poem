@@ -1,0 +1,48 @@
+canonical:
+  title: 竹冊文
+  author: 盧旦
+  language: lzh
+  text: 王若曰古之王者親親以仁貴貴以禮分茅列土旣封立於宗英豊器榮名亦褒嘉於帝女所以厚人倫而勵俗非獨緣族類以爲恩咨爾王妹色麗而和性柔且惠行高人而無過敎在姆而不勤居室之善寢成鼓鍾之聲自遠朕小喪考妣終無弟兄痛深蓼莪罔極之懷恨缺華㠋相輝之勢故於同母之妹常切在原之情愛焉能不寵乎禮之所宜厚矣肆優命數以示恩章於戲周南美其女功爲絺爲綌小雅論其閨則無非無儀勉服訓辭以符眷待
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 竹冊文
+  author: 盧旦
+  language: lzh
+  text: 王若曰。古之王者。親親以仁。貴貴以禮。分茅列土。旣封立於宗英。豊器榮名。亦褒嘉於帝女。所以厚人倫而勵俗。非獨緣族類以爲恩。咨爾王妹。色麗而和。性柔且惠。行高人而無過。敎在姆而不勤。居室之善寢成。鼓鍾之聲自遠。朕小喪考妣。終無弟兄。痛深蓼莪罔極之懷。恨缺華㠋相輝之勢。故於同母之妹。常切在原之情。愛焉能不寵乎。禮之所宜厚矣。肆優命數。以示恩章。於戲。周南美其女功。爲絺爲綌。小雅論其閨則。無非無儀。勉服訓辭。以符眷待。
+korean:
+  title: 죽책문
+  author: 노단
+  language: kor
+  text: 왕이 말하노라. 옛적의 제왕이 친척을 친하기를 어짊으로써 하고, 귀한 이를 귀하게 대접하기를 예로써 하였다. 띠풀을 나누고 흙을 쪼개어 이미 봉하고, 풍부한 기물과 영화로운 명칭으로 또한 포창한다. 이것은 인륜을 두텁게 하여 풍속을 권면하자는 것이요, 친족이라는 이유로 은혜를 베푸는 것만이 아니다.슬프다, 너 왕매(王妹)는 얼굴이 곱고 온화하며 성품이 부드럽고 어질다. 행실은 남보다 고상하여 허물이 없고 가르침은 모사(姆師)의 교훈을 수고롭게 할 필요도 없었다. 규중에 거처하는 범절이 점점 성취되니, 종을 두드리는 소리가 저절로 멀리 들렸다. 짐이 어려서 부모를 잃었고 마침내 형제도 없었다. 애통한 것은 육아(蓼莪)의 망극한 애통이 깊고, 꽃송이가 서로 빛남이 없는 것이 한스러웠다. 그러므로 동모(同母)의 누이에 대하여 항상 척령(鶺鴒)이 언덕에 있는 정이 간절하였다. 이미 너를 사랑하거니, 어찌 영화롭게 하지 않으랴. 예를 후히 하는 것이 마땅하다. 이에 대우를 특별히 하여 은전을 표시한다.아, 주남(周南)에는 여공(女功)을 아름답게 여겨서 굵은 갈포와 가는 갈포를 만든다고 하였고, 소아(小雅)에는 규중의 법도를 논하여 그르다는 것도 없고 잘난 체도 하지 않는다고 하였으니, 힘써 훈계의 말을 좇아서 사랑하고 기대함에 맞추라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0310_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 띠풀을 …… 쪼개어 : '
+    value: 옛날 제왕이 자제나 공신에게 봉해 줄 때에 띠풀에다가 흙을 싸서 주었다.
+  - key: '[주-D002] 종을 …… 소리 : '
+    value: 《시경(詩經)》에, “궁중에서 종을 치매 소리가 밖에 들린다.”는 구절이 있는데, 여기서는 공주의 어진 소문이 퍼졌다는 뜻이다.
+  - key: '[주-D003] 척령(鶺鴒)이 …… 정 : '
+    value: 《시경》에, “척령새가 언덕에 있는데, 형제간에 서로 도운다.” 는 구절이 있다. 척령새는 형제간에 우애가 있는 새다.
+  - key: '[주-D004] 주남(周南)에는 …… 하였고 : '
+    value: 주남(周南)은 《시경》의 편명(篇名)인데, 숙녀가 여공(女工)으로 길쌈을 하여 가는 갈포와 굵은 갈포를 만든 것을 칭찬하여 읊었다.
+  - key: '[주-D005] 소아(小雅)에는 …… 하였으니 : '
+    value: 《시경》소아(小雅)에 여자의 도리를 말하기를, “그르다는 것도 없고, 잘난 체도 않고 오직 술이나 밥이나 주관하라.” 하는 구절이 있다.
+english:
+  title: Bamboo Scroll Proclamation
+  author: Ro Dan
+  language: eng
+  text: |-
+    The King proclaims: In ancient times, wise sovereigns showed kinship through benevolence and honored the noble through ritual. By dividing lands and establishing fiefs among worthy branches, they adorned with precious vessels and glorious titles. Thus they strengthened human bonds and encouraged virtuous customs—not merely dispensing favor for kinship's sake alone.
+
+    Behold, Royal Sister, whose face shines fair and whose nature is gentle and gracious. Your conduct surpasses others without flaw; your virtue required no stern tutelage from tutors. In the women's chambers, propriety blooms naturally; the sound of struck bells carries far on its own—a testament to your renown.
+
+    I, left orphaned in childhood, remain without brother or sister. The ache runs deep as the cuckoo's cry in Liao E, that boundless sorrow. I lament that we lack the radiance of flowers reflected in each other. Therefore, toward my sister of the same womb, I hold always the devotion of the wagtail on the riverbank. Since I cherish you so, how could I not bestow honor? Ritual demands we treat you generously. Thus I grant you favor and manifest imperial grace.
+
+    Hark! The *Zhou Nan* praises women's work—spinning coarse hemp and fine linen. The *Xiao Ya* speaks of decorum in the inner chambers—neither false nor proud. Follow these virtues well, conform to these teachings of love, and match the expectations I place upon you.
+  footnotes:
+  - key: ''
+    value: The wagtail reference alludes to the Classic of Poetry's depiction of this bird as a symbol of sibling affection and mutual support.
+  - key: ''
+    value: 'The mention of bells carries double meaning: both the visible sign of a princess''s accomplished virtue and the spreading of her reputation.'
+  - key: ''
+    value: Zhou Nan and Xiao Ya are sections of the Classic of Poetry (Shijing), classical exemplars of feminine virtue and proper conduct.

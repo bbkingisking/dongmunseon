@@ -1,0 +1,75 @@
+canonical:
+  title: 贈別金正使
+  author: 李坡
+  language: lzh
+  text: 江之水兮悠悠我送我子兮江之頭驪駒闋兮車載膏泛樓船兮中流嘆逝者之如彼感離別之蒼茫遼野漫漫兮閭山蒼蒼望行旌兮不可及關河阻兮道路長樂新知兮悲生別我思古人兮獲我心帝鄕漸近兮五雲深鴻飛冥冥兮不可攀悵後會之無期兮獨延竚而盤桓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈別金正使
+  author: 李坡
+  language: lzh
+  text: 江之水兮悠悠。我送我子兮江之頭。驪駒闋兮車載膏。泛樓船兮中流。嘆逝者之如彼。感離別之蒼茫。遼野漫漫兮閭山蒼蒼。望行旌兮不可及。關河阻兮道路長。樂新知兮悲生別。我思古人兮獲我心。帝鄕漸近兮五雲深。鴻飛冥冥兮不可攀。悵後會之無期兮。獨延竚而盤桓。
+korean:
+  title: 증별 김 정사
+  author: 이파
+  language: kor
+  text: |-
+    강물은 유유히 흐르는데
+    강가에서 내 그대를 전송하네
+    이별가 끝나자 수레에 기름 바르고
+    강 한복판에 다락배 둥실 띄웠네
+    가는 물결 저같음을 탄식하거니
+    아득한 이 이별을 어이하리
+    머나먼 요동벌에 여산이 푸릇푸릇
+    가는 깃발 바라보니 안 보이네
+    관하는 막혀 있고, 갈길은 먼데
+    새 친구는 즐겁고 생이별은 서럽고야
+    옛 사람의 시를 생각하니, 내 마음을 먼저 알았네
+    제향이 차츰 가까워지면 오색 구름 깊으리
+    나는 기러기 가물가물 내 어이 따르리
+    뒤에 다시 만날 기약 없음이 서글퍼서
+    내 홀로 바장이며 서서 돌아갈 줄 모르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1370_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옛 사람의 …… 생각하니 : '
+    value: 고시(古詩)에, “즐거움은 새로 서로 아는 것보다 더 즐거움이 없고, 슬픔은 생이별보다 더 슬픔이 없다[樂莫樂於新相知 悲莫悲於生別離].” 하였다.
+  - key: '[주-D002] 나는 기러기 가물가물 : '
+    value: 기러기가 까마득하게 난다는 말은, 높이 초월하거나 멀리 가는 사람에게 비유하여 쓰는 말.
+english:
+  title: Farewell Gift for Kim Jeong, Royal Envoy
+  author: Lee Pa
+  language: eng
+  text: |-
+    The river flows on, endless and long,
+    At its banks I send you forth with song.
+    The farewell hymn now fades away,
+    The carriage gleams with oil for the day.
+    A tower-ship glides through middle stream,
+    I sigh for time's departing dream.
+    All things that pass are like that flow,
+    This vast farewell—what sadness I know.
+
+    The Liaodong plain stretches far and wide,
+    Mount Lu stands green on the other side.
+    Your banner vanishes from my sight,
+    Barrier and river block the road outright,
+    The path ahead grows ever long.
+    New friendships bring their joy so strong,
+    Yet living death—this parting's pain.
+    I think of ancient poets' refrain,
+    Whose words have understood my heart:
+    "No joy surpasses friends at start,
+    No sorrow equals life's farewell."
+
+    As you draw near the Sacred Realm,
+    Five-colored clouds its peaks o'erwhelm.
+    I cannot follow where you soar—
+    A goose in mist forevermore.
+    No promise of a future meeting day,
+    So here I linger, unable to turn away.
+  footnotes:
+  - key: ''
+    value: 'The reference to ancient poetry expresses a famous couplet: ''There is no greater joy than newly knowing a friend, and no greater sorrow than parting in life.'''
+  - key: ''
+    value: The goose imagery alludes to someone who departs to distant heights, beyond reach.

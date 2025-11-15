@@ -1,0 +1,50 @@
+canonical:
+  title: 益齋眞自贊
+  author: 李齊賢
+  language: lzh
+  text: 獨學而陋聞道宜晚不幸由己何不自反何德于民四爲國相幸而致之祗速衆謗不揚之貌又何寫爲告爾後嗣一覩三思誡其不幸早夜以勉毋苟其幸庶幾知免
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 益齋眞自贊
+  author: 李齊賢
+  language: lzh
+  text: 獨學而陋。聞道宜晚。不幸由己。何不自反。何德于民。四爲國相。幸而致之。祗速衆謗。不揚之貌。又何寫爲。告爾後嗣。一覩三思。誡其不幸。早夜以勉。毋苟其幸。庶幾知免。
+korean:
+  title: 익재진 자찬
+  author: 이제현
+  language: kor
+  text: 홀로 공부하여 고루하였고 도(道)를 들은 것은 자연히 늦었었다. 불행은 모두가 자신이 만든 것, 어찌하여 스스로 반성하지 않는가. 백성에게 덕 보인 것 무엇이기에 네 번이나 대신이 되었단 말이냐. 요행으로 이렇게 된 것이기에 다만 모든 비난 불러들였다. 못난 내 얼굴 그려 두면 무엇하나. 너의 후손에게 알리기 위함이다. 한 번 쳐다보고 세 번씩 생각하여 그런 불행 있을까 경계하여서 아침마다 저녁마다 노력하여라. 만일 그런 요행 바라지 않는다면 행여나 불행을 면하게 되리.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0110&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Inscription of Ikjae
+  author: Lee Jae-hyeon
+  language: eng
+  text: |-
+    Studying alone, I grew narrow in view.
+    Hearing the Way came late, by chance.
+    Misfortune—all of it I made myself.
+    Why do I not turn inward and reflect?
+
+    What virtue did I show the people,
+    that four times I rose to minister's seat?
+    Fortune brought me there—nothing more.
+    And so I gathered all their scorn.
+
+    What use to paint this homely face?
+    Yet I leave it for those who come after:
+    Look once upon this image, then think thrice.
+    Warn yourself against such misfortune.
+
+    Strive each dawn and every dusk.
+    Do not pursue the favor of chance.
+    Perhaps then—perhaps—
+    you may escape the suffering I have known.
+  footnotes:
+  - key: ''
+    value: Ikjae (益齋) was Lee Jae-hyeon's pen name. He served as Prime Minister of Goryeo four times during the late 14th century.
+  - key: ''
+    value: This self-inscription is written as both confession and warning—a meditation on the dangers of advancement without virtue and the importance of constant self-cultivation.
+  - key: ''
+    value: The phrase 'look once, think thrice' suggests the recursive deepening of understanding through repeated contemplation.

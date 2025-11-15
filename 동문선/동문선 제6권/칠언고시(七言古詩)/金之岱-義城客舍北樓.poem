@@ -1,0 +1,48 @@
+canonical:
+  title: 義城客舍北樓
+  author: 金之岱
+  language: lzh
+  text: 聞韶公舘後園深中有危樓百餘尺香風十里捲珠簾明月一聲飛玉笛煙輕柳影細相連雨霽山光濃欲滴龍荒折臂甲枝郞仍按凭欄尤可怕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 義城客舍北樓
+  author: 金之岱
+  language: lzh
+  text: 聞韶公舘後園深。中有危樓百餘尺。香風十里捲珠簾。明月一聲飛玉笛。煙輕柳影細相連。雨霽山光濃欲滴。龍荒折臂甲枝郞。仍按凭欄尤可怕。
+korean:
+  title: 의성 객사북루
+  author: 김지대
+  language: kor
+  text: |-
+    문소 고을 공관은 후원이 깊어
+    거기에 백여 척의 높은 누각 있다 하네
+    향기 바람 십리에 주렴을 걷고
+    밝은 달에 한 소리 옥젓대가 날으네
+    연기가 가벼우매 버들 그림자는 가늘어 서로 이어지고
+    비가 개매 산빛은 짙어서 〈뚝뚝〉 듣는 것 같다
+    용황에 팔을 꺾은 갑지랑이라
+    이내 난간에 기대고 있으매 더욱 두려워지도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: The Northern Tower of the Guest House at Uiseong
+  author: Kim Jidae
+  language: eng
+  text: |-
+    They say the magistrate's compound at Munso extends deep into its garden,
+    where a tower rises a hundred spans or more into the sky.
+    Fragrant winds sweep curtains of pearls for ten leagues around,
+    and under the bright moon, a single note of jade flute takes flight.
+
+    Where smoke drifts thin, willow shadows weave together delicately,
+    and when rain clears, mountain colors grow so rich they seem to drip.
+    Here where the dragon's arm bends broken—that region wild and strange—
+    I lean against the railing, and my heart grows ever more afraid.
+  footnotes:
+  - key: ''
+    value: The 'jade flute' (옥젓대) is a poetic device suggesting ethereal music that seems to fly upward toward the moon.
+  - key: ''
+    value: '''Dragon''s arm bent'' likely refers to a geographical feature or legendary place name associated with the Uiseong region, adding an element of the mythological to the landscape.'
+  - key: ''
+    value: The final image of leaning against the railing with growing fear suggests both the vertiginous height of the tower and a deeper spiritual or emotional unease, perhaps arising from the tower's liminal position between earth and sky.

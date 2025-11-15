@@ -1,0 +1,47 @@
+canonical:
+  title: 癸丑移舟
+  author: 朴誾
+  language: lzh
+  text: 舟下大灘容一瞥棹入月溪履平地樹齊峽束影淩亂鷗沒魚嬉俱得意石戴村居巧粘蠔臯散牛驢杳行蟻已經危峽荷衆力高倚蓬牎愜淸睡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 癸丑移舟
+  author: 朴誾
+  language: lzh
+  text: 舟下大灘容一瞥。棹入月溪履平地。樹齊峽束影淩亂。鷗沒魚嬉俱得意。石戴村居巧粘蠔。臯散牛驢杳行蟻。已經危峽荷衆力。高倚蓬牎愜淸睡。
+korean:
+  title: 계축일에 배를 옮기며
+  author: 박은
+  language: kor
+  text: |-
+    배가 한여울 내려갈 제 눈 깜짝할 사이러니
+    월계로 접어드니 평지를 밟듯하네
+    좁은 협곡에 나무들, 그림자가 으리으리하고
+    갈매기가 잠기락, 고기가 뛰락 모두 제멋대로
+    돌이 인 촌 집엔 굴이 찰깍 붙었고
+    언덕에 흩어진 마소는 아물아물 개미가 기는 듯
+    뭇사람 힘 덕분에 위태한 고비를 지나와서
+    봉창에 높이 기대어 낮잠을 즐기네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: Moving the Boat on a Guimchuk Day
+  author: Park Eun
+  language: eng
+  text: |-
+    The boat sweeps past the great rapids in a blink—
+    paddles slip into Moon Creek where we glide like walking on level ground.
+    In the narrow gorge, trees crowd the shadows into wild tangles,
+    seagulls diving, fish leaping, all creatures pleased with their own pursuits.
+    Stones bear village homes where oysters cling like stubborn guests,
+    scattered on the banks, oxen and donkeys dwindle to moving specks of ants.
+    Through the treacherous narrows we've passed, thanks to many hands,
+    now leaning high against the window, I drift into peaceful sleep.
+  footnotes:
+  - key: ''
+    value: Guimchuk refers to a day in the sexagenary cycle, likely dating this poem to a specific journey by boat
+  - key: ''
+    value: Moon Creek (월계) suggests a waterway known for its beauty, perhaps named for moonlit reflection
+  - key: ''
+    value: The detail of oysters clinging to village homes reflects the setting along a coastal or tidal river region

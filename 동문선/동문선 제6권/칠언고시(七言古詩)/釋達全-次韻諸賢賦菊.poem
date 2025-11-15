@@ -1,0 +1,57 @@
+canonical:
+  title: 次韻諸賢賦菊
+  author: 釋達全
+  language: lzh
+  text: 桐風西吹屋頭裂一夜虫聲寒欲結天工放置金剪刀紅情綠意掃無轍淵明啾啾卧蒿里喚起古香香不死黃粉麝囊天爲開金窠四畔秋魂起瓊液蟻面喜飛下尊醪徒亞田家瓦勸君吸盡黃金花頭上紅輪如走馬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻諸賢賦菊
+  author: 釋達全
+  language: lzh
+  text: 桐風西吹屋頭裂。一夜虫聲寒欲結。天工放置金剪刀。紅情綠意掃無轍。淵明啾啾卧蒿里。喚起古香香不死。黃粉麝囊天爲開。金窠四畔秋魂起。瓊液蟻面喜飛下。尊醪徒亞田家瓦。勸君吸盡黃金花。頭上紅輪如走馬。
+korean:
+  title: 여러 사람의 국화 시에 화답하여
+  author: 석달전
+  language: kor
+  text: |-
+    오동나무 바람이 서쪽에서 불어와 지붕이 찢어지니
+    하룻밤 벌레 소리 추워서 얼으려 한다
+    천공이 쇠가위를 내버려 두니
+    붉은 정과 푸른 뜻을 싹 쓸어 흔적 없다
+    연명이 슬피 울면서 고리(묘지(墓地))에 누웠는데
+    옛 향기 불러 일으키니 향기는 죽지 않았다
+    누른 가루의 사향 주머니를 하늘이 열어 주니
+    금 보금자리의 네 이랑에 가을 혼이 일어난다
+    경액(술[酒])에 개미(술 위에 뜨는 쌀알) 뜨는 것 기쁜데
+    두루미 술을 농삿집 질그릇 동이 채웠네
+    권하노니 그대는 황금꽃을 다 마셔라
+    머리 위의 붉은 수레바퀴는 달리는 말 같나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Various Worthies' Verses on Chrysanthemums
+  author: Seok Dal-jeon
+  language: eng
+  text: |-
+    The paulownia wind blows from the west, tearing the roof—
+    through one night insect voices harden in the cold.
+    Heaven's shears lie scattered and abandoned;
+    red passion and green intent sweep away without trace.
+
+    Tao Yuanming weeps softly, resting in his tomb,
+    yet when I summon forth that ancient fragrance, it will not die.
+    Heaven opens the musk-laden pouches of golden dust,
+    and autumn's spirit rises from the four furrows of the golden nest.
+
+    How joyfully the ants dance upon the ceremonial wine,
+    while the crane's wine fills the farmer's earthen vessels.
+    I urge you—drain the golden bloom completely,
+    for the red wheel above your head races like a galloping horse.
+  footnotes:
+  - key: ''
+    value: Tao Yuanming (365-427 CE), the great Chinese poet, was famous for his love of chrysanthemums and his withdrawal from the world.
+  - key: ''
+    value: 'The ''ants'' and ''red wheel'' refer to traditional poetic imagery: ants rising on wine and the setting sun, suggesting the passage of time and the fleeting nature of life.'
+  - key: ''
+    value: This poem follows the form of 'responding in rhyme' (次韻), a common practice where Korean literati would compose verses following the rhyme scheme of earlier poems on the same theme.

@@ -1,0 +1,49 @@
+canonical:
+  title: 吉再
+  author: 成石璘
+  language: lzh
+  text: 山下數閒溪畔廬手栽松竹碧翛踈細君洗爵開新醞稚子挑燈讀古書玩世肯爲中散鍛韜光正似子陵漁門前官道多冠盖高卧從渠自覆車
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 吉再
+  author: 成石璘
+  language: lzh
+  text: 山下數閒溪畔廬。手栽松竹碧翛踈。細君洗爵開新醞。稚子挑燈讀古書。玩世肯爲中散鍛。韜光正似子陵漁。門前官道多冠盖。高卧從渠自覆車。
+korean:
+  title: 길재
+  author: 성석린
+  language: kor
+  text: |-
+    산밑 시냇가의 두어 간 초가집
+    손수 심은 솔과 대의 새파랗게 성긴 가지
+    마누라는 잔을 씻어 새 술독을 열고
+    어린 아들은 등불을 돋우고 옛 글을 읽네
+    세상을 우습게 보는 중산처럼 풀무질이나 하리
+    빛을 감추니 자릉(후한 엄광의 자)의 낚시질 비슷하구나
+    문앞 행길에 수레들 많이 지나건만
+    누워서 바라보나니 엎어지거나 말거나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중산(中散) : '
+    value: 진(晉)의 혜강(嵇康). 그가 중산대부(中散大夫)를 지냈다. 죽림칠현(竹林七賢)의 한 사람. 그는 대장장이의 풀무질을 좋아하여 벗 상수(向秀)와 더불어 마주앉아 풀무질을 하며 방약무인(傍若無人)했다. 여기서는 특히 야은의 야(冶) 자를 두고 쓴 말이다.
+english:
+  title: Gilljae
+  author: Seong Seok-rin
+  language: eng
+  text: |-
+    Below the mountain, a modest cottage by the stream.
+    Pines and bamboo I planted with these hands, green and sparse with grace.
+    My wife washes cups and opens a new jug of wine.
+    Our young son trims the lamp and reads the ancient texts.
+
+    To mock this world like the Middle Grandee?
+    I would rather tend the forge—no, hide my light,
+    True as Lord Zi-ling with his fishing pole.
+    Carriages pass before my gate,
+    Yet I lie content—let them overturn or not.
+  footnotes:
+  - key: ''
+    value: The Middle Grandee (中散) refers to Ji Kang of the Jin dynasty, who held the title of Middle Grandee (Zhongsan Daifu). He was one of the Seven Sages of the Bamboo Grove, known for his love of metalworking and his indifference to worldly affairs.
+  - key: ''
+    value: Lord Zi-ling (子陵) refers to Yan Guang of the Later Han, who famously abandoned court life to fish and live in retirement, becoming a symbol of the recluse who hides his talents from the world.

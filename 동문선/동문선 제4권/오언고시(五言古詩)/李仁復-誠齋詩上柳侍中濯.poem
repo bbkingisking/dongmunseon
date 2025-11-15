@@ -1,0 +1,68 @@
+canonical:
+  title: 誠齋詩上柳侍中濯
+  author: 李仁復
+  language: lzh
+  text: 誠者性之德不妄故不息所以大君子於此必用極我身繫安危我居宜謹飭䆫扉敞虛明欄檻去雕飾逶迤退自公燕座至移刻新扁人具瞻表正影斯直望重專鈞衡功崇在社稷魁然房杜風萬古永作則
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 誠齋詩上柳侍中濯
+  author: 李仁復
+  language: lzh
+  text: 誠者性之德。不妄故不息。所以大君子。於此必用極。我身繫安危。我居宜謹飭。䆫扉敞虛明。欄檻去雕飾。逶迤退自公。燕座至移刻。新扁人具瞻。表正影斯直。望重專鈞衡。功崇在社稷。魁然房杜風。萬古永作則。
+korean:
+  title: 시중 유탁에게 올리는 성재에 대한 시
+  author: 이인복
+  language: kor
+  text: |-
+    성이란 곧 성품의 덕이거니
+    허망하지 않으므로 쉬지 않는 것
+    그러므로 큰 군자는
+    반드시 이것을 극진히 힘쓴다
+    내 몸은 편안하고 위태함이 성하고 성하지 못한 데에 매였으니
+    나의 처신을 마땅히 삼가고 경계하라
+    사립문은 허명을 통하고
+    난간과 마루는 조각과 단청을 버려라
+    천천히 공무에서 물러나와
+    시간이 가는 대로 조용히 앉아 있다
+    새로 건 편액을 사람마다 우러러 보니
+    형체가 바르면 그림자도 곧아진다
+    물망은 무거워 정승 자리를 오로지했고
+    공은 높아 사직에 있도다
+    높고 위대한 방ㆍ두의 맑은 바람
+    만고에 길이 법이 되리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0580&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 성(誠)이란 …… 않는 것 : '
+    value: “성(誠)은 무망(无妄)인데, 무망한 때문에 쉬지 않는다.”는 말이 경(經)에 있다.
+  - key: '[주-D002] 방ㆍ두(房杜)의 …… 법이 되리라 : '
+    value: 당나라 방현령(房玄齡)ㆍ두여회(杜如晦)가 어진 정승이므로 당시의 사람들이, “황각(黃閣) 20년에 맑은 바람이 일만고(一萬古)로다.” 하였다.
+english:
+  title: A Poem on Sincerity Presented to Counselor Yu Tak
+  author: Lee Inbok
+  language: eng
+  text: |-
+    Sincerity is the virtue of one's nature—
+    Free from deception, it never ceases.
+    Thus the great gentleman
+    Must devote himself utterly to this.
+
+    My body hangs between safety and peril,
+    So in my conduct I must be ever watchful and reserved.
+    Let the doors stand open to light,
+    And the railings shed their painted ornaments.
+    Gently withdrawing from public affairs,
+    I sit in stillness as the hours drift away.
+
+    The new tablet all eyes lift to see—
+    When the form stands true, the shadow falls straight.
+    His influence weighed heavy on the scales of state,
+    His merit rooted in the altar of the realm.
+
+    Majestic as the virtue of Fang and Du,
+    Your clear wind shall become the law of ages.
+  footnotes:
+  - key: ''
+    value: Sincerity (誠) is understood in classical philosophy as the absence of deception, from which flows constancy and unfailing activity.
+  - key: ''
+    value: Fang Xuanling and Du Ruhui were celebrated ministers of the Tang Dynasty, so highly regarded that contemporaries praised them as 'twenty years of clear wind in the imperial halls, echoing through ten thousand ages.'

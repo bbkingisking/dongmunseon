@@ -1,0 +1,45 @@
+canonical:
+  title: 和副使侍郞梅岑有感
+  author: 金富軾
+  language: lzh
+  text: 中華地盡水茫茫百尺張帆指故鄕天闊波濤浮日月雨餘雲霧襯巒岡黃昬沸沫驚心白朱夏濃陰着面凉雖喜王庭行復命猶思帝所樂洋洋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和副使侍郞梅岑有感
+  author: 金富軾
+  language: lzh
+  text: 中華地盡水茫茫。百尺張帆指故鄕。天闊波濤浮日月。雨餘雲霧襯巒岡。黃昬沸沫驚心白。朱夏濃陰着面凉。雖喜王庭行復命。猶思帝所樂洋洋。
+korean:
+  title: 부사 시랑이 매잠에서 느낌 있음을 화답하며
+  author: 김부식
+  language: kor
+  text: |-
+    중국 땅 끝난 곳 바닷물이 망망한데
+    백 자 돛을 펼치고 고향을 지향하네
+    하늘이 넓으니 파도는 해와 달을 띠워 있고
+    비온 뒤라 운무는 산에 뭉쳐 있구나
+    황혼에 끓는 흰 물거품은 가슴을 서늘하게 하고
+    한 여름 짙은 그늘은 얼굴에 닿아 시원하네
+    임금께 돌아가 복명할 일 기쁘나
+    제도의 생각에 즐거움 아직 양양하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0540&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 매잠(梅岑) : '
+    value: 절강성정해현(定海縣) 동편 바다 가운데의 보타산(普陀山). 한대(漢代)에 매복(梅福)이 은거했다는 산이다.
+english:
+  title: In Response to Vice-Envoy Attendant Official on His Reflections at Meican
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Where the Middle Kingdom's lands end, the sea stretches boundless and wide,
+    A hundred-cubit sail unfurled, pointing homeward with the tide.
+    The vast sky holds the waves aloft, bearing sun and moon on high,
+    After rain, mist and clouds gather round the peaks that touch the sky.
+    At dusk, white foam churns and froths, chilling the heart with awe,
+    In the deep summer's dense shade, coolness graces the face in thaw.
+    Though joy fills me to return to court and report my task complete,
+    The thought of the imperial way still stirs a joy that cannot retreat.
+  footnotes:
+  - key: ''
+    value: Meican (梅岑) refers to Putuo Mountain in the sea off the coast of Dinghai County in Zhejiang Province, traditionally associated with the recluse Mei Fu of the Han Dynasty.

@@ -1,0 +1,45 @@
+canonical:
+  title: 獨坐
+  author: 權湛
+  language: lzh
+  text: 朝來續殘夢猶自擁紬衾天地新春暖圖書小院深南山雖晦跡北闕尙丹心老去交遊少幽禽傍竹林
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獨坐
+  author: 權湛
+  language: lzh
+  text: 朝來續殘夢。猶自擁紬衾。天地新春暖。圖書小院深。南山雖晦跡。北闕尙丹心。老去交遊少。幽禽傍竹林。
+korean:
+  title: 독좌
+  author: 권담
+  language: kor
+  text: |-
+    아침에 못 다 꾼 꿈을 잇노라고
+    다시 명주 이불을 끌어당기네
+    천지에는 새로 봄이 따뜻한데
+    도서 속에 작은 서재가 깊다
+    비록 남산에 숨어 있으나
+    북궐 향한 단심은 변함없어라
+    늙어가매 교유하는 이가 적어
+    그윽한 새가 죽림에 가까이 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1030&viewSync=OT
+  footnotes: []
+english:
+  title: Sitting Alone
+  author: Kwon Dam
+  language: eng
+  text: |-
+    I linger in dreams unfinished at dawn,
+    Drawing the silk quilt close around me again.
+    Spring warms the heavens and earth anew,
+    While books and scrolls deepen my small study.
+    Though I hide away on Southern Mountain,
+    My loyal heart still faces the Northern Palace.
+    With age, fewer companions seek me out—
+    Only quiet birds draw near the bamboo grove.
+  footnotes:
+  - key: ''
+    value: Southern Mountain (南山) and Northern Palace (北闕) are classical references suggesting retreat from court life while maintaining allegiance to the throne
+  - key: ''
+    value: The contrast between withdrawal and continued loyalty reflects the tension common in Korean literati of the Joseon period between private cultivation and public duty

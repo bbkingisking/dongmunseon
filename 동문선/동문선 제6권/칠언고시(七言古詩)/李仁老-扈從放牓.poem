@@ -1,0 +1,50 @@
+canonical:
+  title: 扈從放牓
+  author: 李仁老
+  language: lzh
+  text: 半簾紅日黃金闕多士三千鴈成列忽從丹陛姓名傳縱步靑雲歧路闊吐鳳成文價益高畫蛇着足難藏拙老手曾經百戰餘今恠吳牛虛喘月
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 扈從放牓
+  author: 李仁老
+  language: lzh
+  text: 半簾紅日黃金闕。多士三千鴈成列。忽從丹陛姓名傳。縱步靑雲歧路闊。吐鳳成文價益高。畫蛇着足難藏拙。老手曾經百戰餘。今恠吳牛虛喘月。
+korean:
+  title: 호종 방방
+  author: 이인로
+  language: kor
+  text: |-
+    아침 황금 궁궐에 주렴을 반쯤 드리웠는데
+    많은 선비 삼천 기러기가 열을 지었다
+    총총히 붉은 뜰에 올라 성명을 전하고
+    푸른 구름에 걸음을 걸으니 길이 넓어진다
+    봉(아름다운 문장(文章)을 비유)을 토해 글을 만드니 값은 더욱 높고
+    뱀을 그려 발을 붙이니 졸한 것은 감추기 어렵구나
+    익숙한 솜씨가 일찍 백 번 싸움을 겪었는데
+    지금 오나라 소가 헛되이 달보고 헐떡이는 것이 괴이하도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 뱀을 …… 어렵구나 : '
+    value: 옛 사람이 술 한 잔을 놓고는 각각 뱀을 그려서 먼저 그리는 사람이 그 술을 마시기로 하였는데 한 사람이 먼저 그려서 다시 뱀의 발을 그렸다. 나중 그린 사람이 말하기를, “너는 먼저 그렸어도 발이 있는 것은 뱀이 아니다.” 하고는 술을 빼앗아 먹었다.
+  - key: '[주-D002] 오(吳)나라 …… 헐떡이는 것 : '
+    value: 오(吳)나라 소는 달을 보고도 헐떡인다는 말이 있는데, 소가 일에 피곤하여 달을 보고도 해가 뜨는가 하여 헐떡인다는 것이다.
+english:
+  title: Escorting the Proclamation of Successful Candidates
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Half-drawn curtains frame the crimson dawn above the golden palace.
+    Three thousand scholars stand in rows like migrating geese in formation.
+    Suddenly their names are called from the scarlet steps,
+    And their steps ascend through azure clouds where paths stretch infinite.
+
+    They exhale beauty into words—their value rises ever higher,
+    Yet like one who adds feet to a serpent, flaws cannot hide their folly.
+    Though seasoned hands have weathered a hundred battles past,
+    Today I marvel at the ox of Wu, panting vainly at the moon.
+  footnotes:
+  - key: ''
+    value: The reference to drawing a serpent's feet alludes to an ancient tale where men raced to draw serpents for a prize. One finished first but foolishly added feet to his serpent, losing to another who pointed out that serpents have no feet—a metaphor for ruining perfection through excess.
+  - key: ''
+    value: The ox of Wu refers to an exhausted ox so weary it mistakes the moon for the rising sun and pants breathlessly—here suggesting bewilderment and fatigue in the face of change.

@@ -1,0 +1,49 @@
+canonical:
+  title: 珍島碧波亭次崔按部永濡韻
+  author: 蔡寶文
+  language: lzh
+  text: 畫欄飛出碧波頭夾道黃蘆與綠筠柳岸緬思彭澤令桃村時見武陵人蔽虧烟際蓬萊朶出沒波閒日月輪金橘數枝低馬首未應全道使君貧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 珍島碧波亭次崔按部永濡韻
+  author: 蔡寶文
+  language: lzh
+  text: 畫欄飛出碧波頭。夾道黃蘆與綠筠。柳岸緬思彭澤令。桃村時見武陵人。蔽虧烟際蓬萊朶。出沒波閒日月輪。金橘數枝低馬首。未應全道使君貧。
+korean:
+  title: 진도 벽파정에서 안부 최영유의 시에 차운하여
+  author: 채보문
+  language: kor
+  text: |-
+    푸른 물결 가에 나는 듯 쑥 내민 그림 난간
+    길 양편엔 누런 갈대와 푸른 대수풀
+    버들 언덕에 팽택령이 생각나네
+    봉숭아 마을에 무릉 사람이 가끔 보이누나
+    봉래산은 꽃송이처럼 안개속에 보일 듯 말 듯
+    해와 달 바퀴가 물결 사이로 들락날락
+    황금귤 가지가 말머리에 늘어졌으니
+    사군이 어찌 가난하랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 팽택령(彭澤令) : '
+    value: 도연명(陶淵明)인데, 문앞에 다섯 버드나무를 심었다.
+english:
+  title: Matching the Rhyme of Choe Yeong-yu's Poem at Biryu Pavilion on Jindo Island
+  author: Chae Bo-mun
+  language: eng
+  text: |-
+    The painted railing springs forth like brushstrokes on the blue wave's edge.
+    Along the path, golden reeds and verdant bamboo grove.
+    On the willow bank, I recall the magistrate of Pengze,
+    And sometimes glimpse a visitor from Wuling's peach-blossom realm.
+    Penglai's blossoms drift like flowers through the misty veil—
+    Now visible, now hidden, the sun and moon wheel through the waves.
+    A few golden citrus branches bow down to touch the horse's head—
+    How could the governor be called poor?
+  footnotes:
+  - key: ''
+    value: The magistrate of Pengze refers to Tao Yuanming, the renowned recluse poet who planted five willows before his residence.
+  - key: ''
+    value: Wuling's peach-blossom realm alludes to the utopian setting in the classical tale 'The Peach Blossom Spring,' symbolizing an idealized, hidden paradise.
+  - key: ''
+    value: Penglai refers to the legendary Daoist island of immortals in Chinese mythology.

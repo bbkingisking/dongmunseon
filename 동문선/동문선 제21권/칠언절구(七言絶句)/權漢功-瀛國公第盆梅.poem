@@ -1,0 +1,39 @@
+canonical:
+  title: 瀛國公第盆梅
+  author: 權漢功
+  language: lzh
+  text: 玉瘦瓊憔意未平出塵仙骨更輕盈細看不是春風面萬里明妃雪裏行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 瀛國公第盆梅
+  author: 權漢功
+  language: lzh
+  text: 玉瘦瓊憔意未平。出塵仙骨更輕盈。細看不是春風面。萬里明妃雪裏行。
+korean:
+  title: 영국공제분매
+  author: 권한공
+  language: kor
+  text: |-
+    옥이 여위고 구슬이 파리하여 기상이 쓸쓸할수록
+    티끌을 벗어난 신선의 뼈가 더욱 가냘프구나
+    자세히 보면 그것은 봄바람의 얼굴이 아니라
+    명비가 만 리 눈 속으로 가는 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0810&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 명비(明妃) : '
+    value: 한(漢)나라 궁녀(宮女)  왕소군(王昭君)을 진(晋)나라 사람들은 명비(明妃)라 불렀다. 그것은 한나라 무제(武帝)의 아버지 이름이 소(昭)인 때문에 소를 명(明)으로 바꾸었다. 소군이 흉노(匈奴)의 임금에게 시집갈 때에 기색이 초췌(憔悴)하였을 것이라 하여 매화에 비유한 것이다.
+english:
+  title: Plum Blossoms in the Garden of the Prince of Ying
+  author: Kwon Han-gong
+  language: eng
+  text: |-
+    Jade grows gaunt, pearls fade pale—the heart's lament finds no rest.
+    Bones of immortals, freed from dust, grow ever more ethereal.
+    Look closely: this is no face kissed by spring winds,
+    But Ming-fei walking ten thousand leagues through snow.
+  footnotes:
+  - key: ''
+    value: Ming-fei refers to Wang Zhaojun (王昭君), a Han dynasty court lady sent to marry a Xiongnu chieftain. She became a symbol of melancholy beauty and sacrifice. The poet compares the winter plum blossom to her sorrowful countenance on that distant journey.
+  - key: ''
+    value: The plum blossom here embodies both the refined elegance of immortal spirits and the quiet sorrow of exile—a traditional association in East Asian poetry.

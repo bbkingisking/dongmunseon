@@ -1,0 +1,48 @@
+canonical:
+  title: 李平章光縉挽詞
+  author: 林椿
+  language: lzh
+  text: 兩代黃扉相時稱萬石君獨全知畏愼早白爲憂勤遺令孤皆奉陰功世莫聞秋風數行淚洒向北邙墳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李平章光縉挽詞
+  author: 林椿
+  language: lzh
+  text: 兩代黃扉相。時稱萬石君。獨全知畏愼。早白爲憂勤。遺令孤皆奉。陰功世莫聞。秋風數行淚。洒向北邙墳。
+korean:
+  title: 이평장 광진 만사
+  author: 임춘
+  language: kor
+  text: |-
+    두 대를 이어 황비의 정승
+    사람들이 만석꾼이라 일컫네
+    삼갈 줄을 알아서 홀로 몸이 안전했고
+    나라 일에 근심하고 부지런하여 머리 일찍 희었네
+    유언은 아들 있어 받들지만
+    숨은 공은 세상에 알 이 없네
+    가을바람, 두어 줄 눈물을
+    북망산 무덤 위에다 뿌리나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 만석꾼(萬石君) : '
+    value: 한(漢)나라 석분이 그의 네 아들과 함께 이천 석(二千石)의 관직(官職)에 있으니, 사람들이 그 부자(父子)를 만석꾼(萬石君)이라 불렀다. 그는 근신(勤愼)하고 가법(家法)이 엄(嚴)하기로 유명하였다.
+english:
+  title: Elegy for Minister Lee Pyeongzhang Gwangjin
+  author: Im Chun
+  language: eng
+  text: |-
+    Through two generations he served as prime minister of the imperial court,
+    The people called him the Ten-Thousand Stone Lord.
+    Knowing when to yield, he alone remained whole and safe,
+    His hair turned white from worry and diligent service to the realm.
+
+    His final words his sons dutifully upheld,
+    Yet his hidden virtues remain unknown to the world.
+    Autumn wind carries forth a few lines of tears,
+    Scattered upon the graves of Beimang's distant hills.
+  footnotes:
+  - key: ''
+    value: The "Ten-Thousand Stone Lord" refers to the legendary Shi Fen of the Han dynasty, whose virtue and careful conduct through two generations became the model of familial propriety and official restraint. The reference elevates Lee Pyeongzhang as a worthy successor to this Confucian ideal.
+  - key: ''
+    value: Beimang is a traditional burial ground near Luoyang, used here as a generic reference to the cemetery where the deceased is buried.

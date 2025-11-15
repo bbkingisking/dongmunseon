@@ -1,0 +1,45 @@
+canonical:
+  title: 閑適
+  author: 金時習
+  language: lzh
+  text: 自少無關意而今愜素心種花連竹塢蒔藥避棠陰苔蘚人蹤少琴書樹影深從來樗散質更與病侵尋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閑適
+  author: 金時習
+  language: lzh
+  text: 自少無關意。而今愜素心。種花連竹塢。蒔藥避棠陰。苔蘚人蹤少。琴書樹影深。從來樗散質。更與病侵尋。
+korean:
+  title: 한적
+  author: 김시습
+  language: kor
+  text: |-
+    젊어서부터 세상 일에 무관하더니
+    지금에 와서 본디 마음 유쾌하다
+    대숲 언덕에 이어 꽃을 심고
+    아가위 그늘 피해 약 모종 낸다
+    사람 자취 드물어 이끼 끼고
+    나무 그늘 깊은 곳에 거문고와 책이 있다
+    이전부터 쓸데없는 자질이거니
+    다시 병이 침노해 찾아 들도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0380&viewSync=OT
+  footnotes: []
+english:
+  title: Leisure and Ease
+  author: Kim Siseup
+  language: eng
+  text: |-
+    From youth I remained untouched by worldly affairs,
+    and now in these years my nature finds its ease.
+    I plant flowers along the bamboo-shaded slopes,
+    and set out medicine seedlings beyond the parasol's shade.
+    Moss grows thick where few footsteps fall,
+    and deep beneath the tree-shadows lie my zither and books.
+    Always I have been of useless constitution—
+    now illness too comes seeking me out.
+  footnotes:
+  - key: ''
+    value: The "parasol" (棠) refers to the Chinese parasol tree, whose dense shade was traditionally associated with retreat from duty and society.
+  - key: ''
+    value: The "useless constitution" (樗散質) alludes to the crooked catalpa tree in Zhuangzi, a symbol of one too twisted and worthless for worldly use—here worn as a badge of honor.

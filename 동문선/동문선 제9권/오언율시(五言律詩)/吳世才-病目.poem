@@ -1,0 +1,44 @@
+canonical:
+  title: 病目
+  author: 吳世才
+  language: lzh
+  text: 老與病相隨窮年一布衣玄花多掩映紫石少光輝怯照燈前字羞承雪後暉待看金牓罷閉目坐忘機
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病目
+  author: 吳世才
+  language: lzh
+  text: 老與病相隨。窮年一布衣。玄花多掩映。紫石少光輝。怯照燈前字。羞承雪後暉。待看金牓罷。閉目坐忘機。
+korean:
+  title: 병목
+  author: 오세재
+  language: kor
+  text: |-
+    늙으매 병이 서로 따르니
+    일평생 포의의 신세
+    현화는 아스름하고
+    눈동자[紫石] 광채 적구나
+    등불 앞에 글자 보기 겁이 앞서고
+    눈 온 뒤에 햇빛이 부끄러워라
+    조금 있다 금방이나 보고 난 뒤에
+    눈감고 들어앉아서 세상 일을 잊으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0270&viewSync=OT
+  footnotes: []
+english:
+  title: Eyes Afflicted
+  author: Oh Se-jae
+  language: eng
+  text: |-
+    Old age and sickness walk together,
+    A lifetime draped in the robes of poverty.
+    Cataracts cloud my vision,
+    The pupils have lost their lustre.
+
+    I fear to read by lamplight,
+    Shamed by the brightness after snow.
+    Once the golden registry is closed to me,
+    I'll shut my eyes and sit, forgetting the world's cares.
+  footnotes:
+  - key: ''
+    value: The 'golden registry' (金牓) likely refers to official examination rolls or records of worldly achievement—metaphorically, the pursuits of ambition itself.

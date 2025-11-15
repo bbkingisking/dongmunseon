@@ -1,0 +1,47 @@
+canonical:
+  title: 贈接花者
+  author: 李仁老
+  language: lzh
+  text: 鸞筋鳳喙不易得煎膠續斷無痕迹羨君手持造化鑪玉尺金刀管春色移紅轉紫在須臾夢幻不知誰主客君不見當時扁鵲稱神醫換易心肝人不識
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈接花者
+  author: 李仁老
+  language: lzh
+  text: 鸞筋鳳喙不易得。煎膠續斷無痕迹。羨君手持造化鑪。玉尺金刀管春色。移紅轉紫在須臾。夢幻不知誰主客。君不見當時扁鵲稱神醫。換易心肝人不識。
+korean:
+  title: 증 접화자
+  author: 이인로
+  language: kor
+  text: |-
+    난새 힘줄과 봉의 부리는 쉽게 얻지 못하는 것인데
+    아교를 끓여 끊여진 것 이으니 흔적이 없다
+    그대의 손에 조화의 화로 가진 것이 부럽구나
+    옥 자와 금 칼로 봄빛을 관리하네
+    붉은 빛을 옮겨 자주빛으로 바꾸기도 잠깐 사이라
+    꿈인가 허깨비인가, 주인과 손을 분별할 수가 없네
+    그대는 듣지 못하였는가, 당시의 편작을 신의라 일컫던 것을
+    심장과 간을 바꾸어 놓아도 사람들은 알지 못하였다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 난새 …… 없다 : '
+    value: 한 무제(漢武帝) 때에 서해(西海)에서 바친 난교(鸞膠)가 난새[鸞]의 힘줄에서 뽑아낸 아교[膠]였는데, 그것으로 끊어진 것을 이을 수 있었다.
+english:
+  title: Gift to One Who Grafts Flowers
+  author: Lee In-no
+  language: eng
+  text: |-
+    The sinews of the luan bird, the beak of the phoenix—these are not easily obtained.
+    Yet you boil the glue, mend what is broken, leaving not a trace.
+    I envy your hands that hold the crucible of creation itself,
+    With jade measure and golden blade, you tend the colors of spring.
+    Red transforms to purple in mere moments—
+    In this dream or phantom, who can tell master from servant?
+    Have you not heard of Bian Que, called a divine physician in ancient days?
+    Who switched hearts and livers without a soul knowing the difference?
+  footnotes:
+  - key: ''
+    value: Luan glue (鸞膠) was a legendary adhesive derived from the sinews of the luan bird, presented to Emperor Wu of Han from the Western Sea. It was said to mend broken things without leaving a trace.
+  - key: ''
+    value: Bian Que was a legendary physician of ancient China renowned for miraculous surgical abilities, including the ability to transplant organs without detection.

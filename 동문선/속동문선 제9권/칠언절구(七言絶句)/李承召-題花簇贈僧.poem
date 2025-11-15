@@ -1,0 +1,37 @@
+canonical:
+  title: 題花簇贈僧
+  author: 李承召
+  language: lzh
+  text: 一樹閑花偸雪白雙棲錦羽染猩紅傍人盡作丹靑看不悟從來色是空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題花簇贈僧
+  author: 李承召
+  language: lzh
+  text: 一樹閑花偸雪白。雙棲錦羽染猩紅。傍人盡作丹靑看。不悟從來色是空。
+korean:
+  title: 제 화족 증승
+  author: 이승소
+  language: kor
+  text: |-
+    한 나무의 한가한 꽃이 눈을 훔쳐 흰데
+    쌍으로 깃든 비단새는 성홍에 물들었다
+    곁에 사람들은 모두 단청으로 보면서
+    원래 그 색이 바로 공인 줄을 모른다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Presenting a Cluster of Flowers to a Monk
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    A solitary tree of idle blossoms steals the whiteness of snow,
+    Two silk-winged birds are steeped in crimson red.
+    Those beside gaze upon it all as painted art,
+    Unaware that color, from the first, is emptiness.
+  footnotes:
+  - key: ''
+    value: The poem plays on Buddhist philosophy, suggesting that while observers perceive the flowers and birds as beautiful visual forms (like painted art), these appearances are ultimately illusory—emptiness (sunyata) in Buddhist terms.
+  - key: ''
+    value: The gift to a monk emphasizes the Buddhist context of the poem's meditation on the impermanence and illusory nature of sensory perception.

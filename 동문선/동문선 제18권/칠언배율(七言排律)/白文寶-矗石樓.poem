@@ -1,0 +1,53 @@
+canonical:
+  title: 矗石樓
+  author: 白文寶
+  language: lzh
+  text: 登臨偏憶舊遊時強答江山更覓詩國豈無賢戡世亂酒能撩我感年衰境淸易使塵蹤絶席闊何妨舞手垂點筆謾成春草句停杯且唱竹枝詞妓從坐促爲歡密人與時偕欲去遅此地高懷眞不世赤城玄圃未全奇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 矗石樓
+  author: 白文寶
+  language: lzh
+  text: 登臨偏憶舊遊時。強答江山更覓詩。國豈無賢戡世亂。酒能撩我感年衰。境淸易使塵蹤絶。席闊何妨舞手垂。點筆謾成春草句。停杯且唱竹枝詞。妓從坐促爲歡密。人與時偕欲去遅。此地高懷眞不世。赤城玄圃未全奇。
+korean:
+  title: 촉석루
+  author: 백문보
+  language: kor
+  text: |-
+    올라서니 생각은 예전에 와 놀던 일
+    강산에 대한 인사로 시를 지으려네
+    난세를 평정할 인재 나라에 어이 없으리
+    술에 휘감기니 나도 이제 늙었구나
+    맑디맑은 이 지경에 속진이 어이 얼씬
+    넓은 자리는 춤추기에도 아주 좋고
+    붓을 들어 시를 쓰니 춘초구를 얻었네
+    잔 멈추고 들으련다 죽지사를 불러라
+    자리에 가득한 기생들은 바싹 앉아 정답고
+    사람들은 시절과 함께 얼른 가지 않으려네
+    이 땅의 높은 회포가 진정 속세 아니니
+    적성(천태산(天台山) 입구)과 현포(곤륜산에 있는 신원의 동산)보다도 기특하다 하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: Chukseok Tower
+  author: Baek Munbo
+  language: eng
+  text: |-
+    Climbing high, my thoughts drift to days of old wandering.
+    I greet the mountains and rivers, searching for words to verse.
+    Would a realm lack worthy men to quell its chaos?
+    Wine stirs in me—how it awakens the ache of aging.
+    This crystalline vista dissolves the dust of worldly traces.
+    The broad hall invites the dance, hands flowing free.
+    My brush shapes spring-grass verses, careless and unforced.
+    I pause my cup to hear the bamboo-branch songs ring out.
+    The courtesans sit close, their laughter bright and dense.
+    Men and time move as one, yet none wish to depart.
+    This place holds a spirit beyond the mortal world—
+    Surpassing even the sacred peaks and paradises of legend.
+  footnotes:
+  - key: ''
+    value: The 'spring-grass verses' (춘초구) and 'bamboo-branch songs' (죽지사) are traditional poetic and musical forms, suggesting refined literary entertainment.
+  - key: ''
+    value: Chukseok Tower is a famous historical pavilion where literati gathered for poetry and contemplation.

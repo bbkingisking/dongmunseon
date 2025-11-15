@@ -1,0 +1,53 @@
+canonical:
+  title: 次鐵原東軒韻
+  author: 成俔
+  language: lzh
+  text: 鐵水雄藩古邑州客來無語謾含愁風雲沛上飛揚日烟燼咸陽慘惔秋兩國興亡俱寂寂千年城壘莾悠悠弓王不鑑前車覆付與姑蘇麋鹿遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次鐵原東軒韻
+  author: 成俔
+  language: lzh
+  text: 鐵水雄藩古邑州。客來無語謾含愁。風雲沛上飛揚日。烟燼咸陽慘惔秋。兩國興亡俱寂寂。千年城壘莾悠悠。弓王不鑑前車覆。付與姑蘇麋鹿遊。
+korean:
+  title: 차 철원 동헌 운
+  author: 성현
+  language: kor
+  text: |-
+    철수의 웅장한 고을 옛읍내에 둘러 쌓였는데
+    손은 와서 말도 없이 부질없이 시름한다
+    바람과 구름은 패상(한 고조의 고향)에 드날리던 날이요
+    연기와 재는 함양에서 참담했던 때일네
+    두 나라의 흥하고 망한 것은 모두 다 쓸쓸한데
+    천년의 성과 진터는 거칠어 유유하다
+    궁왕(궁예왕)이 앞 수레의 엎어짐을 거울삼지 못하고
+    고소를 미록이 노는 데에 붙여 주었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 함양(咸陽) : '
+    value: 진(秦)나라 서울이었는데 항우(項羽)가 불을 놓아서 모두 태워버렸다. 여기는 옛날 궁예왕의 도읍이므로 이런 말을 한 것이다.
+  - key: '[주-D002] 궁왕(弓王)이 …… 못하고 : '
+    value: 앞에 가던 수레가 전복되는 것은 뒤에 가는 수레에 경고가 되는 것인데, 그것을 생각하지 아니하고 그대로 그 길로 간다면 역시 전복된다는 뜻이니, 궁예가 신라의 망하는 것을 보고도 신라가 하던 짓을 그대로 하여서 역시 망하게 되었다는 말이다.
+  - key: '[주-D003] 고소(姑蘇)를 …… 주었다 : '
+    value: 고소는 춘추 때의 오(吳)나라 서울이었다. 오나라가 망하여 그 서울이 쑥밭이 되어 산짐승이 와서 놀게 되었다.
+english:
+  title: Following the Rhymes of Iron Source Eastern Pavilion
+  author: Seong Hyeon
+  language: eng
+  text: |-
+    The Iron waters guard this ancient town, a noble domain of old.
+    The traveler arrives in silence, his heart heavy with purposeless sorrow.
+    Wind and clouds once swept the birthplace of emperors in their glory,
+    While smoke and ash consumed Xianyang in autumn's bitter cold.
+    Two kingdoms rose and fell—both now rest in desolate quiet,
+    Thousand-year fortresses crumble into wild, endless decay.
+    Yet the Prince learned not from the wagon that overturned before him,
+    And surrendered Gusu to the deer and elk at play.
+  footnotes:
+  - key: ''
+    value: Xianyang was the capital of the Qin dynasty, burned by Xiang Yu. Here it represents the lost capital of King Gongye, suggesting a parallel fall.
+  - key: ''
+    value: 'The overturned wagon is a metaphor: just as the leading cart''s ruin should warn those behind, King Gongye failed to heed Silla''s collapse and repeated its downfall.'
+  - key: ''
+    value: Gusu was the ancient capital of the Wu kingdom during the Spring and Autumn period. When Wu fell, its capital became overgrown wilderness where wild beasts roamed freely.

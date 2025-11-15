@@ -1,0 +1,71 @@
+canonical:
+  title: 花山君無盡亭詩次崔寧城韻
+  author: 朴元亨
+  language: lzh
+  text: 花山秀氣降英雄才調飄然滿大東名向麒麟留閣上夢尋鸚鵡到洲中亭開有日堪脩禊途坦何人效哭窮幕席寬來千慮散輪蹄少處一尊同滄浪半夜謌漁父鷗鳥多時狎海翁春暮正應眞趣在浴沂吾與咏歸風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 花山君無盡亭詩次崔寧城韻
+  author: 朴元亨
+  language: lzh
+  text: 花山秀氣降英雄。才調飄然滿大東。名向麒麟留閣上。夢尋鸚鵡到洲中。亭開有日堪脩禊。途坦何人效哭窮。幕席寬來千慮散。輪蹄少處一尊同。滄浪半夜謌漁父。鷗鳥多時狎海翁。春暮正應眞趣在。浴沂吾與咏歸風。
+korean:
+  title: 화산군의 무진정에서 최영성의 시에 차운하며
+  author: 박원형
+  language: kor
+  text: |-
+    화산의 수려한 기운이 웅재를 내렸으니
+    넘치는 재주가 대동에 가득하네
+    이름은 이미 기린각에 머무르고
+    꿈은 숫제 앵무주를 찾았네
+    정자가 열리니 날로 수계할 만하고
+    길이 평탄하니 궁도(窮途)에 울리 없네
+    장막 자리 헌칠하니 온 시름 흩어지고
+    거마도 적은 곳에 술 한잔 함께 드네
+    창랑 한밤중에 어부사를 노래하고
+    갈매기는 오래전부터 해옹과 친히 노네
+    때 마침 늦은 봄에 참된 흥취 있으리니
+    기수에 목욕하고 읊으며 돌아가리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 기린각(麒麟閣) : '
+    value: 한(漢)나라 선제(宣帝) 때 곽광(霍光)ㆍ장안세(張安世)ㆍ소무(蘇武) 등 공신 11명의 화상을 그려둔 각(閣).
+  - key: '[주-D002] 앵무주(鸚鵡洲) : '
+    value: 황학루(黃鶴樓) 앞에 앵무주가 있어 최호(崔顥)의 시(詩)에 나왔는데, 이 정자(亭子)를 거기에 비한 것인 듯하다.
+  - key: '[주-D003] 수계(修禊) : '
+    value: 3월 3일 물 가에 모여서 술마시고 노는 것을 수계(修禊)라 하는데, 왕희지(王羲之)가 3월 3일에 난정(蘭亭)에서 여러 명사들과 수계한 일이 있었다.
+  - key: '[주-D004] 궁도(窮途)에 울리 : '
+    value: 진(晉)나라 완적(阮籍)이 나가 놀 때 수레 가는 대로 길을 가다가 길이 끝나면 문득 통곡하고 돌아왔다.
+  - key: '[주-D005] 기수(沂水)에 …… 돌아가리라 : '
+    value: 공자 앞에서 여러 제자들이 각기 제 뜻을 말할[言誌] 때 증점(曾點)이 남다르게 술회(述懷)하여 공자의 동감(同感)을 얻은 말. 《논어》 〈선진(先進)〉편에, “늦은 봄에 봄 옷이 이뤄지거든 관동 6,7명으로 더불어 기수에 목욕하고 무우에 바람 쏘이고 읊으며 돌아오리이다.[莫春者 春服旣成 冠童六七人 浴乎沂 風乎舞雩 咏而歸]”라는 말이 있다.
+english:
+  title: A Poem on Mujinji Pavilion of Hwasangun, Rhyming with Choe Young-sung's Verse
+  author: Park Won-hyung
+  language: eng
+  text: |-
+    The sublime essence of Hwashan has descended upon heroes,
+    Talent in abundance flows throughout the great East.
+    Their names already rest in the Hall of Auspicious Beasts,
+    Their dreams have found the Isle of Parrots.
+
+    When the pavilion opens, each day invites the spring gathering,
+    When the road lies smooth, none need weep at journey's end.
+    With spacious hall and ample seat, a thousand cares dissolve,
+    And where few carriages tread, we share a single cup.
+
+    At midnight by Canglang waters, we sing the fisherman's song,
+    While gulls, long familiar friends, sport with the old sea-sage.
+    As spring's last days unfold, true joy reveals itself—
+    Bathed in Yishui's waters, we return with verses on our lips.
+  footnotes:
+  - key: ''
+    value: 'Hall of Auspicious Beasts: A reference to the Han Dynasty''s monument to great ministers, suggesting excellence and virtue.'
+  - key: ''
+    value: 'Isle of Parrots: Alluding to famous literary associations with immortal pavilions and scholarly gatherings.'
+  - key: ''
+    value: 'Spring gathering: The ancient tradition of gathering by water in spring to compose poetry and celebrate renewal.'
+  - key: ''
+    value: 'The fisherman''s song and gulls: Classical images of hermitic contentment and freedom from worldly concerns.'
+  - key: ''
+    value: 'Yishui waters and verses: A reference to Confucian ideals of sage-like contentment, invoking the spirit of the Master and his disciples.'

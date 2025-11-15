@@ -1,0 +1,35 @@
+canonical:
+  title: 贈古涅僧
+  author: 金宗直
+  language: lzh
+  text: 求名逐利兩紛紛緇俗而今未易分須陟頭流最高頂世間塵土不饒君
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈古涅僧
+  author: 金宗直
+  language: lzh
+  text: 求名逐利兩紛紛。緇俗而今未易分。須陟頭流最高頂。世間塵土不饒君。
+korean:
+  title: 증 고열승
+  author: 김종직
+  language: kor
+  text: |-
+    이름을 구하고 이익을 좇는건 두 가지 시끄럽거니
+    지금은 중과 속인을 분별하기 어렵구나
+    모름지기 두류산의 가장 높은 꼭대기에 올라가라
+    이 세간의 티끌과 흙은 그대를 배불리지 못하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0520&viewSync=OT
+  footnotes: []
+english:
+  title: A Gift for the Monk Goryeol
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    The pursuit of fame and fortune—both create endless noise.
+    Today it grows hard to tell monk from layman apart.
+    You must climb to the very peak of Duryusan's heights,
+    For all the dust and soil of this world cannot satisfy your hunger.
+  footnotes:
+  - key: ''
+    value: Duryusan (두류산) refers to a sacred mountain, often associated with Buddhist monasteries and spiritual retreat.

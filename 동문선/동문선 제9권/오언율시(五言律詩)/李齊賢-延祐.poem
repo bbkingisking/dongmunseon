@@ -1,0 +1,53 @@
+canonical:
+  title: 延祐
+  author: 李齊賢
+  language: lzh
+  text: 我昔留形影靑靑兩鬢春流傳幾歲月邂逅尙精神此物非他物前身定後身兒孫渾不識相問是何人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 延祐
+  author: 李齊賢
+  language: lzh
+  text: 我昔留形影。靑靑兩鬢春。流傳幾歲月。邂逅尙精神。此物非他物。前身定後身。兒孫渾不識。相問是何人。
+korean:
+  title: 연우
+  author: 이제현
+  language: kor
+  text: |-
+    내 옛날 이 초상을 그려 받을 땐
+    푸릇푸릇 두 귀 밑 털에 봄이러니
+    이 그림이 몇 해나 여기저기 떠돌았나
+    다시금 만나보니 정신 아직 그대로
+    이보아, 이 물건이 딴 물건이 아니로세
+    어와, 내 전신이 바로 이 후신일세
+    아이와 손자들은 보고도 모르겠는지
+    날더러 “이게 누구냐” 자꾸 물어보누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0890&viewSync=OT
+  footnotes: []
+english:
+  title: Yeonou
+  author: Lee Jae-hyeon
+  language: eng
+  text: |-
+    In days of old, I sat for this portrait,
+    When spring still lingered in my dark brows,
+    Two temples thick with youth's own verdant hue.
+
+    How many years this image wandered far,
+    Passing through countless hands and distant halls,
+    Until at last we met again by chance.
+
+    Yet here—the spirit dwells unchanged, unmarred.
+    This thing before me is no other thing:
+    My former self now stands as latter self.
+
+    Strange how my children and grandchildren gaze
+    Upon this face and do not know its truth,
+    Asking again and yet again: "But who?"
+    Who is this man that time has rendered strange?
+  footnotes:
+  - key: ''
+    value: This poem is a meditation on a portrait of the poet himself, likely discovered after years of separation. The work explores themes of temporal flux, identity, and the paradox of recognition and estrangement.
+  - key: ''
+    value: The phrase '前身' (former body) and '後身' (latter body) carries Buddhist philosophical resonance, suggesting cycles of existence and transformation.

@@ -1,0 +1,37 @@
+canonical:
+  title: 漁翁
+  author: 金克己
+  language: lzh
+  text: 天翁尙未貰漁翁故遣江湖少順風人世嶮巇君莫笑自家還在急流中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漁翁
+  author: 金克己
+  language: lzh
+  text: 天翁尙未貰漁翁。故遣江湖少順風。人世嶮巇君莫笑。自家還在急流中。
+korean:
+  title: 어옹
+  author: 김극기
+  language: kor
+  text: |-
+    천옹(天翁)이 아직도 어옹에게 너그럽지 않아
+    짐짓 강호에 순풍이 적어라
+    사람 세상 험한 줄을 그대여 웃지 마소
+    자기도 도리어 급류 속에 있는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천옹(天翁) : '
+    value: 하늘을 의인(擬人)으로 불러 천공(天公)이니 천옹(天翁)이니 한다.
+english:
+  title: The Fisherman
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Heaven's Old Man has not yet shown mercy to the fisherman,
+    So fair winds are rare along the rivers and lakes.
+    Do not laugh at the perils of this human world—
+    You yourself are caught in the rushing current.
+  footnotes:
+  - key: ''
+    value: Heaven's Old Man (天翁) is a personification of Heaven, sometimes called Heaven's Master (天公), representing the indifferent or harsh forces of nature and fate.

@@ -1,0 +1,63 @@
+canonical:
+  title: 宋本
+  author: 崔瀣
+  language: lzh
+  text: 我是唐朝侍御孫筆耕遺業繼專門敢從聖域論超詣粗向科塲免數奔揣分始慙充國擧觀光何幸拜天恩簪因朋蓋威儀盛軌與文同敎化敦重諸每承深感德卑懷欲敍澹忘言諸公若賜詩爲寵歸詫鄕人永不諼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宋本
+  author: 崔瀣
+  language: lzh
+  text: 我是唐朝侍御孫。筆耕遺業繼專門。敢從聖域論超詣。粗向科塲免數奔。揣分始慙充國擧。觀光何幸拜天恩。簪因朋蓋威儀盛。軌與文同敎化敦。重諸每承深感德。卑懷欲敍澹忘言。諸公若賜詩爲寵。歸詫鄕人永不諼。
+korean:
+  title: 졸시 육운을 장원 수찬 송본
+  author: 최해
+  language: kor
+  text: |-
+    나는 당조 시어(최치원)의 후손으로
+    필경의 유업을 전문으로 이은 사람
+    감히 성역의 깊은 조예 논하랴만
+    과장에 여러 번 분주는 면하였네
+    분수론 국거에 참예한 것 부끄러우나
+    관광하여 천은을 다행히도 받자왔네
+    쭉 모여 앉은 벗들 위의도 성할씨고
+    같은 수레 같은 글에 교화가 두터웠네
+    중한 조서 받자오매 길이 덕을 감격하고
+    천한 회포 말하려 하나 담담히 말을 잊곤하네
+    여러분이 시를 지어 내게 선물하면
+    돌아가 본국에 자랑하고 길이 잊지 않으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 필경(筆耕) : '
+    value: 최치원(崔致遠)의 저술에 《계원필경(桂苑筆耕)》이란 책이 있다.
+  - key: '[주-D002] 관광(觀光) : '
+    value: 여기서는 과거에 응시한다는 말인데, 《주역》에, “나라의 빛을 보아 임금에게 손[客]이 된다.” 한 말을 인용한 것이다.
+  - key: '[주-D003] 같은 수레 같은 글 : '
+    value: 천하가 통일되어 수레는 바퀴가 동일하고 글은 문자가 같다는 말이다.
+english:
+  title: Song Ben
+  author: Choe Hae
+  language: eng
+  text: |-
+    I am descended from Sun of the Tang court, a scholar-official of renown,
+    Inheriting the literary legacy, the craft of brush and ink my family's own.
+    I dare not claim mastery of the sacred way, though I speak of its heights,
+    Yet I have managed to spare myself from scrambling through the civil service rites.
+
+    My qualifications humble—ashamed to rank among the state's chosen few,
+    Yet fortune has blessed me to witness and receive the sovereign's grace so true.
+    Here gathered friends with ceremonial splendor bright and grand,
+    Sharing the same carriages, same characters, spreading culture across the land.
+
+    Receiving these weighty honors, my heart swells with endless gratitude,
+    Yet in my humble station, words escape me in this tranquil, wordless mood.
+    If you gentlemen would honor me by composing verses as your gift,
+    I shall return and boast of them to my countrymen—a memory they'll never drift.
+  footnotes:
+  - key: ''
+    value: The phrase 'craft of brush and ink' alludes to Choe Chi-won's (Choe Hae's ancestor) work 'Gyewon Pilgyeong' (Literary Gleanings from the Cassia Garden), establishing a scholarly lineage.
+  - key: ''
+    value: '''Receiving the sovereign''s grace'' references the examination system and imperial favor, drawing on the Book of Changes.'
+  - key: ''
+    value: '''Sharing the same carriages, same characters'' is a classical metaphor for unified culture and administration across all lands.'

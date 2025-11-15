@@ -1,0 +1,54 @@
+canonical:
+  title: 寄水鍾寺允禪老
+  author: 徐居正
+  language: lzh
+  text: 龍江上山古伽藍細經崎嶇入翠杉憶昔屢邀靈運過至今猶阻遠公談溪邊呪鉢龍應伏石上繙經虎更參白韈靑鞋吾亦在相逢一咲虎溪南
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄水鍾寺允禪老
+  author: 徐居正
+  language: lzh
+  text: 龍江上山古伽藍。細經崎嶇入翠杉。憶昔屢邀靈運過。至今猶阻遠公談。溪邊呪鉢龍應伏。石上繙經虎更參。白韈靑鞋吾亦在。相逢一咲虎溪南。
+korean:
+  title: 기 수종사 윤선로
+  author: 서거정
+  language: kor
+  text: |-
+    용강 위의 산에 있는 묵은 절이여
+    오솔길 꼬불꼬불 푸른 숲으로 든다
+    옛날에는 영운의 지나감을 자주 맞이했거니
+    지금에는 도리어 원공의 이야기가 막히었다
+    시냇가에서 바리때의 주문 외면 용이 응당 엎드리고
+    돌 위에 경전을 펼치면 호랑이가 다시 참예하리
+    흰 버선과 푸른 신은 내게도 또한 있네
+    호계 남쪽에서 서로 만나 한 번 웃을까나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 용강(龍江) : '
+    value: 수종사(水鍾寺)는 북한강과 남한강이 합수하는 곳 양수리(兩水里)라는 곳에서 멀지 않은 곳에 있는데, 그 양수리를 옛날에는 용나루[龍津]라 하였으므로 여기 용강이라 하였다.
+  - key: '[주-D002] 옛날에는 …… 막히었다 : '
+    value: 옛날 진(晉)나라 때에 여산(盧山)에 혜원(惠遠)이란 고승이 있었는데, 그 고승을 찾아서 사영운(謝靈運)이라는 시인이 여러 번 찾아갔었다. 그래서 이 시의 작자 서거정(徐居正)이 자기를 사영운에 비유하고, 그 수종사에 있는 윤상인(允上人)을 혜원에 비한 것이다.
+  - key: '[주-D003] 시냇가에서 …… 참예하리 : '
+    value: 옛날에 어느 고승이 큰 못 속에서 장난하는 악룡(惡龍)을 주문을 외어서 잡아다가 바리때 안에 집어넣었다 한다. 또 어느 고승은 불경을 연역(演繹)하여 설법하면 문 밖에 호랑이가 와서 가만히 듣고 있었다 한다.
+  - key: '[주-D004] 호계(虎溪) …… 웃을까나 : '
+    value: 혜원대사는 여산(廬山)에 있으면서 어떤 귀한 손님이 왔다가 가더라도 산문 밖에 있는 호계(虎溪)까지 밖에 전송하지 아니하였다. 그런데 어느 날은 도연명과 사영운이 왔다 가는데, 그들을 전송하며 이야기하다가 알지 못하는 사이에 그 시내를 건너 얼마를 더 갔었다. 그제야 깨닫고 세 사람이 모두 크게 웃었다 한다. 그래서 그것을 호계삼소(虎溪三笑)라 한다.
+english:
+  title: Letter to Reverent Yun at Sujong Temple
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Upon the Dragon River, an ancient temple sits on the mountain.
+    A winding path of stone leads deeper into emerald pines.
+    Once I recall, Lingwu's footsteps passed through here often—
+    yet now even the words of Huiyuan seem blocked and far away.
+
+    By the stream, when mantras sound, dragons surely bow,
+    and upon the rocks, when sutras unfold, tigers gather to listen.
+    White socks and blue shoes—I too possess such things.
+    Shall we meet south of Tiger Creek and share a single laugh?
+  footnotes:
+  - key: ''
+    value: Lingwu (謝靈運) and Huiyuan (慧遠) were figures from the Jin Dynasty—the poet employs this classical allusion to compare his own visit to the monk Yun at Sujong Temple, mirroring how Lingwu repeatedly visited the great sage Huiyuan.
+  - key: ''
+    value: The poem references the 'Tiger Creek Three Laughs' (虎溪三笑), a famous Buddhist legend in which the recluse Huiyuan, known for never crossing Tiger Creek to escort visitors, once inadvertently crossed it while accompanying Tao Yuanming and Xie Lingwun—upon realizing their transgression, all three burst into uncontrollable laughter at the irony.

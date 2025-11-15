@@ -1,0 +1,49 @@
+canonical:
+  title: 次江陵東軒韻
+  author: 權思復
+  language: lzh
+  text: 早日孤遊已隔年此行重到豈非天但聞依舊琴三尺不問當時鑑半邊風過竹聲初似雨雲歸松翠欲生烟坐看紅白花如海却憶坡仙賦玉仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次江陵東軒韻
+  author: 權思復
+  language: lzh
+  text: 早日孤遊已隔年。此行重到豈非天。但聞依舊琴三尺。不問當時鑑半邊。風過竹聲初似雨。雲歸松翠欲生烟。坐看紅白花如海。却憶坡仙賦玉仙。
+korean:
+  title: 차 강릉동헌 운
+  author: 권사복
+  language: kor
+  text: |-
+    젊어서 혼자 와 논 지가 여러 해 전인데
+    이번에 다시 오니 하늘이 시킨 것 아닌가
+    의구히 석 자 거문고 소리가 들리누먼
+    그때 거울 반쪽은 묻지 않으려네
+    바람이 대에 지나가니 처음엔 빗소리 같고
+    구름이 푸른 솔에 돌아가니 연기가 나려는 듯
+    울긋불긋한 꽃이 바다처럼 핀 것 보니
+    소동파 옥선화 읊던 것이 회상되네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소동파(蘇東坡) 옥선화(玉仙花) : '
+    value: 소동파(蘇東坡)의 시에, “멀리 상상컨대 2월 왕성 밖에 옥선의 큰 복꽃이 바다와 같다.[遙知二月王城外 玉仙洪福花如海]”라는 구절이 있다.
+english:
+  title: Matching the Rhyme of the East Pavilion at Gangneung
+  author: Gwon Sa-bok
+  language: eng
+  text: |
+    Years have passed since those lonely wanderings of youth—
+    That I return again, is this not Heaven's will?
+    Still the three-foot zither's voice reaches my ear,
+    Yet I ask not about the mirror's other half from then.
+    Wind through bamboo brings a sound like rain at first,
+    Clouds settling on green pines seem to birth new mist.
+    Watching flowers bloom in waves of red and white,
+    I recall the verses on jade blossoms sung by the Immortal of the East.
+  footnotes:
+  - key: ''
+    value: The 'three-foot zither' suggests the persistence of refined pleasures and past memories in this place.
+  - key: ''
+    value: The 'mirror's other half' alludes to separation and loss, a classical image of incompleteness.
+  - key: ''
+    value: 'Su Dongpo''s famous lines on jade blossoms read: ''Imagining afar in the second month beyond the royal city / The great blooms of the jade immortal flower like the sea.'' The poet echoes this celebrated image to evoke both the beauty of this garden and his connection to the literary tradition.'

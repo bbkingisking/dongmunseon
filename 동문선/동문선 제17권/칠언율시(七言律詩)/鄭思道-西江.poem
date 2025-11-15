@@ -1,0 +1,52 @@
+canonical:
+  title: 西江
+  author: 鄭思道
+  language: lzh
+  text: 將軍兀坐鬢如絲風雪連江五夜遅天近鸞凰正翔集路長騏驥倦驅馳敢希令尹三無慍每憶陳平六出奇刀斗聲殘無夢寐呼燈援筆寫新詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西江
+  author: 鄭思道
+  language: lzh
+  text: 將軍兀坐鬢如絲。風雪連江五夜遅。天近鸞凰正翔集。路長騏驥倦驅馳。敢希令尹三無慍。每憶陳平六出奇。刀斗聲殘無夢寐。呼燈援筆寫新詩。
+korean:
+  title: 서강
+  author: 정사도
+  language: kor
+  text: |-
+    오뚝히 앉은 장군의 새하얀 머리
+    풍운은 강까지 휘몰아치고 밤은 오경
+    하늘이 가까워 난새ㆍ봉새 날아 모이고
+    길이 머니 천리마도 달리기에 지쳤네
+    영윤이 세 번 쫓겨나도 노염 없기를 감히 바라리
+    진평이 여섯 번 낸 기계만 노상 생각하네
+    조두소리 뜸한데 잠 못 이루어
+    불 켜고 붓을 들어 새론 시를 쓰노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영윤(令尹)이 …… 노염 없기 : '
+    value: 춘추 시대 때 초(楚)의 영윤(令尹)  자문(子文)이 세 번 벼슬에 올랐으나 기뻐하지 않고, 세 번 벼슬을 그만두게 되었어도 노여워하지 않았다.
+  - key: '[주-D002] 진평(陳平)이 …… 기계(奇計) : '
+    value: 한(漢)나라 진평(陳平)이 평생에 국가와 전쟁에 대해서 여섯 가지 기특한 꾀를 내었다.
+english:
+  title: West River
+  author: Jung Sadō
+  language: eng
+  text: |-
+    A general sits alone, his hair white as silk.
+    Wind and snow drive across the river; five nights grow late.
+    Heaven draws near—cranes and phoenixes gather in flight.
+    The road stretches long—even the swift steed grows weary of its charge.
+    I dare but hope for the composure of an old minister,
+    unmoved by promotion or blame.
+    Yet I think always of Chen Ping's six stratagems,
+    his cunning arts that turned the tide.
+    The drums of battle fade to silence; sleep eludes me.
+    I light the lamp, take up my brush,
+    and write these verses anew.
+  footnotes:
+  - key: ''
+    value: The 'old minister' (令尹) references Zi Wen of the state of Chu, who served three times and retired three times with neither pride nor rancor.
+  - key: ''
+    value: Chen Ping was a Han Dynasty statesman famous for devising six brilliant stratagems in service of the state and its military campaigns.

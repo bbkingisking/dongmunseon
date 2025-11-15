@@ -1,0 +1,70 @@
+canonical:
+  title: 扶餘懷古次稼亭韻
+  author: 曺偉
+  language: lzh
+  text: 扶蘇之陽泗泚河何年南徙來爲家謾憑城池構釁怨挐兵不念瘡痍多君臣酣宴昧遠略萬騎壓境來唐羅牽羊銜璧事已急可憐倉皇張麗華香鈿翠翹墮嵓底驚魂飄散隨風花不用忠言悔噬臍至今荊棘悲銅駝地下纍臣目不瞑凄涼麥秀聞哀歌衮衮興亡天亦老靑山脉脉江生波
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 扶餘懷古次稼亭韻
+  author: 曺偉
+  language: lzh
+  text: 扶蘇之陽泗泚河。何年南徙來爲家。謾憑城池構釁怨。挐兵不念瘡痍多。君臣酣宴昧遠略。萬騎壓境來唐羅。牽羊銜璧事已急。可憐倉皇張麗華。香鈿翠翹墮嵓底。驚魂飄散隨風花。不用忠言悔噬臍。至今荊棘悲銅駝。地下纍臣目不瞑。凄涼麥秀聞哀歌。衮衮興亡天亦老。靑山脉脉江生波。
+korean:
+  title: 부여 회고 차 가정 운
+  author: 조위
+  language: kor
+  text: |-
+    부소산 북쪽 사비하로
+    어느 해에 남쪽으로 옮아와 나라를 세웠던고
+    성지를 믿고 인국과 말썽을 부리고
+    군병을 옹하여 민생의 창이를 돌보지 않았네
+    군신이 주연에 빠져 원략을 몰라
+    당ㆍ나의 만기가 국경에 들이닥치니
+    양을 끌고 구슬을 입에 물어도 일은 이미 급하여
+    가련할쏜 창황하는 장려화의 신세
+    삼천 궁녀가 바위 밑으로 떨어지니
+    흩어지는 놀란 혼이 바람 앞의 꽃처럼
+    충언을 듣지 않고 마침내 후회막급
+    지금도 궁궐 폐허에 동타가 설워하네
+    지하의 충신이 눈을 감지 못하고
+    처량한 맥수가가 구슬피 들렸구나
+    흥망도 다 지난 일, 하늘조차 늙었는데
+    청산은 말없이 섰고 강은 물결치누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장려화(張麗華) : '
+    value: 남조(南朝) 진 후주(陳後主)의 비(妃). 임금의 총애를 입어 임금의 무릎에 늘 안겨 정사를 결단했으며, 국정(國政)을 문란하게 하였다. 수군(隋軍)이 입성(入城)하자 후주(後主)와 함께 숨었다가 수군에게 참살되었다.
+  - key: '[주-D002] 맥수가(麥秀歌) : '
+    value: 주(周)나라가 반란 뒤 기자(箕子)가 고향에 들렀다가, 그 폐허를 노래한 망국애가(亡國哀歌)이다. 《史記》
+english:
+  title: 'On Ancient Baekje: Following the Rhyme of Gajeong'
+  author: Cao Wei
+  language: eng
+  text: |-
+    By Busosan's northern slopes flows the Sabi River—
+    What year did they migrate south to build their kingdom here?
+    They trusted their fortified walls and courted discord,
+    Ignoring the people's wounds while marshaling their troops.
+
+    Lords and ministers lost themselves in revelry,
+    Neglecting strategy as Tang and Luo's ten thousand riders pressed the borders.
+    Leading lambs and clutching pearls in desperate gestures—
+    Yet fate had already turned. How pitiful the panicked beauty,
+    As Lady Li plummeted with three thousand palace women
+    Into the ravine below, their startled souls
+    Scattered like blossoms on the wind.
+
+    They spurned wise counsel and now regret too late—
+    The copper camel weeps over the palace ruins.
+    Beneath the earth, loyal ministers cannot close their eyes,
+    And the sorrowful Song of Wheat echoes still.
+
+    Rise and fall—all passed into history; heaven itself grows old.
+    Yet the blue mountains stand in silence,
+    And the river flows on, wave after wave.
+  footnotes:
+  - key: ''
+    value: Lady Li (張麗華) was the beloved concubine of the Chen Dynasty's last emperor. She wielded such influence over the throne that she helped precipitate the dynasty's fall. When Sui forces conquered the capital, she perished alongside her emperor.
+  - key: ''
+    value: The Song of Wheat (麥秀歌) is a lament traditionally sung by Jizi when he passed through the ruins of the Shang Dynasty after the Zhou conquest—a classical image of fallen empires.

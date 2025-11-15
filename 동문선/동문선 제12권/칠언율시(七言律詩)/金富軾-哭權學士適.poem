@@ -1,0 +1,49 @@
+canonical:
+  title: 哭權學士適
+  author: 金富軾
+  language: lzh
+  text: 書劒當年入汴京玉皇親賜好科名揮毫敏捷渾無纇對酒▣▣別有情忽忽浮生驚大夢飄飄逸氣返元精斷絃難得鸞膠續含淚悲吟老友生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 哭權學士適
+  author: 金富軾
+  language: lzh
+  text: 書劒當年入汴京。玉皇親賜好科名。揮毫敏捷渾無纇。對酒▣▣別有情。忽忽浮生驚大夢。飄飄逸氣返元精。斷絃難得鸞膠續。含淚悲吟老友生。
+korean:
+  title: 곡 권학사 적
+  author: 김부식
+  language: kor
+  text: |-
+    글과 검으로 그때에 변경(중국의 구도(舊都) 하남성 개봉(開封))에 들어갔을 때
+    황제가 친히 영광스러운 급제를 주셨더니라
+    붓놀리기 민첩함을 뉘라서 따랐으리
+    술을 대하면 따로 정이 넘쳤었네
+    홀홀한 인생은 한바탕 큰 꿈인가
+    멀리 높이 초일한 기개는 자연으로 돌아갔네
+    끊어진 거문고 줄을 난교로도 못 이으리니
+    눈물로 구슬피 우는 늙은 친구의 마음을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 글과 검 : '
+    value: 글[書]은 문(文)을 배우는 것이요, 검(劍)은 무(武)를 배운다는 것인데, 문무(文武)의 재주를 지녔다는 말이다.
+  - key: '[주-D002] 난교(鸞膠) : '
+    value: 서해(西海)에서 바쳤다는 난새로 고은 갖풀이다. 무제(武帝)의 활줄이 끊어진 것을 그 갖풀로 이으니 줄의 두 끝이 서로 붙어 종일 쏘아도 끊어지지 않았다. 《漢武外傳》
+english:
+  title: Lament for Scholar Kwon Jeok
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    With brush and sword, he entered Bianjing in those days,
+    The Emperor himself bestowed upon him honors of the examination hall.
+    His calligraphy flowed swift and flawless—who could match such skill?
+    Before wine, his heart overflowed with feeling that transcended words.
+    Life's fleeting rush—is it not one great dream?
+    His soaring spirit, unbounded, returns now to the source.
+    A broken zither string—no phoenix-feather glue can mend it,
+    And I, an aging friend, weep these mournful tears alone.
+  footnotes:
+  - key: ''
+    value: Brush and sword represent mastery of both civil and military arts—the classical ideal of a complete scholar-official.
+  - key: ''
+    value: Phoenix-feather glue (鸞膠) is a legendary substance from ancient Chinese lore, said to be so powerful it could permanently repair even the bowstring of an emperor. Its mention here poignantly emphasizes that some losses—particularly the death of a worthy friend—cannot be restored by any earthly remedy.

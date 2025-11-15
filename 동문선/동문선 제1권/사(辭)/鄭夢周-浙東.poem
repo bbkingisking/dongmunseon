@@ -1,0 +1,61 @@
+canonical:
+  title: 浙東
+  author: 鄭夢周
+  language: lzh
+  text: 思美人兮如玉隔蒼海兮共明月顧茫茫兮九州豺狼當道兮龍野戰紲余馬兮扶桑悵何時兮與遊讌進以𢢪兮退以義搢紳笏兮戴華簪願一見兮道余意君何爲兮江之南
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 浙東
+  author: 鄭夢周
+  language: lzh
+  text: 思美人兮如玉。隔蒼海兮共明月。顧茫茫兮九州。豺狼當道兮龍野戰。紲余馬兮扶桑。悵何時兮與遊讌。進以𢢪兮退以義。搢紳笏兮戴華簪。願一見兮道余意。君何爲兮江之南。
+korean:
+  title: 절동
+  author: 정몽주
+  language: kor
+  text: |-
+    옥 같은 임을 생각하니
+    푸른 바다 사이에 두고 밝은 달 함께 했네
+    망망한 구주(九州 중국)를 바라보니
+    늑대가 길을 막고 용이 들에서 싸우네
+    내 말을 부상에 매었노니
+    어느때 함께 잔치에 놀리
+    그대는 예로 나아가며 의로 물러서고
+    신과 홀에 화잠을 꽂았네
+    한 번 만나 내 뜻을 말하고 싶은데
+    그대는 어이 강남에 멀리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0040_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사미인(思美人) : '
+    value: 그리운 사람의 뜻. 한문학의 미인은 군주(君主)의 뜻 외에 일반적으로 현인(賢人), 군자(君子), 애인 등을 통칭하는데, 우리말의 임에 해당한다.
+  - key: '[주-D002] 용이 들에서 싸우네 : '
+    value: 용이 들에서 싸움[龍野戰]. 《주역》에 “용이 들에서 싸우니 그 피가 검고 누르도다[龍戰于野 其血玄黃].” 하였는데, 여기서는 군웅(群雄)이 일어나 천하를 쟁탈(爭奪)한다는 뜻이다.
+  - key: '[주-D003] 신(紳)과 홀(笏) : '
+    value: 신(紳)은 큰 띠. 사대부(士大夫)의 상징이고, 홀은 옛날에 왕과 고관(高官)이 손에 쥐던 작은 판[천자는 옥으로, 제후(諸侯)는 상아(象牙)로, 대부는 대[竹]로 만들었음]. 할 말을 잊지 않게 하기 위하여 홀(笏)에다 썼다.
+  - key: '[주-D001] 𢢪 : '
+    value: 禮
+english:
+  title: Zhejiang East
+  author: Jeong Mong-ju
+  language: eng
+  text: |-
+    I long for you, fair as jade,
+    Across the azure sea we share the moon's bright glow.
+    Gazing upon the vast nine provinces of this world,
+    Wolves block the path while dragons war upon the plains.
+    I have bound my horse to Fusang's distant shore,
+    When, oh when, shall we feast and revel together?
+    You advance through propriety and retreat through righteousness,
+    Honor and tablet adorning you in splendid array.
+    I wish to meet you once and speak my heart—
+    Why must you linger so far south of the river?
+  footnotes:
+  - key: ''
+    value: The 'fair one' (美人) in classical Chinese poetry typically represents not merely a beloved, but a worthy person—a sage, exemplar, or keeper of virtue. Here it evokes longing for an idealized figure or mentor.
+  - key: ''
+    value: 'The dragons warring on the plains alludes to the I Ching: ''Dragons battle in the wilderness, their blood black and yellow.'' This symbolizes the turmoil of warlords contending for supremacy.'
+  - key: ''
+    value: The sash and tablet are insignia of the scholar-official class—symbols of dignity, rectitude, and the burden of moral responsibility.
+  - key: ''
+    value: Fusang, in ancient geography, represents the distant east; the speaker has journeyed far from home.

@@ -1,0 +1,49 @@
+canonical:
+  title: 박이 일찍 서도에 놀았음
+  author: 李仁老
+  language: lzh
+  text: 百雉城盤九仞巖繞城流水碧恬恬垂楊古驛煙迷路隔岸人家水拍簷往事如波山獨在夕陽聞笛淚應霑風霜十月乘騘去始覺寒威倍舊嚴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 박이 일찍 서도에 놀았음
+  author: 李仁老
+  language: lzh
+  text: 百雉城盤九仞巖。繞城流水碧恬恬。垂楊古驛煙迷路。隔岸人家水拍簷。往事如波山獨在。夕陽聞笛淚應霑。風霜十月乘騘去。始覺寒威倍舊嚴。
+korean:
+  title: 서도 유수로 가는 박찰원을 보내며
+  author: 이인로
+  language: kor
+  text: |-
+    아홉 길 산 위에 백 가퀴 둘린 성
+    성을 둘러 푸른 강물이 잔잔하네
+    수양버들 늘어선 역은 연기에 길이 아득하고
+    강 건너 인가엔 물이 처마 끝에 닿은 듯
+    지난일은 물결처럼 다 갔는데 산만이 남았지
+    석양에 피리소리 들으면 눈물 금치 못하리
+    서릿발 치는 10월에 그대 총마(어사(御使)) 타고 가리니
+    겨울이 배나 엄함을 깨닫겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 석양에 …… 금치 못하리 : '
+    value: 진(晋)나라 상수(向秀)의 사구부(思舊賦)에, “산양(山陽)을 지나다가 피리소리를 듣고 옛날 혜(嵇)ㆍ완(阮)과 함께 놀던 생각이 나서 슬프다.” 하였다.
+english:
+  title: Seeing Off Park Chalwon on His Way to Seokyung
+  author: Lee Inno
+  language: eng
+  text: |-
+    A hundred towers encircle the nine-fold mountain—
+    The city embraced by clear waters, calm and still.
+    Willows drape the ancient post-station, lost in mist,
+    And across the river, raindrops kiss the eaves.
+
+    All that has passed flows like waves and fades away,
+    Only the mountain remains.
+    When evening comes and flute songs drift upon the air,
+    Tears fall unbidden.
+
+    In frosty October you depart on official service,
+    Now you shall know how winter cuts twice as deep.
+  footnotes:
+  - key: ''
+    value: The image of hearing a flute at dusk alludes to Xiang Xu's "Lament for Old Friends" from the Jin Dynasty, where the author, passing through Shanyang, hears a flute and is overcome with memories of friends Jikang and Ruanyu with whom he once played—evoking the bittersweet sadness of parting and absent companions.

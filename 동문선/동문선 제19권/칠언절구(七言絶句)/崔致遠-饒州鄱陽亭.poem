@@ -1,0 +1,41 @@
+canonical:
+  title: 饒州鄱陽亭
+  author: 崔致遠
+  language: lzh
+  text: 夕陽吟立思無窮萬古江山一望中太守憂民踈宴樂滿江風月屬漁翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 饒州鄱陽亭
+  author: 崔致遠
+  language: lzh
+  text: 夕陽吟立思無窮。萬古江山一望中。太守憂民踈宴樂。滿江風月屬漁翁。
+korean:
+  title: 요주 파양정
+  author: 최치원
+  language: kor
+  text: |-
+    석양에 서서 읊조리니 생각이 그지없다
+    만고 강산이 한 눈 속에 드는구나
+    태수가 백성을 근심하여 잔치놀이에 마음 두지 않으니
+    강에 가득 저 풍월이 어옹 차질세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0020&viewSync=OT
+  footnotes: []
+english:
+  title: The Pavilion of Poyang in Raozhou
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Standing in the evening sun, I recite and ponder—
+    thoughts endless as the flowing stream.
+    Ten thousand ages of mountains and rivers
+    fall into the span of a single gaze.
+    The prefect, burdened with care for his people,
+    turns away from feasts and idle pleasures.
+    The wind and moon fill the river—
+    they belong to the fisherman's heart.
+  footnotes:
+  - key: ''
+    value: Poyang Lake (鄱陽) is located in present-day Jiangxi Province. The poem reflects the author's meditation on governance and the natural world during his travels.
+  - key: ''
+    value: The contrast between the prefect's austere concern for the people and the fisherman's freedom suggests the poet's own philosophical tension between official duty and reclusive contemplation.

@@ -1,0 +1,45 @@
+canonical:
+  title: 春曉偶書
+  author: 崔致遠
+  language: lzh
+  text: 叵耐東流水不回只催詩景惱人來含情朝雨細復細弄艷好花開未開亂世風光無主者浮生名利轉悠哉思量可恨劉伶婦強勸夫郞踈酒盃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春曉偶書
+  author: 崔致遠
+  language: lzh
+  text: 叵耐東流水不回。只催詩景惱人來。含情朝雨細復細。弄艷好花開未開。亂世風光無主者。浮生名利轉悠哉。思量可恨劉伶婦。強勸夫郞踈酒盃。
+korean:
+  title: 춘효 우서
+  author: 최치원
+  language: kor
+  text: |-
+    어찌할거나 세월은 동으로 흐르는 물 돌아오지 못하거니
+    애꿎게 시경을 재촉하여 사람을 괴롭히느니
+    정을 품은 아침비는 가늘디가는데
+    아양 피는 좋은 꽃은 필 듯 안 필 듯
+    난세의 풍광은 뉘라서 주인인고
+    부생의 명리는 더욱 시들해
+    곰곰 생각하니 유령의 마누라 미운지고
+    억지로 낭군을 권해 술잔 덜 들라 하다니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유령(劉伶) : '
+    value: 진나라 죽림칠현의 한 사람인데 술을 몹시 즐겼다. 아내가 울면서, “술을 너무 마시면 몸을 보전할 수 없으니 술을 끊으시오.” 하니, 유령은, “내 스스로는 끊을 수 없다. 귀신에게 빌고 맹세를 해야겠으니 술과 고기를 준비하라.” 하므로 준비하였더니, 유령이 꿇어앉아 빌기를, “한꺼번에 한 섬을 마시고 닷 말[五斗]로 해정(解酲)하게 하소서. 여자의 말은 들을 것이 아닙니다.” 하였다.
+english:
+  title: Spring Morning, A Casual Writing
+  author: Choe Chi-won
+  language: eng
+  text: |
+    What can we do? Time flows eastward like water that never returns,
+    Relentlessly urging the poetic season to vex the weary soul.
+    The morning rain, tender with longing, falls fine and finer still,
+    While the lovely flowers, coquettish in bloom, remain suspended between opening and closed.
+    In this turbulent world, what landscape has a master?
+    The fleeting prizes of life grow ever more withered and pale.
+    When I ponder it, I cannot help but resent Liu Ling's wife—
+    How she struggled to persuade her husband to drink less from the cup.
+  footnotes:
+  - key: ''
+    value: 'Liu Ling was one of the Seven Sages of the Bamboo Grove during the Jin Dynasty, famous for his love of wine. According to legend, when his wife wept and begged him to quit drinking for the sake of his health, Liu Ling replied that he could not stop on his own and would need to make a sacred vow to the spirits. He then knelt in prayer: ''Grant me to drink one full measure at once and wake from drunkenness with but five dou of wine. Do not heed the words of women.'' The poet uses this allusion to explore tensions between restraint and desire, duty and passion.'

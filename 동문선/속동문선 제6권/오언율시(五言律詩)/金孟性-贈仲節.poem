@@ -1,0 +1,50 @@
+canonical:
+  title: 贈仲節
+  author: 金孟性
+  language: lzh
+  text: 屈指壬申歲論交十載餘彈鳩竹林寺走馬栗亭墟遠謫誰知我同吟子起予一尊情不淺况復有嘉魚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈仲節
+  author: 金孟性
+  language: lzh
+  text: 屈指壬申歲。論交十載餘。彈鳩竹林寺。走馬栗亭墟。遠謫誰知我。同吟子起予。一尊情不淺。况復有嘉魚。
+korean:
+  title: 증중절
+  author: 김맹성
+  language: kor
+  text: |-
+    손꼽아 보면 임신년인데
+    서로 사귄지 10년이 넘었다
+    죽림이란 절에서 비둘기를 쏘았고
+    율정 빈 터에서 말을 달렸다
+    멀리 귀양 왔으매 그 누가 나를 알리
+    같이 읊다가 그대 나를 일으켰다
+    한 병 술의 정도 옅지 않거니
+    하물며 맛난 생선마저 있음에랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0640&viewSync=OT
+  footnotes: []
+english:
+  title: A Gift for Jungjeol
+  author: Kim Maengseong
+  language: eng
+  text: |-
+    Counting on my fingers, it has been the year of Imsin—
+    over ten years now since we first became friends.
+    We shot at clay pigeons in the temple groves,
+    raced our horses through the ruins of Yuljeong.
+
+    Exiled to this distant place, who would have known me?
+    Yet you, rising to join my song,
+    lifted my spirit high.
+
+    A single cup of wine already speaks of bonds so deep—
+    how much more so when shared with fine fish and good company?
+  footnotes:
+  - key: ''
+    value: Imsin year (임신년) refers to a specific year in the traditional East Asian sexagenary cycle, likely 1572 CE in the Joseon context.
+  - key: ''
+    value: The references to shooting and horsing through sacred and abandoned places suggest youthful adventures and carefree times the friends shared together.
+  - key: ''
+    value: The poem employs a traditional motif of wine and food as expressions of deep friendship and mutual respect in East Asian poetic tradition.

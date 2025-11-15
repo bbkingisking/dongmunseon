@@ -1,0 +1,54 @@
+canonical:
+  title: 炭洞新居
+  author: 李達衷
+  language: lzh
+  text: 魚游江海鳥投林揭厲須當適淺深拂石坐苔伸脚膝尋泉掬水洗胷襟興來畢卓方偸酒老去昭文不鼓琴醉擊唾壺眞可笑凝然嘿坐有餘音
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 炭洞新居
+  author: 李達衷
+  language: lzh
+  text: 魚游江海鳥投林。揭厲須當適淺深。拂石坐苔伸脚膝。尋泉掬水洗胷襟。興來畢卓方偸酒。老去昭文不鼓琴。醉擊唾壺眞可笑。凝然嘿坐有餘音。
+korean:
+  title: 탄동 신거
+  author: 이달충
+  language: kor
+  text: |-
+    고기는 강해에 놀고 새는 숲에 사나니
+    걷고 벗고 건너기 얕고 깊음에 맞아야하리
+    돌 털고 이끼에 앉아 다리를 쭉 뻗고
+    샘 찾아 물을 움켜 가슴 속을 씻어내네
+    흥이 나면 필탁처럼 술도 도둑질해 먹고
+    늙어가니 소문은 거문고를 타지 않네
+    취하여 타호 침이 진실로 우스워라
+    명상으로 앉아 있는 그지없는 맛이여
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 걷고 벗고 건너기 : '
+    value: 《시경》에, “얕으면 옷을 걷고[揭] 건너고, 깊으면 옷 벗고[厲] 건너네.” 하였다.
+  - key: '[주-D002] 필탁(畢卓) : '
+    value: 진(晋) 이부랑(吏部郞) 필탁(畢卓)이 술을 몹시 즐겼는데, 옆집의 빚어 익은 술을 밤중에 독 밑에 들어가 훔쳐 마시다가 술 맡은 사람에게 붙들려 결박되었다가 밝은 아침에 보니, 필이부(畢吏部)라, 그 결박을 풀고 주인을 청해 독 옆에서 잔치를 벌이고 갔다.
+  - key: '[주-D003] 취하여 타호(唾壺) 침[擊] : '
+    value: “진(晋) 왕돈(王敦)이 매양 취중에 장(壯)한 마음이 쉬지 않누나.”라는 구절을, 위 무제(魏武帝)의 악부(樂府)에 있는 지사(志士)가 늙은 나이에 노래를 읊으면서, 타호(唾壺)를 쳐 장단을 맞추는데 타호의 가장자리가 다 이지러졌다.
+english:
+  title: New Dwelling in Charcoal Cave
+  author: Lee Dal-choong
+  language: eng
+  text: |-
+    Fish sport in rivers and seas, birds nest in forests—
+    Wading through shallow and deep, we must judge the crossing.
+    Brush the stone and settle upon moss, stretching our legs wide,
+    Seek the spring and cup the water to wash the heart clean.
+
+    When joy arrives, like Bilzhu, we steal a sip of wine,
+    Growing old, like Xiaofeng, we no longer play the zither.
+    Drunk, striking the spittoon—truly a sight to laugh at—
+    Yet sitting silent in meditation, there remains an endless music.
+  footnotes:
+  - key: ''
+    value: Bilzhu (畢卓) was a Jin Dynasty official infamous for his love of wine; legend tells of him crawling beneath a neighbor's wine vat at night to steal drinks.
+  - key: ''
+    value: The spittoon (唾壺) reference evokes Wang Dun of the Jin Dynasty, who in drunken fervor would beat time on a spittoon with such vigor that its rim crumbled—a paradoxical image of both raucous abandon and passionate spirit.
+  - key: ''
+    value: The poem invokes the *Classic of Poetry*, where '揭' (lifting one's robe) and '厲' (removing one's robe) describe wading through shallow and deep waters respectively.

@@ -1,0 +1,46 @@
+canonical:
+  title: 公主謝王后殿箋
+  author: 李奎報
+  language: lzh
+  text: 妾云云鳳綍溫詞特降殊尤之命鸞閨微息遽叨襃顯之名靜省僭踰伏深戰懼中謝 伏念妾資虧朗實齒尙騃癡託質王宮素欠慶雲之瑞叨名帝女愧無望月之稱豈意誤恩驟加懿冊此盖伏遇王后殿下精分軒曜德應關雎配左纛之尊旣膺大號崇右騑之寵又及幺軀妾敢不節以佩環專於釧組鑒觀女則動無越禮之譏奉戴坤元不負資生之德
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 公主謝王后殿箋
+  author: 李奎報
+  language: lzh
+  text: 妾云云。鳳綍溫詞。特降殊尤之命。鸞閨微息。遽叨襃顯之名。靜省僭踰伏深戰懼。中謝。 伏念妾資虧朗實。齒尙騃癡。託質王宮。素欠慶雲之瑞。叨名帝女。愧無望月之稱。豈意誤恩。驟加懿冊。此盖伏遇王后殿下。精分軒曜。德應關雎。配左纛之尊。旣膺大號。崇右騑之寵。又及幺軀。妾敢不節以佩環。專於釧組。鑒觀女則。動無越禮之譏。奉戴坤元。不負資生之德。
+korean:
+  title: 공주 사 왕후전 전
+  author: 이규보
+  language: kor
+  text: |-
+    첩 운운(云云). 궁궐에서 내리신 따사로운 말씀으로 특수한 은명(恩命)을 주시오니, 규중(閨中)의 미천한 여식이 갑자기 영광스러운 칭호를 더럽혔나이다. 가만히 돌아봄에 참람되고 넘치어 떨리고 두려움이 깊사옵니다. 중사(中謝)
+    엎드려 생각하옵건대, 첩은 명랑한 자질이 못 되오며 나이도 아직 어리옵니다. 왕궁에 태어났사오나 본래 경운(慶雲)의 상소도 없었으며 임금의 딸로 이름붙였으나 망월(望月)에 맞춤이 없는 것도 부끄럽나이다. 잘못된 은혜로 갑자기 아름다운 책봉(冊封)을 주시오니, 이는 대개 왕후전하께옵서 헌요(軒曜)의 정기를 나누셨고, 덕은 관저(關雎)에 맞으시어 좌독(左纛)의 높음에 짝이 되심에 만나서입니다. 이미 큰 칭호를 누리시고 우비(右騑)의 은총이 또 조그마한 몸에까지 미치게 하시니 첩이 감히 패환(佩環)에 절도를 맞추어 동작하고 부직(婦職)에 전념하지 않겠습니까. 여칙(女則)을 거울삼아 예법에 어긴다는 기롱이 없게 하옵고 곤원(坤元)을 받들어, 생육(生育)하여 주신 은덕을 저버리지 있지 않겠나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 망월(望月)에 맞춤 : '
+    value: 《시경》에, “천자(천자)의 딸이 보름달과 같다.”는 말이 있다.
+  - key: '[주-D002] 좌독(左纛) : '
+    value: 임금이 타는 수레의 깃발로, 흔히 임금의 수레를 황옥좌독(黃屋左纛)이라 한다.
+  - key: '[주-D003] 곤원(坤元) : '
+    value: 《주역》에 있는 말인데, 여기서는 왕후(王后)를 말한 것이다.
+english:
+  title: A Princess's Letter of Gratitude to the Queen
+  author: Lee Gyu-bo
+  language: eng
+  text: |-
+    Your humble servant speaks thus. Through the gentle words descended from the palace, an extraordinary grace has been bestowed upon me. From my chamber of obscurity, I have suddenly been given an illustrious title. In quiet reflection, I tremble and fear, knowing the depths of my presumption.
+
+    I humbly consider: Your servant lacks brilliance of spirit and remains yet unripened in years. Though born within the royal palace, I have never been graced by the auspicious clouds of fortune; and though named a daughter of the throne, I am ashamed to lack the virtue of the full moon.
+
+    Yet undeserved grace has suddenly conferred upon me this beautiful honor. This is surely because Her Majesty the Queen partakes of celestial radiance, her virtue answering to the Ode of the Osprey, becoming consort to the imperial standard itself. Already ruling in great station, she extends the favor of her grace even unto this humble vessel.
+
+    How dare I not calibrate my steps to the measure of my jeweled girdle and commit myself wholly to the duties of wife? Taking the conduct of women as my mirror, I shall harbor no reproach for breaching propriety. In serving the Mother of All Things, I shall not betray the virtue of nurture that sustains all life.
+  footnotes:
+  - key: ''
+    value: The 'full moon' is a classical allusion from the Book of Odes, referring to the daughter of the Son of Heaven as perfect as the full moon.
+  - key: ''
+    value: The 'imperial standard' (左纛) is the pennant of the imperial chariot, often referred to as the Yellow Canopy and Imperial Standard (黃屋左纛).
+  - key: ''
+    value: The 'Mother of All Things' (坤元) is a term from the Book of Changes referring here to the Queen as the nurturing source of all life.

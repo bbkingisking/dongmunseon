@@ -1,0 +1,50 @@
+canonical:
+  title: 哭琴相國儀
+  author: 金良鏡
+  language: lzh
+  text: 瑞世文章五色麟琴碁餘事亦淸眞九門白日無雙客十載黃扉只四人身後淸風千古鏡手中丹桂萬家春爲公誰不交揮涕白髮門生淚滿巾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 哭琴相國儀
+  author: 金良鏡
+  language: lzh
+  text: 瑞世文章五色麟。琴碁餘事亦淸眞。九門白日無雙客。十載黃扉只四人。身後淸風千古鏡。手中丹桂萬家春。爲公誰不交揮涕。白髮門生淚滿巾。
+korean:
+  title: 금상국의를 곡한다
+  author: 김양경
+  language: kor
+  text: |-
+    서세의 문장만 오색의 기린이던가
+    금기 여사로 청진이라네
+    아홉 겹 궐문에 드나든 둘도 없는 손님인데
+    10년 간 정승을 누린 이는 오직 네 분이라 하더라
+    가신 뒤 남긴 고풍은 천고의 거울이요
+    손에 꺾어 쥔 계수는 만가의 봄이었네
+    임 위하여 뉘 아니 눈물을 뿌리리요만
+    머리 센 문생의 눈물이 수건을 적시네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: Elegy for Minister Geum
+  author: Kim Yang-gyeong
+  language: eng
+  text: |-
+    Was your prose alone the five-colored qilin of a blessed age?
+    Your zither and chess—even pastimes touched clarity and truth.
+    A visitor unmatched at the nine-fold palace gates,
+    yet among those who held the chancellorship for ten years, only four are named.
+
+    After you, the pure wind you left becomes a mirror for ten thousand ages.
+    The sweet osmanthus in your hand bloomed as spring for countless homes.
+    Who would not shed tears in your honor?
+    Yet it is your white-haired student whose tears soak through his cloth.
+  footnotes:
+  - key: ''
+    value: The 'five-colored qilin' references the legendary auspicious beast associated with sage rulers and virtuous officials in Chinese tradition.
+  - key: ''
+    value: The 'nine-fold palace gates' refers to the innermost sanctum of imperial power, suggesting Minister Geum's intimate access to the throne.
+  - key: ''
+    value: The 'sweet osmanthus' (桂, gye) symbolizes both official rank and virtue in classical East Asian poetry.
+  - key: ''
+    value: The final image of the weeping white-haired student evokes the grief of disciples mourning their mentor's passing.

@@ -1,0 +1,37 @@
+canonical:
+  title: 龍宮閑居金蘭溪得培寄詩次其韻
+  author: 金元發
+  language: lzh
+  text: 江闊脩鱗縱林深倦鳥歸歸田是吾志非是早知幾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 龍宮閑居金蘭溪得培寄詩次其韻
+  author: 金元發
+  language: lzh
+  text: 江闊脩鱗縱。林深倦鳥歸。歸田是吾志。非是早知幾。
+korean:
+  title: 용궁에 한거할 때 난계 김득배가 시를 보내 왔으므로 그 시를 차운하여
+  author: 김원발
+  language: kor
+  text: |-
+    강물이 넓으니 물고기가 자유롭고
+    숲이 깊으니 지친 새가 돌아온다
+    전원에 돌아옴만이 나의 뜻이요
+    부귀의 위태로운 기미를 일찍 안 건 아니어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: To the Rhyme of a Poem Sent by Kim Deuk-bae from Nan-gye While I Dwelt at Leisure in Yongung
+  author: Kim Won-bul
+  language: eng
+  text: |-
+    The river spreads wide, and the fish swim free,
+    The forest deepens, and the weary birds return home.
+    To retreat to the fields—this alone is my desire,
+    Not that I failed to perceive early the precariousness of wealth and rank.
+  footnotes:
+  - key: ''
+    value: Yongung (龍宮) refers to a retreat or dwelling place. This poem is a response (次韻) written to match the rhyme scheme of Kim Deuk-bae's original poem.
+  - key: ''
+    value: The final couplet suggests the speaker's deliberate choice of humble retirement, distinguishing it from mere ignorance or naivety about worldly fortune.

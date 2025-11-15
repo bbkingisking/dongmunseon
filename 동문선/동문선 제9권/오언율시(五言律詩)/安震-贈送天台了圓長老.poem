@@ -1,0 +1,48 @@
+canonical:
+  title: 贈送天台了圓長老
+  author: 安震
+  language: lzh
+  text: 老屋開溪上經霖路出沙相邀禪者杖似遇貴人車下榻談初穩還山意已賖他年作龍象法雨潤農家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈送天台了圓長老
+  author: 安震
+  language: lzh
+  text: 老屋開溪上。經霖路出沙。相邀禪者杖。似遇貴人車。下榻談初穩。還山意已賖。他年作龍象。法雨潤農家。
+korean:
+  title: 증송 천태 요원장로
+  author: 안진
+  language: kor
+  text: |-
+    시냇가에 자리잡은 낡은 집
+    장마 뒤 모래 위에 길이 났네
+    선사의 지팡이를 영접하니
+    귀인의 수레를 만난 듯
+    탑을 내려 이야기가 깊어지자
+    산으로 돌아갈 먼 생각이로세
+    일후에 용상이 되어
+    법우로 농삿집에 있는 나를 축축히 적셔 주소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0730&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 탑(榻)을 내려 : '
+    value: 한(漢)나라 진번(陳蕃)이 예장태수(豫章太守)로 있을 때에, 서치(徐穉)가 오면 탑(榻)을 내려서 앉게 하고, 그가 가고 나면 다시 그 탑을 달아두며 서치가 또 오기를 기다렸다.
+english:
+  title: Farewell to Venerable Liao-yuan of Tiantai
+  author: An Jin
+  language: eng
+  text: |-
+    An old house settles by the stream,
+    After the rains, a path emerges through the sand.
+    We welcome the wandering sage's staff—
+    As if greeting the carriage of an honored guest.
+
+    We lower the honored seat, and talk deepens,
+    Yet the thought of returning to the mountains grows distant.
+    In years to come, may you become a great teacher,
+    And let the dharma rain fall gently upon our humble farming home.
+  footnotes:
+  - key: ''
+    value: The image of lowering the honored seat (榻) alludes to the Tang-dynasty official Chen Fan, who would lower his ceremonial mat whenever the sage Xu Zhi visited, then raise it again after he left, awaiting his return. This gesture symbolizes deep respect for a spiritual master.
+  - key: ''
+    value: The closing image of 'dharma rain' (法雨) is a Buddhist metaphor for the teaching and blessing of an enlightened master, bringing spiritual nourishment as rain nourishes crops.

@@ -1,0 +1,69 @@
+canonical:
+  title: 和諍國師影贊
+  author: 金富軾
+  language: lzh
+  text: 恢恢一道落落音機聞自異大小淺深如三舟月如萬竅風至人大鑒卽異而同瑜伽名相方廣圓融自我觀之無往不通百川共海萬像一天廣矣大矣莫得名焉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和諍國師影贊
+  author: 金富軾
+  language: lzh
+  text: 恢恢一道落落音。機聞自異。大小淺深。如三舟月。如萬竅風。至人大鑒。卽異而同。瑜伽名相。方廣圓融。自我觀之。無往不通。百川共海。萬像一天。廣矣大矣。莫得名焉。
+korean:
+  title: 화쟁국사영 찬
+  author: 김부식
+  language: kor
+  text: |-
+    널찍한 한 가닥 길이요
+    또렷한 그 소리지만
+    듣기에 따라 달라서
+    크고 작고 깊고 얕다네
+    삼주의 달과 같고
+    만 구멍의 바람과 같네
+    지인의 대감은
+    다른 듯이 같구려
+    보고 들음에 따라 각기 달라져 유가의 이름과 상이
+    모나고 넓고 둥글게 융화되었네
+    그로부터 볼 양이면
+    어디 간들 아니 통하리
+    일백 개울이 합치어 바다 되고
+    만 현상이 하나인 하늘일세
+    크고도 넓어서
+    어떻게 이름 지으면 좋을는지
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0050&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the Portrait of National Preceptor Janggyeong
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    One path extends vastly,
+    Its voice rings clearly—
+    Yet each ear hears differently,
+    Some find it vast, some find it small,
+    Some plumb its depths, some skim its shallows.
+
+    It mirrors the moon of three boats,
+    It breathes like wind through ten thousand hollows.
+    The great mirror of the sage perceives
+    That what seems different is the same.
+
+    Through seeing and hearing, each takes its form—
+    The teachings of the Yoga school, their names and marks
+    Become sharp and smooth, square and round, all fused as one.
+
+    Whoever views it thus
+    Will find no gate through which truth cannot pass:
+    A hundred streams converge to become the sea,
+    Ten thousand images become a single sky.
+
+    So vast, so boundless—
+    How could any name contain it?
+  footnotes:
+  - key: ''
+    value: The 'three boats' and 'ten thousand hollows' are classical images used in Buddhist philosophy to suggest how the same ultimate reality is perceived differently depending on perspective and capacity.
+  - key: ''
+    value: The 'Yoga school' (Yujia) refers to Buddhist philosophical teachings about perception and consciousness.
+  - key: ''
+    value: This is a commemorative poem on a portrait (영찬), a traditional Korean literary form that combined visual art with poetic reflection.

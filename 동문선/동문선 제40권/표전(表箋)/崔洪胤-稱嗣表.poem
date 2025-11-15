@@ -1,0 +1,40 @@
+canonical:
+  title: 稱嗣表
+  author: 崔洪胤
+  language: lzh
+  text: 滕廬罹禍寔深枕塊之憂漢闕馳誠輒告呼天之痛震遑失措顚越靡安伏念臣父先臣某奇遇昌朝叨承寵冊因道途之艱阻未貢謝章感疾恙之纏緜奄辭明世而臣猥以眇微之質親聞顧託之言心方積於哀摧曷勝荼毒位固難於虛曠假守藩封淸血之悲白日所照
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 稱嗣表
+  author: 崔洪胤
+  language: lzh
+  text: 滕廬罹禍。寔深枕塊之憂。漢闕馳誠。輒告呼天之痛。震遑失措。顚越靡安。伏念臣父先臣某。奇遇昌朝。叨承寵冊。因道途之艱阻。未貢謝章。感疾恙之纏緜。奄辭明世。而臣猥以眇微之質。親聞顧託之言。心方積於哀摧。曷勝荼毒。位固難於虛曠。假守藩封。淸血之悲。白日所照。
+korean:
+  title: 직위 계승을 알리는 글
+  author: 최홍윤
+  language: kor
+  text: 화를 입은 등려(滕廬)에 진실로 흙덩이를 벤[枕塊] 근심이 깊기로, 정성이 쏠리는 대궐을 우러러 문득 호천(呼天)의 설움을 고하게 되니, 놀라 어찌할 바를 모르며, 엎어지고 자빠져 편치 못합니다.엎드려 생각건대, 신의 아비 선신(先臣) 모(某)는 다행히도 거룩한 조정을 만나 은총의 책봉(冊封)을 입었는데, 길이 워낙 멀고 험하여 감사의 주장(奏章)도 아뢰지 못하고, 신병이 몹시 중하여 문득 밝은 세상을 여의었으므로, 신은 외람되이 미미한 자질로써, 친히 고명(顧命)을 받들었기로 마음이 슬픔에 쌓여 도독(荼毒)을 견딜 수 없으나, 대위(大位)를 그저 비워두기 어려워 임시 번봉(藩封)을 지키고 있으니, 피눈물의 설움은 저 해가 내리 비칩니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0430_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 등려(滕廬) : '
+    value: 전국(戰國) 시대 등(滕)나라 문공(文公)이 세자로 있을 때에, 송(宋)나라를 지나다가 맹자(孟子)를 찾아보고, 그 아버지 정공(定公)의 상(喪)에 대한 예(禮)를 물어, 5개월 동안 상려(喪廬)에 거처하였다. 그래서 당시에 어진 임금이라 일컬었다.
+  - key: '[주-D002] 흙덩이를 벤[枕塊] : '
+    value: 거상(居喪)하는 예를 말한 것이다. “짚자리에서 잠자고 흙덩이를 벤다[寢苫枕塊].” 하였다. 《儀禮 喪服傳》
+  - key: '[주-D003] 고명(顧命) : '
+    value: 《서경》의 편명(篇名)인데 그 서(序)에, “주 성왕(周成王)이 죽을 무렵에, 소공(召公)ㆍ필공(畢公)을 명하여 제후(諸侯)를 거느리고 강왕(康王)을 돕게 하면서 고명(顧命)을 지었다.” 하였다.
+  - key: '[주-D004] 도독(荼毒) : '
+    value: 고통스럽다는 뜻이다. 《서경(書經)》 탕고(湯誥)에, “흉하고 해로운 데 걸리어 도독(荼毒)을 견디지 못한다[罹其凶害不忍荼毒].” 하였고, 그 주에, “도독(荼毒)은 고통스럽다는 뜻이다.” 하였다.
+english:
+  title: Memorial on Assuming the Position
+  author: Choi Hong-yun
+  language: eng
+  text: |-
+    Calamity has befallen our house, and the sorrow of mourning weighs upon my heart like earth upon a tomb. My loyalty reaches toward the palace, yet I can only cry out to heaven in anguish. Bewildered and lost, I stumble without direction.
+
+    I humbly reflect that my late father, the former minister, was blessed to meet a sage-king and received the honor of royal appointment. Yet the arduous journey prevented him from sending his gratitude to the throne, and his illness descended so heavily that he departed from this bright world before fulfilling his duty. Thus I, unworthy and insignificant, received his final words with my own ears. My heart drowns in sorrow, and I can scarcely endure such suffering. Yet the great position cannot remain vacant, so I temporarily maintain the domain entrusted to my care—a stewardship marked by tears beneath the sun's unrelenting gaze.
+  footnotes:
+  - key: ''
+    value: The reference to 'earth upon a tomb' alludes to the proper mourning rites of antiquity, wherein one sleeps on straw and uses earth as a pillow during the period of filial grief.
+  - key: ''
+    value: The 'final words' received reference the deathbed instructions of a sovereign to his successor, a solemn trust in the classical tradition exemplified by the Zhou king's charge to his heir.

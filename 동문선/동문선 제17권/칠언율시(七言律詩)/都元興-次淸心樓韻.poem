@@ -1,0 +1,45 @@
+canonical:
+  title: 次淸心樓韻
+  author: 都元興
+  language: lzh
+  text: 十載還憑此檻端美人應笑變朱顔兩竿落日明孤塔一帶長江抱衆山野鶻遠盤紅樹外征鴻高沒碧虛閒飽聞前輩遊湖事今見灘頭畫舸閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次淸心樓韻
+  author: 都元興
+  language: lzh
+  text: 十載還憑此檻端。美人應笑變朱顔。兩竿落日明孤塔。一帶長江抱衆山。野鶻遠盤紅樹外。征鴻高沒碧虛閒。飽聞前輩遊湖事。今見灘頭畫舸閑。
+korean:
+  title: 차 청심루 운
+  author: 도원흥
+  language: kor
+  text: |-
+    10년 만에 또 다시 이 난간에 의지하니
+    내 젊은 얼굴 변한 것을 미인도 물론 웃으리
+    두어 장대 지는 해는 외로운 탑에 밝고
+    한 오리 긴 강은 뭇 산을 안고 있네
+    단풍잎 건너편에 보라매가 서리고
+    벽공 아득한 사이로 가는 기러기 사라지네
+    익히 전배들이 이 호수에 놀았음을 들었더니
+    이제는 여울 녘에 그림배만 한가하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두어 장대[竿] 지는 해 : '
+    value: 해가 지려면 아직도 한 장대만큼 거리가 남았다는 것이다.
+english:
+  title: In Response to the Rhyme of Clearheartedness Tower
+  author: Do Won-heung
+  language: eng
+  text: |-
+    After ten years, I lean upon this railing once again,
+    And even beauties must smile at my changed countenance.
+    Two pole-lengths before the setting sun illuminates the lonely tower,
+    One stretch of the long river cradles the gathered mountains.
+    Wild hawks circle beyond the crimson trees,
+    While migrant geese vanish into the vast and distant blue sky.
+    I have long heard tales of my predecessors' joys upon this lake,
+    Yet now only a painted boat rests idle by the shallows.
+  footnotes:
+  - key: ''
+    value: The phrase 'two pole-lengths before the setting sun' suggests the sun still has some distance to descend—a poignant image of time's passage measured against natural phenomena.

@@ -1,0 +1,59 @@
+canonical:
+  title: 熏脩院雜詠
+  author: 金富軾
+  language: lzh
+  text: 院靜僧閑夜向分殘燈孤枕卧幽軒自嗟情習何時盡夢把花枝對酒尊農家生計看來慣市道交遊日漸踈應被輪人堂下笑白頭勤苦未捐書
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 熏脩院雜詠
+  author: 金富軾
+  language: lzh
+  text: 院靜僧閑夜向分。殘燈孤枕卧幽軒。自嗟情習何時盡。夢把花枝對酒尊。農家生計看來慣。市道交遊日漸踈。應被輪人堂下笑。白頭勤苦未捐書。
+korean:
+  title: 훈수원 잡영
+  author: 김부식
+  language: kor
+  text: |-
+    절 고요하고 중 한가하여 밤은 반이 넘었네
+    남은 등불 외로운 베개 그윽한 헌함에 누웠어라
+    스스로 슬퍼하네, 인생의 정은 어느 때나 다하려나
+    꿈에 꽃가지를 잡고 술동이를 마주하네
+    농가의 생애는 보아와 익숙하고
+    시도(市道)의 친구들 날로 성기어가네
+    응당 저 윤인은 마루 아래서 웃으리라
+    흰 머리로 근고하면서 책을 아직 못 버린다고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 시도(市道) : '
+    value: 도의(道義)로 사귀는 친구를 도의교(道義交)라 하고, 시장(市場)의 상인(商人)처럼 이해(利害)로 사귀는 것을 시도교(市道交)라 한다.
+  - key: '[주-D002] 응당 …… 웃으리라 : '
+    value: 제 환공(齊桓公)이 당상(堂上)에서 글을 읽고 있는데, 당하(堂下)에 수레바퀴를 만들던 장인(匠人)이, “임금께서 읽으시는 것이 무슨 글입니까.” 하고 물으니, “옛 성인(聖人)의 글이다.” 하므로, 장인은 말하기를, “그것은 옛사람이 버린 찌꺼기로군요.” 하였다.
+english:
+  title: Miscellaneous Verses on the Meditation Hall
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The monastery sleeps in silence, the monks at leisure—
+    night deepens toward its midpoint.
+    A guttering lamp, a solitary pillow,
+    in the dim retreat I lay my weary head.
+
+    I grieve for myself: when will these passions ever end?
+    In dreams I grasp the flowering branch
+    and face the wine vessel.
+
+    The farmer's life—I have come to know it well,
+    its ways grown familiar through the years.
+    But friendships made in the market square
+    grow thinner with each passing day.
+
+    Surely the wheelwright below the hall
+    will mock me for this—
+    these white hairs earned through toil,
+    and still I cannot abandon the written word.
+  footnotes:
+  - key: ''
+    value: The 'wheelwright below the hall' alludes to a famous anecdote from the Zhuangzi in which a craftsman questions the value of ancient wisdom, suggesting that the pursuit of learning may appear foolish to those of practical labor.
+  - key: ''
+    value: The distinction between friendships based on virtue and those based on material interest—the speaker laments how worldly connections fade while the scholar remains devoted to books.

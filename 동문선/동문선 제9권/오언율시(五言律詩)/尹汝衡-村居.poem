@@ -1,0 +1,45 @@
+canonical:
+  title: 村居
+  author: 尹汝衡
+  language: lzh
+  text: 補國無長策拋書學老農人踈苔徑濕鳥集蓽門空煙淡溪聲外山昬雨氣中杖藜成散步滿袖稻花風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 村居
+  author: 尹汝衡
+  language: lzh
+  text: 補國無長策。拋書學老農。人踈苔徑濕。鳥集蓽門空。煙淡溪聲外。山昬雨氣中。杖藜成散步。滿袖稻花風。
+korean:
+  title: 촌거
+  author: 윤여형
+  language: kor
+  text: |-
+    나라에 도움될 뾰족한 수가 없어서
+    책을 던지고 농사일을 배우네
+    찾는 손이 없으니 이끼 길이 젖었고
+    휑한 사립문에 새가 모여드누나
+    시냇물 소리 저쪽에 연기가 엷고
+    비가 올 듯하니 산이 어두워지네
+    지팡이를 짚고 산보하니
+    소매에 벼꽃[稻花] 바람이 가득 불어드누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0920&viewSync=OT
+  footnotes: []
+english:
+  title: Village Dwelling
+  author: Yun Yeo-hyung
+  language: eng
+  text: |-
+    Finding no grand strategy to serve the realm,
+    I cast aside my books and learn the farmer's way.
+    With no one treading here, moss dampens every path,
+    and birds gather at my humble, empty gate.
+    Beyond the creek's soft murmur, mist grows thin;
+    rain threatens and the mountains darken.
+    Leaning on my staff for an evening walk,
+    I fill my sleeves with the fragrant wind of ripening rice.
+  footnotes:
+  - key: ''
+    value: This poem reflects the literati tradition of withdrawal from public service to embrace rustic simplicity, a common theme in East Asian poetry.
+  - key: ''
+    value: The rice flowers (稻花) in the final line symbolize both the poet's acceptance of rural life and the cyclical renewal of nature.

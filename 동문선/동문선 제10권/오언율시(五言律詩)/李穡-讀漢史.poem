@@ -1,0 +1,57 @@
+canonical:
+  title: 讀漢史
+  author: 李穡
+  language: lzh
+  text: 吾道多迷晦儒冠揔冶容子雲殊寂寞伯始自中庸六籍終安用三章竟不從悠悠千載下重憶孔明龍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀漢史
+  author: 李穡
+  language: lzh
+  text: 吾道多迷晦。儒冠揔冶容。子雲殊寂寞。伯始自中庸。六籍終安用。三章竟不從。悠悠千載下。重憶孔明龍。
+korean:
+  title: 독 한사
+  author: 이색
+  language: kor
+  text: |-
+    우리 도가 어두워지니
+    선비 갓 쓴 이들은 겉만 꾸미네
+    자운이 자못 적막하고
+    백시는 제라서 중용이라네
+    육적을 마침내 어디 쓰랴
+    삼장을 끝내 따르지 못했네
+    유유한 천년 뒤에
+    공명와룡을 다시 생각하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 자운(子雲)이 자못 적막(寂寞) : '
+    value: 한(漢)나라 양자운(揚子雲 양웅(揚雄))이 태현경(太玄經)을 저술하며 숨어 살면서, “적막(寂寞)으로 덕을 지킨다.”고 자칭하더니, 뒤에 역적(逆賊)  왕망(王莽)에게 벼슬하다가 죄에 걸려 체포를 당하게 되자 높은 누각에서 몸을 던져 떨어졌다. 사람들이, “적막(寂寞)은 투각(投閣)이로다.” 하였다.
+  - key: '[주-D002] 백시(伯始)는 제라서 중용(中庸)이라네 : '
+    value: 한나라 호광(胡廣)의 자(字)가 백시(伯始)인데, 경학(經學)에 익숙하고 나라의 원로(元老)로서 삼공(三公)의 지위에 있으면서 모든 정무(政務)를 잘 처리하였으므로 당시의 사람들이, “모든 일이 처리되지 않거든 백시에게 물어라. 천하의 중용(中庸)은 호공(胡公)에 있네.” 하였다. 그러나, 당시에 왕씨가 세력을 부려서 나라를 빼앗았는데도 그는 나라를 생각하지 않고 몸만 보전하니, 후세에서는 이를, “호광의 중용”이라고 기롱하였다.
+  - key: '[주-D003] 삼장(三章) : '
+    value: 한 고조(漢高祖)가 처음 진(秦)나라를 평정하고 부로(父老)들을 불러 말하기를, “진나라의 법은 너무 혹독하고 까다로웠으므로, 나는 이제부터 진나라 법을 모두 없애고, 법 삼장(三章)만을 약속한다. 살인한 자는 죽이고, 사람을 상해(傷害)한 자와 도둑질한 자는 처벌한다.” 하였다.
+  - key: '[주-D004] 공명와룡(孔明臥龍) : '
+    value: 한나라 말기(末期)의 제갈공명(諸葛孔明)이 출세하기 전에, 사람들이 그를 와룡(臥龍)이라 하였다.
+english:
+  title: Reading the History of Han
+  author: Lee Saek
+  language: eng
+  text: |-
+    Our way grows dark and obscured,
+    Scholar-officials in caps ornament only their appearance.
+    Ziyun dwells in solitude and sorrow,
+    Baishi claims the Middle Way as his own.
+    What use remain the Six Classics in the end?
+    The Three Ordinances—we could not follow them through.
+    Down through a thousand drifting years,
+    I recall again the Sleeping Dragon, Kongming.
+  footnotes:
+  - key: ''
+    value: 'Ziyun (揚雄) was a Han Dynasty scholar who withdrew from the world to write his philosophical work while claiming to guard his virtue through solitude. Yet he later served the usurper Wang Mang and when arrested, threw himself from a tower in despair—leading people to mockingly say: ''Solitude leads to the leap from the balcony.'''
+  - key: ''
+    value: Baishi (胡廣) was renowned as a capable administrator who embodied the Middle Way, yet when the Wang clan seized power, he preserved only himself rather than the state—an act later generations derided as false moderation.
+  - key: ''
+    value: 'The Three Ordinances refers to the simplified laws of the Han founder: execution for murder, punishment for injury and theft—a stark contrast to the Qin''s harsh codes.'
+  - key: ''
+    value: Kongming (諸葛孔明) was known as the Sleeping Dragon before rising to prominence, embodying hidden potential and virtue waiting to serve the worthy.

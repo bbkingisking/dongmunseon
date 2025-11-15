@@ -1,0 +1,48 @@
+canonical:
+  title: 閑齋同中慮偶吟
+  author: 卞仲良
+  language: lzh
+  text: 雪盡春光動山圍暮色多懶從生計薄閑愛舊知過古井初消凍寒梅正結花團圝風味足賖酒更煎茶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閑齋同中慮偶吟
+  author: 卞仲良
+  language: lzh
+  text: 雪盡春光動。山圍暮色多。懶從生計薄。閑愛舊知過。古井初消凍。寒梅正結花。團圝風味足。賖酒更煎茶。
+korean:
+  title: 한가한 서재에서 중려와 함께 우연히 읊음
+  author: 변중량
+  language: kor
+  text: |-
+    눈이 다 녹으매 봄빛이 움직이고
+    산이 둘렀으매 저문 빛이 많네
+    게으르니 생계는 박한 대로
+    한가로워 친구 찾는 것 기뻐하네
+    옛 우물에는 처음으로 얼음이 녹고
+    찬 매화는 방금 꽃을 맺네
+    단란한 풍미가 이만하면 족하거니
+    술을 사고 또 차를 끓이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: 'An Idle Evening: A Chance Verse with Jung-nyeo at My Leisure Study'
+  author: Byeon Jung-ryang
+  language: eng
+  text: |-
+    Snow melts away and spring's light stirs to life,
+    Mountains encircle us as dusk gathers thick.
+    Lazy by nature, my livelihood remains meager—
+    yet in this leisure, I cherish visiting old friends.
+
+    The ancient well releases its frozen grip at last,
+    the cold plum branch bears its first delicate flowers.
+    Such simple joy and taste suffice for us—
+    we buy our wine and brew our tea again.
+  footnotes:
+  - key: ''
+    value: Jung-nyeo (중려) likely refers to a companion or fellow scholar with whom the poet shares this moment of leisure and contemplation.
+  - key: ''
+    value: The imagery of melting snow, spring light, and budding plums creates a metaphorical parallel between nature's renewal and the warmth of human companionship and simple pleasures.
+  - key: ''
+    value: The poem celebrates the virtue of poverty and idleness as conditions that enable genuine friendship and aesthetic appreciation, reflecting Neo-Confucian scholarly ideals.

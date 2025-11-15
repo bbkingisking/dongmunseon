@@ -1,0 +1,35 @@
+canonical:
+  title: 丙寅三月病後題
+  author: 權思復
+  language: lzh
+  text: 病與年深生事微不知日去况春歸落花飛入軒窓裏始覺枝頭紅自稀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 丙寅三月病後題
+  author: 權思復
+  language: lzh
+  text: 病與年深生事微。不知日去况春歸。落花飛入軒窓裏。始覺枝頭紅自稀。
+korean:
+  title: 병인삼월병후제
+  author: 권사복
+  language: kor
+  text: |-
+    해를 따라 병 깊어 가매 사는 일이 귀찮구나
+    날 가는 줄 모르거니 봄이 돌아감이랴
+    지는 꽃이 창 안에 날아 드나니
+    비로소 가지 끝이 성김을 깨닫겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1180&viewSync=OT
+  footnotes: []
+english:
+  title: Written After Illness in the Third Month of the Year of Byungyin
+  author: Gwon Sa-bok
+  language: eng
+  text: |-
+    As illness deepens with the years, the affairs of living grow weary.
+    Unaware that days slip away—how then should I notice spring's return?
+    Falling petals drift through the window frame,
+    And only then do I perceive the thinning blooms upon the branch.
+  footnotes:
+  - key: ''
+    value: Byungyin (丙寅) refers to a year in the traditional East Asian sexagenary cycle, likely indicating a specific historical moment in the author's life. The poem reflects on how chronic illness obscures one's awareness of time's passage and the seasons' turning.

@@ -1,0 +1,69 @@
+canonical:
+  title: 驪江讌集
+  author: 釋禪坦
+  language: lzh
+  text: 君不見昔時醉翁讌西湖銀缸畫燭侵宵罷金罍玉斝散不收又不見賀監放浪遊稽山輕舟短棹追煙渚斜風細雨尋芳洲中原牧伯繼前躅畫船鼉皷行樂錦江秋七澤微茫白鷗外三山隱映金鼇頭抽簪夜扣洞仙扉翠眉紅臉圍重樓重樓歌吹落半空月上黃昬天色幽星斗闌干火輪飛出五馬怱怱去堪笑昌黎越女一笑三年留
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 驪江讌集
+  author: 釋禪坦
+  language: lzh
+  text: 君不見昔時醉翁讌西湖。銀缸畫燭侵宵罷。金罍玉斝散不收。又不見賀監放浪遊稽山。輕舟短棹追煙渚。斜風細雨尋芳洲。中原牧伯繼前躅。畫船鼉皷行樂錦江秋。七澤微茫白鷗外。三山隱映金鼇頭。抽簪夜扣洞仙扉。翠眉紅臉圍重樓。重樓歌吹落半空。月上黃昬天色幽。星斗闌干火輪飛出五馬怱怱去。堪笑昌黎越女一笑三年留。
+korean:
+  title: 여강 연집
+  author: 석선탄
+  language: kor
+  text: |-
+    그대 보았으리, 옛날 취옹(醉翁 송나라 구양수(歐陽修)의 호)이 서호에서 잔치할 때
+    은병 그림 촛불이 밤들어 헤어지니
+    금잔 옥잔이 이리저리 흩어진 것을
+    또 보았으리, 하감(당나라의 시인 하계진)이 방랑해서 계산에 노닐 때
+    가벼운 배 짧은 노로 연기 낀 물굽이 따르고
+    비낀 바람 가랑비에 꽃다운 섬 찾는 것을
+    중원목사 앞사람의 자취를 계승하여
+    배 띄워 북 울리며 금강 가을을 즐기나니
+    칠택은 흰 갈매기 밖으로 아득하고
+    삼산은 금자라 머리에 보일락말락
+    잠을 뽑아 밤중에 동선의 문 두들기니
+    푸른 눈썹 붉은 볼 겹겹이 다락에 둘러앉았네
+    다락 머리의 풍류소리 반공에 떨어지니
+    달은 떠서 황혼이요, 하늘이 어둡구나
+    별 숨고 해 돋자 오마 나는 듯 떠나니
+    우습기는 저 창려의 시에, “월녀의 한 번 웃음에 3년이나 머물렀다.”[越女一笑三年留]한 것이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금자라[金鼇] : '
+    value: 동해 가운데 금자라[金鼇]가 있어서 삼신산(三神山)을 머리에 이고 있다 한다.
+  - key: '[주-D002] 창려(昌黎)의 …… 머물었다 : '
+    value: 한창려(韓昌黎 한유(韓愈))가 후희(侯喜)에게 지어 준 시에, “월녀일소 삼년류(越女一笑三年留)”라는 구(句)가 있었다. 그때에 후희가 월(越)나라 지방에 가서 여인에게 혹하여 3년 동안 돌아오지 않았으므로 한유가 경계한 것이다.
+english:
+  title: Gathering at the Yegang River
+  author: Seon Tan
+  language: eng
+  text: |-
+    Have you not seen how once the Tipsy Elder feasted by the Western Lake,
+    Where silver lamps and painted candles burned through the night till dawn?
+    Golden vessels and jade cups lay scattered, uncollected, everywhere.
+    Have you not heard how Minister He wandered freely through Kuaiji's hills,
+    In light boats with short oars pursuing mist-wrapped inlet turns,
+    While wind-bent rain sought the fragrant isles?
+    Now we men of the Middle Kingdom follow in those ancient footsteps,
+    Pushing boats through drum-beats, reveling in autumn on the Brocade River.
+    Beyond the Seven Lakes' dim expanse, white gulls fade to mist,
+    While Three Sacred Mountains shimmer on the golden tortoise's head.
+    We pull our pins and knock on fairy doors in the night,
+    As green-browed, red-cheeked maidens gather in the layered towers.
+    From those high rooms songs and laughter drift down through half the sky,
+    The moon rises in twilight's gold, the heaven grows dark.
+    Stars hide, the sun flies forth—five horses speed away in haste.
+    Yet how we laugh at that old tale: one smile from a Yueh girl held a man three years.
+  footnotes:
+  - key: ''
+    value: The Tipsy Elder (醉翁) refers to Ouyang Xiu of Song dynasty, famous for his descriptions of West Lake gatherings.
+  - key: ''
+    value: Minister He (賀監) is a reference to the Tang poet He Zhizhang, known for his carefree wanderings through scenic landscapes.
+  - key: ''
+    value: The golden tortoise (金鼇) is a mythical creature said to bear the Three Sacred Mountains (三神山) on its head in the Eastern Sea.
+  - key: ''
+    value: The final allusion references Han Yu's poem to Hou Xi, warning against the fate of a man who was so captivated by a girl from Yueh that he did not return for three years.

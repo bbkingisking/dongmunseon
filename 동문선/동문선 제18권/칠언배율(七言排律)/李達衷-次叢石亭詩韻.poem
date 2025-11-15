@@ -1,0 +1,73 @@
+canonical:
+  title: 次叢石亭詩韻
+  author: 李達衷
+  language: lzh
+  text: 冥搜晨登群玉峯海日欲上雲錦濃珊瑚樹老枝葉脫砥柱湍驚煙霧重歲月糢糊峴首碣風霜寂歷峩眉松莫詠滄浪濁斯濯休歌粲爛生不逢老胡曾來獨大叫仙子已去吾誰從小立峯頭便上馬塵卑未合攀高蹤
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次叢石亭詩韻
+  author: 李達衷
+  language: lzh
+  text: 冥搜晨登群玉峯。海日欲上雲錦濃。珊瑚樹老枝葉脫。砥柱湍驚煙霧重。歲月糢糊峴首碣。風霜寂歷峩眉松。莫詠滄浪濁斯濯。休歌粲爛生不逢。老胡曾來獨大叫。仙子已去吾誰從。小立峯頭便上馬。塵卑未合攀高蹤。
+korean:
+  title: 차 총석정 시운
+  author: 이달충
+  language: kor
+  text: |-
+    비경 찾아 새벽에 군옥봉에 올라오니
+    바다에 해 오르려 비단 구름 짙었네
+    산호수가 늙어서 잎이 모두 떨어졌고
+    돌 기둥(황하 한복판에 있다)에 물결이 부딪쳐 안개 겹겹 쌓였네
+    세월도 알쏭달쏭 현수의 비석은 세월이 얼마나 되었나
+    풍상도 오래 겪은 아미산의 소나무
+    창랑이 흐리면 발 씻겠다 읊지 마소
+    찬란한 데 나서 요순 못 만난다 노래도 말고
+    늙은 호가 일찍이 와서 홀로 크게 외쳤다지
+    선랑 이미 갔으니 내 누구를 좇을꼬
+    봉 머리에 조금 섰다 곧장 말에 오르니
+    내 워낙 속객이라서 높은 자취 못 따르는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 군옥봉(群玉峯) : '
+    value: 군옥산(群玉山)은 신선이 사는 곳인데 총석정을 여러 옥봉우리라 하여 거기에 견주었다.
+  - key: '[주-D002] 현수(峴首) : '
+    value: 양양(襄陽)의 현산(峴山). 양호(羊祜)를 추모하여 세운 비가 있는데, 사람들이 그 앞을 지나며 양호의 덕을 추모하여 눈물을 떨어뜨리므로 타루비(墮淚碑)라 불렀다.
+  - key: '[주-D003] 창랑이 …… 씻겠다 : '
+    value: 한 어린애가 노래하여 이르되, “창랑의 물이 맑으면 내 갓끈을 씻겠고, 창랑의 물이 흐리면 내 발을 씻으리.” 하였다. 《孟子》
+  - key: '[주-D004] 찬란한 …… 못 만난다 : '
+    value: 춘추 시대 때 제 환공(齊桓公)이 밖에 나갔더니 영척(寧戚)이 소를 먹이다가 소뿔을 두드리며 노래하기를, “남산이 번쩍[燦], 흰 돌이 반짝[爛] 세상에 나서 요순(堯舜)을 만나지 못했네.” 하였다. 환공이 그를 뒷수레[後車]에 싣고 가 정승을 삼았다.
+  - key: '[주-D005] 늙은 호(胡) : '
+    value: 노호(老胡)는 석가(釋迦)나 달마(達摩) 등 인도의 중을 칭하는 말인데, 여기서는 어떤 고사(故事)가 있었는지 미상이다.
+  - key: '[주-D006] 선랑(仙郞) : '
+    value: 신라의 국선(國仙)  술랑(述郞)ㆍ남랑(南郞)ㆍ영랑(永郞)ㆍ안상(安詳) 등이 여기와 놀았으므로 사선봉(四仙峯)이라 일컫는다.
+english:
+  title: In the Rhyme of the Chongseok Pavilion Poem
+  author: Lee Dal-choong
+  language: eng
+  text: |-
+    In mystical search at dawn I climb the peaks of jade,
+    Where the sea-sun rises through brocade clouds grown thick.
+    The coral tree stands ancient, all its leaves have fallen,
+    And stone pillars shudder—spray and mist pile deep.
+
+    Years blur like shadows on the Hyun Mountain stone,
+    Wind and frost have long worn down the pines of Emei.
+    Do not sing of murky streams and cleansing feet,
+    Nor chant of glory meeting sages never found.
+
+    The old wanderer once came and cried out alone,
+    But the immortal has gone—whom shall I follow now?
+    I stand briefly on the peak, then mount my horse,
+    A man of dust, too base to trace the holy heights.
+  footnotes:
+  - key: ''
+    value: The Jade Peaks reference the legendary Chongseok Pavilion site, sacred to wandering immortals in Korean tradition.
+  - key: ''
+    value: The Hyun Mountain stone alludes to the famous 'Falling Tears Stele' that mourners passed in reverence for Yang Hu's virtue.
+  - key: ''
+    value: The image of cleansing feet in murky waters echoes the Mencius parable of principle versus circumstance.
+  - key: ''
+    value: The reference to sages Yao and Shun evokes the ancient tale of a hidden sage whose merit was finally recognized.
+  - key: ''
+    value: The 'old wanderer' and 'immortal' recall the legendary sages said to have dwelled at this sacred site.

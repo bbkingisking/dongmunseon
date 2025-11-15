@@ -1,0 +1,47 @@
+canonical:
+  title: 次普門寺閣上詩韻
+  author: 釋禪坦
+  language: lzh
+  text: 山石平生犖确行此軒贏得十年情雨昏鸚鵡洲邊草雲卷芙蓉海上城沙岸漁燈烟外遠月樓人語夜深淸若爲長伴江鷗去飽聽蒼波落枕聲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次普門寺閣上詩韻
+  author: 釋禪坦
+  language: lzh
+  text: 山石平生犖确行。此軒贏得十年情。雨昏鸚鵡洲邊草。雲卷芙蓉海上城。沙岸漁燈烟外遠。月樓人語夜深淸。若爲長伴江鷗去。飽聽蒼波落枕聲。
+korean:
+  title: 차 보문사 각상시운
+  author: 석선탄
+  language: kor
+  text: |-
+    평생에 울툭불툭한 산길을 다녔으니
+    이 절이 10년의 정을 담았구나
+    앵무주 가의 풀에 비가 침침하고
+    바다 위의 부용성(신선이 사는 성)에 구름이 걷히었네
+    모래톱 어선의 등은 연기 밖에 멀리 뵈고
+    달 비친 다락 사람의 말소리는 밤 깊어 고요하네
+    어쩌면 노상 갈매기를 짝하고
+    누워서 물결 소리를 싫도록 들어볼까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0620&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to a Poem on the Tower of Bopmun Temple
+  author: Seon Tan
+  language: eng
+  text: |-
+    A lifetime I have wandered the rugged mountain paths,
+    This temple holds ten years of cherished feeling.
+    Rain clouds gather over Parrot Island's grass,
+    Mist parts above the lotus city on the sea.
+    Far beyond the smoke, fishing lanterns glow on sand,
+    In the moonlit tower, voices fade as night grows still.
+    Could I not become the gull's eternal companion,
+    And hear, lying in bed, the waves' lament upon my pillow?
+  footnotes:
+  - key: ''
+    value: Parrot Island (鸚鵡洲) is a classical allusion to a scenic location along the Yangtze River, often associated with poetic contemplation.
+  - key: ''
+    value: The 'lotus city on the sea' refers to a celestial realm, evoking the Buddhist Pure Land and immortal dwellings in Daoist tradition.
+  - key: ''
+    value: The final couplet expresses the speaker's yearning to abandon worldly attachments and merge with nature, a common theme in Buddhist monastic poetry.

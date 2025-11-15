@@ -1,0 +1,62 @@
+canonical:
+  title: 張良
+  author: 蔡壽
+  language: lzh
+  text: 奇謀不遂浪沙中杖劒歸來相沛公借箸便能成漢業分符獨自讓齊封平生智略傳黃石老去功名付赤松堪笑世人長役役功成勇退是英雄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 張良
+  author: 蔡壽
+  language: lzh
+  text: 奇謀不遂浪沙中。杖劒歸來相沛公。借箸便能成漢業。分符獨自讓齊封。平生智略傳黃石。老去功名付赤松。堪笑世人長役役。功成勇退是英雄。
+korean:
+  title: 장량
+  author: 채수
+  language: kor
+  text: |-
+    기이한 꾀를 낭사에서 이루지 못한 채
+    칼을 짚고 돌아와 패공(한나라 고군 유방)을 도왔었다
+    젓가락을 빌려서는 능히 한업을 이루었고
+    부절을 나눌 때는 홀로 제봉을 사양했다
+    평생의 지혜와 계략은 황석에게 전해 받았고
+    늙어서는 공과 이름을 적송에게 붙이었다
+    우습구나, 세상 사람의 항상 역역함이여
+    공을 이루고는 용기 있게 물러나는 것이 영웅이니라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 기이한 …… 못한 채 : '
+    value: 장량(張良)이 한(韓)나라의 정승의 아들로서 한나라가 진시황(秦始皇)에게 멸망당한 것을 원한으로 여겨, 그 원수를 갚으려고 창해역사(滄海力士)라는 힘센 장사를 시켜 진시황이 지방을 순행하면서 박랑사(博浪沙)를 지날 때에, 모래 속에 엎드렸다가 별안간 일어나서 큰 철퇴로 진시황이 탄 마차를 쳐부셨으나 불행히도 그것은 진시황이 탔던 마차가 아니었다.
+  - key: '[주-D002] 젓가락을 …… 이루었고 : '
+    value: 그 후에 장량은 한나라를 건국한 한 고조 유방(劉邦)에게로 가서 그의 참모가 되었다. 어느 날 일을 의논할 때에 유방에게, “그 밥상에 있는 젓가락을 좀 빌려 주시오. 계산 좀 하여 보겠습니다.”고 한 적이 있었다.
+  - key: '[주-D003] 부절(符節)을 …… 사양했다 : '
+    value: 그 후에 크게 성공하여 한(漢)나라가 건국될 때 유방은 여러 공신들에게 토지를 나누어 주어서 그 공을 갚으려 하였다. 장량에게 제(齊 지금의 산동성)에서 3만 호 백성이 있는 땅을 베어 주마고 하였으나 장량은 사양하고 받지 않았다.
+  - key: '[주-D004] 평생의 …… 받았고 : '
+    value: 그 장량은 하비(下邳)라는 땅에서 어떤 노인을 만나 책 한 권을 전해 받았는데, 그 책은 모두 기이한 계략의 운용하는 방법을 일러준 책이었고, 그 노인은 황석공(黃石公)이라는 옛 신선이라 한다.
+  - key: '[주-D005] 늙어서는 …… 붙이었다 : '
+    value: 성공한 뒤에 모든 것을 받지 아니하고 다만 소원하는 것은 옛날 신선인 적송자(赤松子)를 따라서 노는 것뿐이라고 하였다.
+english:
+  title: Zhang Liang
+  author: Chae Su
+  language: eng
+  text: |-
+    His cunning scheme failed in the shifting sands,
+    Yet with walking staff and sword he came to serve the Duke of Pei.
+    Borrowing chopsticks, he wrought the Han dynasty's fortune,
+    And alone refused the marquessate of Qi when kingdoms were apportioned.
+
+    Lifelong wisdom came from the Yellow Stone Master's scroll,
+    In old age he surrendered all to follow the Crimson Pine Immortal.
+    How laughable—this world's people toil endlessly on,
+    Yet true heroism is accomplishing great deeds and knowing when to withdraw.
+  footnotes:
+  - key: ''
+    value: Zhang Liang was the son of a Korean prime minister. Seeking to avenge his kingdom's fall to the Qin, he orchestrated an assassination attempt on Qin Shihuang using borrowed chopsticks to calculate and plan the attack, but the scheme narrowly failed.
+  - key: ''
+    value: Later, serving Liu Bang (the Duke of Pei), Zhang Liang famously used borrowed chopsticks as a prop while strategizing—a metaphor for his role in founding the Han dynasty through clever counsel rather than military might.
+  - key: ''
+    value: When the Han was established and territories were being distributed as rewards, Liu Bang offered Zhang Liang the wealthy region of Qi, but Zhang Liang humbly refused the honors.
+  - key: ''
+    value: Zhang Liang is said to have received a book of strategic wisdom from an old immortal known as the Yellow Stone Master, which guided his entire life.
+  - key: ''
+    value: In his later years, Zhang Liang withdrew from service, expressing a desire to abandon worldly fame and follow the path of the Crimson Pine Immortal, embodying the ideal of the sage who knows when to relinquish power.

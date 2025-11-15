@@ -1,0 +1,67 @@
+canonical:
+  title: 松都三首
+  author: 李承召
+  language: lzh
+  text: 洞府深深鎖紫霞樓臺何處侍中家仙姝一去無消息樂府空傳進酒歌五冠山與白雲齊老樹參天杜宇啼孝子淸風吹萬古行人猶唱小唐鷄土峴晴雲披素練朴淵飛瀑倒銀潢竪鞭看到斜陽暮更拂蒼苔寫短章
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 松都三首
+  author: 李承召
+  language: lzh
+  text: 洞府深深鎖紫霞。樓臺何處侍中家。仙姝一去無消息。樂府空傳進酒歌。五冠山與白雲齊。老樹參天杜宇啼。孝子淸風吹萬古。行人猶唱小唐鷄。土峴晴雲披素練。朴淵飛瀑倒銀潢。竪鞭看到斜陽暮。更拂蒼苔寫短章。
+korean:
+  title: 송도 삼수
+  author: 이승소
+  language: kor
+  text: |-
+    골짜기 깊고 깊어 자하동에 잠겼는데
+    누대 어느 곳이 시중의 집이던가
+    선주는 한 번 가서 소식 없는데
+    악부는 부질없이 진주가를 전하더라
+    오관산은 흰 구름과 가지런한데
+    늙은 나무는 하늘에 솟았고 두견은 운다
+    효자의 맑은 바람이 만고에 불어
+    길 가는 사람은 아직도 소당계를 부르네
+    토현의 맑은 구름은 흰 비단을 펼치는데
+    박연의 나는 폭포는 은하를 내리쏟네
+    채찍을 세우고 바라보면 저녁 해는 저무는데
+    다시 푸른 이끼를 쓸고 짧은 시를 쓴다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0200&viewSync=OT
+  footnotes: []
+english:
+  title: Three Poems on Songdo
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    I.
+
+    Deep gorges lock away the purple mist of Jahadong,
+    But where stands the pavilion of the Minister's house?
+    The fairy maiden departed once and left no word—
+    Only empty music lingers, singing of wine and joy.
+
+    II.
+
+    Ogwan Mountain rises level with white clouds,
+    Old trees thrust toward heaven while cuckoos call.
+    A filial son's pure wind has blown through ages—
+    Still travelers hum the song of little Tang.
+
+    III.
+
+    At Tohyeon, bright clouds unfold like white silk,
+    At Pagyeon, cascading waters pour down silver streams.
+    Raising my whip to gaze as the sun descends,
+    I sweep the green moss and inscribe these brief verses.
+  footnotes:
+  - key: ''
+    value: Jahadong (자하동) refers to a legendary grotto associated with ancient Korean mythology, symbolizing a sacred or hidden place.
+  - key: ''
+    value: The 'fairy maiden' and 'Minister's house' allude to historical or legendary figures connected to Songdo (松都), likely referencing Goryeo's capital Kaesong.
+  - key: ''
+    value: Ogwan Mountain (오관산), Tohyeon (토현), and Pagyeon (박연) are scenic locations associated with Songdo.
+  - key: ''
+    value: The reference to 'little Tang' (소당계) and the cuckoo's cry evoke traditional Korean poetic imagery of sorrow and remembrance.
+  - key: ''
+    value: This is a series of three poems (삼수) contemplating the ruins and natural beauty of the ancient capital.

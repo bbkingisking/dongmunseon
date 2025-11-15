@@ -1,0 +1,93 @@
+canonical:
+  title: 同擇之遊士華北園
+  author: 朴誾
+  language: lzh
+  text: 主人有峯巒吾家之熏爐主人有澗谷吾家之簷溜主人官貴勢熏灼門前車馬多伺候三年一日不窺園儻有山靈應受詬客來非異人曾與主人舊過門不入亦不忍沿溪返棹計亦謬岩間得少憇景物眞邂逅湍藏霧斂爲我開鶴唳猿啼不驚透主人有金玉什襲豈輕授緘縢固鐍守夜半未信溪山移白晝坐久日向晩白雲生遠岫無心我不如有跡誠自疚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同擇之遊士華北園
+  author: 朴誾
+  language: lzh
+  text: 主人有峯巒。吾家之熏爐。主人有澗谷。吾家之簷溜。主人官貴勢熏灼。門前車馬多伺候。三年一日不窺園。儻有山靈應受詬。客來非異人。曾與主人舊。過門不入亦不忍。沿溪返棹計亦謬。岩間得少憇。景物眞邂逅。湍藏霧斂爲我開。鶴唳猿啼不驚透。主人有金玉。什襲豈輕授。緘縢固鐍守夜半。未信溪山移白晝。坐久日向晩。白雲生遠岫。無心我不如。有跡誠自疚。
+korean:
+  title: 동 택지 유사화 북원
+  author: 박은
+  language: kor
+  text: |-
+    주인이 가진 산 봉우리는
+    내 집의 향로
+    주인이 가진 계곡은
+    내 집 첨하의 낙숫물
+    주인이 벼슬 높고 세력이 한창
+    문전에 와 인사 드리는 숱한 거마들
+    3년에 하루도 동산을 아니 엿보니
+    산신령이 있다면 응당 욕을 먹으리
+    찾아온 손님은 별 사람이 아니라
+    전부터 주인과 친해온 친구
+    과문불입을 차마 못하고
+    시내까지 찾아온 배 못 돌리어서
+    바위 사이에 잠시 쉬느라니
+    경치를 참으로 뜻밖에 만났구먼
+    감췄던 여울, 거뒀던 안개, 날 위해 열리고
+    학의 울음, 잔나비 울음, 놀라지 않네
+    주인이 가진 금이랑 옥은
+    깊숙이 간직하여 어찌 남에게 쉬 주리
+    농에 넣고 쇠 채워서 밤새껏 지키리만
+    계산이야 대낮에 옮겨진줄 모르리
+    오래 앉았느라니 해가 저물어
+    흰 구름이 먼 산에 생겨나누먼
+    내가 무심하기 구름만 못해
+    형적을 남기니 부끄럽습네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0710&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사화(士華) : '
+    value: 남곤(南袞)의 자.
+  - key: '[주-D002] 감췄던 …… 안개 : '
+    value: 〈북산이문(北山移文)〉에 있는 문구인데, “처음에 고상하게 숨었다가 나가서 벼슬하는 주옹(周顒)이 다시 찾는 것을 미워하여 여울을 감추고 안개를 거뒀다.”는 말이 있다. 여기서는 집안에 좋은 산수를 두고 벼슬만 탐하는 주인 남곤(南袞)을 조롱하는 말이다.
+  - key: '[주-D003] 계산(溪山)이야 …… 모르리 : '
+    value: 남곤의 정원에 있는 시내와 산이 손들의 차지가 되었다는 말이다.
+english:
+  title: A Visit to Scholar Sajin's Northern Garden
+  author: Park Eun
+  language: eng
+  text: |-
+    The master possesses mountain peaks—
+    they serve as my home's incense burner.
+    The master possesses ravines—
+    they flow as rain from my own eaves.
+    The master holds high office, his power at its zenith;
+    Countless carriages crowd his gate, waiting for audience.
+    Yet three years pass without a glance toward his garden—
+    surely the mountain spirit must curse him.
+
+    The visitor who comes is no stranger,
+    but an old friend of the master's.
+    I cannot bear to pass by his gate without entering,
+    so I've rowed my boat up the stream instead.
+    Resting briefly among the rocks,
+    I meet this landscape by fortunate chance.
+    The hidden rapids open for me,
+    the gathered mists part before my eyes;
+    the crane's cry, the gibbon's call—
+    they startle not at my presence.
+
+    The master hoards his gold and jade,
+    keeping them locked away, never to be shared.
+    Sealed in coffers, bound with iron,
+    guarded through the night—
+    yet he does not know how the stream and mountains
+    have passed into other hands at midday.
+
+    As I sit long and the sun descends,
+    white clouds gather on distant peaks.
+    I lack the heart of the clouds,
+    whose traces fade without shame;
+    mine linger—and for this I am ashamed.
+  footnotes:
+  - key: ''
+    value: Sajin (士華) is the courtesy name of Nam Gon, a historical figure who prioritized political advancement over the natural beauty of his own estate.
+  - key: ''
+    value: The image of hidden rapids and gathered mists alludes to a classical Chinese text criticizing those who abandon natural pursuits for official power, suggesting here that the master's garden itself seems to hide from his neglect.
+  - key: ''
+    value: 'The poem plays on the tension between possession and appreciation: though the master owns these beautiful landscapes, they are no longer truly his because he cannot see them.'

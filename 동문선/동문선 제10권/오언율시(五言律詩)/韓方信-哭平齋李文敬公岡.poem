@@ -1,0 +1,49 @@
+canonical:
+  title: 哭平齋李文敬公岡
+  author: 韓方信
+  language: lzh
+  text: 我出杏村門視君如弟昆忠淸來有種恭儉獨超群謂答蒼生望何違日者言從今合坐所高論更難聞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 哭平齋李文敬公岡
+  author: 韓方信
+  language: lzh
+  text: 我出杏村門。視君如弟昆。忠淸來有種。恭儉獨超群。謂答蒼生望。何違日者言。從今合坐所。高論更難聞。
+korean:
+  title: 곡 평재 이 문경공 강
+  author: 한방신
+  language: kor
+  text: |-
+    내가 행촌(이암(李嵒)) 문하에서 나왔으므로
+    자네를 형제와 같이 여겼었네
+    충성스럽고 맑음은 태어난 성품이요
+    공손하고 검소함이 홀로 무리에서 뛰어났었네
+    창생들이 기대에 보답할 줄 알았더니
+    어찌 점치는 자의 말과 틀리는고
+    이제부터 합좌소에
+    높은 의론을 다시 들을 수 없겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0600&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 점치는 자[日者]의 말 : '
+    value: 음양학(陰陽學)으로 점치는 자를 일자라 하는데, 아마 그때에 이강(李岡)을 정승이 될 것이라고 말하는 음양가가 있었던 모양이다.
+  - key: '[주-D002] 합좌소(合座所) : '
+    value: 재상(宰相)들이 모여서 정무(政務)를 보는 자리.
+english:
+  title: Elegy for Master Yi Mun-gyeong of P'yongje
+  author: Han Bang-sin
+  language: eng
+  text: |-
+    I emerged from the school of Haengch'on,
+    And looked upon you as a brother.
+    Your loyalty and clarity were gifts of birth,
+    Your courtesy and frugality stood alone above the crowd.
+    I thought you would answer the people's hopes,
+    Yet how did the fortune-teller's words deceive?
+    From this day forward, in that hall where statesmen gather,
+    I shall hear your lofty counsel no more.
+  footnotes:
+  - key: ''
+    value: The 'fortune-teller's words' refers to a diviner's prediction that Yi Gang would rise to high office, a prophecy that came to pass only in the speaker's hopes, not in reality.
+  - key: ''
+    value: The 'hall where statesmen gather' (合座所) refers to the seat of government where ministers conduct affairs of state.

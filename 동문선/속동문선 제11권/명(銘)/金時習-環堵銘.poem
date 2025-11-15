@@ -1,0 +1,78 @@
+canonical:
+  title: 環堵銘
+  author: 金時習
+  language: lzh
+  text: 築一室如窨後以堵前以壁因壁爲䆫明敞可愛外雖質野內則端豁僅容一身列圖書筆硯於傍名曰知命環堵因爲銘以帖堵壁內鈍外黠小人爲質外括內豁君子之吉闇而日章的而日亡衣錦尙褧惡衣表揚無咎無譽者爲括囊翰音登于天何可長列我圖書溫古勿忘勵我志氣浩浩堅剛所以君子知柔知剛知微知彰爲萬夫之望也哉矣夫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 環堵銘
+  author: 金時習
+  language: lzh
+  text: 築一室如窨。後以堵前以壁。因壁爲䆫。明敞可愛。外雖質野。內則端豁。僅容一身。列圖書筆硯於傍。名曰知命環堵。因爲銘以帖堵壁。內鈍外黠。小人爲質。外括內豁。君子之吉。闇而日章。的而日亡。衣錦尙褧。惡衣表揚。無咎無譽者爲括囊。翰音登于天何可長。列我圖書。溫古勿忘。勵我志氣。浩浩堅剛。所以君子。知柔知剛。知微知彰。爲萬夫之望也哉矣夫。
+korean:
+  title: 환도명
+  author: 김시습
+  language: kor
+  text: |-
+    방 한 간을 음실(窨室 지실(地室))과 같이 만들어서, 뒤에는 떼담을 치고 앞에는 벽을 만들고, 벽을 인해서 징을 만들었는데 밝고 통창(通敞)하여 마음에 든다. 겉은 비록 질박하고 비야(鄙野)하나, 안은 실상 아늑하고 넓어서 겨우 한 몸을 용납할 만하다. 그래서 도서(圖書)와 필연(筆硯)을 곁에 벌여 놓고, 이름을 지명환도(知命環堵)라 하고 따라서 명(銘)을 지어 담벽에 붙인다.
+    안은 둔하고 겉만 영리한 것은
+    소인의 자질이요
+    곁은 오므리고 안이 활달한 것은
+    군자의 길조로세
+    모르는 속에 날로 빛나고
+    똑똑한 척하면 날로 망하나니
+    좋은 옷은 안감을 중히 여기고
+    궂은 옷을 가죽만 치례하네
+    허물도 명예도 없는 자는 괄낭이라 하니
+    한음이 하늘로 오르면 어찌 길 수 있나
+    나의 도시를 벌여 놓고
+    옛 것을 복습하여 잊지 말며
+    나의 지기를 가다듬어
+    넓고 굳고 굳세게 하렸다
+    이러기에 군자란
+    유도 알고 강도 알며
+    미도 알고 창도 알아서
+    만 사람의 물망이 되는 것이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1470_040_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 괄낭(括囊) : '
+    value: 주머니를 흩맺다는 말인데, 《주역》 곤괘(坤卦)에, “주머니를 홀맺 듯이 〈속에 든 것을 내보이지 않으면〉허물이 없다[括囊無咎].” 하였다.
+  - key: '[주-D002] 한음(翰音) : '
+    value: 《주역》 중부괘(中孚卦)에, “한음(翰音)이 하늘에 오른다[翰音登干天].” 하였고, 그 주에, “한(翰)은 높이 날아가는 것이니, 날아가는 소리는 소리만 날아갈 뿐이지, 실상은 따라 가지 않는다는 것을 의미함이다.” 하였다.
+english:
+  title: Inscription for a Humble Hermitage
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    I built a single room like an underground chamber—walls at the back, a partition at the front. From this partition I carved a window, bright and open, pleasing to the eye. Though rough and rustic without, within it is snug and spacious, barely containing one body. Here I arrange my books and brushes, calling it the Hermitage of One Who Knows His Fate. Thus I inscribe this meditation upon these walls:
+
+    A dull interior with a cunning exterior—
+    this is the nature of the petty man.
+    A modest outward form with an open heart within—
+    this is the fortune of the noble one.
+
+    In obscurity, one grows daily bright;
+    with loud proclamation, one fades daily away.
+    Fine robes honor their hidden lining;
+    coarse garments need not display their seams.
+    The one who avoids both blame and praise—
+    this is the sealed purse of wisdom.
+
+    Yet how can resonant voice, rising to heaven,
+    ever be contained or long endure?
+
+    So I lay out my books before me,
+    reviewing the ancients, never to forget.
+    I temper my spirit and resolve,
+    making them vast, firm, and unyielding.
+
+    This is the way of the noble person:
+    to know both softness and strength,
+    to understand both the subtle and the manifest—
+    to become the hope and model of ten thousand souls.
+  footnotes:
+  - key: ''
+    value: 'The ''sealed purse'' (括囊) refers to the I Ching''s principle of concealing one''s nature to avoid harm, derived from the hexagram of the Earth: ''Seal the purse and incur no blame.'''
+  - key: ''
+    value: The 'resonant voice rising to heaven' (翰音) alludes to the I Ching's insight that a voice may soar to the heavens, yet only the sound travels—the substance cannot follow. Kim employs this to caution against empty reputation.

@@ -1,0 +1,52 @@
+canonical:
+  title: 夜泊報恩寺下贈住持牛師寺舊名神勒或云甓寺睿宗朝改創極宏麗賜今額
+  author: 金宗直
+  language: lzh
+  text: 報恩寺下日曛黃繫纜尋僧踏月光棟宇已成新法界江湖猶攪舊詩膓上方鍾動驪龍舞萬竅風生鐵鳳翔珍重旻公亦人事時將菜把問舟航
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜泊報恩寺下贈住持牛師寺舊名神勒或云甓寺睿宗朝改創極宏麗賜今額
+  author: 金宗直
+  language: lzh
+  text: 報恩寺下日曛黃。繫纜尋僧踏月光。棟宇已成新法界。江湖猶攪舊詩膓。上方鍾動驪龍舞。萬竅風生鐵鳳翔。珍重旻公亦人事。時將菜把問舟航。
+korean:
+  title: 밤에 보은사 아래에 배를 대어 주지 우사에게 준다. 절 옛이름은 신륵인데 혹은 벽사라고도 한다. 예종조에 개창하였는데 극히 웅장하고 화려하다. 지금 액을 내렸다
+  author: 김종직
+  language: kor
+  text: |-
+    보은사 밑에서 해가 저물어
+    배를 매고 중을 찾아 달빛을 밟는다
+    동우는 이미 이루어져 새로운 법계인데
+    강호는 아직도 옛날의 시의 창자를 흔든다
+    상방의 종이 울매 여룡이 춤추고
+    만 구멍에서 바람이 나매 철봉(절 뒤의 산 이름)이 난다
+    민공을 진중하는 것도 사람의 일이거니
+    때로는 소채라도 갖추어 뱃길을 물어 보라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 만공(旻公) : '
+    value: 예전 당나라 때에 유명한 중이었는데, 두자미(杜子美)의 시에, “민공을 만나지 못한 것이 10년이 되었다.”라는 말이 있다.
+english:
+  title: 'Mooring at Night Below Boeunsva Temple: A Gift for the Abbot Wusa'
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Below Boeunsva Temple the sun descends in gold,
+    I tie the boat and seek the monk, treading moonlit paths.
+    The eastern hall now stands complete—a new dharma realm—
+    yet the rivers and lakes still stir the old poet's heart.
+
+    When the temple bell above sounds, the dragon dances,
+    and wind through ten thousand hollows lifts the iron phoenix.
+    I honor Master Min, though it is merely human work—
+    sometimes with simple greens I ask the way by water.
+  footnotes:
+  - key: ''
+    value: 'Master Min (旻公): An allusion to the celebrated Tang dynasty monk admired by the poet Du Fu, who wrote of missing Min for ten years. Kim Jong-jik invokes this classical reference to honor the temple''s abbot.'
+  - key: ''
+    value: The dragon and iron phoenix are metaphorical responses to the temple bell's sound, suggesting the awakening of sacred presence.
+  - key: ''
+    value: 'Eastern hall (東宇): The main meditation hall of the temple.'
+  - key: ''
+    value: The poem plays with the tension between the newly constructed dharma realm and the eternal currents of poetic inspiration that flow through the landscape.

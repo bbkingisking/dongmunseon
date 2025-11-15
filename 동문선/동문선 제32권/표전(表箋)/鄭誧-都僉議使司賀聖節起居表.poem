@@ -1,0 +1,56 @@
+canonical:
+  title: 都僉議使司賀聖節起居表
+  author: 鄭誧
+  language: lzh
+  text: 四月維夏聿開震夙之祥萬物同春咸被生成之化篤生聖人啓千齡之景運旁施仁澤得萬國之懽心藹佳氣於乾坤騰頌聲於朝野恭惟云云知人則哲御衆以寬明良庶事之歌民用丕變壽富多男之祝天且弗遺茂對社鳴之辰益膺川至之福伏念爲臣下國備位陪寮三月遑遑邈處箕封之濱海四門穆穆想瞻舜殿之垂衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 都僉議使司賀聖節起居表
+  author: 鄭誧
+  language: lzh
+  text: 四月維夏。聿開震夙之祥。萬物同春。咸被生成之化。篤生聖人。啓千齡之景運。旁施仁澤。得萬國之懽心。藹佳氣於乾坤。騰頌聲於朝野。恭惟云云。知人則哲。御衆以寬。明良庶事之歌。民用丕變。壽富多男之祝。天且弗遺。茂對社鳴之辰。益膺川至之福。伏念爲臣下國。備位陪寮。三月遑遑。邈處箕封之濱海。四門穆穆。想瞻舜殿之垂衣。
+korean:
+  title: 도첨의 사사 하 성절 기거 표
+  author: 정포
+  language: kor
+  text: 4월 여름철에 진작 탄강(誕降)의 상서를 열으셨으니, 만국이 같은 몸으로 다 생성(生成)의 화(化)를 입었나이다. 하늘이 성인(聖人)을 내시와 천년의 큰 운(運)을 여시옵고, 곁으로 인택(仁澤)을 베푸시어 만국의 환심을 얻으시니, 아름다운 기운이 천지간에 자욱하고 송축(頌祝)하옵는 소리가 조야(朝野)에 솟아오르옵나이다. 공손히 생각하옵건대, 운운. 사람을 앎이 곧 명철(明哲)하시며 뭇사람을 관용(寬容)으로 통어(統御)하시어, 명량서사(明良庶事)의 노래에 백성들이 모두 크게 변하고, 수부다남(壽富多男)의 축원을 하늘이 또한 버리지[遺] 않으사, 이제 사일(社日)의 양신(良辰)을 맞아 더욱 천지(川至)의 복을 받으시게 되었나이다. 엎드려 생각하옵건대, 하국(下國)의 신하인 몸이 상방(上邦)의 벼슬자리에 있사와, 석 달을 황황(遑遑)하여 멀리 기봉(箕封)의 바닷가에 처해 있사오나, 사문(四門)의 목목(穆穆)한 순전(舜殿)의 드리운 옷[垂衣]을 상상하여 우러러 뵈옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 명량서사(明良庶事)의 노래 : '
+    value: 순(舜)의 정치를 찬양한 고요(皐陶)의 노래이다.
+  - key: '[주-D002] 천지(川至)의 복 : '
+    value: 복이 냇물에 흐르듯이 더해간다는 뜻인데, 《시경》에, “여강여릉 여천지방지(如岡如陵如川之方至)”란 구절이 있다. 《詩經 小雅 天保》
+english:
+  title: Memorial Presenting Felicitations on the Auspicious Birthday to the Royal Inspector-General
+  author: Jung Po
+  language: eng
+  text: |-
+    In the fourth month of summer, the auspicious signs of a sage's birth unfold,
+    and all nations receive alike the transformative grace of creation.
+    Heaven has brought forth a sage and opened the fortune of a thousand years,
+    and through the bestowal of benevolent care, the hearts of ten thousand lands are won.
+    Auspicious vapors drift through heaven and earth,
+    and songs of praise rise from court and countryside alike.
+
+    With reverent contemplation: by knowing people, one achieves wisdom;
+    by governing the multitude with tolerance, virtue prevails.
+    The songs of sage rulers echo in all affairs—
+    the people are greatly transformed;
+    the blessings of long life, wealth, and many sons—
+    heaven itself does not withhold.
+    Now, meeting this auspicious day of the earth altar,
+    we receive yet more abundantly the blessings that flow like rivers from heaven.
+
+    Your humble servant, though merely a subject of a lesser realm,
+    occupies a position of attendance among the officials.
+    Three months I have labored in distant service,
+    placed far away at the borderlands of my province.
+    Yet in the silence of the four gates, I gaze in reverence
+    at the hanging robes of the sage ruler's presence,
+    and my heart ascends toward that distant throne.
+  footnotes:
+  - key: ''
+    value: The phrase 'songs of sage rulers' (明良庶事) refers to the celebration of the governance of the legendary sage-king Shun, particularly the praises sung by Gao Yao, his minister of justice.
+  - key: ''
+    value: 'The image of blessings ''flowing like rivers'' draws from the *Classic of Poetry*: ''Like hills and mountains, like rivers ever advancing''—suggesting blessings that flow continuously and abundantly.'

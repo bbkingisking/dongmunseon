@@ -1,0 +1,48 @@
+canonical:
+  title: 馬嵬坡
+  author: 朴仁範
+  language: lzh
+  text: 日旆雲旗向錦城侍臣相顧暗傷情龍顔結恨頻回首玉貌催魂已隔生自此暮山多慘色到今流水有愁聲空餘露濕閑花在猶似仙娥臉淚盈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 馬嵬坡
+  author: 朴仁範
+  language: lzh
+  text: 日旆雲旗向錦城。侍臣相顧暗傷情。龍顔結恨頻回首。玉貌催魂已隔生。自此暮山多慘色。到今流水有愁聲。空餘露濕閑花在。猶似仙娥臉淚盈。
+korean:
+  title: 마외파
+  author: 박인범
+  language: kor
+  text: |-
+    임금님 깃발이 금성(금관성(錦官城)의 약칭. 지금 사천성(四川省)성도(成都))으로 향하실 제
+    시신들 마주보며 모두 마음 상했네
+    용안은 한을 맺어 자주 머릴 돌리는데
+    옥모는 혼을 재촉해 이미 저세상 사람 되었구나
+    그로부터 저문 산은 처참한 빛 많았고
+    지금까지 흐르는 물조차 시름소리 있구나
+    남은 것은 이슬에 젖은 길가의 꽃
+    귀비가 지금도 마치 눈물 흘림 같구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 마외파(馬嵬坡) : '
+    value: 당 현종(唐玄宗)이 안녹산(安祿山)의 반란으로 촉(蜀) 땅으로 피난해 가다가 군사들의 강청(强請)으로 총희(寵姬) 양귀비(楊貴妃)를 사사(賜死)한 곳.
+english:
+  title: Mawei Slope
+  author: Park In-beom
+  language: eng
+  text: |-
+    The imperial banners and clouded flags turn toward the brocaded city,
+    The attendants face each other, their hearts secretly wounded.
+    The dragon countenance binds its resentment, turning back again and again,
+    The jade visage summons the soul—already departed to the other realm.
+
+    From that moment, the darkening mountains wore a mournful hue,
+    Even now, the flowing waters carry notes of sorrow.
+    Only the dew-dampened flowers remain by the roadside,
+    Still seeming like the tears flowing from the celestial concubine's face.
+  footnotes:
+  - key: ''
+    value: 'Mawei Slope: The site where Emperor Xuanzong of Tang, fleeing the rebellion of An Lushan toward Shu (Sichuan), was forced by his troops to order the execution of his beloved concubine Yang Guifei.'
+  - key: ''
+    value: The poem alludes to one of Chinese history's most poignant tragedies, where imperial duty and human love collide with irrevocable consequence.

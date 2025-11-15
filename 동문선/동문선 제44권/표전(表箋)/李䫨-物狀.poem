@@ -1,0 +1,40 @@
+canonical:
+  title: 物狀
+  author: 李䫨
+  language: lzh
+  text: 慈闈汎愛不間於殊方貢篚率修各輸於薄禮前件物等品▣賨幪價乏淮珠雖慙不腆之儀用表由中之信
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 李䫨
+  language: lzh
+  text: 慈闈汎愛。不間於殊方。貢篚率修。各輸於薄禮。前件物等。品▣賨幪。價乏淮珠。雖慙不腆之儀。用表由中之信。
+korean:
+  title: 물장
+  author: 이오
+  language: kor
+  text: 자위(慈闈)의 넓은 사랑이 먼 지방에도 사이를 두지 않으시니, 공비(貢篚 조공(朝貢))를 마련하여 각기 박한 예물을 올리옵니다. 지난 번 물등(物等)은 품질이 종몽(賨幪)만 못하고 값은 회주(淮珠)에 떨어져서, 비록 변변치 못한 의식이 부끄럽사오나, 마음속의 신의를 표하옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 종몽(賨幪) : '
+    value: 종(賨)은 남만(南蠻)을 말한 것이요, 몽(幪)은 포목으로 즉 종포(賨布)를 말한 것이다.
+  - key: '[주-D002] 회주(淮珠) : '
+    value: 회수(淮水)의 연안에 사는 오랑캐는 빈주(蠙珠 진주)와 고기를 바친다. 《書經 禹貢》
+english:
+  title: A Tribute of Goods
+  author: Lee O
+  language: eng
+  text: |-
+    The benevolent heart of the royal court spreads its boundless love across distant lands,
+    Sparing no distinction between near and far.
+    We prepare our tribute and each offer humble gifts according to custom.
+    Though these goods fall short in quality of the southern silks,
+    And lack the luster of pearls from the Huai waters,
+    We present them nonetheless, ashamed of their meager worth,
+    Yet sincere in the devotion that springs from within our hearts.
+  footnotes:
+  - key: ''
+    value: The 'southern silks' (賨幪) refers to fine fabrics from the southern regions, used here as a standard of quality against which the tribute is measured.
+  - key: ''
+    value: The 'pearls from the Huai waters' (淮珠) alludes to the precious tribute traditionally sent from the barbarian peoples along the Huai River, mentioned in the ancient text Yigong of the Book of Documents.

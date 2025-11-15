@@ -1,0 +1,45 @@
+canonical:
+  title: 韓公尙質畵像贊 幷序
+  author: 權近
+  language: lzh
+  text: 政堂韓公在我國初入奏天子請更國號得朝鮮之美稱者也今觀畵像敬作贊曰惟玉之潔惟竹之節質禀乎天德進于學綠髮黃扉丹心紫闥惠及斯民功在於國英敏之聲卓偉之烈當與朝鮮之美號同垂於罔極也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 韓公尙質畵像贊 幷序
+  author: 權近
+  language: lzh
+  text: 政堂韓公。在我國初。入奏天子。請更國號。得朝鮮之美稱者也。今觀畵像。敬作贊曰。惟玉之潔。惟竹之節。質禀乎天。德進于學。綠髮黃扉。丹心紫闥。惠及斯民。功在於國。英敏之聲。卓偉之烈。當與朝鮮之美號。同垂於罔極也。
+korean:
+  title: 한공 상질 화상찬 병서
+  author: 권근
+  language: kor
+  text: 정당(政堂)인 한공(韓公)이 우리나라에 들어와서 처음으로 천자에게 아뢰고 나라의 칭호를 변경할 것을 청하여 조선(朝鮮)이라는 좋은 칭호를 얻어온 사람이다. 지금 화상을 보고 공경히 찬을 지었다. 이르기를,오직 옥과 같은 그의 깨끗함이며, 오직 대와 같은 그의 절조이었다. 천품은 하늘에서 타고난 것이며 인격은 학문에서 발전되었다. 푸른 머리로 대신이 되었으며 충성스러운 마음으로 황제에게 나아갔다. 은혜는 백성에게 미쳤고 공적은 나라에 남아 있다. 영걸하며 민첩한 그의 명성과 높고 훌륭한 그의 공적은 조선(朝鮮)이라는 좋은 칭호와 함께 영원히 남으리라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: An Eulogistic Inscription on the Portrait of Minister Han, with Preface
+  author: Gwon Geun
+  language: eng
+  text: |-
+    Minister Han came to our realm from abroad, and was the first to present a memorial to the Son of Heaven, petitioning to change our nation's title. Thus he won for us the noble name of Chosŏn. Now, gazing upon this portrait, I respectfully compose this eulogy:
+
+    Clear as jade his purity,
+    Steadfast as bamboo his integrity.
+    His nature Heaven itself bestowed,
+    His virtue grew through learning's way.
+    With raven locks he served the court,
+    With crimson heart approached the throne.
+    His grace descended upon the people,
+    His merit abides within the realm.
+    The brilliance of his sage wisdom,
+    The grandeur of his mighty deeds—
+    These shall endure with Chosŏn's noble name,
+    Eternal as the boundless heavens above.
+  footnotes:
+  - key: ''
+    value: Minister Han refers to Han Sangjil (韓尙質), who negotiated with the Ming court to have the newly founded Joseon dynasty adopt the name 'Chosŏn' (朝鮮) in place of other proposed titles.
+  - key: ''
+    value: The metaphors of jade and bamboo are classical Chinese symbols of virtue and integrity respectively.
+  - key: ''
+    value: '''Chosŏn'' (朝鮮) literally means ''Land of the Morning Calm'' and became the official name of the Korean peninsula during this dynasty.'

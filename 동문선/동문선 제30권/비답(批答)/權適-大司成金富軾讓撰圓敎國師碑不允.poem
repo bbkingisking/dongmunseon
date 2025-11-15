@@ -1,0 +1,34 @@
+canonical:
+  title: 大司成金富軾讓撰圓敎國師碑不允
+  author: 權適
+  language: lzh
+  text: 文章之中惟紀事爲難非著述難使事辭相稱無過不及斯爲難矣圓敎國師道德事業卓越千古欲樹豊碑以詔後世非卿之文無以稱副肆降非常之命用圖不朽之傳是當奉承何必牢讓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大司成金富軾讓撰圓敎國師碑不允
+  author: 權適
+  language: lzh
+  text: 文章之中。惟紀事爲難。非著述難。使事辭相稱。無過不及。斯爲難矣。圓敎國師。道德事業。卓越千古。欲樹豊碑。以詔後世。非卿之文。無以稱副。肆降非常之命。用圖不朽之傳。是當奉承。何必牢讓。
+korean:
+  title: 대사성 김부식이 원교국사비를 짓기를 사양함을 윤허하지 아니함
+  author: 권적
+  language: kor
+  text: 문장 중에 기사문(記事文)이 가장 어려우니, 저술하기가 어려운 것이 아니라 사실과 문사(文辭)가 서로 맞아 넘치거나 모자람이 없어야 하므로 어려운 것이다.원교국사(圓敎國師)의 도덕과 사업은 천고(千古)에 탁월하니, 큰 비를 세워 후세에 전하고자 함에 있어서는 경(卿)의 글이 아니면 안 된다. 이에 비상한 명을 내려 국사의 불후함을 전하고자 하니, 이를 마땅히 받들어 순종할지어다. 어찌하여 굳이 사양하는가.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0330_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: The King Does Not Grant Master Kim Bu-sik's Request to Decline Writing the Stele for National Preceptor Wongyeo
+  author: Gwon Jeok
+  language: eng
+  text: |-
+    Among all forms of writing, the chronicle is most difficult to compose—not because the act of writing itself is hard, but because the facts and the words must be perfectly matched, neither excessive nor lacking. This is what makes it truly difficult.
+
+    The virtue and deeds of National Preceptor Wongyeo stand supreme across the ages. To erect a grand stele and transmit his legacy to posterity, none but your brush can do it justice. Therefore I issue this extraordinary command, that his immortal name be preserved for all time. You must accept this with reverence and obedience. Why do you persist in your refusal?
+  footnotes:
+  - key: ''
+    value: This piece is a royal response declining an official's request to be excused from writing a commemorative stele, demonstrating the authority and persuasive rhetoric of the throne.
+  - key: ''
+    value: National Preceptor Wongyeo (圓敎國師) was a significant Buddhist figure in medieval Korea, and the commissioning of his stele was a matter of state importance.
+  - key: ''
+    value: The emphasis on matching 'facts and words' reflects classical Chinese aesthetic principles about historical writing and literary refinement.

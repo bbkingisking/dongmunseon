@@ -1,0 +1,53 @@
+canonical:
+  title: 耽羅
+  author: 權近
+  language: lzh
+  text: 蒼蒼一點漢羅山遠在洪濤浩渺間人動星芒來海國馬生龍種入天閑地偏民業猶生遂風便商帆僅往還聖代職方修版籍此方雖陋不須刪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 耽羅
+  author: 權近
+  language: lzh
+  text: 蒼蒼一點漢羅山。遠在洪濤浩渺間。人動星芒來海國。馬生龍種入天閑。地偏民業猶生遂。風便商帆僅往還。聖代職方修版籍。此方雖陋不須刪。
+korean:
+  title: 탐라
+  author: 권근
+  language: kor
+  text: |-
+    파릇파릇 한 점 한라산이
+    만경창파 아득한 속에 멀리 있네
+    사람이 별에 나타나서 바다 나라에 왔었고
+    말은 용의 씨를 낳아 하늘 우리로 들어오네
+    벽지마다 백성들은 업이 있어 살아가고
+    바람편에 장사배가 겨우 오고 갈 뿐
+    성대의 직방에서 판적을 닦을 때
+    이 고장 누추하지만 부디 빠치지 마옵소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사람이 …… 왔었고 : '
+    value: 응제시(應制詩) 본집(本集) 작자의 자주(自註)에 “옛날 탐라 사람이 신라에 내조(來朝)할 때 객성(客星)의 응(應)이 있었으므로 나왕(羅王)이 기뻐 성자(星子)란 호를 주었다.” 하였다. 탐라 시조 고을나(高乙那)의 15대손 고후(高厚)ㆍ고청(高淸) 등이 바다를 건너 탐진(耽津)에 도착했을 때 객성(客星)이 남쪽에 보였으므로 신라왕이 내조한 고후를 별한[星主]이라 일컬었다 한다. 《高麗史 地理志》
+  - key: '[주-D002] 하늘 우리[天閑] : '
+    value: 황제의 말 외양간. 제주도 목장에 말을 길러 그 중 뛰어난 말을 중국에 조공했다.
+  - key: '[주-D003] 직방(職方) : '
+    value: 벼슬 이름. 《주례(周禮)》천관(天官)의 하나. 천하의 지도(地圖)를 맡아보고 사방의 조공을 주장했다.
+english:
+  title: Tamla
+  author: Kwon Geun
+  language: eng
+  text: |-
+    Verdant as jade, a solitary peak—Halla Mountain—
+    Stands distant in the vast expanse of rolling waves.
+    When a man appeared as a guest star, he came to this sea kingdom,
+    And horses, born of dragon's blood, entered the imperial pastures of heaven.
+    In this remote place, the people prosper through honest labor,
+    While merchant ships sail back and forth with the favorable wind.
+    Now in this enlightened age, the Records Bureau refines its registers—
+    Though this corner of the realm seems humble, I humbly ask: let it not be erased.
+  footnotes:
+  - key: ''
+    value: The 'guest star' refers to an auspicious celestial omen that appeared when the ancient people of Tamla first came to pay tribute to Silla. According to legend, the Silla king was so pleased that he granted the leader the honorific title 'Star Child.'
+  - key: ''
+    value: The 'imperial pastures of heaven' alludes to Tamla's famous role as a breeding ground for superior horses, which were among the tribute sent to the Chinese court.
+  - key: ''
+    value: The 'Records Bureau' (職方) was responsible for maintaining geographical records and coordinating tributary relations—the poem appeals to have Tamla properly documented and not forgotten in the official records.

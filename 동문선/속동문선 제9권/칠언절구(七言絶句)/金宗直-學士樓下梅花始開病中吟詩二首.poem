@@ -1,0 +1,48 @@
+canonical:
+  title: 學士樓下梅花始開病中吟詩二首
+  author: 金宗直
+  language: lzh
+  text: 學士樓前獨立仙相逢一笑故依然肩輿欲過還攀慰今歲春風太劇顚春慵和疾過淸明官况愔愔睡易成吟到梅邊幽興動吏胥爭道使君醒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 學士樓下梅花始開病中吟詩二首
+  author: 金宗直
+  language: lzh
+  text: 學士樓前獨立仙。相逢一笑故依然。肩輿欲過還攀慰。今歲春風太劇顚。春慵和疾過淸明。官况愔愔睡易成。吟到梅邊幽興動。吏胥爭道使君醒。
+korean:
+  title: 학사루하 매화시개 병중음시 이수
+  author: 김종직
+  language: kor
+  text: |-
+    학사루 앞에 홀로 선 신선
+    서로 만나 한 번 웃으매 옛날과 다름없다
+    견여가 지내려 하여 다시 잡고 뒤로 하나니
+    금년의 봄 바람은 너무 과히 미쳤다
+    봄 게으름에 병을 겸해 청명을 지나노니
+    관황이 암암하여 잠이 쉽게 들었노라
+    시를 읊으며 매화 곁으로 가매 그윽한 흥이 움직이는데
+    이서들이 다투어 사군이 깨었도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0470&viewSync=OT
+  footnotes: []
+english:
+  title: Two Poems Composed While Ill, Upon Plum Blossoms Beginning to Bloom Below the Scholar's Tower
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    I stand alone before the Scholar's Tower, a wandering sage.
+    When we meet and smile, it is as it was of old.
+    The sedan palanquin slows to pass, yet hands reach back to comfort me—
+    This year's spring wind blows far too fierce, unbalanced and wild.
+
+    Spring's lethargy mingles with my illness, carrying me past the Clear Brightness Festival.
+    Our official affairs drift dim and drowsy—sleep comes easily now.
+    But as I chant verses by the plum tree, my spirit stirs with subtle longing,
+    When suddenly the clerks cry out in haste to wake their master.
+  footnotes:
+  - key: ''
+    value: The 'Scholar's Tower' (學士樓) refers to a prestigious location, likely where the author or his circle gathered.
+  - key: ''
+    value: The 'Clear Brightness Festival' (清明) marks the traditional spring period of renewal, making the speaker's illness all the more poignant.
+  - key: ''
+    value: The contrast between the speaker's weakened state and the clerks' urgent call creates a gentle tension between solitude and duty.

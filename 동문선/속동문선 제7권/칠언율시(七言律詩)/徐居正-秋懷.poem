@@ -1,0 +1,50 @@
+canonical:
+  title: 秋懷
+  author: 徐居正
+  language: lzh
+  text: 流光冉冉不曾留烏帽西風怯白頭出處由來難自斷閑忙自古不相謀陶潛歸去欣瞻宇杜甫行藏獨倚樓我亦歸田曾有賦欲將身世老扁舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋懷
+  author: 徐居正
+  language: lzh
+  text: 流光冉冉不曾留。烏帽西風怯白頭。出處由來難自斷。閑忙自古不相謀。陶潛歸去欣瞻宇。杜甫行藏獨倚樓。我亦歸田曾有賦。欲將身世老扁舟。
+korean:
+  title: 추회
+  author: 서거정
+  language: kor
+  text: |-
+    세월은 자꾸 흘러 머무르지 않나니
+    오모로 서쪽 바람에 흰 머리를 두려워한다
+    나아가고 물러남은 원래 결정짓기 어렵고
+    한가하고 바쁨은 옛부터 서로 꾀하지 않나니
+    도잠은 돌아가면서 집 바라봄을 기뻐하였고
+    두보는 나가나 숨거나 혼자 다락을 의지하였다
+    나도 또한 전원으로 돌아가리, 일찍 부가 있거니
+    이 신세를 끌고 가서 조각배에서 늙으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 도잠(陶潛)은 …… 기뻐하였고 : '
+    value: 도연명(陶淵明)의 〈귀거래사(歸去來辭)〉에, “집을 바라보고[乃瞻衡宇] 기뻐서 달려갔다[載欣載奔].”는 글귀가 있다.
+  - key: '[주-D002] 두보(杜甫)는 …… 의지하였다 : '
+    value: 두자미[杜甫]가 악양루(岳陽樓)에 올라 세상을 탄식한 시가 있다.
+english:
+  title: Autumn Reflections
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The flowing days slip away and never return,
+    My black cap trembles in the autumn wind before white hair.
+    To advance or retreat—such choices were never mine to make,
+    For leisure and labor have never kept the same counsel since ancient times.
+
+    Tao Qian found joy when returning, gazing back at his humble roof,
+    Du Fu, whether venturing forth or dwelling hidden, leaned alone upon the tower.
+    I too have turned toward the fields, my verses written long ago,
+    Now I would take this weary self and age away upon a small boat.
+  footnotes:
+  - key: ''
+    value: 'Tao Qian (陶潛), better known as Tao Yuanming (陶淵明), wrote the celebrated ''Return to Field'' (歸去來辭), which includes the lines: ''I gaze upon my humble eaves and rush forward with joy.'''
+  - key: ''
+    value: Du Fu ascended the Yueyang Tower (岳陽樓) and lamented the state of the world—a moment of profound reflection between action and withdrawal.

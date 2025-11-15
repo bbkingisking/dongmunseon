@@ -1,0 +1,37 @@
+canonical:
+  title: 進奉鷂子起居表
+  author: 金坵
+  language: lzh
+  text: 日月照臨永荷皇明之無外雲霄瞻望但期聖壽之叵涯金石有渝肝膓何改
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 進奉鷂子起居表
+  author: 金坵
+  language: lzh
+  text: 日月照臨。永荷皇明之無外。雲霄瞻望。但期聖壽之叵涯。金石有渝。肝膓何改。
+korean:
+  title: 진봉 요자 기거 표
+  author: 김구
+  language: kor
+  text: 해와 달이 비치고 다다르매 길이 황명(皇明)의 무외(無外)를 감사히 여기옵고, 하늘을 우러러 바라며 다만 만수무강하시옵기를 기대하옵니다. 금석(金石)이 무너질지언정 간장(肝腸)이 변하겠사옵니까.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: 'Memorial Presenting a Gyrfalcon: An Expression of Reverence'
+  author: Kim Gu
+  language: eng
+  text: |-
+    As sun and moon shine down upon us all,
+    I am eternally grateful for the Emperor's boundless grace.
+    Gazing upward to the heavens above,
+    I pray only that His Majesty's life be long and unending.
+    Though metal and stone may crumble and decay,
+    How could my heart ever turn or change?
+  footnotes:
+  - key: ''
+    value: This memorial accompanies the presentation of a gyrfalcon, a precious hunting bird, as tribute to the imperial court.
+  - key: ''
+    value: The phrase 'sun and moon shine down' evokes the omnipresent virtue of imperial rule in East Asian political philosophy.
+  - key: ''
+    value: The final couplet employs the classical contrast between material impermanence and unwavering human loyalty, a common theme in Korean court literature.

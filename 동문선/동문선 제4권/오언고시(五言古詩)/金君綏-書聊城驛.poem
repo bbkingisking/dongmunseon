@@ -1,0 +1,46 @@
+canonical:
+  title: 書聊城驛
+  author: 金君綏
+  language: lzh
+  text: 去歲楓欲丹乘軺赴南國今年柳初黃返旆朝北極萬物化無常四時行不息溪流似我心澄淨唯一色
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書聊城驛
+  author: 金君綏
+  language: lzh
+  text: 去歲楓欲丹。乘軺赴南國。今年柳初黃。返旆朝北極。萬物化無常。四時行不息。溪流似我心。澄淨唯一色。
+korean:
+  title: 서 요성역
+  author: 김군수
+  language: kor
+  text: |-
+    거년에 단풍이 붉으려 할 때
+    사신으로 남국에 갔더니
+    금년엔 버들이 첫 눈 틀 때
+    깃발을 돌려 북극(천자(天子))에 조회하네
+    만물의 변화는 무상하고
+    네 철은 돌고 돌아 쉬지 않느니
+    흐르는 시냇물 내 마음 같아
+    맑고 맑아 한 빛이어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Written at the Liaozheng Relay Station
+  author: Kim Gunsu
+  language: eng
+  text: |-
+    Last year when maples blushed crimson,
+    I rode as envoy to the southern realm.
+    This year when willows turn golden,
+    I turn my banners homeward to pay court to the northern throne.
+
+    All things transform in their impermanence,
+    The four seasons revolve without rest.
+    The flowing stream resembles my heart—
+    Clear and crystalline, a single radiance.
+  footnotes:
+  - key: ''
+    value: The poem contrasts the poet's southward journey the previous year with his return northward, using seasonal changes (autumn maples and spring willows) to mark the passage of time and official duties.
+  - key: ''
+    value: The 'northern extreme' (北極) refers to the seat of the emperor or central court, emphasizing the hierarchical nature of the poet's official service.

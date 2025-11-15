@@ -1,0 +1,55 @@
+canonical:
+  title: 淡庵白忠簡公文寶挽詞
+  author: 尹紹宗
+  language: lzh
+  text: 佛法東方久顯行先生奮起接周程喟然引聖排邪說卓爾知天着踐形踐形淡庵所著性理之論 爲命自今誰潤色發矇無復仰高明悠悠萬世重泉下舊友從游我栗亭與栗亭及第同年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淡庵白忠簡公文寶挽詞
+  author: 尹紹宗
+  language: lzh
+  text: 佛法東方久顯行。先生奮起接周程。喟然引聖排邪說。卓爾知天着踐形。踐形。淡庵所著性理之論。 爲命自今誰潤色。發矇無復仰高明。悠悠萬世重泉下。舊友從游我栗亭。與栗亭及第同年。
+korean:
+  title: 담암 백 충간공 문보 만사
+  author: 윤소종
+  language: kor
+  text: |-
+    불법이 이 나라에 오래 크게 행해졌거늘
+    선생이 분기하여 주ㆍ정을 이었네
+    개연히 성현을 끌어 사특한 설을 배척하고
+    높직히 천리를 알아 천형을 논했도다
+    천형은 담암이 지은 성리론 나라의 사명(외교문서)을 뉘 이제 윤색하리
+    어둠을 깨쳐 주는 고명을 다시 우러를 데 없네
+    기나긴 만세 황천 밑 저승에서
+    옛 친구 좇아 놀 이는 우리 율정(윤택의 호)뿐이리
+    율정(栗亭)과는 동방급제(同榜及第)였다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주(周)ㆍ정(程) : '
+    value: 송(宋)나라의 성리학자 주돈이(周敦頤)와 정호(程顥)ㆍ정이(程頤).
+english:
+  title: Elegy for Baek Chung-gan, Duke of Damam
+  author: Yun Sojong
+  language: eng
+  text: |-
+    In this eastern land, the Buddha's teachings have long flourished and spread,
+    Yet the Master arose and carried forward Zhou and Cheng's noble way.
+    With solemn voice he summoned the Sage to sweep away heretical claims,
+    And standing firm in understanding Heaven's principle, he expounded embodied form.
+
+    Embodied form—the teaching of Principle and Nature that Damam composed—
+    Who now shall polish and perfect the nation's sacred word?
+    The fog once lifted by his brilliant light finds none to raise its lamp,
+    And through ten thousand ages, beneath the yellow springs,
+    Only one old friend remains to follow where he walks—
+    My companion Yul-jeong in that distant shore.
+
+    We had passed the examination together in the same year.
+  footnotes:
+  - key: ''
+    value: Zhou and Cheng refer to the Neo-Confucian philosophers Zhou Dunyi, Cheng Hao, and Cheng Yi of the Song Dynasty, founders of the School of Principle (Xingxue) that shaped East Asian philosophy.
+  - key: ''
+    value: Embodied form (践形) refers to the actualization of Heaven's principle in human nature, a central concept in Neo-Confucian philosophy that Baek Chung-gan explored in his writings.
+  - key: ''
+    value: Yul-jeong (栗亭) was Yun Sojong's courtesy name, and this elegy expresses the poet's grief that he alone remains to remember his departed friend.

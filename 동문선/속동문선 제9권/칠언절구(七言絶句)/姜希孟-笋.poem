@@ -1,0 +1,39 @@
+canonical:
+  title: 笋
+  author: 姜希孟
+  language: lzh
+  text: 萬卉歸藏天氣嚴微陽地底更恬纖蟄龍却被春雷動半露崢嶸紫角尖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 笋
+  author: 姜希孟
+  language: lzh
+  text: 萬卉歸藏天氣嚴。微陽地底更恬纖。蟄龍却被春雷動。半露崢嶸紫角尖。
+korean:
+  title: 순
+  author: 강희맹
+  language: kor
+  text: |-
+    모든 꽃이 엄한 하늘 기운으로 돌아가 숨을 때
+    조금 따뜻한 땅 속에서 더욱 고요하고 가냘프다
+    엎드린 용이 문득 봄 우뢰의 움직임을 입고
+    반쯤 드러내어 쟁영한 자색 뿔이 뾰족하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0270&viewSync=OT
+  footnotes: []
+english:
+  title: Bamboo Shoot
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    When all flowers retreat into hiding beneath the stern grip of heaven's breath,
+    In the gentle warmth beneath the earth, all grows more hushed and slender.
+    The dormant dragon, suddenly stirred by the thunder of spring,
+    Thrusts half its body upward—a jagged purple horn, sharp and keen.
+  footnotes:
+  - key: ''
+    value: The 'dormant dragon' is a classical metaphor for the bamboo shoot hidden underground before it emerges.
+  - key: ''
+    value: The 'spring thunder' represents the awakening force of nature that breaks the winter dormancy.
+  - key: ''
+    value: The 'purple horn' refers to the tender, pointed tip of the emerging bamboo shoot.

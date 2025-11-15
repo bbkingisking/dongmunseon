@@ -1,0 +1,37 @@
+canonical:
+  title: 御駕
+  author: 郭輿
+  language: lzh
+  text: 大平容貌恣騎牛半濕殘霏過壠頭知有水邊家近在從他落日傍溪流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 御駕
+  author: 郭輿
+  language: lzh
+  text: 大平容貌恣騎牛。半濕殘霏過壠頭。知有水邊家近在。從他落日傍溪流。
+korean:
+  title: 어가
+  author: 곽여
+  language: kor
+  text: |-
+    태평 시절 풍치어라 멋지게 소 타는 모양
+    부슬비에 반은 젖어 밭둑 지내느니
+    알겠구나 물 가까이 집 있음을
+    지는 해에 개울을 끼고 가네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0290&viewSync=OT
+  footnotes: []
+english:
+  title: The Imperial Procession
+  author: Kwak Yeo
+  language: eng
+  text: |-
+    In times of great peace, what graceful bearing—
+    riding an ox with such elegant ease.
+    Half-dampened by lingering mist,
+    he passes over the ridge of fields.
+
+    Now I discern it: a home must lie
+    close by the water's edge.
+    Let him follow the setting sun
+    as it traces the winding creek.

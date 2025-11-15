@@ -1,0 +1,37 @@
+canonical:
+  title: 書懷寄趙瑚先輩
+  author: 柳淑
+  language: lzh
+  text: 他鄕作客頭渾白到處逢人眼不靑淸夜沉沉滿床月琵琶一曲鄭瓜亭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書懷寄趙瑚先輩
+  author: 柳淑
+  language: lzh
+  text: 他鄕作客頭渾白。到處逢人眼不靑。淸夜沉沉滿床月。琵琶一曲鄭瓜亭。
+korean:
+  title: 서회기조호선배
+  author: 유숙
+  language: kor
+  text: |-
+    타향에 나그네 되어 머리 모두 세었거니
+    가는 곳 만나는 사람마다 눈길이 차가워라
+    맑은 밤은 깊어 가고 달빛 가득한 상 아래
+    한 곡조 비파 타노니 정과정곡일러라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0950&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정과정곡(鄭瓜亭曲) : '
+    value: 고려 의종 때에 정서(鄭叙)가 동래(東萊)로 귀양가 있으면서 임금을 생각하여 비파를 탔는데, 그 곡조를 〈정과정곡(鄭瓜亭曲)〉이라 한다. 과정(瓜亭)은 정서의 호(號)다.
+english:
+  title: 'Reflections on My Wanderings: A Letter to Senior Zhao Hu'
+  author: Yu Suk
+  language: eng
+  text: |-
+    A wanderer in foreign lands, my hair has turned completely white.
+    Wherever I go, those I meet greet me with cold eyes.
+    The clear night deepens, moonlight pools across my bed—
+    I play a single melody on the pipa, the song of Zheng Guating.
+  footnotes:
+  - key: ''
+    value: The 'Song of Zheng Guating' refers to a famous melody played by the Tang official Zheng Xu when he was exiled to Donglai, his yearning for the emperor expressed through the instrument. 'Guating' was Zheng Xu's sobriquet, becoming the name by which the melancholic composition is remembered.

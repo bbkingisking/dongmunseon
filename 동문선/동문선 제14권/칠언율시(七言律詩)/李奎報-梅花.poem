@@ -1,0 +1,52 @@
+canonical:
+  title: 梅花
+  author: 李奎報
+  language: lzh
+  text: 庾嶺侵寒拆凍唇不將紅粉損天眞莫敎驚落羌兒笛好待來隨驛使塵帶雪更粧千點雪先春偸作一番春玉肌尙有淸香在竊藥姮娥月裏身
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 梅花
+  author: 李奎報
+  language: lzh
+  text: 庾嶺侵寒拆凍唇。不將紅粉損天眞。莫敎驚落羌兒笛。好待來隨驛使塵。帶雪更粧千點雪。先春偸作一番春。玉肌尙有淸香在。竊藥姮娥月裏身。
+korean:
+  title: 매화
+  author: 이규보
+  language: kor
+  text: |-
+    한창 추운 유령에 언 입술을 터치고
+    연지와 분으로 천진을 손상하지 않네
+    강적 소리에 놀라 떨어지지 말고
+    역 사자의 오는 길을 기다려서 따르소
+    눈 맞고도 천 송이 또 단장하고
+    봄 앞서 살짝 한 번 봄을 미리 꾸미네
+    옥 같은 살결에 맑은 그 향내
+    선약을 훔친 항아를 월궁에서 보는 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강적(羌笛) …… 떨어지지 말고 : '
+    value: 서강(西羌)의 적(笛)인데, 그 곡조에, ‘낙매화(落梅花)’란 곡이 있다.
+  - key: '[주-D002] 역(驛) 사자(使者) : '
+    value: 남조(南朝)의 육개(陸凱)가 강남(江南)에서 장안(長安)에 있는 범엽(范曄)에게 매화 한 가지를 부치며 시를 지어 보내기를, “매화를 꺾어 역사(驛使)를 만나서 농두(隴頭) 사람에게 부치네.” 하였다.
+english:
+  title: Plum Blossoms
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    On Yueling's ridge where winter claws and freezes tender lips,
+    Yet no crimson powder mars the bloom's pristine truth.
+    Do not let the barbarian flute startle petals to their fall—
+    Wait instead to follow the courier's dusty path.
+
+    Dressed in snow, a thousand snowflakes more adorn its form,
+    Before spring arrives, it steals and weaves spring's first glory.
+    On skin like jade, clear fragrance lingers still—
+    As if Chang'e herself, who stole the elixir, blooms within the moon.
+  footnotes:
+  - key: ''
+    value: The 'barbarian flute' refers to the Qiang pipe, whose famous melody is called 'Falling Plum Blossoms'—the poet asks the flower not to be startled into premature falling by this tune.
+  - key: ''
+    value: 'The reference to the courier draws from the Tang poet Lu Kai, who sent a single plum branch to his distant friend with the verse: ''I break a plum branch to meet the messenger, sending it to those at Longtou.'' This alludes to the plum''s role as a symbol of friendship and longing across distance.'
+  - key: ''
+    value: Chang'e is the moon goddess of Chinese mythology, who drank the elixir of immortality and ascended to the moon—here she represents the ethereal, transcendent beauty of the plum blossom.

@@ -1,0 +1,45 @@
+canonical:
+  title: 堂頭 住持의 雅稱
+  author: 吳廷碩
+  language: lzh
+  text: 沿崖踏澗入雲霏洞裏寬深絶世機四面苔巖靑障合一條溪溜白龍飛笙簫縹緲淸風遠煙月空濛晚色微盡日逍遙塵垢外喜吾早得脫讒譏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 堂頭 住持의 雅稱
+  author: 吳廷碩
+  language: lzh
+  text: 沿崖踏澗入雲霏。洞裏寬深絶世機。四面苔巖靑障合。一條溪溜白龍飛。笙簫縹緲淸風遠。煙月空濛晚色微。盡日逍遙塵垢外。喜吾早得脫讒譏。
+korean:
+  title: 대광사 당두
+  author: 오정석
+  language: kor
+  text: |-
+    비탈을 따라 시내를 건너 구름 속에 들어오니
+    깊숙하고 헌칠한 골 안이 세상 티끌 끊겼네
+    사면의 이끼 돋은 바위들은 푸른 가리개 두른 듯
+    한 줄기 폭포는 흰 용이 나는 듯
+    아득한 피릿소리 맑은 바람 멀고
+    뽀얀 안개 속에 달빛이 희미해라
+    온종일 진세 밖에 소요하노니
+    참언과 비방을 일찍 벗어난 것 기뻐라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the Hall Master at Daegwangsa
+  author: Oh Jeong-seok
+  language: eng
+  text: |-
+    Following the cliff edge, I cross the stream and enter the mist,
+    Into a gorge so deep and pristine, the world's dust falls away.
+    On all sides, moss-covered rocks form barriers of green,
+    A single cascade descends like a white dragon in flight.
+    The distant strains of pipe and flute drift on clean wind,
+    While moonlight grows faint through veils of haze.
+    All day I wander beyond the realm of the world,
+    Glad at last to have escaped from slander and reproach.
+  footnotes:
+  - key: ''
+    value: Daegwangsa is a Buddhist temple, and the 'Hall Master' (當頭) refers to an abbot or senior monastic administrator
+  - key: ''
+    value: The poem celebrates finding spiritual refuge and peace in mountain seclusion, a common theme in East Asian literati poetry

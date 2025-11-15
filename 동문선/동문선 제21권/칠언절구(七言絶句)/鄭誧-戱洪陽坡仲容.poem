@@ -1,0 +1,43 @@
+canonical:
+  title: 戱洪陽坡仲容
+  author: 鄭誧
+  language: lzh
+  text: 天地於人豈有私有生必死固其宜神仙安有長生術却笑留侯老更癡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 戱洪陽坡仲容
+  author: 鄭誧
+  language: lzh
+  text: 天地於人豈有私。有生必死固其宜。神仙安有長生術。却笑留侯老更癡。
+korean:
+  title: 희홍양파중용
+  author: 정포
+  language: kor
+  text: |-
+    천지가 사람에게 어찌 사가 있으랴
+    한 번 나면 반드시 죽는 것 진실로 마땅하네
+    신선이라 어찌 길이 사는 술이 있으랴
+    늙어서 새삼 어리석은 것이 우스워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0780&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 늙어서 세상 어리석은 : '
+    value: 한(漢)나라 장량(張良)이 유후(留侯)로 봉하여졌다. 장량이 만년에 신선을 배운다고 벽곡(辟穀)을 하였다.
+english:
+  title: A Jest at Hong Yangpa Jungyong
+  author: Jung Po
+  language: eng
+  text: |-
+    Heaven and earth show no favoritism toward man—
+    what folly to expect such bias.
+    Once born, death must surely come;
+    this is the natural way of things.
+    Even immortals possess no elixir of endless life—
+    yet how it amuses me to see an old man,
+    still chasing the delusions of youth,
+    obsessed with the secrets of eternal youth.
+  footnotes:
+  - key: ''
+    value: This poem references Zhang Liang (張良), the celebrated strategist of the Han dynasty who was enfeoffed as the Marquis of Liu (留侯). In his final years, Zhang Liang pursued Daoist practices and grain avoidance (辟穀) in pursuit of immortality. The poet gently mocks this pursuit as the folly of old age.
+  - key: ''
+    value: The title likely references someone known as Hong Yangpa Jungyong, toward whom this gentle satire is directed.

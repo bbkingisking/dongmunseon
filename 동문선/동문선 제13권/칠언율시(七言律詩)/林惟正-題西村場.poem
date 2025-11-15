@@ -1,0 +1,47 @@
+canonical:
+  title: 題西村場
+  author: 林惟正
+  language: lzh
+  text: 亂山高下水東西子固 到此令人詩思迷樂天 細雨濛濛煙漠漠胡眞儒 平波渺渺草萋萋曹▣ 能歌姹女顔如玉李宣 愛酒山翁醉似泥永叔 別有夜深惆悵事樂天遠峯高處子規啼無浼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題西村場
+  author: 林惟正
+  language: lzh
+  text: |-
+    亂山高下水東西。子固。 到此令人詩思迷。樂天。 細雨濛濛煙漠漠。胡眞儒。 平波渺渺草萋萋。曹▣。 能歌姹女顔如玉。李宣。 愛酒山翁醉似泥。永叔。 別有夜深惆悵事。樂天。
+    遠峯高處子規啼。無浼。
+korean:
+  title: 서촌장에 쓰다
+  author: 임유정
+  language: kor
+  text: |-
+    연봉이 올망졸망 물이 동ㆍ서 자고(子固)
+    예 오니 시상도 갈피를 못 잡겠네 낙천(樂天)
+    부슬비가 부슬부슬 연기는 자욱하고 호진류(胡眞儒)
+    물결은 굼실굼실 물이 가득하구나 조(曹)
+    노래하는 소녀는 얼굴이 옥 같은데 이선(李宣)
+    술 즐기는 산 늙은이는 곤드레 취하였네 영숙(永叔)
+    밤 깊어 특별히 서글퍼지는 심사 낙천(樂天)
+    머나먼 높은 봉 위에 뻐꾸기 우는 소리 무매(無浼)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0600&viewSync=OT
+  footnotes: []
+english:
+  title: Written at Seocho Village
+  author: Im Yujung
+  language: eng
+  text: |-
+    Jagged peaks rise and fall, waters flow east and west,
+    Arriving here, even a poet's thoughts grow tangled and unclear.
+    Fine rain falls in mist, smoke hangs thick and hazy—
+    Waves undulate gently, grass grows lush and deep.
+    A singing girl's face gleams like jade,
+    While an old mountain lover drowns in wine.
+    As night deepens, a peculiar melancholy stirs the heart:
+    From distant heights, a cuckoo's cry pierces the air.
+  footnotes:
+  - key: ''
+    value: 'This poem is composed as a linked-verse work (연구체), with each line attributed to different classical poets, both Chinese and Korean. The names in parentheses reference the literary masters whose style or sentiment each line evokes: Ouyang Xiu (子固), Bai Juyi (樂天), and others.'
+  - key: ''
+    value: The cuckoo (뻐꾸기/子規) traditionally symbolizes sorrow and longing in East Asian poetry, particularly associated with separation and the passage of time.

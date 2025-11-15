@@ -1,0 +1,54 @@
+canonical:
+  title: 贈薛鶴齋
+  author: 偰遜
+  language: lzh
+  text: 鶴上仙人薛上卿齋居自愛鶴爲名遠從小保傳眞骨已托杜陵題雅情赤壁秋高江月小靑田雨足石苔生何緣許借冲霄翮直結雲松巢大淸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈薛鶴齋
+  author: 偰遜
+  language: lzh
+  text: 鶴上仙人薛上卿。齋居自愛鶴爲名。遠從小保傳眞骨。已托杜陵題雅情。赤壁秋高江月小。靑田雨足石苔生。何緣許借冲霄翮。直結雲松巢大淸。
+korean:
+  title: 증 설학재
+  author: 설손
+  language: kor
+  text: |-
+    학을 타고 다니는 설상경[상서ㆍ판서를 상경이라 한다]
+    서재 이름을 학이라 짓고 좋아하네
+    멀리 소보 적부터 진골로 전하여
+    이미 두릉의 시를 빌어 아담한 운치를 읊었네
+    적벽 가을밤에 강달이 작을 때
+    청전에 비가 와서 돌 이끼가 돋았네
+    어쩌면 하늘 찌르는 그 날개를 빌어서
+    구름과 솔을 마주 이어 하늘 위에 깃들일까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0500&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소보(少保) : '
+    value: 당나라 설소보(薛小保)는 학을 잘 그리기로 유명하였다. 두보(杜甫 杜陵)가 그 그림을 두고 시를 지었다.
+  - key: '[주-D002] 두릉(杜陵)의 시 : '
+    value: 소동파(蘇東坡)가 지은 후적벽부(後赤壁賦)에, “산이 높으니 달이 작다.[山高月小]”는 구절이 있고, 또 “외로은 학(鶴)이 강을 질러 동에서 와서 나의 배를 스쳐갔다.”는 구절이 있다.
+  - key: '[주-D003] 청전(靑田) : '
+    value: 산 이름인데 밭에서 청지(靑芝)가 나고 학의 서식처(棲息處)라 한다.
+english:
+  title: A Gift for Seol Hak-jae
+  author: Seol Son
+  language: eng
+  text: |-
+    The crane-rider, Seol the minister on high,
+    Has named his study-lodge for crane, his pride.
+    From distant ages, Xiao-bao's true lineage flows—
+    Already Du Ling's verses breathe his subtle taste.
+
+    When autumn crowns Red Cliff and river moonlight thins,
+    And rains fall heavy on the Blue Fields, moss grows green,
+    Oh, might he borrow those wings that pierce the sky,
+    To nest forever where clouds embrace the pines of heaven.
+  footnotes:
+  - key: ''
+    value: Xiao-bao (薛小保) was a Tang dynasty painter renowned for his crane paintings. Du Fu (Du Ling) famously composed poems on his paintings.
+  - key: ''
+    value: The phrase 'Red Cliff' and 'autumn crowns' echo Su Dongpo's 'Second Ode to Red Cliff,' which contains the lines 'the mountain high, the moon small' and describes a solitary crane flying across the river.
+  - key: ''
+    value: Blue Fields (靑田) is a mountain known as the natural dwelling place of cranes, where green moss thrives.

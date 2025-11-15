@@ -1,0 +1,48 @@
+canonical:
+  title: 再和
+  author: 釋天因
+  language: lzh
+  text: 千里書迴到石門遙知江北久逡廵唱高白雪應傾國路捷靑雲更絶人任是世閒專寵命何如林下樂淸眞歸期莫訝光陰促三轉須終妙法輪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 再和
+  author: 釋天因
+  language: lzh
+  text: 千里書迴到石門。遙知江北久逡廵。唱高白雪應傾國。路捷靑雲更絶人。任是世閒專寵命。何如林下樂淸眞。歸期莫訝光陰促。三轉須終妙法輪。
+korean:
+  title: 다시 화답하며
+  author: 석천인
+  language: kor
+  text: |-
+    천리에 편지 회답 산문에 이르니
+    멀리 강북에서 오래 두류한다는 소식
+    높이 부른 백설곡(초(楚)나라의 가곡(歌曲) 이름)은 온 나라를 기울일 것
+    빨리 걷는 청운 길을 누가 뒤따르리
+    세상 벼슬의 총명이 아무리 귀하여도
+    수풀 아래 청진한 낙과 어떠하리
+    세월이 빠르거니 돌아올 기약 멀잖으리
+    묘한 법륜을 끝내 세 번 굴려야하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 법륜(法輪) : '
+    value: 수레바퀴가 부딪치는 것을 갈아서 부수듯 불법이 모든 번뇌(煩惱)를 굴려서 부순다는 뜻인데, 대개 설법(說法)하는 것을 법륜을 굴린다고 말한다.
+english:
+  title: A Second Response
+  author: Seok Cheon-in
+  language: eng
+  text: |-
+    A letter returns across a thousand miles to the mountain gate.
+    From afar, news that you linger long beyond the northern river.
+    Your song, high as the "White Snow," could captivate a kingdom—
+    yet who can follow the swift path of blue clouds?
+
+    Though worldly office and favor shine with all their glory,
+    what compares to the pure joy beneath the forest eaves?
+    Do not wonder that time passes swiftly;
+    the dharma wheel must turn three times before all is complete.
+  footnotes:
+  - key: ''
+    value: '"White Snow" (白雪) refers to an ancient Chu song of legendary difficulty and refinement, often used metaphorically for exceptional talent or virtue.'
+  - key: ''
+    value: The "dharma wheel" (法輪) is a Buddhist image for the turning of the Buddha's teachings, which crushes ignorance and suffering as a wheel crushes grain. Here it suggests the cyclical nature of spiritual practice and enlightenment.

@@ -1,0 +1,48 @@
+canonical:
+  title: 漫成
+  author: 徐居正
+  language: lzh
+  text: 紅塵騎馬十年忙一日偸閑趣亦長卯酒醺人聊復醉午風吹袖欲生涼脫巾散髮從人笑索紙題詩作意狂却勝前時衙罷去朝衫濕盡汗翻漿
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漫成
+  author: 徐居正
+  language: lzh
+  text: 紅塵騎馬十年忙。一日偸閑趣亦長。卯酒醺人聊復醉。午風吹袖欲生涼。脫巾散髮從人笑。索紙題詩作意狂。却勝前時衙罷去。朝衫濕盡汗翻漿。
+korean:
+  title: 만성
+  author: 서거정
+  language: kor
+  text: |-
+    홍진 속에 말을 타고 십년을 바쁘다가
+    하루 틈타 한가하매 홍취가 또한 길다
+    아침 술이 훈훈하매 즐겨 다시 취하고
+    낮 바람이 소매를 불어 가을 기운 생기련다
+    두건을 벗고 머리를 흩으려 남이 웃는 대로 맡기고
+    종이를 찾아 시를 적으면 일부러 미쳐 보나니
+    이것은 전날에 관청 일 마치고 떠날 때에
+    조삼(관복)이 모두 땀에 젖어 물같이 번진다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: Casual Composition
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Ten years I've ridden through the dusty world, hurried and worn.
+    One day of leisure comes—and idleness itself grows long.
+    Morning wine warms me; gladly I surrender to its spell,
+    And afternoon wind through my sleeves brings the breath of autumn.
+
+    I cast off my cap, let my hair fall loose—let others laugh if they will.
+    Seizing paper, I write my poems, deliberately playing the fool.
+    How different from those days when duty calls me from the office,
+    When my official robes are drenched through, sweat streaming like rivers.
+  footnotes:
+  - key: ''
+    value: The 'dusty world' (紅塵) is a Buddhist metaphor for the mundane realm of worldly affairs and desires.
+  - key: ''
+    value: The 'morning wine' and 'afternoon wind' create a progression through the day that moves from intoxication toward clarity and refreshment.
+  - key: ''
+    value: The final image of sweat-soaked official robes contrasts sharply with the poet's present state of careless abandon, emphasizing the liberation found in this rare moment of freedom.

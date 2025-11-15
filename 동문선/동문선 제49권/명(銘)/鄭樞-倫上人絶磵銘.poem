@@ -1,0 +1,38 @@
+canonical:
+  title: 倫上人絶磵銘
+  author: 鄭樞
+  language: lzh
+  text: 山之谾谾巖流淙淙瓦甁石鼎挹注無窮睹影除疑洞山先之將子勿懈逝者如斯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 倫上人絶磵銘
+  author: 鄭樞
+  language: lzh
+  text: 山之谾谾。巖流淙淙。瓦甁石鼎。挹注無窮。睹影除疑。洞山先之。將子勿懈。逝者如斯。
+korean:
+  title: 윤상인 절간 명
+  author: 정추
+  language: kor
+  text: 산골은 우묵한데 바위 사이 물은 졸졸 나오네. 흘러 질그릇 병으로 돌솥에다 길어 붓기 다함이 없다. 그림자를 보고 의심을 제거한 것은 동산(洞山 당나라의 고승(高僧))이 먼저 하였다. 자네는 게을리 말게나. 흘러가는 것이 이와 같으니.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0270&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on the Waterfall at Reverent Yun's Retreat
+  author: Jung Chu
+  language: eng
+  text: |-
+    The mountain valley runs deep and wide,
+    While waters through the rocky crevice glide.
+    Into earthen jars and stone vessels pour,
+    The endless stream that flows forevermore.
+
+    To see one's shadow and dispel all doubt—
+    This path the sage of Dongshan first found out.
+    Brother, do not let your zeal grow slack:
+    All things that flow away shall not turn back.
+  footnotes:
+  - key: ''
+    value: Dongshan refers to Dongshan Liangjia (洞山良价), a celebrated Tang Dynasty Buddhist master known for his teaching on emptiness and the nature of reflection
+  - key: ''
+    value: The imagery of water filling vessels and flowing endlessly serves as a metaphor for the continuous nature of Buddhist practice and the impermanence of all things

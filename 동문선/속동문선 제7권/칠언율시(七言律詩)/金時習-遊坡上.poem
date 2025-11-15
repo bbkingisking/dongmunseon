@@ -1,0 +1,46 @@
+canonical:
+  title: 遊坡上
+  author: 金時習
+  language: lzh
+  text: 楓葉蘆花拂釣磯異鄕稻熟鯽魚肥風生別浦鳴寒鴈日落孤城掩夕扉落落形骸曾有志栖栖身世竟何依林泉他日如歸去塵土何由得上衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊坡上
+  author: 金時習
+  language: lzh
+  text: 楓葉蘆花拂釣磯。異鄕稻熟鯽魚肥。風生別浦鳴寒鴈。日落孤城掩夕扉。落落形骸曾有志。栖栖身世竟何依。林泉他日如歸去。塵土何由得上衣。
+korean:
+  title: 유파상
+  author: 김시습
+  language: kor
+  text: |-
+    단풍잎과 갈대꽃이 낚시터를 쓰는데
+    타향에 벼가 익고 붕어 살찐다
+    별포에 바람이 생기매 찬 기러기가 울고
+    외로운 성에 해가 떨어져 사립문을 닫는다
+    낙락한 이 신체에도 일찍 뜻은 있었는데
+    서서한 이 신세는 마침내 무엇에 의지할꼬
+    만일 다른 날에 임천에 돌아간다면
+    티끌과 흙에 어찌 내 옷에 묻으랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0930&viewSync=OT
+  footnotes: []
+english:
+  title: Wandering on the Slope
+  author: Kim Si習
+  language: eng
+  text: |-
+    Maple leaves and reed flowers brush against the fishing stone,
+    In this foreign land, rice ripens and crucian carp grow fat.
+    Wind stirs in the distant inlet where cold geese cry,
+    As sunset falls on the lonely fortress, closing its evening gate.
+
+    This solitary frame once harbored great ambition,
+    Yet this wandering life finds nothing to lean upon.
+    If someday I return to the forest springs,
+    How shall the dust of this world cling to my sleeves?
+  footnotes:
+  - key: ''
+    value: Kim Si습 (1435-1493), also known as Gagyeong, was a Korean scholar-poet and Daoist hermit who spent his later life in voluntary exile, rejecting the worldly life of the court.
+  - key: ''
+    value: The poem employs autumn imagery to reflect on the poet's estrangement from society and his yearning for spiritual return to nature.

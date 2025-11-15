@@ -1,0 +1,29 @@
+canonical:
+  title: 同前起居表
+  author: 李元膺
+  language: lzh
+  text: 守封江海之濱未躬慶會注想雲霄之上徒役勤誠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同前起居表
+  author: 李元膺
+  language: lzh
+  text: 守封江海之濱。未躬慶會。注想雲霄之上。徒役勤誠。
+korean:
+  title: 동전 기거 표
+  author: 이원응
+  language: kor
+  text: 강해(江海) 물가에서 국경[봉강(封疆)]을 지키느라 경사로운 모임에 몸소 참예치는 못하오나, 운소(雲霄) 위에 생각을 돌려 한갓 성근(誠勤)을 드리나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0430&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial of Felicitations and Ceremonial Etiquette
+  author: Lee Won-eung
+  language: eng
+  text: Stationed at the borderlands where river and sea converge, I cannot personally attend the auspicious gathering. Yet my thoughts ascend toward the celestial realm, offering only the sincerity of my devoted service.
+  footnotes:
+  - key: ''
+    value: This memorial is a formal court document in which the author, positioned far from the capital at a border garrison, expresses regret at his absence from imperial celebrations while pledging his loyalty from afar.
+  - key: ''
+    value: The contrast between earthly distance and spiritual presence—between the body remaining at the frontier and the heart reaching toward heaven—reflects the literary convention of loyal officials separated from their sovereign.

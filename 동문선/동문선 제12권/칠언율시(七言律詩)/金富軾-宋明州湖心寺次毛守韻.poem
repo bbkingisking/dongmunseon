@@ -1,0 +1,49 @@
+canonical:
+  title: 宋明州湖心寺次毛守韻
+  author: 金富軾
+  language: lzh
+  text: 江山重複望難窮更構層樓在半空簷外蒼蒼河漢逼階前浩浩海潮通片帆孤鳥千家外踈雨斜陽一氣中想與衆心同所樂騷人誰諷大王風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宋明州湖心寺次毛守韻
+  author: 金富軾
+  language: lzh
+  text: 江山重複望難窮。更構層樓在半空。簷外蒼蒼河漢逼。階前浩浩海潮通。片帆孤鳥千家外。踈雨斜陽一氣中。想與衆心同所樂。騷人誰諷大王風。
+korean:
+  title: 송나라 명주호심사에서 모수의 운을 차하며
+  author: 김부식
+  language: kor
+  text: |-
+    강산이 겹치고 겹쳐 조망이 그지없는데
+    다시 층루를 지어 반공에 솟았구나
+    처마 끝에 푸르른 은하수 다가오고
+    뜰 앞엔 넓디넓은 바닷물 출렁이네
+    올망졸망 인가 밖에 조각돛과 외로운 새
+    망망한 대기 속에 성긴 비 지는 해
+    뭇 사람 함께 즐거움 같이하려 생각노니
+    어느 뉘 대왕 바람을 임께 풍유하오리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0520&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 뭇 사람 함께 즐거움 같이하려 : '
+    value: 《맹자》에, “혼자 즐거움을 즐김이 뭇 사람과 즐거움을 즐김만 못하다.”는 말이 있다. 임금은 뭇 백성과 함께 즐거움을 같이해야 한다는 뜻이다.
+  - key: '[주-D002] 바람 : '
+    value: 초(楚)나라 송옥(宋玉)이 지은 〈풍부(風賦)〉에 바람을 대왕풍[雄風]과 서인풍(庶人風 자풍(雌風))으로 나누어 호화로운 왕이 사는 곳에 부는 바람은 웅풍(雄風)이요, 곤궁한 백성들의 집에 부는 바람은 자풍(雌風)이라 하여 풍자하였다.
+english:
+  title: At Huxin Temple in Mingzhou, Responding to Minister Mao's Rhyme
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Mountains layered upon mountains stretch beyond sight,
+    Yet here a tower rises, built into the sky.
+    Beyond the eaves the azure River of Heaven draws near,
+    Before the steps the vast tidal waters flow.
+    Scattered sails and solitary birds beyond a thousand homes,
+    Sparse rain and slanting sun merge in one breath.
+    I wish the joy we share were shared by all—
+    Who will sing to the prince the people's wind?
+  footnotes:
+  - key: ''
+    value: The closing couplet alludes to the Mencius, which teaches that a ruler should share joy with all people rather than joy in solitude. The poem suggests the ruler should attend to the welfare of the common folk.
+  - key: ''
+    value: The final line references the 'Rhapsody on Wind' (風賦) by Song Yu of Chu, which distinguishes between the 'grand wind' (雄風) that blows through the halls of kings and the 'common wind' (庶人風) that touches the dwellings of the poor—a subtle critique suggesting the ruler's virtue should extend to all people.

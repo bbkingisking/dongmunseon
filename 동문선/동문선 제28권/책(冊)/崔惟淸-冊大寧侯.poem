@@ -1,0 +1,36 @@
+canonical:
+  title: 冊大寧侯
+  author: 崔惟淸
+  language: lzh
+  text: 敎某王者廣封子弟使守藩維豈直親愛而欲其富貴哉抑所以尊宗廟重社稷也况爾以天倫之親爲宗室之望夙著成人之德宜膺胙土之榮爰考僉言往頒恩命其敬遵厥典體我至懷今遣使某官某備禮冊命仍賜某物等具如別錄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冊大寧侯
+  author: 崔惟淸
+  language: lzh
+  text: 敎某。王者廣封子弟。使守藩維。豈直親愛而欲其富貴哉。抑所以尊宗廟重社稷也。况爾以天倫之親。爲宗室之望。夙著成人之德。宜膺胙土之榮。爰考僉言。往頒恩命。其敬遵厥典。體我至懷。今遣使某官某。備禮冊命。仍賜某物等。具如別錄。
+korean:
+  title: 책 대령후
+  author: 최유청
+  language: kor
+  text: 효(侾)에게 교하노라. 왕 노릇하는 자가 널리 자제(子弟)를 봉하여 울타리를 지키게 하는 것이, 어찌 다만 친하고 사랑하여 부귀를 누리게 하는 것 뿐이랴. 또한 종묘를 높이고 사직을 중하게 여기는 것이다. 하물며 너는 천륜의 친속으로서 종실 중에 명망이 있었다. 일찌감치 성인의 덕을 나타내었으니, 마땅히 땅을 나누어 주는 영광을 받아야 한다. 이에 여러 사람의 말을 참고로 하여 은혜스러운 명을 반포한다. 공경히 법전에 따라서 나의 지극한 마음을 알아주기 바란다. 이제 사신 모관 모를 보내어 예를 갖추어 책봉하고, 인하여 아무 물건들을 별록과 같이 준다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0310_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: Enfeoffment of the Grand Marquis of Dailing
+  author: Choe Yugyeong
+  language: eng
+  text: |-
+    I impart this edict to you:
+
+    When a ruler enfeoffs his sons and brothers widely, establishing them as guardians of distant domains, it is not merely for affection's sake, nor to grant them wealth and honor. Rather, it is to exalt the ancestral temple and fortify the altar of the state. How much more so in your case—descended from the bonds of heaven itself, you stand as the hope of the royal lineage. Early you revealed the virtue of a mature man, and thus you deserve to receive the glory of being granted domain and title.
+
+    Having considered the counsel of many, I now bestow upon you this gracious mandate. Respect and uphold its ordinances, and understand the depths of my sincere regard. I hereby dispatch my emissary, [Official Name], to conduct the ceremony of enfeoffment according to proper rites. Along with this, various gifts are granted to you, as detailed in the attached record.
+  footnotes:
+  - key: ''
+    value: This is a royal edict of enfeoffment, a formal proclamation establishing a royal kinsman as a marquis with territorial authority.
+  - key: ''
+    value: The 'ancestral temple' and 'altar of the state' refer to the fundamental institutions of the kingdom that the ruler seeks to preserve through strategic allocation of power to trusted relatives.
+  - key: ''
+    value: The reference to 'bonds of heaven' (天倫) emphasizes the natural and cosmic order of familial relationships within the royal house.

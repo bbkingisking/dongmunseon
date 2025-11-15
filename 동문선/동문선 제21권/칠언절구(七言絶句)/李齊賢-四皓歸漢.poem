@@ -1,0 +1,41 @@
+canonical:
+  title: 四皓歸漢
+  author: 李齊賢
+  language: lzh
+  text: 見說扶蘇孝且仁胡令二世禍生民逋翁不爲卑辭屈未忍劉家又似秦
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 四皓歸漢
+  author: 李齊賢
+  language: lzh
+  text: 見說扶蘇孝且仁。胡令二世禍生民。逋翁不爲卑辭屈。未忍劉家又似秦。
+korean:
+  title: 사호귀한
+  author: 이제현
+  language: kor
+  text: |-
+    부소는 효도하고 인하였거늘
+    어찌하여 이세로 하여금 화가 백성에게 미치게 하였던가
+    포옹은 비사에 굴하지 않았나니
+    유씨의 집이 진나라와 같이 됨을 차마 보지 못함이니라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사호귀한(四皓歸漢) : '
+    value: ‘이 밑의 네 절구(絶句)는 국재(菊齋)의 횡파십이영(橫坡十二詠) 중의 사수(四首)에 화답한 것이다.’라는 제주(題註)가 있다.
+english:
+  title: The Four Aged Worthies Return to Han
+  author: Lee Je-hyun
+  language: eng
+  text: |
+    Fussu was filial and kind—yet how
+    Could the Second Emperor bring calamity upon the people?
+    The four old ones would not bow to base entreaties,
+    Unwilling to watch Liu's house become another Qin.
+  footnotes:
+  - key: ''
+    value: 'Fussu: The elder son of China''s First Emperor, known for his virtuous character. He was deposed in favor of his younger brother, the Second Emperor, which led to the persecution of the Confucian scholars and civil unrest.'
+  - key: ''
+    value: 'The four old ones: Reference to the Four Aged Worthies (sihao) who served under Liu Bang, founder of the Han Dynasty. They initially refused to serve, living in seclusion, but eventually joined the Han court.'
+  - key: ''
+    value: This poem is part of a series responding to works by Gukjae.

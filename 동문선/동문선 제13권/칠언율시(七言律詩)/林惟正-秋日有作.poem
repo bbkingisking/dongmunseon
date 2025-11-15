@@ -1,0 +1,66 @@
+canonical:
+  title: 秋日有作
+  author: 林惟正
+  language: lzh
+  text: 身閑何處最相宜郭震 秋雨梧桐葉落時樂天 涼吹已成團扇恨舜欽 夕陽催就小䆫詩兪秀老 人閒禍福愚難料樂天 世上艱難醉不知孫何 坐久欲醒還酩酊樂天碧天殘月暎花枝程但
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋日有作
+  author: 林惟正
+  language: lzh
+  text: |-
+    身閑何處最相宜。郭震。 秋雨梧桐葉落時。樂天。 涼吹已成團扇恨。舜欽。 夕陽催就小䆫詩。兪秀老。 人閒禍福愚難料。樂天。 世上艱難醉不知。孫何。 坐久欲醒還酩酊。樂天。
+    碧天殘月暎花枝。程但。
+korean:
+  title: 가을날 지음
+  author: 임유정
+  language: kor
+  text: |-
+    한가한 이 몸에 어디가 가장 알맞으리 곽진(郭震)
+    가을비에 오동잎 떨어질 때 낙천(樂天)
+    서늘한 바람에 부채는 한을 지니고 순흠(舜欽)
+    석양은 창 가에서 시 마치라 재촉하네 유수로(兪秀老)
+    인간의 화복은 어리석어 모르겠다 낙천(樂天)
+    세상의 어려운 일도 취하면 내 몰라라 손하(孫何)
+    이윽고 술 깨려니 또 마셔 곤드레 낙천
+    청천의 기운 달이 꽃가지를 비추네 정단(程但)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0640&viewSync=OT
+  footnotes: []
+english:
+  title: Verses Composed on an Autumn Day
+  author: Lim Yu-jeong
+  language: eng
+  text: |-
+    Where does this idle body find its truest ease?
+    —Guo Zhen
+
+    When autumn rain falls and parasol leaves drift away
+    —Bai Juyi
+
+    A cool breeze brings the fan its ancient sorrow
+    —Shun Qin
+
+    The setting sun urges the poem's completion at my window
+    —Yu Xiulao
+
+    The fortune and misfortune of men—who can fathom such things?
+    —Bai Juyi
+
+    The world's difficulties fade when wine brings forgetting
+    —Sun He
+
+    Waking from intoxication, I drink again and stumble deeper
+    —Bai Juyi
+
+    Beneath the clear heaven, the moon illuminates the blossoming branch
+    —Cheng Dan
+  footnotes:
+  - key: ''
+    value: This poem is composed as a series of quotations from celebrated Tang and Song poets, each line attributed to its source. This technique of weaving together the voices of classical masters was a refined literary practice in Korean literary circles.
+  - key: ''
+    value: The parasol tree (wutong) is a traditional symbol of autumn melancholy in Chinese poetry. Its falling leaves represent transience and separation.
+  - key: ''
+    value: The fan's 'sorrow' refers to the classical Chinese poetic trope where fans are abandoned when autumn arrives and warmth is no longer needed—a symbol of abandonment and fading love.
+  - key: ''
+    value: The poem moves from meditation on idleness through scenes of autumn beauty, ultimately embracing wine and forgetfulness as a response to life's uncertainties and sufferings.

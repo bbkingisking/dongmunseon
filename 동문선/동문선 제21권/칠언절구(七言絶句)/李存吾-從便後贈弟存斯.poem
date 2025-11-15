@@ -1,0 +1,37 @@
+canonical:
+  title: 從便後贈弟存斯
+  author: 李存吾
+  language: lzh
+  text: 狂妄眞堪棄海邊聖恩天地賜歸田草廬隨意生涯足一片丹心倍昔年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 從便後贈弟存斯
+  author: 李存吾
+  language: lzh
+  text: 狂妄眞堪棄海邊。聖恩天地賜歸田。草廬隨意生涯足。一片丹心倍昔年。
+korean:
+  title: 종편한 후에 아우 존사에게 줌
+  author: 이존오
+  language: kor
+  text: |-
+    미치고 망령되니 바닷가에 버려져야 마땅할 것을
+    임금의 은혜는 천지 같아서 전원에 돌아감을 허하셨네
+    초가집에서 자유로운 생애가 족하거니
+    일편단심은 옛날보다 배로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0680&viewSync=OT
+  footnotes: []
+english:
+  title: A Gift to My Younger Brother존斯 Upon My Retirement
+  author: Lee Joong-oh
+  language: eng
+  text: |-
+    Mad and deluded, I deserve to be cast away at the sea's edge.
+    Yet the royal grace, vast as heaven and earth, permits my return to the fields.
+    In a grass-thatched cottage, living freely—this is enough.
+    My loyal heart, undivided, burns brighter than in years of old.
+  footnotes:
+  - key: ''
+    value: The poem reflects on the author's retirement from court service, contrasting his former unworthiness with the emperor's magnanimous mercy in allowing him to withdraw to rural life.
+  - key: ''
+    value: The 'one piece of cinnabar heart' (일편단심) refers to unwavering loyalty—a classical expression of steadfast devotion to one's sovereign.

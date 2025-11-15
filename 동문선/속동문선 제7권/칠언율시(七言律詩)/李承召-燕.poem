@@ -1,0 +1,44 @@
+canonical:
+  title: 燕
+  author: 李承召
+  language: lzh
+  text: 畫閣深深簾額低雙飛雙語復雙棲綠楊門巷春風晩靑草池塘細雨迷趁蝶有時穿竹塢壘巢終日啄芹泥托身得所誰相侮養子年年羽翼齊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 燕
+  author: 李承召
+  language: lzh
+  text: 畫閣深深簾額低。雙飛雙語復雙棲。綠楊門巷春風晩。靑草池塘細雨迷。趁蝶有時穿竹塢。壘巢終日啄芹泥。托身得所誰相侮。養子年年羽翼齊。
+korean:
+  title: 연
+  author: 이승소
+  language: kor
+  text: |-
+    화각은 깊숙하고 발머리는 나직한데
+    쌍을 지어 나르다 쌍을 지어 말하다 또 쌍을 지어 깃든다
+    문 밖의 푸른 버들에는 봄바람이 저물고
+    못뚝의 푸른 풀에는 보슬비가 어지럽다
+    때로는 나비를 쫓아 대숲 언덕을 뚫고
+    집을 지으려 한종일 미나리밭 진흙을 쪼은다
+    몸을 의탁하기에 장소를 얻었거니 누가 업신여기랴
+    해마다 자식 길러 날개가 가지런하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0310&viewSync=OT
+  footnotes: []
+english:
+  title: The Swallow
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    The painted pavilion stretches deep, its curtain valance hangs low.
+    In pairs they fly, in pairs they call, in pairs they nest and rest.
+    Beyond the gate the green willows see spring's evening wind,
+    And by the pool the tender grass lies lost in gentle rain.
+
+    At times they chase the butterflies through bamboo-covered slopes,
+    All day they peck the muddy ground to gather for their nest.
+    Having found a place to settle, who would dare despise them?
+    Year after year their young ones grow with wings at last complete.
+  footnotes:
+  - key: ''
+    value: The poem celebrates the swallow as a symbol of contentment and devotion—finding purpose in humble labor and finding dignity in familial bonds.

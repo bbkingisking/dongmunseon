@@ -1,0 +1,57 @@
+canonical:
+  title: 叢石亭
+  author: 辛蕆
+  language: lzh
+  text: 叢叢壁立四仙峯晴好雨奇宜淡濃一面長天白浪接一邊落照靑山重鷺鷥汀畔踏紅蓼猿鶴巖頭捫翠松秋月春風尙依舊霓裳鳳盖今難逢幾年荒廢客歎息一日經營民悅從欲掃苔碑問往事上有水墨稀微蹤
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 叢石亭
+  author: 辛蕆
+  language: lzh
+  text: 叢叢壁立四仙峯。晴好雨奇宜淡濃。一面長天白浪接。一邊落照靑山重。鷺鷥汀畔踏紅蓼。猿鶴巖頭捫翠松。秋月春風尙依舊。霓裳鳳盖今難逢。幾年荒廢客歎息。一日經營民悅從。欲掃苔碑問往事。上有水墨稀微蹤。
+korean:
+  title: 총석정
+  author: 신천
+  language: kor
+  text: |-
+    깎아지른 듯 떨기떨기 쭉쭉 솟은 사선봉
+    갠 날 좋고 비 와도 기특, 담농이 알맞구나
+    저 편으로 긴 하늘에 흰 물결이 닿았고
+    한 쪽에는 지는 해 겹겹이 푸른 산
+    해오리는 물가에서 여뀌풀 밟고 섰고
+    학은 바위 위에서 소나무를 만지네
+    가을달 봄바람은 아직도 예대로나
+    예상과 봉개는 지금 만나기 어려워라
+    몇 해를 황폐하여 과객이 탄식하더니
+    하루에 경영하니 백성들 즐겨 좇았네
+    이끼 낀 비를 쓸고 지난 일 찾아 보니
+    수묵의 희미한 자취 아직도 보이누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 갠 날 …… 알맞구나 : '
+    value: 소식(蘇軾)의 〈서호(西湖)〉시에, “만약에 서호를 서자(西子)에게 비할 양이면, 묽은 단장 짙은 단장 모두 다 알맞아라.”라 한 구절이 있다. 그것은 비올 때는 짙은 단장이요, 갠 날은 담장(淡粧)에 비유한 것이다.
+  - key: '[주-D002] 예상(霓裳)과 봉개(鳳蓋) : '
+    value: 총석정에 옛날 신선이 와서 놀았으므로 이런 말을 썼다.
+english:
+  title: Chongseok Pavilion
+  author: Shin Cheon
+  language: eng
+  text: |-
+    Clustered peaks pierce the sky like four immortals ascending,
+    Clear days shine fair, rain brings wonder—both light and dark strokes suit this place.
+    On one side, endless heaven meets white waves,
+    On the other, the setting sun layers green mountains deep.
+    Herons tread red smartweed by the water's edge,
+    Cranes touch green pines from the rocky heights.
+    Autumn moon and spring wind remain as they always were,
+    Yet rainbow robes and phoenix canopies are hard to glimpse these days.
+    For years the place lay abandoned, travelers sighed in sorrow,
+    But one day restored, the people came gladly to follow.
+    Sweeping moss-covered stone markers, I search for ancient tales—
+    And still faint traces of ink and brush linger here.
+  footnotes:
+  - key: ''
+    value: The description of how both clear and rainy days suit this landscape alludes to a famous line by Su Shi about West Lake, where beauty is compared to a woman who appears equally lovely in light makeup (clear days) or heavy makeup (rainy weather).
+  - key: ''
+    value: The references to 'rainbow robes' (霓裳) and 'phoenix canopies' (鳳蓋) evoke the legendary belief that immortals once visited and played at Chongseok Pavilion in ancient times.

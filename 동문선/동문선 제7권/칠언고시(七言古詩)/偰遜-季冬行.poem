@@ -1,0 +1,59 @@
+canonical:
+  title: 季冬行
+  author: 偰遜
+  language: lzh
+  text: 季冬雨雪昆陵道一片征帆疾如鳥方入深溪指惠山已覺孤城水雲杳沙岸黃莎高復低靑松翠竹過雲齊家家陶冶依林木箇箇茅簷揷酒旗南望郵亭應許墅故人正在梅深處有約重來訪虎丘今夜扁舟且須住
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 季冬行
+  author: 偰遜
+  language: lzh
+  text: 季冬雨雪昆陵道。一片征帆疾如鳥。方入深溪指惠山。已覺孤城水雲杳。沙岸黃莎高復低。靑松翠竹過雲齊。家家陶冶依林木。箇箇茅簷揷酒旗。南望郵亭應許墅。故人正在梅深處。有約重來訪虎丘。今夜扁舟且須住。
+korean:
+  title: 계동행
+  author: 설손
+  language: kor
+  text: |-
+    섣달의 눈 뿌리는 곤릉 길에
+    한 조각 가는 돛이 새처럼 빨라
+    겨우 깊은 시내에 들러 혜산을 가리키자
+    이미 외로운 성 물과 구름 아득하다
+    모래 언덕의 누른 떼밭은 낮고 높기도 하고
+    푸른 솔과 대는 구름 머리에 솟아 있다
+    집집마다 숲속의 옹기굴 대장간인데
+    개개의 초가집 처마에는 주기를 꽃았다
+    남으로 우정 바라보니 거기는 허씨의 별장이구나
+    고인은 진정 매화 짙은 곳에 있으려니
+    다시 와서 호구산 찾기로 언약 있었으니
+    오늘밤 쪽배는 여기서 머무르련다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: Journey in Late Winter
+  author: Seol Son
+  language: eng
+  text: |-
+    Late winter snow drifts down upon the Konlung road,
+    A single sail cuts swift as any bird.
+    We venture deep into the mountain stream, pointing toward Hyesan,
+    When suddenly the lonely city fades—waters and clouds grow distant.
+
+    The yellow marsh grass on the sandy shore bends high and low,
+    While green pines and jade bamboo rise above the clouds.
+    House after house nestle in the woods—pottery kilns and forges,
+    Each humble thatched roof flying banners of fermented wine.
+
+    Gazing south, I spy the hermitage of the Huh clan,
+    Where my old friend dwells deep among the plum blossoms.
+    We made a pact to visit Tiger Hill again someday,
+    But tonight my small boat must rest here in the twilight.
+  footnotes:
+  - key: ''
+    value: 'Konlung road: a reference to travel through mountainous terrain'
+  - key: ''
+    value: 'Tiger Hill (호구산): likely a famous scenic location known to the poet and his friend'
+  - key: ''
+    value: The wine banners (주기) hung from taverns signal the presence of settlements amid nature
+  - key: ''
+    value: The poem captures the melancholy of winter travel interwoven with memories of friendship and unfulfilled promises

@@ -1,0 +1,55 @@
+canonical:
+  title: 慶會樓侍宴
+  author: 尹淮
+  language: lzh
+  text: 虎觀親臨日薰風水殿涼鳳姿瞻穆穆天樂耳洋洋病骨醺靈液儒衣帶御香端逢好文際載筆愧三長
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 慶會樓侍宴
+  author: 尹淮
+  language: lzh
+  text: 虎觀親臨日。薰風水殿涼。鳳姿瞻穆穆。天樂耳洋洋。病骨醺靈液。儒衣帶御香。端逢好文際。載筆愧三長。
+korean:
+  title: 경회루 시연
+  author: 윤회
+  language: kor
+  text: |-
+    호관에 친림하신 날
+    훈풍에 수전이 서늘하도다
+    봉자(임금의 자태)를 우러르니 목목하시고
+    천악은 귀에 양양하도다
+    병든 몸이 신령스러운 술에 젖어들고
+    선비의 옷에는 어향을 띠어 향기롭도다
+    문을 숭상하는 때를 만나 붓을 들고 모시니
+    삼장에 부끄럽도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1000&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 호관(虎觀)에 친림(親臨) : '
+    value: 한(漢)나라 장제(章帝)가 백호관(白虎觀)에 모든 선비들을 모아 경의(經義)를 토론하게 하고 친히 결재하였다. 그 논의(論議)를 기록한 것이 백호통(白虎通)이란 책이다.
+  - key: '[주-D002] 훈풍(薰風)에 수전(水殿)이 서늘하도다 : '
+    value: 당나라 문종(文宗)은 유공권(柳公權)과 여름날에 연구(聯句)를 짓는데, “훈풍이 남쪽에서 불어오니 전각에 서늘함이 나도다.”[薰風自南來 殿角生微涼]이라는 유공권의 시구(詩句)가 유명하다.
+  - key: '[주-D003] 목목(穆穆) : '
+    value: 심원(深遠)한 모양인데, 천자(天子)의 용모와 거둥을 말한다. 《시경》에 목목문왕(穆穆文王)이란 구절이 있다.
+  - key: '[주-D004] 삼장(三長) : '
+    value: 사(史)를 짓는 데는 재(才)ㆍ학(學)ㆍ식(識)의 삼장(三長)이 구비되어야 한다.
+english:
+  title: Attending the Banquet at Gyeonghuiru Pavilion
+  author: Yun Hoe
+  language: eng
+  text: |-
+    The day the Tiger Observatory received the sovereign's presence—
+    the fragrant breeze cools the water halls.
+    Gazing upon the celestial countenance, so profound and distant,
+    the heavenly music flows endless through listening ears.
+    My weakened frame grows intoxicated by divine wine,
+    while the scholar's robes carry the imperial fragrance.
+    Fortunate to witness this age that honors the written word,
+    I take brush in hand, yet ashamed of my meager talents.
+  footnotes:
+  - key: ''
+    value: 'Tiger Observatory: An allusion to the White Tiger Observatory of Han Dynasty Emperor Zhang, where the emperor gathered scholars to debate classical texts and personally rendered judgment. The records of these debates became the ''White Tiger Compendium.'''
+  - key: ''
+    value: 'Divine wine: The ritual libations offered at court banquets, symbolizing both physical and spiritual elevation.'
+  - key: ''
+    value: 'Three talents: The traditional requirements for historical writing—talent, learning, and judgment. The poet humbly acknowledges his insufficiency in these areas.'

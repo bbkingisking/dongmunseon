@@ -1,0 +1,103 @@
+canonical:
+  title: 永慕亭詩
+  author: 權近
+  language: lzh
+  text: 倜儻壯元郞落落志節奇拜命使絶域國耳忘吾私樓船去不返杳杳終難追孝子抱永慕慼慼多苦思晨興日東望滄海何淪漪海水亦云淺此恨無有涯海水有時竭此恨無窮期賢孫構新亭欲寓心所悲哀哀起攀呼栢樹多枯枝居諸照下土出自東方來音容不可接涕淚常自垂邈矣墳上草西靡空離披自註世言壯元墳在日本其草皆西向而生 由來忠孝門餘慶當不衰伯道未有子天道何無知應令讀記者千載增歎噫自註大司成無子牧隱作亭記
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永慕亭詩
+  author: 權近
+  language: lzh
+  text: 倜儻壯元郞。落落志節奇。拜命使絶域。國耳忘吾私。樓船去不返。杳杳終難追。孝子抱永慕。慼慼多苦思。晨興日東望。滄海何淪漪。海水亦云淺。此恨無有涯。海水有時竭。此恨無窮期。賢孫構新亭。欲寓心所悲。哀哀起攀呼。栢樹多枯枝。居諸照下土。出自東方來。音容不可接。涕淚常自垂。邈矣墳上草。西靡空離披。自註。世言壯元墳在日本。其草皆西向而生。 由來忠孝門。餘慶當不衰。伯道未有子。天道何無知。應令讀記者。千載增歎噫。自註。大司成無子。牧隱作亭記。
+korean:
+  title: 영모정시
+  author: 권근
+  language: kor
+  text: |-
+    호협한 장원랑이
+    뚜렷 높직한 지조와 절개 기특하여라
+    명령을 받아 절역으로 사신 갔으니
+    나라뿐이요, 사사일 잊었도다
+    누선이 가고 돌아오지 않으니
+    멀고 아득하여 쫓을 수 없었네
+    효자가 길이 사모하는 마음을 품고
+    근심하고 슬퍼하는 생각이 쉴 수 없었다
+    새벽에 일어나 날마다 동쪽을 바라보니
+    창해가 어찌 그리 잔잔히 펼쳤는고
+    바닷물도 오히려 옅다 하리라
+    이 한은 가이 없거니
+    바닷물은 마를 때가 있으나
+    이 한은 다 할 때가 없네
+    어린 손자가 이 정자를 지었으니
+    마음의 슬픔을 여기에 부치고자 함이로다
+    슬피 부여잡고 우니
+    잣나무에 마른 가지가 많도다
+    해와 달은 하토에 비치는데
+    그것은 동쪽에서 나오건마는
+    성음과 용모를 접할 길 없으니
+    눈물이 마를 사이가 없구나
+    멀리 있는 무덤 위 풀이
+    서쪽으로 쏠려 흩어졌도다 자주(自註) : 이 세상에서 말하기를, “장원의 무덤이 일본에 있는데, 무덤 위 풀이 모두 서쪽으로 향하여 났다.” 한다
+    원래 충효의 집에는
+    여경이 쇠하지 않는데
+    백도가 아들이 없으니
+    천도는 어찌 알지 못하는고
+    응당 기문 읽는 사람들
+    천재에 탄식을 자아내리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 슬피 부여잡고 우니 잣나무에 마른 가지가 많도다 : '
+    value: 진(晋)나라 왕부(王裒)가 그 아버지 무덤에서 매일 슬피 울어서, 무덤 앞에 있는 잣나무가 눈물에 젖어서 잎과 가지가 말랐다.
+  - key: '[주-D002] 천도(天道)는 어찌 알지 못하는고 : '
+    value: 진(晋)나라 등백도(鄧伯道)가 난리를 만나, 자기의 어린 아들과 부모 없는 어린 조카를 데리고 피란을 가다가, 일이 급하여 두 아이를 함께 보전할 수 없게 되자 아내와 의논하고 아들을 버리고 조카를 살렸더니, 후일에 그는 마침내 아들을 두지 못하였으므로 당시의 사람들이, “천도(天道)가 알지 못하여 등백도가 아들을 못 두었다.” 하였다.
+english:
+  title: Poem on the Pavilion of Eternal Longing
+  author: Gwon Geun
+  language: eng
+  text: |-
+    A noble soul of unbending spirit,
+    Clear-minded with integrity most rare—
+    He took the mandate to distant lands,
+    Forgetting self for his country's care.
+
+    The royal fleet departed and returned no more,
+    Fading into mist beyond all pursuit.
+    The dutiful son bears this endless ache,
+    Sorrow dwelling where no peace takes root.
+
+    Each dawn he rises, gazing toward the east,
+    Where the vast sea spreads in stillness deep.
+    Though the waters themselves seem but shallow,
+    This sorrow has no measure to keep.
+    The sea may one day run completely dry,
+    But this grief shall never find its end.
+
+    His grandson built this pavilion anew,
+    To lodge the sorrow that weighs upon his heart.
+    In anguish he clings and calls out in tears—
+    The cypress trees show withered branches torn apart.
+    The sun and moon shine upon the earthen tomb,
+    Though they rise from the eastern sky,
+    Yet voice and form cannot be grasped again,
+    And tears fall without ceasing or respite.
+
+    Distant now, the grass upon that mound
+    Bows forever toward the western way.
+
+    —They say his ancestor's grave lies in Japan,
+    where all the grasses grow toward the west—
+
+    From lineages of loyalty and filial devotion,
+    Blessing descends through endless days.
+    Yet even righteous Bao had no son—
+    How can Heaven's way be understood?
+    Those who read this record shall surely weep,
+    Their sighs echoing a thousand ages hence.
+  footnotes:
+  - key: ''
+    value: The cypress trees withering from tears alludes to Wang Pao of the Jin dynasty, who wept so bitterly at his father's grave that the cypress trees before the tomb lost their leaves and branches from his tears.
+  - key: ''
+    value: The reference to having no son alludes to Deng Baodao of the Jin dynasty, who chose to save his nephew rather than his own son during wartime flight, and consequently never had a child—a paradox that led observers to question Heaven's justice.
+  - key: ''
+    value: The grass growing westward toward Japan is presented as a miraculous phenomenon testifying to the departed official's eternal longing for his homeland.

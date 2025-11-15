@@ -1,0 +1,48 @@
+canonical:
+  title: 灤京送別用閔及庵韻
+  author: 李穀
+  language: lzh
+  text: 曉餞城東露浥筵灤京百里好風煙家家駿馬便弧矢處處高樓鬧管絃劉保舊居雲滿谷李陵遺迹草連天及庵好古詩無敵壯觀應須子細傳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 灤京送別用閔及庵韻
+  author: 李穀
+  language: lzh
+  text: 曉餞城東露浥筵。灤京百里好風煙。家家駿馬便弧矢。處處高樓鬧管絃。劉保舊居雲滿谷。李陵遺迹草連天。及庵好古詩無敵。壯觀應須子細傳。
+korean:
+  title: 난경에서 송별하며 민급암의 시운을 쓰다
+  author: 이곡
+  language: kor
+  text: |-
+    새벽 성동 송별연에 이슬이 함뿍 적셨는데
+    바라보니 난경 백 리에 풍경도 좋을시고
+    집집이 준마 있어 활쏘기도 편리하고
+    곳곳 누대에 풍악소리도 요란하네
+    유보 살던 집 골짝엔 구름만 가득
+    이릉의 유적은 풀만 하늘에 닿았구나
+    급암의 시를 당할 이 없으니
+    오늘에 본 이 장관을 자세히 꼭 전하게
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0730&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이릉의 유적 : '
+    value: 이릉(李陵)은 한(漢)나라 장수로 흉노(凶奴)와 싸우다가 항복하였는데 그의 친구 소무(蘇武)가 흉노에 억류되었다가 돌아올 때에 서로 하양(河梁)에서 작별하면서 시를 지었는데 아마 난경(灤京)에 그 유적이 있던 것 같다.
+english:
+  title: Farewell at Luan Jing, Using the Rhyme Scheme of Min Gub-am
+  author: Lee Gok
+  language: eng
+  text: |-
+    At dawn the farewell feast by the eastern gate glistens with dew,
+    Looking toward Luan Jing—a hundred miles of fair wind and clear sky.
+    Every household keeps fine steeds, ready for bow and arrow,
+    Every corner echoes with the music of tall pavilions.
+
+    The old dwelling of Liu Bao lies empty, filled only with clouds,
+    Li Ling's ruins are lost beneath grass that reaches the heavens.
+    Yet your verse, Gub-am, stands without peer among the ancients—
+    This magnificent scene I have witnessed, I shall faithfully convey to you.
+  footnotes:
+  - key: ''
+    value: Liu Bao was a Han general; his former residence in the Luan Jing region had become abandoned.
+  - key: ''
+    value: Li Ling was a celebrated Han general who, after battling the Xiongnu, parted from his friend Su Wu at a river crossing, exchanging farewell poems—a storied moment of separation whose echoes seem to linger in this landscape.

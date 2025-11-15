@@ -1,0 +1,53 @@
+canonical:
+  title: 賀元梅谿松壽掌南省試
+  author: 崔元祐
+  language: lzh
+  text: 盛代人才獨異常藹然雲會用賓王提衡妙鑑尤淸絶入彀群材盡善良已是公平由禀受不因考閱始精彊一身雨露誰能似雞舌猶含十載香
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀元梅谿松壽掌南省試
+  author: 崔元祐
+  language: lzh
+  text: 盛代人才獨異常。藹然雲會用賓王。提衡妙鑑尤淸絶。入彀群材盡善良。已是公平由禀受。不因考閱始精彊。一身雨露誰能似。雞舌猶含十載香。
+korean:
+  title: 매계 원송수의 남성 주시를 하례하며
+  author: 최원우
+  language: kor
+  text: |-
+    성대의 인재가 여느 때와 다르니
+    구름처럼 모여들어 왕에게 손이 되네
+    문형을 잡은 묘함 감식 더욱 밝고
+    구에 들어온 뭇 선비가 모조리 쓸 만한 재목
+    공평함은 진작 천품으로 받았으매
+    고열해서 비로소 정한 것 아니로세
+    받자온 우로은을 그 누가 견주오리
+    입에 문 계설향은 10년이나 되었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0830&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 왕에게 손이 되네 : '
+    value: 《주역(周易)》 관괘(觀卦)에, “나라에 관광(觀光)하여 왕에게 손이 된다.”는 말이 있는데 후세에는 이것을 과거 보는 선비에게 인용했다.
+  - key: '[주-D002] 구(彀)에 들어온 : '
+    value: 당 태종(唐太宗)이 과거에 급제한 선비들이 열을 지어 나오는 것을 보고, “천하의 영웅이 모두 나의 구(彀) 가운데 들었구나.” 하였다. 구(彀)는 활을 쏠 때에 화살이 미치는 범위이다.
+  - key: '[주-D003] 입에 문 계설향(鷄舌香) : '
+    value: 상서랑(尙書郞)은 계설향을 입에 물고 일을 아뢴다. 《漢官儀》
+english:
+  title: Congratulations on Yuan Songsu's Appointment as Examiner for the Southern Provincial Civil Service Examination
+  author: Choe Won-u
+  language: eng
+  text: |-
+    In this flourishing age, talent stands apart from common measure,
+    Gathering like clouds to serve as the king's right hand.
+    The scales of judgment held with subtle discernment shine most clear,
+    All the scholars drawn within the bow's range prove themselves worthy.
+    Their fairness was already granted by heaven's gift at birth—
+    Not something first refined through the test of scrutiny.
+    Who can compare with one blessed by the rain and dew of heaven?
+    The chicken-tongue incense held between his lips has burned for ten long years.
+  footnotes:
+  - key: ''
+    value: The phrase 'serve as the king's right hand' alludes to the Book of Changes, where officials who pass the examination serve the ruler with distinction.
+  - key: ''
+    value: The 'bow's range' (彀) refers to Emperor Taizong of Tang's famous observation that all the realm's talents fell within his grasp, as an archer's arrows reach within their range.
+  - key: ''
+    value: The 'chicken-tongue incense' is a reference to the prestigious position of Erudite of the Imperial Secretariat, whose officials were known to hold fragrant incense in their mouths as a mark of honor and refinement while presenting memorials to the throne.

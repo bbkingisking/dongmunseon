@@ -1,0 +1,53 @@
+canonical:
+  title: 璿
+  author: 趙廉
+  language: lzh
+  text: 隨君鵠嶺雲照我燕山月我曾還古鄕見月戀金闕君復赴皇都望雲念親閥雲月若無情孰知臣子誠臨歧不忍別城西屢送行願言從此去登第揚芳名
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 璿
+  author: 趙廉
+  language: lzh
+  text: 隨君鵠嶺雲。照我燕山月。我曾還古鄕。見月戀金闕。君復赴皇都。望雲念親閥。雲月若無情。孰知臣子誠。臨歧不忍別。城西屢送行。願言從此去。登第揚芳名。
+korean:
+  title: 동쪽으로 가서 근친하고 서쪽으로 돌아오는 민중옥 생원을 전송하며[送閔仲玉生員東覲西還] 선
+  author: 조렴
+  language: kor
+  text: |-
+    곡령 구름이 그대를 따랐고
+    나를 비춘 것 연산 달이었네
+    내가 일찍 고향으로 돌아갔을 때
+    달을 보고 금궐을 그리워했네
+    그대는 다시 황도로 달리거니
+    구름을 바라보며 친정을 생각하리
+    구름과 달은 정 없으니
+    그 누가 신하의 정을 알리
+    갈림길에 다달아 차마 이별 못하노니
+    성 서쪽에서 여러 차례 전송하네
+    원하건대 이제 가서
+    과거에 올라 꽃다운 이름을 드날리시라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: Xuán
+  author: Jo Yeom
+  language: eng
+  text: |-
+    The clouds of Gogryeong followed you away,
+    while the moon of Yeonsan shone upon me.
+    Once I returned to my ancient home,
+    gazing at the moon, I yearned for the golden palace.
+    You ride again toward the imperial capital,
+    watching the clouds, remembering your family.
+    But clouds and moon are heartless things—
+    who could know the sincerity of a subject's heart?
+    At the parting of ways, we cannot bear to say goodbye,
+    escorting you again and again west of the city walls.
+    I only wish that you will go forward now,
+    pass the examination, and let your good name flourish.
+  footnotes:
+  - key: ''
+    value: The 'golden palace' (金闕) refers to the royal court, symbolizing official position and honor.
+  - key: ''
+    value: This poem celebrates the departure of a friend traveling to the capital for the civil service examination, a pivotal moment in a scholar's life in East Asian tradition.

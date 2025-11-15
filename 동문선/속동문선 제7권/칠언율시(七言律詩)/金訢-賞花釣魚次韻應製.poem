@@ -1,0 +1,51 @@
+canonical:
+  title: 賞花釣魚次韻應製
+  author: 金訢
+  language: lzh
+  text: 上苑芳菲一夜開翠華初自日邊來風飄漢帝橫汾樂春滿周王宴鎬盃戱藻錦鱗時出沒囀枝黃鳥乍低佪宸心正與民同樂恩許微蹤得蹔陪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賞花釣魚次韻應製
+  author: 金訢
+  language: lzh
+  text: 上苑芳菲一夜開。翠華初自日邊來。風飄漢帝橫汾樂。春滿周王宴鎬盃。戱藻錦鱗時出沒。囀枝黃鳥乍低佪。宸心正與民同樂。恩許微蹤得蹔陪。
+korean:
+  title: 상화조어 차운응제
+  author: 김흔
+  language: kor
+  text: |-
+    상원의 아름다움이 하룻밤에 열리어
+    취화(임금의 행차)가 처음으로 해 가에서 오도다
+    바람은 한제의 분수를 건널 때의 음악에 나부끼는데
+    봄은 주왕의 연호의 술잔에 가득하다
+    몰밤에서 장난하는 비단 고기는 때로 나왔다 빠졌다 하고
+    가지에서 지저귀는 누른 새는 잠깐 나직히 돈다
+    신심(임금의 마음)은 진실로 백성들과 함께 즐기시기에
+    미미한 발자취도 잠깐 모시게 은혜도 허락하셨네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 바람은 …… 나부끼는데 : '
+    value: 한나라 무제(武帝)가 늘그막에 산서성(山西省)의 분(汾)하수에서 뱃놀이하면서 〈추풍가(秋風歌)〉를 지어서 노래하였다.
+  - key: '[주-D002] 주왕(周王)의 연호(宴鎬) : '
+    value: 호(鎬)는 주(周)나라의 서울이다. 주나라 선왕(宣王) 때에 흉노(匈奴)족을 정벌하여 성공하고 돌아온 장병들에게 큰 잔치를 베풀어 위로하였다.
+english:
+  title: Appreciation of Flowers and Fishing—A Poem in Harmony with the Royal Decree
+  author: Kim Heun
+  language: eng
+  text: |-
+    The palace gardens burst with fragrance in a single night,
+    As the emerald procession first arrives from the rim of dawn.
+    Winds flutter with the music of the Han Emperor's joy upon the waters,
+    While spring fills the Zhou King's ceremonial cup to brimming.
+    In the ornamental pond, silk-bright fish dart and disappear,
+    And golden birds on branches sing, hovering low in gentle turns.
+    The sovereign's heart truly merges with the happiness of the people,
+    So even the humble trace of a footstep receives the grace of attendance.
+  footnotes:
+  - key: ''
+    value: The Han Emperor's joy upon the waters references Emperor Wu of Han, who in his later years composed the 'Song of Autumn Wind' while boating on the Fen River in Shanxi Province.
+  - key: ''
+    value: The Zhou King's ceremonial cup alludes to the great banquet held by King Xuan of Zhou to honor his generals upon their victorious return from campaigns against the Xiongnu.
+  - key: ''
+    value: This poem employs historical precedents of benevolent rulers sharing in the pleasures of the natural world with their people, suggesting an ideal of harmonious governance.

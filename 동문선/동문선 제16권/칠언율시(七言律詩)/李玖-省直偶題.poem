@@ -1,0 +1,54 @@
+canonical:
+  title: 省直偶題
+  author: 李玖
+  language: lzh
+  text: 詭遇誰知範我馳邇來人事盡皮毛屠龍手亢竟無用相馬眼高還見疑祗辱壯心難掉舌待乾唾面更低眉由來野趣多違世始覺儒冠誤一時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 省直偶題
+  author: 李玖
+  language: lzh
+  text: 詭遇誰知範我馳。邇來人事盡皮毛。屠龍手亢竟無用。相馬眼高還見疑。祗辱壯心難掉舌。待乾唾面更低眉。由來野趣多違世。始覺儒冠誤一時。
+korean:
+  title: 성직 우제
+  author: 이구
+  language: kor
+  text: |-
+    모두 다 궤우하니 법대로 달리는 것 누가 알리
+    이즈음의 인사는 모두 〈속없는〉 털과 가죽 뿐
+    용을 잡는 솜씨는 끝내 소용없고
+    말 상 보는 높은 눈은 도리어 의심사네
+    장한 마음 욕될 뿐 혀 놀리기 어렵구나
+    침 뱉긴 낯을 말리고 다시 눈썹 숙여야지
+    야인의 지취가 세상과 안 맞으니
+    이제야 선비의 관이 한평생 그르친 것 알겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 모두 다 궤우(詭遇)하니 법대로 달리는 것 : '
+    value: 말을 잘 모는 왕량(王良)이란 사람이 있었는데 임금이 해사(奚斯)와 함께 사냥하러 가게 하였다. 첫날에는 한 마리도 못잡았으나 다음 날에는 많이 잡았다. 왕량(王良)이 말하기를, “해사는 소인(小人)입니다. 첫날에는 내가 법도대로 말을 몰아서 한 마리도 못 잡았으나 다음날에는 궤우(詭遇)하여 많이 잡았습니다.” 하였다. 궤우(詭遇)는 짐승을 속여서 마주치게 말을 모는 것인데 정당한 도리로 처세하지 않고 부정한 수단으로 처세하는 것을 말한다.
+  - key: '[주-D002] 말[馬] 상(相) 보는 …… 의심사네 : '
+    value: 진목공(秦穆公)이 좋은 말[馬]을 구하려 하는데 말을 잘 알아 보는 백락(伯樂)이 자기보다 말을 더 잘 안다는 구방고(九方皐)를 추천하였다. 목공(穆公)이 말을 구하러 보내었더니 석달 만에 돌아왔기에, “어떤 말인가.” 하니, “암컷이고 털빛은 누릅니다.” 하였다. 사람을 시켜 말을 몰고 온즉 수컷이고 흑색이었다. 목공이 백락을 불러, “말을 구해 놓았다는 사람이 암컷인지 수컷인지 황색인지 흑색인지도 모르니 어찌 좋은 말을 알아 보았겠는가.” 하였다. 백락이, “구방고는 말의 상(相)을 보는데 천기(天機)만을 보고 암컷ㆍ수컷, 황색ㆍ흑색을 볼 필요가 없기 때문에 그런 것은 잊은 것입니다.” 하였다. 구방고가 구한 말은 과연 천하에 제일가는 말이었다. 구방고의 높은 눈은 도리어 처음에 목공에게 의심을 받았다.
+  - key: '[주-D003] 침 뱉긴 낯을 말리고 : '
+    value: 당나라 누사덕(婁師德)이 그 동생을 지방에 수령(守令)으로 보내면서 “네가 장차 어떻게 처신할 것이냐.” 하니 동생은 대답하기를, “다른 사람이 저의 낯에 침을 뱉으면 닦고 말겠습니다.” 하였다. 누사덕은, “안될 말이다. 남의 뱉은 침을 닦으면 그 사람이 노할 것이다. 그대로 말리는 것이 옳다.” 하였다.
+english:
+  title: Occasional Reflections While on Official Duty
+  author: Lee Gu
+  language: eng
+  text: |-
+    All deceive with crooked tricks—who knows the way of the upright steed?
+    These days, human affairs are mere skin and hair, hollow within.
+    The art of catching dragons proves utterly useless,
+    And keen eyes for judging horses breed only suspicion.
+
+    The ambitious heart is only shamed; the tongue cannot move freely.
+    When spittle falls upon my face, I lower my brow in silence.
+    Since the wild man's joy forever wars with the world,
+    Now I see at last: the scholar's cap wasted half a lifetime.
+  footnotes:
+  - key: ''
+    value: The 'crooked tricks' alludes to the story of Wang Liang, master charioteer, who explained that while righteous methods yielded no game on the first day of the hunt, deceptive maneuvers brought abundance the next—a metaphor for abandoning moral principle for expedience.
+  - key: ''
+    value: The 'keen eyes for judging horses' references Jiufang Gao, who could perceive the heavenly nature of horses but ignored superficial details like color and sex, earning him initial suspicion despite his superior discernment.
+  - key: ''
+    value: The 'spittle' refers to the teaching of Lou Shide of the Tang dynasty, who advised his brother that when others spit upon his face, he should let it dry naturally rather than wipe it, lest the offender take offense—a lesson in humble forbearance.

@@ -1,0 +1,49 @@
+canonical:
+  title: 曾來鳴
+  author: 朴誾
+  language: lzh
+  text: 枕上得詩吟不輟羸驂伏櫪更長鳴夜深纖月初生影山靜寒松自作聲老婢撥灰明兀兀孺人挹酒勸卿卿醉來捉被還高卧未覺胷中有不平
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 曾來鳴
+  author: 朴誾
+  language: lzh
+  text: 枕上得詩吟不輟。羸驂伏櫪更長鳴。夜深纖月初生影。山靜寒松自作聲。老婢撥灰明兀兀。孺人挹酒勸卿卿。醉來捉被還高卧。未覺胷中有不平。
+korean:
+  title: 밤에 누워서 증래명
+  author: 박은
+  language: kor
+  text: |-
+    베개 위에서 시를 얻어 읊기를 그치지 않는데
+    여윈 말은 마구에 엎드려 다시 길게 운다
+    밤이 깊어 가느다란 달은 처음으로 그림자를 내고
+    산이 고요하매 찬 소나무는 스스로 소리를 낸다
+    늙은 여종은 재를 헤쳐 불을 밝히고
+    아내는 잔을 들고 경경을 부르며 술을 권한다
+    얼근히 취해 이불을 당겨 다시 누워 있나니
+    가슴속에 불평 있음 깨닫지 못하겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경경(卿卿) : '
+    value: 진(晋)나라 왕안풍(王安豊)의 아내가 남편을 보고 늘 자네[卿]라고 불렀다. 안풍이 아내에게, “자네가 어찌 나를 자네라 하는가.” 하니, 아내는 대답하기를, “자네를 친애하고 자네를 사랑한다. 그러므로 자네 보고 자네라 부른다. 내가 자네를 자네라 부르지 아니하면 누가 자네를 자네라 한단 말인가[親卿愛卿 是以卿卿 我不卿卿 誰當卿卿].” 하였다.
+english:
+  title: On a Night When I Lay Awake Composing
+  author: Park Eun
+  language: eng
+  text: |-
+    Upon my pillow, verses flow and will not cease,
+    While the weary steed lies bound within the stable,
+    Neighboring again into the deeper night.
+    The slender moon begins to cast its shadow,
+    And in the quiet mountains, cold pines
+    Sing their own song unbidden.
+    The old maid stirs the ashes till the fire glows,
+    While my dear wife holds up her cup,
+    Calling "beloved, beloved," urging wine upon me.
+    Drunk at last, I pull the quilt and lay me down again—
+    Yet in my breast no discontent awakens.
+    All troubles fade like smoke into the dark.
+  footnotes:
+  - key: ''
+    value: 'The phrase "beloved, beloved" (경경) refers to an old story from the Jin Dynasty: Wang Anfeng''s wife would always address him as "beloved," and when he questioned why, she replied that she called him so because she cherished and loved him—implying that if she did not call him beloved, who would? The term thus carries deep affection and intimacy.'

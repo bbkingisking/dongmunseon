@@ -1,0 +1,43 @@
+canonical:
+  title: 讀唐中宗紀
+  author: 鄭樞
+  language: lzh
+  text: 由來哲婦敗嘉謨詀讘盟言淺丈夫地下若逢韋處士帝心還愧點籌無
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀唐中宗紀
+  author: 鄭樞
+  language: lzh
+  text: 由來哲婦敗嘉謨。詀讘盟言淺丈夫。地下若逢韋處士。帝心還愧點籌無。
+korean:
+  title: 독당중종기
+  author: 정추
+  language: kor
+  text: |-
+    원래 영리한 여자는 아름다운 정치를 망치게 하나니
+    속삭여 맹세하는 말이 천박한 장부로다
+    땅 속에서 만일 위처사를 만난다면
+    임금의 마음은 도리어 점주 한 것이 부끄럽지 않겠는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 독당중종기(讀唐中宗紀) : '
+    value: 중종(中宗)이 처음에 무후(武后)에게 폐위(廢位)를 당하여 방주(房州)에 나가 있을 적에 위후(韋后)에게 맹서하기를, “이 뒤에 다시 복위(復位)되면 모든 것은 후(后)가 하는 대로 간섭하지 아니하겠다.” 하였다.
+  - key: '[주-D002] 점주(點籌) : '
+    value: 위후(韋后)가 무삼사(武三思)를 궁중에 끌어드려 어상(御牀)에 올라가 위후(韋后)와 함께 쌍륙(雙陸 도박의 일종)을 하면 중종은 옆에서 산(算)을 헤아려[點籌] 주었다.
+english:
+  title: Reading the Records of Tang Zhongzong
+  author: Jung Chu
+  language: eng
+  text: |-
+    Since ancient times, clever women have ruined noble governance—
+    Whispered vows and shallow oaths from men without backbone.
+    If below the earth he should meet Wei the Recluse,
+    Would not the Emperor's heart then feel shame for counting on the board?
+  footnotes:
+  - key: ''
+    value: Wei Hou (韋后), consort of Tang Zhongzong, exploited an oath the Emperor made to her during his exile. He promised that upon his restoration to power, he would defer all decisions to her authority.
+  - key: ''
+    value: 'Point-counting on the board (點籙) refers to Zhongzong''s degraded state: while Wei Hou entertained Wu Sansi in the imperial chambers and played a dice game upon the imperial bed, the Emperor was reduced to merely calculating the score.'
+  - key: ''
+    value: Wei the Recluse (韋處士) likely refers to a virtuous ancestor of the Wei clan, contrasting sharply with Wei Hou's destructive influence at court.

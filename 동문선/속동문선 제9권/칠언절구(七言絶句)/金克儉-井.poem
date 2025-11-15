@@ -1,0 +1,35 @@
+canonical:
+  title: 井
+  author: 金克儉
+  language: lzh
+  text: 地下神龍引海波澄澄石眼鏡新磨一泓能解千人渴只爲當時汲引多
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 井
+  author: 金克儉
+  language: lzh
+  text: 地下神龍引海波。澄澄石眼鏡新磨。一泓能解千人渴。只爲當時汲引多。
+korean:
+  title: 정
+  author: 김극검
+  language: kor
+  text: |-
+    땅 밑의 신령스러운 용이 바다 물결을 끌어와
+    맑고 맑은 돌 눈은 거울을 새로 간 것 같다
+    한 우물이 능히 천 사람의 갈증을 풀어 주나니
+    다만 그 때에 물을 많이 끌어 대었기 때문이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0620&viewSync=OT
+  footnotes: []
+english:
+  title: The Well
+  author: Kim Geuk-geom
+  language: eng
+  text: |-
+    Beneath the earth, a sacred dragon draws the ocean's tide,
+    Its crystalline stone eye polished like a newly ground mirror.
+    One spring can quench the thirst of a thousand souls—
+    Yet only because the waters were drawn abundantly in those days.
+  footnotes:
+  - key: ''
+    value: The 'sacred dragon' (神龍) is a traditional symbol of water sources and underground springs in Chinese and Korean poetry. The well is personified as a mystical entity rather than mere stone and earth.

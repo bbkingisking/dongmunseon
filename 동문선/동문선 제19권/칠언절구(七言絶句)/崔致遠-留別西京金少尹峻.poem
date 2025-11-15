@@ -1,0 +1,37 @@
+canonical:
+  title: 留別西京金少尹峻
+  author: 崔致遠
+  language: lzh
+  text: 相逢信宿又分離愁見歧中更有歧手裏桂香銷欲盡別君無處話心期
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 留別西京金少尹峻
+  author: 崔致遠
+  language: lzh
+  text: 相逢信宿又分離。愁見歧中更有歧。手裏桂香銷欲盡。別君無處話心期。
+korean:
+  title: 유별 서경 김소윤 준
+  author: 최치원
+  language: kor
+  text: |-
+    서로 만나 수일 만에 또 헤어지게 되니
+    갈림길에 또 갈림 있는 것이 시름겹구나
+    손 가운데 계향은 다 녹으려 하는데
+    그대와 이제 헤어져 마음 얘기 나눌 기약 없구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0060&viewSync=OT
+  footnotes: []
+english:
+  title: 'Parting at the Western Capital: To Kim So-yun, Administrator Joon'
+  author: Choe Chi-won
+  language: eng
+  text: |-
+    We met, yet stayed but a few days before parting ways—
+    and sorrow deepens to see fork after fork in the road.
+    The cassia fragrance in my palm fades toward nothing,
+    and with you gone, no place remains to speak what stirs my heart.
+  footnotes:
+  - key: ''
+    value: Cassia fragrance (桂香) is a classical allusion to gift-tokens exchanged between parting friends, symbolizing the memory of their bond.
+  - key: ''
+    value: The repeated imagery of forking paths suggests both literal journeys and the diverging circumstances of life that separate companions.

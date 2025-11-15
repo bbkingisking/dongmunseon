@@ -1,0 +1,86 @@
+canonical:
+  title: 望海吟
+  author: 徐居正
+  language: lzh
+  text: 天地茫茫何所依河海洋洋何所歸人生其閒大倉稊安得討索窮端倪我命魚龍來媵予上尋銀漢下尾閭若言滄海深精衛必無塡沙心若言滄海長變化必不爲田桑平生八九呑胸中今日俯瞰眞杯同豈無長竿三萬尺釣得巨鼇大如嶽細斫爲膾燖爲炙飫得人閒萬人腹嗚呼此意竟濩落滔滔問津迷南北孔聖何事欲乘桴至今千載思悠悠浩謌獨立天地秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 望海吟
+  author: 徐居正
+  language: lzh
+  text: 天地茫茫何所依。河海洋洋何所歸。人生其閒大倉稊。安得討索窮端倪。我命魚龍來媵予。上尋銀漢下尾閭。若言滄海深。精衛必無塡沙心。若言滄海長。變化必不爲田桑。平生八九呑胸中。今日俯瞰眞杯同。豈無長竿三萬尺。釣得巨鼇大如嶽。細斫爲膾燖爲炙。飫得人閒萬人腹。嗚呼此意竟濩落。滔滔問津迷南北。孔聖何事欲乘桴。至今千載思悠悠。浩謌獨立天地秋。
+korean:
+  title: 망해음
+  author: 서거정
+  language: kor
+  text: |-
+    망망한 천지가 무엇을 의지하고
+    넓디 넓은 하해가 어디로 돌아가는고
+    그 사이에 태어난 인생은 태창의 좁쌀
+    어찌 다 찾아서 바다의 그 끝을 다하리
+    내가 어룡에게 명하여 와서 내 시중을 들어서
+    위론 은하수 아래론 미려를 찾아 봤네
+    창해가 깊다고 말하면
+    정위가 반드시 모래로 메울 마음이 없겠고
+    창해가 장구하다고 말하면
+    변하여 상전이 되지 않으리
+    내가 평생에 저바다 8, 9쯤을 가슴속에 삼켰더니
+    오늘에 굽어보니 참으로 술잔만 하구나
+    내 어찌 없을소냐 3만 자 긴 낚싯대
+    그걸로 태산만한 큰 거북을 낚아서
+    가늘게 저며 회치고 구워 산적을 만들어서
+    인간 만인의 배를 다 배부르게 하련다마는
+    아 이 뜻이 크기는 하나 끝내 쓸데 없었네
+    그 길이 어드메뇨 방향을 모르겠네
+    공자는 어인 일로 떼를 타려 하셨던가
+    지금도 천 년 뒤에 생각이 유유하여
+    천지 가을에 홀로 서서 큰 소리로 노래하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 태창(太倉) : '
+    value: 국가의 곡식 쌓은 창고인데 가장 넓고 큰 것이다.
+  - key: '[주-D002] 미려(尾閭) : '
+    value: 바다 가운데 미려(尾閭)란 구멍이 있는데 물이 아무리 들어가도 빠지는 것이다.
+  - key: '[주-D003] 정위(精衛)가 …… 없겠고 : '
+    value: 염제(炎帝)의 딸이 바닷물에 빠져 죽었는데, 그 혼이 정위라는 새가 되어 나무와 돌을 입으로 물어다가 바다를 메우려 하였다.
+  - key: '[주-D004] 내가 평생에 …… 삼켰더니 : '
+    value: 가슴에 운몽(雲夢 초(楚)의 큰 못) 팔구(八九)쯤은 삼킨다는 말이 있는며, 그것은 기개가 장하고 가슴이 넓다는 말인데 여기서 그것을 바다에 인용하였다.
+english:
+  title: Song Gazing Upon the Sea
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Vast and boundless, what does heaven and earth depend upon?
+    Wide and endless, where do the rivers and seas return?
+    In that expanse, human life is but a grain in the granary.
+    How can I fathom and exhaust the uttermost ends of the deep?
+
+    I command the dragon-fish to come and attend me,
+    Searching upward to the Milky Way, downward to the drain of waters.
+    If they say the azure sea runs deep,
+    yet the Jingwei bird would never tire of filling it with sand.
+    If they say the azure sea stretches long,
+    yet transformation would not make it become fields and mulberry groves.
+
+    In my lifetime I have swallowed eight or nine such oceans in my breast,
+    Yet today, gazing down, it seems no larger than a cup of wine.
+    Do I not possess a fishing rod thirty thousand feet long?
+    With it I could catch a giant turtle as vast as a mountain,
+    Slice it fine for sashimi, cook it for roasted skewers,
+    And fill the bellies of ten thousand souls—
+
+    Alas, this ambition, grand as it is, comes to nothing.
+    That vast tide washes away all direction and bearing.
+    Why did the sage Confucius wish to ride a raft?
+    Even now, a thousand years hence, these thoughts linger on.
+
+    Alone I stand beneath the autumn of heaven and earth,
+    And sing my towering song into the void.
+  footnotes:
+  - key: ''
+    value: 'The Jingwei bird: According to Chinese mythology, a daughter of the Flame Emperor drowned in the sea. Her spirit became the Jingwei bird, eternally attempting to fill the ocean with pebbles and twigs—a symbol of futile but determined effort.'
+  - key: ''
+    value: 'The granary: Here representing the vastness of the cosmos, with human life reduced to insignificance—a single grain among infinite stores.'
+  - key: ''
+    value: 'Confucius and the raft: A reference to Analects 5.6, where Confucius expresses a desire to leave society and drift upon a raft—representing spiritual withdrawal and the limits of moral instruction.'

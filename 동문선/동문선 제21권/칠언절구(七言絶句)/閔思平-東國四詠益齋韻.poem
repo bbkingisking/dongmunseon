@@ -1,0 +1,84 @@
+canonical:
+  title: 東國四詠益齋韻
+  author: 閔思平
+  language: lzh
+  text: 獨跨靑驢訪碧山山僧應是後豐干不因此老閑饒舌誰作黃扉上相看右金侍中乘驢訪江西惠素上人千尺雲根聳北山古賢遺跡畫應難自從相國題詩後多少行人指點看右崔大尉冐雪遊城北皺岩蟾影圓流露桂枝夜深斗覺爽襟期世人誰是知音耳一曲廣陵空自知右鄭中丞月下撫琴萬柄亭亭上下池幽人乘興獨尋詩一番細雨蒸霞氣數里香風泛柳絲右郭翰林雨中賞蓮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東國四詠益齋韻
+  author: 閔思平
+  language: lzh
+  text: |-
+    獨跨靑驢訪碧山。山僧應是後豐干。不因此老閑饒舌。誰作黃扉上相看。
+    右金侍中乘驢訪江西惠素上人
+    千尺雲根聳北山。古賢遺跡畫應難。自從相國題詩後。多少行人指點看。
+    右崔大尉冐雪遊城北皺岩
+    蟾影圓流露桂枝。夜深斗覺爽襟期。世人誰是知音耳。一曲廣陵空自知。
+    右鄭中丞月下撫琴
+    萬柄亭亭上下池。幽人乘興獨尋詩。一番細雨蒸霞氣。數里香風泛柳絲。
+    右郭翰林雨中賞蓮
+korean:
+  title: 동국사영익재운
+  author: 민사평
+  language: kor
+  text: |-
+    김시중승로방강서혜소상인(金侍中乘驢訪江西惠素上人)혼자 푸른 나귀를 타고 푸른 산을 찾았노니
+    그 산의 어느 중은 아마 풍간의 후신이었으리라
+    이 늙은이의 실없이 싼 입이 아니더라면
+    누가 그를 황비의 상상(수상(首相)으로 보았으리
+    최대위모설유성북추암(崔大尉冒雪遊城北皺巖)천 척 높은 바위 북산에 솟았나니
+    옛 현인의 끼친 자취 그리기도 어려우리
+    상국이 거기에 시를 제한 뒤로는
+    많은 행인들이 가리키며 자세히 보네
+    정중승월하무금(鄭中丞月下撫琴)달빛은 이슬 젖은 계수 가지에 흐르는데
+    밤이 깊자 갑자기 서늘함을 깨닫겠네
+    세상사람 그 누가 소리 아는 귀인가
+    한 곡조 광릉산을 부질없이 혼자 아네
+    곽한림우중상련(郭翰林雨中賞蓮)아래위 못에 싱그러운 만 송이의 연꽃
+    그윽한 사람은 흥을 타고 혼자 시를 찾나니
+    한 번의 부슬비는 안개 기운을 찌는데
+    몇 리의 향기로운 바람은 버들 가지에 흐늘흐늘
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0890&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 풍간(豐干) : '
+    value: 한산(寒山)과 습득(拾得) 두 중이 미친 것처럼 행세를 하여 절에서 천대를 받았는데, 풍간(豐干)이란 중이 말하기를, “한산은 문수보살(文殊菩薩)이요, 습득은 보현보살(普賢菩薩)이다.” 하였다. 그 말을 들은 이가 한산과 습득에게 가서 절하니, 한산과 습득은 말하기를, “풍간이 입이 싸구나[饒舌].” 하였다. 풍간은 아미타불(阿彌陀佛)의 화신(化身)이라 한다. 여기서는 혜소(惠素)가 말하지 않으면 다른 이가 김시중(金侍中)이 정승인 줄 모를 만큼 야인(野人)의 행색을 하고 절로 찾아갔다는 것이다.
+  - key: '[주-D002] 광릉산(廣陵散) : '
+    value: 혜강(嵇康)이 형(刑)을 당하여 죽을 때에 거문고를 한 곡조 타면서, “이것이 광릉산(廣陵散)이란 곡조인데 전일에 원효니(袁孝尼)가 나더러 가르쳐 달라는 것을 아껴서 불응하였더니, 이제 이 곡조가 인간에서 아주 끊어지는구나.” 하였다.
+english:
+  title: Four Verses on the Eastern Kingdom in the Yikjae Rhyme
+  author: Min Sa-pyeong
+  language: eng
+  text: |-
+    I. On Minister Kim Riding a Donkey to Visit Monk Hyeso in Jiangxi
+
+    Alone I ride my blue donkey to seek the verdant hills.
+    The mountain monks must be heirs to old Fenggan's wisdom.
+    Without this old man's loose tongue to speak its praise,
+    Who would have known to look upon the Minister at Heaven's gate?
+
+    II. On Commander Choi Braving Snow to Wander the Northern Crags Beyond the City
+
+    Thousand-foot stone rises jagged on the northern peak.
+    The hermit sages' traces—how hard to paint their mark!
+    Since the Prime Minister inscribed his verse upon that stone,
+    Counting travelers pause and point, eager to behold it still.
+
+    III. On Minister Jung Playing the Zither Beneath the Moon
+
+    Moonlight flows through dewy cassia branches, round and bright.
+    As night deepens, the chill awakens in my refined breast.
+    Who in this world possesses ears that truly hear?
+    Alone I play the Guangling strain, known only unto me.
+
+    IV. On Hanlin Scholar Guo Admiring Lotuses in the Rain
+
+    Ten thousand lotus stems rise stately above and below the pond.
+    The recluse, seized by inspiration, wanders seeking verse.
+    Once the gentle rain descends, misting the rosy air,
+    Miles of fragrant wind ripple through the willow's drooping threads.
+  footnotes:
+  - key: ''
+    value: Fenggan was a Buddhist monk who recognized the true nature of two seemingly mad monks, Hanshan and Shide, as incarnations of Manjushri and Samantabhadra Bodhisattvas. He later became known as an avatar of Amitabha Buddha. The poem playfully suggests that without Fenggan's revelation, one might not recognize Minister Kim's true importance beneath his humble appearance.
+  - key: ''
+    value: The Guangling Strain (Guangling San) is a famous ancient zither composition. According to legend, the scholar Ji Kang played it once before his execution, noting that this melody would vanish from the human world forever, as he had refused to teach it to others. The poem uses this allusion to express the loneliness of one who truly understands beauty and art that others cannot appreciate.

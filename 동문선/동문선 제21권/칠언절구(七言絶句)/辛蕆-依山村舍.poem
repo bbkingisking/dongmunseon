@@ -1,0 +1,41 @@
+canonical:
+  title: 依山村舍
+  author: 辛蕆
+  language: lzh
+  text: 松竹陰崖有古村靑山繞屋水侵門朱陳風物渾無事雞犬聲中瞑色昏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 依山村舍
+  author: 辛蕆
+  language: lzh
+  text: 松竹陰崖有古村。靑山繞屋水侵門。朱陳風物渾無事。雞犬聲中瞑色昏。
+korean:
+  title: 의산촌사
+  author: 신천
+  language: kor
+  text: |-
+    솔과 대 그늘진 언덕에 옛 마을 있는데
+    산은 집을 둘러쌌고 물은 문을 다가 돈다
+    주진의 풍물에 도무지 일이 없어
+    닭소리ㆍ개소리 속에 해가 저물어 간다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주진(朱陳) : '
+    value: 당나라 백락천(白樂天)이 주진촌(朱陳村)을 두고 지은 시(詩)가 있는데, ‘깊숙한 산중에서 세상과 통하지 않고 안락하게 살아가는 마을이 있는데, 그 촌에는 주씨(朱氏)와 진씨(陳氏) 두 성만이 살고 있어 대대로 서로 혼인하고 살아간다.’ 하였다.
+english:
+  title: A Mountain Village Dwelling
+  author: Shin Cheon
+  language: eng
+  text: |-
+    Beneath the pines and bamboo, shadowed on the hillside,
+    There stands an ancient village.
+    Green mountains encircle the cottage,
+    Water approaches the threshold.
+    In this place of timeless peace, like Zhu and Chen villages of old,
+    There is nothing but quietude.
+    As the day darkens in the sound of roosters and dogs,
+    The world fades away.
+  footnotes:
+  - key: ''
+    value: Zhu and Chen villages refer to a famous poem by the Tang poet Bai Juyi, describing an isolated mountain village where only families of Zhu and Chen surnames lived, maintaining their peaceful existence through generations. The allusion evokes an ideal of harmony and escape from worldly concerns.

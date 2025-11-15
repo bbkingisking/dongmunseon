@@ -1,0 +1,50 @@
+canonical:
+  title: 雨夜有懷
+  author: 印毅
+  language: lzh
+  text: 草堂秋七月桐雨夜三更欹枕客無夢隔䆫虫有聲淺莎飜亂滴寒葉洒餘淸自我有幽趣知君今夕情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雨夜有懷
+  author: 印毅
+  language: lzh
+  text: 草堂秋七月。桐雨夜三更。欹枕客無夢。隔䆫虫有聲。淺莎飜亂滴。寒葉洒餘淸。自我有幽趣。知君今夕情。
+korean:
+  title: 우야 유회
+  author: 인의
+  language: kor
+  text: |-
+    초당에 가을 칠월
+    오동잎에 듣[滴]는 비[雨] 밤 삼경(三更)
+    베개를 의지한 나그네는 꿈도 없는데
+    창을 너머 귀뚜라미 잘도 우누나
+    잔디밭에 요란히 들리는데[滴]
+    싸늘한 잎들이 선선함을 휘뿌리네
+    내 이렇듯이 그윽한 생각
+    그대의 오늘 저녁 심정도 알겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 份 : '
+    value: 毅
+english:
+  title: Reflections on a Rainy Night
+  author: In Yi
+  language: eng
+  text: |-
+    In my thatched hall, autumn's seventh month falls.
+    On parasol leaves, rain taps through the midnight hours.
+    I lean against my pillow—a wanderer without dreams,
+    While beyond the window, crickets sing their endless song.
+
+    Across the sparse grass, the drops scatter and tumble,
+    And cold leaves scatter their chill, crystalline and clear.
+    Since I have found such tranquil reverie,
+    I know, my friend, the longing in your heart tonight.
+  footnotes:
+  - key: ''
+    value: Three watches (三更) refers to the third watch of the night in traditional Chinese timekeeping, roughly equivalent to midnight.
+  - key: ''
+    value: The parasol tree (梧桐) is a classical symbol of autumn and melancholy in East Asian poetry.
+  - key: ''
+    value: The poem addresses an absent friend or loved one, suggesting a shared emotional landscape across distance.

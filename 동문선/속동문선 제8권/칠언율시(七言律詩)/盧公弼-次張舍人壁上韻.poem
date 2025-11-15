@@ -1,0 +1,50 @@
+canonical:
+  title: 次張舍人壁上韻
+  author: 盧公弼
+  language: lzh
+  text: 濛濛煙雨洗寒波鏡面翩飜白鳥過老子此時興不淺次公何事酌無多長江俯瞰千尋練遠岫平看萬點螺不有酒尊供爛熳其如牢落客懷何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次張舍人壁上韻
+  author: 盧公弼
+  language: lzh
+  text: 濛濛煙雨洗寒波。鏡面翩飜白鳥過。老子此時興不淺。次公何事酌無多。長江俯瞰千尋練。遠岫平看萬點螺。不有酒尊供爛熳。其如牢落客懷何。
+korean:
+  title: 차 장사인 벽상운
+  author: 노공필
+  language: kor
+  text: |-
+    부슬부슬 비가 찬 물결을 씻었나니
+    거울 같은 물 위에는 백구가 날아 지나가네
+    이 때에는 늙은이도 흥이 옅지 않거니
+    차공은 무슨 일로 잔을 권치 말라하는가
+    긴 강을 굽어보면 천 길의 비단이요
+    먼 메를 바라보면 만점의 소라일세
+    술 항아리가 실컷 취하는 것을 제공하지 않는다면
+    이 불평한 나그네의 회포가 어떠하겠는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0780&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이 때에는 늙은이도 …… 옅지 않거니 : '
+    value: 진(晋)나라 유량(庾亮)의 부하들이 밤에 남루(南樓)에서 술자리를 차리고 놀다가 창졸 유량이 오니 모두 자리를 피하려 하였다. 유량이 그들을 만류하여, “이 늙은이도 여기에 흥(興)이 열지 않네.” 하고, 같이 마시며 즐기었다.
+  - key: '[주-D002] 차공(次公) : '
+    value: 한(漢)나라 합관요(蓋寬饒)의 자(字)이다. 귀족 허백(許伯)의 집 연회에 갔더니, 허백이 제 손으로 술을 부어 권하였다. 관요는, “나한테 술잔을 많이 권하지 마시요. 나는 주광(酒狂)이 있소.” 하였다. 승상(丞相)  위상(魏相)이 옆에 있다가 웃으며, “차공(次公)은 깨었을 때에도 미쳤는데 하필 술만이랴.” 하였다.
+english:
+  title: In Response to Zhang the Scribe's Verse on the Wall
+  author: Ro Gongpil
+  language: eng
+  text: |-
+    Misty rain washes the cold waters clean,
+    White egrets glide across the mirror-like stream.
+    Even this old man's spirit stirs with delight—
+    Yet why does Next-Duke refuse to raise his cup tonight?
+
+    Gazing down the long river, I see bolts of silk,
+    Looking toward distant peaks, ten thousand spiral shells.
+    Without wine vessels flowing freely with abandon,
+    How can this lonely wanderer's heart find solace?
+  footnotes:
+  - key: ''
+    value: The reference to the old man's undiminished interest alludes to the historical figure Yü Liang of the Jin Dynasty, whose subordinates once attempted to flee when he unexpectedly arrived at their nighttime gathering on the Southern Tower. Yü stopped them, saying his old heart too found joy there, and joined them in drinking.
+  - key: ''
+    value: Next-Duke (次公) refers to Gai Kuanyao of the Han Dynasty, who bore this style name. At a banquet, when offered wine by his host Xu Bai, Gai demurred, saying he suffered from 'wine madness.' The Prime Minister Wei Xiang laughed and quipped that Next-Duke was mad even when sober, so why worry about wine?

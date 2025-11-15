@@ -1,0 +1,29 @@
+canonical:
+  title: 物狀
+  author: 崔惟淸
+  language: lzh
+  text: 侯蕃納貢非爲乎財荒服歸王各羞所寶前件物等産從遐陲品匪珍奇一塊培山雖於高而無補百川注海亦丐賜於兼容
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 崔惟淸
+  language: lzh
+  text: 侯蕃納貢。非爲乎財。荒服歸王。各羞所寶。前件物等。産從遐陲。品匪珍奇。一塊培山。雖於高而無補。百川注海。亦丐賜於兼容。
+korean:
+  title: 물장
+  author: 최유청
+  language: kor
+  text: 번후(蕃侯)가 공물(貢物)을 바침은 재물을 위한 것이 아니라, 먼 나라[荒服]에서 천자께 귀부(歸附)함에 각기 소중한 토산(土産)을 올리는 것입니다. 전건(前件) 물품들은 변방의 산물로 품질이 진기(珍奇)한 것은 아니로되, 한 흙덩이로 산(山)을 북도움이 높은 데는 도움이 없으나 백천(百川)이 바다로 흘러드니 모두 용납하심을 비나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: On Tribute Goods
+  author: Choe Yujeong
+  language: eng
+  text: When distant lords present tribute, it is not for the sake of material wealth. Rather, when the remote lands bow before the Son of Heaven, each offers what they hold most dear from their own soil. These goods before you—products of the borderlands—are not precious or rare, yet a handful of earth, though it adds nothing to the height of mountains, still flows with the hundred rivers into the sea. I humbly pray that all such offerings find acceptance in your boundless generosity.
+  footnotes:
+  - key: ''
+    value: The poem employs traditional Sino-centric court rhetoric about tributary states presenting goods to the Chinese emperor, though the author was Korean.
+  - key: ''
+    value: The imagery of earth adding to mountains and rivers flowing into the sea represents how modest regional offerings, though individually small, collectively contribute to the greatness of the realm.

@@ -1,0 +1,40 @@
+canonical:
+  title: 方物表
+  author: 崔惟淸
+  language: lzh
+  text: 億萬年敬天休聿修厥德五百里曰侯服相率而朝前件物等製造麤踈名般寡尠雖愧不登於內帑庶幾專儀於中懷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 方物表
+  author: 崔惟淸
+  language: lzh
+  text: 億萬年敬天休。聿修厥德。五百里曰侯服。相率而朝。前件物等。製造麤踈。名般寡尠。雖愧不登於內帑。庶幾專儀於中懷。
+korean:
+  title: 방물표
+  author: 최유청
+  language: kor
+  text: 억만년이나 천명(天命)을 공경하여 이에 그 덕을 닦고, 5백 리를 후복(侯服)하는 데 따라 조공하옵나이다.앞에 기재한 물건 등은 만듦새가 거칠고 수효도 많지 못합니다. 비록 내탕(內帑)에 오르지 못함이 부끄럽사오나 충심(忠心)으로 오로지 드리옴을 살펴주시옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0370_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 후복(侯服) : '
+    value: “천자의 직속지(直屬地) 밖의 5백 리를 후복(侯服)이라 하여 제후들을 봉건(封建)하였다.” 한다. 《書經》
+english:
+  title: Tribute of Regional Products
+  author: Choi Yu-cheong
+  language: eng
+  text: |-
+    Through ten thousand years we revere Heaven's mandate,
+    and thereby cultivate our virtue.
+    Within five hundred li of the Marquis Lands,
+    we join together in homage.
+
+    These regional products listed herefore—
+    their craftsmanship is rough and unrefined,
+    their varieties meager and few.
+    Though we blush that they cannot grace the imperial treasury,
+    we offer them with undivided loyalty,
+    praying you will recognize the sincerity of our hearts.
+  footnotes:
+  - key: ''
+    value: The 'Marquis Lands' (侯服) refers to the territories of feudal lords located beyond the five-hundred-li radius directly governed by the Son of Heaven, as described in the Book of Documents (書經).

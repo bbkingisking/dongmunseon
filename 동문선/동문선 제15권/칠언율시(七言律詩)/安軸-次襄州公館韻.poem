@@ -1,0 +1,54 @@
+canonical:
+  title: 次襄州公館韻
+  author: 安軸
+  language: lzh
+  text: 名途信步不圖前來往斯樓已二年覆檻竹叢分爽氣廕門榕樹撼蒼煙歷觀民業憂吾國虛負君恩愧彼天計拙未能興利路若爲溪壑湧金泉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次襄州公館韻
+  author: 安軸
+  language: lzh
+  text: 名途信步不圖前。來往斯樓已二年。覆檻竹叢分爽氣。廕門榕樹撼蒼煙。歷觀民業憂吾國。虛負君恩愧彼天。計拙未能興利路。若爲溪壑湧金泉。
+korean:
+  title: 차 양주 공관운
+  author: 안축
+  language: kor
+  text: |-
+    벼슬길 느릿느릿 앞서기 서두르지 않아
+    이 다락에 왔다 간 지 벌써 두 해
+    난간을 덮은 대포기는 상쾌한 기운 나누고
+    문에 그늘진 용나무는 푸른 연기를 흔드네
+    백성의 살림 두루 보니 내 나랏일이 딱하구나
+    임금의 은혜를 저버리니 저 하늘이 부끄럽네
+    재주가 옹졸하여 이로를 일으키지 못하니
+    어쩌면 시내 골짝에 금샘을 솟게 할꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0250&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Rhyme of the Yangzhou Official's Residence
+  author: An Chuk
+  language: eng
+  text: |-
+    On official paths I wander without haste,
+    No rush to forge ahead through years ahead.
+    Two years have come and gone within this tower—
+    Bamboo fronds above the railing share their cool breath,
+    While banyan trees that shade the gate
+    Sway their ancient green through wisps of smoke.
+
+    Traveling through, I see the people's toil,
+    And grieve for what my country still requires.
+    I've squandered the grace my lord has shown—
+    Even heaven must turn away in shame.
+    My talents are too meager for the task,
+    Unable to open new paths of benefit and gain.
+    How then could I make golden springs
+    Bubble forth from hidden mountain streams?
+  footnotes:
+  - key: ''
+    value: The 'Yangzhou Official's Residence' refers to the residence where the speaker serves as an official, likely in Yangzhou. The poem responds to another work written in the same rhyme scheme.
+  - key: ''
+    value: The imagery of banyan trees and bamboo evokes both the physical setting and the speaker's reflective mood—natural beauty shadowed by concern for duty.
+  - key: ''
+    value: The final image of 'golden springs from mountain streams' is a classical metaphor for creating prosperity and new opportunities through skillful governance.

@@ -1,0 +1,37 @@
+canonical:
+  title: 諸妃傳序
+  author: 李齊賢
+  language: lzh
+  text: 有夫婦然後有父子有父子然後有君臣上下而禮義有所措夫婦人倫之本也國家理亂罔不由之鳦卯生商龍漦滅周楚以樊姬昌息以嬀氏亡可不戒哉可不懼哉故述諸妃傳其無子無大善惡者略之
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 諸妃傳序
+  author: 李齊賢
+  language: lzh
+  text: 有夫婦然後有父子。有父子然後有君臣上下。而禮義有所措。夫婦。人倫之本也。國家理亂。罔不由之。鳦卯生商。龍漦滅周。楚以樊姬昌。息以嬀氏亡。可不戒哉。可不懼哉。故述諸妃傳。其無子無大善惡者略之。
+korean:
+  title: 제비전서
+  author: 이제현
+  language: kor
+  text: 부부가 있은 연후에 부자가 있고, 부자가 있은 연후에 군신과 상하가 있어 예의가 시행될 수 있으니, 부부라는 것은 인륜의 근본으로 국가의 치란도 이를 말미암지 않음이 없다. 제비 알이 상(商)나라를 낳고, 용의 침이 주(周)나라를 멸하고, 초(楚)나라는 번희(樊姬)로 인하여 창성하고, 식(息)나라는 규씨(嬀氏)로 인하여 망하였으니, 경계하지 않아서 되겠는가. 두렵지 아니한가. 그러므로 제비(諸妃)의 전을 기술하는 것이다. 그중 아들도 없고 드러난 선악이 없는 이는 생략한다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0880_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 제비 …… 낳고 : '
+    value: 고신씨(高辛氏)의 비 간적(簡狄)이 기도하다가 제비가 떨어뜨려 준 알을 삼키고 설(契)을 낳았는데, 그 후세에 마침내 유상씨(有商氏)가 되어 천하를 소유하였다.
+  - key: '[주-D002] 용의 …… 멸하고 : '
+    value: 용시(龍漦)는 즉 용의 침이다. 《사기》 주본기에 “하(夏)나라가 망할 무렵에 두 신룡(神龍)이 대궐의 뜰에 내려와 있다가 용은 죽고 그 침만 남아 있으므로 그것을 독(櫝)에다 수장해 두었었다. 그후 하나라가 망하자 그 독이 주나라로 넘어왔으나 감히 누구도 열어보지 못하였고, 여왕(厲王) 때에 이르러서 비로소 열어보니 그 침이 뜰에 흘러내려 현원(玄黿)이 되었는데 후궁(後宮)의 동첩(童妾)이 지나다가 그것을 보고 난 뒤에 임신하여 포사(褒姒)를 낳았다.” 하였다. 뒤에 포사는 주 유왕(周幽王)의 총희(寵姬)가 되었는데 결국 그로 인하여 주나라는 망하고 말았다.
+  - key: '[주-D001] 卯 : '
+    value: 卵
+english:
+  title: Preface to the Biographies of Consorts
+  author: Lee Jae-hyeon
+  language: eng
+  text: From the union of husband and wife comes the bond of parent and child; from parent and child arise ruler and subject, superior and inferior, and thus propriety and righteousness find their place in the world. The marriage of man and woman is the root of all human relations, and whether a state flourishes or declines depends entirely upon it. A swallow's egg bore forth the dynasty of Shang; a dragon's spittle brought ruin to Zhou. Chu rose to greatness through Lady Fan-ji, yet the state of Xi fell to ruin through the House of Gui. Can we not take heed? Can we not tremble at these warnings? Therefore I have compiled these biographies of consorts—omitting those who bore no sons and wrought neither renowned virtue nor notable vice.
+  footnotes:
+  - key: ''
+    value: The swallow's egg refers to the legend where a swallow dropped an egg that was swallowed by Jian-di, concubine of the High Shining One, and she conceived Xie, ancestor of the Shang dynasty.
+  - key: ''
+    value: The dragon's spittle alludes to the mythical substance left behind by divine dragons whose saliva, when opened centuries later, impregnated a concubine with Bao Si, whose beauty ultimately led to the collapse of the Zhou kingdom.
+  - key: ''
+    value: Lady Fan-ji was credited with the rise of the state of Chu through her virtue and influence; conversely, the maiden of the House of Gui brought about the destruction of Xi through calamity.

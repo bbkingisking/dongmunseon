@@ -1,0 +1,41 @@
+canonical:
+  title: 示讀書諸生柳衛
+  author: 李存吾
+  language: lzh
+  text: 嬉遊不學過芳年墻面如今只赧然爲報諸君須着力光陰終不爲君延
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 示讀書諸生柳衛
+  author: 李存吾
+  language: lzh
+  text: 嬉遊不學過芳年。墻面如今只赧然。爲報諸君須着力。光陰終不爲君延。
+korean:
+  title: 시독서제생유위
+  author: 이존오
+  language: kor
+  text: |-
+    장난치고 놀면서 배우지 않고 꽃다운 시절을 보냈거니
+    담에 낯짝 댄 듯한 지금에 다만 얼굴 붉히네
+    일러 두노니 제군들은 부디 힘을 다하라
+    광음은 끝내 그대들을 위하여 늦춰 주지 않느니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 담에 낯짝 댄 듯한 : '
+    value: 공자가 말하기를, “사람이 주남(周南)ㆍ소남(召南)을 배우지 아니하면 낯짝을 담에다 바로 대고 선 것과 같다.” 하였다. 이것은 앞이 막혀 아무 것도 보지 못한다는 말인데, 학문하지 않는 사람에게 이 말을 인용한다.
+english:
+  title: 'Admonition to Young Scholars: In Response to Liu Wei'
+  author: Lee Chon-o
+  language: eng
+  text: |-
+    Playing and idling away, learning cast aside,
+    The flowering years have slipped through your hands.
+    Now your face burns with shame—
+    Like one pressing his visage against a wall.
+
+    I tell you, young gentlemen, you must exert yourselves with all your strength.
+    Time will not pause for your sake,
+    Nor will the light of day linger in your behalf.
+  footnotes:
+  - key: ''
+    value: 'The image of pressing one''s face against a wall alludes to Confucius''s teaching: ''If a man does not study the Zhou Nan and Shao Nan, it is as if he stands facing a wall with no opening before him.'' This conveys the blindness and obstruction that comes from neglecting learning.'

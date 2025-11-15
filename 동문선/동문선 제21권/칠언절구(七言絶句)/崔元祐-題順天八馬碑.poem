@@ -1,0 +1,39 @@
+canonical:
+  title: 題順天八馬碑
+  author: 崔元祐
+  language: lzh
+  text: 來往昇平節物移送迎多愧奪民時莫言無德堪傳後復起崔君八馬碑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題順天八馬碑
+  author: 崔元祐
+  language: lzh
+  text: 來往昇平節物移。送迎多愧奪民時。莫言無德堪傳後。復起崔君八馬碑。
+korean:
+  title: 제순천팔마비
+  author: 최원우
+  language: kor
+  text: |-
+    승평을 오가는 동안 절물이 바뀌나니
+    보내고 맞이할 때 농사철을 방해한 것 못내 부끄러워라
+    둿세상에 전할 만한 덕이 없다고 말하지 말라
+    최군의 팔마비를 다시 일으켜 세웠다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0540&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on the Eight Horses Monument of순천
+  author: Choe Won-u
+  language: eng
+  text: |-
+    Through peaceful years the seasons turn and pass,
+    In welcoming and sending, I confess our shame—
+    to steal the farmer's time.
+    Speak not of lacking virtue worthy to transcend,
+    For here the Eight Horses Monument of Master Choe
+    rises once again.
+  footnotes:
+  - key: ''
+    value: The 'Eight Horses' likely refers to a monument erected to commemorate meritorious service or administrative virtue, possibly connected to a historical figure named Choe.
+  - key: ''
+    value: The poem reflects the tension between official duties (receiving and sending dignitaries) and the disruption caused to the common people, particularly during critical agricultural seasons.

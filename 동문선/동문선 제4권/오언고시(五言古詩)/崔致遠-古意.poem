@@ -1,0 +1,47 @@
+canonical:
+  title: 古意
+  author: 崔致遠
+  language: lzh
+  text: 狐能化美女狸亦作書生誰知異類物幻惑同人形變化尙非艱操心良獨難欲辨眞與僞願磨心鏡看
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 古意
+  author: 崔致遠
+  language: lzh
+  text: 狐能化美女。狸亦作書生。誰知異類物。幻惑同人形。變化尙非艱。操心良獨難。欲辨眞與僞。願磨心鏡看。
+korean:
+  title: 고의
+  author: 최치원
+  language: kor
+  text: |-
+    여우는 능히 미인으로 화하고
+    삵괭이는 글하는 선비로 화하네
+    그 누가 알리
+    동물들이 사람 모양을 지어 속이고 홀리는 것을
+    변화하기 오히려 어렵잖으나
+    마음 가지기 진실로 어려워라
+    그 참과 거짓을 분별하려거든
+    원컨대 마음 거울 닦고 보소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: On Ancient Sentiment
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    The fox can transform into a beauty,
+    The wildcat disguise itself as a scholar.
+    Who can discern it—
+    How these creatures deceive and bewitch us,
+    Taking on human form?
+
+    Transformation itself is hardly difficult,
+    But to keep one's heart true—that is the hardship.
+    If you wish to distinguish the real from the false,
+    I urge you: polish the mirror of your mind and see.
+  footnotes:
+  - key: ''
+    value: The poem uses animal transformation as a metaphor for deception and the difficulty of discerning truth from falsehood in human affairs.
+  - key: ''
+    value: The 'mirror of the mind' is a Buddhist and Daoist concept representing clarity of perception and wisdom.

@@ -1,0 +1,45 @@
+canonical:
+  title: 宿金壤縣
+  author: 高兆基
+  language: lzh
+  text: 鳥語霜林曉風驚客榻眠簷殘半規月夢斷一涯天落葉埋歸路寒枝掛宿烟江東行未盡秋盡水村邊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿金壤縣
+  author: 高兆基
+  language: lzh
+  text: 鳥語霜林曉。風驚客榻眠。簷殘半規月。夢斷一涯天。落葉埋歸路。寒枝掛宿烟。江東行未盡。秋盡水村邊。
+korean:
+  title: 금양현에서 자며
+  author: 고조기
+  language: kor
+  text: |-
+    새벽 서리 숲속에서 새는 짹짹거리는데
+    찬 바람이 나그네 졸음을 놀래누나
+    처마 끝에 남아 있는 반 조각달
+    꿈 깨니 헤맨 곳은 하늘 한 끝
+    낙엽은 쌓여 돌아갈 길을 물었고
+    앙상한 찬 가지는 묵은 연기에 걸리었네
+    머나먼 강동 길 아직 다 못 가서
+    가을도 다하려는데, 몸은 아직 수촌가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0110&viewSync=OT
+  footnotes: []
+english:
+  title: Lodging in Gimyang County
+  author: Ko Jo-gi
+  language: eng
+  text: |-
+    At dawn the birds cry through the frosted woods,
+    A cold wind startles the wanderer from sleep.
+    Half a moon lingers at the eave's edge—
+    I wake to find my dreams have scattered across heaven's border.
+    Fallen leaves pile up, burying the path home,
+    Bare branches catch on the smoke of last night's fire.
+    The long road through Gangdong remains unfinished,
+    As autumn fades, my body lingers still by the village streams.
+  footnotes:
+  - key: ''
+    value: 'Gimyang County (金壤縣): A place in historical Korea, likely in the eastern regions. The poem captures the melancholy of a traveler stranded as the season turns.'
+  - key: ''
+    value: 'Gangdong (江東): Refers to the eastern territories, suggesting a long, incomplete journey.'

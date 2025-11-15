@@ -1,0 +1,82 @@
+canonical:
+  title: 金藏臺二首
+  author: 曺偉
+  language: lzh
+  text: 坡陀斷岸俯江臯乘興登臨望眼遙古家纍纍欹石獸靑山隱隱聳金鰲傷心廢苑烟花閙滿目空城塔廟高天地無情如昨日人閒蠛蠓等秋毫臺上蒼茫烟景遲那堪吊古更憑危丘園薺麥爭春色城郭人民異昔時阮籍聊興廣武嘆鄒湛空作峴山悲興亡萬古長如此不用哀歌詠黍離
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金藏臺二首
+  author: 曺偉
+  language: lzh
+  text: 坡陀斷岸俯江臯。乘興登臨望眼遙。古家纍纍欹石獸。靑山隱隱聳金鰲。傷心廢苑烟花閙。滿目空城塔廟高。天地無情如昨日。人閒蠛蠓等秋毫。臺上蒼茫烟景遲。那堪吊古更憑危。丘園薺麥爭春色。城郭人民異昔時。阮籍聊興廣武嘆。鄒湛空作峴山悲。興亡萬古長如此。不用哀歌詠黍離。
+korean:
+  title: 금장대 이수
+  author: 조위
+  language: kor
+  text: |-
+    험준한 끊어진 벼랑에 강을 굽어보나니
+    흥을 따라 올라가니 바라보는 눈이 멀다
+    누루한 고총들은 석수가 기울어졌고
+    은은한 푸른 산은 금오가 솟구쳤다
+    마음 아프다 폐원 동산에는 꽃이 어지러운데
+    눈에 가득한 빈 성에는 탑묘만이 높구나
+    천지는 정이 없어 어제와 같은데
+    인간은 멸몽이라 가을 털과 같아라
+    누대 위에 아득한 연경이 저물었는데
+    옛일을 조상하며 다시 높은 대에 기대기를 어찌 견디랴
+    언덕과 동산의 냉이와 보리는 봄빛을 다투는데
+    성곽과 백성들은 옛날과 다르구나
+    완적은 애오라지 광무 탄식을 일으켰고
+    추담은 부질없이 현산의 슬픔을 지었더라
+    흥망은 만고에 항상 이와 같거늘
+    무엇하러 슬픈 노래로 서리를 읊을 것가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 석수(石獸) : '
+    value: 귀인의 무덤 앞에 돌로 만들어 놓은 짐승모양으로 된 것이다.
+  - key: '[주-D002] 금오(金鰲) : '
+    value: 땅의 이름인 듯하다.
+  - key: '[주-D003] 멸몽(蠛蠓) : '
+    value: 파리 비슷한 미물(微物)이다.
+  - key: '[주-D004] 완적(阮籍)은 …… 일으켰고 : '
+    value: 진(晋)나라 완적(阮籍)이 광무성(廣武城)에 올라서 옛날 초한(楚漢)의 전쟁하던 터를 보고 탄식하기를, “때에 영웅이 없어서 더벅머리 자식들로 하여금 이름을 이루게 하였도다.” 하였다. 이태백은 이 말을 그릇 해석하여, “초한(楚漢) 시절에 영웅이 없어 항우(項羽)ㆍ패공(沛公) 같은 더벅머리 자식들이 이름을 이뤘다는 뜻이라.” 하였고, 소동파(蘇東坡)는, “〈완적 자신이 사는〉 당시에 패공ㆍ항우 같은 영웅이 없어서 조조(曹操)나 사마의(司馬懿) 같은 더벅머리 자식이 이름을 이뤘다는 뜻이다.” 하였다.
+  - key: '[주-D005] 추담(鄒湛) : '
+    value: 진(晋)나라 양호(羊祜)가 형주(荊州)의 도독(都督)으로 있을 때에 산수 풍경을 좋아하여 매양 현산(峴山)에 올라서 술을 마시며 놀았다. 한 번은 양호가 종사(從事) 추담(鄒湛)을 대하여 탄식하기를, “우주가 있자 이 산이 있었거늘 현인(賢人)  달사(達士)들이 이 산에 올라 놀기를 나와 자네와 같이 하는 자가 많았겠지마는 지금에는 다 매몰되어 이름도 없는 것을 생각하니 나도 슬픈 마음이 생긴다.” 하니, 추담이 대답하기를, “공(公)은 덕이 높고 공이 크니 어진 명망이 반드시 이 산과 함께 전하겠지마는, 담(湛)과 같은 자는 참으로 공의 말씀과 같을 것입니다.” 하였다.
+  - key: '[주-D006] 서리(黍離) : '
+    value: 주(周)나라가 쇠약하여 동으로 옮긴 뒤에 시인(詩人)이 옛 서울을 지나며 서리편(黍離篇)을 지어서 옛 도읍터 “기장이 우거졌다[彼黍離離].”고 읊었다.
+  - key: '[주-D001] 二 : '
+    value: 저본에는 '一'로 되어 있다. 저본의 원목차에 근거하여 '二'로 수정하였다.
+english:
+  title: Two Poems on Geumjang Pavilion
+  author: Cao Wei
+  language: eng
+  text: |-
+    Steep cliffs drop away, the riverbank bows to the gorge below.
+    Following my heart's urge, I climb and look—my gaze stretches far.
+    Ancient tombs pile upon pile, their stone beasts tilted and worn.
+    Dimly the blue mountains rise, where Golden Turtle Peak soars.
+    My heart aches for the ruined garden where flowers wildly bloom,
+    Yet my eyes fill only with an empty city, its temples and pagodas towering high.
+    Heaven and earth are indifferent, unchanged from yesterday,
+    While mankind, like motes of dust in autumn air, fades into insignificance.
+
+    On the pavilion, misty landscapes grow dim as dusk descends.
+    How can I bear to contemplate the past, leaning against this precipice?
+    On the hills and fields, shepherd's purse and barley vie for spring's glory,
+    Yet the walls and people of the city differ from those of old.
+    Ruan Ji simply raised his lament at Guangwu's walls,
+    While Zhou Zhan wept in vain upon Mount Xian.
+    Rise and fall have followed this same course through ten thousand ages—
+    Why then compose sad songs mourning millet in the ruins?
+  footnotes:
+  - key: ''
+    value: Stone beasts were sculptures placed before tombs of the nobility, representing protective spirits.
+  - key: ''
+    value: Golden Turtle Peak (金鰲) refers to a location name, likely a prominent geographical feature visible from the pavilion.
+  - key: ''
+    value: Ruan Ji's lamentation at Guangwu refers to the famous historical moment when the Jin dynasty poet Ruan Ji climbed the ancient walls of Guangwu and sighed at the transience of heroes and empires.
+  - key: ''
+    value: Mount Xian is referenced for its association with melancholy reflection on the past, where the official Yang Hu once mourned the loss of remembered sages.
+  - key: ''
+    value: '''Millet in the ruins'' alludes to the classic poem ''The Millet Fields'' (黍離), where an ancient poet mourned the fall of the Zhou dynasty by observing millet growing wild in the old capital''s abandoned lands.'

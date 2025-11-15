@@ -1,0 +1,49 @@
+canonical:
+  title: 送僧歸山
+  author: 盧思愼
+  language: lzh
+  text: 携筇歸作五臺僧何似窓前穴紙蠅蒲上一觀唯寂照人閒萬事盡除乘溪聲㶁㶁無生話嶺月輝輝大智燈扈從當年曾上此滿山松桂欝千層
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送僧歸山
+  author: 盧思愼
+  language: lzh
+  text: 携筇歸作五臺僧。何似窓前穴紙蠅。蒲上一觀唯寂照。人閒萬事盡除乘。溪聲㶁㶁無生話。嶺月輝輝大智燈。扈從當年曾上此。滿山松桂欝千層。
+korean:
+  title: 송 승귀산
+  author: 노사신
+  language: kor
+  text: |-
+    지팡이를 이끌고 돌아가 오대산 중이 되었거니
+    어찌 창 앞에서 종이를 뜷는 파리와 같을 것인가
+    방석에 앉아 한 번 관하면 오직 적조뿐인데
+    인간의 온갖 일은 모두 제와 승일세
+    콸콸콸 흐르는 시냇물 소리는 무생의 법문이요
+    밝고 빛나는 산 위의 달은 큰 지혜의 등불이다
+    호종할 그때에 일찍 거기 올랐는데
+    온 산의 소나무와 계수나무는 천 층으로 우거졌다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0550&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 어찌 …… 것인가 : '
+    value: 불교 선종(禪宗)에서는 선을 공부하는 사람을 마치 광명(光明)을 찾는 파리가 창문을 바른 종이 한 장을 뚫으려고 애쓰는 데에 비유하였다.
+english:
+  title: Seeing Off a Monk Returning to the Mountain
+  author: Ro Sa-shin
+  language: eng
+  text: |
+    With staff in hand, you return to become a monk of Wu-tai,
+    Unlike the fly that beats against the paper at the window, seeking light.
+    Sitting once upon the cushion in meditation, there is only stillness and illumination—
+    All the myriad affairs of this world are but illusion and attachment.
+    The stream's murmuring voice flows with the teachings of non-being,
+    While the moon shining bright upon the ridge becomes the lamp of great wisdom.
+    Once I too ascended there in my youth, following the Way,
+    And saw the pines and cinnamon trees layered thick a thousand folds across the mountain.
+  footnotes:
+  - key: ''
+    value: Wu-tai (五臺) refers to Mount Wutai in China, one of the Four Sacred Mountains of Buddhism and a major center of Zen practice.
+  - key: ''
+    value: The image of the fly beating against paper is a Zen metaphor for the futile searching of one who has not yet awakened to enlightenment, contrasting with the monk's direct realization.
+  - key: ''
+    value: The poem employs Buddhist imagery of emptiness, non-being, and the natural world as manifestation of enlightenment, reflecting the Zen philosophy of the period.

@@ -1,0 +1,54 @@
+canonical:
+  title: 傷杜相宅
+  author: 李仁老
+  language: lzh
+  text: 藥階曾賞謝公苔金鼎親調傅說梅自許披雲開日月時稱無地起樓臺炎州忽被蒼蠅弔華表難逢白鶴回新壁未乾三易主一聲隣笛不勝哀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 傷杜相宅
+  author: 李仁老
+  language: lzh
+  text: 藥階曾賞謝公苔。金鼎親調傅說梅。自許披雲開日月。時稱無地起樓臺。炎州忽被蒼蠅弔。華表難逢白鶴回。新壁未乾三易主。一聲隣笛不勝哀。
+korean:
+  title: 두상의 옛집을 슬펴하며
+  author: 이인로
+  language: kor
+  text: |-
+    작약꽃 핀 뜰(중서성)에서 사공(동진(東晋)의 명상(名相))의 이끼를 완상했을 때
+    부열의 매실을 금솥에서 친히 조리했었지
+    구름을 헤치고 해 달을 뵈리라 자허했건만
+    누대를 지을 땅이 없다고 사람들 일컬었네
+    염주서 문득 파리 떼의 조상을 봤단 말가
+    화표에 돌아오는 백학을 만나기 어렵겠구나
+    새 벽이 마르기도 전에 세 번이나 바뀌는 주인
+    이웃집 피리소리에 슬픈 마음 그지없어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 누대(樓臺)를 지을 땅이 없다고 : '
+    value: 송나라 처사(處士)  위야(魏野)가 재상(宰相)  구준(寇準)에게 지어주는 시(詩)에 “벼슬은 삼공(三公)인데, 누대(樓坮)를 지을 만한 땅이 없다.[有官居鼎鼐 無地起樓坮]”라는 구(句)가 있었다. 그 뒤에 글안(契丹)의 사신(使臣)이 조정에 와서 묻기를, “어느 분이 무지기루대(無地起樓坮) 상공(相公)이요.” 하였다.
+  - key: '[주-D002] 염주(炎州)서 문득 …… 말가 : '
+    value: 먼 데 귀양가서 죽으매 파리[蠅]밖에 조객(吊客)이 없다는 뜻이다. 오(吳)나라 우번(虞翻)이 남방에 귀양가서 한탄한 말이다.
+english:
+  title: Mourning the Former Residence of Minister Du
+  author: Lee In-ro
+  language: eng
+  text: |-
+    In gardens where peonies bloomed, he once admired the moss of sages past,
+    While plum blossoms stewed in golden vessels spoke of ancient craft.
+    He promised to part the clouds and bring forth sun and moon,
+    Yet men said there was no ground on which to raise his halls.
+
+    In distant southern lands, only flies came to pay respects,
+    And the white crane that once returned to ancient markers cannot be found.
+    Before new walls could even dry, three different masters claimed the house—
+    And now a neighbor's distant flute song fills my heart with endless sorrow.
+  footnotes:
+  - key: ''
+    value: Minister Du (杜相) refers to a celebrated statesman whose virtue and wisdom were legendary. The reference to admiring moss suggests contemplation of the past and the transience of power.
+  - key: ''
+    value: The 'no ground to raise halls' is a famous phrase from history—even those of highest rank sometimes found their ambitions constrained by fate, suggesting the irony of Du's circumstances.
+  - key: ''
+    value: The image of flies as sole mourners references the fate of those exiled and forgotten in distant lands, emphasizing the loneliness and loss of position.
+  - key: ''
+    value: The three changes of masters before the new walls dried speaks to the rapid decline and loss of the household, while the neighbor's flute becomes a symbol of the speaker's melancholy witnessing of this dissolution.

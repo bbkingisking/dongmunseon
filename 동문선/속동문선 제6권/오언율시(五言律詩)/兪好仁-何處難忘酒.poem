@@ -1,0 +1,62 @@
+canonical:
+  title: 何處難忘酒
+  author: 兪好仁
+  language: lzh
+  text: 何處難忘酒防秋二十年黃昏低塞月靑海接胡天鐵騎邊常警鄕書鴈不傳此時無一盞覊抱更茫然何處難忘酒衰齡謝事歸傷鴻思戢翼老驥不任鞿林壑無人過雲途有夢飛此時無一盞奈此送殘暉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 何處難忘酒
+  author: 兪好仁
+  language: lzh
+  text: 何處難忘酒。防秋二十年。黃昏低塞月。靑海接胡天。鐵騎邊常警。鄕書鴈不傳。此時無一盞。覊抱更茫然。何處難忘酒。衰齡謝事歸。傷鴻思戢翼。老驥不任鞿。林壑無人過。雲途有夢飛。此時無一盞。奈此送殘暉。
+korean:
+  title: 하처 난망주
+  author: 유호인
+  language: kor
+  text: |-
+    어떤 곳에서 술을 잊기 어려운가
+    오랑캐를 막기 20년이 되었다
+    국경이 달은 황혼에 나직하고
+    푸른 바다는 오랑캐 하늘에 닿았다
+    철기는 항상 국경을 경계하는데
+    고향 편지는 기러기가 전하지 않네
+    만일 이럴 때에 한 잔 술이 없으면
+    나그네의 회포는 더욱 망망하리라
+    어떤 곳에서 술을 잊기 어려운가
+    나이 많아 벼슬을 두고 돌아오나니
+    상한 기러기는 날개 접기를 생각하고
+    늙은 말은 굴레를 감당 못한다
+    숲 골짜기는 지나가는 사람 없고
+    구름 길에는 날아가는 꿈이 있다
+    만일 이럴 때에 한 잔 술이 없으면
+    어떻게 이 해질녘을 보내리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: Where Can One Forget the Wine?
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    Where can one forget the wine?
+    Twenty years guarding the frontier,
+    the border moon hangs low at dusk,
+    the blue sea touches the barbarian sky.
+    Iron cavalry keeps eternal watch,
+    yet letters from home never arrive on crane's wing.
+    Without a cup to drink in such hours,
+    the exile's heart grows only more desolate.
+
+    Where can one forget the wine?
+    Aged, I have resigned from office and returned.
+    The wounded goose thinks of folding its wings,
+    the old horse can no longer bear the bridle.
+    No one passes through the forest hollows,
+    dreams fly along paths of cloud.
+    Without a cup to drink in such hours,
+    how shall I endure this fading light?
+  footnotes:
+  - key: ''
+    value: 'The poem is structured as two stanzas, each beginning with the same question, reflecting the speaker''s repeated longing for wine in two different circumstances of hardship: military service on the frontier and retirement in old age.'
+  - key: ''
+    value: The imagery of the wounded goose and old horse serves as metaphors for the speaker's own declining condition and weariness.

@@ -1,0 +1,49 @@
+canonical:
+  title: 定州
+  author: 鄭夢周
+  language: lzh
+  text: 定州重九登高處依舊黃花照眼明浦溆南連宣德鎭峯巒北倚女眞城百年戰國興亡事萬里征夫慷慨情酒罷元戎扶上馬淺山斜日照紅旌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 定州
+  author: 鄭夢周
+  language: lzh
+  text: 定州重九登高處。依舊黃花照眼明。浦溆南連宣德鎭。峯巒北倚女眞城。百年戰國興亡事。萬里征夫慷慨情。酒罷元戎扶上馬。淺山斜日照紅旌。
+korean:
+  title: 9월 9일에 정주
+  author: 정몽주
+  language: kor
+  text: |-
+    정주에서 중양에 높은 데 오르니
+    국화꽃 예와 같이 환하게 눈에 비치네
+    갯벌은 남쪽으로 선덕진에 이었고
+    봉우리는 북으로 여진의 성을 기대었네
+    백 년간 전쟁에 흥하고 망한 일
+    만 리 밖에 나그네 강개로운 회포
+    술 끝나자 원융대장 부액 받고 말에 오르니
+    얕은 산 비낀 석양이 붉은 기를 비추네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0780&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정주(定州) : '
+    value: 함남 정평(定平)의 옛 이름.
+english:
+  title: Jeongju
+  author: Jung Mong-ju
+  language: eng
+  text: |-
+    On the Ninth Day of the Ninth Moon at Jeongju,
+    I climb to high ground where chrysanthemums bloom
+    Their petals bright as ever, clear before my eyes.
+    To the south, the marshlands merge with Seondeok garrison,
+    To the north, the peaks lean toward the fortress of the Jurchen.
+
+    A hundred years of kingdoms risen and fallen in war,
+    Thousands of leagues away, soldiers bear their noble sorrows.
+    When the wine is done, the general mounts his horse,
+    And the slanting sunset gilds the crimson standards with its light.
+  footnotes:
+  - key: ''
+    value: Jeongju refers to the ancient name of Jeongpyeong in what is now South Hamgyong Province, a region of strategic military importance on the Korean peninsula's northern frontier.
+  - key: ''
+    value: The Ninth Day of the Ninth Moon is a traditional festival in East Asian culture associated with climbing heights and viewing chrysanthemums, symbolizing longevity and perseverance through hardship.

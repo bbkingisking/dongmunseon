@@ -1,0 +1,47 @@
+canonical:
+  title: 將赴都也宿楊州之廣陵驛見江都史知縣知張伯淵先生下世悵然有作名溥號木訥軒者
+  author: 李崇仁
+  language: lzh
+  text: 歲暮仍爲客今朝又哭君一言曾刮目千里共論文契闊 猶言聚散 情何限幽明理已分雞龍山下路有笛豈堪聞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 將赴都也宿楊州之廣陵驛見江都史知縣知張伯淵先生下世悵然有作名溥號木訥軒者
+  author: 李崇仁
+  language: lzh
+  text: 歲暮仍爲客。今朝又哭君。一言曾刮目。千里共論文。契闊 猶言聚散 情何限。幽明理已分。雞龍山下路。有笛豈堪聞。
+korean:
+  title: 서울 오는 길에 양주 광릉역에서 자다가 강도 사지현에 이르러 장백연 선생이 별세했음을 알고 창연하여 지음. 백연의 이름은 부요, 호는 목눌헌이다
+  author: 이숭인
+  language: kor
+  text: |-
+    세모에 이내 길손이 되었는데
+    오늘 아침 또 그대를 곡하네
+    한 마디 말로 일찍이 괄목하였고
+    천 리를 함께 가며 글을 논하였네
+    모이고 흩어지는데 정이 어찌 한이 있으랴
+    유명은 이치가 이미 나누어졌네
+    계룡산 밑 길에서
+    피리소리 있으면 어찌 차마 들을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0450&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유명(幽明) : '
+    value: 유(幽)는 죽음의 세계요, 명(明)은 인간의 세계다.
+english:
+  title: On the Road to the Capital, Lodging at Guangling Station in Yangzhou, Upon Learning of the Passing of Zhang Boyan, the Magistrate's Clerk of Jiangdu, a Lament Composed—His name was Puxi, his studio name Mununxuan
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Year's end finds me still a wanderer,
+    This morning I weep again for you.
+    Once your gaze fell upon me with recognition,
+    A thousand leagues we walked together, discussing the way of letters.
+    The gathering and scattering of souls—how could sorrow know limit?
+    The boundary between this world and the next is already drawn.
+    On the path beneath Gyeryong Mountain,
+    If a flute should sound, how could I bear to hear it?
+  footnotes:
+  - key: ''
+    value: '''This world and the next'' (幽明): the realm of darkness refers to death, while the realm of light refers to the human world of the living'
+  - key: ''
+    value: The flute alludes to parting and loss, drawing on the classical image of the bamboo flute as a symbol of farewell

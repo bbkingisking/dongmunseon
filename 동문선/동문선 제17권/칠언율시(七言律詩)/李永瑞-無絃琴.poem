@@ -1,0 +1,48 @@
+canonical:
+  title: 無絃琴
+  author: 李永瑞
+  language: lzh
+  text: 淵明自有一張琴不被朱絃思轉深眞趣豈能聲上得天機須向靜中尋鯤絃鐵撥渾閑事流水高山謾苦心古調未應諧俗耳悠悠千載少知音
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無絃琴
+  author: 李永瑞
+  language: lzh
+  text: 淵明自有一張琴。不被朱絃思轉深。眞趣豈能聲上得。天機須向靜中尋。鯤絃鐵撥渾閑事。流水高山謾苦心。古調未應諧俗耳。悠悠千載少知音。
+korean:
+  title: 무현금
+  author: 이영서
+  language: kor
+  text: |-
+    도연명이 거문고 하나 가지고
+    줄을 매지 않았으니 뜻이 더욱 깊었도다
+    진정한 취미를 어찌 소리로 얻을 것인가
+    천기는 고요한 속에 찾아야 하네
+    곤어 줄, 쇠 채가 다 부질없는 일
+    유수ㆍ고산곡도 헛 애만 쓰는 것
+    옛 곡조가 속인의 귀에 어울림이 없으니
+    기나긴 천 년 동안에 그 지음이 없구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0830&viewSync=OT
+  footnotes: []
+english:
+  title: The Stringless Lute
+  author: Lee Young-seo
+  language: eng
+  text: |-
+    Tao Yuanming possessed a single lute,
+    Unstrung, yet deeper grew his mind.
+    How could true beauty ever emerge from sound?
+    The heavenly spark must be sought in silence.
+
+    Kunkong strings and iron picks—mere trifles,
+    Even 'Flowing Waters' and 'High Mountains' exhaust the heart in vain.
+    The ancient melody accords not with the vulgar ear,
+    Through a thousand long years, few have known its sound.
+  footnotes:
+  - key: ''
+    value: Tao Yuanming (陶淵明, 365-427) was a celebrated recluse poet of the Eastern Jin who famously broke the strings of his lute, valuing the silent contemplation it represented over technical mastery.
+  - key: ''
+    value: '''Flowing Waters'' and ''High Mountains'' refer to a classical Chinese zither composition (高山流水) often used as a metaphor for music that transcends mere technical virtuosity.'
+  - key: ''
+    value: The poem plays on the paradox that the truest music exists not in sound itself, but in the silence and inner contemplation it inspires.

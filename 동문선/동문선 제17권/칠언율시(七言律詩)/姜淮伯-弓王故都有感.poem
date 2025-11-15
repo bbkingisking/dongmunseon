@@ -1,0 +1,50 @@
+canonical:
+  title: 弓王故都有感
+  author: 姜淮伯
+  language: lzh
+  text: 孤城蕪沒帶踈林斷碣燒殘歲月深鼓角聲高風不止旌旗影動日將沉山含故國千年恨雲抱長空萬里心自古興亡皆有致願因前轍戒來今
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 弓王故都有感
+  author: 姜淮伯
+  language: lzh
+  text: 孤城蕪沒帶踈林。斷碣燒殘歲月深。鼓角聲高風不止。旌旗影動日將沉。山含故國千年恨。雲抱長空萬里心。自古興亡皆有致。願因前轍戒來今。
+korean:
+  title: 궁왕고도 유감
+  author: 강회백
+  language: kor
+  text: |-
+    황폐된 외로운 성이 성긴 숲 가운데
+    꺾어진 비석도 불에 탄 지 세월이 오랬구나
+    고각소리 높은데 바람이 휘몰아치고
+    해도 넘어가려는데 깃발만 펄렁펄렁
+    산은 고국의 천 년 한을 머금었고
+    구름은 장공 만 리의 마음을 가졌구나
+    예로부터 흥망이 다 까닭 있나니
+    전철을 보고 장래를 경계하고저
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 궁왕고도(弓王故都) : '
+    value: 강원도 철원(鐵原) 북쪽 27리의 풍천원(楓川原). 태봉(泰封)  궁예(弓裔)의 도읍터.
+  - key: '[주-D002] 유감(有感) : '
+    value: “제군(諸軍) 도총병(都摠兵)으로 공(公)이 거기 주둔(駐屯)했다.”라는 제주(題註)가 있다.
+english:
+  title: Reflections on the Ruins of Kung Wang's Old Capital
+  author: Kang Hwae-baek
+  language: eng
+  text: |-
+    A lonely city lies desolate among the sparse trees,
+    Broken monuments, charred by fire, mark the deep passage of years.
+    The horn-blast sounds high as winds sweep without ceasing,
+    And banners flutter while the sun descends the western sky.
+
+    The mountains hold within them a thousand years of sorrow for the lost kingdom,
+    While clouds embrace the vastness of ten thousand leagues of memory.
+    Since ancient times, all rise and fall have their reasons—
+    Let us heed the old paths and warn ourselves against the future's misstep.
+  footnotes:
+  - key: ''
+    value: The 'old capital of Kung Wang' refers to the former seat of the Later Goguryeo kingdom (Taebong), located at Pungcheonwon, twenty-seven li north of Cheolwon in Gangwon Province.
+  - key: ''
+    value: The poet wrote this work while stationed here as a military commander, reflecting on the ruins and the cyclical nature of political fortune.

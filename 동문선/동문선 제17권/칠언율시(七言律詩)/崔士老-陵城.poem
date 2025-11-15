@@ -1,0 +1,45 @@
+canonical:
+  title: 陵城
+  author: 崔士老
+  language: lzh
+  text: 落魄功名似積薪晴窓萬卷更誰親材無適用還宜散酒不能賖始覺貧末路堪悲身作客此心猶與物爲春莫言陋巷常岑寂上相頻過是故人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陵城
+  author: 崔士老
+  language: lzh
+  text: 落魄功名似積薪。晴窓萬卷更誰親。材無適用還宜散。酒不能賖始覺貧。末路堪悲身作客。此心猶與物爲春。莫言陋巷常岑寂。上相頻過是故人。
+korean:
+  title: 능성
+  author: 최사로
+  language: kor
+  text: |-
+    낙백한 이내 신세 공명이 섶 쌓은 것 같네
+    밝은 창 만권서를 다시 누가 친하오리
+    쓸 데 없는 재목은 허튼 나무로 만족할 밖에
+    술도 못 사오니 가난한 줄을 알괘라
+    늘그막에 객이 된 몸이 슬플만 하나
+    이 마음은 아직도 초목과 함께 봄이 되네
+    누항이 적막하다고 말하지 말자
+    상상이 자주 찾으니 바로 친구라네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0890&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 누항(陋巷) : '
+    value: 공자(孔子)의 제자 안회(顔回)가 누항(陋巷)에 살았다. 누항은 누추한 골목이란 말이다.
+english:
+  title: Neungseong
+  author: Choi Sa-ro
+  language: eng
+  text: |-
+    My fortune fallen, success piled high like cordwood stacked.
+    Bright windows, ten thousand volumes—who comes calling now?
+    Timber without use must rest as simple wood;
+    without wine to buy on credit, I know true poverty.
+    In life's twilight, a guest in exile, sorrow weighs heavy.
+    Yet still my heart turns green with spring alongside all things.
+    Speak not of lonely narrow lanes in desolate silence—
+    the minister visits often; these are bonds of friends.
+  footnotes:
+  - key: ''
+    value: The 'lonely narrow lanes' (陋巷) alludes to Yan Hui, Confucius's most virtuous disciple, who lived contentedly in poverty and obscurity, suggesting that material hardship need not diminish one's inner worth or spiritual cultivation.

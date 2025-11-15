@@ -1,0 +1,48 @@
+canonical:
+  title: 八月十七日放舟向峩眉山
+  author: 李齊賢
+  language: lzh
+  text: 錦江江上白雲秋唱徹驪駒下酒樓一片紅旂風閃閃數聲柔櫓水悠悠雨催寒犢歸漁店波送輕鷗近客舟孰謂書生多不偶每因王事飽淸遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 八月十七日放舟向峩眉山
+  author: 李齊賢
+  language: lzh
+  text: 錦江江上白雲秋。唱徹驪駒下酒樓。一片紅旂風閃閃。數聲柔櫓水悠悠。雨催寒犢歸漁店。波送輕鷗近客舟。孰謂書生多不偶。每因王事飽淸遊。
+korean:
+  title: 8월 17일 배를 놓아 아미산을 향하며
+  author: 이제현
+  language: kor
+  text: |-
+    금강 강 가에 흰 구름 가을인데
+    이구곡(이별곡) 부르고 나서 주루에서 내려오네
+    한 조각 붉은 기는 바람에 펄렁펄렁
+    어여차 노젓는 소리 강물이 넘실넘실
+    송아지는 비에 몰려 어점으로 돌아가고
+    갈매기는 물결에 실려 객선에 다가오네
+    서생이 불우하다 그 누가 일렀던고
+    내 노상 왕사로 하여 싫도록 놀며 다니거니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0390&viewSync=OT
+  footnotes: []
+english:
+  title: Setting Forth by Boat Toward Mount Emei on the Seventeenth Day of the Eighth Month
+  author: Lee Jae-hyeon
+  language: eng
+  text: |-
+    White clouds drift over the brocade river in autumn.
+    I descend the wine tower, my farewell song echoing still.
+    A scarlet banner flutters and dances in the wind,
+    While oars dip gently, and the river flows on.
+
+    Rain drives the young cattle back to the fishing lodge,
+    Waves carry the gulls near to my boat.
+    Who says a scholar's fortune must be poor?
+    Through my lord's affairs, I feast on these waters without end.
+  footnotes:
+  - key: ''
+    value: The 'brocade river' (錦江) refers to the Jinjiang River in Sichuan, a tributary of the Yangtze. The name evokes its silken beauty.
+  - key: ''
+    value: The 'farewell song' alludes to the classical tradition of parting songs, particularly the 'Song of Separation' (離別曲), evoking both melancholy and noble departure.
+  - key: ''
+    value: The poem celebrates how bureaucratic duty, rather than limiting the poet's freedom, paradoxically grants him access to natural beauty and refined leisure—a sophisticated reversal of the conventional scholarly lament.

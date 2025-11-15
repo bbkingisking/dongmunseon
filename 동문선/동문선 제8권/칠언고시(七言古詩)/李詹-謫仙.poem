@@ -1,0 +1,63 @@
+canonical:
+  title: 謫仙
+  author: 李詹
+  language: lzh
+  text: 太白飄然謫夜郞長安故人消息絶梨園不奏淸平詞沉香百花香色歇知音獨有杜草堂夢中見之夢中別風吹羽翼天網恢錦袍坐弄水底月醉中俯仰度春秋萱花柳絮白如雪濯纓才罷好歸來江湖風波不堪說
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謫仙
+  author: 李詹
+  language: lzh
+  text: 太白飄然謫夜郞。長安故人消息絶。梨園不奏淸平詞。沉香百花香色歇。知音獨有杜草堂。夢中見之夢中別。風吹羽翼天網恢。錦袍坐弄水底月。醉中俯仰度春秋。萱花柳絮白如雪。濯纓才罷好歸來。江湖風波不堪說。
+korean:
+  title: 적선
+  author: 이첨
+  language: kor
+  text: |-
+    이태백이 멀리 야랑으로 귀양가니
+    장안의 친구들 소식 끊어졌네
+    이원에서 아뢰는 청평사 들을 수 없어
+    침향정의 온갖 꽃도 향내가 멎고
+    지음은 오직 두보 한 분
+    꿈에 만나 꿈에 작별하였지
+    바람이 날개에 불고 하늘 그물 넓어서
+    궁금포 입고 앉아 물 속의 달을 희롱하며
+    취한 가운데 봄 가을 보내니
+    갈꽃, 버들개지 눈처럼 희더니라
+    갓끈 씻기 끝나거든 좋이 돌아오소
+    강호의 모진 풍파가 이루 말할 수 없으니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이태백(李太白)이 …… 귀양가니 : '
+    value: 이백(李白)으로, 역적(逆賊)  영왕(永王) 인(璘)의 부하로 있었으므로, 인이 패한 뒤에 야랑(夜郞)으로 귀양갔다.
+  - key: '[주-D002] 바람이 …… 불고 : '
+    value: 두보의, “이백을 꿈에 보다[夢李白]”라는 시에, “그대 지금 그물 속에 갇혀 있는데 어찌 새 날개를 가졌는고.” 하는 구절이 있다.
+  - key: '[주-D003] 그물 넓어서 : '
+    value: “누가 그물이 넓다 일렀는가, 늘그막에 몸이 되려 누를 입었구나[孰云網恢 將老身反累].” 여기서는 이백이 귀양살이중에서도 취해 놀 수 있었다는 말이다.
+  - key: '[주-D004] 갓끈 씻기 : '
+    value: 굴원(屈原)이 쫓겨나서 지은 〈어부사(漁父辭)〉에 있는데, 여기서는 귀양살이에서 풀려 오란 뜻으로 “갓끈 씻기 끝나거든” 하였다.
+english:
+  title: The Banished Immortal
+  author: Lee Cham
+  language: eng
+  text: |-
+    Li Bai drifts away, exiled to Night Garrison.
+    The friends of Chang'an fade into silence.
+    No more the Pear Garden's pure melodies.
+    Even the incense of a hundred flowers grows stale.
+    Only Du Fu knows him—
+    met in dreams, parted in dreams.
+    Wind sweeps his wings as heaven's net widens.
+    In brocade robes he sits, playing with the moon in water.
+    Drunk, he watches spring and autumn pass.
+    Reed blossoms, willow catkins white as snow.
+    When your cap-strings are finally rinsed clean, come home at last.
+    The treacherous waves of rivers and lakes—there is no end to their tale.
+  footnotes:
+  - key: ''
+    value: Li Bai (the 'white immortal') was exiled to Night Garrison after serving the rebel prince Yongwang; the poem plays on his reputation for both tragic exile and drunken reverie.
+  - key: ''
+    value: The image of wind sweeping wings alludes to Du Fu's dream poem about Li Bai, which asks how the poet can have bird-wings while trapped in heaven's net—here suggesting Li Bai's spiritual freedom despite his banishment.
+  - key: ''
+    value: '''Rinsing the cap-strings'' echoes Qu Yuan''s ''Song of the Fisherman,'' a classical symbol of release from exile and suffering.'

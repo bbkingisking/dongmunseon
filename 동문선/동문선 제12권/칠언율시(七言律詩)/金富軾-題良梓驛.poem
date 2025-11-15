@@ -1,0 +1,45 @@
+canonical:
+  title: 題良梓驛
+  author: 金富軾
+  language: lzh
+  text: 萬里江南人未歸此中愁緖足堪悲門前枯草秋霜後䆫外寒山夕照時貧吏畏人如虺蜴虛堂無主有狐狸褒城古事無人問唯有漁樵動所思
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題良梓驛
+  author: 金富軾
+  language: lzh
+  text: 萬里江南人未歸。此中愁緖足堪悲。門前枯草秋霜後。䆫外寒山夕照時。貧吏畏人如虺蜴。虛堂無主有狐狸。褒城古事無人問。唯有漁樵動所思。
+korean:
+  title: 제 양재역
+  author: 김부식
+  language: kor
+  text: |-
+    만리 강남에 간 임 아직 안 돌아오니
+    이 가운데 슬픔이야 얼마나 구슬픈고
+    문 앞엔 가을 서리 맞아 풀이 시들었고
+    석양 비낀 적에 창밖의 찬 산
+    가난한 아전은 사람을 뱀처럼 무서워하고
+    빈 집에 주인 없고 여우ㆍ살기만 있구나
+    포성 옛 일을 아무도 묻는 이 없고
+    어부와 나무꾼들만 내 생각을 흔드네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0500&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 양재역(良梓驛) : '
+    value: 과천현(果川縣) 동쪽 15리에 있고, 김극기(金克己)의 시운(詩韻)을 차운(次韻)한 것이다. 《여지승람》
+english:
+  title: At the Yangja Waystation
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Ten thousand miles away, the traveler from the south has not returned.
+    In this place, sorrow enough to break the heart.
+    Before the gate, withered grass bows to autumn frost.
+    Beyond the window, cold mountains glow in the fading light.
+    The poor official fears men like a serpent fears touch.
+    The empty hall has no master, only foxes and badgers prowling.
+    Who asks of Baocheng's ancient tales?
+    Only fishermen and woodcutters stir the depths of my thought.
+  footnotes:
+  - key: ''
+    value: Yangja Waystation was located fifteen li east of Gwacheon County. This poem was written as a matching response to a poem by Kim Geuk-gi.

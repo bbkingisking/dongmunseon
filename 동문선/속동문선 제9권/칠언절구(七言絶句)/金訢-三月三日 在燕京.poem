@@ -1,0 +1,37 @@
+canonical:
+  title: 三月三日 在燕京
+  author: 金訢
+  language: lzh
+  text: 才經百五又三三客裏那堪歲月淹且趁良辰沽美酒杏花西畔颺靑帘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 三月三日 在燕京
+  author: 金訢
+  language: lzh
+  text: 才經百五又三三。客裏那堪歲月淹。且趁良辰沽美酒。杏花西畔颺靑帘。
+korean:
+  title: 삼월삼일 재연경
+  author: 김흔
+  language: kor
+  text: |-
+    비로소 백오와 삼삼을 지내거니
+    객지에서 세월 가는 것을 어찌 견디리
+    우선 좋은 때를 따라 맛좋은 술을 살꺼나
+    살구꽃 핀 서쪽언덜에 청렴이 나부낀다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0870&viewSync=OT
+  footnotes: []
+english:
+  title: Third Day of the Third Month in Yanjing
+  author: Kim Hyun
+  language: eng
+  text: |-
+    Spring has passed through its hundred and five days, now three more three—
+    How can I bear the years slipping away in foreign lands?
+    Let me seize this perfect moment and buy fine wine,
+    While green curtains flutter in the western corner where apricot blossoms bloom.
+  footnotes:
+  - key: ''
+    value: The 'hundred and five' (백오) refers to the 105th day after winter solstice, marking the Cold Food Festival, a traditional time of remembrance. The poet juxtaposes this passage of time with the present third day of the third month, emphasizing the swift turning of seasons.
+  - key: ''
+    value: The image of the green curtain (청렴) fluttering among apricot blossoms suggests a tavern or wine house, a refuge for the homesick traveler seeking solace and connection in a distant capital.

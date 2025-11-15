@@ -1,0 +1,37 @@
+canonical:
+  title: 通達驛
+  author: 金克己
+  language: lzh
+  text: 煙楊窣地拂金絲幾被行人贈別離林外一蟬諳客恨曳聲來上夕陽枝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 通達驛
+  author: 金克己
+  language: lzh
+  text: 煙楊窣地拂金絲。幾被行人贈別離。林外一蟬諳客恨。曳聲來上夕陽枝。
+korean:
+  title: 통달역
+  author: 김극기
+  language: kor
+  text: |-
+    내 끼인 버들 땅을 쓸며 금실을 흔드니
+    몇 번이나 가는 사람 이별에 선사되었노
+    수풀 밖의 한 매미 손의 한을 알아서
+    긴 소리를 내면서 석양 가지 위에 오르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0820&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 몇 번이나 …… 선사되었노 : '
+    value: 옛날 중국의 풍속에 정든 사람이 서로 작별할 때에는 버들가지를 꺾어서 서로 주었다.
+english:
+  title: Tongdal Station
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Willows drift smoke, sweeping the earth, brushing gold threads—
+    how many times have they been given to parting travelers?
+    Beyond the grove, a cicada understands the traveler's sorrow,
+    and draws its long cry up into the branches of the setting sun.
+  footnotes:
+  - key: ''
+    value: In ancient Chinese custom, when parting from loved ones, travelers would break willow branches to exchange as a farewell gift.

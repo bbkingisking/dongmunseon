@@ -1,0 +1,49 @@
+canonical:
+  title: 朴按廉使
+  author: 釋圓鑑
+  language: lzh
+  text: 湖上靑山山上樓美名長與水同流傍洲沙店排蝸殼逐浪風船舞鷁頭桑柘煙深千里暮芰荷花老一江秋落霞孤猶陳語故作新詩記勝遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 朴按廉使
+  author: 釋圓鑑
+  language: lzh
+  text: 湖上靑山山上樓。美名長與水同流。傍洲沙店排蝸殼。逐浪風船舞鷁頭。桑柘煙深千里暮。芰荷花老一江秋。落霞孤猶陳語。故作新詩記勝遊。
+korean:
+  title: 박안렴사
+  author: 석원감
+  language: kor
+  text: |-
+    호수 위에 푸른 산, 산 위에 누각일세
+    아름다운 이름이 물과 함께 흐르네
+    모래톱 주막들은 달팽이 껍질 올망졸망
+    물결 쫓는 배들은 익새 머리 너울너울
+    뽕 밭에 연기는 깊어 천리 벌에 해 저물고
+    연꽃이 이울었으니 강이 온통 가을일세
+    떨어지는 놀 외 따오기는 오히려 묵은 말
+    내 짐짓 새 시를 지어 승유를 기념하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 익새[鷁] : '
+    value: 익새[鷁]를 돛대 끝에 만들어 다는데, 그것은 바람을 잘 탄다는 뜻이다.
+  - key: '[주-D002] 떨어지는 놀 외 따오기 : '
+    value: 당(唐)나라 왕발(王勃)의 등왕각서(縢王閣序) 중의 경구(警句), “떨어지는 놀은 외 따오기와 가지런히 날고, 가을 물은 긴 하늘과 한 빛일세[落霞與孤鶩齊飛 秋水共長天一色].” 하였다.
+english:
+  title: On Inspector Park An
+  author: Seok Wongam
+  language: eng
+  text: |-
+    Green mountains rise above the lake, and towers crown the peaks.
+    A beauty's name flows eternal with the water's course.
+    Along the sandbars, taverns cluster like snail shells scattered.
+    Boats pursuing the waves dance with phoenix heads held high.
+    Smoke from mulberry fields deepens as dusk falls across a thousand leagues.
+    The lotus fades—the river becomes autumn in all its glory.
+    Falling clouds and solitary birds sing old familiar verses,
+    Yet I compose these new lines to honor your noble journey.
+  footnotes:
+  - key: ''
+    value: The 'phoenix head' (鷁) refers to ornamental bird figurines affixed to boat masts, believed to catch favorable winds.
+  - key: ''
+    value: 'The image of ''falling clouds and solitary birds'' alludes to the famous couplet from Wang Bo''s ''Preface to the Pavilion of Prince Teng'': ''Falling clouds and lone geese fly together; autumn waters and the vast sky share one color''—here transformed to create something fresh from the classical.'

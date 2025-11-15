@@ -1,0 +1,45 @@
+canonical:
+  title: 地僻
+  author: 金時習
+  language: lzh
+  text: 地僻無人事春情惻惻寒風搖千尺樹雲過萬重山歲月常沉疾年華少展顔誰知潘岳鬢愁至最先斑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 地僻
+  author: 金時習
+  language: lzh
+  text: 地僻無人事。春情惻惻寒。風搖千尺樹。雲過萬重山。歲月常沉疾。年華少展顔。誰知潘岳鬢。愁至最先斑。
+korean:
+  title: 지벽
+  author: 김시습
+  language: kor
+  text: |-
+    땅이 궁벽하여 사람 일이 없는데
+    봄철의 정서만이 가엾게 차다
+    바람은 천 척 높은 나무 흔들고
+    구름은 만겹으로 싸인 산을 지난다
+    세월은 항상 침침하고 빠른데
+    연화는 언제나 얼굴 펴는 일 적다
+    누가 알려나, 저 반악의 살쩍은
+    근심이 오면 가장 먼저 희는 줄을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 반악(潘岳) : '
+    value: 진(晉)나라 사람으로 인물이 잘나서 풍채 좋기로 유명하였는데, 그는 32세에 귀밑머리가 세기 시작하였다 한다.
+english:
+  title: The Remote Land
+  author: Kim Sibyeok
+  language: eng
+  text: |-
+    In this remote land where human affairs fade,
+    Spring's tender sorrow weighs heavy and cold.
+    The wind stirs the thousand-foot trees,
+    Clouds drift past mountains of ten thousand folds.
+    Years slip away in perpetual gloom,
+    And youth shows its face so rarely.
+    Who knows that Pan Yue's dark locks
+    Are the first to silver when sorrow arrives?
+  footnotes:
+  - key: ''
+    value: Pan Yue (潘岳) was a celebrated scholar of the Jin Dynasty, renowned for his handsome bearing. Yet even he began to gray at his temples by age thirty-two—a classical reference to the swift passage of youth and the inevitable marks of age and sorrow.

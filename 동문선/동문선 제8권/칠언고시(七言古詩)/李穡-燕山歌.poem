@@ -1,0 +1,83 @@
+canonical:
+  title: 燕山歌
+  author: 李穡
+  language: lzh
+  text: 燕山之陽雲如堆龍飛鳳舞源源來長城中斷居庸關春風秋月軒轅臺昭王一去亦已矣黃金千載空塵埃天旋地轉光嶽合土圭日影明堂開四方漕廥蓄山海萬國玉帛馳風雷吾聞在德不在險傳世百萬何疑哉秦皇唐明共一轍不是驪山爲禍胎臨風獨立意蒼莾日暮車馬爭喧豗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 燕山歌
+  author: 李穡
+  language: lzh
+  text: 燕山之陽雲如堆。龍飛鳳舞源源來。長城中斷居庸關。春風秋月軒轅臺。昭王一去亦已矣。黃金千載空塵埃。天旋地轉光嶽合。土圭日影明堂開。四方漕廥蓄山海。萬國玉帛馳風雷。吾聞在德不在險。傳世百萬何疑哉。秦皇唐明共一轍。不是驪山爲禍胎。臨風獨立意蒼莾。日暮車馬爭喧豗。
+korean:
+  title: 연산의 노래
+  author: 이색
+  language: kor
+  text: |-
+    연산 북쪽에 구름이 무더기로 쌓인 듯
+    용이 날고 봉이 춤추듯 산세 멀리서 왔네
+    만리장성 중단된 곳이 거용관이요
+    봄바람 가을 달에 헌원대로다
+    연소왕 한 번 가서 다시 오지 않으니
+    황금대가 천 년 동안 먼지 되고 말았네
+    하늘이 돌고 땅이 돌아 삼광ㆍ오악의 정기를 합하여
+    토규로 터를 잡고 명당을 열으시니
+    사방의 조운으로 산해의 산물이 쌓이고
+    만국의 옥백이 풍뢰처럼 달려오네
+    덕에 있고 험에 있지 않다는 말 내 들었거니
+    백만 세 누릴 것을 어이 의심할 것인가
+    진 시황ㆍ당 명황은 나라 잃기 다 같은데
+    여산만이 화의 장본된 것 아니로세
+    바람 앞에 홀로 서니 내 뜻이 창망한데
+    저문 날 수레와 말들이 왁자지껄하누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 연산(燕山) : '
+    value: 하북성 계현(薊縣) 서남에 있는 산.
+  - key: '[주-D002] 거용관(居庸關) : '
+    value: 하북성 창평현(昌平縣) 서북에 있는 거용산 중의 요새(要塞) 관문.
+  - key: '[주-D003] 헌원대(軒轅臺) : '
+    value: 황제(黃帝)가 살았었다는 헌원구(軒轅丘)에 쌓았던 대(臺)인데, 지금 하남성 신정현(新鄭縣) 서북에 있다.
+  - key: '[주-D004] 연소왕(燕昭王) : '
+    value: 전국(戰國)의 연(燕)나라 끝 왕. 당시 연나라가 제(齊)나라에 격파되었으므로 천하의 현사(賢士)들을 후례(厚禮)로 초빙하여 국정을 쇄신하고 제나라를 되 공략(攻略)하여 연나라가 다시 강성해졌다.
+  - key: '[주-D005] 황금대(黃金臺) : '
+    value: 대(臺) 이름인데, 연 소왕(燕昭王)이 천하의 현사(賢士)들을 맞아들이고자 만들어 놓고 그 위에 황금을 높이 쌓았었다. 지금도 뒷사람이 쌓은 대가 있어 연경팔경(燕京八景)의 하나인 금대석조(金臺夕照)로 유명하다.
+  - key: '[주-D006] 삼광(三光)ㆍ오악(五岳)의 정기 : '
+    value: 삼광(三光)은 천상의 일(日)ㆍ월(月)ㆍ성(星)이요, 오악(五岳)은 동악 태산(東岳泰山)ㆍ서악 화산(華山)ㆍ남악 형산(衡山)ㆍ북악 항산(恒山)ㆍ중악 숭산(崇山)이다.
+  - key: '[주-D007] 토규(土圭) : '
+    value: 옛날 주(周)나라 때에, 땅의 깊이를 재고 해의 그림자를 분변하던[測土深 正日景] 그릇이다.
+  - key: '[주-D008] 덕(德)에 …… 않다 : '
+    value: 전국 때 위 문후(魏文侯)가 제나라의 산하(山河)가 견고함을 자랑한데 대하여 오기(吳起)가 경계한 말이다. 나라를 지킴이 임금의 덕에 있는 것이지 산하가 험하여 지리적으로 좋은 형세에 있지 않다는 말.
+english:
+  title: Song of Yanshan
+  author: Lee Suk
+  language: eng
+  text: |-
+    North of Yanshan, clouds pile high like mountains.
+    Dragons soar and phoenixes dance as the ridges come from afar.
+    Where the Great Wall breaks stands the Ju-yong Pass,
+    And Xuanyuan's terrace greets the spring wind and autumn moon.
+    Yanzhao the King departed once, never to return—
+    The Golden Terrace turned to dust through a thousand years.
+    Heaven spins and earth revolves, gathering the essence of sun and stars,
+    The soil-gauge marks the ground, and the Hall of Light opens.
+    Granaries from four directions store the wealth of mountains and seas,
+    The jade and silk of ten thousand lands rush in like wind and thunder.
+    I have heard that empires rest on virtue, not on walls—
+    Why doubt that such kingdoms shall endure a million ages?
+    Qin's First Emperor and Tang's Ming Emperor met the same fate:
+    Neither Lishan's curse alone brought dynasties to ruin.
+    Standing alone before the wind, my thoughts grow vast and vague,
+    While at dusk the carriages and horses clamor in the gathering dusk.
+  footnotes:
+  - key: ''
+    value: 'Yanshan: A mountain in what is now Hebei Province, near Beijing, historically central to the state of Yan.'
+  - key: ''
+    value: 'Xuanyuan''s Terrace: Named after the legendary Yellow Emperor; a site associated with ancient wisdom and sovereignty.'
+  - key: ''
+    value: 'Yanzhao the King: A ruler of the ancient state of Yan who brought forth talented scholars through generous patronage, here representing past glory now lost.'
+  - key: ''
+    value: 'The Golden Terrace: Built by Yanzhao to attract worthy ministers; its decline symbolizes the transience of kingdoms.'
+  - key: ''
+    value: The poet alludes to the Warring States doctrine that a nation's strength derives from virtuous leadership, not from geographical fortifications alone.

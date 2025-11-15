@@ -1,0 +1,47 @@
+canonical:
+  title: 無題
+  author: 無名氏
+  language: lzh
+  text: 重陽好時節山水江南絶萬里無纖雲扁舟弄明月行尋群玉峯偶入蘆花雪夜深欲歸歟棹歌悲復咽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無題
+  author: 無名氏
+  language: lzh
+  text: 重陽好時節。山水江南絶。萬里無纖雲。扁舟弄明月。行尋群玉峯。偶入蘆花雪。夜深欲歸歟。棹歌悲復咽。
+korean:
+  title: 무제
+  author: 무명씨
+  language: kor
+  text: |-
+    중양은 좋은 시절
+    산수는 강남에서 절경이라
+    만리에 구름 한 점 없고
+    작은 배로 밝은 달을 희롱한다
+    군옥봉을 찾아 갔다가
+    우연히 갈대 꽃 눈 속으로 들어갔다
+    밤이 깊어서 돌아 가려 하니
+    돛대 노래 슬프고 또 목메이는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: Untitled
+  language: eng
+  text: |-
+    Autumn's Double Ninth arrives, that finest season—
+    The waters and mountains of Jiangnan shine with beauty beyond compare.
+    Across ten thousand leagues, not a wisp of cloud mars the sky.
+    In my small boat, I tease the bright moon with my paddle.
+
+    Searching for the Jade Peaks among the gathering peaks,
+    I wander by chance into reeds like snow blossoms.
+    When deep night falls and I think to turn homeward,
+    My boatman's song grows sorrowful, his voice catches and breaks.
+  footnotes:
+  - key: ''
+    value: The Double Ninth Festival (重陽), celebrated on the ninth day of the ninth lunar month, was traditionally associated with autumn contemplation and was a favorite theme in East Asian poetry.
+  - key: ''
+    value: The Jade Peaks (群玉峯) likely refers to a legendary or idealized mountain landscape, representing the poet's spiritual quest or journey through nature.
+  - key: ''
+    value: The image of reeds like snow blossoms suggests a transition from the beauty of autumn travel into a more melancholic, introspective moment.

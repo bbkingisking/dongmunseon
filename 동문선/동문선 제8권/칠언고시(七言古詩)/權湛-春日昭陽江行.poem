@@ -1,0 +1,103 @@
+canonical:
+  title: 春日昭陽江行
+  author: 權湛
+  language: lzh
+  text: 十里江村桑柘烟一江踈雨暮春天昭陽亭在畫圖裏氣槩蒼茫一望前女佩傾筐尋野菜誰驅瘦馬搖征鞭楊花漫漫飛古渡草色萋萋連淸川天低野闊白雲遠騷人遷客眼潸然我來此地鬢生白昭陽江月幾度絃浮生忽忽逝日夜水流花謝又一年少年此手未調梅異鄕空抱欝欝懷昭陽誰噵歌舞地池亭牢落生春苔我本踈慵物外者愛此形勝每往迴敎授洪公亦吾輩共倒春風三兩盃未用強顔隨世俗悠悠碌碌趍風埃大器由來當晚用此身未必老草萊他日風雲魚水會應念昭陽多寂寞寄語州人須着眼我亦當年紫薇客
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春日昭陽江行
+  author: 權湛
+  language: lzh
+  text: 十里江村桑柘烟。一江踈雨暮春天。昭陽亭在畫圖裏。氣槩蒼茫一望前。女佩傾筐尋野菜。誰驅瘦馬搖征鞭。楊花漫漫飛古渡。草色萋萋連淸川。天低野闊白雲遠。騷人遷客眼潸然。我來此地鬢生白。昭陽江月幾度絃。浮生忽忽逝日夜。水流花謝又一年。少年此手未調梅。異鄕空抱欝欝懷。昭陽誰噵歌舞地。池亭牢落生春苔。我本踈慵物外者。愛此形勝每往迴。敎授洪公亦吾輩。共倒春風三兩盃。未用強顔隨世俗。悠悠碌碌趍風埃。大器由來當晚用。此身未必老草萊。他日風雲魚水會。應念昭陽多寂寞。寄語州人須着眼。我亦當年紫薇客。
+korean:
+  title: 춘일 소양강행
+  author: 권담
+  language: kor
+  text: |-
+    10리 강 마을 뽕나무에 어린 연기
+    한 강 성긴 비에 늦은 봄 날씨
+    소양정이 사뭇 그림인 양
+    바라보니 기개가 창망하구나
+    여인은 광우리 들고 나물을 찾는데
+    누가 여윈 말을 몰아 채찍을 흔드는고
+    버들개지 물가에 팔팔
+    풀은 맑은 내에 더북더북 이었는데
+    낮은 하늘 넓은 들 멀리 뵈는 흰 구름
+    귀양온 사람들 눈물이 주루루
+    내가 이곳에 와서 살쩍이 희었는데
+    소양강 달은 몇 번이나 이지러졌는지
+    세월이 얼른얼른 주야로 흘러가니
+    물이 가고 꽃이 져 또 1년이 되었구나
+    젊어서 이 손이 매실 조리 아직 못 해
+    타향에서 부질없이 답답한 회포
+    소양을 누가 가무 고장이라 일렀던고
+    강가 정자에는 봄 이끼만 돋았는데
+    나는 본디 소용한 물외의 사람
+    이 승경을 좋아하여 번번이 와 노니네
+    교수 홍공도 우리네의 동지
+    봄바람에 함께 두세 잔을 기울이노니
+    구태여 억지로 세속을 따라서
+    녹록히 풍진에 분주해 무엇하리
+    큰 그릇은 원래 늦게야 쓰이거니
+    설마 이 몸이 초래에야 늙으리
+    후일 풍운에 고기와 물이 만나면
+    소양강 적막하던 일을 응당 회상하리
+    여보소, 이 고장 사람들아 눈여겨보아 주소
+    에헴, 나도 당년에 자미객이었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0460&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 매실(梅實) 조리(調理) : '
+    value: 은 고종(殷高宗)이 부열(傅說)을 정승으로 삼으면서, “만일 국맛을 맞춘다면 너는 소금이요 매실이니라[若作和羹 爾惟鹽梅].” 하였는데, 짠 소금과 신 매실(梅實)이 국의 조미료이므로 정승의 업의 뜻으로 쓰여진다.
+  - key: '[주-D002] 고기와 물 : '
+    value: 군신(君臣)이 의좋게 잘 만난 것을 고기가 물을 얻은 데 비유한다.
+  - key: '[주-D003] 자미객(紫薇客) : '
+    value: 중서성(中書省)의 관원(官員)을 말하는데, 서성의 당대(唐代) 아칭(雅稱)이 자미성(紫薇省)이다. 성 안에 자미를 많이 심었었다 한다.
+english:
+  title: A Journey on the Shaoyang River in Spring
+  author: Kwon Dam
+  language: eng
+  text: |-
+    Ten miles of river village, mulberry smoke drifts thin.
+    One river's scattered rain on late spring days.
+    Shaoyang Pavilion lies within a painted scroll—
+    Gazing forth, the spirit spreads vast and hazy.
+
+    Women with baskets tilted, seeking wild greens.
+    Who drives the lean horse, whipping reins in haste?
+    Willow catkins drift and scatter at the ancient ford.
+    Grass spreads thick and green along the clear stream.
+
+    The sky hangs low, the wilderness spreads wide,
+    White clouds distant—and tears fall from the eyes of exiles.
+    I came to this place and my temples turned white.
+    How many times has the Shaoyang moon waned?
+    Life rushes by, days and nights flowing away—
+    Water flows, flowers fade, and another year has passed.
+
+    In youth, these hands never learned to season the broth.
+    In foreign lands, I nurture a hollow, restless heart.
+    Who called Shaoyang the land of song and dance?
+    Now the riverside pavilion grows lonely with spring moss.
+
+    I was born a lazy man, apart from worldly things,
+    Yet I love this lovely place and often return.
+    Master Hong, our teacher, shares my temperament—
+    Together we tip spring wine, cup after cup.
+
+    Why force a false face to follow vulgar ways?
+    Why rush and labor in the dust of the world?
+    Great vessels are meant for use when time is ripe;
+    This body need not wither in obscurity.
+
+    One day when wind and cloud bring ruler and subject to meet,
+    Remember then the loneliness of Shaoyang.
+    People of this province, mark these words well—
+    I too was once a man of the imperial court.
+  footnotes:
+  - key: ''
+    value: The reference to 'seasoning the broth' alludes to the ancient sage Fu Shuo, who was elevated to prime minister with the metaphor that he would be like salt and plum to season the state's affairs—suggesting unfulfilled potential for service.
+  - key: ''
+    value: The meeting of 'wind and cloud' bringing 'ruler and subject to meet' uses the classical image of fish finding water to represent the harmony of a well-matched ruler and minister.
+  - key: ''
+    value: The 'imperial court' (紫薇客) refers specifically to officials of the Chancellery, whose headquarters was said to have many lilac trees planted within it.

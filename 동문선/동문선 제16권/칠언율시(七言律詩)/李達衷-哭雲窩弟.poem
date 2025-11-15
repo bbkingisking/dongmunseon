@@ -1,0 +1,49 @@
+canonical:
+  title: 哭雲窩弟
+  author: 李達衷
+  language: lzh
+  text: 三李蟠根赫葉光我家兄弟襲餘芳愧予體短才尤短恨爾身長壽不長白髮何忘共姜被靑燈無復對蘇床可憐妻子鄕關阻吾爲存亡倍斷膓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 哭雲窩弟
+  author: 李達衷
+  language: lzh
+  text: 三李蟠根赫葉光。我家兄弟襲餘芳。愧予體短才尤短。恨爾身長壽不長。白髮何忘共姜被。靑燈無復對蘇床。可憐妻子鄕關阻。吾爲存亡倍斷膓。
+korean:
+  title: 곡 운와제
+  author: 이달충
+  language: kor
+  text: |-
+    세 오얏이 뿌리 뻗어 여러 대로 빛났는데
+    우리집 형제들 가문의 빛을 이었었네
+    나는 몸도 짧고 재주도 짧았지만
+    너는 키도 큰데 목숨이 왜 못 길었느냐
+    백발로 내 어이 강굉의 이불 잊으리
+    청등에 다시 소씨의 상을 대할 길이 없구나
+    아아 처자들 고향에 길이 막혔으니
+    산 사람 죽은 이 위하여 나는 갑절 애를 끊네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강굉(姜肱)의 이불 : '
+    value: 동한(東漢)  강굉(姜肱)이 아우 중해(仲海)ㆍ계강(季江)과 우애가 끔찍하여 늘 같은 이불을 덮고 잤다.
+  - key: '[주-D002] 소씨(蘇氏)의 상(床) : '
+    value: 송(宋) 소식(蘇軾)이 아우 철(轍)에게 부치는 시(詩)에, “밤 깊어 꿈의 혼이 먼저 날아가느니, 풍우에 상을 대하여 새벽 종을 들으리.[夜深魂夢先飛去 風雨對床聞曉鍾]”란 구절이 있다.
+english:
+  title: Lament for Brother Yunwo
+  author: Lee Dalchoong
+  language: eng
+  text: |-
+    Three plums spread their roots through generations, their brightness enduring—
+    my family's brothers have inherited this ancestral glory.
+    Though my body is slight and my talents slighter still,
+    why must yours, though tall, fall short of long life?
+    White-haired, how can I forget the quilts we shared as brothers?
+    The blue lamp no longer illuminates the bed where we once sat together.
+    Alas, your wife and children are stranded far from home—
+    for their sake and yours, my heart breaks doubly.
+  footnotes:
+  - key: ''
+    value: The reference to the quilt alludes to the Eastern Han brothers Jiang Gong, Jiang Zhonghai, and Jiang Jixiang, who were so devoted to one another that they always slept under the same blanket.
+  - key: ''
+    value: The image of the bed relates to Su Shi's poem to his younger brother, where he writes of dreams that flee in the night and waking to hear the dawn bell while sitting in the wind and rain—a symbol of fraternal separation and longing.

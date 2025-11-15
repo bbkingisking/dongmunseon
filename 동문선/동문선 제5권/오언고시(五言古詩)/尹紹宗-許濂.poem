@@ -1,0 +1,66 @@
+canonical:
+  title: 許濂
+  author: 尹紹宗
+  language: lzh
+  text: 堯舜去我遠宣尼留末由西胡敎彌天聖學於何求蠹敗幾人國靦然不少羞我欲秉大阿驅除出九幽坐令四海民刮目見虞周難以語外人幸有君同憂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 許濂
+  author: 尹紹宗
+  language: lzh
+  text: 堯舜去我遠。宣尼留末由。西胡敎彌天。聖學於何求。蠹敗幾人國。靦然不少羞。我欲秉大阿。驅除出九幽。坐令四海民。刮目見虞周。難以語外人。幸有君同憂。
+korean:
+  title: 허렴
+  author: 윤소종
+  language: kor
+  text: |-
+    요순은 멀리 갔고
+    공자는 이 세상에 오래 머물 길 없었네
+    서쪽 오랑캐의 교[佛敎]가 하늘에 닿았으니
+    성인의 학문을 어디서 구하리
+    몇 사람의 나라를 좀 먹었는가
+    뻔뻔하구나, 조금도 부끄러워 하지 않네
+    내 이제 태아검(이름난 칼)을 잡아
+    구유(깊은 땅 밑) 밖으로 그들을 몰아내어
+    가만히 앉아서 사해 백성으로 하여금
+    눈을 비비고 우주의 세상을 보게 하리라
+    바깥사람에게 말하기는 어렵고
+    다행히 그대 있어 함께 근심하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0350&viewSync=OT
+  footnotes: []
+english:
+  title: Heo Ryeom
+  author: Yun Sojong
+  language: eng
+  text: |-
+    Yao and Shun have passed into distant memory,
+    Confucius could not linger long in this world.
+    Western barbarian teachings touch the heavens—
+    where shall we seek the wisdom of the sages?
+
+    They have gnawed away at kingdoms, worn them down,
+    yet stand shameless, without a trace of guilt.
+    Now I would seize the great blade,
+    and drive them forth from the deepest darkness below,
+    then sitting still, let the people of the four seas
+    rub their eyes and see the world anew—
+    the age of Yu and Zhou restored.
+
+    Yet this is hard to speak of to the world outside;
+    fortune that you walk this path of worry with me.
+  footnotes:
+  - key: ''
+    value: 'Yao and Shun: legendary sage-kings of ancient China, representing the golden age of virtuous rule'
+  - key: ''
+    value: 'Confucius: the founder of Confucianism, whose teachings the author sees as the true path'
+  - key: ''
+    value: 'Western barbarian teachings: Buddhism, viewed here as a corrupting foreign influence'
+  - key: ''
+    value: 'The great blade: a metaphor for righteous action and restoration of proper order'
+  - key: ''
+    value: 'Nine depths/deepest darkness: the underworld or depths of ignorance and corruption'
+  - key: ''
+    value: 'Four seas: a classical expression for all the lands of the world'
+  - key: ''
+    value: 'Yu and Zhou: references to the legendary Xia dynasty and the Zhou dynasty, eras associated with virtuous governance'

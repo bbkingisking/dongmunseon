@@ -1,0 +1,70 @@
+canonical:
+  title: 陶隱李諫議自誦省中述懷用其韻以戱李公爲門下舍人時事
+  author: 鄭樞
+  language: lzh
+  text: 屈己從人氣未伸若敎更事定無嗔不爲俯仰多乖岸不愛當年李舍人賈誼治安謀策新當年或毁議非眞嘐嘐喜作書生論不愛當年李舍人滿腹琅玕六尺身錦囊千首粉垣春好從花底留人醉最愛當年李舍人花月娟娟照北宸傳呼中夜命詞臣揮毫落紙驚風雨最愛當年李舍人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陶隱李諫議自誦省中述懷用其韻以戱李公爲門下舍人時事
+  author: 鄭樞
+  language: lzh
+  text: 屈己從人氣未伸。若敎更事定無嗔。不爲俯仰多乖岸。不愛當年李舍人。賈誼治安謀策新。當年或毁議非眞。嘐嘐喜作書生論。不愛當年李舍人。滿腹琅玕六尺身。錦囊千首粉垣春。好從花底留人醉。最愛當年李舍人。花月娟娟照北宸。傳呼中夜命詞臣。揮毫落紙驚風雨。最愛當年李舍人。
+korean:
+  title: 도은 이간의가 자신이 지은 성중 술회의 시를 외우기에 그 운으로 이공이 문하사인이 되었을 때의 일을 희롱하며
+  author: 정추
+  language: kor
+  text: |-
+    나를 굽혀 남을 좇으면 기운을 펴지 못하나니
+    만일 〈세상〉일을 많이 겪었더라면 결코 성냄이 없을 것을
+    남의 비위 맞추지 못하고 괴팍함이 많았으니
+    그 당시의 이사인을 사랑하지 않노라
+    가의의 치안책이 새로웠기 때문에
+    그 때에는 혹 실상이 없다고 헐뜯었었다
+    효효히 서생론 짓기를 즐겨했나니
+    당시의 이사인을 사랑하지 않노라
+    낭간이 뱃속에 가득한 여섯 자 몸인데
+    비단 주머니의 그 숱한 시로 한림원의 봄을 단장하면서
+    꽃 밑에서 사람을 붙들어 취하게 하기를 좋아했나니
+    그 당시의 이사인을 가장 사랑하노라
+    꽃과 달이 곱고 고와 북신을 비추었기에
+    밤중에도 불러들여 사신에 명령내리면
+    종이 위에 휘두르는 붓 바람 비를 놀래거니
+    그 당시의 이사인을 가장 사랑하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 가의(賈誼)의 치안책(治安策) : '
+    value: 한(漢)나라 문제(文帝) 때에 가의(賈誼)가 신진소년(新進少年)으로 치안책(治安策)을 올렸다. 대신들이 그를 서생(書生)이 시대에 맞지 않는 의논만 하는 사람이라고 헐뜯었다.
+  - key: '[주-D002] 효효(嘐嘐) : '
+    value: 이상(理想)이 높아서 옛 사람만 본받으려 한다는 뜻이다.
+  - key: '[주-D003] 낭간(琅玕) : '
+    value: 주옥(珠玉)의 일종인데, 여기서는 문장이 뱃속에 가득하다는 비유다.
+english:
+  title: 'On Master Lee, Who Became a Secretary in the Chancellery: A Playful Response in the Same Rhyme to Lee the Recluse''s Self-Recitation of His Reflections Written at Court'
+  author: Jeong Chu
+  language: eng
+  text: |-
+    When one bends and follows others, the spirit cannot fully unfold—
+    Yet had he weathered more of the world's ways, surely anger would not stain his heart.
+    For failing to smooth ruffled feathers, for stubbornness that grates,
+    I cannot love that Lee of yesteryear.
+
+    Jia Yi's strategies for order were fresh and new in conception,
+    Yet even then men slandered, claiming truth was not his foundation.
+    They caviled loudly like provincial scholars bound to dusty books,
+    I cannot love that Lee of yesteryear.
+
+    With precious jade filling his breast and six feet of frame,
+    Thousand poems in his silken purse adorning the spring gardens of the court—
+    He loves to linger beneath the flowers and keep men lingering in wine,
+    I cherish most that Lee of yesteryear.
+
+    When flowers and moon shine fair, illuminating the northern throne,
+    And in the deep night he summons forth the master of words,
+    His brush sweeps down upon the paper like wind that startles rain,
+    I cherish most that Lee of yesteryear.
+  footnotes:
+  - key: ''
+    value: Jia Yi was a brilliant Han Dynasty statesman whose reform proposals were dismissed by jealous ministers as the impractical idealism of a bookish youth. This poem uses his example to defend intellectual principle against worldly compromise.
+  - key: ''
+    value: 'The poem celebrates Lee the Recluse''s transition to court service, using a playful, paradoxical structure: the first two stanzas feign criticism before revealing genuine admiration in the final two.'

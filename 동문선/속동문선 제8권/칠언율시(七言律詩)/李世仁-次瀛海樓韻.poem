@@ -1,0 +1,46 @@
+canonical:
+  title: 次瀛海樓韻
+  author: 李世仁
+  language: lzh
+  text: 持節窮年滯海陬幾回吟倚最高樓雨餘晩照紅將斂天末遙山翠欲流客倦長途思穩睡鷗專曲渚任輕浮若爲粗報君恩了閑伴漁翁棹小舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次瀛海樓韻
+  author: 李世仁
+  language: lzh
+  text: 持節窮年滯海陬。幾回吟倚最高樓。雨餘晩照紅將斂。天末遙山翠欲流。客倦長途思穩睡。鷗專曲渚任輕浮。若爲粗報君恩了。閑伴漁翁棹小舟。
+korean:
+  title: 차 영해루운
+  author: 이세인
+  language: kor
+  text: |-
+    절을 가지고 해가 맞도록 바다 모퉁이에 머무르나니
+    몇 번이나 읊으면서 가장 눞은 다락에 기대었던가
+    비 뒤에 저녁 별은 붉은 빛이 거두어지려 하는데
+    하늘 끝의 먼 산은 푸른 빛이 흐르는 것 같구려
+    나그네는 먼 길에 지쳐 편히 자기를 생각하고
+    갈매기는 굽은 물가를 차지해 가벼이 뜨는 때일세
+    만일 조금이라도 임금의 은혜를 갚은 뒤엘랑
+    한가히 고기잡이 늙은이를 짝하여 작은 배를 저으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 절(節) : '
+    value: 임금의 사명(使命)을 띠고 나가는 사람을 절(節 깃발과 같은 것)을 가지고 있다.
+english:
+  title: In Response to the Rhyme of Yinghai Tower
+  author: Lee Se-in
+  language: eng
+  text: |
+    Bearing the emblem of office, I linger where the year meets the sea's remote corner.
+    How many times have I leaned upon the highest tower, composing verses?
+    After the rain, evening's glow reddens and begins to fade,
+    While distant mountains at the world's edge seem to flow with green.
+
+    Weary from long travels, the wanderer dreams of peaceful sleep,
+    As gulls hold the twisted shore, drifting light and free.
+    If I might repay, even slightly, the sovereign's grace,
+    Then in leisure I would row a small boat with an old fisherman.
+  footnotes:
+  - key: ''
+    value: The 'emblem of office' refers to the official credentials or insignia carried by an envoy on a diplomatic mission, symbolizing imperial authority and trust.

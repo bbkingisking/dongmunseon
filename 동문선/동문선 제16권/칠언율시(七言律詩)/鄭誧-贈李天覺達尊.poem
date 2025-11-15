@@ -1,0 +1,62 @@
+canonical:
+  title: 贈李天覺達尊
+  author: 鄭誧
+  language: lzh
+  text: 萬事隨時各有宜仕齊操瑟豈非癡平生恥與噲等伍後世必有楊雄知刻鵠不成猶有類屠龍雖妙竟何施如今更信儒冠誤不忍乘酣廢我詩 自註時罷科擧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈李天覺達尊
+  author: 鄭誧
+  language: lzh
+  text: 萬事隨時各有宜。仕齊操瑟豈非癡。平生恥與噲等伍。後世必有楊雄知。刻鵠不成猶有類。屠龍雖妙竟何施。如今更信儒冠誤。不忍乘酣廢我詩。 自註。時罷科擧。
+korean:
+  title: 증 이천각 달존
+  author: 정포
+  language: kor
+  text: |-
+    만사가 때를 따라 알맞음이 다르거니
+    제왕 앞에 비파 탐이 어리석지 않으리
+    평생에 번쾌 따위와 같이 서기 부끄러워하네
+    후세에 반드시 또 양웅 있어 알아주리
+    따오기를 새기면 안 되어도 비슷하거니와
+    용을 잡기는 능숙한들 어디에다 쓰리
+    지금엔 유관이 신세를 그르쳤지만
+    내 차마 거나한 중에 시를 폐하지 않으리
+    이즈음 자주 과거를 폐지했다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 제왕(齊王) 앞에 비파 탐이 : '
+    value: 제왕(齊王)이 비파를 싫어하는데, 제나라에 벼슬하려는 사람이 비파를 가지고 문에 서 있는 지 3년이 되어도 들어가지 못했다. 객이 꾸짖기를, “왕은 피리를 좋아하는데 자네가 비파를 치니, 비파는 잘 쳐도 왕이 싫어함을 어쩌랴.” 하였다.
+  - key: '[주-D002] 평생에 …… 부끄러워하네 : '
+    value: 한(漢)나라 한신(韓信)이 초왕(楚王)으로 봉했다가 무고(誣告)에 의하여 낙양(洛陽)으로 잡혀 와서 회음후(淮陰侯)로 강봉(降封)되었는데, 한 번은 번쾌(樊噲)의 집에 갔다가 문에 나와서, “내가 번쾌의 무리와 동급[同素]이 된단 말인가.” 하였다.
+  - key: '[주-D003] 따오기[鵠]를 새기면 : '
+    value: “따오기를 새기[刻]다가 안 되어도 오히려 물오리와는 비슷하려니와, 범을 그리다가 안되면 도리어 개와 비슷하게 되느니라[刻鵠不成尙類鶩 畫虎不成反類狗].”라는 옛말이 있다.
+  - key: '[주-D004] 용(龍)을 잡기[屠] : '
+    value: 주평만이 지리익에게 용을 도살하는 법을 배워 3년 만에 재주가 완성되었으나, 그 기교를 쓸 데가 없었다. 재주가 높고도 쓸데 없다는 말. 《莊子》
+english:
+  title: A Gift for Lee Cheon-gak, the Enlightened One
+  author: Jung Po
+  language: eng
+  text: |-
+    All things find their season, each moment calls for its own way.
+    To serve before kings with lute in hand is no fool's folly.
+    All my life I've scorned to stand shoulder to shoulder with the base.
+    In ages hence, surely another like Yang Xiong will understand.
+    The carved swan may fail, yet still resembles the duck—
+    but what use is skill in slaying dragons when there are no dragons to slay?
+    Now I see the scholar's cap has led us astray,
+    yet I cannot abandon my verse, though I sip wine and grow careless.
+
+    (Author's note: In this time when the examinations have been abolished.)
+  footnotes:
+  - key: ''
+    value: The reference to serving with the lute alludes to an anecdote where a lute player stood at the gates of the King of Qi for three years, unable to enter, because the king favored the flute instead—suggesting that talent alone cannot guarantee recognition without the right circumstance.
+  - key: ''
+    value: The allusion to scorning the company of such men as樊噲 (Fan Kuai) references Han Xin, who was demoted from King to Marquis and refused to associate with those of lower station.
+  - key: ''
+    value: The carved swan that becomes a duck is a classical image of noble failure—an attempt at high art that, though unsuccessful, remains dignified, unlike attempting to paint a tiger and ending up with a dog.
+  - key: ''
+    value: 'The reference to ''slaying dragons'' comes from the Zhuangzi: a man perfected the art of dragon-slaughtering, but in the mortal world had no occasion to use such skill—a metaphor for useless expertise.'
+  - key: ''
+    value: The poem was written when the imperial examinations had been temporarily abolished, explaining the poet's reflection on the value of scholarly pursuits and official service.

@@ -1,0 +1,52 @@
+canonical:
+  title: 權友生家飮酒
+  author: 白元恒
+  language: lzh
+  text: 靑松生南山白日沒西海世上英雄何代無綠鬢朱顔不長在昔人園樹成枯査昔人俠骨歸泥沙同人之心非楚越百年光景何飄忽諸賓散盡髡獨留醉卧君家滿堂月
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 權友生家飮酒
+  author: 白元恒
+  language: lzh
+  text: 靑松生南山。白日沒西海。世上英雄何代無。綠鬢朱顔不長在。昔人園樹成枯査。昔人俠骨歸泥沙。同人之心非楚越。百年光景何飄忽。諸賓散盡髡獨留。醉卧君家滿堂月。
+korean:
+  title: 권우생 집에서 술을 마시고
+  author: 백원항
+  language: kor
+  text: |-
+    푸른 솔은 남산에 나고
+    흰 해는 서해에 빠진다
+    세상 어느 대에 영웅이 없으랴마는
+    검은 머리 고운 얼굴이 오래 있지 못하였다
+    옛 사람의 동산 나무는 마른 등걸이 되고
+    옛 사람의 의협의 뼈는 진흙 모래로 돌아갔다
+    친구의 마음은 초월이 아닌데
+    백년의 세월이 어찌 그리 허무한가
+    여러 손님이 흩어진 뒤에 곤만을 홀로 만류하여
+    그대 집 당에 가득한 달에 취하여 누워 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0580&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여러 손님이 흩어진 뒤에 곤(髡)만을 홀로 만류하여 : '
+    value: 전국 때 순우곤(淳于髡)의 말에, “주인이 연회를 벌여 기생을 불러 손님에게 술을 권하다가 밤이 깊어 손님은 다 다른 곳으로 가고 곤(髡)만을 만류할 때에 가장 즐겁다.” 하였다.
+english:
+  title: Drinking Wine at Friend Gwon Woo-saeng's Home
+  author: Baek Won-hang
+  language: eng
+  text: |-
+    Green pines grow upon the southern mountain,
+    The white sun sinks into the western sea.
+    In what age has this world lacked heroes?
+    Yet dark hair and rosy cheeks do not linger long.
+
+    The gardens of the ancients have become withered stumps,
+    The valiant bones of the old have turned to mud and sand.
+    Though a friend's heart does not dwell in distant lands,
+    How fleeting are a hundred years!
+
+    When all the guests have scattered and departed,
+    You alone bid me stay behind—
+    And so I lie drunk beneath your hall's full moon.
+  footnotes:
+  - key: ''
+    value: The image of being the sole guest remaining references the ancient sage Chunyu Kun, who spoke of the deepest joy occurring when, after other guests have left a banquet late into the night, the host asks only him to remain.

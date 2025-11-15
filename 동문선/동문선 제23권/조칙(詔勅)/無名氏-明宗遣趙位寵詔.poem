@@ -1,0 +1,33 @@
+canonical:
+  title: 明宗遣趙位寵詔
+  author: 無名氏
+  language: lzh
+  text: 云云朕因臣民推戴奄登大寶于今六年賴文武臣隣協輔獲守丕基頃有賊臣專擅國政多行不義害及中外民怨兵起至於無知小民殺傷尤多朕甚哀痛其賊臣已從卿等表奏擧義掃蕩卿等又請降使宣諭嘉乃忠誠遣使宣諭體朕至意更勵忠誠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 明宗遣趙位寵詔
+  author: 無名氏
+  language: lzh
+  text: 云云。朕因臣民推戴。奄登大寶。于今六年。賴文武臣隣協輔。獲守丕基。頃有賊臣專擅國政。多行不義。害及中外。民怨兵起。至於無知小民。殺傷尤多。朕甚哀痛。其賊臣已從卿等表奏。擧義掃蕩。卿等又請降使宣諭。嘉乃忠誠。遣使宣諭。體朕至意。更勵忠誠。
+korean:
+  title: 명종이 조위총에게 준 조서
+  author: 무명씨
+  language: kor
+  text: 운운. 짐이 신민의 추대로 인하여 갑자기 왕위에 오른 지가 지금 6년이 되었다. 문무 제신의 협조와 보좌에 의하여 큰 기업을 지켜 왔다. 지난번에 적신(賊臣)이 국정을 마음대로하고 불의를 많이 행하였는데, 해독이 안팎에 미치어 백성이 원망하고 군사가 일어났으며, 아무것도 모르는 백성들이 아주 많이 살상되기까지 하였으므로, 짐이 몹시 애통스럽게 여기었다. 그 적신은 경들의 표주(表奏)에 따라 대의를 들어 이미 소탕하였다. 경들이 또 사신을 보내어 선유하기를 청하므로, 그 충성을 가상하게 여기어 사신을 보내 선유하였다. 그러니 짐의 지극한 정성을 잘 체득하여 다시 충성에 힘쓸지어다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0260_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 조서 : '
+    value: 서경 유수(西京留守) 병부 상서(兵部尙書)로서 정중부(鄭仲夫)ㆍ이의방(李義方)을 치겠다고 칭탁하고 군사를 일으켜 반하니 절령(岊嶺) 이북의 40여 성이 호응하였다.
+  - key: '[주-D002] 적신(賊臣) : '
+    value: 이의방과 정중부. 이 조서를 내릴 때에 이의방은 주살(誅殺)되었다.
+english:
+  title: Royal Edict Sent by King Myeongjong to Zhao Weizhong
+  author: Anonymous
+  language: eng
+  text: '...Thus speaks the throne. By the mandate of my people, I ascended to this great seat six years ago. Through the loyal counsel and capable assistance of my civil and military ministers, I have preserved the legacy entrusted to me. Yet recently, treacherous officials seized control of state affairs and committed grave wrongs, bringing suffering to all corners of the realm. The people grew restless, armies rose in rebellion, and countless innocent souls fell to the sword—a tragedy that weighs heavily upon my heart. Those traitorous ministers have now been swept away through your righteous efforts and memorials to the throne. Since you further petition to send envoys bearing words of instruction and clemency, I commend your unwavering loyalty and hereby dispatch these messengers. Let them carry my deepest intentions to all. Henceforth, redouble your dedication to the throne and prove yourselves worthy of this imperial trust.'
+  footnotes:
+  - key: ''
+    value: This edict addresses the pacification of a rebellion in the western provinces, where officials had declared their intent to oppose treacherous court ministers and secured support from over forty cities north of Jeolryeong Pass.
+  - key: ''
+    value: The 'treacherous officials' referenced are Yi Uibang and Jung Jungbu, who had seized control of court politics. At the time this edict was issued, Yi Uibang had already been executed.

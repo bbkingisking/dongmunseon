@@ -1,0 +1,50 @@
+canonical:
+  title: 通州
+  author: 李胄
+  language: lzh
+  text: 通州天下勝樓勢 一作觀 出雲霄市列 一作積 金陵貨江通楊子潮寒雲 一作寒烟 秋落渚獨鶴暮歸遼鞍馬身千里登臨故國遙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 通州
+  author: 李胄
+  language: lzh
+  text: 通州天下勝。樓勢 一作觀 出雲霄。市列 一作積 金陵貨。江通楊子潮。寒雲 一作寒烟 秋落渚。獨鶴暮歸遼。鞍馬身千里。登臨故國遙。
+korean:
+  title: 통주
+  author: 이주
+  language: kor
+  text: |-
+    통주는 천하의 훌륭한 곳이라
+    누각 혹은 관 형세는 하늘에 빼어났다
+    저자에는 금릉의 재물이 벌여 혹은 적 있고
+    강물은 양자의 조수와 통해 있다
+    찬 구름 혹은 한연 은 가을 물가에 떨어지고
+    외로운 학은 저물어 요로 돌아가나니
+    말에 안장 얹는 몸은 천리 밖이라
+    다락에 올라 보면 고국이 멀다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0690&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 외로운 학은 저물어 요(遼)로 돌아가나니 : '
+    value: 옛날 정령위(丁令威)라는 사람의 고향이 요동이었는데, 신선이 되어 갔다가 천(千) 년 만에 다시 고향에 돌아올 때에는 학(鶴)이 되어서 돌와왔다 한다. 그래서 요양백탑(遼湯白塔) 위에 앉아서 노래한 시가 있다.
+english:
+  title: Tongzhou
+  author: Lee Ju
+  language: eng
+  text: |-
+    Tongzhou stands supreme beneath heaven's dome,
+    Its towers pierce the clouds and reach the sky.
+    The markets gleam with treasures of the south,
+    Where river currents meet the tidal flow.
+
+    Cold mists descend on autumn's marshy shore,
+    A solitary crane wings homeward through the dusk,
+    Returning to the distant lands of Liao.
+
+    Though I ride a thousand li from here,
+    Climbing high, my homeland fades away.
+  footnotes:
+  - key: ''
+    value: Liao refers to the northeastern region. The crane symbolizes a wanderer's nostalgic return to home, evoking the legendary tale of Ding Lingwei, who became immortal and returned as a crane after a thousand years.
+  - key: ''
+    value: The poem employs the classical device of describing a place of transit and commerce while subtly expressing the speaker's sense of displacement and longing for home.

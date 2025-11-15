@@ -1,0 +1,53 @@
+canonical:
+  title: 鷄足山定慧寺
+  author: 朴椿齡
+  language: lzh
+  text: 雞足山前數日留人間分外飽淸遊參天老木難爲歲拔地脩篁不受秋石壁萬重雲浪湧瀑泉千丈玉虹流客軒睡美老僧定杜宇一聲山更幽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鷄足山定慧寺
+  author: 朴椿齡
+  language: lzh
+  text: 雞足山前數日留。人間分外飽淸遊。參天老木難爲歲。拔地脩篁不受秋。石壁萬重雲浪湧。瀑泉千丈玉虹流。客軒睡美老僧定。杜宇一聲山更幽。
+korean:
+  title: 계족산 정혜사
+  author: 박춘령
+  language: kor
+  text: |-
+    계족산 앞에서 며칠을 묵으면서
+    인간이 맑은 놀이를 분외로 즐겼구나
+    하늘에 닿은 노목들은 몇 해를 지낸겐지
+    땅에 솟은 긴 대는 가을을 받지 않네
+    석벽엔 만 겹 구름이 물결처럼 솟아 오르고
+    폭포샘은 천 길이나 옥 무지개마냥 뻗어 흐르네
+    객실에서 나는 졸고 늙은 중은 입정했는데
+    뻐꾸기 우는 한 소리 산이 다시 그윽하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정혜사(定慧寺) : '
+    value: 지금의 전라남도 순천시 서면 청소리에 위치한 사찰.
+english:
+  title: Jeonghuesa Temple on Gyeokjoksan Mountain
+  author: Park Chun-ryeong
+  language: eng
+  text: |-
+    I lingered days before Gyeokjoksan's heights,
+    where mortal joys in crystalline streams delight.
+    Ancient timber towers toward heaven's door—
+    how many ages mark its weathered core.
+    Bamboo groves surge from earth, untouched by fall,
+    renewing green through seasons, standing tall.
+
+    Stone cliffs layer upon layer rise,
+    as clouds like rolling waves before my eyes.
+    Cascading springs a thousand fathoms deep
+    flow forth like jade-bright rainbows, winding steep.
+    In the guest hall, I drift to slumber's call;
+    the aging monk sits still in silence' thrall.
+
+    A cuckoo's cry rings out—just once, alone—
+    and deeper stillness settles on the stone.
+  footnotes:
+  - key: ''
+    value: Jeonghuesa (定慧寺) is a Buddhist temple located in Cheongso-ri, Seo-myeon, Suncheon, South Jeolla Province.

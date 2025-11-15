@@ -1,0 +1,48 @@
+canonical:
+  title: 汾河
+  author: 李齊賢
+  language: lzh
+  text: 汾河日夜流浩浩兩岸行人幾番老陶唐舊物山獨在萬古興亡靑未了劉郞曾此歌秋風簫鼓動地愁魚龍平生謾有凌雲志未見仙人冰雪容
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 汾河
+  author: 李齊賢
+  language: lzh
+  text: 汾河日夜流浩浩。兩岸行人幾番老。陶唐舊物山獨在。萬古興亡靑未了。劉郞曾此歌秋風。簫鼓動地愁魚龍。平生謾有凌雲志。未見仙人冰雪容。
+korean:
+  title: 분하
+  author: 이제현
+  language: kor
+  text: |-
+    분하는 밤낮 흘러가네
+    양 언덕 길손이 몇 번이나 늙었을꼬
+    도당(도당씨가 도읍하던 옛 터) 옛 물건 산 홀로 남아서
+    만고 흥망 속에 푸르기만 하여라
+    유랑이 여기서 추풍사를 노래할 때
+    북과 퉁소 땅을 울려 어룡조차 시름하였네
+    평생에 신선이 되어 구름 위에 놀려는 허황한 꿈 지녔건만
+    선인의 빙설(깨끗한 얼굴) 같은 얼굴 보지 못했으니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유랑(劉郞)이 …… 노래할 때 : '
+    value: 유랑(劉郞)은 한 무제(漢武帝)를 말한다. 무제가 분하(汾河)에서 배를 띄우고 놀면서 가을바람을 만나 추풍사(秋風辭)를 지었는데, “퉁소와 북이 울리는데, 돛대 노래 일어난다. 젊음이 몇 대이냐, 늙음을 어이하리.” 하는 구절이 들어 있다. 무제가 신선(神仙)을 구하려고 애를 쓰다가 이때에 와서 허무함을 느낀 것이다.
+english:
+  title: The Fen River
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The Fen River flows day and night, vast and boundless.
+    How many times have wayfarers aged upon its banks?
+    The old relics of Yao and Shun remain—the mountains stand alone,
+    While through ten thousand ages of rise and fall, the green persists.
+
+    Once Liu the Emperor sang of autumn winds upon these waters,
+    Pipes and drums shook the earth until even dragons grew sorrowful.
+    A lifetime I harbored the vain ambition to soar above the clouds,
+    Yet never beheld the crystalline face of the immortals.
+  footnotes:
+  - key: ''
+    value: Liu refers to Emperor Wu of the Han Dynasty, who composed 'The Autumn Wind Ode' while boating on the Fen River. The poem expresses his realization of life's transience and the futility of seeking immortality despite his long pursuit of the transcendent.
+  - key: ''
+    value: The 'crystalline face' (literally 'face of ice and snow') symbolizes the pure, otherworldly visage of immortals—representing spiritual perfection forever beyond mortal reach.

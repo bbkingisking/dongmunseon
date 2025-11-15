@@ -1,0 +1,35 @@
+canonical:
+  title: 寄擇之
+  author: 朴誾
+  language: lzh
+  text: 葉盡園林掛老槎吾軒從此得山多悄無車馬紛紛過還有詩功日日加
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄擇之
+  author: 朴誾
+  language: lzh
+  text: 葉盡園林掛老槎。吾軒從此得山多。悄無車馬紛紛過。還有詩功日日加。
+korean:
+  title: 기 택지
+  author: 박은
+  language: kor
+  text: |-
+    동산에 잎 다 지고 늙은 가지 걸렸으니
+    내 마루엔 이로부터 산이 많아지네
+    말과 수레 어지러이 지나침 없고 보니
+    도리어 시 공부 날로 진보함 있으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: To Taekji
+  author: Park Eun
+  language: eng
+  text: |-
+    The garden's leaves have fallen, bare branches hang like twisted wood.
+    From my study, the mountains now appear in greater multitude.
+    No rush of horses, no clatter of carts disturbs the air—
+    And thus my work in poetry grows richer day by day.
+  footnotes:
+  - key: ''
+    value: Taekji likely refers to a friend or acquaintance of the poet. The poem uses the seasonal image of autumn's barrenness to reflect on how solitude and withdrawal from worldly affairs allow for deeper artistic cultivation.

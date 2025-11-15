@@ -1,0 +1,47 @@
+canonical:
+  title: 鄭勉齋席上走筆
+  author: 權漢功
+  language: lzh
+  text: 城東風景六月天景物如畫在眼前一盃一盃事有緣且莫論量鶴與錢賓如玉酒如泉座中何者非酒仙古來豪傑如雲煙不知今夕是何年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鄭勉齋席上走筆
+  author: 權漢功
+  language: lzh
+  text: 城東風景六月天。景物如畫在眼前。一盃一盃事有緣。且莫論量鶴與錢。賓如玉酒如泉。座中何者非酒仙。古來豪傑如雲煙。不知今夕是何年。
+korean:
+  title: 정면재 석상에서 붓을 들어 빨리 지으며
+  author: 권한공
+  language: kor
+  text: |-
+    성동 풍경 6월 하늘에
+    경치가 그림처럼 눈 앞에 펼쳐 있다
+    술 한 잔 한 잔도 연분이었거니
+    학과 돈을 계교하지 말아라
+    손님은 옥같은 사람이요, 술은 솟는 샘이라
+    좌중 어느 누가 주선 아니리
+    옛적의 호걸도 구름 연기처럼 사라졌다
+    알 수 없다, 오늘밤은 이 어찌된 세월이냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 학과 돈[鶴錢] : '
+    value: 옛날에 네 사람이 모여서 각기 자기의 소원을 말하는데, 한 사람은 말하기를, “나는 돈 만 관(萬貫)을 가지기가 소원이다.” 하였으며, 한 사람은, “나는 신선이 되어 학을 타고 하늘에 오르기가 소원이다.” 하고 또 한 사람은, “양주자사(楊州刺史)가 되기가 소원이다.” 하니, 한 사람은, “나는 돈 만 관을 허리에 두르고 학을 타고 양주로 가겠다.” 하였다.
+english:
+  title: Spontaneous Verses at a Feast for Jeong Myeonjae
+  author: Gwon Han-gong
+  language: eng
+  text: |-
+    East of the city, the June sky spreads its landscape,
+    Scenes like a painting unfold before our eyes.
+    Each cup of wine arrives as if by destined meeting—
+    Let us not reckon our desires for cranes or coin.
+    Guests like jade, wine like a flowing spring,
+    Who among us is not a master of the tavern?
+    The heroes of old have vanished like clouds and mist,
+    And who can tell what year this evening truly is?
+  footnotes:
+  - key: ''
+    value: 'The reference to ''cranes or coin'' alludes to an ancient parable of four men each expressing a wish: one for ten thousand coins, one to become an immortal riding a crane to heaven, one to become governor of Yangzhou, and one to combine all three wishes—riding a crane with coins at the waist to Yangzhou. Here it suggests the futility of worldly ambitions when gathered in fellowship.'
+  - key: ''
+    value: The poem appears to be an impromptu composition (走筆, 'swift brush') written during a gathering, capturing the timeless quality of convivial moments where past and present dissolve.

@@ -1,0 +1,49 @@
+canonical:
+  title: 琴
+  author: 洪貴達
+  language: lzh
+  text: 孤桐生矣于朝陽枝上嗈嗈鳴鳳凰異質豈免斤斧戕爨下得材嗟非常巧匠斲成琴一張佳人彈作聲峩洋凉宵璧月射虛堂羽客滿座飛瓊觴主人倚醉吟短章呼兒筆之金字光
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 琴
+  author: 洪貴達
+  language: lzh
+  text: 孤桐生矣于朝陽。枝上嗈嗈鳴鳳凰。異質豈免斤斧戕。爨下得材嗟非常。巧匠斲成琴一張。佳人彈作聲峩洋。凉宵璧月射虛堂。羽客滿座飛瓊觴。主人倚醉吟短章。呼兒筆之金字光。
+korean:
+  title: 금
+  author: 홍귀달
+  language: kor
+  text: |-
+    고동이 났네 저기 산 남쪽에
+    가지 위에 옹옹 봉황이 우는구나
+    특이한 바탕이 어찌 도끼를 면하리
+    불때다가 얻은 재목 비상도 한지고
+    교장이 깎아 거문고를 만드니
+    가인이 타서 아양곡을 이루누나
+    서늘한 밤 구슬 달이 대청을 비치는데
+    신선들이 자리에 가득 술잔을 가울이네
+    주인이 얼근한 김에 단장을 읊어
+    아희 불러 써 놓으니 금자가 번쩍이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0710&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 불 때다가 얻은 재목 : '
+    value: 한나라 채옹(蔡邕)이 아궁이의 오동나무 타는 소리를 듣고, “이것은 좋은 거문고 재목이다.” 하고 꺼내어 거문고를 만들었더니 한 끝이 탔으므로 초미금(焦尾琴)이라 한다.
+english:
+  title: The Qin
+  author: Hong Gwidae
+  language: eng
+  text: |-
+    A solitary parasol tree grew there, facing the morning sun.
+    On its branches, the phoenix sang in harmony.
+    Yet such rare wood could not escape the blade.
+    From the fire's heart, wood was drawn—a marvel indeed.
+    The skilled craftsman carved it into a qin,
+    And the fair lady's fingers made it sing with grace.
+    On cool nights when jade moonlight fills the empty hall,
+    The immortals gather, raising cups of wine.
+    The master, warm with drink, intones a brief poem,
+    And calls his scribe to set it down in golden script.
+  footnotes:
+  - key: ''
+    value: 'The ''wood drawn from the fire'' alludes to a famous legend: the Han dynasty scholar Cai Yong heard the sound of a parasol tree burning in a furnace and recognized it as perfect for crafting a qin. He retrieved it and made an instrument that became known as the Jiao-wei Qin (Scorched-tail Qin) because one end was charred.'

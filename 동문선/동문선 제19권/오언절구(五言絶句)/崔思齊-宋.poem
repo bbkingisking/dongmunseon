@@ -1,0 +1,37 @@
+canonical:
+  title: 宋
+  author: 崔思齊
+  language: lzh
+  text: 天地何疆界山河自異同君無謂宋遠迴首一帆風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宋
+  author: 崔思齊
+  language: lzh
+  text: 天地何疆界。山河自異同。君無謂宋遠。迴首一帆風。
+korean:
+  title: 송
+  author: 최사제
+  language: kor
+  text: |-
+    하늘과 땅이 어찌 경계 있으랴만
+    산과 물이 네 땅 내 땅이니 하네
+    송(宋)나라 멀다고 말하지 마소
+    머리 돌리면 한 돛대 바람인 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 송(宋)나라 …… 마소 : '
+    value: 《시경》에, “누가 송나라 멀다더냐, 한 돛대로 건너가리.” 하는 구절이 있다.
+english:
+  title: Song
+  author: Choi Sa-je
+  language: eng
+  text: |-
+    Heaven and earth—do they truly have boundaries?
+    Mountains and rivers know no fixed possession.
+    Do not say the land of Song lies far away—
+    Turn your head, and a single sail catches the wind.
+  footnotes:
+  - key: ''
+    value: 'This poem echoes a verse from the Book of Poetry: ''Who says the land of Song is distant? With one sail we shall cross.'''

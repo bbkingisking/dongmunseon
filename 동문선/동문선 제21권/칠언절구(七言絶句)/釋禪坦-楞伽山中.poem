@@ -1,0 +1,37 @@
+canonical:
+  title: 楞伽山中
+  author: 釋禪坦
+  language: lzh
+  text: 鞍馬紅塵半白頭楞伽有病早歸休一江煙雨西山暯長捲踈廉不下樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 楞伽山中
+  author: 釋禪坦
+  language: lzh
+  text: 鞍馬紅塵半白頭。楞伽有病早歸休。一江煙雨西山暯。長捲踈廉不下樓。
+korean:
+  title: 능가산중
+  author: 석선탄
+  language: kor
+  text: |-
+    홍진 속에 말타기 반백이 되었는데
+    병이 있어 능가산에 일찍 돌아와 쉬네
+    한 강의 연기와 비에 서산은 저무는데
+    성긴 발을 걷어둔 채 다락을 안 내린다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: At Lenga Mountain
+  author: Seon Tan
+  language: eng
+  text: |-
+    Half a lifetime spent riding through the crimson dust of the world,
+    yet illness has drawn me early to rest at Lenga Mountain.
+    Across the river, mist and rain veil the western hills at dusk—
+    I leave the sparse bamboo blinds drawn, never descending from my tower.
+  footnotes:
+  - key: ''
+    value: 'Lenga Mountain (楞伽山): A sacred Buddhist site associated with meditation and spiritual refuge, referenced in the Lankavatara Sutra'
+  - key: ''
+    value: The 'crimson dust' is a classical Buddhist metaphor for the attachments and turbulence of worldly life

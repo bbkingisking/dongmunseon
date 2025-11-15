@@ -1,0 +1,47 @@
+canonical:
+  title: 月光寺水軒次韻
+  author: 韓宗愈
+  language: lzh
+  text: 黃扉十載濫榮名豈料今爲此地行入洞忽迷春樹影隔雲還有暮鍾聲山屛邐迤開千疊水樂訇豗奏九成兩寺往來陪兩叔留連數日話親情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 月光寺水軒次韻
+  author: 韓宗愈
+  language: lzh
+  text: 黃扉十載濫榮名。豈料今爲此地行。入洞忽迷春樹影。隔雲還有暮鍾聲。山屛邐迤開千疊。水樂訇豗奏九成。兩寺往來陪兩叔。留連數日話親情。
+korean:
+  title: 월광사 수헌차운
+  author: 한종유
+  language: kor
+  text: |-
+    10년 동안 황비에서 영명을 가졌더니
+    뜻밖에 이제 이 고장에 왔단 말인가
+    골에 드니 문득 봄 나무가 울창하고
+    구름을 격하여 저녁 종소리 들리네
+    산은 병풍처럼 천 겹이나 둘러 있고
+    물은 풍악인 양 구성을 아뢰누나
+    숙부 두 분 모시고 두 절로 오가면서
+    며칠을 함께 묵으며 육친의 정을 말하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구성(九成) : '
+    value: 아홉 번 곡조가 변함. 음악에 한 곡이 끝남을 한 성(成)이라 하는데, 구성(九成)이 전곡(全曲)임. “소소(簫韶) 아홉 곡조에 봉황(鳳凰)이 와 춤춘다.”는 말이 《서경》에 있다.
+english:
+  title: At the Water Pavilion of Moonlight Temple, Following the Rhyme Scheme
+  author: Han Jong-yu
+  language: eng
+  text: |-
+    For ten years I held an empty title at the Yellow Gate,
+    Never dreaming I would come to this distant place.
+    Entering the valley, suddenly the spring trees loom before me,
+    Beyond the clouds, the evening bell's voice reaches through.
+    Mountains rise like folded screens a thousand layers deep,
+    Waters play their music, the nine harmonies complete.
+    Accompanying my two uncles as we wander between the temples,
+    Staying these few days, we speak of kinship's tender bonds.
+  footnotes:
+  - key: ''
+    value: The 'Yellow Gate' refers to the author's former official position in the capital.
+  - key: ''
+    value: The 'nine harmonies' is a musical reference suggesting the water sounds create a complete and perfect symphony, evoking the legendary music of antiquity.

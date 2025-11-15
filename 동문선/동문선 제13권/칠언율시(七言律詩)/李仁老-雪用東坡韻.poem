@@ -1,0 +1,50 @@
+canonical:
+  title: 雪用東坡韻
+  author: 李仁老
+  language: lzh
+  text: 霽色稜稜欲曉鴉雷聲陣陣逐香車寒侵綠酒難生暈威逼紅燈未放花一棹去時知客興孤煙起處認山家閉門高卧無人到留得筒錢任畫叉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雪用東坡韻
+  author: 李仁老
+  language: lzh
+  text: 霽色稜稜欲曉鴉。雷聲陣陣逐香車。寒侵綠酒難生暈。威逼紅燈未放花。一棹去時知客興。孤煙起處認山家。閉門高卧無人到。留得筒錢任畫叉。
+korean:
+  title: 설용 동파운
+  author: 이인로
+  language: kor
+  text: |-
+    갠 하늘이 차디차고 새벽 까마귀 울려는데
+    은은한 우레소리 향거를 따르네
+    술이 차가워서 얼굴에 취기 잘 안 돌고
+    등불이 싸늘하니 불꽃도 튀지 않네
+    편주로 찾아가는 객의 흥을 알리로고
+    외줄 연기 일어나는 곳 산가가 아닌가
+    문 닫고 누웠으니 올 사람 전혀 없네
+    통 안에 돈 몇푼 두어 화차에게 맡겨두네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 은은한 우뢰소리 …… 따르네 : '
+    value: 향거(香車)는 귀인(貴人)의 타는 칠향거(七香車)인데, 눈 위에 바퀴를 굴리어 뇌성소리가 난다는 뜻이다.
+  - key: '[주-D002] 통(筒) 안에 …… 맡겨두네 : '
+    value: 긴 자루 끝에 철차(鐵叉)를 끼운 것이다. 소동파(蘇東坡)가 귀양가서 살 적에 매달 초하룻날 4천 5백 전을 가져다가 30덩이로 잘라 대들보에 걸어두고 새벽에 화차로 당겨 취하여 썼다.
+english:
+  title: Snow, Using the Rhymes of Su Dongpo
+  author: Lee In-ro
+  language: eng
+  text: |-
+    The cleared sky turns cold as dawn crows call and cry,
+    Thunder's gentle voice follows the fragrant carriage by.
+    The wine grows chill—no flush of warmth can bloom,
+    The lamplight dims—no spark of fire can loom.
+
+    When I depart by boat, who knows what joy I seek?
+    Where solitary smoke rises, surely there lies the mountain retreat.
+    With doors shut, lying high, no visitor will call,
+    Yet coins left in a tube—I've entrusted them all.
+  footnotes:
+  - key: ''
+    value: The 'fragrant carriage' (香車) refers to a noble's seven-perfumed carriage whose wheels, rolling over snow, produce the sound of thunder.
+  - key: ''
+    value: Su Dongpo, the great Song poet, when exiled, would receive five hundred coins monthly on the first day, cut them into thirty pieces, hang them from a beam, and each dawn retrieve them by rake to spend as he wished. This poem evokes that image of modest means and leisured life.

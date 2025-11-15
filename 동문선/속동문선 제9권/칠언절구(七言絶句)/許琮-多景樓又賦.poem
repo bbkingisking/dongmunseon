@@ -1,0 +1,35 @@
+canonical:
+  title: 多景樓又賦
+  author: 許琮
+  language: lzh
+  text: 坐向郊頭草染衣日斜山氣轉霏微滿江春色無拘管一任楊花上下飛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 多景樓又賦
+  author: 許琮
+  language: lzh
+  text: 坐向郊頭草染衣。日斜山氣轉霏微。滿江春色無拘管。一任楊花上下飛。
+korean:
+  title: 다경루 우부
+  author: 허종
+  language: kor
+  text: |-
+    들 머리를 항해 앉으매 풀이 옷을 물들이는데
+    해는 기울어 산 기운은 더욱 비미하구나
+    강에 가득한 봄빛은 아무 걸림이 없어
+    버들꽃은 아래위로 나는 데 맡겨만 둔다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0390&viewSync=OT
+  footnotes: []
+english:
+  title: Another Poem on the Tower of Many Vistas
+  author: Heo Jong
+  language: eng
+  text: |-
+    Sitting at the field's edge, grass stains my robe.
+    The sun descends, mountain mists grow soft and hazy.
+    Spring's colors flood the river without restraint—
+    I let the willow catkins drift where they will.
+  footnotes:
+  - key: ''
+    value: The Tower of Many Vistas (Dagyeong-ru) is a famous pavilion offering extensive views of the surrounding landscape. This poem captures a moment of contemplative observation from the tower, emphasizing the speaker's surrender to natural phenomena.

@@ -1,0 +1,44 @@
+canonical:
+  title: 春雨
+  author: 鄭摠
+  language: lzh
+  text: 霡霂知時節廉纖逐曉風簷閒蛛網濕階下燕泥瀜着柳涳濛綠催花蓓蕾紅一犂敷土脉佳氣屬田翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春雨
+  author: 鄭摠
+  language: lzh
+  text: 霡霂知時節。廉纖逐曉風。簷閒蛛網濕。階下燕泥瀜。着柳涳濛綠。催花蓓蕾紅。一犂敷土脉。佳氣屬田翁。
+korean:
+  title: 춘우
+  author: 정총
+  language: kor
+  text: |-
+    보슬비가 시절에 맞추어
+    가늘게 새벽 바람을 따라오네
+    처마 사이에 거미줄이 젖고
+    뜰 아래에는 제비 진흙이 녹아 풀린다
+    버들가지에 뿌리매 희미하게 푸르고
+    꽃을 재촉하여 봉오리가 붉어오네
+    한 보습 비가 토맥을 녹이니
+    아름다운 기운은 농사짓는 첨지에게 속했네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0680&viewSync=OT
+  footnotes: []
+english:
+  title: Spring Rain
+  author: Jung Chong
+  language: eng
+  text: |-
+    Fine rain arrives with perfect timing,
+    trailing the dawn wind in delicate threads.
+    Spider webs between the eaves grow wet,
+    swallows' mud nests below the steps begin to soften.
+
+    On willow branches, mist brings forth a faint green,
+    urging buds to blush a deeper red.
+    One furrow of rain awakens the soil's veins—
+    and all this bounty belongs to the farmer's hands.
+  footnotes:
+  - key: ''
+    value: The poem celebrates spring rain as both a natural phenomenon and a blessing for agriculture, reflecting the classical Korean literati's appreciation for cycles of renewal and their duty toward those who work the land.

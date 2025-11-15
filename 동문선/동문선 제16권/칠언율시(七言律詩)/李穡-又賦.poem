@@ -1,0 +1,47 @@
+canonical:
+  title: 又賦
+  author: 李穡
+  language: lzh
+  text: 病裏情懷每自悲蒼天肯復管安危時時對鏡憐黃瘦事事臨機恨白癡頗信流光如電影又驚芳信到花枝牢籠物像知無力驅使由來只小詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 又賦
+  author: 李穡
+  language: lzh
+  text: 病裏情懷每自悲。蒼天肯復管安危。時時對鏡憐黃瘦。事事臨機恨白癡。頗信流光如電影。又驚芳信到花枝。牢籠物像知無力。驅使由來只小詩。
+korean:
+  title: 우부
+  author: 이색
+  language: kor
+  text: |-
+    병중에 매양 스스로 서글퍼지는 회포
+    창천이 나라 안위를 아랑곳하시는지
+    때때로 거울 보매 누렇게 여윈 것 가엾어라
+    일마다 기회만나면 백치됨이 한이로세
+    흐르는 세월은 진정 번개 같구나
+    봄 소식이 벌써 꽃가지에 오다니
+    내 무슨 힘으로 모든 물상을 지배하리
+    하찮은 작은 시로써 구사할 뿐이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0650&viewSync=OT
+  footnotes: []
+english:
+  title: Another Verse
+  author: Lee Saek
+  language: eng
+  text: |-
+    In illness, my heart grows sorrowful of its own accord.
+    Does Heaven care at all for the fate of the realm?
+    Each time I face the mirror, I pity my yellowed, withered frame—
+    Every moment brings only the shame of helplessness.
+    I believe the flowing years are swift as lightning.
+    Spring's tidings have already reached the flowering branches.
+    I lack all power to command the world's myriad forms.
+    I can only wield this humble, trifling art of verse.
+  footnotes:
+  - key: ''
+    value: The poem reflects on the poet's illness and his sense of powerlessness—both physical and political—expressing how he can only respond to the world through poetry.
+  - key: ''
+    value: The 'yellowed, withered frame' and references to aging emphasize the bodily decline accompanying his illness.
+  - key: ''
+    value: '''White idiocy'' in the original suggests a state of confused helplessness or mental befuddlement brought on by sickness.'

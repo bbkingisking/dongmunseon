@@ -1,0 +1,50 @@
+canonical:
+  title: 別咸陽曺大虛之任
+  author: 孫比長
+  language: lzh
+  text: 蕭條身世誤詩書自笑平生向世踈蓼里每逢新按劒溪幸賴舊知魚晨星落落長相望歲月悠悠已七除對榻片言如問我晩來淡薄只如初
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 別咸陽曺大虛之任
+  author: 孫比長
+  language: lzh
+  text: 蕭條身世誤詩書。自笑平生向世踈。蓼里每逢新按劒。溪幸賴舊知魚。晨星落落長相望。歲月悠悠已七除。對榻片言如問我。晩來淡薄只如初。
+korean:
+  title: 별 함양 조대허지임
+  author: 손비장
+  language: kor
+  text: |-
+    쓸쓸한 이 신세 시서에 그르쳤나니
+    한 평생 세상과 성긴 것을 스스로 웃는다
+    요리에서는 매양 새 안검을 만나고
+    뇌계에서는 다행히 옛 지어를 힘입었다
+    새벽 별이 낙락한데 항상 서로 바라고
+    세월이 유유한데 이미 7년 지났네
+    만일 탑을 대해 잠깐 내게 묻는다면
+    늙어가며 담박한 것 다만 처음과 같다고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1170&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell to Cao Daxu Upon His Departure to Xiangyang
+  author: Son Bilong
+  language: eng
+  text: |-
+    My life lies scattered, ruined by books and poetry—
+    I laugh at myself, a solitary soul estranged from the world.
+    In Liaoli, I meet new examiners at each turn,
+    Yet by fortune's grace, old friendships sustain me still.
+
+    Morning stars fall sparsely, and we gaze toward each other forever,
+    While years drift on—already seven have passed away.
+    If you sit across from me and ask me something,
+    I'll tell you: grown old, my heart remains as simple as it was at first.
+  footnotes:
+  - key: ''
+    value: Xiangyang (咸陽) refers to the administrative region where Cao Daxu was appointed.
+  - key: ''
+    value: The 'morning stars' evoke the brevity of life and the distance between parting friends.
+  - key: ''
+    value: The reference to 'seven' years may allude to a specific period of separation or friendship.
+  - key: ''
+    value: '''As simple as it was at first'' suggests the constancy of the speaker''s nature despite the passage of time and life''s vicissitudes.'

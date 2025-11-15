@@ -1,0 +1,46 @@
+canonical:
+  title: 扈駕興王寺路上
+  author: 郭預
+  language: lzh
+  text: 細雨南郊路平林近復賖空濛催柳絮取次放桃花雲影隨丹轂山光濕翠華春風扈從日逸與浩無涯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 扈駕興王寺路上
+  author: 郭預
+  language: lzh
+  text: 細雨南郊路。平林近復賖。空濛催柳絮。取次放桃花。雲影隨丹轂。山光濕翠華。春風扈從日。逸與浩無涯。
+korean:
+  title: 흥왕사에 어가를 호종하는 길에서
+  author: 곽예
+  language: kor
+  text: |-
+    가랑비 내리는 남교 길에
+    평평한 숲이 가까운 듯 먼 듯
+    비는 하늘하늘 버들강아지 날기를 재촉하고
+    차츰 복사꽃도 피우네
+    구름 그림자는 붉은 수레를 따라 가고
+    산빛은 푸른 깃발[翠華 왕의 깃발]에 젖네
+    봄바람도 따스한, 호송하는 날
+    호기로운 흥 넓어 그지없어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0690&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road to Heungwangsa, Escorting the Royal Procession
+  author: Gwak Ye
+  language: eng
+  text: |-
+    Fine rain falls on the southern path,
+    Flat groves seem both near and far.
+    The mist urges catkins to drift and dance,
+    While peach blossoms open one by one.
+
+    Cloud shadows follow the crimson carriage,
+    Mountain light glistens on the emerald banner.
+    On this spring-wind day of escort and honor,
+    Joy and freedom stretch without end.
+  footnotes:
+  - key: ''
+    value: The poem celebrates a royal procession, with the speaker among those accompanying the monarch. The 'crimson carriage' (丹轂) and 'emerald banner' (翠華) are symbols of imperial majesty.
+  - key: ''
+    value: The natural imagery—rain, catkins, peach blossoms, clouds, and mountains—mirrors the movement and grandeur of the procession while evoking the vitality of spring.

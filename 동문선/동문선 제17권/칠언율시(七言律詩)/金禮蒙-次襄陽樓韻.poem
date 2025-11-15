@@ -1,0 +1,49 @@
+canonical:
+  title: 次襄陽樓韻
+  author: 金禮蒙
+  language: lzh
+  text: 澄淸敢望范公前遊賞猶能及壯年影逐峴山官道月夢尋華岳御爐煙恩深欲報嗟無地任重難堪愧有天佳境逢來饒逸興興狂還似飮狂泉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次襄陽樓韻
+  author: 金禮蒙
+  language: lzh
+  text: 澄淸敢望范公前。遊賞猶能及壯年。影逐峴山官道月。夢尋華岳御爐煙。恩深欲報嗟無地。任重難堪愧有天。佳境逢來饒逸興。興狂還似飮狂泉。
+korean:
+  title: 차 양양루 운
+  author: 김예몽
+  language: kor
+  text: |-
+    천하를 맑히기야 범공보다 앞서기 바라랴만
+    구경 다니기는 한창 때처럼 하는구나
+    그림자는 현산길에 달을 쫓고
+    꿈은 서울 어로의 연기를 따르네
+    성은이 깊으신데 갚을 턱 바이 없고
+    짐 무거워 난감하니 하늘이 부끄럽네
+    좋은 경개 만나면 흥만은 넘쳐서
+    미친 흥이 마치 광천물을 마신 듯하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0860&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 범공(范公) : '
+    value: 후한(後漢)의 범방(范滂). 그는 지방 수병들의 탐오(貪汚)를 적발하는 임명을 받고 수레에 올라 고삐를 잡으며 개연(慨然)히 천하를 맑힐 뜻이 있었다.
+  - key: '[주-D002] 광천(狂泉) : '
+    value: 옛날 어느 나라에 광천(狂泉)이 있어 그 물을 마시는 사람은 미치지 않는 이가 없었다. 《南史》
+english:
+  title: Following the Rhyme of Xiangyang Tower
+  author: Kim Ye-mong
+  language: eng
+  text: |-
+    I dare not hope to surpass Fan Gong in purifying the realm,
+    Yet my wandering eye still roams as keen as in my youth.
+    My shadow chases the moon along Xian Mountain's official road,
+    My dreams pursue the incense smoke from the imperial furnace of sacred peaks.
+    The grace bestowed runs deep, yet I find no place to repay it,
+    The burden grows heavy—I am ashamed before Heaven itself.
+    When fair vistas come into view, my spirit overflows with joy,
+    And this wild exhilaration is like drinking from the waters of madness.
+  footnotes:
+  - key: ''
+    value: Fan Gong (范公) refers to Fan Bang (范滂) of the Later Han, who was appointed to investigate corruption among local officials. Setting forth with resolve in his carriage, he aspired to cleanse the realm—an emblem of righteous governance.
+  - key: ''
+    value: The waters of madness (狂泉) is an allusion to an ancient spring whose waters were said to drive anyone who drank from them to ecstasy or frenzy, found in histories of the southern dynasties.

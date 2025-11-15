@@ -1,0 +1,97 @@
+canonical:
+  title: 安和寺
+  author: 趙永仁
+  language: lzh
+  text: 栴檀寶殿許多層十里香風髣橘洲曾爲遠圖占勝地又因嘉致創高樓前泉通漢騫應路後嶽支天杞不憂幸値良辰仍命駕小留淸賞更探幽東西仗衛歡聲洽遠近溪山協氣浮角奏五更無事曉河澄九曲大平秋周王賜宴歌常棣漢帝吟風感蓐收只磬三歸資福利敢幷四事恣遨遊君恩海闊魚相樂聖壽天長鶴自羞似識明朝廻鳳輦洞門煙景慘爲愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 安和寺
+  author: 趙永仁
+  language: lzh
+  text: 栴檀寶殿許多層。十里香風髣橘洲。曾爲遠圖占勝地。又因嘉致創高樓。前泉通漢騫應路。後嶽支天杞不憂。幸値良辰仍命駕。小留淸賞更探幽。東西仗衛歡聲洽。遠近溪山協氣浮。角奏五更無事曉。河澄九曲大平秋。周王賜宴歌常棣。漢帝吟風感蓐收。只磬三歸資福利。敢幷四事恣遨遊。君恩海闊魚相樂。聖壽天長鶴自羞。似識明朝廻鳳輦。洞門煙景慘爲愁。
+korean:
+  title: 안화사
+  author: 조영인
+  language: kor
+  text: |-
+    전단 보전이 겹겹 몇 층인고
+    10리 향풍이 귤주와 비슷하네
+    일찍이 먼 계획으로 승지를 점령했고
+    아름다운 풍치로 인해 높은 다락 지었네
+    앞 샘이 은하에 통하니 장건이 다녀간 듯
+    뒷산이 하늘을 버티니 기국(杞國) 사람도 근심 없네
+    좋은 철에 수레를 명하시어
+    잠깐 머물러 구경하며 그윽한 곳 다시 찾네
+    동서의 시위들은 환성이 흐뭇하고
+    원근의 계산은 화기가 떠오르는데
+    오경에 아뢰는 각 소리 무사한 새벽이요
+    하수는 구곡 맑은 태평의 가을
+    주왕의 내리신 잔치 상체를 노래하고
+    한제께서 읊는 노래에 가을을 느꼈네
+    다만 삼귀의로 복리를 비올 뿐
+    사사를 겸하여서 놀이 감히 즐기시리
+    군은이 바다처럼 넓은데 고기들 서로 즐기고
+    하늘같이 오래 갈 성수에 학도 절로 부끄러우리
+    내일 아침 봉연을 돌리실 줄 아는 듯
+    동문에 안개가 자욱 깊은 시름에 잠겼네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 10리 향풍이 …… 비슷하네 : '
+    value: 오(吳)나라 이위(李衛)가 무릉(武陵)의 용양(龍陽) 범주(汎州) 위에 감귤(甘橘) 천 그루를 심었다. 추하(趨嘏)의 시에, “귤주에 바람이 이니 꿈조차 향기롭네[橘州風起夢魂香].”라는 구절이 있다. 《三國志 吳志, 孫休傳》
+  - key: '[주-D002] 앞 샘이 …… 다녀간 듯 : '
+    value: 한(漢)나라 장건(張騫)이 서역(西域)에 봉사(奉使)하여 은하(銀河)에까지 올라갔었다는 전설(傳說).
+  - key: '[주-D003] 기국(杞國) 사람도 근심없네 : '
+    value: “기국의 어떤 사람이 하늘이 무너지고 땅이 꺼지면 몸을 부칠 곳이 없을까 근심하여 침식을 폐한 자가 있었다.” 한다.
+  - key: '[주-D004] 하수(河水)는 구곡(九曲) : '
+    value: 황하수(黃河水)는 백 리(里)에 작은 구비, 천 리에 큰 구비, 이렇게 구곡으로 바다에 들어간다. 황하수가 천 년만에 한 번씩 맑으면 성인(聖人)이 날 큰 상서(祥瑞)라 한다.
+  - key: '[주-D005] 상체(常棣) : '
+    value: 형제의 우애(友愛)를 노래한 《시경》의 편명이다. 화사 행행(行幸)에 왕의 아우 종실(宗室)들이 호종했기 때문에 이렇게 표현한 것이다.
+  - key: '[주-D006] 한제(漢帝)께서 읊는 노래에 : '
+    value: 한 무제(漢武帝)가 분수(汾水)에 배를 띄우고 흔연히 중류(中流)에서 ‘추풍사(秋風辭)’를 지어서 늙음을 탄식하였다.
+  - key: '[주-D007] 삼귀의(三歸依) : '
+    value: 불법에 삼귀의는 불(佛)에 귀의(歸依)하고 법(法)에 귀의하고 승(僧)에 귀의한다는 것이다.
+  - key: '[주-D008] 사사(四事) : '
+    value: 양신(良辰)ㆍ미경(美景)ㆍ상심(賞心)ㆍ낙사(樂事) 네 가지를 사미(四美)라 하는데, 사사는 이것이 아닌가 한다.
+english:
+  title: Anhe Temple
+  author: Zhao Yongin
+  language: eng
+  text: |-
+    Sandalwood halls rise tier upon tier,
+    Ten leagues of fragrant wind—like orange isles at play.
+    Once they chose this blessed ground with distant vision,
+    And built these lofty towers for beauty's sake.
+
+    Front springs connect to heaven's river—Zhang Qian's path,
+    Rear mountains prop the sky—no dread of falling.
+    Blessed fortune bids the royal carriage turn
+    To linger briefly, savoring mysteries profound.
+
+    East and west the guards rejoice in harmony,
+    Far hills and near streams drift with fortune's breath.
+    Horn calls at five mark an auspicious dawn,
+    The river runs clear through nine bends of autumn's peace.
+
+    The Zhou King's feast recalls the "Common Thistle" song,
+    The Han Emperor hums, sensing autumn's sorrow.
+    They bow before the Buddha's triple refuge,
+    And dare enjoy all four treasures of the day.
+
+    Your grace spreads wide as ocean—fish delight,
+    Your years stretch long as heaven—cranes grow shy.
+    It seems you know tomorrow calls the phoenix carriage back,
+    And at the temple gate, mist gathers into melancholy.
+  footnotes:
+  - key: ''
+    value: Zhang Qian, Han envoy, was said to have journeyed so far west that he reached the Milky Way.
+  - key: ''
+    value: The 'nine bends' refers to the legendary loops of the Yellow River; its waters run clear only once in a thousand years, a sign of sage rule.
+  - key: ''
+    value: The 'Common Thistle' song celebrates fraternal harmony—sung here as the royal family journeys together.
+  - key: ''
+    value: The Han Emperor's autumn song, composed while floating on the Fen River, reflects on aging and melancholy.
+  - key: ''
+    value: The 'triple refuge' refers to Buddhist devotion to Buddha, Dharma, and Sangha.
+  - key: ''
+    value: The 'four treasures' are perfect weather, beautiful scenery, contented heart, and joyous occasion.

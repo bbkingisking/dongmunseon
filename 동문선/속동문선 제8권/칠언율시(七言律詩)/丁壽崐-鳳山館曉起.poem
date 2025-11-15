@@ -1,0 +1,53 @@
+canonical:
+  title: 鳳山館曉起
+  author: 丁壽崐
+  language: lzh
+  text: 寒天短日擲輕梭客子長吟出塞歌自是生涯聞道晩由來傳舍閱人多十年宦海從愁老萬里雲山和醉過欲寫看來無限景強題燈下筆頻呵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鳳山館曉起
+  author: 丁壽崐
+  language: lzh
+  text: 寒天短日擲輕梭。客子長吟出塞歌。自是生涯聞道晩。由來傳舍閱人多。十年宦海從愁老。萬里雲山和醉過。欲寫看來無限景。強題燈下筆頻呵。
+korean:
+  title: 봉산관 효기
+  author: 정수곤
+  language: kor
+  text: |-
+    찬 하늘의 짧은 해가 가벼운 북을 던지듯
+    나그네는 출새가를 길게 읊조린다
+    스스로 평생에 도를 듣기 늦었고
+    고래로 전사는 많은 사람을 겪는다
+    10년의 벼슬 바다에서 시름 때문에 늙었거니
+    만 리의 구름 산을 술에 취해 지났다
+    보아온 한없는 경치를 묘사하려고
+    억지로 등불 밑에서 쓰노라고 붓을 자주 분다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 출새가(出塞歌) : '
+    value: 옛날에 종군(從軍)하여 국경으로 나갈 적에는 출새곡(出塞曲)을 불렀다.
+  - key: '[주-D002] 전사(傳舍) : '
+    value: 역관(驛館)을 말한다. 한(漢)나라의 합관요(蓋寬饒)가 당시의 귀족인 허백(許伯)의 새 집 지은 낙성식(落成式)에 가서 새 집을 쳐다보며, “부귀(富貴)는 무상(無常)하여 문득 사람을 바꾸는 것이니, 비유컨대, 전사(傳舍)와 같아서 사람을 많이 겪을 것이다.” 하였다.
+  - key: '[주-D003] 억지로 …… 자주 분다[呵] : '
+    value: 겨울에 추워서 붓이 얼었으므로 입으로 언 것을 불어서 글을 쓴다는 말이다.
+english:
+  title: Dawn Rising at Bongsan Lodge
+  author: Jung Su-gon
+  language: eng
+  text: |-
+    Cold heaven spins its shortened day like a swift shuttle cast,
+    The wanderer hums the border-crossing song, long and drawn out.
+    In my lifetime, I came late to the Way's understanding—
+    Since ancient times, the inn of passage has known countless souls.
+    Ten years in officialdom's sea, I've aged through sorrows;
+    A thousand miles of cloud-wrapped mountains, I've wandered them in wine.
+    I wish to capture all the boundless vistas I have seen,
+    But force my brush beneath the lamp, breathing warmth upon frozen ink.
+  footnotes:
+  - key: ''
+    value: The border-crossing song (出塞歌) was traditionally sung by soldiers departing for frontier service, evoking themes of separation and duty.
+  - key: ''
+    value: The 'inn of passage' alludes to an ancient parable about the transience of fortune and position, suggesting how many souls pass through life's way station.
+  - key: ''
+    value: The final image of breathing upon frozen ink reflects the poet's struggle in the cold to commit his experiences to writing—a metaphor for the difficulty of capturing fleeting beauty in words.

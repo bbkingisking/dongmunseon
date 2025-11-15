@@ -1,0 +1,53 @@
+canonical:
+  title: 夜坐有吟
+  author: 金壽童
+  language: lzh
+  text: 城西十里隔塵凡身世堪誇吏隱兼擘岸晩風飜夕浪漏雲纖月入踈簾闘茶新試錙銖火散帙仍懸甲乙籤客裏不禁春興惱邇來詩酒癖難砭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜坐有吟
+  author: 金壽童
+  language: lzh
+  text: 城西十里隔塵凡。身世堪誇吏隱兼。擘岸晩風飜夕浪。漏雲纖月入踈簾。闘茶新試錙銖火。散帙仍懸甲乙籤。客裏不禁春興惱。邇來詩酒癖難砭。
+korean:
+  title: 야좌 유음
+  author: 김수동
+  language: kor
+  text: |-
+    성 서쬭 10리가 속세와 막혔으니
+    이은을 겸한 시세를 자랑할 만하누나
+    언덕을 치는 늦은 바람은 저녁 물결을 뒤집는데
+    구름에서 새어나온 가느다란 달은 성긴 발에 드나니
+    차를 다리기 다투노라 새로이 치수의 불을 시험하고
+    질책을 펴고는 이내 갑을의 첨을 꽂도다
+    나그네라 봄 흥의 괴로움을 금하지 못하거니
+    근래에 시와 술의 성벽을 고치기 어려워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이은(吏隱) : '
+    value: 이(吏) 노릇하는 것이 곧 숨어 산다는 말인데, 이은(吏隱)이란 옛말이 있다.
+  - key: '[주-D002] 치수(錙銖) : '
+    value: 차를 잘 끓이는 데는 불을 알맞추어 때는 법이 있는데, 한 치 한 푼의 눈을 다투는 저울처럼 세밀하게 주의하는 것이다.
+  - key: '[주-D003] 갑을(甲乙)의 첨(籤) : '
+    value: 많은 책에다 갑(甲)ㆍ을(乙)을 분류하여 첨(籤)으로 표시한다.
+english:
+  title: Evening Sitting with a Poem
+  author: Kim Su-dong
+  language: eng
+  text: |-
+    Ten leagues west of the city walls divide me from the dust of the world.
+    I can take pride in this life—official service and retirement entwined.
+    Late wind strikes the bank and rolls the evening waves,
+    while gossamer moonlight seeping through clouds enters the sparse bamboo screen.
+    We contend in tea-making, testing anew the precise fire,
+    and having spread my volumes, I now arrange them by their markers—A and B.
+    As a traveler, I cannot resist the ache of spring's allure,
+    and lately, my passion for poetry and wine has become a malady no physician can cure.
+  footnotes:
+  - key: ''
+    value: '吏隱 (official retirement): A classical paradox describing the life of serving in office while maintaining the spirit of a hermit—outwardly engaged, inwardly detached.'
+  - key: ''
+    value: '錙銖之火 (fire measured in fractions): Tea preparation requires meticulous attention to the flame, as precise as weighing out the tiniest measures—a metaphor for careful, devoted craftsmanship.'
+  - key: ''
+    value: '甲乙籤 (A-B markers): Classical scholars organized their collections by categorizing texts with these traditional designations, here suggesting the organization of one''s personal library.'

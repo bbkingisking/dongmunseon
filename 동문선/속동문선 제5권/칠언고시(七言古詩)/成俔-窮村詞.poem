@@ -1,0 +1,60 @@
+canonical:
+  title: 窮村詞
+  author: 成俔
+  language: lzh
+  text: 玄雲承空朔風怒彩鴷啄啄溪邊樹山下茅廬小縮蝸三男兩老同家住一男荷斧撏薪蒸一男跡兎踰丘陵最小一男啼索飯姑坐補襪翁綯繩土榻微溫烟火足瓦釜融融泣豆粥牛鳴齕箕雞在榤人物㐫年生理拙兒牽翁衣翁撫頂出門同看滿山雪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 窮村詞
+  author: 成俔
+  language: lzh
+  text: 玄雲承空朔風怒。彩鴷啄啄溪邊樹。山下茅廬小縮蝸。三男兩老同家住。一男荷斧撏薪蒸。一男跡兎踰丘陵。最小一男啼索飯。姑坐補襪翁綯繩。土榻微溫烟火足。瓦釜融融泣豆粥。牛鳴齕箕雞在榤。人物㐫年生理拙。兒牽翁衣翁撫頂。出門同看滿山雪。
+korean:
+  title: 궁촌사
+  author: 성현
+  language: kor
+  text: |-
+    검정 구름 하늘에 가득, 북풍이 휘몰아치는데
+    딱따구리가 딱딱 시냇가의 나무를 쪼네
+    산 밑의 달팽이집만한 조그만 초가
+    세 아들, 두 늙은이가 한 집에서 사네
+    한 아들은 도끼 메고 나무하러 가고
+    한 아들은 토끼자국 밟아 언덕 넘어 가고
+    맨 끝 어린애는 울며 밥 달라 하고
+    할멈은 앉아서 버선 깁고, 늙은인 새끼 꼬네
+    구들이 미지근하니 불은 든든히 땐 듯
+    질가마에 와글와글 팥죽이 끓네
+    소는 “움머” 콩깍질 씹고 닭은 홰에
+    사람ㆍ짐승 모두 흉년에 생계가 구차하네
+    애는 늙은이 옷을 끌고 늙은인 이마를 만지며
+    문에서 나와 함께, 산에 가득한 눈을 바라보누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0170&viewSync=OT
+  footnotes: []
+english:
+  title: A Poor Village Song
+  author: Sung Hyeon
+  language: eng
+  text: |-
+    Dark clouds fill the sky, the north wind rages with fury,
+    Woodpeckers tap and peck at trees along the stream.
+    Beneath the mountain stands a cottage small as a snail's shell,
+    Three sons and two elders dwelling together in one home.
+
+    One son takes his axe and goes to gather wood,
+    One son follows rabbit tracks across the distant hills,
+    The youngest cries and begs for rice to fill his belly,
+    While grandmother sits mending socks, grandfather twists rope.
+
+    The stone-heated floor holds its meager warmth,
+    The earthen pot bubbles with bean porridge,
+    The ox lows and chews the chaff of beans,
+    The rooster perches in the rafters.
+
+    All creatures, all people, struggle in this lean year,
+    Their lives worn thin by hunger's grind.
+    The child tugs at grandfather's sleeve, touches his brow,
+    Together they step outside to gaze at mountains blanketed in snow.
+  footnotes:
+  - key: ''
+    value: This poem, written by the Joseon scholar-official Sung Hyeon (1439-1504), portrays the quiet dignity of rural poverty with remarkable tenderness and realism for its era.

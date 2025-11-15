@@ -1,0 +1,45 @@
+canonical:
+  title: 秋雨偶題
+  author: 鄭思道
+  language: lzh
+  text: 迢遞雲連塞凄涼雨送秋滴階驚坐睡着柳長詩愁夜暗憐鷄叫天寒愧客遊戀君心愈切矯首獨登樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋雨偶題
+  author: 鄭思道
+  language: lzh
+  text: 迢遞雲連塞。凄涼雨送秋。滴階驚坐睡。着柳長詩愁。夜暗憐鷄叫。天寒愧客遊。戀君心愈切。矯首獨登樓。
+korean:
+  title: 가을비에 우연히
+  author: 정사도
+  language: kor
+  text: |-
+    아득하게 구름은 새방으로 연하였고
+    처량하게 비는 가을을 몰아 보내네
+    뜰에 듣는 소리에 앉아 듣기에 놀라고
+    버들가지에 뿌릴 제는 시 시름 자아내네
+    밤 어둠에 닭의 울음소리 어여쁘고
+    하늘이 차매 나그네 신세 부끄러워라
+    임 생각하는 마음 간절하여
+    머리를 들고 혼자 다락에 오르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: 'Autumn Rain: A Casual Verse'
+  author: Jung Sa-do
+  language: eng
+  text: |-
+    The clouds stretch distant toward the frontier's edge.
+    The melancholy rain ushers autumn away.
+    Droplets on the terrace startle me from my reverie.
+    When they strike the willow, they kindle my poet's sorrow.
+    In the darkness of night, the rooster's call seems dear to me.
+    As heaven turns cold, I am ashamed of my wandering.
+    My longing for you grows ever more keen.
+    I lift my gaze and climb the tower, alone.
+  footnotes:
+  - key: ''
+    value: The 'frontier' (塞) may allude to separation and distance, a common trope in East Asian poetry for longing and exile.
+  - key: ''
+    value: The progression from external nature (rain, cold) to internal emotion (longing) reflects the classical poetic method of using landscape to express inner feeling.

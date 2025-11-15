@@ -1,0 +1,70 @@
+canonical:
+  title: 上
+  author: 金坵
+  language: lzh
+  text: 兩世波瀾定海東泰山功後泰山功茆分萬戶猶毫末河潤三韓亦掌中胡影不侵楡塞月漢歌閑倚玉樓風黑頭丞相前應有綠髮封侯始見公玉上無端點作痕已將名利負乾坤早年爭奈埋塵土餘孽那堪及子孫金牓功夫誰見賞雪窓文字未償寃可憐百歲升沉事决在明朝一片言
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上
+  author: 金坵
+  language: lzh
+  text: 兩世波瀾定海東。泰山功後泰山功。茆分萬戶猶毫末。河潤三韓亦掌中。胡影不侵楡塞月。漢歌閑倚玉樓風。黑頭丞相前應有。綠髮封侯始見公。玉上無端點作痕。已將名利負乾坤。早年爭奈埋塵土。餘孽那堪及子孫。金牓功夫誰見賞。雪窓文字未償寃。可憐百歲升沉事。决在明朝一片言。
+korean:
+  title: 상
+  author: 김구
+  language: kor
+  text: |-
+    두 대나 해동에 물결이 자니
+    태산 같은 공 위에 다시 태산 같은 공
+    만호후로 모토를 나눔도 오히려 털끝만한 보수
+    삼한을 하수처럼 적셔 줌도 손바닥 속에서
+    변새 달 아래 되 그림자 사라지고
+    옥루 바람결에 한 노래가 한가해라
+    검은 머리 재상은 전에도 있었다지만
+    녹발로 후에 봉하긴 공이 처음이리
+    옥 위에 무단히 티 한 점찍혀져서
+    명리 때문에 천지를 저버렸네
+    젊은 나이에 죽어서 진토에 묻힐 줄야
+    남은 죄 뒤에 차마 자손까지 미치다니
+    금방의 공부를 뉘라서 알아주리
+    설창에 닦은 문자 원통함을 갚지 못하네
+    아아, 이 몸 평생의 뜨고 잠길 일이
+    내일 아침 한 말씀에 달려 있구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진양공(晉陽公) : '
+    value: 최충헌(崔忠獻)의 아들 우(瑀), 고친 이름은 이(怡). 강화 천도 뒤 고종(高宗) 21년 진양후(晉陽後)에 봉하였다.
+  - key: '[주-D002] 한(漢) 노래 : '
+    value: 한가(漢歌)는 오랑캐를 쫓았으니 한(漢)나라 노래 부르는 소리만이 있다는 것이다.
+  - key: '[주-D003] 설창(雪窓) : '
+    value: 진(晉)나라 손강(孫康)이 등불이 없어 눈 온 날 창 앞에서 글을 읽은 고사.
+english:
+  title: Ascending
+  author: Kim Gu
+  language: eng
+  text: |-
+    Two generations, and the waves settle in the Eastern Sea—
+    Beyond the merit of great Taishan, another Taishan rises.
+    Ten thousand households divided, yet the reward remains but a hair's breadth,
+    Three Han kingdoms bathed in the river's grace, held within a palm.
+
+    Barbarian shadows fade beneath the borderland moon,
+    While a lone song drifts idly on the jade tower's wind.
+    Black-haired ministers have come before,
+    But to enfeoff a green-haired youth—this honor is yours alone.
+
+    Upon jade, a speck of dust falls without reason,
+    And for fame and fortune, heaven and earth are betrayed.
+    In youth to be buried in the dust of death—
+    Yet the sins that remain may touch even your descendants.
+
+    Who will acknowledge the golden merit of yesterday?
+    The words written by snowy window remain unavenged.
+    Alas, this life's rise and fall,
+    Hangs upon a single word spoken tomorrow morning.
+  footnotes:
+  - key: ''
+    value: The poem references Choi Chung-heon, a powerful 13th-century Goryeo general, and his son, suggesting themes of power, succession, and the precarious nature of political fortune.
+  - key: ''
+    value: The 'snowy window' alludes to the classical Chinese sage Sun Kang, who read by moonlight reflected off snow, symbolizing scholarly devotion despite hardship.

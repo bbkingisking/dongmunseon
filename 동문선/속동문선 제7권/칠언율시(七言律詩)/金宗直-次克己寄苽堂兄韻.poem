@@ -1,0 +1,49 @@
+canonical:
+  title: 次克己寄苽堂兄韻
+  author: 金宗直
+  language: lzh
+  text: 蹔隨烟霧入溟濛水穴風岩萬壑中希朗塔邊烏啄磬孤雲臺上鶴蹺松已敎塵躅迷幽徑長有仙飈落半空却笑將來居烈守山扃假步與吾同
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次克己寄苽堂兄韻
+  author: 金宗直
+  language: lzh
+  text: 蹔隨烟霧入溟濛。水穴風岩萬壑中。希朗塔邊烏啄磬。孤雲臺上鶴蹺松。已敎塵躅迷幽徑。長有仙飈落半空。却笑將來居烈守。山扃假步與吾同。
+korean:
+  title: 차 극기 기 고당 형운
+  author: 김종직
+  language: kor
+  text: |-
+    잠깐 연기와 안개를 따라 명몽한 데 들었나니
+    물 구멍과 바람 바위 1만 골짜기 가운데다
+    희랑의 탑 가에는 까마귀가 경쇠를 쪼으고
+    고운(신라의 최치원)의 대 위에는 학이 소나무를 돌더라
+    이미 티끌의 발자취로 하여금 그윽한 길에 헤매게 하였는데
+    언제나 신선의 바람이 있어 반공에 떨어진다
+    문득 웃노니 장래에 공을 지키며 살 때에
+    산경을 멀리 걷기를 나와 같게 하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0700&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Geukgi's Poem Sent to Our Elder Brother at Godang
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    I follow the mist and fog for a moment into that misty void,
+    Where water hollows and wind-carved rocks fill ten thousand gorges.
+    At the pagoda's edge near Heerang, a crow pecks the bronze bell,
+    Above Goun's tower, a crane dances among the pines.
+    I have already let the dust of footsteps wander the secluded path,
+    Yet always the immortal's wind descends through half the sky.
+    But I smile at what's to come—when you keep watch in your post—
+    May the mountain gate's solitary walk be shared as one with me.
+  footnotes:
+  - key: ''
+    value: Heerang (希朗) refers to a sacred site or temple in Korean Buddhist geography.
+  - key: ''
+    value: Goun (孤雲) is a reference to Choe Chi-won (崔致遠), a renowned Silla scholar and poet, whose tower or dwelling place represents a space of scholarly retreat.
+  - key: ''
+    value: The 'immortal's wind' (仙飈) evokes the Daoist imagery of transcendence and spiritual freedom that pervades classical East Asian poetry.
+  - key: ''
+    value: The poem appears to address a kinsman who may be taking on an administrative or guardianship role ('keeping watch in your post'), with the speaker expressing hope for spiritual companionship despite separation.

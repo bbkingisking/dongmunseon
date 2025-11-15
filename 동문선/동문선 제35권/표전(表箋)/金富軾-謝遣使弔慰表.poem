@@ -1,0 +1,34 @@
+canonical:
+  title: 謝遣使弔慰表
+  author: 金富軾
+  language: lzh
+  text: 海隅纏釁諒積悲哀宸極軫憐特垂慰籍中謝 伏念臣藐居冲幼奄遘閔㐫雖從易月之權迺抱終天之痛嬛然號慕缺爾告稱豈謂遣以使臣諭之德意詔辭溫厚禮物便蕃旣拜命以凌兢但撫懷而感咽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝遣使弔慰表
+  author: 金富軾
+  language: lzh
+  text: 海隅纏釁。諒積悲哀。宸極軫憐。特垂慰籍。中謝。 伏念臣藐居冲幼。奄遘閔㐫。雖從易月之權。迺抱終天之痛。嬛然號慕。缺爾告稱。豈謂遣以使臣。諭之德意。詔辭溫厚。禮物便蕃。旣拜命以凌兢。但撫懷而感咽。
+korean:
+  title: 사신을 보내어 조위함을 사례하는 표
+  author: 김부식
+  language: kor
+  text: |-
+    멀리 해우(海隅)에서 친상(親喪)을 당하여 애통이 망극하옵던 중, 신극(宸極 황제)이 진련(軫憐)하시어 특히 위자(慰藉)를 내리셨나이다. 중사(中謝)
+    엎드려 생각하옵건대, 신(臣)이 아직 어린 몸으로 갑자기 이 같이 큰 상사(喪事)를 만나, 비록 달로써 해를 바꾸는 상례(喪禮)의 권도(權道)를 좇으오나 이처럼 하늘 끝까지 가는 애통을 가슴에 품고, 슬프게 호곡(號哭)하기에 정신이 없어 아직 고부(告訃)도 하지 못하였사온대 뜻밖에 사신을 보내시어 덕의(德意)로써 하유(下諭)하옵시니, 조사(詔辭)가 온후하옵시고 예물이 풍성하십니다. 명을 받자옴에 황공함을 이기지 못하옵고 오직 회포를 어루만져 느끼며 목메옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 달로써 해를 바꾸는 상례(喪禮) : '
+    value: 3년상을 3월상으로 바꾸는 것이다.
+english:
+  title: Memorial of Gratitude for the Condolences Sent by Imperial Envoy
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    From distant shores, grief has overtaken me in this season of mourning. The sorrow knows no bounds. Yet the Son of Heaven, moved with compassion, has sent his gracious consolation.
+
+    I humbly submit: Your servant, still young and unprepared, was suddenly struck by this great calamity. Though I follow the ritual's merciful dispensation that shortens the mourning years, I carry within my breast a grief that reaches to heaven's end. In my anguished weeping, my spirit scatters—I have not even sent word of the passing. Yet without warning, you have dispatched an envoy bearing the imperial virtue and concern. The decree comes gentle and profound, the ritual gifts abundant and generous. Upon receiving this command, I am overwhelmed with reverent awe. I can only clutch at my heart, my voice breaking with gratitude.
+  footnotes:
+  - key: ''
+    value: The 'merciful dispensation' refers to the practice of reducing the formal three-year mourning period to three months for officials serving the imperial court.

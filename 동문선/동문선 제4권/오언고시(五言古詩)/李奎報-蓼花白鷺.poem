@@ -1,0 +1,45 @@
+canonical:
+  title: 蓼花白鷺
+  author: 李奎報
+  language: lzh
+  text: 前灘富魚蝦有意劈波入見人忽驚起蓼岸還飛集翹頸待人歸細雨毛衣濕心猶在灘魚人噵忘機立
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蓼花白鷺
+  author: 李奎報
+  language: lzh
+  text: 前灘富魚蝦。有意劈波入。見人忽驚起。蓼岸還飛集。翹頸待人歸。細雨毛衣濕。心猶在灘魚。人噵忘機立。
+korean:
+  title: 여뀌꽃과 흰 해오라기
+  author: 이규보
+  language: kor
+  text: |-
+    앞 여울에 고기와 새우 많으매
+    백로가 물결을 뚫고 들어가려다
+    사람을 보고 문득 놀라 일어나
+    여뀌꽃 언덕에 도로 날아 앉았네
+    목을 들고 사람 가기 기다리나니
+    보슬비에 온 몸의 털 다 젖는구나
+    그 마음은 오히려 여울 고기에 있는데
+    사람들은 그를 한가하게 서 있다고 이르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: The Egret Among Smartweed Flowers
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    The shallows ahead teem with fish and shrimp.
+    The white egret pierces the ripples, eager to wade in,
+    but catches sight of a man and suddenly startles,
+    fluttering back to settle on the smartweed bank.
+    With stretched neck, it waits for the man to depart,
+    its white feathers soaked through by the drizzle.
+    Yet its heart still lingers in the shallows' prey—
+    while people call it the picture of idle repose.
+  footnotes:
+  - key: ''
+    value: The smartweed (蓼, yeokui in Korean) is a water plant with delicate flowers, suggesting the liminal space between water and shore where the egret perches.
+  - key: ''
+    value: The poem plays on the Daoist concept of 'forgetting artifice' (忘機) — here the egret's seemingly carefree stance masks its true preoccupation with survival and hunger.

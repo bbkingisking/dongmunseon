@@ -1,0 +1,48 @@
+canonical:
+  title: 瑜伽寺
+  author: 金之岱
+  language: lzh
+  text: 寺在煙霞無事中亂山滴翠秋光濃雲閒絶磴六七里天末遙岑千萬重茶罷松簷掛微月講闌風榻搖殘鍾溪流應笑玉腰客欲洗未洗紅塵蹤
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 瑜伽寺
+  author: 金之岱
+  language: lzh
+  text: 寺在煙霞無事中。亂山滴翠秋光濃。雲閒絶磴六七里。天末遙岑千萬重。茶罷松簷掛微月。講闌風榻搖殘鍾。溪流應笑玉腰客。欲洗未洗紅塵蹤。
+korean:
+  title: 유가사
+  author: 김지대
+  language: kor
+  text: |-
+    안개와 노을이 고요한 속에 자리잡은 절
+    산엔 푸른빛이 점점이 들어 한창 무르익고
+    구름 새에 가파른 길이 6, 7리나 뻗었는데
+    하늘 끝의 먼 봉은 천 겹인가, 만 겹인가
+    차 들고 나면 솔처마에 초승달 걸려 있고
+    설법이 끝나자 서늘한 탑에 종소리 울려오네
+    나 같은 벼슬꾼을 시냇물이 응당 웃으렷다
+    홍진의 때를 씻으려도 못 씻으니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0310&viewSync=OT
+  footnotes: []
+english:
+  title: Yugasa Temple
+  author: Kim Ji-dae
+  language: eng
+  text: |-
+    The temple rests in mist and glow, beyond all worldly care.
+    On tangled peaks, emerald drops pool thick as autumn deepens.
+    Between the clouds, steep paths stretch six or seven leagues,
+    While distant ridges at heaven's edge layer a thousand—ten thousand folds.
+
+    Tea finished, the crescent moon hangs from the pine-thatched eaves.
+    The dharma talk ends; cool wind stirs the bell's last cry.
+    The stream must surely laugh at an official such as I,
+    Who seeks to wash away the dust of office, yet cannot.
+  footnotes:
+  - key: ''
+    value: The 'official' (玉腰客) refers to the poet himself, suggesting he held a court position before seeking refuge in the temple.
+  - key: ''
+    value: The 'red dust' (紅塵) is a Buddhist metaphor for the defilements of worldly life and desire.
+  - key: ''
+    value: The final paradox—desiring to wash away worldly stains yet unable to do so—captures the tension between spiritual aspiration and human limitation that defines the poet's condition.

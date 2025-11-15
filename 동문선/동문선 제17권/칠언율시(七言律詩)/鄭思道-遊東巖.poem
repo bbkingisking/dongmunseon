@@ -1,0 +1,47 @@
+canonical:
+  title: 遊東巖
+  author: 鄭思道
+  language: lzh
+  text: 無家遠客寄山中試得禪家定裏功脚困危梯緣絶壁眼明飛閣聳層空踈鍾隱隱催西日高鐸鈴鈴響北風夜坐蒲團心正靜老僧無語佛燈紅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊東巖
+  author: 鄭思道
+  language: lzh
+  text: 無家遠客寄山中。試得禪家定裏功。脚困危梯緣絶壁。眼明飛閣聳層空。踈鍾隱隱催西日。高鐸鈴鈴響北風。夜坐蒲團心正靜。老僧無語佛燈紅。
+korean:
+  title: 유동암
+  author: 정사도
+  language: kor
+  text: |-
+    집도 없는 나그네가 산중에 몸을 부쳐
+    선가의 선정의 공부를 얻으려 하네
+    사다리로 절벽을 오르니 다리가 와들와들
+    높은 각이 반공에 우뚝 눈이 아찔
+    종소리는 은은히 석양을 재촉하고
+    풍경은 북풍에 댕그랑 댕그랑
+    밤 들어 방석에 앉아 마음도 고요한데
+    노승은 말이 없는데 불등만이 붉구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Journey to East Rock
+  author: Jeong Sa-do
+  language: eng
+  text: |-
+    A wanderer without home seeks refuge in the mountains.
+    I come to practice the meditation of the Buddhist way.
+    My legs tremble climbing the narrow ladder up the sheer cliff,
+    Yet my eyes grow bright as the soaring pavilion pierces the layered sky.
+    The bell tolls softly, urging the western sun to descend,
+    The wind-chime rings clear, dancing in the northern breeze.
+    At night, sitting on my meditation mat, my heart settles into stillness,
+    The old monk says nothing—only the Buddha lamp glows red.
+  footnotes:
+  - key: ''
+    value: The 'Buddhist way' refers to the spiritual discipline of meditation practice
+  - key: ''
+    value: The 'wind-chime' (풍경) is a traditional temple implement that creates sounds in the wind
+  - key: ''
+    value: The 'Buddha lamp' symbolizes spiritual illumination in Buddhist practice

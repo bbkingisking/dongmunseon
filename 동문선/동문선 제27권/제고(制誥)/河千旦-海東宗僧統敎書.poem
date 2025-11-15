@@ -1,0 +1,31 @@
+canonical:
+  title: 海東宗僧統敎書
+  author: 河千旦
+  language: lzh
+  text: 敎云云名以實旌職由德表所以採桑門之僉望於焉領緇流之極榮今賜僧統告身一通至可領也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 海東宗僧統敎書
+  author: 河千旦
+  language: lzh
+  text: 敎云云。名以實旌。職由德表。所以採桑門之僉望。於焉領緇流之極榮。今賜僧統告身一通。至可領也。
+korean:
+  title: 해동종 승통 교서
+  author: 하천단
+  language: kor
+  text: 교하노라. 운운. 이름은 실상으로써 나타나고, 직위는 덕으로 말미암아 표시되는 것이다. 그러므로 상문(桑門)의 물망을 들어서 승려들의 지극한 영광을 받게 한다. 이제 승통(僧統)의 직첩 한 통을 주니, 이르거든 받으라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0300_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Proclamation Appointing the Sangha Administrator of the Eastern Tradition
+  author: Ha Cheon-dan
+  language: eng
+  text: 'The proclamation speaks as follows: Names illuminate truth, and positions are marked by virtue. Thus we select from the esteemed wishes of the monastic community, bestowing upon you the highest honor among the ordained. Now we grant you the official seal of Sangha Administrator—receive it with reverence.'
+  footnotes:
+  - key: ''
+    value: Sangha Administrator (僧統) was an official ecclesiastical position in Korean Buddhism
+  - key: ''
+    value: The 'Eastern Tradition' refers to Buddhism in Korea
+  - key: ''
+    value: This appears to be a formal administrative document investing someone with monastic authority

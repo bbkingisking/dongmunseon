@@ -1,0 +1,49 @@
+canonical:
+  title: 大師
+  author: 釋寥一
+  language: lzh
+  text: 五更殘夢寄松關十載低徊紫禁間早茗細含鸞鳳影異香新屑鷓鴣斑自憐瘦鶴翔靑漢久使寒猨怨碧山願把殘陽還舊隱不敎巖畔白雲閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大師
+  author: 釋寥一
+  language: lzh
+  text: 五更殘夢寄松關。十載低徊紫禁間。早茗細含鸞鳳影。異香新屑鷓鴣斑。自憐瘦鶴翔靑漢。久使寒猨怨碧山。願把殘陽還舊隱。不敎巖畔白雲閑。
+korean:
+  title: 물러가기를 빈다[乞退] 대사
+  author: 석요일
+  language: kor
+  text: |-
+    밤마다 새벽 꿈이 산문에 있었건만
+    십년 동안이나 궁궐 안에 묵어왔네
+    아침의 차는 난봉 그림자를 띠었고
+    기이한 향은 새로 자고반(향(香) 이름)을 가루로 했네
+    여윈 학이 왜 하늘 높이 날아다녀서
+    외로운 납을 푸른 산에서 원망케 했던고
+    남은 생을 가지고 옛 절로 가자
+    바윗가 흰 구름들이 심심하지 않도록
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: A Master's Prayer for Retreat
+  author: Seok Yo-il
+  language: eng
+  text: |-
+    Each dawn I dream of mountain gates beyond the five watches of night,
+    Yet ten years have held me within the purple palace walls.
+    Morning tea bears the shadow of phoenixes in flight,
+    And rare incense turns to powder, patterned like a partridge's mark.
+    Why does this lean crane soar so high through azure sky,
+    Leaving the lonely gibbon to lament the green mountains?
+    Let me take these remaining days and return to my old hermitage,
+    So the white clouds at the cliff's edge need never know solitude.
+  footnotes:
+  - key: ''
+    value: The 'five watches of night' refers to the final watch before dawn in traditional timekeeping, suggesting the liminal space between sleep and waking.
+  - key: ''
+    value: The 'purple palace' (紫禁) is a poetic reference to the imperial court or seat of power.
+  - key: ''
+    value: The crane and gibbon are traditional symbols in Chinese and Korean poetry representing the solitary contemplative spirit yearning for freedom and natural mountains.
+  - key: ''
+    value: This poem expresses the speaker's longing to abandon official duties and return to monastic life in solitude.

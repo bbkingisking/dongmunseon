@@ -1,0 +1,49 @@
+canonical:
+  title: 三與銘幷序
+  author: 李穡
+  language: lzh
+  text: 曹溪登堦安上人號三與請予銘銘曰折蘆梁江面壁魏雪彼何人斯庭立腰折問答之間至道乃决罵月我匪其徒敢爲君訣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 三與銘幷序
+  author: 李穡
+  language: lzh
+  text: 曹溪登堦安上人。號三與。請予銘。銘曰。折蘆梁江。面壁魏雪。彼何人斯。庭立腰折。問答之間。至道乃决罵月。我匪其徒。敢爲君訣。
+korean:
+  title: 삼여명 병서
+  author: 이색
+  language: kor
+  text: 조계종의 등계(登堦)한 안상인(安上人)이 삼여(三與)라 호(號)를 짓고 나에게 명(銘)을 청한다. 명(銘)에 이르기를, 갈대(蘆)를 꺾어서 타고 양(梁)나라 강을 건너가서 위(魏)나라에서 눈오는 밤에 면벽(面壁)하였다. 저 어떤 사람이 허리를 굽히고 뜰에 섰는고, 문답하는 사이에 지극한 도(道)가 결정났네. 준다[與]는 말을 세 번 하니 우레 울고 번개치는 듯 마침내 아손(兒孫)들로 하여금 바람 그치고 달을 꾸짖게 하였다. 나는 불도(佛徒)가 아닌데 감히 그대에게 무슨 말하랴.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼여(三與) : '
+    value: 달마(達摩)에게 찾아온 혜가(惠可)가, “마음이 불안하니 안정시켜 주소서(與).” 하였다. 달마는 “불안한 마음을 내어서 바쳐라. 안정시켜 주리라(與).” 하니 혜가는 “마음을 찾아 보아도 도무지 찾아낼 수 없습니다.” 하였다. 달마는 “너의 마음을 안정시켜 주었노라(與).” 하니 혜가는 문득 깨달았다.
+  - key: '[주-D002] 아손(兒孫) : '
+    value: 달마의 후세제자(後世弟子)들을 말한 것이다.
+english:
+  title: Inscription for the Dharma Master Three-Givings, with Preface
+  author: Lee Saek
+  language: eng
+  text: |-
+    The Dharma Master of Jogye Temple, who has ascended the hall, An Sangyin, took the name Three-Givings and asked me to compose an inscription. The inscription reads:
+
+    Breaking reeds to cross the Yangzi,
+    Facing the wall through snowy nights in Wei—
+    What manner of man is he,
+    Standing in the courtyard, spine bent?
+
+    In the exchange of question and answer,
+    the ultimate Way was settled.
+    Three times the word 'Give' resounded
+    like thunder and lightning,
+    until even descendants learned
+    to still the wind and scold the moon.
+
+    I am no disciple of Buddha,
+    yet how dare I offer counsel to you?
+  footnotes:
+  - key: ''
+    value: 'The name ''Three-Givings'' refers to a famous Zen dialogue: when Huike came to Bodhidharma asking for peace of mind, Bodhidharma said ''Bring me your troubled mind and I will pacify it.'' When Huike replied that he could not find his mind to bring, Bodhidharma said ''I have already pacified it for you.'' In each exchange, the word ''give'' (與) appears, hence ''Three-Givings.'''
+  - key: ''
+    value: The reference to breaking reeds and crossing rivers alludes to Bodhidharma's legendary journey; 'facing the wall' refers to Bodhidharma's practice of meditation.

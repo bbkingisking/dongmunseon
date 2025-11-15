@@ -1,0 +1,31 @@
+canonical:
+  title: 三請宜允
+  author: 鄭沆
+  language: lzh
+  text: 古之賢王在亮陰之中三年不言自漌以後喪期之數以日易月朕之行制雖一遵於漢氏其居不側席視聽如常者豈所安乎今以卿等封章繼上以御正殿聽政事爲請言辭懇切理或重違勉從其意惕然未寧益懋交脩無重朕之不德所請宜允
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 三請宜允
+  author: 鄭沆
+  language: lzh
+  text: 古之賢王。在亮陰之中。三年不言。自漌以後。喪期之數。以日易月。朕之行制。雖一遵於漢氏。其居不側席。視聽如常者。豈所安乎。今以卿等封章繼上。以御正殿聽政事爲請。言辭懇切。理或重違。勉從其意。惕然未寧。益懋交脩。無重朕之不德。所請宜允。
+korean:
+  title: 삼청 의윤
+  author: 정항
+  language: kor
+  text: 옛날의 어진 임금은 양음중에 처해서 3년 동안 말하지 아니하였다. 그러다가 한(漢)나라 이후에 상기(喪期)의 수(數)를 날수로써 달수와 바꾸었다. 짐이 행하는 제도가 비록 한나라의 제도를 따른 것이기는 하나, 옆자리에서 거처하지 않으면서 일보기를 평상시와 같이 하는 것이 어찌 마음에 편안할 바이겠는가. 이제 경 등의 봉장(封章)이 계속 올라와서 정전에 앉아 정사하기를 청하였는데, 언사가 간절하여 이치상 어기기가 어렵다. 이에 억지로나마 그 뜻을 따르기는 하지만 척연하여 편안하지 못하도다. 더욱 힘쓰고 다같이 닦아서 짐의 부덕함을 더하지 말게 할지어다. 청한 바를 윤허하노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0320_020_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Three Petitions Granted
+  author: Jeong Hang
+  language: eng
+  text: The sage kings of old, dwelling in the depths of mourning, spoke not for three years. Yet since the Han dynasty came, the duration of the mourning period was reckoned by days rather than months. Though my ordinances follow the Han precedent, how could I find peace, sitting not askew in my seat, my eyes and ears attending to affairs as in ordinary times? Now your sealed petitions rise in succession, beseeching me to ascend the throne and govern. Your words ring with sincerity, and reason bids me not refuse. I yield to your wishes, though my heart remains unsettled and troubled. Let us all strive the more diligently together, that you do not add to my insufficiency. What you have petitioned, I now permit.
+  footnotes:
+  - key: ''
+    value: The 'three years' refers to the traditional mourning period observed by ancient Chinese sages
+  - key: ''
+    value: The shift from months to days in calculating mourning periods represents a change in ritual practice after the Han dynasty
+  - key: ''
+    value: The speaker's reluctance to govern from the main hall while in mourning reflects Confucian propriety regarding ritual observance during periods of grief

@@ -1,0 +1,65 @@
+canonical:
+  title: 3월 3일
+  author: 崔瀣
+  language: lzh
+  text: 憶在大德間吾年方甚盛亦自喜功名愛諠不愛靜奔馳竟無成進退兩交病年今過半百敢謂能知命晚契託高人月不負觴詠褉事講今辰想像蘭亭令縱恠非詩仙且樂中酒聖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 3월 3일
+  author: 崔瀣
+  language: lzh
+  text: 憶在大德間。吾年方甚盛。亦自喜功名。愛諠不愛靜。奔馳竟無成。進退兩交病。年今過半百。敢謂能知命。晚契託高人。月不負觴詠。褉事講今辰。想像蘭亭令。縱恠非詩仙。且樂中酒聖。
+korean:
+  title: 상사
+  author: 최해
+  language: kor
+  text: |-
+    생각하면 대덕 시절에
+    내 나이 한창 젊었나니
+    스스로 공명을 사랑하여
+    시끄러움 좋아하고 고요함 싫어했다
+    분주히 달렸으나 끝내 이룸 없었고
+    나아가나 물러가나 매양 좋아 않았네
+    내 나이 이제 반백이 넘었건만
+    천명을 안다 어찌 감히 말하리
+    늦게야 높은 사람 만나 의지하였거니
+    달마다 술 마시고 시 읊기를 저버리지 않네
+    계사를 오늘에 행하거니
+    옛날의 난정령 상상하노라
+    비록 시선은 아니나
+    우선 주성(청주(淸酒))을 즐기리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천명을 안다 : '
+    value: 공자는, “나는 50세에 천명(天命)을 알았다.” 하였다.
+  - key: '[주-D002] 계사(禊事) : '
+    value: 옛 풍속에, 3월 3일에 물가에 가서 목욕하여 불상(不祥)한 것을 제거하는 것을 불계(祓禊)라 하였다.
+  - key: '[주-D003] 난정령(蘭亭令) : '
+    value: 진(晉)나라 왕희지(王羲之)가 3월 3일에 회계(會稽)의 난정(蘭亭)에서 여러 사람들과 함께 불계를 하여 술 마시고 시를 짓고 놀았다.
+english:
+  title: The Third Day of the Third Month
+  author: Choe Hae
+  language: eng
+  text: |-
+    I recall those days in the Taedok era,
+    when my youth burned bright and fierce.
+    I chased after fame and fortune,
+    craved the noise of the world, shunned silence.
+    I rushed and hurried, yet achieved nothing,
+    whether advancing or retreating, always discontent.
+    Now past fifty years have come upon me—
+    how dare I claim to know the will of Heaven?
+    Late in life I found a worthy guide,
+    and month by month I do not abandon wine and verse.
+    Today we perform the ancient cleansing rites,
+    recalling the elegance of Orchid Pavilion of old.
+    Though I am no immortal poet,
+    still I shall delight in being the sage of wine.
+  footnotes:
+  - key: ''
+    value: The reference to knowing the will of Heaven at fifty echoes Confucius's own declaration of understanding the Mandate of Heaven at that age, marking a transition from youthful ambition to philosophical acceptance.
+  - key: ''
+    value: The cleansing rites (gyesa) were an ancient practice performed on the third day of the third lunar month, where people would gather by water to wash away misfortune and celebrate the arrival of spring.
+  - key: ''
+    value: The Orchid Pavilion alludes to the famous gathering of poet-officials led by Wang Xizhi of the Jin dynasty, where they composed verses while drinking wine—an ideal of refined literati life that inspired East Asian intellectuals for centuries.

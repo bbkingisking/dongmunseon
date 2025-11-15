@@ -1,0 +1,33 @@
+canonical:
+  title: 續折足几銘
+  author: 李奎報
+  language: lzh
+  text: 扶翁之憊者尒乎醫爾之躄者翁乎同病相救孰尸其功乎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 續折足几銘
+  author: 李奎報
+  language: lzh
+  text: 扶翁之憊者尒乎。醫爾之躄者翁乎。同病相救。孰尸其功乎。
+korean:
+  title: 속 절족궤 명
+  author: 이규보
+  language: kor
+  text: 나의 고달픈 것을 붙들어 준 것은 너희였으며 너희 절름발이 된 것을 고쳐준 것은 내다. 동일하게 병들어서 서로 구(救)하여 주었으니 그 뉘가 공(功)의 주인이냐.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0050&viewSync=OT
+  footnotes: []
+english:
+  title: A Continuation on the Inscription of the Broken-Legged Table
+  author: Lee Gyeongbo
+  language: eng
+  text: |-
+    You held me up when I was weary and worn.
+    I mended you when you stumbled and limped.
+    Two ailments found solace in mutual care—
+    so whose hand deserves the credit for this cure?
+  footnotes:
+  - key: ''
+    value: This work appears to be a philosophical meditation on reciprocal help and the dissolution of ego in acts of mutual aid, employing the metaphor of a table and its support to explore the nature of compassion and service.
+  - key: ''
+    value: The title references an earlier inscription, suggesting this piece exists in dialogue with a previous work on the same subject.

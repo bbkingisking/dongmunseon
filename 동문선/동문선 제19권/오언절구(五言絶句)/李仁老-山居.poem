@@ -1,0 +1,35 @@
+canonical:
+  title: 山居
+  author: 李仁老
+  language: lzh
+  text: 春去花猶在天晴谷自陰杜鵑啼白晝始覺卜居深
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山居
+  author: 李仁老
+  language: lzh
+  text: 春去花猶在。天晴谷自陰。杜鵑啼白晝。始覺卜居深。
+korean:
+  title: 산거
+  author: 이인로
+  language: kor
+  text: |-
+    봄은 가도 꽃은 아직 있는데
+    하늘은 갰건만 골짜기는 절로 침침하네
+    두견이 한낮에 우짖으니
+    비로소 깨닫노라 깊은 골에 사는 줄을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: Mountain Dwelling
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Spring departs, yet blossoms remain.
+    The sky clears, but the valley stays shadowed.
+    The cuckoo cries in broad daylight—
+    Only then do I perceive how deep my mountain refuge lies.
+  footnotes:
+  - key: ''
+    value: The cuckoo (두견이) is traditionally associated in East Asian poetry with longing and the passage of seasons, here marking the speaker's recognition of their isolated dwelling.

@@ -1,0 +1,48 @@
+canonical:
+  title: 大丘
+  author: 河緯地
+  language: lzh
+  text: 一家文武姓名香兄執金吾弟玉堂鶴髮北堂膺孝養錦衣南國已輝光鴒原先後君堪羨荊樹參差我獨傷回首月波亭下路滿山松栢欝蒼蒼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大丘
+  author: 河緯地
+  language: lzh
+  text: 一家文武姓名香。兄執金吾弟玉堂。鶴髮北堂膺孝養。錦衣南國已輝光。鴒原先後君堪羨。荊樹參差我獨傷。回首月波亭下路。滿山松栢欝蒼蒼。
+korean:
+  title: 어버이를 영화롭게 하려고 대구
+  author: 하위지
+  language: kor
+  text: |-
+    한 가문에 문과 무로 꽃다운 이름 날려서
+    형은 집금오(한나라 벼슬이름)이고, 아우는 옥당에 앉았네
+    북당의 학발을 효도로 봉양하니
+    남국에 비단옷이 벌써 빛을 내리도다
+    할미새 앞뒤에 그대가 부럽고야
+    자형 나무 갈렸으니, 나 홀로 맘 상하네
+    고개 돌려 바라보니 월파정 아랫길에
+    산 가득히 솔과 잣나무 빽빽이 늘어섰으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0790&viewSync=OT
+  footnotes: []
+english:
+  title: Daequ
+  author: Ha Wiji
+  language: eng
+  text: |-
+    One family adorned with both pen and sword, their names fragrant with honor—
+    The elder brother holds the golden seal of office, the younger sits in jade halls.
+    With white-haired parents in the northern chamber, filial piety tends them well,
+    And in the southern realm, brocade robes already shimmer with radiance.
+
+    I envy you both, like birds before and after on the sand-plain,
+    But when the catalpa trees were cut, I alone grieved.
+    Turning my head to gaze down the path beneath Moon-Wave Pavilion,
+    The mountainside stands crowded—pine and cedar, dense and verdant.
+  footnotes:
+  - key: ''
+    value: The 'golden seal of office' (집금오, jipmgeum'o) refers to an official position in ancient China; the 'jade halls' (옥당, oklang) represents the inner court or imperial secretariat.
+  - key: ''
+    value: The 'northern chamber' (북당, bukdang) is a traditional term for where elderly parents are honored and cared for; the 'southern realm' (남국, namguk) likely refers to the author's region or post.
+  - key: ''
+    value: The catalpa tree (자형 나무) is a classical symbol of separation and grief in East Asian poetry, often evoking the loss of loved ones or separation from close ones.

@@ -1,0 +1,48 @@
+canonical:
+  title: 送昌原府使朴公之任
+  author: 徐居正
+  language: lzh
+  text: 憶昔重過月影臺檜山依舊翠成堆高吟落日欲將去爲喚孤雲猶不來滄海有潮環古壘短碑無字半荒苔風流太守仍文雅爲我閑登酧一杯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送昌原府使朴公之任
+  author: 徐居正
+  language: lzh
+  text: 憶昔重過月影臺。檜山依舊翠成堆。高吟落日欲將去。爲喚孤雲猶不來。滄海有潮環古壘。短碑無字半荒苔。風流太守仍文雅。爲我閑登酧一杯。
+korean:
+  title: 송 창원 부사 박공지임
+  author: 서거정
+  language: kor
+  text: |-
+    생각하면 옛날에 여러 번 월영대를 지났거니
+    회산은 예와 같이 푸른 빛이 무더기를 이루었나니
+    지는 해에 높이 읊조리며 데리고 가려 하여
+    외로운 구름 불렀으나 그래도 오지 않네
+    넓은 바다에 조수가 있어 옛 진터를 감도는데
+    짧은 비석에 글자가 없어 거친 이끼가 반이어라
+    풍류 태수는 문아에 능하거니
+    나를 위해 한가롭게 올라 술 한잔을 권하게
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 회산(檜山) : '
+    value: 창원의 옛이름
+english:
+  title: Sending Off Governor Park to His Post in Changwon
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    I remember wandering past Moon-Shadow Terrace in days gone by—
+    the Cypress Mountain still rises green in endless folds.
+    As I chant high verses to the setting sun, wanting to take it with me,
+    I call to the lone cloud, yet it does not come.
+
+    Tidal waves encircle the ancient fortress by the vast sea,
+    while the short stone marker, bare of inscription, grows half-covered with moss.
+    This cultured governor of grace and refinement
+    now invites me to climb at leisure and share a cup of wine.
+  footnotes:
+  - key: ''
+    value: Moon-Shadow Terrace (月影臺) and Cypress Mountain (檜山) are landmarks associated with Changwon, the location of Park's new post.
+  - key: ''
+    value: The imagery of the setting sun and wandering cloud suggests the passage of time and the bittersweet nature of parting with a valued friend.

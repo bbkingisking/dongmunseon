@@ -1,0 +1,55 @@
+canonical:
+  title: 無盡亭
+  author: 崔恒
+  language: lzh
+  text: 天慳異境屬豪雄無盡奇觀盡漢東春雨海鷗凭檻外夕陽霞引盃中儻來竹帛名何益老去溪山興叵窮倒跨蹇驢隨處好知閑倦鳥若爲同綠蓑扶醉從漁父白㲲高謌伴牧翁自是不歸歸便得愧余空憶五湖風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無盡亭
+  author: 崔恒
+  language: lzh
+  text: 天慳異境屬豪雄。無盡奇觀盡漢東。春雨海鷗凭檻外。夕陽霞引盃中。儻來竹帛名何益。老去溪山興叵窮。倒跨蹇驢隨處好。知閑倦鳥若爲同。綠蓑扶醉從漁父。白㲲高謌伴牧翁。自是不歸歸便得。愧余空憶五湖風。
+korean:
+  title: 무진정
+  author: 최항
+  language: kor
+  text: |-
+    하늘이 비경을 아꼈다가 호웅에게 주었으니
+    그지없는 기관이 한동을 독차지했네
+    봄 비에 바다 갈매기 난간 밖에 가까이 오고
+    석양 노을 따오기는 술잔 속에 비치누나
+    죽백의 이름 오르기로서니 그것이 무어 이익되리
+    계산의 흥치야말로 늙을수록 무궁하네
+    절름발이 나귀 거꾸로 타고 가는 곳마다 경치 좋아라
+    지친 새 한가함을 아는 것이 어쩌면 너와 같을꼬
+    녹사의로 어부와 취해 붙들기도
+    흰 베수건으로 목옹과 함께 노래 부르기도
+    안 돌아갈망정 돌아가면 곧 되는걸
+    오호의 풍월 헛되이 생각만 하는 나 부끄럽구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오호(五湖)의 풍월(風月) : '
+    value: 월 상국(越相國) 범여(范蠡)가 오(吳)를 멸하여 공을 이룬 뒤 벼슬을 사양하고 오호에 놀았다.
+english:
+  title: Pavilion of the Boundless
+  author: Choi Hang
+  language: eng
+  text: |-
+    Heaven hoards rare vistas, yet grants them to the mighty—
+    Boundless wonders concentrate in eastern Han.
+    Spring rain brings seagulls near the balustrade,
+    Evening glow reflects rose-tinted in my cup.
+
+    What profit comes from carving names in bamboo scrolls?
+    The mountains and streams grow ever richer as I age.
+    Astride my stumbling donkey, backwards or forwards,
+    Each step arrives at beauty—how does the tired bird know such leisure?
+
+    In green-woven cloak I revel with the fisherman,
+    In white head-cloth I sing beside the shepherd.
+    To never return is already to have returned—
+    Yet I sit ashamed, haunted by forgotten lakeside winds.
+  footnotes:
+  - key: ''
+    value: The reference to 'forgotten lakeside winds' alludes to Fan Li, a celebrated minister of Yue, who abandoned his post after victory and withdrew to the Five Lakes to live in reclusive contentment—an ideal of enlightened withdrawal that contrasts with the poet's own inability to fully embrace such freedom.

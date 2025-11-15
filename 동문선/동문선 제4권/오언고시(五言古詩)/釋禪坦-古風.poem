@@ -1,0 +1,43 @@
+canonical:
+  title: 古風
+  author: 釋禪坦
+  language: lzh
+  text: 有琴掛寒壁爛盡南山石唐堯與虞舜九泉已零落秋燈一曲謌坐待東方白
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 古風
+  author: 釋禪坦
+  language: lzh
+  text: 有琴掛寒壁。爛盡南山石。唐堯與虞舜。九泉已零落。秋燈一曲謌。坐待東方白。
+korean:
+  title: 고풍
+  author: 석선탄
+  language: kor
+  text: |-
+    거문고는 차거운 벽에 걸려 있는데
+    남산의 돌이 닳아 다하도다
+    당나라 요 임금과 우나라 순 임금이
+    이미 구천에 사라졌나니
+    가을 등잔 밑에 한 곡조를 노래하며
+    동방이 밝아오기 기다리노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 남산(南山)의 돌이 닳아 다하도다 : '
+    value: 춘추 때에 제(齊)나라 영척(靈戚)이 곤궁하여 소를 먹이다가, 제 환공(齊桓公)이 들에 나오니 소의 뿔을 건드리며 노래를 부르기를, “남산에 흰 돌이 다 닳았네. 요순(堯舜)을 만나지 못하였네.” 하였다.
+english:
+  title: In the Ancient Style
+  author: Seon Tan
+  language: eng
+  text: |-
+    A zither hangs upon the cold wall,
+    While southern stone wears thin to dust.
+    The sage-kings Yao and Shun of old—
+    They have long since crumbled into the nine depths.
+    Beneath an autumn lamp I sing one melody,
+    Waiting for the east to break with dawn.
+  footnotes:
+  - key: ''
+    value: 'The image of southern stone worn away alludes to a classical tale: the shepherd Lingxi, impoverished during the Spring and Autumn period, touched his ox''s horns and sang of how the white stone of the southern mountain had worn completely smooth, lamenting that he would never meet the sage-kings Yao and Shun. Here, the poet invokes this reference to speak of the irretrievable passage of time and the lost age of virtue.'
+  - key: ''
+    value: The 'nine depths' (九泉) refers to the underworld or grave, suggesting that even the greatest sages of antiquity have perished.

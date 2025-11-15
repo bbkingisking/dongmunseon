@@ -1,0 +1,35 @@
+canonical:
+  title: 觀稼亭
+  author: 吳洵
+  language: lzh
+  text: 春耕欲耨夏多熱秋斂未終天已寒安得玆亭移輦道君王一見此艱難
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 觀稼亭
+  author: 吳洵
+  language: lzh
+  text: 春耕欲耨夏多熱。秋斂未終天已寒。安得玆亭移輦道。君王一見此艱難。
+korean:
+  title: 관가정
+  author: 오순
+  language: kor
+  text: |-
+    봄에 갈고 김 매려 하자 여름이 몹시 덥더니
+    가을 수확도 끝나기 전에 하늘은 벌써 차네
+    어떻게 하면 이 정자를 연의 길에 옮겨 올꼬
+    군왕이 농민의 이런 고생을 한 번 볼 수 있을 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: The Pavilion of Watching the Harvest
+  author: Oh Soon
+  language: eng
+  text: |-
+    Spring arrives and weeds must be pulled as summer's heat beats down relentlessly.
+    Autumn's harvest barely finished before the sky turns cold.
+    If only this pavilion could be moved to the royal procession's path—
+    then perhaps the King might witness the farmer's endless toil.
+  footnotes:
+  - key: ''
+    value: The 'pavilion of watching' (觀稼亭) serves as a metaphorical vantage point from which to observe the hardships of agricultural life. The poet's wish to relocate it to the royal road suggests a desire for the monarch to truly see and understand the suffering of his people.

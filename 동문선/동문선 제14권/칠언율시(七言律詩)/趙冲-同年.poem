@@ -1,0 +1,46 @@
+canonical:
+  title: 同年
+  author: 趙冲
+  language: lzh
+  text: 文陣當年鼓角雄銀袍藍袂棘圍中靑雲穩步無多子白髮相看不負公烏府𢥠威搖嶽鎭鴻樞慶頌及兒童天章待制又如許同榜飛昇甚日窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同年
+  author: 趙冲
+  language: lzh
+  text: 文陣當年鼓角雄。銀袍藍袂棘圍中。靑雲穩步無多子。白髮相看不負公。烏府𢥠威搖嶽鎭。鴻樞慶頌及兒童。天章待制又如許。同榜飛昇甚日窮。
+korean:
+  title: 동년
+  author: 조충
+  language: kor
+  text: |-
+    문진(문장(文章)의 싸움터) 당년에 고각(군악(軍樂)이 웅장하여
+    은포 남옷깃 과장에 드날렸지
+    청운에 순하게 오르는 이 몇 사람 안 되는데
+    백발로 마주 대하니 그대를 볼 낯 없네
+    오부의 드높은 위엄은 산악을 뒤흔들고
+    추부에 드리는 찬사는 아동들에게까지 미치고
+    천장대제 또 이러하니
+    동방에 승진함이 어느 날에 다하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0280&viewSync=OT
+  footnotes: []
+english:
+  title: Fellows of the Same Year
+  author: Jo Chung
+  language: eng
+  text: |-
+    In those days, the arena of letters rang with martial music,
+    silver robes and blue sleeves adorned the rigid contest.
+    Few can climb the blue clouds with steady steps—
+    yet seeing your white hair, I have no face to show.
+
+    The Black Secretariat's solemn authority shakes the mountains,
+    praise from the Red Pivot reaches even the children.
+    The Celestial Seal and Imperial Decree grant such honors—
+    when will the ascent of fellow graduates ever cease?
+  footnotes:
+  - key: ''
+    value: The Black Secretariat (烏府) and Red Pivot (鴻樞) are metaphorical references to high government offices and imperial authority.
+  - key: ''
+    value: The poem celebrates examination fellows who rose to prominence together, reflecting on shared ambition and the passage of time.

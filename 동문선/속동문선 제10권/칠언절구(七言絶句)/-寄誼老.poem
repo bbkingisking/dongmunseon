@@ -1,0 +1,38 @@
+canonical:
+  title: 寄誼老
+  author: 曺偉
+  language: lzh
+  text: 數日遊山不厭山今朝胡乃出雲關殷勤邀我又相送却咲山僧亦未閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄誼老
+  author: 曺偉
+  language: lzh
+  text: 數日遊山不厭山。今朝胡乃出雲關。殷勤邀我又相送。却咲山僧亦未閑。
+korean:
+  title: 기의로
+  author: 조위
+  language: kor
+  text: |-
+    조위(曺偉)
+    며칠 멧놀이에 메가 싫지 않았거늘
+    오늘 아침 어이하여 운관을 하직하노
+    은근히 나를 맞아 다시금 전송하니
+    우습구나 멧절 스님도 한가하질 못하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: To the Venerable One
+  author: Cho Wi
+  language: eng
+  text: |-
+    Days of wandering the mountains, never weary of their sight,
+    Yet this morning I must bid farewell to the clouded peaks.
+    With such warmth you welcome me, then escort me on my way—
+    How amusing that even the mountain monk finds no leisure.
+  footnotes:
+  - key: ''
+    value: The 'clouded peaks' or 'cloud gate' (운관) refers to the boundary between the mountain monastery and the secular world below.
+  - key: ''
+    value: The poem's gentle irony in the final line suggests the speaker's affection for the monk, whose busy hospitality paradoxically leaves him no true rest.

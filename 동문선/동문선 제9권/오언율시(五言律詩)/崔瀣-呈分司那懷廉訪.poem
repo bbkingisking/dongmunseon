@@ -1,0 +1,46 @@
+canonical:
+  title: 呈分司那懷廉訪
+  author: 崔瀣
+  language: lzh
+  text: 肅政官何貴分司望更淸千年鍾秀氣四海服高名問瘼先行惠論囚盡得情須怜荒郡倅披霧倍欣榮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 呈分司那懷廉訪
+  author: 崔瀣
+  language: lzh
+  text: 肅政官何貴。分司望更淸。千年鍾秀氣。四海服高名。問瘼先行惠。論囚盡得情。須怜荒郡倅。披霧倍欣榮。
+korean:
+  title: 분사 염방 나회에게
+  author: 최해
+  language: kor
+  text: |-
+    숙정은 벼슬이 귀하기도 한데
+    분사야말로 더욱 청망한 자리
+    천 년의 수기를 모아 났으니
+    사해가 높은 이름을 감복하네
+    백성의 괴로움 물어서 은혜 먼저 베풀고
+    죄수를 심문할 제 실정을 살피었네
+    거친 고을[郡] 수령인 나는
+    안개를 헤쳐 하늘 본 듯 영광스레 기뻐하노니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0760&viewSync=OT
+  footnotes: []
+english:
+  title: To the Divided Commissioner Ye Huai on His Inspection Tour
+  author: Choi Hae
+  language: eng
+  text: |-
+    The office of Censor is honored and esteemed,
+    Yet the divided commissioner's post shines brighter still—
+    A thousand years of refined essence gathered in one man,
+    The four seas bow to such a lofty name.
+
+    Asking after the people's sorrows, you dispense compassion first,
+    Examining the prisoners' cases, you uncover every truth.
+    As for me, a rough administrator of a remote prefecture,
+    I part the mists and glimpse heaven's light—such radiant joy!
+  footnotes:
+  - key: ''
+    value: The 'divided commissioner' (分司) was a high-ranking inspector responsible for touring provinces and investigating local governance and corruption.
+  - key: ''
+    value: The imagery of 'parting mists' and glimpsing heaven reflects the speaker's sense of being elevated and enlightened by the commissioner's virtuous example.

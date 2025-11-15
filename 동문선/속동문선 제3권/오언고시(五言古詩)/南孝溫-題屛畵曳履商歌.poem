@@ -1,0 +1,56 @@
+canonical:
+  title: 題屛畵曳履商歌
+  author: 南孝溫
+  language: lzh
+  text: 累我以利名辱我以爵位與改我初服寧守我弊屣曾聞一貫語豈無東周意方圓知不周商歌徹天地
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題屛畵曳履商歌
+  author: 南孝溫
+  language: lzh
+  text: 累我以利名。辱我以爵位。與改我初服。寧守我弊屣。曾聞一貫語。豈無東周意。方圓知不周。商歌徹天地。
+korean:
+  title: 제 병화예리상가
+  author: 남효온
+  language: kor
+  text: |-
+    나를 명리로 귀찮게 하고
+    나를 벼슬로 욕되게 하고
+    나의 첫 뜻을 고치느니보단
+    차라리 내 헌 신을 지키려네
+    일찍 일관이란 말 들었으니
+    동주의 뜻 어찌 없으랴
+    방원이 맞지 않음을 알겠다
+    상가가 천지를 울렸더니라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0620&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 제 병화예리상가(題屛畫曳履商歌) : '
+    value: 증자(曾子)기 7일을 굶고 신을 끌면서 상송(商頌)을 외우는 소리가 금석(金石)에서 나오는 것 같다 하였다.
+  - key: '[주-D002] 일찍 …… 말 들었으니 : '
+    value: 공자가 증자에게, “우리 도(道)는 하나로 꿰느니라.”[吾道一以貫之] 하였다.
+  - key: '[주-D003] 동주(東周)의 뜻 : '
+    value: 공자는, “만일 나를 써 주는 이가 있다면, 나는 동주(東周)를 만들겠다.” 하였다.
+english:
+  title: 'Inscribed on a Painted Screen: The Dragging Footstep and the Song of Shang'
+  author: Nam Hyo-on
+  language: eng
+  text: |-
+    Let profit and fame weigh heavy upon me—
+    Let official rank bring me shame—
+    I would sooner preserve my worn-out shoes
+    Than abandon the path I set when young.
+
+    I have heard the words of the single thread,
+    And how could I lack the vision of the Eastern Zhou?
+    Square and circle cannot fit together;
+    yet the Song of Shang echoes through heaven and earth.
+  footnotes:
+  - key: ''
+    value: The painting depicts Zengzi fasting for seven days while dragging worn shoes, singing the Song of Shang—his voice resonating like metal and stone.
+  - key: ''
+    value: 'The ''single thread'' refers to Confucius''s teaching to Zengzi: ''My way is bound together by one thread''—the unity of loyalty and reciprocity.'
+  - key: ''
+    value: 'The ''vision of the Eastern Zhou'' alludes to Confucius''s aspiration: ''If someone were to employ me, I would create an Eastern Zhou''—the restoration of ideal governance.'
+  - key: ''
+    value: The apparent contradiction of square and circle not fitting represents the impossibility of compromise with worldly desires, yet the Song of Shang's resonance suggests that virtue transcends such limitations.

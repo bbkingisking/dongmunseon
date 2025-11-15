@@ -1,0 +1,57 @@
+canonical:
+  title: 王昭君
+  author: 安軸
+  language: lzh
+  text: 君王曉開黃金闕氈車轔轔北使發明妃含淚出椒房有意春風吹鬢髮漢山秦塞漸茫茫逆耳悲笳秋夜長可憐穹廬一眉月曾照臺前宮㨾粧將身已與胡兒老唯恐紅顔凋不早琵琶絃中不盡情塜上年年見靑草
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 王昭君
+  author: 安軸
+  language: lzh
+  text: 君王曉開黃金闕。氈車轔轔北使發。明妃含淚出椒房。有意春風吹鬢髮。漢山秦塞漸茫茫。逆耳悲笳秋夜長。可憐穹廬一眉月。曾照臺前宮㨾粧。將身已與胡兒老。唯恐紅顔凋不早。琵琶絃中不盡情。塜上年年見靑草。
+korean:
+  title: 왕소군
+  author: 안축
+  language: kor
+  text: |-
+    군왕의 황금각을 새벽에 여니
+    전거가 덜커덕덜커덕 북쪽 사자 떠난다
+    명비가 눈물을 머금고 초방에서 나오니
+    봄바람은 뜻이 있어 귀밑머리에 분다
+    한산과 진새가 점점 멀어가나니
+    들리는 슬픈 피리 소리에 가을밤이 길어라
+    애닲아라 저 궁려(흉노(匈奴)가 살던 집)의 한 조각 달은
+    일찍이 대 앞의 궁중 모양의 단장을 비추었거니
+    이 몸을 바쳐 오랑캐와 함께 살아가려니
+    다만 고운 얼굴이 빨리 시들지 않을까 걱정한다
+    비파줄 속의 다하지 못한 정은
+    해마다 무덤에 나는 푸른 풀에서 보리로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0630&viewSync=OT
+  footnotes: []
+english:
+  title: Wang Zhaojun
+  author: An Chuk
+  language: eng
+  text: |-
+    At dawn the king opens the gates of gold,
+    The felt cart rumbles—the northern envoy departs.
+    The noble consort emerges from the palace, tears held in her eyes,
+    Spring wind means to touch the hair at her temples.
+
+    The Han mountains and Qin frontiers grow distant and dim,
+    Sorrow rides the mournful pipes through the long autumn night.
+    Pity that pale moon over the nomad tent—
+    Once it lit the imperial chambers where she adorned herself.
+
+    Her body given to grow old with foreign lovers,
+    Yet she fears her beauty will not fade soon enough.
+    In the zither strings lives a feeling never finished,
+    Each year the green grass at her tomb speaks what remains.
+  footnotes:
+  - key: ''
+    value: Wang Zhaojun (王昭君) was a historical Chinese consort married off to a Xiongnu chieftain as part of a diplomatic alliance in the 1st century BCE, becoming a symbol of tragic sacrifice in East Asian poetry.
+  - key: ''
+    value: The 'felt cart' (氈車) refers to nomadic dwellings and transport, representing her journey into exile.
+  - key: ''
+    value: The final image of grass growing on her tomb each year transforms her unfinished emotions into an eternal, natural cycle.

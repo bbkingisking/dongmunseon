@@ -1,0 +1,49 @@
+canonical:
+  title: 閑中偶書
+  author: 釋圓鑑
+  language: lzh
+  text: 地僻人誰肯見尋老來唯有病相侵臂酸倩客煩書字目暗呼童代衽針計拙未成葵衛足神安無愧竹虛心少軒睡起松陰轉洒面淸風直萬金
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閑中偶書
+  author: 釋圓鑑
+  language: lzh
+  text: 地僻人誰肯見尋。老來唯有病相侵。臂酸倩客煩書字。目暗呼童代衽針。計拙未成葵衛足。神安無愧竹虛心。少軒睡起松陰轉。洒面淸風直萬金。
+korean:
+  title: 한중 우서
+  author: 석원감
+  language: kor
+  text: |-
+    외딴 곳에 누가 와 나를 찾으리
+    늘그막에 찾아드는 건 오직 병뿐
+    팔이 시어 손에게 글자를 써 달라 하고
+    눈이 어두워 애를 불러 옷고름 바느질 시키네
+    생계가 서투르니 발을 돌보는 해바라기 못 되나
+    정신은 편안하니 속 빈 대에 부끄럽지 않아라
+    자고 일어나자 작은 난간에 솔 그늘이 돌았는데
+    얼굴에 풍기는 맑은 바람 값이 만금이로구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0670&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 발을 돌보는 …… 못 되나 : '
+    value: 제(齊)나라 경극(慶克)이 성맹자(聲孟子)와 간통하니 포장자(鮑莊子)가 알고 국무자(國武子)에게 말하였다. 성맹자(聲孟子)가 노하여 포장자를 참소하여 발을 베는 형벌에 처단하였다. 당시의 사람들이 말하기를, “포자의 지혜가 해바라기[葵]보다도 못하다. 해바라기꽃은 해를 가리어서 제 뿌리를 보호한다.” 하였는데, 이것은 말조심을 하지 못하여 발을 베었다는 말이다.
+english:
+  title: Random Jottings in Leisure
+  author: Seok Won-gam
+  language: eng
+  text: |-
+    In this remote place, who would think to seek me out?
+    In my declining years, only illness comes to call.
+    My arms ache, so I ask my servant to write the characters for me.
+    My eyes dim, so I summon the boy to mend my robe.
+    Clumsy at livelihood, I cannot be like the sunflower guarding its roots—
+    Yet my spirit rests easy, unashamed like the hollow bamboo.
+    Waking from sleep, the pine's shadow turns across the little railing,
+    And the clear wind brushing my face is worth ten thousand gold.
+  footnotes:
+  - key: ''
+    value: The sunflower reference alludes to a historical account where one who failed to guard their speech was punished, while the sunflower wisely shields its roots from harm by always facing the sun—a lesson on discretion and self-preservation.
+  - key: ''
+    value: The 'hollow bamboo' represents spiritual emptiness and humility, a Buddhist concept reflecting the poet's monastic life and freedom from ego.
+  - key: ''
+    value: The closing image transforms the speaker's simple contentment into profound wealth—equating the natural pleasures of a mountain hermit's life with immeasurable riches.

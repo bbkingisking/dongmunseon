@@ -1,0 +1,48 @@
+canonical:
+  title: 蜀葵花
+  author: 崔致遠
+  language: lzh
+  text: 寂寞荒田側繁花壓柔枝香輕梅雨歇影帶麥風欹車馬誰見賞蜂蝶徒相窺自慚生地賤堪恨人弃遺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蜀葵花
+  author: 崔致遠
+  language: lzh
+  text: 寂寞荒田側。繁花壓柔枝。香輕梅雨歇。影帶麥風欹。車馬誰見賞。蜂蝶徒相窺。自慚生地賤。堪恨人弃遺。
+korean:
+  title: 촉규화
+  author: 최치원
+  language: kor
+  text: |-
+    적막한 거친 밭 곁에
+    번성한 꽃이 약한 가지 누르고 있네
+    장맛비 내리자 향기가 사라지고
+    보리 바람을 맞아 그림자 기울었네
+    수레나 말탄 사람 누가 즐겨 보아 주리
+    벌이나 나비만이 한갓 서로 엿보네
+    태어난 땅 천한 것 스스로 부끄럽고
+    사람들 버려 둔 것 그저 한스러워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장맛비 ……  사라지고 : '
+    value: 원문의 '經'이 대본에는 '輕'으로 되어 있는데, 《고운집(孤雲集)》 권1 〈촉규화(蜀葵花)〉에 의거하여 ‘輕’을 ‘經’으로 바로잡아 번역하였다.
+english:
+  title: The Hollyhock Flower
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Beside the desolate, barren field,
+    Abundant blossoms weigh down tender branches.
+    When the plum rains pass, fragrance fades away,
+    And shadows bend beneath the barley wind.
+
+    What nobleman's carriage stops to admire?
+    Only bees and butterflies steal passing glances.
+    I am ashamed of my lowborn soil,
+    And resent that men have left me to decay.
+  footnotes:
+  - key: ''
+    value: The hollyhock (촉규화) is a summer flower known for its tall, sturdy stalks and clustered blooms. In Chinese and Korean poetry, it often symbolizes humble beauty or overlooked virtue.
+  - key: ''
+    value: The poem's melancholy tone reflects the tradition of using flowers as vehicles for expressing human longing and social lamentation—a common theme in the work of Choi Chi-won, the great Silla scholar-poet.

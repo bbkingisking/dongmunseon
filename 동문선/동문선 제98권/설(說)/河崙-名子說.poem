@@ -1,0 +1,31 @@
+canonical:
+  title: 名子說
+  author: 河崙
+  language: lzh
+  text: 木之生久則必聳于巖壑水之流久則必達于溟渤人之於學亦然久而不已則必至于有成名汝曰久汝其顧名而思義毋敢放肆毋敢逸遊今日格一物明日格一物今日行一善明日行一善日愼一日雖休勿休則可至于成人矣不然則日損日退必爲小人之歸矣汝其敬之汝其勉之
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 名子說
+  author: 河崙
+  language: lzh
+  text: 木之生久。則必聳于巖壑。水之流久。則必達于溟渤。人之於學亦然。久而不已。則必至于有成。名汝曰久。汝其顧名而思義。毋敢放肆。毋敢逸遊。今日格一物。明日格一物。今日行一善。明日行一善。日愼一日。雖休勿休。則可至于成人矣。不然則日損日退。必爲小人之歸矣。汝其敬之。汝其勉之。
+korean:
+  title: 명자설
+  author: 하륜
+  language: kor
+  text: 나무가 생장하기를 오래하면 반드시 산골에 높이 솟고, 물이 흐르기를 오래하면 반드시 바다에 도달한다. 사람의 학문에도 또한 그러하니, 오래하여 그치지 않으면 반드시 공을 이루는데 이른다. 너를 이름하기를 오랠 구(久) 자로 아니, 너는 이름을 돌아보고 뜻을 생각하여 감히 방자하지 말며, 감히 지나치게 놀지 말고, 오늘 한 가지 사물의 이치를 궁구해 알고, 내일 또 한 가지 사물의 이치를 궁구해 알며, 오늘 한 가지 착한 일을 행하고 내일 또 한 가지 착한 일을 행하여, 날로 더 근신하여 비록 쉬어야 할 일이라도 쉬지 않으면 성인(成人)에 이를 수 있을 것이다. 그렇지 않으면 날로 손해를 입고 날로 물러나 반드시 소인으로 돌아가게 될 것이니, 너는 공경할 것이며 너는 힘쓸지어다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1010_010_0220&viewSync=OT
+  footnotes: []
+english:
+  title: A Discourse on the Name
+  author: Ha Ryun
+  language: eng
+  text: When a tree grows for long, it must rise tall upon the rocky peaks. When water flows for long, it must reach the vast sea. So too is it with human learning—when one perseveres without ceasing, one must surely achieve completion. I name you 'Perseverance,' and you must contemplate your name and fathom its meaning. Do not dare to be reckless. Do not dare to squander your time in idle play. Today, investigate one principle of things; tomorrow, investigate another. Today, practice one good deed; tomorrow, practice another. Each day, grow more mindful and careful. Though rest may come, let it not come to you. Thus you shall attain to becoming a person of virtue. Otherwise, you shall daily lose ground and daily fall back, and you must surely become one of the lesser sort. Therefore, revere this teaching. Therefore, strive with all your might.
+  footnotes:
+  - key: ''
+    value: The name given is 久 (Gu/Goo), meaning 'long-lasting' or 'perseverance,' which serves as the governing concept throughout this exhortation.
+  - key: ''
+    value: 成人 (Seongin/Chengren) refers not merely to physical maturity but to moral and intellectual completion—the ideal cultivated person in Confucian thought.
+  - key: ''
+    value: The repeated injunction against 'idleness' (逸遊) and 'recklessness' (放肆) reflects Neo-Confucian emphasis on constant self-discipline and moral cultivation.

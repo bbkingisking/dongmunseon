@@ -1,0 +1,37 @@
+canonical:
+  title: 普德聖師
+  author: 朴椿齡
+  language: lzh
+  text: 卽閡皆通卽實虛獨來獨往故無居飛房一夜無千里乃是神人道用餘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 普德聖師
+  author: 朴椿齡
+  language: lzh
+  text: 卽閡皆通卽實虛。獨來獨往故無居。飛房一夜無千里。乃是神人道用餘。
+korean:
+  title: 고대산 비래방장의 보덕성사
+  author: 박춘령
+  language: kor
+  text: |-
+    막힌 그것이 통한 것이요 실한 것이 곧 허인지라
+    홀로 오고 홀로 가 〈일정한〉 거처가 없네
+    방장(方丈)을 날리니 하룻밤에 천 리가 없는 것
+    이는 곧 신인 도의 작용 나머지어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0520&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 방장(方丈) : '
+    value: 비래방장(飛來方丈)의 설화(說話)는 《삼국유사(三國遺事)》에 상세하다.
+english:
+  title: Ode to the Bodhisattva of Universal Virtue
+  author: Park Chun-ryeong
+  language: eng
+  text: |-
+    What blocks becomes what flows, what is solid becomes empty—
+    Coming alone, going alone, with no fixed dwelling place.
+    A flying chamber traverses a thousand li in one night,
+    This is but the overflow of the spiritual being's way.
+  footnotes:
+  - key: ''
+    value: The 'flying chamber' (飛來方丈) refers to a legendary abode that appears and vanishes mysteriously, detailed extensively in the Samguk Yusa (三國遺事), a foundational historical text of Korean Buddhism.

@@ -1,0 +1,45 @@
+canonical:
+  title: 定遼衛
+  author: 李崇仁
+  language: lzh
+  text: 東連靺鞨北幽燕沃壤漫漫過海壖勛舊向來開幕府懷綏不必用戈鋋風吹畫角梅初落日映朱旗火欲燃漢代聲容無遠近天驕那得敢窺邊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 定遼衛
+  author: 李崇仁
+  language: lzh
+  text: 東連靺鞨北幽燕。沃壤漫漫過海壖。勛舊向來開幕府。懷綏不必用戈鋋。風吹畫角梅初落。日映朱旗火欲燃。漢代聲容無遠近。天驕那得敢窺邊。
+korean:
+  title: 정료위
+  author: 이숭인
+  language: kor
+  text: |-
+    동으로 이은 말갈 북으로 유주연경
+    기름진 끝없는 땅이 바다까지 닿았네
+    공신들이 예로부터 막부를 열었거니
+    회유함에 반드시 무력 쓸 것 없어라
+    바람이 화각을 부니 매화가 갓 지고
+    해가 붉은 기에 비치니 불이 붙는 듯
+    중국의 위용이 원근 없이 비추니
+    북호가 제 어이 감히 변경을 엿볼쏘냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0990&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 매화가 갓 지고 : '
+    value: 강인의 피리[羌笛]에 낙매(落梅)라는 곡조가 있다.
+english:
+  title: Dingliao Garrison
+  author: Lee Sungiin
+  language: eng
+  text: |-
+    To the east, Jurchen lands; to the north, the ancient capitals of Youzhou and Yan.
+    Fertile plains stretch boundless, reaching to the edge of the sea.
+    Warlords of old established their command here,
+    Yet persuasion alone suffices—no need for spear and blade.
+    Wind sweeps through the signal horns as plum blossoms fall,
+    Sun gleams on crimson banners as flames seem about to kindle.
+    The splendor of the Han radiates everywhere without distance,
+    How dare the northern tribes think to peer at our border?
+  footnotes:
+  - key: ''
+    value: The falling plums evoke the classical melody 'Falling Plum Blossoms' played on the Qiang flute, traditionally associated with military watches and garrison posts.

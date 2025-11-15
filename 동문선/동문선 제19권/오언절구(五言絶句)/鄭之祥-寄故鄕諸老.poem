@@ -1,0 +1,37 @@
+canonical:
+  title: 寄故鄕諸老
+  author: 鄭之祥
+  language: lzh
+  text: 山月黑溪路江風吹戍樓角聲孤起處紅葉近中秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄故鄕諸老
+  author: 鄭之祥
+  language: lzh
+  text: 山月黑溪路。江風吹戍樓。角聲孤起處。紅葉近中秋。
+korean:
+  title: 고향의 여러 노인들에게 부쳐
+  author: 정지상
+  language: kor
+  text: |-
+    산과 달은 개울 길에 어둡고
+    강바람은 수루에 분다
+    뿔피리 소리 외롭게 일어나는 곳
+    붉은 잎은 중추에 가까이 왔네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0440&viewSync=OT
+  footnotes: []
+english:
+  title: Message to the Elders of My Homeland
+  author: Jung Ji-sang
+  language: eng
+  text: |-
+    Mountain and moon darken the path by the creek,
+    river wind blows across the garrison tower.
+    Where the horn's cry rises up alone,
+    red leaves draw near to mid-autumn.
+  footnotes:
+  - key: ''
+    value: The garrison tower (戍樓) suggests a military outpost, likely referencing the poet's service or observation from a distant vantage point
+  - key: ''
+    value: Mid-autumn (中秋) marks both the season and a time of reunion in East Asian tradition, creating poignancy in this message sent from afar

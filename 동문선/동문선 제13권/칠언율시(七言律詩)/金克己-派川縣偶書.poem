@@ -1,0 +1,46 @@
+canonical:
+  title: 派川縣偶書
+  author: 金克己
+  language: lzh
+  text: 信馬行吟海北垠天敎勝賞赴征軒風蟬翳葉鳴槐縣雨鷰依枝集柳村飄盡斷霞花結子割殘驚浪麥生孫回頭却望鴻飛處草色連空惱客魂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 派川縣偶書
+  author: 金克己
+  language: lzh
+  text: 信馬行吟海北垠。天敎勝賞赴征軒。風蟬翳葉鳴槐縣。雨鷰依枝集柳村。飄盡斷霞花結子。割殘驚浪麥生孫。回頭却望鴻飛處。草色連空惱客魂。
+korean:
+  title: 파천현 우서
+  author: 김극기
+  language: kor
+  text: |-
+    말 가는 대로 가며 읊는 바다 북쪽 한 끝에
+    하늘이 절승한 경개를 가는 수레에 보내 주누나
+    서늘한 매미는 잎에 가려 홰나무 고을에 울고
+    비 맞은 제비는 가지를 의지해 버들 마을에 모여드네
+    붉은 노을 모두 날리고 꽃은 열매를 맺었도다
+    일렁이는 물결을 베고 나니 보리는 새 싹이 또 돋네
+    머리를 돌려 기러기 나는 곳 바라보니
+    하늘에 맞닿은 풀빛이 나그네 맘을 뒤설레누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: A Casual Composition at Paekhcheon County
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Following where my horse wanders, I sing at the northern edge of the sea.
+    Heaven sends forth magnificent vistas to my passing carriage.
+    Cool cicadas, hidden in leaves, cry out in the parasol trees of the county.
+    Rain-soaked swallows, clinging to branches, gather in the willow villages.
+
+    The ruddy sunset scatters away, and flowers have borne their fruit.
+    Breaking through the surging waves, barley shoots forth again in tender growth.
+    Turning my head to gaze where the wild geese fly,
+    The grass-green reaching to the sky troubles this wanderer's heart.
+  footnotes:
+  - key: ''
+    value: The poem uses the changing seasons and natural phenomena as metaphors for transience and cyclical renewal—a common theme in East Asian poetry.
+  - key: ''
+    value: The final image of geese flying and grass touching sky evokes the melancholy of the traveler contemplating distance and impermanence.

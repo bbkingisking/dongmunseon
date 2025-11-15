@@ -1,0 +1,60 @@
+canonical:
+  title: 外舅
+  author: 鄭誧
+  language: lzh
+  text: 塊處依依類楚囚賸將心事更添愁傍花行樂雖堪廢束帶趍朝詎可休得馬愧居張籍後作詩先被晉公求聖門也有乘肥者欵段還嗤馬少游
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 外舅
+  author: 鄭誧
+  language: lzh
+  text: 塊處依依類楚囚。賸將心事更添愁。傍花行樂雖堪廢。束帶趍朝詎可休。得馬愧居張籍後。作詩先被晉公求。聖門也有乘肥者。欵段還嗤馬少游。
+korean:
+  title: 임신년 봄에 내가 기르던 말이 갑자기 죽었는데, 장인
+  author: 정포
+  language: kor
+  text: |-
+    숫제 초수처럼 들어박혀 살아도
+    심사만은 가지가지 갈수록 깊은 시름
+    꽃을 찾는 봄놀이는 그만둬도 좋지만
+    띠를 매고 조회 가기야 어찌 쉬리까
+    말 얻기는 장적보다 뒤지기가 부끄러운데
+    시 지으라 진공께서 먼저 요구하셨네
+    성문에도 살찐 말을 탄 이가 있었거니
+    관단마는 도리어 마소유가 우스워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 초수(楚囚) : '
+    value: 진(晋)나라에 잡혀온 초(楚)나라의 포로인데 구속되어 어쩔 수 없는 신세를 말한다.
+  - key: '[주-D002] 장적(張籍) : '
+    value: 당나라 시인(詩人)  장적(張籍)이 배도(裴度)에게서 말[馬]을 한 필 선물로 받고는 시를 지어 사례(謝禮)하였더니, 한퇴지(韓退之)ㆍ백낙천(白樂天)이 화답한 시가 있다.
+  - key: '[주-D003] 진공(晋公) : '
+    value: 백낙천이 배도(裴度 晋公)에 말[馬]을 요구하였더니 배도는 시를 지어 보내기를, “그대가 만일 준마를 요구할 마음이 있다면, 나는 도리어 미인에 뜻이 있네[君若有心求逸足 我還留意在名妹].”라 하여 말과 기생을 바꾸기를 요구하였다.
+  - key: '[주-D004] 성문(聖門)에도 …… 있었거니 : '
+    value: 공자(孔子)의 문인(門人)  공서적(公西赤)이 공자의 심부름으로 제(齊)나라에 가면서 살찐 말을 타고 좋은 옷을 입고 갔다.
+  - key: '[주-D005] 관단마(款段馬)는 …… 마소유(馬少游) : '
+    value: 한(漢) 마원(馬援)의 종제(從弟)다. 마원이 교지(交趾)에 출정(出征)하다가 군중에서 병을 얻어 탄식하여 말하되, “내 종제 소유가 내 뜻이 너무나 큼을 민망히 여겨 말하기를, ‘사람이 한 세상에 났으면 다만 의식(衣食)이 족함을 취할 뿐이요, 하택거(下澤車)를 타고 관단마(款段馬)를 몰며 고을의 아전이나 되어 무덤을 지키면 좋을 걸[御款殷馬 爲郡吏守墳 斯可矣]’이라 하더니.” 하였다. 《漢書》
+english:
+  title: On My Late Father-in-Law
+  author: Jeong Pho
+  language: eng
+  text: |-
+    Confined like a prisoner of Chu, I languish in solitude,
+    Yet my heart finds ever new depths of sorrow.
+    Though I might abandon spring's pleasures among the flowers,
+    How can I cease to gird myself and attend the court?
+
+    I blush to receive a horse when Zhang Ji came after,
+    Yet the Duke already demands I compose a poem.
+    Even the sage's own disciples rode fine steeds—
+    Yet I mock Ma Shao-you's modest contentment.
+  footnotes:
+  - key: ''
+    value: 'Zhang Ji: A Tang poet who received a horse from Pei Du and composed a poem in thanks, which prompted responses from Han Tuizhi and Bai Letian.'
+  - key: ''
+    value: 'The Duke: Pei Du (the ''Jin Gong''), who countered requests for a horse with wit and demands of his own.'
+  - key: ''
+    value: 'The sage''s disciples: Reference to Gongxi Chi, a student of Confucius who rode a fine horse on official business.'
+  - key: ''
+    value: 'Ma Shao-you: A figure from the Han dynasty whose modest aspirations stood in contrast to his uncle Ma Yuan''s grand ambitions.'

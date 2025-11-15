@@ -1,0 +1,48 @@
+canonical:
+  title: 次擇之
+  author: 朴誾
+  language: lzh
+  text: 一笑汝曹猶不滿百年吾道果終窮浮名如此無多取造物於人豈未公白首詩書今有味明珠薏苡久相蒙隣鷄接響還高枕門外輪蹄轉覺怱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次擇之
+  author: 朴誾
+  language: lzh
+  text: 一笑汝曹猶不滿。百年吾道果終窮。浮名如此無多取。造物於人豈未公。白首詩書今有味。明珠薏苡久相蒙。隣鷄接響還高枕。門外輪蹄轉覺怱。
+korean:
+  title: 차택지
+  author: 박은
+  language: kor
+  text: |-
+    너희들은 한 웃음거리에도 차지 않는데
+    우리의 도가 과연 백년 동안 마침내 궁할 것인가
+    그러므로 뜬 이름은 많이 취할 것 없거니
+    조물주는 어찌 사람들에게 공평하지 못한가
+    늙어지매 시서가 비로소 맛이 있는데
+    구름과 율무는 오랫동안 누명을 썼네
+    이웃집의 닭 소리 듣고 다시 베개를 높이었다가
+    문 밖의 수레 소리에 갑자기 놀라 깨었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0520&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 율무[薏苡] : '
+    value: 한(漢)나라 마원(馬援)이 교지(交趾)를 토벌하고 돌아오면서 약으로 먹으려고 율무[薏苡]를 싣고 왔더니, 중상(中傷)하는 사람이 그것을 가지고 명주(明珠)를 많이 가져 왔다고 누명을 씌운 일이 있었다.
+english:
+  title: In Response to Taek
+  author: Park Eun
+  language: eng
+  text: |-
+    You remain unsatisfied even by a single laugh—
+    will my path through a hundred years truly exhaust itself?
+    Floating names hold little worth for me to grasp,
+    yet how can the Creator be unjust to mankind?
+
+    In white-haired age, the classics finally taste of meaning,
+    while pearls and Job's tears long bore false shame.
+    Hearing the neighbor's rooster crow, I raise my pillow high,
+    but start awake at the rumble of wheels beyond the gate.
+  footnotes:
+  - key: ''
+    value: The reference to pearls and Job's tears alludes to the historical anecdote of Ma Yuan of the Han dynasty, whose shipment of Job's tears (薏苡) was maliciously misreported as a cargo of pearls, nearly costing him his reputation. Here it symbolizes how virtue can be slandered and obscured by gossip.
+  - key: ''
+    value: The final image—between the simple comfort of the rooster's crow and the sudden disturbance of passing carts—reflects the poet's contemplation on the fleeting nature of peace and the inevitable intrusions of the external world.

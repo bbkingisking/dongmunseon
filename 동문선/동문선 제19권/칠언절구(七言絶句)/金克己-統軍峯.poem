@@ -1,0 +1,37 @@
+canonical:
+  title: 統軍峯
+  author: 金克己
+  language: lzh
+  text: 龍灣轉處保州城馬上遙瞻眼更明珍重統軍峯一朶隔江奔走笑相迎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 統軍峯
+  author: 金克己
+  language: lzh
+  text: 龍灣轉處保州城。馬上遙瞻眼更明。珍重統軍峯一朶。隔江奔走笑相迎。
+korean:
+  title: 압록강 서쪽 기슭에서 통군봉
+  author: 김극기
+  language: kor
+  text: |-
+    용만이 휘도는 곳 보주성이라
+    말 위에서 멀리 바라보니 눈이 더욱 밝고나
+    보배롭다 통군봉 한 떨기여
+    강을 격해 분주히 웃으며 맞아주네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0840&viewSync=OT
+  footnotes: []
+english:
+  title: Commander's Peak
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Where the Dragon Bay curves, there stands Bozhou City.
+    From horseback, gazing far, my eyes grow ever clearer.
+    How precious, Commander's Peak, that single bloom—
+    Across the river it rushes forth with laughter to greet me.
+  footnotes:
+  - key: ''
+    value: Commander's Peak (統軍峯) is a notable geographical landmark located west of the Yalu River, likely in the Bozhou area of Manchuria.
+  - key: ''
+    value: The poem employs the conceit of the mountain as an active greeter, personifying the landscape's welcome to the speaker.

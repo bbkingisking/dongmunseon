@@ -1,0 +1,45 @@
+canonical:
+  title: 下寧寺
+  author: 李奎報
+  language: lzh
+  text: 偶到湖邊寺淸風散酒醺野荒偏引燒江暗易生雲碧嶺侵沙斷奔流夾岸分孤舟何處泊漁笛晚來聞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 下寧寺
+  author: 李奎報
+  language: lzh
+  text: 偶到湖邊寺。淸風散酒醺。野荒偏引燒。江暗易生雲。碧嶺侵沙斷。奔流夾岸分。孤舟何處泊。漁笛晚來聞。
+korean:
+  title: 하령사
+  author: 이규보
+  language: kor
+  text: |-
+    호숫가 이 절에 우연히 이르니
+    서늘한 바람이 술기운을 흩누나
+    들이 거칠으니 불붙기가 일쑤요
+    강이 어두우니 구름이 쉬 생기네
+    푸른 고개는 사태에 끊기었고
+    빠른 시냇물은 언덕을 끼고 갈리누나
+    외로운 배를 어디다가 댈꼬
+    해지자 어적 소리가 들리는데
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: At Haryeong Temple
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    By chance I arrive at this temple by the lake,
+    A cool breeze scatters the wine's warm spell.
+    Wild fields burn easily, flames spreading,
+    The river darkens—clouds gather swift.
+    The verdant ridge breaks where the earth has slid,
+    Rapid waters split along the banks.
+    Where shall the lonely boat find harbor?
+    As evening falls, a fisherman's flute is heard.
+  footnotes:
+  - key: ''
+    value: Haryeong Temple (하령사) appears to have been located near water in medieval Korea, likely in a region prone to landslides given the imagery of collapsing ridges.
+  - key: ''
+    value: The progression from afternoon intoxication to evening solitude reflects the Buddhist contemplative tradition of transience and impermanence.

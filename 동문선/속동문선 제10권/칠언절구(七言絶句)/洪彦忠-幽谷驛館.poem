@@ -1,0 +1,35 @@
+canonical:
+  title: 幽谷驛館
+  author: 洪彦忠
+  language: lzh
+  text: 一枕淸風孤舘裏三杯薄酒老槐邊此行不料生還日萬事悠悠只付天
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 幽谷驛館
+  author: 洪彦忠
+  language: lzh
+  text: 一枕淸風孤舘裏。三杯薄酒老槐邊。此行不料生還日。萬事悠悠只付天。
+korean:
+  title: 유곡 역관
+  author: 홍언충
+  language: kor
+  text: |-
+    한 베개 맑은 바람 외로운 객관 속에
+    늙은 괴목 가에 박주 석잔 기울였네
+    이 걸음에 살아 옴을 내 어이 생각하랴
+    유유한 만 가지 일일랑은 하늘에다 붙이련다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0440&viewSync=OT
+  footnotes: []
+english:
+  title: At the Yougu Waystation
+  author: Hong Eon-jung
+  language: eng
+  text: |-
+    A pillow of clear wind in this lonely inn—
+    Beside the ancient locust tree, three cups of thin wine.
+    Who could have foreseen returning alive from this journey?
+    All the ten thousand affairs of the world, I entrust to Heaven.
+  footnotes:
+  - key: ''
+    value: The 'waystation' (역관) refers to an official way-station where travelers rested during long journeys in classical Korea and China. The poem captures a moment of rest and reflection during travel.

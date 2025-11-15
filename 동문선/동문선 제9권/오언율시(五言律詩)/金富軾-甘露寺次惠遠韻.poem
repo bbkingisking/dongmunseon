@@ -1,0 +1,51 @@
+canonical:
+  title: 甘露寺次惠遠韻
+  author: 金富軾
+  language: lzh
+  text: 俗客不到處登臨意思淸山形秋更好江色夜猶明白鳥孤飛盡孤帆獨去輕自慚蝸角上半世覓功名
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 甘露寺次惠遠韻
+  author: 金富軾
+  language: lzh
+  text: 俗客不到處。登臨意思淸。山形秋更好。江色夜猶明。白鳥孤飛盡。孤帆獨去輕。自慚蝸角上。半世覓功名。
+korean:
+  title: 감로사에서 혜원의 시에 차운하여
+  author: 김부식
+  language: kor
+  text: |-
+    속객들 아예 못 이르는 곳을
+    내 올라오니 마음이 맑아지네
+    산 모양은 가을에 더욱 좋을씨고
+    강 빛은 밤에 더 환하구나
+    흰 새는 훨훨 날아 어디론지 가버리고
+    외 배는 살살 혼자 잘도 떠가네
+    생각하니 부끄럽구나, 달팽이 뿔 위에서
+    반생을 공명 찾으며 허둥지둥 보냈다니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0070&viewSync=OT
+  footnotes: []
+english:
+  title: At Gamro Temple, Following the Rhyme of Huiyuan
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Where the common travelers never venture,
+    I climb and find my mind grows clear.
+    The mountain's form grows ever fairer
+    as autumn deepens its embrace,
+    and the river's face shines brighter
+    even in the depth of night.
+
+    White birds wheel and disappear
+    into distances beyond my knowing,
+    while a solitary sail drifts lightly,
+    moving with such gentle grace.
+
+    Yet shame fills me as I reflect:
+    perched upon a snail's horn,
+    I have squandered half my years
+    in the vain pursuit of fame and fortune.
+  footnotes:
+  - key: ''
+    value: This poem follows the rhyme scheme of a work by the Buddhist monk Huiyuan, a common practice in classical Chinese and Korean poetry. Gamro Temple is located in what is now South Korea. The 'snail's horn' alludes to a famous Chinese parable about the insignificance of human ambitions in the vastness of creation.

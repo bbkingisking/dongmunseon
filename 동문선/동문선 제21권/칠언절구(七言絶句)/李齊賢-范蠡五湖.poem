@@ -1,0 +1,39 @@
+canonical:
+  title: 范蠡五湖
+  author: 李齊賢
+  language: lzh
+  text: 功成亦欲試良圖月棹烟蓑向五湖捲却吳宮春色去獨留秋草滿姑蘇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 范蠡五湖
+  author: 李齊賢
+  language: lzh
+  text: 功成亦欲試良圖。月棹烟蓑向五湖。捲却吳宮春色去。獨留秋草滿姑蘇。
+korean:
+  title: 범려오호
+  author: 이제현
+  language: kor
+  text: |-
+    공을 이루고 또한 좋은 계획을 시험하고자 하여
+    달에 노질하며 연기 도롱이 입고 오호로 향하였다
+    오궁의 봄빛을 걷어가 버리고
+    한갓 가을풀만 남겨 고소대에 가득하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한갓 가을풀만 …… 가득하네 : '
+    value: 오왕(吳王) 부차(夫差)가 오자서(伍子胥)의 충성스러운 말을 듣지 않고 그를 죽이니, 오자서가 죽으면서 말하기를 “장차 사슴들이 고소대(姑蘇臺)에서 놀 것이다.” 하였다. 여기서는 오나라가 망하여 고소대에 풀이 우거졌다는 말이다.
+english:
+  title: Fan Li and the Five Lakes
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    With merit achieved, he longed to test a noble plan—
+    by moonlit oar and mist-woven cape, he sailed toward Five Lakes.
+    The spring colors of Wu's palace he swept away,
+    leaving only autumn grass to flourish on Gusu Tower.
+  footnotes:
+  - key: ''
+    value: Fan Li was a legendary minister of ancient Wu who, after helping his lord achieve victory, withdrew from court to live as a recluse on the Five Lakes, becoming a symbol of the sage who knows when to retire from power.
+  - key: ''
+    value: Gusu Tower (姑蘇臺) was the great palace of King Fu Cha of Wu. According to legend, the loyal minister Wu Zixu, spurned and executed by the king, prophesied that deer would one day roam freely on this tower. The poem invokes this image of a once-magnificent palace now overgrown and abandoned, a meditation on the transience of power and glory.

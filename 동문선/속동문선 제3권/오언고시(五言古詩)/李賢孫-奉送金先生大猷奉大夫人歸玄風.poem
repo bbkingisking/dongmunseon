@@ -1,0 +1,91 @@
+canonical:
+  title: 奉送金先生大猷奉大夫人歸玄風
+  author: 李賢孫
+  language: lzh
+  text: 靑丘文獻邦古來多文士雕蟲競自售未有尋至理大道終不泯夫子生南紀龍門倡道學從者相繼起中間各分散利欲甘自毁小子最鹵莽俯仰多所恥泰山高崒嵂仰者失所企歲月忽蹉跎荏苒流光駃醒狂老丘壑秋江長已矣先生今又去小子竟何倚蒼茫琵瑟山相去幾千里臨離復何言泪下不能止
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉送金先生大猷奉大夫人歸玄風
+  author: 李賢孫
+  language: lzh
+  text: 靑丘文獻邦。古來多文士。雕蟲競自售。未有尋至理。大道終不泯。夫子生南紀。龍門倡道學。從者相繼起。中間各分散。利欲甘自毁。小子最鹵莽。俯仰多所恥。泰山高崒嵂。仰者失所企。歲月忽蹉跎。荏苒流光駃。醒狂老丘壑。秋江長已矣。先生今又去。小子竟何倚。蒼茫琵瑟山。相去幾千里。臨離復何言。泪下不能止。
+korean:
+  title: 대부인을 받들고 현풍으로 돌아가는 김대유 선생을 봉송하며
+  author: 이현손
+  language: kor
+  text: |-
+    청구는 문헌의 나라
+    옛날로부터 문사가 많았네
+    조충의 재주를 다투어 팔았지만
+    지극한 이치를 찾는 이 없더니
+    대도가 끝내 민몰치 않아
+    선생께서 남방에 나셨네
+    용문에 도학을 창도하매
+    쫓는 자 서로 이어 일어났으나
+    중간에 각기 분산되어서
+    이욕으로 헐기가 일쑤
+    저는 그 중에도 가장 거칠은 자질
+    이모, 저모로 부끄럼이 많지만
+    우뚝 높이 솟은 태산은
+    우러러보는 자 바라볼 곳 잃었네
+    세월이 문득 덧없이 흘러
+    그럭저럭 몇 해나 되어 왔는고
+    성광자는 숫제 구학에 늙고
+    추강은 벌써 고인 됐는데
+    이제 또 선생께서 가고 마시니
+    소자가 끝내 누구를 의지하리까
+    멀고 아득할사, 비슬산이여
+    예서 상거가 몇 천리인고
+    이별에 무슨 말씀 다시 하리까
+    눈물이 흘러 내려 멈출 수 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 조충(雕忠) : '
+    value: 교묘하게 문장이나 다듬는 작은 재주를 말한 것이다.
+  - key: '[주-D002] 용문(龍門) : '
+    value: 한훤당(寒暄堂 김대유의 호)이 용문산(龍門山)에서 공부하였다.
+  - key: '[주-D003] 비슬산(琵瑟山) : '
+    value: 김대유의 고향인 현풍(玄風)에 비슬산이 있다.
+  - key: '[주-D001] 明陽正 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: Farewell to Master Kim Dae-yu as He Returns to Hyeonpung with the Great Lady
+  author: Lee Hyeon-sun
+  language: eng
+  text: |-
+    Green hills are a land of letters and learning—
+    Since ancient times, scholars have flourished here.
+    Yet they compete in mere ornamental craft,
+    None seeking the ultimate way.
+
+    The Great Way never perishes,
+    And the Master was born in the southern lands.
+    At Dragon Gate he awakened the Way of Learning,
+    Followers rose up, each succeeding the last.
+    But in time, all scattered their ways,
+    Undone by desire and gain.
+
+    I am the crudest among them all,
+    Shamed by my countless shortcomings.
+    Tall as Mount Tai stands the Master—
+    Those who gaze upward lose their footing.
+
+    Days and months slip away unnoticed,
+    Years drift by like flowing water.
+    Seongwangja grows old in the valley,
+    The autumn river has long since gone.
+    Now you too depart, Master,
+    On whom shall this small one lean?
+
+    Far and dim, O Bisl Mountain,
+    Thousands of miles stretch between us now.
+    At parting, what words remain to say?
+    Tears flow down and will not cease.
+  footnotes:
+  - key: ''
+    value: 'Dragon Gate: Master Kim studied on Dragon Gate Mountain, where he taught the Way of Learning'
+  - key: ''
+    value: 'Bisl Mountain: Located in Hyeonpung, the Master''s hometown, symbolizing the distance of separation'
+  - key: ''
+    value: The poem reflects the author's deep sense of loss as his revered teacher departs, leaving him without spiritual guidance

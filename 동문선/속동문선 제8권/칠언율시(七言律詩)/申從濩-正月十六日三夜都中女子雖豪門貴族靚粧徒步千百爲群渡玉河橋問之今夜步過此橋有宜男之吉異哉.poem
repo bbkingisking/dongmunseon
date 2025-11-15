@@ -1,0 +1,54 @@
+canonical:
+  title: 正月十六日三夜都中女子雖豪門貴族靚粧徒步千百爲群渡玉河橋問之今夜步過此橋有宜男之吉異哉
+  author: 申從濩
+  language: lzh
+  text: 露浥瓊花萬萬條香風吹送玉塵飄不隨月姊歸蟾闕共學天孫度鵲橋一夜宜男成吉夢千金買笑薦春嬌明朝十里天街上多少行人拾翠翹
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 正月十六日三夜都中女子雖豪門貴族靚粧徒步千百爲群渡玉河橋問之今夜步過此橋有宜男之吉異哉
+  author: 申從濩
+  language: lzh
+  text: 露浥瓊花萬萬條。香風吹送玉塵飄。不隨月姊歸蟾闕。共學天孫度鵲橋。一夜宜男成吉夢。千金買笑薦春嬌。明朝十里天街上。多少行人拾翠翹。
+korean:
+  title: 정월 16일 3경에 서울 여자가 비록 부호ㆍ귀족이라도 잘 단장하고 많은 군중을 데리고 옥하교를 건너거늘, 물어보니 오늘 저녁에 이 다리를 건너면 아들을 잘 낳는다고 하니 이상하다.
+  author: 신종호
+  language: kor
+  text: |-
+    이슬이 경화의 만만 가지를 적시매
+    향기로운 바람은 옥진을 불어 보내어 나부낀다
+    월자를 따라 섬궐[월궁]로 돌아가지 않고
+    다 같이 천손[직녀성]을 배워 작교를 건너네
+    하룻밤에 의남의 좋은 꿈 이루려고
+    천금으로 웃음을 사서 봄의 아양을 떤다
+    내일 아침에는 십리의 천가[서울거리] 위에서
+    길가는 많은 사람들 취교를 주으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 월자(月姊) : '
+    value: 달 속에 있다는 항아(姮娥)이다.
+  - key: '[주-D002] 의남(宜男) : '
+    value: 아들을 잘 낳는다는 말이다.
+  - key: '[주-D003] 취교(翠翹) : '
+    value: 여자의 머리에 꽂아 꾸미는 수식(首飾)인데, 비취(翡翠)의 날개처럼 생겼으므로 취교(翠翹)라 한다.
+english:
+  title: 'On the Sixteenth Night of the First Month: Observing How the Women of the Capital, Whether from Wealthy or Noble Families, Adorned and in Great Numbers Cross the Jade River Bridge, and Upon Inquiry Learn That Crossing This Bridge This Evening Brings the Blessing of Sons—How Strange!'
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    Dew glistens on ten thousand sprays of jasmine flowers.
+    Fragrant winds carry jade dust that dances and swirls.
+    They do not follow the Moon Maiden back to her silver palace,
+    But together learn the way of the Weaver Maid crossing the bridge of magpies.
+
+    In one night they seek the blessed dream of bearing sons,
+    Spending a thousand gold pieces to purchase laughter and spring's tender grace.
+    When tomorrow's dawn breaks over the ten-mile avenue of heaven,
+    How many passersby will gather the fallen jade ornaments from the street.
+  footnotes:
+  - key: ''
+    value: The 'Moon Maiden' (月姊) refers to Chang'e, the immortal dwelling in the moon in Chinese mythology, suggesting the women reject lunar isolation in favor of earthly joy.
+  - key: ''
+    value: The 'Weaver Maid crossing the bridge of magpies' alludes to the beloved story of separated lovers meeting once yearly when magpies form a bridge across the Milky Way, here transformed into a symbol of auspicious crossing.
+  - key: ''
+    value: The 'jade ornaments' (翠翹) were decorative hairpins worn by women, shaped like kingfisher wings, which would be lost in the crush of the festival crowd the night before.

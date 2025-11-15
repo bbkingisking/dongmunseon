@@ -1,0 +1,31 @@
+canonical:
+  title: 代人禮狀
+  author: 李詹
+  language: lzh
+  text: 入告謀猷位逼知樞之貴出宣敎化權兼專閫之榮云云偉量端方精衷迪哲克濟和羹之味仍爲借箸之行號令嚴明仲山甫賦政于外功名盛大召康公分陜以西想聞布德之得宜審識輿情之孚望云云辱承奬錄光奉除書不敢遅留先問起居之際將爲謁見遙伸欵曲之懷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 代人禮狀
+  author: 李詹
+  language: lzh
+  text: 入告謀猷。位逼知樞之貴。出宣敎化。權兼專閫之榮。云云。偉量端方。精衷迪哲。克濟和羹之味。仍爲借箸之行。號令嚴明。仲山甫賦政于外。功名盛大。召康公分陜以西。想聞布德之得宜。審識輿情之孚望。云云。辱承奬錄。光奉除書。不敢遅留。先問起居之際。將爲謁見。遙伸欵曲之懷。
+korean:
+  title: 대인 예장
+  author: 이첨
+  language: kor
+  text: 조정에 들어가 정책을 아뢰어 지위는 지추(知樞)의 귀(貴)한 자리에 핍근하고, 대궐 밖에 나와 교화를 선양하니 권세는 전곤(專閫)의 영화를 겸하였습니다. 큰 도량은 단정하고 모나며, 정밀한 마음은 어질고 슬기로우므로 능히 화갱(和羹)의 맛을 고르게 하고, 따라서 차저(借箸)의 행동을 하였으며, 호령이 엄하고 밝으니 중산보(仲山甫)는 바깥 정사를 잘하였으므로 공명이 성하고 큽니다. 소강공(召康公)은 협(陜) 땅의 서쪽을 갈라 맡았음에 선포한 덕이 알맞음을 얻었고, 민정이 소망에 부합하였습니다. 외람되이 추켜 올려주심을 입어 빛나는 사령장을 받들었기에 감히 머뭇거리지 못하고 먼저 문안의 글을 드리며, 장차 뵙게 되리이다. 멀리 간곡한 소회를 아뢰나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 차저(借箸) : '
+    value: 《한서(漢書)》 장량전(張良傳)에, “장량이 한왕(漢王)을 뵈오니 왕이 밥을 먹으면서 하는 말이, ‘손님이 나를 위해서 초(楚)의 권세를 흔들어놓겠다.’고 한다.” 하므로, 장량은 대답하기를, “청하건대, 젓가락을 좀 빌려주소서. 대왕(大王)을 위하여 계획을 해보겠습니다.” 하였다. 그래서 뒤에 남을 대신하여 계획을 세우는 것을 차저(借箸)라 칭한다.
+english:
+  title: A Memorial Statement Written on Behalf of Another
+  author: Lee Cham
+  language: eng
+  text: Entering court to present counsel and strategy, his station draws near the honor of those who know the imperial secrets. Stepping forth to proclaim transformation and teaching, his authority encompasses the splendor of those who command the borderlands. With magnificent measure—upright and resolute—and refined heart—wise and illuminating—he achieves the perfect blend of state governance, and thus performs the noble service of offering counsel to the sovereign. His commands are stern and clear; like Zhong Shanfu managing affairs beyond the palace, his accomplishments grow ever greater. Just as Zhao Kangong divided the lands west of Shaanxi, so too does his proclaimed virtue prove timely and his understanding of the people's sentiments ring true. Honored by your commendation and bearing your resplendent edict, I dare not delay. First, I present my humble inquiry into your health; soon I shall pay my respects in person. From afar, I extend my sincere and earnest devotion.
+  footnotes:
+  - key: ''
+    value: The phrase 'offering counsel to the sovereign' alludes to the famous story of Zhang Liang, who borrowed chopsticks from the Han King to explain his strategic counsel—a classical metaphor for a worthy minister offering sage advice.
+  - key: ''
+    value: Zhong Shanfu and Zhao Kangong are historical exemplars of virtuous administration, referenced here to praise the addressee's governance and virtue.

@@ -1,0 +1,48 @@
+canonical:
+  title: 松京懷古
+  author: 李孟畇
+  language: lzh
+  text: 五百年來王氣終操鷄摶鴨竟何功英雄一去豪華盡人物南遷市井空上苑煙霞微雨後諸陵草樹夕陽中秋風客恨知多少往事悠悠水自東
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 松京懷古
+  author: 李孟畇
+  language: lzh
+  text: 五百年來王氣終。操鷄摶鴨竟何功。英雄一去豪華盡。人物南遷市井空。上苑煙霞微雨後。諸陵草樹夕陽中。秋風客恨知多少。往事悠悠水自東。
+korean:
+  title: 송경 회고
+  author: 이맹균
+  language: kor
+  text: |-
+    5백 년 내려오다가 왕기가 끝났으니
+    닭을 잡고 오리를 친 공은 어디 갔는고
+    영웅들 한 번 가니 호화도 다했구나
+    인물이 남[한양]으로 옮겨 저자도 텅 비었네
+    가랑비 내린 뒤의 상원(궁궐에 속하는 비원)의 연하여
+    석양 비낀 적에 모든 능의 초목들
+    가을 바람에 지나는 손 한이 얼마뇨
+    지난 일 유유하여라, 물만 동으로 흐르누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0690&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 닭을 잡고 오리 친 : '
+    value: 태봉(泰封) 말년에 당상(唐商) 왕창근(王昌瑾)이 궁예(弓裔)에게 바친 옛 거울에 새겨 있었다는 도참문(圖讖文) 중의 일절. 먼저 닭을 잡고 뒤에 오리를 친다는 것은 고려 태조 왕건이 먼저 계림을 정복하고 뒤에 압록강을 취하게 될 것을 예언한 것이다.
+english:
+  title: Reflections on the Old Capital of Song
+  author: Lee Maeng-gyun
+  language: eng
+  text: |-
+    Five hundred years of royal fortune have run their course.
+    The prophecy of catching chickens, then ducks—what glory came of it?
+    Once the heroes departed, splendor withered away.
+    As talents fled southward, the markets lay bare and hollow.
+
+    The upper gardens breathe mist and haze after the gentle rain;
+    Among all the royal tombs, trees sway in the setting sun.
+    How much longing does this wanderer bear on autumn winds?
+    The past flows on like water—ever eastward, ever gone.
+  footnotes:
+  - key: ''
+    value: The 'catching chickens, then ducks' references an ancient prophecy inscribed upon a mirror, foretelling that the founder of Goryeo would first conquer the central regions, then expand to the distant borders.
+  - key: ''
+    value: This poem mourns the decline of Kaesong, the former Goryeo capital, after the court moved south to Hanyang (Seoul) during the Joseon period.

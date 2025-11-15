@@ -1,0 +1,49 @@
+canonical:
+  title: 七夕小酌
+  author: 李穀
+  language: lzh
+  text: 平生足迹等雲浮萬里相逢信有由天上風流牛女夕人間佳麗帝王州笑談欵欵尊如海簾幕深深雨送秋乞巧曝衣非我事且憑詩句遣閑愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 七夕小酌
+  author: 李穀
+  language: lzh
+  text: 平生足迹等雲浮。萬里相逢信有由。天上風流牛女夕。人間佳麗帝王州。笑談欵欵尊如海。簾幕深深雨送秋。乞巧曝衣非我事。且憑詩句遣閑愁。
+korean:
+  title: 칠석에 조금 마시며
+  author: 이곡
+  language: kor
+  text: |-
+    평생에 발자취 뜬구름 같았는데
+    만 리 밖에 서로 만남도 인연이 있네그려
+    하늘 위의 풍류는 견우직녀 만나는 날
+    인간에도 아름답고 번화한 서울에서
+    푸짐한 담소에 술이 바다 같구먼
+    깊숙한 주렴 장막에 비가 가을을 보내오네
+    걸교와 옷 말림[曙]은 내 할 일 아니로세
+    한두 구 시나 지어서 풋시름을 잊으려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0700&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 걸교(乞巧)와 옷 말림[曙] : '
+    value: 걸교는 칠석날 부녀자들이 색실을 맺어 놓고 일곱 바늘에 꿰어 바느질 잘하게 되는 솜씨를 비는 것인데, 거미가 외[瓜] 위에 그물을 치면 성공한 것이라 한다. 옷 말림은 칠석에 옷을 내어 뜰앞에서 말리는 것인데 진(晉)나라 이래의 옛 풍습. 부귀한 집에서 능과 비단옷을 내어 말림에 대항하여 완함(阮咸)이 긴 장대 끝에 고쟁이[犢鼻禪]을 꿰어 말렸음은 유명한 고사이다. 《荊楚歲時記》
+english:
+  title: A Small Drink on the Seventh Evening
+  author: Lee Gok
+  language: eng
+  text: |-
+    My footprints in life have drifted like clouds,
+    Yet across ten thousand miles, we meet—there must be fate.
+    In heaven, the Cowherd and Weaver Maid share their evening tryst,
+    While on earth, in this fair and flourishing capital,
+    We speak and laugh, our conversation deep as the sea of wine,
+    And behind the hanging curtains, rain escorts the autumn away.
+    The maiden's wishes and sun-dried silks are not my concern—
+    I'll craft a verse or two instead to dissolve this idle sorrow.
+  footnotes:
+  - key: ''
+    value: The seventh evening refers to the Seventh Night Festival (Chilseok), celebrated on the seventh day of the seventh lunar month, commemorating the annual meeting of the Cowherd Star and the Weaver Maid Star in Chinese mythology.
+  - key: ''
+    value: The Cowherd (Gyeongwoo) and Weaver Maid (Jiknyeo) are celestial lovers separated by the Milky Way, allowed to meet only once a year on this night.
+  - key: ''
+    value: The 'maiden's wishes' and 'sun-dried silks' reference traditional Seventh Night rituals in which women would seek to improve their embroidery skills and dry fine garments—customs the poet playfully disclaims in favor of wine and poetry.

@@ -1,0 +1,50 @@
+canonical:
+  title: 題畫松二首
+  author: 姜希孟
+  language: lzh
+  text: 生長深山萬丈長幾經雷雨與風霜終然甘作溝中斷不願殘形擬棟樑剝落皺鱗綠蘚紋淸溪嚙岸露霜根空山薄暮生靑靄半雜蒼藤抹一痕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題畫松二首
+  author: 姜希孟
+  language: lzh
+  text: 生長深山萬丈長。幾經雷雨與風霜。終然甘作溝中斷。不願殘形擬棟樑。剝落皺鱗綠蘚紋。淸溪嚙岸露霜根。空山薄暮生靑靄。半雜蒼藤抹一痕。
+korean:
+  title: 제 화송 이수
+  author: 강희맹
+  language: kor
+  text: |-
+    깊은 산속에 나서 만 발이나 자랐거니
+    얼마나 우레와 비와 바람과 서리를 겪었던가
+    마침내 계천 바닥에서 끊기는 것을 달게 받을지언정
+    몸을 끊어내어 도리와 들보에 비기는 것 원치 않다
+    벗겨지고 우굴쭈굴한 껍질에는 푸른 이끼 무늬인데
+    맑은 개울 물이 언덕을 물어뜯어 오랜 뿌리 드러났다
+    쓸쓸한 산 황혼에 푸른 아지랑이 이는데
+    반쯤 섞인 푸른 등나무는 한 흔적을 남겼다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Two Poems on Painted Pines
+  author: Kang Hi-maeng
+  language: eng
+  text: |-
+    I.
+
+    Grown in the deep mountains, reaching ten thousand fathoms high,
+    How many thunderstorms and frosts have worn upon my form?
+    I would sooner break and lie forgotten in the ravine's bed
+    Than have my severed body fashioned into beam and rafter.
+
+    II.
+
+    My bark peels and wrinkles in scales of green moss,
+    While clear waters gnaw the bank and bare my ancient roots.
+    In the lonely mountain's dusk, blue mist begins to rise,
+    And tangled vines of green trace a single faded mark.
+  footnotes:
+  - key: ''
+    value: This diptych appears to be a meditation on integrity and natural dignity. The pine, a symbol of steadfastness in East Asian aesthetics, refuses the 'honor' of being cut down for human use.
+  - key: ''
+    value: The poem contrasts the pine's willingness to decay naturally with the violence of being transformed into architectural elements, suggesting a philosophical stance on authenticity and self-determination.

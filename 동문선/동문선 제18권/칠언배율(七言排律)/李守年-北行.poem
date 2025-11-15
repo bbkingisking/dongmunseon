@@ -1,0 +1,77 @@
+canonical:
+  title: 北行
+  author: 李守年
+  language: lzh
+  text: 國耳忘家十五人陰山萬里指中宸塔邊古屋曾經漢雲末長城暗想秦月苦沙場牛作伴風寒毳幕犬爲隣擁氈夜卧溫於被拾糞朝炊當却薪欹枕旅魂猶繾綣半年行色最酸辛牧羊野闊多情草驅馬途長滿面塵千載功臣眞可惜一朝勞悴豈堪嗔殷家再造由良弼周室中興有亂臣好把壯心終莫逆須敎兩域永相親笙歌擁路迎車盖歸奏吾君萬歲春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 北行
+  author: 李守年
+  language: lzh
+  text: 國耳忘家十五人。陰山萬里指中宸。塔邊古屋曾經漢。雲末長城暗想秦。月苦沙場牛作伴。風寒毳幕犬爲隣。擁氈夜卧溫於被。拾糞朝炊當却薪。欹枕旅魂猶繾綣。半年行色最酸辛。牧羊野闊多情草。驅馬途長滿面塵。千載功臣眞可惜。一朝勞悴豈堪嗔。殷家再造由良弼。周室中興有亂臣。好把壯心終莫逆。須敎兩域永相親。笙歌擁路迎車盖。歸奏吾君萬歲春。
+korean:
+  title: 북행
+  author: 이수년
+  language: kor
+  text: |-
+    오직 나라 생각 뿐 집을 잊은 열다섯 사람
+    음산 만 리 길에 황도로 향하누나
+    탑 가의 낡은 집은 한대를 지내온 것
+    하늘 끝 장성에선 진을 회상하겠지
+    달빛 차가운 모랫벌에 소와 짝이 되고
+    바람 찬 가죽장막에 개와 이웃하면서
+    전 휘감고 잠자니 이불보다 따스하고
+    쇠똥 주어 아침 취사 장작을 대신하리
+    베개 위의 고향 생각 얼마나 간절할꼬
+    반 년 동안 나그네 길 그지없이 신산하리
+    양 치는 넓은 벌엔 풀도 다정하지만
+    말을 모는 머나먼 길에 먼지투성이 얼굴
+    천고의 공신들 참으로 가석한데
+    일조의 고생스러움을 어찌 불평하리
+    은나라가 다시 세워짐은 양필에 의하였고
+    주실의 중흥함도 난신 있기 때문이었으니
+    끝내 장한 마음 어기지 말고
+    모름지기 두 나라를 길이 화친케 하소
+    환조하는 거개를 생가로 맞으리니
+    돌아와 우리 임금께 만년 봄을 아뢰소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 북행(北行) : '
+    value: 나라에서 귀가(貴家) 자제(子弟)들을 천조(天朝)에 입시(入侍)하게 하였다.
+  - key: '[주-D002] 양필(良弼) : '
+    value: 은(殷)나라 고종(高宗)이 꿈에 어진 보필[良弼]을 얻고 깨어나서 부열(傅說)을 찾아 내었다.
+english:
+  title: Journey North
+  author: Lee Soo-nyeon
+  language: eng
+  text: |-
+    Fifteen souls who have forgotten home, thinking only of country,
+    Traveling ten thousand miles through Yinshan toward the imperial way.
+    Ancient dwellings by the pagoda bear witness to the Han dynasty's passing,
+    While clouds drift over the great wall, stirring memories of Qin.
+
+    On the bitter moonlit sands, oxen become our companions,
+    In wind-chilled felt tents, dogs our neighbors.
+    Wrapped in felt blankets at night, we sleep warmer than in quilts,
+    Gathering dung for morning fires, needing no other wood.
+
+    On our pillows, homesickness clings like silk threads,
+    Half a year of wandering—each mile an ache, each step a sorrow.
+    The meadows grow wide where shepherds tend their flocks, the grass itself seems kind,
+    Yet the long roads wear us down, our faces thick with dust.
+
+    A thousand ages of loyal ministers—truly their fate is lamentable,
+    How can we resent a single day's hardship?
+    The Yin dynasty rose again through virtuous counsel,
+    The Zhou's renewal came through those who served in troubled times.
+
+    So let us keep our noble hearts forever true and steadfast,
+    That two kingdoms might know eternal peace.
+    With music and pageantry we shall return along the road,
+    To report to our sovereign spring eternal and ten thousand years of blessing.
+  footnotes:
+  - key: ''
+    value: This poem concerns the sending of noble sons to the imperial court as tribute and hostages.
+  - key: ''
+    value: The allusions to Yin and Zhou dynasties invoke historical examples of wise ministers whose counsel restored kingdoms to greatness, suggesting that even such difficult service serves a greater purpose.

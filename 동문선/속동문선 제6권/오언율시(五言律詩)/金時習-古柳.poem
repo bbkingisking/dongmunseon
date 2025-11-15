@@ -1,0 +1,43 @@
+canonical:
+  title: 古柳
+  author: 金時習
+  language: lzh
+  text: 古柳蟬聲急他鄕此日情長天列岫碧踈雨半江明晝永移書榻泉淸洗酒罌邇來來訪少牢落轉無營
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 古柳
+  author: 金時習
+  language: lzh
+  text: 古柳蟬聲急。他鄕此日情。長天列岫碧。踈雨半江明。晝永移書榻。泉淸洗酒罌。邇來來訪少。牢落轉無營。
+korean:
+  title: 고류
+  author: 김시습
+  language: kor
+  text: |-
+    늙은 버드나무에 매미 소리 급하거니
+    타향에 나온 오늘의 심정이구려
+    성긴 빗발에 강은 반쯤 밝구나
+    낮이 길어서 책상을 옮겨 놓고
+    샘물이 맑아 술 뒤웅박을 씻는다
+    요즘에 와서 찾는 이가 적거니
+    뇌락하여 갈수록 경영할 일이 없구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0320&viewSync=OT
+  footnotes: []
+english:
+  title: The Ancient Willow
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    The ancient willow thrums with cicada song,
+    and in this distant land, my heart grows strange.
+    Through sparse rain, the river gleams half-bright,
+    while layered peaks emerge in jade.
+
+    The long day draws me to move my writing desk,
+    and clear spring water washes out wine jugs.
+    Few visitors come to call these days—
+    growing ever more forlorn, I have no purpose left.
+  footnotes:
+  - key: ''
+    value: The poem expresses the melancholy of exile or separation from home, a common theme in East Asian classical poetry. The natural imagery—the cicadas, rain, river, and spring—mirrors the speaker's emotional state of displacement and gradual withdrawal from society.

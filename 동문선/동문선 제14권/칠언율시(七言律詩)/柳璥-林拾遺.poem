@@ -1,0 +1,50 @@
+canonical:
+  title: 林拾遺
+  author: 柳璥
+  language: lzh
+  text: 天德當年鬢兩靑肩隨處處幾論情白蓮魂夢無虛夕黃閣功名誤半生定罷側身松月白齋餘洗足石泉淸莫敎紅葉封苔徑投劾他時倘可行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 林拾遺
+  author: 柳璥
+  language: lzh
+  text: 天德當年鬢兩靑。肩隨處處幾論情。白蓮魂夢無虛夕。黃閣功名誤半生。定罷側身松月白。齋餘洗足石泉淸。莫敎紅葉封苔徑。投劾他時倘可行。
+korean:
+  title: 임 습유
+  author: 유경
+  language: kor
+  text: |-
+    천덕(금(金)의 해릉왕(海陵王) 연호) 당년에 귀밑머리 파란 소년들
+    어깨동무로 가는 곳마다 정답게 놀았지
+    밤마다 잠들면 백련사 꿈을 꾸었건만
+    반생을 황각의 공명에 그르쳤구나
+    선정을 파하고 몸 기울이니 솔 사이 흰 달
+    재 끝난 뒤 발 씻기는 돌틈의 샘물
+    붉은 낙엽으로 절문 앞 길을 봉하지 마소
+    벼슬을 내던지는 날 내가 혹시 찾아가리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: To Lim Seop-yu
+  author: Yu Gyeong
+  language: eng
+  text: |-
+    In Cheondeok's year, we were young men with dark hair at our temples,
+    Walking shoulder to shoulder wherever we went, intimate and carefree.
+    Each night in dreams I wandered white lotus halls,
+    Yet half my life was lost to yellow pavilion's empty fame.
+
+    Now that I have turned from office, my body bends beneath pine and moon,
+    And when my meditation ends, I wash my feet in stone-carved springs.
+    Do not let red leaves seal the path before your gate—
+    When at last I cast away these robes, perhaps I'll find my way to you.
+  footnotes:
+  - key: ''
+    value: Cheondeok refers to the reign year of the Jurchen Jin dynasty's Hae-neung Wang, suggesting this poem was written during a period of Jurchen rule or cultural influence.
+  - key: ''
+    value: The 'white lotus halls' (白蓮) reference Buddhist temples, symbolizing spiritual aspirations contrasted with worldly ambition.
+  - key: ''
+    value: The 'yellow pavilion' (黃閣) represents government office and the pursuit of official rank—a conventional image for worldly success in East Asian poetry.
+  - key: ''
+    value: '''Casting away robes'' is a poetic image for renouncing official life and returning to one''s true nature.'

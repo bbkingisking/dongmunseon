@@ -1,0 +1,46 @@
+canonical:
+  title: 贈雲門蘭若智光上人
+  author: 崔致遠
+  language: lzh
+  text: 雲畔構精廬安禪四紀餘筇無出山步筆絶入京書竹架泉聲緊松欞日影踈境高吟不盡瞑目悟眞如
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈雲門蘭若智光上人
+  author: 崔致遠
+  language: lzh
+  text: 雲畔構精廬。安禪四紀餘。筇無出山步。筆絶入京書。竹架泉聲緊。松欞日影踈。境高吟不盡。瞑目悟眞如。
+korean:
+  title: 운문서 난야 지광상인에게
+  author: 최치원
+  language: kor
+  text: |-
+    구름 가에 정사를 지어놓고서
+    조용한 선정에 근 50년간
+    지팡이는 산 밖에 나 본 일 없고
+    붓은 서울로 가는 글월 안 쓰네
+    대 홈에 샘물 소리 졸졸
+    송창에 햇빛이 성기네
+    맑고 높은 경지에 읊다 못하여
+    눈 감고 진여(眞如)를 깨치려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진여(眞如) : '
+    value: 불교 철학(佛敎哲學)에서 본체를 진여(眞如)라 하는데, 진(眞)은 허망(虛妄)하지 않다는 것이요, 여(如)는 평등(平等)인데. 차별상(差別相)이 없다는 말이다. 본체는 다른 데에 있는 것이 아니라 곧 자심(自心)이라 한다. 《起信論》
+english:
+  title: A Gift for Master Jikwang of the Unmun Hermitage
+  author: Choe Chi-won
+  language: eng
+  text: |-
+    By the clouded heights a dwelling is raised,
+    Fifty years of quiet meditation kept.
+    The walking staff has never left the mountain's gate,
+    The brush no longer writes for the distant capital.
+
+    Through bamboo frames the spring-water whispers,
+    Across pine eaves the sunlight falls in sparse threads.
+    In such heights where poetry knows no end,
+    With closed eyes, he awakens to the True Essence.
+  footnotes:
+  - key: ''
+    value: The 'True Essence' (眞如) refers to the ultimate reality in Buddhist philosophy—the unconditioned, non-dual nature of mind itself, beyond all distinctions and illusions.

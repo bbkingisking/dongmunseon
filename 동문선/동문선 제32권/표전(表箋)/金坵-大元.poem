@@ -1,0 +1,29 @@
+canonical:
+  title: 大元
+  author: 金坵
+  language: lzh
+  text: 萬國同文屬千齡之盛旦一人有慶得四方之懽心玆擎庭賀之章庶効嶽呼之懇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大元
+  author: 金坵
+  language: lzh
+  text: 萬國同文。屬千齡之盛旦。一人有慶。得四方之懽心。玆擎庭賀之章。庶効嶽呼之懇。
+korean:
+  title: 대원
+  author: 김구
+  language: kor
+  text: 만국(萬國)이 글을 같이하니 천 년의 성시(盛時)를 맞았고, 한 분이 경사를 소유하시면 사방의 환심(歡心)을 얻사옵나이다. 이에 뜰 앞에 경하(慶賀)하옵는 글을 받들어, 산악(山嶽)이 부르는 만세 소리를 대신하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: Great Yuan
+  author: Kim Gu
+  language: eng
+  text: Ten thousand nations share one script—this is the golden hour of a thousand-year reign. When one ruler receives fortune, the hearts of all four quarters turn in joy. Thus I present this humble verse of congratulation, hoping it may echo the mountains' loyal cry of ten thousand years.
+  footnotes:
+  - key: ''
+    value: The poem celebrates the Yuan Dynasty's cultural unification through the adoption of a common written language across diverse territories.
+  - key: ''
+    value: '"Mountains'' loyal cry" (山嶽呼) is a classical allusion to the traditional expression of dynastic loyalty and perpetual blessing.'

@@ -1,0 +1,45 @@
+canonical:
+  title: 晉州矗石樓
+  author: 鄭乙輔
+  language: lzh
+  text: 黃鶴名樓彼一時崔君好事偶留詩登臨景物無增損題詠風儀有盛衰玉斝高飛江月出珠簾半捲嶺雲垂倚欄回首乾坤小方信吾州特地奇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 晉州矗石樓
+  author: 鄭乙輔
+  language: lzh
+  text: 黃鶴名樓彼一時。崔君好事偶留詩。登臨景物無增損。題詠風儀有盛衰。玉斝高飛江月出。珠簾半捲嶺雲垂。倚欄回首乾坤小。方信吾州特地奇。
+korean:
+  title: 진주 촉석루
+  author: 정을보
+  language: kor
+  text: |-
+    저 황학루가 어찌 혼자 으스대리
+    최군이 수다스러워 우연히 시에 머물렀지
+    올라보니 경치는 변함이 없는데
+    편액의 글 품격은 성쇠가 보이누나
+    옥 술잔을 높이 드니 강달이 솟아나고
+    주렴을 반쯤 걷으니 영에 구름 드리웠네
+    난간서 고개 돌리매 천지가 작아 뵈니
+    알리라 우리 골 경치 특별히 기이한 줄
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 최군(崔君) : '
+    value: 당나라 시인 최호(崔顥). 그가 황학루에 올라 명작시를 써 걸었다.
+english:
+  title: Chokseok Tower in Jinju
+  author: Jung Eulbo
+  language: eng
+  text: |-
+    Why should the Yellow Crane Tower alone hold its proud name?
+    Cui Jun, lover of fine things, happened to leave his verse there.
+    Yet climbing these heights, the landscape remains unchanged—
+    though the inscribed words upon its plaque rise and fall with the ages.
+    Raising jade cups high, the river's moon ascends,
+    rolling back pearl curtains, mountain clouds descend.
+    Turning at the railing, heaven and earth grow small beneath my gaze—
+    now I know our valley's charm stands uniquely strange and rare.
+  footnotes:
+  - key: ''
+    value: Cui Jun (崔顥) was a Tang dynasty poet whose celebrated verse, inscribed upon the Yellow Crane Tower, became legendary. The poem references this famous precedent to elevate Chokseok Tower by comparison.

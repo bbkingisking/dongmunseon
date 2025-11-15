@@ -1,0 +1,45 @@
+canonical:
+  title: 和宣德鎭客舍李學士知深留題
+  author: 林惟正
+  language: lzh
+  text: 日落水流西復東杜牧 淺深山色古今同孫何 十年往事如飛鳥山谷 萬里淸江照碧空孫何 沽酒店藏花影裏郭震 倚樓人在月明中趙嘏 欲將累句酬嘉景舜欽 但愧論酬意未工王逢原
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和宣德鎭客舍李學士知深留題
+  author: 林惟正
+  language: lzh
+  text: 日落水流西復東。杜牧。 淺深山色古今同。孫何。 十年往事如飛鳥。山谷。 萬里淸江照碧空。孫何。 沽酒店藏花影裏。郭震。 倚樓人在月明中。趙嘏。 欲將累句酬嘉景。舜欽。 但愧論酬意未工。王逢原。
+korean:
+  title: 선덕진 객사에서 이학사 지심의 유제에 화답하며
+  author: 임유정
+  language: kor
+  text: |-
+    지는 해 흐르는 물이 동서로 오가건만 두목(杜牧)
+    얕고 깊은 산빛은 예나 이제나 같을러라 손하(孫何)
+    10년 지난 일은 나는 새와도 같은데 산곡(山谷)
+    만 리 맑은 강은 푸른 하늘을 비추누나 손하(孫何)
+    술 파는 집은 꽃그림자에 감추어 있고 곽진(郭震)
+    다락을 의지한 사람은 달 밝은 속에 있네 조가(趙嘏)
+    시귀를 읊어 좋은 경치 갚으려 하나 순흠(舜欽)
+    황당한 나의 글뜻이 서투르니 부끄러워라 왕봉원(王逢原)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0560&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Scholar Lee Ji-sim's Inscription Left at the Guest House in Seondeok Station
+  author: Lim Yu-jung
+  language: eng
+  text: |-
+    The setting sun, the flowing water—east and west they go,
+    yet shallow and deep, the mountains' hues remain the same through ages.
+    Ten years of memory fly away like birds in flight,
+    while ten thousand leagues of clear river mirror the azure sky.
+    The tavern hides within the flower's tender shade,
+    and one who leans upon the railing stands amid the moonlight.
+    I wish to repay this lovely scene with measured verse,
+    yet ashamed, my words fall short—my meaning still unrefined.
+  footnotes:
+  - key: ''
+    value: This poem is a collaborative work in the Korean poetic tradition, where each couplet is attributed to a classical Chinese poet or literary figure, creating a dialogue across time and space.
+  - key: ''
+    value: The imagery of the guest house, tavern, and moonlit railing evokes the transient nature of travel and human connection—themes central to Korean literary gatherings of this period.

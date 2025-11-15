@@ -1,0 +1,52 @@
+canonical:
+  title: 李政氶 凌幹 挽章
+  author: 閔思平
+  language: lzh
+  text: 百年終始似公難看取凌煙畫壁閒羽盖不來雲杳杳漆燈無盡夜漫漫平生事業唯淸白夢裏功名幾險艱地下有知應喜見德陵松栢暗西巒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李政氶 凌幹 挽章
+  author: 閔思平
+  language: lzh
+  text: 百年終始似公難。看取凌煙畫壁閒。羽盖不來雲杳杳。漆燈無盡夜漫漫。平生事業唯淸白。夢裏功名幾險艱。地下有知應喜見。德陵松栢暗西巒。
+korean:
+  title: 이정승 능간 만장
+  author: 민사평
+  language: kor
+  text: |-
+    백 년 시종이 임같이 어려워라
+    능연각 벽 사이 그림 모습 보옵소
+    우개 오지 않으니 구름만 아득하고
+    칠등이 끝없으니 밤이 길고 길어라
+    한평생 사업은 오직 청백뿐이었고
+    꿈속의 공명은 몇 번 어려움 겪었던고
+    지하에서 아시면 반가이 만나보오려니
+    덕릉[충선왕]의 송백이 우거진 서봉에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우개(羽蓋) : '
+    value: 깃으로 만든 일산[羽蓋]인데, 한(漢)나라 승상(丞相)  왕상(王商)이 두 개를 세웠다.
+  - key: '[주-D002] 칠등(漆燈) : '
+    value: 귀인의 무덤은 칠등(漆燈)으로 장치한다.
+english:
+  title: Elegy for Minister Lee Jeong-seung, Neung-gan
+  author: Min Sa-pyeong
+  language: eng
+  text: |-
+    A hundred years of beginning and end—as difficult as your path, my lord.
+    Beholding the painted walls of Lingyan, images linger in the space between.
+    The feathered canopy comes no more; clouds drift distant and vast.
+    The lacquered lamps burn endless; the night stretches long and dim.
+
+    A lifetime of deeds held only to purity and integrity.
+    In dreams, glory flickered with peril, climbing and falling steep.
+    Should you know beneath the earth, you would rejoice to greet us there—
+    Where pine and cypress of Deung-reung darken the western ridge.
+  footnotes:
+  - key: ''
+    value: The feathered canopy (羽蓋) was a ceremonial parasol of state, symbolizing rank and authority—no longer borne for the departed.
+  - key: ''
+    value: Lacquered lamps (漆燈) were the traditional burial lamps placed at the tombs of the nobility, burning eternally in darkness.
+  - key: ''
+    value: Deung-reung refers to the tomb of King Chungseon, where honored officials were honored in proximity to the royal dead.

@@ -1,0 +1,54 @@
+canonical:
+  title: 中例消災道場音讚詩
+  author: 金坵
+  language: lzh
+  text: 游空宿曜偶相干世眼無端作怪看若是祓萌將醞造當緣呪力旋消殘壽山更疊千年翠神杵纔舂一粒丹熾盛光中忝瑞氣臈前春色滿三韓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中例消災道場音讚詩
+  author: 金坵
+  language: lzh
+  text: 游空宿曜偶相干。世眼無端作怪看。若是祓萌將醞造。當緣呪力旋消殘。壽山更疊千年翠。神杵纔舂一粒丹。熾盛光中忝瑞氣。臈前春色滿三韓。
+korean:
+  title: 중례 소재도량 음찬시
+  author: 김구
+  language: kor
+  text: |-
+    공중에 떠노는 별이 우연히 범했는데
+    세상의 눈들이 무단히 이를 변괴라 하네
+    만일 재앙으로 된 것이라면
+    주력(기도할 때 주문(呪文)을 외우는 힘)을 인연하여 고대 스러지리
+    임금님 수산은 천 년 푸름을 더 겹치고
+    천신의 공이는 한 알 금단을 새로 찧네
+    치성광 빛 속에 서기가 어렸으니
+    설 앞에 봄빛이 벌써 삼한에 가득하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0620&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 공중에 떠노는 …… 범했는데 : '
+    value: 그때에 하늘의 별에 이상한 변괴가 있었으므로 재앙을 소멸시키기 위하여 기도도량(祈禱道場)을 설치하였던 것이다.
+  - key: '[주-D002] 금단(金丹) : '
+    value: 오래 살게 하는 신선의 약인데, 이때에 임금의 오래 살 것을 축원하던 것이다.
+  - key: '[주-D003] 치성광(熾盛光) : '
+    value: 대위덕 금륜불정 치성광여래 소제일체재란 다라니경(大威德 金輪佛頂 熾盛光如來 消除一切災難 陀羅尼經)이란 불경이 있는데, 그것은 재액(災厄)을 소멸시키는 주문(呪文)을 기록한 경이다.
+english:
+  title: A Hymn in Praise of the Ritual for Averting Calamity
+  author: Kim Ku
+  language: eng
+  text: |-
+    A wandering star in heaven chances to transgress,
+    And worldly eyes, unprompted, call it portent of distress.
+    If calamity takes form from such celestial sign,
+    Then through the power of sacred invocation it shall decline.
+
+    The Royal Mountain of Long Life adds another thousand verdant years,
+    While the Divine Pestle pounds a single golden pill anew.
+    Beneath the blazing radiance of Glorious Light, auspicious energy attends,
+    And spring's fair countenance already fills all three Han kingdoms before winter's end.
+  footnotes:
+  - key: ''
+    value: Chisung Gwang (熾盛光, Blazing Light) refers to the Buddhist deity Chisung Gwang Yeorye, associated with sutras that dispel calamities through sacred mantras.
+  - key: ''
+    value: The golden pill (금단) symbolizes longevity and is here a prayer for the ruler's eternal life.
+  - key: ''
+    value: The three Han kingdoms (삼한) refers to the ancient Korean kingdoms of Goguryeo, Baekje, and Silla, used here as a poetic reference to the entire Korean realm.

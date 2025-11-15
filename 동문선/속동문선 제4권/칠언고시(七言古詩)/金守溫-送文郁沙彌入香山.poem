@@ -1,0 +1,66 @@
+canonical:
+  title: 送文郁沙彌入香山
+  author: 金守溫
+  language: lzh
+  text: 聞說香山臨朔北六月陰崖猶積雪絶頂爪雲常漠漠登者攀緣蔓側栢木衣草食多隱逸瓜長一尺眉覆額飛行無處可尋迹念經夜夜聲響谷乖崖半世抱秘訣未試囊中飡玉術欲從文郁謝簪笏却恐明朝丞相責憑詩寄語山中客準擬秋風頹橡栗架岩爲我築石室忍使塵埃滅蠓蠛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送文郁沙彌入香山
+  author: 金守溫
+  language: lzh
+  text: 聞說香山臨朔北。六月陰崖猶積雪。絶頂爪雲常漠漠。登者攀緣蔓側栢。木衣草食多隱逸。瓜長一尺眉覆額。飛行無處可尋迹。念經夜夜聲響谷。乖崖半世抱秘訣。未試囊中飡玉術。欲從文郁謝簪笏。却恐明朝丞相責。憑詩寄語山中客。準擬秋風頹橡栗。架岩爲我築石室。忍使塵埃滅蠓蠛。
+korean:
+  title: 송 문욱사미 입 향산
+  author: 김수온
+  language: kor
+  text: |-
+    들으니 향산이 북녘끝에 있어
+    6월에도 음달엔 아직 적설이라고
+    구름속에 치솟은 상봉이 아득도 하여
+    등산 자가 칡백 넝쿨을 집고 오르고
+    목의 초식하는 많은 은사들
+    손톱 길이가 한 자나 되고 눈썹이 이마를 덮은 사람들이
+    훌훌 날아다니나 참을 길이 없고
+    경 읽는 소리만이 밤마다 골짜기를 울릴 뿐이라고
+    괴애(작자의 호)가 반생에 신선되는 비결을 안고
+    주머니 속의 옥 먹는 술벗을 아직 못 시험하네
+    벼슬을 버리고 문욱을 그만 좇아가려 하나
+    내일 아침 승상님이 책망될까 두려워하네
+    시를 지어 산중객에게 말 부치노니
+    가을 바람에 도토리ㆍ밤나무 넘어지거든
+    날 위하여 바위 위에 석실 한 채 지어주게
+    차마 나를 이 진세에서 하루살이처럼 사라지게 하겠는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주머니 …… 술벗 : '
+    value: 신선을 배우는 한 방법인데 주머니 속에 숨겨 놓은 비방(秘方).
+english:
+  title: Sending the Novice Monk Mun-uk to Fragrant Mountain
+  author: Kim Su-on
+  language: eng
+  text: |-
+    I hear that Fragrant Mountain crowns the northern frontier,
+    Where even in June's depths, the shaded cliffs hold winter's snow.
+    The summit pierces the clouds in endless haze,
+    And climbers grip the vines of cypress to ascend.
+
+    There dwell many hermits clothed in wood and fed by grass,
+    Their fingernails grown a foot long, eyebrows veiling their brows,
+    Fluttering through the air with nowhere to trace their steps,
+    Only the sound of sutras echoing through gorges each night.
+
+    Bitter Cliff holds the secret of immortality these fifty years,
+    Yet I have not tested the elixir hidden in my sleeve.
+    I wish to cast off my robes and follow Mun-uk away,
+    But fear the Prime Minister's reproach come tomorrow's dawn.
+
+    So I send this poem to my friend dwelling in the mountains:
+    When autumn winds knock down the acorns and chestnuts,
+    Build for me a stone hermitage upon the rocky heights—
+    Will you truly let me vanish like a mayfly in the dust?
+  footnotes:
+  - key: ''
+    value: Bitter Cliff (괴애) is the poet's own sobriquet, referring to his contemplation of the spiritual path.
+  - key: ''
+    value: The elixir hidden in the sleeve (囊中飡玉術) refers to secret Daoist methods of immortality, alluded to in the Korean text as a hermit's practice.

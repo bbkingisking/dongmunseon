@@ -1,0 +1,49 @@
+canonical:
+  title: 古詩
+  author: 柳仁瞻
+  language: lzh
+  text: 終南曉蒼蒼迢遰見層城北窓斷幽夢雨餘涼我生端居頗岑寂好鳥相和鳴聊復蒔篁菊適我遺世情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 古詩
+  author: 柳仁瞻
+  language: lzh
+  text: 終南曉蒼蒼。迢遰見層城。北窓斷幽夢。雨餘涼我生。端居頗岑寂。好鳥相和鳴。聊復蒔篁菊。適我遺世情。
+korean:
+  title: 고시
+  author: 유인첨
+  language: kor
+  text: |-
+    종남산이 새벽에 푸릇푸릇
+    저 멀리 높은 성이 보이네
+    북창에 그윽한 꿈을 깨니
+    비 온 뒤에 인생이 서늘쿠나
+    들앉아 있느라니 조용도 한데
+    좋은 새가 화답하여 울음 우네
+    애오라지 대와 국화를 심어
+    세상을 초월하고픈 내 뜻 맞추리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0800&viewSync=OT
+  footnotes: []
+english:
+  title: An Ancient Poem
+  author: Yoo In-chum
+  language: eng
+  text: |-
+    Mount Zhongnan glows blue-green at dawn,
+    Distant, the layered city towers rise.
+    From my north window, a tender dream disperses—
+    After rain, the world grows cool upon my soul.
+
+    Sitting alone here, how deep the stillness,
+    Yet noble birds answer with their song.
+    I plant bamboo and chrysanthemums at whim,
+    Matching the longing that dwells within my heart:
+    To transcend this world, to slip its grasp.
+  footnotes:
+  - key: ''
+    value: Mount Zhongnan (終南山) is a sacred mountain south of Chang'an (modern-day Xi'an), traditionally associated with hermitage and spiritual retreat in Chinese poetry.
+  - key: ''
+    value: The 'north window' suggests a scholar's study, a traditional setting for contemplation in East Asian poetry.
+  - key: ''
+    value: Bamboo and chrysanthemum are classical symbols of virtue and noble character in Chinese and East Asian literary tradition.

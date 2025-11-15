@@ -1,0 +1,48 @@
+canonical:
+  title: 蔚州雜題
+  author: 李詹
+  language: lzh
+  text: 雲雨紛紛作晦明鴻毛直似太山輕天涯孤枕故鄕夢月下誰家長笛聲骨肉百年三遠別波瀾萬丈一浮生莫嫌席地南來盡還有滄溟眼底平
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蔚州雜題
+  author: 李詹
+  language: lzh
+  text: 雲雨紛紛作晦明。鴻毛直似太山輕。天涯孤枕故鄕夢。月下誰家長笛聲。骨肉百年三遠別。波瀾萬丈一浮生。莫嫌席地南來盡。還有滄溟眼底平。
+korean:
+  title: 울주 잡제
+  author: 이첨
+  language: kor
+  text: |-
+    분분한 구름비 흐릴락 맑을락
+    태산은 홍모같이 가벼워라
+    하늘 가 외로운 베개는 고향 가는 꿈 뿐인데
+    달 아래 뉘 집에서 저 부는 소리
+    한평생에 골육은 세 번 먼 이별하였구나
+    만길 파란에 한 부생이로세
+    돗자리 만한 땅이 남쪽으로 끝났다 탓하지 마소
+    눈 앞에 다시 질펀한 바다 있지 않나베
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: Miscellaneous Verses on Wol-ju
+  author: Lee Chaem
+  language: eng
+  text: |-
+    Clouds and rain scatter, now darkening, now clearing—
+    even Mount Tai grows light as a swan's feather.
+    On a lonely pillow at the world's edge, I dream only of home,
+    and beneath the moon, whose house plays that distant flute?
+
+    Bone and blood part three times in a hundred years of life.
+    Ten thousand fathoms of waves—a single floating span of days.
+    Do not lament that the land, small as a mat, ends to the south:
+    there remains before your eyes the boundless sea spread wide and level.
+  footnotes:
+  - key: ''
+    value: Mount Tai (태산) is a metaphor for greatness rendered insignificant by perspective, reversing the famous Daoist image of the feather.
+  - key: ''
+    value: The 'three distant partings' likely refers to the separations inherent in a life lived far from family—perhaps exile, travel, or the natural distance that grows between loved ones.
+  - key: ''
+    value: The final couplet suggests that even life's constraints and endings reveal greater horizons—a consolation in the face of limitation.

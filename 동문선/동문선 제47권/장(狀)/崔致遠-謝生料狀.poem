@@ -1,0 +1,44 @@
+canonical:
+  title: 謝生料狀
+  author: 崔致遠
+  language: lzh
+  text: 某啓某昨日伏蒙仁慈再賜生料恩垂望外喜集愁中安貧而已贍晨炊感德而唯知宿飽遂使范家釡甑免恨長閑顔巷簞瓢倍加其樂伏以某雖楊曾穿葉而蓬且斷根空把利錐兾遇大賢之鑒豈將長鋏先興下客之歌一昨輒貢蕪音累塵尊聽窺德宇而鷰雖相賀望威風而鷁恐退飛豈料司空相公俯念海人久爲塵吏特垂記錄繼賜沾濡生前之溝壑無虞飢寒雖濟頭上之丘山漸重負戴難勝依投而旣類窮猿展効而願同病雀下情無任云云
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝生料狀
+  author: 崔致遠
+  language: lzh
+  text: 某啓。某昨日伏蒙仁慈。再賜生料。恩垂望外。喜集愁中。安貧而已贍晨炊。感德而唯知宿飽。遂使范家釡甑。免恨長閑。顔巷簞瓢。倍加其樂。伏以某雖楊曾穿葉。而蓬且斷根。空把利錐。兾遇大賢之鑒。豈將長鋏。先興下客之歌。一昨輒貢蕪音。累塵尊聽。窺德宇而鷰雖相賀。望威風而鷁恐退飛。豈料司空相公俯念海人。久爲塵吏。特垂記錄。繼賜沾濡。生前之溝壑無虞。飢寒雖濟。頭上之丘山漸重。負戴難勝。依投而旣類窮猿。展効而願同病雀。下情無任云云。
+korean:
+  title: 사 생료 장
+  author: 최치원
+  language: kor
+  text: 모(某)는 아룁니다. 모는 어제 인자(仁慈)께서 두 번째 먹을 것을 내려주심을 입었으니, 뜻밖에 은혜를 끼쳐주시어 근심 가운데 기쁨이 넘칩니다. 가난이 안심되어 이미 아침 양식이 풍족하고, 덕을 느끼니 오직 배가 먼저 부름을 알게 되어, 마침내 범가(范家 범단[范丹])의 부증(釜甑 솔과 시루)이 노상 비어 있는 한을 면하게 하고, 안항(顔巷 안연[顔淵]의 누항[陋巷])이 그 낙을 배나 더 하게 하였습니다.엎드려 생각건대, 모(某)는 비록 일찍이 버들잎을 뚫었으나[穿楊] 마치 휘날리는 쑥대잎과 같으며, 속절 없이 예리한 송곳을 쥐고대현(大賢)의 알아 보시기만을 기다렸는데 어찌 장협(長鋏)을 들고 먼저 하객(下客)의 노래를 부르겠습니까. 지난날에 문득 되지 않은 글월을 올리어 여러번 높은 청문(聽聞)을 번거롭게 하였지만, 덕용(德容)을 엿보고 나아가 하례할 생각이나, 위풍을 바라봄에 두려워 물러나게 되었던 것입니다.어찌 생각인들 했겠습니까. 사공상공(司空相公)께서 바다 사람을 굽어보시고, 오래토록 진세(塵世)의 관리가 된 것을 생각하시어, 특히 기억에 남기시고 계속 먹을 것을 주시니, 생전에는 구학(溝壑)에 빠지고 기한(飢寒)에 절박할 염려는 없겠으나, 머리 위의 구산(丘山)이 점점 무거워, 이고 짊어지기에 이기기 어려우며, 의탁해 있어도 이미 궁한 원숭이와 비슷하고, 힘을 펴려 해도 병든 참새와 같으니 마음에 송구함을 이기지 못하겠나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0500_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 예리한 …… 쥐고 : '
+    value: 《사기(史記)》 평원군전(平原君傳)은, “무릇 어진 선비가 세상에 처함은 마치 송곳이 주머니 안에 들어 있는 것과 같아서 그 끝이 당장에 밖으로 나타난다.[夫賢之處世也 猶若錐之處襄中 其末出見]” 한 데서 기인된 말이다.
+  - key: '[주-D002] 장협(長鋏) : '
+    value: 칼의 일종. 《전국책(戰國策)》 제책(齊策)에 맹상군(孟嘗君)의 문객(門客)  풍환(馮讙)이 자기 칼을 두들기며 노래하기를, “장협(長鋏)아 돌아가자, 밥상에 고기가 없구나.[長鋏歸來乎 食無魚]” 하였다.
+english:
+  title: A Letter of Gratitude for Provision
+  author: Choe Chi-won
+  language: eng
+  text: |-
+    Your humble servant writes to express his gratitude. Yesterday I received your boundless compassion, and you bestowed upon me sustenance a second time. This grace exceeds all expectation, and joy blooms even amidst my sorrows. With poverty now secure, my morning table is no longer bare, and in grateful recognition of your virtue, I know only the comfort of a satisfied belly. Thus the cauldron and sieve of Fan Dan need no longer sit idle in perpetual emptiness, and the narrow lane where Yan Hui dwelt grows ever more precious and sweet.
+
+    Yet I must confess: though I once flew swiftly like an arrow through reeds, I remain but a withering mugwort with severed roots. I grasp at a sharp point of talent, waiting only for the gaze of a great worthy to perceive it. How could I presume to sing the song of lesser guests, brandishing a long sword? In former days I dared submit my unpolished words, troubling your noble ears repeatedly. I wished to approach and offer my respect, yet fear of your majesty caused me to retreat.
+
+    Who could have imagined that the Minister would cast his gaze upon a mere sea-worn man, remembering how long I have labored in this dusty world? You have kept me in your thoughts and continued to provide for me. Thus my grave shall not claim me from hunger and cold while I yet draw breath. Yet the burden upon my shoulders grows heavier day by day—a weight I can scarce bear. Though I cling to your benevolence like a desperate ape, and would stretch forth my service like a wounded sparrow, I am overwhelmed with the sense of my own unworthiness.
+  footnotes:
+  - key: ''
+    value: 'Fan Dan''s cauldron and sieve: A reference to the ascetic sage Fan Dan who lived in such poverty that his cooking vessels often sat empty—here used to illustrate liberation from want.'
+  - key: ''
+    value: 'Yan Hui''s narrow lane: The poverty-stricken dwelling of Confucius''s most virtuous disciple, which paradoxically became a place of greater joy and meaning through his moral character.'
+  - key: ''
+    value: 'The sharp point of talent: An allusion to the metaphor of talent as a sharp awl—it should naturally reveal itself, yet the poet awaits recognition from a great worthy.'
+  - key: ''
+    value: 'The song of lesser guests: A reference to Meng Chang-jun''s retainer Feng Huan, who sang of his want until his patron provided for him—here the poet expresses reluctance to make such direct appeals.'
+  - key: ''
+    value: 'The burden of obligation: The poet, despite receiving aid, feels the moral weight of indebtedness growing heavier, comparing himself to creatures unable to bear their lot.'

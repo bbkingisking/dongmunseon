@@ -1,0 +1,47 @@
+canonical:
+  title: 讀陶潛傳戲成呈崔太尉
+  author: 李仁老
+  language: lzh
+  text: 酒中有何好此語近眞趣可笑陶淵明無錢尙嗜酒我性淡無欲於物不見囿不醉亦不醒徑到無何有
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀陶潛傳戲成呈崔太尉
+  author: 李仁老
+  language: lzh
+  text: 酒中有何好。此語近眞趣。可笑陶淵明。無錢尙嗜酒。我性淡無欲。於物不見囿。不醉亦不醒。徑到無何有。
+korean:
+  title: 도잠의 전기를 읽다가 희작하여 최태위에게
+  author: 이인로
+  language: kor
+  text: |-
+    술에 그 무엇 좋은 것 있는가
+    이 말은 정말 진리에 가깝네
+    우습기도 하여라 저 도연명
+    돈도 없으면서 술만을 즐기었네
+    내 성질 담박하고 욕심이 없어
+    어떤 물에도 얽매이지 않나니
+    취하지 않고 또한 깨지도 않아
+    어느 새 무하유에 이르렀노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 무하유(無何有) : '
+    value: 아무 것도 없다는 뜻인데, 허무(虛無)한 이상향(理想鄕)을 말한다. 《莊子》
+english:
+  title: 'On Reading the Biography of Tao Yuanming: A Playful Verse Presented to Minister Choi'
+  author: Lee Inro
+  language: eng
+  text: |-
+    What virtue dwells in wine?
+    This question approaches truth.
+    How amusing—that Tao Yuanming,
+    with empty coffers, still craved the cup.
+
+    My nature tends toward stillness,
+    desiring nothing of the world.
+    Unbound by any constraint,
+    I drift neither drunk nor sober,
+    and find myself in the Place of Nothing.
+  footnotes:
+  - key: ''
+    value: The Place of Nothing (無何有) refers to a transcendent realm of emptiness and non-being described in the Zhuangzi—an ideal state beyond material attachments and ordinary consciousness.

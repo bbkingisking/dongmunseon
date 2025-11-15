@@ -1,0 +1,37 @@
+canonical:
+  title: 夜坐
+  author: 李冑
+  language: lzh
+  text: 陰風慘慘雨淋淋海氣連山石竇深此夜浮生餘白首點燈時復顧初心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜坐
+  author: 李冑
+  language: lzh
+  text: 陰風慘慘雨淋淋。海氣連山石竇深。此夜浮生餘白首。點燈時復顧初心。
+korean:
+  title: 야좌
+  author: 이주
+  language: kor
+  text: |-
+    음풍은 쌀쌀하고 비는 임림할 제
+    바다 기운 메를 잇고 돌구멍은 깊었어라
+    이날 밤 부생이 흰 머리만 남았는데
+    등불 켜고 때로 다시 옛 마음을 돌보았네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0390&viewSync=OT
+  footnotes: []
+english:
+  title: Night Sitting
+  author: Lee Ju
+  language: eng
+  text: |-
+    The bitter wind blows chill, the rain falls grey—
+    Sea mist clings to the mountain, stone caves run deep.
+    This night, of fleeting life, only white hair remains;
+    I light the lamp and recall, once more, my youthful heart.
+  footnotes:
+  - key: ''
+    value: 浮生 (floating life) refers to the transient nature of human existence, a Buddhist-influenced concept common in East Asian poetry
+  - key: ''
+    value: The image of white hair contrasts with the rekindled memory of one's youthful aspirations, capturing the melancholy of aging and the bittersweet return to earlier ideals

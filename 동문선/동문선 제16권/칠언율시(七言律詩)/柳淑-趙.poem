@@ -1,0 +1,50 @@
+canonical:
+  title: 趙
+  author: 柳淑
+  language: lzh
+  text: 爾輩何時會我堂團欒樽酒說江鄕晝携孤杖山如畫夜卷踈簾月滿床要把文章輔堯舜莫將言論効蘇張友朋可愛還堪畏山海胷襟不可量
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 趙
+  author: 柳淑
+  language: lzh
+  text: 爾輩何時會我堂。團欒樽酒說江鄕。晝携孤杖山如畫。夜卷踈簾月滿床。要把文章輔堯舜。莫將言論効蘇張。友朋可愛還堪畏。山海胷襟不可量。
+korean:
+  title: 다시 앞의 운으로 조카 조
+  author: 유숙
+  language: kor
+  text: |-
+    너희들 언제 내 당에 모여서
+    술 들며 단란히 강마을 재미 이야기할까
+    낮에 지팡이 짚고 나서니 산이 그림 같고
+    밤에 성긴 발 걷으니 달이 상에 가득하지
+    문장으로 요순의 덕을 도울지니
+    변설로 소진ㆍ장의를 본받지 말 것이다
+    친구들이란 사랑스럽고도 두려운 것
+    산해와 같은 흉금은 헤아릴 수 없나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0220&viewSync=OT
+  footnotes: []
+english:
+  title: To Jo
+  author: Yu Suk
+  language: eng
+  text: |-
+    When will you gather at my hall,
+    Where we drink together in harmony,
+    Speaking of the joys of riverside villages?
+
+    By day, staff in hand, I walk where mountains frame themselves like paintings.
+    By night, through gauzy curtains, moonlight floods across my bed.
+
+    May my writings aid the virtue of the ancient sages,
+    Not mimic the silver tongues of cunning speakers.
+
+    Friends are both beloved and to be feared—
+    Their hearts vast as mountains and seas,
+    Truly beyond all measure.
+  footnotes:
+  - key: ''
+    value: 'The poem plays on the classical scholar''s dual role: contribution through moral writing versus mere eloquence. Yao and Shun represent ideal ancient sage-kings; Su Qin and Zhang Yi were famous Warring States-era persuaders known for manipulation rather than virtue.'
+  - key: ''
+    value: The moonlight imagery mirrors the dual nature of friendship itself—beauty and intimacy alongside the weight of genuine fellowship.

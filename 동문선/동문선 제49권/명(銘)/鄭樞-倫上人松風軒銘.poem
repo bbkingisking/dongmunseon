@@ -1,0 +1,40 @@
+canonical:
+  title: 倫上人松風軒銘
+  author: 鄭樞
+  language: lzh
+  text: 颼颼虛籟欝欝蒼雲子之淸兮宴坐閑聞鬻之無價用之不竭盍歸乎來人間劇熱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 倫上人松風軒銘
+  author: 鄭樞
+  language: lzh
+  text: 颼颼虛籟。欝欝蒼雲。子之淸兮。宴坐閑聞。鬻之無價。用之不竭。盍歸乎來。人間劇熱。
+korean:
+  title: 윤상인 송풍헌 명
+  author: 정추
+  language: kor
+  text: 우우 부는 바람이요, 울창한 푸른 숲 자네의 맑음이여. 고요히 앉아서 솔바람을 한가하게 듣는구나. 팔자니 지극히 귀중하여 값도 없고 사용하여도 다함이 없네. 어이 돌아오지 아니하랴. 인간세계는 찌듯이 더우니 말일세.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0280&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on Lun Sangin's Pine Wind Pavilion
+  author: Jung Chu
+  language: eng
+  text: |-
+    The wind whispers through emptiness,
+    Dense clouds of jade-green gather—
+    Your clarity, so pure and still,
+    Sitting in silence, listening freely
+    To the murmuring of the pines.
+
+    Priceless, beyond all measure,
+    Never depleted though ever used,
+    How could one not return to this?
+    The human world burns with fever-heat,
+    Sweltering and oppressive.
+  footnotes:
+  - key: ''
+    value: The 'Pine Wind Pavilion' (松風軒) refers to a retreat space where one can experience the cleansing influence of natural sounds and solitude.
+  - key: ''
+    value: The poem contrasts the cultivated stillness of the pavilion with the frenetic heat and chaos of worldly life, suggesting spiritual refuge in nature.

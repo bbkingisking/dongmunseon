@@ -1,0 +1,54 @@
+canonical:
+  title: 涇州
+  author: 朴仁範
+  language: lzh
+  text: 翬飛仙閣在靑冥月殿笙歌歷歷聽燈撼螢光明鳥道梯回虹影到岩扃人隨流水何時盡竹帶寒山萬古靑試問是非空色理百年愁醉坐來醒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 涇州
+  author: 朴仁範
+  language: lzh
+  text: 翬飛仙閣在靑冥。月殿笙歌歷歷聽。燈撼螢光明鳥道。梯回虹影到岩扃。人隨流水何時盡。竹帶寒山萬古靑。試問是非空色理。百年愁醉坐來醒。
+korean:
+  title: 경주
+  author: 박인범
+  language: kor
+  text: |-
+    나는 듯한 선각이 푸른 하늘에 솟았으니
+    월궁의 피리소리가 역력히 들리는 듯
+    등불은 반딧불 흔드는 듯 새의 길을 비추고
+    사닥다리는 무지개를 뻗친 듯 바위 문에 이르누나
+    인생은 흐르는 물 따라 어느 때 그칠고
+    대는 찬 산에 띄어 있어 만고에 푸른 것을
+    시비와 공색의 이치를 물어보니
+    백 년간 취했던 시름 금방 훌쩍 깨어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경주(涇州) : '
+    value: 지금의 감숙성 경천현(涇川縣)으로 주 목왕(周穆王)이 서왕모(西王母)와 만나 잔치했다는 요지(瑤池)이며, 이 시는 박인범의 대표작으로 특히 3ㆍ4가 경구(警句)인데, 이규보(李奎報)의 《백운소설(白雲小說)》에서 화국(華國)의 명수(名手)로 예를 든 것이다.
+  - key: '[주-D002] 새[鳥]의 길 : '
+    value: 산길이 험하여 나는 새나 넘을 수 있는 곳을 말한다.
+  - key: '[주-D003] 시비(是非)와 공색(空色) : '
+    value: 《반야심경(般若心經)》에, “색이 곧 공이요, 공이 즉 색이다[色卽是空 空卽是色].”라는 말이 있다. 일체 형질(形質)과 모양이 있는 것을 색이라 이르는데 색은 기실 공이라 한다.
+english:
+  title: Jingzhou
+  author: Park In-beom
+  language: eng
+  text: |-
+    A celestial pavilion soars into the azure vault of heaven,
+    And from the moon palace come the pipes and songs, clear as day.
+    Lanterns tremble like fireflies, illuminating the bird-path through the peaks,
+    While staircases arch like rainbows leading to the stone gates.
+
+    Human life flows onward with the waters—when shall it cease?
+    Bamboo clings to the cold mountains, verdant through ten thousand ages.
+    I ask about right and wrong, emptiness and form—
+    A century of drunken sorrows awakens in an instant.
+  footnotes:
+  - key: ''
+    value: Jingzhou refers to the legendary place in Gansu where King Mu of Zhou encountered the Queen Mother of the West, a location steeped in Daoist mythology. This poem is Park In-beom's masterwork, particularly celebrated for its striking couplets in lines 3-4, which Li Gyu-bo cited in his 'White Cloud Tales' as exemplary of the finest craftsmanship in literature.
+  - key: ''
+    value: The 'bird-path' alludes to treacherous mountain passages so steep that only flying creatures could traverse them, symbolizing the heights of transcendence.
+  - key: ''
+    value: 'The Buddhist concept referenced here comes from the Heart Sutra: ''Form is emptiness, emptiness is form.'' The poem contemplates how all that appears tangible and formed is ultimately empty of inherent existence.'

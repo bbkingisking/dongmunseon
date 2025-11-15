@@ -1,0 +1,49 @@
+canonical:
+  title: 得家兄書
+  author: 李穀
+  language: lzh
+  text: 賤子成何事年年作遠遊棣華開處少荊樹得庭幽信字煩黃耳餘生共白頭置書空悵望江海日東流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 得家兄書
+  author: 李穀
+  language: lzh
+  text: 賤子成何事。年年作遠遊。棣華開處少。荊樹得庭幽。信字煩黃耳。餘生共白頭。置書空悵望。江海日東流。
+korean:
+  title: 득가 형서
+  author: 이곡
+  language: kor
+  text: |-
+    못난이 무슨 일을 이룬다고
+    해마다 멀리 와 노니는지요
+    상체 꽃은 핀 곳이 적은데
+    자형나무 뜰을 그윽히
+    글월 가져오기 수고했다 황이
+    여생은 둘이 모두 다 흰 머리
+    편지를 놓아두고 멍하니 바라보노니
+    강물은 날마다 흘러 동쪽으로 가건만
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0910&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상체(常棣) : '
+    value: 《시경》 〈상체편(常棣篇)〉은 형제들의 우애(友愛)를 노래한 시인데, 상체꽃은 다닥다닥 붙어 피는 것이 형제의 우애와 유사하다. 자형화(紫荊花)도 역시 같은 꽃이다.
+  - key: '[주-D002] 글월 …… 황이 : '
+    value: 진(晋) 육기(陸機)의 애견(愛犬) 이름. 대통[竹筩]에 넣은 주인의 편지를 목에 걸고 몇 천리를 뛰어 오(吳)에 가 전하고, 답장을 받아 가지고 낙양으로 돌아왔다.
+english:
+  title: Receiving a Letter from My Elder Brother
+  author: Lee Gok
+  language: eng
+  text: |-
+    What can a worthless man accomplish?
+    Year after year, I wander in distant lands.
+    Where the flowering vine of brotherhood blooms, it is rare—
+    The scholar tree shades my brother's courtyard in quiet solitude.
+    Huang the faithful hound labored hard to bring your letter.
+    The rest of my days we shall grow old together, both with white hair.
+    I set down your letter and gaze at it in sorrowful longing—
+    Yet the river flows eastward, day after day, onward to the sea.
+  footnotes:
+  - key: ''
+    value: The flowering vine (常棣) alludes to the Book of Poetry's "Ode to the Flowering Vine," which celebrates the affection between brothers. The flowers bloom clustered together, symbolizing fraternal love.
+  - key: ''
+    value: Huang was the beloved dog of Lu Ji of the Jin dynasty, famous for carrying his master's letters across hundreds of miles, bound in a bamboo tube around its neck, and returning with replies—a classical symbol of loyal correspondence.

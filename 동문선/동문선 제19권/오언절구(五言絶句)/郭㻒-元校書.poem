@@ -1,0 +1,37 @@
+canonical:
+  title: 元校書
+  author: 郭㻒
+  language: lzh
+  text: 今朝展淸眺詩興屬南山岸幘發長嘯始知天地寬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 元校書
+  author: 郭㻒
+  language: lzh
+  text: 今朝展淸眺。詩興屬南山。岸幘發長嘯。始知天地寬。
+korean:
+  title: 원교서
+  author: 곽균
+  language: kor
+  text: |-
+    오늘 아침 펼쳐진 맑은 조망에
+    시흥은 남산에 붙였네
+    건을 젖혀 쓰고 긴 휘파람 부니
+    천지 넓은 줄 비로소 알겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: To the Former School Librarian
+  author: Kwak Gyun
+  language: eng
+  text: |-
+    This morning's crystalline vista unfolds—
+    my poetic spirit clings to Southern Mountain.
+    With hat tilted back, I whistle long and clear,
+    and suddenly know the vastness of heaven and earth.
+  footnotes:
+  - key: ''
+    value: Southern Mountain (南山) likely refers to Namsan, a sacred peak in Korean geography, often associated with transcendence and clarity of vision in classical poetry
+  - key: ''
+    value: The gesture of tilting back one's hat while whistling suggests a moment of sudden enlightenment and liberation, a common motif in East Asian contemplative poetry

@@ -1,0 +1,57 @@
+canonical:
+  title: 讀宋史
+  author: 鄭希良
+  language: lzh
+  text: 建隆初築大平基半夜相傳揖讓規家法忽從金樻變天心先許杜鵑知啁啾群議江南割零落諸賢嶺外移誰勸康王回馬首可憐殘業續如絲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀宋史
+  author: 鄭希良
+  language: lzh
+  text: 建隆初築大平基。半夜相傳揖讓規。家法忽從金樻變。天心先許杜鵑知。啁啾群議江南割。零落諸賢嶺外移。誰勸康王回馬首。可憐殘業續如絲。
+korean:
+  title: 독송사
+  author: 정희량
+  language: kor
+  text: |-
+    건륭이 처음으로 태평한 터를 닦았는데
+    밤중에 서로 읍양의 규모를 전하였네
+    가법은 갑자기 금궤로 좇아 변하였으니
+    하늘의 마음은 먼저 두견새가 알리라
+    지껄이는 의논들은 강 남쪽을 베어 주자 하였는데
+    영락한 여러 현인들은 영 밖으로 귀양갔네
+    누가 강왕에게 권하여 말 머리를 돌렸던가
+    가엾어라 쇠잔한 업이 실처럼 이어 갔구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0460&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 읍양(揖讓) : '
+    value: 송 태조(宋太組)가 군사들에게 추대(推戴)를 받아 진교역(陳橋驛)에서 군사를 돌려 들어와서, 주(周)나라 공제(恭帝)에게 양위(讓位)하는 형식으로 나라를 차지하였다.
+  - key: '[주-D002] 금궤(金樻) : '
+    value: 송 태조가 어머니의 명령으로 장차 죽은 뒤에 그의 동생 광의(匡義 태종)에게 제위(帝位)를 전할 것을 조보(趙普)를 시켜 글로 쓰게 하여 금궤(金櫃)에 간직하였다.
+  - key: '[주-D003] 하늘의 …… 알리라 : '
+    value: 송 태조가 병이 위중할 때에 태종이 밤에 들어갔는데, 태조의 죽음에 관하여 의심이 있다는 말이 전해지자 그 뒤에 태종이 태조의 아들을 죽였다. 그러므로 여기서 두견새를 인용하였다. 전설(傳說)에, “옛적 촉(蜀)나라 임금이 그의 신하 별령(鱉靈)에게 나라를 양도하여 주고 자기는 고국을 떠나 두견새가 되어 밤마다 슬피 운다.” 하였다.
+  - key: '[주-D004] 누가 …… 돌렸던가 : '
+    value: 강왕(康王)은 휘종(徽宗)의 아홉째 아들인데, 금(金)나라 군사가 송나라에 침입하매 송나라에서 땅을 베어 주고 화의(和議)를 하려고 하니, 금나라에서 강왕(康王)을 오라 하였다. 강왕이 처음 갔다가 돌아와서 두 번 가려 하다가 일이 틀린 것을 보고 말을 돌렸다. 금나라에서 휘종(徽宗)과 흠종(欽宗)을 잡아 가니, 강왕이 강남(江南)에 옮겨서 임금이 되었다. 이가 곧 고종(高宗)이다.
+english:
+  title: Reading the History of Song
+  author: Jung Hee-ryang
+  language: eng
+  text: |-
+    At Jianlong's dawn, the great plain was laid firm—
+    At midnight, the ritual of yielding passed from lips to lips.
+    Yet the ancestral law suddenly bent to the golden casket's will,
+    And Heaven's heart first whispered its knowledge through the cuckoo's cry.
+    Disputes chattered on about severing the southern lands,
+    While worthy sages withered in exile beyond the ridges.
+    Who counseled the King to turn his horse's head back?
+    Alas, the fading realm continued like a thread so thin.
+  footnotes:
+  - key: ''
+    value: The opening alludes to the Song dynasty's founding through the apparent abdication of the Zhou emperor to Song Taizu, a ceremony of 'yielding' that legitimized the transfer of power.
+  - key: ''
+    value: The 'golden casket' refers to a secret edict allegedly placed by Taizu instructing that his throne pass to his younger brother rather than his son, a decision that cast long shadows over the dynasty's legitimacy.
+  - key: ''
+    value: The cuckoo references an ancient legend of a deposed Shu king who became a bird, eternally lamenting at night—evoking whispers of suspicious death and fratricide in the Song succession.
+  - key: ''
+    value: The King refers to Kangwang, who eventually fled south to become the Gaozong emperor when Jin forces invaded, leading to the dynasty's bifurcation and centuries of diminished grandeur.

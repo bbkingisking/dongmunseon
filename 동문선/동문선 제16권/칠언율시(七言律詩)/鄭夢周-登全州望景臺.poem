@@ -1,0 +1,47 @@
+canonical:
+  title: 登全州望景臺
+  author: 鄭夢周
+  language: lzh
+  text: 千仞岡頭石徑橫登臨使我不勝情靑山隱約扶餘國黃葉繽紛百濟城九月高風愁客子百年豪氣誤書生天涯日沒浮雲合怊悵無由望玉京
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登全州望景臺
+  author: 鄭夢周
+  language: lzh
+  text: 千仞岡頭石徑橫。登臨使我不勝情。靑山隱約扶餘國。黃葉繽紛百濟城。九月高風愁客子。百年豪氣誤書生。天涯日沒浮雲合。怊悵無由望玉京。
+korean:
+  title: 등 전주 망경대
+  author: 정몽주
+  language: kor
+  text: |-
+    천 길 산봉 위에 돌 길이 비꼈는데
+    올라서 바라보니 감회가 그지없네
+    청산은 보이는 듯 아닌 듯 부여국이요
+    누른 잎이 우수수 와수수 백제성이라
+    9월 높은 바람은 나그네 시름을 자아내고
+    백 년 호기는 서생의 신세를 잡쳤구나
+    하늘 가에 해는 지고 뜬 구름 어울렸으니
+    옥경이 아아 어딘고 바라볼 길 없구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0880&viewSync=OT
+  footnotes: []
+english:
+  title: Ascending the Prospect Tower at Jeonju
+  author: Jeong Mong-ju
+  language: eng
+  text: |-
+    Stone paths wind across the mountain crest a thousand feet high.
+    Climbing to the view, my heart overflows with feeling.
+    Blue mountains shimmer—was that Baekje's realm?
+    Golden leaves scatter like snow—is that Baekje's walls?
+    In September's keen wind, the wanderer's sorrow grows deep,
+    And a hundred years of bold ambition have undone the scholar's fate.
+    At heaven's edge the sun descends, merging with floating clouds—
+    Alas, the Jade Capital lies hidden; there is no path to see it now.
+  footnotes:
+  - key: ''
+    value: Baekje and the kingdom of Buyeo (Fuyu) were ancient Korean kingdoms that once flourished in these regions before their fall, lending historical melancholy to the landscape.
+  - key: ''
+    value: The 'Jade Capital' (玉京) is a Daoist/Buddhist reference to a celestial realm, representing an idealized world of wisdom and peace that the poet yearns for but cannot reach.
+  - key: ''
+    value: The poem's emotional arc moves from visual splendor to existential despair, reflecting the scholar-official's disillusionment with worldly ambition and historical cycles of rise and fall.

@@ -1,0 +1,37 @@
+canonical:
+  title: 登樓望膺
+  author: 孫舜孝
+  language: lzh
+  text: 獨坐危樓望四郊浮雲捲盡一鷹高翩翩直上千層碧那箇飛塵點羽毛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登樓望膺
+  author: 孫舜孝
+  language: lzh
+  text: 獨坐危樓望四郊。浮雲捲盡一鷹高。翩翩直上千層碧。那箇飛塵點羽毛。
+korean:
+  title: 등루 망응
+  author: 손순효
+  language: kor
+  text: |-
+    높은 다락에 홀로 앉아 사방 들을 바라보니
+    뜬구름 다 걷히고 매 한 마리 높이 떴다
+    훨훨 날아 바로 천 충의 하늘에 오르거니
+    어떤 것이 티끌을 날려 그 날개에 묻히랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0360&viewSync=OT
+  footnotes: []
+english:
+  title: Ascending the Tower and Gazing Upon the Horizon
+  author: Son Sun-hyo
+  language: eng
+  text: |-
+    Alone I sit upon the high tower, gazing across the four directions.
+    The floating clouds scatter away—one hawk soars ever higher.
+    Fluttering wings beat straight upward through a thousand layers of azure.
+    What speck of dust could ever cling to such feathers?
+  footnotes:
+  - key: ''
+    value: The 'thousand layers of azure' refers to the immense heights of heaven and sky, emphasizing the hawk's ascent beyond the mundane world
+  - key: ''
+    value: 'The final line contains a philosophical turn: the dust symbolizes worldly contamination, and the poet questions whether such purity can be touched by the earthly realm'

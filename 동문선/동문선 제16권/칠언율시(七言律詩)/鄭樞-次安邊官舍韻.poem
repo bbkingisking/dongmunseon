@@ -1,0 +1,59 @@
+canonical:
+  title: 次安邊官舍韻
+  author: 鄭樞
+  language: lzh
+  text: 登和往事角聲中遠上峯頭瞰碧空地接金源山似戟天低桑域海無風愼郞旗倒千年恨趙暉卓正之亂兵馬使愼執平遇害 尹相碑成一代雄尹侍中瓘拓地東眞刻碑崖石 寄語東偏衣皮類吾王神武厭興戎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次安邊官舍韻
+  author: 鄭樞
+  language: lzh
+  text: 登和往事角聲中。遠上峯頭瞰碧空。地接金源山似戟。天低桑域海無風。愼郞旗倒千年恨。趙暉卓正之亂。兵馬使愼執平遇害。 尹相碑成一代雄。尹侍中瓘拓地東眞。刻碑崖石。 寄語東偏衣皮類。吾王神武厭興戎。
+korean:
+  title: 차 안변관사 운
+  author: 정추
+  language: kor
+  text: |-
+    등주ㆍ화주의 옛 일을 각 소리에 부치면서
+    멀리 봉 위에 올라 푸른 하늘 굽어보네
+    땅이 금원에 연접하여 산이 창과 같고
+    하늘이 상역[일본]에 나직한데 바다엔 바람도 없네
+    신랑의 넘어진 기는 천추의 한이었지만
+    조휘ㆍ탁정의 난에 병마사 신집평이 살해되었다.
+    윤상의 세운 비는 일대의 큰 공일세
+    시중 윤관이 동진의 땅을 개척하여 바윗돌에 비를 새겼다.
+    말 듣거라 동쪽 구석 가죽 입은 무리[오랑캐]들아
+    우리 임 신무하시와 동병 싫어하시느니라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금원(金源) : '
+    value: 금국(金國)의 별칭. 상경로(上京路)는 금(金)의 나라를 금원(金源)이라고 칭한다.
+english:
+  title: Following the Rhyme of the Anbyeon Official's Residence
+  author: Jung Chu
+  language: eng
+  text: |-
+    Upon the horn's call, I recall the deeds of old Dengjhou and Huazhou,
+    Climbing high to the peak's crown, gazing down at the azure void.
+    The earth adjoins the gold-bright realm where mountains stand like spears,
+    The sky hangs low toward the mulberry lands where the sea breathes not a whisper.
+
+    Shenfang's fallen banner—a grief that spans a thousand years—
+    Yet when Zhaohui and Zhuozheng raised their chaos, the commander Shen Jiping fell.
+    Yun the Minister's standing stone became one generation's monument of might,
+    When Yunshan, the Attendant Lord, opened eastern frontiers and carved his name in stone.
+
+    Hear now, you leather-clad tribes dwelling in the eastern reaches:
+    Our sovereign's divine strength abhors the clash of arms.
+  footnotes:
+  - key: ''
+    value: 'Dengjhou and Huazhou: Historical cities on the frontier, symbolic of past glories and conflicts.'
+  - key: ''
+    value: 'The gold-bright realm (金源): A reference to the Jurchen Jin Dynasty, a powerful neighbor to Goryeo.'
+  - key: ''
+    value: 'Shen Jiping: A historical figure whose death represents the costs of border conflicts.'
+  - key: ''
+    value: 'Yunshan (윤관): A prominent Goryeo general and statesman known for territorial expansion and monument-building.'
+  - key: ''
+    value: 'The leather-clad tribes: A poetic reference to the northern peoples and foreign forces.'

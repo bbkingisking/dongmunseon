@@ -1,0 +1,94 @@
+canonical:
+  title: 李公
+  author: 李穡
+  language: lzh
+  text: 花政開遨頭來花欲語遨頭迴願留賓軒共淸夜達曙快倒黃金杯主人啜茶殺風景老癡至此何爲哉百川東逝不復西海底亦復生黃埃無由上天繫白日胡不相樂如相猜我向花神謝不敏我雖未死心已灰首陽薇蕨充我腹不受熊掌幷豹胎只緣從來識天命乃與光景相徘徊對花吟哦陶性靈樂哉眞似登春臺太白歌行暎千古徒能使酒非天才客去樽空時獨唱天地闊遠呼風雷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李公
+  author: 李穡
+  language: lzh
+  text: 花政開遨頭來。花欲語遨頭迴。願留賓軒共淸夜。達曙快倒黃金杯。主人啜茶殺風景。老癡至此何爲哉。百川東逝不復西。海底亦復生黃埃。無由上天繫白日。胡不相樂如相猜。我向花神謝不敏。我雖未死心已灰。首陽薇蕨充我腹。不受熊掌幷豹胎。只緣從來識天命。乃與光景相徘徊。對花吟哦陶性靈。樂哉眞似登春臺。太白歌行暎千古。徒能使酒非天才。客去樽空時獨唱。天地闊遠呼風雷。
+korean:
+  title: 군수 이공
+  author: 이색
+  language: kor
+  text: |-
+    꽃 한창 피자 태수님 오더니
+    꽃이 말하려자 태수님 돌아가네
+    가지 말고 객실에 머물러, 맑은 밤을 함께 하며
+    새벽까지 황금 술잔을 기울여 보세
+    주인이 꽃을 대해 차를 마시니 살풍경이라
+    늙은 천치 이 지경이니 무엇 할꼬
+    백천이 동으로 가면 다시 서로 못 오는 것
+    바다 밑에도 변하여 누른 먼지 생긴다는데
+    하늘에 올라 가는 해를 맬 길이 없거니
+    우리 인생 어찌 서로 즐기지 않고 시기함만 같으랴
+    내가 화신에게 이르는 말, 참으로 나는 불민하네
+    나는 아직 안 죽었어도 마음은 이미 불 꺼진 재
+    수양산 고사리로 내 배를 채울망정
+    곰의 발, 표범의 태는 받지 아니하리라
+    다만 평생에 천명을 분명히 알기에
+    시절 따라 경치를 즐기는 것뿐이라
+    꽃을 대해 시 읊으며 내 성정을 도야하니
+    이 즐거움 어떠하리 봄날 대에 오른 듯
+    이태백의 가행이 천고에 유명하지만
+    그건 술주정뿐 천재가 아니로세
+    손도 가고 술병도 비고 혼자서 노래하니
+    천지가 휑하고 먼 데 바람 뇌성 우루루
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 태수(太守) : '
+    value: 성도(成都) 사람들이 4월 9일을 오두(敖頭)라 하여 봄놀이를 하는데, 그날 봄놀이에 나오는 태수(太守)를 오두라 일렀었다. 《成都記》
+  - key: '[주-D002] 주인이 …… 살풍경(殺風景)이라 : '
+    value: 《의산잡찬(義山雜簒)》에 살풍경(殺風景)을 열거(列擧)했는데, “꽃 위에 잠방이 말리는 것[花上曬禈].” “꽃을 대해 차 마시는 것[對花噶茶]” 등이 있다.
+  - key: '[주-D003] 곰의 …… 태(胎) : '
+    value: 음식 중의 가장 진미(珍味)가 웅장(熊掌)과 표태(豹胎)라 한다.
+  - key: '[주-D004] 이 즐거움 …… 오른 듯 : '
+    value: “뭇사람들 즐거워 봄 대에 오른 듯[衆人熈熈 如登春臺].”《장자》그 주석(注釋)에 이르기를, “봄엔 음양이 교통하고 만물이 감동하므로 대(臺)에 올라 바라보면 기분이 아주 흐뭇하다는 뜻이다.” 하였다.
+  - key: '[주-D005] 이태백(李太白)의 가행(歌行) : '
+    value: 시체(詩體)의 일종인데, 이백(李白)의 가행(歌行)은 두보(杜甫)가 당하지 못하고, 두보의 율시(律詩)는 이백이 당하지 못한다 한다.
+english:
+  title: To Governor Lee
+  author: Lee Saek
+  language: eng
+  text: |-
+    The flowers bloom in full splendor as the governor arrives.
+    The flowers would speak, but the governor turns away.
+    Stay, I beg you, in the guest pavilion to share this crystalline night,
+    Till dawn breaks and we drain the golden cup together.
+    Yet the master takes tea before the flowers—how graceless!
+    What folly of this old fool to reach such a state?
+
+    A hundred rivers flow eastward never to return westward;
+    Even the ocean bed transforms into yellow dust.
+    There is no way to bind the departing sun to heaven,
+    So why do we begrudge each other joy instead of sharing it?
+
+    I confess to the spirit of flowers my own inadequacy:
+    Though my body still lives, my heart has long turned to ash.
+    Let me fill my belly with the ferns of Shouyang Mountain,
+    Rather than accept the bear's palm or the leopard's flesh.
+    Only because I have long understood Heaven's will
+    Do I wander freely with the seasons and the sight of things.
+
+    Facing the flowers, I compose verses to nurture my spirit—
+    Is this not joy like ascending the terrace of spring?
+    Though Li Taibai's songs echo through the ages,
+    They are but wine-soaked frenzy, not true genius.
+
+    The guest departs, the cup empties, and alone I sing,
+    While heaven and earth stretch vast and empty,
+    And wind and thunder rumble across the distance.
+  footnotes:
+  - key: ''
+    value: The opening references a popular spring festival custom from Chengdu where officials (太守) would participate in the revelries.
+  - key: ''
+    value: The master drinking tea before the flowers is considered a breach of aesthetic propriety in classical Chinese poetic tradition.
+  - key: ''
+    value: The reference to the bear's palm and leopard flesh symbolizes rejecting worldly delicacies and status—an allusion to the ancient sage who preferred poverty to accepting gifts.
+  - key: ''
+    value: The ascension of Spring Terrace (春臺) evokes the Zhuangzi's image of universal joy arising from the harmony of spring, suggesting spiritual elevation through aesthetic appreciation.
+  - key: ''
+    value: Li Taibai (Li Bai) was celebrated for his song-form poetry (歌行), though the poet here distinguishes between technical mastery and authentic genius, suggesting that mere virtuosity without spiritual depth remains incomplete.

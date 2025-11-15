@@ -1,0 +1,37 @@
+canonical:
+  title: 菊花不開悵然有作
+  author: 徐居正
+  language: lzh
+  text: 佳菊今年開較遲一秋情興謾東籬西風大是無情思不入黃花入鬢絲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 菊花不開悵然有作
+  author: 徐居正
+  language: lzh
+  text: 佳菊今年開較遲。一秋情興謾東籬。西風大是無情思。不入黃花入鬢絲。
+korean:
+  title: 국화불개 창연유작
+  author: 서거정
+  language: kor
+  text: |-
+    아름다운 곡화가 금년에는 비교적 늦게 피어
+    한 가을의 정과 흥취가 동쪽 울타리에 속았다
+    서쪽 바람은 크게스리 정다운 생각이 없어서
+    누런 꽃에는 들지 않고 살쩍에 들었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0130&viewSync=OT
+  footnotes: []
+english:
+  title: The Chrysanthemum That Would Not Bloom
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The fair chrysanthemum blooms late this year,
+    And autumn's passion wanders by the eastern fence.
+    The west wind, harsh and utterly unmoved,
+    Shuns the golden petals, settling instead in silver hair.
+  footnotes:
+  - key: ''
+    value: The eastern fence is a classical allusion to the hermit poet Tao Yuanming, who famously planted chrysanthemums by his eastern fence and found solace in their beauty.
+  - key: ''
+    value: The 'golden petals' and 'silver hair' create a poignant contrast—the speaker laments that the chrysanthemums' delay mirrors their own aging, with the west wind of time touching only their graying hair rather than the beauty they sought in nature.

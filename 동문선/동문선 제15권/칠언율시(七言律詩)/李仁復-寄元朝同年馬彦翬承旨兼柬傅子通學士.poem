@@ -1,0 +1,51 @@
+canonical:
+  title: 寄元朝同年馬彦翬承旨兼柬傅子通學士
+  author: 李仁復
+  language: lzh
+  text: 每向瓊林憶醉歸賜花春暖影離離別來更覺交情厚老去安知世事非駑鈍尙慙懷棧豆鵬飛誰復顧藩籬請君莫笑東夷陋海上三山聳翠微
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄元朝同年馬彦翬承旨兼柬傅子通學士
+  author: 李仁復
+  language: lzh
+  text: 每向瓊林憶醉歸。賜花春暖影離離。別來更覺交情厚。老去安知世事非。駑鈍尙慙懷棧豆。鵬飛誰復顧藩籬。請君莫笑東夷陋。海上三山聳翠微。
+korean:
+  title: 원조 동년에 마언휘 승지 부자통학사에게 편지를 겸하여 부치며
+  author: 이인복
+  language: kor
+  text: |-
+    몇 번이나 한림원에서 함께 취해 돌아왔었나
+    따스한 봄날 어사화 꽂고 건들건들
+    작별한 뒤 두터운 교정을 더욱 느끼네
+    늙어가니 세상일 내 어이 알리
+    노둔한 말이 외양의 콩을 아직도 그리워하네
+    멀리 나는 붕새가 뱁새가 깃들이는 울타리를 다시 돌아보리
+    그대는 부디 동이가 누하다 웃지 마소
+    바다위 삼산(금강산ㆍ지리산ㆍ한라산)에 푸른 빛 솟아있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0760&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 노둔한 말이 …… 그리워하네 : '
+    value: “노둔한 말이 외양의 콩을 그리워하면 쓸 수 없다.”는 말이 있다. 《晉書》
+  - key: '[주-D002] 그대는 부디 …… 웃지 마소 : '
+    value: 공자가 구이(九夷)에 살고자 하니 어떤 사람이 말하되, “누(陋)하리이다.” 공자가 말하되, “군자가 살면 무슨 누추함이 있겠는가.” 하였다.
+english:
+  title: A Letter to Ma Yanhuang, Recipient of Imperial Favor and Colleague from My Year, Together with Greetings to Fu Zitong, Court Scholar
+  author: Lee In-bok
+  language: eng
+  text: |-
+    How many times did we stumble homeward drunk from the Imperial Library,
+    Spring warmth adorning us with gifted flowers, swaying gently in the light?
+    Since we parted, the warmth of our friendship burns ever more bright.
+    Aging, how can I claim to understand the ways of this world?
+    This dull horse still yearns for the manger where it once fed—
+    While the great peng soars high, caring not for the sparrow's fence.
+    I beg you, do not mock the Eastern lands for their rusticity.
+    See how the Three Peaks rise emerald-bright above the sea.
+  footnotes:
+  - key: ''
+    value: 'The image of the dull horse yearning for its manger alludes to a saying in the Records of Jin: ''When a sluggish horse longs for its fodder, it cannot serve.'' This reflects the poet''s self-deprecating sentiment about his limited capacities.'
+  - key: ''
+    value: 'The reference to not mocking the Eastern lands draws from Confucius, who wished to dwell among the Nine Barbarians. When someone said this would be crude, Confucius replied: ''If a gentleman dwells there, what crudeness could there be?'' The poet uses this to defend Korean culture and its worthiness.'
+  - key: ''
+    value: 'The Three Peaks (Samsan) refer to the great mountains of Korea: Geumgangsan, Jirisan, and Hallasan, representing the enduring beauty and dignity of the Korean land.'

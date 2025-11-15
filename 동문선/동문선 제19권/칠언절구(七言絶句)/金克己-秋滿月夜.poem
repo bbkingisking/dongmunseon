@@ -1,0 +1,36 @@
+canonical:
+  title: 秋滿月夜
+  author: 金克己
+  language: lzh
+  text: 日落頑風起樹端飛霜貿貿葉聲乾開軒不用迎淸月瘦骨秋來㤼夜寒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋滿月夜
+  author: 金克己
+  language: lzh
+  text: 日落頑風起樹端。飛霜貿貿葉聲乾。開軒不用迎淸月。瘦骨秋來㤼夜寒。
+korean:
+  title: 추만 월야
+  author: 김극기
+  language: kor
+  text: |-
+    해 떨어지니 세찬 바람 가지 끝에 일어나는데
+    날리는 서릿발에 잎 소리 버석인다
+    창 열고 맑은 달빛 맞을 것 없어라
+    여윈 몸 가을 오면 찬 밤기운 두렵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0690&viewSync=OT
+  footnotes: []
+english:
+  title: A Night of Autumn's Full Moon
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The sun descends and fierce winds rise at the treetops—
+    flying frost trades places with the dry rustle of leaves.
+    To open a window and greet the clear moonlight?
+    No need: my withered frame already fears
+    the chill that autumn brings to the night.
+  footnotes:
+  - key: ''
+    value: The poem plays on the tension between the beauty of autumn's full moon and the speaker's physical decline, suggesting that natural beauty offers no comfort to one whose body has grown weak with age.

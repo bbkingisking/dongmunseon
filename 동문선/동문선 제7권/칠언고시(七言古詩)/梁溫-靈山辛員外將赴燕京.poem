@@ -1,0 +1,46 @@
+canonical:
+  title: 靈山辛員外將赴燕京
+  author: 梁溫
+  language: lzh
+  text: 相公才氣超群英富貴功名俱滿意長策能令社稷安綵衣甞向庭闈戲今朝受命赴皇都去路超超飛馹騎惆悵無由逐後塵擧頭遙望燕山翠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靈山辛員外將赴燕京
+  author: 梁溫
+  language: lzh
+  text: 相公才氣超群英。富貴功名俱滿意。長策能令社稷安。綵衣甞向庭闈戲。今朝受命赴皇都。去路超超飛馹騎。惆悵無由逐後塵。擧頭遙望燕山翠。
+korean:
+  title: 영산 신 원외가 연경으로 가매
+  author: 양온
+  language: kor
+  text: |-
+    상공의 재기는 뭇 선비 중에 뛰어나
+    부귀공명 모든 희망에 만족하여
+    뛰어난 계책은 사직을 편안케 하고
+    채색 옷으로 그 부모 앞에서 희롱하다
+    오늘 아침에 명을 받고 황도로 가니
+    가는 길 멀고 멀어 역마가 날아간다
+    나는 그 뒤 따를 수 없는 것 섭섭하여
+    머리 들고 아득히 바라보니 연산이 푸르러라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0220&viewSync=OT
+  footnotes: []
+english:
+  title: On Minister Shin of Lingshan Departing for Yanjing
+  author: Liang Wen
+  language: eng
+  text: |-
+    Your talent shines brighter than all the scholars of the realm,
+    Wealth and honor satisfy your every ambition.
+    Your wisdom keeps the state secure and the kingdom sound,
+    In silk robes you have brought joy to your parents' hearts.
+
+    This morning comes the imperial summons to the capital,
+    Your swift horse flies down roads stretching endlessly away.
+    I cannot help but grieve that I cannot follow in your wake—
+    I lift my head and gaze far off at the green peaks of Yan.
+  footnotes:
+  - key: ''
+    value: Yanjing (燕京) refers to Beijing, the imperial capital
+  - key: ''
+    value: The 'silk robes' (綵衣) alludes to the traditional Confucian virtue of honoring one's parents through success and service

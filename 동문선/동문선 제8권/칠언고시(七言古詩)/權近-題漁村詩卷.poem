@@ -1,0 +1,78 @@
+canonical:
+  title: 題漁村詩卷
+  author: 權近
+  language: lzh
+  text: 蒼山之陽大江邊茅屋竹籬相接連民風朴略羲皇前耕田釣水終歲年上供征輸猶有錢仰事俯育常懽然有士歸去辭班聯綠蓑靑蒻何翩翩晨起持竿乘小船泛泛隨潮行泝沿江烟漠漠月中還蘆雨蕭蕭蓬底眠任看光陰如逝川載酒自樂時烹鮮高歌濯纓且扣舷得魚不得俱忘筌嗚呼此士眞才賢吾知終入非熊畋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題漁村詩卷
+  author: 權近
+  language: lzh
+  text: 蒼山之陽大江邊。茅屋竹籬相接連。民風朴略羲皇前。耕田釣水終歲年。上供征輸猶有錢。仰事俯育常懽然。有士歸去辭班聯。綠蓑靑蒻何翩翩。晨起持竿乘小船。泛泛隨潮行泝沿。江烟漠漠月中還。蘆雨蕭蕭蓬底眠。任看光陰如逝川。載酒自樂時烹鮮。高歌濯纓且扣舷。得魚不得俱忘筌。嗚呼此士眞才賢。吾知終入非熊畋。
+korean:
+  title: 제어촌시권
+  author: 권근
+  language: kor
+  text: |-
+    창산 남쪽 큰 강가에
+    초가와 대 울타리가 서로 이었네
+    순박한 거민들의 풍속이, 희황(상고(上古)의 복희씨(伏羲氏)) 시절 이전이라
+    밭 갈고 낚시질하여 보내는 평생
+    위로 공세를 바치고도 돈이 남아서
+    부모 받들고 자녀 키우며 노상 싱글벙글
+    높은 벼슬 사직하고 돌아간 한 선비
+    부들 삿갓 젖혀 쓰고 푸른 도롱이 펄럭펄럭
+    새벽에 일어나 낚싯대 들고 작은 배 타고
+    둥실둥실 물결 따라 오르락내리락
+    자욱한 강 안개 달 아래서 돌아와
+    갈대숲 비가 우수수할 때 거적배 속에서 자네
+    세월이야 냇물처럼 가거나 말거나
+    술 싣고 즐기며 때론 생선도 삶고
+    갓끈 씻는 노래 높이 부르고 뱃전도 두드리며
+    고기 잡혔나 안 잡혔나 통발조차 잊었네
+    아아, 이 선비야말로 진정 현재
+    끝내는 문왕의 점에 들어가고야 말리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 갓끈 씻는 노래 : '
+    value: 창랑수(滄浪水)에서 어린아이가 노래 부르기를, “창랑의 물이 맑으면 내 갓끈을 씻고, 창랑의 물이 탁하면 내 발을 씻으리로다.” 하였다.
+  - key: '[주-D002] 고기 …… 잊었네 : '
+    value: 《장자》에, “통발은 고기를 가두기 위함이나, 고기를 얻으면 통발을 잊는다.” 하였다.
+  - key: '[주-D003] 문왕(文王)의 점(占) : '
+    value: 주 문왕이 사냥하려 할 때 점을 치니, “큰 것을 잡으리니 검은 곰도 아니고 누른 곰도 아니니, 하늘이 너의 스승을 보내리라.” 하더니, 위빈(渭濱)에 사냥 나가서 거기서 낚시질하는 강 태공을 만났다.
+english:
+  title: Inscribed on a Scroll of Fishing Village Poems
+  author: Kwon Geun
+  language: eng
+  text: |-
+    By the great river, on the southern slope of green mountains,
+    Thatched cottages and bamboo fences nestle close together.
+    The simple customs of the folk mirror those before the sage-kings of old.
+    A lifetime spent tilling fields and casting lines,
+    Yet even after paying tribute and taxes, coin remains—
+    Supporting parents and raising children, they smile throughout their days.
+
+    A scholar of rank has returned here, laying down his office,
+    Wearing rush-woven hat and blue rain-cloak, fluttering free.
+    At dawn he rises, grasps his rod, and boards his small boat,
+    Gently drifting with the tide, ascending and descending,
+    Returning beneath the moon through river mists that hover thick.
+    When reeds weep their rain, he sleeps beneath his woven canopy,
+    Unconcerned as time flows past like waters of the stream.
+
+    He brings wine to lighten his heart, sometimes cooking fresh-caught fish,
+    Singing loudly as he rinses his hat-cord, tapping the boat's rail—
+    Whether fish swim into his net or escape beyond it, he has forgotten to care;
+    The tool becomes irrelevant once its purpose is fulfilled.
+
+    Ah, here is a man of true worth and wisdom!
+    I know he shall enter into the fortune of the great king's hunting ground—
+    Becoming the teacher heaven sends to those who seek.
+  footnotes:
+  - key: ''
+    value: The reference to rinsing the hat-cord alludes to a ancient song about remaining unstained by the world's corruption, washing oneself only when times are pure.
+  - key: ''
+    value: The final image references the Zhou dynasty king's prophecy that he would meet his destined teacher while fishing—a metaphor for the scholar's spiritual fulfillment through withdrawal from worldly office.
+  - key: ''
+    value: The 'fishing net' (筌) symbolizes that once wisdom is gained, the method of attainment is transcended and forgotten.

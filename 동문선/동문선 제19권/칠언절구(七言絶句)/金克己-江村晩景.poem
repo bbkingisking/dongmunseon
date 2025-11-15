@@ -1,0 +1,41 @@
+canonical:
+  title: 江村晩景
+  author: 金克己
+  language: lzh
+  text: 晚風獵獵酒旗翻斜照孤煙淡遠村水鳥忽投何處宿沙頭殘篆尙留痕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 江村晩景
+  author: 金克己
+  language: lzh
+  text: 晚風獵獵酒旗翻。斜照孤煙淡遠村。水鳥忽投何處宿。沙頭殘篆尙留痕。
+korean:
+  title: 강촌 만경
+  author: 김극기
+  language: kor
+  text: |-
+    늦은 바람 설렁설렁 주기(酒旗)를 날리고
+    비낀 노을 외로운 연기 먼 마을이 어름어름
+    물새는 홀연히 어디에 가서 자려는고
+    모래톱에 남은 전자 흔적 지금도 아니 지워졌네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0750&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주기(酒旗) : '
+    value: 술 파는 집에서는 푸른 깃발을 문 앞에 세워 둔다.
+  - key: '[주-D002] 모래톱에 남은 전자(篆字) : '
+    value: 옛날에 조적전(鳥跡篆)이란 자체(字體)가 있었는데, 그것은 모래 위에 찍힌 새의 발자취를 모방하여 만든 것이라 한다.
+english:
+  title: Evening View of the River Village
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The late wind flutters and tumbles the tavern's blue flag,
+    Slant sunlight and solitary smoke blur into the distant village.
+    Where will the water birds suddenly go to rest?
+    On the sandbar, ancient script-marks still leave their faint trace.
+  footnotes:
+  - key: ''
+    value: The tavern flag (酒旗) was traditionally hung outside establishments selling wine to mark their presence.
+  - key: ''
+    value: The reference to 'ancient script-marks' alludes to the ornamental seal script said to have been inspired by bird-tracks impressed in sand, connecting the transient marks of nature with human language and memory.

@@ -1,0 +1,47 @@
+canonical:
+  title: 遣懷
+  author: 李穡
+  language: lzh
+  text: 倐忽百年半蒼黃東海隅吾生元跼蹐世路亦崎嶇白髮或時有靑山何處無微吟意不盡兀坐似枯株
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遣懷
+  author: 李穡
+  language: lzh
+  text: 倐忽百年半。蒼黃東海隅。吾生元跼蹐。世路亦崎嶇。白髮或時有。靑山何處無。微吟意不盡。兀坐似枯株。
+korean:
+  title: 견회
+  author: 이색
+  language: kor
+  text: |-
+    홀홀히 지난 반 백 년
+    창황한 동해 한 모퉁이에 창환히 지냈네
+    우리 삶이 본디 구속이요
+    세상길이 또한 기구하구나
+    백발이란 어느 때에는 있는 것
+    청산이야 어딘들 없으랴
+    가늘게 읊어 다하지 못하여
+    마른 나무처럼 오뚝하게 앉아 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0310&viewSync=OT
+  footnotes: []
+english:
+  title: Dispatching My Thoughts
+  author: Lee Saek
+  language: eng
+  text: |-
+    A hundred and fifty years have flashed away—
+    I have dwelt in the pallid corner of the Eastern Sea.
+    My life was ever bound by constraint,
+    And the world's path twisted and rough.
+    White hair comes and goes with time,
+    But the blue mountains—where are they not found?
+    My slender song cannot exhaust my feeling,
+    So I sit in silence, a withered tree.
+  footnotes:
+  - key: ''
+    value: The 'Eastern Sea' (東海) refers to Korea's eastern coast, likely referencing Lee Saek's period of exile or retreat from public life.
+  - key: ''
+    value: The 'blue mountains' symbolize nature's permanence and constancy, contrasting with the fleeting nature of human life and the turmoil of the world.
+  - key: ''
+    value: The final image of the 'withered tree' suggests both resignation and a kind of peaceful detachment from worldly concerns.

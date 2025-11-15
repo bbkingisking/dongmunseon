@@ -1,0 +1,38 @@
+canonical:
+  title: 自儆箴
+  author: 李穡
+  language: lzh
+  text: 五十歲秋九月初吉作自儆箴朝夕觀之庶以自勉若近焉而遠之若得焉而失之遠矣而時近也失矣而時得也茫乎無所措也赫乎如有覿也赫乎或昧焉茫乎或灼焉將畫也不忍焉將疆也不足焉宜其自責而自恧焉五十而知非九十而作抑斯古之自力也尙不懈于一息勉之哉勉之哉自暴自棄是何物邪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自儆箴
+  author: 李穡
+  language: lzh
+  text: 五十歲秋。九月初吉。作自儆箴。朝夕觀之。庶以自勉。若近焉而遠之。若得焉而失之。遠矣而時近也。失矣而時得也。茫乎無所措也。赫乎如有覿也。赫乎或昧焉。茫乎或灼焉。將畫也不忍焉。將疆也不足焉。宜其自責而自恧焉。五十而知非。九十而作抑。斯古之自力也。尙不懈于一息。勉之哉。勉之哉。自暴自棄。是何物邪。
+korean:
+  title: 자경잠
+  author: 이색
+  language: kor
+  text: 50세 되던 가을 구월 초하루날에 자경잠(自儆箴)을 지어서, 아침 저녁으로 보아서 스스로 힘쓰려 한다.가까운 듯하면 멀어지고 얻은 듯하면 잃어버린다. 멀어졌다가 때로는 가까워지고, 잃었다가 때로는 얻게 된다. 아득하여 착수할 데가 없기도 하고 밝아서 보이는 듯하기도 하다. 밝다가도 혹 어둡게 되고 어둡다가도 혹 밝게 된다. 그만 중지하려고 하여 보면 차마 그럴 수가 없고 힘써 하자하니 힘이 부족하다. 마땅히 스스로 책하고 스스로 부끄럽게 생각하여야 한다. 50세 때에 지나간 49세의 그름을 알게 되고 90세 때에 자경(自儆)하는 억시(抑詩)를 지었다. 이들은 옛날에 스스로 힘쓰던 분들이다. 오히려 숨 한번 쉬는 동안에도 게을리 하지 아니하였으니 힘쓸지어다, 힘쓸지어다. 자포자기(自暴自棄)하는 이는 이 어떤 자이냐.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_030_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 49세의 …… 되고 : '
+    value: 춘추 시대의 위(衛)나라 거백옥(蘧伯玉)은 나이 오십이 되자 자기의 49년동안 그릇된 것을 알았다 한다.
+  - key: '[주-D002] 억시(抑詩) : '
+    value: 《시경(詩經)》에 억편(抑篇)이 있다.
+english:
+  title: A Warning to Myself
+  author: Lee Saek
+  language: eng
+  text: |-
+    In autumn of my fiftieth year, on the first day of the ninth month, I composed this warning to admonish myself, that I might read it morning and evening and thus strengthen my resolve.
+
+    What seems near recedes from me. What I think I have grasps at shadows and slips away. Yet what vanished returns in time, and what was lost is sometimes regained. Confusion overtakes me, and I know not where to turn. Then clarity shines forth as if I could see the very way. But brightness dims again into obscurity, and darkness unexpectedly kindles into light. When I wish to cease my efforts, shame forbids it. When I resolve to press forward, my strength falters. How fitting that I should reproach myself and bow my head in shame.
+
+    The ancient worthy knew his faults at fifty, and at ninety still composed verses of self-admonition. Such were the great-hearted men of old, who did not rest even for a single breath. Therefore, let me strive! Let me strive! But what of those who abandon themselves to ruin? What manner of beings are they?
+  footnotes:
+  - key: ''
+    value: The reference to knowing one's faults at fifty alludes to Qu Boyu of the ancient State of Wei, who at fifty came to understand the errors of his first forty-nine years.
+  - key: ''
+    value: The 'verses of self-admonition at ninety' reference the 'Yi' (抑) section of the Classic of Poetry, suggesting the timeless practice of moral self-examination throughout one's life.

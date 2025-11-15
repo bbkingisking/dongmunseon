@@ -1,0 +1,77 @@
+canonical:
+  title: 次彦深兄十韻咏懷
+  author: 申泂
+  language: lzh
+  text: 塵機誰似海翁忘皓首當年未免郞自倚短筇扶病骨每看佳句洗幽膓一身冷落儒冠誤十載辛酸世味甞錢布庭苔全繞碧玉抽畦薤半含黃開棊對客高談快染筆題詩晩趣長家甕忽傳新釀熟園塘時發舊蕖香身兼影月爲三友琴與圖書共一牀北牖淸風携颯爽西山嵐翠挹微茫殘葵向日傾應切踈竹經霜晩更蒼剩得如今閑有味任看衰鬢彦深兄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次彦深兄十韻咏懷
+  author: 申泂
+  language: lzh
+  text: 塵機誰似海翁忘。皓首當年未免郞。自倚短筇扶病骨。每看佳句洗幽膓。一身冷落儒冠誤。十載辛酸世味甞。錢布庭苔全繞碧。玉抽畦薤半含黃。開棊對客高談快。染筆題詩晩趣長。家甕忽傳新釀熟。園塘時發舊蕖香。身兼影月爲三友。琴與圖書共一牀。北牖淸風携颯爽。西山嵐翠挹微茫。殘葵向日傾應切。踈竹經霜晩更蒼。剩得如今閑有味。任看衰鬢彦深兄。
+korean:
+  title: 차 언심형 십운 영회
+  author: 신형
+  language: kor
+  text: |-
+    누가 해옹처럼 세속 마음 잊으리
+    흰 머리로 당년에 낭관을 못 면했네
+    스스로 짧은 지팡이를 의지해 병 든 몸을 붙들고
+    매양 아름다운 글귀를 보고는 답답한 창자를 씻는다
+    한 몸의 곤궁함은 유관이 그르쳤고
+    10년 동안 쓰라린 세상 맛을 알았으리
+    돈처럼 퍼져 있는 뜰의 이끼는 완전히 푸름을 돌렸고
+    옥처럼 빼어난 이랑의 부추는 반쯤 누른 빛을 머금었다
+    바둑판 놓고 손님을 마주하면 큰소리 이야기가 유쾌하고
+    붓에 먹을 찍어 시를 쓰면 늦 취미가 길다
+    아방의 독에는 문득 술이 새로 익었다고 전하는데
+    동산의 연못은 때때로 늦은 연꽃의 향기를 피운다
+    몸은 그림자와 달을 짝하여 세 벗이 되고
+    거문고는 도서와 함께 한 평상에 있다
+    북쪽 들창의 맑은 바람은 서늘함을 이끌어 오는데
+    서쪽 산의 푸른 아지랑이는 은은하게 당겨들인다
+    쇠잔한 해바라기 해를 향해 기우는 마음이 응당 간절하리
+    성긴 대는 서리를 치르고 느지막에 더욱 푸르다
+    지금 한가함의 맛을 넉넉히 얻은 이는
+    쇠한 살쩍의 언심 형을 보아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_020_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 흰 머리도 …… 못 면했네 : '
+    value: 한(漢)나라 풍당(馮唐)이 흰머리가 되도록 〈낮은 관직인〉 낭관으로 있다가 문제(文帝)가 마침 낭서(郞署)를 지나다가 그와 문답하여 보고 그의 인재를 알아준 일이 있다.
+  - key: '[주-D002] 유관(儒冠) : '
+    value: 유자(儒者)가 쓰는 갓이다. 두보(杜甫)의 시에, “유관이 그르쳤다.”는 구절이 있는데, 그것은 유관을 쓰고 글을 읽었기 때문에 신세를 그르쳐서 궁하게 산다는 탄식이다.
+english:
+  title: In Response to Brother Eon-sim's Ten-Rhyme Poem on Reflections
+  author: Shin Hyeong
+  language: eng
+  text: |-
+    Who can forget the world's cares like the old man of the sea?
+    White-haired, yet bound still to minor office in these days—
+    Leaning on my short staff, I prop up this ailing frame,
+    And wash my troubled heart each time I read fine verses.
+
+    One body cast adrift—the scholar's cap brought me to ruin;
+    Ten years I've tasted the bitter flavor of the world.
+    Coins of moss spread across the courtyard, turned entirely green,
+    While jade-like scallions in the garden hold their yellow hue.
+
+    When I set out the board to face a guest, how quick the lively talk!
+    Dipping brush to ink to write a poem—late joys grow long.
+    Word comes that wine ferments anew in the old earthen jar,
+    While lotus fragrance drifts from the pond in seasons past.
+
+    My body joins with shadow and with moon—three friends complete,
+    The zither rests with books and scrolls upon a single bed.
+    The northern window draws cool wind, its freshness sharp and clear,
+    While western mountains' misty green are gently drawn within.
+
+    The faded sunflower leans toward the sun with urgent longing,
+    Thin bamboo, tempered by the frost, grows deeper green with age.
+    How fortunate to find such leisure's taste remaining still—
+    Just look upon your brother here, with whitened temples worn.
+  footnotes:
+  - key: ''
+    value: The reference to white hair and minor office alludes to Feng Tang of the Han dynasty, who remained in a low position despite his talents until Emperor Wen recognized his worth.
+  - key: ''
+    value: The 'scholar's cap' (儒冠) refers to the Confucian scholar's traditional headwear, and echoes Du Fu's lament that wearing such a cap while pursuing learning brought him to poverty.

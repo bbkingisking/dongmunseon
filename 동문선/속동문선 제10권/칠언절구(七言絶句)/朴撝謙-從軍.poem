@@ -1,0 +1,37 @@
+canonical:
+  title: 從軍
+  author: 朴撝謙
+  language: lzh
+  text: 十萬貔貅擁戍樓夜深邊月冷狐裘一聲長笛來何處吹盡征夫萬里愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 從軍
+  author: 朴撝謙
+  language: lzh
+  text: 十萬貔貅擁戍樓。夜深邊月冷狐裘。一聲長笛來何處。吹盡征夫萬里愁。
+korean:
+  title: 종군
+  author: 박휘겸
+  language: kor
+  text: |-
+    십만이라 이 장사들이 수루를 에워쌀 제
+    밤 깊어 변새 달에 여우 갖옷 싸늘하이
+    한 소리 긴 피리가 어디에서 오단 말고
+    정부의 만리 시름 불어서 오는 듯이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: On Campaign
+  author: Park Hui-gyeom
+  language: eng
+  text: |-
+    A hundred thousand fierce warriors crowd the fortress walls,
+    The night deepens—the border moon grows cold upon their furs.
+    A single long flute sounds from somewhere in the darkness—
+    It seems to blow away the ten thousand miles of sorrow in a soldier's heart.
+  footnotes:
+  - key: ''
+    value: The 'hundred thousand fierce warriors' refers to the soldiers garrisoned at the frontier fortress, with 貔貅 (piéxiú) being legendary fierce beasts often used to symbolize elite military forces in classical poetry.
+  - key: ''
+    value: The flute serves as a traditional symbol of longing and melancholy in East Asian poetry, here intensifying the emotional weight of military service and separation from home.

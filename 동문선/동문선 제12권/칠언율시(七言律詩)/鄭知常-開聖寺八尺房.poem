@@ -1,0 +1,48 @@
+canonical:
+  title: 開聖寺八尺房
+  author: 鄭知常
+  language: lzh
+  text: 百步九折登巑岏家在半空唯數閒靈泉澄淸寒水落古壁暗淡蒼苔斑石頭松老一片月天末雲低千點山紅塵萬事不可到幽人獨得長年閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 開聖寺八尺房
+  author: 鄭知常
+  language: lzh
+  text: 百步九折登巑岏。家在半空唯數閒。靈泉澄淸寒水落。古壁暗淡蒼苔斑。石頭松老一片月。天末雲低千點山。紅塵萬事不可到。幽人獨得長年閑。
+korean:
+  title: 개성사 팔척방
+  author: 정지상
+  language: kor
+  text: |-
+    백보에 아홉 번씩이나 굽이진 길 가파른 메를 올라오니
+    우뚝 반공에 솟은 집이 두어 칸
+    맑디맑은 샘에서는 찬 물이 떨어지고
+    해묵은 어두운 벽엔 푸른 이끼 아롱져라
+    바위 끝 솔은 한 조각달에 늙어 있고
+    하늘 가 구름은 천점 산에 낮았네
+    여기는 홍진 만사 이르지 못하나니
+    그윽한 사람 한 평생 한가히 삶을 보내는 곳
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0770&viewSync=OT
+  footnotes: []
+english:
+  title: The Eight-Foot Room at Gaesongsa Temple
+  author: Jung Jiok-sang
+  language: eng
+  text: |-
+    Up the steep mountain I climb, the path bending nine times in a hundred paces,
+    A humble dwelling perches in mid-air—just a few small rooms.
+    From the crystalline spring, cold water falls in whispers,
+    On ancient walls darkened by time, blue moss blooms in patches.
+
+    By the rocky crag, the old pine grows ancient beneath a single moon,
+    Where clouds descend low to kiss a thousand peaks at world's end.
+    Here the red dust of ten thousand worldly affairs cannot reach—
+    A secluded soul finds here a lifetime of peaceful ease.
+  footnotes:
+  - key: ''
+    value: Gaesongsa (開聖寺) is a Buddhist temple, and the title refers to a specific hermitage or cell within it.
+  - key: ''
+    value: The 'eight-foot room' suggests a very small, modest meditation space typical of Buddhist monastic retreats.
+  - key: ''
+    value: '''Red dust'' (紅塵) is a classical metaphor for the turbulent world of human affairs and desires.'

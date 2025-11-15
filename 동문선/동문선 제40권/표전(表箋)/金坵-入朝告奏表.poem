@@ -1,0 +1,29 @@
+canonical:
+  title: 入朝告奏表
+  author: 金坵
+  language: lzh
+  text: 上穹云遠切殫臣懇以倍馳北斗所臨猶想帝居而恒仰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 入朝告奏表
+  author: 金坵
+  language: lzh
+  text: 上穹云遠。切殫臣懇以倍馳。北斗所臨。猶想帝居而恒仰。
+korean:
+  title: 입조 고주 표
+  author: 김구
+  language: kor
+  text: 하늘이 멀다 하매 신하의 정성을 다하여 더욱더 달리고, 북두(北斗)가 다다른 곳에는 오히려 대궐을 상상하여 항상 우러릅니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0430_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial Presented Upon Entering Court
+  author: Kim Gu
+  language: eng
+  text: Though heaven stretches distant, my devotion as a subject redoubles my urgency to hasten forth. Wherever the North Star's light falls, still do I envision the imperial palace, my gaze forever lifted in reverence.
+  footnotes:
+  - key: ''
+    value: The North Star (北斗) traditionally symbolizes the emperor's throne in Chinese and Korean poetry, representing the axis around which all things revolve.
+  - key: ''
+    value: The memorial form (表) was a formal petition or statement presented to the throne, typically expressing loyalty and commitment to service.

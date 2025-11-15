@@ -1,0 +1,47 @@
+canonical:
+  title: 細雨
+  author: 崔匡裕
+  language: lzh
+  text: 風繰雲緝散絲綸陰曀濛濛海岳春微泫曉花紅淚咽輕霑煙柳翠眉顰能鮮石逕麋蹤蘚解裛沙堤馬足塵煬帝錦帆應見忌偏宜蓑笠釣船人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 細雨
+  author: 崔匡裕
+  language: lzh
+  text: 風繰雲緝散絲綸。陰曀濛濛海岳春。微泫曉花紅淚咽。輕霑煙柳翠眉顰。能鮮石逕麋蹤蘚。解裛沙堤馬足塵。煬帝錦帆應見忌。偏宜蓑笠釣船人。
+korean:
+  title: 세우
+  author: 최광유
+  language: kor
+  text: |-
+    바람이 실줄을 켜고 구름이 자아내 흩으니
+    봄의 산과 바다에 어스름 부실부실
+    새벽 꽃에 살짝 젖어 붉은 눈물 맺힌 듯
+    내 갠 버들에 가벼이 적시니 푸른 눈썹을 찡그린 듯
+    돌길 위 노루 발자국의 이끼를 곱게 하고
+    모래뚝 말발굽의 먼지를 제법 질게 하는구나
+    수 양제 비단 돛은 아마 너(비)를 꺼렸으리
+    도롱이 삿갓 낚시꾼에게 가장 알맞으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 수 양제(隋煬帝) 비단 돛[錦帆] : '
+    value: 수 양제가 배 타고 운하(運河)를 거쳐 강도(江都)에 놀러 갈 때 비단돛을 달고 흥청댔다 한다.
+english:
+  title: Fine Rain
+  author: Choe Gwang-yu
+  language: eng
+  text: |-
+    Wind plucks silk threads that clouds then weave and scatter.
+    Mist clings dimly to mountains and sea in spring.
+    Dawn flowers tremble with fine beads of dew—
+    red tears gathering on their petals.
+    Light mist wets the willow branches, graceful
+    as emerald brows drawn in a tender frown.
+    It polishes the moss on deer tracks in the stone path,
+    makes rich the dust beneath a horse's hooves on the sandy bank.
+    The Yangdi Emperor's silk sails would surely curse such rain—
+    but how perfectly it suits the fisherman in his straw cape and hat.
+  footnotes:
+  - key: ''
+    value: The Yangdi Emperor of the Sui Dynasty was known for his lavish river voyages with ornate silk sails; fine rain would damage such finery, making it a fitting counterpoint to the poem's celebration of rain's beauty for humble folk.

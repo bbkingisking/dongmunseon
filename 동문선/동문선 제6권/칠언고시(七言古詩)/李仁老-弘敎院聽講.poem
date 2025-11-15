@@ -1,0 +1,64 @@
+canonical:
+  title: 弘敎院聽講
+  author: 李仁老
+  language: lzh
+  text: 漢家離宮三十六鐵鳳橫空螭闘角鑾輿隱隱幾時回魚鑰沉沉春草綠古壇掃盡拜星餘黃金構出靑鴛刹蘭羞蕙饌倒天廚歲月經多源不渴金鍾曉動春雷鳴禪衲于于鳧鴈行江湖倒瀉珊瑚舌滿地花雨紅茫茫問誰指畫不愆素肉身大士吾季父
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 弘敎院聽講
+  author: 李仁老
+  language: lzh
+  text: 漢家離宮三十六。鐵鳳橫空螭闘角。鑾輿隱隱幾時回。魚鑰沉沉春草綠。古壇掃盡拜星餘。黃金構出靑鴛刹。蘭羞蕙饌倒天廚。歲月經多源不渴。金鍾曉動春雷鳴。禪衲于于鳧鴈行。江湖倒瀉珊瑚舌。滿地花雨紅茫茫。問誰指畫不愆素。肉身大士吾季父。
+korean:
+  title: 홍교원 청강
+  author: 이인로
+  language: kor
+  text: |-
+    한나라 집의 이궁 서른 여섯 채
+    쇠 봉은 허공에 비끼고 이무기는 뿔로 싸운다
+    난새수레는 언제나 은은히 돌아올런가
+    고기자물쇠가 침침한데 봄풀이 푸르구나
+    옛 단을 말끔히 쓸고 북두성에 절하니
+    황금으로 푸른 원앙새의 세계를 얽어 맨다
+    난초 차반과 혜초 반찬이 하늘 부엌에 가득하니
+    세월이 많이 지냈으나 그 근원은 마르지 않는다
+    황금종을 새벽에 치매 봄 뇌성이 울고
+    중들은 오리나 기러기 떼처럼 간다
+    강물은 산호 혀를 거꾸로 쏟는데
+    땅에 가득한 꽃비는 붉어 아득하여라
+    묻노라 누가 이것을 빠짐없이 준비하였는가
+    육신대사는 내 계부일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 북두성에 절하니 : '
+    value: 도교(道敎)에서는 북두칠성(北斗七星)에 예배한다.
+  - key: '[주-D002] 육신대사(肉身大士) : '
+    value: 살아 있는 그대로 보살(菩薩)이 된 것을 육신대사라 한다.
+english:
+  title: Listening to a Lecture at the Honggyowon
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Thirty-six palaces of Han's imperial domain,
+    Iron phoenix spreads across the void, dragon's horns clash in combat.
+    When shall the imperial carriage return, faint and distant?
+    The fish-lock grows heavy while spring grass blooms green.
+
+    The ancient altar swept clean, bowing to the Northern Stars,
+    Golden beams weave the realm of jade-green mandarin ducks.
+    Orchid delicacies and fragrant herbs fill heaven's own kitchen,
+    Though ages have passed, the source remains inexhaustible.
+
+    The golden bell rings at dawn, spring thunder speaks,
+    Monks walk in flocks like ducks and geese on water.
+    The river pours forth coral tongues in reverse cascade,
+    Flower rain covers the ground, red and boundless—
+
+    I ask: who prepared all this without flaw?
+    The Living Buddha is my uncle by marriage.
+  footnotes:
+  - key: ''
+    value: 'The Northern Stars: In Daoism, reverence is paid to the Big Dipper constellation.'
+  - key: ''
+    value: 'Living Buddha (육신대사): One who achieves bodhisattva status while still in the flesh, embodying enlightenment in life.'

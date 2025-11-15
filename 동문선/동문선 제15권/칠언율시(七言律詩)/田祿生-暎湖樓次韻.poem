@@ -1,0 +1,49 @@
+canonical:
+  title: 暎湖樓次韻
+  author: 田祿生
+  language: lzh
+  text: 北望松都疊嶂多樓高客恨轉來加仲宣作賦非吾土江令思歸未到家楊柳自搖愁裏線辛夷初發亂餘花若爲江水變春酒一洗胷中滓與査
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 暎湖樓次韻
+  author: 田祿生
+  language: lzh
+  text: 北望松都疊嶂多。樓高客恨轉來加。仲宣作賦非吾土。江令思歸未到家。楊柳自搖愁裏線。辛夷初發亂餘花。若爲江水變春酒。一洗胷中滓與査。
+korean:
+  title: 영호루 차운
+  author: 전녹생
+  language: kor
+  text: |-
+    북으로 송도 바라보니 산이 겹겹
+    누각이 높으니 나그네 한이 새삼 더해지네
+    중선은 부를 지어 내 땅 아니라 했거니
+    강령은 돌아가길 생각하나 집에 정작 못 갔네
+    버들도 흔드누나 시름속의 잔 가지를
+    개나리가 피었군 난리 뒤의 첫 꽃이
+    어쩌면 저 강물을 봄 술로 변하게 하여서
+    가슴속에 쌓인 찌꺼기를 활활 씻어 버릴꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0870&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중선(仲宣) : '
+    value: 왕찬(王粲)의 자. 다락에 올라 고향을 생각하는 그의 〈등루부(登樓賦)〉에, “〈강산이〉 아름다우나, 내 고향이 아니로세.”라는 구절이 있다.
+  - key: '[주-D002] 강령(江令) : '
+    value: 육조(六朝) 양(梁)나라의 문인(文人)  강엄(江淹)이 동무령(東武令)을 지냈으므로 강령(江令)이라 한다. 고향에 못 돌아감을 슬퍼하는 시를 많이 읊었다.
+english:
+  title: In Response at Yinghu Pavilion
+  author: Jeon Nok-saeng
+  language: eng
+  text: |-
+    Looking northward to Pine Capital, mountains layer upon layer.
+    The pavilion rises high, and my traveler's sorrow deepens anew.
+    Chung-seon composed his verses—but this is not my native land.
+    Jiang Ling yearns to return, yet home remains beyond his reach.
+    Willows sway within my melancholy, trembling like heartstrings.
+    Magnolias blossom early, the first flowers after ruin.
+    Oh, if only the river waters could transform to spring wine,
+    Then I might wash away the sediment and dregs that gather in my chest.
+  footnotes:
+  - key: ''
+    value: Chung-seon refers to Wang Can (王粲), whose courtesy name was Zhongxuan. His famous poem 'Climbing the Tower' expresses longing for his homeland while observing beautiful scenery, using the line 'the mountains are fair, yet not my home'—a poignant juxtaposition the poet echoes here.
+  - key: ''
+    value: Jiang Ling refers to Jiang Yan (江淹) of the Liang Dynasty, who served as magistrate of Dongwu and composed many poems lamenting his inability to return home—a parallel to the speaker's own exile and homesickness.

@@ -1,0 +1,29 @@
+canonical:
+  title: 除宰臣李延壽崔瑀敎書
+  author: 李百順
+  language: lzh
+  text: 云云德茂者禮優功高者位重此古今之公道也卿謀王體斷國論外攘夷獠內撫人民措邦家於金甌之無缺則德其厚矣功其多矣不有賞典如公義何傳不云乎爵人於朝與士共之今授卿云云
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 除宰臣李延壽崔瑀敎書
+  author: 李百順
+  language: lzh
+  text: 云云。德茂者禮優。功高者位重。此古今之公道也。卿。謀王體。斷國論。外攘夷獠。內撫人民。措邦家於金甌之無缺。則德其厚矣。功其多矣。不有賞典。如公義何。傳不云乎。爵人於朝。與士共之。今授卿云云。
+korean:
+  title: 재신 이연수와 최우를 제수하는 교서
+  author: 이백순
+  language: kor
+  text: 운운. 덕이 거룩한 자는 예우가 융숭하고, 공이 높은 자는 작위도 중하나니, 이것은 고금의 공도(公道)이다. 경은 왕사(王事)를 꾀하고, 국론을 결단하여, 밖으로 오랑캐를 물리치고, 안으로 백성을 무마하였다. 그리하여 국가를 결함없는 금구(金甌)와 같이 만들었으니, 덕이 그처럼 후하고 공이 그처럼 많은데, 상전을 내리지 않는다면 공의에 어찌 되겠는가. 전(傳)에 “조정에서 사람을 벼슬시키니, 선비와 더불어 함께 한다.”고 말하지 않았던가. 이제 경에게 제수하노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0300_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Edict Appointing Ministers Yi Yeon-su and Choe U
+  author: Yi Baek-sun
+  language: eng
+  text: 'Thus it is said: When virtue is noble, honor in ceremony flows abundantly. When merit stands high, rank becomes weighty. Such is the eternal principle of all ages. You, minister—you have counseled the royal way and decided the nation''s affairs. Outwardly you have repelled the barbarian lands; inwardly you have pacified the people. In this manner you have preserved the realm as flawless as a golden vessel. Your virtue is thus profound, your accomplishments vast. If we do not bestow upon you the reward you merit, how can justice prevail? Does not the tradition say, ''When the court appoints a man to office, it shares this decision with worthy gentlemen''? Now we grant you this appointment.'
+  footnotes:
+  - key: ''
+    value: The 'golden vessel' (金甌) is a metaphor for an intact, perfect realm—a common phrase in East Asian political discourse symbolizing territorial and administrative wholeness.
+  - key: ''
+    value: The quoted reference alludes to ancient precedent whereby worthy officials were appointed through consultation and consensus among the educated class.

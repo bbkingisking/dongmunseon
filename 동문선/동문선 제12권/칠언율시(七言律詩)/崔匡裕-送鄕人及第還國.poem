@@ -1,0 +1,47 @@
+canonical:
+  title: 送鄕人及第還國
+  author: 崔匡裕
+  language: lzh
+  text: 仙桂濃香惹雪麻一條歸路指天涯高堂朝夕貪調膳上國歡遊罷醉花紅暎蜃樓波吐日紫籠鼇極岫橫霞同離故國君先去獨把空書寄遠家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送鄕人及第還國
+  author: 崔匡裕
+  language: lzh
+  text: 仙桂濃香惹雪麻。一條歸路指天涯。高堂朝夕貪調膳。上國歡遊罷醉花。紅暎蜃樓波吐日。紫籠鼇極岫橫霞。同離故國君先去。獨把空書寄遠家。
+korean:
+  title: 송 향인 급제 환국
+  author: 최광유
+  language: kor
+  text: |-
+    계수꽃 짙은 향기를 흰 옷에 풍기면서
+    한 가닥 돌아가는 길 하늘 가를 지향하네
+    고당(부모가 계시는 방)에서 조석으로 어버이 식찬을 돌보리
+    상국의 기쁜 놀이 꽃에 취하길 그만두고서
+    신기루가 붉어짐은 물결이 해를 토함이요
+    자라등에 자줏빛은 멧부리에 비낀 노을이리
+    함께 고국 떠났다가 그대 먼저 돌아가니
+    빈 편지나 한 장 우리 집에 전해 주소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 계수꽃 : '
+    value: 과거(科擧)에 오른 것을 계화(桂花)를 꺾는다고 한다.
+english:
+  title: Farewell to a Fellow Countryman Who Passed the Examination and Returns Home
+  author: Choe Gwang-yu
+  language: eng
+  text: |-
+    The fragrant osmanthus blooms, their dense perfume clinging to white silk,
+    A single path homeward points toward the edge of heaven.
+    In the high chamber, parents wait for dawn and dusk—
+    You will tend their table while I linger in the capital's pleasures,
+    Drunken among flowers, reluctant to depart.
+
+    The mirage glows red where wavelets release the sun,
+    Purple mist clings to the peaks where the great tortoise dwells.
+    Together we left our native land, yet you go ahead,
+    Leaving me to send only an empty letter to your distant home.
+  footnotes:
+  - key: ''
+    value: The 'fragrant osmanthus' alludes to passing the civil examination, a traditional image where breaking a branch of the osmanthus flower symbolizes scholarly success.

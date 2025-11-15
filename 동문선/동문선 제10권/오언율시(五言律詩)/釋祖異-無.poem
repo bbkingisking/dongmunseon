@@ -1,0 +1,50 @@
+canonical:
+  title: 無
+  author: 釋祖異
+  language: lzh
+  text: 鑑老禪林傑才全德亦俱雲山知快活世路脫崎嶇谷密苔生逕簾虛月上趺安心行住臥日用趙州無
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無
+  author: 釋祖異
+  language: lzh
+  text: 鑑老禪林傑。才全德亦俱。雲山知快活。世路脫崎嶇。谷密苔生逕。簾虛月上趺。安心行住臥。日用趙州無。
+korean:
+  title: 무
+  author: 석조이
+  language: kor
+  text: |-
+    감로는 선림의 걸물이라
+    재주가 온전하고 덕이 또 맞추었네
+    구름 산 속에서 쾌활함을 알아
+    세상길의 기구한 것은 벗어났다
+    골짜기가 은밀하매 길에 이끼가 나고
+    발이 비었으니 달이 가부로 오른다
+    다니거나 서거나 눕는 데 마음이 편안하고
+    조주의 무를 일용하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0740&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 가부(跏趺) : '
+    value: 불상(佛像)에 두 발을 도사리고 앉은 것을 가부좌(跏趺坐)라 하는데, 좌선(坐禪)하는 사람은 그 방식으로 앉는다.
+  - key: '[주-D002] 조주(趙州)의 무(無) : '
+    value: 중이 조주(趙州)에게 묻기를, “구자(狗子 개새끼)는 불성(佛性)이 있습니까.” 하니, 조주는, “없다”[無]고 하였다. 이 무(無)라는 답은 곧 참선하는 이가 많이 쓰는 화두(話頭)이다.
+english:
+  title: No
+  author: Seogjowi
+  language: eng
+  text: |-
+    Gam is a jewel of the Zen monastery,
+    His talents complete, his virtue whole.
+    In clouds and mountains he knows true freedom,
+    Escaped from the winding paths of the world.
+
+    In shadowed valleys moss adorns the path,
+    The moon rises to his crossed-legged seat.
+    Walking, standing, lying—his heart at ease,
+    Each moment lives Zhaozhou's "No."
+  footnotes:
+  - key: ''
+    value: 'Zhaozhou''s "No" refers to a famous Zen koan: when asked if a dog possesses Buddha-nature, the master Zhaozhou answered simply "No." This word became a meditation focus for practitioners seeking enlightenment.'
+  - key: ''
+    value: The crossed-legged seat (跏趺坐) is the traditional posture of Zen meditation, symbolic of disciplined practice and awakening.

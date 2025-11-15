@@ -1,0 +1,60 @@
+canonical:
+  title: 文相國克謙挽詞
+  author: 李仁老
+  language: lzh
+  text: 玉骨英英應上台冰壺皎潔點靈臺早從閶闔排雲叫晚向虞淵取日迴丹鳳久從池上浴白雞爭奈夢中催唯餘謝眺蒼苔詠留作人間萬口雷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 文相國克謙挽詞
+  author: 李仁老
+  language: lzh
+  text: 玉骨英英應上台。冰壺皎潔點靈臺。早從閶闔排雲叫。晚向虞淵取日迴。丹鳳久從池上浴。白雞爭奈夢中催。唯餘謝眺蒼苔詠。留作人間萬口雷。
+korean:
+  title: 문상국극겸 만사
+  author: 이인로
+  language: kor
+  text: |-
+    영특한 그 모습이 상대성을 응했었네
+    옥병의 얼음 같이 그 마음 깨끗했네
+    진작 대궐 문의 구름을 헤치고 외쳤것다
+    늘그막엔 우연에 가서 해를 건져 돌아왔네
+    단봉이 오래 못(중서성(中書省)) 위에서 목욕하더니
+    흰 닭은 어쩌다 꿈에 와 재촉했나
+    사조의 푸른 이끼 시구만이 남아서
+    온 세상 만인의 입에 우뢰같이 전하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영특한 …… 응했었네 : '
+    value: 삼대성(三臺星)은 삼공(三公)을 표상하는 별인데, 상대는 수상(首相)을 뜻한다.
+  - key: '[주-D002] 진작 대궐 …… 외쳤것다 : '
+    value: 문극겸이 궐문 앞에서 국사에 관하여 직간(直諫)했음을 뜻한다.
+  - key: '[주-D003] 늘그막엔 …… 돌아왔네 : '
+    value: 우연은 해가 지면 돌아간다는 못인데, 우연에서 해를 건져 돌아왔다함은 문상국이 무신정권 시기에 많은 문신을 구했던 것을 말한 듯하다.
+  - key: '[주-D004] 흰 닭은 …… 재촉했나 : '
+    value: 진(晉)나라의 사안(謝安)이 병이 깊어졌을 때 친구에게 말하기를, “옛날 환온(桓溫)이 살았을 때 내가 항상 온전하지 못할까 염려했는데 꿈에 환온의 수레를 타고 16리쯤 가다가 한 마리 흰 닭을 보고 멈추었던 일이 기억난다. 환온의 수레를 탄 것은 그 재위를 대신함이요 16리는 금년이 16년째이고 백계(白鷄)는 유(酉)에 해당하는데 올해 태세(太歲)가 유에 있으니, 내 병이 아마 낫지 않을 것이다.” 하고 곧 상소하여 사직하고는 얼마 안 되어 죽었다. 《晉書 卷79 謝安列傳》
+english:
+  title: Elegy for Minister of State Mun Geuk-gyeom
+  author: Lee In-ro
+  language: eng
+  text: |-
+    A jade form radiant as starlight ascends the celestial throne,
+    A heart pure as ice in the crystal vessel illuminates the spirit.
+    Long ago at the palace gate, he parted the clouds and spoke truth,
+    In twilight years, from the western pool he drew back the sun.
+
+    The crimson phoenix bathed in the waters of office for long,
+    Yet the white rooster in dreams came calling urgently—
+    Only the blue moss beneath Xie Zhao's verse remains,
+    To echo through ten thousand mouths as thunder across the land.
+  footnotes:
+  - key: ''
+    value: The jade form radiant as starlight refers to the celestial minister; his virtue matched the Three Excellencies symbolized by the stars.
+  - key: ''
+    value: His truthful remonstrances at the palace gate earned renown for principled criticism during tumultuous times.
+  - key: ''
+    value: Drawing back the sun from the western pool alludes to his salvation of many civil officials during the period of military rule.
+  - key: ''
+    value: The white rooster in dreams is an omen of departure, echoing the death vision of Xie An of the Jin dynasty, suggesting the poet's foresight of his subject's passing.
+  - key: ''
+    value: Xie Zhao's moss-covered verse refers to immortal poetry that transcends time—here, the minister's legacy endures in the voices of the people.

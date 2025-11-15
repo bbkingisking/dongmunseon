@@ -1,0 +1,41 @@
+canonical:
+  title: 題錦江船亭
+  author: 鄭地
+  language: lzh
+  text: 隋家賀若弼晉室祖將軍仗劒過江水期還誓掃雲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題錦江船亭
+  author: 鄭地
+  language: lzh
+  text: 隋家賀若弼。晉室祖將軍。仗劒過江水。期還誓掃雲。
+korean:
+  title: 제 금강 선정
+  author: 정지
+  language: kor
+  text: |-
+    수나라의 하약필(賀若弼)과
+    진나라의 조 장군(祖將軍)이
+    칼 짚고 강물을 건넌 것은
+    맹세코 어둔 구름을 쓸고 돌아오길 기약함일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하약필(賀若弼) : '
+    value: 수(隋)나라 대장 하약필(賀若弼)이 진(陳)나라를 쳐서 멸망시킨 일이 있었다.
+  - key: '[주-D002] 조 장군(祖將軍) : '
+    value: 진(晉)나라 조적(祖逖)이 강을 건너면서 중류(中流)에서 돛대를 치며 맹세하기를, “조적이 중원(中原)을 숙청하지 않고는 다시 이 강을 건너지 않으리라.” 하였다.
+english:
+  title: On the Brocade River Boat Pavilion
+  author: Jeong Ji
+  language: eng
+  text: |-
+    He Ruobi of the Sui crossed the waters with sword in hand,
+    As did General Zu of the Jin, his resolve burning bright—
+    Both vowed to sweep the darkness clean,
+    And pledged to return when clouds of chaos lift.
+  footnotes:
+  - key: ''
+    value: He Ruobi was a great general of the Sui Dynasty who conquered and ended the Chen Dynasty.
+  - key: ''
+    value: 'General Zu (Zu Ti) of the Jin crossed a river and struck his oar in the middle of the stream, swearing: ''I shall not cross this river again until I have purged the Central Plains of chaos.'' This poem evokes his legendary act of patriotic determination.'

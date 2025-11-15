@@ -1,0 +1,92 @@
+canonical:
+  title: 次益齋詩韻
+  author: 李達衷
+  language: lzh
+  text: 行歌滄浪水恥憇惡木陰擧世不知故何人能刺今時命難可常功名亦何益若爲安此心困眠且飢喫無心作兔窟觸事畏蠅樊徒勞事鉛槧未足興家門歸來嘆無魚禍福從失馬安貧無所爲退食便淸坐可惜吾無翁孤墳白楊風亦喜吾有父皤然益齋公睦族同欣戚與人無莫適仁恩河海深欲報愧涓滴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次益齋詩韻
+  author: 李達衷
+  language: lzh
+  text: 行歌滄浪水。恥憇惡木陰。擧世不知故。何人能刺今。時命難可常。功名亦何益。若爲安此心。困眠且飢喫。無心作兔窟。觸事畏蠅樊。徒勞事鉛槧。未足興家門。歸來嘆無魚。禍福從失馬。安貧無所爲。退食便淸坐。可惜吾無翁。孤墳白楊風。亦喜吾有父。皤然益齋公。睦族同欣戚。與人無莫適。仁恩河海深。欲報愧涓滴。
+korean:
+  title: 익재 시에 차운하여
+  author: 이달충
+  language: kor
+  text: |-
+    거닐며 창랑수를 노래하고
+    악목 그늘에서 쉬기를 부끄러워하네
+    온 세상이 그 까닭 알지 못하니
+    어느 사람이 지금을 풍자하리
+    때와 운명은 일정하지 않거니
+    공명인들 또한 무엇이 유익하리
+    어떻게 이 마음 편안히 하여
+    피곤하면 잠자고 배고프면 먹으리
+    토끼 굴(보신책(保身策))을 만들 뜻이 없어
+    일에 부닥치면 울타리에 달라붙는 파리(남을 참소하는 자)가 무서워라
+    한갓 수고로이 연참(먹과 종이 즉 문필)만 일삼았고
+    족히 가문을 일으킬 수 없구나
+    돌아가리라 고기 없는 것을 탄식하고
+    화와 복은 말 잃은 대로 맡겨 둔다
+    가난을 편히 여겨 하는 일 없으니
+    벼슬에서 물러나와 맑게 앉았네
+    애석하여라 나는 장인 없나니
+    외로운 무덤 백양나무에 바람만 쓸쓸하다
+    그러나 나는 아버이 있는 것이 기쁘다
+    노인 익재 공이 계시는 것이
+    친척에 돈독하여 기쁨 슬픔 함께 하고
+    사람 사귈 때 반드시 좋아하거나 싫다 함이 없다
+    인자한 은혜는 하해 같이 깊은데
+    물방울 만큼이나마 갚으려 하나 부끄럽다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 창랑수(滄浪水)를 노래하고 : '
+    value: “창랑의 물이 맑으면 내 갓끈을 씻고, 창랑의 물이 탁하면 내 발을 씻는다.”는 노래는 《맹자》에도 있고, 〈어부사(漁父辭)〉에도 있다.
+  - key: '[주-D002] 악목(惡木) 그늘에서 쉬기를 부끄러워하네 : '
+    value: 《관자(管子)》에, “선비가 지조가 굳고 변하지 않는 마음이 있으면 악목의 가지를 그늘 삼지 않는다.”는 말이 있다.
+  - key: '[주-D003] 돌아가리라 고기 없는 것을 탄식하고 : '
+    value: “긴 칼아, 돌아가자. 밥상에 생선 없구나.” 하였다는 옛말이 있다.
+english:
+  title: In Response to Master Ikjae's Poem
+  author: Lee Dal-chung
+  language: eng
+  text: |-
+    I wander singing by the waters of Canglang,
+    and shame to rest beneath the crooked tree's shade.
+    The world knows not the reason for my way—
+    who among men will mock the present age?
+
+    Time and fate are not fixed in their course,
+    and what benefit lies in fame and station?
+    How then to find peace within this heart?
+    When weary, I sleep; when hungry, I eat.
+
+    I have no mind to dig a warren for escape,
+    yet fear the gadfly that buzzes round affairs,
+    the slanderer drawn to every circumstance.
+    My labors with brush and paper come to naught—
+    not enough to lift my family name.
+
+    I return to lament the empty dish,
+    and yield to fortune as the horse was lost.
+    Content with poverty, I do nothing—
+    retired from office, I sit in clarity.
+
+    It grieves me that I have no father-in-law,
+    no ancestor's grave where white poplars bow to wind.
+    Yet I rejoice to have a father still—
+    my honored father, Master Ikjae, stands beside me.
+
+    He binds the clan together in shared joy and sorrow,
+    shows all men alike his constant warmth,
+    his kindness deep as rivers and seas.
+    I wish to repay such grace,
+    yet feel ashamed—a mere drop against the ocean.
+  footnotes:
+  - key: ''
+    value: 'The Canglang waters reference comes from an ancient saying: ''When the waters of Canglang run clear, I wash my ribbon cord; when they run turbid, I wash my feet''—found in both the Mencius and the ''Fisherman''s Lament.'' It represents the sage''s ability to maintain principles regardless of circumstances.'
+  - key: ''
+    value: 'The refusal to rest beneath the crooked tree alludes to the Guanzi: ''A scholar with steadfast and unchanging resolve will not seek shade beneath a gnarled tree.'' It expresses moral integrity and the rejection of compromising expedience.'
+  - key: ''
+    value: 'The lament over the empty dish draws from an ancient saying: ''Return, my sharp blade, return—there is no fish upon the table.'' It conveys both material want and the folly of fruitless striving.'

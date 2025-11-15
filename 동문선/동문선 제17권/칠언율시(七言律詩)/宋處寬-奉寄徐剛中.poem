@@ -1,0 +1,49 @@
+canonical:
+  title: 奉寄徐剛中
+  author: 宋處寬
+  language: lzh
+  text: 日長城下古茅廬歸去吾今已卜居老病維摩空愛睡淸貧杜甫酷耽書匙秋流滑長腰粒盤日行鱗巨口魚何夕廣津津上路一壺相訪醉騎驢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉寄徐剛中
+  author: 宋處寬
+  language: lzh
+  text: 日長城下古茅廬。歸去吾今已卜居。老病維摩空愛睡。淸貧杜甫酷耽書。匙秋流滑長腰粒。盤日行鱗巨口魚。何夕廣津津上路。一壺相訪醉騎驢。
+korean:
+  title: 봉기 서강중
+  author: 송처관
+  language: kor
+  text: |-
+    일장성(광주 남한산성의 옛 이름) 밑 낡은 초가집에
+    돌아와 나는 이미 나 살 곳을 정했네
+    늙고 병든 유마는 잠자기만 즐기고
+    청빈한 두보는 책 읽기를 좋아하네
+    가을 수저엔 장요미(좋은 쌀의 일종)가 미끄럽고
+    날마다 밥상엔 아가리 큰 농어가 오르나니
+    어느 저녁 광나루 윗길로
+    술 한 병 차고 취한 채 당나귀를 찾아가 탈까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0870&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유마(維摩) : '
+    value: 불교의 《유마힐경(維摩詰經)》에, “유마힐 거사(居士)는 병으로 늘 누워 있으면서도 문병(問病)하러 온 문수보살(文殊菩薩) 등 여러 보살에게 설교하였다.” 하였다.
+english:
+  title: Sent to Xu Gangzhong
+  author: Song Cheo-gwan
+  language: eng
+  text: |-
+    Beneath the ancient city walls, an old thatched cottage stands,
+    Where I have returned and chosen my dwelling place at last.
+    Like Vimalakirti, old and sick, I love only sleep,
+    Like poor Du Fu, I am devoted to my books.
+    In autumn's spoon, grains of fine rice glide smoothly,
+    Each day at table, fish with gaping mouths appear.
+    One evening, shall I take the upper path to Gwangnarue,
+    A jug in hand, riding drunk upon a donkey to seek you out?
+  footnotes:
+  - key: ''
+    value: Vimalakirti, a Buddhist sage known for his ability to teach profound dharma while appearing to be bedridden—here suggesting wisdom that transcends physical ailment
+  - key: ''
+    value: Du Fu, the Tang poet celebrated for his scholarly dedication and austere virtue
+  - key: ''
+    value: Gwangnarue refers to a riverside crossing, suggesting a journey to visit the friend

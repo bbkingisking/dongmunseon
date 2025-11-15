@@ -1,0 +1,39 @@
+canonical:
+  title: 奉使日本
+  author: 羅興儒
+  language: lzh
+  text: 千年古國三韓使萬里洪濤一葉舟留滯海東驚歲暮寂寥山月水明樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉使日本
+  author: 羅興儒
+  language: lzh
+  text: 千年古國三韓使。萬里洪濤一葉舟。留滯海東驚歲暮。寂寥山月水明樓。
+korean:
+  title: 봉사일본
+  author: 나흥유
+  language: kor
+  text: |-
+    천 년 옛 나라 삼한의 사신이요
+    만리 넓은 물결에 한 조각의 배일러라
+    바다 동쪽에 머물러 있다 해 저문 것 놀라니
+    산달은 쓸쓸한데 물은 다락을 밝히네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1010&viewSync=OT
+  footnotes: []
+english:
+  title: On a Mission to Japan
+  author: Na Heung-yu
+  language: eng
+  text: |-
+    An envoy of the ancient kingdom, three Hansouth of a thousand years,
+    A single leaf of boat upon ten thousand miles of rolling waves.
+    Stayed in the eastern sea, amazed as the year draws to its close,
+    The mountain moon grows desolate while waters illuminate the tower.
+  footnotes:
+  - key: ''
+    value: 'The ''three Hans'' (三韓) refers to the three ancient Korean kingdoms: Goguryeo, Baekje, and Silla, representing Korea''s classical heritage.'
+  - key: ''
+    value: The 'eastern sea' (海東) is a traditional poetic reference to Korea's location east of China across the sea.
+  - key: ''
+    value: The 'water-lit tower' (水明樓) likely refers to a pavilion or watchtower in Japan, where the poet is stationed as an official envoy.

@@ -1,0 +1,46 @@
+canonical:
+  title: 送丁正言 克仁 辭官還鄕
+  author: 李承召
+  language: lzh
+  text: 飜然來又浩然歸莫把行藏較是非垂老飽參塵世味不如春雨故山薇未有簪裾解絆君肯敎猿鶴怨移文馬蹄踏雪遲遲去回首觚稜隔五雲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送丁正言 克仁 辭官還鄕
+  author: 李承召
+  language: lzh
+  text: 飜然來又浩然歸。莫把行藏較是非。垂老飽參塵世味。不如春雨故山薇。未有簪裾解絆君。肯敎猿鶴怨移文。馬蹄踏雪遲遲去。回首觚稜隔五雲。
+korean:
+  title: 송 정정언 극인 사관 환향
+  author: 이승소
+  language: kor
+  text: |-
+    번연히 왔다가 또 호연히 돌아가나니
+    나아가고 그침으로써 시비를 따지지 말라
+    늘그막에 티끌 세상의 맛을 배불러 먹었건마는
+    봄비 맞은 고향 산의 고사리만 못하리라
+    어떤 잠거도 그대를 속박하지 못하거니
+    즐겨 원숭이와 학으로 하여금 원망을 글에 옮기게 하네
+    말 발굽이 눈을 밟으며 느릿느릿 가다가
+    머리를 돌리면 고릉은 오운에 막혔으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0170&viewSync=OT
+  footnotes: []
+english:
+  title: Seeing Off Jeong Jeong-eon Geuk-in as He Resigns from Office and Returns to His Homeland
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    You came in a whirlwind, now you depart with boundless ease—
+    Do not weigh your comings and goings by right and wrong.
+    Though in your twilight years you've grown full on the dust of the world,
+    Spring rain upon the ferns of your native mountains holds more worth.
+
+    No official rank could ever truly bind you—
+    Why should monkey and crane begrudge their complaints to paper?
+    Your horse's hooves press slowly through the snow as you go,
+    And when you turn to look back, the palace walls fade into distant clouds.
+  footnotes:
+  - key: ''
+    value: The 'monkey and crane' alludes to a famous poem of protest and regret, here suggesting that even nature itself would envy his freedom
+  - key: ''
+    value: The reference to 'dust of the world' (塵世) is a Buddhist metaphor for the illusions and attachments of secular life

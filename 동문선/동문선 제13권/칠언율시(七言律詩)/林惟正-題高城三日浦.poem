@@ -1,0 +1,45 @@
+canonical:
+  title: 題高城三日浦
+  author: 林惟正
+  language: lzh
+  text: 半醒半醉遊三日杜牧 短艇孤煙島嶼中呂尙 明月淸風非俗物山谷 翠條紅刺罩春叢永叔 千年往事歸何處沈彬 萬頃淸波照碧空孫何 若有精靈應笑我樂天 樽前猶發小年紅山谷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題高城三日浦
+  author: 林惟正
+  language: lzh
+  text: 半醒半醉遊三日。杜牧。 短艇孤煙島嶼中。呂尙。 明月淸風非俗物。山谷。 翠條紅刺罩春叢。永叔。 千年往事歸何處。沈彬。 萬頃淸波照碧空。孫何。 若有精靈應笑我。樂天。 樽前猶發小年紅。山谷。
+korean:
+  title: 고성 삼일포에 쓰다
+  author: 임유정
+  language: kor
+  text: |-
+    취하락 깨락 삼일 놀이 두목(杜牧)
+    쪽배 타고 연기 낀 외론 섬에서 여상(呂尙)
+    맑은 바람 밝은 달은 속물이 아니로군 산곡(山谷)
+    푸른 가지 붉은 가시 모조리 봄 떨기 영숙(永叔)
+    천 년 전 지난 일은 어디로 돌아갔나 심빈(沈彬)
+    만경 창파가 푸른 하늘 비출 뿐 손하(孫何)
+    신선이 있다면 응당 나를 웃을 것이 낙천(樂天)
+    술병을 앞에 놓고야 다시 젊어 붉은 입술 산곡(山谷)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0670&viewSync=OT
+  footnotes: []
+english:
+  title: Written at Samil Straits of Seonggyeong
+  author: Im Yujeong
+  language: eng
+  text: |-
+    Half-drunk, half-awake, three days of wandering—
+    A small boat glides through smoky isles of solitude—
+    The clear breeze and bright moon are no common sight—
+    Green branches, red thorns shroud the spring clusters—
+    A thousand years of memory—where have they gone?
+    A myriad ripples reflect the azure sky—
+    If spirits exist, surely they laugh at me—
+    With wine cup before me, the flush of youth returns to my lips.
+  footnotes:
+  - key: ''
+    value: The author incorporates poetic attributions throughout (Du Mu, Lü Shang, and others), creating a work composed of literary echoes—a mosaic technique common in classical East Asian poetry that honors the poetic tradition while creating new meaning through juxtaposition.
+  - key: ''
+    value: Samil Straits (三日浦) is a famous scenic location on the Korean peninsula, known for its natural beauty and historical significance as a place of literary and spiritual contemplation.

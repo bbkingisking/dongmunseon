@@ -1,0 +1,31 @@
+canonical:
+  title: 賀誕日箋
+  author: 權近
+  language: lzh
+  text: 陽升大壯萬物覩天地之情聖應貞符千齡繼祖宗之統日月方燠神人以和恭惟主善爲師因心則友旣宜民而受祿曆數攸歸乃立嫡以承祧彝倫是敍玆當震夙之日茂對泰來之期伏念職忝分憂情深祝壽雲開閶闔迹雖阻於鳧趨境接滄溟舞悉同於鼇抃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀誕日箋
+  author: 權近
+  language: lzh
+  text: 陽升大壯。萬物覩天地之情。聖應貞符。千齡繼祖宗之統。日月方燠。神人以和。恭惟主善爲師。因心則友。旣宜民而受祿。曆數攸歸。乃立嫡以承祧。彝倫是敍。玆當震夙之日。茂對泰來之期。伏念職忝分憂。情深祝壽。雲開閶闔。迹雖阻於鳧趨。境接滄溟。舞悉同於鼇抃。
+korean:
+  title: 하 탄일 전
+  author: 권근
+  language: kor
+  text: 양(陽)이 올라 크게 왕성하니[大壯] 만물이 천지의 정(情)을 알 것이요, 성인(聖人)이 천명(天命)을 타고나시니, 천년이나 조종(祖宗)의 대통(大統)을 이으실지니, 일월이 바야흐로 따스하고 신인(神人)이 이로써 화락(和樂)하옵나이다. 공손히 생각하옵건대, 선(善)을 주로함이 스승이요, 마음에 맞으면 곧 벗이라, 이미 백성에게 마땅하여 복록(福祿)을 받으셨으니, 역수(曆數)가 돌아갈 바이므로 이에 적자(嫡子)를 세워 후사(後嗣)로 잇게 되었사옴에 이륜(彝倫)을 이로써 펴지게 되었으니 이제 탄강(誕降)의 날을 당하여 더욱 태래(泰來)의 기약을 대(對)하리이다. 엎드려 생각하옵건대 근심을 나누는 직책을 더럽혀 성수(聖壽)를 축원하는 정이 깊사오니 구름이 활짝 열린 천문(天門)에 오리[鳬]같이 추창치 못하오나, 창해(滄海)를 접한 변방에서 거북[鼇]처럼 기뻐 춤추옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 크게 왕성하니[大壯] : '
+    value: 《주역》의 괘 이름. 양기가 바야흐로 왕성해지는 상(象). 태자의 탄생을 비유한 것이다.
+english:
+  title: Congratulations on the Birthday
+  author: Gwon Geun
+  language: eng
+  text: The yang ascends in great vigor—all creatures perceive the heart of heaven and earth. The sage inherits the mandate of heaven; a thousand ages shall continue the line of ancestors. Sun and moon bring warmth; gods and men rejoice together. I humbly reflect that virtue serves as teacher, and the sincere heart finds friendship. Having graced the people and received fortune's blessing, the celestial patterns turn their course. Thus the heir apparent is established to continue the ancestral line, and the eternal order of kinship is thereby restored. On this day of his noble birth, I witness the turning toward auspicious times. Though my humble station keeps me from racing like a cormorant through the heavenly gates, yet from these borderlands touching the vast sea, I leap like the great tortoise in celebration.
+  footnotes:
+  - key: ''
+    value: The 'great vigor' (大壯) alludes to a hexagram of the I Ching symbolizing the flourishing of yang energy, here metaphorically representing the birth of the crown prince.
+  - key: ''
+    value: The 'heavenly gates' (閶闔) and the imagery of the cormorant and tortoise reference classical Daoist mythology, suggesting aspiration toward the celestial realm even from a distance.

@@ -1,0 +1,39 @@
+canonical:
+  title: 張良
+  author: 李瓊仝
+  language: lzh
+  text: 萬騎紛紜博浪沙一椎聊欲碎宮車少年壯志呑天下肯割鴻溝作漢家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 張良
+  author: 李瓊仝
+  language: lzh
+  text: 萬騎紛紜博浪沙。一椎聊欲碎宮車。少年壯志呑天下。肯割鴻溝作漢家。
+korean:
+  title: 장량
+  author: 이경동
+  language: kor
+  text: |-
+    만기가 어지러운 박랑사에서
+    한 방망이를 힘없이 궁차를 부수러 하였것다
+    소년의 장한 뜻은 천하를 삼키려 하였거니
+    즐겨 홍구를 베어 한가로 만들려 하단말가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0760&viewSync=OT
+  footnotes: []
+english:
+  title: Zhang Liang
+  author: Lee Gyeong-dong
+  language: eng
+  text: |-
+    Ten thousand horsemen thunder through Bo Lang Sands in confusion,
+    One hammer—barely enough to shatter the imperial carriage.
+    A young man's fierce ambition swallowed empires whole,
+    Would he consent to cleave the Hongou and make it Han's domain?
+  footnotes:
+  - key: ''
+    value: Zhang Liang was a legendary strategist of the Han Dynasty who famously attempted to assassinate Qin's First Emperor at Bo Lang Sands with a single hammer strike, though he failed. He later became one of the founding strategists of the Han Dynasty.
+  - key: ''
+    value: The 'Hongou' (鴻溝) refers to the boundary drawn between Han and Chu during the conflict that preceded Han's unification of China.
+  - key: ''
+    value: The poem explores the tension between Zhang Liang's youthful revolutionary fervor and his later pragmatic role in establishing Han power, questioning whether ambition alone could have succeeded where strategy ultimately did.

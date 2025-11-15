@@ -1,0 +1,66 @@
+canonical:
+  title: 大倉
+  author: 鄭夢周
+  language: lzh
+  text: 幽人夜不寐秋氣颯以凉曉來眄庭樹枝葉半已黃白雲從東來悠然思故鄕故鄕萬餘里思歸不可得手把古人書憂來聊自讀憂來縈中膓廢書長嘆息人生百歲內光景如過隙胡爲不自安而作遠遊客
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大倉
+  author: 鄭夢周
+  language: lzh
+  text: 幽人夜不寐。秋氣颯以凉。曉來眄庭樹。枝葉半已黃。白雲從東來。悠然思故鄕。故鄕萬餘里。思歸不可得。手把古人書。憂來聊自讀。憂來縈中膓。廢書長嘆息。人生百歲內。光景如過隙。胡爲不自安。而作遠遊客。
+korean:
+  title: 대창
+  author: 정몽주
+  language: kor
+  text: |-
+    유인이 밤에 자지 못하니
+    가을 기운은 우수수 서늘하도다
+    새벽에 뜰나무를 내다보니
+    가지와 잎이 벌써 반은 누르렀구나
+    흰 구름이 동쪽으로부터 나오니
+    아득한 고향을 생각하노라
+    고향이 만여 리나 되니
+    돌아갈 것을 생각하나 돌아갈 수 없구나
+    손에 고인의 글을 잡고서
+    근심이 오면 애오라지 그것이나 읽는다
+    근심이 와서 창자에 얽히매
+    책을 덮고 길이 탄식하노니
+    인생은 백 년 동안
+    광음이 틈을 지나는 것 같으니
+    어찌하여 스스로 편안하지 못하고
+    멀리 노는 길손이 되었는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: The Great Granary
+  author: Jeong Mongju
+  language: eng
+  text: |-
+    The recluse cannot sleep through the night.
+    Autumn's breath sweeps chill through the darkness.
+    At dawn, I gaze upon the courtyard trees—
+    branches and leaves already half turned gold.
+
+    White clouds drift in from the east,
+    and my thoughts stretch toward my native land.
+    But my homeland lies ten thousand leagues away,
+    and return remains forever beyond my grasp.
+
+    I take an ancient sage's book in hand.
+    When sorrow comes, I seek solace in its pages.
+    Yet sorrow winds through my very bowels,
+    and I cast the book down with a long sigh.
+
+    Human life spans but a hundred years—
+    light and shadow pass like a crack in time.
+    Why then do I not find peace within myself?
+    Why have I become a wanderer in distant lands?
+  footnotes:
+  - key: ''
+    value: The 'recluse' (유인) may refer to the poet himself in a moment of contemplation and withdrawal
+  - key: ''
+    value: The 'ancient sage's book' likely refers to classical Chinese philosophy, which Jeong Mongju would have studied deeply
+  - key: ''
+    value: The poem's exploration of homesickness and the transience of life reflects themes common in Korean Confucian literati poetry

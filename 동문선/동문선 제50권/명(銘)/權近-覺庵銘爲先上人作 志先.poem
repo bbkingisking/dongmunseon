@@ -1,0 +1,46 @@
+canonical:
+  title: 覺庵銘爲先上人作 志先
+  author: 權近
+  language: lzh
+  text: 蠢蠢群生明明覺性應用怡然眞體自靜得之何先志之結定畢竟同歸孰愚孰聖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 覺庵銘爲先上人作 志先
+  author: 權近
+  language: lzh
+  text: 蠢蠢群生。明明覺性。應用怡然。眞體自靜。得之何先。志之結定。畢竟同歸。孰愚孰聖。
+korean:
+  title: 각암명 위선상인작 지선
+  author: 권근
+  language: kor
+  text: |-
+    어리석고 어리석은 중생이요
+    밝고밝은 각성일세
+    응용은 활발하고
+    자체는 고요하네
+    얻자면 무엇을 해야 하나
+    뜻이 먼저 정해져야 한다네
+    성공하면 똑같으니
+    우부 성인이 따로 있나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 각암명 위선상인작 지선(覺庵銘爲先上人作志先) : '
+    value: 상인(上人) 해봉(海峯)의 도호(道號).
+english:
+  title: 'Inscription for Monk Jikseon: In Praise of the Awakened Mind'
+  author: Gwon Geun
+  language: eng
+  text: |-
+    Countless sentient beings, dim and confused—
+    yet brightness shines, the nature of awareness.
+    In function and response, all flows with ease;
+    the true essence remains serene.
+
+    What is the way to attain this?
+    Let intention settle and crystallize first.
+    In the end, all paths converge as one—
+    who then is foolish, and who is sage?
+  footnotes:
+  - key: ''
+    value: The title references Haebong, the dharma name of the monk for whom this inscription was written.

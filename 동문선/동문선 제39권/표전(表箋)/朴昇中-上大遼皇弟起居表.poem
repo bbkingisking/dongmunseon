@@ -1,0 +1,31 @@
+canonical:
+  title: 上大遼皇弟起居表
+  author: 朴昇中
+  language: lzh
+  text: 甞叨錫命邈守藩封春風迴鼓物之仁欣蒙煦育沔水阻朝宗之路恨不奮飛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上大遼皇弟起居表
+  author: 朴昇中
+  language: lzh
+  text: 甞叨錫命。邈守藩封。春風迴鼓物之仁。欣蒙煦育。沔水阻朝宗之路。恨不奮飛。
+korean:
+  title: 대요 황제께 문안을 드리는 글
+  author: 박승중
+  language: kor
+  text: 일찍이 주신 명(命)을 받들어 멀리 번봉(藩封)을 지키던 바, 봄바람이 인(仁)으로 만물을 고동(鼓動)하는 때가 돌아와 기쁘게도 따뜻한 양육을 받았으나, 강물이 바다에 조종(朝宗)하는 길이 막혀 훌쩍 솟구쳐 날아가지 못함을 한(恨)하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0420_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial of Respect to the Emperor of the Great Liao
+  author: Park Seung-jung
+  language: eng
+  text: Long have I upheld the mandate bestowed upon me, keeping watch over distant domains. When spring winds return to stir the compassion within all things, I rejoice in basking beneath such warmth and nurture. Yet the river's course to the sea lies blocked—I lament that I cannot soar and fly to reach the source.
+  footnotes:
+  - key: ''
+    value: The 'spring winds' and 'stirring of compassion' are classical metaphors for imperial benevolence and influence reaching the realm
+  - key: ''
+    value: The image of water journeying to the sea (朝宗) is a traditional metaphor in Chinese poetry for subjects returning to or serving the ruler
+  - key: ''
+    value: The contrast between receiving imperial favor and inability to fulfill one's duty creates the emotional tension of the piece

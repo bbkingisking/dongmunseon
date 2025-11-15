@@ -1,0 +1,37 @@
+canonical:
+  title: 關東旅夜
+  author: 尹汝衡
+  language: lzh
+  text: 乾坤蕩蕩我無家一夕挑燈九起嗟誰使遠遊人有耳杜鵑啼血杜鵑花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 關東旅夜
+  author: 尹汝衡
+  language: lzh
+  text: 乾坤蕩蕩我無家。一夕挑燈九起嗟。誰使遠遊人有耳。杜鵑啼血杜鵑花。
+korean:
+  title: 관동여야
+  author: 윤여형
+  language: kor
+  text: |-
+    천지가 넓고 넓은데 나는 집이 없거니
+    하루 저녁에 등불 돋우고 아홉 번 일어나 탄식하노라
+    누가 멀리 나온 사람에게 귀가 있게 하였는가
+    두견새가 두견꽃에 피 쏟으며 우나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0430&viewSync=OT
+  footnotes: []
+english:
+  title: A Traveler's Night in the Eastern Mountains
+  author: Yun Yeohyung
+  language: eng
+  text: |-
+    Heaven and earth stretch endless—I have no home.
+    One evening, lamp in hand, I rise and sigh nine times over.
+    Who gave ears to the wanderer so far from rest?
+    The cuckoo pours its blood into the cuckoo flowers as it cries.
+  footnotes:
+  - key: ''
+    value: The cuckoo (杜鵑) is a traditional symbol in East Asian poetry representing homesickness, longing, and the pain of separation. According to legend, the bird's cry sounds like 'go home, go home' (不如歸去).
+  - key: ''
+    value: The pairing of the cuckoo bird with cuckoo flowers suggests the poet's empathetic identification with nature's own melancholy—both bird and bloom share the same name and suffer together.

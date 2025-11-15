@@ -1,0 +1,37 @@
+canonical:
+  title: 冷泉
+  author: 金千齡
+  language: lzh
+  text: 涓涓一勺水瑩瑩涵冰玉雖慚灌漑功庶可資挹掬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冷泉
+  author: 金千齡
+  language: lzh
+  text: 涓涓一勺水。瑩瑩涵冰玉。雖慚灌漑功。庶可資挹掬。
+korean:
+  title: 냉천
+  author: 김천령
+  language: kor
+  text: |-
+    졸졸 흐르는 한 움큼 물이
+    맑고 깨끗해 빙옥을 담은 듯
+    비록 관개의 공에는 부끄러움 있지만
+    손으로 움켜 떠서 먹을 만하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: Cold Spring
+  author: Kim Cheon-ryeong
+  language: eng
+  text: |-
+    A trickle of water, a mere handful,
+    Clear and pure as jade kissed by frost—
+    Though it shames me it cannot irrigate the fields,
+    Still, it is enough to cup in trembling hands and drink.
+  footnotes:
+  - key: ''
+    value: The poem contrasts the spring's modest flow with its crystalline beauty, suggesting that not all things of worth need serve grand purposes.
+  - key: ''
+    value: The imagery of ice and jade evokes the aesthetic refinement valued in classical East Asian poetry, where spiritual purity often transcends practical utility.

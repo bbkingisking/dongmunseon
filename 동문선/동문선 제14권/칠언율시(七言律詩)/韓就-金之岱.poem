@@ -1,0 +1,52 @@
+canonical:
+  title: 金之岱
+  author: 韓就
+  language: lzh
+  text: 兩浥輕塵唱渭城臨分醉臉纈紋生嶺南遺愛春江綠塞北閑愁夕照明靑眼縱多新識面白頭那及舊交情自天忽洒眞紅露不忝尙書舊按行舊制四品帶紅鞓謂之假紅三品謂之眞紅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金之岱
+  author: 韓就
+  language: lzh
+  text: 兩浥輕塵唱渭城。臨分醉臉纈紋生。嶺南遺愛春江綠。塞北閑愁夕照明。靑眼縱多新識面。白頭那及舊交情。自天忽洒眞紅露。不忝尙書舊按行。舊制四品帶紅鞓。謂之假紅。三品謂之眞紅。
+korean:
+  title: 김지대
+  author: 한취
+  language: kor
+  text: |-
+    아침 비 먼지 적시네, 위성곡을 노래하니
+    작별하는 취한 얼굴에 주름살이 생기네
+    영남에 유애는 봄 강이 푸르고
+    새북으로 가는 시름은 저녁 햇빛 밝구나
+    청안으로 새로 아는 얼굴도 많으련만
+    백발 예로 사귄 옛정만 할쏜가
+    하늘로부터 문득 진홍 이슬을 뿌렸으니
+    상서로 다시 안렴 되어 가는 길에 알맞네
+    옛 제도에 4품(品)은 홍정(紅鞓)을 띠나 가홍(假紅)이라 이르고, 3품을 진홍이라 이른다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 위성곡(渭城曲) : '
+    value: 이별을 노래한 곡이다. 당(唐)나라의 왕유(王維)가 벗을 위성(渭城)에서 작별하는 시에, “위성의 아침 비가 가벼운 먼지를 적시는데.” 하는 구절이 있다.
+  - key: '[주-D002] 유애(遺愛) : '
+    value: 지방에 어진 수령(守令)이 선정(善政)을 하면 그가 간 뒤에도 남은 사랑[遺愛]이 있는 일이다.
+english:
+  title: On Kim Chi-dae
+  author: Han Jiu
+  language: eng
+  text: |-
+    Morning rain dampens the dust as I sing the song of parting.
+    Upon farewell, the drunkard's face shows the lines of sorrow.
+    The love left behind in Lingnan—how green the spring river flows.
+    The worry bound for the northern frontier—how bright the evening sun shines.
+    Though keen eyes may recognize many new faces,
+    White-haired, how can I match the feeling of old friends?
+    Suddenly from heaven fall drops of crimson dew—
+    Fit reward for one returning to the censor's old circuit.
+
+    Note on the old system: Officials of the fourth rank wear the red ribbon, called the false crimson, while those of the third rank wear what is called the true crimson.
+  footnotes:
+  - key: ''
+    value: The song of parting (渭城曲) references a famous poem by Wang Wei of the Tang dynasty, which begins 'Morning rain at Weiyang dampens the light dust,' used here as a classical image of farewell.
+  - key: ''
+    value: The phrase 'love left behind' refers to the virtuous governance a local official leaves behind even after departure, remaining in the hearts of the people.

@@ -1,0 +1,50 @@
+canonical:
+  title: 試院曉座
+  author: 徐居正
+  language: lzh
+  text: 試院深深夜未朝玉堂學士盡英豪庭中似海燒紅燭門外如雲立白袍空北驊騮誰俊逸啚南鵬鳥已扶搖天公許我分仙桂說與諸生著力高
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 試院曉座
+  author: 徐居正
+  language: lzh
+  text: 試院深深夜未朝。玉堂學士盡英豪。庭中似海燒紅燭。門外如雲立白袍。空北驊騮誰俊逸。啚南鵬鳥已扶搖。天公許我分仙桂。說與諸生著力高。
+korean:
+  title: 시원 효좌
+  author: 서거정
+  language: kor
+  text: |-
+    시원이 깊숙하여 밤이 밝지 않았는데
+    옥당의 학사들은 모두 영웅 호걸이다
+    뜰 안에는 바다같이 붉은 촛불 태우고
+    문 밖에는 구름처럼 흰 도포를 세웠다
+    북방을 비울 화류에는 누가 뛰어났는가
+    남쪽을 도모하는 붕새는 이미 힘차게 일어났다
+    천공이 내게 선계를 가지라 허락했거니
+    그들을 위해 높은 데 힘쓰라고 말해 주노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 북방을 …… 화류(驊騮) : '
+    value: 옛날에 중국 기주(冀州) 북방에는 화류(驊騮 좋은 말)가 많이 생산되었다. 그런데 말을 잘 알아보는 백락(伯樂)이란 사람이 한 번 그곳을 지나가면, 그곳 기주 북방에 좋은 말을 다 가져 가므로 그곳이 비었다고 한다. 시관으로서 인재를 뽑겠다는 뜻이다.
+  - key: '[주-D002] 남쪽을 …… 붕새 : '
+    value: 붕새[大朋]는 한 번 날면 9만 리를 날아서 북극에서 남극을 단숨에 난다고 한다. 누가 붕새와 같은 큰 인재냐 하는 의미의 말이다.
+english:
+  title: Dawn in the Examination Hall
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The examination hall lies deep in night that refuses to break.
+    Scholars of the Jade Chamber—all of them heroes and sages.
+    Within the courtyard, like an ocean, red candles burn bright,
+    Beyond the gate, like clouds, white robes stand in rows.
+
+    Who among the steeds of the north shows such excellence?
+    The great Peng bird of the south already rises in mighty flight.
+    Heaven grants me authority over the sacred laurel groves—
+    So I tell these young scholars: strive to reach the heights.
+  footnotes:
+  - key: ''
+    value: The 'steeds of the north' (驊騮) refers to exceptional horses from ancient China. The examiner, like the legendary horse-judge Bo Le, seeks out the finest talents.
+  - key: ''
+    value: The 'great Peng bird' (大朋) is a mythical creature from Daoist texts that soars 90,000 leagues in a single flight, symbolizing those of boundless potential and ambition.

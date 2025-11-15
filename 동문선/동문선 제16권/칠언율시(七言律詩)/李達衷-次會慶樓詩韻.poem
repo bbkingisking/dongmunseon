@@ -1,0 +1,46 @@
+canonical:
+  title: 次會慶樓詩韻
+  author: 李達衷
+  language: lzh
+  text: 古今多少帝王州合復爲離散復收天意由來歸有德地靈安用剩包羞興輪寺近鍾聲殷斷石山高劒氣浮題柱相如非敢効可云舒嘯仲宣樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次會慶樓詩韻
+  author: 李達衷
+  language: lzh
+  text: 古今多少帝王州。合復爲離散復收。天意由來歸有德。地靈安用剩包羞。興輪寺近鍾聲殷。斷石山高劒氣浮。題柱相如非敢効。可云舒嘯仲宣樓。
+korean:
+  title: 차 회경루 시운
+  author: 이달충
+  language: kor
+  text: |-
+    고금 제왕의 서울이 몇이런가
+    합하였단 갈리고 흩어졌단 수습됐네
+    하늘의 뜻이 워낙 덕 있는 이에게 돌아가거니
+    땅의 신령이 어찌 그대로 부끄러움 참을 건가
+    가까운 흥륜사에 종소리가 은은하고
+    높직한 단석산은 검기가 떠오르네
+    기둥에 쓴 상여를 어찌 감히 못받으랴만
+    중선이 다락에 올라 회포 푼다고야 할소냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Matching the Rhymes of a Poem at the Huigyeong Pavilion
+  author: Lee Dal-chung
+  language: eng
+  text: |-
+    Through all the ages, how many capitals have risen and fallen?
+    What once united scattered, what once scattered gathered again.
+    Heaven's will forever turns toward those possessed of virtue—
+    why should the spirit of earth bear such shame in silence?
+
+    Near the Xinglun Temple, the bell's voice resonates deep,
+    while from steep Duanshi Mountain floats the gleam of ancient swords.
+    I dare not follow Sima Xiangru's inscription on the pillar,
+    yet can we not say that Zhong Xuan ascends the tower to ease his heart?
+  footnotes:
+  - key: ''
+    value: Sima Xiangru was a Han dynasty poet famous for his literary inscriptions; the reference suggests ambitious literary pretensions
+  - key: ''
+    value: Zhong Xuan (中宣) may refer to a figure seeking solace or expressing emotion from an elevated vantage point, echoing the tower setting

@@ -1,0 +1,48 @@
+canonical:
+  title: 朝送路上寄諸友
+  author: 權適
+  language: lzh
+  text: 別離眞細事此別意難窮客路波濤外家鄕夢寐中出門纔暑雨倚棹已秋風他日江湖興扁舟復欲東
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 朝送路上寄諸友
+  author: 權適
+  language: lzh
+  text: 別離眞細事。此別意難窮。客路波濤外。家鄕夢寐中。出門纔暑雨。倚棹已秋風。他日江湖興。扁舟復欲東。
+korean:
+  title: 송나라로 조공가는 도중에 여러 벗들에게
+  author: 권적
+  language: kor
+  text: |-
+    이별쯤이야 진실로 작은 일이지만
+    이 이별은 뜻이 그지없네
+    나그네 길은 물 저쪽
+    고향 소식은 꿈속에나
+    문을 날 제 한창 더위에 비가 오더니
+    돛대에 기대니 벌써 가을바람
+    후일 강호의 흥으로
+    조각배 다시금 동으로 오려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0190&viewSync=OT
+  footnotes: []
+english:
+  title: 'Farewell on the Road to the Court at Song: A Letter to Friends'
+  author: Gwon Jeok
+  language: eng
+  text: |-
+    Parting seems a trivial thing, yet true—
+    but this farewell cuts deeper than words can reach.
+    The traveler's path lies beyond the waters,
+    home and its news drift only through dreams.
+
+    I leave in summer's downpour,
+    but lean against the oar to find autumn's wind already there.
+    One day, when I drift again through rivers and lakes,
+    my small boat will turn eastward once more.
+  footnotes:
+  - key: ''
+    value: The poem appears to be written as Gwon Jeok embarks on an official journey (likely to Song as the Korean title suggests), sending final words to his companions who remain behind.
+  - key: ''
+    value: The contrast between the physical journey outward (away from home) and the psychological journey inward (through dreams) reflects the emotional distance created by separation.
+  - key: ''
+    value: The seasonal shift from summer rain to autumn wind within a single departure suggests both the passage of time and the speaker's shifting emotional states.

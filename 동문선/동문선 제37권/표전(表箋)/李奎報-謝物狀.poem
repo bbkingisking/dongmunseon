@@ -1,0 +1,29 @@
+canonical:
+  title: 謝物狀
+  author: 李奎報
+  language: lzh
+  text: 湯沐䟽封旣加禮冊篚筐實幣繼錫珍頒前件物等內府奇賝殊方名産物維多矣累鈞石以難量受言藏之固緘縢而永秘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝物狀
+  author: 李奎報
+  language: lzh
+  text: 湯沐䟽封。旣加禮冊。篚筐實幣。繼錫珍頒。前件物等。內府奇賝。殊方名産。物維多矣。累鈞石以難量。受言藏之。固緘縢而永秘。
+korean:
+  title: 사물장
+  author: 이규보
+  language: kor
+  text: 탕목(湯沐)으로 봉해 주심에 이미 책봉을 내리시고, 계속하여 광우리에 폐백을 채워 진기한 물품을 내리시니, 내부(內府)의 기이한 보물이요, 다른 지방의 명산(名産)물이옵니다. 물품이 많아서 저울로 헤아리기 어렵고, 받아서 간직하옴에 잠그고 봉하여 길이 보존하오리다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 탕목(湯沐) : '
+    value: 그 고을의 수입을 받아서 자기를 목욕하고 몸치레하는 비용에 쓴다는 뜻이다.
+english:
+  title: Letter of Thanks for Gifts
+  author: Lee Kyubo
+  language: eng
+  text: You have granted me the fief of Tangmok and bestowed upon me the honor of noble rank. With lavish gifts overflowing from coffers and baskets, you have continued to present treasures from the imperial treasury—rare and wondrous things, and precious goods from distant lands. Such abundance of riches that scales cannot measure their weight. Yet I receive them with reverence, securing them behind seal and lock, to preserve them forever.
+  footnotes:
+  - key: ''
+    value: Tangmok (湯沐) refers to a fief whose revenues are designated for the recipient's personal expenses and upkeep.

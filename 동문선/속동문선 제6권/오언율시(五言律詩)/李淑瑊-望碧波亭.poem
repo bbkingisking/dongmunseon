@@ -1,0 +1,45 @@
+canonical:
+  title: 望碧波亭
+  author: 李淑瑊
+  language: lzh
+  text: 碧波亭好在白首客重來古渡淡烟合層崖亂石堆路分珍島郡潮接覇家臺壁上曾題句如今定剝苔
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 望碧波亭
+  author: 李淑瑊
+  language: lzh
+  text: 碧波亭好在。白首客重來。古渡淡烟合。層崖亂石堆。路分珍島郡。潮接覇家臺。壁上曾題句。如今定剝苔。
+korean:
+  title: 망 벽파정
+  author: 이숙감
+  language: kor
+  text: |-
+    벽파정아 잘 있었느냐
+    흰 머리의 손이 다시 왔노라
+    옛 나루터에는 맑은 연기 합했고
+    층층 벼랑에는 어지러운 돌 쌓여 있네
+    길은 진도군으로 갈라지는데
+    조수는 패가대에 닿아 있구나
+    벽 위에 일찍이 적어 둔 글귀
+    지금은 벗겨졌거나 이끼 꼈으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 패가대(覇家臺) : '
+    value: 일본 하까다[博多]라는 땅인데, 그것이 패가대와 음이 근사하고 또 그 땅에는 그 시대에 그 땅의 총독이 있던 곳이므로 우리나라 사람들이 그렇게 불렀던 것이다.
+english:
+  title: Pavilion of Jade Waves
+  author: Lee Suk-gam
+  language: eng
+  text: |-
+    Pavilion of Jade Waves, how have you endured?
+    This white-haired wanderer returns once more.
+    At the ancient ferry, pale mists gather and blend,
+    On tiered cliffs, tumbled stones pile high.
+    The path divides toward Jindo's distant shore,
+    While tides embrace the Hakata governor's seat.
+    Upon your walls, verses once were inscribed—
+    Now worn away, or clothed in moss and time.
+  footnotes:
+  - key: ''
+    value: The 'Hakata governor's seat' (覇家臺) refers to Hakata, an important harbor in Japan, which Korean scholars of the period called by this phonetically similar name, as it was the seat of regional authority in that era.

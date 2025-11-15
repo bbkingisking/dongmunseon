@@ -1,0 +1,51 @@
+canonical:
+  title: 郊居呈知己
+  author: 崔匡裕
+  language: lzh
+  text: 車馬何人肯蹔勞滿庭寒竹靜蕭騷林含落照溪光遠簾捲殘秋岳色高仙桂未期攀兔窟鄕書無計過鯨濤生成仲虺裁商誥莫使非珍似旅獒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 郊居呈知己
+  author: 崔匡裕
+  language: lzh
+  text: 車馬何人肯蹔勞。滿庭寒竹靜蕭騷。林含落照溪光遠。簾捲殘秋岳色高。仙桂未期攀兔窟。鄕書無計過鯨濤。生成仲虺裁商誥。莫使非珍似旅獒。
+korean:
+  title: 교거 정 지기
+  author: 최광유
+  language: kor
+  text: |-
+    거마 탄 어느 누가 잠깐 와서 날 찾으리
+    뜰에 가득찬 대만 우수수 고요할 뿐
+    지는 해 숲에 걸려 시냇물은 멀어 뵈고
+    늦가을에 발을 걷어 산은 더욱 우뚝해라
+    옥토끼 사는 곳에 계수를 언제 꺾어
+    고향 편지는 건넬 길 없네 고래 날치는 물결 위를
+    중훼처럼 상 나라 고를 짓고
+    진물 아닌 여 땅의 개처럼 되지 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중훼(仲虺) : '
+    value: 《상서(商書)》에 중훼지고(仲虺之誥)란 편(篇)이 있으나 인용한 이유는 미상(未詳)이다.
+  - key: '[주-D002] 여(旅) 땅의 개[獒] : '
+    value: 주(周)나라 때에, “서방의 여(旅) 땅에서 개[獒]를 바치니 태보(太保)소공(召公)이 경계하는 말을 아뢰었다. 이국산(異國産) 큰 개를 무슨 진물로 여길 것이 아니다.”고 말하였다.
+english:
+  title: 'Living in the Countryside: A Letter to a Kindred Spirit'
+  author: Choi Kwang-yu
+  language: eng
+  text: |-
+    What traveler would deign to visit this remote place?
+    Only the cold bamboo fills the courtyard, hushed and desolate.
+    The setting sun catches in the forest; the stream seems distant.
+    I draw back the curtain on late autumn; the mountains loom higher still.
+    When shall I pluck the cinnamon near the Moon Hare's dwelling?
+    No path sends letters home across the whale-dark waves.
+    Like Zhong Hui composing the Mandate of Heaven,
+    Let me not become a foreign mastiff mistaken for treasure.
+  footnotes:
+  - key: ''
+    value: The 'Moon Hare's dwelling' refers to the moon, where in East Asian tradition a rabbit dwells among cinnamon trees—a classical image for spiritual attainment or reunion with loved ones.
+  - key: ''
+    value: The reference to Zhong Hui alludes to the composition of wise counsel and moral instruction, suggesting the speaker aspires to virtue rather than mere material worth.
+  - key: ''
+    value: The 'foreign mastiff' echoes a historical warning against valuing exotic imports over native virtue—a subtle plea not to be judged superficially by outward appearance.

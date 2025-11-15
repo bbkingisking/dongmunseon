@@ -1,0 +1,48 @@
+canonical:
+  title: 三月十四日約虛庵遊江上吟贈
+  author: 成重淹
+  language: lzh
+  text: 春滿江村路期君訪釣磯早潮痕石岸微雨濕人衣共得閑中興相忘世上機東風吹醉面還向壠頭歸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 三月十四日約虛庵遊江上吟贈
+  author: 成重淹
+  language: lzh
+  text: 春滿江村路。期君訪釣磯。早潮痕石岸。微雨濕人衣。共得閑中興。相忘世上機。東風吹醉面。還向壠頭歸。
+korean:
+  title: 3월 14일 약 허암 유 강상 음증
+  author: 성중엄
+  language: kor
+  text: |-
+    강 마을 길에 봄은 가득 찼는데
+    그대와 약속하고 낚시터를 찾았다
+    이른 조수 돌 언덕에 흔적 남기고
+    보슬비는 사람의 옷을 적신다
+    그대와 함께 한가한 흥 얻었나니
+    세상의 묘한 술법 서로 잊었다
+    동쪽 바람이 취한 얼굴 불어 주네
+    다시 언덕 위로 향해 돌아가노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0760&viewSync=OT
+  footnotes: []
+english:
+  title: On the Fourteenth Day of the Third Month, an Appointment with Heo-am to Roam the River—a Poem as a Gift
+  author: Sung Joong-eom
+  language: eng
+  text: |-
+    Spring floods the village paths along the river.
+    I keep my promise to seek you at the fishing shore.
+    The early tide leaves its mark upon the rocky bank,
+    while gentle rain dampens the traveler's clothes.
+
+    Together we find leisure's joy,
+    forgetting the world's cunning ways.
+    The east wind brushes against my wine-flushed face—
+    and I turn back toward the ridge to go home.
+  footnotes:
+  - key: ''
+    value: Heo-am (許庵) is the recipient of this poem, likely a respected friend or fellow poet.
+  - key: ''
+    value: The fishing shore (釣磯) represents a place of retreat and contemplation, common in East Asian poetry as a refuge from worldly concerns.
+  - key: ''
+    value: The reference to 'forgetting the world's cunning ways' reflects the Daoist and literati ideal of transcending social conventions through friendship and nature.

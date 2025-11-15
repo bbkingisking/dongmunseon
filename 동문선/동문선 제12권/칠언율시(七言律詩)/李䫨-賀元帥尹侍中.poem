@@ -1,0 +1,48 @@
+canonical:
+  title: 賀元帥尹侍中
+  author: 李䫨
+  language: lzh
+  text: 臨軒授鉞命東征一擧腥膻盡掃淸漢塞已空無古月秦人何苦築新城滿庭諫切眞長策拓地功高是大名從諫擧功誰最急吾君聖制兩分明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀元帥尹侍中
+  author: 李䫨
+  language: lzh
+  text: 臨軒授鉞命東征。一擧腥膻盡掃淸。漢塞已空無古月。秦人何苦築新城。滿庭諫切眞長策。拓地功高是大名。從諫擧功誰最急。吾君聖制兩分明。
+korean:
+  title: 하 원수 윤시중
+  author: 이오
+  language: kor
+  text: |-
+    임금 손수 도끼 주시며 동정을 명하시니
+    한 거름에 되놈의 비린내ㆍ누린내를 말끔히 씻었네
+    한나라 변새는 이미 비어 고월(호(胡 오랑캐)의 파자(坡字)) 없고
+    진나라 사람은 왜 괴롭게 새 성을 쌓았던고
+    뜰 앞에 아뢴 충성된 간언이 좋은 계책 아니었던가
+    땅을 개척한 공이 높아 큰 이름일세
+    간을 좇음과 공을 표함이 가장 급무인데
+    임금님 거룩한 정사는 둘 다 분명하시네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 임금 손수 도끼[鉞] 주시며 : '
+    value: 대장(大將)을 출정(出征)시킬 때에 임금이 도끼를 주는데, 그것은 생살(生殺)의 전권(全權)을 맡긴다는 뜻이다.
+english:
+  title: Congratulations to General Yun, Minister of Attendance
+  author: Lee O
+  language: eng
+  text: |-
+    From the palace throne, the sovereign grants the battle-axe—
+    commanding the eastern campaign.
+    In one sweep, the stench of barbarian hordes is cleansed away.
+    The Han frontier stands emptied; no ghost of ancient moons remains.
+    Why did the Qin people toil to build new walls?
+    The loyal counsel whispered in court—was it not wise strategy?
+    With territory conquered, great deeds achieved, your name grows vast.
+    To heed remonstrance and reward merit—which is most urgent?
+    Yet the sovereign's sacred governance shines equally clear in both.
+  footnotes:
+  - key: ''
+    value: The granting of the battle-axe symbolizes the conferral of absolute military authority—power over life and death itself.
+  - key: ''
+    value: The references to Han frontiers and Qin walls evoke the historical struggles against northern invaders, suggesting this campaign continues that ancient legacy.

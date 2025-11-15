@@ -1,0 +1,41 @@
+canonical:
+  title: 大興寺
+  author: 金富軾
+  language: lzh
+  text: 俗客夢已斷子規啼尙咽世無公冶長誰知心所結
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大興寺
+  author: 金富軾
+  language: lzh
+  text: 俗客夢已斷。子規啼尙咽。世無公冶長。誰知心所結。
+korean:
+  title: 대흥사
+  author: 김부식
+  language: kor
+  text: |-
+    속객의 꿈은 이미 끊어졌는데
+    자규는 아직도 흐느껴 운다
+    세상에 다시 공야장(公冶長) 없으니
+    마음속에 맺힌 것을 그 누가 아노
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 공야장(公冶長) : '
+    value: 공자의 사위. 그는 새의 말[鳥語]을 잘 알아들은 것으로 알려져 있다.
+  - key: '[주-D002] 마음속에 맺힌 것 : '
+    value: 옛날 촉(蜀)나라에 두우(杜宇)라는 왕이 있었는데, 뒤에 왕위(王位)를 신하에게 빼앗기고 그의 혼(魂)이 자규(子規)가 되어 타향(他鄕)에 나와서 울기를, “촉도로 돌아가자, 돌아감만 못하다 [歸蜀道 不如歸].”라고 부르짖는다 한다.
+english:
+  title: At the Daeheung Temple
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The worldly traveler's dream has already broken.
+    Still the cuckoo weeps with a choked cry.
+    In this world, there is no Gongye Zhang anymore—
+    Who then can understand the sorrow knotted in my heart?
+  footnotes:
+  - key: ''
+    value: Gongye Zhang was the son-in-law of Confucius, renowned for his ability to understand the language of birds. The poem's reference to him suggests the poet's longing for someone who could interpret hidden meanings and unspoken truths.
+  - key: ''
+    value: The cuckoo (子規) in Chinese poetry symbolizes longing and exile. According to legend, the spirit of a deposed king of Shu became a cuckoo, forever crying 'Return to Shu! Return to Shu!'—a cry of perpetual homesickness that can never be fulfilled.

@@ -1,0 +1,37 @@
+canonical:
+  title: 智異山
+  author: 金敦中
+  language: lzh
+  text: 躋攀直上最高峯回首塵寰十片紅徙倚煙霞得幽趣風流不愧晉羊公
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 智異山
+  author: 金敦中
+  language: lzh
+  text: 躋攀直上最高峯。回首塵寰十片紅。徙倚煙霞得幽趣。風流不愧晉羊公。
+korean:
+  title: 지리산
+  author: 김돈중
+  language: kor
+  text: |-
+    더위잡고 치달려 최고봉에 올라
+    머리 돌리니 티끌 세상 십편홍일세
+    연하에 기대니 그윽한 운치
+    풍류는 진양공(晉羊公)에 부끄럽잖네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진양공(晉羊公) : '
+    value: 진(晉)나라 양호(羊祜)가 형주(荊州)의 자사로 있을 때, 가벼운 갖옷 느슨한 띠[輕裘緩帶]로 현산(峴山)에서 놀았다.
+english:
+  title: Jirisan
+  author: Kim Don-jung
+  language: eng
+  text: |-
+    Grasping and climbing straight up to the highest peak,
+    I turn my head—the dusty world glows with ten shades of red.
+    Leaning into mist and clouds, I find the subtle joy,
+    My refined spirit yields not to the immortal taste of ages past.
+  footnotes:
+  - key: ''
+    value: Jirisan is one of Korea's most sacred mountains, located in South Gyeongsang and North Jeolla provinces. The 'ten shades of red' likely refers to the autumnal landscape viewed from the summit. The final line references Yang Hu (羊祜) of the Jin Dynasty, a celebrated figure known for his refined sensibilities and leisure in nature—here invoked as a measure of the speaker's own cultivation and poetic spirit.

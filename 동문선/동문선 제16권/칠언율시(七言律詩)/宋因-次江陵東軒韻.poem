@@ -1,0 +1,48 @@
+canonical:
+  title: 次江陵東軒韻
+  author: 宋因
+  language: lzh
+  text: 客程容易送餘年臘盡江城雪滿天歸夢共雲常過嶺宦愁如海不知邊濤聲動地來喧枕蜃氣浮空望似煙鏡浦臺空茶竈冷更於何處擬逢仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次江陵東軒韻
+  author: 宋因
+  language: lzh
+  text: 客程容易送餘年。臘盡江城雪滿天。歸夢共雲常過嶺。宦愁如海不知邊。濤聲動地來喧枕。蜃氣浮空望似煙。鏡浦臺空茶竈冷。更於何處擬逢仙。
+korean:
+  title: 차 강릉동헌운
+  author: 송인
+  language: kor
+  text: |-
+    나그네로 다니는 길 해도 쉬 저무누나
+    섣달도 다 가는 강성에 눈은 펑펑 쏟아지고
+    돌아갈 꿈은 구름 함께 영을 지나가고
+    벼슬 시름은 바다 같아 끝간 데를 모르겠네
+    땅을 흔드는 물결 소리는 베갯머리에 시끄럽고
+    공중에 뜬 신기루는 바라보니 연기처럼
+    경포대도 텅 비고 차 달이던 부뚜막 싸늘하니
+    이제 다시 옛날 선랑을 어디 가서 찾을꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0470&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경포대(鏡浦臺)도 …… 부뚜막[茶竈] : '
+    value: 경포대 부근에 신선[실은 신라 화랑]들이 차를 달이던 아궁이가 있었다는 전설.
+english:
+  title: Following the Rhyme of the Eastern Pavilion at Gangneung
+  author: Song In
+  language: eng
+  text: |-
+    The traveler's path speeds toward year's end with ease,
+    As winter fades, snow falls thick on the river town.
+    My dreams of return drift with clouds beyond the peaks,
+    While official worries stretch like the boundless sea.
+
+    The roar of waves shakes the earth and troubles my pillow,
+    Mirage vapors rise and hover like distant smoke.
+    The Mirror Lake pavilion stands empty now,
+    Its tea-fire grown cold—where shall I find the immortals again?
+  footnotes:
+  - key: ''
+    value: Mirror Lake pavilion was associated with a legend of immortals (or historically, Silla warriors) who once brewed tea there
+  - key: ''
+    value: The poem plays with the classical theme of seeking immortals and spiritual transcendence while trapped in worldly service

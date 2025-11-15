@@ -1,0 +1,52 @@
+canonical:
+  title: 夜泊金陵
+  author: 趙浚
+  language: lzh
+  text: 蘭舟綠水晚荷紅夜泊金陵一夜風老柳長堤楊子渡寒花細草舘娃宮百年榮辱人將老六代興亡鳥沒空天下莫強仁可結鍾山隱隱月朦朧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜泊金陵
+  author: 趙浚
+  language: lzh
+  text: 蘭舟綠水晚荷紅。夜泊金陵一夜風。老柳長堤楊子渡。寒花細草舘娃宮。百年榮辱人將老。六代興亡鳥沒空。天下莫強仁可結。鍾山隱隱月朦朧。
+korean:
+  title: 야박 금릉
+  author: 조준
+  language: kor
+  text: |-
+    목난주를 댄 푸른 물에 철 늦은 붉은 연꽃
+    금릉 밤 바람에 하룻밤을 묵어가네
+    늙은 버들 긴 뚝은 양자강 나루터
+    시들은 꽃 가는 풀은 관왜의 옛 궁
+    백 년의 영욕으로 사람 장차 늙는구나
+    6대의 흥망은 새가 공중으로 사라지 듯
+    천하의 제일 강한 것은 오직 인일 뿐
+    종산(자금산)이 은은하고 달은 어른어른
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 관왜(館娃) : '
+    value: 궁(宮) 이름. 오왕(吳王) 부차(夫差)가 서시(西施)를 총애하여 거처하게 했던 궁.
+  - key: '[주-D002] 6대의 흥망(興亡) : '
+    value: 지금의 남경인. 금릉(金陵)은 오(吳)ㆍ동진(東晉)ㆍ송(宋)ㆍ제(齊)ㆍ양(梁)ㆍ진(陳) 여섯 조(朝)가 도읍했던 곳이다.
+english:
+  title: Night Mooring at Jinling
+  author: Zhao Jun
+  language: eng
+  text: |-
+    The orchid boat glides through green waters as late autumn reddens the lotus.
+    Moored at Jinling through the night, the wind whispers its solitary song.
+    Old willows line the long embankment at the Yangzi crossing,
+    While withered flowers and fading grasses mark the Palace of Guan'e.
+
+    A hundred years of glory and shame—mankind grows old beneath their weight.
+    Six dynasties rose and fell, their fates scattered like birds into the empty sky.
+    All the world's strength cannot compare to the power of benevolence alone.
+    Zhong Mountain lies silent and misty as the moon hovers, dim and distant.
+  footnotes:
+  - key: ''
+    value: 'Guan''e Palace: Built by Wu Wang (King of Wu) during the Spring and Autumn period, where the legendary beauty Xi Shi was kept. Its ruins evoke the transience of power and beauty.'
+  - key: ''
+    value: 'Six dynasties: Jinling (modern-day Nanjing) served as capital for six successive dynasties—Wu, Eastern Jin, Song, Qi, Liang, and Chen—each rising and falling in turn.'
+  - key: ''
+    value: 'Zhong Mountain: Another name for Zijin Mountain, sacred geography of Nanjing and emblem of the city''s enduring presence amid historical change.'

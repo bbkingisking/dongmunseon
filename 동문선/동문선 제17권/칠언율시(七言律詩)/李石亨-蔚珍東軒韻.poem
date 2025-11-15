@@ -1,0 +1,52 @@
+canonical:
+  title: 蔚珍東軒韻
+  author: 李石亨
+  language: lzh
+  text: 高城越絶鎭邊陲直壓滄溟勢最奇逐浪雄風吹海倒干霄老木倚雲垂思鄕肯作登樓賦把酒聊吟問月詩邂逅相逢盡萍水欲忙歸去去還遅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蔚珍東軒韻
+  author: 李石亨
+  language: lzh
+  text: 高城越絶鎭邊陲。直壓滄溟勢最奇。逐浪雄風吹海倒。干霄老木倚雲垂。思鄕肯作登樓賦。把酒聊吟問月詩。邂逅相逢盡萍水。欲忙歸去去還遅。
+korean:
+  title: 울진 동헌운
+  author: 이석형
+  language: kor
+  text: |-
+    높은 성이 우뚝 변경에 버티고 서서
+    창해를 누르나니 형세가 기이하구나
+    물결 쫓는 웅장한 바람은 바다를 뒤엎을 듯
+    하늘 찌르는 늙은 나무 구름에 기대어 늘어졌네
+    고향 생각하나 등루부(왕찬(王粲)의 부)를 왜 지으랴
+    술잔을 들고 문월시나 읊어보네
+    뜻밖에 만나니 평수 같은 신세들
+    바쁘게 돌아가려나 가기가 도리어 더디네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0970&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 술잔을 들고 문월시(問月詩) : '
+    value: 이백(李白)의 시로, 술잔을 잡고 달에게 묻는다는 시가 있다.
+  - key: '[주-D002] 평수(萍水) : '
+    value: 물에 뜬 부평초처럼 정처없이 떠다니는 신세.
+english:
+  title: Rhyme on the Eastern Pavilion of Uljin
+  author: Lee Seok-hyung
+  language: eng
+  text: |-
+    A towering fortress stands firm against the borderlands,
+    Pressing down upon the vast sea with a force most strange.
+    The fierce wind chasing the waves seems to overturn the ocean,
+    While ancient trees that pierce the sky lean upon the clouds and droop.
+
+    Thinking of home, why compose a mournful ode to homesickness?
+    Instead I lift my cup and hum verses questioning the moon.
+    We meet by chance, like duckweed drifting upon the water—
+    Yet when I yearn to return, the journey itself delays.
+  footnotes:
+  - key: ''
+    value: The 'ode to homesickness' (登樓賦) refers to Wang Can's classical lament, a meditation on exile and longing for one's homeland.
+  - key: ''
+    value: '''Questioning the moon'' alludes to Li Bai''s famous poem where he addresses the moon with wine cup in hand, blending wine-drinking with philosophical inquiry.'
+  - key: ''
+    value: '''Like duckweed upon the water'' is a metaphor for rootless, wandering lives—two souls meeting briefly before drifting apart again.'

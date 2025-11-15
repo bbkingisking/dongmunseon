@@ -1,0 +1,37 @@
+canonical:
+  title: 寄息影菴禪老
+  author: 李嵓
+  language: lzh
+  text: 浮世虛名是政丞小窓閑味卽山僧箇中亦有風流處一朶梅花照佛燈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄息影菴禪老
+  author: 李嵓
+  language: lzh
+  text: 浮世虛名是政丞。小窓閑味卽山僧。箇中亦有風流處。一朶梅花照佛燈。
+korean:
+  title: 기식영암선로
+  author: 이암
+  language: kor
+  text: |-
+    뜬 세상 헛이름은 바로 정승이요
+    작은 창의 한가한 맛은 그저 산승일세
+    그 중에도 또한 풍류로운 곳이 있나니
+    한 송이 매화꽃이 부처등에 비치었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0170&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to the Venerable Hermit of Repose Shadow Hermitage
+  author: Lee Am
+  language: eng
+  text: |-
+    In this fleeting world, empty fame belongs to the prime minister,
+    While the quiet taste of a small window is the mountain monk's alone.
+    Yet within this humble dwelling, there is elegance too—
+    A single plum blossom reflected in the Buddha's lamp.
+  footnotes:
+  - key: ''
+    value: '息影 (repose shadow): A classical allusion to withdrawal from public life and worldly affairs'
+  - key: ''
+    value: The poem contrasts the illusory glitter of high political office with the genuine spiritual refinement found in monastic simplicity

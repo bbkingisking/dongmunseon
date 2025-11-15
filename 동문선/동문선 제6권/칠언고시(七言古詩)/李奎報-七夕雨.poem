@@ -1,0 +1,70 @@
+canonical:
+  title: 七夕雨
+  author: 李奎報
+  language: lzh
+  text: 銀河杳杳碧天外天上神仙今夕會龍梭聲斷夜機空烏鵲橋邊促飛蓋相逢才說別離苦還噵明朝又難駐雙行玉淚洒如泉一陣金風吹作雨廣寒仙女練帨涼獨宿婆娑桂影傍妬他靈匹一宵歡深閉蟾宮不放光赤龍下濕滑難騎靑鳥低霑凝不飛天方向曉訖可霽恐染天孫雲錦衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 七夕雨
+  author: 李奎報
+  language: lzh
+  text: 銀河杳杳碧天外。天上神仙今夕會。龍梭聲斷夜機空。烏鵲橋邊促飛蓋。相逢才說別離苦。還噵明朝又難駐。雙行玉淚洒如泉。一陣金風吹作雨。廣寒仙女練帨涼。獨宿婆娑桂影傍。妬他靈匹一宵歡。深閉蟾宮不放光。赤龍下濕滑難騎。靑鳥低霑凝不飛。天方向曉訖可霽。恐染天孫雲錦衣。
+korean:
+  title: 칠석우
+  author: 이규보
+  language: kor
+  text: |-
+    푸른 하늘 밖에 은하가 아득한데
+    하늘나라 신선들이 오늘 밤에 모인다
+    용북 소리 끊어지매 밤 베틀이 비었고
+    오작교가로 수레 빨리 가자고 재촉하네
+    서로 만나 이야기하세 이별하기 괴로워
+    내일 아침에 머물기 어려움을 도리어 걱정하네
+    두 줄기 옥 같은 눈물을 샘물처럼 뿌리니
+    한바탕 가을 바람 일어 이내 비를 만든다
+    광한전의 선녀는 비단 수건이 서늘한데
+    쓸쓸한 계수 그림자 곁에 홀로 자나니
+    남의 신령스러운 배필 하룻밤 즐거움을 시기하여
+    두꺼비 집을 굳게 닫고 빛을 놓지 않는다
+    붉은 용이 내려오나 미끄러워 타기 어렵고
+    푸른 새는 날개 젖어 날지 못하네
+    하늘은 바야흐로 밝아와 새벽이 되려는데
+    천손(직녀(織女))의 구름 비단옷이 물들까 두려워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 광한전(廣寒殿)의 …… 않는다 : '
+    value: 달을 옥두꺼비[玉蟾]이라 하며, 월궁(月宮)을 광한전(廣寒殿)이라 하는데 항아(姮娥)가 거처하는 곳이다. 그녀는 본시 예(羿)의 아내인데 예(羿)가 구해둔 불사약(不死藥)을 훔쳐 먹고 월궁에 도망가서 혼자 살았다.
+  - key: '[주-D002] 붉은 용이 …… 못하네 : '
+    value: 신선이 적용(赤龍)을 타고, 청조(靑鳥)는 선녀(仙女)의 소식을 전한다.
+english:
+  title: Rain on the Seventh Night
+  author: Lee Gyeou-bo
+  language: eng
+  text: |-
+    Beyond the azure sky, the Milky Way stretches dim and far,
+    While heavenly immortals gather on this single night of stars.
+    The dragon's loom falls silent, the night-weaver's frame stands bare,
+    The magpie bridge urges haste—make speed through starlit air.
+
+    They meet and speak of parting's pain, of longing unconfessed,
+    Yet fear tomorrow's light will come and grant them no more rest.
+    Twin streams of jade-like tears flow down like springs in flood,
+    And autumn wind sweeps through them all, transforming tears to mud.
+
+    The moon-goddess in her hall keeps her silk scarves cool and dry,
+    While lonely by the cassia's shade, she sleeps beneath the sky.
+    She envies them their fleeting night, one hour's gentle grace,
+    So locks her jade toad palace tight, and hides the moon's bright face.
+
+    The red dragon descends to help, but slips upon the way,
+    The blue bird spreads her dampened wings and cannot fly today.
+    But heaven's face grows pale with dawn—the twilight creeps in near,
+    And we fear lest the weaver's cloud-brocade be soaked with tears.
+  footnotes:
+  - key: ''
+    value: 'The Milky Way lovers: the Weaver Maiden and Cowherd, who meet once yearly on the seventh day of the seventh month in Chinese folklore.'
+  - key: ''
+    value: The moon-goddess (Chang'e) dwells in the palace of Guanghan, having fled there after consuming the elixir of immortality.
+  - key: ''
+    value: The red dragon and blue bird are celestial steeds and messengers of the immortals.

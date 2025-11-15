@@ -1,0 +1,43 @@
+canonical:
+  title: 記安國寺松亭看雨
+  author: 李穡
+  language: lzh
+  text: 小雨仍村笛斜陽又寺鍾山遙多醞籍水闊自舂容爽氣生明月寒聲起碧松至今心尙悸雷電逐飛龍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 記安國寺松亭看雨
+  author: 李穡
+  language: lzh
+  text: 小雨仍村笛。斜陽又寺鍾。山遙多醞籍。水闊自舂容。爽氣生明月。寒聲起碧松。至今心尙悸。雷電逐飛龍。
+korean:
+  title: 안국사 송정에서 비 오는 것을 바라보며
+  author: 이색
+  language: kor
+  text: |-
+    가랑비 속에 촌 피리소리 들려오고
+    사양에 또 절 종소리
+    산이 머니 자못 온자하고
+    물이 넓으매 스스로 조용하네
+    시원한 기운은 밝은 달에서 생기고
+    찬 소리는 푸른 소나무에서 일어나네
+    지금도 오히려 마음이 놀라움은
+    번개와 우레가 나는 용을 따르기 때문이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0270&viewSync=OT
+  footnotes: []
+english:
+  title: Watching Rain at the Pine Pavilion of Anguk Temple
+  author: Lee Saek
+  language: eng
+  text: |-
+    Through the fine rain, a village flute's melody drifts,
+    While the slanting sun catches the temple bell's toll.
+    The distant mountains hold their mysteries deep,
+    The broad waters settle into their own repose.
+    A crisp breeze stirs the brightness of the moon,
+    A cold sound rises from the green pines.
+    Yet still my heart trembles at this very moment—
+    For lightning and thunder chase the flying dragon.
+  footnotes:
+  - key: ''
+    value: The 'flying dragon' likely refers to the dragon associated with storms in East Asian tradition, suggesting the poet's lingering awareness of the tempest's power even as peace settles over the temple grounds.

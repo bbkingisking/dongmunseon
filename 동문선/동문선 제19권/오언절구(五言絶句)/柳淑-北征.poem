@@ -1,0 +1,39 @@
+canonical:
+  title: 北征
+  author: 柳淑
+  language: lzh
+  text: 朔雪關西路熊羆百萬兵將軍出塞曲已是大平聲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 北征
+  author: 柳淑
+  language: lzh
+  text: 朔雪關西路。熊羆百萬兵。將軍出塞曲。已是大平聲。
+korean:
+  title: 계묘년 겨울에 북정
+  author: 유숙
+  language: kor
+  text: |-
+    눈보라 치는 관서 길에
+    곰과 호랑이 같은 백만 병일세
+    장군의 출새하는 군악 소리
+    이것이 이미 태평의 소식일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: Northern Expedition
+  author: Yu Suk
+  language: eng
+  text: |-
+    Snowstorms sweep across the western passes,
+    A million soldiers fierce as bears and tigers.
+    The general's battle horns sound at the frontier—
+    Already this heralds the song of great peace.
+  footnotes:
+  - key: ''
+    value: The 'western passes' (關西) refer to the strategic mountain passes west of Chang'an, a traditional frontier region in Chinese geography and poetry.
+  - key: ''
+    value: Bears and tigers are classical metaphors for military strength and ferocity in East Asian poetry.
+  - key: ''
+    value: The 'song of great peace' (太平聲) suggests that military strength and vigilance at the borders ensure lasting peace and stability for the realm.

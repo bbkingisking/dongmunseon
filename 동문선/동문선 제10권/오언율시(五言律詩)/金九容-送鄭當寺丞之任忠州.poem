@@ -1,0 +1,50 @@
+canonical:
+  title: 送鄭當寺丞之任忠州
+  author: 金九容
+  language: lzh
+  text: 春風方駘蕩持節赴忠州芳草東門路垂楊古渡頭彈琴開古閣柱笏上高樓應過驪江去江邊繫釣舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送鄭當寺丞之任忠州
+  author: 金九容
+  language: lzh
+  text: 春風方駘蕩。持節赴忠州。芳草東門路。垂楊古渡頭。彈琴開古閣。柱笏上高樓。應過驪江去。江邊繫釣舟。
+korean:
+  title: 정당 시승을 충주 임소로 보내며
+  author: 김구용
+  language: kor
+  text: |-
+    봄바람이 바야흐로 화창한데
+    절을 가지고 충주로 부임하네
+    꽃다운 풀 동문길이요
+    수양버들 늘어진 옛 나루터일네
+    거문고를 타려 각을 열고
+    홀을 비스듬히 잡고 높은 다락에 오르리
+    응당 여강을 지나갈 터이니
+    강가에 낚싯배를 매게
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 절(節) : '
+    value: 지방에 안렴사(按廉使)를 내 보낼 때는 임금이 절(節)을 준다.
+  - key: '[주-D002] 거문고를 타려 : '
+    value: 공자의 제자 자천(子賤)이 선보(單父)에 재(宰 수령(守令))가 되어 한가로이 거문고를 타면서 백성을 잘 다스렸다.
+english:
+  title: Farewell to Jeong Dang, Inspector of Temples, Upon His Appointment to Chungju
+  author: Kim Gu-yong
+  language: eng
+  text: |-
+    The spring wind flows with gentle grace,
+    You depart with official seal to Chungju's place.
+    Fragrant grasses line the eastern gate,
+    Where weeping willows frame the ancient strait.
+
+    You'll tune the zither in the open hall,
+    Hold your emblem as you climb the tower tall.
+    When you cross the waters of the Lee,
+    May a fishing boat await you by the sea.
+  footnotes:
+  - key: ''
+    value: The 'seal' (節) was a symbol of imperial authority granted to provincial officials by the king.
+  - key: ''
+    value: The reference to playing the zither evokes the wisdom of Confucian virtue, particularly the example of Zixian, who governed benevolently through the cultivation of refinement and music.

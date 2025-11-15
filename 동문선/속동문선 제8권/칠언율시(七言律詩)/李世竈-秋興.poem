@@ -1,0 +1,48 @@
+canonical:
+  title: 秋興
+  author: 李世竈
+  language: lzh
+  text: 西風落日坐樓頭一笛聲高萬杵秋詩酒生涯兩鬢雪江湖文字十年愁山中有約堪投老海上忘機可狎鷗白首永懷芹曝志四年惆悵困炎州
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋興
+  author: 李世竈
+  language: lzh
+  text: 西風落日坐樓頭。一笛聲高萬杵秋。詩酒生涯兩鬢雪。江湖文字十年愁。山中有約堪投老。海上忘機可狎鷗。白首永懷芹曝志。四年惆悵困炎州。
+korean:
+  title: 추흥
+  author: 이세조
+  language: kor
+  text: |-
+    서쪽 바람 지는 해에 다락 위에 앉았노니
+    피리소리 높고 집집마다 다듬이 소리의 가을이다
+    시와 술의 생애에 두 살쩍은 희었는데
+    강호의 문자는 십 년의 시름이다
+    산중에 약속이 있거니 늙은 몸을 의지할 수 있고
+    바다 위에서 기심을 잊었거니 갈매기를 친할 만하다
+    흰 머리로 길이 근폭의 정성을 품었나니
+    네 해 동안 염주[남방 더운 곳]에서 고생함이 서글퍼라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 근폭(芹曝)의 …… 품었더니 : '
+    value: 《열자》에서 나온 말인데, “옛 사람이 미나리[芹]를 먹어 보고 맛이 좋다 하여 고을에 사는 부호(富豪)에게 바쳤더니, 부호가 먹어 보고 맛이 없다고 비웃었다.” 하였고, 또, “송나라의 농부가 추운 겨울에 햇볕이 몸을 쪼여서 따뜻함[曝]을 신기하게 여겨 그의 아내에게, ‘이 좋은 것을 아무도 모르니, 임금에게 바치면 반드시 중한 상(賞)을 받으리라.’ 말하였다.” 하였다. 여기서는 임금에게 정성스러운 말을 올리겠다는 뜻이다. 작자인 현손은 왕족(王族)으로 명양부정(鳴陽副正)에 봉한 사람으로 성을 쓰지 않고 이름만 썼다.
+english:
+  title: Autumn Stirrings
+  author: Lee Se-jo
+  language: eng
+  text: |-
+    The western wind carries the setting sun—I sit upon the tower,
+    A flute's cry rings high through ten thousand pestles pounding autumn.
+    In this life of poetry and wine, my temples have turned white with years,
+    While river and lake writings have brought me a decade of sorrow.
+
+    In the mountains there awaits a promise to lean upon in age,
+    And upon the sea, forgetting worldly schemes, I befriend the gulls.
+    With white hair, I cherish still the humble offering of my loyal heart,
+    Yet four years in this scorching land weigh heavy on my spirit.
+  footnotes:
+  - key: ''
+    value: The 'humble offering' alludes to a classical parable of simple gifts offered with pure intent—the poet maintains his integrity and devotion despite exile and hardship.
+  - key: ''
+    value: The scorching land (炎州) refers to the southern regions of China, suggesting the poet's displacement or exile.

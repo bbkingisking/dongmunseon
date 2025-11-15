@@ -1,0 +1,37 @@
+canonical:
+  title: 書天壽僧院壁
+  author: 李仁老
+  language: lzh
+  text: 待客客未到尋僧僧亦無唯餘林外鳥欵曲勸提壺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書天壽僧院壁
+  author: 李仁老
+  language: lzh
+  text: 待客客未到。尋僧僧亦無。唯餘林外鳥。欵曲勸提壺。
+korean:
+  title: 서 천수승원벽
+  author: 이인로
+  language: kor
+  text: |-
+    손을 기다리매 손이 오지 않고
+    중을 찾으니 중이 또한 없구나
+    오직 수풀 밖의 새만 남아서
+    관곡히 술 들기를 권하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 술 들기[提壺] : '
+    value: 새 이름이므로 술병을 이끌고 오라고 권한다는 뜻이다.
+english:
+  title: Written on the Wall of Cheonsu Monastery
+  author: Lee In-ro
+  language: eng
+  text: |-
+    I await guests, but guests do not come.
+    I seek monks, yet monks are nowhere to be found.
+    Only the birds beyond the grove remain—
+    They gently urge me to raise the wine cup.
+  footnotes:
+  - key: ''
+    value: 提壺 (tí-hú), literally 'raise the pot,' is a type of bird whose name became a playful reference to bringing wine. The speaker personifies the birds as gentle companions urging him to drink in the absence of human guests and monks.

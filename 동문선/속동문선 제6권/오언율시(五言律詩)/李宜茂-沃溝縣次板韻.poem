@@ -1,0 +1,47 @@
+canonical:
+  title: 沃溝縣次板韻
+  author: 李宜茂
+  language: lzh
+  text: 城上雲連海樓高灝氣淸登臨悲客子迂闊愧書生長醉緣多暇孤吟爲不平漁村看隱隱燈火夜來明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 沃溝縣次板韻
+  author: 李宜茂
+  language: lzh
+  text: 城上雲連海。樓高灝氣淸。登臨悲客子。迂闊愧書生。長醉緣多暇。孤吟爲不平。漁村看隱隱。燈火夜來明。
+korean:
+  title: 옥구현 차 판운
+  author: 이의무
+  language: kor
+  text: |-
+    성 위의 구름이 바다에 이었는데
+    다락이 높아 호기(넓고 맑은 기운)가 맑다
+    다락에 올라 나그네를 슬퍼하고
+    세상 일에 어두워 서생이 부끄럽다
+    항상 취하는 것은 여가 많기 때문이요
+    외로이 읊조림은 그 불평 때문이다
+    바라보면 고기잡이 마을은 은은한데
+    밤새껏 등불은 밝아 있으니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0650&viewSync=OT
+  footnotes: []
+english:
+  title: Crossing the Rhyme of 'Ok' at Oggu County
+  author: Lee Yi-moo
+  language: eng
+  text: |-
+    Upon the city walls, clouds stretch toward the sea,
+    The tower rises high, and clear the vast expanse of air.
+    Climbing these heights, I grieve for wanderers like myself,
+    Shamed by my ignorance, a scholar lost in worldly ways.
+    My constant drunkenness springs from abundant leisure,
+    My solitary songs flow from persistent discontent.
+    The fishing village below shimmers in the distance,
+    While lamplight through the night burns ever bright.
+  footnotes:
+  - key: ''
+    value: The title refers to a poem written in response to another work using the rhyme scheme associated with the character 'ok' (沃), a common practice in classical Korean and Chinese poetry circles.
+  - key: ''
+    value: '''Vast expanse of air'' (호기) conveys both the physical expansiveness of the atmosphere and a sense of spiritual or intellectual openness.'
+  - key: ''
+    value: The poem juxtaposes the speaker's melancholic introspection with the humble vitality of the fishing village, suggesting a tension between scholarly aspiration and lived reality.

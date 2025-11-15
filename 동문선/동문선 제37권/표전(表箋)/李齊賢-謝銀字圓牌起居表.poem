@@ -1,0 +1,29 @@
+canonical:
+  title: 謝銀字圓牌起居表
+  author: 李齊賢
+  language: lzh
+  text: 表東海以爲封曾叨寵命拱北辰之居所庶效忠誠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝銀字圓牌起居表
+  author: 李齊賢
+  language: lzh
+  text: 表東海以爲封。曾叨寵命。拱北辰之居所。庶效忠誠。
+korean:
+  title: 사 은자원패 기거 표
+  author: 이제현
+  language: kor
+  text: 동해(東海)를 경계로 하여 봉함을 받았으매 일찍이 은총을 받았사오니, 제자리에 있는 북신(北辰)을 쳐다 보며 충성을 바치오리다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0420&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial Presenting Silver Round Tablet and Seal
+  author: Lee Je-hyeon
+  language: eng
+  text: With the Eastern Sea as my domain's boundary, I have received this gracious appointment. In my humble station beneath the Northern Star, I pledge my unwavering loyalty.
+  footnotes:
+  - key: ''
+    value: The Eastern Sea (東海) refers to the eastern frontier of the Korean peninsula, likely indicating the author's provincial posting.
+  - key: ''
+    value: The Northern Star (北辰) is a traditional metaphor for the ruler, derived from Confucian imagery of the sage-king as the fixed pole around which all things revolve.

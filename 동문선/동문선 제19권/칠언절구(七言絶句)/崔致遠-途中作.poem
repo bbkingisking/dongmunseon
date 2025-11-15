@@ -1,0 +1,35 @@
+canonical:
+  title: 途中作
+  author: 崔致遠
+  language: lzh
+  text: 東飄西轉路歧塵獨策羸驂幾苦辛不是不知歸去好只緣歸去又家貧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 途中作
+  author: 崔致遠
+  language: lzh
+  text: 東飄西轉路歧塵。獨策羸驂幾苦辛。不是不知歸去好。只緣歸去又家貧。
+korean:
+  title: 도중작
+  author: 최치원
+  language: kor
+  text: |-
+    동서로 떠도는 몸 티끌길에
+    외로운 채찍 파리한 말, 얼마나 고생했노
+    돌아감이 좋은 줄을 모르는 게 아니지만
+    다만 돌아간댔자 집이 또 가난한 때문인 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0010&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road
+  author: Choe Chiwon
+  language: eng
+  text: |-
+    Drifting east and west, my body wanders through dusty paths.
+    Lone and weary, I urge my gaunt horse forward—how much suffering it bears.
+    It is not that I do not know returning home would be good;
+    Only that when I return, poverty awaits me still.
+  footnotes:
+  - key: ''
+    value: The poem reflects Choe Chiwon's life of exile and wandering, themes central to his poetry during periods of political disfavor in Unified Silla.

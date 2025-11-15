@@ -1,0 +1,48 @@
+canonical:
+  title: 次天壽寺韻二首
+  author: 金守溫
+  language: lzh
+  text: 頹垣破礎暗螢飛贏得都人指點歸却似千年遼鶴唳山川如舊昔人非春風處處百花飛擬向松都匹馬歸五百年間人物論迷君誤國定誰非
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次天壽寺韻二首
+  author: 金守溫
+  language: lzh
+  text: 頹垣破礎暗螢飛。贏得都人指點歸。却似千年遼鶴唳。山川如舊昔人非。春風處處百花飛。擬向松都匹馬歸。五百年間人物論。迷君誤國定誰非。
+korean:
+  title: 차 천수사 운 이수
+  author: 김수온
+  language: kor
+  text: |-
+    담은 무너지고 주춧돌은 부서졌고 어두운 반딧불이 나는데
+    남은 것은 서울 사람의 손가락으로 가리키며 돌아갈 뿐
+    도리어 천녀의 요학의 울음과 같아서
+    산천은 옛날과 같은데 사람은 옛사람 아니더라
+    봄바람의 곳곳마다 온갖 꽃이 날으거니
+    마치 송도를 향해 필마로 돌아가는 것같다
+    5백 년 동안의 인물을 말할양이면
+    임금을 미혹시키고 나라를 그르침이 진정 누구의 잘못인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Two Poems Following the Rhyme of Cheonsu Temple
+  author: Kim Su-on
+  language: eng
+  text: |-
+    The wall crumbles, the foundation stones shatter, fireflies glow in the dark—
+    All that remains is for the people of the capital to point and turn back.
+    Like the cry of a celestial crane across a thousand years,
+    The mountains and rivers endure as before, yet the ancient people are gone.
+
+    Spring winds scatter blossoms everywhere—
+    As if I ride a lone horse toward Songdo to return.
+    When we speak of the notable figures of five hundred years,
+    Who truly bears the blame for leading the king astray and ruining the realm?
+  footnotes:
+  - key: ''
+    value: 'Cheonsu Temple: A Buddhist temple associated with historical Korean capitals, here evoking the passage of time and dynastic change.'
+  - key: ''
+    value: 'Songdo: The traditional name for Kaesong, the capital of Goryeo, suggesting nostalgia for a lost golden age.'
+  - key: ''
+    value: The poem appears to meditate on historical ruin and moral accountability, possibly reflecting on the fall of a dynasty or the consequences of corrupt leadership.

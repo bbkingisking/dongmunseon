@@ -1,0 +1,47 @@
+canonical:
+  title: 西北面
+  author: 尹淮
+  language: lzh
+  text: 前古箕疇禮義邦至今遺俗尙淳厖樓臺縹渺臨平野雉堞巍峩映大江分閫英材誰與並運籌長策固無雙也應期月恩威遍會見明時築受降
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西北面
+  author: 尹淮
+  language: lzh
+  text: 前古箕疇禮義邦。至今遺俗尙淳厖。樓臺縹渺臨平野。雉堞巍峩映大江。分閫英材誰與並。運籌長策固無雙。也應期月恩威遍。會見明時築受降。
+korean:
+  title: 서북면
+  author: 윤회
+  language: kor
+  text: |-
+    옛날부터 기자 구주 예의의 고장
+    아직도 유속이 순박하다네
+    누대는 아득하게 평야에 임했고
+    성벽이 우뚝 긴 강에 비쳐있네
+    분곤하는 영특한 재주 누가 감히 맞서리
+    운주하는 기묘한 솜씨 워낙 쌍이 없구나
+    부임해서 돌쯤이면 은위 두루 미치리니
+    성대에 수항성을 꼭 쌓고야 말리로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0530&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 수항성(受降城) : '
+    value: 한 무제(漢武帝)가 장군 공손오(公孫敖)를 시켜 새외(塞外)에 항복받는 성[受降城]을 쌓았다.
+english:
+  title: The Northwestern Frontier
+  author: Yun Hoe
+  language: eng
+  text: |-
+    Since ancient times, this land of Ki Tzu has upheld propriety and righteousness.
+    Even now, its customs remain simple and pure.
+    The towers rise, hazy and distant, overlooking the plains,
+    While fortress walls stand tall and bright, reflected in the great river.
+    Who dares match the brilliant talents that govern these borders?
+    The strategies wielded here are peerless in their subtlety.
+    Within mere months of taking office, grace and authority shall spread far,
+    And in this prosperous age, the Citadel of Surrender shall surely be built.
+  footnotes:
+  - key: ''
+    value: Ki Tzu (箕子) represents the legendary founding of civilization and virtue in this region, establishing it as a place of enduring cultural refinement.
+  - key: ''
+    value: The Citadel of Surrender (受降城) refers to the historic fortress built to receive the submission of barbarian tribes, symbolizing successful frontier governance and the expansion of civilized rule.

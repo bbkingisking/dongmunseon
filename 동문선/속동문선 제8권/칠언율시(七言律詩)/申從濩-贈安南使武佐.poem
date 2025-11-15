@@ -1,0 +1,53 @@
+canonical:
+  title: 贈安南使武佐
+  author: 申從濩
+  language: lzh
+  text: 來自麊泠瘴海堧今朝初下潞河船天低銅柱南逾嶺地逈金臺北走燕客路風烟將萬里還家歲月抵三年嗟余亦是思鄕者滯雨江頭各黯然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈安南使武佐
+  author: 申從濩
+  language: lzh
+  text: 來自麊泠瘴海堧。今朝初下潞河船。天低銅柱南逾嶺。地逈金臺北走燕。客路風烟將萬里。還家歲月抵三年。嗟余亦是思鄕者。滯雨江頭各黯然。
+korean:
+  title: 증 안남사무좌
+  author: 신종호
+  language: kor
+  text: |-
+    미령의 장기낀 바닷가의 땅에서 와서
+    오늘 아침에 처음으로 노하의 배에서 내렸다
+    하늘이 동주에 나직한데 남으로 재를 넘고
+    땅은 금대가 먼데 북으로 연에 달렸다
+    나그네 길의 풍경은 만 리인데
+    집에 돌아가면 세월은 삼 년이 가리
+    슬프다 나도 또한 고향을 생각하는 사람이라
+    강 머리에서 비에 막혀 각각 암연하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동주(銅柱) : '
+    value: 한(漢)나라 마원(馬援)이 남방의 교지(交趾)를 정복하고 국경에다 구리쇠 기둥[銅柱]을 세워서 표(標)로 삼았다.
+  - key: '[주-D002] 금대(金臺) : '
+    value: 전국(戰國) 시대에 연 소왕(燕昭王)이 제(齊)나라에 대하여, 아비 죽인 원수를 갚으려고 사방의 인재들을 초청하면서, 대(臺)를 쌓고 대 위에다 황금을 쌓아 두었다. 그것을 금대(金臺)라 한다.
+  - key: '[주-D003] 암연(黯然) : '
+    value: 기운이 소침하고 근심이 있는 모양을 형용한 것이다.
+english:
+  title: A Gift for the Emissary to Annam, Wu Juo
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    From the malarial shores of Mieling you have come,
+    This morning stepping first from the Luohe's boat.
+    The sky hangs low where Copper Pillars mark the southern pass,
+    The earth stretches far where Golden Tower points to northern Yan.
+    A traveler's road spreads ten thousand leagues through wind and mist,
+    Yet home-bound years compress to merely three.
+    Alas, I too am one who longs for home,
+    And by this rain-swollen river's edge, we share the same dark melancholy.
+  footnotes:
+  - key: ''
+    value: 'Copper Pillars (銅柱): A boundary marker set by the Han general Ma Yuan after conquering the southern regions, symbolizing the frontier.'
+  - key: ''
+    value: 'Golden Tower (金臺): A reference to the tower built by the Yan king where treasures were placed to attract talented scholars, representing the north.'
+  - key: ''
+    value: The poem contrasts the speaker's position with the emissary's journey—while the emissary travels from exotic southern lands, the speaker remains stranded, both separated from home by circumstance.

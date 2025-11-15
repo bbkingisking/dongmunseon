@@ -1,0 +1,46 @@
+canonical:
+  title: 天曆三年五月受江陵道存撫使之命是月三十日發松京宿白嶺驛夜半雨作有懷
+  author: 安軸
+  language: lzh
+  text: 讀書求道竟無成自愧明時有此行但盡迂踈施實學敢將崖異盜虛名民生塗炭知難救國病膏育念可驚耿耿枕前眠未穩卧聞山雨注深更
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 天曆三年五月受江陵道存撫使之命是月三十日發松京宿白嶺驛夜半雨作有懷
+  author: 安軸
+  language: lzh
+  text: 讀書求道竟無成。自愧明時有此行。但盡迂踈施實學。敢將崖異盜虛名。民生塗炭知難救。國病膏育念可驚。耿耿枕前眠未穩。卧聞山雨注深更。
+korean:
+  title: 천력 3년 5월에 강릉도 존무사의 임명을 받잡고, 그달 30일에 송경을 떠나 백령역에서 자는데, 밤중에 비가 오매 느낌이 있어
+  author: 안축
+  language: kor
+  text: |-
+    글읽어 도를 구해도 끝내 이룸 없었으니
+    밝은 시대 이 행색이 내 스스로 부끄럽네
+    오소하나마 힘을 다하여 실학을 시행하리
+    유다른 척 표방하여 허명을 도적하랴
+    도탄에 빠진 민생들을 내 어이 구하랴만
+    고황에 든 나랏병은 생각만 해도 놀라워라
+    베개에 기대어 잠 못 들고 누웠으려니
+    밤중 산 비가 쏟아져내리는 소리뿐일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고황(膏肓) : '
+    value: 《좌전》에, 진후(晉侯)가 병이 있어 이름난 의원을 청했더니, 의원은, “병이 벌써 고(膏)의 밑 황(肓)의 위에 들어갔으니 치료할 수 없습니다.” 하였다. 고(膏)는 심(心)의 밑이요, 황(肓)은 격(鬲)의 위이다.
+english:
+  title: 'On the Eve of My Appointment as Inspector-Commandant of Gangneung Province, Fifth Month of the Third Year of Tianli: Departing from Songgyeong on the Thirtieth, Lodging at Baekryeong Station, Rain Falls at Midnight, and I Am Moved to Reflection'
+  author: An Chuk
+  language: eng
+  text: |-
+    I have read widely and sought the Way, yet achieved nothing in the end.
+    In this enlightened age, my own figure fills me with shame.
+    Still, I shall do my utmost to practice the learning of substance and utility,
+    Not daring to cloak myself in difference to steal a hollow reputation.
+
+    The people languish in hardship—how can I save them?
+    The nation's disease runs deep—the very thought fills me with dread.
+    Stiff with worry, I lie awake on my pillow,
+    Listening only to the mountain rain pour through the deepening night.
+  footnotes:
+  - key: ''
+    value: The 'nation's disease' refers to an ailment that has penetrated beyond healing, alluding to a classical anecdote where a physician tells the Duke of Jin that his illness has lodged beneath the heart where treatment is impossible—a metaphor for problems of state that cannot be remedied.

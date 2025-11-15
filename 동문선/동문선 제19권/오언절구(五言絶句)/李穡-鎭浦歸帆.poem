@@ -1,0 +1,35 @@
+canonical:
+  title: 鎭浦歸帆
+  author: 李穡
+  language: lzh
+  text: 細雨桃花浪淸霜蘆葉秋歸帆何處落渺渺一扁舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鎭浦歸帆
+  author: 李穡
+  language: lzh
+  text: 細雨桃花浪。淸霜蘆葉秋。歸帆何處落。渺渺一扁舟。
+korean:
+  title: 진포 귀범
+  author: 이색
+  language: kor
+  text: |-
+    가느다란 실비에 복사꽃 물결이요
+    맑은 서리에 갈대잎 가을이로구나
+    돌아오는 돛대는 어느 곳에 떨어질꼬
+    아득해라 조각 배 한 척
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: Returning Sail at Jinpo
+  author: Lee Saek
+  language: eng
+  text: |-
+    Fine rain weaves ripples through the peach blossoms,
+    Clear frost settles on the autumn reeds.
+    Where will the homeward sail finally rest?
+    A solitary boat drifts on and on, lost in mist.
+  footnotes:
+  - key: ''
+    value: Jinpo (鎭浦) is a historical Korean port, lending geographical specificity to this meditation on return and transience.

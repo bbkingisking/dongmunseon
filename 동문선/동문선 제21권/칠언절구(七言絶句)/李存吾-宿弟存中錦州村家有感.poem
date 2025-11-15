@@ -1,0 +1,37 @@
+canonical:
+  title: 宿弟存中錦州村家有感
+  author: 李存吾
+  language: lzh
+  text: 愧我與君俱老大眼前豚犬已多生天胡早奪爺孃壽不見兒童項領成
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿弟存中錦州村家有感
+  author: 李存吾
+  language: lzh
+  text: 愧我與君俱老大。眼前豚犬已多生。天胡早奪爺孃壽。不見兒童項領成。
+korean:
+  title: 아우 존중의 금주촌집에 자면서 느낌이 있어
+  author: 이존오
+  language: kor
+  text: |-
+    부끄러워라 나와 그대가 다같이 늙었으니
+    눈 앞에는 돼지와 개가 벌써 많이 생겼구나
+    하늘은 어찌하여 우리 부모의 수를 일찍 빼앗아
+    아이들의 장성한 것을 보지 못하였는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0670&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 돼지와 개가 : '
+    value: 오대(五代) 때에 후량 태조(後梁太祖) 주온(朱溫)이 후진(後晋)의 이극용(李克用)이 죽은 것을 기회로 후진을 치다가 극용의 아들에게 패한 뒤에 탄식하기를, “자식을 낳으려거든 이아자(李亞子 이극용의 아들 이존욱(李存勖)의 어릴 적 이름) 같은 이를 낳아야지, 나의 자식들은 돼지나 개와 같은 것들이다.” 하였다.
+english:
+  title: Spending the Night at My Younger Brother Cunzhong's Home in Jinzhou Village, with Reflections
+  author: Lee Chun-oh
+  language: eng
+  text: |-
+    How ashamed we are, you and I, grown old together.
+    Already before our eyes, pigs and dogs multiply in great number.
+    Why did Heaven steal away our parents' years so soon,
+    Before they could see their children grown to manhood?
+  footnotes:
+  - key: ''
+    value: 'The reference to ''pigs and dogs'' alludes to a famous historical anecdote from the Later Liang dynasty. When Zhu Wen''s forces were defeated by the son of Li Keyong, he lamented: ''If one must have children, let them be like Li Yazi (the childhood name of Li Cunxu); my own sons are nothing but pigs and dogs.'' Here, the poet inverts this reference, lamenting that while he and his brother have lived to grow old, their parents did not live to witness their children''s maturation.'

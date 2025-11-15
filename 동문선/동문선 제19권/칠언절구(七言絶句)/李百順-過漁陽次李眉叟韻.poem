@@ -1,0 +1,58 @@
+canonical:
+  title: 過漁陽次李眉叟韻
+  author: 李百順
+  language: lzh
+  text: 一上鵝毛寺後峯祿山曾此鍊軍容只因欲奪鷄頭肉豈是爭爲月化龍宴會驪山玉蕊宮芙蓉那似酒酣容不知今有明駝使千里殷勤寄瑞龍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過漁陽次李眉叟韻
+  author: 李百順
+  language: lzh
+  text: 一上鵝毛寺後峯。祿山曾此鍊軍容。只因欲奪鷄頭肉。豈是爭爲月化龍。宴會驪山玉蕊宮。芙蓉那似酒酣容。不知今有明駝使。千里殷勤寄瑞龍。
+korean:
+  title: 과 어양 차 이미수운
+  author: 이백순
+  language: kor
+  text: |-
+    아모사 뒷 봉우리에 오르니
+    안녹산이 일찍이 여기서 군사를 조련했네
+    다만 닭머리의 벼슬을 뺏고자 함이라
+    어찌 돼지가 용(龍)이 되기 위한 것만이랴.
+    여산(驪山) 옥예궁에 잔치를 여니
+    연꽃인들 어찌 술 오른 얼굴 같으리오
+    모르겠노라 이제도 명타 사자 있어
+    천 리에 은근히 서룡(瑞龍)을 부치는지
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 다만 닭머리의 …… 뺏고자함이라 : '
+    value: 당나라 현종(玄宗) 때에 범양 절도사(范陽節度使) 안녹산(安祿山)이 반란을 일으켜 중원(中原)에 쳐들어 갔는데, 어양(漁陽)은 곧 범양의 수부(首府)이다. 안녹산이 처음에 양귀비의 수양아들이라 하고 궁중에 마음대로 출입하여 양귀비와 간통하였으며, 현종과 안녹산이 함께 앉아 양귀비의 젖[乳房]을 두고 희롱하면서 현종이 먼저 시 한 구절을 부르기를, “부드럽고 붉은 것은 새로 나온 닭의 벼슬이로다[軟紅新剝鷄頭肉].” 하니, 안녹산이 답하기를, “미끄럽고 부드럽기는 북방의 타락과 같구나[滑膩凝如塞上酥].” 하였다.
+  - key: '[주-D002] 어찌 …… 것만이랴 : '
+    value: 현종이 안녹산을 궁중에 불러서 술을 마시는데, 안녹산이 매우 취하여 뒷마루 한구석에 자는데 저도 모르게 몸이 변해 용이되어 쿨쿨 자고 있었다. 현종이 듣고 가 보고는, “몸은 비록 용으로 변하였으나 대가리는 돼지대가리이니 참 용이 아닌 저룡(猪龍)이라 두려워할 것이 없다.” 하고 죽이지 않았다. 뒤에 안녹산이 쳐들어 오자 현종은 양귀비를 데리고 촉중(蜀中)으로 도망하다가 중로에서 군사들의 강청(强請)으로 할 수 없이 양귀비를 목졸라 죽였다. 안녹산이 양귀비의 죽은 소식을 듣고는 실망하였다 한다. 이 시의 뜻은 안녹산이 반란을 일으킨 것은 천하 절색인 양귀비를 빼앗는데 마음이 있는 것이지, 황제(皇帝)의 자리를 탐낸 것만이 아니라는 뜻이다.
+  - key: '[주-D003] 여산(驪山) 옥예궁에 잔치 : '
+    value: 현종이 여산(驪山)에 별궁(別宮)을 짓고 양귀비를 데리고 온천(溫泉)에서 향락하였는데, 양귀비는 술이 얼근히 취하면 연꽃보다 더 고왔다.
+  - key: '[주-D004] 모르겠노라 …… 부치는지 : '
+    value: 양귀비가 여지(荔支) 먹기를 좋아했는데, 이것은 장안(長安)에서 거리가 먼 남방에서 나는 것이므로, 더울 때 변하기 전에 말에 실어 말을 바꾸어 가며 급히 달려왔는데, 그것을 명타사(明馳使)라 하였다. 서룡(瑞龍)은 여지(荔支)를 말한다.
+english:
+  title: Passing Through Yuyang, Following the Rhymes of Lee Mi-su
+  author: Lee Baek-soon
+  language: eng
+  text: |-
+    Climbing the ridge behind the Eamao Temple,
+    Where An Lushan once drilled his armies in formation.
+    His ambition was but to seize the tender morsel—
+    Not mere aspiration for a pig-headed dragon's throne.
+
+    At feasts in Lishan's jade-petaled palace,
+    Even lotus blossoms pale beside a lover's flushed face.
+    Yet who can know if still today such ardent messengers ride,
+    A thousand leagues bearing precious gifts for those the realm holds dear.
+  footnotes:
+  - key: ''
+    value: Yuyang refers to the headquarters of An Lushan's province. The 'tender morsel' alludes to a famous poetic exchange between Emperor Xuanzong and his general An Lushan, wherein they playfully describe the beauty of Yang Guifei using culinary metaphors. The poem suggests An Lushan's rebellion was driven not by imperial ambition, but by desire for Yang Guifei.
+  - key: ''
+    value: The reference to a 'pig-headed dragon' derives from a legend in which An Lushan, drunk in the imperial palace, mysteriously transformed into a dragon—yet retained a pig's head, making him a false dragon unworthy of fear.
+  - key: ''
+    value: Lishan was the site of Emperor Xuanzong's pleasure palace where he indulged with Yang Guifei. The poem hints at the imperial court's decadence and the tragic fate that would befall this beloved concubine.
+  - key: ''
+    value: The final couplet alludes to Yang Guifei's love of lychees, which were rushed from distant southern provinces by imperial messengers on swift horses before the fruit could spoil—a symbol of imperial devotion and the lengths to which power will go for beauty.

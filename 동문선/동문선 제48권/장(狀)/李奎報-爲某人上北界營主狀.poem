@@ -1,0 +1,53 @@
+canonical:
+  title: 爲某人上北界營主狀
+  author: 李奎報
+  language: lzh
+  text: 蘂闥雲深受鳳綸之降命楡關草綠擁豹纛之有光四牡所臨萬家相慶恭惟某官金山屹屹鐵幹凌凌八座資崇方佇塩梅之用三邊寄重暫司斧鉞之威伏念某莅事伊初望風滋切一隅之繫但限有拘百舍之勞豈予所憚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 爲某人上北界營主狀
+  author: 李奎報
+  language: lzh
+  text: 蘂闥雲深。受鳳綸之降命。楡關草綠。擁豹纛之有光。四牡所臨。萬家相慶。恭惟某官。金山屹屹。鐵幹凌凌。八座資崇。方佇塩梅之用。三邊寄重。暫司斧鉞之威。伏念某莅事伊初。望風滋切。一隅之繫。但限有拘。百舍之勞。豈予所憚。
+korean:
+  title: 위 모인 상 북계영주 장
+  author: 이규보
+  language: kor
+  text: 구름 깊은 예달(蕊闥)의 대궐로부터 내려준 조서를 받들고, 풀 푸른 유관(楡關)에 빛나는 깃발을 휘날리니, 사모(四牡)의 다다른 곳에 만 사람이 서로 경축합니다. 삼가 생각건대, 모관(某官)은 금산(金山)같이 우뚝하고 철간(鐵幹)처럼 꼿꼿하며, 팔좌(八座)의 높은 계급에는 바야흐로 염매(鹽梅)의 구실을 기대하는 터이나, 삼변의 중요한 일로 잠깐 부월(斧鉞)의 책임을 맡으셨습니다. 엎드려 생각건대, 모(某)는 직무에 다다른 처음부터 성화를 바람이 더욱 간절하였으나, 한 모퉁이에 처한 관원인지라 한계를 벗어날 수 없으며, 3백 리 길을 걷는 수고야 어찌 저로서 꺼릴 바이겠습니까.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사모(四牡) : '
+    value: 《시경(詩經)》 소아(小雅)사모편(四牡篇)을 말한 것이다. 그 서(序)에 사신을 위로하고 환영하는 시라 하였다.
+  - key: '[주-D002] 팔좌(八座) : '
+    value: 한(漢)ㆍ진(晉) 시대에 육조(六曹)의 상서(尙書)와 아울러 상서령(尙書令)복야(僕射)로써 팔좌(八座)를 삼았다.
+  - key: '[주-D003] 염매(鹽梅)의 구실 : '
+    value: 부열(傅說)의 고사인데, 화갱(和羹)에 대한 말이다.
+english:
+  title: A Petition for the Appointment of Someone as Commander of the Northern Frontier
+  author: Lee Kyou-bo
+  language: eng
+  text: |-
+    From halls deep in the clouds, the royal mandate descends.
+    At green Elm Gate, banners of leopard-skin gleam and shine.
+    Where the four steeds of the envoy arrive,
+    Ten thousand households gather in celebration.
+
+    I humbly reflect upon this worthy official—
+    Steady as Gold Mountain, unbending as iron trunk.
+    Though his rank among the Eight Seats calls for subtler arts,
+    The three borders now burden him with commander's axe.
+
+    Since my colleague first took up these duties,
+    The people's hopes have grown ever more fervent.
+    Yet bound to this remote corner of the realm,
+    I cannot transcend my assigned sphere.
+    But three hundred leagues of labor—
+    How could such service ever weary me?
+  footnotes:
+  - key: ''
+    value: 'Four Steeds: A reference to the Classic of Poetry, evoking the auspicious arrival of an imperial envoy.'
+  - key: ''
+    value: 'Eight Seats: The highest administrative positions of ancient China, referencing the eight most senior officials.'
+  - key: ''
+    value: 'The subtler arts: An allusion to the sage Fu Yue''s teaching that governing is like seasoning a broth—requiring both salty and sweet elements in perfect balance.'

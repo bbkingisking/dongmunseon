@@ -1,0 +1,47 @@
+canonical:
+  title: 題高峯雲月軒
+  author: 金守溫
+  language: lzh
+  text: 余與釋氏排之久矣况爲其言而言之乎今汝南梅子辱知有年而求題雲月軒則意有不可孤焉者矣雖然毋誚其小兒強解事也雲有浮沉月晦明從來未若大虛淸憑君爲語高遁客莫把陰晴弄一生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題高峯雲月軒
+  author: 金守溫
+  language: lzh
+  text: 余與釋氏。排之久矣。况爲其言而言之乎。今汝南梅子辱知有年。而求題雲月軒。則意有不可孤焉者矣。雖然毋誚其小兒強解事也。雲有浮沉月晦明。從來未若大虛淸。憑君爲語高遁客。莫把陰晴弄一生。
+korean:
+  title: 제고봉 운월헌
+  author: 김수온
+  language: kor
+  text: |-
+    나 배척한 지가 오래였는데, 하물며 그 말을 인용하여 말할 수 있으랴. 여남매자가 나를 안 지가 여러 해였다. 이제 운월헌의 시를 지어 줄 것을 청하는데 그 뜻을 저버릴 수 없는 것이었다. 그러나 어린아이가 억지로 아는 체한다고 나무라는 이가 있지 않겠는가.[余與釋氏排之久矣况爲其言而言之乎今汝南梅子辱知有年而求題雲月軒則意有不可孤焉者矣雖然母誚其小兒強觧事也]
+    구름에는 부침이 있고 달에는 회명이 있는데
+    그것은 원래 저 허공의 맑음만 못하다
+    그대를 방자해 저 고둔객에게 말하노니
+    음청을 가지고 일생을 희롱하지 마라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0010&viewSync=OT
+  footnotes: []
+english:
+  title: On the Cloud and Moon Pavilion at High Peak
+  author: Kim Su-on
+  language: eng
+  text: |-
+    I have long dismissed such doctrines,
+    so how could I speak by borrowing their words?
+    Yet Maeja of Yeongnam has honored me with friendship these many years,
+    and now asks me to inscribe the Cloud and Moon Pavilion—
+    a request whose purpose I cannot abandon.
+
+    Though some might fault me for a child playing sage beyond his years,
+    I offer this reflection:
+
+    Clouds rise and fall, the moon waxes and wanes—
+    yet neither matches the clarity of the empty sky itself.
+    So I speak to you, O recluse of the heights:
+    do not spend your life toying with shadow and light.
+  footnotes:
+  - key: ''
+    value: The 'Cloud and Moon Pavilion' (운월헌) is a retreat associated with spiritual cultivation and retreat from worldly affairs. The poet's inscription plays on this symbolism.
+  - key: ''
+    value: The reference to 'Maeja of Yeongnam' suggests a respected scholar-friend whose request compels the author to set aside his usual philosophical reservations and offer this teaching.

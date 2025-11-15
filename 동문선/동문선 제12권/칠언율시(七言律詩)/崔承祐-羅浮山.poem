@@ -1,0 +1,61 @@
+canonical:
+  title: 羅浮山
+  author: 崔承祐
+  language: lzh
+  text: 雨晴雲斂鷓鴣飛嶺嶠臨流話所思厭次狂生須讓賦宣城太守敢言詩休攀月桂凌天險好把煙霞避世危七十長溪三洞裏他年名遂也相宜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 羅浮山
+  author: 崔承祐
+  language: lzh
+  text: 雨晴雲斂鷓鴣飛。嶺嶠臨流話所思。厭次狂生須讓賦。宣城太守敢言詩。休攀月桂凌天險。好把煙霞避世危。七十長溪三洞裏。他年名遂也相宜。
+korean:
+  title: 나부산
+  author: 최승우
+  language: kor
+  text: |-
+    비 개고 구름 걷히고 자고새는 나는데
+    고갯마루 시냇가에서 그리울 일 말하네
+    염차의 광생은 부 짓기를 사양하라
+    선성 태수 제 어찌 시를 말하리
+    달 속의 계수를 찾아 험한 하늘에 안 오르고
+    연하를 좇아 위태한 세상을 피해 가네
+    칠십 긴 시내 세 동천 안이
+    일후에 그대로 이름 이뤄도 마땅하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 나부산(羅浮山) : '
+    value: 광동성(廣東省)에 있는 명산. 진(晉)나라 갈홍(葛洪)이 이곳에서 선술(仙術)을 얻었다 한다.
+  - key: '[주-D002] 염차(厭次)의 광생(狂生) : '
+    value: 염차(厭次)는 고을 이름. 한대(漢代)의 부평(富平)ㆍ동방삭(東方朔)이 평원(平原) 염차 사람으로 자칭 ‘염차의 광생’이라 하였으며, 그는 해학에 뛰어나고 사부(辭賦)에도 능했다.
+  - key: '[주-D003] 선성 태수(宣城太守) : '
+    value: 남조(南朝)의 시인 사조(謝眺)가 이 선성 태수(宣城太守)로 있었다.
+  - key: '[주-D004] 칠십 긴 시내 세 동천(洞天) : '
+    value: 나부산이 유심(幽深)하고, 괴기(塊奇)하여 그 안에 긴 시내가 70군데이고, 동천(洞天)이 세 군데가 있다.
+english:
+  title: Luofu Mountain
+  author: Choi Seung-u
+  language: eng
+  text: |-
+    Rain clears and clouds gather—partridges take wing.
+    Atop the ridge by the stream, I speak of longing.
+    Let the madcap scholar of Yanzi forego his rhapsodies;
+    How dare the prefect of Xuancheng presume to verse?
+
+    I will not scramble for the cassia in the moon,
+    Nor brave heaven's perilous heights.
+    Instead, I follow the mists and clouds,
+    Escaping the world's dangerous snares.
+
+    Within the three grotto-heavens of the seventy-fold stream,
+    My name may unfold in years to come—and that suffices.
+  footnotes:
+  - key: ''
+    value: Luofu Mountain is a renowned peak in Guangdong Province, where the Daoist immortal Ge Hong is said to have attained transcendent arts.
+  - key: ''
+    value: The 'madcap scholar of Yanzi' alludes to Dong Fangshuo of the Han Dynasty, who styled himself thus and excelled in witty discourse and ornate verse.
+  - key: ''
+    value: Xie Tiao, a celebrated Southern Dynasty poet, served as prefect of Xuancheng.
+  - key: ''
+    value: Luofu Mountain is renowned for its seventy long streams and three mystical caverns (grotto-heavens).

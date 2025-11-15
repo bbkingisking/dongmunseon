@@ -1,0 +1,77 @@
+canonical:
+  title: 送人赴都
+  author: 鄭誧
+  language: lzh
+  text: 少日遊天京結交皆豪英虛名簸人口壯志自可驚見知韓太尉竊比蘇穎濱那知事大謬東歸受艱辛閉門無車馬寒燈照踈屋自聞君欲行頻夢燕山綠山城春事遅二月猶冰雪遙想黃金臺正是花時節此行喜有餘浮面氣可掬安得萬里風先生騎鴻鵠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送人赴都
+  author: 鄭誧
+  language: lzh
+  text: 少日遊天京。結交皆豪英。虛名簸人口。壯志自可驚。見知韓太尉。竊比蘇穎濱。那知事大謬。東歸受艱辛。閉門無車馬。寒燈照踈屋。自聞君欲行。頻夢燕山綠。山城春事遅。二月猶冰雪。遙想黃金臺。正是花時節。此行喜有餘。浮面氣可掬。安得萬里風。先生騎鴻鵠。
+korean:
+  title: 연도에 가는 사람을 보내며
+  author: 정포
+  language: kor
+  text: |-
+    젊은 시절에 천경에 놀아
+    사귄 사람 모두가 영재 호걸들
+    헛된 이름은 사람 입에 오르내려
+    장한 뜻은 스스로도 놀랐네
+    한태위의 알아 줌을
+    소영빈에 견줬노라
+    어찌 알았으리 일 크게 그릇되어
+    동으로 돌아오자 고생을 겪는구나
+    문을 닫아 이르는 거마 없는데
+    등불만 허술한 집을 비추네
+    그대 간다는 말 들은 뒤로
+    자주 연산의 푸르름을 꿈꾸나니
+    산성에 봄이 늦어
+    이월에도 오히려 얼음과 눈이로다
+    멀리 황금대를 생각하노니
+    지금이 한창 꽃 시절이리라
+    이번 걸음에 기쁨이 넘쳐
+    얼굴에 떠오른 기색 웃길 만하도다
+    어쩌면 만 리 바람을 얻어
+    선생과 홍곡을 탈 수 있을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소영빈(蘇穎濱)에 견줬노라 : '
+    value: 송나라 소철(蘇轍)의 호가 영빈인데, 태위(太尉)  한기(韓琦)에게 글을 올려서 자기를 소개한 일이 있다.
+  - key: '[주-D002] 황금대(黃金臺) : '
+    value: 전국 시대에 연(燕)나라 소왕(昭王)이 제(齊)나라에 원수를 갚고자 사방의 어진 사람을 청하기 위하여 대(臺)를 쌓고 그 위에 황금(黃金)을 얹어 두었다.
+english:
+  title: Seeing Off Someone Bound for the Capital
+  author: Jung Po
+  language: eng
+  text: |-
+    In my youth I wandered through the great capital,
+    making friends with heroes and talents of renown.
+    Empty names circulated through every mouth,
+    and bold ambitions stirred wonder in all hearts.
+
+    I was known to the great commander Han,
+    compared myself to Su Yingbin in his grace.
+    But how could I have foreseen such great misfortune?
+    Returning eastward, I endured hardship's bite.
+
+    With doors shut fast, no carriages come calling,
+    a cold lamp illuminates my sparse and empty rooms.
+    Since hearing of your departure,
+    I dream often of the green mountains of Yan.
+
+    Spring comes late to the mountain city—
+    even in the second month, ice and snow linger still.
+    Yet thinking of the Golden Terrace from afar,
+    now is when the flowers bloom in fullest splendor.
+
+    Your journey fills me with such joy,
+    my face glows with delight that begs to be shared.
+    Oh, that I might catch the ten-thousand-li wind
+    and ride the great red phoenix with you, my friend!
+  footnotes:
+  - key: ''
+    value: Su Yingbin (蘇穎濱) was the literary name of Su Zhe of the Song dynasty, who was once recommended to the great commander Han Qi—a reference to patronage and recognition from the powerful.
+  - key: ''
+    value: The Golden Terrace (黃金臺) refers to a legendary platform built by King Zhao of Yan during the Warring States period. The king placed gold upon it to attract talented scholars from all lands, symbolizing an ideal place of opportunity and merit.

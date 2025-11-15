@@ -1,0 +1,47 @@
+canonical:
+  title: 容齋對菊與擇之同賦
+  author: 朴誾
+  language: lzh
+  text: 秋熟容齋酒霜留黃菊香來成爛熳醉浪詠寂寥章此興可能久餘生那更傷南山倦歸鳥落日點微茫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 容齋對菊與擇之同賦
+  author: 朴誾
+  language: lzh
+  text: 秋熟容齋酒。霜留黃菊香。來成爛熳醉。浪詠寂寥章。此興可能久。餘生那更傷。南山倦歸鳥。落日點微茫。
+korean:
+  title: 용재 대국 여택지 동부
+  author: 박은
+  language: kor
+  text: |-
+    가을은 용재의 술을 익혔고
+    서리는 황국의 향기를 머무르게 했다
+    여기 와서 그 술에 난만히 취해
+    함부로 적요의 시를 읊는다
+    이 흥을 오래 지속할 수 있다면
+    남은 생애를 어찌 다시 슬퍼하리
+    남산으로 게으르게 돌아가는 새들은
+    지는 햇빛 속에 아물아물 사라진다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0940&viewSync=OT
+  footnotes: []
+english:
+  title: A Rhapsody on Chrysanthemums With Yeoktaek, Composed at Yongjae
+  author: Park Eun
+  language: eng
+  text: |-
+    Autumn has ripened the wine of Yongjae.
+    Frost has held fast the fragrance of yellow chrysanthemums.
+    Come, let me grow drunk on profusion,
+    careless, singing verses of solitude.
+    If this joy could linger long,
+    why would the remaining years bring fresh sorrow?
+    The weary birds return to Namsan,
+    fading into the dimming light of dusk.
+  footnotes:
+  - key: ''
+    value: Yongjae (容齋) refers to a study or retreat, suggesting a place of refined leisure and contemplation.
+  - key: ''
+    value: The chrysanthemum in East Asian poetry symbolizes enduring virtue and resilience through seasons of change.
+  - key: ''
+    value: Namsan (南山, Southern Mountain) evokes both a specific place and the archetypal mountain of poetic withdrawal and reflection.

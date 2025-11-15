@@ -1,0 +1,46 @@
+canonical:
+  title: 題細香南窓
+  author: 金時習
+  language: lzh
+  text: 朝日將暾曙色分林霏開處鳥呼群遠峯浮翠排䆫看隣寺踈鍾隔巘聞靑鳥信傳窺藥竈碧桃花落點苔紋定應羽客朝元返松下閑披小篆文
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題細香南窓
+  author: 金時習
+  language: lzh
+  text: 朝日將暾曙色分。林霏開處鳥呼群。遠峯浮翠排䆫看。隣寺踈鍾隔巘聞。靑鳥信傳窺藥竈。碧桃花落點苔紋。定應羽客朝元返。松下閑披小篆文。
+korean:
+  title: 제 세향남창
+  author: 김시습
+  language: kor
+  text: |-
+    아침 해가 밝으려는가 새벽 빛이 분명한데
+    늘어선 숲 열린 곳에 새가 짝을 부른다
+    면 봉우리에 떠 있는 푸른 빛은 창을 열고 바라보고
+    이웃 절의 느린 종소리는 언덕을 넘어 들린다
+    파랑새는 소식을 전하며 약 달이는 부엌을 엿보고
+    하얀 복숭아 꽃은 떨어져 이끼 무늬에 점 찍는다
+    정녕코 신선은 상제께 조회하고 돌아와
+    솔 아래서 한가히 작은 전의 글을 펴 보리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0960&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 작은 전[小篆] : '
+    value: 유사(有史) 이전에 신(神)이 남겨 놓은 글인데, 현대 사람은 알지 못할 이상스러운 글자이므로 그것을 작은 전[小篆]이라고 부른다 한다.
+english:
+  title: Inscribed on the Southern Window of Fine Fragrance
+  author: Kim Si習
+  language: eng
+  text: |-
+    The morning sun rises, and dawn's light grows clear,
+    Through the parted forest, birds call to their pairs.
+    Distant peaks float in jade-green mist—I gaze through open window,
+    A neighboring temple's sparse bells drift across the ridge.
+
+    The blue bird carries tidings, peering into the medicine-maker's hearth,
+    White peach blossoms fall, dotting the patterns of moss.
+    Truly the feathered sage returns from audience with the Celestial Lord,
+    And beneath the pines, at leisure, unfolds the ancient script.
+  footnotes:
+  - key: ''
+    value: The 'ancient script' (小篆, small seal characters) alludes to mysterious writing said to have been left by the divine before recorded history—characters beyond the ken of ordinary mortals, representing wisdom beyond the mundane world.

@@ -1,0 +1,37 @@
+canonical:
+  title: 春帖子
+  author: 姜碩德
+  language: lzh
+  text: 靑歸園菜嫰白放野梅新圭竇逢佳節瑤徽賀小春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春帖子
+  author: 姜碩德
+  language: lzh
+  text: 靑歸園菜嫰。白放野梅新。圭竇逢佳節。瑤徽賀小春。
+korean:
+  title: 춘첩자
+  author: 강석덕
+  language: kor
+  text: |-
+    푸른 빛은 원의 채소 싹에 돌아와 곱고
+    흰 빛은 들매화를 피워 새로워라
+    규두에 가절을 만나
+    요휘(瑤徽)로 소춘을 하례하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 요휘(瑤徽) : '
+    value: 거문고를 말하는데, 요주(瑤柱)에 줄[徽]을 매었다는 말이다.
+english:
+  title: Spring Tribute Poem
+  author: Kang Seok-deok
+  language: eng
+  text: |-
+    Green returns to the garden's tender shoots,
+    White unfolds the wild plum's newborn bloom.
+    Through the casement window meets the auspicious season,
+    And the jade-strung zither sings praise to early spring.
+  footnotes:
+  - key: ''
+    value: The 'jade-strung zither' (瑤徽) refers to a traditional Korean stringed instrument with strings attached to a jade bridge, used here as a poetic instrument of celebration and blessing.

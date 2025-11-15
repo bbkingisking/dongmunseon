@@ -1,0 +1,55 @@
+canonical:
+  title: 病中朴上舍 信亨 見訪
+  author: 兪好仁
+  language: lzh
+  text: 山城病守怯商飊簿領叢中懶折腰眼力晝兼烟漠漠鬢毛秋共葉蕭蕭相知白首愁零落滿意靑燈話寂寥刮目故人強健在鵬程意氣未全消
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病中朴上舍 信亨 見訪
+  author: 兪好仁
+  language: lzh
+  text: 山城病守怯商飊。簿領叢中懶折腰。眼力晝兼烟漠漠。鬢毛秋共葉蕭蕭。相知白首愁零落。滿意靑燈話寂寥。刮目故人強健在。鵬程意氣未全消。
+korean:
+  title: 병중 박상사 신형 견방
+  author: 유호인
+  language: kor
+  text: |-
+    산성에 병든 수령 가을바람을 겁내면서
+    서류 무더기 속에서 허리 굽히기 싫증 난다
+    눈의 힘은 낮에 연기를 겸해 아득하고
+    살쩍은 가을에 나무 잎과 함께 쓸쓸하여라
+    서로 아는 이들 흰 머리로 영락함을 근심하고
+    마음에 가득한 말 푸른 등불 앞에 쓸쓸히 이야기한다
+    옛 친구 건강하게 있어
+    붕새길의 의기가 아주 사라지지 않은 데에 괄목하겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 허리 굽히기 : '
+    value: 옛날 도연명(陶淵明)이 상관(上官)으로 순찰하러온 독우에게 절하기 싫어서, “내가 어찌 닷말 쌀의 녹 때문에 젊은 아이에게 허리를 굽히랴.” 하고 곧 벼슬을 내던지고 갔다.
+  - key: '[주-D002] 붕새길의 의기(意氣) : '
+    value: 《장자》에, “대붕(大鵬)새는 날개가 천 리나 되는 큰 새이므로 북해에서 남해로 옮길 때에는 구만 리로 날아 올라간다.” 하였다. 여기서는 전정(前程)이 멀다는 뜻이다.
+  - key: '[주-D003] 괄목(刮目) : '
+    value: 옛말에, “선비는 작별한 지 사흘 만에 만나면 눈을 닦고 서로 대한다.” 하였는데, 그 동안에 진보(進步)됨이 있었을 것이란 뜻이다.
+  - key: '[주-D001] 享 : '
+    value: 亨
+english:
+  title: Visiting Scholar Park Shin-hyeong During His Illness
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    In the mountain garrison, the ailing prefect trembles at autumn winds,
+    Among heaps of documents, weary of bowing low.
+    By day my eyes grow dim, obscured as if by distant smoke,
+    My graying temples wither with the leaves when autumn comes.
+    We who have known each other worry over whitened heads and decline,
+    Yet by the green lamp we speak our fill of solitary thoughts.
+    Beholding you, old friend, still vigorous and whole,
+    I marvel—your soaring spirit has not yet been consumed.
+  footnotes:
+  - key: ''
+    value: The image of 'bowing low' echoes Tao Yuanming's refusal to bend before corrupt officials, signifying the scholar's resistance to degrading service.
+  - key: ''
+    value: The 'great roc's ambition' refers to the Zhuangzi's cosmic bird of immense wingspan, representing boundless potential and a distant, noble future.
+  - key: ''
+    value: The 'wiped eyes' allude to the saying that a worthy person shows visible improvement after parting—here expressing wonder at the friend's enduring vitality.

@@ -1,0 +1,52 @@
+canonical:
+  title: 益齋
+  author: 權溥
+  language: lzh
+  text: 儒林此事古曾聞盛事無如我一門分桂孝親今最貴傳鞓襲慶近猶存新廳披豁天慳露內帑聯翩上賜繁欲把公詩編國史流芳幾葉及雲孫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 益齋
+  author: 權溥
+  language: lzh
+  text: 儒林此事古曾聞。盛事無如我一門。分桂孝親今最貴。傳鞓襲慶近猶存。新廳披豁天慳露。內帑聯翩上賜繁。欲把公詩編國史。流芳幾葉及雲孫。
+korean:
+  title: 익재
+  author: 권보
+  language: kor
+  text: |-
+    유림의 이런 일을 옛날에도 들었으되
+    우리 일문 오늘 성사만이야 했을런가
+    계수를 나누어 부모에게 효도하니 지금 가장 귀하구나
+    홍정띠 전하며 경사 잇기야 요새도 있지만
+    새로 지은 큰 집에 경치도 좋거니
+    내탕에서 연거푸 사하물이 푸짐하네
+    영공의 시를 가져 국사에 엮으려노니
+    꽃다운 이름 이어받아 운손까지 미치리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0910&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 일문(一門) : '
+    value: 익재(益齋)가 작자(作者)  권보(權溥)의 사위이므로 일문(一門)이라 하였다.
+  - key: '[주-D002] 운손(雲孫) : '
+    value: 저로부터 제8대가 잉손(仍孫)이고, 잉손의 아들, 곧 제9대 손자가 운손이다.
+english:
+  title: In Praise of Benefit and Prosperity
+  author: Kwon Bo
+  language: eng
+  text: |-
+    Such deeds in the scholarly realm, I have heard of old,
+    Yet never has fortune gathered like unto our house today.
+    We divide the cassia branch to honor our parents—
+    Now this filial piety stands as the most precious thing.
+    The crimson sash passes down, blessings continue to flow,
+    Though such grace has been rare in recent times.
+    In our newly built halls, the vistas stretch bright,
+    While the imperial treasury bestows its gifts in abundance.
+    I would gather the Master's poems into the nation's history,
+    That his fragrant name may bloom through generations unnumbered,
+    Reaching even to the cloud-descended grandchildren of tomorrow.
+  footnotes:
+  - key: ''
+    value: The poet refers to himself and his family as 'our house' (일문), as he was the son-in-law of Kwon Bo, the subject of this praise.
+  - key: ''
+    value: The 'cloud-descended grandchildren' (운손) refers to descendants many generations hence—specifically the ninth generation of descendants.

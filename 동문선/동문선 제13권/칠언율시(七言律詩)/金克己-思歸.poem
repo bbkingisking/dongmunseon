@@ -1,0 +1,46 @@
+canonical:
+  title: 思歸
+  author: 金克己
+  language: lzh
+  text: 數畝荒園久欲蕪淵明早晚汳籃輿鬢衰却與飛蓬似形瘦還將枯木如無奈爲貧從薄宦不妨因病得閑居但聞明主求儒雅投佩歸山計恐踈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 思歸
+  author: 金克己
+  language: lzh
+  text: 數畝荒園久欲蕪。淵明早晚汳籃輿。鬢衰却與飛蓬似。形瘦還將枯木如。無奈爲貧從薄宦。不妨因病得閑居。但聞明主求儒雅。投佩歸山計恐踈。
+korean:
+  title: 사귀
+  author: 김극기
+  language: kor
+  text: |-
+    몇 이랑 거친 동산이 오래 황폐해 가니
+    연명이 조만간 남여로 돌아와야 하리
+    귀밑머리 세어서 쑥덤불 같고
+    모양은 여위어서 고목이나 일반
+    가난해서 부득이 미관노릇 하지만
+    병으로 인하여 한가히 삶이 무방하리
+    명주께서 유아한 선비를 구하신다니
+    찾던 것 던지고(사직(辭職)) 산으로 못 들어갈까 저어하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 연명(淵明)이 …… 돌아와야 하리 : '
+    value: 도연명(陶淵明)이 다리 병이 있어서 놀러 나갈 적에는 남여(藍輿)를 타고 다녔다.
+english:
+  title: Longing to Return Home
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Several acres of neglected garden grow wilder with each passing day—
+    Soon I must return home like Tao Yuanming in his wicker carriage.
+    My temples grayed, my hair like tangled weeds,
+    My body withered thin as a dead tree in winter.
+
+    Poverty has bound me to this humble office,
+    Yet sickness grants me a strange reprieve.
+    But now the enlightened ruler seeks men of refined taste,
+    And I hesitate—should I cast off my seal and flee to the mountains?
+  footnotes:
+  - key: ''
+    value: Tao Yuanming (陶淵明), the revered Eastern Jin poet and recluse, was known for his leg ailment and would ride in a blue wicker carriage when traveling. He represents the ideal of the cultured scholar who abandons official life for retirement.

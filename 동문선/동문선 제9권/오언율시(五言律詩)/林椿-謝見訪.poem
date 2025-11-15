@@ -1,0 +1,50 @@
+canonical:
+  title: 謝見訪
+  author: 林椿
+  language: lzh
+  text: 長安霖雨後思我遠相過寂寞蝸牛舍徘徊駟馬車恒飢窮子美非病老維摩莫署吾門去聲名恐更多
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝見訪
+  author: 林椿
+  language: lzh
+  text: 長安霖雨後。思我遠相過。寂寞蝸牛舍。徘徊駟馬車。恒飢窮子美。非病老維摩。莫署吾門去。聲名恐更多。
+korean:
+  title: 사견방
+  author: 임춘
+  language: kor
+  text: |-
+    장마비 뒤의 장안에
+    나를 생각해 멀리 찾아왔네 그려
+    이 적막한 달팽이집 앞에
+    머무른 사마 수레
+    항상 굶주리는 궁한 두자미
+    참 병 아닌 유마거사(당(唐) 시인 왕유(王維))
+    문간에 이름을 적지 말고 가소
+    세상에 이 내 명성이 더욱 날까 두렵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 항상 굶주리는 궁한 두자미(杜子美) : '
+    value: 두보(杜甫). 그의 시에, “항상 굶은 어린 자식 안색이 처량하다.”[恒飢稚子色凄凉]한 것이 있다.
+english:
+  title: In Response to a Visit
+  author: Lim Chun
+  language: eng
+  text: |-
+    After the long rains in Chang'an,
+    you have come seeking me from afar, it seems.
+    Before this lonely snail's cottage
+    your four-horse carriage lingers.
+
+    I endure hunger like Du Fu in his poverty,
+    not afflicted like old Vimalakīrti with feigned illness.
+    I beg you—inscribe no name upon my gate,
+    fearing my reputation will only grow the more.
+  footnotes:
+  - key: ''
+    value: Du Fu (杜甫), the Tang poet, was known for his works expressing hardship and hunger during times of poverty.
+  - key: ''
+    value: Vimalakīrti (維摩) was a Buddhist lay follower known for his miraculous feigned illness in Buddhist scripture, often referenced in Chinese poetry as a model of spiritual cultivation.
+  - key: ''
+    value: The 'four-horse carriage' suggests the visitor's high status or official position, contrasting with the speaker's humble dwelling.

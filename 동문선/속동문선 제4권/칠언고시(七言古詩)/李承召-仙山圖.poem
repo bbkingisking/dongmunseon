@@ -1,0 +1,69 @@
+canonical:
+  title: 仙山圖
+  author: 李承召
+  language: lzh
+  text: 吾聞海上三神山六鰲頭戴何辛艱千年力竭不耐久一朝相失難追攀馮夷海若惜不得群仙錯愕愁相看蒼波渺渺雲茫茫漂泊幾年歸人寰仙家物色尙依然瓊林瑤草何斑斑靈苗多是不死藥我欲采之留朱顔直恐群仙厭喧卑稽首上訴天應慳夸娥夜負還海上不得久在塵埃間
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仙山圖
+  author: 李承召
+  language: lzh
+  text: 吾聞海上三神山。六鰲頭戴何辛艱。千年力竭不耐久。一朝相失難追攀。馮夷海若惜不得。群仙錯愕愁相看。蒼波渺渺雲茫茫。漂泊幾年歸人寰。仙家物色尙依然。瓊林瑤草何斑斑。靈苗多是不死藥。我欲采之留朱顔。直恐群仙厭喧卑。稽首上訴天應慳。夸娥夜負還海上。不得久在塵埃間。
+korean:
+  title: 선산도
+  author: 이승소
+  language: kor
+  text: |-
+    내 들으니, 바다 위의 삼신산을
+    육오가 머리 위에 간신히도 이었으나
+    천년에 힘이 다해 견디다 못하여서
+    일조에 잃어버려 도로 찾지 못했다네
+    풍이(소신)ㆍ해약(해신)이 못내 아까워하고
+    뭇 신선들 깜짝 놀라 수심하여 마주보네
+    창파가 아득하고 구름이 망망하니
+    몇 해를 떠돌다가 인간에 돌아왔는고
+    선가의 물색이 아직도 의연하여
+    경림ㆍ요초가 어찌 저리 아롱진고
+    신령스러운 풀 싹이 대부분 불사약
+    내가 캐어다가 홍안을 멈추려 하나
+    뭇 신선들이 인간의 떠듦을 싫어하며
+    머리를 조아려 위에 호소하면 하늘이 응당 아끼리니
+    과아가 밤에 지고 바다 위로 돌아가서
+    오래 진세에 있지 못할까 저어하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0240&viewSync=OT
+  footnotes: []
+english:
+  title: The Immortal Mountains
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    I have heard of the three divine mountains upon the sea,
+    Where six great tortoises bore them on their heads with difficulty,
+    Yet after a thousand years their strength was spent,
+    And in a single day they vanished, lost beyond recovery.
+
+    Feng Yi and the Sea God mourned what they could not keep,
+    While the assembled immortals looked on in shock and sorrow,
+    As the azure waters grew distant and the clouds grew vast,
+    And after wandering for years, they returned to the human realm.
+
+    The immortal mountains' forms remain unchanged still—
+    See how the jade forests and precious grasses shimmer!
+    These sacred herbs are mostly the elixir of deathlessness,
+    And I wish to gather them to preserve my ruddy complexion.
+
+    But fearing the immortals despise the noise of mortals below,
+    I bow my head and entreat heaven, and heaven grows miserly.
+    So the goddess Kuaei carries them off into the night,
+    Returning them beyond the sea, lest they linger too long
+    Among the dust and debris of this world.
+  footnotes:
+  - key: ''
+    value: The three divine mountains (三神山) are legendary islands in Chinese and Korean mythology believed to float upon the sea, home to immortals and bearing wondrous plants of immortality.
+  - key: ''
+    value: The six tortoises (六鰲) reference the mythological supports of these floating mountains, which were said to grow weary over time.
+  - key: ''
+    value: Feng Yi (馮夷) is the river god, and the Sea God (海若) represents the personified sea itself.
+  - key: ''
+    value: The poem plays on the tension between the speaker's desire for immortality and the transience of all things, even the legendary islands of the immortals.

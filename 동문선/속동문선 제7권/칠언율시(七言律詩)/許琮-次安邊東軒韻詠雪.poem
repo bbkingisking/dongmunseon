@@ -1,0 +1,48 @@
+canonical:
+  title: 次安邊東軒韻詠雪
+  author: 許琮
+  language: lzh
+  text: 詩情不必灞橋中駕鶴樓前勢漫空日照藍田初纈眼林飄薝蔔已搖風嚙氈老監眞堪惜擒賊將軍最是雄遙想邊城寒又甚窮沙無路駐元戎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次安邊東軒韻詠雪
+  author: 許琮
+  language: lzh
+  text: 詩情不必灞橋中。駕鶴樓前勢漫空。日照藍田初纈眼。林飄薝蔔已搖風。嚙氈老監眞堪惜。擒賊將軍最是雄。遙想邊城寒又甚。窮沙無路駐元戎。
+korean:
+  title: 차 안변 동헌운 영설
+  author: 허종
+  language: kor
+  text: |-
+    시정은 반드시 패교에만 있는 것이 아니거니
+    가학루 앞의 형세는 공중에 가득하다
+    해가 남전을 비출 때 처음으로 눈에 어른거리고
+    숲이 담복에 나부낄 때에는 이미 바람을 흔들었었다
+    담요를 씹는 노감이 진실로 아까웠지만
+    적의 장수를 사로잡으매 그가 바로 영웅이었다
+    변방의 성을 멀리 생각하면 추위가 심한데
+    모래밭에 끝까지 길이 없어 원융을 머무르게 하였다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 적의 …… 영웅이었다 : '
+    value: 당나라 회서(淮西) 지방에서 반란을 일으켜 토벌할 때에, 회서 반란군의 근거지인 채주(蔡州)까지 120리를 밤 눈 오는 틈을 타서 급하게 달려가, 닭이 울 때에 성중에 돌입하여 그 대장을 사로잡았다. 그 지휘관 이소(李愬)가 참으로 영웅이란 말이다.
+english:
+  title: 'In Response to Anbyon''s Eastern Pavilion: A Poem on Snow'
+  author: Heo Jong
+  language: eng
+  text: |-
+    Poetic feeling need not dwell only in the Bagiyo frost.
+    Before the Crane Tower the mist spreads boundless through the sky.
+    When sunlight touches Namjeon, snow first catches the eye,
+    And when the magnolia sways, it has already stirred the wind.
+
+    The old sentinel gnawing felt—truly worthy of pity—
+    Yet the general who seized the rebel became the true hero.
+    Thinking of the border fortress from afar, the cold grows fierce;
+    Across the endless sands, no path remains for the commander to tarry.
+  footnotes:
+  - key: ''
+    value: The 'general who seized the rebel' refers to Li Su of the Tang dynasty, who led a daring night assault through falling snow, covering 120 li to the rebel stronghold of Caizhou, breaking in at dawn and capturing the enemy commander—an exemplar of martial valor.
+  - key: ''
+    value: The poem contrasts romantic notions of snow (as seen in the Bagiyo scene) with the harsh reality of snow in military campaigns on the frontier.

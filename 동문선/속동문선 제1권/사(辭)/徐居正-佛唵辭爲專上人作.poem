@@ -1,0 +1,59 @@
+canonical:
+  title: 佛唵辭爲專上人作
+  author: 徐居正
+  language: lzh
+  text: 佛之山深且逶迤兮佛之水淸且漣漪雲幽幽兮石鑿𨰢盟有白鷗兮招有黃鶴我嬰塵網兮我日思歸我旣無簪紱之累兮亦何事於依違也登山有車兮涉水有航我將從白蓮之遺則兮奚怊悵而悲傷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 佛唵辭爲專上人作
+  author: 徐居正
+  language: lzh
+  text: 佛之山深且逶迤兮。佛之水淸且漣漪。雲幽幽兮石鑿𨰢。盟有白鷗兮招有黃鶴。我嬰塵網兮我日思歸。我旣無簪紱之累兮。亦何事於依違也。登山有車兮涉水有航。我將從白蓮之遺則兮。奚怊悵而悲傷。
+korean:
+  title: 전상인을 위하여 불암사를 지음
+  author: 서거정
+  language: kor
+  text: |-
+    불암산이 깊고 또 구불구불한데
+    불암산 물은 맑고 또 살랑살랑 흐르누나
+    구름은 자욱하고 바위 삐죽삐죽
+    흰 갈매기 벗을 삼고 누른 학을 부르며 사네
+    내가 속세에 얽매였을 적에도
+    날마다 돌아갈 생각을 하였거니
+    내사 이미 잠발의 누가 없어졌으니
+    망설일 일이 무엇인고
+    산에 오를 수레도 있고
+    물을 건널 배도 있거니
+    나는 저 백련의 유칙을 따르려 하노니
+    어찌 슬퍼하고 슬퍼하겠나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1370_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 날마다 …… 하였거니 : '
+    value: 벼슬하는 사람은 머리에 잠을 꽂고 허리에 인끈[紱]을 찬다. 이것은 도연명(陶淵明)의 귀거래사(歸去來辭) 가운데 있는, ‘혜추창이독비(奚惆悵而獨悲)’란 귀절을 인용한 것인데, “지금이라도 깨달으면 되는데 왜 지난 일을 서글퍼만 하랴.” 하는 뜻이다.
+  - key: '[주-D002] 백련(白蓮) : '
+    value: 동진(東晋)의 중 혜원(慧遠)이 여산(盧山)  동림사(東林寺)에서 백련사(白蓮社)를 만들어, 그의 제사와 높은 선비 유유민(劉遺民) 종병(宗炳) 등과 함께 염불(念佛)을 하였는데, 연못에 흰 연꽃을 심었으므로 백련사라 이름하였다.
+english:
+  title: 'For the Venerable Master Jeon: A Poem on Buddha''s Cliff Temple'
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Buddha's mountain lies deep and winding,
+    Buddha's waters run clear and ripple gently.
+    Clouds gather in misty abundance, rocks jut sharp and severe—
+    White gulls befriend me, golden cranes answer my call.
+
+    Once I was bound in the net of the mundane world,
+    Yet day after day I dreamed of return.
+    Now that I have shed the trappings of office,
+    What hesitation should hold me back?
+
+    There are carts to climb the mountain,
+    There are boats to cross the water.
+    I shall follow the legacy of the White Lotus,¹
+    And why should sorrow weigh upon my heart?
+  footnotes:
+  - key: ''
+    value: The White Lotus refers to the White Lotus Society founded by the Buddhist monk Hui-yuan at the Eastern Grove Temple during the Eastern Jin dynasty. The society gathered monks and literati to practice devotion together, and was named after the white lotus flowers planted in the temple pond. Here it symbolizes the path of spiritual cultivation and Buddhist practice.
+  - key: ''
+    value: 'The poem alludes to Tao Yuanming''s ''Return Home,'' echoing the sentiment: ''Why lament the past when enlightenment is available now?'''

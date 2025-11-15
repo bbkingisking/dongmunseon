@@ -1,0 +1,34 @@
+canonical:
+  title: 李山甫詩議
+  author: 李奎報
+  language: lzh
+  text: 詩話又載李山甫覽漢史詩曰王莽弄來曾半沒曹公將去便平沉予意謂之此佳句也有高英秀者譏之曰是破船詩也予意以爲凡詩有言物之體者有不言其體而直言其用者山甫之寓意殆必以漢爲之船而直言其用曰半沒平沉也若其時山甫在而言曰子以吾詩爲破船詩然也予以漢擬之船而言之也而善乎子之能知也則爲英秀者其何辭以答之耶詩話亦以英秀爲惡喙薄徒則未必用其言也但詩話不及是議予所未知也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李山甫詩議
+  author: 李奎報
+  language: lzh
+  text: 詩話。又載李山甫覽漢史詩曰。王莽弄來曾半沒。曹公將去便平沉。予意謂之此佳句也。有高英秀者譏之曰。是破船詩也。予意以爲凡詩有言物之體者。有不言其體而直言其用者。山甫之寓意。殆必以漢爲之船。而直言其用曰。半沒平沉也。若其時山甫在而言曰。子以吾詩爲破船詩。然也。予以漢擬之船而言之也。而善乎子之能知也。則爲英秀者。其何辭以答之耶。詩話亦以英秀爲惡喙薄徒。則未必用其言也。但詩話不及是議。予所未知也。
+korean:
+  title: 이산보 시 의
+  author: 이규보
+  language: kor
+  text: 시화(詩話)에 또 이산보가 한사(漢史)를 보고 지은 시가 실렸다. 그 시에, “왕망(王莽)이 희롱해 옴에 절반이 없어졌고, 조공(曹公 조조를 말함)이 가져감에 모두 다 없어졌도다.”라는 구절이 있다. 내 생각에는 이것이 아름다운 구절이라고 여겼는데, 고영수(高英秀)란 사람은 이것을 나무라면서, “이 시는 파손된 배에 대한 시이지, 영사시(詠史詩)라고는 할 수 없다.” 하였다. 그러나 내 생각으로는, 대체 시에는 물 그 자체를 말하는 수도 있고 혹은 물 그 자체는 말하지 않고 그 용(用)을 말하는 수도 있으니, 이산보의 우의(寓意)는 응당 한(漢)나라를 배에 비유해서 그 용을 말하여, 절반이 없어졌느니, 모두 없어졌느니 한 것이다.만약, 고영수가 나무랄 때에 이산보가 거기에 있다가 “자네가 내 시를 파선시(破船詩)라고 한 것은 사실 그렇다. 내가 한 나라를 배에 비유하여 말한 것을 자네가 잘도 알아주니 다행이구나.”라고 말하였다면 고영수는 무슨 말을 가지고 답을 하였을까. 시화에 고영수는 악한 주둥아리이요, 경박한 무리라고 하였으니, 고영수가 시에 대해 평한 말은 신용할 만한 것이 안 된다. 다만 시화에서 이러한 논의를 하지 않은 것에 대해 나는 이해가 가지 않는다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1090_020_0050&viewSync=OT
+  footnotes: []
+english:
+  title: On Lee Sanbo's Poetry
+  author: Lee Gyeobbo
+  language: eng
+  text: |-
+    In the Poetry Record, there appears a poem by Lee Sanbo written upon reading the History of Han. In it are these lines: "When Wang Mang played his games, half vanished away; when Cao Cao bore it off, all was consumed." I regarded these as beautiful verses. Yet a man named Gao Yingxiu criticized them, saying, "This is merely a poem about a broken ship, not truly a poem on history."
+
+    However, I believe that poetry may speak of things in their nature, or it may refrain from naming the thing itself and speak only of its function. Sanbo's hidden meaning surely lies in comparing the Han dynasty to a ship, speaking only of what befell it: half lost, then wholly lost. Had Sanbo been present when Gao Yingxiu made this criticism, he might have replied: "You call my poem a broken ship poem—and you are right, for I did indeed liken Han to a ship and spoke of its fate. How generous of you to understand my intent so well." What answer could Gao Yingxiu then have given?
+
+    The Poetry Record condemns Gao Yingxiu as a man of bitter tongue and shallow mind, and thus his judgments deserve little trust. Yet I confess I do not understand why the Poetry Record itself did not engage in such reasoned discussion.
+  footnotes:
+  - key: ''
+    value: Wang Mang (r. 9-23 CE) was the usurper who briefly overthrew the Han dynasty. Cao Cao was the powerful warlord of the late Han period. Through these historical figures, Sanbo is commenting on the decline and fall of the dynasty itself.
+  - key: ''
+    value: The debate here centers on whether a poem's worth lies in its literal subject matter or in the allegorical meaning beneath it—a fundamental question in classical Chinese poetic criticism.

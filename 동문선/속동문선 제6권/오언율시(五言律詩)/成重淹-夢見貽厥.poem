@@ -1,0 +1,48 @@
+canonical:
+  title: 夢見貽厥
+  author: 成重淹
+  language: lzh
+  text: 磊落平生志蹉跎竟不伸天涯吾未返松下子成塵夜雨邊山寺秋風漢水濱當年辛苦事欲說更無因
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夢見貽厥
+  author: 成重淹
+  language: lzh
+  text: 磊落平生志。蹉跎竟不伸。天涯吾未返。松下子成塵。夜雨邊山寺。秋風漢水濱。當年辛苦事。欲說更無因。
+korean:
+  title: 손자를 본 꿈
+  author: 성중엄
+  language: kor
+  text: |-
+    굳세고 장대한 평생의 뜻을
+    불행히도 마침내 펴지 못했네
+    하늘 끝에서 나는 아직 못 돌아가고
+    솔 밑에서 그대 이미 진토되었네
+    변산 절에는 밤 비가 내리는데
+    한수가에는 가을 바람 불리라
+    그 때에 쓰라리고 괴롭던 일을
+    이야기하려 하나 할 길이 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0730&viewSync=OT
+  footnotes: []
+english:
+  title: A Dream of My Son
+  author: Seong Jung-eom
+  language: eng
+  text: |-
+    Your noble ambitions, towering and resolute through all your days,
+    Were cruelly thwarted, never given their full flowering.
+    I have not yet returned from the world's distant edge,
+    While beneath the pine trees you have already turned to dust.
+
+    Night rain falls upon the mountain temple at the border,
+    Autumn wind sweeps along the banks of the Han River.
+    Those years of bitter hardship and suffering—
+    I wish to speak of them, yet find no words remain.
+  footnotes:
+  - key: ''
+    value: The poem appears to be occasioned by a dream visitation from the poet's deceased son, suggesting a profound meditation on loss, unfulfilled aspirations, and the passage of time.
+  - key: ''
+    value: The pine tree (松) is a traditional symbol in East Asian poetry representing longevity and steadfastness, here contrasting poignantly with the son's premature death.
+  - key: ''
+    value: The Han River (漢水) and mountain settings evoke the Korean landscape while carrying the weight of separation between the living and the dead.

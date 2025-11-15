@@ -1,0 +1,81 @@
+canonical:
+  title: 辛旽 二首
+  author: 李達衷
+  language: lzh
+  text: 天地生成品彙煩誰干洪造檀寒暄歡情浹洽藏春塢怒氣陰凝蔽日雲雉蜃鷹鳩猶足恠龍魚鼠虎豈容言可憐老木風吹倒蘿蔦離披失所援騁恠馳妖老野狐那知有手競張弧威能假虎熊羆懾媚惑爲男婦女趨黃狗蒼鷹眞所忌旽性畜鷹犬者憚之 烏鷄白馬是何辜旽旣老以烏鷄白馬肉作宣淫之藥餌 甞聞汝死必丘首已見城東官道隅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 辛旽 二首
+  author: 李達衷
+  language: lzh
+  text: 天地生成品彙煩。誰干洪造檀寒暄。歡情浹洽藏春塢。怒氣陰凝蔽日雲。雉蜃鷹鳩猶足恠。龍魚鼠虎豈容言。可憐老木風吹倒。蘿蔦離披失所援。騁恠馳妖老野狐。那知有手競張弧。威能假虎熊羆懾。媚惑爲男婦女趨。黃狗蒼鷹眞所忌。旽性畜鷹犬者憚之。 烏鷄白馬是何辜。旽旣老。以烏鷄白馬肉。作宣淫之藥餌。 甞聞汝死必丘首。已見城東官道隅。
+korean:
+  title: 신돈 이수
+  author: 이달충
+  language: kor
+  text: |-
+    천지가 만물을 낳아 그 종류가 무수하되
+    누가 조화를 범하여 제맘대로 차고 덥게 했던고
+    기쁜 정 담뿍 쏟을 제는 봄이 든 동산
+    성낼 제는 음기 뭉치면 해를 가리는 구름
+    꿩이 조개로 매가 비둘기 됨이 오히려 괴상커니
+    용이 고기되고 쥐가 범됨을 어찌 차마 말하리
+    가련타 늙은 나무 바람 불어 넘어지면
+    감았던 겨우살이 덩굴들 의탁할 곳 잃으리
+    요괴한 짓 멋대로 부리는 늙은 여우
+    사람들 다투어 활 당기는 줄 제 어이 알리
+    여우가 범의 위엄을 비니 곰들이 벌벌 떨고
+    여우가 남자로 변하여 호리니 부녀들 줄줄 몰려가네
+    누른 개와 보라매를 꺼림은 마땅커니
+    돈의 성질이 매와 개를 기르는 자를 꺼려 무서워한다.
+    검정 닭 흰 말은 무슨 죄 지었던고
+    돈이 늙어지자 검정 닭 흰 말 고기를 조양재로 먹었다.
+    네가 죽으면 머리를 언덕 향한다더니
+    보아라 벌써 성 동쪽 한길가에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 용이 고기되고 쥐가 범됨 : '
+    value: 이태백의 시에 있는 말인데, 임금이 신하에게 압제받는 것이 용이 고기[漁]가 되는 것이요, 권력이 신하에게 돌아간 것은 쥐가 호랑이로 변하였다는 것이다.
+  - key: '[주-D002] 〈여우가〉 범의 위엄을 비니 : '
+    value: 여우가 범을 꾀어 제 뒤에 따르게 하고 앞장서서 나가매 뭇 짐승들이 달아나는지라, 범이 짐승들이 저를 무서워하는 줄을 모르고 여우를 무서워 하는 줄로 믿는다는 이야기. 윗 사람의 위엄을 빌어 남을 공갈함을 비유. 《國策》
+  - key: '[주-D003] 네가 죽으면 …… 향한다더니 : '
+    value: “새는 날아 고향으로 돌아가고, 토끼는 뛰어 굴로 돌아가며, 여우는 죽을 적에 제 살던 언덕으로 머리둔다.[狐死首丘]”
+  - key: '[주-D001] 檀 : '
+    value: 擅
+english:
+  title: 'On Sin Don: Two Poems'
+  author: Lee Dal-chung
+  language: eng
+  text: |-
+    Heaven and earth bring forth ten thousand kinds,
+    Yet who transgresses the cosmic order to make warmth and cold?
+    When joy floods the spring valley with delight,
+    When anger gathers in clouds that blot the sun—
+
+    Pheasants become clams, hawks turn into doves, strange still,
+    Yet how dare I speak of dragons turned to fish, mice become tigers?
+    Poor ancient tree! When wind topples you to earth,
+    The ivy that clung to you loses all its hold.
+
+    An old fox runs wild with supernatural tricks,
+    How could it know men draw their bows in competition?
+    The fox borrows the tiger's might—bears tremble,
+    The fox takes a man's form—women follow in throngs.
+    We fear the yellow dog, we dread the blue hawk,
+    But Sin Don feared those who kept such creatures.
+
+    What crime had the black rooster, the white horse done?
+    When Sin Don grew old, he ground their flesh
+    Into a potion to feed his appetites.
+    They say the fox, when dying, turns its head toward home—
+    Now see where his head rests: by the road east of the city walls.
+  footnotes:
+  - key: ''
+    value: Sin Don (辛旽, d. 371) was a powerful Buddhist monk and political figure in Goryeo who wielded immense authority and engaged in various abuses, particularly through the use of supernatural and manipulative tactics. This poem is a thinly veiled political critique of his corruption.
+  - key: ''
+    value: The reference to dragons becoming fish and mice becoming tigers alludes to a poem by Li Bai about the reversal of natural order when the powerful oppress the weak.
+  - key: ''
+    value: The fox borrowing the tiger's majesty is a classical allusion from the Warring States period, representing how the corrupt use borrowed authority to intimidate others.
+  - key: ''
+    value: The final reference to the fox turning its head toward home when dying (a classical Chinese idiom about returning to one's origins) suggests Sin Don's ultimate downfall and disgrace.

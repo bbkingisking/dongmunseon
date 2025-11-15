@@ -1,0 +1,35 @@
+canonical:
+  title: 開樽愛月
+  author: 孫舜孝
+  language: lzh
+  text: 月白東巒便照堂一樽涵得幾多光只憐些子淸輝發不許庸人取次嘗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 開樽愛月
+  author: 孫舜孝
+  language: lzh
+  text: 月白東巒便照堂。一樽涵得幾多光。只憐些子淸輝發。不許庸人取次嘗。
+korean:
+  title: 개준 애월
+  author: 손순효
+  language: kor
+  text: |-
+    동쪽 봉우리의 흰 달이 갑자기 마루를 비추거니
+    한 항아리에 얼마나 많은 빛을 담을 수 있겠는가
+    다만 조그만 이것이 내는 맑은 빛을 사랑하여
+    용렬한 사람 함부로 맛보는 것을 허락하지 않는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0350&viewSync=OT
+  footnotes: []
+english:
+  title: Opening a Vessel to Admire the Moon
+  author: Sun Shun-hyo
+  language: eng
+  text: |-
+    The moon rises white above the eastern peaks, suddenly illuminating the hall.
+    How much of its radiance can a single vessel hold?
+    I treasure only this subtle gleam it casts—
+    I grant no common soul permission to taste it carelessly.
+  footnotes:
+  - key: ''
+    value: The poem uses the metaphor of wine in a vessel to represent the distilled essence of moonlight, suggesting that true beauty is rare and not for indiscriminate consumption.

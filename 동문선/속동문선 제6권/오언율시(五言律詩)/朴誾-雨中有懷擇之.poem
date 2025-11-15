@@ -1,0 +1,48 @@
+canonical:
+  title: 雨中有懷擇之
+  author: 朴誾
+  language: lzh
+  text: 寒雨不宜菊小尊知近人閉門紅葉落得句白頭新歡憶情親友愁添寂寞晨何當靑眼對一笑見陽春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雨中有懷擇之
+  author: 朴誾
+  language: lzh
+  text: 寒雨不宜菊。小尊知近人。閉門紅葉落。得句白頭新。歡憶情親友。愁添寂寞晨。何當靑眼對。一笑見陽春。
+korean:
+  title: 우중 유회 택지
+  author: 박은
+  language: kor
+  text: |-
+    찬 비는 국화에 좋지 않은데
+    술 항아리 작으매 가까운 사람 안다
+    문을 닫고 있노니 단풍잎 지고
+    시를 얻고 나니 흰 머리 새로워라
+    정든 친한 벗을 즐거이 생각나니
+    시름은 적막한 새벽에 더해진다
+    언제나 푸른 눈(정다운 표정)으로 마주 앉아서
+    한 벗 웃으며 따뜻한 봄을 본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0840&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections in the Rain, Choosing from Among Them
+  author: Park Eun
+  language: eng
+  text: |-
+    Cold rain is unkind to chrysanthemums.
+    A small cup of wine reveals who truly draws near.
+    Behind closed doors, crimson leaves descend.
+    With a poem gained, white hair seems born anew.
+
+    I recall with joy the friends I hold dear,
+    Yet sorrow deepens in the desolate dawn.
+    When shall we meet again with gentle eyes,
+    And laugh together to see spring's warm return?
+  footnotes:
+  - key: ''
+    value: The chrysanthemum traditionally symbolizes resilience and endurance through hardship in East Asian poetry; here, the cold rain suggests that even steadfast things suffer in bleakness.
+  - key: ''
+    value: The small cup of wine is a common image in classical Chinese and Korean poetry representing intimate fellowship and honest companionship.
+  - key: ''
+    value: White hair appearing anew through poetry suggests a paradoxical renewal—aging combined with artistic creation bringing fresh vitality to life.

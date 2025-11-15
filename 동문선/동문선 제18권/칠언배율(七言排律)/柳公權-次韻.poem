@@ -1,0 +1,83 @@
+canonical:
+  title: 次韻
+  author: 柳公權
+  language: lzh
+  text: 松徑崎嶇石自層不敎凡骨到仙洲鸞輿忽幸黃金刹鳳衮俄臨白玉樓霞月勸留三日賞溪山供解萬機憂風蟬噪破祗園靜谷鳥啼殘小室幽庭栢依然溫室樹軒溪卽是醴泉流禪僧詩句碧雲暮法部笙歌紅葉秋北塞近聞妖霧捲南州已報稼雲收大平多暇揮神翰巨韻成篇記勝遊過沛宴酣何足美橫汾樂極亦應羞微臣濫預賡歌列自愧無塩倚莫愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻
+  author: 柳公權
+  language: lzh
+  text: 松徑崎嶇石自層。不敎凡骨到仙洲。鸞輿忽幸黃金刹。鳳衮俄臨白玉樓。霞月勸留三日賞。溪山供解萬機憂。風蟬噪破祗園靜。谷鳥啼殘小室幽。庭栢依然溫室樹。軒溪卽是醴泉流。禪僧詩句碧雲暮。法部笙歌紅葉秋。北塞近聞妖霧捲。南州已報稼雲收。大平多暇揮神翰。巨韻成篇記勝遊。過沛宴酣何足美。橫汾樂極亦應羞。微臣濫預賡歌列。自愧無塩倚莫愁。
+korean:
+  title: 차운
+  author: 유공권
+  language: kor
+  text: |-
+    솔 사이 길이 험하여 돌이 층층일세
+    심상한 범골이야 이 선경에 어찌 오리
+    난여가 문득 황금찰에 거둥하사
+    용포가 헌걸차게 백옥루에 임하셨네
+    노을과 달이 사흘 묵어 구경하기 권하고
+    계산은 만기 근심 놓으시라 하네
+    매미 소리 멎으니 기원이 조용하고
+    골짜기에 남은 새 울음소리 작은 집에 그윽한데
+    뜰의 잣은 그대로 온실의 나무인 듯
+    난간 앞 흐르는 시내는 그게 곧 예천이다
+    선승이 시 아뢰니 푸른 구름 저물었는데
+    법부(악부)의 생가는 단풍 가을 노래하네
+    북새의 소식은 오랑캐 다 물러가고
+    남주엔 풍년 들어 곡식 벌써 거뒀다네
+    태평시대 틈 많으시어 신한(임금의 글씨)을 휘두르시니
+    장편시를 지으시어 좋은 놀이 기념하네
+    풍패(豊沛)의 잔치가 이보다 더 흐뭇했으리
+    분수(汾水)의 즐거움도 이만은 못했으리
+    미신이 외람되이 경가의 열에 참예하니
+    무염이 막수 옆에 기댄 듯 부끄럽기 그지없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 난간 앞…… 예천(醴泉)이다 : '
+    value: 태평시대에는 상서(祥瑞)로서 땅에서 예천(醴泉)이 솟아난다 한다. 예천은 단술과 같은 샘물이다.
+  - key: '[주-D002] 선승이 …… 저물었는데 : '
+    value: 육조(六朝) 때에 시승(詩僧) 혜휴(惠休)의 시에, “해 저물고 푸른 구름 합했는데 가인이 오지 않네[日暮碧雲合 佳人殊未來].” 하는 명구(名句)가 있다.
+  - key: '[주-D003] 풍패(豊沛)의 잔치 : '
+    value: 풍패는 한 고조(漢高祖)의 고향. 그가 천하를 얻자 고향에 가 부로(父老)들을 모아 큰 잔치를 베풀고 그 자리에서 ‘대풍가(大風歌)’를 지어 노래하고 크게 즐겼다.
+  - key: '[주-D004] 분수(汾水)의 즐거움 : '
+    value: 한 무제(漢武帝)가 분수(汾水)의 뱃놀이에서 추풍사(秋風辭)를 지었다.
+  - key: '[주-D005] 무염(無鹽)이 막수(莫愁) : '
+    value: 무염은 전국 시대 때 제(齊)나라에서 얼굴 못생기기로 유명하였으며, 막수는 양(梁)나라 낙양의 예쁜 소녀의 이름.
+english:
+  title: Matching a Rhyme Scheme
+  author: Liu Gongquan
+  language: eng
+  text: |-
+    The pine path winds through jagged stone, layered upon layer—
+    Yet common bones should never tread this realm of immortals.
+    Suddenly the phoenix carriage graces the golden temple,
+    While dragon robes descend with majesty upon the white jade tower.
+    The rosy clouds and moon persuade us to linger three days in wonder,
+    As streams and mountains dissolve ten thousand cares of office.
+    When the cicadas cease their song, the sacred garden falls silent,
+    And the valley birds' last cries echo through the small hermitage, austere.
+    The courtyard cypress stands as always, like the winter sanctuary,
+    While the stream beside the rail flows as the sweet spring of good omen.
+    The Buddhist monks present their verses in the twilight of blue clouds,
+    As the temple orchestra sings the autumn of crimson leaves.
+    From the northern frontier comes word that the demon mists have scattered,
+    While the southern lands report the harvest gathered in.
+    In times of great peace, with leisure abundant, the divine brush moves,
+    And long verses are composed to commemorate this blessed journey.
+    The banquet at Fengpei could hardly match such sweetness,
+    Nor could the pleasures of Fenshui achieve such joy.
+    This humble servant presumes to join the chorus of court poets,
+    Yet feels as ashamed as plain Wu-yan leaning beside fair Mo-chou.
+  footnotes:
+  - key: ''
+    value: 'The white jade tower and golden temple: celestial or imperial structures suggesting a realm beyond the ordinary.'
+  - key: ''
+    value: 'The sweet spring (醴泉): a legendary spring that flows during times of virtuous rule and great harmony, symbolizing the auspiciousness of the age.'
+  - key: ''
+    value: 'The blue clouds and crimson leaves: evoking the ephemeral beauty of the hermitage and the turning seasons.'
+  - key: ''
+    value: 'Fengpei and Fenshui: historical references to grand imperial celebrations in ancient China, against which the poet''s contemporary occasion is favorably compared.'

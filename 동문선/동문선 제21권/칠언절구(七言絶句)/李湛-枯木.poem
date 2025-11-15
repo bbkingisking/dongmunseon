@@ -1,0 +1,37 @@
+canonical:
+  title: 枯木
+  author: 李湛
+  language: lzh
+  text: 白虯倒立碧山陰斤斧人遙歲月深堪嘆春風吹又過舊枝無復有花心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 枯木
+  author: 李湛
+  language: lzh
+  text: 白虯倒立碧山陰。斤斧人遙歲月深。堪嘆春風吹又過。舊枝無復有花心。
+korean:
+  title: 고목
+  author: 이담
+  language: kor
+  text: |-
+    흰 이무기 푸른 산 그늘에 거꾸로 서 있는데
+    자귀와 도끼를 가진 사람 멀어졌고 오랫동안 세월도 깊어졌다
+    못내 한탄하노니 봄바람이 또 불어 지나가건만
+    옛 가지에 다시는 꽃 필 마음이 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1050&viewSync=OT
+  footnotes: []
+english:
+  title: Dead Wood
+  author: Lee Dam
+  language: eng
+  text: |-
+    A white serpent stands inverted in the blue mountain's shadow.
+    The woodcutter's axe grows distant, the years pile deep.
+    I lament—spring wind blows and passes once more,
+    yet the ancient branches harbor no heart to bloom again.
+  footnotes:
+  - key: ''
+    value: The 'white serpent' (白虯) is an image of a weathered, pale tree trunk standing bare against the mountainside. In classical poetry, such images often evoke both the beauty of decay and the melancholy of transience.
+  - key: ''
+    value: The poem uses the woodcutter's absence as a marker of time's passage, suggesting that even potential use or purpose has become distant and forgotten.

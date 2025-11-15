@@ -1,0 +1,54 @@
+canonical:
+  title: 民望傳郭秘丞見心歿嗚呼見心已矣吾與民望流離嶺表行且徂歲存歿可哀情見乎辭見心名復
+  author: 李崇仁
+  language: lzh
+  text: 此生足可惜吾友復云亡作賦山陽客修文地下郞風霜流景暮詩酒舊游涼何事中宵月愁時滿屋樑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 民望傳郭秘丞見心歿嗚呼見心已矣吾與民望流離嶺表行且徂歲存歿可哀情見乎辭見心名復
+  author: 李崇仁
+  language: lzh
+  text: 此生足可惜。吾友復云亡。作賦山陽客。修文地下郞。風霜流景暮。詩酒舊游涼。何事中宵月。愁時滿屋樑。
+korean:
+  title: 민망이 곽비승 견심의 죽음을 전하다. 슬프다, 견심이 갔구나. 내가 민망과 함께 영표에 유리하며 장차 떠돌아다니기 해를 넘기려 하니, 살아 있는 이 죽은 이 진실로 애처롭다는 정이 글에 나타난다. 견심의 이름은 복이다
+  author: 이숭인
+  language: kor
+  text: |-
+    이 생이 가히 아까운데
+    내 벗이 또 죽었다 하네
+    부를 짓는 산양의 손이요
+    수문하는 낭관일세
+    풍상에 세월은 저물어가고
+    시와 술 전일의 놀이가 처량하네
+    무슨 일로 밤중 달은
+    시름할 때 집 들보에 가득 비쳐오느니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 산양(山陽) : '
+    value: 진(晉)나라 상수(向秀)가 산양(山陽)을 지나다가 날이 저물었는데, 피리[笛] 소리를 듣고 죽은 친구 혜강(嵇康)ㆍ완적(阮籍)과 그곳에서 놀던 것을 생각하여 사구부(思舊賦)를 지었다.
+  - key: '[주-D002] 수문(修文)하는 낭관(郞官) : '
+    value: 진(晉)나라 소소(蘇韶)가 죽었다가 살아나서 말하기를, “공자의 제자 안연(顔淵)과 복상(卜商)이 지하(地下)에서 수문랑(修文郞) 벼슬에 있더라.” 하였다.
+  - key: '[주-D003] 밤중 달은 시름할 때 집 들보[屋樑]에 가득 : '
+    value: 두보(杜甫)가 친구 이백(李白)을 생각하는 시에, “떨어지는 달이 들보에 가득하니, 그대의 안색을 보는가 의심하네[落月滿屋樑猶疑見顔色].” 하는 구절이 있다.
+english:
+  title: 'Lament on the Death of Gyeongsim: A Message from Minwang to the Secret Minister Guo'
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    This life is precious—how it grieves me—
+    Yet another friend has passed away.
+    I compose verses like that mountain wanderer,
+    And grieve like the scribe in the underworld.
+
+    Wind and frost consume the fading year,
+    The old pleasures of poetry and wine grow desolate.
+    Why does the midnight moon
+    Fill the rafters of my house when sorrow weighs upon me?
+  footnotes:
+  - key: ''
+    value: The 'mountain wanderer' references Xiang Xiu of Jin, who passed through Shanyang and heard a flute's melody, evoking memories of deceased friends Xikang and Juan Ji, inspiring him to write the 'Rhapsody on Longing for the Past.'
+  - key: ''
+    value: The 'scribe in the underworld' alludes to Su Shao of Jin, who reportedly returned from death to describe disciples of Confucius—Yan Hui and Bu Shang—serving as officials in the realm below.
+  - key: ''
+    value: 'The image of moonlight filling the rafters echoes Du Fu''s elegy for his departed friend Li Bai: ''The fallen moon fills the rafters—do I see in shadow your familiar face?'''

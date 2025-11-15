@@ -1,0 +1,55 @@
+canonical:
+  title: 木綿詞
+  author: 成俔
+  language: lzh
+  text: 江南木緜色逾白晴雪紛紛鋪簟席小機搖作鴉櫓聲軟弧彈罷秋雲薄東隣有婦坐夜闌風回粉絮縈烏鬟織成新布機杼促扎扎輕梭玉指寒半擬新袴與小兒半作寒衣托邊陲心酸意苦眠不得孤燈閃閃明維幃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 木綿詞
+  author: 成俔
+  language: lzh
+  text: 江南木緜色逾白。晴雪紛紛鋪簟席。小機搖作鴉櫓聲。軟弧彈罷秋雲薄。東隣有婦坐夜闌。風回粉絮縈烏鬟。織成新布機杼促。扎扎輕梭玉指寒。半擬新袴與小兒。半作寒衣托邊陲。心酸意苦眠不得。孤燈閃閃明維幃。
+korean:
+  title: 목면사
+  author: 성현
+  language: kor
+  text: |-
+    강남의 무명이 빛이 더 흰데
+    눈처럼 분분히 자리 위에 펴 놓았네
+    작은 씨앗을 삐걱삐걱 돌려서
+    연한 활로 타 내니 가을 구름처럼 엷어라
+    동편 집의 색시 밤늦도록 앉아서
+    물레를 돌려 꾸리에 돌돌 감아
+    새 베를 짜느라고 베틀에 올라앉아
+    찰깍찰깍 북 보내니 손가락이 싸늘해라
+    반은 새 고의 만들어 어린애를 줘야겠고
+    반은 저고리 만들어서 변방에 부쳐야겠네
+    마음이 산란하여 잠도 안 오는데
+    외로운 등불만 깜박깜박 휘장을 비추누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: On Cotton
+  author: Sung Hyun
+  language: eng
+  text: |-
+    The cotton of the South shines brighter than snow,
+    Scattered white across the mat like winter's fall.
+    The small spindle turns with creaking sound,
+    As soft hands card it thin as autumn clouds.
+
+    A woman from the eastern house sits through the night,
+    Her spinning wheel winds thread upon the spool,
+    Her fingers dance upon the loom,
+    Clicking, clicking—the shuttle flies, her hands grow numb with cold.
+
+    Half she'll fashion into garments for her child,
+    Half she'll weave to send to those at the frontier's edge.
+    Anxious thoughts consume her, sleep won't come,
+    The lonely lamp flickers—its light, her only companion.
+  footnotes:
+  - key: ''
+    value: The poem celebrates cotton work as both domestic labor and patriotic duty, with the woman dividing her output between family care and support for soldiers at the border.
+  - key: ''
+    value: The contrast between the whiteness and softness of cotton and the woman's hardship creates the emotional tension of the piece.

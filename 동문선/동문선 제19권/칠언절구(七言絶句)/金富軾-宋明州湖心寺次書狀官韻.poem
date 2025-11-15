@@ -1,0 +1,37 @@
+canonical:
+  title: 宋明州湖心寺次書狀官韻
+  author: 金富軾
+  language: lzh
+  text: 郡城南畔水無窮曲徑浮橋關復通安得此身謝拘檢扁舟容颺一江風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宋明州湖心寺次書狀官韻
+  author: 金富軾
+  language: lzh
+  text: 郡城南畔水無窮。曲徑浮橋關復通。安得此身謝拘檢。扁舟容颺一江風。
+korean:
+  title: 송나라 명주 호심사에서 서장관의 운을 따라
+  author: 김부식
+  language: kor
+  text: |-
+    고을 성 남쪽 기슭에 물이 무궁하여
+    굽은 길 부교가 막혔다가 다시 통하네
+    이 몸이 어찌 구속을 벗어나
+    편주로 한 강바람에 나부낄꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0190&viewSync=OT
+  footnotes: []
+english:
+  title: At Huxin Temple in Mingzhou, Following the Rhyme of the Director of Documents
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    South of the district town, water stretches without end,
+    Winding paths and floating bridges—blocked, then open again.
+    How can this body escape the bonds that confine it?
+    In a small boat, I would drift upon the river wind.
+  footnotes:
+  - key: ''
+    value: Huxin Temple (湖心寺) was a renowned Buddhist temple in Mingzhou (明州), located in what is now Zhejiang Province, China. The poem's setting evokes both physical and spiritual freedom.
+  - key: ''
+    value: The 'Director of Documents' (書狀官) refers to an official to whose rhyme scheme the poet is responding, a common practice in classical East Asian poetry.

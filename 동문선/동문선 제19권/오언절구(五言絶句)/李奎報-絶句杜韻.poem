@@ -1,0 +1,41 @@
+canonical:
+  title: 絶句杜韻
+  author: 李奎報
+  language: lzh
+  text: 曲塢花迷眼深園草沒腰霞殘餘綺散雨急亂珠跳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 絶句杜韻
+  author: 李奎報
+  language: lzh
+  text: 曲塢花迷眼。深園草沒腰。霞殘餘綺散。雨急亂珠跳。
+korean:
+  title: 절구 두운
+  author: 이규보
+  language: kor
+  text: |-
+    굽은 언덕길에 꽃이 눈을 어지럽히고
+    깊은 동산엔 풀이 허리까지 파묻네
+    놀이 늦으니 흩어진 비단 자락이요
+    비가 급하니 어지러운 구슬이 뛰네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 절구 두운(杜韻) : '
+    value: 두운이란 두보(杜甫)가 지은 시의 운(韻)을 그대로 쓴 것이다.
+  - key: '[주-D002] 놀[霞]이 …… 자락이요 : '
+    value: 사조(謝眺)의 시에, “여하산성기(餘霞散成綺)”라는 귀절이 있다.
+english:
+  title: Quatrain in Du Fu's Rhyme
+  author: Lee Gyeong-bo
+  language: eng
+  text: |-
+    Along the winding valley path, flowers dazzle the eye,
+    In the deep garden, grass rises to hide the waist.
+    As evening fades, scattered silk streamers drift,
+    When rain grows fierce, confused pearls leap and dance.
+  footnotes:
+  - key: ''
+    value: This poem follows the rhyme scheme of Du Fu (杜甫), the great Tang Dynasty poet, as indicated by the title.
+  - key: ''
+    value: The image of scattered silk and pearls alludes to imagery found in classical Chinese poetry, evoking both natural beauty and the transience of the moment.

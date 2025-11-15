@@ -1,0 +1,47 @@
+canonical:
+  title: 見德城卽事
+  author: 林惟正
+  language: lzh
+  text: 庭靜秋雲淡智圓 城寬夜月澄李洞 沙飜痕似浪張蠙 山遠燒如燈李師中 酒熟思才子錢起 詩成寄岳僧智圓 天涯故人少杜甫 高閣與誰憑智圓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 見德城卽事
+  author: 林惟正
+  language: lzh
+  text: 庭靜秋雲淡。智圓。 城寬夜月澄。李洞。 沙飜痕似浪。張蠙。 山遠燒如燈。李師中。 酒熟思才子。錢起。 詩成寄岳僧。智圓。 天涯故人少。杜甫。 高閣與誰憑。智圓。
+korean:
+  title: 견덕성 즉사
+  author: 임유정
+  language: kor
+  text: |-
+    뜰이 고요한데 가을 구름이 해맑고 지원(智圓)
+    성이 비었는데, 밤 달이 맑구나 이동(李洞)
+    모래가 일렁거리니 흔적이 물결처럼 장빈(張蠙)
+    산이 머니 불은 타는 등불마냥 보이네 이사중(李師中)
+    술이 익으니 재자 생각이 나고 전기(錢起)
+    시를 지어선 산승에게 부치네 지원(智圓)
+    벗도 적은 하늘끝 이 고장에 두보(杜甫)
+    누구와 이 높은 각에 함께 기댈꼬 지원(智圓)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: Upon Visiting Deseong Castle
+  author: Lim Yu-jeong
+  language: eng
+  text: |-
+    The courtyard rests in silence—autumn clouds drift pale and clear.
+    The city lies empty—night's moon shines pristine and bright.
+    Sand ripples and churns—its traces shimmer like waves.
+    The distant mountains glow—their fires burn like lanterns in the dark.
+    Wine matures to sweetness—thoughts of talented poets arise.
+    A poem composed—sent onward to the mountain monks.
+    Few are the old friends—in this far corner of heaven.
+    Who might lean with me—upon this lofty pavilion's rail?
+  footnotes:
+  - key: ''
+    value: The poet weaves together lines and couplets from various celebrated Tang poets (Zhiyuan, Li Dong, Zhang Hu, Li Shizhong, Qian Qi, and Du Fu), a sophisticated compositional technique that demonstrates both erudition and homage to the poetic tradition.
+  - key: ''
+    value: The progression moves from natural observation to human reflection, culminating in a meditation on solitude and the absence of kindred spirits—a common theme in classical East Asian poetry.
+  - key: ''
+    value: Deseong Castle (德城) likely refers to a historical fortress or watchtower, serving as the concrete setting for this more abstract meditation on poetry, friendship, and the passage of time.

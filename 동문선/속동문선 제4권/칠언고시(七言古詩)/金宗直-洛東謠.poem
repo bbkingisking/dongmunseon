@@ -1,0 +1,80 @@
+canonical:
+  title: 洛東謠
+  author: 金宗直
+  language: lzh
+  text: 黃池之源纔濫觴奔流到此何湯湯一水中分六十州津渡幾處聯帆檣海門直下四百里便風分送往來商朝發月波亭暮宿觀水樓樓下綱船千萬緍南民何以堪誅求缾甖已罄橡栗空江干歌吹椎肥牛皇華使者如流星道傍髑髏誰問名少女風王孫草遊絲澹澹弄芳渚望眼悠悠入飛鳥故鄕花事轉頭新凶年不屬嬉遊人倚柱且高歌忽覺春興慳白鷗欲笑我似忙還似閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 洛東謠
+  author: 金宗直
+  language: lzh
+  text: 黃池之源纔濫觴。奔流到此何湯湯。一水中分六十州。津渡幾處聯帆檣。海門直下四百里。便風分送往來商。朝發月波亭。暮宿觀水樓。樓下綱船千萬緍。南民何以堪誅求。缾甖已罄橡栗空。江干歌吹椎肥牛。皇華使者如流星。道傍髑髏誰問名。少女風王孫草。遊絲澹澹弄芳渚。望眼悠悠入飛鳥。故鄕花事轉頭新。凶年不屬嬉遊人。倚柱且高歌。忽覺春興慳。白鷗欲笑我。似忙還似閑。
+korean:
+  title: 낙 동 요
+  author: 김종직
+  language: kor
+  text: |-
+    황지의 근원 물은 겨우 잔에 넘쳤는데
+    냅다 흘러 예 와서는 넓기도 한지고
+    한 물이 60주를 좌우로 갈라
+    몇 군데 나루 터에 배들이 이었는고
+    바다까지 곧 바로 내려가길 4백 리
+    편풍에 왕래하는 장자꾼 배들
+    아침에 월파정을 떠나
+    저녁에 관수추에 묵으니
+    주 아래 천만 량을 실었으니
+    남토의 백성들 어찌 토색을 견디어내리
+    쌀독도 비었고, 도토리ㆍ밤도 없는데
+    강가에선 노래와 풍류, 살찐 소를 잡는구나
+    나라의 사자들은 유성과 같건마는
+    길가의 해골들은 누가 이름이나 물어보리
+    소녀처럼 부는 바람 왕손을 울리는 풀
+    아지랑이 아물아물 봄 물가에 하늘거리는데
+    바라보는 내 눈은 멀리 새 나는 곳까지
+    고향의 꽃소식은 새로웠으리만
+    흉년이라 봄들이하는 사람도 없으리
+    기둥에 기대어서 노래하느라니
+    봄흥도 문득 잡쳐지누나
+    갈매기는 나를 웃으려는 듯
+    바쁜 듯하고 한가한 듯도 하고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: A Song of the Nakdong River
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    The Yellow Pool's source scarcely filled a cup,
+    yet here it rushes, grown boundless and wide.
+    One river splits six dozen states in two,
+    and ferries multiply at countless fords.
+    Straight down to the sea four hundred leagues it flows,
+    fair winds bearing merchants back and forth.
+
+    We set out at dawn from Moonwave Pavilion,
+    rest at evening in the Waterwatch Tower.
+    Below it, thousand-ton barges crowd the dock,
+    while southern folk endure their tax collector's squeeze.
+    The rice jars empty, acorns and chestnuts gone,
+    yet by the river's edge, songs and feasts, fat cattle slaughtered.
+
+    The emperor's messengers flash like shooting stars,
+    but none inquire the names of skulls beside the road.
+    Wild winds keen like maidens, grass bows for princes,
+    haze shimmers thin above the spring waters.
+    My gaze reaches far to where the birds take flight,
+    yet home's flowers bloom renewed in absent springs.
+    In lean years, no one lingers for such pleasures.
+
+    Leaning on a pillar, I sing aloud,
+    when suddenly spring's joy grows sharp and small.
+    The white gull seems to mock me—
+    now hurried, now at ease, now hurried again.
+  footnotes:
+  - key: ''
+    value: The 'Yellow Pool' (黃池) refers to the Nakdong River's source in the mountains of central Korea, a traditional poetic opening suggesting humble origins that grow into something magnificent.
+  - key: ''
+    value: The river's division of 'six dozen states' reflects the administrative divisions through which it flows, emphasizing its economic and political significance.
+  - key: ''
+    value: This poem contrasts the grandeur of imperial commerce and power with the suffering of common people—an implicit social critique characteristic of 15th-century Korean literati.

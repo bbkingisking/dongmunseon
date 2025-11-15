@@ -1,0 +1,35 @@
+canonical:
+  title: 書星龍寺兩花門
+  author: 崔鴻賓
+  language: lzh
+  text: 古樹鳴朔吹微波漾殘暉徘徊想前事不覺淚沾衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書星龍寺兩花門
+  author: 崔鴻賓
+  language: lzh
+  text: 古樹鳴朔吹。微波漾殘暉。徘徊想前事。不覺淚沾衣。
+korean:
+  title: 서 성룡사 양화문
+  author: 최홍빈
+  language: kor
+  text: |-
+    고목은 삭풍에 울고
+    잔잔한 물결 위에 저녁볕이 일렁인다
+    배회하면서 옛일을 생각하노니
+    눈물이 옷을 적심을 깨닫지 못하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: Writing at the Two Flower Gate of Seongryong Temple
+  author: Choe Hong-bin
+  language: eng
+  text: |-
+    Ancient trees cry out in the winter wind.
+    Gentle ripples shimmer with the fading light.
+    As I wander and ponder what has passed,
+    I do not notice the tears that wet my robe.
+  footnotes:
+  - key: ''
+    value: Seongryong Temple was a notable Buddhist temple in medieval Korea, and the Two Flower Gate (Yangwhamun) refers to its main entrance gate.

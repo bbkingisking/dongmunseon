@@ -1,0 +1,35 @@
+canonical:
+  title: 途中
+  author: 徐居正
+  language: lzh
+  text: 雨後長途澁馬蹄龍鍾衫袖半霑泥漏雲斜日長林晩無數山禽種種啼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 途中
+  author: 徐居正
+  language: lzh
+  text: 雨後長途澁馬蹄。龍鍾衫袖半霑泥。漏雲斜日長林晩。無數山禽種種啼。
+korean:
+  title: 도중
+  author: 서거정
+  language: kor
+  text: |-
+    비온 뒤에 긴 길에 말 발굽이 어려워
+    구지레한 적삼 소매가 반은 진흙에 젖었다
+    구름을 새어 나오는 비낀 해가 먼 숲에 저무는데
+    수없는 산새들이 갖가지로 운다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0140&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    After the rain, my horse struggles on the long muddy path.
+    My worn jacket sleeve hangs heavy, half-soaked in mud.
+    Through breaking clouds, the slanting sun fades beyond the distant grove—
+    Countless mountain birds cry out in their manifold voices.
+  footnotes:
+  - key: ''
+    value: The 'worn jacket' (龍鍾衫袖) suggests both the physical weariness of travel and the poet's emotional state, a common technique in classical Chinese poetry where external conditions mirror inner experience.

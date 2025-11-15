@@ -1,0 +1,40 @@
+canonical:
+  title: 賀天安節表
+  author: 魏繼廷
+  language: lzh
+  text: 鳳簫貿律協寒若之休徵龍渥彪祥屬誕彌之慶節愷懌之甚遐邇不殊中賀 伏惟皇帝端穆凝尊溫文啓喆垂衣裳而理天下大致混同象日月以授人時永無差忒逮復舜生之旦盛陳塗會之儀川岳効珍蠻夷納欵臣逖居桑野叨襲茅封周室侯班展勤未肩於入百義皇曆數馳誠但祝於萬年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀天安節表
+  author: 魏繼廷
+  language: lzh
+  text: 鳳簫貿律。協寒若之休徵。龍渥彪祥。屬誕彌之慶節。愷懌之甚。遐邇不殊。中賀。 伏惟皇帝。端穆凝尊。溫文啓喆。垂衣裳而理天下。大致混同。象日月以授人時。永無差忒。逮復舜生之旦。盛陳塗會之儀。川岳効珍。蠻夷納欵。臣逖居桑野。叨襲茅封。周室侯班。展勤未肩於入百。義皇曆數。馳誠但祝於萬年。
+korean:
+  title: 천안절을 하례하는 표
+  author: 위계정
+  language: kor
+  text: 봉소(鳳簫)가 음률을 조절하니 추위가 순조로움이[寒若] 아름다운 징조에 맞고, 용악(龍渥 성은(聖恩))의 상서를 빛내는 성체(聖體)를 탄생하신 경절(慶節)을 맞이함에 즐겁고 기쁨이 먼 곳이나 가까운 곳이나 다름이 없나이다. 중하(中賀) 엎드려 생각건대, 황제께서 단정 목목(穆穆)하게 존엄(尊嚴)하시고 온화(溫和)하시며 문아(文雅)하시고 밝으시어, 의상(衣裳)을 드리운 채 천하를 다스리어 크게 통일을 이루시고, 일월을 관상(觀象)하여 역서(曆書)를 반포하시니 어긋남이 없나이다. 이제 순(舜) 임금이 탄생하신 날에 즈음하여 도산(塗山)의 모임(우(禹)가 만국의 제후를 도산에서 모았다) 같은 성전(盛典)을 거행하오니, 산천이 진기한 것을 바치고 만이(蠻夷)가 정성을 바치나이다. 신이 멀리 상야(桑野)에 살며 외람되게 모봉(茅封)을 세습(世襲)하고 있으므로 주실(周室) 제후들의 입근(入覲)하는 반열(班列)에 어깨를 나란히 하지 못하오나, 희황(羲皇) 역수(曆數)에 만년수(萬年壽)를 봉축(奉祝)하여 정성을 전하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상야(桑野) : '
+    value: 부상(扶桑)의 들이란 말인데, 동해에 부상(扶桑)이란 나무가 있다 한다.
+  - key: '[주-D002] 모봉(茅封) : '
+    value: 제후를 봉하여 줄 때에 띠[茅]에다 흙을 싸서 준다.
+  - key: '[주-D001] 入 : '
+    value: 八
+  - key: '[주-D002] 義 : '
+    value: 羲
+english:
+  title: A Memorial Presenting Congratulations on the Heaven-Blessed Festival
+  author: Wei Gyejeong
+  language: eng
+  text: |-
+    The phoenix pipes accord with cosmic measure, and winter's tempering brings forth auspicious signs. The dragon's grace shines with celestial omen, blessing the noble birth of this festival season. Joy and delight overflow, from distant lands to those near at hand, all alike in celebration.
+
+    In humble reverence, I consider: The Emperor stands serene and majestic in dignity, gentle and refined in bearing, wise and illuminated. Draped in the robes of heaven, he governs all under heaven in perfect harmony. Observing the patterns of sun and moon, he distributes the calendar so all seasons fall without error. Now, as we commemorate the day of sage Shun's birth, great ceremonial gatherings are held like those at Tushan. The rivers and mountains offer their treasures, the distant peoples present their tribute. Your servant dwells far off in the eastern lands, unworthy of inheriting even this humble fief, unable to stand shoulder to shoulder in the ranks of the Zhou's princes at court. Yet I send forth devoted sincerity to bless the Emperor with ten thousand years of life, seeking to inherit the celestial mandate.
+  footnotes:
+  - key: ''
+    value: 'Tushan: Reference to the legendary gathering where Yu the Great convened the feudal lords, symbolizing universal harmony and proper governance.'
+  - key: ''
+    value: 'Eastern lands: The poetic reference to distant territories, positioning the author as a tributary region offering homage to the central court.'

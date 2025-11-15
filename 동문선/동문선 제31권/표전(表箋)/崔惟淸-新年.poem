@@ -1,0 +1,31 @@
+canonical:
+  title: 新年
+  author: 崔惟淸
+  language: lzh
+  text: 奠表海之邦蚤陶於聲敎望中天之闕徒切於戀思
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新年
+  author: 崔惟淸
+  language: lzh
+  text: 奠表海之邦。蚤陶於聲敎。望中天之闕。徒切於戀思。
+korean:
+  title: 신년
+  author: 최유청
+  language: kor
+  text: 동해(東海)에 나라를 이룩하여 일찍 중국의 성교(聲敎)에 훈도(薰陶)되었사오며, 중천의 대궐을 바라다보니 한갓 연모(戀慕)하는 마음이 간절하옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0150&viewSync=OT
+  footnotes: []
+english:
+  title: New Year
+  author: Choe Yucheong
+  language: eng
+  text: |-
+    Our kingdom stands founded upon the eastern sea,
+    Early steeped in the civilizing influence of the Middle Kingdom.
+    Gazing toward the palace of heaven's center,
+    My heart holds nothing but longing.
+  footnotes:
+  - key: ''
+    value: The 'eastern sea' refers to Korea's geographical position relative to China. 'The palace of heaven's center' is a reference to the Chinese imperial court, representing the cultural and political center of the civilized world in classical East Asian thought.

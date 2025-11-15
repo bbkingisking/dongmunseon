@@ -1,0 +1,43 @@
+canonical:
+  title: 山中雪夜
+  author: 李齊賢
+  language: lzh
+  text: 紙被生寒佛燈暗沙彌一夜不鳴鍾應嗔宿客開門早要看庵前雪壓松 樂天宿客不來嫌冷淡似用儀禮宿賓之宿子美犬迎曾宿客則寄宿之宿今用杜語
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山中雪夜
+  author: 李齊賢
+  language: lzh
+  text: 紙被生寒佛燈暗。沙彌一夜不鳴鍾。應嗔宿客開門早。要看庵前雪壓松。 樂天宿客不來嫌冷淡。似用儀禮宿賓之宿。子美犬迎曾宿客。則寄宿之宿。今用杜語。
+korean:
+  title: 산중설야
+  author: 이제현
+  language: kor
+  text: |-
+    종이 이불에 찬 기운 생기고 부처등은 어두운데
+    사미는 한밤 내내 종을 치지 않는다
+    아마 성내리라 자던 손이 일찍 문을 열고서
+    저 암자 앞의 눈 덮인 소나무 보려는 것을
+    낙천(樂天)의, ‘잘 손님이 오지 않는 것은 냉담(冷談)함을 꺼린다.’는 시는 의례(儀禮)에, ‘손님을 재운다[宿].’는 말과 같이 쓴 듯하다. 두자미(杜子美)의, ‘개는 전일 자고 간 손님을 맞이한다.’는 말은 잤다[宿]는 뜻인데, 지금은 자미의 말을 썼다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: Snowy Night in the Mountains
+  author: Lee Jehyeon
+  language: eng
+  text: |-
+    Paper blankets breed the cold, the Buddha's lamp grows dim.
+    All night the young monk rings no bell.
+    Perhaps he's angry—the sleeping guest wakes early,
+    opening the door to see the snow-laden pines before the hermitage.
+
+    Note on sources: White's verse "the guest who never comes avoids the cold reception"—
+    like the Ritual proper's phrase for lodging guests.
+    Du Fu's "the dog greets the guest who once slept here"—
+    referring to past lodging—I use Du's words here.
+  footnotes:
+  - key: ''
+    value: The poem's final section contains the author's own scholarly gloss, comparing allusions to Bai Juyi (White) and Du Fu (Du), both Tang dynasty poets, regarding the word 'su' (宿), meaning both 'to lodge' and 'to sleep.'
+  - key: ''
+    value: The hermitage (庵, 'am') suggests a Buddhist retreat, reinforced by the reference to the Buddha's lamp and the young Buddhist novice (沙彌, 'sami').

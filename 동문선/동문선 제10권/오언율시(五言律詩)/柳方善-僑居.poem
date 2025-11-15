@@ -1,0 +1,49 @@
+canonical:
+  title: 僑居
+  author: 柳方善
+  language: lzh
+  text: 僑居活計情便覺漸忘形覓句償詩債煎荼解酒酲玄經方欲草陋室已曾銘盡日渾無暇還將笑此生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 僑居
+  author: 柳方善
+  language: lzh
+  text: 僑居活計情。便覺漸忘形。覓句償詩債。煎荼解酒酲。玄經方欲草。陋室已曾銘。盡日渾無暇。還將笑此生。
+korean:
+  title: 교거
+  author: 유방선
+  language: kor
+  text: |-
+    객지의 살림살이가 맑은데
+    점점 망형함을 깨닫겠네
+    시구를 찾아 글빚을 갚고
+    차를 끓여 술병을 풀었다
+    태현경을 바야흐로 초하고자 하고
+    누실에는 이미 명을 지었네
+    종일토록 한가로운 겨를이 없어
+    도리어 이 인생을 웃어보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0940&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 태현경(太玄經)을 바야흐로 초하고자 하고 : '
+    value: 양웅(揚雄)은 은거(隱居)하면서 《태현경(太玄經)》 초고(草稿)를 만들었다.
+  - key: '[주-D002] 누실(陋室)에는 이미 명(銘)을 지었네 : '
+    value: 당나라 유우석(劉禹錫)이 누실명(陋室銘)을 지었다.
+english:
+  title: Living in Temporary Lodging
+  author: Yu Bang-seon
+  language: eng
+  text: |-
+    In this borrowed dwelling, life's affairs grow clear,
+    And gradually I perceive the self dissolve.
+    Searching for verses to repay poetic debts,
+    I brew tea to wash away the wine's heavy weight.
+    The Profound Sutras wait to be drafted anew,
+    While my humble room already bears its inscription.
+    The whole day passes without a moment's rest,
+    Yet I can only laugh at this life we lead.
+  footnotes:
+  - key: ''
+    value: The 'Profound Sutras' (太玄經) refers to Yang Xiong's classical work, which he composed during his reclusion—a parallel to the poet's own retreat.
+  - key: ''
+    value: The 'humble room bearing its inscription' alludes to Liu Yuxi's famous 'Inscription on a Humble Room' (陋室銘), establishing a literary connection between scholars in humble circumstances.

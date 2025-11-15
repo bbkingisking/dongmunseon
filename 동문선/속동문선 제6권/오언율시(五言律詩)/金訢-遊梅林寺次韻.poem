@@ -1,0 +1,47 @@
+canonical:
+  title: 遊梅林寺次韻
+  author: 金訢
+  language: lzh
+  text: 閒携木上座重訪波羅門竹逬添新籜潮生漲舊痕雲霞藏佛殿烟火隔漁村暫借蒲團卧蕭然洗濁昏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊梅林寺次韻
+  author: 金訢
+  language: lzh
+  text: 閒携木上座。重訪波羅門。竹逬添新籜。潮生漲舊痕。雲霞藏佛殿。烟火隔漁村。暫借蒲團卧。蕭然洗濁昏。
+korean:
+  title: 유 매림사 차운
+  author: 김흔
+  language: kor
+  text: |-
+    한가히 물 위의 자리 가지고
+    거듭 바라문을 찾아 왔나니
+    대는 솟아나 새 껍질을 보태고
+    조수는 생겨 묵은 흔적 씻는다
+    구름과 노을은 불전을 감추었고
+    연기와 물은 어촌을 사이 막다
+    잠깐 방석을 빌어 누워 있노니
+    말쑥이 혼탁한 마음 씻는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0520&viewSync=OT
+  footnotes: []
+english:
+  title: Visiting Plum Forest Temple, Following the Rhyme
+  author: Kim Heun
+  language: eng
+  text: |-
+    With idle heart I carry my seat upon the water,
+    Returning once more to seek the Brahmin's temple.
+    Bamboo shoots push forth their tender sheaths anew,
+    While tidal waters wash away the ancient marks.
+    Clouds and sunset glow conceal the Buddha hall,
+    Smoke and mist divide me from the fishing village.
+    I borrow but a mat to rest my weary form—
+    This stillness washes clean my turbid, clouded mind.
+  footnotes:
+  - key: ''
+    value: The 'Brahmin's temple' (바라문) refers to the Buddhist monastery, using Sanskrit terminology common in classical Korean poetry.
+  - key: ''
+    value: The poem employs the technique of 'following the rhyme' (차운), composing new verses that echo the rhyme scheme of an earlier poem.
+  - key: ''
+    value: The imagery of bamboo shoots and tidal marks suggests the cyclical renewal of nature and the impermanence of earthly traces.

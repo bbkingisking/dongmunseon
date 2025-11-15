@@ -1,0 +1,46 @@
+canonical:
+  title: 次韻元沖秋興
+  author: 辛永禧
+  language: lzh
+  text: 斗覺遷時序西風病葉驚霜橫陂水素天入草亭淸詩遣幽懷就愁仍世事嬰長甁賖薄酒寂寞慰殘生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻元沖秋興
+  author: 辛永禧
+  language: lzh
+  text: 斗覺遷時序。西風病葉驚。霜橫陂水素。天入草亭淸。詩遣幽懷就。愁仍世事嬰。長甁賖薄酒。寂寞慰殘生。
+korean:
+  title: 차운 원충 추흥
+  author: 신영희
+  language: kor
+  text: |-
+    갑자기 계절의 옮김을 깨닫나니
+    서쪽 바람에 병든 잎이 놀란다
+    서리는 방축물의 흰 빛에 비끼었고
+    하늘은 초정의 맑음에 들어간다
+    시는 그윽한 회포 좇아 보내는데
+    시름은 세상 일의 얽힘 때문이니라
+    긴 병에 외상으로 박주를 사서
+    쓸쓸한 그대로 남은 생을 위로한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0680&viewSync=OT
+  footnotes: []
+english:
+  title: 'Following the Rhyme: On Autumn Reflection with Wonchung'
+  author: Shin Yeong-hee
+  language: eng
+  text: |-
+    Suddenly I perceive the turning of seasons—
+    West wind startles the ailing leaves.
+    Frost gleams on the pond's pale surface,
+    While heaven enters the clarity of my thatched pavilion.
+
+    I send my verses to chase my hidden longings,
+    Yet sorrow still clings from the world's entanglements.
+    From the tavern keeper, on credit I take
+    Weak wine in a long bottle—
+    Solitude itself becomes comfort
+    For what remains of my weary life.
+  footnotes:
+  - key: ''
+    value: This poem follows the rhyme scheme of another work by Wonchung, a common practice in classical East Asian poetry where poets would compose poems matching the rhymes of previous works as a form of literary exchange and homage.

@@ -1,0 +1,53 @@
+canonical:
+  title: 與宋太師蔡國公狀
+  author: 金富軾
+  language: lzh
+  text: 表東海之地偏玆焉守職節南山之望峻久矣嚮風伏惟太師國公九德渾圓五福純備國人之宜鄭伯又改爲於緇衣王室之留周公尙自安於赤舃行藏惟其用捨進退係於重輕曾是遐陬阻依巨蔭兾加保衛以副瞻祈所有微儀具如別幅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 與宋太師蔡國公狀
+  author: 金富軾
+  language: lzh
+  text: 表東海之地偏。玆焉守職。節南山之望峻。久矣嚮風。伏惟太師國公。九德渾圓。五福純備。國人之宜。鄭伯又改爲於緇衣。王室之留。周公尙自安於赤舃。行藏惟其用捨。進退係於重輕。曾是遐陬。阻依巨蔭。兾加保衛。以副瞻祈。所有微儀。具如別幅。
+korean:
+  title: 여 송태사 채국공 장
+  author: 김부식
+  language: kor
+  text: 동해(東海) 밖의 편벽한 땅에서 수직(守職)하고 있으니, 절남산(節南山)의 높은 명망을 사모한 지가 오래였습니다. 삼가 생각건대, 태사국공(太師國公)은 구덕(九德)이 원만하시고 오복(五福)이 구비하시니, 나라 사람은 정백(鄭伯)을 좋게 보아 또 치의(緇衣)를 고쳐 만들었고,왕실(王室)에서는 주공(周公)을 만류하여 오히려 적석(赤舃)이 편안하게 하였습니다. 벼슬에 나와 도를 행하고 집에 들어앉는 것은 오직 나라에서 써주고 버리는 데 있는 만큼 나아가고 물러감에 따라 경중(輕重)이 매어 있는 것입니다. 먼 지방에 있는 탓으로 큰 그늘에 의지할 길이 없었으니, 바라건대, 몸을 보위(保衛)하시어, 사모하고 비는 마음을 부응해 주소서. 소유(所有)의 미미한 의물(儀物)은 별지(別紙)와 같이 갖추었습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구덕(九德) : '
+    value: 《서경(書經)》 고요모(皐陶謨)에서 나온 말인데, 너그럽되 씩씩하고, 유순하되 주견을 세우고, 순박하되 공손하고, 일을 잘 처리하되 공경하고, 남의 말을 잘 받아들이되 과감하고, 정직하되 온화하고, 간결하되 청렴하고, 강단이 있되 착실하고, 흔들림이 없되 옳게 하는 것을 구덕(九德)이라 하였다.
+  - key: '[주-D002] 정백(鄭伯)을 …… 만들었고 : '
+    value: 《시경(詩經)》 정풍(鄭風)치의편(緇衣篇)을 말한 것인데, 본래 정(鄭)나라 사람이 정백을 아름답게 여겨 지은 것이다. 그 시에, “검정 옷의 알맞음이여, 떨어지면 내가 다시 고쳐 만들어 드리리다[緇衣之宜兮 敝予又改爲兮].” 하였다.
+  - key: '[주-D003] 주공(周公)을 …… 하였습니다 : '
+    value: 붉은 색으로 만든 신발인데 면복(冕服)에 딸린 것이다. 《시경(詩經)》 빈풍(豳風)낭발편(狼跋篇)에, “공(公)은 겸손하고 크고 아름다우니, 적석(赤舃)의 걸음이 진중하다[公孫碩膚 赤舃几几].” 하였고, 시의 서(序)에, “주공을 아름답게 여겨 지은 것이다.” 하였다.
+english:
+  title: A Letter to Sung's Grand Councilor, the Duke of Cai
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    From this remote eastern shore, I attend to my duties in obscurity,
+    Long have I admired the lofty virtue of those great in renown.
+    Consider the Grand Councilor and Duke—
+    In whom the Nine Virtues blend in perfect harmony,
+    The Five Blessings complete and whole.
+    As men once praised the Lord of Zheng,
+    Refashioning his robe with reverent hands,
+    So does the royal house cherish its sage ministers,
+    Who tread the vermillion shoes with measured step.
+    Whether one ventures forth to serve or retreats to stillness
+    Depends upon the nation's need—when to advance, when to withdraw,
+    Weighed in the balance of the state's burden.
+    From my distant corner, I lack the shelter of such great influence,
+    Yet I dare hope that your protection and wisdom
+    May answer the yearning prayers of this humble heart.
+    These modest offerings I send, detailed in the enclosed remembrance.
+  footnotes:
+  - key: ''
+    value: 'The Nine Virtues (九德) refer to nine excellencies of character: generosity paired with vigor, gentleness with firm judgment, sincerity with respect, diligence with reverence, receptiveness with decisiveness, integrity with warmth, conciseness with integrity, resolution with steadfastness, and constancy with rightness.'
+  - key: ''
+    value: The reference to the Lord of Zheng's robe alludes to a poem from the Book of Poetry, wherein the people of Zheng expressed their devotion to their lord, promising to mend his garment should it wear—a metaphor for the minister's eternal service.
+  - key: ''
+    value: The vermillion shoes symbolize the dignity and steady progress of a sage minister, drawn from an ancient poem praising the Duke of Zhou for his majestic bearing and measured virtue.

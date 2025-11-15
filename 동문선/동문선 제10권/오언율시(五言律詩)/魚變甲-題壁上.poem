@@ -1,0 +1,51 @@
+canonical:
+  title: 題壁上
+  author: 魚變甲
+  language: lzh
+  text: 歸來棲息地環堵兩三間風雨弟兄話晨昏父母顔門聽雙磵水樓對四䆫山只要君臣義休官諒不難
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題壁上
+  author: 魚變甲
+  language: lzh
+  text: 歸來棲息地。環堵兩三間。風雨弟兄話。晨昏父母顔。門聽雙磵水。樓對四䆫山。只要君臣義。休官諒不難。
+korean:
+  title: 제벽상
+  author: 어변갑
+  language: kor
+  text: |-
+    돌아와 머물은 곳은
+    담만 둘린 두서너 칸 집이어라
+    비바람 속에 형제가 이야기하고
+    아침저녁 부모님의 얼굴이
+    네 문에는 쌍 시냇물 소리
+    다락엔 네 창이 다 푸른 산이어라
+    오직 임금과 신하의 의리를 어쩌나
+    벼슬 쉬는 것은 어렵지 않지만
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0820&viewSync=OT
+  footnotes: []
+english:
+  title: Written on a Wall
+  author: Eo Byeon-gap
+  language: eng
+  text: |-
+    I have returned to my place of rest—
+    a modest dwelling of two or three rooms,
+    walled in simply.
+
+    In wind and rain, brothers speak together,
+    and morning and evening bring my parents' faces.
+    At my gate flows the sound of twin streams,
+    and from my upper room, all four windows frame
+    the green mountains.
+
+    Yet how can I resolve the bond
+    between ruler and subject?
+    To step away from office is not difficult—
+    but the weight of that oath remains.
+  footnotes:
+  - key: ''
+    value: The 'twin streams' and 'four windows' suggest both literal architectural features and metaphorical openness to the natural world, a common trope in Korean retirement poetry reflecting Neo-Confucian values of virtuous withdrawal.
+  - key: ''
+    value: 'The final couplet reveals the poem''s tension: despite achieving the peaceful retirement idealized in earlier lines, the speaker cannot escape the moral obligations of public service and loyalty to the throne.'

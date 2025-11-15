@@ -1,0 +1,45 @@
+canonical:
+  title: 鎭守東江癸丑九日
+  author: 鄭思道
+  language: lzh
+  text: 登高誰擧酒橫槊出城東漠漠連江雨蕭蕭落木風聖明容我老甘苦與軍同定被黃花笑醒吟酒斝空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鎭守東江癸丑九日
+  author: 鄭思道
+  language: lzh
+  text: 登高誰擧酒。橫槊出城東。漠漠連江雨。蕭蕭落木風。聖明容我老。甘苦與軍同。定被黃花笑。醒吟酒斝空。
+korean:
+  title: 계축년 9일 동강에 진수할 때
+  author: 정사도
+  language: kor
+  text: |-
+    높은 데 올라 누구와 술을 들까
+    창을 비껴들고 성 동쪽으로 나섰네
+    막막하게 강을 연한 비요
+    우수수 나뭇잎 지는 바람이어라
+    성명이 나의 늙음 허용하시어
+    군사들과 감고를 같이하네
+    정녕코 국화에게 조롱받으리
+    술도 없이 시만 읊조린다고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 높은 데 올라 : '
+    value: 옛 풍속에 9월 9일에는 높은 데 올라 재액(災厄)을 피하였다.
+english:
+  title: On the Ninth Day of the Ninth Month in Gyechuk Year, Garrisoning the Eastern River
+  author: Jeong Sa-do
+  language: eng
+  text: |-
+    Who will raise a cup with me on this height?
+    I ride forth with spear across the eastern gate.
+    The rain stretches misty along the river's edge,
+    While autumn wind scatters the leaves in whispers.
+    The sage allows this old soldier to remain,
+    And I share both bitter and sweet with my men.
+    Surely the chrysanthemums will laugh at me—
+    Chanting verses alone, my cup long since empty.
+  footnotes:
+  - key: ''
+    value: The tradition of ascending to high places on the ninth day of the ninth month was observed to ward off calamity.

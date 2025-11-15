@@ -1,0 +1,47 @@
+canonical:
+  title: 詠海棠
+  author: 成三問
+  language: lzh
+  text: 子固不能詩不能亦何傷我愛柳仲郢衣不喜薰香
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詠海棠
+  author: 成三問
+  language: lzh
+  text: 子固不能詩。不能亦何傷。我愛柳仲郢。衣不喜薰香。
+korean:
+  title: 영해당
+  author: 성삼문
+  language: kor
+  text: |-
+    자고(子固)는 시를 못 지었다
+    못하는 것이 무슨 허물이 되랴
+    나는 사랑하네, 유중영(柳中郢)이
+    옷에 훈향을 즐기지 않음을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 자고(子固) : '
+    value: 송나라 팽연재(彭淵材)가 말하기를, “오한(五恨)이 있는데, 첫째는 시어(鰣魚)가 뼈가 많은 것, 둘째는 금귤(金橘)이 너무 신[酸] 것, 셋째는 순채(蓴菜)가 성질이 냉(冷)한 것, 넷째는 해당화(海棠花)가 향기가 없는 것, 다섯째는 증자고(曾子固)가 시(詩)에 능하지 못한 것이다.” 하였다. 《冷涼夜話》
+  - key: '[주-D002] 유중영(柳仲郢) : '
+    value: 당나라 사람. 그는 검소하여 평생에 의복에 향(香)을 풍기지 아니하였다. 해당화가 향기가 없으므로 이렇게 쓴 것이다.
+english:
+  title: On the Crabapple Flower
+  author: Seong Sam-mun
+  language: eng
+  text: |-
+    That Zugu could not write poetry—
+    what shame is it to lack this gift?
+    I honor instead Liu Zhongying,
+    who wore no fragrant scents upon his robes.
+
+    Like the crabapple, which blooms without perfume,
+    there is beauty in what is absent,
+    grace in what is unadorned.
+    The poet's tongue is but one voice
+    among ten thousand virtues.
+  footnotes:
+  - key: ''
+    value: Zugu (子固) refers to the Song scholar Zengzi Gu, who was famously said to lack poetic talent. According to the Lengliang Ye Hua, one of 'five regrets' in life is that Zengzi Gu was not accomplished in poetry.
+  - key: ''
+    value: Liu Zhongying (柳仲郢) was a Tang Dynasty figure known for his austerity and simplicity, notably refusing to perfume his clothing throughout his life. The poet draws a parallel between Liu's deliberate plainness and the crabapple flower's natural lack of fragrance.

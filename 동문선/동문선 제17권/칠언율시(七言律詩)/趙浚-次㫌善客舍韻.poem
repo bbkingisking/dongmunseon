@@ -1,0 +1,46 @@
+canonical:
+  title: 次㫌善客舍韻
+  author: 趙浚
+  language: lzh
+  text: 溪山初雪少人行乘興高吟到鳳城水疊雷犇衝地入峯層屛束半天橫引杯看劒寬吾志攬轡觀風檢俗情滌蕩東溟當有日居民洗眼待澄淸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次㫌善客舍韻
+  author: 趙浚
+  language: lzh
+  text: 溪山初雪少人行。乘興高吟到鳳城。水疊雷犇衝地入。峯層屛束半天橫。引杯看劒寬吾志。攬轡觀風檢俗情。滌蕩東溟當有日。居民洗眼待澄淸。
+korean:
+  title: 차 정선 객사 운
+  author: 조준
+  language: kor
+  text: |-
+    계산에 첫눈 오자 행인도 적은데
+    흥에 겨워 높이 읊으며 이 성에 이르렀네
+    첩첩한 물은 뇌성처럼 땅을 치며 들어오고
+    봉은 층층 병풍을 묶어 반공에 비꼈구나
+    잔 들고 검을 보며 내 뜻을 위안하고
+    고삐 잡고 풍속 보며 인심을 점검하네
+    동해를 말끔히 씻을 날이 있으리니
+    백성들 다 눈을 씻고 맑아질 때를 기다리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 맑아질[澄淸] : '
+    value: 한(漢)나라 범방(范滂)이 지방을 안찰(按察)하러 나갈 때에 수레에 올라 고삐를 잡고 천하를 맑힐 뜻이 있었다.
+english:
+  title: Responding to Jeong Seon's Rhyme at the Inn
+  author: Jo Jun
+  language: eng
+  text: |-
+    Fresh snow falls on mountain streams, few travelers pass,
+    Swept by inspiration, I climb singing high toward the capital.
+    Layered waters rush like thunder, piercing into earth,
+    Peak upon peak, folded like screens, span half the sky.
+
+    Cup in hand, gazing at my sword, I ease my troubled heart,
+    Reins held firm, observing the wind, I measure the people's minds.
+    There will come a day to cleanse the eastern sea,
+    When all the people wash their eyes and await clear waters.
+  footnotes:
+  - key: ''
+    value: The final couplet alludes to the historical figure Fan Fang of the Han dynasty, who held his chariot's reins with the intention to bring clarity and order to the realm—suggesting the poet's aspirations for righteous governance and moral transformation.

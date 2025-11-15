@@ -1,0 +1,55 @@
+canonical:
+  title: 蓬萊驛有感
+  author: 朴宜中
+  language: lzh
+  text: 去年重五金堤郡今年重五蓬萊驛金堤郡中盡鄕黨蓬萊驛裏皆殊俗鄕黨爭持酒肉饗値我先壠焚黃席紅粉鞦韆綠陰動打毬年少金鞍勒此中風俗殊不同空舘寥寥人迹絶年年此日天一涯妻孥應向尊前說
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蓬萊驛有感
+  author: 朴宜中
+  language: lzh
+  text: 去年重五金堤郡。今年重五蓬萊驛。金堤郡中盡鄕黨。蓬萊驛裏皆殊俗。鄕黨爭持酒肉饗。値我先壠焚黃席。紅粉鞦韆綠陰動。打毬年少金鞍勒。此中風俗殊不同。空舘寥寥人迹絶。年年此日天一涯。妻孥應向尊前說。
+korean:
+  title: 봉래역 유감
+  author: 박의중
+  language: kor
+  text: |-
+    작년 단옷날은 김제골에서
+    금년 단옷날은 봉래역에서
+    김제골 안에 모두 일가며 친구들
+    봉래역에는 모조리 색다른 풍속
+    일가들은 다투어 술과 고기를 가져다가 먹었지
+    마침 내가 선영에 분황 할 때
+    녹음 속에 그네 뛰는 고운 아가씨들
+    금 안장엔 죽방울 치는 소년들
+    그런데 여기는 풍속이 아주 달라
+    쓸쓸한 빈 객사에 인적도 끊겼구나
+    해마다 이날이면 하늘 끝 한 쪽에서
+    처자들 술상 앞에서 응당 나를 말하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 분황(焚黃) : '
+    value: 조선(祖先)이 조정에 증직(贈職)을 받았을 때에 그 관직의 고명(誥命)을 황지(黃紙)에 써 가지고 선영(先塋)에 가서 불사른다.
+english:
+  title: Reflections at the Bonglae Relay Station
+  author: Park Ui-jung
+  language: eng
+  text: |-
+    Last year on the Fifth Day of the Fifth Moon, I was in Gimje.
+    This year on the Fifth Day of the Fifth Moon, I am at the Bonglae Relay Station.
+    In Gimje, all were kinfolk and old friends.
+    At the Bonglae Relay Station, nothing but unfamiliar customs.
+    In my village, they competed to bring wine and meat to feast,
+    While I burned the golden proclamation at my ancestors' tomb.
+    In the green shade, fair maidens swung on swings,
+    Young riders in golden saddles played at polo.
+    Yet here the customs are utterly strange—
+    The empty inn lies desolate, footsteps long ceased.
+    Year after year on this very day,
+    At heaven's far edge, my wife must speak of me before the wine cup.
+  footnotes:
+  - key: ''
+    value: The burning of the golden proclamation (焚黃) was a ceremonial rite performed at ancestral graves when ancestors received posthumous promotions from the court.
+  - key: ''
+    value: The Fifth Day of the Fifth Moon (端午) is a traditional East Asian festival, marking a turning point in the year and typically celebrated with family gatherings.

@@ -1,0 +1,46 @@
+canonical:
+  title: 寄南敎授
+  author: 李詹
+  language: lzh
+  text: 山寺讀書日相同過一春單裝流落處匹馬往來頻信字傳盈尺音容隔幾塵十年飜覆後君獨有情人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄南敎授
+  author: 李詹
+  language: lzh
+  text: 山寺讀書日。相同過一春。單裝流落處。匹馬往來頻。信字傳盈尺。音容隔幾塵。十年飜覆後。君獨有情人。
+korean:
+  title: 기 남 교수
+  author: 이첨
+  language: kor
+  text: |-
+    산절에서 글을 읽던 날
+    그대와 함께 한 봄을 지났네
+    나의 훗훗한 차림으로 유락한 곳엔
+    그대의 필마로 왕래가 잦았었네
+    전한 서신은 자 높이나 쌓였는데
+    음성과 모습은 몇 진이나 격한 듯
+    십 년 동안 번복된 뒤에
+    오직 그대만이 유정한 사람이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0790&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진(塵) : '
+    value: 불교에서는 겁(劫)이라 하고, 도가(道家)에서는 진(塵)이라 하는데, 천지(天地)의 시종(始終)을 말한다.
+english:
+  title: A Letter to Professor Nam
+  author: Lee Chaem
+  language: eng
+  text: |-
+    In the mountain monastery where I read books day after day,
+    I spent a spring beside you.
+    In my humble wanderings and fallen state,
+    Your horse came and went so often.
+
+    Letters stacked high as a man's measure,
+    Yet your voice and face grow distant as ages pass.
+    After ten years of upheaval and change,
+    You alone remain a friend of constancy.
+  footnotes:
+  - key: ''
+    value: The word 'dust' (塵) in the original carries Buddhist and Daoist significance, representing the passage of great ages or cosmic time

@@ -1,0 +1,83 @@
+canonical:
+  title: 半月城
+  author: 曺偉
+  language: lzh
+  text: 彎彎半月蚊川曲廢城正對南山麓羅王宮殿盡爲塵碧草芊芊走麋鹿林鴉啼散夕陽紅漾漾溪流咽寒玉我來彷徨雙涕垂獨立東風凝遠目陽山白馬去無蹤閼井神龍不再浴十七萬戶隨飛烟六祖雲仍不可錄千年王氣漠然消地老天荒但陵谷欲吊江山擧酒杯激烈悲歌振林木嗚嗚齊唱後庭花檀板瑤箏雜豪竹歸來還過五陵路似聽蕭蕭鬼夜哭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 半月城
+  author: 曺偉
+  language: lzh
+  text: 彎彎半月蚊川曲。廢城正對南山麓。羅王宮殿盡爲塵。碧草芊芊走麋鹿。林鴉啼散夕陽紅。漾漾溪流咽寒玉。我來彷徨雙涕垂。獨立東風凝遠目。陽山白馬去無蹤。閼井神龍不再浴。十七萬戶隨飛烟。六祖雲仍不可錄。千年王氣漠然消。地老天荒但陵谷。欲吊江山擧酒杯。激烈悲歌振林木。嗚嗚齊唱後庭花。檀板瑤箏雜豪竹。歸來還過五陵路。似聽蕭蕭鬼夜哭。
+korean:
+  title: 반월성
+  author: 조위
+  language: kor
+  text: |-
+    활 같은 반월성, 문천 굽이에
+    폐성이 바로 남산 산록을 대하였네
+    나왕의 궁전이 다 먼지가 되고
+    우거진 풀밭에 사슴ㆍ노루가 뛰는구나
+    숲 까마귀 울다 흩어지고 석양이 붉은데
+    살랑살랑 흐르는 냇물 옥을 굴리는 듯
+    내가 와서 방황하며 눈물 줄줄 흘리며
+    동풍에 혼자 서서 멀리 바라보네
+    양산의 흰 말은 어디로 갔는가
+    알정의 신룡은 다시 미역을 안 감네
+    십칠만 호가 연기 따라 사라지고
+    육대조의 자손이 다 가고 말았구나
+    천년 왕기가 아득히 사라지니
+    땅도 늙고 하늘도 황폐해 다만 능곡뿐
+    강산을 조상코자 술잔을 드니
+    격렬한 슬픈 노래 수풀을 뒤흔드네
+    “어와 어와” 제창하던 후정화 노래
+    단판에, 요쟁에, 대금ㆍ중금 섞였었지
+    돌아오는 길에 오릉 길을 지나노라니
+    귀신이, “어이, 어이” 밤에 나와 우는 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: The Half-Moon Fortress
+  author: Cho Wi
+  language: eng
+  text: |-
+    Like a crescent bow, the half-moon fortress bends
+    along the curve of the Mun River—
+    the ruined city faces the foot of South Mountain.
+    Na-wang's palaces have all turned to dust,
+    and through the luxuriant grasses leap deer and roe.
+
+    Crows scatter from the trees as the sun grows red,
+    and the babbling stream flows on like tumbling jade.
+    I wander here, tears streaming down my cheeks,
+    standing alone in the east wind, my gaze reaching far.
+
+    Where has the white horse of Yang Mountain gone?
+    The divine dragon of Aljeong bathes no more.
+    Seventeen myriads of households vanished with the smoke—
+    the descendants of six dynasties all departed.
+    A thousand years of royal fortune faded without trace;
+    only the land grows old and heaven barren,
+    with nothing but crumbling mounds remaining.
+
+    Wishing to mourn the rivers and mountains, I raise my cup,
+    and a fierce, lamenting song shakes the forest.
+    The old airs of "Houqing Hua" echo once more—
+    tambourines and jade zithers mixed with flutes and pipes,
+    voices joining in that ancient refrain.
+
+    On my way home, passing along the Five Tombs Road,
+    I hear what seems like ghosts crying in the night,
+    their mournful voices calling through the darkness.
+  footnotes:
+  - key: ''
+    value: 'Na-wang: A legendary Korean king, possibly referring to historical Korean kingdoms.'
+  - key: ''
+    value: 'Seventeen myriads of households: A poetic reference to a great population or civilization lost to time.'
+  - key: ''
+    value: 'Six dynasties: A reference to the succession of Korean kingdoms through history.'
+  - key: ''
+    value: 'Five Tombs Road: A path in China traditionally associated with ancient burial grounds; here likely used symbolically to represent passage through history and ruin.'
+  - key: ''
+    value: 'Houqing Hua: An ancient song associated with moral decline and the fall of dynasties.'

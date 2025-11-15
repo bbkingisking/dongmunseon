@@ -1,0 +1,91 @@
+canonical:
+  title: 首相
+  author: 金克己
+  language: lzh
+  text: 昴宿騰精降九天文章賈馬德淵騫棟樑異器宜支廈舟楫長材稱濟川鼎位當年提玉鉉台階拱北冠珠躔春風惠澤還齊相夏日威名襲晉賢姸醜易分徵鏡下重輕難避亮枰前衆英振拔皆堪羡孤迹衰窮獨可憐柳壁佐戎雖半稔花塼揮翰費多年新官考績雖居後舊署論功合處先初與下流甘鷁退忽聞前例望鶯遷倘蒙一手霑陶鑄增秩何妨七品聯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 首相
+  author: 金克己
+  language: lzh
+  text: 昴宿騰精降九天。文章賈馬德淵騫。棟樑異器宜支廈。舟楫長材稱濟川。鼎位當年提玉鉉。台階拱北冠珠躔。春風惠澤還齊相。夏日威名襲晉賢。姸醜易分徵鏡下。重輕難避亮枰前。衆英振拔皆堪羡。孤迹衰窮獨可憐。柳壁佐戎雖半稔。花塼揮翰費多年。新官考績雖居後。舊署論功合處先。初與下流甘鷁退。忽聞前例望鶯遷。倘蒙一手霑陶鑄。增秩何妨七品聯。
+korean:
+  title: 수상
+  author: 김극기
+  language: kor
+  text: |-
+    하늘의 묘수가 지상에 내려오니
+    가ㆍ마(가의와 사마상여) 같은 문장 연건(안연)과 민손)만한 덕행일세
+    기둥과 들보 기특한 그릇은 큰 집을 지탱할 만하고
+    배와 돛대 큰 재목은 내 건너기 알맞네
+    귀한 벼슬은 솥에 옥발을 괴었고
+    높은 위는 삼태성(3공의 벼슬)이 뭇 별을 거느렸네
+    봄바람처럼 인자한 덕택은 제(齊)의 정승 그대로
+    여름 해 같은 위명은 진의 현인이 그 아닌가
+    위징의 거울 속에 미추 쉽게 가려지고
+    제갈량의 저울 앞에 경중 어이 뒤섞이리
+    여러 영재 발탁된 것 모두 다 부럽거니
+    이 외로운 몸 곤궁함이 불쌍하지 않으리까
+    유벽(군영(軍營))에 원융 돕기 반 년이 되었삽고
+    화전(한림원)에 글을 짓기 여러 해 지냈사온데
+    신관의 성적으론 비록 뒤에 있사오나
+    구서의 공 따지면 먼저 되어야 하겠기에
+    처음엔 하류와 함께 달게 익퇴 하려다가
+    문득 전례 듣고 앵천을 바라오니
+    혹시 한 손으로 도주해 주시면
+    등급 올려 칠품쯤 마다하리까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 묘수(昴宿) : '
+    value: 28수(宿)의 하나. 한(漢)나라의 승상 소하(蕭何)가 묘성(昴星)의 정(精)으로 태어났다 한다. 《春秋》
+  - key: '[주-D002] 솥[鼎]에 옥발[玉鉉] : '
+    value: “솥에 옥발[玉鉉]”이란 귀절이 《주역(周易)》에 있다. 솥이 발이 셋이므로 3정승의 벼슬에 비하곤 한다.
+  - key: '[주-D003] 제(齊)의 정승 : '
+    value: 춘추 때 제(齊)나라의 현상(賢相) 안영(晏嬰). 어진 이로 유명했다.
+  - key: '[주-D004] 진(晉)의 현인(賢人) : '
+    value: 춘추 때 진(晉)나라의 어진 대부(大夫)  조순(趙盾)이 위엄 있기로 유명했다. 진나라의 가계(賈季)가 조최(趙衰)를 겨울날의 해로, 조순을 여름날의 해로 비유했으니 겨울 해는 사랑스럽고 여름 해는 두려울 만하기 때문이다.
+  - key: '[주-D005] 위징(魏徵)의 거울 : '
+    value: 위징(魏徵)은 당 태종(唐太宗)의 직신(直臣). 그가 임금의 허물을 잘 말하므로 그가 죽자, 태종이 말하기를, “구리[銅]를 거울로 삼으면 의관(衣冠)을 바로할 수 있고, 사람을 거울로 삼으면 득실(得失)을 밝힐 수 있는데, 짐이 이제 한 거울을 잃었구나.” 하였다.
+  - key: '[주-D006] 제갈량(諸葛亮)의 저울 : '
+    value: 촉한(蜀漢)의 승상 제갈량(諸葛亮)이 정사와 상벌(賞罰)에 경중(輕重)을 잘 저울질해 적당하게 하였다.
+  - key: '[주-D007] 앵천(鶯遷) : '
+    value: 꾀꼬리가 골짜기에서 나와 높은 나무에 옮기는 것인데, 여기서는 벼슬의 승진을 말한 것이다.
+  - key: '[주-D008] 도주(陶鑄) : '
+    value: 도공(陶工)이 도기(陶器)를 만들 듯 철공(鐵工)이 주철(鑄鐵)하 듯한다는 말인데, 여기서는 작자 자신을 그렇게 도주(陶鑄)하여 벼슬을 올려 달라는 말이다.
+english:
+  title: The Prime Minister
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The constellation's essence descends from heaven to earth—
+    Your scholarship rivals the great historians, your virtue the sages of old.
+    You are the timber and beam that holds the great mansion fast,
+    The mighty mast that carries the vessel safely across the stream.
+
+    The tripod is set with jade handles held high,
+    And you stand crowned among the Three Excellencies, sovereign over all stars.
+    Your springtime clemency flows like the benevolence of Yan Ying,
+    Your summer majesty blazes like the authority of Zhao Dun.
+
+    The mirror of Wei Zheng reveals each flaw with clarity,
+    Yet before Zhuge Liang's scales, who can hide their true weight?
+    The gifted rise and prosper—all cause for envy—
+    While this lonely servant remains in suffering and want.
+
+    Half a year spent aiding in the military encampment,
+    Many years consumed crafting words in the Hanlin halls.
+    Though my recent service ranks behind the rest,
+    By ancient precedent, older service should surely come first.
+
+    At first I was content to fade with the common tide,
+    But hearing of examples past, I dare now dream of advancement.
+    If only your hand would shape and mold this humble form,
+    Why should I refuse a step up to the seventh rank?
+  footnotes:
+  - key: ''
+    value: 'Wei Zheng was a loyal minister of Tang Emperor Taizong, known for his candid criticism. Upon his death, the Emperor lamented: ''Using bronze as a mirror, one can straighten one''s robes; using a person as a mirror, one can discern gain and loss. I have now lost my mirror.'''
+  - key: ''
+    value: The 'scales of Zhuge Liang' refers to the legendary Premier of Shu Han, who was renowned for his perfect judgment in weighing merit and assigning rewards and punishments.
+  - key: ''
+    value: The image of the oriole 'migrating from the valley to the tall tree' is a classical metaphor for advancement in rank and position.

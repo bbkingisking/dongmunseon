@@ -1,0 +1,48 @@
+canonical:
+  title: 至日還自錦山登日新驛樓
+  author: 尹淮
+  language: lzh
+  text: 貪程夜渡津今日一陽新竹籬踈映雪梅塢別藏春樓閣臨長道經過問幾人白雲看漸逈回首暗傷眞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 至日還自錦山登日新驛樓
+  author: 尹淮
+  language: lzh
+  text: 貪程夜渡津。今日一陽新。竹籬踈映雪。梅塢別藏春。樓閣臨長道。經過問幾人。白雲看漸逈。回首暗傷眞。
+korean:
+  title: 동짓날 금산에서 돌아오다가 일신역루에 오르다
+  author: 윤회
+  language: kor
+  text: |-
+    길을 재촉하여 밤에 나루를 건너니
+    오늘이 동짓날이네
+    대 울타리는 성기어 눈에 비치고
+    매화언덕에는 따로 봄을 감추었네
+    누각은 긴 길옆에 임해 있는데
+    지나는 사람은 몇몇이나 되는가
+    흰 구름 바라볼수록 점차 아늑하니
+    머리 돌리며 가만히 마음 상하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0990&viewSync=OT
+  footnotes: []
+english:
+  title: Returning from Geumsan on the Winter Solstice, Ascending the Tower of Ilsin Station
+  author: Yun Hoe
+  language: eng
+  text: |-
+    Hurrying through the night, I ford the river—
+    Today arrives, the winter solstice new.
+    Sparse bamboo fences catch the snow's pale glow,
+    While plum-scent valleys hide away the spring.
+
+    The tower stands beside the long, worn road,
+    How many travelers pass through here?
+    White clouds drift further as I watch them fade,
+    Turning back, my heart grows quietly grieved.
+  footnotes:
+  - key: ''
+    value: The winter solstice (至日) marks the shortest day and symbolic renewal of light in East Asian cosmology, connecting to the 'one yang' (一陽新) mentioned in the poem—the beginning of yang's return.
+  - key: ''
+    value: Ilsin Station (日新驛樓) derives its name from the concept of daily renewal, creating a poetic resonance with the winter solstice setting.
+  - key: ''
+    value: The imagery contrasts present winter with hidden spring, reflecting the temporal liminal space of the solstice itself.

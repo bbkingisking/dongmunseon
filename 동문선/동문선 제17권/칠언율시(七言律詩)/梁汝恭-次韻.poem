@@ -1,0 +1,49 @@
+canonical:
+  title: 次韻
+  author: 梁汝恭
+  language: lzh
+  text: 莫嗟西北信音踈一月三回坼寄書人訝塞翁非失馬世傳莊叟卽知魚雖然去作天邊戍不似行吟澤畔漁飛詔賜環應有日客中懷抱向誰攄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻
+  author: 梁汝恭
+  language: lzh
+  text: 莫嗟西北信音踈。一月三回坼寄書。人訝塞翁非失馬。世傳莊叟卽知魚。雖然去作天邊戍。不似行吟澤畔漁。飛詔賜環應有日。客中懷抱向誰攄。
+korean:
+  title: 차운
+  author: 양여공
+  language: kor
+  text: |-
+    서북쪽에 음신이 드물다고 서러워 말 것이
+    한 달에 세 번이나 부친 편지 뜯어 봤네
+    사람들은 말하데 새옹이 말 잃은 것 아니라고
+    세상에선 전하긴 장수(장자)가 곧 물고기를 안다고
+    하늘가에 가서 수졸이야 되었지만
+    못가에서 읊는 어부 같지는 않네그려
+    조서를 날려 환을 주실 날 있으리만
+    객중의 쓸쓸한 회포 누구에게 펴는고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0620&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 못가에서 읊는 어부 : '
+    value: 굴원(屈原)의 〈어부사(漁父辭)〉에, “어부(漁父)가 보고 말하기를, 굴원이 이미 쫓겨나자 못가에 다니며 읊는데 모양이 초췌하였다.” 하였다.
+  - key: '[주-D002] 조서를 날려 환(環) : '
+    value: 옛날에 대부(大夫)가 임금에게 죄를 얻고 국경에서 처분을 기다릴 때에 임금이 환(環)을 주면 그것은 돌아오라는 뜻이었다. 환(環)과 환(還)의 음이 같기 때문이다.
+english:
+  title: Matching Rhymes
+  author: Liang Yugong
+  language: eng
+  text: |-
+    Do not lament that letters from the northwest come so sparse—
+    thrice in a month I break the seal and read your words.
+    People say the old man who lost his horse lost nothing after all,
+    and the world knows that Zhuangzi himself understood the fish.
+    Though I've gone to stand guard at heaven's edge,
+    I am not like the wandering poet by the water's shore.
+    Some day an edict will fly and a jade ring will come—
+    but here in exile, to whom can I unfold this aching heart?
+  footnotes:
+  - key: ''
+    value: The 'wandering poet by the water's shore' alludes to Qu Yuan, the exiled minister-poet of ancient China, who composed the 'Fisherman's Elegy' while wandering beside the water in banishment.
+  - key: ''
+    value: The 'jade ring' refers to an ancient practice where an emperor would send a ring (huan 環) to a frontier official awaiting judgment—a homophone for 'return' (huan 還), signaling permission to come home.

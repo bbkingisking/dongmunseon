@@ -1,0 +1,102 @@
+canonical:
+  title: 上王 忠宣王
+  author: 李齊賢
+  language: lzh
+  text: 世事悠悠不忍聞荒橋立馬忽忘言幾時白日明心曲是處靑山隔淚痕燒棧子房寧負信翳桑靈輒早知恩傷心無術身生翼飛到雲霄一叫閽咄咄書空但坐愁式微何處是菟裘十年艱險魚千里萬古升沉貉一兵白日西飛魂正斷碧江東注淚先流滿門簪履無鷄狗飽德如吾死合羞寸膓冰炭亂交加一望燕山九起嗟誰謂鱣鯨困螻蟻可憐蟣虱訴蝦蟆才微杜漸顔宜赭責重扶顚髮易華萬古金縢遺冊在未容群叔誤周家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上王 忠宣王
+  author: 李齊賢
+  language: lzh
+  text: 世事悠悠不忍聞。荒橋立馬忽忘言。幾時白日明心曲。是處靑山隔淚痕。燒棧子房寧負信。翳桑靈輒早知恩。傷心無術身生翼。飛到雲霄一叫閽。咄咄書空但坐愁。式微何處是菟裘。十年艱險魚千里。萬古升沉貉一兵。白日西飛魂正斷。碧江東注淚先流。滿門簪履無鷄狗。飽德如吾死合羞。寸膓冰炭亂交加。一望燕山九起嗟。誰謂鱣鯨困螻蟻。可憐蟣虱訴蝦蟆。才微杜漸顔宜赭。責重扶顚髮易華。萬古金縢遺冊在。未容群叔誤周家。
+korean:
+  title: 황토점에서 상왕
+  author: 이제현
+  language: kor
+  text: |-
+    별의별 세상일을 차마 들을 수 없구나
+    황폐한 다리 위에 말 세우고 말조차 막혔네
+    어느 때 청천백일이 심사를 밝혀주리
+    이곳 청산에서 눈물 혼자 뿌리옵네
+    잔도 사른 장량이 어이 믿음을 저버리리
+    예상의 영첩은 진작 은혜를 알았네
+    상한 마음이 몸에 날개나 돋쳐
+    운소에 훨훨 날아 궐문 밖에 외치지 못함이 한이로세
+    쓱쓱 공중에 글을 쓰며 시름하고 앉았노니
+    고생하시는 우리 임 어디 가 몸 쉬시리
+    10 년 동안 가진 고난은 천 리를 올라온 고기
+    만고의 흥망 역사는 한 언덕의 담비
+    해는 서로 달려가니 혼이 끊어지고
+    강물은 동으로 흘러가니 눈물 먼저 흐르누나
+    수많은 문객들 중 닭 소리 개 도적도 없는가
+    은덕 입은 나같은 자는 죽어도 면목 없네
+    창자 속에 얼음과 숯이 들볶는 듯
+    연산을 한 번 바랄 때 아홉 번 탄식
+    뉘 알았으리 고래가 개미에게 시달릴 줄을
+    앙큼하구나 이와 서캐가 개구리를 중상하다니
+    난을 미리 못 막으니 얼굴이 붉을 만하고
+    전복된 것 바로잡을 무거운 책임 머리가 희어지네
+    만고 금등에 끼친 글이 엄연하니
+    관채숙 유언이 주실을 그르치지 못하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0500&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 예상(翳桑) : '
+    value: 땅 이름. 춘추(春秋) 시대 때 진(晉) 조돈(趙盾)이 예상에 사냥갔다가 영첩(靈輒)이 굶어 죽어가는 것을 보고 밥먹여 살렸더니, 뒤에 영공(靈公)이 갑사(甲士)를 매복시켜 돈을 죽이려 하므로 첩이 마침 공의 무사가 되었다가 창을 거꾸로 하고 막아 돈이 죽음을 면하였다.
+  - key: '[주-D002] 고생하시는[式微] : '
+    value: 《시경》의 〈식미(式微)편〉은 임금이 나라를 잃고 남의 나라에 가서 살면서 고생하는 것을 읊은 시다.
+  - key: '[주-D003] 한 언덕의 담비 : '
+    value: 한(漢)나라 양휘(楊揮)의 말에, “예와 이제가 한 언덕의 담비와 같다.” 하였으니, 동류(同類)란 말이다.
+  - key: '[주-D004] 수많은 문객(門客)들 …… 개 도적 : '
+    value: 전국(戰國) 시대 때 제(齊)나라 맹상군(孟嘗君)이 진(秦)에 들어가니 진 소왕(昭王)이 가두어 죽이려 했다. 맹상군의 문객 중에 개도둑질 잘하는 자가 있어 흰 여우 갖옷[狐白裘]을 훔쳐 왕의 총희(寵姬)에게 바쳐서 그곳을 벗어나 밤중에 함곡관(函谷關)에 이르렀는데 관문이 닫혀있었다. 그러자 객 중에 닭의 울음을 잘 흉내내는 자가 있어 닭울음 소리를 내니 뭇 닭이 다 울어 관문이 열고 드디어 탈출했다.
+  - key: '[주-D005] 고래가 개미에게 시달릴 줄을 : '
+    value: 한(漢)나라 가의(賈誼)의 굴원을 조상하는 부[弔屈原賦] 끝 구에, “강과 바다에 비낀 전어와 고래가 개미에게 욕을 본다.”는 구절이있다.
+  - key: '[주-D006] 금등(金縢) : '
+    value: 주(周)의 무왕(武王)이 병이 있어 주공(周公)이 대신 죽기를 청하여 신(神에게 고하고 그 들을 금등(金縢)에 넣었다. 무왕이 죽자 주공이 섭정(攝政)하였더니, 그의 형제인 관숙ㆍ채숙이 유언(流言)으로 비방하자 성왕(成王)이 주공을 내쫓았으나 뒤에 금등을 열어보고는 깨달아 다시 주공을 맞아왔다.
+  - key: '[주-D007] 관채숙(管蔡叔) 유언(流言)이 …… 못하리 : '
+    value: 관숙(管叔)과 채숙(蔡叔)은 주 무왕(周武王)의 아우요, 주공(周公)의 형들로 《사기》에 이르되, 무왕이 붕어하고 아들 성왕(成王)이 즉위했으나 나이가 어린 탓에 주공이 섭정하니 관ㆍ채가 나라에 말을 퍼뜨리되, “공이 장차 어린애에게 이롭지 못하리라[管蔡流言放國曰 公將不利於孺子].” 해서 주공이 황공하여 동도로 피했더니, 뒤에 성왕이 주공을 맞아 돌아오매 그들이 모반하였다. 왕이 주공에게 토벌을 명하여 그들을 잡아 죽였다. 《史記 管蔡世家》
+english:
+  title: At Hwangto Station, To the Retired King
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The affairs of the world pile upon me—I cannot bear to hear them.
+    On a desolate bridge I rein my horse, and words themselves abandon me.
+    When will the bright sun illuminate the depths of my heart?
+    Here among blue mountains, I weep alone.
+
+    Shall Zhang Liang, who burned the wooden path, betray his trust?
+    The spirit of Yisan knew kindness long ago.
+    My wounded heart wishes to sprout wings—
+    to fly toward the palace gates and cry out, though none may hear.
+
+    I trace characters in empty air and sit consumed by sorrow.
+    Where, my lord in hardship, shall you find rest?
+    Ten years of trials climb like a fish swimming a thousand miles upstream;
+    the rise and fall of ages flows like one small creature on a hillside.
+
+    The sun races westward and my soul grows faint,
+    the river flows eastward and my tears come first.
+    Among all the noble households, where is the clever thief, the night-calling cock?
+    I, who received your grace, deserve shame even unto death.
+
+    Ice and hot coals tumble within my breast,
+    and each thought of Yan Mountain draws nine sighs from me.
+    Who could have foreseen the whale tormented by the ant?
+    How shameful that louse and nit dare slander the frog!
+
+    My face flushes red—I could not prevent disaster early,
+    and my hair grays bearing this weight, the burden of uprighting what fell.
+    Yet the testament sealed in gold endures through endless ages:
+    the words of those brothers shall not sway the House of Zhou.
+  footnotes:
+  - key: ''
+    value: 'Zhang Liang: A legendary statesman who famously burned wooden planks after crossing them, symbolizing complete commitment and trust.'
+  - key: ''
+    value: 'The spirit of Yisan: References an ancient story where Zhao Dun showed mercy to a starving spirit, who later saved Dun''s life by becoming a warrior and turning his spear around to block assassination.'
+  - key: ''
+    value: 'The clever thief and night-calling cock: Allusions to retainers of Lord Meng of Qi who used their cunning skills (theft and mimicry) to save their lord from a trap.'
+  - key: ''
+    value: 'The whale tormented by the ant: An image from Jia Yi''s elegy expressing how the mighty may suffer humiliation from the lowly.'
+  - key: ''
+    value: 'The testament sealed in gold: References the Duke of Zhou, who wrote a testament that was sealed and later vindicated when the King of Zhou opened it and saw the truth, dismissing the slanders of his jealous brothers.'

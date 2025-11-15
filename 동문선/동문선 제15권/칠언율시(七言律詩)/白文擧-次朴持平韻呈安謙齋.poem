@@ -1,0 +1,47 @@
+canonical:
+  title: 次朴持平韻呈安謙齋
+  author: 白文擧
+  language: lzh
+  text: 盡道新年多吉兆端知慶閥萃榮光傳來古儉先人宅化作風流學士堂自笑老夫華髮短猶憐歌妓翠眉長請公命把玻瓈盞澆我平生冰炭膓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次朴持平韻呈安謙齋
+  author: 白文擧
+  language: lzh
+  text: 盡道新年多吉兆。端知慶閥萃榮光。傳來古儉先人宅。化作風流學士堂。自笑老夫華髮短。猶憐歌妓翠眉長。請公命把玻瓈盞。澆我平生冰炭膓。
+korean:
+  title: 박지평의 시를 차운하여 안겸재에게 드리다
+  author: 백문거
+  language: kor
+  text: |-
+    새해엔 길조가 많다고들 말하더니
+    경사로운 가문에 영광이 모였네
+    전해오던 낡고 검소한 선인 댁이
+    화하여 풍류학사당이 되었구나
+    우스워라 늙은 내가 백발이 성긴 주제에
+    노래하는 기생의 푸른 눈썹이 귀엽단 말가
+    이보게 내게 파려(유리)잔을 들라 하소
+    한평생 들끓는 속을 씻어볼까 하옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0610&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Park Jigyeong's Poem, Presented to An Gyeomjae
+  author: Baek Mun-geo
+  language: eng
+  text: |-
+    They say the new year brings many auspicious signs—
+    Blessing and glory gather in a noble household.
+    The old ancestral dwelling, modest and austere,
+    Has transformed into the hall of a refined scholar.
+    How foolish I am, with my thinning white hair,
+    Yet charmed by the dark brows of the singing girl.
+    Give me, I ask, a crystal cup in hand
+    To wash away the turmoil of a lifetime.
+  footnotes:
+  - key: ''
+    value: The poem is written in response to Park Jigyeong's work, following the same rhyme scheme as a form of literary exchange.
+  - key: ''
+    value: The contrast between the speaker's age and attraction to youth—white hair and dark brows—reflects a common theme in East Asian poetry exploring the passage of time and enduring human desire.
+  - key: ''
+    value: The 'crystal cup' (玻瓈盞) is a precious vessel, symbolizing both material luxury and spiritual purification through wine.

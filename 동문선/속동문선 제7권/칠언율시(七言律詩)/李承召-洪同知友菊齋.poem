@@ -1,0 +1,51 @@
+canonical:
+  title: 洪同知友菊齋
+  author: 李承召
+  language: lzh
+  text: 公友菊耶菊友公只緣馨德兩相同歲寒節比松篁翠時世粧羞桃杏紅共道淸香宜醉客誰知靈藥壽衰翁更將歡伯爲三友礬弟梅兄緫下風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 洪同知友菊齋
+  author: 李承召
+  language: lzh
+  text: 公友菊耶菊友公。只緣馨德兩相同。歲寒節比松篁翠。時世粧羞桃杏紅。共道淸香宜醉客。誰知靈藥壽衰翁。更將歡伯爲三友。礬弟梅兄緫下風。
+korean:
+  title: 홍동지 우국재
+  author: 이승소
+  language: kor
+  text: |-
+    그대가 국화를 벗하는가 국화가 그대를 벗하는가
+    다만 향기와 덕이 서로 같기 때문이리라
+    해가 찰 때는 그 절개 솔이나 대의 푸름에 견주고
+    때를 만나면 그 단장은 복숭아나 오얏의 붉음도 부끄러워한다
+    맑은 향기는 취한 사람에게 좋다고 모두 말하지마는
+    신령스러운 약으로 쇠약한 노인을 오래 살게 함을 누가 알리
+    다시 환백을 데려와 세 벗으로 삼으면
+    산반[礬]의 아우와 매화의 형은 모두 하풍이리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 신령스러운 …… 알리 : '
+    value: 중국 남양(南陽)이라는 지방 어느 촌에서는 사람들이 모두 장수하였는데, 그 동네 우물 위에 국화가 항상 성하여서 그 밑에서 솟아나오는 물을 먹어서 장수한다는 것이었다.
+  - key: '[주-D002] 산반[礬]의 …… 하풍(下風)이리라 : '
+    value: 황산곡(黃山谷)의 수선화(水仙花)를 노래한 시(詩)를 말하는데, 여기서는 국화(菊花)에 인용한 것이다.
+english:
+  title: On Hong's Friend Chrysanthemum Studio
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    Does the gentleman befriend the chrysanthemum, or does the chrysanthemum befriend the gentleman?
+    It is only that fragrance and virtue mirror one another.
+
+    When winter's frost arrives, its steadfast bearing rivals the verdant pine and bamboo,
+    Yet when fortune favors, its adornment puts to shame the blush of peach and apricot.
+    All speak of how its clear fragrance delights the drunken wanderer,
+    But who knows the magical herb that grants long life to the aging and infirm?
+
+    Should we invite the wine-loving immortal as a third companion,
+    Then the water-lily's younger brother and the plum-blossom's elder would both bow in deference.
+  footnotes:
+  - key: ''
+    value: The reference to the herb's life-giving properties alludes to a legendary well in Nanyang where chrysanthemums grew abundantly, and drinking from its waters was believed to grant longevity.
+  - key: ''
+    value: 'The mention of the wine-loving immortal (Huanbo) and the water-lily reference draws from classical Chinese poetry traditions celebrating the four noble flowers: chrysanthemum, plum, orchid, and bamboo.'

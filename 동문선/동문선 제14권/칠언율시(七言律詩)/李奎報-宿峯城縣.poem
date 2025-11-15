@@ -1,0 +1,49 @@
+canonical:
+  title: 宿峯城縣
+  author: 李奎報
+  language: lzh
+  text: 半山斜日過簷遅淸句唯呤杜紫薇階竹困陰孫未長庭梅飽雨子初肥旅軒風簟牽人睡野鼎春蔬慰客饑十里倦遊誰勞問石樓僧定鎖煙扉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿峯城縣
+  author: 李奎報
+  language: lzh
+  text: 半山斜日過簷遅。淸句唯呤杜紫薇。階竹困陰孫未長。庭梅飽雨子初肥。旅軒風簟牽人睡。野鼎春蔬慰客饑。十里倦遊誰勞問。石樓僧定鎖煙扉。
+korean:
+  title: 숙 봉성현
+  author: 이규보
+  language: kor
+  text: |-
+    산에 걸린 비낀 해가 처마로 내리는데
+    두자미의 맑은 시구를 읊고 있네
+    섬돌의 대는 응달에서 새끼 아직 못 자랐고
+    뜰의 매화는 비 흠뻑 맞아 열매가 살쪘구나
+    객사 서늘한 자리는 잠을 오게 하고
+    촌가 솥의 봄나물이 식욕을 채워 주네
+    십 리에 놀러 가는데 뉘라도 묻지 마소
+    돌다락에 중이 입정해 문이 닫혀 있구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두자미(杜紫薇) : '
+    value: 당나라 시인 두목지(杜牧之)인데, 이 시의 첫귀가 두자미의 시이다.
+  - key: '[주-D002] 입정(入定) : '
+    value: 도를 닦은 중이 정(定 三昩)에 들어 있는 것이다.
+english:
+  title: Lodging at Bongseong County
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    The slanting sun hangs on the mountain, descending slowly past the eaves.
+    I recite only the crystalline verses of Du Mu.
+    The bamboo shoots by the stone steps grow thin in the shade, not yet full.
+    The plum blossoms in the courtyard, gorged with rain, swell with ripening fruit.
+    The cool mat in the guest pavilion beckons sleep,
+    While wild herbs simmering in the rustic pot satisfy the traveler's hunger.
+    Ten leagues of wandering—let no one ask where I have gone.
+    The stone tower holds a monk in deep meditation, its gates sealed in mist.
+  footnotes:
+  - key: ''
+    value: Du Mu (杜牧), known as Du Ziwei, was a celebrated Tang dynasty poet whose opening couplet inspired this poem's first lines.
+  - key: ''
+    value: The monk's 'deep meditation' (入定) refers to a state of profound spiritual absorption achieved through Buddhist practice.

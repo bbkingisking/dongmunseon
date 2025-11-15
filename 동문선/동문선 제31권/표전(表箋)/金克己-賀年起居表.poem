@@ -1,0 +1,38 @@
+canonical:
+  title: 賀年起居表
+  author: 金克己
+  language: lzh
+  text: 臣某等言孟春猶寒恭惟聖上聖躬萬福臣某等誠瞻誠戀頓首頓首伏念臣等佩分銅獸阻覲衮龍拂霧之趨且違於靑闥望雲之拜徒極於彤庭臣等無任瞻天戀聖激切屛營之至謹差某官臣某奉表起居以聞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀年起居表
+  author: 金克己
+  language: lzh
+  text: 臣某等言。孟春猶寒。恭惟聖上。聖躬萬福。臣某等誠瞻誠戀。頓首頓首。伏念臣等。佩分銅獸。阻覲衮龍。拂霧之趨。且違於靑闥。望雲之拜。徒極於彤庭。臣等無任瞻天戀聖激切屛營之至。謹差某官臣某。奉表起居以聞。
+korean:
+  title: 신년의 기거를 하례하는 표
+  author: 김극기
+  language: kor
+  text: 신 모 등은 아뢰나이다.첫봄이 아직 추운데 성상(聖上)께서 성궁(聖躬)이 만복(萬福)하실 줄 아오며, 신 모 등이 진실로 우러르고 진실로 연모(戀慕)하여 머리를 조아리고 또 조아립니다. 엎드려 생각건대, 신등이 동수(銅獸 변방을 지키는 장수의 인(印))를 나누어 찼[佩]기 때문에 성상을 뵈올 길이 막혔기에 안개를 떨치고 푸른 문(門)에 나아가지 못하오니 구름을 바라보며 멀리 붉은 뜰(대궐의 뜰)을 향하여 절하나이다. 신등이 하늘을 바라보며 성군(聖君)을 연모하는 지극히 간절한 회포를 이기지 못하여 삼가 모관(某官) 신모를 보내어 기거표를 받들어 올리나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial Presenting New Year's Respects on the Health of His Majesty
+  author: Kim Keuk-gi
+  language: eng
+  text: |-
+    Your humble servant presents this report:
+
+    As early spring still bears the chill of winter, we humbly understand that Your Majesty's sacred person enjoys boundless blessing. We, your humble servants, gaze upward in sincere reverence and cherish deepest affection, prostrating ourselves again and again.
+
+    We must confess: bound as we are by the seal of our distant posts, our path to audience before Your Majesty is blocked. Unable to hasten through the mist to approach the blue gates of your court, we can only gaze toward the clouds and bow from afar to your crimson halls. The longing in our hearts—to behold heaven's light and to serve our sovereign—burns with such intensity that we can scarcely contain it.
+
+    Therefore, we respectfully dispatch our delegate to present this memorial concerning Your Majesty's health and well-being.
+  footnotes:
+  - key: ''
+    value: The 'seal of distant posts' (銅獸) refers to the official insignias worn by provincial administrators and military commanders, suggesting the author and colleagues are serving away from the capital.
+  - key: ''
+    value: The 'blue gates' (靑闥) and 'crimson halls' (彤庭) are poetic references to the royal palace and its gates.
+  - key: ''
+    value: This is a formal court memorial (表), a genre of official communication in classical East Asian bureaucracy, expressing loyalty while physically separated from the throne.

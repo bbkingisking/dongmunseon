@@ -1,0 +1,47 @@
+canonical:
+  title: 秋夜宿蔣山寺
+  author: 釋宏演
+  language: lzh
+  text: 大江之南鍾山寺巍巍樓閣開旃檀雲外聽經白鷴下洞中護法蒼龍蟠塔影夜搖崖月淨鍾聲曉襍松濤寒舊說天人多集此尙疑環佩來珊珊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋夜宿蔣山寺
+  author: 釋宏演
+  language: lzh
+  text: 大江之南鍾山寺。巍巍樓閣開旃檀。雲外聽經白鷴下。洞中護法蒼龍蟠。塔影夜搖崖月淨。鍾聲曉襍松濤寒。舊說天人多集此。尙疑環佩來珊珊。
+korean:
+  title: 추야 숙 장산사
+  author: 석굉연
+  language: kor
+  text: |-
+    대강 남쪽 종산 절에
+    높디높은 누각이 전단향을 풍기네
+    구름 밖에서 경을 듣자 흰 학이 내려오고
+    골 안엔 법 지켜 주는 푸른 용이 서렸네
+    탑 그림자는 밤에 깨끗이 벼랑 달에 흔들리고
+    새벽 종소리는 싸늘한 솔바람 소리에 섞이누나
+    예부터 이르는 말, 천인들 여기 많이 모인다더니
+    지금도 아직 환패가 잘랑잘랑 울리는 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0330&viewSync=OT
+  footnotes: []
+english:
+  title: Autumn Night at Jiangshan Temple
+  author: Suk Hongyon
+  language: eng
+  text: |-
+    South of the great river stands Zhongshan Temple,
+    Its towering pavilions exhale the fragrance of sandalwood.
+    Beyond the clouds, as sutras are chanted, white cranes descend,
+    Within the cave, a jade dragon coils, guarding the dharma.
+    The pagoda's shadow trembles on the moonlit cliff at night,
+    At dawn the temple bell mingles with the cold wind through the pines.
+    The ancients say celestial beings gather here in multitudes—
+    Even now I sense the tinkling of their jade ornaments, soft and clear.
+  footnotes:
+  - key: ''
+    value: Jiangshan Temple (蔣山寺) is located near present-day Nanjing, historically one of the most important Buddhist temples in southern China.
+  - key: ''
+    value: The white cranes and jade dragon are traditional symbols of spiritual blessing and divine protection in Buddhist temple poetry.
+  - key: ''
+    value: The 'jade ornaments' (環佩) refer to the celestial adornments worn by heavenly beings, their jingling suggesting their presence.

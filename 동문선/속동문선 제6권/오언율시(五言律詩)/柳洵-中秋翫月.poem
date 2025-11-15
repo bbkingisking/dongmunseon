@@ -1,0 +1,44 @@
+canonical:
+  title: 中秋翫月
+  author: 柳洵
+  language: lzh
+  text: 涼秋佳月色今夜最嬋娟雲盡出蒼海露寒行碧天已知千里共更賞十分圓霄漢如相挽長留照酒船
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中秋翫月
+  author: 柳洵
+  language: lzh
+  text: 涼秋佳月色。今夜最嬋娟。雲盡出蒼海。露寒行碧天。已知千里共。更賞十分圓。霄漢如相挽。長留照酒船。
+korean:
+  title: 중추 완월
+  author: 유순
+  language: kor
+  text: |-
+    서늘한 가을의 좋은 달빛이
+    오늘 밤에 가장 아름다워라
+    구름이 걷히어 창해에서 나오더니
+    이슬이 찬데 푸른 하늘을 가네
+    천 리에 꼭 같음을 이미 알거니
+    다시 십분의 둥근 것 좋아한다
+    만일 하늘이 잡아매어 둔다면
+    언제나 있어 술배[酒船]를 비추련만
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_1040&viewSync=OT
+  footnotes: []
+english:
+  title: Moon-Gazing in Mid-Autumn
+  author: Yu Sun
+  language: eng
+  text: |-
+    Cool autumn yields the loveliest moonlight—
+    tonight it shines most beautifully.
+    Clouds part and scatter from the azure sea,
+    while frosty dew treads through the verdant sky.
+    I know already that a thousand leagues
+    share this same radiance;
+    yet I treasure this perfect fullness once more.
+    If the heavens would but hold it fast,
+    this light would linger always on my wine-boat.
+  footnotes:
+  - key: ''
+    value: The 'wine-boat' (酒船) is a poetic image for intimate gathering and celebration, suggesting the speaker shares this moonlit moment with companions or loved ones.

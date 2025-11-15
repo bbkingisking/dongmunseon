@@ -1,0 +1,68 @@
+canonical:
+  title: 和箕叟韻二首
+  author: 金時習
+  language: lzh
+  text: 寥落精廬秋興長朗吟時作放翁狂山城驟雨收殘暑風樹踈蟬咽晩凉湘簟嫰寒驚老骨惠泉甘洌浣枯膓年來陟覺星霜變學取燒丹魏伯陽月白東林秋夜長放吟孤嘯大踈狂金風萬里蒹葭老玉露一天星斗涼已許雲霞藏老拙更將泉石洗肝膓西軒徙倚多情况閑聽長空鴈向陽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和箕叟韻二首
+  author: 金時習
+  language: lzh
+  text: 寥落精廬秋興長。朗吟時作放翁狂。山城驟雨收殘暑。風樹踈蟬咽晩凉。湘簟嫰寒驚老骨。惠泉甘洌浣枯膓。年來陟覺星霜變。學取燒丹魏伯陽。月白東林秋夜長。放吟孤嘯大踈狂。金風萬里蒹葭老。玉露一天星斗涼。已許雲霞藏老拙。更將泉石洗肝膓。西軒徙倚多情况。閑聽長空鴈向陽。
+korean:
+  title: 화 기수운 이수
+  author: 김시습
+  language: kor
+  text: |-
+    쓸쓸한 초가집에 가을 흥취가 길어
+    때로는 소리 높이 시를 읊어 늙은이 미친 짓을 하네
+    산성의 소나기는 쇠잔한 더위를 거두고
+    바람 부는 나무에 간간이 우는 매미는 늦서늘함에 울도다
+    상단의 고운 추위 늙은 뼈를 놀라게 하고
+    혜천의 맑고 찬물 마른 창자를 씻나니
+    근년 되어서 비로소 성상의 변함을 깨닫고
+    단을 굽는 위백양을 배워 얻었노라
+    달은 동쪽 숲에 밝아 가을밤은 긴데
+    소리 높여 외로이 읊조리며 매우 소광해 본다
+    가을 바람 만리에 갈대는 늙었고
+    이슬이 찬 온 하늘에는 별이 서늘하여라
+    구름과 놀을 이미 친하여 늙고 옹졸함을 간직하고
+    다시 샘물과 돌을 가져다 간과 창자를 씻는다
+    서쪽 난간에서 왔다갔다 하매 정황이 많은데
+    한가히 남으로 가는 먼 하늘의 기러기 소리를 듣는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0900&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상단(湘簞) : '
+    value: 상(湘)은 중국 호남성(湖南省) 지방을 말하는 것이니, 그곳에 대[竹]가 많이 생산되고 그 대로 고운 자리를 만들어 내는데, 여름에 그것을 깔면 매우 시원하지만 가을이 되면 도리어 차져서 맞지 않는다는 말이다.
+  - key: '[주-D002] 위백양(魏伯陽) : '
+    value: 한나라 때 사람이다. 도수(道術)를 좋아하여 장생불사한다는 단약(丹藥)을 연구하였다. 제자 세 사람과 같이 산중에 들어가서 단약을 구워 만들어서 신선이 되었다 한다. 그의 저술에 《참동계(參同契)》라는 것이 유명하다.
+english:
+  title: Two Poems in Rhyme with Master Ki
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    In the lonely thatched hermitage, autumn's stirring grows long.
+    I raise my voice in poetry, playing the madness of an aging fool.
+    The mountain town's sudden rain sweeps away the lingering heat,
+    And sparse cicadas in wind-swept trees weep the coming chill.
+
+    The Xiang mat's tender coldness startles these aged bones,
+    While Hui spring's crystal waters cleanse my withered gut.
+    In recent years I've come to know the turning of stars and frost—
+    I've learned from Wei Boyang the art of burning elixir gold.
+
+    The moon shines bright on the eastern woods, autumn nights stretch long.
+    I raise my voice in lonely whistle, quite mad with solitude.
+    Across ten thousand miles the autumn wind turns reeds to age,
+    And jade dew under heaven's expanse cools all the stars.
+
+    Already I've entrusted clouds and rainbows to keep my age and clumsiness,
+    And brought spring waters and stone to cleanse both liver and heart.
+    I pace the western balcony where feelings run deep,
+    Listening idly to distant geese heading south through empty sky.
+  footnotes:
+  - key: ''
+    value: The Xiang mat refers to a fine bamboo mat from the Xiang region in Hunan, known for its coolness in summer but too cold for comfort in autumn—a metaphor for the poet's transition into old age.
+  - key: ''
+    value: Wei Boyang was a Han dynasty sage devoted to Daoism who studied the secrets of the elixir of immortality. According to legend, he achieved immortality by refining the elixir in the mountains with three disciples. His classic work, the Cantong Qi (The Secret of the Golden Flower and the Secret of the Jade Radiance), is a foundational text of internal alchemy.

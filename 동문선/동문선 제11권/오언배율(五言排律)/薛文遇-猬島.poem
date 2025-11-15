@@ -1,0 +1,87 @@
+canonical:
+  title: 猬島
+  author: 薛文遇
+  language: lzh
+  text: 直節眞烏府微才忝豹冠豈同膓錦繡相倒腹琅玕盛代雖無補群僚盡聳觀致君心不分憂國鬢空殘佞首多張禹知音少比干此時分去住何處問平安甑破憐誰在天高聽不難龍泉還古嶽猬島是新官兩地孤輪月扁舟一釣竿重逢當有日好去更加飡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 猬島
+  author: 薛文遇
+  language: lzh
+  text: 直節眞烏府。微才忝豹冠。豈同膓錦繡。相倒腹琅玕。盛代雖無補。群僚盡聳觀。致君心不分。憂國鬢空殘。佞首多張禹。知音少比干。此時分去住。何處問平安。甑破憐誰在。天高聽不難。龍泉還古嶽。猬島是新官。兩地孤輪月。扁舟一釣竿。重逢當有日。好去更加飡。
+korean:
+  title: 고슴도치섬
+  author: 설문우
+  language: kor
+  text: |-
+    곧은 절개는 참으로 간관
+    서툰 재주 가진 나는 채각관 썼네
+    창자의 금수야 같으리오만
+    뱃속의 구슬을 다 쏟아 놓네
+    태평성대에 비록 도움 못 되나
+    군료들 모두 다 눈 높이 보았네
+    임금을 받들 마음이 오로지
+    나라를 근심하여 머리 세었네
+    아유하는 장우는 하도 많지만
+    알아주는 비간은 워낙 적은 것
+    이때에 거주가 갈리니
+    어디서 평안을 물어나 볼까
+    시루가 깨어진 걸 돌아볼 이 누구인고
+    하늘은 높아도 쉬 듣는다네
+    농천산은 옛 산 그대로
+    위도에는 신관일세
+    두 땅에 다 비치긴 외로운 달뿐
+    쪽배에 드리우리 낚싯대 하나
+    또 만날 때가 고대 오리니
+    잘 가소 가거든 밥 더 자시소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 채각관(豸角冠) : '
+    value: 해채(獬豸)라는 동물이 부정(不正)한 사람을 보면 뿔로 떠받는다고 하므로 어사(御史)가 채각관(豸角冠)을 쓴다.
+  - key: '[주-D002] 창자의 금수(錦繡) : '
+    value: 시와 글을 잘함. “비단 창자에 수 놓은 배[錦膓繡肚].”
+  - key: '[주-D003] 아유(阿諛)하는 장우(張禹) : '
+    value: 한(漢)나라 성제(成帝) 때에 당시 외척(外戚)왕씨(王氏)가 전정(專政)하였는데 장우(張禹)는 감히 곧은 말을 못하고 아첨하는 말을 하였다. 주운(朱雲)이 그를 탄핵하다가 난간까지 꺾은 일이 있다.
+  - key: '[주-D004] 비간(比干) : '
+    value: 은(殷)나라 주(紂)의 충신, 주의 음란을 사흘 동안이나 굳이 간하니 주가 노하여 죽였다.
+  - key: '[주-D005] 하늘은 높아도 쉬 듣는다네 : '
+    value: “하늘은 높아도 낮은 것을 듣는다.”는 말이 있다.
+english:
+  title: Hedgehog Island
+  author: Seol Mun-u
+  language: eng
+  text: |-
+    Upright integrity—the true mark of a censor's heart.
+    Untalented as I am, I wear the crested cap of office.
+    Yet my silken words are not like theirs,
+    I pour out the jade within my belly instead.
+
+    Though I serve in prosperous times, I cannot help the realm,
+    Still my colleagues lift their eyes to watch.
+    My devotion to the throne knows but one purpose—
+    Worry for the nation has left my hair white.
+
+    Flatterers like Zhang Yu abound these days,
+    But few can hear the truth like Bi Gan once did.
+    Now our paths diverge, parting ways,
+    Where shall I seek word of your peace?
+
+    The broken sieve—who remains to see it?
+    Yet heaven hears, though it hangs so high.
+    Longquan Mountain stands as it always stood,
+    Hedgehog Island is my new command.
+
+    Two lands share but one lonely moon,
+    A small boat waits with a single fishing line.
+    The day we meet again will surely come—
+    Go well, and eat your fill before you depart.
+  footnotes:
+  - key: ''
+    value: The 'crested cap' (豸角冠) was worn by imperial censors, as it resembled the horn of the xiezi (獬豸), a mythical beast said to gore the corrupt.
+  - key: ''
+    value: To 'pour out the jade in one's belly' is a poetic expression for revealing one's true words and honest character.
+  - key: ''
+    value: Zhang Yu was a Han Dynasty official known for flattery and cowardice; Bi Gan was a loyal minister of the Shang who dared to remonstrate with his king and was executed for it—representing the contrast between corrupt compliance and righteous honesty.
+  - key: ''
+    value: The poet likely resigned or was reassigned to Hedgehog Island, which had recently become his new posting.

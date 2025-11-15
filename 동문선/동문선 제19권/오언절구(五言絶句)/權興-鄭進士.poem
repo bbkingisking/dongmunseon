@@ -1,0 +1,37 @@
+canonical:
+  title: 鄭進士
+  author: 權興
+  language: lzh
+  text: 盛代洪恩洽幽居野趣長樵夫猶解事笑殺不談王
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鄭進士
+  author: 權興
+  language: lzh
+  text: 盛代洪恩洽。幽居野趣長。樵夫猶解事。笑殺不談王。
+korean:
+  title: 정진사
+  author: 권흥
+  language: kor
+  text: |-
+    성대의 넓은 은혜 흡족하니
+    유거에 야취가 더 깊도다
+    나무꾼도 오히려 일을 아는지
+    조정 일을 말하지 않음을 웃네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 조정 일을 말하지 않음 : '
+    value: 왕도(王道)를 담론(談論)하는 것인데, 여기서는 벼슬할 생각을 하지 않는다는 뜻이다.
+english:
+  title: A Gentleman Named Jeong
+  author: Kwon Heung
+  language: eng
+  text: |-
+    In this prosperous age, the sovereign's grace flows abundantly—
+    yet in my secluded dwelling, wild nature runs deeper still.
+    Even the woodcutter understands the way of things;
+    I laugh at those who speak of court affairs.
+  footnotes:
+  - key: ''
+    value: The phrase 'speak of court affairs' (王道, 'way of the king') carries the sense of not harboring ambitions for official position or involvement in government.

@@ -1,0 +1,50 @@
+canonical:
+  title: 福靈寺
+  author: 朴誾
+  language: lzh
+  text: 伽藍却是新羅舊千佛皆從西笁來終古神人迷大隗至今福地似天台春陰欲雨鳥相語老樹無情風自哀萬事不堪供一笑靑山閱世只浮埃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 福靈寺
+  author: 朴誾
+  language: lzh
+  text: 伽藍却是新羅舊。千佛皆從西笁來。終古神人迷大隗。至今福地似天台。春陰欲雨鳥相語。老樹無情風自哀。萬事不堪供一笑。靑山閱世只浮埃。
+korean:
+  title: 복령사
+  author: 박은
+  language: kor
+  text: |-
+    가람[절]은 바로 신라에서 비롯하였고
+    모든 부처는 다 서축에서 왔도다
+    옛날부터 신인이 대외에서 길을 잃었는데
+    지금 와서 복 땅은 분명히 천태이네
+    봄이 그늘 져 비가 오려하매 새가 서로 말하는데
+    늙은 나무는 정이 없는데 바람이 스스로 슬퍼하는구나
+    모든 일은 한 번의 웃음에 이바지할 뿐이요
+    푸른 산의 세상을 겪는 것은 다만 뜬 먼지일네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0540&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옛날부터 …… 잃었는데 : '
+    value: 《장자》에, “황제(黃帝)가 대외(大隈)에서 길을 잃었다.”는 말이 있다.
+  - key: '[주-D002] 복 땅은 …… 천태(天台)이네 : '
+    value: 중국 천태산(天台山)에 신선이 사는 복지(福地)가 있었다 한다.
+english:
+  title: Bokryeong Temple
+  author: Park Eun
+  language: eng
+  text: |-
+    The temple stands rooted in old Silla's soil,
+    Yet every Buddha came from Western lands.
+    Since ancient days, divine men have lost their way in the great wilderness—
+    Now this sacred ground mirrors distant Tiantai.
+
+    Spring clouds gather, rain threatens to fall, birds call to one another,
+    The ancient tree, unmoved by time, hears the wind lament.
+    All the world's affairs amount to nothing but a single laugh,
+    While the green mountains, worn by ages, are merely drifting dust.
+  footnotes:
+  - key: ''
+    value: The reference to 'divine men losing their way in the great wilderness' alludes to a passage in the Zhuangzi about the Yellow Emperor losing his way in the Great Wasteland.
+  - key: ''
+    value: Tiantai (Tiantai Mountain) in China was believed to be a sacred place where immortals dwelled.

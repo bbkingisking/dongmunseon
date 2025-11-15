@@ -1,0 +1,37 @@
+canonical:
+  title: 無題
+  author: 金時習
+  language: lzh
+  text: 石泉凍合竹扉關剩得心閑事事閑簷影入䆫初出定時聞霽雪落松閒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無題
+  author: 金時習
+  language: lzh
+  text: 石泉凍合竹扉關。剩得心閑事事閑。簷影入䆫初出定。時聞霽雪落松閒。
+korean:
+  title: 무제
+  author: 김시습
+  language: kor
+  text: |-
+    돌샘물은 얼어 붙고 대사립문 걸었나니
+    마음의 한가함을 넉넉히 얻었으매 일일이 한가하다
+    처마 그림자가 창에 들자 비로소 선정에서 나와
+    때때로 멎은 눈뭉치가 소나무 사이에 떨어지는 소리 듣는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0660&viewSync=OT
+  footnotes: []
+english:
+  title: Untitled
+  author: Kim Si習
+  language: eng
+  text: |-
+    The stone spring freezes over, the bamboo gate closes shut.
+    With a peaceful heart obtained in full measure, all things settle into ease.
+    As the eaves' shadow enters the window, I emerge at last from meditation.
+    Now and then I hear the sound of melting snow falling softly through the pines.
+  footnotes:
+  - key: ''
+    value: Kim Si習(1435-1493) was a prominent Korean scholar, poet, and monk during the Joseon dynasty, known for his literary refinement and spiritual pursuits.
+  - key: ''
+    value: The progression from external stillness (frozen spring, closed gate) to internal peace (heart at ease) to emerging awareness (shadow entering, sounds heard) reflects a Buddhist meditative experience.

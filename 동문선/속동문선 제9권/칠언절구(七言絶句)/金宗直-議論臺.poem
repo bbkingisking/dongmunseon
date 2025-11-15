@@ -1,0 +1,39 @@
+canonical:
+  title: 議論臺
+  author: 金宗直
+  language: lzh
+  text: 兩箇胡僧衲半肩岩間指點小林禪斜陽獨立三盤石滿袖天風我欲仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 議論臺
+  author: 金宗直
+  language: lzh
+  text: 兩箇胡僧衲半肩。岩間指點小林禪。斜陽獨立三盤石。滿袖天風我欲仙。
+korean:
+  title: 의논대
+  author: 김종직
+  language: kor
+  text: |-
+    스님 둘이 누더기옷을 어깨에 반쯤 걸치고
+    바위 사이에 있는 소림사를 손가락으로 가리킨다
+    해질녘에 홀로 삼반석에 섰노니
+    소매에 가득한 하늘 바람에 나는 신선이 되려 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0500&viewSync=OT
+  footnotes: []
+english:
+  title: The Platform of Discourse
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Two monks in patched robes, shoulders half-bare,
+    Point through the rocky pass to the small forest temple.
+    At dusk I stand alone on the Three-Disc Stone—
+    Heaven's wind fills my sleeves; I would become an immortal.
+  footnotes:
+  - key: ''
+    value: The 'small forest temple' (소림사) references the Shaolin Temple, evoking the Zen Buddhist tradition and the pursuit of enlightenment through ascetic practice.
+  - key: ''
+    value: The 'Three-Disc Stone' (삼반석) is likely a specific landmark in the landscape the poet observes, serving as a point of solitary contemplation.
+  - key: ''
+    value: The transformation into an immortal reflects the Daoist and Buddhist mysticism that permeates Korean literati poetry, suggesting transcendence through spiritual communion with nature.

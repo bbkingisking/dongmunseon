@@ -1,0 +1,50 @@
+canonical:
+  title: 丁卯重陽
+  author: 許伯
+  language: lzh
+  text: 秋晚長風萬里來登高極目思難裁莫辭白酒殷勤飮可惜黃花爛熳開懷土士衡猶得信登臺子美不勝哀舊時高契今餘幾感嘆諸公骨已苔
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 丁卯重陽
+  author: 許伯
+  language: lzh
+  text: 秋晚長風萬里來。登高極目思難裁。莫辭白酒殷勤飮。可惜黃花爛熳開。懷土士衡猶得信。登臺子美不勝哀。舊時高契今餘幾。感嘆諸公骨已苔。
+korean:
+  title: 정묘 중양
+  author: 허백
+  language: kor
+  text: |-
+    늦가을 긴 바람이 만 리에서 오는데
+    높은 데 올라 바라보니 생각이 어지러워라
+    흰 술을 사양 말고 은근히 마시세나
+    아까워라 국화[黃花]가 난만히 핀 것이
+    고향 그린[戀] 육사형은 편지나 받았었지
+    대에 오른 두자미는 슬픔을 못 이겼네
+    옛날의 좋은 벗들 몇이나 남았는가
+    느껴워라, 누구누구 모두 뼈에 이끼 돋았네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 육사형(陸士衡) : '
+    value: 진(晉)나라 육기(陸機). 자(字)는 사형(士衡)인데 그가 낙양(落陽)에 있을 때 그의 애견(愛犬) 황이(黃耳)가 죽통(竹筩)에 넣은 그의 편지를 목에 걸고 고향인 오(吳)에까지 뛰어가 그의 집에 전하고 답장을 받아 걸고 돌아왔다.
+  - key: '[주-D002] 대(臺)에 오른 …… 못 이겼네 : '
+    value: 자미(子美)는 두보(杜甫)의 자. 그의 〈9월 9일 등고(登高)시〉시 셋째 연(聯)에, “만 리에 가을을 슬퍼하니 늘 나그네의 신세, 백 년에 병이 많아 홀로 대에 올랐네.”라 했다.
+english:
+  title: Double Ninth Festival in the Year Dingmao
+  author: Heo Baek
+  language: eng
+  text: |-
+    Late autumn brings a long wind from ten thousand leagues away.
+    Climbing high, I gaze—my thoughts scatter like clouds.
+    Do not refuse the white wine, drink it with earnest heart.
+    What a pity the yellow chrysanthemums bloom in wild profusion.
+
+    Lu Shaoheng, yearning for home, at least received a letter.
+    But Du Fu on the terrace could not bear his sorrow.
+    How many of those noble friendships from old times remain?
+    I sigh—all those gentlemen now have moss growing on their bones.
+  footnotes:
+  - key: ''
+    value: Lu Shaoheng (Lu Ji, 陸機) was a Jin dynasty poet whose beloved dog carried his letter home in a bamboo tube when he was far away in Luoyang, and later returned with a reply.
+  - key: ''
+    value: 'Du Fu (子美) wrote in his famous ''Climbing High'' poem on the Ninth Day of the Ninth Month: ''Ten thousand leagues of autumn sorrow—forever the fate of a wanderer; / A hundred years bring many illnesses—alone I climb the terrace.'' The poem alludes to Du Fu''s melancholy despite celebrating the festival.'

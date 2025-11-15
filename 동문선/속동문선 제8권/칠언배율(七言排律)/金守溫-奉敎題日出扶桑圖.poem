@@ -1,0 +1,83 @@
+canonical:
+  title: 奉敎題日出扶桑圖
+  author: 金守溫
+  language: lzh
+  text: 天衢漠漠夜分央啁哳金雞響曉光羲馭暗從來厚地火輪飛躍出搏桑蒼凉半露虞淵面蕩暖初添黍谷陽照徹覆盆寧有碍恩加蔀屋自無疆蓬萊隱映三山杳海若蹁躚百鬼忙誰信聖輝覃八表郤從堯典頌平章
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉敎題日出扶桑圖
+  author: 金守溫
+  language: lzh
+  text: 天衢漠漠夜分央。啁哳金雞響曉光。羲馭暗從來厚地。火輪飛躍出搏桑。蒼凉半露虞淵面。蕩暖初添黍谷陽。照徹覆盆寧有碍。恩加蔀屋自無疆。蓬萊隱映三山杳。海若蹁躚百鬼忙。誰信聖輝覃八表。郤從堯典頌平章。
+korean:
+  title: 봉교제 일출부상도
+  author: 김수온
+  language: kor
+  text: |-
+    하늘 거리 아득한데 밤이 복판으로 나누어져
+    꼬끼요하는 금닭 소리가 새벽빛을 울린다
+    희어는 가만히 두터운 땅으로 부터오니
+    불바퀴는 날고 뛰면서 부상에서 나온다
+    창량하게 우연에 얼굴을 반쯤 들어내고
+    끓는 따뜻함은 처음으로 서곡의 양기를 보탠다
+    엎드진 동이 속까지 비쳐주는데 어찌 장애 있으며
+    부옥에까지 은혜가 베풀어져 스스로가 없다
+    봉래가 은은히 비추매 삼산이 아득하고
+    해약이 춤을 추매 온갖 귀신들 바쁘다
+    누가 믿었으리 거룩한 빛이 팔표에 뻗을 줄을
+    다시 요전의 평장을 외우노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_020_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금닭[金鷄] : '
+    value: 동해바다에 부상(扶桑)이란 나무가 있고 해가 그 가지에서 떠오르는데 금계가 운다 한다.
+  - key: '[주-D002] 희어(羲馭) : '
+    value: 요(堯)의 시대에 해뜨는 것을 맡은 벼슬에 있던 사람이므로 해를 희어(羲馭)라 한다. 희(羲)가 해를 몬다[馭]는 뜻이다.
+  - key: '[주-D003] 우연(虞淵) : '
+    value: 해가 우연(虞淵)에서 떠서 저물게는 함지(咸池)에 목욕한다 한다.
+  - key: '[주-D004] 서곡(黍谷) : '
+    value: 연(燕)나라에 치운 골[谷]이 있어 곡식이 되지 않는데, 추연(鄒衍)이 음률(音律)로서 양기(陽氣)를 불어 넣었더니 자랐다 따뜻하여져서 기장[黍]이 나서 자랐다. 그러므로 서곡(黍谷)이라 한다.
+  - key: '[주-D005] 부옥(蔀屋) : '
+    value: 가난한 오막살이 다북대로 만든 집이다.
+  - key: '[주-D006] 삼산(三山) : '
+    value: 동해바다에 신선이 사는 삼신산(三神山)이 있는데, 봉래(蓬萊)ㆍ방장(方丈)ㆍ영주산(瀛洲山)이다.
+  - key: '[주-D007] 해약(海若) : '
+    value: 바다의 신(神)이다.
+  - key: '[주-D008] 팔표(八表) : '
+    value: 온 세계를 말한다.
+  - key: '[주-D009] 요전(堯典)의 평장(平章) : '
+    value: 요전(堯典)은《서경》의 첫 편인데, 요(堯)의 사실을 적은 것이다. 그 중에 백성(百姓)을 평장(平章)한다는 말이 있다. 평장은 평화롭고 밝게 한다는 뜻이다.
+english:
+  title: Commissioned Poem on a Painting of the Sun Rising over Fusang
+  author: Kim Su-on
+  language: eng
+  text: |-
+    The heavens stretch desolate as night divides its middle watch,
+    When the golden cock cries out and breaks the dawning light.
+    Xi Yu drives silent from the thick and patient earth—
+    The wheel of fire soars and leaps, emerging from Fusang's boughs.
+    Faintly the face of Yu's abyss lifts halfway into view,
+    As warmth first blooms and brings the millet valley back to life.
+    Light pierces even through the poorest thatched-roof home—
+    The sovereign grace extends where boundaries are none.
+    Penglai floats dimly where the three sacred islands fade,
+    The sea god dances while all spirits rush about their way.
+    Who would believe such holy radiance could span all eight directions?
+    Yet still we sing the sage's words from Yao's own book of peace.
+  footnotes:
+  - key: ''
+    value: 'Fusang (扶桑): In ancient cosmology, a mythical tree in the eastern sea from whose branches the sun rises each dawn, announced by a golden rooster.'
+  - key: ''
+    value: 'Xi Yu (羲馭): The charioteer of the sun, referring to the divine powers that govern the dawn in the age of sage-emperor Yao.'
+  - key: ''
+    value: 'Yu''s Abyss (虞淵): The mythical source where the sun emerges at dawn before setting to bathe in the Xianchi pool.'
+  - key: ''
+    value: 'Millet Valley (黍谷): According to legend, a barren valley that bloomed with grain when Zou Yan used the principles of music and harmony to infuse it with vital warmth.'
+  - key: ''
+    value: 'Penglai and the Three Sacred Islands: Mythical isles in the eastern sea said to be the abode of immortals.'
+  - key: ''
+    value: 'Sea God (海若): The divine spirit governing the waters and all creatures within.'
+  - key: ''
+    value: 'The Eight Directions: A classical term representing the entire world.'
+  - key: ''
+    value: 'Yao''s Book: Reference to the Yao Dian, the foundational chapter of the Classic of Documents, wherein the sage-emperor brings harmony and enlightenment to all people.'

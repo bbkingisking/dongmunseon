@@ -1,0 +1,49 @@
+canonical:
+  title: 李約東
+  author: 金宗直
+  language: lzh
+  text: 鼇背樓臺可俯憑鯨波萬里鏡光澄奚奴有暇能調馬幕客無營但臂鷹鮫鱷暗驚千弩響鷿鵜閑立五牙層大平未試龍韜策射雉因過竹院僧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李約東
+  author: 金宗直
+  language: lzh
+  text: 鼇背樓臺可俯憑。鯨波萬里鏡光澄。奚奴有暇能調馬。幕客無營但臂鷹。鮫鱷暗驚千弩響。鷿鵜閑立五牙層。大平未試龍韜策。射雉因過竹院僧。
+korean:
+  title: 절도사 이약동
+  author: 김종직
+  language: kor
+  text: |-
+    새우등 같은 누대에 기대 굽어볼 만하구나
+    고래 물결 만 리에 거울 빛이 맑다
+    종들은 여가가 있어 말을 훈련시키는데
+    막객은 할 일 없어 다만 매를 팔에 앉혔다
+    교악은 가만히 천노의 소리에 놀라고
+    벽제는 한가히 오아(다섯 깃발)의 층계에 섰다
+    태평하여 아직 용도의 꾀를 시험하지 못하고
+    꿩을 쏘다 이내 죽원에서 승을 찾는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0670&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 연아(演雅) : '
+    value: 시를 지을 제 운자(韻字)를 모두 짐승의 뜻이 들은 글자를 넣은 것
+english:
+  title: To Yi Yak-dong, the Regional Commander
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Upon the tower perched like a turtle's back, one leans and gazes down.
+    The whale-waves stretch ten thousand li, their mirror-light crystalline.
+    Servants at leisure train their horses with care,
+    While camp officials, with nothing to do, merely perch hawks upon their arms.
+    The crocodile starts at the distant sound of a thousand crossbows,
+    The cormorant stands idle among the five-bannered heights.
+    In this great peace, we have not yet tested the dragon's tactics,
+    Yet hunting pheasants, we chance upon monks in the bamboo temple.
+  footnotes:
+  - key: ''
+    value: This poem employs a sophisticated constraint where every rhyme character carries an animal meaning—a playful display of classical poetic craftsmanship.
+  - key: ''
+    value: The poem presents a scene of leisure and hunting during peacetime, perhaps suggesting both the stability of a peaceful realm and the restlessness of capable men with little to prove.
+  - key: ''
+    value: The reference to 'dragon's tactics' alludes to strategic military knowledge left untested in times of peace, while the closing image of monks in a bamboo temple provides a moment of unexpected spirituality amidst the worldly pursuits of hunting.

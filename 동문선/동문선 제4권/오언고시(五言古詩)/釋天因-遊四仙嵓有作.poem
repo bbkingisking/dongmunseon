@@ -1,0 +1,46 @@
+canonical:
+  title: 遊四仙嵓有作
+  author: 釋天因
+  language: lzh
+  text: 仙遊邈已遠嘉境轉幽寂晴川碧如藍石蘚暖於席逍遙能幾時俛仰忽陳迹淹留非不佳但恐日易夕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊四仙嵓有作
+  author: 釋天因
+  language: lzh
+  text: 仙遊邈已遠。嘉境轉幽寂。晴川碧如藍。石蘚暖於席。逍遙能幾時。俛仰忽陳迹。淹留非不佳。但恐日易夕。
+korean:
+  title: 사선암에 놀면서
+  author: 석천인
+  language: kor
+  text: |-
+    신선이 놀던 일 멀고 아득하여라
+    아름다운 경개는 갈수록 그윽하다
+    맑은 시냇물 푸르기 쪽빛 같고
+    돌에 끼인 이끼 자리보다 따뜻해라
+    이렇게 소요하기 얼마나 가리
+    부앙하는 사이에 묵은 자취되리라
+    얼마든지 머물러 놀고 싶건만
+    다만 날이 저물까 두려워하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0280&viewSync=OT
+  footnotes: []
+english:
+  title: Upon Visiting Four Immortals Rock
+  author: Seok Cheon-in
+  language: eng
+  text: |-
+    The age of wandering immortals fades into distance,
+    beautiful realms grow ever more serene.
+    The clear stream flows blue as indigo dye,
+    the moss upon the stones warmer than any cushioned seat.
+
+    How brief these hours of wandering free—
+    in a moment's bow and rise, the past returns.
+    I would linger here without complaint,
+    yet I fear the daylight slipping toward dusk.
+  footnotes:
+  - key: ''
+    value: Four Immortals Rock (사선암) is a scenic Buddhist site in Korea, suggesting this is a meditation on impermanence at a sacred location
+  - key: ''
+    value: The poem employs traditional Buddhist and Daoist themes of transience, contrasting the timeless realm of immortals with the speaker's mortal awareness of time's passage

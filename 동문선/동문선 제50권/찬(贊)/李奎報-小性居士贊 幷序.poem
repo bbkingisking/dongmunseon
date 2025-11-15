@@ -1,0 +1,46 @@
+canonical:
+  title: 小性居士贊 幷序
+  author: 李奎報
+  language: lzh
+  text: 予於聆首座足庵見小性居士眞敢再拜作贊云剃而髡則元曉大師髮而巾則小性居士雖現身千百如指掌耳此兩段作形但一塲戲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 小性居士贊 幷序
+  author: 李奎報
+  language: lzh
+  text: 予於聆首座足庵。見小性居士眞。敢再拜作贊云。剃而髡則元曉大師。髮而巾則小性居士。雖現身千百。如指掌耳。此兩段作形。但一塲戲。
+korean:
+  title: 소성거사 찬 병서
+  author: 이규보
+  language: kor
+  text: |-
+    나는 영수좌(聆壽座) 족암(足庵)에게서 소성거사의 진을 보고 감히 두 번 절하며 찬을 짓는다.
+    털을 깎아, 맨 머리면 원효대사요
+    털이 있어 관을 쓰면 소성거사로세
+    비록 몸이 천이나 백으로 나타난대도
+    손바닥을 보는 것과 같으이
+    이 두 가지의 형은
+    다만 한 마당의 유희겠지
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0160&viewSync=OT
+  footnotes: []
+english:
+  title: Eulogy of the Layman Small-Nature with Preface
+  author: Lee Gyeongbo
+  language: eng
+  text: |-
+    I beheld the true image of Layman Small-Nature through the Chief Seat Yeongsu at Clan Hermitage, and respectfully bow twice to compose this eulogy:
+
+    Shave the head bare, and behold Great Master Wonhyo;
+    Let the hair grow and don the cap—there stands Layman Small-Nature.
+    Though his form manifest in countless incarnations,
+    It is as clear as looking upon one's own palm.
+    These two states of being,
+    Are but a single performance upon the stage of illusion.
+  footnotes:
+  - key: ''
+    value: Wonhyo (원효, 617-686) was a celebrated Korean Buddhist monk and philosopher of the Silla Dynasty, known for his profound spiritual realization and prolific writings.
+  - key: ''
+    value: The poem plays on the Buddhist concept of the transience of form and the unchanging nature of Buddha-nature, suggesting that whether as a monk (shaved head) or a layman (with hair and cap), the essential nature remains identical.
+  - key: ''
+    value: The 'image' or 'true likeness' (진, chin) refers to a portrait or representation, likely a painting or sculpture shown to the poet by the Chief Seat Yeongsu.

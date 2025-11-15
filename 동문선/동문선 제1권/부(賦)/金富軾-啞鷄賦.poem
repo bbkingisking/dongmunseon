@@ -1,0 +1,99 @@
+canonical:
+  title: 啞鷄賦
+  author: 金富軾
+  language: lzh
+  text: 歲崢嶸而向暯苦晝短而夜長豈無燈以讀書病不能以自強但展轉以不寐百慮縈于寸膓想鷄塒之在邇早晚鼓翼以一鳴擁寢衣而幽坐見牎隙之微明遽出戶以迎望參昴澹其西傾呼童子而令起乃問雞之死生旣不羞於俎豆恐見害於貍猩何低頭而瞑目竟緘口而無聲國風思其君子嘆風雨而不已今可鳴而反嘿豈不違其天理與夫狗知盜而不吠猫見鼠而不追校不才之一揆雖屠之而亦宜惟聖人之敎誡以不殺而爲仁倘有心而知感可悔過而自新
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 啞鷄賦
+  author: 金富軾
+  language: lzh
+  text: 歲崢嶸而向暯。苦晝短而夜長。豈無燈以讀書。病不能以自強。但展轉以不寐。百慮縈于寸膓。想鷄塒之在邇。早晚鼓翼以一鳴。擁寢衣而幽坐。見牎隙之微明。遽出戶以迎望。參昴澹其西傾。呼童子而令起。乃問雞之死生。旣不羞於俎豆。恐見害於貍猩。何低頭而瞑目。竟緘口而無聲。國風思其君子。嘆風雨而不已。今可鳴而反嘿。豈不違其天理。與夫狗知盜而不吠。猫見鼠而不追。校不才之一揆。雖屠之而亦宜。惟聖人之敎誡。以不殺而爲仁。倘有心而知感。可悔過而自新。
+korean:
+  title: 아계부
+  author: 김부식
+  language: kor
+  text: |-
+    어느덧 한 해가 저물어 가
+    낮이 짧고 밤이 긴 것이 괴로운데
+    등 없어 글 읽지 못하랴마는
+    병으로 꾸준히 노력할 수 없어
+    밤새껏 뒤척이며 잠못 이루니
+    온갖 걱정이 뱃속에 감돈다
+    닭의 홰가 근처에 놓여 있으니
+    조금만 있으면 날개쳐 울리
+    잠옷 그대로 가만히 일어나 앉아
+    창틈으로 바깥을 내다보다가
+    갑자기 문 열고 바라보니
+    별들이 가뭇가뭇 서쪽으로 기울어 있다
+    아이놈 불러 일으켜서
+    닭이 죽었나 물어보았다
+    잡아서 제자상에 놓지 않았는데
+    삵에게 물렸는가
+    왜 머리를 숙이고 눈을 감고
+    입을 다물고 아무말 없는가
+    옛 시엔 네 울음에 군자를 생각해
+    풍우에도 그치지 않음을 탄식했는데
+    이제 울어야 할 때 울지 않으니
+    이 어찌 천리를 어김이 아닌가
+    개가 도적을 알고도 안 짖으며
+    고양이가 쥐를 보고도 쫓지 않는 것 같이
+    제 구실 못하기는 매일반이니
+    잡아버려도 마땅하다마는
+    다만 옛 성인의 가르치심에
+    안 죽임이 어질다 하였으니
+    네가 생각해서 고마움 알면
+    부디 회개하여 새로워져라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0040_020_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옛 시엔 …… 탄식했는데 : '
+    value: 《시경》 풍우편(風雨篇)에, “비바람은 그믐같이 캄캄하온데 닭은 울어 그치지 않네. 아아, 그대를 만나뵈오니 그립던 이 마음이 안 기쁘리까.” 하였다.
+english:
+  title: Ode to the Silent Rooster
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The year wanes, the seasons turn,
+    Short days and long nights bring me pain.
+    Though I have light to read by,
+    Illness keeps me from steadfast effort.
+    All night I toss and turn, sleepless,
+    A thousand worries wound through my breast.
+    The rooster's roost lies near at hand—
+    Soon it will flap its wings and cry.
+
+    I wrap my sleeping robe about me,
+    Sit still in the darkness,
+    Peering through the window's edge
+    To see the faint light of dawn.
+    Suddenly I rise and step outside,
+    Watching as the stars pale westward.
+    I call the boy and wake him,
+    Ask: Is the rooster alive or dead?
+    It has not graced the sacrificial table,
+    Nor been caught by fox or tiger.
+    Why then does it hang its head,
+    Close its eyes, and keep its silence?
+
+    Ancient poems praised the rooster's crow,
+    Sung of a gentleman through wind and rain.
+    They tell how its call never ceases,
+    How it stirs the heart with longing.
+    Yet now, when it should sing, it is mute—
+    Does this not violate heaven's way?
+    As the dog that sees the thief but will not bark,
+    The cat that watches the mouse but will not pounce,
+    It fails its nature just the same.
+    Perhaps it deserves the knife.
+
+    And yet the sages taught us
+    That not to kill is true compassion.
+    If you have a heart that can understand,
+    If gratitude can touch your soul,
+    Then repent and be reborn anew.
+  footnotes:
+  - key: ''
+    value: 'The reference to ''ancient poems'' alludes to the Shijing (Classic of Poetry), Wind and Rain section: ''Through wind and rain dark as twilight, the rooster crows without cease. Oh, to see you brings such joy to this longing heart.'''
+  - key: ''
+    value: The work employs the rooster's silence as a meditation on natural duty, moral failure, and redemptive compassion—themes central to Neo-Confucian thought.

@@ -1,0 +1,57 @@
+canonical:
+  title: 閨情
+  author: 李達衷
+  language: lzh
+  text: 贈君同心結貽我合歡扇君心竟不同好惡千萬變我歡亦未成憔悴日夜戀棄捐不怨君新人多婉孌婉孌能幾時光陰疾於箭焉知如花人亦有欺皺面
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閨情
+  author: 李達衷
+  language: lzh
+  text: 贈君同心結。貽我合歡扇。君心竟不同。好惡千萬變。我歡亦未成。憔悴日夜戀。棄捐不怨君。新人多婉孌。婉孌能幾時。光陰疾於箭。焉知如花人。亦有欺皺面。
+korean:
+  title: 규정
+  author: 이달충
+  language: kor
+  text: |-
+    그대에게 동심결 주었더니
+    내게는 합환선을 주네
+    그대 마음 마침내 같지 않아
+    좋아하고 미워함이 천만 번 변하네
+    내 즐거움 또한 이루지 못해
+    모양이 야위도록 밤낮으로 그리워하네
+    날 버리는 그대 원망하지 않으리
+    새 사람 매우 어여뻐
+    그 어여쁨 얼마나 가리
+    광음은 빠르기 화살 같아라
+    꽃 같은 그 사람에게도
+    얼굴에 주름질 때 있을 줄 어찌 알리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: A Woman's Heart
+  author: Lee Dal-choong
+  language: eng
+  text: |-
+    I gave you a lover's knot,
+    yet you sent me a fan of reunion.
+    Your heart, it seems, was never mine—
+    your affections shift like clouds,
+    a thousand times transformed.
+
+    My joy remains unfinished,
+    my face grows pale with endless longing,
+    day and night I pine for you.
+    I do not blame you for leaving me;
+    your new love is so beautiful.
+
+    But tell me—how long will beauty last?
+    Time flies swift as arrows.
+    Does she not know that even flowers fade,
+    that beauty too must bow to age's touch?
+  footnotes:
+  - key: ''
+    value: The 'lover's knot' (동심결) and 'fan of reunion' (합환선) are traditional symbols of affection and marital harmony in East Asian poetry, making their contrast poignant.
+  - key: ''
+    value: The poem employs a common classical theme of abandonment and the transience of beauty to suggest both the speaker's pain and a subtle vindication through time's inevitability.

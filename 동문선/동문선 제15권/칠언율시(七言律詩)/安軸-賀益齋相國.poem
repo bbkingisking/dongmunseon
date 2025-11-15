@@ -1,0 +1,47 @@
+canonical:
+  title: 賀益齋相國
+  author: 安軸
+  language: lzh
+  text: 文圍發策得英才掌試傅芳壽宴開白雪淸歌和寶瑟紫霞靈液滿金杯門生自領門生到座主親迎座主來多賀相公連喜慶二郞當作桂林魁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀益齋相國
+  author: 安軸
+  language: lzh
+  text: 文圍發策得英才。掌試傅芳壽宴開。白雪淸歌和寶瑟。紫霞靈液滿金杯。門生自領門生到。座主親迎座主來。多賀相公連喜慶。二郞當作桂林魁。
+korean:
+  title: 하 익재상국
+  author: 안축
+  language: kor
+  text: |-
+    과장에 글제 내어 영재들을 얻고
+    양대로 장시하여 수연을 열었어라
+    백설 맑은 노래는 비파를 화답하고
+    자하주 신선 술은 금잔에 가득하네
+    문생이 제 문생들을 거느려 오고
+    좌주가 몸소 좌주를 맞아들이누나
+    상공의 겹친 경사를 하례하노니
+    둘째 아들 마땅히 장원에 오르리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0270&viewSync=OT
+  footnotes: []
+english:
+  title: Congratulations to the Prime Minister Iksae
+  author: An Chuk
+  language: eng
+  text: |-
+    The examination draws forth talented scholars,
+    The testing hall opens in celebration with longevity feast.
+    White snow and clear song answer the jade lute,
+    Purple clouds and divine wine fill the golden cup.
+    Students bring their own students,
+    The presiding master himself receives the presiding master.
+    I offer congratulations on the Prime Minister's doubled fortune—
+    Your second son shall surely become the top scholar.
+  footnotes:
+  - key: ''
+    value: Iksae (益齋) was a courtesy name of the honoree, a prime minister of Goryeo
+  - key: ''
+    value: The 'second son' likely refers to a distinguished descendant or successor, not necessarily a literal familial relationship
+  - key: ''
+    value: The parallel couplets about students and masters celebrate the flourishing of scholarly achievement across generations

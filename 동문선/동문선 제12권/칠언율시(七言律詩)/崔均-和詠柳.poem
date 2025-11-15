@@ -1,0 +1,47 @@
+canonical:
+  title: 和詠柳
+  author: 崔均
+  language: lzh
+  text: 造物多情着柳梢剪刀裁出更妖妖雪消暗膩黃金色日暖輕拖碧縷條西子眉嚬如有恨小蠻腰細不勝嬌冷官寂寞人稀處幾被春風取次搖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和詠柳
+  author: 崔均
+  language: lzh
+  text: 造物多情着柳梢。剪刀裁出更妖妖。雪消暗膩黃金色。日暖輕拖碧縷條。西子眉嚬如有恨。小蠻腰細不勝嬌。冷官寂寞人稀處。幾被春風取次搖。
+korean:
+  title: 화영류
+  author: 최균
+  language: kor
+  text: |-
+    조물이 다정하여 버들가지를 붙여놓고
+    가위로 잎을 오려내니 더욱 곱구나
+    눈이 스러지면 황금 빛이 살짝 물들고
+    따스한 날엔 푸른 실 가지가 한들거리네
+    서시가 한 있어 눈썹을 찡그리는 듯
+    소만의 가는 허리가 교태를 못 이기누나
+    스산한 고을사람 사람도 드문 적막한 곳에
+    얼마나 봄바람에 불려 흔들거리나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0720&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소만(小蠻) : '
+    value: 당(唐)나라 백거이(白居易)의 시희(侍姬). 허리가 가늘고 춤을 잘 추었다. 거이의 기생으로 번소는 노래를 잘하고, 소만은 춤을 잘했으므로 일찍이 그가 시를 짓기를, “앵도는 번소의 입, 버들가지는 소만의 허리.”라 하였다.
+english:
+  title: In Response to a Poem on Willows
+  author: Choi Gyun
+  language: eng
+  text: |-
+    The Creator, tender-hearted, adorns the willow tips,
+    And scissors cut the leaves to lovelier perfection still.
+    When snow melts, golden hues emerge and softly glow,
+    As warmth returns, blue silken threads dance in the breeze.
+    Like Xi Shi's brow, furrowed with sorrow's gentle hint,
+    Xiaoman's slender waist sways with unbearable grace.
+    In the desolate official outpost, lonely and forsaken,
+    How many times does the spring wind set it trembling?
+  footnotes:
+  - key: ''
+    value: 'Xi Shi: One of ancient China''s legendary beauties, known for her distinctive furrowed brow.'
+  - key: ''
+    value: 'Xiaoman: A celebrated dancer and concubine of the Tang poet Bai Juyi, famous for her graceful, slender waist. Bai Juyi once wrote of her in verse: ''Yingdao has Pinsuo''s lips; the willow branch has Xiaoman''s waist.'''

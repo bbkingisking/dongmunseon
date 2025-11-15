@@ -1,0 +1,48 @@
+canonical:
+  title: 途中
+  author: 金時習
+  language: lzh
+  text: 貊國初飛雪春城木葉踈秋深村有酒客久食無魚山遠天垂野江遙地接虛孤鴻落日外征馬政躊躇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 途中
+  author: 金時習
+  language: lzh
+  text: 貊國初飛雪。春城木葉踈。秋深村有酒。客久食無魚。山遠天垂野。江遙地接虛。孤鴻落日外。征馬政躊躇。
+korean:
+  title: 도중
+  author: 김시습
+  language: kor
+  text: |-
+    맥국에는 처음으로 눈 날리는데
+    춘성에는 아직 나뭇잎이 성글구나
+    가을이 깊어 촌에는 술이 있고
+    오랜 나그네라 밥상에 고기 없다
+    산이 멀매 하늘은 들에 드리워 있고
+    강이 멀매 땅은 허공에 놓여 있다
+    외로운 기러기는 떨어지는 해 밖인데
+    나그네 말은 진정 머뭇거린다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0310&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    Snow begins to fall in the land of Maek,
+    yet in spring-touched city, the tree leaves remain sparse.
+    Autumn deepens and the village holds its wine,
+    but I, a traveler long away, have no fish upon my table.
+
+    Mountains distant, sky drapes down upon the fields,
+    rivers far away, earth dissolves into emptiness.
+    A solitary goose descends beyond the setting sun—
+    my traveling horse hesitates, uncertain on the path.
+  footnotes:
+  - key: ''
+    value: Maek (貊國) refers to the region of ancient Manchuria, here evoking the northern reaches of the poet's journey.
+  - key: ''
+    value: The poem contrasts seasonal signs—snow in the north, sparse leaves in the spring city—suggesting the poet's displacement across different climates and times.
+  - key: ''
+    value: The final image of the hesitating horse reflects the poet's own inner uncertainty and weariness during travel.

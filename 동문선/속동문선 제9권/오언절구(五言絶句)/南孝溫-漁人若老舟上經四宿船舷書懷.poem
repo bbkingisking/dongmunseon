@@ -1,0 +1,41 @@
+canonical:
+  title: 漁人若老舟上經四宿船舷書懷
+  author: 南孝溫
+  language: lzh
+  text: 撥火炙魚心編茅結小陰舟中朝復夕烟雨一江深
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漁人若老舟上經四宿船舷書懷
+  author: 南孝溫
+  language: lzh
+  text: 撥火炙魚心。編茅結小陰。舟中朝復夕。烟雨一江深。
+korean:
+  title: 어인약로주상 경사숙 선현 서회
+  author: 남효온
+  language: kor
+  text: |-
+    불을 피워서 고기 내장을 굽고
+    띠풀을 엮어 조그만 그늘을 만들다
+    배 안에서 아침과 저녁을 지내는데
+    연기와 비에 한 강이 깊었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: 'Written on a Boat: Four Nights Passing the Riverside'
+  author: Nam Hyo-on
+  language: eng
+  text: |-
+    I kindle fire to roast the fish's heart,
+    Weave reeds to fashion a small shelter's shade.
+    Within the boat, morning becomes evening,
+    As smoke and rain deepen the river's face.
+  footnotes:
+  - key: ''
+    value: The 'fish's heart' suggests both literal sustenance and the essence of the fisherman's humble life.
+  - key: ''
+    value: The shelter made from woven reeds evokes the temporary, impermanent nature of the poet's journey.
+  - key: ''
+    value: The blending of time ('morning becomes evening') reflects the dissolution of temporal boundaries in solitude.
+  - key: ''
+    value: The final image merges the material world (smoke from the fire, falling rain) with the river itself, suggesting how the poet's small human presence becomes absorbed into the larger landscape.

@@ -1,0 +1,45 @@
+canonical:
+  title: 秋夜書懷
+  author: 李宜茂
+  language: lzh
+  text: 喞喞鳴虫夜轉幽虛䆫無夢數更籌思家一日如三月作客從春直過秋短髮飄飄搔更落流年冉冉去難留強憑詩語閑消遣及到詩成反欲愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋夜書懷
+  author: 李宜茂
+  language: lzh
+  text: 喞喞鳴虫夜轉幽。虛䆫無夢數更籌。思家一日如三月。作客從春直過秋。短髮飄飄搔更落。流年冉冉去難留。強憑詩語閑消遣。及到詩成反欲愁。
+korean:
+  title: 추야 서회
+  author: 이의무
+  language: kor
+  text: |-
+    찍찍 우는 벌레 소리에 밤은 더욱 그윽한데
+    빈 창에 꿈이 없어 경주를 세어 보네
+    집 생각의 하루가 석 달 같은데
+    봄에 손이 되어 바로 가을 지냈네
+    짧은 머리털은 너울 너울 긁을수록 빠지고
+    흐르는 세월은 이럭 저럭 가니 붙들기 어렵구나
+    억지로 시에 의지해 한가히 소견하자니
+    미처 시가 이루워지게 되자 도리어 시름스럽도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경주(更籌) : '
+    value: 하룻밤을 오경(五更)으로 나누었는데, 매경(每更)마다 숫자대로 표시한다는 말이다.
+english:
+  title: Autumn Night Reflections
+  author: Lee Ui-mu
+  language: eng
+  text: |-
+    The chirping insects pierce the quiet of deepening night.
+    In my empty chamber, dreamless, I count the watches passing.
+    One day of longing for home feels like three months.
+    Come as a guest in spring, I have watched autumn arrive.
+    My short hair thins and falls with every desperate scratch.
+    The flowing years slip away—how can I hold them back?
+    I lean upon my verse to while away the idle hours,
+    Yet when the poem is finished, sorrow rushes in.
+  footnotes:
+  - key: ''
+    value: The 'watches' (更籌) refer to the five watches that traditionally divided the night in East Asian timekeeping, each marked by a drumbeat or bell stroke.

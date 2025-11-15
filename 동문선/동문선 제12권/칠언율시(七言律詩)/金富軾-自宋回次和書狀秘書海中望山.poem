@@ -1,0 +1,53 @@
+canonical:
+  title: 自宋回次和書狀秘書海中望山
+  author: 金富軾
+  language: lzh
+  text: 千載歸來却咲丁雲帆數日出冥冥早知海若觀難測方恨天門夢易醒月注波濤銀瀉白雲橫島嶼黛凝靑君平昨夜占星象應怪河間有客星
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自宋回次和書狀秘書海中望山
+  author: 金富軾
+  language: lzh
+  text: 千載歸來却咲丁。雲帆數日出冥冥。早知海若觀難測。方恨天門夢易醒。月注波濤銀瀉白。雲橫島嶼黛凝靑。君平昨夜占星象。應怪河間有客星。
+korean:
+  title: 송나라에서 돌아오는 길에 서장과 비서의 시, 바다에서 산을 바라봄을 차운하며
+  author: 김부식
+  language: kor
+  text: |-
+    천 년 만에 돌아온 정령위가 우습구나
+    배가 수일이면 아득한 바다를 나왔는걸
+    해약의 봄이 측량키 어려움을 알았거니
+    하늘 문의 꿈이 쉬 깸을 바야흐로 한하노라
+    물결에 들이비친 달은 백은을 쏟은 듯
+    구름이 비낀 섬은 푸른 눈썹 그려놓은 듯
+    군평이 어제 밤에 성상을 점쳤으면
+    은하에 객성이 있음을 이상히 여겼으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0530&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정령위(丁令威) : '
+    value: 요동(遼東) 사람으로 도사(道士)이다. 그가 영허산(靈虛山)에서 도를 배워 뒤에 학(鶴)으로 화하여 천 년 만에 요(遼)에 돌아왔다는 이야기가 있다.
+  - key: '[주-D002] 해약(海若) : '
+    value: 바다의 신(神)이다. 하백(河伯 황하의 신)과 해약의 설화에서 해약이 바다의 측량하기 어려움을 말하였다. 《莊子》
+  - key: '[주-D003] 은하(銀河)에 객성(客星)이 있음 : '
+    value: 어떤 사람이 떼를 타고 은하에 올라 직녀(織女)와 견우(牽牛)를 보고 여기가 어디냐고 물으니, 촉중(蜀中)의 엄군평(嚴君平)을 찾아가 물으라 하였다. 돌아와서 엄군평을 찾아가 그곳이 어디냐고 물어보니, 군평이 대답하기를, “모 연월일에 객성이 견우성을 범했다.”고 하였다. 《博物志》
+english:
+  title: 'On the Return Journey from Song: Harmonizing with Secretary Zhang and Secretariat Official Bi''s Verses on Viewing Mountains from the Sea'
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    After a thousand years, the immortal Ding Lingwei returns—how strange it seems.
+    A few days' sail and the ship emerges from the vast, shadowed sea.
+    Now I understand: the Sea God's depths cannot be measured or known.
+    Yet I lament how swiftly the Heaven Gate's dream dissolves upon waking.
+    The moon pours its silver onto the waves, white as molten metal spilled.
+    Clouds veil the islands, painting blue-green eyebrows across the distance.
+    Had Jun Ping cast his auguries last night upon the stars,
+    Would he not have marveled at the guest star wandering the Milky Way?
+  footnotes:
+  - key: ''
+    value: 'Ding Lingwei: A legendary immortal from ancient Liaodong who studied the Way on Lingxu Mountain and transformed into a crane. After a thousand years, he returned to Liao—here serving as a symbol of one who journeys through time and returns transformed.'
+  - key: ''
+    value: The Sea God (Hairuò) and the River God (Hepo) appear together in the Zhuangzi, where the Sea God speaks of the unmeasurable vastness of the ocean—representing the limits of human knowledge.
+  - key: ''
+    value: 'Jun Ping''s astral divination: The scholar Yan Jun Ping of Shu was said to possess such skill in reading the heavens that when asked about a guest star appearing near Vega and Altair in the Milky Way, he could date the celestial event precisely—a metaphor for penetrating hidden knowledge.'

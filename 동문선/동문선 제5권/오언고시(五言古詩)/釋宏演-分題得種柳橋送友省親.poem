@@ -1,0 +1,54 @@
+canonical:
+  title: 分題得種柳橋送友省親
+  author: 釋宏演
+  language: lzh
+  text: 送君楊柳橋贈君楊柳枝楊柳不足贈所念在別離君歸果何爲悠悠白雲思綵衣固自樂學道莫遅暮采采泮中芹流年莫虛度
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 分題得種柳橋送友省親
+  author: 釋宏演
+  language: lzh
+  text: 送君楊柳橋。贈君楊柳枝。楊柳不足贈。所念在別離。君歸果何爲。悠悠白雲思。綵衣固自樂。學道莫遅暮。采采泮中芹。流年莫虛度。
+korean:
+  title: ‘종류교’의 제목을 얻어서 부모님께 문안 가는 벗을 보내며
+  author: 석굉연
+  language: kor
+  text: |-
+    그대를 양류교에서 보내며
+    그대에게 양류 가지를 주노라
+    양류는 줄 만한 것이 아니지마는
+    생각하는 것은 이별에 있도다
+    그대가 돌아감은 과연 무엇을 위함인가
+    흰 구름을 바라보는 생각이 유유하네
+    채색옷이 진실로 즐겁기는 하나
+    도를 배우는 것을 늦게 하지 말며
+    반수의 미나리 캐고 캐어
+    흐르는 세월을 헛되이 보내지 마오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 채색옷 : '
+    value: 노래자(老萊子)가 나이 칠십에 부모를 효성으로 봉양하면서 부모를 즐겁게 하기 위하여 어린애처럼 채색옷을 입고 재롱을 부렸다.
+english:
+  title: Sending Off a Friend at Willow Bridge to Visit His Parents - A Poem on an Assigned Theme
+  author: Seok Hongyon
+  language: eng
+  text: |-
+    I bid you farewell at Willow Bridge,
+    And offer you a willow branch as gift.
+    Yet willow alone is not enough to give—
+    What weighs upon my heart is parting.
+
+    When you return home, what is your true purpose?
+    My thoughts drift upward like gentle clouds.
+    Though colorful silks bring their own joy,
+    Do not delay in pursuing the Way.
+
+    Gather the spring greens in the shallow pools,
+    Culling them again and again.
+    Let not the flowing years pass in vain.
+  footnotes:
+  - key: ''
+    value: 'The ''colorful silks'' reference alludes to Laozi''s filial devotion: at seventy years old, he wore bright children''s clothing and performed antics to delight his aging parents, exemplifying how one might bring happiness through unconventional means.'
+  - key: ''
+    value: The spring greens gathered from shallow pools (泮中芹) carry symbolic weight in classical poetry, representing both the gathering of precious things and the diligent cultivation of virtue.

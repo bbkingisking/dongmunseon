@@ -1,0 +1,85 @@
+canonical:
+  title: 山海關
+  author: 李承召
+  language: lzh
+  text: 山峩峩海洋洋中間一牛鳴擧目卽相望中原幅員廣九有正茫茫南窮鴈海北龍庭章亥莫能步四方雖然到此海山蹙地勢盤束如括囊築城掘濠據要害金湯萬古作關防山河表裏百二雄秦關蜀道何能當况復騰凌開大府萬家烟火誇富強折衝樽俎今何人坐令殊俗爭梯航我亦奉琛自東韓皇家文物得觀光欲効終童棄繻去却愧簫蕭兩鬢霜誰能作詩頌皇靈上與周雅垂無彊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山海關
+  author: 李承召
+  language: lzh
+  text: 山峩峩海洋洋。中間一牛鳴。擧目卽相望。中原幅員廣。九有正茫茫。南窮鴈海北龍庭。章亥莫能步四方。雖然到此海山蹙。地勢盤束如括囊。築城掘濠據要害。金湯萬古作關防。山河表裏百二雄。秦關蜀道何能當。况復騰凌開大府。萬家烟火誇富強。折衝樽俎今何人。坐令殊俗爭梯航。我亦奉琛自東韓。皇家文物得觀光。欲効終童棄繻去。却愧簫蕭兩鬢霜。誰能作詩頌皇靈。上與周雅垂無彊。
+korean:
+  title: 산해관
+  author: 이승소
+  language: kor
+  text: |-
+    산은 높디 높고 바다는 출렁이는데
+    중간의 우명의 거리
+    고대 바라뵈네만
+    중원은 폭원이 넓어
+    구주가 망망하구나
+    남으론 안해까지 북으론 용정
+    장해라도 사방으로 걸을 수 없네
+    그러나 예 와서는 바다와 산이 좁아들어
+    묶인 지세가 주머니 같은데
+    성을 쌓고 호를 파 요해지에
+    금탕 같은 관방을 만들었구나
+    산하 표리 백이웅관의
+    진관ㆍ촉도들 어찌 당하리
+    하물며 위엄있게 큰 부를 열어서
+    만호인가가 부강을 자랑하네
+    준조 간에 절충하는 이 지금 어느 분인고
+    앉아서 이역 나라들을 다투어 조공케 하네
+    나도 동한에서 공물을 받들고 와
+    황가의 문물을 관광하는데
+    종동을 본받아 비단ㆍ보람 버리고 가려하나
+    두 귀밑머리 허옇게 센 것이 부끄럽네
+    누가 능히 시를 지어 황령을 송하여
+    위로 주아와 함께 그지없이 후세에 드리울꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장해(章亥) : '
+    value: 상고(上古)에 걸음을 잘 걷는 사람이다.
+  - key: '[주-D002] 종동(終童)을 …… 가려하나 : '
+    value: 한(漢)나라 종군(終軍)이 시골서 서울로 가는데 관(關)에 들어갈 때에 지키는 관원이 백부(帛符 비단을 찢어 가지는 증명물)를 주면서, “이것을 가져야 뒷날 관에 나올 때에 증명이 된다.” 하였다. 종군은 그것을 집어 던지며, “내가 나올 때에 임금의 명령으로 절(節)을 가지고 올 터인데 이것은 필요 없다.” 하였다.
+  - key: '[주-D003] 주아(周雅) : '
+    value: 주공(周公)이 대아(大雅)를 지어 선왕(先王)의 공덕을 칭송하였다.
+english:
+  title: Shanhaiguan
+  author: Lee Seung-sho
+  language: eng
+  text: |-
+    The mountains tower high, the sea billows vast,
+    Yet between them a cow's cry carries clear—
+    And all can see from where they stand.
+    The Central Plain spreads wide its domain,
+    The Nine Regions stretch in misty expanse:
+    South to the Goose Sea, north to Dragon's Court.
+    Even Chang Hae, that ancient walker of swift feet,
+    Could not traverse all four directions.
+    Yet here the mountains and sea draw close,
+    The land compressed like bundles tied in a sack.
+    Walls built, moats dug at the strategic pass—
+    A citadel of bronze and gold guards the frontier through endless ages.
+    Mountains and rivers frame this hundred-fold stronghold;
+    Neither Qin's Gate nor Shu's Path could rival its might.
+    How much less when such majesty opens to sovereignty,
+    Ten thousand hearths aflame with smoke, proclaiming wealth and strength!
+    Who now sits in the halls of diplomatic discourse,
+    Bending distant nations to tributary homage with mere presence?
+    I too have come bearing tribute from the Eastern Han,
+    Privileged to witness the splendor of the imperial court.
+    Once I hoped to cast aside my credentials like young Zhong Yong,
+    But shame overcomes me—see these frosted whiskers at my temples.
+    Who possesses the gift to compose verses honoring the imperial virtue,
+    That they might ascend with the great odes of Zhou,
+    Echoing through ages without end?
+  footnotes:
+  - key: ''
+    value: Chang Hae (章亥) was a legendary figure from ancient times known for his extraordinary ability to walk vast distances.
+  - key: ''
+    value: The reference to 'young Zhong Yong' alludes to the Han official Zhong Jun, who famously refused to accept a silk credential (bai fu) at a pass, declaring he would return with imperial authority rather than such mundane proof.
+  - key: ''
+    value: The 'great odes of Zhou' (周雅) refers to the Daoya, composed by the Duke of Zhou to praise the virtue of ancient kings—the poem aspires that its own praise of imperial virtue might achieve similar timeless resonance.

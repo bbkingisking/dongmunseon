@@ -1,0 +1,79 @@
+canonical:
+  title: 呼耶歌
+  author: 李石亨
+  language: lzh
+  text: 呼耶呼耶在南北呼耶之聲何時息千人輸一木萬人轉一石華山之石拔幾盡白雲之木斫幾禿石盡山禿寧可虞塡坑仆谷民可惜民可惜誰能識惡卒捶督如電擊朝未食夕無飱可憐腰閒空垂橐猶唱呼耶口吻燥口燥喉嗄聲難作聲衰力盡一僵仆塵飛濺血萬人足我願天公生大材不置山林置君側作我堂堂大廈之柱石不勞萬民力不爲萬姓瘼莫使呼耶在山谷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 呼耶歌
+  author: 李石亨
+  language: lzh
+  text: 呼耶呼耶在南北。呼耶之聲何時息。千人輸一木。萬人轉一石。華山之石拔幾盡。白雲之木斫幾禿。石盡山禿寧可虞。塡坑仆谷民可惜。民可惜誰能識。惡卒捶督如電擊。朝未食夕無飱。可憐腰閒空垂橐。猶唱呼耶口吻燥。口燥喉嗄聲難作。聲衰力盡一僵仆。塵飛濺血萬人足。我願天公生大材。不置山林置君側。作我堂堂大廈之柱石。不勞萬民力。不爲萬姓瘼。莫使呼耶在山谷。
+korean:
+  title: 호야가
+  author: 이석형
+  language: kor
+  text: |-
+    남에서도 “어어야” 북에서도 “어어야”
+    “어어야” 소리 어느 때나 멎으리
+    천 사람이 한 나무를 나르고
+    만 사람이 한 돌을 굴려
+    화산의 돌을 거의 다 뽑아 내고
+    백운대의 나무를 거의 다 찍었네
+    돌 다하고 민둥산 되는 것 염려롭기보다
+    구덩이와 골짜기에 묻히고 넘어지는 백성들
+    백성들 불쌍하나 누가 알리
+    모진 졸놈들 벼락같이 독촉하네
+    아침 굶고 저녁도 굶었는데
+    가엾어라, 허리엔 빈 자루만 차고
+    그리고도 “어어야” 입에 침이 마르니
+    침 마르고 목 쉬어 소리도 안 나오네
+    소리도 안 나와 기진맥진 엎어지니
+    먼지 나는 구덩이에 만 사람 발에 피가 뿌려
+    제발 원하노니, 하늘이여, 큰 재복을 내리려든
+    산림에 두지 말고 임금님 옆에 두시어
+    우리 당당한 큰 집의 기둥과 주초가 되어서
+    만민의 수고를 덜고
+    만민의 폐를 없이 하여
+    “어어야” 소리 산골에 안 들리게 하옵소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화산(華山) : '
+    value: 삼각산(三角山)을 이름인데, 진(秦)ㆍ한(漢)의 수도(首都) 장안(長安) 뒷산 근처의 산인 화산에 견준 것이다.
+english:
+  title: The Heya Song
+  author: Lee Seok-hyung
+  language: eng
+  text: |-
+    From south to north the cry rings out, "Heya, heya!"
+    When will the sound of "heya" ever cease?
+    A thousand men haul a single log,
+    Ten thousand roll a single stone.
+    The rocks of Hwasan are nearly torn away,
+    The trees of White Cloud Peak are nearly hewn to stumps.
+    Let the stones be exhausted, let the mountains go bare—
+    Worse is this: the people topple into pits and ravines.
+    Pitiful are the people, but who will know their plight?
+    Cruel overseers strike like lightning with their whips.
+    Breakfast forgone, no supper either,
+    Andeven their empty pouches hang loose at the waist.
+    Yet still they sing "heya"—their lips now parched.
+    With mouths so dry and voices hoarse,
+    Harder still to make a sound.
+    Their strength spent, their voices failed, they collapse to the earth,
+    And dust and blood spray beneath ten thousand trampling feet.
+    Oh, would that Heaven would grant great timber—
+    Not to grace the forests and hills,
+    But to stand as pillar and cornerstone
+    Beside the throne of Your Majesty!
+    Then would the labor of multitudes be eased,
+    And the burden upon the people be lifted.
+    Then would "heya" echo no more through mountain valleys.
+  footnotes:
+  - key: ''
+    value: 'Hwasan (華山): Here referenced as an analogue to Mount Samgak (三角山), comparing it to the famous Hwasan near Chang''an (長安), the ancient capital of Qin and Han China.'
+  - key: ''
+    value: The 'heya' (어어야) was a work song sung by laborers during corvée labor in ancient Korea, particularly during the construction of fortifications and infrastructure projects.
+  - key: ''
+    value: This poem is a social lament criticizing the harsh conditions of forced labor and advocating that talented individuals should serve the state rather than be exploited as common laborers.

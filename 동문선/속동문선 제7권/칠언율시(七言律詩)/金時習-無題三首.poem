@@ -1,0 +1,98 @@
+canonical:
+  title: 無題三首
+  author: 金時習
+  language: lzh
+  text: 終日芒鞋信脚行一山行盡一山靑心非有想奚形役道本無名豈假成宿露未晞山鳥語春風不盡野花明短筇歸去千峯靜翠壁亂烟生晩晴楓岳高低十二峯峯頭石角掛枯松塵紛却是郭郞巧世事盡隨蝴蝶空桂子落時殘照薄楊花飛處晩山濃蒲團獨坐香如縷愛聽楓橋半夜鍾翩翩一錫響空飛五月松花滿翠微盡日鉢擎千戶飯多年衲乞幾人衣心同流水自淸淨身與片雲無是非踏遍江山雙眼碧優曇花發及時歸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無題三首
+  author: 金時習
+  language: lzh
+  text: 終日芒鞋信脚行。一山行盡一山靑。心非有想奚形役。道本無名豈假成。宿露未晞山鳥語。春風不盡野花明。短筇歸去千峯靜。翠壁亂烟生晩晴。楓岳高低十二峯。峯頭石角掛枯松。塵紛却是郭郞巧。世事盡隨蝴蝶空。桂子落時殘照薄。楊花飛處晩山濃。蒲團獨坐香如縷。愛聽楓橋半夜鍾。翩翩一錫響空飛。五月松花滿翠微。盡日鉢擎千戶飯。多年衲乞幾人衣。心同流水自淸淨。身與片雲無是非。踏遍江山雙眼碧。優曇花發及時歸。
+korean:
+  title: 무제 삼수
+  author: 김시습
+  language: kor
+  text: |-
+    온종일 짚신으로 되는 대로 거니나니
+    한 산을 걸어 다하면 또 한 산이 푸르네
+    마음에 생각 없거니 어찌 몸에 불리우며
+    도는 본래 이름 없거니 어찌 거짓 이뤄지랴
+    밤 이슬은 마르지 않았는데 산새는 울고
+    봄바람이 끝이 없으매 들꽃이 아름답다
+    짧은 지팡이로 돌아오매 봉우리마다 고요한데
+    푸른 절벽에 어지러운 놀이 저녁 볕에서 난다
+    풍악이 높고 낮아 열 두 봉인데
+    봉 머리 돌부리에 마른 솔이 걸리었다
+    티끌의 어지러움에 도리어 곽랑이 교묘한데
+    세상 일은 모두 호접을 따라 비었더라
+    계수나무 열매가 떨어질 때에 저녁 볕이 엷은데
+    버들꽃이 나는 곳에 저믄 산이 무르녹다
+    방석에 혼자 앉았으면 향 연기는 실 같은데
+    풍교의 밤중 종소리를 사랑스리 듣는다
+    펄렁펄렁 하나의 지팡이가 허공을 울리며 나는데
+    오월의 소나무꽃이 푸른 산에 가득하다
+    온종일 바리를 들고 다니매 천집의 밥인데
+    여러 해로 누더기 빌었거니 몇 사람의 옷이던가
+    마음은 흐르는 물과 같아 스스로 청정하고
+    몸은 조각 구름과 함께 시비가 없다
+    강산을 두루 밟고 다니니 두 눈이 푸르렀는데
+    우담발꽃[優曇花]이 피는 그때에 돌아가리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0980&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 곽랑(郭郞) : '
+    value: 옛날 희극 배우의 이름이었는데 그 후에는 어릿광대를 곽랑이라고 하게 되었다. 그런데 그 어릿광대의 춤추는 것이 틀렸다고 포노인(鮑老人)이 웃었지만, 그 포노인을 등장시켜 춤을 추게 하니, 도리어 곽랑만도 못하였다는 시가 있으므로, 여기에는 세상을 살아가는데 그 사람이 잘못한다고 웃었지만 웃는 사람이 그런 일들 당하면 도리어 그만 못하다는 말이다.
+  - key: '[주-D002] 호접(蝴蝶) : '
+    value: 장자(莊子)가 꿈에 나비[蝴蝶]가 되어서 펄펄 날아 다녀 보았는데, 그때에는 자기가 그대로 나비로만 생각하였지 장자라고 생각하지 않았었다. 꿈을 깨어서 사람이 되고 보니, 자기가 사람이라고만 생각하게 되었으나 실상은 나비가 정말인데 사람이 나비 꿈속에서 잠시 화(化)한 것인지, 그렇다면 세상은 그 나비와는 관계 없다는 말이다.
+  - key: '[주-D003] 풍교(楓橋) : '
+    value: 당나라 장계(張繼)라는 사람의 〈풍교야박(楓橋夜泊)〉이란 시에, “고소성 밖에 한산사[姑蘇城外寒山寺]에서, 밤중에 치는 종소리 나그네 배에 들려 오네[(夜半鐘聲到客船]”라는 말이 있으므로, 그것을 인용한 것이다.
+english:
+  title: Three Untitled Poems
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    I
+
+    All day I wander in straw sandals, going where my feet lead.
+    One mountain crossed, another rises green before me.
+    With no thought dwelling in the mind, how can the body be enslaved?
+    The Way has no name—how could it be fashioned by artifice?
+
+    Night dew still wet, mountain birds call out their songs.
+    Spring wind endless, wildflowers blaze in beauty.
+    Returning with my crooked staff, each peak falls silent,
+    As twisted mists rise ghostlike in the fading light.
+
+    II
+
+    Majestic Songak sprawls in twelve peaks high and low.
+    On their stony crowns, gnarled pines hang dry and bare.
+    While dust swirls madly—see how the clown's art gleams—
+    All the world's affairs dissolve like butterflies into emptiness.
+
+    When cassia seeds fall, evening light grows thin,
+    Where willow blossoms drift, distant mountains deepen into green.
+    Alone upon the mat, incense smoke curls like thread,
+    I cherish listening to the midnight bell of Maple Bridge.
+
+    III
+
+    Fluttering, my single staff rings out through hollow air.
+    In the fifth month, pine flowers dust the emerald slopes.
+    All day I carry my begging bowl—sustenance from a thousand homes,
+    After years of tattered robes—whose garments have I worn?
+
+    My heart flows like water, naturally pure and clear,
+    My body drifts like a fragment of cloud, beyond all blame.
+    Having wandered every mountain, crossed each stream,
+    When the udumbara flower blooms, then shall I return home.
+  footnotes:
+  - key: ''
+    value: 'The clown''s art (郭郞): A reference to an old story where a village fool, mocked for his clumsy dancing, is replaced by his critic—only to prove the critic was even worse. This suggests that those who judge the world often understand it no better than those they criticize.'
+  - key: ''
+    value: 'Dissolve like butterflies (蝴蝶): An allusion to Zhuangzi''s famous dream of becoming a butterfly, questioning the boundary between self and illusion, reality and appearance.'
+  - key: ''
+    value: 'Midnight bell of Maple Bridge (楓橋): A reference to the celebrated Tang poem ''Mooring at Maple Bridge at Night'' by Zhang Ji, which captures the haunting sound of a temple bell heard by a lone traveler.'
+  - key: ''
+    value: 'The udumbara flower (優曇花): In Buddhist tradition, this mythical flower blooms only once every three thousand years, symbolizing rare enlightenment or auspicious return.'

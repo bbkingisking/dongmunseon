@@ -1,0 +1,49 @@
+canonical:
+  title: 廣淵以詩遺我卽用其韻答之
+  author: 盧公弼
+  language: lzh
+  text: 長歌天地一身微病骨支離壯志違末世人情饒泠暖高秋物色換芬菲功名自古多招禍進退何人早决機投老江湖吾已决未容五十始知非
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 廣淵以詩遺我卽用其韻答之
+  author: 盧公弼
+  language: lzh
+  text: 長歌天地一身微。病骨支離壯志違。末世人情饒泠暖。高秋物色換芬菲。功名自古多招禍。進退何人早决機。投老江湖吾已决。未容五十始知非。
+korean:
+  title: 광연 이시유아 즉용기운 답지
+  author: 노공필
+  language: kor
+  text: |-
+    천지에 길게 노래하매 한 몸이 미미하고
+    자리한 병골에 장한 뜻이 어긋나네
+    말세의 인정은 너무 차가왔다 따뜻했다 하는데
+    깊은 가을의 물색은 꽃다움과 바뀌었구나
+    옛날부터 공명 이름은 많은 화를 부르거니
+    진퇴에 있어서 어떤 사람이 기미를 일찍 결정하리
+    늙은 몸을 강호에 던지기로 나는 이미 결정했으나
+    50에 비로소 그른 줄 아는 것을 용납하지 않노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0770&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 말세(末世) …… 따뜻했다 : '
+    value: 세력이 있으면 붙고 세력이 없으면 저버린다는 뜻이다.
+  - key: '[주-D002] 50에 비로소 …… 아는 것을 : '
+    value: 춘추(春秋)시대에 거백옥(蘧伯玉)이란 현인(賢人)이 50살이 되어 49년의 그른 것을 알았다 하였다.
+english:
+  title: In Response to Gwangyeon's Poem, Using His Rhyme Scheme
+  author: Rho Gong-pil
+  language: eng
+  text: |-
+    I sing long verses to heaven and earth, yet my body remains insignificant.
+    My ailing frame, bent and broken, betrays my youthful ambitions.
+    In this final age, human affection shifts between cold and warmth—
+    While deep autumn's hues exchange their fragrant beauty for decay.
+    Since ancient times, fame and fortune have brought forth calamity;
+    Who among men can decide early whether to advance or retreat?
+    I have already resolved to cast my aging self into rivers and lakes,
+    Yet I refuse to wait until fifty to recognize what went wrong.
+  footnotes:
+  - key: ''
+    value: The line about autumn's exchange refers to how worldly affections shift with one's fortune—warm when powerful, cold when powerless.
+  - key: ''
+    value: The final couplet alludes to the Spring and Autumn period sage Qu Boyu, who at fifty realized the errors of his previous forty-nine years, a classical reference to late wisdom and regret.

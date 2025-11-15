@@ -1,0 +1,49 @@
+canonical:
+  title: 函谷關
+  author: 李齊賢
+  language: lzh
+  text: 形勝平看十二齊下臨無路上無梯土囊約住黃河北地軸勾連白日西天意已歸三尺劒人心豈特一丸泥秋禾滿畝風塵靜穩跨征鞍聽午雞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 函谷關
+  author: 李齊賢
+  language: lzh
+  text: 形勝平看十二齊。下臨無路上無梯。土囊約住黃河北。地軸勾連白日西。天意已歸三尺劒。人心豈特一丸泥。秋禾滿畝風塵靜。穩跨征鞍聽午雞。
+korean:
+  title: 함곡관
+  author: 이제현
+  language: kor
+  text: |-
+    형승은 열두 제를 내려다 보는데
+    밑에는 길이 없고 위론 사다리도 없네
+    흙 주머니로 황하의 북을 막았고
+    지축은 백일 서쪽에 맞닿았구나
+    하늘의 뜻은 이미 삼척검(한나라 고조(高祖))에 돌아갔지만
+    인심이야 어이 한 덩이 진흙 뿐일까
+    가을 곡식 이랑에 가득하고, 풍진이 고요하니
+    안장에 편히 걸터앉아 낮 닭 울음 듣노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 함곡관(函谷關) : '
+    value: 전국(戰國) 사대때 진(秦)에서 산동 육국(山東六國)으로 통하는 관문(關門).
+  - key: '[주-D002] 한 덩이 진흙 : '
+    value: 후한(後漢) 때 외효(隗囂)의 장수 왕원(王元)이 효를 달래며 말하되, “청컨대 원이 한 덩이 진흙으로 동으로 함곡관을 봉하리이다.” 하였다.
+english:
+  title: The Hangu Pass
+  author: Lee Che-hyeon
+  language: eng
+  text: |-
+    Twelve strategic vistas look down from this commanding height,
+    Below no path exists, above no ladder climbs.
+    Earth-filled sacks once sealed the Yellow River's northern flow,
+    The axis of the earth itself bends toward the west's declining light.
+    Heaven's will already passed to the three-foot sword of kings,
+    Yet can human hearts be merely a lump of clay?
+    When autumn grain fills every furrow and dust settles into peace,
+    I sit easy in my saddle, listening to the noon cock's cry.
+  footnotes:
+  - key: ''
+    value: Hangu Pass was the crucial gateway during the Warring States period, controlling passage from Qin to the Six States of the east.
+  - key: ''
+    value: The reference to 'merely a lump of clay' alludes to a historical moment when a general of the Later Han, seeking to reconcile with his lord, pledged to seal the Hangu Pass with nothing but a single lump of clay—a poignant statement about the fragility of human ambition and loyalty.

@@ -1,0 +1,74 @@
+canonical:
+  title: 題金參判子固 紐 雙溪齋二首
+  author: 李承召
+  language: lzh
+  text: 屋下淸溪屋上山穿林小逕入雲關輞川幽興風塵外謝傅高懷水石間恰有靑錢酬酒債還將綵筆破天慳琴書左右身無事轉覺壺中日月閑園林瀟洒似禪房更閘飛泉作小塘夢裏應成春草句坐來閑看露荷香滿簾紅雨桃花落羃地靑烟柳線長白石蒼苔溪幾曲不妨呼酒泛流觴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題金參判子固 紐 雙溪齋二首
+  author: 李承召
+  language: lzh
+  text: 屋下淸溪屋上山。穿林小逕入雲關。輞川幽興風塵外。謝傅高懷水石間。恰有靑錢酬酒債。還將綵筆破天慳。琴書左右身無事。轉覺壺中日月閑。園林瀟洒似禪房。更閘飛泉作小塘。夢裏應成春草句。坐來閑看露荷香。滿簾紅雨桃花落。羃地靑烟柳線長。白石蒼苔溪幾曲。不妨呼酒泛流觴。
+korean:
+  title: 제김 참판 자고 유 쌍계재 이수
+  author: 이승소
+  language: kor
+  text: |-
+    집 밑에는 맑은 시내요 집 앞 위에는 산인데
+    숲을 뚫은 오솔길 구름 관문을 든다
+    망천의 그윽한 홍은 풍진 밖인데
+    사부의 높은 회포는 물과 돌 사이더라
+    마침 푸른 돈이 있어 술빚을 갚는가 하면
+    다시 채색 붓을 잡아 하늘의 인색함을 부술 듯하다
+    좌우에는 거문고와 책이라 한 몸에 일이 없는데
+    다시 술병 속에서 해와 달의 한가함을 깨닫겠구나
+    동산 숲은 산뜻하여 선방 같은데
+    다시 날은 샘물을 끌어 작은 못을 만들었다
+    꿈속에서는 응당 봄풀의 시를 지을 것이요
+    앉아서는 한가히 이슬에 젖은 연꽃의 향기를 보리라
+    발에 가득한 붉은 비는 떨어지는 복숭아꽃이요
+    땅을 덮은 푸른 연기는 긴 버들가지더라
+    흰 돌과 푸른 이끼에 시내는 몇 굽이인고
+    술을 불러 유상을 띄우는 것 방해하지 않으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 망천(輞川) : '
+    value: 당나라 왕유(王維)의 별장.
+  - key: '[주-D002] 사부(謝傅) : '
+    value: 동진(東晉)의 사안(謝安).
+  - key: '[주-D003] 봄풀의 시 : '
+    value: 진(晉)나라 사영운(謝靈運)이 지은, “못에 푸른 풀이 났다.”[池塘生靑草]는 유명한 시는, 그의 죽은 아우 사혜련(謝惠連)을 꿈에 보고서 영감이 생겨서 지었다 한다.
+  - key: '[주-D004] 유상(流觴) : '
+    value: 흐르는 물을 뺑뺑 돌려 흐르게 만들어 놓고 그 물가에 둘러앉아서 술잔에 술을 부어 물에 띄우면, 각기 제 앞으로 오게 되어 그것을 마셨는데, 그것을 곡수유상(曲水流觴)이라고 이름 지었다.
+english:
+  title: Two Poems on the Double Stream Studio of Kim参判Ja-go Yu
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    Beneath the house runs clear water, above it stands the mountain.
+    A narrow path pierces the forest, entering through clouds' gate.
+    Wang Wei's valley holds its subtle pleasures beyond the dust of the world,
+    While Xie An's lofty spirit dwells between stone and stream.
+    Fortunately blue coins appear to settle wine debts,
+    And colored brush returns to break heaven's stingy bounds.
+    With zither and books at either hand, the body finds no toil,
+    Yet within the wine jar I glimpse the sun and moon's leisure.
+
+    The garden forest stands serene, like a Buddhist meditation hall,
+    Where diverted springs now fashion a small pond.
+    In dreams surely spring grass verses will take form,
+    And sitting still, I'll gaze upon the fragrant dew-touched lotus.
+    Red rain falls upon the curtain—fallen peach blossoms—
+    While green mist covers the earth in long willow threads.
+    White stones and green moss trace the stream's winding turns,
+    Not hindering us from calling for wine to set adrift on flowing cups.
+  footnotes:
+  - key: ''
+    value: Wangchuan (輞川) refers to the country estate of Wang Wei, the Tang dynasty poet and painter, symbolizing the romantic ideal of retired contemplation.
+  - key: ''
+    value: Xie Fu (謝傅) refers to Xie An of the Eastern Jin, known for his refined character and wisdom.
+  - key: ''
+    value: 'The spring grass verse alludes to a famous couplet by Xie Lingyun: ''In the pond green grass is born,'' which he composed after dreaming of his deceased brother Xie Huilian.'
+  - key: ''
+    value: Floating cups (流觴) is a refined drinking game where wine cups float along a winding water channel, each guest drinking when the cup reaches them.

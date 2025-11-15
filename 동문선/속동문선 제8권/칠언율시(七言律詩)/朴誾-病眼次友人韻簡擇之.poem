@@ -1,0 +1,49 @@
+canonical:
+  title: 病眼次友人韻簡擇之
+  author: 朴誾
+  language: lzh
+  text: 閉眼深居不啓關翠軒閑却半簾山孤如籠鳥長思侶癡似秋蠅更怯寒豈有顚狂舊情興漸成枯槁老容顔百年身世誰非寓出處悠悠涕自潸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病眼次友人韻簡擇之
+  author: 朴誾
+  language: lzh
+  text: 閉眼深居不啓關。翠軒閑却半簾山。孤如籠鳥長思侶。癡似秋蠅更怯寒。豈有顚狂舊情興。漸成枯槁老容顔。百年身世誰非寓。出處悠悠涕自潸。
+korean:
+  title: 병안 차 우인운 간택지
+  author: 박은
+  language: kor
+  text: |-
+    눈을 감고 깊이 들앉아 문을 열지 않나니
+    취헌에서 반 발의 산을 한가롭게 하누나
+    외롭기는 새장에 든 새와 같아서 항상 짝을 생각하고
+    어리석기는 가을 파리와 같아서 새삼 추위를 겁내네
+    어찌 미친 듯한 옛 흥취가 있겠는가
+    차츰 바짝 마른 늙은 얼굴이 되어 가거니
+    백년의 신세가 그 누가 나그네가 아니겠는가
+    출세함과 들앉음이 덧없이 눈물이 스스로 흐르누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0500&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 취헌(翠軒) : '
+    value: 박은(朴誾)의 호가 읍취헌(揖翠軒)이다. 즉 자기의 서재를 말한 것이다.
+  - key: '[주-D002] 반 발[半簾]의 …… 하누나 : '
+    value: 문을 닫고 산을 보지 않는다는 뜻이다.
+english:
+  title: 'On My Ailing Eyes: A Poem Following a Friend''s Rhyme, Respectfully Presented to Taek-ji'
+  author: Park Eun
+  language: eng
+  text: |-
+    I close my eyes and dwell in seclusion, never opening the gate.
+    In my Green Pavilion, half-hidden mountains rest in idleness.
+    Lonely as a caged bird forever yearning for a mate,
+    Foolish as an autumn fly trembling anew at the cold.
+    Where now is that mad exuberance of old?
+    Gradually withered, my aging face grows gaunt.
+    In a hundred years, whose life is not a traveler's sojourn?
+    Between withdrawal and return, tears flow unbidden.
+  footnotes:
+  - key: ''
+    value: The 'Green Pavilion' (翠軒) refers to the poet's study, part of his estate name 揖翠軒 (Eop Chui-heon).
+  - key: ''
+    value: The 'half-hidden mountains' suggest the poet's deliberate withdrawal from the world—keeping his gate closed, unable to fully behold the natural beauty outside.

@@ -1,0 +1,46 @@
+canonical:
+  title: 嶺南雜題
+  author: 申泂
+  language: lzh
+  text: 客恨春愁兩不窮相逢只怕一樽空千年舊地傷心月一笛高樓滿面風春入詩壇留健句酒衝愁陣着奇功浮雲往事憑誰問萬古興亡嘯詠中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 嶺南雜題
+  author: 申泂
+  language: lzh
+  text: 客恨春愁兩不窮。相逢只怕一樽空。千年舊地傷心月。一笛高樓滿面風。春入詩壇留健句。酒衝愁陣着奇功。浮雲往事憑誰問。萬古興亡嘯詠中。
+korean:
+  title: 영남 잡제
+  author: 신형
+  language: kor
+  text: |-
+    나그네의 한과 봄 시름의 두 가지가 모두 끝이 없거니
+    서로 만나서는 다만 술항아리가 빌까 두려워하네
+    천 년의 옛 땅에는 마음을 슬프게 하는 달인데
+    한 피리 소리의 높은 다락에는 얼굴에 가득 바람이네
+    봄은 시단에 들어와 좋은 글귀를 남기고
+    술은 시름의 진을 꾀찔러 신기한 공을 세우누나
+    뜬구름 같은 지나간 일을 누구에게 물어볼까
+    만고의 흥하고 망한 일은 휘파람 읊조림 가운데 있었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: Miscellaneous Verses on the South
+  author: Shin Hyung
+  language: eng
+  text: |-
+    A traveler's sorrow and spring's melancholy—both endless, boundless.
+    When we meet, we fear only that the wine cup runs dry.
+    On this ancient land of a thousand years, the moon stirs the heart to sadness,
+    While a single flute in the high tower fills the face with wind.
+
+    Spring enters the halls of poetry, leaving behind vigorous lines,
+    And wine charges the siege of sorrow, achieving wonders.
+    Who can I ask about the drifting clouds of days gone by?
+    All the rises and falls of ages are whispered forth in song.
+  footnotes:
+  - key: ''
+    value: The poem juxtaposes personal emotion with historical reflection, suggesting that individual sorrow mirrors the transience of kingdoms and empires.
+  - key: ''
+    value: The flute and the wind are classical symbols for poetry and the transmission of culture across time.

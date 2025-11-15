@@ -1,0 +1,31 @@
+canonical:
+  title: 勸務本箚子
+  author: 李詹
+  language: lzh
+  text: 孔子曰道千乘之國敬事而信節用而愛人使民以時程子曰此言至淺然當時諸侯果能此亦足以理其國矣聖人言雖至近上下皆通此三言者若推其極堯舜之治亦不過此楊氏曰上不敬則下慢不信則下疑下慢而疑事不立矣敬事而信以身先之也易曰節以制度不傷財不害民盖奢用則傷財傷財則必至於害民故愛民必先於節用然使之不以其時則力本者不獲自盡雖有愛民之心而民不被其澤矣伏惟殿下幸留意焉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 勸務本箚子
+  author: 李詹
+  language: lzh
+  text: 孔子曰。道千乘之國。敬事而信。節用而愛人。使民以時。程子曰。此言至淺。然當時諸侯果能此。亦足以理其國矣。聖人言雖至近。上下皆通。此三言者。若推其極。堯舜之治。亦不過此。楊氏曰。上不敬則下慢。不信則下疑。下慢而疑。事不立矣。敬事而信。以身先之也。易曰。節以制度。不傷財不害民。盖奢用則傷財。傷財則必至於害民。故愛民。必先於節用。然使之不以其時。則力本者不獲自盡。雖有愛民之心。而民不被其澤矣。伏惟殿下。幸留意焉。
+korean:
+  title: 권 무본 차자
+  author: 이첨
+  language: kor
+  text: 공자가 말하기를, “천승(千乘)의 나라를 다스림에는, 일을 공경하고 백성에게 믿음을 주며, 용도(用道)를 절약하고 백성을 사랑하고, 백성을 부릴려면 때를 맞추어 할지니라.” 하니, 정자(程子)가 말하기를, “이 말씀은 지극히 비근한 것이다. 그러나 당시의 제후(諸侯)들이 이를 실천할 수 있었다면, 또한 이것은 족히 그 나라를 다스릴 수 있었을 것이다. 성인의 말씀은 비록 지극히 비근하나 상하(上下)에 모두 통하니 이 세 가지 말의 내용을 만약 그 극치를 미루어 본다면 요(堯)ㆍ순(舜)의 정치 또한 여기서 지나는 것이 아니다.” 하였습니다. 양씨(楊氏)가 말하기를, “위에서 공경하지 아니하면 아래에서 방자하고, 위에서 믿음을 아니 주면 아래에서 의심한다. 아래에서 방자하고 의심하면 일이 안 되는 것이, 일을 공경하고 백성에게 믿음을 주는 것은 자신이 솔선해야 한다.” 하였습니다. 《주역》에 이르기를, “제도(制度)로써 절약하면 재물도 손상치 않고 백성도 해치지 않노라.” 하였사온데 대체로 사치하게 사용하면 재물이 손상되고 재물이 손상되면 반드시 백성을 해치게 되옵니다. 그러하므로 백성을 사랑하려면 반드시 먼저 씀씀이를 절약하여야 하옵니다. 그러하오나 그 때를 맞추지 아니하면 근본되는 업(농업 따위)에 힘을 기울이는 자는 잡지 않아도 저절로 없어지니, 비록 백성을 사랑하는 마음이 있다 하여도 백성은 그 혜택을 입지 못한다 하였습니다. 엎드려 바라옵거니와 전하께서는 유의하옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0590_020_0070&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial on Attending to Fundamentals
+  author: Lee Cham
+  language: eng
+  text: "Confucius said: \"To govern a state of a thousand chariots, one must respect the work at hand and keep faith with the people, conserve resources and cherish the common folk, and employ the people in accordance with the seasons.\" \n\nCheng Zi commented: \"Though these words are simple and plain, had the feudal lords of that age truly practiced them, they would have sufficed to govern their kingdoms well. The sage speaks in the most accessible terms, yet his wisdom flows both to the highest and lowest. If we trace these three principles to their ultimate expression, even the governance of Yao and Shun does not exceed them.\"\n\nYang Shi further expounded: \"When superiors lack respect, inferiors become dissolute. When superiors lack trustworthiness, inferiors grow doubtful. When inferiors are dissolute and doubtful, nothing can be accomplished. To respect one's work and earn the people's trust, one must lead by example.\"\n\nThe Classic of Changes teaches: \"Through measured restraint and proper order, neither wealth is depleted nor the people harmed.\" Extravagance depletes the treasury, and a depleted treasury inevitably brings suffering to the people. Therefore, to cherish the people, one must first practice frugality in expenditure. Yet if one does not employ them in their proper season, those who toil in the fields cannot fully devote themselves, and though benevolence toward the people may exist in the heart, the people receive no benefit from it.\n\nI humbly beseech Your Highness to take these words to heart."
+  footnotes:
+  - key: ''
+    value: '千乘之國 (a state of a thousand chariots): In ancient China, a state''s military strength was measured by the number of war chariots it could field. A thousand chariots represented a mid-sized feudal state.'
+  - key: ''
+    value: '堯舜之治 (the governance of Yao and Shun): References to the legendary sage-kings of ancient China, held as ideals of virtuous rule.'
+  - key: ''
+    value: Yang Shi (楊氏) was an 11th-century Neo-Confucian philosopher and follower of Cheng Yi.

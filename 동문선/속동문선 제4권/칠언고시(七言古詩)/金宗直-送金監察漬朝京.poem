@@ -1,0 +1,53 @@
+canonical:
+  title: 送金監察漬朝京
+  author: 金宗直
+  language: lzh
+  text: 讀書平日談千載提槧將遊文物海驅馳王事敢懷安忨慨辭情動寮寀君車轆轆過漁陽我夢亦落蘆溝傍黃金臺上共長嘯戰國尙有燕昭王
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送金監察漬朝京
+  author: 金宗直
+  language: lzh
+  text: 讀書平日談千載。提槧將遊文物海。驅馳王事敢懷安。忨慨辭情動寮寀。君車轆轆過漁陽。我夢亦落蘆溝傍。黃金臺上共長嘯。戰國尙有燕昭王。
+korean:
+  title: 북경으로 조공가는 김감찰 치를 보내며
+  author: 김종직
+  language: kor
+  text: |-
+    평소에 글 읽으며 천년 역사를 말하더니
+    필묵 가지고 이제 문물의 바다로 놀러가네
+    왕사로 달리는 몸 감히 편안함을 생각하리
+    강개로운 기색은 동관들을 감동하네
+    그대 수레는 덜걱덜걱 어양을 지나리만
+    내 꿈도 또한 노구 근방에 떨어지네
+    황금대 위에서 함께 길이 휘파람 불리니
+    전국 때도 오히려 연소왕이 있었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 황금대(黃金臺) : '
+    value: 전국 시대에 연소왕(燕昭王)이 천하의 어진 선비를 초빙할 때에 대(臺)를 쌓고 위에다 황금을 놓아두고 기다렸다.
+  - key: '[주-D001] 忨 : '
+    value: 忼
+english:
+  title: Farewell to Inspector Kim Chi, Journeying to Beijing as Tribute
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    In days of study, you spoke of a thousand years of history,
+    Now with brush and ink, you venture into the sea of culture and refinement.
+    Your body races in the king's service—dare you think of ease?
+    Your steadfast spirit stirs the hearts of your fellow officials.
+    Your carriage rumbles past Yuyang,
+    While my dreams too drift by the side of the Luugou.
+    Together we shall whistle long upon the Golden Terrace,
+    For even in the age of Warring States, there was King Zhao of Yan.
+  footnotes:
+  - key: ''
+    value: The Golden Terrace (黃金臺) refers to the legendary terrace built by King Zhao of Yan during the Warring States period, upon which he placed gold to attract worthy scholars from across the realm.
+  - key: ''
+    value: Yuyang (漁陽) is a region north of Beijing, traditionally a waypoint on the road to the capital.
+  - key: ''
+    value: The Luugou (蘆溝) refers to the Lugou Bridge area near Beijing.
+  - key: ''
+    value: King Zhao of Yan represents historical precedent for a ruler who attracts talent through virtue and sincerity.

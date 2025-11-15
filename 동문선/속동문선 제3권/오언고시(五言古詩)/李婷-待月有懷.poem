@@ -1,0 +1,45 @@
+canonical:
+  title: 待月有懷
+  author: 李婷
+  language: lzh
+  text: 灧灧高樓月團團玉䆫裏娟娟一美人渺渺隔秋木紉佩不可見蘭香空在玆思之望何處膓斷亦天涯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 待月有懷
+  author: 李婷
+  language: lzh
+  text: 灧灧高樓月。團團玉䆫裏。娟娟一美人。渺渺隔秋木。紉佩不可見。蘭香空在玆。思之望何處。膓斷亦天涯。
+korean:
+  title: 대월 유회
+  author: 이정
+  language: kor
+  text: |-
+    휘영청 달 밝은 높은 다락
+    동글동글한 옥창 안의
+    곱디고운 미인 하나
+    아득할손 가을 물 건너편에
+    찬 것은 안 뵈어도
+    난초 향내는 예 있는 듯
+    그리워라, 어디를 바라보니
+    애닮아라, 역시 하늘 끝 닿는 곳
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: Waiting for the Moon with Longing
+  author: Lee Jeong
+  language: eng
+  text: |-
+    Shimmer and shimmer—the moon on the high tower.
+    Round and round within the jade window.
+    One beauty, lovely and fair,
+    Dim and distant beyond autumn's trees.
+    I cannot see the perfumed pendant she wears,
+    Yet the orchid's fragrance lingers still.
+    My yearning—where does it gaze?
+    My heart breaks too, reaching toward the edge of sky.
+  footnotes:
+  - key: ''
+    value: The 'perfumed pendant' (佩) is a traditional ornament worn by noble women, here representing the beloved's presence and beauty.
+  - key: ''
+    value: The orchid (蘭) symbolizes purity and noble virtue in East Asian poetry, and its lingering fragrance represents an absent beloved.

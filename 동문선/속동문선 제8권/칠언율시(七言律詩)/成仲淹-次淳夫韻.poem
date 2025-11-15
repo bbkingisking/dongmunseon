@@ -1,0 +1,46 @@
+canonical:
+  title: 次淳夫韻
+  author: 成仲淹
+  language: lzh
+  text: 年來閑口欲無言盡日持頤不出門頗覺閑中詩有味任看衣上酒成痕名塗從古危炊劒身世如今類檻猿松菊秋風應待我帶鋤何日理荒園
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次淳夫韻
+  author: 成仲淹
+  language: lzh
+  text: 年來閑口欲無言。盡日持頤不出門。頗覺閑中詩有味。任看衣上酒成痕。名塗從古危炊劒。身世如今類檻猿。松菊秋風應待我。帶鋤何日理荒園。
+korean:
+  title: 차 순부운
+  author: 성중엄
+  language: kor
+  text: |-
+    연래로 한가한 입이 말이 없고자 하여
+    한종일 턱을 고이고 앉아 문을 나지 않네
+    한가한 속에서 시가 맛이 있는 줄을 자못 깨닫고
+    옷 위에 묻은 술 흔적을 보고 있구나
+    옛날부터 벼슬 길은 취검처럼 위태하거니
+    지금의 이 신세는 우리 안의 원숭이같네
+    가을 바람의 소나무와 국화는 응당 나를 기다리리니
+    언제나 호미 들고 거칠은 동산을 다스리리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0740&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 취검(炊劒)처럼 위태하거니 : '
+    value: 진(晋)나라 명사(名士)들이 모여서 가장 위태로운 것을 두고 글을 한 귀씩 부르는데 한 사람이 부르기를, “창 머리에 쌀을 씻고 칼머리에 밥짓는다.[予頭淅米劍頭炊]” 하였다.
+english:
+  title: In Response to Sunbu's Rhyme Scheme
+  author: Sung Jung-om
+  language: eng
+  text: |-
+    Year after year, my idle tongue seeks silence,
+    All day I rest my chin, my door unopened.
+    Yet in this leisure, I discover poetry holds savor—
+    I watch the wine stains bloom upon my robe.
+
+    Since ancient times, the path to office dangles sharp as sword-point;
+    Now my fate mirrors the caged ape behind prison bars.
+    The pines and chrysanthemums in autumn wind await me still—
+    When shall I take up spade to tend my wild, neglected garden?
+  footnotes:
+  - key: ''
+    value: 'The phrase ''sharp as sword-point'' alludes to a famous exchange among Jin Dynasty scholars, where one member poetically described the precariousness of an official career: ''rinsing rice at the spear''s tip, cooking rice at the sword''s hilt''—suggesting that even basic survival is uncertain when one seeks high office.'

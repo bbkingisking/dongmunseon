@@ -1,0 +1,48 @@
+canonical:
+  title: 登州古城懷古
+  author: 安軸
+  language: lzh
+  text: 暮天懷古立城頭赤葉黃花滿眼秋不覺蕭墻藏近禍唯憑海島作深謀百年丘隴無情草十里風煙有信鷗遙望朔方空嘆息一聲羌笛使人愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登州古城懷古
+  author: 安軸
+  language: lzh
+  text: 暮天懷古立城頭。赤葉黃花滿眼秋。不覺蕭墻藏近禍。唯憑海島作深謀。百年丘隴無情草。十里風煙有信鷗。遙望朔方空嘆息。一聲羌笛使人愁。
+korean:
+  title: 등주고성 회고
+  author: 안축
+  language: kor
+  text: |-
+    저문 날 성머리에 서서 옛일을 생각하나니
+    단풍과 국화, 눈에 가득 가을일세
+    제 집 담 안에 화 감춰진 줄 모르고서
+    바닷섬만 믿고 깊은 꾀를 삼았구나
+    백 년 언덕엔 무정한 풀만 더부룩
+    10리 연파엔 유신한 갈매기뿐
+    멀리 북쪽 바라보며 헛 탄식 하노라니
+    어디서 일성 강적이 남의 시름 자아내느니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections on the Ancient City of Dengzhou
+  author: An Axle
+  language: eng
+  text: |-
+    At dusk I stand upon the city wall, contemplating what has passed.
+    Red leaves and chrysanthemums fill my eyes—the weight of autumn.
+    Unaware that disaster hid within their own household walls,
+    they placed their trust in island strongholds and conceived ambitious schemes.
+    For a hundred years, the hillsides bear only indifferent grass;
+    across ten miles of mist and smoke, only faithful gulls remain.
+    Gazing toward the northern wastes, I can only sigh in vain—
+    where does that single cry of barbarian flute come from,
+    rousing sorrow in the hearts of men?
+  footnotes:
+  - key: ''
+    value: 'Dengzhou: A historical fortress city in northern China, strategically important during various dynasties'
+  - key: ''
+    value: The poem employs the classical 'ruins' genre (怀古), reflecting on the fall of dynasties and the futility of human ambition through the decay of once-great fortifications
+  - key: ''
+    value: The 'barbarian flute' (羌笛) evokes the sounds of northern invasions and the vulnerability of the frontier

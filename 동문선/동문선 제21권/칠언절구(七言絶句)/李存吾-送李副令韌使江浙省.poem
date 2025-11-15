@@ -1,0 +1,37 @@
+canonical:
+  title: 送李副令韌使江浙省
+  author: 李存吾
+  language: lzh
+  text: 天地紛爭問幾回南朝往事不勝哀君歸應過岳王墓爲我丁寧酹一盃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送李副令韌使江浙省
+  author: 李存吾
+  language: lzh
+  text: 天地紛爭問幾回。南朝往事不勝哀。君歸應過岳王墓。爲我丁寧酹一盃。
+korean:
+  title: 송이부령인사강절성
+  author: 이존오
+  language: kor
+  text: |-
+    천지간에 어지러운 전쟁이 몇 번이나 되었는가
+    남조의 지난 일은 슬픔에 겨웁구나
+    그대가 돌아가면 응당 악왕묘를 지나리니
+    나를 위해 정성껏 술 한 잔을 뿌려 주오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0620&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 악왕묘(岳王墓) : '
+    value: 악왕(岳王)은 송나라 악비(岳飛)인데 뒤에 무목왕(武穆王)으로 봉하였다. 악비는 충신이요 명장(名將)으로, 금국(金國)을 쳐서 중원(中原)을 회복할 희망이 있었는데, 간신 진회(秦檜)의 모함으로 옥중에서 죽었으므로 천고(千古)의 지사(志士)들이 통분히 여기었다. 여기서 남조(南朝)는 남송(南宋)을 말한 것이다.
+english:
+  title: Farewell to Vice-Magistrate Lee Ren, Sent as Envoy to Jiangzhe Province
+  author: Lee Joon-oh
+  language: eng
+  text: |-
+    How many times have heaven and earth been torn by strife?
+    The past of the Southern dynasties weighs too heavy to bear.
+    When you return, you will surely pass by the tomb of General Yue.
+    I beg you—pour out a cup of wine in my remembrance.
+  footnotes:
+  - key: ''
+    value: The tomb of General Yue refers to Yue Fei (1103-1142), the celebrated Song general and loyal minister who was imprisoned and died at the hands of the treacherous minister Qin Hui, despite his great promise of recovering the Central Plains from the Jin. His memory became a symbol of tragic patriotism for all subsequent generations of scholars and officials.

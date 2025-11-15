@@ -1,0 +1,45 @@
+canonical:
+  title: 題沙斤驛亭
+  author: 兪好仁
+  language: lzh
+  text: 乾坤眞逆旅無處不居停往者猶來者長亭復短亭遙空孤鴈度薄暮數峯靑一枕南柯夢斜陽欲半庭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題沙斤驛亭
+  author: 兪好仁
+  language: lzh
+  text: 乾坤眞逆旅。無處不居停。往者猶來者。長亭復短亭。遙空孤鴈度。薄暮數峯靑。一枕南柯夢。斜陽欲半庭。
+korean:
+  title: 제 사근역정
+  author: 유호인
+  language: kor
+  text: |-
+    건곤은 진실로 하나의 여관이라
+    어디 가서도 머무러 살 수 있다
+    가는 사람도 오는 사람 같거니
+    먼 역정과 가까운 역정이다
+    먼 하늘에는 외 기러기 건너가고
+    땅거미질 때 몇 봉우리 푸르다
+    한 베개 남가의 꿈길 속에
+    저녁 해는 반이나 뜰에 들었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0530&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 남가(南柯)의 꿈 : '
+    value: 당(唐)나라 소설에 순우분(淳于棼)이란 사람이 낮잠을 잤는데, 꿈에 괴안국(槐安國) 사신의 초청으로 괴안국에 가서 부마(駙馬)가 되고, 남가군(南柯郡)의 태수가 되어 영화부귀를 누리다가 전쟁에 패하였고, 또 공주도 죽고 하여 괴안국에서 추방되어 돌아와서 꿈을 깨었는데, 그 집 옆에 큰 괴화[槐]나무가 있는데, 그 나무의 속이 비어 있고, 그 속에 개미가 수많이 있었으며, 남쪽으로 뻗은 가지도 역시 개미떼가 있었다 한다. 그래서 꿈을 남가라고 한다.
+english:
+  title: Written at the Sagun Relay Station Pavilion
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    Heaven and earth are truly just an inn,
+    Wherever one goes, there is shelter to be found.
+    The departed are like those who arrive—
+    A distant relay station, then another close by.
+    Across the vast sky a lone wild goose passes.
+    At dusk, several peaks turn green.
+    Within a pillow's dream of the Southern Branch,
+    The evening sun already fills half the courtyard.
+  footnotes:
+  - key: ''
+    value: The 'Southern Branch' (南柯) alludes to a famous Tang Dynasty tale of Shun Youfen, who fell asleep and dreamed of becoming a son-in-law and governor of a prosperous kingdom, only to awaken to find it was merely the story of ants living in the hollow branches of a parasol tree—a classical image of the illusory nature of worldly success and the fleeting quality of human ambition.

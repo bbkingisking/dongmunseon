@@ -1,0 +1,35 @@
+canonical:
+  title: 題芋江驛亭
+  author: 崔致遠
+  language: lzh
+  text: 沙汀立馬待回舟一帶煙波萬古愁直得山平兼水渴人閒離別始應休
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題芋江驛亭
+  author: 崔致遠
+  language: lzh
+  text: 沙汀立馬待回舟。一帶煙波萬古愁。直得山平兼水渴。人閒離別始應休。
+korean:
+  title: 제 우강역정
+  author: 최치원
+  language: kor
+  text: |-
+    모래 기슭에 말 세우고 돌아오는 배를 기다리니
+    일대연파가 만고의 시름일세
+    산이 곧 평지 되고 또한 말라져야
+    인간 세상에 비로소 이별이 없게 될 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0040&viewSync=OT
+  footnotes: []
+english:
+  title: At the Ujang Relay Station
+  author: Choe Chiwon
+  language: eng
+  text: |-
+    On the sandy shore I stand with horse, waiting for the returning boat.
+    A stretch of misty waters—the sorrow of ten thousand ages.
+    Only when mountains flatten to plains and waters run dry,
+    Will parting finally cease in the human realm.
+  footnotes:
+  - key: ''
+    value: Ujang Relay Station (芋江驛亭) was a stopping point along the communication routes of ancient Korea. This poem reflects on the nature of separation and impermanence through the lens of a traveler's moment of waiting.

@@ -1,0 +1,77 @@
+canonical:
+  title: 居仁
+  author: 李仁復
+  language: lzh
+  text: 猗蘭生有香故與君子配操入宣父琴紉爲楚臣佩高風縱云遠賸馥今猶在夫君亦有美藝此勤灌漑芳根幾許深綠葉尤可愛方期雨露濡豈被蓬蒿碍時於九畹閒㓗己正相對榮華發容顔和順積肝肺所居必移氣明德應無晦君乎勉旃哉維以佐時乂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 居仁
+  author: 李仁復
+  language: lzh
+  text: 猗蘭生有香。故與君子配。操入宣父琴。紉爲楚臣佩。高風縱云遠。賸馥今猶在。夫君亦有美。藝此勤灌漑。芳根幾許深。綠葉尤可愛。方期雨露濡。豈被蓬蒿碍。時於九畹閒。㓗己正相對。榮華發容顔。和順積肝肺。所居必移氣。明德應無晦。君乎勉旃哉。維以佐時乂。
+korean:
+  title: 난파 이 어사의 부친에게 상수한 권축에 제하여[題蘭坡李御史壽父卷] 거인
+  author: 이인복
+  language: kor
+  text: |-
+    아름다운 난초는 나서부터 향기 있으니
+    그러므로 그것을 군자에 비한다
+    곡조는 선보의 거문고에 들어오고
+    엮어서는 초신의 패물 되었네
+    높은 풍도는 비록 멀어졌으나
+    남은 향기는 지금도 남아 있다
+    우리 벗 또한 아름다워라
+    이것(난초)을 심고 부지런히 배양한다
+    꽃다운 뿌리는 얼마나 깊은가
+    푸른 잎은 더욱 사랑스러워라
+    바야흐로 우로에 젖기를 바라는데
+    어찌 쑥대의 방해함을 입으랴
+    그대 때로는 구완 사이에서
+    몸을 깨끗이 하여 서로 대한다
+    영화는 얼굴에 나타나고
+    화한 기운은 간폐에 쌓인다
+    사는 데 따라 반드시 기운이 바뀌지나니
+    맑은 덕이 응당 어두워짐이 없으리라
+    그대여 부디 힘쓰고 힘쓰라
+    그리하여 나라의 다스림을 도우라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 선보(宣父)의 거문고에 들어오고 : '
+    value: 선보(宣父)는 공자(孔子)이다. 공자가 지은 거문고 곡조에 의란조(猗蘭操)가 있다.
+  - key: '[주-D002] 엮어서는 초신(楚臣)의 패물 되었네 : '
+    value: 굴원(屈源)이 지은 〈이소(離騷)〉에, “가을 난초를 길러서 패(佩)를 한다.”는 구절이 있다.
+  - key: '[주-D003] 구완(九畹) : '
+    value: 《이소(離騷)》에, “난초를 자라게 하는 구완(九畹)이다.” 하였는데, 이것은 난초 심은 동산을 말한 것이다.
+english:
+  title: Dwelling in Benevolence
+  author: Lee In-bok
+  language: eng
+  text: |-
+    The fragrant orchid blooms from its birth with perfume—
+    thus it rivals the gentleman in noble bearing.
+    Its melody enters the zither of the Sage,
+    woven into the ornament worn by ministers of Chu.
+    Though the lofty wind has drifted far away,
+    its lingering fragrance remains even now.
+    Your friend too possesses such beauty,
+    diligently cultivating and nourishing this bloom.
+    How deep run those lovely roots,
+    and how precious those verdant leaves!
+    You hope for the dew and rain to descend,
+    yet fear the weeds may hinder its growth.
+    In those nine acres of garden,
+    you keep yourself pure and face it with reverence.
+    Glory blooms upon the countenance,
+    and gentleness accumulates in heart and lungs.
+    Wherever one dwells, the vital breath transforms—
+    clear virtue should never grow dim.
+    My friend, I urge you ever onward:
+    use these gifts to bring order to the age.
+  footnotes:
+  - key: ''
+    value: The 'zither of the Sage' refers to Confucius, who composed a piece called 'The Orchid Melody' (猗蘭操).
+  - key: ''
+    value: The reference to 'ministers of Chu' alludes to Qu Yuan's 'Songs of Sorrow' (離騷), which contains the line about cultivating autumn orchids to wear as an ornament.
+  - key: ''
+    value: The 'nine acres' (九畹) refers to an orchid garden, evoking the same classical source.

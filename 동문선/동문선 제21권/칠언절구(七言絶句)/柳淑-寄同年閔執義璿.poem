@@ -1,0 +1,37 @@
+canonical:
+  title: 寄同年閔執義璿
+  author: 柳淑
+  language: lzh
+  text: 窓明窓暗事還生一夢南柯辱與榮不是知幾能早退難將病骨強趨名
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄同年閔執義璿
+  author: 柳淑
+  language: lzh
+  text: 窓明窓暗事還生。一夢南柯辱與榮。不是知幾能早退。難將病骨強趨名。
+korean:
+  title: 기동년민집의선
+  author: 유숙
+  language: kor
+  text: |-
+    창이 밝았다 어두워지는 동안 도로 일이 생기나니
+    남가의 한바탕 꿈 영화와 치욕일세
+    기틀을 알아 능히 일찍 물러난 내가 아니라
+    병든 몸이 억지로 공명 따르기 어려웠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0960&viewSync=OT
+  footnotes: []
+english:
+  title: To My Colleague Mint Jipui Seon
+  author: Yoo Sook
+  language: eng
+  text: |-
+    Between the bright window and the darkened one, affairs arise anew.
+    A dream of Southern Bough—glory and disgrace in a single span.
+    I am not one who grasps the way of things and withdraws in season,
+    Yet these failing bones cannot be forced to chase after fame.
+  footnotes:
+  - key: ''
+    value: The 'Southern Bough' (南柯) refers to a famous Tang dynasty tale of a dream in which a man ascends to high rank and experiences both fortune and ruin, ultimately realizing the emptiness of worldly ambition.
+  - key: ''
+    value: The poem reflects on the transience of political office and honor, suggesting the speaker's weariness with the pursuit of official status.

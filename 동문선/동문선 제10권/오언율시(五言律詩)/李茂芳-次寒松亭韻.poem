@@ -1,0 +1,47 @@
+canonical:
+  title: 次寒松亭韻
+  author: 李茂芳
+  language: lzh
+  text: 亭依松麓斷東望海無門境靜仙蹤在沙明鳥篆存碑心苔暈綠石面雨痕昏一掬泉無渴源乎天地根
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次寒松亭韻
+  author: 李茂芳
+  language: lzh
+  text: 亭依松麓斷。東望海無門。境靜仙蹤在。沙明鳥篆存。碑心苔暈綠。石面雨痕昏。一掬泉無渴。源乎天地根。
+korean:
+  title: 차 한송정 운
+  author: 이무방
+  language: kor
+  text: |-
+    정자는 솔 언덕 끊긴 곳에 서 있는데
+    동으로 바라보니 바다는 문이 없네
+    땅이 조용하니 신선의 자취가 남아 있고
+    모래 맑은데 새 발자국 전자가 없네
+    비 복판에는 이끼가 끼어 푸르고
+    돌 면에는 비 흔적이 어둡네
+    마르지 않는 한 웅큼 샘물은
+    천지의 뿌리에서 근원한 것이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0250&viewSync=OT
+  footnotes: []
+english:
+  title: In the Rhyme of the Cold Pine Pavilion
+  author: Lee Mubang
+  language: eng
+  text: |-
+    The pavilion stands where the pine-clad ridge breaks away,
+    Gazing east, the sea stretches without a gate.
+    Where silence dwells, the footprints of immortals remain,
+    And where sand gleams bright, the bird-tracks are written clear.
+    On the stone's face, moss gathers in green halos,
+    While rain-marks darken the weathered surface.
+    A handful of spring that never runs dry—
+    It draws its source from the very roots of heaven and earth.
+  footnotes:
+  - key: ''
+    value: The 'cold pine pavilion' suggests a retreat dedicated to contemplation, with the pine tree symbolizing resilience and longevity in East Asian poetry.
+  - key: ''
+    value: '''Bird-tracks'' and ''immortal footprints'' are poetic references to traces of the spiritual or celestial realm imprinted upon the natural world.'
+  - key: ''
+    value: The final couplet transforms the humble spring into a metaphysical source, connecting the earthly landscape to the cosmic order.

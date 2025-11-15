@@ -1,0 +1,83 @@
+canonical:
+  title: 題安堅山水圖冬景
+  author: 徐居正
+  language: lzh
+  text: 江雲黯黯釀作雪玉龍夜凍鱗甲裂前山後山白皚皚渚淸沙白江可啜遙看老樹黑如雲松風怒作洪濤喧誰家簾幙開晴䆫火爐擁坐杯氤氳漁舟之子向何許短棹歸來入浦溆老僧信脚携短筇寺在虛無不知處憶昔探梅驢倒騎江天欲雪未雪時當時我亦畫中人畫中不覺又有詩我今披圖手摩挲玉樓亦粟銀海花老來無興到剡溪石鼎聊試陶公茶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題安堅山水圖冬景
+  author: 徐居正
+  language: lzh
+  text: 江雲黯黯釀作雪。玉龍夜凍鱗甲裂。前山後山白皚皚。渚淸沙白江可啜。遙看老樹黑如雲。松風怒作洪濤喧。誰家簾幙開晴䆫。火爐擁坐杯氤氳。漁舟之子向何許。短棹歸來入浦溆。老僧信脚携短筇。寺在虛無不知處。憶昔探梅驢倒騎。江天欲雪未雪時。當時我亦畫中人。畫中不覺又有詩。我今披圖手摩挲。玉樓亦粟銀海花。老來無興到剡溪。石鼎聊試陶公茶。
+korean:
+  title: 제 안견 산수도 동경
+  author: 서거정
+  language: kor
+  text: |-
+    강구름 컴컴하여 눈을 비치니
+    옥룡이 밤에 얼어 비늘갑옷이 찢어지네
+    앞 산 뒷 산이 흰 빛 일색
+    맑은 물가 흰 모래 강이 마심직도 하구나
+    멀리 바라보니 큰 나무가 검은 구름 같은데
+    성난 솔바람이 물결처럼 덜레는데
+    뉘 집에서 창을 열고 장막 안에서 화로를 끼고 앉아
+    훈훈한 술잔을 드는고
+    저기 저 뱃사공은 어디로 향하는가
+    노를 저어 포구로 돌아오는데
+    늙은 중은 지팡이 들고 천천히 가네
+    절은 아득히 어데 있는지
+    나도 전에 강하늘에 눈이 오려 할 때
+    당나귀를 거꾸로 타고 매화 찾아 갔더니라
+    그 때에 나도 그림 속의 사람
+    그림 속에 나도 모르게 또 시가 있는 줄
+    이제 그림을 펴고 손으로 만져보니
+    옥루도 소름나고 은해에 꽃이 어른어른
+    늙어서 이젠 염계에 갈 흥치가 없어
+    돌솥에 애오라지 도공의 차나 다리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옥루(玉樓)도 …… 은해(銀海) : '
+    value: 옥루는 어깨요 은해는 눈이다.
+  - key: '[주-D002] 늙어서 …… 없어 : '
+    value: 왕휘지(王徽之)가 눈 오는 달밤에 대안도(戴安道)를 문득 생각하고 섬에까지 배를 저어갔다.
+  - key: '[주-D003] 도공(陶公)의 …… 다리네 : '
+    value: 도공(陶公)은 도곡(陶穀)이 눈오는 날에 눈물에 차를 다려 먹은 고사를 인용한 것인듯.
+english:
+  title: 'On an Mountain Landscape Painting by An Gyeon: Winter Scene'
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Dark clouds gather over the river, conjuring snow.
+    The jade dragon freezes in night; its scales crack and shatter.
+    Front mountains, rear mountains—all shimmer white as bone.
+    The clear water's edge, white sand; the river begs to be sipped.
+
+    Distant trees loom black as clouds;
+    Angry pine winds roar like tidal waves.
+    Whose household opens its bright window?
+    Behind the curtain, embracing the brazier, warming wine that rises in fragrant mist.
+
+    Where does the fisherman's boy drift?
+    Short oar returns him to the marsh inlet.
+    The old monk treads slowly, staff in hand,
+    His temple lost in empty distance, beyond all knowing.
+
+    I remember when I chased plum blossoms,
+    Riding backward on a donkey through the hour snow hung suspended,
+    When heaven held its breath between fall and fall.
+    In those days, I too was a figure within the frame.
+    Within the frame, unaware, another poem took shape.
+
+    Now I unroll the scroll, my hand tracing its surface—
+    Even jade shoulders shudder; silver waters bloom with flowers.
+    Old age has robbed me of desire for Yan Creek's journey,
+    So I brew in a stone vessel what the old master knew:
+    Tea steeped in solitude, in gathering dusk.
+  footnotes:
+  - key: ''
+    value: Jade shoulders (玉樓) and silver sea (銀海) are traditional images for a woman's beauty—shoulders and eyes respectively.
+  - key: ''
+    value: The reference to lack of interest in traveling to Yan Creek alludes to Wang Hui-zhi, who impulsively rowed across snowy waters to visit a friend, only to turn back—a parable of youthful impulse versus aged restraint.
+  - key: ''
+    value: The old master's tea refers to Tao Gu, who was said to have brewed tea with tears shed on a snowy day.

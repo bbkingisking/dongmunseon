@@ -1,0 +1,72 @@
+canonical:
+  title: 夫餘懷古
+  author: 李穀
+  language: lzh
+  text: 靑丘孕秀應黃河溫王生自東明家扶踈山下徙立國奇祥異蹟何其多衣冠濟濟文物盛潛圖伺隙幷新羅在後孱孫不嗣德雕墻峻宇紛奢華一旦金城如解瓦千尺翠岩名落花野人耕種公侯園殘碑側畔埋銅駞我來訪古輒拭淚古事盡入漁樵歌千年佳氣掃地盡釣龍臺下江自波
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夫餘懷古
+  author: 李穀
+  language: lzh
+  text: 靑丘孕秀應黃河。溫王生自東明家。扶踈山下徙立國。奇祥異蹟何其多。衣冠濟濟文物盛。潛圖伺隙幷新羅。在後孱孫不嗣德。雕墻峻宇紛奢華。一旦金城如解瓦。千尺翠岩名落花。野人耕種公侯園。殘碑側畔埋銅駞。我來訪古輒拭淚。古事盡入漁樵歌。千年佳氣掃地盡。釣龍臺下江自波。
+korean:
+  title: 부여 회고
+  author: 이곡
+  language: kor
+  text: |-
+    청구의 정기 모임이 황하와 응하여
+    온왕이 동명의 집에 태어났네
+    부소산 밑에 건국할 제
+    기이한 징조 어찌 그리 많았는고
+    인물이 많고 문물이 성해
+    틈 보아 신라를 삼키려 도모했네
+    못 생긴 후손 그 덕을 계승 못해
+    누대 궁궐 사치하고 화려하더니
+    하루아침에 금성탕지 와해되어
+    천 척 높은 바위 이름 불러 낙화로다
+    공후의 꽃동산에 농부가 밭 갈고
+    버려진 비석 곁에 동타가 묻히었네
+    내 와서 고적 찾다 문득 눈물 뿌리니
+    옛 일은 다 어부와 초동의 노래에 붙였구나
+    천 년 왕기는 쓸어버린 듯 없어지고
+    조룡대 아래 강물만 출렁이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청구(靑丘)의 …… 응하여 : '
+    value: 중국 황하는 탁한 물인데 1천 년만에 한 번씩 맑으면 성인(聖人)이 난다 한다.
+  - key: '[주-D002] 누대 …… 화려하더니 : '
+    value: 《서경》에, “임금이 높은 궁궐담을 아로새기면 망하지 않는 법이 없다.”는 말이 있다.
+  - key: '[주-D003] 버려진 …… 묻히었네 : '
+    value: 진(晋)나라 장한(張韓)이 나라가 장차 망할 것을 알고, 낙양(洛陽) 궁문에 있는 구리쇠로 만든 낙타를 가리키며 탄식하기를, “장차 네가 가시덤불 속에 누워 있는 모양을 보리로다.” 하였다.
+english:
+  title: Reflections on Baekje
+  author: Lee Gok
+  language: eng
+  text: |-
+    The verdant earth drew essence, responding to the Yellow River's flow,
+    Warm King born from Eastern Brightness's noble house.
+    Beneath Mount Buoso, a kingdom took its stand,
+    Omens strange and auspicious—how abundant they were.
+
+    Men of talent gathered, culture flourished and grew,
+    Yet they plotted in shadows, seeking to swallow Silla whole.
+    Weak descendants that followed could not inherit their grace,
+    Towering palaces and walls grew lavish and grand.
+    Then one morning, the golden fortress crumbled like roof tiles,
+    And thousand-foot emerald cliffs earned the name "Falling Flowers."
+
+    Farmers now plow where once princes kept their gardens,
+    Bronze camels lie buried beside forgotten stones.
+    I came seeking the ancient past and found only tears,
+    For all that history has become but fisher-folk's song.
+
+    A thousand years of royal fortune swept clean away—
+    Beneath the Dragon-Fishing Terrace, the river flows on alone.
+  footnotes:
+  - key: ''
+    value: 'Mount Buoso: The legendary site where Baekje was founded by Onjo, son of Eastern Brightness (Dongmyeong), the founder of Goguryeo.'
+  - key: ''
+    value: 'The reference to ''Falling Flowers'' derives from a prophecy: the thousand-foot cliff, once a monument to Baekje''s power, became known by this poetic name, symbolizing the kingdom''s decline.'
+  - key: ''
+    value: 'The bronze camels reference a famous lament: when the Jin Dynasty fell, the official Zhang Han pointed to the bronze camels at the palace gates and sighed, knowing they would soon lie forgotten in thorns and brambles—a metaphor for the fate of fallen kingdoms.'

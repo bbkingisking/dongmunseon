@@ -1,0 +1,42 @@
+canonical:
+  title: 謝疋緞狀
+  author: 崔致遠
+  language: lzh
+  text: 右伏蒙仁恩特賜前件疋段霞舒鳳縷雪疊鮫綃猥分絳帳之餘俾換褐袍之飾不學王尼巧說遽叨盧志殊榮唯慙螻蟻之姿不稱蜉蝣之什但願勵食蘖飮冰之節報披朱拖紫之恩下情無任感戴兢惕涕泣之至
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝疋緞狀
+  author: 崔致遠
+  language: lzh
+  text: 右伏蒙仁恩。特賜前件疋段。霞舒鳳縷。雪疊鮫綃。猥分絳帳之餘。俾換褐袍之飾。不學王尼巧說。遽叨盧志殊榮。唯慙螻蟻之姿。不稱蜉蝣之什。但願勵食蘖飮冰之節。報披朱拖紫之恩。下情無任感戴兢惕涕泣之至。
+korean:
+  title: 사 필단 장
+  author: 최치원
+  language: kor
+  text: 엎드려 인자하신 은총을 입어, 특별히 내려주신 비단 필을 받았으니 저녁놀의 고운 빛은 봉루(鳳縷)에 깔리고, 흰눈의 맑은 빛은 교초(鮫綃 인어 무늬가 있는 색비단)에 첩(疊)지었습니다.외람되이 강장(絳帳) 교육을 나누어 받아 단지 갈포(褐袍)의 꾸밈으로 바꾸게 되었고, 왕니(王尼)의 공교한 말을 배우지 않았는데, 갑자기 노지(盧志)의 특수한 영화를 입었으니, 오직 누의(螻蟻)의 자질이 부유(蜉蝣)의 시(詩)와 맞지 아니한 것이 부끄럽습니다. 다만 빙벽(氷蘗)을 음식으로 삼는 절개를 격려하여, 주자(朱紫)로 몸을 두르게 해주신 은혜를 보답하기 원하며, 하정(下情)에 감격하여 송구하고 눈물겨움을 이기지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0500_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강장(絳帳) : '
+    value: 강사장(絳紗帳)을 말한 것이다. 한(漢)나라 마융(馬融)이 강사장을 두르고 제생을 가르쳤으므로 스승의 처소를 강장이라 칭한다.
+  - key: '[주-D002] 부유(蜉蝣) : '
+    value: 《시경(詩經)》 조풍(曹風) 부유장(蜉蝣章)에, “부유의 날개여, 의상이 그와 같이 청초하도다.[蜉蝣之羽 衣裳禁禁]” 하였다.
+  - key: '[주-D003] 빙벽(氷蘗) : '
+    value: 천지의 청고한 것이 얼음을 마시고 산초를 따 먹는 것과 같다는 말이다. 소식(蘇軾)의 시에, “십년의 빙벽이 고량(膏粱)과 싸운다.[十年氷壁戰膏粱]” 하였다.
+english:
+  title: Memorial of Gratitude for Brocaded Silk
+  author: Choe Chiwon
+  language: eng
+  text: |-
+    With utmost reverence, I have received your gracious gift of fine silk and brocade. The crimson threads shimmer like the glow of twilight woven through phoenix patterns, while the white silk gathers like snowdrift on fish-scale damask. Through your munificence, I have been granted a share of what adorns the scarlet curtains of the scholar's chamber, though I use it merely to adorn my humble hemp robe.
+
+    Unschooled in eloquent artifice, I have nonetheless been granted an honor beyond my station. Yet I am tormented by shame—my nature is but that of the lowly ant, unworthy of verses spun fine as mayfly wings. All I can do is steel my resolve to live by principles as austere as ice and bitter bark, hoping through such discipline to repay the profound benevolence bestowed upon me, as one clothed in purple and crimson through your grace.
+
+    My humble heart overflows with gratitude that words cannot contain, and tears of reverence fall unbidden.
+  footnotes:
+  - key: ''
+    value: The 'scarlet curtains' reference alludes to the teaching halls of ancient scholars, particularly invoking the tradition of Ma Rong of the Han dynasty, who taught behind crimson curtains—a symbol of scholarly authority and mentorship.
+  - key: ''
+    value: The 'mayfly wings' evoke the famous poem from the Book of Songs, where mayfly wings are celebrated for their pristine beauty, making the speaker's self-deprecation poignant.
+  - key: ''
+    value: The austere principles of 'ice and bitter bark' represent a Confucian ideal of moral integrity and restraint, suggesting the speaker's commitment to virtue in response to this honor.

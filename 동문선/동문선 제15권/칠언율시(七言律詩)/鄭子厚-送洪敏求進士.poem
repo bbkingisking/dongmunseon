@@ -1,0 +1,52 @@
+canonical:
+  title: 送洪敏求進士
+  author: 鄭子厚
+  language: lzh
+  text: 文憲文和並主文業文餘慶溢高門世稱父子兩中令今見雲仍一外孫自注文憲公崔冲爲第一人及第再知貢擧位至中書令嗣子惟善亦以第一人及第而又再知貢擧位至中書令謚爲文和公洪今爲十世外孫 久客難禁歸覲意老夫何惜贈行言北堂獻壽還西笑當繼家傳乙壯元自注崔中令奉旨入赴內宴嗣子惟善特以尙書令領子姪扶侍金平章行瓊獻詩其略云尙書令擁中書令乙壯元扶甲壯元
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送洪敏求進士
+  author: 鄭子厚
+  language: lzh
+  text: 文憲文和並主文。業文餘慶溢高門。世稱父子兩中令。今見雲仍一外孫。自注。文憲公崔冲。爲第一人及第。再知貢擧。位至中書令。嗣子惟善。亦以第一人及第。而又再知貢擧。位至中書令。謚爲文和公。洪今爲十世外孫。 久客難禁歸覲意。老夫何惜贈行言。北堂獻壽還西笑。當繼家傳乙壯元。自注。崔中令奉旨入赴內宴。嗣子惟善。特以尙書令。領子姪扶侍。金平章行瓊獻詩。其略云尙書令擁中書令。乙壯元扶甲壯元。
+korean:
+  title: 송 홍민구 진사
+  author: 정자후
+  language: kor
+  text: |-
+    문헌공ㆍ문화공이 함께 시관 되었으니
+    글을 업삼은 여경이 고문에 넘쳤어라
+    부자 두 중서령을 세상에서 일컫더니
+    운잉 외손을 이제 또 보겠구나
+    자주(自註) : 문헌공 최충(崔冲)이 제일인(第一人)으로 급제하여 두 번 과거(科擧)의 시관[知貢擧]으로 벼슬이 중서령에 이르렀고, 그 아들 유선(惟善)이 또한 제일인으로 급제하여 또 두 번 시관으로 벼슬이 중서령에 이르렀으니, 시호(諡號)는 문화공이었다. 홍(洪)이 지금 그 10대 외손이다.
+    오래 객지에서 어버이 뵈올 생각 간절했으리
+    늙은 내가 어찌 작별하는 말 주기를 아끼리
+    북당에 헌수하며 다시 서쪽 향해 웃으렷다
+    전가의 그 ‘을장원’을 마땅히 이어야 하리
+    자주(自註) : 지금 최중령(崔中令)이 왕지(王旨)를 받들고 궁중 잔치에 들어가니, 유선(惟善)이 그때 상서령(尙書令)으로 자질(子姪)들을 거느리고 붙들어 모시었다. 평장사(平章事) 김행경(金行瓊)의 시(詩) 중에 이르되, “상서령이 중서령을 붙들고, 을장원이 갑장원을 붙들었네[尙書令擁中書令 乙壯元扶甲壯元].” 하였다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 작별하는 말 주기 : '
+    value: “부귀한 자는 재물(노자)로써 사람을 작별하고, 어진 자는 말로써 사람을 보낸다.”는 옛말이 있다.
+  - key: '[주-D002] 서쪽 향해 웃으렷다 : '
+    value: 서쪽 향해 웃는다는 것은 서울이 서쪽에 있기 때문이다. “장안(長安)을 바라보고 서쪽으로 웃는다.”는 옛말이 있다.
+english:
+  title: Seeing Off Hong Min-gu on His Ascent to the Jinsa Examination
+  author: Jung Ja-hu
+  language: eng
+  text: |-
+    When Munheon and Munhwa both presided over the examinations,
+    their scholarly grace and fortune overflowed through the noble gate.
+    The world spoke of two fathers and sons who became Prime Ministers—
+    yet now I see their tenth-generation heir still bearing the name.
+
+    Long in distant lands, your heart yearns to honor your parents.
+    This old man will not grudge you parting words for the road.
+    As you bow before the Northern Chamber and turn your smile westward,
+    may you worthily inherit the family legacy—the champion's crown of your line.
+  footnotes:
+  - key: ''
+    value: The reference to 'parting words' invokes the ancient saying that the wealthy send people off with gifts, while the virtuous send them off with words of wisdom.
+  - key: ''
+    value: '''Turning your smile westward'' alludes to the capital, which lies to the west, echoing the classical expression ''gazing toward Chang''an and laughing toward the west.'''

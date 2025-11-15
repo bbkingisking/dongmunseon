@@ -1,0 +1,101 @@
+canonical:
+  title: 述懷三首
+  author: 金宗直
+  language: lzh
+  text: 庶績之凝在銓叙哲人何嫌內外擧拔十得五足報國寧用計較王玉女十手所指苟不愼人更燃犀照牛渚天君有嚴輿論公莫謂臺烏噤無語崔亮停年始作俑循資之格又繼踵薦人多寡選先後賢路崎嶇寧不壅取法於上僅得中坐間囁嚅眞闒茸懸衡處物付冢卿遮莫外言方洶洶老子平生志丘壑簪組低面非所樂天官伴食度炎凉枉碎長鑱鑄一錯精神鼓舞今已衰激濁揚淸全落莫古來負乘寇之招悵望停雲倚高閣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 述懷三首
+  author: 金宗直
+  language: lzh
+  text: 庶績之凝在銓叙。哲人何嫌內外擧。拔十得五足報國。寧用計較王玉女。十手所指苟不愼。人更燃犀照牛渚。天君有嚴輿論公。莫謂臺烏噤無語。崔亮停年始作俑。循資之格又繼踵。薦人多寡選先後。賢路崎嶇寧不壅。取法於上僅得中。坐間囁嚅眞闒茸。懸衡處物付冢卿。遮莫外言方洶洶。老子平生志丘壑。簪組低面非所樂。天官伴食度炎凉。枉碎長鑱鑄一錯。精神鼓舞今已衰。激濁揚淸全落莫。古來負乘寇之招。悵望停雲倚高閣。
+korean:
+  title: 술회 삼수
+  author: 김종직
+  language: kor
+  text: |-
+    서정의 잘됨은 전형ㆍ임용에 있으니
+    철인은 어찌 안팎으로 천거함을 혐의쩍게 여기랴
+    열에 다섯 얻어도 보국에 넉넉커니
+    왕녀ㆍ옥녀를 따져서 무엇하리
+    열 손가락 가리킬 바에 삼가지 않으면
+    사람들이 서각을 태워서 우저에 비치리
+    천군(양심)이 지엄하고 여론이 공번되니
+    어사대 까마귀가 말이 없다 이르지 마소
+    최량이 정년제를 시작한 뒤에
+    품자순으로 하는 격식이 또 뒤를 이어
+    사람을 천거하되 선후로 뽑으니
+    현자의 나갈 길이 막히지 않는가
+    위에서 법을 취해 겨우 중용 얻으나
+    좌중에 중얼대는 미천한 놈들
+    저울 달고 물건 다루는 것은 이조 판서에 부쳤으니
+    밖에 말 한창 흉흉하지 않을까
+    이 늙은이 평생에 산수에 뜻을 두어
+    벼슬에 머뭇거림이 즐거울 바 아니로세
+    천관(이조)에 반식하며 세월을 보내느라니
+    부질없이 긴 호미 부수어 한 착을 만들었네
+    정신의 고무도 이젠 벌써 쇠하였고
+    흐린 것 퉁기고, 맑은 것 치켜올림도, 아주 낙막하네
+    예로부터 짐지고 밀탐(감당하지 못할 책임)은 도둑을 부르나니
+    서글퍼 머문 구름 바라보며, 높은 각에 의지하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0550&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 철인(哲人)은 …… 여기량 : '
+    value: 춘추 때에 기해(祁奚)가 사람을 추천하는데 공정하여 안으로는 아들을 천거하고 밖으로는 원수를 천거하였으니 인재만 적당하면 아들이나 원수를 가리지 않았다.
+  - key: '[주-D002] 사람들이 …… 비치리 : '
+    value: 진(晋)나라 사상(謝尙)이 우저(牛渚)에서, 물이 깊은 것을 보고 그 밑에 무엇이 있는가 하고 서각(犀角)으로 불을 켜서 비쳐보니 물속의 기괴한 것들이 환히 보였다.
+  - key: '[주-D003] 어사대(御史臺) : '
+    value: 한나라 때에 어사대의 앞 나무에 까마귀가 많이 모이므로 오대(烏臺)라 하였다. 송나라 때에 어느 시인이 바른 말 하지 않는 어사를 조롱하여, “까마귀가 입을 다물고 소리 없네.” 하였다.
+  - key: '[주-D004] 위에서 …… 얻으나 : '
+    value: 위로 높은 것을 본받아도 중(中)밖에 안 되는데, 그 아래로 본을 뜨면 무엇이 되겠는가 한 옛말이 있다.
+  - key: '[주-D005] 반식(伴食) : '
+    value: 당나라 노회신(盧懷愼)이 요숭(姚崇)과 함께 정승이 되어서 요숭의 잘하는 것을 보고 그 대로만 따르고 자기의 의견을 주장하지 않으니 사람들이, “밥먹는데 짝하는 정승이라[伴食辛相].” 하였다.
+  - key: '[주-D006] 착(錯) : '
+    value: 줄(톱을 쓰는 기구)인데 그 음이 착오(錯誤)란 착(錯) 자(字)와 같으므로 이렇게 썼다.
+  - key: '[주-D007] 머문 구름[停雲] : '
+    value: 도연명(陶淵明)이 친구를 생각하여 정운(停雲)이란 시를 지었다.
+english:
+  title: Three Meditations on My Heart
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    The success of governance rests upon selection and appointment.
+    Why would a wise man reject recommendation from all quarters?
+    Even gaining five from ten suffices to serve the realm—
+    why quibble over rank and privilege?
+
+    When ten fingers point carelessly at a target,
+    men will light torches of rhinoceros horn to illuminate Ox Ford—
+    revealing what should stay hidden in the depths.
+    The conscience stands stern, public opinion flows free:
+    do not say the Censorate's crow has lost its voice.
+
+    Since Cui Liang first opened the door to seniority,
+    each rank advances in rigid succession.
+    Recommendations follow their order like clockwork,
+    yet does not virtue's path grow ever more blocked?
+    Taking models from above yields barely mediocrity—
+    while seated among muttering mediocrities, truth turns to vapor.
+
+    The weighing of all things falls to the Minister of Personnel,
+    and outside, voices grow loud with unease.
+    This old man has spent a lifetime in love with mountains and streams;
+    office holds no joy for one who lingers there.
+    A mere companion at court's table, I have watched the seasons turn,
+    breaking my worn hoe into one useless error.
+
+    The vigor that once stirred my spirit has already faded;
+    to stir the murky and elevate the clear brings only despair.
+    Since ancient times, unfit burden invites theft—
+    I gaze in sorrow at the lingering clouds,
+    leaning only upon this high pavilion's solitude.
+  footnotes:
+  - key: ''
+    value: Cui Liang's establishment of the seniority system represents the ossification of meritocratic advancement into rigid bureaucratic procedure.
+  - key: ''
+    value: The rhinoceros horn torch, used to illuminate hidden things, serves as a metaphor for how careless recommendations expose what should remain concealed.
+  - key: ''
+    value: The lingering clouds evoke Tao Yuanming's poem of the same name, expressing longing for like-minded friends and a life of retreat.
+  - key: ''
+    value: '''Companion at the table'' refers to a minister who merely follows others'' counsel without offering his own wisdom or judgment.'

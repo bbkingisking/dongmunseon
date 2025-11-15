@@ -1,0 +1,52 @@
+canonical:
+  title: 次伊川客舍韻
+  author: 金禮蒙
+  language: lzh
+  text: 杖鉞人爭賀觀風我獨傷才如餘月計政可救年荒自是吾無策非緣法不良聞詩還有愧休咏召南棠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次伊川客舍韻
+  author: 金禮蒙
+  language: lzh
+  text: 杖鉞人爭賀。觀風我獨傷。才如餘月計。政可救年荒。自是吾無策。非緣法不良。聞詩還有愧。休咏召南棠。
+korean:
+  title: 차 이천 객사 운
+  author: 김예몽
+  language: kor
+  text: |-
+    도끼를 짚었다(대장이 된 것)고 사람들이 다투어 하례하는데
+    민풍을 살피니 나 홀로 상심하네
+    재주에 월계가 남는다면
+    정사는 가히 흉년을 구할 수도 있으련만
+    스스로 내가 좋은 계책이 없음이요
+    법이 좋지 못함은 아니네
+    시를 듣고 도리어 부끄러워하노니
+    소남의 감당을 읊지나 말게
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 월계(月計)가 남는다 : '
+    value: “날로 헤아리면[日計] 부족하여도 달로 헤아리면 [月計]로 남는다.”는 옛말이 있다.
+  - key: '[주-D002] 소남(召南)의 감당(甘棠) : '
+    value: 《시경》에 소남(召南)의 감당(甘棠)편이 있는데, 소공(召公)이 지방에서 정치를 잘하였으므로, 그가 간 뒤에 백성들이 그를 사모하여, 그가 자주 쉬던 감당(甘棠)나무를 베지 말자고 노래를 읊은 것이다.
+english:
+  title: Matching the Rhyme at the Guest House in Yichuan
+  author: Kim Ye-mong
+  language: eng
+  text: |-
+    With axe in hand, the man ascends to office—
+    all the people rush to offer congratulations.
+    Yet watching the customs of the land, I alone grieve.
+
+    If talent could stretch like the moon's reckoning,
+    policy might yet save a year of famine.
+    But the fault lies not in law's design—
+    it is I who possess no worthy stratagem.
+
+    Hearing these verses, shame comes upon me.
+    Let me not sing of the Sweet Pear tree of Shaonan.
+  footnotes:
+  - key: ''
+    value: 'The ''moon''s reckoning'' alludes to an old saying: what falls short when counted by days may suffice when counted by months—a metaphor for virtue that accumulates gradually.'
+  - key: ''
+    value: The 'Sweet Pear tree of Shaonan' references a poem in the Classic of Poetry, where the people of a region refused to cut down the tree beneath which Duke Shao rested while governing, as a token of their love for his virtuous rule. The poet declines to praise such governance, acknowledging his own inadequacy.

@@ -1,0 +1,37 @@
+canonical:
+  title: 題舍浦營
+  author: 田祿生
+  language: lzh
+  text: 此地前遊僅十春豈圖來鎭有今晨壁閒拙字知予否誰是當年下筆人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題舍浦營
+  author: 田祿生
+  language: lzh
+  text: 此地前遊僅十春。豈圖來鎭有今晨。壁閒拙字知予否。誰是當年下筆人。
+korean:
+  title: 제사포영
+  author: 전녹생
+  language: kor
+  text: |-
+    이 땅에 와서 논 지 십 년이 가까운데
+    어찌 또 이 진에 와서 이 새벽이 있을 줄 알았으랴
+    저 벽의 졸한 글자여 나를 아는가
+    누가 바로 그 당시에 너를 쓴 사람인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: Inscribed at Sappo Camp
+  author: Jeon Nok-saeng
+  language: eng
+  text: |-
+    Ten springs have passed since I roamed these lands,
+    Yet how could I have foreseen this dawn at the garrison?
+    Rough characters upon the wall—do you remember me?
+    Who was it that inscribed you in those bygone days?
+  footnotes:
+  - key: ''
+    value: Sappo Camp (舍浦營) was a military garrison in Korea during the Joseon period. The poem reflects on the poet's return to a place he had visited a decade earlier.
+  - key: ''
+    value: The 'rough characters upon the wall' likely refers to the poet's own earlier inscription, creating a poignant moment of recognition across time.

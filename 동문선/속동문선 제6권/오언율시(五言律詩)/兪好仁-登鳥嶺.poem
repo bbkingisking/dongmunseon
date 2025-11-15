@@ -1,0 +1,47 @@
+canonical:
+  title: 登鳥嶺
+  author: 兪好仁
+  language: lzh
+  text: 凌晨登雪嶺春意正濛濛北望君臣隔南來母子同蒼茫迷宿霧迢遞倚層空更欲裁書札愁邊有北鴻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登鳥嶺
+  author: 兪好仁
+  language: lzh
+  text: 凌晨登雪嶺。春意正濛濛。北望君臣隔。南來母子同。蒼茫迷宿霧。迢遞倚層空。更欲裁書札。愁邊有北鴻。
+korean:
+  title: 등조령
+  author: 유호인
+  language: kor
+  text: |-
+    이른 새벽에 눈 재에 오르나니
+    봄 뜻이 진정 몽몽하구나
+    북으로 바라보매 군신이 막히었고
+    남으로 오는 것은 모자가 일반이다
+    아득하여라 밤 지나 안개에 헷갈리고
+    높고 높아라 하늘에 의지했다
+    다시 편지를 쓰려 하나니
+    시름 가에 북으로 가는 기러기 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0540&viewSync=OT
+  footnotes: []
+english:
+  title: Climbing Bird Ridge
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    In early dawn I ascend the snow-covered ridge,
+    As spring's soft haze spreads through the air.
+    Looking north, sovereign and subject lie apart,
+    While from the south come mother and child as one.
+    Vague and dim, the night mist confounds the path,
+    Distant and lofty, the layered sky sustains me.
+    Again I wish to write a letter home,
+    But beside my sorrow flies a goose toward the north.
+  footnotes:
+  - key: ''
+    value: The 'snow ridge' (雪嶺) may refer to a mountain pass on the border between Joseon and Ming China, suggesting themes of separation and longing.
+  - key: ''
+    value: The contrast between 'north' and 'south' carries symbolic weight—the north representing political division between ruler and subject, while the south represents natural bonds of family.
+  - key: ''
+    value: The northbound goose is a classical image of travel and communication across distances, intensifying the speaker's inability to send word home.

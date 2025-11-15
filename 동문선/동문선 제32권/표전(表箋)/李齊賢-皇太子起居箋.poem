@@ -1,0 +1,29 @@
+canonical:
+  title: 皇太子起居箋
+  author: 李齊賢
+  language: lzh
+  text: 誠劣塵微媿乏培山之効夢勞天遠謾輸披霧之心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 皇太子起居箋
+  author: 李齊賢
+  language: lzh
+  text: 誠劣塵微。媿乏培山之効。夢勞天遠。謾輸披霧之心。
+korean:
+  title: 황태자 기거 전
+  author: 이제현
+  language: kor
+  text: 티끌같이 미미(微微)한 몸으로 산(山)을 북돋우는 공효(功效)가 없음이 부끄럽사오나, 하늘처럼 머나먼 꿈속에서나마 안개를 헤치는 마음을 부질없이 보내드리옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial on the Crown Prince's Daily Conduct
+  author: Lee Jehyeon
+  language: eng
+  text: How shameful am I, mere dust and shadow, lacking the merit to build up mountains. Yet in dreams that reach toward distant heaven, I send this futile heart that struggles through the mist.
+  footnotes:
+  - key: ''
+    value: The image of 'building up mountains' alludes to the classical Confucian ideal of cultivating virtue and contributing meaningfully to governance.
+  - key: ''
+    value: The contrast between earthly insignificance and heavenly aspiration reflects the author's humility before the Crown Prince while expressing sincere devotion.

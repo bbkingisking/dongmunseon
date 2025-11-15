@@ -1,0 +1,46 @@
+canonical:
+  title: 寄伸二絕
+  author: 曺偉
+  language: lzh
+  text: 旅鴈不成行邊聲日暮起相思空白頭悵望人千里迢迢關塞長默數家山路何時連夜床共聽梅堂雨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄伸二絕
+  author: 曺偉
+  language: lzh
+  text: 旅鴈不成行。邊聲日暮起。相思空白頭。悵望人千里。迢迢關塞長。默數家山路。何時連夜床。共聽梅堂雨。
+korean:
+  title: 기신 이절
+  author: 조위
+  language: kor
+  text: |-
+    나그네 기러기가 줄을 이루지 못해
+    변방 소리가 저문 날에 일어난다
+    서로 생각하다 부질없이 머리만 희었구나
+    한스러이 바라보며 그 사람은 천리 밖이다
+    멀고멀어 관새가 긴데
+    잠자코 고향 길을 세어 보노니
+    어느 때나 밤 자리를 나란히 하여
+    다 같이 매당의 빗소리 들어보리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 伷 : '
+    value: 伸
+english:
+  title: Two Poems Sent to Shin
+  author: Cao Wei
+  language: eng
+  text: |-
+    The traveling geese cannot form their line,
+    Border sounds rise as day fades away.
+    Thinking of you, my hair has turned white for nothing,
+    Gazing forlorn—you are a thousand miles distant.
+
+    The mountain passes stretch long and far,
+    Silently I count the steps homeward.
+    When will we lie down together at night,
+    Listening as one to the rain on the plum hall?
+  footnotes:
+  - key: ''
+    value: '''Plum hall'' likely refers to a specific location of significance to the recipient, possibly a residence or meeting place where the two once shared moments together.'

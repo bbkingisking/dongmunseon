@@ -1,0 +1,46 @@
+canonical:
+  title: 用東坡語寄貞之上人
+  author: 李仁老
+  language: lzh
+  text: 歲律旣云暮淒風生戶牖竹䆫燈火靑一段有佳趣與君分一半愼勿輕受授所與苟非人火迫當還取
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 用東坡語寄貞之上人
+  author: 李仁老
+  language: lzh
+  text: 歲律旣云暮。淒風生戶牖。竹䆫燈火靑。一段有佳趣。與君分一半。愼勿輕受授。所與苟非人。火迫當還取。
+korean:
+  title: 동파의 말을 써서 정지 상인에게 붙여
+  author: 이인로
+  language: kor
+  text: |-
+    한 해도 이미 저물었구나
+    찬 바람 지게문에 생기네
+    죽창의 등불 푸른 빛
+    한 가지 아름다운 풍취는
+    이 절반 나누어 그대에게 주노니
+    부디 조심해 함부로 남에게 주지 마소
+    준 바가 그 사람이 아니거든
+    부리나케 도로 받아 오게
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동파의 말을 써서 : '
+    value: 소동파가 친구에게 보내는 단찰(短札)에, “해는 저물었다. 죽창(竹窓)에 푸른 등불이 깜박이는데, 이 풍취의 반을 그대에게 나누어 주고 싶다.” 한 문구가 있다.
+english:
+  title: Using Su Dongpo's Words, Sent to the Monk Jeongji
+  author: Lee In-ro
+  language: eng
+  text: |-
+    The year now wanes and fades away,
+    A chill wind stirs at door and eave.
+    Through bamboo window, lamplight glows in jade,
+    One moment holds a beauty rare.
+
+    This half of it I offer now to you—
+    But guard it well, give it to none too lightly.
+    If he who takes it proves unworthy still,
+    Then hurry back and reclaim what is mine.
+  footnotes:
+  - key: ''
+    value: 'This poem borrows its opening image from Su Dongpo, the great Song poet. In a short letter to a friend, Dongpo wrote: ''The sun sets. Through the bamboo window, a blue lamp flickers—I wish to share half of this subtle charm with you.'' Lee In-ro transforms Dongpo''s sentiment into a meditation on sharing beauty and wisdom with worthy companions.'

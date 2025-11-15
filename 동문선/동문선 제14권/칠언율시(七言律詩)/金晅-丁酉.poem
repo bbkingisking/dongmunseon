@@ -1,0 +1,47 @@
+canonical:
+  title: 丁酉
+  author: 金晅
+  language: lzh
+  text: 憶曾同舍共鳴騶分袂西遊已五秋對鏡鬢華凋欲盡倚樓心緖亂相繆老來豈戀觀金馬客裏頻驚見土牛遙想紫薇花下客春風興在草詞頭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 丁酉
+  author: 金晅
+  language: lzh
+  text: 憶曾同舍共鳴騶。分袂西遊已五秋。對鏡鬢華凋欲盡。倚樓心緖亂相繆。老來豈戀觀金馬。客裏頻驚見土牛。遙想紫薇花下客。春風興在草詞頭。
+korean:
+  title: 서울에서 정유
+  author: 김훤
+  language: kor
+  text: |-
+    일찍이 동료로서 말 타고 입직하다가
+    소매를 나누고 헤어져 서로 논 지 이미 다섯 해
+    거울 보니 귀밑 머리 희끗희끗
+    누각에 오르니 심사는 어지럽기만
+    늘그막에 금마(한림원(翰林院))를 그리워해야 하지만
+    객중에 토우 보고 새삼 놀라네
+    멀리 생각하니 자미 꽃 아래 그대는
+    입춘사 초하느라고 봄 흥이 겨우리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0760&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 토우(土牛) : '
+    value: 옛날 늦가을, 입춘일(立春日)에 흙으로 만든 소를 내어 찬 기운을 보낸다는 민속이 있었다.
+english:
+  title: Ding You
+  author: Kim Hyun
+  language: eng
+  text: |-
+    Once we rode together in the same office, our voices echoing.
+    Separated by farewell, westward bound, five autumns have passed.
+    In the mirror, gray threads gather at my temples.
+    Climbing the tower, my heart scatters in a hundred directions.
+    In these later years, should I still long for the Golden Horse?
+    Yet traveling this guest-road, I start at the sight of the clay ox.
+    Distant thoughts turn to you beneath the violet flowers—
+    Composing spring verses as the season turns, your joy rides the spring wind.
+  footnotes:
+  - key: ''
+    value: 'Golden Horse: A reference to the Hanlin Academy (翰林院), a prestigious scholarly institution.'
+  - key: ''
+    value: 'Clay ox: An ancient custom where earthen oxen were displayed in late autumn and at the beginning of spring to symbolically send away the cold season.'

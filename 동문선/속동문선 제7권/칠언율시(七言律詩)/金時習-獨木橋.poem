@@ -1,0 +1,50 @@
+canonical:
+  title: 獨木橋
+  author: 金時習
+  language: lzh
+  text: 小橋橫斷碧波頭人渡浮嵐翠靄深兩岸蘚花經雨潤千峯秋色倚雲侵溪聲打出無生話松韻彈成太古琴此去精廬應不遠猿啼月白是東林
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獨木橋
+  author: 金時習
+  language: lzh
+  text: 小橋橫斷碧波頭。人渡浮嵐翠靄深。兩岸蘚花經雨潤。千峯秋色倚雲侵。溪聲打出無生話。松韻彈成太古琴。此去精廬應不遠。猿啼月白是東林。
+korean:
+  title: 독목교
+  author: 김시습
+  language: kor
+  text: |-
+    작은 다리가 푸른 물결 머리를 가로 끊었는데
+    사람은 아른거리는 산 기운을 건너고 푸른 놀은 깊었다
+    양쪽 언덕의 이끼꽃은 비를 지나 윤택하고
+    봉우리마다 가을 빛은 구름을 의지해 차가워라
+    시냇물 소리는 무생의 법문을 자아내고
+    소나무 소리는 태고의 거문고를 탄다
+    이리로 가면 서재는 아마 멀지 않으리니
+    원숭이 울고 달은 흰데 거기가 바로 동림이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0940&viewSync=OT
+  footnotes: []
+english:
+  title: The Solitary Bridge
+  author: Kim Siseup
+  language: eng
+  text: |-
+    A small bridge cuts across the emerald wave's face.
+    A wanderer crosses the shimmering mountain mist, while jade-green depths deepen.
+    On both banks, moss-flowers drink the rain and glisten,
+    and autumn's light on each peak leans upon the clouds, turning cool.
+
+    The stream's voice speaks the wordless dharma,
+    the pine's song plays the ancient lute.
+
+    If I venture further, the hermit's chamber cannot be far—
+    where monkeys cry and the moon shines white:
+    that is the Eastern Grove.
+  footnotes:
+  - key: ''
+    value: The 'wordless dharma' (무생의 법문) refers to Buddhist teaching transmitted beyond words, suggesting the natural world as a teacher of enlightenment.
+  - key: ''
+    value: The Eastern Grove (동림) likely references a sacred Buddhist site, possibly Dongrim Temple, representing a spiritual destination.
+  - key: ''
+    value: This poem exemplifies the Sijo poet's meditation on nature as a path to transcendence, blending Buddhist philosophy with landscape imagery.

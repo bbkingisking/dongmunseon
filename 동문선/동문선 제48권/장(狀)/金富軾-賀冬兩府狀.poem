@@ -1,0 +1,33 @@
+canonical:
+  title: 賀冬兩府狀
+  author: 金富軾
+  language: lzh
+  text: 剝後七日知陰道之上窮坎中一陽應天時而初復伏惟某官風節淸直德履端方汲黯在朝敵國無敢妄動孔戣請老議臣不欲遽歸茂對嘉辰益綏休祉某顧有簡書之畏阻瞻舃履之光
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀冬兩府狀
+  author: 金富軾
+  language: lzh
+  text: 剝後七日。知陰道之上窮。坎中一陽。應天時而初復。伏惟某官。風節淸直。德履端方。汲黯在朝。敵國無敢妄動。孔戣請老。議臣不欲遽歸。茂對嘉辰。益綏休祉。某顧有簡書之畏。阻瞻舃履之光。
+korean:
+  title: 하 동 양부 장
+  author: 김부식
+  language: kor
+  text: 박(剝)이 지나간 7일 만이라 음도(陰道)가 막다른 것을 알겠고, 감(坎) 가운데 하나의 양(陽)이 천시(天時)를 응하여 처음으로 회복하였습니다. 엎드려 생각건대, 모관(某官)은 풍절(風節)이 맑고 곧으며, 덕행(德行)이 단아하고 방정하며, 급암(汲黯)이 조정에 있음에 적국(敵國)이 함부로 망동하지 못하였고, 공규(孔戣)가 노퇴(老退)를 청함에 의신(議臣)이 선뜻 보내지 않으려고 합니다. 이 좋은 날을 당하여 더욱 아름다운 복을 누리소서. 모(某)는 간서(簡書 임금이 내려준 신표)가 두려워서 석리(舃履 적석)의 영광을 뵙지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하 동 양부 장(賀冬兩府狀) : '
+    value: “안서대도호 하 김평장(安西大都護賀金平章)”이라는 원주가 있다.
+english:
+  title: A Congratulatory Message on the Winter Solstice to Two Governors
+  author: Kim Bu-sik
+  language: eng
+  text: Seven days have passed since the hexagram of Decline, and we perceive that the yin path has reached its limit. Within the hexagram of the Pit, one yang appears, responding to Heaven's season and beginning its restoration. We humbly reflect that you, noble minister, possess a wind-like integrity that is pure and upright, virtue that is elegant and resolute. With Ji Ang at court, enemy states dare not act recklessly; when Kong Ge requested retirement, the council of ministers was reluctant to grant it. Upon this auspicious season, may you gather ever greater blessings. Though I am bound by fear of imperial dispatch and prevented from witnessing the radiance of your presence, I offer this respectful salute.
+  footnotes:
+  - key: ''
+    value: This piece employs the I Ching hexagrams of Decline (Decline/剝) and the Pit (坎) as metaphors for the winter solstice and the restoration of yang energy at the turning of the year.
+  - key: ''
+    value: 'Ji Ang and Kong Ge are historical exemplars of virtuous officials: Ji Ang was a remonstrator in the Han court whose integrity was feared by foreign powers, and Kong Ge was a respected minister whose retirement was resisted by the throne.'
+  - key: ''
+    value: The reference to imperial dispatch and the radiance of presence suggests the author's position at court and the ceremonial nature of this congratulatory address.

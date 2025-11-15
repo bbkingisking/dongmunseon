@@ -1,0 +1,47 @@
+canonical:
+  title: 詩體 숫자체(數字體
+  author: 趙須
+  language: lzh
+  text: 一生苦沉緜二月患喉嗄三夜耿不眠四大眞是假五旬尙如此六袠安可過七情日煎熬八還終當籍九經眞自鄶十載徒悲吒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詩體 숫자체(數字體
+  author: 趙須
+  language: lzh
+  text: 一生苦沉緜。二月患喉嗄。三夜耿不眠。四大眞是假。五旬尙如此。六袠安可過。七情日煎熬。八還終當籍。九經眞自鄶。十載徒悲吒。
+korean:
+  title: 옛 시체
+  author: 조수
+  language: kor
+  text: |-
+    일생을 장병에 괴로워
+    이월에도 감기들어 목이 쉬었다
+    삼일간 잠을 이루지 못하니
+    사대가 참으로 헛 것이로다
+    오순에도 오히려 이러하니
+    육질을 어떻게 지내리
+    칠정이 날마다 지지고 볶으니
+    팔환을 마침내 의뢰해야 하겠다
+    구경은 참으로 볼 것도 없다
+    십재에 한갓 슬피 탄식하도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem on Numbers
+  author: Cho Su
+  language: eng
+  text: |-
+    A lifetime burdened by chronic illness—
+    In the second month, sore throat strikes,
+    Three nights of sleeplessness unfold.
+    The four great elements? Truly illusion.
+    At fifty years, still suffering thus—
+    How shall I endure sixty?
+    The seven emotions daily scorch and torment.
+    I must rely at last on the eight paths.
+    The nine realizations offer nothing to see.
+    Ten decades of mere sorrowful sighs.
+  footnotes:
+  - key: ''
+    value: This poem employs a structural conceit, with each line beginning with the numbers one through ten in sequence, creating a numerological framework that underscores the speaker's meditation on impermanence and Buddhist philosophy. The 'eight paths' references the Noble Eightfold Path of Buddhism, suggesting spiritual refuge from worldly suffering.

@@ -1,0 +1,47 @@
+canonical:
+  title: 昇平郡蔡按部韻
+  author: 崔永濡
+  language: lzh
+  text: 秋來征鴈已隨陽觸物悠悠感恨長數點鷺鷥沙上白千頭橘柚道邊黃山寒却愛形容瘦稻熟偏知氣味香爲奉往諧王命重含杯那復舊時狂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 昇平郡蔡按部韻
+  author: 崔永濡
+  language: lzh
+  text: 秋來征鴈已隨陽。觸物悠悠感恨長。數點鷺鷥沙上白。千頭橘柚道邊黃。山寒却愛形容瘦。稻熟偏知氣味香。爲奉往諧王命重。含杯那復舊時狂。
+korean:
+  title: 승평군에서 채안부의 운대로
+  author: 최영유
+  language: kor
+  text: |-
+    가을날 기러기는 벌써 남으로 가는데
+    물에 감촉되어 내 한이 그지없네
+    모래 위에 흰 몇 점은 해오리가 아닌가
+    길가에 누런 것들은 모두 다 귤이로세
+    산은 쌀쌀할수록 여윈 모양이 하좋아라
+    벼가 다 익어서 향내가 두루 구수하군
+    왕명을 받자온 몸 책임이 무거우니
+    잔 들고 옛날과 같이 못 노니네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Rhyming Poem on Official Inspection in Seungpyeong County
+  author: Choi Young-yeo
+  language: eng
+  text: |-
+    Autumn comes—the geese already follow the southbound sun.
+    Touched by the world's affairs, my sorrow flows without end.
+    A few white points on the sand—are they not herons?
+    All the yellow by the roadside—surely they are tangerines and pomelos.
+    The colder the mountain grows, the more I love its lean and gaunt form.
+    With ripened grain, fragrance spreads its rich and mellow warmth.
+    Burdened with the weight of royal commission and duty,
+    I raise my cup, yet cannot revel as in days of old.
+  footnotes:
+  - key: ''
+    value: The poem is written during an official inspection tour in Seungpyeong County, creating tension between aesthetic observation and administrative responsibility.
+  - key: ''
+    value: The imagery of autumn—migrating geese, sparse herons, ripening crops—traditionally evokes melancholy and transience in East Asian poetry.
+  - key: ''
+    value: The final couplet contrasts the speaker's desire for carefree enjoyment with the gravity of official obligations, suggesting the restraint demanded by high office.

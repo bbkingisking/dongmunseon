@@ -1,0 +1,57 @@
+canonical:
+  title: 軍幕偶吟
+  author: 金富軾
+  language: lzh
+  text: 誰道朝廷好用兵只因臣妾變豺狼心緣思慮恒冰蘖髮爲憂煎盡雪霜曉枕聞雞忙似祖午窓捫蝨懶於康君王英斷超唐憲遮莫時人謗樂羊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 軍幕偶吟
+  author: 金富軾
+  language: lzh
+  text: 誰道朝廷好用兵。只因臣妾變豺狼。心緣思慮恒冰蘖。髮爲憂煎盡雪霜。曉枕聞雞忙似祖。午窓捫蝨懶於康。君王英斷超唐憲。遮莫時人謗樂羊。
+korean:
+  title: 군막 우음
+  author: 김부식
+  language: kor
+  text: |-
+    나라에서 군사 쓰기 좋아한다 누가 이르뇨
+    신하가 승냥이로 변한 때문 아닌가
+    온갖 생각에 마음은 늘 얼음과 소태(쓴나무)요
+    시름에 볶닦이니 머리털은 모두 눈과 서리
+    새벽 베개에 닭 울음 들으니 조적 마냥 바쁘구나
+    대낮에 창가에서 이를 만지니 혜강보다 더 게을러라
+    임금님 영단이 당헌종보다 뛰어나시니
+    그까짓 시속배들의 악양자 비방함 쯤이야
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 조적(祖逖) : '
+    value: 진(晉)나라의 장군인데, 유곤(劉琨)과 함께 사주(司州) 주부(主簿)가 되어 같은 이불에 자다가 밤중에 닭의 울음을 듣고는 유곤을 차서 깨우고 일어나 춤을 추면서, “닭이 일찍 울면 난리가 난다. 대장부 난세를 만나 공을 세우자.” 하면서 원제(元帝) 때 분위장군(奮威將軍)으로 북벌(北伐)했고, 석륵(石勒)을 격파하고 황하 이남 땅을 회복하였다.
+  - key: '[주-D002] 대낮에 …… 게을러라 : '
+    value: 혜강(嵇康)이 산도(山濤)에게 보낸 편지에, “나는 게을러 목욕하지 않아 몸에 늘 이[虱]가 있다.” 하였다. 《絶交書》
+  - key: '[주-D003] 당헌종(唐憲宗) : '
+    value: 당 헌종(唐憲宗)이 회서(淮西)의 오원제(吳元濟)를 칠 때에는 반대론이 많았으나, 그것을 물리치고 재상  배도(裴度)의 토벌론을 좇아 3년만에 토평했다.
+  - key: '[주-D004] 악양자(樂羊子) : '
+    value: 악양(樂羊)은 전국 때 위문후(魏文侯)의 장수인데, 중산(中山)을 치고 돌아와 공을 논할새, 문후가 그 동안 다른 이들이 악양을 비방한 글[謗書] 한 바구니를 그에게 보였는데, 그것은 ‘나는 너를 믿었다’는 뜻이다.
+english:
+  title: A Casual Poem from the Military Camp
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Who says the court loves to wage war?
+    Is it not because ministers turn to wolves and jackals?
+    In endless rumination, my heart freezes like winter ice,
+    And worry scorches my hair white as snow and frost.
+    At dawn, hearing the rooster crow from my pillow, I rush like Zu Ti,
+    At noon, picking lice by the window, I'm lazier than Xi Kang.
+    Your Majesty's brilliant judgment surpasses even Emperor Xianzong of Tang—
+    Let the common gossips slander me like they slandered Yue Yang.
+  footnotes:
+  - key: ''
+    value: 'Zu Ti (祖逖): A Jin dynasty general who, upon hearing a rooster crow in the night, sprang from bed and danced, exclaiming that a great man should seize the opportunity to achieve glory in troubled times. He went on to lead successful campaigns against the northern invaders.'
+  - key: ''
+    value: 'Xi Kang (嵇康): A famous recluse of the Wei-Jin period known for his indifference to worldly affairs, even admitting in a letter that he was too lazy to bathe and lived with lice on his body.'
+  - key: ''
+    value: 'Emperor Xianzong of Tang (唐憲宗): Though many opposed his military campaign against the rebel Wu Yuanji in Huaixi, the emperor, following Chancellor Pei Du''s counsel, crushed the rebellion in three years.'
+  - key: ''
+    value: 'Yue Yang (樂羊): A general of the State of Wei during the Warring States period. When he returned from conquering Zhongshan, the marquis presented him with a basket full of slanders written about him—a gesture paradoxically meant to show trust, as it proved his loyalty had been tested.'

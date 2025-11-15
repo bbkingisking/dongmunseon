@@ -1,0 +1,63 @@
+canonical:
+  title: 奉賀李相國大破倭寇于引月驛振旅還都
+  author: 尹紹宗
+  language: lzh
+  text: 扶桑寇發三十年引月一鼓邯鄲坑將軍槍急躍鐵馬黃金甲照斜陽明力拔山兮膽如斗許國一身鴻毛輕區區管樂何足比幅巾歸第師周程周程之學作伊周公爲萬世開大平
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉賀李相國大破倭寇于引月驛振旅還都
+  author: 尹紹宗
+  language: lzh
+  text: 扶桑寇發三十年。引月一鼓邯鄲坑。將軍槍急躍鐵馬。黃金甲照斜陽明。力拔山兮膽如斗。許國一身鴻毛輕。區區管樂何足比。幅巾歸第師周程。周程之學作伊周。公爲萬世開大平。
+korean:
+  title: 이 상국이 왜구를 인월역에서 대파하고 개선하는 것을 하례하여
+  author: 윤소종
+  language: kor
+  text: |-
+    부상의 도적이 30년을 설치다가
+    인월역 북소리 한 번에 한단 무찌름 되었구나
+    장군이 창을 급히 휘두르고 철마가 뛰니
+    황금 갑옷이 석양 빛에 환하였네
+    힘은 산도 뽑고, 담은 말만 한데
+    나라 위해 바친 몸 홍모보다 가벼웠네
+    구구한 관ㆍ악으로 어찌 족히 비하랴
+    폭건으로 집에 돌아와 주ㆍ정을 배우시리
+    주ㆍ정의 학으로 이윤ㆍ주공 되어서
+    만세를 위해 태평을 열어 주소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한단(邯鄲) : '
+    value: 전국 때 조(趙)의 도읍. 진(秦)의 장수 백기(白起)가 기병(騎兵)으로 조군(趙軍)을 대파하고 조의 장수 조괄(趙括)을 쏘아 죽이고 조의 항복한 군졸 45만을 장평(長平)에서 무찔러 죽였다.
+  - key: '[주-D002] 관(管)ㆍ악(樂) : '
+    value: 전국 때 제(齊)의 현상(賢相) 관중(管中)과 연(燕)의 명장(名將)  악의(樂毅)인데, 삼국 때 제갈량(諸葛亮)이 일찍 자신을 관악에 견주었다.
+  - key: '[주-D003] 주(周)ㆍ정(程) : '
+    value: 송(宋)의 성리학자(性理學者) 주돈이(周敦頤)와 정호(程顥)ㆍ정이(程頤).
+english:
+  title: In Praise of Minister Lee's Great Victory Over the Japanese Pirates at Inwol Station and His Triumphal Return to the Capital
+  author: Yun Sojong
+  language: eng
+  text: |-
+    For thirty years the pirates from Fusang have ravaged the land.
+    One drum beat at Inwol Station—and Handan's armies fall.
+    The general wields his spear with urgency, iron horse leaps forward,
+    Golden armor gleams bright in the slanting evening sun.
+    Strength to uproot mountains, courage vast as a measure of grain,
+    Yet the body offered for the realm weighs lighter than a swan's feather.
+    How could mere managers and generals merit comparison with you?
+    Returning home in simple dress, you study the wisdom of the Sages.
+    Through the learning of Zhou and the Chengs, becoming another Yin and Duke of Zhou,
+    You open the path to great peace for ten thousand ages to come.
+  footnotes:
+  - key: ''
+    value: 'Fusang: A classical Chinese name for Japan or the Far East.'
+  - key: ''
+    value: 'Inwol Station: The site of this military victory over Japanese pirates.'
+  - key: ''
+    value: 'Handan reference: Evokes the famous military rout at Handan, suggesting complete victory.'
+  - key: ''
+    value: 'Management and generals: References to historical figures Guan Zhong and Yue Yi, implying the subject surpasses even celebrated strategists.'
+  - key: ''
+    value: 'Zhou and the Chengs: Refers to the Neo-Confucian philosophers Zhou Dunyi and the Cheng brothers, sages of wisdom and virtue.'
+  - key: ''
+    value: 'Yin and Duke of Zhou: Ancient sage-ministers of legendary virtue, suggesting the subject will become a model of virtuous governance.'

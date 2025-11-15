@@ -1,0 +1,48 @@
+canonical:
+  title: 題長安逆旅
+  author: 李齊賢
+  language: lzh
+  text: 車馬函關道風塵季子裘轍環天下半心逐水東流萬事唯呼酒千山獨倚樓靑雲有知己未用歎悠悠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題長安逆旅
+  author: 李齊賢
+  language: lzh
+  text: 車馬函關道。風塵季子裘。轍環天下半。心逐水東流。萬事唯呼酒。千山獨倚樓。靑雲有知己。未用歎悠悠。
+korean:
+  title: 장안 여관에서
+  author: 이제현
+  language: kor
+  text: |-
+    거마가 들끓는 함곡관(函谷關) 길에
+    풍진에 해어진 소계자 갖옷
+    수레바퀸 천하의 반을 돌았네
+    마음은 물을 따라 동으로 가누나
+    만사는 오직 술만 부르고
+    천산에 홀로 누에 올랐네
+    청운엔 지기 있거니
+    어찌 긴 탄식할손가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0880&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 풍진(風塵)에 …… 갖옷 : '
+    value: 각주 ‘해어진 갖옷’ 참조
+english:
+  title: At an Inn in Chang'an
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    Carriages and horses crowd the road through Hanggu Pass,
+    A traveler's coat worn threadbare by wind and dust.
+    My carriage wheels have traced half the realm,
+    Yet my heart drifts eastward with the flowing water.
+
+    Among ten thousand cares, I call only for wine,
+    And sit alone upon a terrace high among the mountains.
+    But in azure clouds dwell those who know me,
+    So why should I surrender to endless sighs?
+  footnotes:
+  - key: ''
+    value: Hanggu Pass (函谷關) was a famous strategic pass on the ancient Silk Road leading into Chang'an, symbolizing both the hardships of travel and the grandeur of the imperial capital.
+  - key: ''
+    value: The reference to a coat worn by wind and dust evokes the Daoist sage Zhuangzi's wandering philosophy, suggesting the speaker's own restless spiritual journey.

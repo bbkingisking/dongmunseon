@@ -1,0 +1,47 @@
+canonical:
+  title: 送天台洪若海照磨
+  author: 元松壽
+  language: lzh
+  text: 客子起鄕思蕭蕭霜葉飛歡迎纔結襪惜別已霑衣祖席依寒樹歸舟帶夕暉遠遊雖不惡魂夢繞庭闈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送天台洪若海照磨
+  author: 元松壽
+  language: lzh
+  text: 客子起鄕思。蕭蕭霜葉飛。歡迎纔結襪。惜別已霑衣。祖席依寒樹。歸舟帶夕暉。遠遊雖不惡。魂夢繞庭闈。
+korean:
+  title: 송 천태 홍약해 조마
+  author: 원송수
+  language: kor
+  text: |-
+    나그네 향수를 일으키니
+    우수수 서리잎이 날리네
+    즐겨 맞아 겨우 결말했는데
+    이별을 아끼는 눈물이 벌써 옷을 적시네
+    전별하는 자리는 찬 나무에 의지했고
+    돌아가는 배는 저녁 노을을 띄었네
+    멀리 노니는 것 비록 나쁘지는 않으나
+    꿈은 늘 정위에 둘리었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 결말(結襪) : '
+    value: 한(漢)나라 장석지(張釋之)가 정위(廷尉)가 되었을 때에, 왕생(王生)이란 노인이 조회(朝會) 때에 장석지를 만나서 자기의 버선이 풀어졌다고 장석지에게 매어 주기를 청하니, 장석지는 꿇어앉아서 매어 주었다. 다른 사람이 왕생을 보고, “왜 장정위(張廷尉)를 모욕하는가.” 하니, 왕생이 답하기를, “장정위는 천하에 이름이 난 분인데, 내가 달리 도와 줄 것은 없고, 나의 버선을 매게 하여 그를 더욱 중하게 만들었노라.” 하였다. 《한서》
+english:
+  title: Farewell to Hong Yakhae, Magistrate of Tiantai
+  author: Won Song-su
+  language: eng
+  text: |-
+    A wanderer stirs with homesickness—
+    whisper of frost-touched leaves falls through the air.
+    We've barely finished greeting with joy,
+    yet tears of parting already soak my sleeves.
+    At the farewell feast we lean against bare trees,
+    while your returning boat catches the evening glow.
+    Though distant travels hold no true fault,
+    my dreams forever circle home.
+  footnotes:
+  - key: ''
+    value: '結襪 (binding socks): An allusion to Zhang Shizhi of the Han dynasty, a renowned magistrate who humbly knelt to tie an old man''s loosened sock straps at court. This act of service elevated the elder in the eyes of others, symbolizing how even small courtesies can enhance one''s dignity and honor.'
+  - key: ''
+    value: '庭闈 (home/family): Literally ''the hall and gate,'' a classical term for one''s household and the comfort of family life.'

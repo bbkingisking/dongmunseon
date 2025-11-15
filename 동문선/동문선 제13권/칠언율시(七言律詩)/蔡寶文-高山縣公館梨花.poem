@@ -1,0 +1,48 @@
+canonical:
+  title: 高山縣公館梨花
+  author: 蔡寶文
+  language: lzh
+  text: 三月芳菲看欲暮墻東梨樹始開花人言冷艶淸無味我愛芳心靜不奢滿院香風動簾額壓枝殘雪拂䆫紗世間紅紫非吾偶對此誰嫌白髮多
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 高山縣公館梨花
+  author: 蔡寶文
+  language: lzh
+  text: 三月芳菲看欲暮。墻東梨樹始開花。人言冷艶淸無味。我愛芳心靜不奢。滿院香風動簾額。壓枝殘雪拂䆫紗。世間紅紫非吾偶。對此誰嫌白髮多。
+korean:
+  title: 고산현 공관의 배꽃
+  author: 채보문
+  language: kor
+  text: |-
+    3월의 온갖 꽃이 다 지려 하는데
+    담 옆의 배나무는 비로소 꽃을 여네
+    싸늘한 것이 싱겁다고 사람들은 말하지만
+    꽃다운 마음 소탈함을 나는 못내 사랑하네
+    원에 가득 향긋한 바람은 발을 스쳐 오고
+    가지를 누른 흰 눈은 사창에 흩날리네
+    세상의 분홍 자주는 내 짝이 아니로세
+    네 앞엔 내 흰머리도 과히 숭없지 않아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Pear Blossoms at the Magistrate's Residence in Gosan County
+  author: Chae Bo-mun
+  language: eng
+  text: |-
+    In March when all flowers fade to their twilight,
+    The pear tree by the wall at last unfolds its bloom.
+    Though men call such coldness insipid and plain,
+    I cherish this flower's unstudied, modest heart.
+
+    The courtyard fills with fragrant wind that brushes the eaves,
+    White snow weighs the branches, scattering across the window gauze.
+    The crimson and violet of this world are not my companions—
+    Before you, even my gray hair seems not so unseemly.
+  footnotes:
+  - key: ''
+    value: Gosan County (高山縣) is in present-day North Korea; the poem was written during the author's posting there
+  - key: ''
+    value: The pear blossom, blooming late and in white, serves as a metaphor for moral integrity and quiet virtue
+  - key: ''
+    value: The final couplet contrasts the speaker's gray hair with the white pear blossoms, suggesting that age and simplicity share a common dignity

@@ -1,0 +1,76 @@
+canonical:
+  title: 慶會樓歌
+  author: 李婷
+  language: lzh
+  text: 高樓百尺橫天中飛甍複道連穹崇雕欄繡桷雲霧重金楹玉柱光朦朧樓前矯首四望通南山北岳佳氣葱御溝前頭草蒙茸靑林綠樹搖香風千株楊柳烟濛濛百面池水含芙蓉沉浮翔集樂從容時物適矣心和雍重瞳屢御旭日東黼座赭袍生爛紅四門初闢開宸聦群臣舞蹈皆夔龍風雲慶會樂相同千載明良此處逢萬歲三呼祝華嵩拜獻壽酒黃金濃天地日月同無窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 慶會樓歌
+  author: 李婷
+  language: lzh
+  text: 高樓百尺橫天中。飛甍複道連穹崇。雕欄繡桷雲霧重。金楹玉柱光朦朧。樓前矯首四望通。南山北岳佳氣葱。御溝前頭草蒙茸。靑林綠樹搖香風。千株楊柳烟濛濛。百面池水含芙蓉。沉浮翔集樂從容。時物適矣心和雍。重瞳屢御旭日東。黼座赭袍生爛紅。四門初闢開宸聦。群臣舞蹈皆夔龍。風雲慶會樂相同。千載明良此處逢。萬歲三呼祝華嵩。拜獻壽酒黃金濃。天地日月同無窮。
+korean:
+  title: 경회루가
+  author: 이정
+  language: kor
+  text: |-
+    백 자나 되는 높은 다락이 중천에 비껴
+    나는 듯한 기와와 복도가 하늘에 맞닿았네
+    아로새긴 난간, 수놓은 서까래에 운무가 겹쳐 있고
+    금설주, 옥기둥에 빛깔이 으리으리
+    다락 앞에 머리 드니 사면이 탁 틔어
+    남산ㆍ북악에 가기가 서리었네
+    어구 앞에는 풀이 더북더북
+    푸른 숲, 푸른 나무가 향풍에 흔들리네
+    천 그루 버들엔 연기가 자욱하고
+    백 군데 연못에는 연꽃이 깔렸는데
+    물고기랑 물새들이 조용히 즐겨 노니
+    때와 물건 서로 맞아 마음도 화락해라
+    아침 해 올라올 때 상감께서 나옵시니
+    어좌의 곤룡포가 찬란하게 붉을씨고
+    사문이 열리자 정사를 시작하옵시니
+    무도하는 신하들 모두 다 보국의 현신
+    풍운이 경회하여 즐거움이 같으니
+    천재 명량이 이곳에서 만나네
+    만세를 삼호하여 남산수를 비옵고
+    황금보다 더 짙은 수주를 드리면서
+    천지ㆍ일월과 함께 성수무강하옵소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 月山君 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: Song of the Gyeonghoeru Pavilion
+  author: Lee Jeong
+  language: eng
+  text: |-
+    A tower a hundred feet high stretches across the middle of heaven,
+    Flying eaves and winding corridors touch the vault of sky.
+    On carved railings and embroidered rafters, clouds and mist gather thick,
+    Golden pillars and jade columns shimmer in soft, gleaming light.
+    Standing before the tower, raising my head in all directions—
+    South Mountain and North Peak glow with auspicious vapor.
+    Before the royal waterway, grass grows lush and wild.
+    Green forests and verdant trees sway in fragrant breezes.
+    A thousand willows drift in smoky haze,
+    A hundred pools mirror lotuses beneath their surface.
+    Fish and water birds play in leisured joy,
+    Time and nature accord—the heart finds harmony.
+
+    When the morning sun rises from the east, the sovereign appears,
+    The dragon-patterned robe upon the ceremonial seat burns brilliant crimson.
+    The four gates open, and governance begins,
+    Ministers dance—all sage worthies of great virtue.
+    Wind and clouds converge in celebration, joy flows as one,
+    And here in this place, enlightened ruler and worthy ministers meet.
+    Three times we cry "Ten thousand years!" blessing mountain and stream,
+    Offering wine golden and rich, deeper than gold itself,
+    That with heaven and earth, with sun and moon, may all endure without end.
+  footnotes:
+  - key: ''
+    value: Gyeonghoeru (Gyeongbok Palace's main pavilion) was both a place of royal audience and a symbol of harmonious governance in the Joseon court.
+  - key: ''
+    value: The 'dragon-patterned robe' (곤룡포) refers to the official court dress worn by the king, distinctive for its constellation patterns.
+  - key: ''
+    value: The four gates opening represents the formal commencement of state affairs and the accessibility of just governance.

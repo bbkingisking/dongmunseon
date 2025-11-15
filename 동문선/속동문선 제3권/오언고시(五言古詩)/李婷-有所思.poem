@@ -1,0 +1,47 @@
+canonical:
+  title: 有所思
+  author: 李婷
+  language: lzh
+  text: 朝亦有所思暮亦有所思所思在何處千里路無涯風潮望難越雲鴈託無期欲寄音情久中心亂如絲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 有所思
+  author: 李婷
+  language: lzh
+  text: 朝亦有所思。暮亦有所思。所思在何處。千里路無涯。風潮望難越。雲鴈託無期。欲寄音情久。中心亂如絲。
+korean:
+  title: 유소사
+  author: 이정
+  language: kor
+  text: |-
+    아침에도 임 생각
+    저녁에도 임 생각
+    생각하는 임은 어디메 있는고
+    천리라 길은 멀어
+    풍파에 바라만 보고 건너지 못하고
+    편지도 전할 길 없네
+    소식을 전한 지 오래건마는
+    속마음 헝클어진 실과도 같아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 月山君 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: What Occupies My Thoughts
+  author: Lee Jeong
+  language: eng
+  text: |-
+    In the morning, thoughts of you.
+    In the evening, thoughts of you.
+    But where are you, whom I think of?
+    A thousand leagues stretch without end.
+    Wind and waves block my gaze—
+    I cannot cross them.
+    No path to send my message,
+    Though long I have waited for word.
+    My heart tangles like knotted silk,
+    Frayed and endless.
+  footnotes:
+  - key: ''
+    value: The poem employs the classical theme of separation and longing across distance, common in East Asian love poetry. The imagery of wind, waves, and communication barriers represents the insurmountable distance between the lovers.

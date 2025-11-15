@@ -1,0 +1,37 @@
+canonical:
+  title: 洛山寺
+  author: 金富儀
+  language: lzh
+  text: 一自登臨海岸高回頭無復舊塵勞欲知大聖圓通理聽取山根激怒濤
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 洛山寺
+  author: 金富儀
+  language: lzh
+  text: 一自登臨海岸高。回頭無復舊塵勞。欲知大聖圓通理。聽取山根激怒濤。
+korean:
+  title: 낙산사
+  author: 김부의
+  language: kor
+  text: |-
+    한 번 오르니 바다 언덕 드높으다
+    머리 돌리매 다시 묵은 티끌 없고나
+    대성(大聖)의 원통한 이치를 알고자 하거든
+    산근에 부딪치는 노한 파도 소리 듣소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대성(大聖) : '
+    value: 관세음보살(觀世音菩薩)을 가리킨 말인데, 관세음보살은 이근원통(耳根圓通)을 얻었으므로, 세계의 음성을 다 안다고 한다. 양양(襄陽)의 낙산사(洛山寺)는 관세음보살이 나타났던 곳이다.
+english:
+  title: Naksan Temple
+  author: Kim Bu-ui
+  language: eng
+  text: |-
+    Once I climb to this high sea-cliff,
+    Turning back, the old dust of the world dissolves.
+    Would you know the Great Sage's perfect penetration?
+    Listen to the angry waves crashing at the mountain's root.
+  footnotes:
+  - key: ''
+    value: The Great Sage refers to Avalokiteshvara (Guanyin), the Bodhisattva of Compassion, who attained enlightenment through the perfection of hearing. According to Buddhist teaching, this Bodhisattva hears all the sounds of the world. Naksan Temple in Yangyang is traditionally believed to be where Avalokiteshvara appeared.

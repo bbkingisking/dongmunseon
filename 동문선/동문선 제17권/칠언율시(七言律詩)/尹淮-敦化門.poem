@@ -1,0 +1,49 @@
+canonical:
+  title: 敦化門
+  author: 尹淮
+  language: lzh
+  text: 閶闔鍾鳴夜向晨宵衣元不待鷄人千門金鏁須臾闢五彩雲旗次第陳日表溫溫臨寶座朝儀濟濟拱楓宸勒功將相懷忠藎爭進謀猷補聖神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 敦化門
+  author: 尹淮
+  language: lzh
+  text: 閶闔鍾鳴夜向晨。宵衣元不待鷄人。千門金鏁須臾闢。五彩雲旗次第陳。日表溫溫臨寶座。朝儀濟濟拱楓宸。勒功將相懷忠藎。爭進謀猷補聖神。
+korean:
+  title: 돈화문
+  author: 윤회
+  language: kor
+  text: |-
+    만호 장안에 새벽을 알리는 종
+    닭 울기 전 주상께선 벌써 일어나셨네
+    천문의 금 자물쇠가 잠깐 사이에 열리고
+    오색 구름ㆍ깃발이 차례로 펼쳐지네
+    용안이 다사로이 보좌에 납시고
+    조신들 엄숙히 뜰에서 절하옵네
+    공을 새길 장상들이 모두 충성을 품고
+    다투어 정책내어 임금님을 돕사옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0540&viewSync=OT
+  footnotes: []
+english:
+  title: The Donghwa Gate
+  author: Yun Hoe
+  language: eng
+  text: |-
+    The great bell of ten thousand gates rings through Chang'an, announcing the dawn,
+    Before the rooster cries, the sovereign has already risen from his bed.
+    The golden locks of a thousand doors swing open in an instant,
+    Five-colored clouds and banners unfold in succession.
+    The royal countenance, serene and gracious, takes the throne,
+    Civil officials stand solemn and reverent in the courtyard, bowing.
+    Generals and ministers, engraving their deeds, harbor loyalty in their hearts,
+    Competing to offer counsel and strategy to aid their sage ruler.
+  footnotes:
+  - key: ''
+    value: The Donghwa Gate (敦化門) was the main southern gate of the royal palace in Hanyang (modern Seoul), symbolic of royal authority and governance.
+  - key: ''
+    value: The 'rooster person' (雞人) refers to officials responsible for announcing time; the poem suggests the king rises before their morning announcement.
+  - key: ''
+    value: Five-colored clouds and banners represent the grandeur and auspiciousness of imperial ceremony.
+  - key: ''
+    value: The poem celebrates the virtues of good governance through the image of sunrise court ritual, a common theme in Korean royal court poetry.

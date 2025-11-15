@@ -1,0 +1,48 @@
+canonical:
+  title: 入覲
+  author: 李穡
+  language: lzh
+  text: 大闢明堂曉色寒旌旗高拂玉闌干雲開寶座聞天語春滿霞觴奉聖懽六合一家堯日月三呼萬歲漢衣冠不知身世今安在恐是靑冥控紫鸞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 入覲
+  author: 李穡
+  language: lzh
+  text: 大闢明堂曉色寒。旌旗高拂玉闌干。雲開寶座聞天語。春滿霞觴奉聖懽。六合一家堯日月。三呼萬歲漢衣冠。不知身世今安在。恐是靑冥控紫鸞。
+korean:
+  title: 천수절에 대명전에 입근
+  author: 이색
+  language: kor
+  text: |-
+    활짝 열린 명당에 새벽빛이 싸늘한데
+    옥난간엔 깃발이 높직이 펄렁이네
+    보좌에 구름 열리자 옥음이 들리고
+    유하잔에 봄이 가득 지존께 기쁨 받드옵네
+    온 천하가 모두 한 집 요 임금 일월이요
+    세 번 부르는 만세 소리 한나라 의관이로다
+    아지 못하겠네 이 몸이 지금 어디 있는고
+    아마도 난새를 타고 푸른 하늘 올랐는 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0590&viewSync=OT
+  footnotes: []
+english:
+  title: Audience at the Great Hall
+  author: Lee Saek
+  language: eng
+  text: |-
+    The great hall opens wide, dawn's chill descends,
+    Banners flutter high against the jade balustrade.
+    Clouds part above the sacred throne—I hear celestial voice,
+    Spring floods the cups of rosy mist as we offer joy to the sage.
+
+    All six realms become one household under Yao's sun and moon,
+    Thrice ten thousand voices cry 'Long live!'—the robes of Han renewed.
+    Yet I cannot fathom where this body stands in time,
+    It seems I've mounted the blue phoenix toward the jade expanse.
+  footnotes:
+  - key: ''
+    value: The 'great hall' refers to the Myeongdang (明堂), the traditional ceremonial hall of state, suggesting a royal audience or court ceremony.
+  - key: ''
+    value: References to Yao and Han evoke legendary sage-kings and dynastic continuity, expressing the wish that the current reign embodies the virtues of ancient rulership.
+  - key: ''
+    value: The final image of the blue phoenix and jade expanse suggests the speaker's spirit being lifted into transcendence, perhaps expressing the overwhelming majesty of the occasion or transcendence of mundane consciousness.

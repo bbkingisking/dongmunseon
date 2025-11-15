@@ -1,0 +1,40 @@
+canonical:
+  title: 代人冬至賀狀
+  author: 李詹
+  language: lzh
+  text: 一陽生五陰之下品物咸蘇百福至萬善之中大人有慶履玆令序式副虔誠恭惟德懋忠純功施翼亮爲小東之節度遵召伯之布宣山海一區盡入漸磨之敎風雲千載優承擢叙之恩公新拜選部議郞故兼賀 伏念猥以庸材濫叨殊遇守鷦枝於弊郡未能奮飛攢蠅手於行營祗自陳賀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 代人冬至賀狀
+  author: 李詹
+  language: lzh
+  text: 一陽生五陰之下。品物咸蘇。百福至萬善之中。大人有慶。履玆令序。式副虔誠。恭惟德懋忠純。功施翼亮。爲小東之節度。遵召伯之布宣。山海一區。盡入漸磨之敎。風雲千載。優承擢叙之恩。公新拜選部議郞故兼賀。 伏念猥以庸材。濫叨殊遇。守鷦枝於弊郡。未能奮飛。攢蠅手於行營。祗自陳賀。
+korean:
+  title: 대인 동지 하장
+  author: 이첨
+  language: kor
+  text: 하나의 양(陽)이 다섯 음(陰)의 아래에서 나오니(주역 괘상을 말한 것임) 온갖 물건이 모두 살아나고, 백 가지 복과 만 가지 착한 것이 그 가운데서 이르는 것이며 큰 인물은 경사가 있기 마련이니 이 좋은 철을 당하여 비는 정성에 부응될 줄 믿습니다. 삼가 생각하건대, 덕은 충성에 힘쓰고 공은 보필로써 시행되며, 소동(小東)의 절도사가 되어 소백(昭伯 주 소공(周昭公))의 선포하던 일을 따르시니, 한 구역의 산해(山海)가 모두 교화 속에 스며들었고, 일천 년의 풍운(風雲 좋은 운을 말한 것)을 만나 특별히 발탁의 은혜를 입으셨습니다. 공이 새로 선부의랑(選部議郞)에 제수되었기로 겸하여 축하함. 엎드려 생각하건대, 외람되이 용렬한 재질로써 분에 넘치게 특수한 대우를 입었으나, 폐군(弊郡)에서 초지(鷦枝)를 지키자니 날듯이 가서 뵙지 못하고, 행영(行營)에서 승수(蠅手)를 모으고 다만 스스로 축하를 드리나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 초지(鷦枝) : '
+    value: 《장자(莊子)》 소요유(逍遙遊)에, “초요(鷦鷯 뱁새)가 깊은 숲에 깃들여서도 한 가지밖에 차지하지 못한다.” 하였다.
+  - key: '[주-D002] 승수(蠅手) : '
+    value: 승하(蠅賀)와 같은 말이다. 《운선잡기(雲仙雜記)》에, “술사(術士)가 곽대공(郭代公)의 상을 보면서 파리가 와서 절하고 하례를 드리는 날이면 급제를 할 것이다.” 하더니, 하루는 가정에 앉았노라니, 파리 수만 마리가 여덟 줄로 갈라서서 허리를 굽히기를 세 번이나 하고, 한참 있다 날아갔다.
+english:
+  title: Winter Solstice Congratulatory Memorial on Behalf of a Great Person
+  author: Lee Cham
+  language: eng
+  text: |-
+    When the single Yang emerges beneath the five Yins, all things revive anew. Among the hundred blessings and ten thousand virtues, the great man receives his fortune. Meeting this auspicious season, we believe our prayers shall accord with Heaven's will.
+
+    We respectfully contemplate: his virtue is rooted in loyalty, his merit demonstrated through wise counsel. As administrator of the Eastern Region, he follows the path of those sage rulers of old. One realm of mountains and streams is entirely transformed by his teachings; through a thousand years of favorable winds, he has received the grace of sudden advancement.
+
+    Now that he is newly appointed to the position of Vice-Counselor of the Ministry of Personnel, we join in offering congratulations.
+
+    Yet we humbly reflect: though unworthy in our meager talents, we have undeservedly received such singular favor. Though we remain in our humble province, unable to soar forth with urgency to present ourselves before him, we gather what small tribute we can from our distant post, and venture only to offer these humble congratulations in person.
+  footnotes:
+  - key: ''
+    value: The 'single Yang beneath the five Yins' references the I Ching trigram transformation at the winter solstice, symbolizing renewal and the turning of the cosmic cycle.
+  - key: ''
+    value: The reference to the 'Eastern Region' (小東) and following the ways of 'those sage rulers' alludes to virtuous administration in ancient precedent.

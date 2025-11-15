@@ -1,0 +1,81 @@
+canonical:
+  title: 自註
+  author: 權近
+  language: lzh
+  text: 道人隱城市卜築歧路邊園中有嘉卉屋下生泠泉閉門自怡悅甘受兒童喧隣家問酒沽午榻看雲眠時乘舞雩興赤足凌潺湲回頭嘆人世逝者如奔川遙思騎牛地明月滿海壖浩然賦式微出處斯萬全奚囊拾秋景驢背載芸篇歸哉不可挽曷月余亦還
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自註
+  author: 權近
+  language: lzh
+  text: 道人隱城市。卜築歧路邊。園中有嘉卉。屋下生泠泉。閉門自怡悅。甘受兒童喧。隣家問酒沽。午榻看雲眠。時乘舞雩興。赤足凌潺湲。回頭嘆人世。逝者如奔川。遙思騎牛地。明月滿海壖。浩然賦式微。出處斯萬全。奚囊拾秋景。驢背載芸篇。歸哉不可挽。曷月余亦還。
+korean:
+  title: 차운하여 기우도인을 보내며[次韻送騎牛道人] 자주
+  author: 권근
+  language: kor
+  text: |-
+    도인이 성시에 은거하여
+    갈림길 가에 집을 지었네
+    정원에는 아름다운 화초가 있고
+    집 밑에는 차가운 샘물이 나고
+    문 닫고 앉아 스스로 기뻐하여
+    아이들 떠드는 소리 달게 듣는구나
+    이웃에 물어 술을 사고
+    낮에는 탑에서 구름을 보고 존다
+    때로 무우의 흥을 타서
+    맨발로 졸졸 흐르는 물을 희롱한다
+    머리를 돌이켜 인간 세상을 탄식하니
+    가는 세월은 달리는 내와 같구나
+    멀리 소 타던 땅을 생각하니
+    밝은 달이 바다 언덕에 가득하도다
+    호연히 식미를 읊으니
+    출처가 이에서 만전하네
+    해랑에는 가을 경치를 줍고
+    나귀 등에는 운편을 실었도다
+    돌아가려나, 만류할 수 없구나
+    언제나 나 또한 돌아갈꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 때로 무우(舞雩)의 흥을 타서 : '
+    value: 공자가 여러 제자에게 각기 뜻을 물으니 증점(曾點)이 대답하기를, “모춘(暮春)에 춘복(春服)을 새로 입고 관동(冠童) 몇 사람과 무우(舞雩)에서 바람을 쐬고 기수(沂水)에 목욕하고 읊조리며 돌아오겠습니다.” 하였다. 무우는 그 부근에 있는 경치 좋은 곳이다.
+  - key: '[주-D002] 식미(式微) : '
+    value: 《시경》에 식미편(式微篇)이 있는데, 객지에서 고향에 돌아가기를 원하는 시다.
+  - key: '[주-D003] 해랑(奚囊)에는 가을 경치를 줍고 : '
+    value: 당나라 시인 이장길(李張吉)은 놀러 나갈 때에 반드시 아이종[小奚]에게 주머니를 들고 따르게 하여, 시를 짓는 대로 그 주머니 속에 집어 넣어서, 저녁에 돌아오면 주머니 속에 시가 가득 차 있었다.
+  - key: '[주-D004] 운편(芸篇) : '
+    value: 책을 쌓을 때에 운초(芸草)를 넣어 두면 책에 좀이 먹지 않는다.
+english:
+  title: 'Self-Inscribed: In Response to a Poem on Seeing Off the Taoist Who Rides an Ox'
+  author: Kwon Geun
+  language: eng
+  text: |-
+    A taoist finds refuge in the bustling city,
+    Building his home by a forking path.
+    In the garden, rare flowers bloom,
+    Beneath his roof, a cool spring flows.
+    With doors closed, he delights in solitude,
+    Sweetly enduring the laughter of children.
+    From neighbors he purchases wine,
+    And at noon reclines to watch clouds drift through his dreams.
+
+    Sometimes seized by the spirit of dance and wind,
+    He wades barefoot through the babbling stream.
+    Turning his head to sigh at the world of men,
+    He sees the fleeting years rush past like a river.
+    Thinking distantly of that place where oxen graze,
+    The bright moon fills the shores of the sea.
+
+    With solemn dignity he recites "The Fading Day"—
+    Thus his withdrawal and return achieve perfection.
+    In his satchel he gathers the autumn's moods,
+    Upon his donkey's back, books steeped in rue.
+    To return—none can hold him back,
+    Yet when will I too turn homeward?
+  footnotes:
+  - key: ''
+    value: '"The spirit of dance and wind" alludes to a famous passage where Confucius''s disciple Zeng Dian describes his ideal: to don spring clothes anew and enjoy the breeze at a scenic spot, bathe in a clear stream, and return home singing.'
+  - key: ''
+    value: '"The Fading Day" (式微) is a poem from the Classic of Poetry expressing the longing of an exile to return home.'
+  - key: ''
+    value: The imagery of the satchel collecting autumn moods echoes the practice of Tang poets who would gather impressions and verses during their travels.

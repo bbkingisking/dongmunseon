@@ -1,0 +1,51 @@
+canonical:
+  title: 寄吳德全
+  author: 李奎報
+  language: lzh
+  text: 海山東去路悠悠一落天涯故倦遊黃稻日肥鷄喜碧梧秋老鳳凰愁煙波不返遊吳掉雪月期浮訪剡舟聖代未應終見棄莫辭垂白釣淸流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄吳德全
+  author: 李奎報
+  language: lzh
+  text: |-
+    海山東去路悠悠。一落天涯故倦遊。黃稻日肥鷄
+    喜。碧梧秋老鳳凰愁。煙波不返遊吳掉。雪月期浮訪剡舟。聖代未應終見棄。莫辭垂白釣淸流。
+korean:
+  title: 기 오덕전
+  author: 이규보
+  language: kor
+  text: |-
+    동녘의 바닷길 산길 갈 길은 멀고 먼데
+    하늘가에 한 번 가더니 지치도록 노는구나
+    누른 벼는 날로 살찌니 닭이랑 오리랑은 기뻐하리만
+    푸른 오동은 가을에 늙어지니 봉황새 시름하네
+    뽀얀 물결에 오에 노는 돛대 안 돌아오니
+    눈 오는 밤 섬을 찾는 배를 띄워야 하리
+    성대의 지금에 어이 끝내 버려질 건가
+    흰 머리일망정 잠시 동안 맑은 강에 낚시질 사양 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to O Deok-jeon
+  author: Lee Gyeong-bo
+  language: eng
+  text: |-
+    The eastern sea and mountain roads stretch long and endless—
+    Once fallen to the world's edge, you tire of wandering.
+    The golden rice grows fat day by day, the ducks and chickens rejoice,
+    Yet the blue parasol tree withers in autumn, and the phoenix grieves.
+    On the white-capped waves, the boat that wanders Wu does not return;
+    On snowy nights, I must sail toward the islands you seek.
+    Will this enlightened age truly cast you aside forever?
+    Do not refuse, even with white hair, to fish a moment in these clear streams.
+  footnotes:
+  - key: ''
+    value: Wu (吳) refers to the ancient region in what is now Jiangsu Province, used here as a poetic allusion to the recipient's travels or place of residence.
+  - key: ''
+    value: The phoenix (鳳凰) traditionally symbolizes auspiciousness and virtue in East Asian poetry; its sorrow here reflects the speaker's concern for his friend.
+  - key: ''
+    value: The blue parasol tree (青梧) is an image of declining beauty and vitality, contrasting with the flourishing rice harvest.
+  - key: ''
+    value: The 'clear streams' in the final line evoke both literal fishing and the classical ideal of virtuous retirement, suggesting hope that the recipient may yet be valued and given opportunity.

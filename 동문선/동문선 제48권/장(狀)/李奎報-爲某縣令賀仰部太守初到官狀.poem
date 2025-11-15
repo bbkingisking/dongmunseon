@@ -1,0 +1,49 @@
+canonical:
+  title: 爲某縣令賀仰部太守初到官狀
+  author: 李奎報
+  language: lzh
+  text: 紫闥分憂黃堂宣化仁風所扇物意同春恭惟某官生自相門備更朝綴金蟬珥首行襲世家之榮銀兎佩腰暫臨方伯之寄某等備員下邑寄命上官倚若太山之高佇蒙時雨之化
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 爲某縣令賀仰部太守初到官狀
+  author: 李奎報
+  language: lzh
+  text: 紫闥分憂。黃堂宣化。仁風所扇。物意同春。恭惟某官。生自相門。備更朝綴。金蟬珥首。行襲世家之榮。銀兎佩腰。暫臨方伯之寄。某等備員下邑。寄命上官。倚若太山之高。佇蒙時雨之化。
+korean:
+  title: 위 모현령 하 앙부태수 초도관 장
+  author: 이규보
+  language: kor
+  text: 자달(紫闥 대궐)에서 근심을 나누어 맡고, 황당(黃堂 태수의 청사)에서 덕화를 선양하시니, 어진 바람이 불어오는 곳에 만물들이 봄빛을 함께 받습니다. 삼가 생각하건대, 모관(某官)은 정승 집안에 태어나서, 조정의 반열에 참여하였으니, 금초(金貂)를 머리에 꽂음에 응당 세가(世家)의 영화를 계승하실 것이며, 은토(銀兎 토인(兎印))를 허리에 차니 잠깐 방백(方伯)의 관직을 맡았습니다. 모(某) 등은 하읍(下邑)의 수를 채운 관원으로 상관에게 목숨을 기탁하오니, 높은 태산에 기댄 것과 같으므로 장차 단비 같은 덕화를 입으리이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: In Congratulation to a Magistrate Upon the Arrival of the Regional Inspector at His Post
+  author: Lee Gyu-bo
+  language: eng
+  text: |-
+    The purple gates share in the empire's cares,
+    The yellow hall spreads virtue's gentle airs.
+    Where benevolent winds blow their spring refrain,
+    All creatures thrive beneath their blessing's reign.
+
+    Consider now this worthy magistrate—
+    Born of the counselor's distinguished state,
+    Advanced through courts where talent finds its place.
+    The golden cicada crowns his honored face,
+    Inheriting the splendor of his line.
+    The silver rabbit seal upon his side
+    Marks his brief charge as regional guide.
+
+    We minor officials, filling posts below,
+    Commit our fates to those of rank we know—
+    As steady as great mountains, tall and sure,
+    We await the timely rains of grace to pour,
+    That generosity and virtue pour.
+  footnotes:
+  - key: ''
+    value: The 'purple gates' (紫闥) refer to the imperial palace; 'yellow hall' (黃堂) is the administrative hall of the provincial governor.
+  - key: ''
+    value: The 'golden cicada' (金蟬) and 'silver rabbit seal' (銀兎) are symbols of official rank and authority in the imperial bureaucracy.
+  - key: ''
+    value: This is a formal congratulatory document (狀) addressed to a newly arrived regional administrator, written in the elevated, ceremonial style characteristic of official correspondence.

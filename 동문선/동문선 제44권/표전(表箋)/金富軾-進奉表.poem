@@ -1,0 +1,38 @@
+canonical:
+  title: 進奉表
+  author: 金富軾
+  language: lzh
+  text: 大人乘統震耀四方異國入朝梯航萬里况接境之伊邇諒馳誠之克勤中謝 伏惟皇帝陛下天縱英明日新德業渙號一發群黎無不悅隨威聲所加隣敵莫能枝梧實帝王之高致宜天地之冥扶臣瘠土小邦眇躬涼德聞非常之功烈久已極於傾虔惟不腆之包苴可以伸其忠信雖媿蘋蘩之薦切期山藪之藏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 進奉表
+  author: 金富軾
+  language: lzh
+  text: 大人乘統。震耀四方。異國入朝。梯航萬里。况接境之伊邇。諒馳誠之克勤。中謝。 伏惟皇帝陛下。天縱英明。日新德業。渙號一發。群黎無不悅隨。威聲所加。隣敵莫能枝梧。實帝王之高致。宜天地之冥扶。臣瘠土小邦。眇躬涼德。聞非常之功烈。久已極於傾虔。惟不腆之包苴。可以伸其忠信。雖媿蘋蘩之薦。切期山藪之藏。
+korean:
+  title: 진봉표
+  author: 김부식
+  language: kor
+  text: |-
+    대인(大人)이 계통을 받아 사방에 광명을 떨치니 다른 나라가 조회하기 위하여 산 넘고 물 건너 만리를 달리는데, 하물며 국경마저 가까우니 진실로 정성을 부지런히 달리옵니다. 중사(中謝)
+    엎드려 생각하옵건대, 황제 폐하께서는 하늘이 내신 영명(英明)으로 나날이 덕업을 새롭게 하니, 명령을 한 번 내리시매 만 백성이 즐겨 따르지 않는 자 없고 위력을 가하는 곳에는 이웃 적이 능히 견디지 못하니, 실로 제왕의 극치이오라 마땅히 천지가 보호할 것입니다.신은 척박한 땅 작은 나라의 위인으로 못나고 덕은 부족하오매, 비상한 공렬(功烈)을 듣자옵고 오래 전부터 이미 극진히 정성을 기울였사오며, 오직 변변하지 못한 물건이나마 그 충신(忠信)을 표하는 것이오니, 비록 빈번(蘋蘩)의 진상이 부끄럽사오나, 산수(山藪)를 감춰 주심을 원하옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 산수(山藪) : '
+    value: 산이 깊고 숲이 빽빽한 곳. 《좌전》선공(宣公) 15년에, “산수(山藪)는 궂은 것을 감추어 준다[山藪藏疾].” 하였다.
+english:
+  title: Memorial Presenting Tribute
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The Great Ruler holds the mandate of heaven, his radiance illuminates the four directions. Foreign lands journey to the court, crossing mountains and rivers for ten thousand li. How much more eagerly do we, whose borders lie so near, hasten to pour forth our sincerity.
+
+    Middle Thanksgiving
+
+    I humbly reflect that Your Majesty, blessed with heaven-sent brilliance, daily renews the work of virtue. When but one command is issued, millions of people gladly follow, and wherever imperial might extends, neighboring adversaries cannot stand firm. Truly this is the supreme achievement of emperors, and surely heaven and earth lend their protection.
+
+    Your servant, from a barren land and small kingdom, is insignificant in person and lacking in virtue. Having heard of these extraordinary accomplishments, I have long burned with utmost devotion. Though my humble offerings cannot compare to the finest tributes, I present them to express my loyalty and faith. Though ashamed that my gifts are meager as duckweed and fragrant plants, I earnestly hope that the deep mountains and forests of your grace may conceal my shortcomings.
+  footnotes:
+  - key: ''
+    value: '山藪 (mountains and forests): A classical allusion meaning that just as deep mountains and dense forests naturally conceal flaws, the emperor''s benevolence conceals the humble offering''s inadequacy.'

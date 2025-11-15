@@ -1,0 +1,47 @@
+canonical:
+  title: 扶安次李相國奎報韻
+  author: 徐居正
+  language: lzh
+  text: 十載東西信轉蓬登樓聊喜使君同雨聲長在芭蕉葉春色深留芍藥叢身世已拚柸酒裏光陰空費路歧中醉餘猶記江南夢萬柄荷花十里紅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 扶安次李相國奎報韻
+  author: 徐居正
+  language: lzh
+  text: 十載東西信轉蓬。登樓聊喜使君同。雨聲長在芭蕉葉。春色深留芍藥叢。身世已拚柸酒裏。光陰空費路歧中。醉餘猶記江南夢。萬柄荷花十里紅。
+korean:
+  title: 부안 차 이상국 규보운
+  author: 서거정
+  language: kor
+  text: |-
+    10년 동안 동서에서 소식 더욱 잦거니
+    다락에 올라 애오라지 그대와 같이함을 기뻐한다
+    빗소리는 오랫동안 파초 잎에 있는데
+    봄빛은 깊이 작약 떨기에 머물러 있네
+    신세는 이미 잔 술 속에 버리었고
+    광음은 헛되이 갈림길 가운데서 허비하였도다
+    취한 뒤에 아직도 강남 꿈을 기억하나니
+    만 자루의 연꽃이 10리에 붉었구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0080&viewSync=OT
+  footnotes: []
+english:
+  title: Responding to Minister Lee's Rhyme at Bu-an
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Ten years our letters crossed through east and west,
+    and now atop this tower, I rejoice to stand with you.
+    Rain voices linger long upon the banana leaves,
+    while spring's hue settles deep within the peony grove.
+    My life already surrendered in wine-cups,
+    my years spent idle at the crossroads of wandering.
+    Yet drunk, I still recall that southern dream—
+    a thousand lotus blooms burning crimson for ten leagues.
+  footnotes:
+  - key: ''
+    value: Minister Lee (李相國) likely refers to Lee served in a high ministerial position at court, a contemporary or acquaintance of the poet.
+  - key: ''
+    value: The 'southern dream' evokes memories of travel or longing for distant places, a common motif in classical Chinese and Korean poetry.
+  - key: ''
+    value: The final image of lotus flowers spanning ten leagues suggests a landscape of overwhelming beauty, emphasizing both the richness of memory and the transience of experience.

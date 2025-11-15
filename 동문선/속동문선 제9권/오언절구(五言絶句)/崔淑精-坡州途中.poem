@@ -1,0 +1,37 @@
+canonical:
+  title: 坡州途中
+  author: 崔淑精
+  language: lzh
+  text: 古國春方好是子西去時東歸春亦老添我鬢邊絲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 坡州途中
+  author: 崔淑精
+  language: lzh
+  text: 古國春方好。是子西去時。東歸春亦老。添我鬢邊絲。
+korean:
+  title: 파주 도중
+  author: 최숙정
+  language: kor
+  text: |-
+    고국의 봄이 한창 좋은데
+    이것은 내가 서쪽으로 떠날 때였다
+    동쪽으로 돌아오면 봄도 또한 늙어서
+    내 살쩍 흰 털을 보태리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road to Paju
+  author: Choe Suk-jung
+  language: eng
+  text: |-
+    The springtime of my homeland is at its finest,
+    Yet this is when I must depart to the west.
+    When I return eastward, spring too will have aged,
+    And added silver threads to my temples.
+  footnotes:
+  - key: ''
+    value: Paju (파주) is a region north of Seoul, historically significant in Korean geography and literature. The poem uses the journey to Paju as a meditation on time's passage.
+  - key: ''
+    value: The poem employs the conceit of spring's aging as a mirror for the speaker's own aging during their travels, a common motif in East Asian poetry about journeys and separation.

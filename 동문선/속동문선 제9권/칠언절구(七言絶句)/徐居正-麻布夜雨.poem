@@ -1,0 +1,39 @@
+canonical:
+  title: 麻布夜雨
+  author: 徐居正
+  language: lzh
+  text: 百年身世政悠悠夜雨江湖惹起愁袖裏歸田曾有賦已拚終老白鷗洲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 麻布夜雨
+  author: 徐居正
+  language: lzh
+  text: 百年身世政悠悠。夜雨江湖惹起愁。袖裏歸田曾有賦。已拚終老白鷗洲。
+korean:
+  title: 마포 야우
+  author: 서거정
+  language: kor
+  text: |-
+    백년의 신세가 진정 유유하거니
+    강호의 밤비 소리가 근심을 끌어 일으킨다
+    소매 속에는 귀전한다는 부가 전부터 있어
+    이미 흰 갈매기 물가에서 늙을 것 정했노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Night Rain at Mapo
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    A hundred years of life drift on, endless and serene.
+    Night rain on river and lake stirs up my melancholy.
+    Within my sleeve, I carry an old poem of returning to fields—
+    I have already resolved to grow old among the white gulls.
+  footnotes:
+  - key: ''
+    value: Mapo (麻布) is a region near Seoul historically associated with solitude and contemplation
+  - key: ''
+    value: The 'white gulls' reference evokes the classical Chinese ideal of the recluse who dwells by water, removed from worldly affairs
+  - key: ''
+    value: The 'poem of returning to fields' alludes to the literati tradition of retreat from official life to rural seclusion

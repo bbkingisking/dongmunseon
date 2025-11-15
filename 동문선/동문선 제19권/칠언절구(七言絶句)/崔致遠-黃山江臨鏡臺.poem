@@ -1,0 +1,37 @@
+canonical:
+  title: 黃山江臨鏡臺
+  author: 崔致遠
+  language: lzh
+  text: 煙巒簇簇水溶溶鏡裏人家對碧峯何處孤帆飽風去瞥然飛鳥杳無蹤
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 黃山江臨鏡臺
+  author: 崔致遠
+  language: lzh
+  text: 煙巒簇簇水溶溶。鏡裏人家對碧峯。何處孤帆飽風去。瞥然飛鳥杳無蹤。
+korean:
+  title: 황산강 임경대
+  author: 최치원
+  language: kor
+  text: |-
+    내 낀 봉우리 우뚝우뚝, 물은 출렁출렁
+    거울 속 인가는 푸른 봉우리를 마주했네
+    외로운 돛은 바람을 싣고 어디로 가는고
+    별안간에 새의 자취 아득도 하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0090&viewSync=OT
+  footnotes: []
+english:
+  title: At Mirror Terrace by the Hwangsan River
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Misty peaks rise layer upon layer, waters flow in ripples.
+    In the mirror's reflection, a cottage faces the emerald cliffs.
+    Where does the lonely sail drift, bearing wind to distant shores?
+    In an instant a bird's trace vanishes into the vast unknown.
+  footnotes:
+  - key: ''
+    value: Mirror Terrace (鏡臺) likely refers to a scenic overlook where the water's surface reflects the surrounding peaks, creating a natural mirror-like effect.
+  - key: ''
+    value: The poem employs the traditional imagery of reflection and impermanence to suggest the transient nature of human presence within the eternal landscape.

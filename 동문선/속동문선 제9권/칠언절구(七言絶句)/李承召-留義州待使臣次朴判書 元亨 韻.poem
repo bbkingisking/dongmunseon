@@ -1,0 +1,41 @@
+canonical:
+  title: 留義州待使臣次朴判書 元亨 韻
+  author: 李承召
+  language: lzh
+  text: 旅舘偏驚變物華風吹柳幕翠欹斜山城地僻餘寒在五月初看芍藥花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 留義州待使臣次朴判書 元亨 韻
+  author: 李承召
+  language: lzh
+  text: 旅舘偏驚變物華。風吹柳幕翠欹斜。山城地僻餘寒在。五月初看芍藥花。
+korean:
+  title: 유 의주 대 사신 차 박판서 원형 운
+  author: 이승소
+  language: kor
+  text: |-
+    여관에서 물화의 변하는 것에 몹시 놀라나니
+    바람이 유막을 불어 푸른 빛이 아름답게 비낀다
+    산성은 땅이 궁벽해 남은 추위가 있어
+    오월에야 처음으로 작약꽃을 본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 享 : '
+    value: 亨
+english:
+  title: Written While Awaiting a Messenger to Uiju, Rhyming with Park the Minister of Judgement, Won-heng
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    In this traveler's lodge I marvel at how quickly the world transforms.
+    The wind sweeps through the willow screens, their emerald grace bent and askew.
+    The mountain fortress lies remote—even in May, winter's chill remains.
+    Only now, in the fifth month, do the peonies bloom at last.
+  footnotes:
+  - key: ''
+    value: Uiju (義州) is a historical region in present-day North Korea, an important diplomatic meeting point during the Joseon period
+  - key: ''
+    value: Park the Minister of Judgement (朴判書 元亨) was likely the recipient or occasion for this poem
+  - key: ''
+    value: Peonies (芍藥) blooming in May suggests a northern location where spring arrives late

@@ -1,0 +1,47 @@
+canonical:
+  title: 宿靑石嶺早行途中
+  author: 洪貴達
+  language: lzh
+  text: 暮登靑石欲途窮露宿寒山萬木中行雨曉收溪瀉碧淸霜夜下葉飛紅雲深雙嶺迷歸馬樹密連山阻落鴻三宿便應過八站鴨江澄酒漾秋空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿靑石嶺早行途中
+  author: 洪貴達
+  language: lzh
+  text: 暮登靑石欲途窮。露宿寒山萬木中。行雨曉收溪瀉碧。淸霜夜下葉飛紅。雲深雙嶺迷歸馬。樹密連山阻落鴻。三宿便應過八站。鴨江澄酒漾秋空。
+korean:
+  title: 숙 청석령 조행 도중
+  author: 홍귀달
+  language: kor
+  text: |-
+    저물어 청석령에 오르매 길이 다하려 하여
+    한산의 우거진 숲속 한데서 잤다
+    지나가는 비가 새벽에 멎으매 시내는 푸른 물을 쏟고
+    맑은 서리가 밤에 내려 잎은 붉은 빛을 날린다
+    쌍령에 구름이 깊어 돌아가는 말을 헤매게 하고
+    연산에 나무가 빽빽하여 떨어지는 기러기를 막는다
+    세 밤만 자면 여덟 마을을 지내 가리니
+    압록강의 맑은 술에 가을 하늘이 출렁이리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1030&viewSync=OT
+  footnotes: []
+english:
+  title: Lodging at Cheongseok Ridge and Setting Out Early
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    Climbing into Cheongseok Ridge as dusk descends, the road ahead begins to fade.
+    I sleep in the dense forest of the cold mountain.
+    The passing rain clears at dawn, the stream pours forth in jade-green torrents.
+    Clear frost descends in the night, and crimson light scatters from the leaves.
+    Deep clouds veil the twin ridges, bewildering the returning horses.
+    Thick trees crowd the distant mountains, blocking the falling geese.
+    Three nights of sleep and I shall pass eight villages—
+    In the translucent waters of the Yalu River, autumn sky ripples and dances.
+  footnotes:
+  - key: ''
+    value: The Yalu River (압록강) marks the border between Korea and China; its mention suggests the speaker's journey extends to the frontier.
+  - key: ''
+    value: The 'eight stations' (여덟 마을) refers to waypoints or post stations along the travel route, a common feature of journey narratives in classical Korean poetry.
+  - key: ''
+    value: The twin ridges (쌍령) likely refers to a specific mountain pass known to the poet's contemporary readers.

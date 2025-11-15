@@ -1,0 +1,44 @@
+canonical:
+  title: 送秋
+  author: 金益精
+  language: lzh
+  text: 西風吹欲盡白日向何歸砌下蛩音斷天涯鴈影稀山應臨別瘦葉爲送行飛來往光陰變衰翁也獨悲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送秋
+  author: 金益精
+  language: lzh
+  text: 西風吹欲盡。白日向何歸。砌下蛩音斷。天涯鴈影稀。山應臨別瘦。葉爲送行飛。來往光陰變。衰翁也獨悲。
+korean:
+  title: 송추
+  author: 김익정
+  language: kor
+  text: |-
+    서풍이 불어 다하려 하는데
+    흰 날 어디를 향해 돌아가는고
+    뜰 밑에는 벌레소리 끊이고
+    하늘 가에는 기러기 그림자가 드물다
+    산은 응당 가을을 이별하기에 파리하고
+    잎은 가을을 보내노라고 나르네
+    오가는 광음이 변하니
+    쇠한 늙은 이 홀로 슬퍼하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1020&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off Autumn
+  author: Kim Ik-jeong
+  language: eng
+  text: |-
+    The western wind blows toward its end,
+    The white day turns—but where does it go?
+    Beneath the terrace, the crickets' song falls silent,
+    At heaven's edge, wild geese grow sparse.
+
+    The mountains, parting from autumn, grow lean,
+    The falling leaves escort the season away.
+    As time flows on and transforms all things,
+    This withered old man grieves here, alone.
+  footnotes:
+  - key: ''
+    value: The poem uses autumn's departure as a meditation on aging and the passage of time, common themes in East Asian poetry

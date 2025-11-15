@@ -1,0 +1,43 @@
+canonical:
+  title: 內殿春帖子
+  author: 金富軾
+  language: lzh
+  text: 雪垠猶在三雲陛日脚初昇五鳳樓寶曆授時周太史玉巵稱壽漢諸侯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 內殿春帖子
+  author: 金富軾
+  language: lzh
+  text: 雪垠猶在三雲陛。日脚初昇五鳳樓。寶曆授時周太史。玉巵稱壽漢諸侯。
+korean:
+  title: 내전 춘첩자
+  author: 김부식
+  language: kor
+  text: |-
+    눈덩이는 아직도 세 운폐에 남았는데
+    햇발은 처음 오봉루에 올랐네
+    보배 역서는 때를 알리는 주나라 태사(太史)를
+    옥잔에 수를 비는 한나라 제후로써
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주나라 태사(太史) : '
+    value: 천문(天文)을 맡은 태사관(太史官)이 역서(曆書)를 만들어 올려서 백성에게 시절을 알리게 한다.
+english:
+  title: Spring Placard for the Inner Palace
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Snow still clings to the triple cloud-steps,
+    While sunlight first climbs the Five Phoenix Tower.
+    The precious calendar—like the Zhou Grand Historian
+    Who measured the heavens—marks the seasons,
+    And jade cups raise toasts like Han princes of old,
+    Wishing long years upon the throne.
+  footnotes:
+  - key: ''
+    value: The Zhou Grand Historian (太史) refers to the astronomical official who created the calendar and proclaimed the seasons to the people—here representing the role of measuring and marking time itself.
+  - key: ''
+    value: The Five Phoenix Tower (五鳳樓) is an architectural reference to imperial buildings.
+  - key: ''
+    value: This placard appears to celebrate the imperial calendar and seasonal renewal, with references to exemplary figures from Chinese antiquity.

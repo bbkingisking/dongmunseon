@@ -1,0 +1,47 @@
+canonical:
+  title: 寄廣州牧使南巽亭兢
+  author: 郭㻒
+  language: lzh
+  text: 黃花如有期今日正滿蘺采采不盈掬高歌空折枝悠然起遐瞻美人江之涯相勉惜歲晚秉燭毋遅遅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄廣州牧使南巽亭兢
+  author: 郭㻒
+  language: lzh
+  text: 黃花如有期。今日正滿蘺。采采不盈掬。高歌空折枝。悠然起遐瞻。美人江之涯。相勉惜歲晚。秉燭毋遅遅。
+korean:
+  title: 광주 목사 손정 남긍에게 붙여
+  author: 곽균
+  language: kor
+  text: |-
+    국화 마치 기약이 있는 것처럼
+    오늘 울타리 밑에 가득 피었네
+    따고 따도 움큼에 차지 않나니
+    높이 노래하며 헛되이 가지를 꺾네
+    유연히 멀리 바라보노니
+    아름다운 그 사람 강가에 있어라
+    서로 권하되 늦 평생 아껴서
+    촛불 잡고 때 놓치지 말자
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 늦 평생 …… 촛불 잡고 : '
+    value: 춘추 때 사광(師矌)의 말에, “소시(小時)에 공부하는 것은 뜨는 해의 밝음과 같고, 늙어서 공부하는 것은 밤에 촛불을 켜는 밝음과 같다.” 하였다.
+english:
+  title: To the Governor of Guangzhou, Sun Jeong, and Others at Namgeung Pavilion
+  author: Gwak Gyun
+  language: eng
+  text: |-
+    The chrysanthemums bloom as though by promise—
+    Today they fill the hedge completely.
+    I gather and gather, yet they do not fill my palm,
+    And singing high, I break the branches all in vain.
+    In leisured reverie I gaze toward the distance—
+    There on the river's edge dwells that lovely soul.
+    Let us encourage one another to treasure the waning years,
+    To hold the torch and not delay the hour.
+  footnotes:
+  - key: ''
+    value: 'The closing image of holding the torch alludes to a saying from the Spring and Autumn period: ''Studying in youth is like the brightness of the rising sun; studying in old age is like the brightness of holding a candle at night.'' The poet urges his companions to make the most of their remaining time through learning and virtue.'
+  - key: ''
+    value: The chrysanthemum, which blooms in late autumn, symbolizes longevity and virtue in East Asian poetry. Here it represents both the beauty of the passing season and the transience of life.

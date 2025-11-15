@@ -1,0 +1,45 @@
+canonical:
+  title: 村家
+  author: 金克己
+  language: lzh
+  text: 靑山斷處兩三家抱壠縈回一徑斜讖雨癈池蛙閣閣相風高樹鵲査査境幽柳巷埋荒草人寂柴門掩落花塵外勝遊聊自適笑他奔走覓紛華
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 村家
+  author: 金克己
+  language: lzh
+  text: 靑山斷處兩三家。抱壠縈回一徑斜。讖雨癈池蛙閣閣。相風高樹鵲査査。境幽柳巷埋荒草。人寂柴門掩落花。塵外勝遊聊自適。笑他奔走覓紛華。
+korean:
+  title: 촌가
+  author: 김극기
+  language: kor
+  text: |-
+    푸른 산 끊어진 곳 두서너 집
+    언덕을 안고 돌아 한가닥길이 비껴 있네
+    비 오련다고 웅덩이에 개구리가 개굴개굴
+    바람을 점쳐 높은 나무에 까치가 깍깍
+    버들 늘어선 그윽한 골목은 풀속에 덮여 있고
+    사람도 없는 싸리문은 낙화 속에 가리웠네
+    진세 밖에 노닐면서 애오라지 즐기노니
+    분주히 분화를 찾아 쏘다님이 우습고야
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0400&viewSync=OT
+  footnotes: []
+english:
+  title: A Village House
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Where the blue mountains break away stand two or three houses,
+    Cradled by the hills, a single path winds askew.
+    The frogs croak in the pond, prophesying rain—
+    The magpies chatter in the high trees, reading the wind.
+    The willow-lined alley, so still and deep, lies buried in grass,
+    The brushwood gate, where no one comes, lies hidden in fallen flowers.
+    Wandering beyond the dusty world, I find my own delight—
+    I laugh at those who hurry about chasing fleeting glories.
+  footnotes:
+  - key: ''
+    value: The poem employs natural sounds (frogs croaking, magpies chattering) as traditional omens or signs, reflecting classical Chinese cosmological beliefs about reading nature's messages.
+  - key: ''
+    value: The final couplet presents a philosophical contrast between the speaker's contentment in solitude and the conventional pursuit of worldly success and recognition.

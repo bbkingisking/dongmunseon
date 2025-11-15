@@ -1,0 +1,51 @@
+canonical:
+  title: 題曹溪龜谷覺雲禪師御書畵詩卷
+  author: 李仁復
+  language: lzh
+  text: 仰看奎畫照禪林新賜圖書冠古今八法旣均眞得體二師惟肖可傳心粃糠顧陸天機妙臣僕鍾王筆意深留鎭山門有榮耀上恩奚啻重千金
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題曹溪龜谷覺雲禪師御書畵詩卷
+  author: 李仁復
+  language: lzh
+  text: 仰看奎畫照禪林。新賜圖書冠古今。八法旣均眞得體。二師惟肖可傳心。粃糠顧陸天機妙。臣僕鍾王筆意深。留鎭山門有榮耀。上恩奚啻重千金。
+korean:
+  title: 제 조계구곡각운선사 어서화시권
+  author: 이인복
+  language: kor
+  text: |-
+    우러러 뵙는 어필이 선림(절[寺])을 환히 비추니
+    새로 주신 그림과 글씨가 고금의 걸작이외다
+    여덟 법(여덟 가지 필법(筆法))이 다 같으니 과연 체를 얻었고야
+    두 스님이 화상과 꼭 닮았으니 마음을 전할 만하네
+    이 천교에 비하면 고ㆍ륙(중국의 유명한 화가 고개지(顧愷之)와 육탐미(陸探微))은 겨와 껍질
+    깊으신 필의는 종ㆍ왕(중국의 명필가 종요(鍾繇)와 왕희지(王羲之))이 신복일세
+    산문에 유진하면 영광이 뻗치오리니
+    임금님 내리신 은혜 천금보다 중할 뿐인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0740&viewSync=OT
+  footnotes: []
+english:
+  title: On the Calligraphy and Painting Scroll of Master Gakun of Jogyesa's Valley
+  author: Lee In-bok
+  language: eng
+  text: |-
+    I gaze upward—the master's brush illuminates the temple grove,
+    the newly bestowed paintings and words surpass all works of old and new.
+    With all eight techniques perfected, the true form is manifest,
+    the two masters' likenesses so vivid they transmit the very mind.
+
+    Compared to such celestial skill, those ancient masters—
+    Ko and Lu—are but chaff and husk;
+    the deep essence of the brush belongs to Chong and Wang,
+    yet here their servants prove faithful.
+
+    Let this treasure remain at the mountain gate, radiating glory—
+    is the imperial grace bestowed upon it not worth more than gold?
+  footnotes:
+  - key: ''
+    value: The 'eight techniques' refer to the eight fundamental principles of calligraphy and painting in classical Chinese aesthetics.
+  - key: ''
+    value: Ko (顧愷之, Gu Kaizhi) and Lu (陸探微, Lu Tanwei) were celebrated painters of ancient China; Chong (鍾繇, Zhong You) and Wang (王羲之, Wang Xizhi) were renowned calligraphers.
+  - key: ''
+    value: The poem praises a dharma master's calligraphic and artistic work as surpassing even the legendary masters of Chinese tradition.

@@ -1,0 +1,95 @@
+canonical:
+  title: 上右散騎
+  author: 李奎報
+  language: lzh
+  text: 世家傳閥閱系出費侯賢蘭玉雙枝秀虹霓一氣連雲梯同坦步仙省迭相遷樹對鷄新舊天分鴈後先右貂榮最劇旁乘寵何偏五色絲封衮三條雪入篇鑄金從踊躍翼鷇助騰騫爲愛蹊成下叨將壁至前囊錐容早脫紈扇豈中捐况接葭莩幸平生恃淺緣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上右散騎
+  author: 李奎報
+  language: lzh
+  text: 世家傳閥閱。系出費侯賢。蘭玉雙枝秀。虹霓一氣連。雲梯同坦步。仙省迭相遷。樹對鷄新舊。天分鴈後先。右貂榮最劇。旁乘寵何偏。五色絲封衮。三條雪入篇。鑄金從踊躍。翼鷇助騰騫。爲愛蹊成下。叨將壁至前。囊錐容早脫。紈扇豈中捐。况接葭莩幸。平生恃淺緣。
+korean:
+  title: 상 우산기
+  author: 이규보
+  language: kor
+  text: |-
+    대대 고관을 전하는 가문
+    먼 조상은 저 어지신 비후
+    난초와 옥 같은 형제 두 분이
+    쌍무지개 뻗듯이 동기로 나서
+    함께 높은 구름다리 걸어 오르고
+    번갈아 내성에 옮아 다니니
+    나무에 깃든 닭[중서성 벼슬]은 신구가 잦구나
+    하늘 위의 기러기는 앞뒤 나란히
+    관 우편의 초미 영광 어떠리
+    임금 옆 배승하니 총애 깊어라
+    오색 실로 곤복을 새로 꿰매고
+    삼조 눈이 글에 들었네
+    부은 금을 맘대로 뛰놀게 하고
+    새새끼를 날개로 덮어 날도록 도와주네
+    복숭아 나무 아래 길나는 것을 사랑하옵기
+    외람히 구슬을 앞에 가져오니
+    주머니 속 송곳아 얼른 나오게
+    비단 부채 어이 중도에 내려지리까
+    하물며 친척되는 몸
+    평생에 옅은 인연 믿고 지내옵소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우산기(右散騎) : '
+    value: 상시(常侍)민식(閔湜). 이하 5편은 모두 작자가 31세 때 당시 내성(內省)  제랑(諸郞)들에게 올려 벼슬을 구한 시. 《이상국집(李相國集)》 8권엔 이밖에 3수가 더 있고, 긴 서(序)가 붙어 있다.
+  - key: '[주-D002] 나무에 깃든 …… 잦구나 : '
+    value: 작자의 주에 “금년에 성랑(省郞)들이 다 벼슬이 갈렸는데, 그의 아우가 성(省)을 나가고 그가 편입(編入)되었다.”고 되어 있다.
+  - key: '[주-D003] 삼조(三條) : '
+    value: 공경(公卿)들이 왕께 올리는 중요한 진언(進言). 북조(北朝)위문제(魏文帝)가 공경들에게 달마다 봉사(封事) 3조씩을 올려 득실(得失)을 극언(極言)토록 조서(詔書)를 내렸다.
+  - key: '[주-D004] 부은[鑄] 금(金)을 …… 하고 : '
+    value: 금(金)을 주조(鑄造)하려고 풀무에 넣었을 때에 그 안에서 금(金)이 뛰며, “나는 좋은 금이다 한다면 사람이 해괴히 여길 것이다.” 하는 옛말이 있는데, 이것은 제가 재주를 자랑하여서는 안된다는 말이다. 여기서는 작자인 자기[李奎報]를 그가 잘 알아 주었다는 뜻으로 썼다.
+  - key: '[주-D005] 복숭아 나무 …… 길나는 것 : '
+    value: 속담에, “복숭아, 오얏나무는 말을 하지 않으나, 그 밑엔 절로 길을 이룬다.” 하였는데 《漢書》덕이 있으면 동지(同志)가 많이 모인다는 말이다.
+  - key: '[주-D006] 외람히 …… 가져오니 : '
+    value: 밤에 야광주(夜光珠)가 창졸히 앞에 닥치면 사람들이 놀랜다. 《史記》
+  - key: '[주-D007] 주머니 속 송곳 : '
+    value: 전국 때 조(趙) 평원군(平原君)의 문객 모수(毛遂)가 초(楚)에 가는 평원군을 따라가려 그 자청(自請)하면서, “오늘 내가 주머니 속에 있는 송곳처럼 뚫고 나와 자루까지 나타내 보이리이다.” 하였다. 재주를 보이겠다는 말이다.
+  - key: '[주-D008] 비단 부채 : '
+    value: 한(漢) 성제(成帝)의 총희(寵姫) 반첩여(班婕妤)가 지은 원시(怨詩)에 자신을 부채에 비유하여 가을이 되면 중도에 버려질 것을 탄식한 글귀가 있다.
+english:
+  title: To the Right Attendant
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    A house of ancient honor, passed through generations,
+    Lineage traced to that worthy marquis of old.
+    Two brothers, orchid and jade, both resplendent,
+    Twin rainbows arcing forth in perfect accord.
+    Together they ascend the clouded stairways,
+    Taking turns in the inner palace chambers.
+    The birds that nest in office change their plumage—
+    One fades, another rises in heaven's order.
+    What glory radiates from the right attendant's badge!
+    How the imperial favor shines on those near the throne.
+    Five-colored threads adorn the robes of office,
+    The counsel of three edicts inscribed in history.
+    When gold is cast, it leaps with its own brilliance—
+    So does the fledgling soar on borrowed wings.
+    I cherish the humble path worn beneath peach boughs,
+    Yet presume to hold this pearl before you.
+    Let the awl in my pocket pierce through at last—
+    Surely the silken fan need not be cast aside in autumn's turn.
+    How much more, then, should one of kinship
+    Hold fast to slender threads of lifelong grace.
+  footnotes:
+  - key: ''
+    value: This poem was written when Lee Gyubo was thirty-one years old, as a petition for office addressed to various officials of the Inner Palace.
+  - key: ''
+    value: The reference to birds changing their perch alludes to recent administrative reshufflings among palace officials.
+  - key: ''
+    value: The 'counsel of three edicts' refers to the practice of high ministers presenting three pieces of advice to the ruler each month.
+  - key: ''
+    value: The imagery of gold being cast and the fledgling with borrowed wings reflects upon the poet's own talents and aspirations.
+  - key: ''
+    value: The peach bough path echoes an ancient saying that virtue naturally draws followers, as a path naturally forms beneath a fruitful tree.
+  - key: ''
+    value: The 'awl in the pocket' symbolizes emerging talent, derived from the story of Mao Sui volunteering his services.
+  - key: ''
+    value: The silken fan references the lament of Ban Jieyu, who compared herself to a fan destined to be abandoned when autumn comes—here transformed into a prayer for continued favor.

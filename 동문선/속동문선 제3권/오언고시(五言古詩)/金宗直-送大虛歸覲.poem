@@ -1,0 +1,106 @@
+canonical:
+  title: 送大虛歸覲
+  author: 金宗直
+  language: lzh
+  text: 秋風搖桂樹匹練輝騘馬騘馬日駸駸言歸具慶下定居懷祖膝親黨歡滿座哀哉吾淑人奄忽卽長夜繐維垂空堂弱女薦時菓倘有平生魂迎君應問我已矣無復然臨歧泪盈把冠佩立憲憲子足開親顔故鄕白雲下手撫桑中鐶我今颯華髮慚愧侍從班三年憂患餘土木形骸頑時時看箠瘢涕泪空自潸平生江海志難與鴻鴈還因君寄消息好在鹿門山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送大虛歸覲
+  author: 金宗直
+  language: lzh
+  text: 秋風搖桂樹。匹練輝騘馬。騘馬日駸駸。言歸具慶下。定居懷祖膝。親黨歡滿座。哀哉吾淑人。奄忽卽長夜。繐維垂空堂。弱女薦時菓。倘有平生魂。迎君應問我。已矣無復然。臨歧泪盈把。冠佩立憲憲。子足開親顔。故鄕白雲下。手撫桑中鐶。我今颯華髮。慚愧侍從班。三年憂患餘。土木形骸頑。時時看箠瘢。涕泪空自潸。平生江海志。難與鴻鴈還。因君寄消息。好在鹿門山。
+korean:
+  title: 송 대허 귀근
+  author: 김종직
+  language: kor
+  text: |-
+    가을 바람이 계수나무를 흔드는데
+    필련 같은 총마가 빛나누나
+    총마가 날마다 껑충껑충
+    그대는 부모님께로 돌아가네그려
+    돌아가면 회초의 무릎에 안기고
+    일가 친척들 자리에 가득 즐거우리만
+    아, 나의 어머닌
+    훌훌히 세상을 떠나
+    빈 방에 혼상만 놓였고
+    어린 딸이 시식을 천신하리
+    생전의 혼백이 혹시 계신다면
+    그대를 맞아 응당 나를 물으시리만
+    그만이다 다시 그리 할 수 없겠거니
+    작별에 임하여 눈물이 줌에 가득하옵네
+    관패로 버젓이 서있을 그대
+    부모님의 얼굴이 활짝 열리리
+    내 고향은 저 머나먼 흰 구름 밑
+    뽕나무 사이의 고리를 어루만지리
+    나는 이제 흰 머리를 흩날리면서
+    부끄럽게 시종반에 끼어있는 몸
+    3년이나 우환을 겪은 나머지에
+    몰골이 토목 같이 되었으나
+    때때로 종아리 맞은 자리를 들여다보면
+    눈물이 부질없이 글썽 고이네
+    한 평생 강해에 뜻을 뒀어도
+    기러기와 함께 못 돌아가니
+    그대가 가거든 소식 전하소
+    잘 있는가, 내 고향 녹문산이여
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 필련(匹練) …… 빛나누나 : '
+    value: 흰 말이 빨리 가는 것이 멀리서 보면 한 필의 흰 비단이 비치는 것같다는 말이다.
+  - key: '[주-D002] 돌아가면 …… 안기고 : '
+    value: 동진(東晋)왕술(王述)의 자(字)가 회조(懷祖)인데, 그의 아들 탄지(坦之)와 함께 부자(父子)가 명사(名士)이었다. 탄지를 사랑하여 장성(長成)한 뒤에도 무릎 위에 안았다.
+  - key: '[주-D003] 뽕나무 사이의 고리 : '
+    value: 진(晋)나라 양호(羊祜)가 5세 때 유모를 시켜 옆 이씨집 담 구멍에서 전생에 가지고 놀던 금환(金環)을 가져오게 했다는 고사.
+  - key: '[주-D004] 때때로 …… 들여다보면 : '
+    value: 옛사람이 부모에게 종아리를 맞아 흉터가 있는데, 부모 죽은 뒤에 그것을 들여다 볼 때마다 부모를 생각해 운 사람이 있다.
+  - key: '[주-D005] 녹문산(鹿門山) : '
+    value: 그의 고향에도 녹문산이 있는지 모르나 중국 양양(襄陽)의 고상한 선비 방덕공(龐德公)이 숨어 살던 녹문산이 유명하다.
+english:
+  title: Farewell to Dae-heo's Return Home
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Autumn wind shakes the cassia tree,
+    A bolt of white silk gleams—the swift horse races.
+    Day by day the horse speeds onward,
+    And you return to honor your parents.
+
+    Returning home, nestled on grandfather's knee,
+    Kin and kin fill every seat with joy—
+    Yet alas, my beloved wife,
+    Has suddenly departed into that long night.
+    Funerary silks hang in the empty hall,
+    Our young daughter tends the seasonal offerings.
+
+    If perchance your mother's spirit lingers,
+    To greet you she would surely ask for me.
+    But that time shall come no more—
+    At this parting, tears flood my hands.
+
+    You stand resplendent in official robes,
+    Your parents' faces will bloom with pride.
+    My homeland lies beneath white clouds,
+    Where I once caressed the buried ring between the mulberry trees.
+    Now my hair turns white and streams away,
+    Ashamed to linger in the halls of court.
+
+    Three years of sorrow and ordeal
+    Have left my frame like broken timber.
+    Yet when I trace the scars upon my legs,
+    Unbidden tears stream down.
+
+    Though all my life I harbored dreams of rivers and seas,
+    I cannot fly homeward with the wild geese.
+    So let me ask through you,
+    How fares my distant home—Deer Gate Mountain?
+  footnotes:
+  - key: ''
+    value: The 'bolt of white silk' is a classical image comparing the distant sight of a swift white horse racing to the shimmer of silk cloth.
+  - key: ''
+    value: The reference to 'grandfather's knee' alludes to Wang Shu of Eastern Jin, whose son was so beloved that even in adulthood he was cradled on his father's lap—a symbol of the deepest familial affection.
+  - key: ''
+    value: The 'buried ring between the mulberry trees' references an old tale of Yang Hu, who in childhood retrieved a golden ring he had hidden in a previous life, suggesting memories of home and past connections.
+  - key: ''
+    value: The 'scars upon my legs' recalls the grief of those who, bearing marks from parental discipline, later weep upon seeing those scars after their parents' death—a symbol of mourning the irrevocable loss of loved ones.
+  - key: ''
+    value: Deer Gate Mountain (Nokmun) is traditionally associated with Pang Degong, a sage hermit of ancient China, making it an emblem of virtuous retreat and longing for home.

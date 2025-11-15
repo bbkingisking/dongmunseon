@@ -1,0 +1,50 @@
+canonical:
+  title: 三月三日題示金子固
+  author: 徐居正
+  language: lzh
+  text: 春江初漲碧於藍花柳芳菲日色酣我在百年今半百時當三月正初三右軍筆妙曾脩禊工部詩豪欲典衫今古風流人物在又逢佳節思何堪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 三月三日題示金子固
+  author: 徐居正
+  language: lzh
+  text: 春江初漲碧於藍。花柳芳菲日色酣。我在百年今半百。時當三月正初三。右軍筆妙曾脩禊。工部詩豪欲典衫。今古風流人物在。又逢佳節思何堪。
+korean:
+  title: 삼월삼일 제시 김자고
+  author: 서거정
+  language: kor
+  text: |-
+    봄 강물은 처음 넘쳐 쪽빛보다 푸르고
+    꽃과 버들 꽃다운데 햇빛은 무르녹다
+    내가 백 살 산다 해도 지금은 백에 반인 것을
+    때는 바로 삼월이요 또 초삼일이다
+    우군은 글씨 묘했으나 일찍 계하노라 모였었고
+    공부(두자미)는 시가 훌륭했으나 홑옷을 잡히려 했다
+    예나 이제나 풍류스러운 인물 있는데
+    좋은 절후를 또 만났거니 이 시름 어이하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우군(右軍) : '
+    value: 진(晉)나라의 왕희지(王羲之)인데, 그는 중국 역사상 제 1가는 명필가이다.
+english:
+  title: On the Third Day of the Third Month, Written for Kim Jago
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Spring waters surge forth, greener than indigo dye,
+    Flowers and willows in their fragrance, sunlight grows soft and tender.
+    Though I might live a hundred years, now I am but half a century,
+    The time is precisely the third month, on the third day of spring.
+
+    Wang Xizhi's brush strokes were sublime, yet he too attended the purification rite,
+    Du Fu's verses were magnificent, yet he sought to pawn his robe for bread.
+    In ancient times and now, those of elegance and refinement still exist,
+    We meet again this fine season—how can such beauty not stir the heart?
+  footnotes:
+  - key: ''
+    value: Wang Xizhi (Right Army), the celebrated 4th-century Chinese calligrapher, participated in the Purification Festival at the Orchid Pavilion, immortalized in his famous preface.
+  - key: ''
+    value: Du Fu, the great Tang poet, famously faced poverty despite his literary genius—'pawning his robe' alludes to his financial struggles.
+  - key: ''
+    value: The third day of the third month was traditionally celebrated as the Spring Purification Festival (禊), a time for refined gatherings and cultural pursuits in East Asia.

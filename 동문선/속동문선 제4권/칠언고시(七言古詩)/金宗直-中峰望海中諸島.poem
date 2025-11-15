@@ -1,0 +1,49 @@
+canonical:
+  title: 中峰望海中諸島
+  author: 金宗直
+  language: lzh
+  text: 前島庚庚後立立蒼茫天水相接連似有雲帆疾於鳥古來說得乘槎仙岱輿員嶠更何處巨鼇不動應酣眠寄書紫鳳問舊侶我今亦在方丈巓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中峰望海中諸島
+  author: 金宗直
+  language: lzh
+  text: 前島庚庚後立立。蒼茫天水相接連。似有雲帆疾於鳥。古來說得乘槎仙。岱輿員嶠更何處。巨鼇不動應酣眠。寄書紫鳳問舊侶。我今亦在方丈巓。
+korean:
+  title: 중봉 망 해중제도
+  author: 김종직
+  language: kor
+  text: |-
+    앞 섬은 비스듬히, 뒷 섬은 오뚝오뚝
+    하늘과 물이 아득히 맞닿았구나
+    새보다 더 빠른 구름 밖의 돛
+    혹시나 떼[樣]를 탄 신선 아닌가
+    대여ㆍ원교가 다시 어드메인고
+    거오 안 움직이니 잡 깊이 든 듯
+    자봉에게 글 부쳐 옛 친구들에게 묻노니
+    나도 지금 방장산 마루턱에 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대여(岱輿ㆍ원교(圓嶠) : '
+    value: 바다 가운데 있는 신선이 사는 산이다.
+english:
+  title: Viewing the Islands in the Sea from Zhongfeng
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    The front island tilts askew, the rear island stands upright—
+    Sky and water merge in the distance, touching at the horizon.
+    A sail moves faster than birds through the clouds,
+    Could it be an immortal riding the legendary raft?
+    Where now are Daiyu and Yuanjiao, those blessed isles?
+    The giant turtle lies still, sunk deep in slumber.
+    I send word by purple phoenix to ask after old companions:
+    I too now dwell upon the peak of Fangzhang mountain.
+  footnotes:
+  - key: ''
+    value: Daiyu and Yuanjiao are legendary mountains in the sea where immortals are said to dwell in Chinese mythology.
+  - key: ''
+    value: The 'raft' (槎) refers to the folk tale of a man who traveled on a wooden raft to the edge of heaven and met immortals.
+  - key: ''
+    value: Fangzhang is one of the three sacred islands in the sea, home to immortals—here used as a metaphor for the poet's spiritual state.

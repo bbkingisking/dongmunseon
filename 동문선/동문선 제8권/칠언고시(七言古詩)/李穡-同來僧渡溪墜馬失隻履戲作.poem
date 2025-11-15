@@ -1,0 +1,63 @@
+canonical:
+  title: 同來僧渡溪墜馬失隻履戲作
+  author: 李穡
+  language: lzh
+  text: 山溪流入海馬臥欲化龍拄杖茫然忽落手袈裟盡濕春雲濃折蘆老胡亦戲劇飛錫羅漢稱神通借問隻履在何地定應不在葱嶺東不須更踏石頭路自有一吸西江風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同來僧渡溪墜馬失隻履戲作
+  author: 李穡
+  language: lzh
+  text: 山溪流入海。馬臥欲化龍。拄杖茫然忽落手。袈裟盡濕春雲濃。折蘆老胡亦戲劇。飛錫羅漢稱神通。借問隻履在何地。定應不在葱嶺東。不須更踏石頭路。自有一吸西江風。
+korean:
+  title: 함께 오던 중이 시내를 건너다가 말에서 떨어져 신 한 짝을 잃었기에 희롱삼아 짓는다
+  author: 이색
+  language: kor
+  text: |-
+    산골 시내가 흘러 바다로 가고
+    말이 누워서 용으로 화하려네그려
+    주장자를 정신 없이 손에서 떨어뜨리고
+    가사는 흠뻑 젖어 봄구름 되었네
+    꺾은 갈대 탄 늙은 되중은 희극이요
+    석장 날린 나한은 신통했는데
+    여봐, 신 한짝은 어디로 갔나
+    분명 총령 동쪽엔 있지 않은 듯
+    석두의 길을 다시 밟아 무엇하려나
+    서강의 물을 한꺼번에 마시는 풍이 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 꺾은 …… 되중[胡僧] : '
+    value: 선종(禪宗) 동토(東土)의 초조(初祖) 달마(達摩). 천축(天竺) 향지왕(香至王)의 셋째아들인 그가 양(梁) 대통(大通) 원년(527)에 인도로부터 바다를 건너 광주(廣州)에 상륙할 때까지 갈대를 꺾어 그것을 타고 왔다 한다.
+  - key: '[주-D002] 석장(錫杖) …… 신통했는데 : '
+    value: 서천(西天 인도)의 도승(道僧)이 흔히 석장(錫杖)을 날려 왕래했다 한다. 중국의 고승(高僧)  은봉(隱峯)도 오대(五臺)에 놀 때에 회서(淮西)에 나와 석장을 던지고 공중으로 날아갔다 하며, 신라(新羅) 때에도 양지(良志)가 만든 석장이 절로 날아 단월(檀越)의 집마다 다니며 쩔렁쩔렁했다 한다.
+  - key: '[주-D003] 총령(葱嶺) : '
+    value: 돈황(敦煌)에서 8천 리, 신강성(新彊省) 서남 경(境)에 있는 신령. 곤륜(崑崙)ㆍ천산(天山)의 산맥이 시작되는 아시아의 산등. 달마(達磨)대사가 숭산(嵩山)  소림사(少林寺)에서 면벽(面壁) 9년 동안 혜가(慧可)에게 법을 전한 뒤 양(梁)나라 대동(大同) 원년(535)에 시기하는 자가 드리는 세 번째 독약에 알면서도 일부러 중독하여 웅이산(熊耳山)  정림사(定林寺)에 매장되었으나, 뒤의 전설에, 위(魏)나라의 사신 송운(宋雲)이 서역(西域)에 갔다가 돌아오는 길에 총령(葱嶺)에서 대사가 맨발로 신 한 짝을 들고 가는 것을 만나 보고 와서 그 무덤을 파 보니 신 한짝이 있을 뿐이었다 한다. 《高僧傳》
+  - key: '[주-D004] 서강(西江)의 …… 있네 : '
+    value: 선가(禪家)의《전등록(傳燈錄)》에 나오는 마대사(馬大師)의 말에, “석두(石頭 희천선사(希遷禪師))가 있는 곳은 길이 미끄럽다.” “네가 한 입으로 서강물을 다 마시기를 기다려 너에게 일러 주겠다.”는 등의 선담(禪談)이 있다.
+english:
+  title: A Monk Fell from His Horse While Crossing a Stream and Lost a Shoe—Written in Jest
+  author: Lee Seok
+  language: eng
+  text: |-
+    The mountain stream flows down to the sea,
+    A horse lies down, dreaming to become a dragon.
+    The walking staff slips from distracted hands,
+    The monk's robe soaked through—spring clouds thicken.
+
+    The old barbarian rode broken reeds in jest,
+    The arhat flew his staff—such miracles!
+    But tell me, where has that single shoe wandered?
+    Surely not east of the Onion Mountains now.
+
+    Why tread again the path of Stone Head?
+    There blooms a wind that swallows the Western River whole.
+  footnotes:
+  - key: ''
+    value: The 'old barbarian on broken reeds' refers to Bodhidharma, the First Patriarch of Ch'an Buddhism, who legend says crossed the sea from India on a single reed. His journey parallels the monk's watery mishap.
+  - key: ''
+    value: The 'arhat flying his staff' alludes to supernatural monks who wielded their staffs as flying vessels—a reference to miraculous powers the ordinary monk's lost shoe cannot match.
+  - key: ''
+    value: The Onion Mountains (葱嶺) mark the western frontier. According to legend, when Bodhidharma's tomb was opened years after his death at the Shaolin temple, only one shoe remained—he had been seen walking barefoot in that distant range, shoe in hand.
+  - key: ''
+    value: The 'path of Stone Head' and 'swallowing the Western River' are Zen riddles from the Record of the Transmission of the Lamp, suggesting that understanding transcends logical pursuit—one cannot grasp enlightenment through ordinary effort.

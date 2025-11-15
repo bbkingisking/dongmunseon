@@ -1,0 +1,64 @@
+canonical:
+  title: 送曹應敎 偉 出知咸陽
+  author: 許琛
+  language: lzh
+  text: 丹丘夫子悟冥筌來駐頭流小洞天夢裏幾拈靑縷管案頭橫展白雲篇滿城桃李千林雨比屋弦歌萬井烟遙想朱轓多暇日遨頭應得領群仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送曹應敎 偉 出知咸陽
+  author: 許琛
+  language: lzh
+  text: 丹丘夫子悟冥筌。來駐頭流小洞天。夢裏幾拈靑縷管。案頭橫展白雲篇。滿城桃李千林雨。比屋弦歌萬井烟。遙想朱轓多暇日。遨頭應得領群仙。
+korean:
+  title: 송 조응교 위 출지 함양
+  author: 허침
+  language: kor
+  text: |-
+    단구 부자가 명전을 깨닫고
+    두류산의 작은 동천에 와서 머무르니
+    꿈속에서 몇 번이나 청루의 피리를 들었던가
+    책상 머리에는 백운편이 펴어 있네
+    성에 가득한 도리 천 수풀의 비요
+    집집마다 현가인데 만정의 연기일세
+    멀리 생각하노니 붉은 깃발이 여가 날이 많으리니
+    오두는 응당 뭇 신선을 거느리게 되겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 단구(丹丘) : '
+    value: 옛 신선이 사는 곳이다.
+  - key: '[주-D002] 명전(冥筌) : '
+    value: 강엄(江淹)의 시에, “명전(冥筌)을 헤치고 공중에 논다.”는 말이 있으니, 세속에 미혹한 것이 물고기가 통발속에 있는 것과 같다는 뜻인 듯하다.
+  - key: '[주-D003] 동천(洞天) : '
+    value: 신선이 사는 동천(洞天 혹은 동부(同府))이 여러 곳의 명산(名山)에 있다 한다.
+  - key: '[주-D004] 성에 …… 도리(桃李) : '
+    value: 진(晋)나라 반악(潘岳)이 하양현령(河陽縣令)이 되어 도리(桃李)를 많이 심어 온 고을에 도리화(桃李花)가 가득하였다 한다.
+  - key: '[주-D005] 현가(弦歌) : '
+    value: 공자(孔子)의 제자 자유(子游)가 무성(武城)의 원으로 있을 때에 공자가 갔더니, 현가(弦歌)의 소리를 듣고 기뻐하여 싱긋 웃었다. 학교를 설치하고 교육을 시키는 데 예와 악[禮樂]을 가르치므로 줄을 퉁기고 노래하는[弦歌] 소리가 들리는 것이다.
+  - key: '[주-D006] 붉은 깃발이 : '
+    value: 중국 고대에는 군수(郡守)가 수레에 붉은 깃발을 달았던 것이다.
+  - key: '[주-D007] 오두(遨頭) : '
+    value: 촉중(蜀中)의 풍속에 태수(太守)가 놀이하러 나가면 여자들이 길 옆에서 나무 평상에서 구경하는데, 그것을 오상(遨狀 노는 평상)이라 하므로 태수를 오두(遨頭)라 한다. 정월에서부터 나가 놀기를 시작하여 4월이 되면 그만둔다.
+english:
+  title: Farewell to Cao, the Gentleman Inspector Wei, Departing to Govern Xiangyang
+  author: Heo Chim
+  language: eng
+  text: |-
+    The Master of Cinnabar Peak awakens from the net of delusion,
+    Coming to dwell in the little grotto-heaven of Duryusan's stream.
+    In dreams, how many times did you hear the jade pipes play?
+    Upon your desk, white cloud essays lie unfolded.
+
+    Throughout the city, peach and plum trees—a thousand groves in rain,
+    From every house the sound of stringed songs and smoke from ten thousand hearths.
+    Yet in far thought, your crimson banner flags promise days of leisure,
+    Where roaming free, you shall surely lead a host of immortals.
+  footnotes:
+  - key: ''
+    value: Cinnabar Peak (丹丘) is a legendary dwelling place of the immortals in classical Daoist tradition.
+  - key: ''
+    value: The peach and plum blossoms evoke the example of Pan Yue, a famous administrator who beautified his county through widespread planting, suggesting the appointee will bring flourishing prosperity.
+  - key: ''
+    value: Stringed songs and music (弦歌) represent education and cultural refinement, alluding to Confucian governance through ritual and music.
+  - key: ''
+    value: The crimson banner is the traditional insignia of a provincial governor's carriage in ancient China.

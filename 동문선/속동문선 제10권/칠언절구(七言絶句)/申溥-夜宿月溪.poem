@@ -1,0 +1,37 @@
+canonical:
+  title: 夜宿月溪
+  author: 申溥
+  language: lzh
+  text: 移舟來泊月溪西兩岸岩回碧樹低知有隔林茅舍近半江殘月曉鷄啼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜宿月溪
+  author: 申溥
+  language: lzh
+  text: 移舟來泊月溪西。兩岸岩回碧樹低。知有隔林茅舍近。半江殘月曉鷄啼。
+korean:
+  title: 야숙 월계
+  author: 신부
+  language: kor
+  text: |-
+    배를 옮겨 월계 서쪽 닿았더니
+    두 언덕 바위 돌고 푸른 숲이 나지막
+    알겠다 수풀 넘어 띠집이 가까운 줄
+    반 강 이지러진 달에 새벽 닭 울음 소리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0410&viewSync=OT
+  footnotes: []
+english:
+  title: A Night's Rest at Moon Stream
+  author: Shin Bo
+  language: eng
+  text: |-
+    I moor my boat on the western shore of Moon Stream.
+    Rounded rocks frame both banks, green trees bend low.
+    Beyond the woods I sense it now—a thatched cottage near.
+    Across the half-lit river, a rooster cries at dawn.
+  footnotes:
+  - key: ''
+    value: Moon Stream (月溪) likely refers to a specific location known for its scenic beauty, combining the poetic imagery of moonlight and flowing water.
+  - key: ''
+    value: The 'half-lit river' captures the liminal moment between night and dawn, with the moon waning as daylight approaches.

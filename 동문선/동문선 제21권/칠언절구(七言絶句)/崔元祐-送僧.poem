@@ -1,0 +1,39 @@
+canonical:
+  title: 送僧
+  author: 崔元祐
+  language: lzh
+  text: 揖送吾師嶺外行春風一杖野裝輕碧山杜宇聞何處古寺梨花月正明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送僧
+  author: 崔元祐
+  language: lzh
+  text: 揖送吾師嶺外行。春風一杖野裝輕。碧山杜宇聞何處。古寺梨花月正明。
+korean:
+  title: 송승
+  author: 최원우
+  language: kor
+  text: |-
+    재 너머로 가는 우리 스님을 합장하고 보내나니
+    봄바람에 지팡이 하나로 들 행장이 가볍구나
+    푸른 산 두견새 소리 어디서 들을 것인가
+    옛 절의 배꽃에 달이 한창 밝으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off a Monk
+  author: Choe Won-woo
+  language: eng
+  text: |-
+    I bow and send off my teacher journeying beyond the ridge.
+    With spring breeze and a single staff, his traveling clothes fall light.
+    Where shall we hear the cuckoo's call among the green mountains?
+    In the ancient temple, pear blossoms bloom beneath the moon's full glow.
+  footnotes:
+  - key: ''
+    value: The 'ridge' (嶺) refers to a mountain pass, suggesting a journey of departure and spiritual seeking.
+  - key: ''
+    value: The cuckoo (杜宇) is a traditional symbol in East Asian poetry representing longing, separation, and the transience of life.
+  - key: ''
+    value: Pear blossoms symbolize the fleeting beauty and impermanence central to Buddhist philosophy.

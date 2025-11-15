@@ -1,0 +1,38 @@
+canonical:
+  title: 謝館宴表
+  author: 金克己
+  language: lzh
+  text: 帝宸奉幣始參沔水之朝賓邸回輈濃沐需雲之宴靜思榮幸罙切感兢中謝 陪臣逖自鷦藩賓于象闕渠渠華屋休思同依藻之魚秩秩縟筵樂只若食苹之鹿何居異貺萃此微軆歌君子之大平有同姬室祝聖人之多壽無異華封
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝館宴表
+  author: 金克己
+  language: lzh
+  text: 帝宸奉幣。始參沔水之朝。賓邸回輈。濃沐需雲之宴。靜思榮幸。罙切感兢。中謝。 陪臣逖自鷦藩。賓于象闕。渠渠華屋。休思同依藻之魚。秩秩縟筵。樂只若食苹之鹿。何居異貺。萃此微軆。歌君子之大平。有同姬室。祝聖人之多壽。無異華封。
+korean:
+  title: 사관연표
+  author: 김극기
+  language: kor
+  text: |-
+    대궐에 폐백을 받들어 비로소 면수(沔水)의 조회에 참가하고 빈관(賓館)에 수레를 돌리자 흐뭇이 수운(需雲 푸짐한 접대)의 잔치를 받자오니, 고요히 영행(榮幸)을 생각하옴에 감격이 깊고 간절하도소이다. 중사(中謝)
+    배신이 멀리 메추리만한 번국(藩國)에서부터 코끼리 같은 대궐에 손님으로 와, 크나큰 화옥(華屋)에서 묵는 편안함은 마름[藻]을 의지하는 고기와 같고, 질펀한 연석에서의 즐거움은 쑥[苹]을 먹는 사슴과 같사오니, 어쩌면 이다지도 이수의 접대가 이 미천한 몸에 모이나이까. 군자(君子)의 태평을 노래함이 주실(周室)과 같사오며 성인(聖人)의 장수하심을 축복함이 화봉인(華封人)과 다름이 없도소이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 마름[藻]을 …… 같고 : '
+    value: 《시경》에, “물고기가 마름에 있다[魚在左藻].”는 시가 있는데, 천자의 제후를 잔치하는 시다.
+  - key: '[주-D002] 쑥[苹]을 …… 같사오니 : '
+    value: 《시경》에, “사슴이 울며 평(苹)을 먹는다.[鹿鳴食苹]”는 시가 있는데, 천자가 손을 잔치하는 시다.
+english:
+  title: A Tablet of Gratitude for the Reception at the Guest Hall
+  author: Kim Geukgi
+  language: eng
+  text: |-
+    Receiving the imperial gifts and tribute, we have at last attended the court by the waters of Mian. Our carriage turns back to the guest quarters, and we are honored to partake in such generous hospitality. In quiet reflection upon this great fortune, our hearts swell with gratitude and humility.
+
+    A humble official journeys from distant borderlands, small as a quail, to visit the imperial palace grand as the elephant gate. In the vast and splendid halls where we lodge, we find peace like fish resting among the marsh grasses. At the abundant feast spread before us, we rejoice like the deer that feeds on fragrant plants. How can such lavish courtesy be bestowed upon one so insignificant as I? We sing the great peace under the benevolent ruler, as harmonious as the music of Zhou. We celebrate the sage emperor's longevity, our wishes as sincere as those of the Huafeng sage who blessed the ancient king.
+  footnotes:
+  - key: ''
+    value: The image of the fish among marsh grasses alludes to the Book of Odes, evoking how the Son of Heaven entertains the feudal lords.
+  - key: ''
+    value: The image of the deer feeding on fragrant plants also derives from the Book of Odes, representing the gracious hospitality of the imperial court toward its guests.

@@ -1,0 +1,35 @@
+canonical:
+  title: 閨情
+  author: 金克儉
+  language: lzh
+  text: 未授三冬服空催半夜砧銀缸還似妾淚盡却燒心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閨情
+  author: 金克儉
+  language: lzh
+  text: 未授三冬服。空催半夜砧。銀缸還似妾。淚盡却燒心。
+korean:
+  title: 규정
+  author: 김극검
+  language: kor
+  text: |-
+    삼동의 옷을 전하지 못해
+    부질없이 밤중의 다듬이를 재촉한다
+    은항이 마치 나와 같아서
+    눈물이 다하자 문득 마음 태운다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0020&viewSync=OT
+  footnotes: []
+english:
+  title: A Woman's Longing
+  author: Kim Geuk-geom
+  language: eng
+  text: |-
+    Winter clothes still undelivered—
+    I hasten the fulling block's beat through midnight in vain.
+    The silver lamp burns like myself,
+    and when my tears run dry, it sears my heart.
+  footnotes:
+  - key: ''
+    value: The three winters refer to the winter season or a prolonged winter absence, suggesting the speaker's husband or beloved has been away. The fulling block (砧) is used to soften and finish cloth—here a symbol of the speaker's anxious labor. The silver lamp (銀缸) personifies the speaker's own suffering, burning away as her tears exhaust themselves.

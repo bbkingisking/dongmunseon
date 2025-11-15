@@ -1,0 +1,46 @@
+canonical:
+  title: 初春感興
+  author: 李黿
+  language: lzh
+  text: 陽生混沌竅萬物自陶鎔誰知有形物生此無形中日月互相代往來無臭聲猗歟伏羲心信合天地情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 初春感興
+  author: 李黿
+  language: lzh
+  text: 陽生混沌竅。萬物自陶鎔。誰知有形物。生此無形中。日月互相代。往來無臭聲。猗歟伏羲心。信合天地情。
+korean:
+  title: 초춘 감흥
+  author: 이원
+  language: kor
+  text: |-
+    혼돈 구멍에서 양이 나오면
+    만물이 스스로 만들어지누나
+    뉘라서 알리, 유형한 물건이
+    이 무형한 중에서 생기는 줄을
+    해와 달이 번갈아 교대하는데
+    시절이 오고 가는 것 냄새도 소리도 없네
+    아, 묘한지고, 복희의 마음
+    천지의 마음과 꼭 들어맞네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0680&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 복희(伏羲)의 마음 : '
+    value: 복희씨가 팔괘(八卦)를 그었다.
+english:
+  title: Spring's Stirring
+  author: Lee Won
+  language: eng
+  text: |-
+    Yang emerges from the chaotic void,
+    and ten thousand things shape themselves.
+    Who can fathom how the formed
+    springs from the formless?
+
+    Sun and moon exchange their places,
+    seasons turn without scent or sound.
+    Oh, how wondrous—Fu Xi's mind
+    accords perfectly with heaven and earth.
+  footnotes:
+  - key: ''
+    value: Fu Xi, the legendary sage-king, is credited with creating the Eight Trigrams (bagua), which represent the fundamental patterns of reality and change in classical Chinese philosophy. His 'mind' here refers to this primordial insight into the workings of nature.

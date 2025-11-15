@@ -1,0 +1,50 @@
+canonical:
+  title: 靈通
+  author: 朴誾
+  language: lzh
+  text: 知己卽今眞不數此身在世轉如疣却因覊旅聊成興多謝天公偶見收淅瀝檜杉神勒月蒼茫風雨豆彌舟惜無吾輩與同醉回首靈通憶舊遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靈通
+  author: 朴誾
+  language: lzh
+  text: 知己卽今眞不數。此身在世轉如疣。却因覊旅聊成興。多謝天公偶見收。淅瀝檜杉神勒月。蒼茫風雨豆彌舟。惜無吾輩與同醉。回首靈通憶舊遊。
+korean:
+  title: 배로 가니 풍경이 매우 기이하여 고인과 서로 같이 즐기지 못함이 한스러웠다. 멍청히 홀로 앉아 있노라니 심정은 더욱 무료하였다. 이에 택지의 영통
+  author: 박은
+  language: kor
+  text: |-
+    지금 세상에 지기는 진실로 찾을 수 없는데
+    이 몸이 세상에 있는 것은 도리어 혹과 같네
+    나그네가 되었으매 애오라지 흥취를 일으키거니
+    우연히도 하늘이 나를 거두어 준 것을 매우 감사한다
+    비석거리는 노송나무 삼나무는 신륵사의 달이요
+    아득한 바람과 비에는 두미포의 배일네
+    함께 취할 우리 무리가 없는 것을 애석해 하노니
+    영통사로 머리를 돌려 옛날에 놀던 일을 생각하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0550&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 지기(知己) : '
+    value: 지기를 참으로 알아 주는 이를 말한다. 옛날에, “선비는 지기(知己)를 위하여 죽어 준다.”는 말이 있다.
+english:
+  title: Yeongjeong
+  author: Park Eun
+  language: eng
+  text: |-
+    A true friend in this world—how rare to find.
+    This body dwelling here, a wart upon the skin.
+    Yet wandering as a traveler, I kindle joy,
+    and thank Heaven for its unexpected grace.
+
+    Through whispering pines and firs, the moon of Sinheungsa gleams,
+    while misty wind and rain enfold the ferry at Doumi.
+    I grieve that no companions share this drunken reverie—
+    turning back to Yeongjeongsa, I recall those ancient days.
+  footnotes:
+  - key: ''
+    value: Yeongjeongsa is a Buddhist temple, referenced as a landmark for reflection on past pleasures.
+  - key: ''
+    value: The poem employs place names (Sinheungsa and Doumi) as anchors for memory and emotion, a common technique in East Asian travel poetry.
+  - key: ''
+    value: A 'true friend' (지기) in classical poetry tradition refers to one who truly understands the poet's spirit—a rare and precious connection.

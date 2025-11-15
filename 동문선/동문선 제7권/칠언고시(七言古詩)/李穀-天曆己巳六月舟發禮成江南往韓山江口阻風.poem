@@ -1,0 +1,51 @@
+canonical:
+  title: 天曆己巳六月舟發禮成江南往韓山江口阻風
+  author: 李穀
+  language: lzh
+  text: 驚風動地東南黑四山低昂船尾側蒼茫一葉浪花中性命只憑菅蒯力雨聲颼颼濕篷底三日一雲猶向北但令元氣不傷和達順於人互得失何時風雨占十五爲驅萬國歸皇極
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 天曆己巳六月舟發禮成江南往韓山江口阻風
+  author: 李穀
+  language: lzh
+  text: 驚風動地東南黑。四山低昂船尾側。蒼茫一葉浪花中。性命只憑菅蒯力。雨聲颼颼濕篷底。三日一雲猶向北。但令元氣不傷和。達順於人互得失。何時風雨占十五。爲驅萬國歸皇極。
+korean:
+  title: 천력 기사년 6월에 예성강에 배 띄워 남으로 한산으로 가려다 강어귀에서 바람에 막히다
+  author: 이곡
+  language: kor
+  text: |-
+    놀란 바람이 땅을 울리며 동남쪽이 새까맣더니
+    사방 산이 배 꼬리에서 오르락내리락하네
+    창망한 일엽편주 물결 속에서
+    생명은 밧줄에 의지했을 뿐
+    빗소리 쏴하면서 선창 밑바닥을 적시는데
+    사흘째 구름이 모두 북으로만 가네
+    다만 천지의 원기가 화평을 잃지 않으면
+    역과 순이 사람에게 서로 득실이 되리라
+    언제나 바람과 비가 열흘만에, 닷새만에, 때 맞추어
+    만국을 몰아 황극(중정)에로 돌아가게 할꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: Detained by Wind at the River's Mouth in the Sixth Moon of 1329, Setting Forth by Boat from Yesong to Journey South to Hansan
+  author: Lee Gok
+  language: eng
+  text: |-
+    Startled wind hammers the earth, the southeast turns black as ink.
+    The mountains rise and fall around us, tilting the boat's stern.
+    In the vast expanse, we are but a single leaf upon the waves.
+    Our lives depend on nothing but a rope's strength.
+    Rain hisses down, soaking the canopy's underbelly.
+    Four days now, and the clouds drift only northward.
+    Yet if Heaven's primal breath maintains its harmony,
+    Then gain and loss become one to all people.
+    When will wind and rain align with Heaven's measure,
+    And draw ten thousand nations back to the Center's throne?
+  footnotes:
+  - key: ''
+    value: The poem is set in 1329, during the Mongol Yuan dynasty's rule over Korea (Goryeo).
+  - key: ''
+    value: The 'Center' (황극) refers to the imperial axis mundi, suggesting a return to cosmic and political harmony.
+  - key: ''
+    value: Yi and Shun were legendary sage-kings of ancient China, models of virtue and wise governance referenced here as ideals of cosmic order.

@@ -1,0 +1,46 @@
+canonical:
+  title: 重和
+  author: 朴誾
+  language: lzh
+  text: 朝來詩句劇多感令我長吟難更禁歲晩憐渠不負子生平唯酒可論心悠悠涉世久知倦寂寂避人今已深誰載鴟夷輒相問靑山繞屋凍雲沉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 重和
+  author: 朴誾
+  language: lzh
+  text: 朝來詩句劇多感。令我長吟難更禁。歲晩憐渠不負子。生平唯酒可論心。悠悠涉世久知倦。寂寂避人今已深。誰載鴟夷輒相問。靑山繞屋凍雲沉。
+korean:
+  title: 중화
+  author: 박은
+  language: kor
+  text: |-
+    아침에 와서 시의 글귀가 못내 느낌이 많아
+    나로 하여금 길이 읊조리기를 새삼 금하기 어렵게 하네
+    한 해가 저물도록 거[시를 말함]를 저버리지 않음이 어여쁜데
+    한 평생에 오직 술만이 마음을 의논할 만하다
+    유유히 세상을 오래 겪으매 권태할 줄 알겠고
+    적적히 사람을 피함이 이제는 이미 깊어졌네
+    누가 치이를 싣고 와서 방문해 줄건가
+    푸른 산이 집을 둘러 언 구름이 잠기었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0600&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 치이(鴟夷) : '
+    value: 가죽 주머니로 만든 술 담는 그릇이다.
+english:
+  title: A Second Harmony
+  author: Park Eun
+  language: eng
+  text: |-
+    This morning, the lines of poetry stirred such deep feeling
+    that I could not help but sing them forth again and again.
+    Throughout the year's decline, how lovely that you never forsake the poem—
+    yet in all my life, only wine can truly speak my heart.
+
+    Wandering through the world so long, I have learned at last to tire.
+    Solitary in my flight from people, I have grown quite deep in distance now.
+    Who will come bearing gifts of wine to call upon me here?
+    Green mountains circle round my home; frozen clouds have settled deep.
+  footnotes:
+  - key: ''
+    value: 鴈夷 (chīyī) - a leather vessel traditionally used for storing wine, often associated with reclusion and the pleasures of solitary contemplation

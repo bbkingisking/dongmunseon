@@ -1,0 +1,52 @@
+canonical:
+  title: 謝赴集英殿春宴表
+  author: 金富軾
+  language: lzh
+  text: 陪臣某等言二月二十九日伏蒙聖慈特令臣等及三節人參赴集英殿春宴者需于酒食易言君子之光燕爾忠嘉詩有聖人之雅示慈良渥爲寵則多中謝 臣等饗千載之休辰輸一方之陋貢介鱗之賤叨廁於鴛鸞葵藿之微幸依於天日便蕃周賚猒飫漢酺况今屬星鳥之正時會雲龍而同樂昇于密座俯同在藻之歡侑以金觴愈極晞陽之澤循涯甚越在昔實希此蓋伏遇盛德幷容大明旁燭柔遠能邇旣行三代之風一視同仁不謂九夷之陋勿遺下使被以殊恩雖冒昧不貲顧難勝於感激而幽荒無賴愧莫效於論酬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝赴集英殿春宴表
+  author: 金富軾
+  language: lzh
+  text: 陪臣某等言。二月二十九日。伏蒙聖慈特令臣等及三節人參赴集英殿春宴者。需于酒食。易言君子之光。燕爾忠嘉。詩有聖人之雅。示慈良渥。爲寵則多。中謝。 臣等饗千載之休辰。輸一方之陋貢。介鱗之賤。叨廁於鴛鸞。葵藿之微。幸依於天日。便蕃周賚。猒飫漢酺。况今屬星鳥之正時。會雲龍而同樂。昇于密座。俯同在藻之歡。侑以金觴。愈極晞陽之澤。循涯甚越。在昔實希。此蓋伏遇盛德幷容。大明旁燭。柔遠能邇。旣行三代之風。一視同仁。不謂九夷之陋。勿遺下使。被以殊恩。雖冒昧不貲。顧難勝於感激。而幽荒無賴。愧莫效於論酬。
+korean:
+  title: 집영전 봄 잔치에 부르심을 사례하는 표
+  author: 김부식
+  language: kor
+  text: |-
+    배신(陪臣) 모 등은 아뢰옵나이다.2월 29일에 성상께옵서 특히 신등과 삼절인(三節人)에게 집영전 봄 잔치에 참석하라는 칙지(勅旨)를 받들었나이다.「술과 음식에 필수(必須)함」은 《주역(周易)》 수괘(需卦)에, “군자(君子)의 빛이라.” 하였고, “너희들 충성되고 아름다운 자들과 잔치한다.” 하고, 《시경(詩經)》 소아(小雅)에 성인(聖人)의 노래가 있사오나, 이 우악(優渥)하신 성자(聖慈)를 받드옴에 총영(寵榮)이 지극하도소이다. 중사(中謝)
+    신등이 천재(千載)의 아름다운 때를 당하여 일방(一方)의 보잘것없는 공물(貢物)을 바치려고 개린(介鱗)의 천한 몸이 외람되이 원앙과 난새[鸞]를 따르고, 규곽(葵藿 해바라기) 같은 작은 정성으로 다행히 천일(天日)을 의지하여 주실(周室)의 사물(賜物)을 여러 번 받고 한정(漢廷)의 포(酺)를 물리도록 먹었나이다. 하물며 지금 중춘(仲春)의 이 철에 구름[雲]과 용(龍)이 모여 같이 즐기시오니, 은밀한 자리에 오르시어 굽어 물고기가 마름 사이에 있는 즐거움을 같이하시고, 금잔으로 술을 내리옵시니 더욱 담로(湛露)의 은택이 지극하온지라, 분수에 지나침이 너무도 심하여 옛날에도 실로 드문 일이로소이다.이는 대개 성상께옵서 성덕(盛德)으로 아울러 포용하여 주시고 크나큰 밝은 빛을 옆으로 비쳐 주시어 먼 데를 회유(懷柔)하여 가까이 하심에 이미 삼대(三代)의 풍을 행하시고, 한결같이 같은 인(仁)으로 보아 구이(九夷)를 더럽다 이르지 않고, 하방의 사신에게도 남김이 없이 특수한 은혜를 입힘이오니, 아무리 몽매한 저희들로서도 감격함을 이기지 못하오며, 보잘것없는 무리들이 논수(論酬)할 길이 없사옴을 부끄러워하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주실(周室)의 사물(賜物) : '
+    value: 주(周)나라 천자가 제후(諸侯)에게 각기 내려준 물건이 있었다.
+  - key: '[주-D002] 한정(漢庭)의 포(酺) : '
+    value: 포(酺)는 나라에 경사가 있을 때에 조정에서 민간에 술과 고기를 내려주어 실컷 먹게 하는 것인데, 한 문제(漢文帝) 때에 크게 행하였다.
+  - key: '[주-D003] 물고기가 …… 즐거움 : '
+    value: 《시경》의 어조(魚藻)편에, “물고기가 마름[藻]에 있다. 왕은 호경(鎬京)에 있다.” 하였는데 천자가 제후를 잔치하는 시다.
+  - key: '[주-D004] 담로(湛露)의 은택 : '
+    value: 《시경》의 담로편(湛露篇)은 천자가 제후(諸侯)에게 잔치하여 줌을 읊은 시이다.
+  - key: '[주-D005] 구이(九夷)를 …… 않고 : '
+    value: 공자(孔子)가 구이에 가서 살려 하매 누가 묻기를, “누추하여 어찌하렵니까.” 하니 공자는, “군자가 거하는데 어찌 누추함이 있으랴.” 하였다.
+english:
+  title: A Memorial of Gratitude for the Summons to the Spring Banquet at the Hall of Gathered Brilliance
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    We, your humble ministers, humbly report:
+
+    On the twenty-ninth day of the second moon, by Your Majesty's gracious decree, we and the envoys of the three tributary states have been summoned to attend the spring banquet at the Hall of Gathered Brilliance. As the Changes teach, "Seeking what is necessary in sustenance speaks of the gentleman's luminous way." The Book of Poetry sings of feasting in loyalty and beauty, bearing the noble verses of the sages. Your Majesty's compassionate generosity overflows with honor beyond measure.
+
+    We stand in this auspicious moment spanning a thousand years, offering our remote corner's meager tribute. We, humble as scaled creatures, find ourselves unworthy among phoenixes and cranes; we, fragile as sunflower stems, are blessed to bask in heaven's light. Again and again the royal treasures descend upon us, as if we feast at the great imperial banquets of old. Now, as the spring constellations align and clouds dance with dragons in shared joy, we ascend to those intimate chambers and gaze down upon the waters where fish rest among the reeds—such profound delight! Golden goblets overflow with nectar, and the beneficence of heaven's dew becomes ever more abundant. This surpasses all measure; such favor has scarcely been known in ages past.
+
+    This flows from Your Majesty's encompassing virtue and radiant wisdom, which shines upon all corners. Your benevolence reaches the distant and draws near the near, embodying the ways of the ancient sage-kings. With impartial compassion, you regard even the nine barbarian peoples not as crude, bestowing singular grace upon us humble envoys from afar. Though our gratitude knows no bounds, we remain too obscure and distant to offer worthy repayment, and shame forbids us from attempting such inadequate recompense.
+  footnotes:
+  - key: ''
+    value: The 'Hall of Gathered Brilliance' (Jipyeongjeon) was a royal reception hall used for state banquets in Goryeo.
+  - key: ''
+    value: The 'three tributary states' refers to envoys from Goryeo's tributary relationships.
+  - key: ''
+    value: The references to the Changes, Book of Poetry, and ancient sage-kings reflect the Confucian framework that legitimized royal authority and interstate relations during this period.
+  - key: ''
+    value: The imagery of 'fish among the reeds' alludes to a poem from the Book of Poetry describing the Son of Heaven hosting tributary princes, elevating Goryeo's diplomatic status.

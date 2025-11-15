@@ -1,0 +1,57 @@
+canonical:
+  title: 贈李詹從指揮
+  author: 尹紹宗
+  language: lzh
+  text: 紫霞親試日淸問有虞風黃甲名無右玄陵眷在中圖書闡河洛文物煥歧豐惆悵蒼梧遠從戎平海東
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈李詹從指揮
+  author: 尹紹宗
+  language: lzh
+  text: 紫霞親試日。淸問有虞風。黃甲名無右。玄陵眷在中。圖書闡河洛。文物煥歧豐。惆悵蒼梧遠。從戎平海東。
+korean:
+  title: 지휘를 따라가는 이첨에게
+  author: 윤소종
+  language: kor
+  text: |-
+    자하각에서 친히 과거를 보이시던 날 임금의
+    맑은 물으심은 유우의 풍이었네
+    황갑에 이름은 겨눌 이가 없었고
+    현릉(공민왕)의 권애하는 가운데다
+    도서는 하락을 천명하네
+    문물은 기풍이 찬란하네
+    아아 창오는 멀구나
+    군사를 따라 해동을 평정하러 나가네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0550&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유우(有虞)의 풍(風) : '
+    value: 유우씨(有虞氏)는 순(舜)이니, 오현금(五絃琴)을 타고 남풍곡(南風曲)을 불렀는데, 임금이 친히 시험볼 때에 문제가 그것이었던 모양이다.
+  - key: '[주-D002] 황갑(黃甲) : '
+    value: 과거(科擧)에 장원(壯元)한 것이다.
+  - key: '[주-D003] 하락(河洛) : '
+    value: 하도(河圖)와 낙서(洛書)를 말한다.
+  - key: '[주-D004] 기풍(岐豐) : '
+    value: 주 문왕(周文王)의 도읍은 기(岐)요, 주 무왕(周武王)의 도읍은 풍(豐)이다.
+english:
+  title: A Gift for Yi Cham, Following as Commander
+  author: Yoon Sojong
+  language: eng
+  text: |-
+    On the day the Emperor himself conducted the examination at Purple Mist Pavilion,
+    His clear inquiry carried the wind of sage Shun—
+    With the golden laurel, your name stood unrivaled,
+    Among the beloved ministers of the Xuanling court.
+    The sacred charts illuminated the Rivers' mysteries,
+    Culture and its treasures blazed forth like the golden age.
+    Yet Cangwu remains distant, alas—
+    You ride forth with the armies to pacify the Eastern Sea.
+  footnotes:
+  - key: ''
+    value: The 'wind of Shun' alludes to the legendary sage-king's virtue, invoking the imperial examination as a test of merit and virtue.
+  - key: ''
+    value: The 'golden laurel' (huangjia) refers to the highest honor in the civil service examination—first place.
+  - key: ''
+    value: The 'Rivers' mysteries' refer to the ancient River Map and Lo River Writing, symbols of cosmic order and imperial legitimacy.
+  - key: ''
+    value: Cangwu is the mythical land where Shun died while journeying to distant territories—here suggesting the poet's melancholy at the recipient's departure into military service.

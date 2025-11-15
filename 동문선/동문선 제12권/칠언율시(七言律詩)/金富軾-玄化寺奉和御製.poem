@@ -1,0 +1,50 @@
+canonical:
+  title: 玄化寺奉和御製
+  author: 金富軾
+  language: lzh
+  text: 襄城前馬忽超然行遇孤雲一握天警蹕聲高盈遠壑羽林兵峭裂寒煙奇花墮艷繙經座甘露浮香上壽筵酬奉文章爭落筆侍臣才氣似唐賢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 玄化寺奉和御製
+  author: 金富軾
+  language: lzh
+  text: 襄城前馬忽超然。行遇孤雲一握天。警蹕聲高盈遠壑。羽林兵峭裂寒煙。奇花墮艷繙經座。甘露浮香上壽筵。酬奉文章爭落筆。侍臣才氣似唐賢。
+korean:
+  title: 현화사에서 어제시를 받들어 화답하며
+  author: 김부식
+  language: kor
+  text: |-
+    양성의 전구마가 갑자기 높이 올라
+    가다가 구름 속 하늘 닿은 곳 만났도다
+    드높은 경필 소리가 먼 끝에 가득하고
+    우림(궁궐을 금위(禁衛)하는 군대의 명칭)의 군사의 창끝은 찬 연기를 찢는구나
+    경 읽는 자리에 기화는 곱게 떨어지고
+    감로의 향기는 수를 올리는 자리에 떠오르네
+    글을 화답코자 다투어 붓을 드는
+    시신들 재주가 제법 당현들 같구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0510&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 현화사(玄化寺) : '
+    value: 황해도우봉현(牛峰縣 영취산(靈鷲山))에 있음. 《여지승람》
+  - key: '[주-D002] 경필(警蹕) : '
+    value: 황제(皇帝)가 나갈 때에는 경(警)하고, 들어올 때에는 필(蹕)한다. 곧 벽제(辟除)이다.
+english:
+  title: In Response to an Imperial Poem at Hyeonhwasa Temple
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The imperial carriage before Xiangcheng suddenly rises high,
+    And traveling onward, I encounter solitary clouds touching the edge of heaven.
+    The warning bells ring out in splendor, filling the distant valleys,
+    While the spears of the palace guard tear through the cold mist.
+
+    Strange flowers shed their beauty upon the sutra-reading seat,
+    And sweet dew drifts its fragrance to the table of longevity.
+    Contending to respond with verse, the brush-wielders race to write—
+    The talents of these attending ministers rival the worthy sages of Tang.
+  footnotes:
+  - key: ''
+    value: Hyeonhwasa Temple was located on Yongchwi Mountain in Woobong County, Hwanghae Province.
+  - key: ''
+    value: The 'warning bells' (경필) refers to the ceremonial announcement made when the emperor travels—'warning' (경) when departing and 'bells' (필) when returning, a practice of clearing the path for imperial passage.

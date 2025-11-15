@@ -1,0 +1,74 @@
+canonical:
+  title: 商山四皓
+  author: 姜希孟
+  language: lzh
+  text: 漢高大度起布衣手提三尺開漢基駕馭英雄睿謀深豈於天性迷所爲動搖邦本非細事微意詎可常情知呂戚相圖怨已極畢竟寧免相殘夷胡爲應幣煩起來聊作羽翼隨安危鴻鵠高飛橫四海高皇繒繳安所施終令人彘慘千古漢鼎幾被他人移安危一策下平勃不如竟食商山芝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 商山四皓
+  author: 姜希孟
+  language: lzh
+  text: 漢高大度起布衣。手提三尺開漢基。駕馭英雄睿謀深。豈於天性迷所爲。動搖邦本非細事。微意詎可常情知。呂戚相圖怨已極。畢竟寧免相殘夷。胡爲應幣煩起來。聊作羽翼隨安危。鴻鵠高飛橫四海。高皇繒繳安所施。終令人彘慘千古。漢鼎幾被他人移。安危一策下平勃。不如竟食商山芝。
+korean:
+  title: 상산 사호
+  author: 강희맹
+  language: kor
+  text: |-
+    도량 큰 한고조가 포의에서 일어나
+    손에 삼척검을 들고 한의 터를 열었네
+    영웅들을 어거리는 도략이 깊었으니
+    어찌 천성(부자간)에 할 일을 그르칠까
+    국본을 흔듦이 작은 일이 아니니
+    그 분의 은밀한 뜻을 상정으로 어찌 알리
+    여씨와 척부인이 서로 해치려는 원망이 이미 극했으니
+    필경은 마침내 상잔의 비극이 올 것
+    상산사호는 어째서 폐백을 받고 번거로이 왔던고
+    태자의 우익 되어 안위를 결정했네
+    기러기 높이 날아 사해를 가로지르니
+    고황의 그물인들 어떻게 손을 쓰리
+    마침내 인체의 천고 참변
+    한정이 하마터면 남에게 옮을 뻔했네
+    안위의 계책이 진평ㆍ주발보다 못했으니
+    사호여 끝에 상산의 지초를 먹음만 못하였네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상산 사호(商山四皓) : '
+    value: 한고조(漢高祖)가 척부인(戚夫人)의 아들을 사랑하여 여후(呂后)의 아들인 태자(太子)와 바꾸려 하매 여후가 장량(張良)의 꾀를 써서 상산에 있는 네 노인[四皓]을 불러다가 태자를 보좌하였다. 고조(高祖)는 척부인을 보고, “〈태자는〉우익(羽翼)이 이미 이루어 졌으니 움직이기 어렵다. 기러기가 공중에 높이 날았으니 비록 그물이나 화살이 있은들 어이하라.” 하였다.
+  - key: '[주-D002] 인체(人彘) : '
+    value: 고조(高祖)가 죽은 뒤에 여후(呂后)가 척부인의 손발을 끊고 눈을 빼고 뒤간[厠]에 넣어 두고 인돼지[人彘]라 하였다.
+  - key: '[주-D003] 안위(安危)의 …… 못했으니 : '
+    value: 진평과 주발 두 사람의 여씨(呂氏)의 일족(一族)을 몰아내고 문제(文帝)를 세웠다.
+  - key: '[주-D004] 사호여 …… 못하였네 : '
+    value: 사호(四皓)가 처음 상산에 숨었을 때에 자지가(紫芝歌)를 지어 불렀는데, “붉은 지초는 요기(療飢)할 수 있도다.” 하였다.
+english:
+  title: The Four Elders of Mount Shang
+  author: Kang Hee-maeng
+  language: eng
+  text: |
+    The great Han founder rose from humble cloth,
+    A three-foot sword in hand to lay the kingdom's base.
+    With masterful schemes he ruled the heroes well—
+    would he err in what the heart bids do?
+
+    To shake the realm's foundation is no trifling thing,
+    yet secret counsels escape the common mind.
+    Lü and Qi's mutual hatred reached its peak;
+    truly, bitter conflict was destined to unfold.
+
+    Why did the Four Elders answer court's command?
+    They came to be the fledgling prince's wing.
+    The wild geese soar and traverse all four seas—
+    what use are the old emperor's net and snare?
+
+    Yet in the end came that ghastly fate,
+    when the Han throne nearly passed to another's hand.
+    One strategy from Zhen Ping and Zhou Bo might have sufficed—
+    but the Elders could only retreat to feast on mountain mushrooms.
+  footnotes:
+  - key: ''
+    value: The Four Elders of Mount Shang were summoned by Empress Lü to support the Crown Prince against Emperor Gaozu's wish to replace him with the son of the Concubine Qi. Their presence at court symbolized the prince's established position.
+  - key: ''
+    value: The 'human pig' refers to the cruel fate of Concubine Qi after Gaozu's death, when Empress Lü took brutal revenge—a tragedy the Elders' intervention helped prevent for the legitimate heir.
+  - key: ''
+    value: The poem contrasts the Four Elders' role in securing the succession with later political figures like Chen Ping and Zhou Bo, who took active measures against the Lü clan after Empress Lü's death.

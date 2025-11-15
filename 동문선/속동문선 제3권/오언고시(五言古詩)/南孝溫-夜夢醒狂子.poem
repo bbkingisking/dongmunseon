@@ -1,0 +1,74 @@
+canonical:
+  title: 夜夢醒狂子
+  author: 南孝溫
+  language: lzh
+  text: 故人千里來來入我睡鄕疑是平生魂慇勤和詩章公來春草生公去關山長山鬼一脚短脩蛇十尺強公肯押此物我懷良可傷攀衣啼一聲天意颯晩涼因嗟子夫子往者在鴛行一言扶國事到今成黃粱零落舊靑蒲凄凄風雨塲丹心空貫日眞宰意茫茫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜夢醒狂子
+  author: 南孝溫
+  language: lzh
+  text: 故人千里來。來入我睡鄕。疑是平生魂。慇勤和詩章。公來春草生。公去關山長。山鬼一脚短。脩蛇十尺強。公肯押此物。我懷良可傷。攀衣啼一聲。天意颯晩涼。因嗟子夫子。往者在鴛行。一言扶國事。到今成黃粱。零落舊靑蒲。凄凄風雨塲。丹心空貫日。眞宰意茫茫。
+korean:
+  title: 야몽 성광자
+  author: 남효온
+  language: kor
+  text: |-
+    고인이 천리 길을 와서
+    와서 내 꿈에 들었구나
+    아마도 생시의 혼인 듯
+    은근히 시까지 화답했네
+    공이 오는 덴 봄풀이 나더니
+    공이 가니 관산이 아득하였네
+    산귀신은 한 다리가 짧다 하고
+    긴 구렁이는 열 자가 넘는다는데
+    공은 이 물건들을 누르고 왔으니
+    내 회포 진실로 서러운지고
+    옷 붙잡고 한 마디 물었더니
+    하늘 뜻은, 싸늘한 늦은 바람이 우수수
+    생각하니, 아, 선생께옵서
+    옛날 조정 반열에 있을 때
+    한 말씀으로 국사를 붙드시더니
+    지금엔 모두 다 한 바탕 꿈
+    청포는 영락하여서
+    풍우가 몰아치는 처처한 마당
+    단심만 부질없이 해를 뀄으니
+    하늘 뜻이 진실로 아득하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0580&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청포(靑蒲) : '
+    value: 임금의 자리 앞에 깔린 청포석(靑蒲席)인데, 신하가 임금의 허물을 지극히 간(諫)할 때에는 이 자리에 엎드린다.
+english:
+  title: 'A Dream Awakened in the Night: On a Madman'
+  author: Nam Hyo-on
+  language: eng
+  text: |-
+    An old friend comes from a thousand leagues away,
+    Entering the realm of my sleep.
+    Could it be the spirit of days gone by?
+    Gently it answered with verses of its own.
+
+    Where you came, spring grass sprouted,
+    Where you departed, mountains grew distant.
+    They say the mountain spirit limps on one leg,
+    The great serpent stretches ten feet long—
+    Yet you pressed down upon such things,
+    And my heart bears the weight of longing.
+
+    I grasped your sleeve and asked one thing,
+    But heaven's answer came only as cold evening wind.
+    Ah, I think of you, my teacher—
+    Once you stood in the royal court,
+    One word from you upheld the realm,
+    Now it has all become like millet in a dream.
+
+    The blue mat lies in ruins,
+    Wind and rain sweep across the empty hall.
+    Your faithful heart has shone in vain upon the sun,
+    And heaven's will remains obscured and distant.
+  footnotes:
+  - key: ''
+    value: The 'blue mat' (청포) traditionally refers to the cushioned seat before the throne where loyal ministers would kneel to remonstrate with the king—a symbol of faithful service to the state.
+  - key: ''
+    value: The 'millet dream' alludes to the classical Chinese tale of a man who experienced an entire lifetime in a dream that lasted only as long as millet cooked for dinner, evoking the fleeting and illusory nature of worldly ambition.

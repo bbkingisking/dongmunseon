@@ -1,0 +1,33 @@
+canonical:
+  title: 上都皇帝起居表
+  author: 李奎報
+  language: lzh
+  text: 箕封繫迹邈居日出之邦漢闕懸心遙祝天長之壽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上都皇帝起居表
+  author: 李奎報
+  language: lzh
+  text: 箕封繫迹。邈居日出之邦。漢闕懸心。遙祝天長之壽。
+korean:
+  title: 도 황제께 문안하는 글
+  author: 이규보
+  language: kor
+  text: 기봉(箕封)에 몸이 매어 멀리 해뜨는 나라에 살면서, 한궐(漢闕)에 마음이 달려[懸] 멀리 하늘처럼 긴 성수(聖壽)를 축원하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0420_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial Presenting Salutations to the Emperor of the Upper Capital
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    Though my form remains bound within these eastern lands, far where the sun rises anew,
+    My heart hangs ever toward the imperial halls,
+    And from this distance, I offer prayers for the Emperor's years—
+    As long and boundless as heaven itself.
+  footnotes:
+  - key: ''
+    value: The 'eastern lands' refers to Korea, positioned east of the Yuan capital. 'Upper Capital' (上都) refers to Khanbaliq, the summer capital of the Yuan Dynasty.
+  - key: ''
+    value: The poem employs the classical conceit of physical distance from the center of power contrasted with unwavering spiritual devotion—a common trope in tributary poetry of the Goryeo period.

@@ -1,0 +1,44 @@
+canonical:
+  title: 賀表
+  author: 崔惟淸
+  language: lzh
+  text: 夏正肇立協萬物之資生周曆俯頒揭四時之成法聲敎所曁欣賴攸同中賀 恭惟皇帝生禀睿明日新德業體至神之不測叙大順以無爲六府孔修若北斗之酌元氣一人有慶正南面以朝諸侯臣幸値昌辰坐拘遠服想雲龍之會慙莫預於稱觴顧蓬艾之存第自知於頌聖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀表
+  author: 崔惟淸
+  language: lzh
+  text: 夏正肇立。協萬物之資生。周曆俯頒。揭四時之成法。聲敎所曁。欣賴攸同。中賀。 恭惟皇帝。生禀睿明。日新德業。體至神之不測。叙大順以無爲。六府孔修。若北斗之酌元氣。一人有慶。正南面以朝諸侯。臣幸値昌辰。坐拘遠服。想雲龍之會。慙莫預於稱觴。顧蓬艾之存。第自知於頌聖。
+korean:
+  title: 하례하는 표
+  author: 최유청
+  language: kor
+  text: 하(夏)의 역법(曆法)이 제정되니 만물이 생장하겠고, 주(周)의 역서(曆書)가 반포되어 사시(四時)의 법도를 표시하였으니,성교(聲敎)가 미치는 곳에 기쁨과 의지함이 모두 같나이다. 중하(中賀) 엎드려 생각하면, 황제께서 타고나신 성명(聖明)으로 덕업(德業)을 날로 새롭게 하사, 측량할 수 없는 신(神)을 본받아 대순(大順)의 덕을 행하시되 무위(無爲)로써 하시니, 육부(六府 수ㆍ화ㆍ금ㆍ목ㆍ토ㆍ곡(穀))가 잘 다스려짐이 마치 북두(北斗)가 원기(元氣)를 푸는[酌] 것과 같고, 한 분이 경사가 있어 바로 남면(南面)하여 제후(諸侯)의 조회를 받나이다. 신(臣)이 다행히 성대(盛代)를 만났으나 멀리 변방(邊邦)에 구애되어 운룡(雲龍)의 모임에 헌수배(獻壽杯)를 올리지 못함이 부끄럽사오나, 봉애(蓬艾 쑥)같은 미물(微物)로서 오직 성인(聖人)을 기릴 줄은 아나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하(夏)의 …… 제정되니 : '
+    value: 지금의 음력이 하나라의 역법(曆法)이다.
+  - key: '[주-D002] 주(周)의 …… 표시하였으니 : '
+    value: 주(周)에서 제후(諸侯)에게 역서(曆書)를 반포하였다.
+  - key: '[주-D003] 대순(大順)의 덕 : '
+    value: 《예기(禮記)》에 나오는 말인데, “천자가 덕과 예악(禮樂)을 닦아 제후와 백성이 친목한 것을 대순이라 한다.” 하였다.
+  - key: '[주-D004] 북두(北斗)가 …… 같고 : '
+    value: 북두성(北斗星)이 국자처럼 생겼으므로 푸는 것과 같다고 한 것이다.
+  - key: '[주-D005] 운룡(雲龍)의 모임 : '
+    value: 《주역》에, “구름이 용을 따른다.” 한 말이 있는데 구름은 신하요, 임금은 용에 비유한 것이다.
+english:
+  title: A Commemorative Memorial on the Summer Calendar
+  author: Choe Yugyeong
+  language: eng
+  text: |-
+    When the Summer calendar is established, the ten thousand things flourish in their natural growth. When the Zhou records are promulgated, the four seasons reveal their perfect order. Wherever the voice of instruction reaches, joy and reliance are as one.
+
+    With utmost reverence, I contemplate: Your Majesty, born with sagacious brilliance, daily renews the virtues of your conduct. Embodying the unfathomable mystery of Heaven, you practice the Great Harmony through non-action. The six treasures of the realm are well-governed—like the Northern Star drawing forth the primal breath of the cosmos. In this one person's good fortune, you face southward to receive the homage of all lords. Though your servant has had the fortune to witness this glorious age, I remain bound to distant frontiers, unable to join in that meeting of cloud and dragon, unable to raise the cup in celebration. Yet this humble creature of weed and mugwort knows at least how to honor the Sage.
+  footnotes:
+  - key: ''
+    value: The Summer calendar refers to the lunar calendar still used today.
+  - key: ''
+    value: The Northern Star, shaped like a ladle, 'draws forth' the vital breath of Heaven in the same way.
+  - key: ''
+    value: The meeting of cloud and dragon alludes to the ideal harmony between sovereign and ministers, where the cloud follows the dragon—the cloud representing subjects, the dragon representing the ruler.

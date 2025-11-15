@@ -1,0 +1,53 @@
+canonical:
+  title: 夜吟
+  author: 李穡
+  language: lzh
+  text: 行年已知命身世轉悠哉細雨燈前落名山枕上來憂時知杞國請始有燕臺恰到俱忘處心原冷欲灰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜吟
+  author: 李穡
+  language: lzh
+  text: 行年已知命。身世轉悠哉。細雨燈前落。名山枕上來。憂時知杞國。請始有燕臺。恰到俱忘處。心原冷欲灰。
+korean:
+  title: 야음
+  author: 이색
+  language: kor
+  text: |-
+    내 나이 벌써 오십인데
+    신세가 더욱 망연하네
+    가는 비는 등잔불 앞에 뿌리고
+    좋은 산은 베개 위에 오네
+    때를 근심하니 기국 사람의 마음알겠고
+    내게서 시작하라는 것은 연나라 대가 있네
+    영욕을 다 잊는 지경에 이르러
+    마음이 찬 재로 되려 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 기국(杞國) 사람의 마음 : '
+    value: 기국(杞國)의 어느 사람이, 만약 하늘이 무너지면 어찌하나 하고 매우 근심하였다.
+  - key: '[주-D002] 연(燕)나라 대(坮) : '
+    value: 연 소왕(燕昭王)이 어진 선비를 구하니, 곽외(郭隗)가 말하기를, “옛날에 임금이 천리마(千里馬)를 구하려고, 사람을 시켜 천금(千金)을 가지고 사방으로 다니며 찾으라 하였더니, 그 사람이 천리마를 찾고 본즉, 말이 이미 죽어 있었습니다. 죽은 말의 머리를 오백금에 사 가지고 왔더니 임금이 노하여 꾸짖으므로, 그 사람이 대답하기를, ‘죽은 천리마를 오백금에 샀다는 소문이 사방에 퍼지면 산 천리마가 절로 찾아 올 것입니다.’ 하더니, 과연 일 년 만에 천리마를 몰고 온 사람이 둘이나 되었다 합니다. 그런즉, 내가 비록 어질지 못하나 어진 선비를 구하시려면 먼저 나에게 융숭한 대접을 시작하여 보십시오.” 하였다. 연 소왕은 그 말대로 대(坮)를 쌓고 곽외를 먼저 스승으로 섬기었더니, 과연 사방에서 어진 사람들이 모여들었다.
+english:
+  title: Night Verses
+  author: Lee Saek
+  language: eng
+  text: |-
+    Fifty years have passed, and I know fate's hand.
+    My life grows ever more adrift and vain.
+    Fine rain falls before the lamp's soft glow,
+    And distant mountains rest upon my pillow.
+
+    Worrying over the times, I understand
+    The anxious heart of those in Qi state.
+    Yet change must start with me, they say—
+    Like the grand terrace that drew worthy men.
+
+    When all ambition and desire are worn away,
+    My heart turns cold, becoming dust and ash.
+  footnotes:
+  - key: ''
+    value: The anxiety of Qi state refers to a man from Qi who worried endlessly about the sky falling—a metaphor for baseless fear and unnecessary worry about the times.
+  - key: ''
+    value: The terrace of Yan alludes to how the sage Guo Wei advised King Zhao of Yan to first show respect to worthy scholars. Just as people came seeking the king's patronage after he honored Guo Wei, so the poet suggests that virtue and transformation must begin with oneself.

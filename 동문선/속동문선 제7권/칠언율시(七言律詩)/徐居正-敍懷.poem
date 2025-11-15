@@ -1,0 +1,48 @@
+canonical:
+  title: 敍懷
+  author: 徐居正
+  language: lzh
+  text: 大隱誰知在世間宦情塵思共闌珊已諳一鐵能成錯未信千錢可買閑詩道中興黃太史世緣終淺白香山殘年心事憑誰語笑把靑菱仔細看
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 敍懷
+  author: 徐居正
+  language: lzh
+  text: 大隱誰知在世間。宦情塵思共闌珊。已諳一鐵能成錯。未信千錢可買閑。詩道中興黃太史。世緣終淺白香山。殘年心事憑誰語。笑把靑菱仔細看。
+korean:
+  title: 서회
+  author: 서거정
+  language: kor
+  text: |-
+    누가 알리 대은이 세간에 있는 줄을
+    벼슬 정과 티끌 생각이 어지럽게 무르녹나니
+    한 쇠가 착되는 줄을 이미 알면서
+    천금으로도 한가함을 사지 못할 줄은 믿지 못하네
+    시의 도는 중간에서 황태사(황산곡)에게서 일어났고
+    세상 인연은 마침내 백향산(백락천)에서 엷어졌다
+    늙은이의 이 심사를 누구에게 말하리
+    웃으며 푸른 마름을 쥐고 자세히 본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0250&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections on My Heart
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Who knows the great hermit dwells among the world?
+    Official ambitions and dusty thoughts fade and blur together.
+    I have learned that iron rusts and becomes worthless—
+    yet still I cannot believe gold cannot purchase leisure.
+
+    The way of poetry found its spring in the Yellow Historian's words,
+    while worldly ties grew thin as moonlight on White Mountain.
+    To whom shall I speak these cares of my aging years?
+    I smile and gaze intently at the green lotus leaf.
+  footnotes:
+  - key: ''
+    value: The Yellow Historian (黃太史) and White Mountain (白香山) are allusions to literary masters and transcendent poets of China, representing ideals of poetic achievement and spiritual withdrawal.
+  - key: ''
+    value: The image of iron rusting and becoming flawed serves as a metaphor for the inevitable decay of worldly pursuits and ambitions.
+  - key: ''
+    value: The green lotus leaf in the final image symbolizes simplicity, purity, and contemplative peace—a retreat from the complexities of official life.

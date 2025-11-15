@@ -1,0 +1,48 @@
+canonical:
+  title: 僕世故多不快意雖有秋花未能解余懷對之紙益自悲酒亦不可飮也故此奉投病眼尙一明如君之亦覆觴何此花可謂厄耳誾白容齋先生
+  author: 朴誾
+  language: lzh
+  text: 對花空自歎有酒爲誰煎寄與詩人宅應同驛使傳愁懷謾今日細酌記前年獨閉寒齋卧生涯轉索然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 僕世故多不快意雖有秋花未能解余懷對之紙益自悲酒亦不可飮也故此奉投病眼尙一明如君之亦覆觴何此花可謂厄耳誾白容齋先生
+  author: 朴誾
+  language: lzh
+  text: 對花空自歎。有酒爲誰煎。寄與詩人宅。應同驛使傳。愁懷謾今日。細酌記前年。獨閉寒齋卧。生涯轉索然。
+korean:
+  title: 나는 세상 일이 마음에 불쾌한 것이 많아서 비록 가을 국화가 있어도 나의 회포를 풀어 주지 못하고, 그것을 대하면 더욱 비감할 뿐이며, 술도 또한 마실 수 없는지라, 그러므로 이것을 보내노라. 병난 눈이 그래도 한 번 밝아질까 한다. 만일 그대도 역시 잔을 엎어 놓았다 하면 어찌할꼬. 그 꽃은 액운을 만났다고 하겠네. 은은 용재 선생에게 올린다.
+  author: 박은
+  language: kor
+  text: |-
+    꽃을 대해 부질없이 스스로 한탄하고
+    술이 있지마는 누구 위해 데울까
+    시인의 집에 글을 보내는 것은
+    마치 역사의 전하는 것 같으리
+    근심스러운 회포는 오늘의 속음[謾]인데
+    조금씩 마시면서 전년 일을 생각한다
+    혼자 찬 서재의 문을 닫고 누웠나니
+    이 생애는 갈수록 삭막하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0930&viewSync=OT
+  footnotes: []
+english:
+  title: To Master Yongje, Sent with Autumn Chrysanthemums
+  author: Park Eun
+  language: eng
+  text: |-
+    Before the flowers, I sigh to no avail—
+    Wine sits untouched; for whom should I prepare it?
+    I send these words to a poet's dwelling,
+    As a messenger might carry them on.
+
+    My sorrows crowd this day like empty noise;
+    I sip slowly, remembering years gone by.
+    Alone in my cold study, I close the door and lie,
+    And watch my life grow ever more desolate.
+  footnotes:
+  - key: ''
+    value: 'This poem was sent along with chrysanthemums to Yongje (容齋), another name for the recipient. The title''s prose preface reveals Park Eun''s melancholy state: neither autumn flowers nor wine can dispel his heavy heart.'
+  - key: ''
+    value: The 'messenger' (驛使) alludes to the practical means of conveying both the poem and the flowers—a common conceit in classical poetry.
+  - key: ''
+    value: The final image of the 'cold study' echoes the Buddhist theme of worldly transience common in Korean literati poetry of the period.

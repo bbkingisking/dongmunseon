@@ -1,0 +1,41 @@
+canonical:
+  title: 嶺南行錄
+  author: 申泂
+  language: lzh
+  text: 病中雙鬢雪花明獨把菱花暗自驚身逐短蓬飄不定事隨流水去無聲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 嶺南行錄
+  author: 申泂
+  language: lzh
+  text: 病中雙鬢雪花明。獨把菱花暗自驚。身逐短蓬飄不定。事隨流水去無聲。
+korean:
+  title: 영남 행록
+  author: 신형
+  language: kor
+  text: |-
+    병중이라 두 귀밑에 눈꽃이 희디흴 제
+    마름꽃 홀로 갖고 가만히 놀랐노라
+    이 몸은 쑥대인 양 나부껴 마지 않고
+    세상 일 유수 따라 소리없이 가노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: Record of Travels in Lingnan
+  author: Shin Hyeong
+  language: eng
+  text: |-
+    In sickness, twin temples crowned with snow-flowers gleam.
+    Alone with my mirror, I start at what I see.
+    My body drifts like tumbleweed, never still,
+    While worldly affairs slip away like flowing streams, without a sound.
+  footnotes:
+  - key: ''
+    value: Lingnan (嶺南) refers to the region south of the Ling Mountains, corresponding to modern-day Guangdong and Guangxi in China.
+  - key: ''
+    value: The mirror metaphor (菱花) alludes to self-reflection and the poet's confrontation with aging and mortality.
+  - key: ''
+    value: Tumbleweed serves as an image of life's rootlessness and the body's helplessness before circumstance.
+  - key: ''
+    value: The poem juxtaposes the visible signs of aging (white hair) with the invisible passage of time and human affairs.

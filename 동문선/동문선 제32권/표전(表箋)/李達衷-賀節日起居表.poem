@@ -1,0 +1,31 @@
+canonical:
+  title: 賀節日起居表
+  author: 李達衷
+  language: lzh
+  text: 甞荷仁恩叨襲箕裘於下國遠輸忠懇想瞻黼黻於重霄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀節日起居表
+  author: 李達衷
+  language: lzh
+  text: 甞荷仁恩。叨襲箕裘於下國。遠輸忠懇。想瞻黼黻於重霄。
+korean:
+  title: 하 절일 기거 표
+  author: 이달충
+  language: kor
+  text: 일찍이 어지신 은혜를 입사와 외람되이 하국(下國)에서 기구(箕裘 선대(先代)의 업을 이음)를 이었사옵기 멀리 간절한 충성을 실어 보내면서 중소(重宵)의 보불(黼黻)을 상상하며 우러러보옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial Offering on the Festival Day
+  author: Lee Dal-chung
+  language: eng
+  text: Long have I received your benevolent grace, humbly inheriting my ancestor's legacy in this distant land. From afar, I send forth my earnest devotion, yearning to behold the embroidered robes of imperial majesty in the heavens above.
+  footnotes:
+  - key: ''
+    value: '箕裘 (Qi Qiu): A metaphor for inheriting and continuing one''s ancestors'' work and position, derived from the image of winnowing baskets and leather bellows passed down through generations'
+  - key: ''
+    value: '黼黻 (Fu Fu): Embroidered patterns symbolic of imperial authority and virtue, representing the dignity of imperial court'
+  - key: ''
+    value: '重霄 (Zhong Xiao): The layered heavens, a poetic reference to the celestial realm where imperial majesty dwells'

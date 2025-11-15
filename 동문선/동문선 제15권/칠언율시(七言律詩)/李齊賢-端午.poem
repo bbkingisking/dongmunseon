@@ -1,0 +1,45 @@
+canonical:
+  title: 端午
+  author: 李齊賢
+  language: lzh
+  text: 旅食京華十過春西來又作問津人半生已被功名誤久客偏驚節物新萍梗覊蹤靑海月松楸歸夢泰封塵旗亭且飮菖蒲酒未用醒吟學楚臣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 端午
+  author: 李齊賢
+  language: lzh
+  text: 旅食京華十過春。西來又作問津人。半生已被功名誤。久客偏驚節物新。萍梗覊蹤靑海月。松楸歸夢泰封塵。旗亭且飮菖蒲酒。未用醒吟學楚臣。
+korean:
+  title: 단오
+  author: 이제현
+  language: kor
+  text: |-
+    경사 와서 여식한 지 열 봄이 지났는데
+    서쪽으로 와 또 길손이 되었구나
+    공명 때문에 반생을 이미 그르쳤네
+    객지에 오래 머무르니 명절이 놀라누나
+    부평 같은 나그네 종적은 청해의 달 밑이요
+    고향에 돌아갈 꿈은 태봉 먼 고장
+    술집 찾아들어 창포주를 마시노니
+    술 안 먹고 읊조리는 굴원 안 배우네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0520&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 술 안 먹고 읊조리는 굴원(屈原) : '
+    value: 굴원의 〈어부사(漁父辭)〉에 굴원이 못가에 다니며 읊조리다가 어부를 만나, “뭇사람 다 취하되 나는 홀로 깨었네.” 하였다는 말이 있다.
+english:
+  title: Dragon Boat Festival
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    Ten springs have passed since I came to the capital to seek my fortune.
+    Western wanderer still, I've become a traveler once more.
+    Half my life already wasted in pursuit of fame and rank.
+    Long in exile, each season's turning strikes me with surprise.
+    Like duckweed adrift, my vagrant trace lies beneath the moon of distant seas.
+    My homeward dreams return to that distant, dust-covered land.
+    I slip into a tavern to drink the sweet iris wine,
+    yet refuse to learn from Qu Yuan—to recite while sober.
+  footnotes:
+  - key: ''
+    value: Qu Yuan, the great poet-statesman of ancient Chu, appears in his 'Song of the Fisherman' refusing to drink with others while maintaining his moral clarity, declaring 'All the world grows drunk, but I alone remain awake.' The allusion suggests the speaker's ambivalent stance between worldly participation and principled withdrawal.

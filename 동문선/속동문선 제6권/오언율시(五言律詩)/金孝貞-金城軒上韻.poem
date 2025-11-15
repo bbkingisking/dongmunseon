@@ -1,0 +1,46 @@
+canonical:
+  title: 金城軒上韻
+  author: 金孝貞
+  language: lzh
+  text: 危途多險巇小智厭間間樹愛高低靜雲憐去住閑年光看逝水歸思憶家山明日淮陽路愁聞鐵嶺關
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金城軒上韻
+  author: 金孝貞
+  language: lzh
+  text: 危途多險巇。小智厭間間。樹愛高低靜。雲憐去住閑。年光看逝水。歸思憶家山。明日淮陽路。愁聞鐵嶺關。
+korean:
+  title: 김성헌 상운
+  author: 김효정
+  language: kor
+  text: |-
+    위태한 길에는 험한 곳 많고
+    작은 지혜는 간간을 싫어 한다
+    나무는 높거나 낮거나 고요한 것 사랑하고
+    구름은 가거나 있거나 한가한 것 좋아한다
+    흐르는 물에서 세월을 보고
+    고향 생각에서 돌아가기 생각한다
+    밝는 날에는 저 회양 길에서
+    철령의 어려움을 근심스레 들으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0600&viewSync=OT
+  footnotes: []
+english:
+  title: Verses Composed Above the Golden City Pavilion
+  author: Kim Hyo-jeong
+  language: eng
+  text: |-
+    Perilous roads hold countless perils—
+    Small wisdom grows weary of endless toil.
+    Trees find peace in height or depth alike,
+    Clouds find grace in going or remaining still.
+
+    I watch the years slip past like flowing water,
+    And in my longing for home, I dream of return.
+    Tomorrow on the Huaiyang road I travel,
+    Anxiously listening for news of the Iron Ridge Pass.
+  footnotes:
+  - key: ''
+    value: The Huaiyang road and Iron Ridge Pass reference a journey northward, evoking both physical separation and emotional distance from home.
+  - key: ''
+    value: The contrast between the indifference of nature (trees and clouds) and the poet's restless human longing creates the poem's central tension.

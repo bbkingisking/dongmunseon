@@ -1,0 +1,50 @@
+canonical:
+  title: 平齋
+  author: 許錦
+  language: lzh
+  text: 久卧靑氈欲破穿何人記憶訪蕭然平生多病知誰使壯歲無成只自憐事與世謀違素志道隨時變慕前賢泰來莫忘分燈讀靜處長懷共被眠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 平齋
+  author: 許錦
+  language: lzh
+  text: 久卧靑氈欲破穿。何人記憶訪蕭然。平生多病知誰使。壯歲無成只自憐。事與世謀違素志。道隨時變慕前賢。泰來莫忘分燈讀。靜處長懷共被眠。
+korean:
+  title: 병중에 평재
+  author: 허금
+  language: kor
+  text: |-
+    오래 누웠으니 푸른 담요 다 해지려는데
+    뉘 나를 기억하여 쓸쓸한 곳 찾아올꼬
+    평생에 다병한 몸 누가 시켜 이러한고
+    장년에 이룬 것 없어 스스로 가엾구나
+    세속과 일을 맞추자니 본뜻이 틀어지니
+    때에 따라 도를 변통하던 선현을 사모하네
+    출세하거든 한 등불 하래 글읽었음 잊지 마소
+    예전에 한 이불 덮고 자던 일이 생각나네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: During Illness at Pyeong-jae
+  author: Heo Geum
+  language: eng
+  text: |-
+    Long I have lain upon this worn blue felt,
+    Who remembers me enough to seek this lonely place?
+    This sickly frame throughout my life—who ordained it so?
+    In my prime, nothing gained, I pity only myself.
+
+    When I comply with worldly affairs, my true purpose bends,
+    I admire those ancients who adapted their way with the times.
+    Should fortune rise, forget not the lamp by which I once read,
+    In quiet solitude, I recall those nights we shared one quilt.
+  footnotes:
+  - key: ''
+    value: Pyeong-jae (平齋) refers to the author's study or retreat, suggesting both a physical space and a state of mind during illness.
+  - key: ''
+    value: The 'blue felt' (靑氈) evokes both the humble circumstances of the poet and the worn passage of time through prolonged illness.
+  - key: ''
+    value: The contrast between 'worldly affairs' and one's 'true purpose' (素志) reflects the tension between pragmatic survival and philosophical ideals central to Korean literati thought.
+  - key: ''
+    value: The final image of sharing 'one quilt' suggests communion with a fellow scholar or spiritual companion, evoking both companionship and the hardships of their shared learning.

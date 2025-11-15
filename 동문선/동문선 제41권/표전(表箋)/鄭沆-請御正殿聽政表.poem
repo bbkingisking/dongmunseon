@@ -1,0 +1,46 @@
+canonical:
+  title: 請御正殿聽政表
+  author: 鄭沆
+  language: lzh
+  text: 臣某等言伏以繼體承基茂啓千齡之業居憂過禮尙虛正宁之朝凡曁臣工靡遑夙夜中謝 恭惟聖上紹休前烈思孝先靈抱弓劒以長號睹羹墻而在念猶退次以自損旣免喪而不言難副群情實虧彝制伏望天臨大廈端爲北極之尊日斷萬幾務廣重華之德臣等無任祈天竢命激切屛營之至
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 請御正殿聽政表
+  author: 鄭沆
+  language: lzh
+  text: 臣某等言。伏以繼體承基。茂啓千齡之業。居憂過禮。尙虛正宁之朝。凡曁臣工。靡遑夙夜。中謝。 恭惟聖上紹休前烈。思孝先靈。抱弓劒以長號。睹羹墻而在念。猶退次以自損。旣免喪而不言。難副群情。實虧彝制。伏望天臨大廈。端爲北極之尊。日斷萬幾。務廣重華之德。臣等無任祈天竢命激切屛營之至。
+korean:
+  title: 정진에 앉아서 청정하기를 청하는 표
+  author: 정항
+  language: kor
+  text: 신 아무 등은 아뢰옵니다. 엎드려 생각하옵건대, 위(位)를 잇고 터[基]를 받음은 거룩히 천년의 업을 열자는 것이온데, 상(商)을 만나 예에 지나쳐 아직도 정저(正宁 정전(正殿))의 조회에 빠지시니, 무릇 신료들은 밤낮으로 마음 둘 곳 없사옵니다. 중사(中謝) 삼가 생각하옵건대, 성상께서는 전열(前烈)의 아름다움을 이어받으시고 선령(先靈)께 효도를 바치시와, 궁검(弓劒)을 안고 길이 부르짖으시며, 갱장(羹墻)에서도 뵈옵는 듯이 생각하시오나, 오히려 퇴차(退次)하여 스스로 부족하게 여기시고, 이미 3년상을 마치고도 말씀하시지 아니하시니[免喪不言], 뭇 사람들의 하정에 부응되기 어려울 뿐 아니오라, 실로 법제에 어긋난 일이옵니다. 엎드려 바라옵건대, 대하(大廈)에 군림[君臨]하시와 단연히 북극의 높음이 되시고, 날로 만기(萬幾)를 처결하시와 중화(重華)의 덕을 넓히시옵소서. 신 등은 하늘에 기도하며 명을 기다리오매 감격하고 황송함을 이길 길 없사옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0440_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 궁검(弓劒) : '
+    value: 《사기(史記)》 〈봉선서(封禪書)〉에, “황제(黃帝)가 수산(首山)의 동(銅)을 캐어 형산(荊山) 아래서 솥을 지었는데, 그 솥이 완성되자 하늘에서 수염을 드리운 용(龍)이 내려와서 황제를 맞으니 황제는 올라탔으나. 그때 황제를 시종한 여러 신하와 후궁(後宮) 70여 명은 타지를 못했다. 용이 마침내 올라가니 나머지 소신(小臣)들이 모두 용의 수염을 잡고 늘어졌으나 용의 수염이 뽑히면서 신하들과 황제의 활과 칼을 떨어뜨렸다. 황제가 하늘로 올라가버리니 백성은 그 궁검(弓劒)과 용의 수염을 안고 울었다.” 하였다. 그래서 뒤에 임금이 돌아 간 것을 궁검 이라 한다.
+  - key: '[주-D002] 갱장(羹墻) : '
+    value: 《후한서(後漢書)》 〈이고전(李固傳)〉에, “요(堯) 임금이 돌아간 뒤에 순(舜) 임금이 3년을 사모하여, 앉으면 요 임금을 담장에서 뵙고 밥먹으면 국그릇에서 뵈었다.” 하였다.
+  - key: '[주-D003] 퇴차(退次) : '
+    value: 임금의 위차(位次)에서 물러왔다는 말이다.
+  - key: '[주-D004] 3년상을 …… 아니하시니 : '
+    value: 면상불언(免喪不言). 《서경(書經)》 〈열명편(說命篇)〉에, “은(殷)나라 고종(高宗)이 이미 3년상을 마치고, 신하와 더불어 정사를 말하지 아니하니, 여러 신하가 모두 임금에게 간하였다[王旣免喪 猶惟不言 群臣成諫于王].” 하였다.
+  - key: '[주-D005] 중화(重華) : '
+    value: 《서경(書經)》 〈순전(舜典)〉에, “중화하여 제(帝)에게 화협(和協)했다.[重華協于帝]” 하였다. 그래서 순 임금을 중화라 칭한다.
+english:
+  title: Memorial Requesting His Majesty to Ascend the Throne and Resume Governance
+  author: Jung Hang
+  language: eng
+  text: |-
+    Your humble servants respectfully submit: We contemplate that in inheriting the throne and receiving its foundation, the glorious enterprise of a thousand ages is opened. Yet burdened by mourning that exceeds propriety, the court of the正殿remains vacant still. All of us officials find no rest, day and night consumed with uncertainty.
+
+    We humbly reflect: Your Majesty inherits the splendor of your predecessors and cherishes filial devotion to the spirits of the ancients. You embrace the symbols of departed rule and cry out in perpetual remembrance; at every meal and threshold you perceive their presence. Yet you continue in withdrawal, deeming yourself unworthy. Though the three years of mourning are fulfilled, you remain silent. This grieves the hearts of the multitude and violates the sacred ordinances.
+
+    We reverently beseech: Ascend the great hall and take your seat as the supreme North Star. Each day resolve the ten thousand affairs of state and magnify the virtues of the sage rulers of old. We, your servants, can only pray to Heaven and await your command, our hearts overflowing with gratitude and awe beyond measure.
+  footnotes:
+  - key: ''
+    value: The symbols of departed rule (弓劒) refer to the bow and sword left behind when a ruler ascends to heaven, a reference to the Yellow Emperor's ancient ascension; here used metaphorically for the instruments of sovereignty left by the deceased king.
+  - key: ''
+    value: Perceive their presence at every meal and threshold (羹墻) alludes to the sage Emperor Shun, who so deeply mourned his predecessor that he seemed to see him in every corner of his daily life.
+  - key: ''
+    value: The three years of mourning (免喪) refers to the Confucian mourning period; the memorial echoes the historical precedent of the Shang king Gaozong, who similarly maintained silence even after this period concluded.

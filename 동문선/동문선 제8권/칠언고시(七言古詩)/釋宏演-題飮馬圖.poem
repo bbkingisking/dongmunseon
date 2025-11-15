@@ -1,0 +1,72 @@
+canonical:
+  title: 題飮馬圖
+  author: 釋宏演
+  language: lzh
+  text: 江南芳草春政肥奚奴飮馬河水湄波光照見五花影蘭筋落落精權奇乃知此是大官馬五品以下焉致之前年刷馬幽燕去州縣遞送不敢遅中途百萬半飢死但留騣尾丞相知大街白日馬聲少蹇驢往往爭先馳去年八月天詔下寬恩亦許常人騎人閒驊騮不易得駑駘或受黃金羈豈無塩車困良驥伯樂已矣今何爲嗚呼伯樂已矣今何爲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題飮馬圖
+  author: 釋宏演
+  language: lzh
+  text: 江南芳草春政肥。奚奴飮馬河水湄。波光照見五花影。蘭筋落落精權奇。乃知此是大官馬。五品以下焉致之。前年刷馬幽燕去。州縣遞送不敢遅。中途百萬半飢死。但留騣尾丞相知。大街白日馬聲少。蹇驢往往爭先馳。去年八月天詔下。寬恩亦許常人騎。人閒驊騮不易得。駑駘或受黃金羈。豈無塩車困良驥。伯樂已矣今何爲。嗚呼伯樂已矣今何爲。
+korean:
+  title: 제 음마도
+  author: 석굉연
+  language: kor
+  text: |-
+    강남의 고운 풀이 봄날 한창 살쪘는데
+    종녀석이 하수 가에서 말에 물을 먹이누나
+    물결에 환히 비친 오화(털이 알록달록한 말을 오화마(五花馬)라 한다)의 그림자
+    난근도 늠름할씨고, 기특한 모습
+    알겠도다. 이는 필시 태관의 말
+    오품 이하라야 어찌 이럴 것인가
+    생각하니, 작년에 말 조공하러 유연에 갔을 때
+    고을마다 번갈아 압송하여 지체하지 못했네
+    백만 마리 중 반은 굶어 중도에 죽고
+    꼬리만을 떼어 승상께 바쳐 알렸을 뿐
+    이래서 큰 거리엔 대낮에도 말 소리가 아주 적고
+    절름발이 나귀들이 간간히 앞을 다퉈 달렸네
+    작년 8월에 조서를 내리시에
+    은전으로 상인도 말을 타게 했지만
+    세상에 천리마 얻기가 그리 쉬운 것가
+    노마가 간혹 황금 굴레를 쓰고 다니네
+    천리마야 없으랴만 소금 수레를 끄나니
+    백락(중국 주(周) 때의 말[馬]의 감정(鑑定)을 잘한 사람)이 없는 지금에 어이하리
+    아아, 백락이 없는 지금에 어이하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소금 수레 : '
+    value: 백락(伯樂) 손양(孫陽)이 일찍 우판(虞板)을 지나다가 보니, 천리마[騏驥]가 소금 수레 밑에 엎드려 있다가 백락을 보고 길이 우는지라, 백락이 수레에서 내려 보니 천리마가 이에 고개를 쳐들고 우는데 그 소리가 하늘에 사무쳤다 한다.
+english:
+  title: On a Painting of Horses Drinking
+  author: Seok Hong-yeon
+  language: eng
+  text: |-
+    In Jiangnan the tender grasses flourish with spring,
+    A groom leads painted horses to drink at the river's edge.
+    Wave-light reveals the shadows of five-colored coats—
+    Their sleek flanks shimmer with an almost magical grace.
+
+    Now I understand: these are the steeds of the great officials,
+    Beasts no officer below the fifth rank would dare to claim.
+    Yet I recall last year's tribute, when horses were pressed toward the north,
+    Each county compelled to send them on without delay.
+    Of a million gathered, half perished on the journey,
+    Their tails alone delivered to the Chancellor, to prove the loss.
+
+    Thus the great streets grow silent even at midday—
+    No noble hoofbeats, only lame donkeys hurrying past.
+    But last August an edict came from the throne,
+    Granting even merchants the grace to ride.
+    Still, true heavenly steeds are not so easily found;
+    Instead, mere nags wear golden bridles.
+
+    The mighty steed may languish dragging salt carts through the dust,
+    Yet Bole is gone—who now can recognize its worth?
+    Alas, Bole is gone—what can be done?
+  footnotes:
+  - key: ''
+    value: Bole (伯樂) was a legendary Chinese connoisseur of horses known for his ability to recognize superior steeds. The poem alludes to the famous story of Bole discovering a heavenly horse reduced to pulling a salt cart, emphasizing the tragedy of talent unrecognized and undervalued.
+  - key: ''
+    value: Five-colored horses (五花馬) were highly prized imperial steeds, distinguished by their distinctive patterned coats.

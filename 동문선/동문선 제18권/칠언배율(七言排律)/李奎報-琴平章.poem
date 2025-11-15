@@ -1,0 +1,63 @@
+canonical:
+  title: 琴平章
+  author: 李奎報
+  language: lzh
+  text: 咸郞才調世皆知奠鴈高門早叶龜英物夜生光照室賀賓朝集衽成帷不因外姓求佳壻豈向諸孫得異兒要待識聲溫大尉何煩摩頂誌禪師羽毛會作冲天鶴氣膽應呑拔樹羆欲驗吾言如合契他年徵此一篇詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 琴平章
+  author: 李奎報
+  language: lzh
+  text: 咸郞才調世皆知。奠鴈高門早叶龜。英物夜生光照室。賀賓朝集衽成帷。不因外姓求佳壻。豈向諸孫得異兒。要待識聲溫大尉。何煩摩頂誌禪師。羽毛會作冲天鶴。氣膽應呑拔樹羆。欲驗吾言如合契。他年徵此一篇詩。
+korean:
+  title: 금평장
+  author: 이규보
+  language: kor
+  text: |-
+    함랑의 재주는 세상이 다 아는 터
+    고문의 사위로 일찍부터 점지됐네
+    영물이 밤에 나니 빛이 방에 환하고
+    하객들 아침에 모이니 옷깃이 장막 이뤘네
+    외성으로 훌륭한 서랑을 안 맞았으면
+    손자로 특이한 애를 어찌 보았으리
+    온태위는 울음소리 들으려 하겠지만
+    지선사는 구태여 이마 만져 무엇하리
+    털이 나면 마땅히 하늘 찌르는 학이 되고
+    기운은 응당 나무 뽑는 곰을 삼키리
+    내 말을 징험하면 계인같이 맞으리니
+    일후에 이 시 한 편을 증거물로 삼으소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하객들 …… 이뤘네 : '
+    value: 옛날에 소진(蘇秦)이 사람이 많았으므로, 과장적 표현으로 이런 말이 있었다.
+  - key: '[주-D002] 온태위(溫太尉) : '
+    value: 진(晉)나라 사람 온교(溫嶠). 환온(桓溫)이 나서 돌이 못 되어 온교가 보고 말하되, “이 애가 기특한 골상이 있으니 시험하여 울려 보자.” 하고는 그 우는 소리를 듣고 말하기를, “참으로 영물(英物)이로다.” 하였다.
+  - key: '[주-D003] 지선사(誌禪師) : '
+    value: 남제(南齊)의 서릉(徐陵)이 나이 두어 살 때 중 보지(寶誌)를 만났는데, 보지는 그를 보고 그의 이마를 만지며 말하되, “하늘 위의 돌기린이로다.” 하였다.
+english:
+  title: On Qin Pingzhang
+  author: Lee Gyeong-bo
+  language: eng
+  text: |-
+    The talent of Hamrang is known throughout the world—
+    early betrothed as son-in-law to a noble house.
+    A wondrous child born at night, whose light fills the chamber,
+    guests gathering at dawn, their robes a tapestry of honor.
+
+    Without seeking a fine groom from outside the family line,
+    how could we have beheld such an exceptional child among grandsons?
+    Warm Commandant may wish to hear the voice,
+    but why should the Chan master bother touching the brow?
+
+    When feathers sprout, he shall become the crane that pierces heaven,
+    his spirit destined to swallow the bear that uproots trees.
+    If you would verify my words as true as heaven's contract,
+    then in years to come, take this poem as your witness.
+  footnotes:
+  - key: ''
+    value: 'Hamrang: likely refers to the subject of this occasional poem, composed at an auspicious time such as a birth or betrothal.'
+  - key: ''
+    value: 'The references to Warm Commandant (温太尉) and Chan Master Zhizhi (誌禪師) invoke classical precedents of identifying exceptional talents: the former recognized an extraordinary child by his cries, the latter identified a future sage by marking the child''s brow. The poet suggests that no such external verification is needed here—the excellence is self-evident.'
+  - key: ''
+    value: The crane and bear are symbols of transcendent ascent and overwhelming power respectively, prophesying the child's future greatness.

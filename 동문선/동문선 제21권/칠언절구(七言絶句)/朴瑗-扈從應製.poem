@@ -1,0 +1,37 @@
+canonical:
+  title: 扈從應製
+  author: 朴瑗
+  language: lzh
+  text: 絶巘環回銀漢外危樓斗起翠屛間臨軒此日揮宸翰朱草新生白馬山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 扈從應製
+  author: 朴瑗
+  language: lzh
+  text: 絶巘環回銀漢外。危樓斗起翠屛間。臨軒此日揮宸翰。朱草新生白馬山。
+korean:
+  title: 호종응제
+  author: 박원
+  language: kor
+  text: |-
+    우뚝한 산은 은한 밖에 빙 둘러 있고
+    높은 다락은 푸른 병풍 사이에 우뚝 솟았는데
+    이 날 헌함에 다달아 신한을 휘두르나니
+    마침 주초가 새로이 백마산에 났어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0970&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주초(朱草) : '
+    value: 곧 지초(芝草)인데, 그것을 영초(靈草)ㆍ서초(瑞草)라고도 한다.
+english:
+  title: In Attendance at the Imperial Command
+  author: Park Won
+  language: eng
+  text: |-
+    Towering peaks encircle the silver river of heaven,
+    High pavilions rise between emerald screens.
+    Today I approach the royal presence and wield the imperial brush—
+    Auspicious fungus blooms anew on White Horse Mountain.
+  footnotes:
+  - key: ''
+    value: The 'auspicious fungus' (朱草) is a legendary plant symbolizing divine favor and propitious rule, also known as the 'sacred herb' or 'fungus of fortune,' traditionally associated with virtuous governance.

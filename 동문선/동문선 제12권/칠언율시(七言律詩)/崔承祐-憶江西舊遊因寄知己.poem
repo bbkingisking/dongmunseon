@@ -1,0 +1,45 @@
+canonical:
+  title: 憶江西舊遊因寄知己
+  author: 崔承祐
+  language: lzh
+  text: 掘劒城前獨問津渚邊曾遇謝將軍團團吟冷江心月片片愁開岳頂雲風領鴈聲孤枕過星排漁火幾船分白醪紅膾雖牽夢敢負明時更羡君
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 憶江西舊遊因寄知己
+  author: 崔承祐
+  language: lzh
+  text: 掘劒城前獨問津。渚邊曾遇謝將軍。團團吟冷江心月。片片愁開岳頂雲。風領鴈聲孤枕過。星排漁火幾船分。白醪紅膾雖牽夢。敢負明時更羡君。
+korean:
+  title: 강서의 옛 놀이를 생각하며 지기에게 부침
+  author: 최승우
+  language: kor
+  text: |-
+    검 파낸 성 옆에서 홀로 나무를 묻다가
+    물가에서 일찍 사장군을 만났었네
+    시 읊으니 둥글둥글 싸늘한 강 달
+    시름 앞에 펼쳐지는 조각조각 산 위의 구름
+    바람결에 기러기 소리는 외롭게 베개 가로 지나오고
+    별인 듯 어선의 불은 몇 배에 나뉘었던고
+    흰 막걸리 붉은 회가 꿈에도 그리우나
+    성시를 어이 저버리리 그대 다시 부러워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사장군(謝將軍) : '
+    value: 진(晉)나라 사상(謝尙)이 우저(牛渚)에서 놀았다.
+english:
+  title: Remembering Old Pleasures in Jiangxi, Sent to a Kindred Spirit
+  author: Choi Seung-u
+  language: eng
+  text: |-
+    Alone by the sword-carved fortress, I ask the crossing guard,
+    By the waterside I once met the General Xie.
+    Chanting verses, the round moon hangs cold in the river's heart,
+    Sorrow unfolds in scattered clouds above the mountain peaks.
+    On the wind's current, geese cry lonely past my pillow,
+    Stars and fishing fires divide among how many boats.
+    White rice wine, crimson sashimi—though they haunt my dreams—
+    Can I abandon the bright age? I envy you still more.
+  footnotes:
+  - key: ''
+    value: General Xie refers to Xie Shang of the Jin dynasty, who was known to have played at Niuzhu (牛渚). This allusion connects the poet's wanderings to a classical precedent of leisured contemplation by the water.

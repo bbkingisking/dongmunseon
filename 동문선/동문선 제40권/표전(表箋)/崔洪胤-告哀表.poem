@@ -1,0 +1,36 @@
+canonical:
+  title: 告哀表
+  author: 崔洪胤
+  language: lzh
+  text: 何辜于天忽丁於憂服靡瞻匪父冞極於哀誠身不遑居禮當訃告望天庭而尙遠瀝血懇以遙伸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 告哀表
+  author: 崔洪胤
+  language: lzh
+  text: 何辜于天。忽丁於憂服。靡瞻匪父。冞極於哀誠。身不遑居。禮當訃告。望天庭而尙遠。瀝血懇以遙伸。
+korean:
+  title: 부음을 알리는 글
+  author: 최홍윤
+  language: kor
+  text: 무슨 죄이냐 하늘이여, 갑자기 상사(喪事)를 당하니, 아비 아니면 의지할 데 없사오매 슬픈 마음 가눌 수 없습니다. 경황 없는 몸이오나, 예의상 부고(訃告)를 올림이 마땅하겠기에 멀리 대궐을 바라면서 피나는 사정을 피력하여 아룁니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0430_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial Upon Mourning
+  author: Choi Hong-yun
+  language: eng
+  text: |-
+    What fault have I committed against Heaven,
+    that suddenly I am bound in mourning's garb?
+    With no father to lean upon,
+    my sorrow knows no bounds.
+    My body finds no rest,
+    yet duty demands I send this notice forth.
+    Gazing toward the distant palace,
+    I offer these blood-soaked words,
+    hoping they might reach your ear.
+  footnotes:
+  - key: ''
+    value: The work is a formal petition (표, pyo) announcing the author's father's death to the royal court, a necessary protocol in the Joseon period.

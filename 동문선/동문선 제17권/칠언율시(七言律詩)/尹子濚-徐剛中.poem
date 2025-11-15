@@ -1,0 +1,46 @@
+canonical:
+  title: 徐剛中
+  author: 尹子濚
+  language: lzh
+  text: 謫來雙鬢白無餘驅馬鄕關信所如偃蹇雲山堪晦迹衰遅歲月謾成書自知老木難重活休道寒灰得再噓爲報他時按南國星軺肯許訪三閭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 徐剛中
+  author: 尹子濚
+  language: lzh
+  text: 謫來雙鬢白無餘。驅馬鄕關信所如。偃蹇雲山堪晦迹。衰遅歲月謾成書。自知老木難重活。休道寒灰得再噓。爲報他時按南國。星軺肯許訪三閭。
+korean:
+  title: 귀양살이하면서 서강중
+  author: 윤자영
+  language: kor
+  text: |-
+    귀양온 뒤 머리가 모두 다 세었는데
+    시골서 말을 몰고 가는 대로 다니네
+    한가로운 구름에 잠긴 산은 자취를 감출 만하고
+    늘그막의 세월 속에 그저 글이나 쓰네
+    노목이 되살아나기 어려운 줄 내 아노니
+    찬 재도 두 번 불면 불이 인단 말을 말게
+    그대 후일에 남국에 안절하거든
+    성초(봉명사신(奉命使臣)의 수레)로 삼려대부를 한 번 찾아 와 주소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0950&viewSync=OT
+  footnotes: []
+english:
+  title: To Suh Gangjoong
+  author: Yun Ja-young
+  language: eng
+  text: |-
+    Banished here, my hair has turned entirely white.
+    I drive my horse through the countryside, wandering where the path leads.
+    These idle cloud-wrapped mountains are fit to hide my traces,
+    and in the lingering years, I simply fill my days with writing.
+
+    I know well that an old tree cannot spring back to life—
+    so do not speak of kindling dead ashes into flame twice over.
+    But should you later hold office in the southern court,
+    I ask that you might visit the riverside, and seek me out.
+  footnotes:
+  - key: ''
+    value: The poem references Qu Yuan (三閭大夫), the great minister of ancient Chu who was exiled and died by the Miluo River, creating a literary parallel between the poet's exile and that of this classical figure.
+  - key: ''
+    value: The image of 'dead ashes' and 'kindling flame twice' suggests the impossibility of restoring former glory or position, yet the final stanza holds onto a fragile hope of friendship's remembrance.

@@ -1,0 +1,41 @@
+canonical:
+  title: 屨
+  author: 成俔
+  language: lzh
+  text: 權門如火蹈之則熱宦途如海履之則沒惟德惟義愼勿顚越
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 屨
+  author: 成俔
+  language: lzh
+  text: 權門如火。蹈之則熱。宦途如海。履之則沒。惟德惟義。愼勿顚越。
+korean:
+  title: 구
+  author: 성현
+  language: kor
+  text: |-
+    권문은 불과 같아서
+    뛰어들면 열이 나고
+    벼슬길은 바다와 같아서
+    밟으면 빠지나니
+    오직 덕과 의에 있어서는
+    삼가서 넘어서지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1470_040_0020&viewSync=OT
+  footnotes: []
+english:
+  title: The Shoe
+  author: Sung Hon
+  language: eng
+  text: |-
+    The gates of power burn like fire—
+    step into them and you shall be scorched.
+    The path of office stretches like the sea—
+    wade into it and you shall drown.
+
+    Only in virtue and righteousness
+    should you tread with care,
+    never to stumble or transgress.
+  footnotes:
+  - key: ''
+    value: The title 'Shoe' (屨) is a metaphor for the path one walks in life, whether through the dangerous corridors of power or the steadfast road of moral conduct.

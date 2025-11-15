@@ -1,0 +1,51 @@
+canonical:
+  title: 客愁
+  author: 李承召
+  language: lzh
+  text: 學得屠龍破萬金技成無用鬢霜侵許身稷契將非誤措世唐虞漫有心鍾鼎不曾歸斗筲市朝終是遠雲林百年鼎鼎隨流水獨掩茅齋抱膝吟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 客愁
+  author: 李承召
+  language: lzh
+  text: 學得屠龍破萬金。技成無用鬢霜侵。許身稷契將非誤。措世唐虞漫有心。鍾鼎不曾歸斗筲。市朝終是遠雲林。百年鼎鼎隨流水。獨掩茅齋抱膝吟。
+korean:
+  title: 객수
+  author: 이승소
+  language: kor
+  text: |-
+    용을 죽이기를 배우려고 만금을 허비하였지만
+    재주 성취하고 보니 쓸데없이 살쩍만 세었다
+    몸을 직설되기 기약함이 크게 그름 아니요
+    세상을 당우에 두려 하여 부질없이 마음 있다
+    종정은 일찍 두소에 돌아가지 않았고
+    저자[市]와 조정[朝]은 끝내 구름과 숲을 멀리한다
+    백년을 정정하게 흐르는 물을 따라가는데
+    홀로 초가문을 닫고 무릎을 안고 앉아 읊조린다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 직설(稷契) : '
+    value: 직(稷)과 설(契)은 모두 옛날 요순(堯舜) 시대의 유명한 신하들인데, 후세 사람들의 숭배하는 목표로 되어 있다.
+  - key: '[주-D002] 종정(鐘鼎)은 …… 않았고 : '
+    value: 종정(鐘鼎)은 옛날 큰 종(鐘)이나 솥[鼎]을 만들어, 거기에다 국가에 큰 공이 있는 사람들의 이름을 기록하는 것이므로 훈공을 가리켜 말하는 것인데, 그런 국가의 큰 훈공이 두소(斗筲)처럼 그릇이 작은 사람들에게로 돌아가지 않았다고 탄식한 말이다.
+english:
+  title: Traveler's Sorrow
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    I spent a fortune learning to slay dragons,
+    only to find my skills useless as frost crept into my hair.
+    To serve as Zhi and Xie once did—was this ambition misplaced?
+    To order the world as Yao and Shun did—my heart still clings to this dream in vain.
+    Honors inscribed on bells and tripods never fell to those of small measure.
+    The marketplace and court remain forever distant from mountains and clouds.
+    A hundred years drift like water flowing to the sea,
+    and I sit alone in my thatched cottage, knee clasped, humming my solitary song.
+  footnotes:
+  - key: ''
+    value: Zhi and Xie were legendary ministers of the sage-kings Yao and Shun, representing the ideal of virtuous public service.
+  - key: ''
+    value: Bells and tripods were inscribed with the names of those who rendered great service to the state; the poem laments that true merit goes unrecognized by those of shallow capacity.
+  - key: ''
+    value: The 'dragon-slaying' alludes to the fable of useless mastery—perfecting impractical skills while missing what matters.

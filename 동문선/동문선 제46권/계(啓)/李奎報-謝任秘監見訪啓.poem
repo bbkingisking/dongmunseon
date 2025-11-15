@@ -1,0 +1,38 @@
+canonical:
+  title: 謝任秘監見訪啓
+  author: 李奎報
+  language: lzh
+  text: 車騎雍容甚都忽枉相如之顧庭宇蕪穢不掃頗慙仲擧之居恭惟學士閣下博大眞儒寬厚長者以貴而能下之志訪貧也非病之身騶馭方臨里閭聳覩所與來者無非可人可人何樂如之是謂有客有客但俎饌無六肴之美樽醪非九醞之香賓重主輕酒薄顔厚虛度貴人之過徒爲後日之嗟病莫造門書不悉意
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝任秘監見訪啓
+  author: 李奎報
+  language: lzh
+  text: 車騎雍容甚都。忽枉相如之顧。庭宇蕪穢不掃。頗慙仲擧之居。恭惟學士閣下。博大眞儒。寬厚長者。以貴而能下之志。訪貧也非病之身。騶馭方臨。里閭聳覩。所與來者。無非可人可人。何樂如之。是謂有客有客。但俎饌無六肴之美。樽醪非九醞之香。賓重主輕。酒薄顔厚。虛度貴人之過。徒爲後日之嗟。病莫造門。書不悉意。
+korean:
+  title: 사 임비감 견방 계
+  author: 이규보
+  language: kor
+  text: 수레가 심히 화려하게 홀연히 사마상여(司馬相如)가 왕림(枉臨)하셨는데, 집에는 잡초가 우거지고 마당은 쓸지도 않아서 자못 중거(仲擧)의 거처가 부끄럽습니다. 학사 각하(學士閣下)께서는 넓고 큰 진유(眞儒)요 관후(寬厚)한 장자(長者)라, 귀하시면서도 자신을 능히 낮추시는 뜻으로 병(病)이 아닌 빈한한 이 몸을 방문하여 주셨습니다. 행차가 바야흐로 왕림하시니 동리가 모두 우러러보았습니다. 함께 온 사람은 모두 좋은 사람 아닌 이 없으며, 이것이 유객(有客)의 시(詩)를 읊은 것이니 즐거움이 어떠하겠습니까. 그러나 상에는 이 아름다운 안주가 없고, 두루미 술은 향기로운 것이 아니니, 손님은 중하고 주인은 가벼우며, 술은 박하고 얼굴이 두껍습니다. 귀인(貴人)이 오신 것을 헛되게 하였으니, 한갓 지낸 뒤의 한탄만 남겼습니다. 병으로 찾아가 뵙지 못하고 글로 써서 뜻을 다 올리지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0490_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 빈한(貧寒)한 이몸 : '
+    value: “자공(子貢)이 원헌(原憲)을 찾아가 빈한한 것을 방문하였지 병(病)이 있는 것이 아니다.” 한 말이 있다. 《장자(莊子)》
+english:
+  title: Reply to the Esteemed Secret Monitor on His Visit
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    Your carriage rolled forth in splendid array—how suddenly the great Sima Xiangru graced our humble threshold. Yet my courtyard lies tangled with weeds, my grounds unswept; I am ashamed before the dwelling of Zhongjü himself.
+
+    Your Excellency the Scholar—vast in learning, true in the ways of the ancients, generous and kind in spirit—though exalted in station, you humble yourself to visit one whose poverty is no disease. Your retinue has arrived, and the village stands in awe. Those who came with you are worthy companions all; thus have we fulfilled the poem of "Having Guests." What joy could be greater?
+
+    Yet my table lacks the delicacies of plenty, my wine lacks the fragrance of finest vintage. The guest is weighty, the host is light; the wine is thin, yet my face grows thick with shame. I have squandered the honor of a noble's call and left myself only with sighs for the days to come. My illness keeps me from returning your courtesy, and these words fall short of expressing my true heart.
+  footnotes:
+  - key: ''
+    value: Sima Xiangru (司馬相如) and Zhongjü (仲擧) are classical Chinese allusions to honored visitors gracing humble homes.
+  - key: ''
+    value: The reference to the poem of "Having Guests" ("有客" 詩) suggests a celebration of virtuous company despite material poverty.
+  - key: ''
+    value: The paradox of 'guest heavy, host light' and 'wine thin, face thick' expresses the author's embarrassment at his inability to properly receive his distinguished visitor with appropriate hospitality.

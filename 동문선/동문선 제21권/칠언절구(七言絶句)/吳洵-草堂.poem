@@ -1,0 +1,37 @@
+canonical:
+  title: 草堂
+  author: 吳洵
+  language: lzh
+  text: 緣樹交加黃鳥飛草堂高臥日遅遅從今漸覺風情减春盡都無一首詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 草堂
+  author: 吳洵
+  language: lzh
+  text: 緣樹交加黃鳥飛。草堂高臥日遅遅。從今漸覺風情减。春盡都無一首詩。
+korean:
+  title: 초당
+  author: 오순
+  language: kor
+  text: |-
+    푸른 나무 얽히었고 꾀꼬리는 나는데
+    초당에 높이 누워 봄날이 더디어라
+    지금부터 차츰 깨닫노니 풍정이 줄어들어
+    봄이 다하도록 아예 시 한 수도 없었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0460&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 緣 : '
+    value: 綠
+english:
+  title: The Grass Hall
+  author: Wu Sun
+  language: eng
+  text: |-
+    Among verdant trees entwined, the oriole takes flight.
+    In the grass hall, I lie in repose as the spring day lingers.
+    Gradually now I perceive it—the season's tender charm fades.
+    As spring departs, not a single poem has escaped my brush.
+  footnotes:
+  - key: ''
+    value: The grass hall (초당/草堂) likely refers to a humble thatched retreat, a common setting in East Asian poetry for contemplation and artistic endeavor.

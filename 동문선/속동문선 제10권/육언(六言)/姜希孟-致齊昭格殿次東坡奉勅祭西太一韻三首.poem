@@ -1,0 +1,59 @@
+canonical:
+  title: 致齊昭格殿次東坡奉勅祭西太一韻三首
+  author: 姜希孟
+  language: lzh
+  text: 御命來禳惡曜聖君記曆初年綠章奏罷瓊闕萬里瑤空豁然三通擊罷淸磬一瓣燒殘妙香日暮市橋烟漲開窓宛對瀟湘雲際如聞仙佩風端暗送天香露濕珠宮欲閉星河低度彤墻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 致齊昭格殿次東坡奉勅祭西太一韻三首
+  author: 姜希孟
+  language: lzh
+  text: 御命來禳惡曜。聖君記曆初年。綠章奏罷瓊闕。萬里瑤空豁然。三通擊罷淸磬。一瓣燒殘妙香。日暮市橋烟漲。開窓宛對瀟湘。雲際如聞仙佩。風端暗送天香。露濕珠宮欲閉。星河低度彤墻。
+korean:
+  title: 소격전에서 치제하면서 소동파의 칙령을 받들고, 서태일에서 제사 지낼 때 지은 시의 운을 따라 세 수를 지었다
+  author: 강희맹
+  language: kor
+  text: |-
+    임의 명령 받들어서 이곳에서 기도하니
+    성군께서 등극하신 처음이랍니다
+    백옥루에 글을 아뢰 끝내더니
+    만리의 구슬 하늘 시원도 한저이고
+    세 번이나 맑은 경쇠 쳐서 끝내오니
+    한 조각 묘한 향을 태워 다했노라
+    해 저물자 저자 다리에 내가 끼었는데
+    창을 열자 완연히 소상강을 대한 듯하여라
+    구름 사이엔 신선 옥패 소리 들리는 듯
+    바람 끝엔 가만히 천향이 풍기누나
+    구슬 궁에 이슬이 젖어 문 닫히고
+    은하수 나지막이 붉은 담장을 지나더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_020_0010&viewSync=OT
+  footnotes: []
+english:
+  title: Three Poems in Homage to Sire Zhao at the Sogyeong Hall, Following the Rhyme Scheme of Su Dongpo's Imperially Commissioned Sacrifice to the Western Supreme One
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    By imperial command I come to this place to pray,
+    Marking the first year of our sagacious sovereign's reign.
+    The white jade tower receives my written petition,
+    And ten thousand leagues of pearlescent sky open clear.
+
+    Thrice the pure bronze chimes sound and fade,
+    One wisp of mystical incense burns to ash.
+    As dusk descends upon the marketplace bridge,
+    I open the window to face the Xiao and Xiang.
+
+    Amidst the clouds, I hear the jade pendants of immortals,
+    On the wind's breath, celestial fragrance drifts near.
+    Dew-dampened pearl palaces close their gates,
+    While the Milky Way bends low past crimson walls.
+  footnotes:
+  - key: ''
+    value: The Sogyeong Hall (소격전) was a royal shrine dedicated to Taoist practices during the Joseon dynasty.
+  - key: ''
+    value: The Xiao and Xiang rivers are classical references to natural beauty and romantic longing in Chinese poetry.
+  - key: ''
+    value: Su Dongpo (蘇東坡, Su Shi) was a celebrated Song dynasty poet; the reference suggests this poem follows formal rhyme patterns from that tradition.
+  - key: ''
+    value: The imagery of celestial realms—immortals, heavenly incense, and the Milky Way—reflects the Taoist spiritual context of the ritual ceremony.

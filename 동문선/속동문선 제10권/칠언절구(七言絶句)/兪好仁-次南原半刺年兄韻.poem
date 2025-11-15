@@ -1,0 +1,39 @@
+canonical:
+  title: 次南原半刺年兄韻
+  author: 兪好仁
+  language: lzh
+  text: 萬井笙歌咽不收烟花隨意被春遊瞥然二十年前事輸與溪夜雨秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次南原半刺年兄韻
+  author: 兪好仁
+  language: lzh
+  text: 萬井笙歌咽不收。烟花隨意被春遊。瞥然二十年前事。輸與溪夜雨秋。
+korean:
+  title: 차 남원 반자년 형 운
+  author: 유호인
+  language: kor
+  text: |-
+    만가의 피리와 노래 그 소리 끊이지 않아
+    내와 꽃에 제멋대로 봄놀이를 하는고야
+    어느덧 스무 해 앞 지난 일을
+    뇌계 밤비 내리는 가을에 부치노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0080&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Nam-won's Half-Self Year Brother's Rhyme
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    A thousand wells sing with pipes and songs, their voices never ceasing.
+    With flowers and spring's wanderings, we surrender to pleasure's whim.
+    In a sudden glimpse, the affairs of twenty years past
+    I entrust to the creek's autumn night, where rain falls.
+  footnotes:
+  - key: ''
+    value: 南原 (Nam-won) refers to a place in Korea, suggesting this poem was written in response to someone associated with that region.
+  - key: ''
+    value: The '半刺' (Ban-ja) likely refers to an administrative or social position, indicating the addressee held some official standing.
+  - key: ''
+    value: The poem reflects on the passage of time and the transience of pleasure, a common theme in classical Korean poetry.

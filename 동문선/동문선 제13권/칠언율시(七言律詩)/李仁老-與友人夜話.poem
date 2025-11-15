@@ -1,0 +1,49 @@
+canonical:
+  title: 與友人夜話
+  author: 李仁老
+  language: lzh
+  text: 試問隣墻過一壺擁爐相對暖髭鬚厭追洛社新年少閑憶高陽舊酒徒半夜聞鷄聊起舞幾迴捫虱話良圖胷中磊磊龍韜策許補征南一校無
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 與友人夜話
+  author: 李仁老
+  language: lzh
+  text: 試問隣墻過一壺。擁爐相對暖髭鬚。厭追洛社新年少。閑憶高陽舊酒徒。半夜聞鷄聊起舞。幾迴捫虱話良圖。胷中磊磊龍韜策。許補征南一校無。
+korean:
+  title: 벗과 함께 밤에 이야기하다
+  author: 이인로
+  language: kor
+  text: |-
+    이웃 담너머로 술 한병 사다 놓고
+    화로를 마주 대하여 수염을 쬐며 앉았네
+    낙사의 새 소년들 좇아다니기 싫어서
+    고양의 옛 술친구 생각하네
+    밤중 닭의 울음에 일어나 춤도 추고
+    가끔 이를 잡으며 좋은 계책도 말하지
+    여보게 내 가슴속에 용도가 굼틀대니
+    정남장군 군교 한 자리 제발 시켜주게나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고양(高陽)의 옛 술친구 : '
+    value: 초한(楚漢) 때의 역이기(酈食其)는 처음에 고양 땅의 주도(酒徒)였다. 여기서는 술을 좋아하고 매인 데 없이 방탕한 사람을 말한다.
+  - key: '[주-D002] 용도(龍韜) : '
+    value: '주(周)나라 강태공(姜太公)이 지은 병법(兵法). 육도(六韜) 중의 한 편(篇)이다.[六韜 : 文ㆍ武ㆍ虎ㆍ豹ㆍ龍ㆍ犬]'
+english:
+  title: Night Talk with a Friend
+  author: Lee In-ro
+  language: eng
+  text: |-
+    We beg a flask of wine from beyond the neighbor's wall
+    and sit facing the brazier, warming our beards in its glow.
+    Sick of chasing after the young gallants of Luoyang society,
+    I recall instead the old wine-drunk vagabonds of Gaoyag—
+    how at midnight the rooster's cry sends us dancing about,
+    and between catching lice we spin tales of strategy and craft.
+    In this breast of mine the Dragon Treatise stirs and strains;
+    I pray you, grant me some small post under the general marching south.
+  footnotes:
+  - key: ''
+    value: Gaoyag was the homeland of Lü Shiji of the Chu-Han era, a free spirit known for his love of wine and boundless dissipation. The allusion evokes a life of unfettered companionship and philosophical discourse.
+  - key: ''
+    value: The Dragon Treatise (龍韜) is one of the Six Stratagems attributed to Jiang Taigong, the legendary sage-general of the Zhou dynasty, representing military wisdom and strategic mastery.

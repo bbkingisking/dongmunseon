@@ -1,0 +1,48 @@
+canonical:
+  title: 佛地菴
+  author: 成任
+  language: lzh
+  text: 有客來投宿無人解出迎山圍最上地僧誦大乘經澗水何時歇篝燈徹夜明塵中泡幻夢還向此中醒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 佛地菴
+  author: 成任
+  language: lzh
+  text: 有客來投宿。無人解出迎。山圍最上地。僧誦大乘經。澗水何時歇。篝燈徹夜明。塵中泡幻夢。還向此中醒。
+korean:
+  title: 불지암
+  author: 성임
+  language: kor
+  text: |-
+    손이 있어 하룻밤 자려 왔는데
+    맞이하려 나오는 이 아무도 없구려
+    산은 최상의 땅을 둘러쌌는데
+    스님네는 대승의 경전 외우네
+    시냇물은 언제나 그칠 것인가
+    구등은 밤을 세워 밝혀 있도다
+    티끌 속의 물거품과 헛개비 같은 꿈이
+    여기 와서 비로소 깨는 줄을 알겠노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: The Buddha's Land Hermitage
+  author: Sung Im
+  language: eng
+  text: |-
+    A guest arrives seeking shelter for the night,
+    yet no one emerges to greet him.
+    The mountains embrace this highest ground,
+    where monks recite the Greater Vehicle's sutras.
+
+    When will the mountain stream ever cease its flow?
+    The lamp burns through the night, steadfast and bright.
+    Bubbles and phantoms in the dust of the world,
+    here in this place at last I wake.
+  footnotes:
+  - key: ''
+    value: The 'Buddha's Land Hermitage' (佛地菴) suggests a place of Buddhist practice and spiritual refuge.
+  - key: ''
+    value: The 'Greater Vehicle' (大乘) refers to Mahayana Buddhism, emphasizing the path to enlightenment for all beings.
+  - key: ''
+    value: The poem's progression from worldly arrival to spiritual awakening reflects classical Buddhist themes of illusion and enlightenment.

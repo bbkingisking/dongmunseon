@@ -1,0 +1,37 @@
+canonical:
+  title: 次聞慶縣主屹靈祠韻
+  author: 權擥
+  language: lzh
+  text: 祕殿靑山下陰機白日中人情聊報祀神意肯邀功
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次聞慶縣主屹靈祠韻
+  author: 權擥
+  language: lzh
+  text: 祕殿靑山下。陰機白日中。人情聊報祀。神意肯邀功。
+korean:
+  title: 문경현 주흘영사에 차운하여
+  author: 권람
+  language: kor
+  text: |-
+    신비로운 전각 청산 아래 있으니
+    명명한 신기는 백일 속일세
+    인정이 그저 제사로 갚는 것이지
+    귀신 뜻이 어찌 요공하리요
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0670&viewSync=OT
+  footnotes: []
+english:
+  title: Rhyming on the Occasion of the Shrine at Juhul Peak in Mungyeong County
+  author: Kwon Ram
+  language: eng
+  text: |-
+    Beneath the emerald hills the sacred temple stands,
+    Mystic forces gleam within the light of day.
+    Human hearts repay their debts through ritual and prayer—
+    Would the gods demand more than what we give?
+  footnotes:
+  - key: ''
+    value: Juhul Peak (주흘) is a sacred mountain in Mungyeong County, known as a site of spiritual significance in Korean tradition.
+  - key: ''
+    value: The poem questions the nature of divine reciprocity, suggesting that human sincerity in worship should suffice without the gods seeking additional reward or benefit.

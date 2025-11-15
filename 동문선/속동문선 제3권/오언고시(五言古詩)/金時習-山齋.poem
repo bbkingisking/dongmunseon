@@ -1,0 +1,71 @@
+canonical:
+  title: 山齋
+  author: 金時習
+  language: lzh
+  text: 山齋昨夜雨滴滴落空階愁人卧不寐達旦終永懷丈夫倔彊志一劒夷蒼崖豈可終泥蟠戚戚生有涯一摝盡鯤鯨一釣連六鰲一足踢蓬瀛大地如秋毫吁嗟事不諧世與身相乖五更慷慨蹴雞聲崢嶸懷抱何時平
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山齋
+  author: 金時習
+  language: lzh
+  text: 山齋昨夜雨。滴滴落空階。愁人卧不寐。達旦終永懷。丈夫倔彊志。一劒夷蒼崖。豈可終泥蟠。戚戚生有涯。一摝盡鯤鯨。一釣連六鰲。一足踢蓬瀛。大地如秋毫。吁嗟事不諧。世與身相乖。五更慷慨蹴雞聲。崢嶸懷抱何時平。
+korean:
+  title: 산재
+  author: 김시습
+  language: kor
+  text: |-
+    산재 어젯밤에 비가
+    뚝뚝 빈 섬돌에 떨어지니
+    내가 시름에 겨워 잠 못 이루어
+    밤새도록 회포가 많았네
+    대장부 굳센 뜻이
+    한 칼에 창애를 무찌르리니
+    어찌 녹녹히 진흙 속에 서리어
+    한도 있는 인생을 처량하게 보낼 것인가
+    한 번 건져 곤과 고래를 모조리 잡고
+    한 낚시에 육오를 연하여 잡고
+    한 발로 봉래ㆍ영주를 거더차면
+    대지가 가을 터럭만큼 모이련마는
+    아, 세상일 맘대로 안 되어
+    세상과 내 신세가 서로 어긋나누나
+    오경에 닭의 울음소리에 강개롭게 차고 일어나노니
+    이 불평한 회포가 언제 풀어질꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 어찌 …… 서리어 : '
+    value: 용에 비유한 말이다.
+  - key: '[주-D002] 육오(六鰲) : '
+    value: 《열자(列子)》에, “용백국(龍伯國)의 대인(大人)이 한 낚시로 〈바다에서〉 육오(六鰲)를 낚아서 합해서 지고 돌아왔다.” 하였다.
+english:
+  title: Mountain Study
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    Rain fell on the mountain study last night,
+    drip by drop upon the empty stone steps.
+    Anxious, I could not sleep,
+    and lay awake through dawn with endless sighs.
+
+    A man of strong and unyielding spirit
+    wields a single sword to cleave the azure cliff.
+    How can he languish in mud and mire,
+    wasting his brief years in melancholy?
+
+    With one sweep, I would catch the great leviathans,
+    with one line, hook the six cosmic tortoises,
+    with one step, trample the floating isles.
+    Then the great earth would shrink to an autumn hair.
+
+    Yet alas, the world does not bend to will,
+    and my fate runs counter to the times.
+    At the fifth watch, roused by the rooster's crow,
+    I rise with fierce resolve—
+    but when shall this bitter resentment find peace?
+  footnotes:
+  - key: ''
+    value: The 'mud and mire' (진흙 속에 서리어) is a metaphorical reference to the dragon, suggesting entanglement in worldly constraints.
+  - key: ''
+    value: The 'six cosmic tortoises' (육오) alludes to a passage in the Liezi describing how a man from the Land of Giants caught six great tortoises with a single fishing line.
+  - key: ''
+    value: The 'floating isles' (봉래·영주) refer to the legendary paradises of Taoist mythology, representing unattainable ideals.

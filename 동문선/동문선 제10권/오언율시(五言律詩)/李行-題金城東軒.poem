@@ -1,0 +1,47 @@
+canonical:
+  title: 題金城東軒
+  author: 李行
+  language: lzh
+  text: 客裏秋風落唫哦興渺然溪山雲影薄松菊露華鮮倦鳥知何往征驢更不前平生無寸効慙愧老承宣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題金城東軒
+  author: 李行
+  language: lzh
+  text: 客裏秋風落。唫哦興渺然。溪山雲影薄。松菊露華鮮。倦鳥知何往。征驢更不前。平生無寸効。慙愧老承宣。
+korean:
+  title: 제 금성 동헌
+  author: 이행
+  language: kor
+  text: |-
+    객지에 가을바람이 떨어지니
+    읊조리매 흥이 아득하네
+    산과 시내에는 구름 그림자가 엷고
+    솔과 국화에는 이슬이 곱다
+    게으른 새는 어디로 가는지
+    가는 말은 다시 나아가지 않네
+    평생에 조그만 보람도 못했으니
+    늙은 승선(승지)이 부끄러워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1090&viewSync=OT
+  footnotes: []
+english:
+  title: On the Eastern Pavilion of Geumseong
+  author: Lee Haeng
+  language: eng
+  text: |-
+    Autumn wind falls upon this traveler's lodge,
+    And as I hum and chant, my spirit drifts afar.
+    Over mountain streams, cloud shadows grow thin,
+    While pine and chrysanthemum glisten with fresh dew.
+    The weary bird knows not where to fly,
+    And my horse refuses to venture further on.
+    All my life I have accomplished nothing of worth—
+    How ashamed I stand, grown old in service.
+  footnotes:
+  - key: ''
+    value: Geumseong refers to a historical fortress city, here indicating a place of official duty or assignment.
+  - key: ''
+    value: The imagery of the weary bird and reluctant horse suggests both physical and spiritual exhaustion, common motifs expressing the poet's weariness with official life.
+  - key: ''
+    value: 承宣 (seungseon) refers to a lower rank of official position, which the poet mentions with self-deprecating irony when reflecting on his unfulfilled life of service.

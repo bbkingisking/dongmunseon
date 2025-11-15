@@ -1,0 +1,45 @@
+canonical:
+  title: 夜詠
+  author: 徐居正
+  language: lzh
+  text: 扶病坐無寐蕭蕭雪鬢雙茶聲喧小鼎燈影照殘缸月穿簾入室風撼紙號窓飽閱人間事閑愁自滿腔
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜詠
+  author: 徐居正
+  language: lzh
+  text: 扶病坐無寐。蕭蕭雪鬢雙。茶聲喧小鼎。燈影照殘缸。月穿簾入室。風撼紙號窓。飽閱人間事。閑愁自滿腔。
+korean:
+  title: 야영
+  author: 서거정
+  language: kor
+  text: |-
+    병들어 앉아서 잠이 없으니
+    희끗희끗한 살쩍이 쓸쓸하여라
+    차 끓는 소리는 작은 솥에 시끄럽고
+    등불 그림자는 낡은 병을 비추누나
+    달은 주렴을 뚫고 방에 드는데
+    바람은 종이를 흔들어 창에서 운다
+    인간 일을 두루 살펴 보나니
+    한가한 시름이 뱃속에 가득하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Night Musings
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Fevered, I sit sleepless through the night—
+    White streaks silver my temples, desolate and thin.
+    Tea murmurs in the small kettle's complaint,
+    Lamplight traces the curves of an old, worn vessel.
+    Moonlight pierces the curtain, entering my chamber,
+    Wind shakes the paper window, making it cry.
+    Having witnessed all the affairs of humankind,
+    My idle sorrow fills my breast to bursting.
+  footnotes:
+  - key: ''
+    value: The poem uses the sounds of daily life—boiling tea, flickering lamplight, wind and paper—as anchors for contemplation, a technique common in Korean literati poetry.
+  - key: ''
+    value: The speaker's sickness and sleeplessness are not merely physical states but gateways to philosophical reflection on the human condition.

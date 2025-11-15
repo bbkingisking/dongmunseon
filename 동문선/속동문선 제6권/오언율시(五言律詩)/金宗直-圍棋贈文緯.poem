@@ -1,0 +1,48 @@
+canonical:
+  title: 圍棋贈文緯
+  author: 金宗直
+  language: lzh
+  text: 一局紋枰上縱橫个个圓龍蛇交布陣星宿爛盈躔我未營三窟君能破兩甄心閑聊復尒圍罷各茫然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 圍棋贈文緯
+  author: 金宗直
+  language: lzh
+  text: 一局紋枰上。縱橫个个圓。龍蛇交布陣。星宿爛盈躔。我未營三窟。君能破兩甄。心閑聊復尒。圍罷各茫然。
+korean:
+  title: 위기증 문위
+  author: 김종직
+  language: kor
+  text: |-
+    한 바둑판 위에
+    종횡으로 낱낱이 분명하다
+    용과 뱀은 차례로 진을 펴고
+    별들은 제자리에 난만히 가득 찬다
+    나는 아직 삼굴을 경영하지 못했는데
+    그대는 능히 양견을 부수었다
+    마음이 한가하매 애오라지 거듭하고
+    두기를 마치고 나면 제각기 망연하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼굴(三窟) : '
+    value: 토끼는 세 굴을 마련하여 두고 위험한 것을 피한다고 한다.
+english:
+  title: Go, a Gift for Mun Wi
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Upon one board of woven lines,
+    Each stone placed clear as night's design.
+    Dragons and serpents coil their arrays,
+    Stars scatter brilliant through their plays.
+
+    I have not yet secured my three warrens,
+    Yet you have broken through both defenses.
+    With leisure, we make move after move,
+    Till the game ends—and we sit in wonder.
+  footnotes:
+  - key: ''
+    value: The 'three warrens' alludes to the classical saying that a rabbit prepares three burrows to escape danger, suggesting tactical preparation and foresight in both warfare and the game of Go.
+  - key: ''
+    value: The final image of mutual bewilderment after the game reflects a deeper philosophical contemplation—how victory and defeat dissolve into emptiness when the game concludes.

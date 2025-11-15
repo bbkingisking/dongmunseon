@@ -1,0 +1,46 @@
+canonical:
+  title: 臨江
+  author: 釋宏演
+  language: lzh
+  text: 擧目江村楓葉飛霜華滿地侵人衣正憶慈親歲年老怕聞客子鄕里歸湖海魚龍秋水冷東南耆舊曉星稀碧嶂淸江可行樂如何不採故山薇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 臨江
+  author: 釋宏演
+  language: lzh
+  text: 擧目江村楓葉飛。霜華滿地侵人衣。正憶慈親歲年老。怕聞客子鄕里歸。湖海魚龍秋水冷。東南耆舊曉星稀。碧嶂淸江可行樂。如何不採故山薇。
+korean:
+  title: 임강
+  author: 석굉연
+  language: kor
+  text: |-
+    바라보니 강 마을에 단풍잎 날리는데
+    서리는 땅에 가득 옷이 축축하구나
+    늙으신 내 어머님 방금 생각던 차
+    그대 고향에 돌아간단 말 듣기도 두렵소
+    바다의 어룡들은 가을 물이 써늘한데
+    동남의 옛 친구들은 새벽 별처럼 드물구나
+    푸른 산 맑은 강이 즐길 만하거니
+    어쩌다 고산 고사릴 내사 캐지 않으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: By the River
+  author: Seok Hong-yeon
+  language: eng
+  text: |-
+    I gaze upon the riverside village where maple leaves scatter,
+    Frost adorns the earth and soaks through my garments.
+    Just now my aging mother crossed my mind—
+    I dread to hear you speak of returning to your homeland.
+
+    In these waters, dragons and fish drift in autumn's cold chill,
+    And old friends of the southeast grow sparse as fading dawn stars.
+    The emerald peaks and crystalline river invite joy and wandering,
+    Yet how can I gather ferns from that ancient mountain?
+  footnotes:
+  - key: ''
+    value: The poem contrasts the speaker's attachment to his elderly mother with the friend's desire to return home, creating tension between filial duty and the call of one's native land.
+  - key: ''
+    value: The gathering of ferns (薇) is a reference to virtue and hermitage, evoking the ancient sage who refused to serve a fallen dynasty.

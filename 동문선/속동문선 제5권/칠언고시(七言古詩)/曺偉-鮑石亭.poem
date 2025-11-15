@@ -1,0 +1,96 @@
+canonical:
+  title: 鮑石亭
+  author: 曺偉
+  language: lzh
+  text: 淸溪一派流縈回荒涼洞壑迤邐開鮑魚散落溪水側春殘石老生蒼苔羅王昔日厭萬機金輿玉輦長徘佪流連此地弄淸泚羽觴泛泛隨波來君臣酣歌入醉鄕簫鼓動地如春雷不悟敵兵入心腹白日鐵騎潛銜枚蹀血宮庭那忍說倉皇朝市飛麈埃宮娥宛轉啼軍前寶鈿零落委草萊蟹目嶺上愁雲凝松聲尙帶千年哀君不見臨春閣中醉醺醺不知門外韓將軍玉樹璧月歌未闋江南王業隨烟滅前車可爲後車戒後車相尋迷覆轍我願天公令鬼守留與後人鑑此石
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鮑石亭
+  author: 曺偉
+  language: lzh
+  text: 淸溪一派流縈回。荒涼洞壑迤邐開。鮑魚散落溪水側。春殘石老生蒼苔。羅王昔日厭萬機。金輿玉輦長徘佪。流連此地弄淸泚。羽觴泛泛隨波來。君臣酣歌入醉鄕。簫鼓動地如春雷。不悟敵兵入心腹。白日鐵騎潛銜枚。蹀血宮庭那忍說。倉皇朝市飛麈埃。宮娥宛轉啼軍前。寶鈿零落委草萊。蟹目嶺上愁雲凝。松聲尙帶千年哀。君不見臨春閣中醉醺醺。不知門外韓將軍。玉樹璧月歌未闋。江南王業隨烟滅。前車可爲後車戒。後車相尋迷覆轍。我願天公令鬼守。留與後人鑑此石。
+korean:
+  title: 포석정
+  author: 조위
+  language: kor
+  text: |-
+    부치(府治)의 남쪽 10리 쯤에 있다.[在府治南十里許]
+    맑은 시내 한 줄기가 흘러 감도는 곳
+    황량한 골 안이 비스듬히 열렸는데
+    시냇물 가에 깔려 있는 포어들
+    묵은 돌에 봄도 지나 푸른 이끼가 돋아 있구나
+    신라 왕이 옛날에 만기를 싫어하여
+    금여ㆍ옥련으로 항시 거둥
+    예 와서 노닐면서 맑은 물결 희롱하며
+    술잔을 둥실둥실 물에 띄워 보냈더니라
+    군신이 취하여서 노래가 한창
+    피리 소리ㆍ북 소리가 뇌성처럼 울리어
+    적병이 심복에 들어온 줄도 몰랐으니
+    대낮에 철기가 소리 없이 닥쳐왔네
+    궁정에 흘린 피를 차마 어찌 말하리
+    조시가 일조에 폐허로 변하였네
+    군전에 애처로이 우는 궁녀들
+    옥비녀가 속절없이 풀섶에 버려졌네
+    해목령 고개 위에 슬픈 구름 뭉게뭉게
+    솔바람 소리가 아직도 천년 전 슬픔을 띠었구나
+    그대는 안 보았는가 임춘각 중에 술이 얼근하여
+    문 밖의 한 장군을 알지 못하여
+    옥수ㆍ벽월 노래가 끝나기도 전에
+    강남의 왕업이 연기 따라 소멸된 것을
+    앞에 넘어진 수레는 뒷수레의 경계이건만
+    뒷수레가 또 그 자국에 빠져 넘어지누나
+    바라노니, 뒷사람들 이 돌을 잘 보라고
+    하늘이 귀신 시켜 잘 간수하소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 임춘각(臨春閣) : '
+    value: 남조(南朝) 진 후주(陳後主)의 화사했던 누각(樓閣). 여기서 비빈(妃嬪)ㆍ궁녀(宮女)들과 함께, 가무성색(歌舞聲色)에 탐닉 되었다가 나라가 망했다.
+  - key: '[주-D002] 한 장군(韓將軍) : '
+    value: 수(隋)나라 장군 한금호(韓擒虎). 당시 진 후주(陳後主)가 향락만 하다가 한 장군(韓將軍)이 바로 성문에 들어오는 것도 몰랐다.
+  - key: '[주-D001] 麈 : '
+    value: 塵
+english:
+  title: Poseokjeong
+  author: Cho Wei
+  language: eng
+  text: |-
+    Ten miles south of the prefectural seat, a clear stream winds through,
+    And desolate ravines open wide in winding paths.
+    Salted fish scatter along the creek's edge,
+    While spring fades and ancient stones grow thick with moss.
+
+    Once the Silla king, weary of the ten thousand affairs of state,
+    Rode in golden carriages and jade palanquins, wandering ever onward.
+    He came to this place to sport with crystal waters,
+    Setting wine cups adrift like blossoms upon the stream.
+
+    Lord and courtier sang drunk in revels,
+    Pipes and drums thundering like spring's own voice—
+    Never knowing that enemy soldiers crept into the heart,
+    That iron cavalry drew silent near in broad daylight.
+
+    The blood spilled in palace halls—who dares speak of it?
+    In a single dawn the court became ruin and ash.
+    Palace maidens wept before the advancing troops,
+    Jade ornaments scattered and lost in the wild grass.
+
+    On the ridge where mist gathers, sorrow condenses,
+    And pine wind still carries the grief of a thousand years.
+
+    Do you not see how in the Tower of Eternal Spring they reveled, drunk and blind,
+    Unaware that the general waited just beyond the gate?
+    Ere the songs of jade and pearl were finished,
+    The kingdom of the South dissolved like smoke.
+
+    The first chariot that overturned should warn the second,
+    Yet the second chariot falls into the selfsame ruts.
+    I only wish that heaven would set spirits to guard this stone,
+    That those who come after might read its lesson well.
+  footnotes:
+  - key: ''
+    value: The Tower of Eternal Spring refers to the pleasure pavilion of the Southern Chen emperor, where he indulged in music, dance, and wine while his kingdom fell to invaders.
+  - key: ''
+    value: The general alludes to the Sui general Han Qinhu, who breached the capital walls while the Chen emperor remained oblivious in his halls of pleasure.
+  - key: ''
+    value: Poseokjeong itself is a historical site in Korea associated with the downfall of Silla, serving as a meditation on the transience of kingdoms and the dangers of luxury.

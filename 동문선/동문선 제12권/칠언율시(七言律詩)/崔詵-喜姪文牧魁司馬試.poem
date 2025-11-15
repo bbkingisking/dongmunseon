@@ -1,0 +1,50 @@
+canonical:
+  title: 喜姪文牧魁司馬試
+  author: 崔詵
+  language: lzh
+  text: 積善吾家慶未央後生頻見擅詞塲憐渠戰藝先多士怪我乘軺滯遠方喜淚也從雙袖汙歸心空逐尺書忙殷勤報噵攻文字且趁春風折桂芳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 喜姪文牧魁司馬試
+  author: 崔詵
+  language: lzh
+  text: 積善吾家慶未央。後生頻見擅詞塲。憐渠戰藝先多士。怪我乘軺滯遠方。喜淚也從雙袖汙。歸心空逐尺書忙。殷勤報噵攻文字。且趁春風折桂芳。
+korean:
+  title: 조카 문목이 사마시에 장원했음을 기뻐하며
+  author: 최선
+  language: kor
+  text: |-
+    적선한 우리집에 경사가 그지없어
+    후생들이 연달아 사장에 드날리네
+    기특해라 그 애가 재주 많은 선비에게 앞장 섰다지
+    어인 일로 이 나는 초를 타고 멀리 와 있나
+    기쁜 눈물이 두 소매를 적시는데
+    돌아갈 마음은 편지 보니 더 바쁘구나
+    은근히 이르노니 부지런히 글공부 해서
+    새 봄에 정작 과거에 장원을 차지해라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0810&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 적선(積善)한 …… 그지없어 : '
+    value: “선을 쌓아온 집에 반드시 남는 경사가 있다.[積善之家 必有餘慶].”란 《주역(周易)》의 말이 있다.
+  - key: '[주-D002] 초(軺) : '
+    value: 본디 말이 끄는 작은 수레인데, 특히 사신의 수레를 성초(星軺)라 하였다.
+english:
+  title: Rejoicing at My Nephew Mun-mok's Success as First Place in the Sama Examination
+  author: Choi Seon
+  language: eng
+  text: |-
+    Generations of virtue have blessed our house with endless good fortune,
+    Where each new generation shines brilliantly in the halls of letters.
+    Proud am I that he surpasses so many talented scholars with his gifts,
+    Yet here I sit, far from home in my official post, wondering at fate's design.
+    Joyful tears stain both my sleeves,
+    While longing for home quickens with each letter that arrives.
+    I write these words with earnest care:
+    Pursue your studies with diligence,
+    And when spring winds blow, you shall pluck the fragrant laurel of first place.
+  footnotes:
+  - key: ''
+    value: 'The opening evokes a classical principle from the I Ching: ''A house where goodness accumulates will surely have blessings that remain.'' This establishes the family''s inherited virtue as the foundation of the nephew''s success.'
+  - key: ''
+    value: The 'official post' (軺) literally refers to a small cart drawn by horses, specifically used by imperial envoys. The poet is serving away from home, which adds poignancy to his joy at his nephew's achievement.

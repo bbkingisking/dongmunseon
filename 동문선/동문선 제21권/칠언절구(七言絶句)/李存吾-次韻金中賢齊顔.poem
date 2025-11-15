@@ -1,0 +1,37 @@
+canonical:
+  title: 次韻金中賢齊顔
+  author: 李存吾
+  language: lzh
+  text: 不須揩眼苦看書隨意吟哦亦自如黃鳥園林淸晝永偶然乘興愛吾廬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻金中賢齊顔
+  author: 李存吾
+  language: lzh
+  text: 不須揩眼苦看書。隨意吟哦亦自如。黃鳥園林淸晝永。偶然乘興愛吾廬。
+korean:
+  title: 차운김중현제안
+  author: 이존오
+  language: kor
+  text: |-
+    구태여 눈을 비비며 괴로이 책 볼 것 없구나
+    뜻을 따라 읊조림이 역시 자유롭거니
+    꾀꼬리 우는 동안 숲에는 맑은 낮이 긴데
+    우연히 흥을 따라 내 집을 사랑하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0630&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 내 집을 사랑하네 : '
+    value: 도연명의 시에, ‘뭇 새들은 의탁할 데 있음을 기뻐하는데, 나도 또한 내 집을 사랑하네[吾亦愛吾盧].’ 하였다.
+english:
+  title: Responding to Kim Junghyeon's Poem on Maintaining Composure
+  author: Lee Jonom
+  language: eng
+  text: |-
+    Why strain your eyes with painful study of books?
+    Following your heart's inclination, verse flows freely as it will.
+    The oriole sings through the garden while the forest basks in endless light,
+    And I, moved by sudden fancy, have come to love my humble dwelling.
+  footnotes:
+  - key: ''
+    value: 'The final line echoes Tao Yuanming''s famous verse: ''As birds rejoice in having a place to nest, so too do I love my rustic home.'' This allusion suggests a philosophy of contentment with simple life and nature.'

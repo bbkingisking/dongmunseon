@@ -1,0 +1,37 @@
+canonical:
+  title: 沙斤驛午飯
+  author: 李瓊仝
+  language: lzh
+  text: 倦客支頤卧探詩日向中一聲聞翡翠啼在驛窓東
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 沙斤驛午飯
+  author: 李瓊仝
+  language: lzh
+  text: 倦客支頤卧。探詩日向中。一聲聞翡翠。啼在驛窓東。
+korean:
+  title: 사근역 오반
+  author: 이경동
+  language: kor
+  text: |-
+    게으른 손이 턱을 고이고 누워
+    시를 더듬다 한낮이 되었다
+    비취의 한 소리 들려 오나니
+    그것은 역 창의 동쪽에서 울고 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Afternoon Meal at Sagun Station
+  author: Lee Kyong-dong
+  language: eng
+  text: |-
+    A weary traveler leans cheek upon his hand,
+    Reclined as I grope for verses through the noon.
+    Then comes a jade bird's cry—
+    Singing from the eastern window of the station.
+  footnotes:
+  - key: ''
+    value: The 'jade bird' (翡翠) refers to a kingfisher, whose brilliant plumage was compared to jade in classical Chinese poetry. Its sudden cry breaks through the speaker's drowsy meditation.
+  - key: ''
+    value: The station (驛) serves as a liminal space where the traveler finds himself between journeys, and his creative thought suspended between weariness and inspiration.

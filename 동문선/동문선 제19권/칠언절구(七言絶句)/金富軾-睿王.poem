@@ -1,0 +1,41 @@
+canonical:
+  title: 睿王
+  author: 金富軾
+  language: lzh
+  text: 佳人猶唱舊歌詞布穀飛來櫪樹稀還似霓裳羽衣曲開元遺老淚霑衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 睿王
+  author: 金富軾
+  language: lzh
+  text: 佳人猶唱舊歌詞。布穀飛來櫪樹稀。還似霓裳羽衣曲。開元遺老淚霑衣。
+korean:
+  title: 교방 기생이 포곡가 부르는 걸 듣고 느낀 바 있어[聞敎坊妓唱布穀歌有感] 예왕
+  author: 김부식
+  language: kor
+  text: |-
+    가인은 오히려 옛 가사를 부르네
+    포곡새 날아오매 도토리나무 드물다고
+    도리어 예상곡 우의곡에
+    개원(開元)의 남은 늙은이들 눈물이 옷을 적심과 같네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 개원(開元)의 …… 적심과 같네 : '
+    value: 당(唐)나라 현종이 꿈에 천궁(天宮)에 가서 선녀(仙女)들이 무지개치마 깃 옷[霓裳羽衣]으로 춤추며 음악하는 것을 보고 깨어난 뒤에 그것을 기억하여 〈예상우의곡(霓裳羽衣曲)〉을 만들어서 양귀비(楊貴妃)와 향락(享樂)하였더니, 그 뒤 안녹산(安祿山)의 난(亂)이 끝난 뒤에 개원(開元 현종의 처음 연호) 시대의 태평 세월을 보던 늙은이들이 어떤 사람이 부르는 〈예상우의곡〉을 들으며 추억의 눈물을 흘렸다.
+english:
+  title: The Royal Dream
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The courtesan still sings the songs of old,
+    As cuckoos call and parasol trees grow sparse.
+    Yet hark—it echoes that celestial dance,
+    The Rainbow Skirts and Feathered Robes of yore,
+    And aged souls from the Kaiyuan peace weep,
+    Their tears falling like rain upon their robes.
+  footnotes:
+  - key: ''
+    value: The 'Rainbow Skirts and Feathered Robes' (霓裳羽衣曲) refers to a famous court dance-music composition from Tang Dynasty Emperor Xuanzong's reign. According to legend, the emperor dreamed of visiting heaven and witnessed celestial maidens dancing in iridescent garments. Upon waking, he recreated the spectacle as this masterpiece to enjoy with his beloved Yang Guifei. After the An Lushan Rebellion devastated the realm, elderly survivors of the peaceful Kaiyuan era would weep upon hearing this melody, their tears evoking memories of a vanished golden age.
+  - key: ''
+    value: The 'cuckoos' (布穀, literally 'cloth grain birds') call in spring; their song ('po-gok') is echoed phonetically in the dance title, creating a poetic homophone that connects the natural world to human memory and loss.

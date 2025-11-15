@@ -1,0 +1,49 @@
+canonical:
+  title: 枯木
+  author: 金時習
+  language: lzh
+  text: 長枝蟠屈小枝斜直幹亭亭聳碧霞幾歲倚巖排雨雪何年趠走化龍蛇瘤皮臃腫莊生木奇狀巃嵸漢使槎春至無心天亦惜敎藤爲葉蘚爲花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 枯木
+  author: 金時習
+  language: lzh
+  text: 長枝蟠屈小枝斜。直幹亭亭聳碧霞。幾歲倚巖排雨雪。何年趠走化龍蛇。瘤皮臃腫莊生木。奇狀巃嵸漢使槎。春至無心天亦惜。敎藤爲葉蘚爲花。
+korean:
+  title: 고목
+  author: 김시습
+  language: kor
+  text: |-
+    긴 가지 구불어지고 작은 가지 비스듬한데
+    곧은 줄기는 정정히 푸른 놀 속에 솟아 있네
+    몇 해나 바위를 기대어 비와 눈물 물리쳤던가
+    언제나 용이나 뱀으로 화해 멀리 달아나려나
+    혹이 붙은 껍질은 울퉁불퉁하여 장생의 나무요
+    기이한 모양은 우뚝하고 뾰족하여 한사의 뗏목일세
+    봄이 와도 마음이 없는 것 하늘도 애석히 여겨
+    등나무로 잎이 되고 이끼로 꽃이 되게 하였도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 혹이 …… 나무요 : '
+    value: 원래는 나무에 혹이 생기고 울퉁불퉁하여 소용되지 않는 나무라고 장자(壯子)가 말하였던 것인데, 여기에는 그대로 나무가 늙은 형용만을 말한 것이다.
+  - key: '[주-D002] 한사(漢使)의 뗏목 : '
+    value: 한나라 사신이라 함은 장건(張鶱)을 말함인데, 나무가 그런 사람의 뗏목이 될 만하다는 말이다.
+english:
+  title: Dead Wood
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    Long branches twist and writhe, small branches lean askew,
+    Yet the straight trunk stands dignified, piercing the azure haze.
+    How many years has it leaned against the rock, enduring rain and snow?
+    When will it transform into dragon or serpent and flee far away?
+    Knotted bark, gnarled and swollen—the wood of Zhuangzi's tale,
+    Strange and jagged form, towering and sharp—a raft for Han envoys.
+    Even as spring arrives, the wood feels nothing; heaven too shows pity,
+    So it granted flowering vines for leaves and moss for blossoms.
+  footnotes:
+  - key: ''
+    value: The 'wood of Zhuangzi' references the Daoist philosopher Zhuangzi's parable of the gnarled, useless tree—here reimagined as merely the appearance of great age rather than worthlessness.
+  - key: ''
+    value: The 'raft for Han envoys' alludes to Zhang Qian, the great Han Dynasty explorer, suggesting the wood has achieved a noble purpose despite its twisted form.

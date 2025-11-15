@@ -1,0 +1,35 @@
+canonical:
+  title: 冒雪山行
+  author: 權健
+  language: lzh
+  text: 山橋日暮少人行野店炊烟一抹橫緩轡微吟歸得得馬蹄隨處踏瑤瓊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冒雪山行
+  author: 權健
+  language: lzh
+  text: 山橋日暮少人行。野店炊烟一抹橫。緩轡微吟歸得得。馬蹄隨處踏瑤瓊。
+korean:
+  title: 모설 산행
+  author: 권건
+  language: kor
+  text: |-
+    징검다리에 해 저물어 가는 사람 적어지고
+    들 주점 땐 연기는 한 빛으로 퍼져 있다
+    말고삐 늦추고는 가늘게 읊어 돌아올 제
+    말굽이 이르는 곳에 흰 구슬을 밟은 듯이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Through Snow on the Mountain Path
+  author: Gwon Geon
+  language: eng
+  text: |-
+    As daylight fades on the mountain bridge, fewer travelers pass,
+    Smoke from the country inn stretches across in a single stroke.
+    Slackening my horse's rein, I hum a gentle tune on my return—
+    Wherever the hoofbeats fall, as if treading on white jade.
+  footnotes:
+  - key: ''
+    value: The imagery of 'white jade' (瑤瓊) refers to snow, suggesting the pristine beauty of the snow-covered mountain path and evoking the classical association of jade with purity and refinement.

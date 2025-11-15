@@ -1,0 +1,48 @@
+canonical:
+  title: 題宣孝院樓
+  author: 李詹
+  language: lzh
+  text: 勞生孰與道塗長雲際東流各杳茫事往江山皆寂寞秋晴雲物已凄涼劉公此日髀生肉杜子今年鬢帶霜畢竟功名惟兩字登樓獨眺久彷徨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題宣孝院樓
+  author: 李詹
+  language: lzh
+  text: 勞生孰與道塗長。雲際東流各杳茫。事往江山皆寂寞。秋晴雲物已凄涼。劉公此日髀生肉。杜子今年鬢帶霜。畢竟功名惟兩字。登樓獨眺久彷徨。
+korean:
+  title: 제 선효원루
+  author: 이첨
+  language: kor
+  text: |-
+    고달픈 생 먼 길과 어느 편이 더 지루한가
+    구름 끝으로 동으로 흘러도 그저 아득하네
+    역사는 가고 강산은 모두 적막한데
+    가을이 맑아도 풍물은 벌써 처량하구나
+    유공은 이날 넓적다리에 살이 생겼네
+    두자는 금년에 귓머리에 서리 빛을 띠었는데
+    필경은 공명 두 글자 때문 아닌가
+    다락서 혼자 바라보며 하염없이 방황하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0460&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유공(劉公)은 …… 생겼네 : '
+    value: 유비(劉備)가 형주(荊州)에 머물을 때에 유표(劉表)의 자리에서 일어나 뒷간에 갔다가 넓적다리에 살이 찐 것을 보고 개연히 눈물을 흘리고 돌아와 앉았다. 표가 괴이하게 여겨 물으니 비가 말하되, “내가 항상 몸이 말 안장을 떠나지 않아 넓적다리 살이 다 스러졌더니, 이제 다시 말을 안 타 넓적다리에 살이 생겼는지라, 세월은 달리는데 공업(功業)을 세우지 못했으니 그러므로 슬퍼하오.” 하였다.
+english:
+  title: Inscribed on the Tower of Seonhyo Temple
+  author: Lee Chaem
+  language: eng
+  text: |-
+    Which weighs heavier—the burden of life or the endless road?
+    East the clouds drift through mist, all obscure and far away.
+    The past flows on, mountains and rivers fall silent,
+    And though autumn brings clear skies, the world already grieves.
+
+    Liu Bei finds flesh returning to his thighs,
+    Du Fu now bears frost upon his temple's hair.
+    In the end, is fame nothing but these two characters?
+    Alone upon the tower, I gaze and wander without purpose.
+  footnotes:
+  - key: ''
+    value: Liu Bei wept upon discovering that his thighs, once wasted from constant riding in pursuit of his ambitions, had grown soft from inaction. He mourned not the comfort, but the passage of time without accomplishment.
+  - key: ''
+    value: The poem juxtaposes historical figures—Liu Bei and the poet Du Fu—as mirrors of unfulfilled ambitions and the physical toll of both striving and idleness.

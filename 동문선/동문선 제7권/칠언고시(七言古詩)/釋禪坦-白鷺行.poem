@@ -1,0 +1,65 @@
+canonical:
+  title: 白鷺行
+  author: 釋禪坦
+  language: lzh
+  text: 白鷺白鷺蹺煙亦飛雨心本忙態自閑魚兒話頭無斷閒魚兒沉無處尋蘋藻滿池春水深蝦蟆水蛭亦不厭一生口腹何曾贍汝羽與生白汝心終日黑堪嗟綠影紅香裏自謂風標貴公子君不見五更待漏霜滿襟王庭振鷺亦何心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 白鷺行
+  author: 釋禪坦
+  language: lzh
+  text: 白鷺白鷺蹺煙亦飛雨。心本忙態自閑。魚兒話頭無斷閒。魚兒沉無處尋。蘋藻滿池春水深。蝦蟆水蛭亦不厭。一生口腹何曾贍。汝羽與生白。汝心終日黑。堪嗟綠影紅香裏。自謂風標貴公子。君不見五更待漏霜滿襟。王庭振鷺亦何心。
+korean:
+  title: 백로행
+  author: 석선탄
+  language: kor
+  text: |-
+    백로여, 백로여
+    연기에 걷고 비에 나네
+    마음은 바쁘면서 태도 한가로와
+    물고기 생각하기에 여념이 없는 듯
+    물고기가 숨으면 찾을 곳 없으니
+    개구리밥ㆍ마름잎 가득한데 봄 물이 깊구나
+    개구리ㆍ거머리도 배불리 못 먹어
+    일생에 구복이 언제 한 번 만족했더냐
+    너의 옷 나면서부터 희지마는
+    너의 마음 온종일 검기만 하다
+    탄식스럽다, 푸른 그림자 붉은 향기 속에서
+    스스로 풍표귀공자라 일컬으니
+    그대 보았으리, 오경에 조회할 시간 기다리노라고 서리가 옷깃에 차는 것을
+    왕정의 진로 그것은 또 무슨 마음인고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진로(振鷺) : '
+    value: 《시경》에 〈진로(振鷺)편〉이 있는데, 그것은 주(周)나라 종묘(宗廟)의 제사에 하(夏)나라의 후손과 상(商)의 후손이 와서 참예하였으므로, 그것이 마치 깨끗한 해오리가 다른 곳에서 날아오는 것과 같다 하였다.
+english:
+  title: The White Heron's Walk
+  author: Seon Tan
+  language: eng
+  text: |-
+    White heron, white heron,
+    You wade through mist and fly in rain.
+    Your mind churns restless, yet your bearing stays serene—
+    Thoughts of fish never leave your stillness.
+    When the fish disappear beneath the surface,
+    Where can you search?
+
+    Waterweed and floating ferns fill the pond,
+    The spring water runs deep.
+    Frogs and leeches—you devour them without surfeit.
+    In a lifetime of hunger, when have you ever been satisfied?
+
+    Your feathers born white as snow,
+    Yet your heart remains black through the day.
+    Woe! In that verdant shadow and crimson fragrance,
+    You proclaim yourself a gentleman of noble bearing.
+
+    But have you not seen it—
+    At the fifth watch, waiting to attend court,
+    How the frost gathers thick upon your collar?
+    What heart moves the heron of the royal procession?
+    What purpose stirs it now?
+  footnotes:
+  - key: ''
+    value: The 'heron of the royal procession' (振鷺) alludes to the Shijing poem of the same name, which describes herons at the Zhou ancestral temple during sacrificial rites—a symbol of purity and ritual propriety. The monk uses this image to question whether external elegance conceals inner darkness.

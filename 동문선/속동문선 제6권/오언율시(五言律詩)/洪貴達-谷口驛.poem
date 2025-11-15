@@ -1,0 +1,47 @@
+canonical:
+  title: 谷口驛
+  author: 洪貴達
+  language: lzh
+  text: 長途緣海岸小驛傍山根鳥道縈雲逈鯨波盪日飜居人多厚意謫客自傷魂大嶺明朝過無因望故園
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 谷口驛
+  author: 洪貴達
+  language: lzh
+  text: 長途緣海岸。小驛傍山根。鳥道縈雲逈。鯨波盪日飜。居人多厚意。謫客自傷魂。大嶺明朝過。無因望故園。
+korean:
+  title: 곡구역
+  author: 홍귀달
+  language: kor
+  text: |-
+    길게 뻗은 길 바닷가를 따르고
+    조그만 역은 산 뿌리 곁에 있다
+    새들의 길은 구름을 얽어 돌고
+    고래 물결은 해를 씻어 뒤친다
+    여기 사는 사람들 정이 많건만
+    귀양가는 나그네 스스로 상심한다
+    내일 아침에는 큰 재를 넘으리니
+    다시는 내 고향 바라볼 수 없으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: Gokgu Station
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    The long road follows the coastline,
+    A modest station rests at the mountain's foot.
+    Bird paths wind through clouds in distant loops,
+    Whale-backed waves wash and overturn the sun.
+    The people here brim with generous warmth,
+    Yet I, a exile, grieve alone.
+    Tomorrow dawn I cross the great ridge,
+    And never again shall I see my homeland.
+  footnotes:
+  - key: ''
+    value: The poem uses natural imagery—bird paths, whale waves, and clouds—to evoke both the physical journey and the emotional displacement of exile.
+  - key: ''
+    value: The contrast between the kindness of the station's inhabitants and the speaker's inner sorrow underscores the alienation of the exiled traveler.
+  - key: ''
+    value: The final couplet suggests that crossing the great ridge will place an insurmountable distance between the speaker and home.

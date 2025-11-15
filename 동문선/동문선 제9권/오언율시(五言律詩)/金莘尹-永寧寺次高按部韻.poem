@@ -1,0 +1,47 @@
+canonical:
+  title: 永寧寺次高按部韻
+  author: 金莘尹
+  language: lzh
+  text: 信宿永寧寺一如行脚僧晝吟憐影淨夜坐覺神凝身世風中絮忠誠日下燈天門萬重險何術可飛昇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永寧寺次高按部韻
+  author: 金莘尹
+  language: lzh
+  text: 信宿永寧寺。一如行脚僧。晝吟憐影淨。夜坐覺神凝。身世風中絮。忠誠日下燈。天門萬重險。何術可飛昇。
+korean:
+  title: 영녕사에서 고안부의 시에 차운하여
+  author: 김신윤
+  language: kor
+  text: |-
+    영녕사에서 두어 밤을 묵고 나니
+    내가 숫제 행각승이나 된 듯
+    낮에 시 읊으니 그림자도 깨끗하고
+    밤에 혼자 앉으니 정신이 엉겨지네
+    떠도는 신세는 바람 앞의 버들강아지
+    조그만 충성은 해 아래 등불
+    하늘문이 만 겹으로 험하니
+    내 무슨 술법 있어서 펄펄 날아오를까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: Matching Rhymes with High Official An's Poem at Yeongnyeong Temple
+  author: Kim Shin-yun
+  language: eng
+  text: |-
+    Two nights lodging at Yeongnyeong Temple,
+    and I have become a wandering monk.
+    Days spent composing verse—even my shadow grows pure,
+    nights of solitary sitting—my spirit settles and thickens.
+    My drifting self like catkins before the wind,
+    my small devotion like a lamp beneath the sun.
+    With heaven's gate barred by ten thousand layers of peaks,
+    what mystic arts could lift me soaring upward?
+  footnotes:
+  - key: ''
+    value: 'Yeongnyeong Temple: A Buddhist temple where the poet stayed briefly, serving as the setting for this poem written in response to another''s work.'
+  - key: ''
+    value: The image of catkins before wind suggests the fragility and transience of human existence in Buddhist thought.
+  - key: ''
+    value: Heaven's gate and the aspiration to 'soar upward' reference both Daoist spiritual ascension and Buddhist enlightenment, expressing the spiritual yearning constrained by worldly limitations.

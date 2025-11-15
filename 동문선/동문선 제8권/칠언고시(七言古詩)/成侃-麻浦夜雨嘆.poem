@@ -1,0 +1,66 @@
+canonical:
+  title: 麻浦夜雨嘆
+  author: 成侃
+  language: lzh
+  text: 黑雲一片低靑天時聞獨鶴鳴遠渚夜來渡口南風顚倒捲西江作飛雨魚兒出沒爭噞喁馮夷鼓浪神靈舞勢包島嶼歸洪濛涼生軒戶收餘暑江鴻搖蕩聲嗷嘈菱荷歷亂隨風濤漁翁失䌫叫江湖大船傾側小舶飄人閒何處非至險俄頃生涯臨不測琅玕君子笑一塲半夜不眠頭鶴側
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 麻浦夜雨嘆
+  author: 成侃
+  language: lzh
+  text: 黑雲一片低靑天。時聞獨鶴鳴遠渚。夜來渡口南風顚。倒捲西江作飛雨。魚兒出沒爭噞喁。馮夷鼓浪神靈舞。勢包島嶼歸洪濛。涼生軒戶收餘暑。江鴻搖蕩聲嗷嘈。菱荷歷亂隨風濤。漁翁失䌫叫江湖。大船傾側小舶飄。人閒何處非至險。俄頃生涯臨不測。琅玕君子笑一塲。半夜不眠頭鶴側。
+korean:
+  title: 마포 야우 탄
+  author: 성간
+  language: kor
+  text: |-
+    검은 구름 한 조각에 하늘이 나직하자
+    때로 들리는 먼 물가의 외학의 울음 소리
+    밤들어 나루터에 남풍이 휘몰아치더니
+    서강 물을 솟구쳐 비를 만들었네
+    고기들은 떴다 잠겼다 입을 벌룸거리고
+    강신이 물결을 치고 신령들 춤을 추네
+    섬들을 휩서 홍몽으로 돌아가고
+    누각에는 선들바람 더위를 거두었네
+    강 기러기 어지러이 날며 끼럭끼럭 우는 소리
+    연잎이 이리저리 물결 따라 둥둥
+    어옹은 닻줄을 잃고 소리 치니
+    큰 배는 기울어지고 작은 배는 날려가누나
+    인생 어느 곳이 몹시 위엄치 않으리
+    별안간에 생애가 불측을 당하는 법
+    낭간군자(작자의 호)가 한바탕 웃고 나서
+    한밤에 잠 못 이뤄 머리가 학처럼 갸우뚱
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: A Lament on the Night Rain at Mapo
+  author: Sung Kan
+  language: eng
+  text: |-
+    A patch of black cloud hangs low upon the sky,
+    When echoes come—a solitary crane's cry from distant shores.
+    With nightfall, south wind sweeps the ferry crossing wild,
+    Stirring up the west river waters into flying rain.
+
+    Fish dart and vanish, gaping mouths churning the depths,
+    While Fengyi drums the waves and spirits dance in glee.
+    The tumult sweeps across the islands into chaos and fog,
+    Cool wind through the halls steals away the lingering heat.
+
+    River geese scatter, crying out in confused refrain,
+    Lotuseaves scatter too, tumbling with each tide.
+    The fisherman shouts out, his anchor rope now lost,
+    Great boats tilt and lean while small vessels drift away.
+
+    What place in all this life is not fraught with danger?
+    In but a moment, our days may fall to misfortune.
+    Laughing at this scene, I, Ranggan, a humble scholar,
+    Lie sleepless through the night, my head askew like a crane's.
+  footnotes:
+  - key: ''
+    value: Fengyi (馮夷) is the ancient Chinese god of rivers, often depicted as stirring the waters and commanding the tides.
+  - key: ''
+    value: Ranggan (朗幹) is likely the poet's pen name or literary sobriquet, mentioned as a self-reference in the final stanza.
+  - key: ''
+    value: The poem uses the storm scene at Mapo, a historically significant ferry crossing on the Han River, as a meditation on life's unpredictability and the transience of human existence.

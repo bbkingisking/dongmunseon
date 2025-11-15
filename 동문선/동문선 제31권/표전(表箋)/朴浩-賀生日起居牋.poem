@@ -1,0 +1,29 @@
+canonical:
+  title: 賀生日起居牋
+  author: 朴浩
+  language: lzh
+  text: 功微省翰任重立牙㹅六軍之聯申嚴於赳赳顧八駿之綴積戀於猗猗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀生日起居牋
+  author: 朴浩
+  language: lzh
+  text: 功微省翰。任重立牙。㹅六軍之聯。申嚴於赳赳。顧八駿之綴。積戀於猗猗。
+korean:
+  title: 생일에 기거를 하례하는 전
+  author: 박호
+  language: kor
+  text: 한원(翰院)에서는 공(功)이 적사오나 장단(將壇)의 책임이 무겁습니다. 육군(六軍)을 통솔하여 용맹스러운 장졸들에게 신엄(申嚴)하기 위하여, 팔준(八駿)의 서열(序列)에 참가하지 못하여 연연(戀戀)한 회포만 쌓이고 쌓이나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 팔준(八駿)의 서열(序列) : '
+    value: 주 목왕(周穆王)의 팔준마(八駿馬)가 있는데, 여기서는 의장(儀仗)의 반열을 말함인 듯하다.
+english:
+  title: A Congratulatory Missive on the Occasion of Your Birthday
+  author: Park Ho
+  language: eng
+  text: Though my service at the Hall of Letters bears modest fruit, the burden upon the commander's platform weighs heavy. I marshal the six armies and impose stern discipline upon our valiant soldiers, yet unable to join the ranks of the Eight Steeds, I can only accumulate longing—upon longing—in my heart.
+  footnotes:
+  - key: ''
+    value: The Eight Steeds refers to the ceremonial procession and ranks of honor, alluding to the legendary eight horses of King Mu of Zhou

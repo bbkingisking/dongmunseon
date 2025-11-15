@@ -1,0 +1,52 @@
+canonical:
+  title: 書金鰲新話後二首
+  author: 金時習
+  language: lzh
+  text: 矮屋靑氈暖有餘滿窓梅影月明初挑燈永夜焚香坐閑著人閒不見書玉堂揮翰已無心端坐松窓夜正深香鑵銅甁烏几靜風流奇話細搜尋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書金鰲新話後二首
+  author: 金時習
+  language: lzh
+  text: 矮屋靑氈暖有餘。滿窓梅影月明初。挑燈永夜焚香坐。閑著人閒不見書。玉堂揮翰已無心。端坐松窓夜正深。香鑵銅甁烏几靜。風流奇話細搜尋。
+korean:
+  title: 서 금오신화 후 이수
+  author: 김시습
+  language: kor
+  text: |-
+    나직한 집의 푸른 담뇨에 따스한 기운 넉넉한데
+    창에 가득한 매화 그림자에 달이 처음 밝았다
+    등불을 돋우고 긴 밤에 향을 사르고 앉아
+    한가히 인간에서 보지 못한 글을 짓는다
+    옥당의 붓과 글에는 이미 마음 없거니
+    소나무 창 앞에 단정히 앉았는데 밤은 한창 깊었다
+    향관과 동병과 오궤는 고요한데
+    풍류스러운 기이한 이야기를 낱낱이 찾아 본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0680&viewSync=OT
+  footnotes: []
+english:
+  title: Two Poems Written After Reading the New Tales of Golden Crow
+  author: Kim Siheup
+  language: eng
+  text: |-
+    I.
+
+    In my modest house with blue felt walls, warmth abounds.
+    Through the window, plum blossoms cast their shadows as moonlight breaks the night.
+    I trim the lamp and through the long hours burn incense, sitting still,
+    Composing idle words of the human realm that common eyes have never seen.
+
+    II.
+
+    In the Jade Hall, my brush and words have lost all purpose,
+    As I sit upright before the pine-framed window in the depth of night.
+    The incense burner, bronze vessels, and dark table rest in silence—
+    I search and gather these strange, elegant tales, line by line.
+  footnotes:
+  - key: ''
+    value: The 'Jade Hall' (옥당/玉堂) is an allusion to a place of scholarly writing and refinement in classical East Asian literature.
+  - key: ''
+    value: The 'New Tales of Golden Crow' (금오신화/金鰲新話) is a collection of supernatural tales by the author, suggesting these poems were written in reflection upon completing or rereading that work.
+  - key: ''
+    value: The poem employs the conceit of writing as a solitary, meditative act set against natural beauty—a common theme in East Asian scholar-poet tradition.

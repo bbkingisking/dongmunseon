@@ -1,0 +1,70 @@
+canonical:
+  title: 無題二首
+  author: 李黿
+  language: lzh
+  text: 孤村秋欲晩塞鴈度銀河志懶書難檢年衰睡不多江風吹晩角夜月墜淸笳思君言未敢欹枕伴燈花一盞燈初暗孤臣淚未乾䆫虛多受月衣薄不辭寒酒盡愁猶苦更長夢欲殘懷人人不見回首望雲山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無題二首
+  author: 李黿
+  language: lzh
+  text: 孤村秋欲晩。塞鴈度銀河。志懶書難檢。年衰睡不多。江風吹晩角。夜月墜淸笳。思君言未敢。欹枕伴燈花。一盞燈初暗。孤臣淚未乾。䆫虛多受月。衣薄不辭寒。酒盡愁猶苦。更長夢欲殘。懷人人不見。回首望雲山。
+korean:
+  title: 무제 이수
+  author: 이원
+  language: kor
+  text: |-
+    외로운 마을에 가을이 저무려는데
+    변방 기러기는 은하를 건너간다
+    게으르매 책을 점검하기 어렵고
+    나이 쇠하매 잠이 많지 못하다
+    강 바람은 저녁의 나팔 불고
+    밤 달은 맑은 피리 소리에 떨어진다
+    그대를 생각하다 구태어 말은 못하고
+    배개를 의지하여 등불을 동무한다
+    하나 등잔불이 비로소 어두운데
+    외로운 신하 눈물은 마르지 않는다
+    창이 비었으니 달빛을 많이 받고
+    옷이 엷어도 추위를 사양 않네
+    술이 없어지매 시름은 그대로 괴롭고
+    밤이 깊으매 꿈은 쇠잔하려 한다
+    사람들 생각하나 그는 보이지 않아
+    머리를 돌려 구름 산을 바란다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0720&viewSync=OT
+  footnotes: []
+english:
+  title: Two Untitled Poems
+  author: Lee Won
+  language: eng
+  text: |-
+    I.
+
+    Autumn fades in this lonely village,
+    Wild geese cross the silver river.
+    Laziness makes it hard to open books—
+    With years declining, sleep eludes me.
+
+    River winds blow the evening trumpet call,
+    Night's moon trembles at the clear flute's song.
+    To speak of you—I dare not venture words,
+    Leaning on my pillow, befriending the lamplight.
+
+    II.
+
+    One lamp dims into darkness,
+    And the solitary minister's tears flow still.
+    The empty window receives the moon's full gaze,
+    Thin robes—I do not refuse the cold.
+
+    Wine exhausted, sorrow remains bitter,
+    The night deepens, dreams begin to fade.
+    I long for those I cherish, yet see them not—
+    Turning back, I gaze toward the clouded hills.
+  footnotes:
+  - key: ''
+    value: The 'silver river' refers to the Milky Way, here representing the vast distance between the poet and the absent beloved.
+  - key: ''
+    value: The 'solitary minister' is a self-reference, expressing the poet's isolation and perhaps political or personal estrangement.
+  - key: ''
+    value: These poems employ the classical Buddhist and Daoist imagery of autumn and night to explore themes of loneliness, longing, and the passage of time.

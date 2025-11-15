@@ -1,0 +1,48 @@
+canonical:
+  title: 撫寧衛途中
+  author: 徐居正
+  language: lzh
+  text: 蘆峯靑隱隱楊水碧灣灣在蘆峯東南七八里 未到昌黎縣傳聞碣石山官橋楓葉亂野路菊花團薄暮催詩雨蕭蕭入鬢斑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 撫寧衛途中
+  author: 徐居正
+  language: lzh
+  text: 蘆峯靑隱隱。楊水碧灣灣。在蘆峯東南七八里。 未到昌黎縣。傳聞碣石山。官橋楓葉亂。野路菊花團。薄暮催詩雨。蕭蕭入鬢斑。
+korean:
+  title: 무령위 도중
+  author: 서거정
+  language: kor
+  text: |-
+    노봉은 푸르러 은은하고
+    양수(노봉 동남 7ㆍ8리에 있다)는 퍼렇게 굽이쳤도다
+    아직 창려현에 이르기 전에
+    먼저 갈석산을 전해 들었나니
+    관교에는 단풍잎이 어지러운데
+    들길에는 국화가 우거졌도다
+    어둑어둑한 날은 시와 비를 재촉하고
+    반백된 살쩍이 쓸쓸하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road to Bao'ning Guard
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Reed Peak rises blue and indistinct,
+    Yang Waters curve green in winding turns—
+    seven or eight li southeast of Reed Peak.
+    Before I reach Changli County,
+    I hear tales of Stone Tablet Mountain.
+    Maple leaves scatter on the official bridge,
+    Chrysanthemums cluster wild on the country path.
+    As twilight falls, it summons both poetry and rain,
+    and silver strands mix into my temples.
+  footnotes:
+  - key: ''
+    value: Reed Peak (蘆峯) and Yang Waters (楊水) are geographical references along the poet's route in the Liaodong region.
+  - key: ''
+    value: Changli County and Stone Tablet Mountain (碣石山) are legendary sites associated with ancient Chinese poetry and history.
+  - key: ''
+    value: The final image of 'silver strands' mingles the physical graying of the poet's hair with the melancholy of autumn and journeying.

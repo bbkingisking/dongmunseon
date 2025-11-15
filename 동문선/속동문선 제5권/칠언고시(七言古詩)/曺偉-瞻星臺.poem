@@ -1,0 +1,81 @@
+canonical:
+  title: 瞻星臺
+  author: 曺偉
+  language: lzh
+  text: 離離禾黍暗阡陌中有崇臺高百尺根連黃媼地中深影對靑山雲外矗齒餠當年民物醇羲和曆象次第陳立圭測景觀日月登臺望雲占星辰乾文順度泰階平狼鬣不現天宇淸雨暘不愆民不瘥豊登四野謳謠聲乾坤萬古舟藏壑不見金甌終妥帖紛紛人世幾番塵金碧觚稜盡荊棘劫火不燒渠獨在累石巋然風雨外魯中觀臺今有無羅時制作堪一噫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 瞻星臺
+  author: 曺偉
+  language: lzh
+  text: 離離禾黍暗阡陌。中有崇臺高百尺。根連黃媼地中深。影對靑山雲外矗。齒餠當年民物醇。羲和曆象次第陳。立圭測景觀日月。登臺望雲占星辰。乾文順度泰階平。狼鬣不現天宇淸。雨暘不愆民不瘥。豊登四野謳謠聲。乾坤萬古舟藏壑。不見金甌終妥帖。紛紛人世幾番塵。金碧觚稜盡荊棘。劫火不燒渠獨在。累石巋然風雨外。魯中觀臺今有無。羅時制作堪一噫。
+korean:
+  title: 첨성대
+  author: 조위
+  language: kor
+  text: |-
+    화서가 더북더북 무성한 천맥
+    한가운데 솟은 대는 높이가 백 자
+    뿌리는 지축 속에 깊숙이 이었고
+    그림자는 청산을 대하여 구름 밖에 우뚝
+    떡 깨물던 옛날에 민물이 순박하여
+    희화의 역상을 차례차례 마련했더니라
+    규를 세워 해와 달의 그림자를 관측하고
+    대에 올라 구름 보고 별들을 점치니
+    천문이 도에 맞아 삼태성이 화평하고
+    낭성이 안 나타나 천상이 깨끗하며
+    청우가 알맞아 백성이 탈이 없고
+    풍년이 들어 사야에 격양가를 부르는 소리
+    그러나 인간의 역사는 ‘구렁에 배 감추기’
+    아무리 금구라도 끝내 온전하지 못한 법
+    분분한 인세에 풍진이 몇 번인고
+    찬란한 궁전이 모두 폐허 되었으나
+    겁화에도 타지 않고 너만 홀로 남아서
+    쌓은 돌이 우뚝 풍우 밖에 서 있구나
+    노 나라의 관대는 지금 있기나 한지
+    신라 때 제작이 감탄할 만하고녀
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 떡 깨물던 : '
+    value: 신라 2대 남해왕(南解王)이 죽은 뒤 태자 유리(儒理)가, 탈해(脫解)가 덕망이 있다 하여 서로 왕위를 사양하니, 탈해는, “신기대보(神器大寶)는 범인이 감당 못 한다. 성지인(聖智人)은 이[齒]가 많다 하니 떡을 깨물어 보라.” 하여, 치리(齒理)가 많은 유리가 왕위에 올랐다. 《三國史》
+  - key: '[주-D001] 贍 : '
+    value: 瞻
+english:
+  title: The Star Observatory
+  author: Cao Wei
+  language: eng
+  text: |-
+    Through rippling grain fields the pathways darken,
+    Where rises a tower, a hundred cubits tall.
+    Its roots run deep in the earth's own bosom,
+    Its shadow stretches beyond the green hills into clouds.
+
+    In those ancient days when rulers tested merit by tooth,
+    The people's hearts were simple and pure.
+    Then came the heavenly patterns, arranged in order—
+    The celestial spheres and their sacred dance.
+
+    With gnomon set, they measured sun and moon's passage,
+    Climbed high to read the stars, to divine heaven's will.
+    The cosmic script aligned with perfect order,
+    Wolf-star vanished, the heavens grew clear.
+    Rain fell in season, drought came not untimely,
+    And four fields sang with harvests and joy.
+
+    Yet what endures in this fleeting world?
+    Even kingdoms, hidden like ships in chasms, fade.
+    No golden vessel remains untarnished forever—
+    How many ages turn the bright palaces to dust?
+
+    Though conflagration consumes all else,
+    You alone stand firm, stones piled against wind and rain.
+    The tower of Silla, fashioned in those distant days—
+    Still it commands our wonder and sighs.
+  footnotes:
+  - key: ''
+    value: The reference to 'rulers tested by tooth' alludes to a Silla legend where succession was determined by biting hardness, representing a time of meritocratic virtue.
+  - key: ''
+    value: The 'wolf-star' (Sirius) was associated in East Asian astronomy with military strife and calamity; its absence signified peace.
+  - key: ''
+    value: The Cheomseongdae (Star Observatory) of Silla is the actual historical structure that inspired this poem, one of the world's oldest observatories still standing.

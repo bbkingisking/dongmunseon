@@ -1,0 +1,71 @@
+canonical:
+  title: 趙相國獨樂園
+  author: 兪升旦
+  language: lzh
+  text: 蘚刻丹書額壺藏白日仙淸歡雖共客眞樂獨全天庭雨蕉先響園晴草自煙桃花流水遠回却武陵船東臯塵跡斷西麓石蹊微樂沼魚相舞馴階鳥不飛柳春張翠幄花午洒紅衣喜我題詩處林泉不放歸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 趙相國獨樂園
+  author: 兪升旦
+  language: lzh
+  text: 蘚刻丹書額。壺藏白日仙。淸歡雖共客。眞樂獨全天。庭雨蕉先響。園晴草自煙。桃花流水遠。回却武陵船。東臯塵跡斷。西麓石蹊微。樂沼魚相舞。馴階鳥不飛。柳春張翠幄。花午洒紅衣。喜我題詩處。林泉不放歸。
+korean:
+  title: 독락원의 조상국
+  author: 유승단
+  language: kor
+  text: |-
+    붉은 글씨 액자를 이끼가 새기고
+    대낮의 신선을 병 속에 감추었네
+    청한한 놀이는 손[客]과 함께 하지만
+    참다운 즐거움은 홀로 천진 그대로
+    뜰에 비가 오면 파초 먼저 후드득거리고
+    동산에 날이 개니 풀빛에 연기[咽]로세
+    복사꽃 뜨는 물 근원이 하도 멀어
+    무릉(武陵)을 찾아오던 배 길 잃고 돌아가네
+    동편 언덕에 세상 티끌 하나 없고
+    서편 산기슭엔 돌길이 좁구나
+    소에서 즐기면서 고기는 서로 춤을 추고
+    뜰 앞에 길들인 새는 아니 날아가네
+    버들은 봄날 푸른 장막을 치고
+    꽃은 한낮에 붉은 옷을 쬐는 듯
+    내가 시를 쓰는 곳에
+    임천이 나를 붙잡고 놓아주지 않누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대낮의 …… 감추었네 : '
+    value: 한(漢)나라 비장방(費長房)이 여남시(汝南市)의 연리(椽吏)로 있었는데, 시(市)에 한 노인이 병[壺] 하나를 매달아 놓고 약(藥)을 팔다가, 일을 마치고 나면 매양 병 속으로 들어갔다. 다른 사람은 그것을 보지 못하는데, 비장방이 누상(樓上)에서 그것을 보고 이상히 여겨서 찾아가 절하고 술과 안주를 대접하며, 같이 병 속에 들어가기를 간청하였다. 병 속에 들어가 본즉, 화려한 집과 좋은 음식들이 가득 찼었다. 노인이 말하기를, “나는 신선(神仙)인데 허물을 짓고 귀양왔다.” 하였다.
+  - key: '[주-D002] 무릉(武陵)을 찾아오던 배 : '
+    value: 진(晋)나라 태강(太康) 연간에 무릉(武陵)의 어부(漁父)가 배를 타고 시내를 따라 올라가다가, 수원(水源)에 이르러 산에 구멍이 뚫린 데로 들어간즉, 복숭아꽃 속에 촌락이 있었는데, 진(秦)나라 때에 피란하여 들어온 뒤에 5ㆍ6백 년 동안 세상과 통하지 않고 살아왔다 한다. 이것이 무릉도원이다. 도연명(陶淵明)이 지은 〈도화원기(桃花源記)〉가 있다.
+english:
+  title: The Garden of Solitary Pleasure of Minister Zhao
+  author: Yu Seung-dan
+  language: eng
+  text: |-
+    Moss etches the scarlet-lettered plaque,
+    White-day immortals dwell within a jar.
+    Clear pleasures shared with guests may pass,
+    But true joy dwells alone in heaven's heart.
+
+    When rain falls on the courtyard,
+    The plantain leaves whisper first.
+    When sun clears the eastern slope,
+    Grass exhales its misty breath.
+    Perch blossoms drift on waters far,
+    And the boat seeking Wuling turns back, astray.
+
+    East of the ridge—not a speck of dust,
+    West of the mountain—the stone path grows thin.
+    In the pleasure pool, fish dance together,
+    On the tamed steps, birds choose not to fly.
+    Willows stretch their emerald curtains in spring,
+    Flowers steep in crimson robes at noon.
+
+    Where I compose my verses,
+    The forest and spring hold me fast—
+    They will not let me go.
+  footnotes:
+  - key: ''
+    value: The jar (壺) alludes to the legend of Fei Changfang, who discovered an immortal dwelling within a merchant's vessel—a classical image for finding paradise within limitation.
+  - key: ''
+    value: Wuling (武陵) refers to the Peach Blossom Spring (桃花源) from Tao Yuanming's famous tale—an idealized realm of perfect simplicity hidden from the dusty world, suggesting that even the pursuit of this paradox proves futile or unnecessary.

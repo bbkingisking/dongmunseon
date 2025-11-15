@@ -1,0 +1,45 @@
+canonical:
+  title: 慈護寺樓
+  author: 許洪材
+  language: lzh
+  text: 早起獨登樓悠然八月秋白煙橫野外紅日上峯頭客路風霜冷僧軒花木幽一尊開笑語消遣利名愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 慈護寺樓
+  author: 許洪材
+  language: lzh
+  text: 早起獨登樓。悠然八月秋。白煙橫野外。紅日上峯頭。客路風霜冷。僧軒花木幽。一尊開笑語。消遣利名愁。
+korean:
+  title: 자호사루
+  author: 허홍재
+  language: kor
+  text: |-
+    일찍 일어나 홀로 다락에 오르니
+    유연한 팔월 가을
+    흰 연기가 들 밖에 비껴 있고
+    붉은 해는 산 머리에 올라오네
+    나그네 길에 바람 서리는 차기도 한데
+    중의 집엔 꽃과 나무가 그윽하구나
+    술 한 병으로 웃고 얘기하느라니
+    인간의 명리 시름이 모두 사라지네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: The Tower of Compassionate Protection Temple
+  author: Heo Hong-jae
+  language: eng
+  text: |-
+    Early I rise and climb the tower alone,
+    Where autumn's eighth month stretches serene.
+    White mist drifts across the distant fields,
+    The crimson sun ascends the mountain's crest.
+    On the traveler's path, wind and frost bite cold,
+    Yet in the monk's quarters, flowers and trees rest in stillness.
+    With a single cup we laugh and exchange words—
+    All the world's hunger for fame and fortune fades away.
+  footnotes:
+  - key: ''
+    value: The 'eighth month' of autumn refers to the traditional lunar calendar, suggesting late autumn in East Asian reckoning.
+  - key: ''
+    value: The contrast between the cold, exposed traveler's road and the serene, sheltered temple grounds reflects the poem's meditation on refuge and withdrawal from worldly concerns.

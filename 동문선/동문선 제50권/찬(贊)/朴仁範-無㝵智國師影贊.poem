@@ -1,0 +1,46 @@
+canonical:
+  title: 無㝵智國師影贊
+  author: 朴仁範
+  language: lzh
+  text: 重席萬卷被甲六時嘿然無謂寂爾無爲大經發露一塵內巨海攝入一波中龍飛虎去山澤空風雲餘氣窮未窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無㝵智國師影贊
+  author: 朴仁範
+  language: lzh
+  text: 重席萬卷。被甲六時。嘿然無謂。寂爾無爲。大經發露一塵內。巨海攝入一波中。龍飛虎去山澤空。風雲餘氣窮未窮。
+korean:
+  title: 무애지국사영 찬
+  author: 박인범
+  language: kor
+  text: |-
+    만권으로 자리를 겹하였고
+    육시로 갑옷을 입었건만
+    묵연하여 설명이 없고
+    고요하여 하염이 없네
+    큰 경은 한 티끌 속에 드러나고
+    큰 바다도 한 물결 가운데 끌려 드느니
+    용이 날고 범도 떠나 산택은 비었으되
+    풍운의 남은 기운 끝났느냐 남았느냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0030&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the Portrait of Master Muae the Wise
+  author: Park In-beom
+  language: eng
+  text: |-
+    Ten thousand volumes stack upon the seat,
+    Armor worn through all six hours of the day—
+    Yet silent, beyond words or explanation,
+    Quiet as the void itself, purposeless and free.
+
+    The vast sutras gleam within a speck of dust,
+    The boundless ocean contained in a single wave.
+    The dragon soars, the tiger departs, mountains and marshes stand empty,
+    Do the lingering winds and clouds yet persist, or have they ceased?
+  footnotes:
+  - key: ''
+    value: The 'six hours' refers to the six periods of Buddhist practice within a day, suggesting constant spiritual discipline.
+  - key: ''
+    value: This work is a portrait encomium (yingzan) celebrating the spiritual attainment of Master Muae, a Korean Buddhist sage whose realization transcends conventional understanding.

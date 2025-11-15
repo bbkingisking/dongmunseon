@@ -1,0 +1,33 @@
+canonical:
+  title: 十韻詩序
+  author: 李穡
+  language: lzh
+  text: 百字科未知所從起也我國家興文治敎養多方引之以簡易之術動之以繁華之寵所以擊蒙而俾之求益也於戲先王作人之盛心何其遠哉近世以百字科進者多矣悅軒趙先生尤其傑然者也自念辛巳科予年十四亦由是科得爲松亭門生平生雖無可稱然比之六韻八脚亦不天地懸隔矣其於國家設科取士之意又不至於大戾矣今舅氏金有暘將由是科試於有司求舊本因記興國寺法泉方丈獲甞寓目是集命持冊移書書其端俾後有考焉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 十韻詩序
+  author: 李穡
+  language: lzh
+  text: 百字科。未知所從起也。我國家興文治。敎養多方。引之以簡易之術。動之以繁華之寵。所以擊蒙而俾之求益也。於戲。先王作人之盛心。何其遠哉。近世以百字科進者多矣。悅軒趙先生。尤其傑然者也。自念辛巳科。予年十四。亦由是科。得爲松亭門生。平生雖無可稱。然比之六韻八脚。亦不天地懸隔矣。其於國家設科取士之意。又不至於大戾矣。今舅氏金有暘。將由是科。試於有司。求舊本。因記興國寺法泉方丈。獲甞寓目是集。命持冊移書。書其端。俾後有考焉。
+korean:
+  title: 십운시 서
+  author: 이색
+  language: kor
+  text: 백자(百字)로 과거를 보는 것은 어디서 기인되었는지 알 수 없다. 우리 국가가 문치를 일으키고 교양하는 방법도 따라서 여러 가지였다. 간편하고 쉬운 방법으로 끌어들이고 화려한 은총으로 격려시키는 것은 몽매한 자를 깨우쳐서 유익됨을 구하게 하려는 것이었다. 아, 선왕이 인재를 기르는 거룩한 마음이 어찌 그리 원대하였던가. 근세에 백자과(百字科)로 진출한 자가 많은데, 열헌(悅軒) 조(趙) 선생이 그 중에서 더욱 우뚝한 이였다.스스로 생각하건대, 신사년 과거에 내 나이 14세로 역시 이 과거를 거쳐서 송정(松亭)의 문생이 되었다. 평생에 비록 칭도할 만한 것은 없지만 육운(六韻)ㆍ팔각(八脚)에 비하면 역시 하늘과 땅처럼 간격이 나지 않고, 그 국가의 과거를 마련하여 선비를 뽑는 뜻에 있어서도 역시 과히 틀리는 정도까지는 되지 않을 것이다. 지금 구씨(舅氏) 김유양(金有暘)이 이 과거로 유사에게 시험을 보기로 하여 구본(舊本)을 구하므로 곧 흥국사(興國寺) 법천방장(法泉方丈)에서 일찍이 그 집서(集書)를 얻어본 것을 기억하여, 명하여 책을 가져다 옮겨 쓰도록 하고, 그 머리에 이 글을 써서 뒷사람으로 하여금 상고함이 있게 하려는 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0900_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 序詩 : '
+    value: 詩序
+english:
+  title: Preface to the Ten-Rhyme Poetry
+  author: Lee Saek
+  language: eng
+  text: 'The examination system based on the Hundred Characters—its origins remain unclear. Our state has raised the arts of governance and culture, employing many methods of instruction and cultivation. Through simple and accessible means we draw forth the talented; through generous rewards we inspire their efforts. Thus do we awaken the dull-minded and move them to seek advancement. Alas, what noble and far-reaching hearts our ancient kings possessed in nurturing their people! In recent times, many have risen through the Hundred Character examination, yet Yeolheon Zhao stood supreme among them all. Reflecting upon my own path: at fourteen years of age, in the year Xinsi, I too took this examination and became a student of Songjung. Though I have achieved nothing worthy of praise throughout my life, compared to the Six-Rhyme and Eight-Foot forms, the distance between us is not so vast as heaven from earth. Nor do I stray greatly from the intent of our state in establishing this examination to select worthy scholars. Now my uncle Kim Yu-yang prepares to sit for this examination before the officials. In seeking the old texts, I recalled having once glimpsed this collection at the Beopheon Chambers of Heungguk Temple. I have therefore ordered the book brought forth and these words inscribed at its beginning, that future scholars might have recourse to examine it.'
+  footnotes:
+  - key: ''
+    value: The 'Hundred Character examination' (百字科) was an alternative examination system in medieval Korea that tested candidates on their knowledge of classical texts through a different methodology than the standard civil service examinations.
+  - key: ''
+    value: Yeolheon Zhao was a distinguished scholar and teacher of the author's time.
+  - key: ''
+    value: The 'Six-Rhyme and Eight-Foot forms' refer to more rigorous poetic examination formats, suggesting the Hundred Character examination was considered more accessible.

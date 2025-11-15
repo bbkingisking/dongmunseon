@@ -1,0 +1,37 @@
+canonical:
+  title: 春日
+  author: 徐居正
+  language: lzh
+  text: 金入垂楊玉謝梅小池新水碧於苔春愁春興誰深淺燕子不來花未開
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春日
+  author: 徐居正
+  language: lzh
+  text: 金入垂楊玉謝梅。小池新水碧於苔。春愁春興誰深淺。燕子不來花未開。
+korean:
+  title: 춘일
+  author: 서거정
+  language: kor
+  text: |-
+    금빛은 실버들에 들어가고 옥은 매화를 이별하는데
+    작은 못의 새로운 물은 이끼보다 푸르다
+    봄 시름과 봄 흥의 어느 것이 깊고 옅은가
+    제비도 오지 않고 꽃도 피지 않았네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0100&viewSync=OT
+  footnotes: []
+english:
+  title: Spring Day
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Gold gleams through trailing willows, jade parts from the plum blossom.
+    The small pond's fresh water grows greener than moss.
+    Which cuts deeper—spring's sorrow or spring's delight?
+    The swallows have not yet come, and flowers remain unborn.
+  footnotes:
+  - key: ''
+    value: The contrasting images of gold (willows) and jade (plums) represent the passing of early spring, while the vivid green of the pond suggests renewal and life stirring beneath the surface.
+  - key: ''
+    value: The poet questions whether melancholy or joy dominates this transitional moment of spring—a common meditation in East Asian poetry on the ambivalent nature of seasonal change.

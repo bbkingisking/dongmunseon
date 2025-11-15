@@ -1,0 +1,39 @@
+canonical:
+  title: 緄 저자(著者
+  author: 金宗直
+  language: lzh
+  text: 調麝硏砂有老姑迎門不見掌中珠天公薄厚眞難曉春暖鷄窠八九雛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 緄 저자(著者
+  author: 金宗直
+  language: lzh
+  text: 調麝硏砂有老姑。迎門不見掌中珠。天公薄厚眞難曉。春暖鷄窠八九雛。
+korean:
+  title: 8월에 곤
+  author: 김종직
+  language: kor
+  text: |-
+    사향을 조리하고 주사를 굽는 늙은 할미가 있어
+    문에 나가 맞이했으나 손바닥의 명주를 보지 못했네
+    하늘의 후박은 진실로 알기 어렵도다
+    봄이 따사로와 닭보금자리엔 8ㆍ9마리 병아리 있거니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0540&viewSync=OT
+  footnotes: []
+english:
+  title: On the Eighth Month
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    An old woman grinds musk and refines cinnabar,
+    Yet stepping out to greet the visitor, she holds no pearl in her palm.
+    Heaven's favor and disdain—truly hard to fathom—
+    Spring warmth brings eight or nine chicks nestled in the coop.
+  footnotes:
+  - key: ''
+    value: The musk and cinnabar refer to precious substances, suggesting wealth or abundance; the pearl represents a treasured gift or blessing.
+  - key: ''
+    value: The contrast between the old woman's labor with valuable materials and her inability to offer a precious gift to her visitor reflects on the paradox of human fortune and divine providence.
+  - key: ''
+    value: The poem shifts to spring imagery, where humble creatures like chicks multiply in warmth, suggesting that nature's provisions may exceed human expectations in unexpected ways.

@@ -1,0 +1,47 @@
+canonical:
+  title: 伏龍途中
+  author: 金宗直
+  language: lzh
+  text: 笋輿咿軋渡晴川遙見前驅過坂田邑犬吠人籬有竇野巫迎鬼紙爲錢斷雲寒日工呑吐小巘平岡遠接連南去錦城三十里却愁頳盡擔夫肩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 伏龍途中
+  author: 金宗直
+  language: lzh
+  text: 笋輿咿軋渡晴川。遙見前驅過坂田。邑犬吠人籬有竇。野巫迎鬼紙爲錢。斷雲寒日工呑吐。小巘平岡遠接連。南去錦城三十里。却愁頳盡擔夫肩。
+korean:
+  title: 복룡 도중
+  author: 김종직
+  language: kor
+  text: |-
+    윤여(대로 만든 가마)가 삐걱삐걱 맑은 개울 건넜는데
+    멀리 보매 전구는 언덕밭을 지났구나
+    고을 개가 사람을 짖으매 울타리에 구멍 있고
+    들 무당이 귀신을 맞이하매 종이가 돈이 된다
+    조각 구름은 찬 날을 머금었다 토했다 하고
+    작은 봉우리 편편한 등성이는 저 멀리 잇닿아 있다
+    남쪽으로 금성 30리 갈 것이니
+    교구꾼 어깨가 벌겋게 될까 걱정한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0810&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road to Fulong
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    The bamboo palanquin creaks and groans as it crosses the clear stream.
+    Far ahead, the vanguard passes over terraced fields.
+    Village dogs bark at travelers, holes gape in their fences,
+    And country shamans greet the spirits—their paper offerings become currency.
+    Fragmented clouds breathe in the cold sun, then exhale it away,
+    While small peaks and gentle ridges stretch into distant continuity.
+    Thirty miles south to the Brocade City still remain,
+    And I worry the bearers' shoulders will bleed red beneath the pole.
+  footnotes:
+  - key: ''
+    value: Fulong (伏龍) may refer to a legendary recluse or a place name, possibly alluding to Zhuge Liang's sojourn before joining Liu Bei during the Three Kingdoms period.
+  - key: ''
+    value: The 'Brocade City' (錦城) is a poetic name for Chengdu, capital of Sichuan province.
+  - key: ''
+    value: This poem captures the sensory experience of an official's journey, blending mundane observation with subtle philosophical reflection on human toil and natural beauty.

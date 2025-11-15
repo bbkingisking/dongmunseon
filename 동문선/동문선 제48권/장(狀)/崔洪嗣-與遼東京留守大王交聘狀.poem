@@ -1,0 +1,39 @@
+canonical:
+  title: 與遼東京留守大王交聘狀
+  author: 崔洪嗣
+  language: lzh
+  text: 榮奉命綸新司留鑰講聞有素然忻邇於善隣音問猶踈今欲馳於專介恭希雅候允適大和
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 與遼東京留守大王交聘狀
+  author: 崔洪嗣
+  language: lzh
+  text: 榮奉命綸。新司留鑰。講聞有素。然忻邇於善隣。音問猶踈。今欲馳於專介。恭希雅候。允適大和。
+korean:
+  title: 여 요 동경 유수 대왕 교빙 장
+  author: 최홍사
+  language: kor
+  text: 영광스러운 윤음(綸音)을 받들어 새로 유약(留鑰 유수의 자물쇠)을 맡게 되시었으니, 강문(講聞)이 진작 있었음에 선린(善隣)의 가까움을 기뻐하오나 안부 여쭙는 일은 오히려 자주 하지 못하기에 지금 전위하여 사행(使行)을 보냅니다. 삼가 기체가 태화(太和)하시기를 빕니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter of Diplomatic Exchange with the Crown Prince, Keeper of Liaodong Capital
+  author: Choe Hong-sa
+  language: eng
+  text: |-
+    Honored by the imperial mandate newly bestowed,
+    You hold the keys to the eastern gate's care.
+    Long have we heard of your wisdom and grace,
+    And rejoiced in this kinship drawn near.
+    Yet our inquiries have traveled but seldom—
+    So now I dispatch an emissary to you,
+    Humbly hoping that harmony eternal
+    May grace your household and all that you do.
+  footnotes:
+  - key: ''
+    value: This is a formal diplomatic communication (狀) addressed to the Keeper of Liaodong Capital, a position of great importance in the administrative structure.
+  - key: ''
+    value: The 'keys' (留鑰) refer metaphorically to administrative authority, suggesting the recipient's custodianship of an important region.
+  - key: ''
+    value: 太和 (Great Harmony) is a classical Chinese concept of cosmic and social equilibrium, here invoked as a blessing upon the recipient.

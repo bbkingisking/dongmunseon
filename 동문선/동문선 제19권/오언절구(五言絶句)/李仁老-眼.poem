@@ -1,0 +1,39 @@
+canonical:
+  title: 眼
+  author: 李仁老
+  language: lzh
+  text: 不安劉琨紫何須阮籍靑冥然在一室萬事見無形
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 眼
+  author: 李仁老
+  language: lzh
+  text: 不安劉琨紫。何須阮籍靑。冥然在一室。萬事見無形。
+korean:
+  title: 안
+  author: 이인로
+  language: kor
+  text: |-
+    유곤(劉琨)의 붉은 눈도 가지지 못했거니
+    완적의 푸른 눈이 무삼하랴
+    명연히 한 방에 앉으니
+    만사를 무형으로 보누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유곤(劉琨)의 붉은 눈 : '
+    value: 진(晉)나라 유곤(劉琨)의 눈이 자색(紫色)이었다.
+english:
+  title: The Eye
+  author: Lee In-ro
+  language: eng
+  text: |-
+    I need not Liu Kun's eyes of purple flame,
+    Nor Ruan Ji's gaze of azure hue.
+    Sitting alone in this still room,
+    I see ten thousand things as formless void.
+  footnotes:
+  - key: ''
+    value: Liu Kun was a Jin dynasty general known to have eyes of unusual purple color, symbolic of exceptional perception or intensity of vision.
+  - key: ''
+    value: Ruan Ji was a famous poet and eccentric of the Western Jin, often associated with blue or green eyes in classical allusions, representing both aesthetic refinement and spiritual detachment.

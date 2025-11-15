@@ -1,0 +1,51 @@
+canonical:
+  title: 奉送洪節度 伯涓 之鎭
+  author: 徐居正
+  language: lzh
+  text: 將門生將早箕裘萬里靑雲得意秋花縣憶曾留異績柳營今復運良籌氣雄虎旅三千隊令肅龍驤萬斛舟南顧君王寬聖慮姓名從此入金甌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉送洪節度 伯涓 之鎭
+  author: 徐居正
+  language: lzh
+  text: 將門生將早箕裘。萬里靑雲得意秋。花縣憶曾留異績。柳營今復運良籌。氣雄虎旅三千隊。令肅龍驤萬斛舟。南顧君王寬聖慮。姓名從此入金甌。
+korean:
+  title: 봉송 홍절도 백연 지진
+  author: 서거정
+  language: kor
+  text: |-
+    장군 문에서 장군이 나매 기구가 일렀거니
+    만 리 푸른 구름에 뜻을 얻은 가을일네
+    생각하면 화현에는 일찍이 이적이 있었는데
+    지금 유영에는 양주를 운전한다
+    호려의 삼천대에 기운이 웅장하고
+    용양(용처럼 꿈틀거리는 것)의 만곡주에 호령이 엄숙하다
+    남으로 돌아보아 군왕은 걱정을 놓았으니
+    지금부터 그 성명은 금구에 들어가리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화현(花縣) : '
+    value: 홍절도라는 사람이 전에 어느 고을의 군수로 행정을 잘 하였다는 말인데, 화현은 어느 고을인지 미상이다.
+  - key: '[주-D002] 유영(柳營) : '
+    value: 장군이 있는 군(軍) 본부를 유영(柳營)이라 한다. 옛날 한나라 주아부(周亞夫)라는 사람이 세류(細柳)에 군 본부를 두었던 데에서 기인된 말이다.
+english:
+  title: Farewell to General Hong Bakyeon Upon His Appointment
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    From the general's gate a general emerged—inheriting the mantle of his forebears.
+    Across ten thousand leagues of azure cloud, his ambition finds autumn's ripe season.
+    In the Flower County he once left his mark with uncommon merit;
+    now in the Willow Camp he turns the wheel of wise strategy.
+    His spirit soars fierce as tiger battalions—three thousand strong—
+    and his command flows stern as dragon-prowed vessels bearing ten thousand measures.
+    Looking south toward the throne, the sovereign's mind finds ease,
+    and from this hour your name shall be carved in gold and jade eternal.
+  footnotes:
+  - key: ''
+    value: The 'Flower County' refers to a place where General Hong previously served as magistrate with distinguished accomplishment.
+  - key: ''
+    value: The 'Willow Camp' is a traditional term for a military headquarters, derived from the famous commander Zhou Yafu of the Han Dynasty, who established his camp at Xiliu (Fine Willow).
+  - key: ''
+    value: The 'gold and jade' (금구) refers to imperial records—a poetic way of saying one's name will be remembered in history.

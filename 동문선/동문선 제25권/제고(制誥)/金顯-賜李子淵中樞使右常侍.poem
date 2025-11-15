@@ -1,0 +1,36 @@
+canonical:
+  title: 賜李子淵中樞使右常侍
+  author: 金顯
+  language: lzh
+  text: 敎某卿天球異寶日角英姿霍子孟之匡漢家唯持謹愼庾元規之居晉室非獨風流令名克副於朝僉奇畫密伸於晝接官加命數用示旌酬今賜卿告身一通到可領也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賜李子淵中樞使右常侍
+  author: 金顯
+  language: lzh
+  text: 敎某。卿天球異寶。日角英姿。霍子孟之匡漢家。唯持謹愼。庾元規之居晉室。非獨風流。令名克副於朝僉。奇畫密伸於晝接。官加命數。用示旌酬。今賜卿告身一通。到可領也。
+korean:
+  title: 사 이자연 중추사 우상시
+  author: 김현
+  language: kor
+  text: 이자연(李子淵)에게 교하노라. 경은 천구(天球)의 특이한 보화요, 일각(日角)의 뛰어난 모습이다. 한(漢)나라를 바로잡은 곽광(藿光)은 오직 근신(謹愼)을 하였고, 진(晋)나라의 정치를 맡은 유량(庾亮)은 유독 풍류만이 아니었다. 착한 명망은 조정의 관원이 되기에 합당하고, 기이한 꾀는 접견할 적에 다 세밀히 아뢰었다. 벼슬은 명수(命數)를 더하여, 보답하는 예를 보인다. 이제 경에게 직첩(職牒) 한 통을 주노니, 이르거든 잘 받으라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0280_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한(漢)나라를 …… 하였고 : '
+    value: 한(漢)나라 곽광(藿光)은 자가 자맹(子孟)인데, 무제(武帝)를 섬기는 20여 년 동안 근신(謹愼)하여 한 번도 과실이 없었다.
+  - key: '[주-D002] 진(晋)나라의 …… 아니었다 : '
+    value: 유량(庾亮)은 진(晋)나라의 대신(大臣)인데, 풍류로 이름이 있었다.
+english:
+  title: Granting Office to Yi Cha-yeon as Commissioner of the Central Secretariat and Right Attendant
+  author: Kim Hyeon
+  language: eng
+  text: |-
+    I hereby address you, Yi Cha-yeon:
+
+    You are a rare treasure like the celestial sphere, bearing the noble countenance of one marked by destiny. Huo Guang, who steadied the Han dynasty, maintained only through scrupulous caution and never faltered. Yu Liang, who governed the Jin realm, was known not merely for his elegant refinement. Your virtuous reputation proves worthy of service in our court, and your remarkable counsel has been meticulously demonstrated in each audience. Through promotion in rank, we demonstrate our gratitude for your merit. Today we grant you this official diploma. Upon receipt, acknowledge it well.
+  footnotes:
+  - key: ''
+    value: Huo Guang (styled Zi Meng), who served the Han emperor for over twenty years, was renowned for his unwavering prudence and never committed a single fault in his duties.
+  - key: ''
+    value: Yu Liang, a great minister of the Jin dynasty, was celebrated for his cultivation of refinement and elegance.

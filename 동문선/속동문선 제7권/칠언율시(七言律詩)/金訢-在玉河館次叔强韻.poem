@@ -1,0 +1,49 @@
+canonical:
+  title: 在玉河館次叔强韻
+  author: 金訢
+  language: lzh
+  text: 行槖蕭然欠一金猶欣不負昔年心詩緣大瘦經春廢酒有奇功獨夜斟伏枕乍吟莊舃病登樓聊散仲宣襟家山縹緲三千里蝴蝶翩翩夢裏尋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 在玉河館次叔强韻
+  author: 金訢
+  language: lzh
+  text: 行槖蕭然欠一金。猶欣不負昔年心。詩緣大瘦經春廢。酒有奇功獨夜斟。伏枕乍吟莊舃病。登樓聊散仲宣襟。家山縹緲三千里。蝴蝶翩翩夢裏尋。
+korean:
+  title: 재 옥하관 차 숙강 운
+  author: 김흔
+  language: kor
+  text: |-
+    나그네 주머니가 쓸쓸하여 돈 한 푼 없는데
+    그래도 옛날의 마음을 저버리지 않은 것을 기뻐하나니
+    시는 큰 병을 인연하여 봄을 지나 폐하였는데
+    술에는 기특한 공이 있어 밤에 혼자 잔질한다
+    베개에 엎드려서는 잠깐 장석의 병을 읊조리다가
+    다락에 올라서는 애오라지 중선의 회포를 흩는다
+    내 고향은 아득히 삼천 리 밖인데
+    나비 되어 훨훨 날아 꿈속에서 찾으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장석(莊舃)의 …… 읊조리다가 : '
+    value: 전국 시대 월(越)나라 사람으로 초(楚)나라에 가서 벼슬하다가 병이 나서는 고국 생각을 하였다 한다.
+  - key: '[주-D002] 다락에 …… 흩는다 : '
+    value: 3국 시대 위(魏)나라 왕찬(王粲)의 자(字)가 중선이다. 그는 악양루(岳陽樓)에 올라 〈등루부(登樓賦)〉를 지었으므로 악양루를 중선루(仲宣樓)라고도 한다.
+english:
+  title: At the Jade River Pavilion, Following the Rhyme of Suk-kang
+  author: Kim Heun
+  language: eng
+  text: |-
+    My traveler's purse lies empty, not a coin to spare,
+    Yet I rejoice that my heart remains true to years gone by.
+    Poetry—that great affliction—has fallen silent through the spring,
+    But wine possesses wondrous power; alone at night I pour.
+    Bending over my pillow, I hum of Zhuang Shi's distant pain,
+    Climbing the tower, I scatter the sorrows of Zhong Xuan's heart.
+    My homeland shimmers three thousand leagues away,
+    A butterfly in dreams, I flutter through the night to find it.
+  footnotes:
+  - key: ''
+    value: 'Zhuang Shi: A scholar from Yue during the Warring States period who took service in Chu but fell ill, yearning for his homeland.'
+  - key: ''
+    value: 'Zhong Xuan (Wang Can): A renowned poet of the Wei kingdom whose "Climbing Tower Rhapsody" was composed at Yueyang Tower, later known as Zhong Xuan''s Tower.'

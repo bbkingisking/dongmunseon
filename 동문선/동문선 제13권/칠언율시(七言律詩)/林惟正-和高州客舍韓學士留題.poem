@@ -1,0 +1,47 @@
+canonical:
+  title: 和高州客舍韓學士留題
+  author: 林惟正
+  language: lzh
+  text: 砌蛩相伴促寒更晏殊 暫到城來又出城樂天 別院幽庭松偃盖方干 碧畦黃隴稻如京子瞻 花非識面迎人笑齊己 草不知名隨意生李商隱 吟罷倚筇南北望孫僅故園迢遞不勝情光廷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和高州客舍韓學士留題
+  author: 林惟正
+  language: lzh
+  text: |-
+    砌蛩相伴促寒更。晏殊。 暫到城來又出城。樂天。 別院幽庭松偃盖。方干。 碧畦黃隴稻如京。子瞻。 花非識面迎人笑。齊己。 草不知名隨意生。李商隱。 吟罷倚筇南北望。孫僅。
+    故園迢遞不勝情。光廷。
+korean:
+  title: 고주 객사에서 한학사의 유제에 화답하며
+  author: 임유정
+  language: kor
+  text: |-
+    섬돌의 귀뚜라미 새벽을 재촉하는데 안수(晏殊)
+    잠깐 성에 왔다가 또 성을 나가는구나 낙천(樂天)
+    외딴 채 그윽한 뜰에 소나무는 일산을 누인 듯 방간(方干)
+    푸른 논 누른 밭뚝에 벼가 산더미 같네 자첨(子瞻)
+    얼굴을 모르건만 꽃은 사람을 반겨 웃고 제기(齊己)
+    이름도 없는 풀은 제 멋대로 살고 있네 이상은(李商隱)
+    읊고 나서 막대를 의지하여 남북으로 바라보니 손근(孫僅)
+    내 고향 멀고 멀어라 정을 이길 수 없구나 광정(光廷)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Han the Scholar's Inscribed Poem at the Gaozhou Lodging House
+  author: Lim Yujeong
+  language: eng
+  text: |-
+    Crickets on the stone steps urge the dawn to break.
+    I arrive at the city walls, then leave them once again.
+    In the secluded courtyard, pines bow down like parasols.
+    Green fields and yellow ridges—the rice stands tall as mountains.
+    Though I do not know the flower's face, it smiles to greet me.
+    Nameless grasses grow wild, following their own nature.
+    After reciting, I lean upon my staff and gaze north and south.
+    My home grows ever distant—this longing knows no end.
+  footnotes:
+  - key: ''
+    value: This poem is a 'harmonizing poem' (화답시), composed in response to Han the Scholar's poem. Each line incorporates a famous poet's name from Chinese literary tradition, suggesting a literary conversation across centuries.
+  - key: ''
+    value: The structure of alternating couplets with attributed poets creates a palimpsest effect, layering multiple poetic voices and traditions within a single work about exile and longing.

@@ -1,0 +1,46 @@
+canonical:
+  title: 詠菊
+  author: 鄭誧
+  language: lzh
+  text: 我愛黃金菊凌霜有光輝獨立晚更好孰謂孤芳微風霜雖凜冽亦不畏其威足以制頹齡匪獨救我飢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詠菊
+  author: 鄭誧
+  language: lzh
+  text: 我愛黃金菊。凌霜有光輝。獨立晚更好。孰謂孤芳微。風霜雖凜冽。亦不畏其威。足以制頹齡。匪獨救我飢。
+korean:
+  title: 국화를 읊다
+  author: 정포
+  language: kor
+  text: |-
+    나는 황금빛 국화를 사랑한다
+    서리를 업신여겨 빛을 내나니
+    홀로 서 있으니 늦은 것이 다시 좋아
+    외로운 꽃다움이 미약하다 뉘 이른고
+    바람 서리 아무리 차고 매우나
+    그 위엄도 또한 두려울 것 없어라
+    국화를 먹으면 늙음을 방지하는 데 족하니
+    나의 주림 구제할 뿐 아니리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0560&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the Chrysanthemum
+  author: Jung Po
+  language: eng
+  text: |-
+    I love the chrysanthemum dressed in gold.
+    It blooms with brilliance, scorning the frost,
+    standing alone—and late autumn becomes beautiful.
+    Who dares say a solitary flower's beauty is slight?
+
+    Let wind and frost rage cold and bitter,
+    their terrible power cannot shake it.
+    The chrysanthemum sustains the failing years,
+    healing not just my hunger, but my spirit's want.
+  footnotes:
+  - key: ''
+    value: The chrysanthemum holds special significance in East Asian poetry as a symbol of longevity, resilience, and noble solitude. In traditional Chinese medicine and poetry, it was believed to have rejuvenating properties and to extend life.
+  - key: ''
+    value: The poem contrasts the chrysanthemum's delicate beauty with its extraordinary fortitude—a common theme in Korean and Chinese literati poetry that celebrates inner strength and virtue that endure despite hardship.

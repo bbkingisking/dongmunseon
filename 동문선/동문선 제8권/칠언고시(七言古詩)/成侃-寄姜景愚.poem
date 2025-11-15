@@ -1,0 +1,73 @@
+canonical:
+  title: 寄姜景愚
+  author: 成侃
+  language: lzh
+  text: 詩爲有聲畫畫乃無聲詩古來詩畫爲一致輕重未可分毫釐先生胷中藏百恠詩歟畫歟不可知時時遇興拈禿筆拂拭縞素開端倪須臾一水復一石蒼崖老木臨淸漪乃知鄭老是前身摩挲竟日神爲怡雖然粉墨豈傳久一朝散落隨煙霏不如移就有聲畫入人之耳解人頤千古萬古留神奇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄姜景愚
+  author: 成侃
+  language: lzh
+  text: 詩爲有聲畫。畫乃無聲詩。古來詩畫爲一致。輕重未可分毫釐。先生胷中藏百恠。詩歟畫歟不可知。時時遇興拈禿筆。拂拭縞素開端倪。須臾一水復一石。蒼崖老木臨淸漪。乃知鄭老是前身。摩挲竟日神爲怡。雖然粉墨豈傳久。一朝散落隨煙霏。不如移就有聲畫。入人之耳解人頤。千古萬古留神奇。
+korean:
+  title: 기강경우
+  author: 성간
+  language: kor
+  text: |-
+    시는 소리 있는 그림
+    그림은 소리 없는 시
+    예로부터 시와 그림은 일치하거니
+    경중을 호리로도 나누지 못하리
+    선생 가슴속에 감추인 온갖 기괴는
+    시인가, 그림인가 모르겠네
+    이따금 흥이 나면 몽당붓 들어
+    흰 비단 떨치고 시작하네
+    잠깐 새에 한 물, 다시 한 돌
+    벼랑의 늙은 나무 맑은 시냇가에 섰네
+    알괘라, 정로(당대(唐代)의 산수(山水) 명화가 정건(鄭虔))가 당신의 전신임을
+    종일토록 어루만져 기쁨을 삼네
+    그래도 필묵과 단청이 오래 갈 것가
+    일조에 흩어지면 연기처럼 될 것을
+    차라리 옮겨서 소리 있는 그림 만들어
+    귀에 곧 들어가면 턱이 까불까불
+    신기를 천고 만고에 머무름이 어떠리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0550&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강경우(姜景愚) : '
+    value: 경우는 강희안(姜希顔 1417~1464)의 자(字).
+  - key: '[주-D002] 전신(前身) : '
+    value: 불교(佛敎)의 윤회설(輪回說)에, 사람이 죽어서 다시 후세에 태어난다 하는데, 전생(前生)은 전신(前身)이요, 후생(後生)은 후신(後身)이라 한다.
+english:
+  title: A Letter to Kang Gyeongwoo
+  author: Seong Gan
+  language: eng
+  text: |-
+    Poetry is a painting that speaks,
+    A painting is a poem without sound.
+    Since ancient times, poem and painting have been one—
+    Their weight and measure cannot be split by a hair's breadth.
+
+    Within your breast, sir, lie a hundred wonders hidden.
+    Are they verse? Are they canvas? None can say.
+    When inspiration strikes, you take up your worn brush,
+    And sweep it across white silk to begin anew.
+
+    In mere moments—a stream appears, then a stone,
+    An ancient tree clings to the cliff above the clear stream.
+    Now I know: Zheng Qian is your former life returned,
+    And all day long you caress these works, your spirit content.
+
+    Yet what of ink and pigment—will they endure?
+    One day they scatter and drift away like mist.
+    Better still to shift them into paintings that sing,
+    That enter the ear and set the heart dancing.
+    Let your wonders linger through ten thousand ages—
+    Isn't that the true immortality?
+  footnotes:
+  - key: ''
+    value: Kang Gyeongwoo (景愚) is the courtesy name of Kang Hee-an (1417-1464), a renowned Korean painter and calligrapher of the Joseon dynasty.
+  - key: ''
+    value: Zheng Qian (鄭虔, 8th century Tang dynasty) was a celebrated landscape painter and poet, referenced here as the spiritual predecessor to the addressee.
+  - key: ''
+    value: The closing lines invoke Buddhist concepts of cyclical rebirth—the idea that great artistic souls return to manifest their gifts anew across generations.

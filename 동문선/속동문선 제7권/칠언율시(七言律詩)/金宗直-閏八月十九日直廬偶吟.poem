@@ -1,0 +1,51 @@
+canonical:
+  title: 閏八月十九日直廬偶吟
+  author: 金宗直
+  language: lzh
+  text: 藏室蓬山昔討論十三年後更叨恩眼花正怯金蓮燭口梗難斟白虎樽霜後梧桐猶窣窣月明鳷鵲自翻翻故園松菊應蕪沒妳母而今足夢魂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閏八月十九日直廬偶吟
+  author: 金宗直
+  language: lzh
+  text: 藏室蓬山昔討論。十三年後更叨恩。眼花正怯金蓮燭。口梗難斟白虎樽。霜後梧桐猶窣窣。月明鳷鵲自翻翻。故園松菊應蕪沒。妳母而今足夢魂。
+korean:
+  title: 윤팔월 십구일 직려 우음
+  author: 김종직
+  language: kor
+  text: |-
+    옛날 봉산의 장실에서 토론했더니
+    13년 뒤에 다시 은혜 입었다
+    눈이 흐렸으매 바로 금련의 촛불을 두려워하고
+    입이 막히었으매 백호의 술을 잔질하기 어렵다
+    서리 뒤의 오동은 아직도 우수수하고
+    달이 밝아 까치들은 스스로 퍼득인다
+    고향 동산의 솔과 국화는 이미 거칠었으리니
+    젖어미는 지금에 꿈속의 혼이 갔다 왔다 하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0790&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백호(白虎) : '
+    value: 《송서(宋書)》에, “신정(新正) 원회(元會)에 백호준(白虎樽)을 전정(殿庭)에 설치하는데 뚜껑 위에다 백호를 만들었다. 만약 곧은 말을 아뢰는 사람이 있으면 그 중에 든 술을 먼저 마시게 한다. 그것은 말하는 사람이 맹렬하기 범과 같아서 겁냄이 없으란 뜻이다.” 하였다.
+english:
+  title: A Casual Poem on the Nineteenth Day of the Intercalary Eighth Month at My Study
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    In years past we debated in the mountain hall of learning,
+    Now thirteen years on, grace has blessed me once again.
+    My eyes grow dim—I fear the golden lotus candlelight,
+    My voice grows hoarse—I struggle to drink from the brave tiger's cup.
+    After the frost, the parasol tree still whispers soft,
+    Beneath the moon the magpies flutter, dance, and turn.
+    The pines and chrysanthemums of my native garden must be wild and overgrown,
+    While mother's spirit wanders between dream and waking in the night.
+  footnotes:
+  - key: ''
+    value: The 'mountain hall of learning' (봉산의 장실) refers to a place of scholarly discourse and study from the speaker's youth.
+  - key: ''
+    value: The 'brave tiger's cup' (백호樽) is a ceremonial vessel associated with speaking truth boldly, as one would need the courage of a tiger. The reference suggests difficulty in speaking freely, perhaps due to age or circumstance.
+  - key: ''
+    value: The speaker reflects on aging—dimming eyes and a weakening voice—while nature around him persists in its cycles.
+  - key: ''
+    value: The final image of the mother's spirit wandering between dream and waking suggests the speaker's separation from home and loved ones, with only memory and dreams as connection.

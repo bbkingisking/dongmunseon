@@ -1,0 +1,66 @@
+canonical:
+  title: 夜坐感懷和容齋學士立春見寄二首
+  author: 朴誾
+  language: lzh
+  text: 懶絶交游問愁將文字調風光雖可喜世事不吾饒欲去田廬薄無眠春夜遙懸知李夫子解聽寂寥謠明日有何喜燈花應我調不堪春睡少政奈客愁饒累豈平生盡人今咫尺遙風前嘶老馬似欲和長謠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜坐感懷和容齋學士立春見寄二首
+  author: 朴誾
+  language: lzh
+  text: 懶絶交游問。愁將文字調。風光雖可喜。世事不吾饒。欲去田廬薄。無眠春夜遙。懸知李夫子。解聽寂寥謠。明日有何喜。燈花應我調。不堪春睡少。政奈客愁饒。累豈平生盡。人今咫尺遙。風前嘶老馬。似欲和長謠。
+korean:
+  title: 야좌감회 화욕재학사 입춘견기 이수
+  author: 박은
+  language: kor
+  text: |-
+    게으르매 친구의 방문이 끊어졌고
+    시름하매 문자를 가지고 희롱[調]한다
+    풍광은 아무리 기뻐할 만하여도
+    세상일은 나를 넉넉하게 하지 않네
+    돌아가려고 하나 농사집이 가난하고
+    잠이 없으매 봄 밤이 길어라
+    멀리 아노니 이부자는
+    적요의 노래를 들을 줄 알리라
+    내일에는 무슨 기쁨 있을꼬
+    저 등불 아마 나를 비웃으리라
+    봄 잠 적은 것이 견디기 어렵거니
+    나그네의 많은 시름 어찌할까나
+    누된 것 어찌하면 평생에 다하리
+    사람은 지금에 지척이 멀구나
+    바람 앞에서 외치는 늙은 말은
+    긴 노래를 화답하려는 듯하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0970&viewSync=OT
+  footnotes: []
+english:
+  title: Night Musings in Response to Scholar Yongje's Verses on the First Day of Spring
+  author: Park Eun
+  language: eng
+  text: |-
+    Lazy, I've ceased receiving visitors,
+    Anxious, I toy with words to ease the pain.
+    Though spring light delights the eye,
+    The world shows me no mercy.
+
+    I long to return to my humble farm,
+    But sleeplessness stretches the spring night long.
+    Yet I know that Master Lee understands—
+    He alone can hear the music of solitude.
+
+    What joy awaits tomorrow?
+    The lamplight seems to mock me still.
+    Spring sleep comes too sparse to bear,
+    And a wanderer's sorrows multiply without end.
+    How can I ever finish bearing this weight?
+    Even those nearby now seem impossibly far.
+
+    Before the wind, an old horse neighs,
+    As if answering with a prolonged song.
+  footnotes:
+  - key: ''
+    value: The title indicates this is one of two poems responding to verses from Scholar Yongje (容齋學士) written for the First Day of Spring. The collection references the tradition of literary exchange during the spring festival.
+  - key: ''
+    value: The 'Master Lee' (李夫子) likely refers to a respected scholar or friend whose philosophical understanding and empathy are contrasted with the speaker's isolation.
+  - key: ''
+    value: The final image of the old horse neighing before the wind carries both melancholy and a suggestion of perseverance—the horse, despite its age, still responds to the natural world.

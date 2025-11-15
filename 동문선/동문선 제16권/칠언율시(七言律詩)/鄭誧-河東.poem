@@ -1,0 +1,49 @@
+canonical:
+  title: 河東
+  author: 鄭誧
+  language: lzh
+  text: 十年京洛共遊歡今日河梁別更難獵獵秋風吹破帽淒淒朝雨濕征鞍樹踈野店投人宿山好溪途立馬看莫向南州苦留滯倚閭慈母眼長寒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 河東
+  author: 鄭誧
+  language: lzh
+  text: 十年京洛共遊歡。今日河梁別更難。獵獵秋風吹破帽。淒淒朝雨濕征鞍。樹踈野店投人宿。山好溪途立馬看。莫向南州苦留滯。倚閭慈母眼長寒。
+korean:
+  title: 하동
+  author: 정포
+  language: kor
+  text: |-
+    10년 동안 서울서 함께 즐기며 놀다가
+    오늘 하량에서 이별하기 서운하이
+    우수수 가을 바람은 해진 갓에 불어오고
+    부슬부슬 아침 비가 말 안장을 적시네
+    나무 성긴 촌 주막에 들어가 자기도 하리
+    산 좋거든 시냇길에서 말 세우고 보게나
+    그렇지만 남주에서 너무 오래 묵지 마소
+    어머님 거리에 나서 눈 시리게 기다리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하량(河梁) : '
+    value: 한(漢)나라 이릉(李陵)이 소무(蘇武)에게 준 송별시에, “손을 잡고 하량에 올라간다[攜手上河梁].” 했는데, 하량은 하수의 다리[橋]이다. 여기서도 물가에서 송별하면서 인용한 것이다.
+  - key: '[주-D002] 어머님 거리에 나서[倚閭] : '
+    value: 제(齊)나라 왕손가(王孫賈)의 어머니가 아들에게, “네가 아침에 나가서 늦게 돌아오면 내가 문에 기대어 바라보고, 네가 나가서 안 돌아오면 나는 마을 문에 기대어 바라본다.” 하였다.
+english:
+  title: Hadong
+  author: Jung Po
+  language: eng
+  text: |-
+    Ten years we wandered through the capital together,
+    Today at the river's edge our parting cuts deeper still.
+    Raggedily the autumn wind tears through my broken hat,
+    Softly the morning rain soaks my traveling saddle.
+    At a sparse woodland inn I'll lay my weary head,
+    And if the mountains call, I'll pause to drink their streams.
+    Yet linger not too long in southern lands, I beg,
+    For mother waits at the gate, her eyes worn cold with watching.
+  footnotes:
+  - key: ''
+    value: The river's edge (河梁) evokes the famous farewell of Li Ling and Su Wu in Han dynasty lore, lending this parting the weight of ancient separation.
+  - key: ''
+    value: The image of mother waiting at the gate draws from the classical tale of the mother of Wang Sun Jia, who would lean at the village gate watching for her son's return—a timeless emblem of parental longing and filial duty.

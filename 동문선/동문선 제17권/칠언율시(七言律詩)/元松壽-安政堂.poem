@@ -1,0 +1,48 @@
+canonical:
+  title: 安政堂
+  author: 元松壽
+  language: lzh
+  text: 綠野堂開洞裏天世塵終不染江煙新詩滿眼山當戶喜氣渾家水㶑田兩岸微風楊柳外一池明月藕花前但敎有酒身無事安用垂名動萬年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 安政堂
+  author: 元松壽
+  language: lzh
+  text: 綠野堂開洞裏天。世塵終不染江煙。新詩滿眼山當戶。喜氣渾家水㶑田。兩岸微風楊柳外。一池明月藕花前。但敎有酒身無事。安用垂名動萬年。
+korean:
+  title: 안정당
+  author: 원송수
+  language: kor
+  text: |-
+    조촐한 마을에 녹야당을 열었으니
+    세상 먼지인들 강가의 풍경 더럽히랴
+    새론 시가 눈에 가득하고 문전이 바로 산인데
+    온 집안에 기쁜 얼굴 논에 물이 질펀해라
+    버들 늘어선 양 둑에 바람이 솔솔
+    연꽃 핀 못엔 달이 휘영청 밝아라
+    그저 술 있고 몸 무사하면 족할 뿐인데
+    그까짓 이름자 남겨 만 년 간들 무엇하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: The Hall of Peaceful Governance
+  author: Won Song-su
+  language: eng
+  text: |-
+    In this humble village, I have opened the Green Field Hall,
+    Where the dust of the world cannot taint the riverside mist.
+    New verses fill my eyes, and mountains frame my gate—
+    Joy spreads through my household as water floods the fields.
+
+    On both banks, beyond the drooping willows, a gentle wind stirs,
+    And before the lotus pond, the moon shines clear and bright.
+    Why should I want more than wine and a life without care?
+    What use is a name that echoes for ten thousand years?
+  footnotes:
+  - key: ''
+    value: The 'Green Field Hall' (綠野堂) represents a retreat from worldly affairs and the pursuit of simple, cultivated leisure.
+  - key: ''
+    value: The imagery of rivers, mountains, and moonlight reflects the classical Chinese poetic tradition of nature as a mirror for spiritual cultivation.
+  - key: ''
+    value: The final couplet expresses a Daoist sentiment rejecting fame and ambition in favor of present contentment—a common theme in Korean literati poetry of the period.

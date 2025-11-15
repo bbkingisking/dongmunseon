@@ -1,0 +1,43 @@
+canonical:
+  title: 駕幸東京獻王內相融
+  author: 東京老人
+  language: lzh
+  text: 九天光動轉星辰日旆龍旗並海巡黃葉雞林曾索寞煙花今復上園春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 駕幸東京獻王內相融
+  author: 東京老人
+  language: lzh
+  text: 九天光動轉星辰。日旆龍旗並海巡。黃葉雞林曾索寞。煙花今復上園春。
+korean:
+  title: 어가가 동경에 왔을 때 왕내상 융에게 드린다
+  author: 동경 노인
+  language: kor
+  text: |-
+    구천에서 빛이 움직이니 별이 구르고
+    일패용기(日旆龍旗)는 바다를 따라 순수하네
+    계림의 단풍잎은 일찍이 적막하더니
+    연화가 이제 다시 상원(上園)의 봄일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 일패용기(日旆龍旗) : '
+    value: 임금의 깃발에 해와 용을 그린 것을 말함.
+  - key: '[주-D002] 상원(上園) : '
+    value: 임금의 동산인 장안(長安)의 상림원(上林園)을 인용한 것이다.
+english:
+  title: 'Upon the Royal Procession to the Eastern Capital: Presented to Minister Wang and Chancellor Rong'
+  author: An Elder of the Eastern Capital
+  language: eng
+  text: |-
+    Light stirs across the nine heavens, rolling the stars;
+    the sun-blazoned and dragon-bannered procession sweeps along the sea.
+    Once the crimson leaves of Gyerim lay barren and still,
+    yet now the flowers of smoke return to grace the royal gardens in spring.
+  footnotes:
+  - key: ''
+    value: Gyerim (鷄林) is an ancient name for the Korean peninsula, here referring to the Eastern Capital.
+  - key: ''
+    value: The royal standards bear the emblems of sun and dragon, marks of imperial authority.
+  - key: ''
+    value: The royal gardens evoke the legendary Upper Forest Garden (上林園) of Chang'an, here symbolizing renewal and the restoration of vitality to the realm.

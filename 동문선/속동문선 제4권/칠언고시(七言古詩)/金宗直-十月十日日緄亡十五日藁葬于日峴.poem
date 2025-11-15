@@ -1,0 +1,45 @@
+canonical:
+  title: 十月十日日緄亡十五日藁葬于日峴
+  author: 金宗直
+  language: lzh
+  text: 人生百年忽已半草草得喪誰恩怨鳩巢甚拙雛不成郞罷眼中誰復健汝歸眞似黃臺苽三摘四摘今抱蔓妻啼婦哭不可聞強欲寬之腸寸寸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 十月十日日緄亡十五日藁葬于日峴
+  author: 金宗直
+  language: lzh
+  text: 人生百年忽已半。草草得喪誰恩怨。鳩巢甚拙雛不成。郞罷眼中誰復健。汝歸眞似黃臺苽。三摘四摘今抱蔓。妻啼婦哭不可聞。強欲寬之腸寸寸。
+korean:
+  title: 10월 11일에 곤이 죽어 15일에 일현에 임시로 매장하였다
+  author: 김종직
+  language: kor
+  text: |-
+    인생 백년이 문득 벌써 절반인데
+    얻고 잃은 것을 누굴 은혜로 알며 원망하리
+    비들기 집이 하도 졸하여 새끼를 못 기르니
+    아빠 눈에는 튼튼한 놈 없구나
+    네가 갔구나 참말 황대의 외처럼
+    셋 따고 넷 따고 이제는 넝쿨만 남았네
+    처의 울음, 며느리 통곡을 어찌 차마 들으리
+    억지로 누그리려니 애가 촌촌이 끊어진다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 네가 …… 외처럼 : '
+    value: 당나라 무후(武后)가 자기의 아들을 자꾸 죽이므로 사람들이 노래하기를, “황대 밑에 의를 심었더니 셋 따고 나중에는 넝쿨만 안고 돌아오네.” 하였다.
+english:
+  title: On the Death of Gon on the Eleventh Day of the Tenth Month and His Temporary Burial at Ilhyeon on the Fifteenth Day
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    A hundred years of human life—already half is gone in a blink.
+    For gains and losses, whom shall I thank, and whom resent?
+    The dove builds such a clumsy nest that chicks cannot survive.
+    In a father's eyes, not one remains robust.
+    You have gone—truly like the melon of the Yellow Tower,
+    Thrice plucked, four times plucked, now only vines remain in hand.
+    The wife's weeping, the daughter-in-law's wails—how can I bear to hear?
+    Struggling to console them, my heart breaks into countless pieces.
+  footnotes:
+  - key: ''
+    value: 'The ''melon of the Yellow Tower'' alludes to a tragic tale from Tang Dynasty China: the Empress Wu repeatedly caused the deaths of her own sons, and people sang a lament comparing her to someone who planted melons beneath the Yellow Tower, only to return home with nothing but vines after repeated harvests. The poem applies this image of repeated, senseless loss to the speaker''s grief.'

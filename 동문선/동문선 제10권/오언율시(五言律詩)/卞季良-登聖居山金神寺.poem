@@ -1,0 +1,45 @@
+canonical:
+  title: 登聖居山金神寺
+  author: 卞季良
+  language: lzh
+  text: 攀蘿登絶頂碧殿拱寒虛佛古稱尊者山靈號聖居鍾聲雲外落松影月中踈最愛安禪子渠心政自如
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登聖居山金神寺
+  author: 卞季良
+  language: lzh
+  text: 攀蘿登絶頂。碧殿拱寒虛。佛古稱尊者。山靈號聖居。鍾聲雲外落。松影月中踈。最愛安禪子。渠心政自如。
+korean:
+  title: 등 성거산 금신사
+  author: 변계량
+  language: kor
+  text: |-
+    칡 덩굴을 뚫고 절정에 올랐네
+    푸른 전각이 찬 허공에 꽂혀 있네
+    불상은 오래되었는데 존자라 일컫고
+    산은 신령스러워 성거라 이름하네
+    종소리는 구름 밖에 떨어지고
+    솔 그림자는 달빛 속에 성기니
+    가장 사랑스럽다
+    선정에 든 이는 그 마음이 정히 자여하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0840&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 존자(尊者) : '
+    value: 나한(羅漢)을 존자(尊者)라 칭하는데, 소승(小乘)의 성도자(成道者)로서 불(佛)ㆍ보살(菩薩)과 구별된다.
+english:
+  title: Ascending Geumsin Temple on Mount Seongkeo
+  author: Byeon Gye-ryang
+  language: eng
+  text: |-
+    Grasping at vines, I climb to the highest peak,
+    Where blue halls pierce the cold emptiness.
+    The ancient Buddha revered as an Arhat,
+    The mountain spirit honored as Seongkeo.
+    Bell-songs fall beyond the clouds,
+    Pine shadows sparse within the moonlight.
+    Most beloved are those in meditation,
+    Whose hearts rest perfectly at ease.
+  footnotes:
+  - key: ''
+    value: In Buddhist tradition, an Arhat (존자) represents the highest attainment in the Lesser Vehicle, distinct from the Buddha and Bodhisattvas above them.

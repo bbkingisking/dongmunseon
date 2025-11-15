@@ -1,0 +1,54 @@
+canonical:
+  title: 歲暮行
+  author: 偰遜
+  language: lzh
+  text: 男兒生未成名踰二十歲暮江湖亦何益到處那無骨肉親去住寧如不相識轉柂風來帆角斜未知明日泊誰家君不見翟公之門可羅雀烏乎世情君勿嗟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 歲暮行
+  author: 偰遜
+  language: lzh
+  text: 男兒生未成名踰二十。歲暮江湖亦何益。到處那無骨肉親。去住寧如不相識。轉柂風來帆角斜。未知明日泊誰家。君不見翟公之門可羅雀。烏乎世情君勿嗟。
+korean:
+  title: 세모의 노래 강음을 떠나면서
+  author: 설손
+  language: kor
+  text: |-
+    남아로 나서 이름 이루지 못하고 이십이 넘었으니
+    강호에 해 저문데 무슨 소득 있으랴
+    가는 곳마다 골육 지친 이 없으련만
+    가고 머무는 데 차라리 모르는 사람보다 못하다
+    키를 돌리자 바람이 와서 돛이 저절로 걸리니
+    내일은 누구 집에 댈지 몰라라
+    그대 보잖았나, 적공의 문에 새그물 쳤다는 것을
+    아아, 세상 물정을 그대는 한탄하지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0540&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 적공(翟公)의 …… 쳤다 : '
+    value: 한(漢)나라 적공(翟公)이 정위(廷尉)가 되었을 때에, 손님을 좋아하여 손님들이 문에 가득하더니, 정위에서 파면되고 나자 오는 손님이 없어서 문전에 참새만이 모여들어 새그물을 칠 만하였다.
+english:
+  title: 'Song of Year''s End: Leaving the Rivers and Lakes'
+  author: Seol Son
+  language: eng
+  text: |-
+    A man grows to manhood but cannot make a name,
+    yet twenty winters have already passed.
+    What profit is there in wandering the rivers and lakes
+    when the year grows dark?
+
+    Wherever I go, there are kinsmen and close ones,
+    yet coming and going feels emptier than being a stranger.
+    I turn the rudder—the wind arrives,
+    the sail catches and strains.
+    I know not which house will harbor me tomorrow.
+
+    Have you not heard of Zhai Gong's gate,
+    where sparrows now weave their nets?
+    Ah, do not lament the world's indifference, my friend.
+    This is simply how the world turns.
+  footnotes:
+  - key: ''
+    value: Zhai Gong was a Han Dynasty official who, when appointed Court Judge, was constantly visited by guests. Upon his dismissal from office, visitors ceased to come, and only sparrows gathered at his gate—so few guests remained that one could set bird traps.
+  - key: ''
+    value: This poem reflects on transience and the fickle nature of worldly favor, a common theme in classical Chinese poetry.

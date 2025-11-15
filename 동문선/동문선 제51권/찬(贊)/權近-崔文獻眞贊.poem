@@ -1,0 +1,38 @@
+canonical:
+  title: 崔文獻眞贊
+  author: 權近
+  language: lzh
+  text: 身爲柱石邦家之績家爲學宮名敎之功文憲之德縉紳之則後學是宗永仰高風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 崔文獻眞贊
+  author: 權近
+  language: lzh
+  text: 身爲柱石。邦家之績。家爲學宮。名敎之功。文憲之德。縉紳之則。後學是宗。永仰高風。
+korean:
+  title: 최문헌 진찬
+  author: 권근
+  language: kor
+  text: 몸이 대신이 되어 나라에 업적을 남겼고 집을 학교로 만들었으니 교화에 공이 컸다. 문헌공의 덕은 학자의 모범이 되었다. 후학이 그를 높이여 영원히 그의 덕망을 우러러보도다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of Choe Munheon
+  author: Gwon Geun
+  language: eng
+  text: |-
+    His body became a pillar of the state,
+    leaving lasting deeds for the kingdom.
+    His home transformed into a hall of learning,
+    contributing greatly to the way of culture.
+
+    The virtue of Lord Munheon
+    became the standard for all scholars.
+    Later generations revere him,
+    forever gazing upon his noble character.
+  footnotes:
+  - key: ''
+    value: Choe Munheon (崔文憲) was a prominent Goryeo official and scholar. The title 'Munheon' (文憲) is an honorary posthumous name meaning 'Literary and Worthy,' commonly bestowed upon distinguished Confucian scholars and statesmen.
+  - key: ''
+    value: The metaphor of the body as 'pillar' (柱石) refers to one who serves as an essential support to the state, a common Confucian ideal for virtuous officials.

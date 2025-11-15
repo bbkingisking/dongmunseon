@@ -1,0 +1,43 @@
+canonical:
+  title: 啄木
+  author: 李隅
+  language: lzh
+  text: 粲粲彩羽明照影朝日紅一樹啄未盡又向槎牙槐柳中翩翩謀爾腹於木亦足除內訌雖然木朽蠧乃生啄之已晩何言功
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 啄木
+  author: 李隅
+  language: lzh
+  text: 粲粲彩羽明。照影朝日紅。一樹啄未盡。又向槎牙槐柳中。翩翩謀爾腹。於木亦足除內訌。雖然木朽蠧乃生。啄之已晩何言功。
+korean:
+  title: 탁목
+  author: 이우
+  language: kor
+  text: |-
+    번들번들 환한, 찬란한 깃이
+    붉은 아침 해에 그림자를 비치며
+    한 나무를 쬐다가 못 다 쬐고
+    또 엉성한 느티나무 속으로 향하는구나
+    펄렁거리며 네 배를 채우려 하고
+    나무에도 해로운 점 없앤다마는
+    나무가 썪어야 좀이 생기는 법
+    쬐일 땐 이미 때가 늦었거니 어찌 공을 말하랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0890&viewSync=OT
+  footnotes: []
+english:
+  title: The Woodpecker
+  author: Lee Oo
+  language: eng
+  text: |-
+    Brilliant and gleaming, your radiant feathers shine,
+    Casting shadows in the crimson morning light.
+    One tree pecked but not finished,
+    You flutter onward to the gnarled branches of ash and willow.
+    Wings dancing, seeking only to fill your belly,
+    Yet serving the wood well, removing what harms it—
+    But rot must first set in before worms are born,
+    And by the time you peck, it is too late. What merit then to claim?
+  footnotes:
+  - key: ''
+    value: The woodpecker's diligent labor becomes a meditation on timing and the limits of remedial action—a subtle reflection on human effort in the face of inevitable decay.

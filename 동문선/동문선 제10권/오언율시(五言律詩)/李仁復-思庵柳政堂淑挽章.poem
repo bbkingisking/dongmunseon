@@ -1,0 +1,46 @@
+canonical:
+  title: 思庵柳政堂淑挽章
+  author: 李仁復
+  language: lzh
+  text: 佐命由潛邸成功及盛年忠誠明貫日讒說暗欺天身退猶難免名高更可傳君恩已追謚亦足慰重泉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 思庵柳政堂淑挽章
+  author: 李仁復
+  language: lzh
+  text: 佐命由潛邸。成功及盛年。忠誠明貫日。讒說暗欺天。身退猶難免。名高更可傳。君恩已追謚。亦足慰重泉。
+korean:
+  title: 사암 정당 유숙 만장
+  author: 이인복
+  language: kor
+  text: |-
+    잠저 때 좌명하였고
+    공을 이룩하기는 젊은 나이였었네
+    충성이 밝아 해를 꿰뚫는 데도
+    헐뜯는 말들은 가만히 하늘을 속였네
+    몸이 물러나도 오히려 화를 면할 수 없었고
+    이름은 높아 더욱 전하리
+    임금님의 은혜로 이미 시호를 추증하였으니
+    또한 구천에 혼령을 위로할 만하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: Elegy for Saam Jung Dang Yu Suk
+  author: Lee In-bok
+  language: eng
+  text: |-
+    From the prince's court you rose to aid the throne,
+    Achieving greatness in your youthful prime.
+    Your loyalty blazed bright as sunlight burning,
+    Yet slanderers deceived the heavens in the dark.
+
+    Though you withdrew, misfortune still pursued,
+    Your name ascends to echo through all time.
+    The sovereign's grace has honored you with titles—
+    Even in the depths below, your spirit finds its peace.
+  footnotes:
+  - key: ''
+    value: This is a commemorative elegy (만장) composed upon someone's death. The 'prince's court' likely refers to service during the sponsor's time as a prince before ascending to power or influence.
+  - key: ''
+    value: The concluding image of '구천' (the nine springs) is a classical allusion to the underworld or the realm of the dead, suggesting the comfort brought by royal recognition even in the afterlife.

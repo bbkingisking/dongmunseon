@@ -1,0 +1,37 @@
+canonical:
+  title: 盧山三笑
+  author: 李齊賢
+  language: lzh
+  text: 釋道於儒理本齊強將分別自相迷三賢用意無人識一笑非關過虎溪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 盧山三笑
+  author: 李齊賢
+  language: lzh
+  text: 釋道於儒理本齊。強將分別自相迷。三賢用意無人識。一笑非關過虎溪。
+korean:
+  title: 여산삼소
+  author: 이제현
+  language: kor
+  text: |-
+    불ㆍ도ㆍ유의 이치가 본래 같은데
+    억지로 분별하여 스스로들 미혹하네
+    세 사람의 뜻을 사람들은 모르나니
+    한 번의 웃음이 호계를 지나간 것과는 관계가 없다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여산삼소(盧山三笑) : '
+    value: ‘이 밑의 네 절구(絶句)는 국재(菊齋)의 횡파십이영(橫坡十二詠) 중의 사수(四首)에 화답한 것이다.’라는 제주(題註)가 있다.
+english:
+  title: Three Smiles at Lushan
+  author: Lee Jae-hyun
+  language: eng
+  text: |-
+    The teachings of Buddha, Tao, and Confucius share one essence,
+    Yet forced distinctions cloud the minds of those who divide them.
+    Few understand the meaning hidden in three sages' hearts—
+    One laugh has nothing to do with crossing Tiger Creek.
+  footnotes:
+  - key: ''
+    value: This poem is part of a series responding to works from the 'Twelve Verses of Horizontal Wave' by Gukjae. The reference to 'three sages' alludes to the legendary meeting at Lushan where a Buddhist monk, a Daoist, and a Confucian scholar famously laughed together in perfect understanding, transcending sectarian boundaries. The 'Tiger Creek' reference evokes the classical anecdote of crossing the creek as a metaphor for departing from worldly concerns.

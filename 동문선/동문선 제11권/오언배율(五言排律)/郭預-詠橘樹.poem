@@ -1,0 +1,84 @@
+canonical:
+  title: 詠橘樹
+  author: 郭預
+  language: lzh
+  text: 誰把炎洲種移栽禁御傍脫身辭瘴海托地近宮墻玉瘦叢多刺雲繁葉有芒春葩渾帶白秋實正含黃結露凝爲腦生綃用隔瓤摘宜煩素手熟必待淸霜噀露霑衣袖飛泉沃肺膓縱經淮水遠不减洞庭香氣味含仙界音塵隔故鄕雖云非土性只爲被恩光恥與千奴並唯容四皓藏君看圯上老去楚佐高皇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詠橘樹
+  author: 郭預
+  language: lzh
+  text: 誰把炎洲種。移栽禁御傍。脫身辭瘴海。托地近宮墻。玉瘦叢多刺。雲繁葉有芒。春葩渾帶白。秋實正含黃。結露凝爲腦。生綃用隔瓤。摘宜煩素手。熟必待淸霜。噀露霑衣袖。飛泉沃肺膓。縱經淮水遠。不减洞庭香。氣味含仙界。音塵隔故鄕。雖云非土性。只爲被恩光。恥與千奴並。唯容四皓藏。君看圯上老。去楚佐高皇。
+korean:
+  title: 영귤수
+  author: 곽예
+  language: kor
+  text: |-
+    남쪽 나라 나무를 누가 가져다
+    금원 곁에다 옮겨 심었나
+    장기 많은 바다에서 몸을 빼어서
+    아늑한 궁전 담에 뿌리 박았네
+    옥같이 여윈 포기 가시가 많고
+    구름처럼 무성한 잎, 가시랭이 있네
+    봄엔 꽃이 피어 온통 하얀 빛
+    가을엔 열매 맺어 동글 노랑이
+    이슬 맺힌 듯 엉기어 골이 되고
+    엷은 깁으로 알맹이를 싸서 보호했으리
+    딸 적엔 〈궁녀들〉 곱고 흰 손으로
+    익기는 맑은 서리 기다려야네
+    따서 쪼갤 적에 이슬을 내뿜어서 옷을 적시고
+    샘물을 흘려서 배를 축이네
+    회수를 멀리 건너 왔으나
+    동정서보다 못지 않게 향기롭구나
+    선계처럼 기미는 맑디맑으나
+    고향 소식은 멀고 멀어라
+    토성에는 비록 맞지 않으나
+    임금의 은혜 빛을 받았네
+    천노와 나란히 서기가 부끄러워서
+    사호만 숨기를 허용하나니
+    그대는 보게나 이상노인이
+    초나라 버리고 한 고조를 돕지 않았나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동정(洞庭)서보다 …… 향기롭구나 : '
+    value: 귤은 동정호 근처에서 나는 것이 제일 향기롭다는데, 회수를 넘으면 탱자가 된다 한다.
+  - key: '[주-D002] 천노(千奴) : '
+    value: 양양(襄陽)이형(李衡)이 가족 몰래 무릉(武陵) 용양주(龍陽洲)에 감자(柑子) 천(千)나무를 심어 두었다가 죽을 때에 아들에게 말하기를, “용양주에 천두(千頭) 목노(木(奴)가 있으니 해마다 비단 수천 필을 얻을 것이다.” 하였다.
+  - key: '[주-D003] 사호(四皓) : '
+    value: 파공(巴邛) 어떤 집에 귤(橘)나무가 있었는데, 서리가 온 뒤에 귤을 다 따고 두 개가 남아 있는데 크기가 삼사 두(三四斗)가 들어가는 독만큼 컸다. 따 보니 무게도 보통 귤과 같았다. 쪼개어 본즉 귤마다 흰 수염에 살결은 홍명(紅明)하고 키는 한 자 남짓한 두 노인이 장기[象戱]를 두며 웃고 이야기하고 있었는데, 한 노인이 말하기를, “이 가운데 즐거움이 상산(商山)보다 못하지 않은데 다만 오래 있을 수는 없구나.” 하고는 네 노인이 구름 속으로 올라가 버렸다.
+  - key: '[주-D004] 이상노인(圯上老人) : '
+    value: 황석공(黃石公)이 이교(圯橋)에서 장량(張良)을 만나 《소서(素書)》를 주어 그로 하여금 한 고조(漢高祖)를 도와 큰 공을 세우게 하였다.
+english:
+  title: On the Mandarin Orange Tree
+  author: Guo Yu
+  language: eng
+  text: |-
+    Who brought this southern tree and planted it beside the imperial garden?
+    Escaped from the miasmic sea, its roots now grip the palace wall.
+    The slender trunk bristles with thorns, its foliage dense with spines,
+    White blossoms burst in spring, golden fruit gleams in autumn's glow.
+    Dew crystallizes on the skin like precious jade,
+    Thin silk protects each segment from bruising.
+    When picked by delicate hands at court,
+    It waits for the clarity that only frost can bring.
+    As the fruit splits, its nectar mists the sleeves,
+    While fragrant moisture bathes the very lungs.
+    Though it has crossed the distant Huai River,
+    It loses nothing to the famed scent of Dongting.
+    Its flavor carries the essence of immortal realms,
+    Yet memory of home remains forever far.
+    Though alien to this northern soil,
+    It flourishes beneath the emperor's gracious light.
+    Shamed to stand among common merchants' wares,
+    It dwells only with the Four Transcendents hidden within.
+    Look—the old sage on the bridge,
+    Who abandoned Chu to serve the Han's first emperor,
+    Showing that true worth needs but one who knows its value.
+  footnotes:
+  - key: ''
+    value: The Four Transcendents (四皓) refers to a legendary tale of four immortal sages discovered within an exceptional mandarin orange. According to the story, when split open, the fruit revealed two venerable old men playing chess within its chambers, discussing how the fruit contained pleasures rivaling those of sacred mountains.
+  - key: ''
+    value: The reference to the old sage on the bridge (圯上老人) alludes to the Yellow Stone Master (黃石公), who met the strategist Zhang Liang on a bridge and gave him a mysterious book that enabled him to serve the Han Dynasty's founding emperor with great distinction—suggesting that true talent requires recognition by those of wisdom.
+  - key: ''
+    value: The poem plays on the notion that mandarin oranges grown north of the Huai River were said to degenerate into inferior citrus, yet this imperial specimen defies such limitations through the emperor's favor.

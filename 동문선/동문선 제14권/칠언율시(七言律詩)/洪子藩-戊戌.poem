@@ -1,0 +1,47 @@
+canonical:
+  title: 戊戌
+  author: 洪子藩
+  language: lzh
+  text: 兒啼乳歲別慈顔那料孤墳在此山雖隔音容冥路異尙存恩愛綵衣斑一杯宿草魂無昧千里歸程淚忍潸萬種哀情言未盡題詩付與水潺潺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 戊戌
+  author: 洪子藩
+  language: lzh
+  text: 兒啼乳歲別慈顔。那料孤墳在此山。雖隔音容冥路異。尙存恩愛綵衣斑。一杯宿草魂無昧。千里歸程淚忍潸。萬種哀情言未盡。題詩付與水潺潺。
+korean:
+  title: 아버지께서 무술
+  author: 홍자번
+  language: kor
+  text: |-
+    젖먹이 어린 나이에 어머님 얼굴 여의었네
+    외로운 무덤이 이 산에 계실 줄이야
+    저승길이 달라서 얼굴ㆍ목소리야 격했지만
+    은애만은 여지껏 있어 알락옷을 입고 있네
+    한 무더기 우거진 풀에 혼은 앎이 있을 듯
+    천리 돌아가는 길에 눈물 어이 삼키리
+    만 가지 슬픈 정을 말로 다 못하여서
+    시 한 수 지어 잔잔한 물에 부쳐 두네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0700&viewSync=OT
+  footnotes: []
+english:
+  title: Mausoleum of 1898
+  author: Hong Ja-beon
+  language: eng
+  text: |-
+    I lost my mother's face when still nursing at her breast.
+    Who could have known that lonely grave would rest upon this mountain?
+    Though the underworld's path divides us, separating voice and form,
+    Her love remains, still brightening the fabric of my remembrance.
+    Among the overgrown grass, perhaps her spirit holds some knowing;
+    On the thousand-li journey home, how can I hold back these tears?
+    With ten thousand sorrows my words cannot contain,
+    I set this poem upon the gentle flowing water to carry them away.
+  footnotes:
+  - key: ''
+    value: The title refers to the year 1898 (Mausoleum of 1898 or a significant event in that year), likely marking the date of the mother's death or the occasion of this remembrance.
+  - key: ''
+    value: Colorful garments (彩衣 / 알락옷) are associated in East Asian tradition with filial piety and the memory of departed parents.
+  - key: ''
+    value: The image of entrusting the poem to flowing water reflects a classical motif of releasing one's sorrows into nature, allowing the natural world to bear witness to human grief.

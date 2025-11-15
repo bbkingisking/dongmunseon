@@ -1,0 +1,39 @@
+canonical:
+  title: 丙寅春遷巨濟與同竄諸君賞花有作
+  author: 李膂
+  language: lzh
+  text: 共道花開便破愁看花愁思益悠悠故園政在千山北今日春光似舊不
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 丙寅春遷巨濟與同竄諸君賞花有作
+  author: 李膂
+  language: lzh
+  text: 共道花開便破愁。看花愁思益悠悠。故園政在千山北。今日春光似舊不。
+korean:
+  title: 병인춘 천거제 여 동찬제군 상화유작
+  author: 이려
+  language: kor
+  text: |-
+    꽃 피면 시름 없다 서로 얘기하였더니
+    꽃 보니 시름 더욱 유유하이
+    고원은 천산 북녘에 있으니
+    이날도 봄빛은 의구하였는지
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: 'Spring in the Year of Bing-yin: Viewing Flowers with Fellow Exiles at Geoje'
+  author: Lee Ryeo
+  language: eng
+  text: |-
+    We spoke together: when flowers bloom, sorrow disappears.
+    Yet seeing the blossoms, my melancholy grows ever deeper.
+    My old garden lies far north beyond a thousand mountains.
+    Today spring's light falls as it did before—or does it not?
+  footnotes:
+  - key: ''
+    value: Bing-yin refers to a year in the traditional sexagenary cycle; this poem commemorates an exile to Geoje Island
+  - key: ''
+    value: The 'old garden' refers to the poet's home, emphasizing the distance of separation
+  - key: ''
+    value: The final rhetorical question captures the poet's ambivalence—spring appears unchanged, yet transformed by loss and exile

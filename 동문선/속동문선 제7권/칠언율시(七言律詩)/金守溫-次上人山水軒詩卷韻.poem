@@ -1,0 +1,49 @@
+canonical:
+  title: 次上人山水軒詩卷韻
+  author: 金守溫
+  language: lzh
+  text: 屋頭蒼翠壓潺湲聲想溪流色想山我向眼前空作礙師從心上肉爲團一枝筇影猿啼外六尺身名俗閙間明日野橋分袂處忙忙留與去閑閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次上人山水軒詩卷韻
+  author: 金守溫
+  language: lzh
+  text: 屋頭蒼翠壓潺湲。聲想溪流色想山。我向眼前空作礙。師從心上肉爲團。一枝筇影猿啼外。六尺身名俗閙間。明日野橋分袂處。忙忙留與去閑閑。
+korean:
+  title: 차 상인 산수헌 시권 운
+  author: 김수온
+  language: kor
+  text: |-
+    집 머리의 푸른 빛이 물소리를 누르나니
+    소리에서 시내를 생각하고 산에서 산을 생각하네
+    내 눈 앞을 향하니 공도 장애가 되고
+    스승은 마음 위를 좇아 몸이 살덩이 된다
+    한 개 지팡이 그림자는 원숭이와 짝했는데
+    여섯 자의 몸과 이름은 세속 시끄러움 사이에 있네
+    내일 들 다리 위에서 이별 나눌 때에
+    있어도 바쁜 사람과 가도 한가한 사람일러라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to a Monk's Poem on the Water-Mountain Pavilion
+  author: Kim Su-on
+  language: eng
+  text: |-
+    Above the roof, verdant shadows press upon the murmuring stream—
+    I hear the creek in every sound, imagine mountains in each hue.
+    Before my eyes, even emptiness becomes an obstruction;
+    the Master follows the heart where flesh turns to a single lump.
+    One staff's shadow keeps company with gibbons crying in the wild,
+    while six feet of form and name remain caught in the mundane noise.
+    When tomorrow at the rustic bridge we part our separate ways,
+    the busy one departs still hurried, the at-ease one stays at peace.
+  footnotes:
+  - key: ''
+    value: The 'Master' (師) likely refers to the addressee, a Buddhist monk, embodying spiritual detachment.
+  - key: ''
+    value: The 'six feet of body' (六尺身) is a traditional measure referring to human form and worldly existence.
+  - key: ''
+    value: The staffed wanderer and gibbon represent the mountain ascetic free from worldly constraints.
+  - key: ''
+    value: 'The final couplet contrasts two states of being: those bound by urgency and those who have transcended it through spiritual practice.'

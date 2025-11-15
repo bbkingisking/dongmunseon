@@ -1,0 +1,46 @@
+canonical:
+  title: 茶店
+  author: 林椿
+  language: lzh
+  text: 頹然卧榻便忘形午枕風來睡自醒夢裏此身無處着乾坤都是一長亭虛樓夢罷正高舂兩眼空濛看遠峯誰識幽人閑氣味一軒春睡敵千鍾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 茶店
+  author: 林椿
+  language: lzh
+  text: 頹然卧榻便忘形。午枕風來睡自醒。夢裏此身無處着。乾坤都是一長亭。虛樓夢罷正高舂。兩眼空濛看遠峯。誰識幽人閑氣味。一軒春睡敵千鍾。
+korean:
+  title: 다점
+  author: 임춘
+  language: kor
+  text: |-
+    몸을 던져 평상에 누워 문득 이 몸 잊었더니
+    한낮 베개 위에 바람부니 잠이 절로 깨누나
+    꿈속의 이 몸은 머물 곳이 없었어라
+    건곤이란 도무지 이 한 장정인 것을
+    빈 다락에 꿈을 깨니 정히 넉점일세
+    흐릿한 두 눈 먼 봉우리 보누나
+    누가 알리, 유인의 한가한 멋을
+    한 자리 봄잠이 천종(千鍾)에 맞먹느니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0860&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천종(千鍾) : '
+    value: 종(鍾)은 옛날 양기(量器)의 이름인데, 곡(斛) 4두(斗)에 해당한다. 천종(千鍾)의 녹(祿)은 가장 높은 관직에 있는 사람이 받는 녹을 말한다.
+english:
+  title: At the Tea Shop
+  author: Im Chun
+  language: eng
+  text: |-
+    I cast myself upon the mat and suddenly forgot my form.
+    At noon, the wind stirs my pillow and sleep awakens of its own.
+    In dreams, this body had nowhere to rest—
+    the whole cosmos was nothing but one long pavilion.
+
+    Waking from dreams in the empty tower, it is precisely noon.
+    My blurred eyes gaze upon distant peaks.
+    Who knows the leisure and grace of one who dwells in solitude?
+    One moment of spring sleep rivals the highest official rank.
+  footnotes:
+  - key: ''
+    value: The final line alludes to receiving the highest salary—千鍾 (thousand measures), the traditional measure of the grandest official compensation. The poet playfully suggests that a single spring nap in quiet solitude surpasses even the greatest worldly honors.

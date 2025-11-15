@@ -1,0 +1,55 @@
+canonical:
+  title: 次武靈黑林站夜行韻
+  author: 安琛
+  language: lzh
+  text: 暗暗千林黑蕭蕭萬木鳴雨師初發馭風伯忽收旌奔走尋沙嶺蒼黃扣野扃馬疲行客病犬吠主人驚破壁三間屋寒窓一尺檠坐來眠不得朝日已東生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次武靈黑林站夜行韻
+  author: 安琛
+  language: lzh
+  text: 暗暗千林黑。蕭蕭萬木鳴。雨師初發馭。風伯忽收旌。奔走尋沙嶺。蒼黃扣野扃。馬疲行客病。犬吠主人驚。破壁三間屋。寒窓一尺檠。坐來眠不得。朝日已東生。
+korean:
+  title: 차 무령흑림참 야행운
+  author: 안침
+  language: kor
+  text: |-
+    어둑어둑 숲은 검고
+    쓸쓸히 온갖 나무들은 우는고야
+    우사(비 맡은 신)가 처음으로 말[馬]을 몰더니
+    풍백(바람 맡은 신)은 갑자기 기를 거두네
+    빨리 내달려 사령을 찾다가
+    다시 창황히 야경(시골집의 문)을 두드리도다
+    말이 지쳤으니 나그네가 고달프고
+    개가 짖으매 주인도 놀란다
+    무너진 벽의 3간 집이요
+    찬 창에는 한 자의 등잔걸이로다
+    앉아 있으면 잠을 얻지 못하나니
+    어느새 아침 해가 동에서 솟네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_020_0090&viewSync=OT
+  footnotes: []
+english:
+  title: On a Night Journey Through the Black Forest at Muryeong Station
+  author: An Chim
+  language: eng
+  text: |-
+    Darkness upon darkness—the forest turns black.
+    Silent and lonely—a thousand trees cry out.
+    The rain god first urges his horses forward,
+    while the wind god suddenly furls his banner away.
+    We gallop frantically, searching the sandy ridge,
+    then urgently knock upon the rustic door.
+    The horse grows weary, the traveler falls ill,
+    and the dog's bark startles the sleeping master.
+    Three rooms with crumbling walls,
+    a single span of cold lamplight by the window.
+    Sitting here, sleep will not come,
+    when suddenly the morning sun rises in the east.
+  footnotes:
+  - key: ''
+    value: Muryeong Station (武靈站) was a waystation along a major road route during the Joseon period. The title indicates this poem follows a rhyme scheme set by another poem about the same location.
+  - key: ''
+    value: The rain god and wind god are personifications from classical Chinese cosmology, adding mythic weight to the natural elements of the storm.
+  - key: ''
+    value: The 'three rooms with crumbling walls' suggests a humble, barely adequate shelter for the weary traveler.

@@ -1,0 +1,52 @@
+canonical:
+  title: 次韻答仲說
+  author: 成仲淹
+  language: lzh
+  text: 塞外風霜故舊踈淸癯今作病相如半簾寂寞三更月四壁蕭條一卷書早識塞翁無失得靜看天道有盈虛峩洋從古知音少獨抱焦桐卧弊廬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻答仲說
+  author: 成仲淹
+  language: lzh
+  text: 塞外風霜故舊踈。淸癯今作病相如。半簾寂寞三更月。四壁蕭條一卷書。早識塞翁無失得。靜看天道有盈虛。峩洋從古知音少。獨抱焦桐卧弊廬。
+korean:
+  title: 차운 답 중열
+  author: 성중엄
+  language: kor
+  text: |-
+    변방 밖의 바라모가 서리에 옛친구가 드문데
+    밝게 여위어 이제 든 상여가 되었구나
+    반 발이 적막한데 삼경의 달이요
+    네 벽이 쓸쓸한데 한 권의 책이더라
+    변방 늙은이의 득실이 없음을 일찍이 알았고
+    천도를 고요히 보니 영허가 있구나
+    옛날부터 아양에는 지음이 적거니
+    혼자 초동을 안고 찌그러진 집에 누워 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0720&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영허(盈虛) : '
+    value: 예를 들면 달이 보름에는 찼다가 차차로 어지러져 비는 것을 천도(天道)의 영허(盈虛)라 한다.
+  - key: '[주-D002] 초동(焦桐) : '
+    value: 한(漢)나라 채옹(蔡邕)이 오동나무가 아궁에서 불타는 소리를 듣고 그것이 좋은 오동나무로서 거문고를 만들기에 적당한 줄을 알고 곧 꺼내어 타다 남은 것으로 거문고를 만들었다.
+english:
+  title: Responding in Rhyme to Joong-seol
+  author: Sung Joong-om
+  language: eng
+  text: |-
+    Beyond the border, frost winds scatter old friendships thin,
+    And I, now lean and pale, have become a man of illness.
+    Half-drawn curtain holds the solitude; the moon at midnight's depth
+    Four walls echo emptiness; a single book is all I keep.
+
+    Long ago I learned the border sage knows neither gain nor loss,
+    And watching heaven's way in silence, I see fullness turn to void.
+    Since ancient times, few have understood the music of the distant hills—
+    Alone I cradle my scorched zither, resting in this crumbling room.
+  footnotes:
+  - key: ''
+    value: The 'border sage' (塞翁) refers to a Taoist parable about a man who neither rejoices in fortune nor grieves in misfortune, understanding that gains and losses are transient.
+  - key: ''
+    value: The scorched zither (焦桐) alludes to the legendary musician Ts'ai Yung, who heard the sound of a parasol wood burning in a kiln and recognized it as perfect for crafting a fine instrument.
+  - key: ''
+    value: The imagery of fullness turning to void reflects the natural cycles of heaven and earth, suggesting acceptance of life's inevitable transformations.

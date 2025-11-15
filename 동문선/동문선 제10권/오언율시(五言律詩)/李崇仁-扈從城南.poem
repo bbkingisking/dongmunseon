@@ -1,0 +1,53 @@
+canonical:
+  title: 扈從城南
+  author: 李崇仁
+  language: lzh
+  text: 郊甸秋成早君王玉趾臨觀魚前事陋講武睿謀深鼓角蒼江動旌旗白日陰詞臣多侍從會見獻虞箴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 扈從城南
+  author: 李崇仁
+  language: lzh
+  text: 郊甸秋成早。君王玉趾臨。觀魚前事陋。講武睿謀深。鼓角蒼江動。旌旗白日陰。詞臣多侍從。會見獻虞箴。
+korean:
+  title: 호종 성남
+  author: 이숭인
+  language: kor
+  text: |-
+    교외에 가을이 일찍 익었는데
+    임금님 친히 행차하시네
+    관어하는 옛일은 누하구나
+    강무하심은 생각이 깊으시네
+    고각에 푸른 강이 움직이고
+    깃발에 대낮이 그늘지네
+    글 하는 신하가 많이 시종하였으니
+    우잠을 올리는 것을 볼 수 있으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 관어(觀魚) : '
+    value: 《춘추》에, 노(魯)나라 임금이 당(黨 지명(地名))에 가서 관어(觀魚)하는 것을 그 신에게 간하였다.
+  - key: '[주-D002] 강무(講武) : '
+    value: 임금이 사냥이나 또는 군사 연습을 하는 것을 강무(講武)라고 한다.
+  - key: '[주-D003] 우잠(虞箴) : '
+    value: 춘추(春秋) 시대에 진(晉)나라 임금이 사냥을 좋아하므로, 위강(魏絳)이 말하기를, “옛날 주(周)나라 신갑(辛甲)이 태사(太史)가 되었을 때에, 백관(百官)을 시켜 관잠(官箴)을 지었는데, 산야(山野)의 짐승을 맡은 벼슬인 우인(虞人)의 잠(箴)에 사냥을 경계하는 말이 있었다.” 하였다.
+english:
+  title: Following the King to the South of the City
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    In the outskirts, autumn ripens early,
+    The sovereign graces the fields with his own steps.
+    Fishing expeditions of old pale in comparison—
+    His military exercises run deep with royal wisdom.
+    Drums and horns stir the verdant river,
+    Banners cast shadows across the daylight.
+    Many court scholars attend in his retinue,
+    And we shall witness the offering of ancient counsel.
+  footnotes:
+  - key: ''
+    value: 'Fishing expeditions: A reference to the Spring and Autumn Annals, where the ruler of Lu was advised against pursuing such pastimes. The poem contrasts such idle amusements with the king''s more noble military and scholarly endeavors.'
+  - key: ''
+    value: 'Military exercises: The king''s practice of martial discipline and strategic planning, which demonstrates deeper wisdom than mere leisure activities.'
+  - key: ''
+    value: 'The offering of ancient counsel: A reference to the historical precedent of the Minister of Beasts offering moral admonitions to the ruler about the proper conduct of hunting and military affairs.'

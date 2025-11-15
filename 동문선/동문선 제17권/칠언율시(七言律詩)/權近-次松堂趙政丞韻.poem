@@ -1,0 +1,65 @@
+canonical:
+  title: 次松堂趙政丞韻
+  author: 權近
+  language: lzh
+  text: 沙堤依舊倚門鈄喬木三韓積善家道上問牛憂國切朝中薦鶚進賢多勳臣鐵券聯雙軸冢相麻書疊五花已道魯論分二半更加一半著功何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次松堂趙政丞韻
+  author: 權近
+  language: lzh
+  text: 沙堤依舊倚門鈄。喬木三韓積善家。道上問牛憂國切。朝中薦鶚進賢多。勳臣鐵券聯雙軸。冢相麻書疊五花。已道魯論分二半。更加一半著功何。
+korean:
+  title: 차 송당 조정승 운
+  author: 권근
+  language: kor
+  text: |-
+    모래 뚝이 예와 같이 문앞에 비꼈는데
+    삼한의 교목(대를 이어 벼슬한 집안)으로 적선해온 가문
+    길 가다 소를 물으니 나라 근심 간절하고
+    조정에 독수리를 천거하여 어진 이를 많이 나게 했네
+    훈신으로 철권이 두 축을 이었고
+    재상의 백마서(관상서)에 오화를 겹쳤네
+    노론을 이미 반 부씩 갈랐다 했으니
+    다시 반 부에 일 시작함이 어떠하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 모래 뚝 : '
+    value: 당나라 때에 정승이 새로 임명되면 그 집 문앞에서부터 모래를 쌓아 새 길을 만들었는데 그것을 사제(沙堤)라 하였다.
+  - key: '[주-D002] 길 가다 소[牛]를 물으니 : '
+    value: 한(漢)나라 병길(丙吉)이 승상(丞相)이 되었을 때에 어떤 사람이 소를 쫓아가는데 소가 헐떡이며 혀를 내뽑는 것을 보고 하인을 시켜, “소를 몇 리나 쫓아왔느냐.” 물어보았다. 그 까닭을 물으니, 그가 말하되, “삼공(三公)은 음양(陰陽)의 조화(調和)함을 맡았으니 지금 보니까 소가 헐떡이니 혹시 음양이 고르지 못한 것이 아닌가 하여 물었노라.” 하였다.
+  - key: '[주-D003] 조정에 독수리를 천거하여 : '
+    value: 후한(後漢)  공융(孔融)이 명사 예형(禰衡)을 조정에 천거하는 표(表)에 형을 찬양하여, “어느 지조(鷙鳥)가 비록 백이라도 악(鶚)하나만 못하다.” 하였다. 즉 현사(賢士) 인재를 조정에 천거한다는 뜻.
+  - key: '[주-D004] 철권(鐵券) : '
+    value: 옛날 공신(功臣)에게 내려주던 쇠로 만든 문권. 붉은 글씨[丹書]로 적었으며, 반쪽을 주고 반쪽을 나라에 보존해 두었다.
+  - key: '[주-D005] 오화(五花) : '
+    value: 당나라 때에 여러 재상이 함께 결재할 것에 서명(署名)하는데, 글자의 모양이 꽃처럼 되었으므로 이를 오화판사(五花判事)라 한다.
+  - key: '[주-D006] 노론(魯論) : '
+    value: 《논어(論語)》에 노론(魯論)과 제론(齊論)이 있는데, 지금 전하는 것은 노론(魯論)이다. 송나라 조보(趙普)가 항상 논어를 읽으면서 송 태조(宋太祖)에게 말하기를, “신이 《논어》반부(半部)로서 폐하를 보좌하여 천하를 얻었고, 다시 반부로서 폐하를 보좌하여 천하를 다스리겠습니다.” 하였다.
+english:
+  title: Responding to the Rhyme of Minister Zhao Jeongseung of Songtang
+  author: Kwon Geun
+  language: eng
+  text: |-
+    The sandy causeway stands as before, leaning by your gate—
+    the ancient lineage of Samhan, a house perfected through generations of virtue.
+    Along the road I ask of the ox, concern for the realm so keen,
+    at court you recommend the eagle, bringing forth the worthy in abundance.
+    As a meritorious official, iron tallies bind two scrolls together,
+    the prime minister's records bloom with five-petaled grace.
+    Already half the Analects has been divided and known,
+    what greater works might yet begin with the remaining half?
+  footnotes:
+  - key: ''
+    value: The sandy causeway refers to the Tang dynasty custom of constructing a new ceremonial road of sand before a newly appointed prime minister's residence.
+  - key: ''
+    value: The inquiry about the ox alludes to the Han statesman Bing Ji, who as chancellor asked after an exhausted ox, concerned that its distress might indicate a cosmic imbalance—a prime minister's duty extends to maintaining harmony between heaven and earth.
+  - key: ''
+    value: The eagle reference draws on Kong Rong's memorial recommending the talented Mi Heng, praising him as surpassing all other birds of prey—a metaphor for recommending exceptional talent to the court.
+  - key: ''
+    value: The iron tallies were documents of merit granted to meritorious officials in ancient times, with one half kept by the recipient and one half retained by the state.
+  - key: ''
+    value: The five-petaled flowers describe the elegant signature style of multiple ministers reviewing and approving official documents together during the Tang dynasty.
+  - key: ''
+    value: The reference to the Analects alludes to the famous words of Zhao Pu, who served the founding emperor of Song, claiming that half the Analects enabled him to assist in gaining the empire, and the other half in governing it—suggesting that the subject's remaining achievements may be equally momentous.

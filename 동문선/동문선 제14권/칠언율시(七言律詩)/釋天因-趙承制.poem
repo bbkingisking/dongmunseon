@@ -1,0 +1,51 @@
+canonical:
+  title: 趙承制
+  author: 釋天因
+  language: lzh
+  text: 昨聞高步入靑雲已到鴻樞拜納言黃壤一朝成異物蒼生何地望霑恩帝前譚席收宣室天上遊車駕喜園等是蘧廬歸宿客莫憂追覓更無門
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 趙承制
+  author: 釋天因
+  language: lzh
+  text: 昨聞高步入靑雲。已到鴻樞拜納言。黃壤一朝成異物。蒼生何地望霑恩。帝前譚席收宣室。天上遊車駕喜園。等是蘧廬歸宿客。莫憂追覓更無門。
+korean:
+  title: 조승제
+  author: 석천인
+  language: kor
+  text: |-
+    어제 들으니, 높은 걸음 청운에 들어
+    대각에 올라 납언에 배했다는 소식
+    어이 뜻했으랴, 하루아침에 누른 흙 속에 이물이 될 줄을
+    어디서 만민이 다시 은택을 받자오리
+    선실에는 임금님 앞에 이야기하던 자리 걷어치웠고
+    하늘 위 놀이 수레는 희원을 타고 갔네
+    이 세상의 어느 누가 여관에 잠깐 자고 가는 손 아닌가
+    다시 찾을 길이 없다고 시름하지 말리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0540&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 선실(宣室) : '
+    value: 한(漢)나라의 문제(文帝)가 선실(宣室)에서 가의(賈誼)와 이야기하였다. 《漢書》
+english:
+  title: On Zhao's Promotion
+  author: Seok Cheon-in
+  language: eng
+  text: |-
+    Yesterday I heard of your ascent into the azure clouds,
+    Climbing to the great pivot to receive the rank of minister.
+    Who could have foreseen that by morning's light
+    The yellow earth would hold what once walked among men?
+    Where now shall the common people look for grace?
+
+    The hall of discourse before the throne stands empty,
+    The celestial carriage of pleasures departs without return.
+    Are we not all but travelers at an inn,
+    Resting briefly before moving on?
+    Do not grieve at paths that lead nowhere—
+    This is the way of all things under heaven.
+  footnotes:
+  - key: ''
+    value: The 'hall of discourse' (Xuanshi) alludes to a famous historical encounter in the Han dynasty, where the emperor met with the minister Jia Yi—a precedent for the imperial audience described here.
+  - key: ''
+    value: The poem's structure moves from celebration of advancement to Buddhist reflection on impermanence, characteristic of the poet's philosophical outlook.

@@ -1,0 +1,56 @@
+canonical:
+  title: 剔銀燈詞
+  author: 崔執鈞
+  language: lzh
+  text: 昨夜細看蜀志笑曹操孫權劉備用盡機關徒勞心力只得三分天地屈指細尋思何似劉伶一醉人世都無百歲少癡孩老尫悴只有中間些子年少忍把浮名牽繫雖一品與千鍾問白髮如何回避
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 剔銀燈詞
+  author: 崔執鈞
+  language: lzh
+  text: 昨夜細看蜀志。笑曹操孫權劉備。用盡機關徒勞心力。只得三分天地。屈指細尋思。何似劉伶一醉。人世都無百歲少。癡孩老尫悴。只有中間些子年少。忍把浮名牽繫。雖一品與千鍾。問白髮如何回避。
+korean:
+  title: 척 은등 사
+  author: 최집균
+  language: kor
+  text: |-
+    어제 밤에 삼국지를 자세히 보며
+    조조ㆍ손권ㆍ유비를 웃었네
+    온갖 계략 다 부리며 온갖 애를 다 써서
+    겨우 삼분 천하를 얻다니
+    곰곰 생각해 보니
+    유령의 한 번 취한 것과 어떠리
+    인생이 도무지 백세가 없는데
+    어려서 철 모르고 늙어선 기운 없고 병 드는 것
+    중간 잠시 동안의 젊은 시절을
+    뜬 이름 때문에 매어 지내랴
+    일품 벼슬, 천종록 있다 한들
+    묻노니 백발을 제 어이 회피하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0150&viewSync=OT
+  footnotes: []
+english:
+  title: To the Tune of the Silver Lamp
+  author: Choe Jip-gyun
+  language: eng
+  text: |-
+    Last night I read the Records of Three Kingdoms with care,
+    Laughing at Cao Cao, Sun Quan, Liu Bei.
+    They exhausted every stratagem, spent all their wit,
+    Only to carve the realm into thirds.
+
+    Pondering it well, I ask:
+    How different is it from Liu Ling's single drunken spell?
+    Humans do not see a hundred years,
+    Childhood passes in ignorance, age brings weakness and disease—
+    Only this brief middle span of youth remains,
+    Yet we bind ourselves with hollow fame.
+    Though one climbs to the highest rank, ten thousand bushels of grain fill the store,
+    Tell me, how can white hair ever be escaped?
+  footnotes:
+  - key: ''
+    value: The Records of Three Kingdoms (蜀志) refers to the period of disunion in Chinese history when three rival states competed for dominance, each ruler employing cunning and force to secure power.
+  - key: ''
+    value: Liu Ling (劉伶) was one of the Seven Sages of the Bamboo Grove, a Daoist philosopher known for his love of wine and freedom from worldly concerns. His single drunken moment suggests a transcendence beyond the machinations of power.
+  - key: ''
+    value: 'The poem reflects a Daoist and Buddhist critique of ambition: despite achieving the highest offices and greatest wealth, no one can escape the inevitable decline and mortality that comes with age.'

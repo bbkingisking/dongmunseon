@@ -1,0 +1,39 @@
+canonical:
+  title: 送偰符寶還朝
+  author: 河乙沚
+  language: lzh
+  text: 混一功成四海淸使星光彩照東瀛歸舟所載非他物秪是三韓上下情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送偰符寶還朝
+  author: 河乙沚
+  language: lzh
+  text: 混一功成四海淸。使星光彩照東瀛。歸舟所載非他物。秪是三韓上下情。
+korean:
+  title: 송설부보환조
+  author: 하을지
+  language: kor
+  text: |-
+    통일의 공을 이루어 사해가 맑았거니
+    사신 별의 광채가 동영을 비추누나
+    돌아가는 배에 실은 것 다른 물건 아니네
+    다만 이 삼한의 상하의 정일러라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1000&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off Hyeok Bu, Keeper of the Seal, Returning to Court
+  author: Ha Eul-ji
+  language: eng
+  text: |-
+    The great work of unification complete, the four seas grow clear,
+    The envoy's star shines bright, its radiance lighting the Eastern realm.
+    The returning vessel carries no ordinary cargo—
+    Only the deepest bonds between ruler and realm of Samhan.
+  footnotes:
+  - key: ''
+    value: Samhan (三韓) refers to the three ancient Korean kingdoms, used here to represent Korea as a whole
+  - key: ''
+    value: The 'envoy's star' alludes to the diplomatic mission and the honor of the imperial messenger
+  - key: ''
+    value: The 'four seas' is a classical expression denoting all lands under heaven, here suggesting the unified Mongol-Yuan realm

@@ -1,0 +1,45 @@
+canonical:
+  title: 紅樹
+  author: 李藏用
+  language: lzh
+  text: 一葉初驚落夜聲千林忽變向霜晴最憐照破靑嵐影不覺催生白髮莖廢苑瞞盱秋思苦遙山唐突夕陽明去年今日燕然路記得屛風嶂裏行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 紅樹
+  author: 李藏用
+  language: lzh
+  text: 一葉初驚落夜聲。千林忽變向霜晴。最憐照破靑嵐影。不覺催生白髮莖。廢苑瞞盱秋思苦。遙山唐突夕陽明。去年今日燕然路。記得屛風嶂裏行。
+korean:
+  title: 홍수
+  author: 이장용
+  language: kor
+  text: |-
+    이크, 잎새 하나 밤에 떨어지는 소리
+    서리 아침에 온 수풀이 문득 변했구나
+    푸른 산빛을 비추어 그림자를 부수고
+    어느덧 흰 머리를 재촉하여 나게 하네
+    황폐한 동산을 바라보니 가을 생각 괴롭고야
+    먼 산엔 눈에 번쩍 석양이 더 밝아라
+    문득 회상되는 건, 작년 이날 연연 길에
+    병풍 같은 산중으로 가던 일
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 연연(燕然) : '
+    value: 산 이름. 후한(後漢)  영평(永平)  원년(元年)에 두헌(竇憲)이 북선우(北單于)를 격파하고 이 산에 올라 비석을 새겨 공을 기록하고 돌아왔다. 《後漢書》 지금의 몽고이다.
+english:
+  title: Red Trees
+  author: Lee Changyong
+  language: eng
+  text: |-
+    A single leaf falls through the night—that sound!
+    Suddenly the thousand groves transform in frost's first gleam.
+    How it pains me, breaking through the blue mountain's shadow,
+    Unwittingly hastening white hairs to my crown.
+    The abandoned garden's ruin fills autumn thoughts with sorrow,
+    While distant peaks blaze sudden-bright with setting sun.
+    What returns to mind unbidden: last year, this very day,
+    Walking through mountain gorges like a folding screen.
+  footnotes:
+  - key: ''
+    value: Yanran refers to a mountain in what is now Mongolia, famous in Chinese history as the site where the Han general Dou Xian defeated the Northern Xiongnu and erected a stone monument to commemorate his victory. Here it evokes a journey of the past.

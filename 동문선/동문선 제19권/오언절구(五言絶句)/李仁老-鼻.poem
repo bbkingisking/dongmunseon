@@ -1,0 +1,45 @@
+canonical:
+  title: 鼻
+  author: 李仁老
+  language: lzh
+  text: 長作洛生詠思揖隆準公何時郢中質一遇運斤風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鼻
+  author: 李仁老
+  language: lzh
+  text: 長作洛生詠。思揖隆準公。何時郢中質。一遇運斤風。
+korean:
+  title: 비
+  author: 이인로
+  language: kor
+  text: |-
+    길이 낙생(洛生)의 읊조림을 짓고
+    용준공(隆準公)에게 읍하는 것을 생각하네
+    어느 때 영중(郢中)을 바탕으로
+    한 번 바람나게 놀리는 자귀를 만나랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 낙생(洛生)의 읊조림 : '
+    value: 진(晉)나라 때의 낙하(洛下)서생(書生)들의 읊조림. 사안(謝安)은 본시 코가 맹맹하였는데, 코 메인 소리로 낙생영(洛生詠)을 읊조리자, 다른 사람들은 코를 가리우고 그것을 모방하였다.
+  - key: '[주-D002] 융준공(隆準公) : '
+    value: 한고조(漢高祖)가 코가 높았으므로 융준공(隆準公)이라 하였는데, 역이기(酈食其)가 처음 고조(高祖)를 뵈올 때에 절하지 않고 읍(揖)하였다.
+  - key: '[주-D003] 영중(郢中) : '
+    value: 영중(郢中)에 어느 장인(匠人)이 자귀[斤]질을 잘하여 사람의 코에다 조그맣게 흙을 얹어 두고 자귀로 그것을 깎았는데, 자귀에서 바람이 나서 흙은 다 깎아 내어도 코는 상함이 없었다. 다른 사람은 감히 코를 대 주지 못했는데, 한 사람은 코를 대 주고 꼼짝도 하지 않았다. 그 사람이 죽은 뒤에 장인(匠人)이, “이제는 나의 바탕[質]이 없어졌다.” 하고 자귀질을 그만두었다.
+english:
+  title: The Nose
+  author: Lee In-ro
+  language: eng
+  text: |-
+    I compose verses in the manner of the Luo scholars,
+    Bowing with respect to the High-Bridged Duke.
+    When shall I find a foundation like that of Ying,
+    To meet a craftsman whose adze moves with such grace?
+  footnotes:
+  - key: ''
+    value: 'The Luo scholars'' verses: These are songs from the scholars of Luo during the Jin Dynasty. Xie An had naturally flat nostrils, and when he recited these verses through his nose, others would cover their noses to imitate him—a humorous reference to the nasal quality of his speech.'
+  - key: ''
+    value: 'The High-Bridged Duke: Liu Bang, founder of the Han Dynasty, was known for his prominent nose and received this honorific title. The historical figure Li Shiqi famously greeted him with a bow rather than a kowtow upon their first meeting.'
+  - key: ''
+    value: 'The craftsman of Ying: A legendary artisan in Ying placed a small mound of clay upon a man''s nose and skillfully carved it away with his adze, the wind from the blade removing all the clay without ever touching the skin. Only one person had the courage to offer their nose to him, and when that man died, the craftsman abandoned his craft, saying he had lost his true foundation.'

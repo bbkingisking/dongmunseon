@@ -1,0 +1,65 @@
+canonical:
+  title: 玉笛
+  author: 曺偉
+  language: lzh
+  text: 寶璞曾經修月手精光夜夜衝牛斗何人截作昭華琯雅韵不在伶倫後由來竹材陋柯亭宛似秦臺鸞鳳聲桓伊李謩不可捻鬼物撝呵風雨驚繁華回首一夢中三弄斜陽江海空曲罷鷄林佳氣盡蕭蕭黃葉吹悲風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 玉笛
+  author: 曺偉
+  language: lzh
+  text: 寶璞曾經修月手。精光夜夜衝牛斗。何人截作昭華琯。雅韵不在伶倫後。由來竹材陋柯亭。宛似秦臺鸞鳳聲。桓伊李謩不可捻。鬼物撝呵風雨驚。繁華回首一夢中。三弄斜陽江海空。曲罷鷄林佳氣盡。蕭蕭黃葉吹悲風。
+korean:
+  title: 옥적
+  author: 조위
+  language: kor
+  text: |-
+    명장의 손을 거친 보옥
+    밤마다 정기가 두우성을 찌르더니
+    누가 이를 잘라 피리를 만들었던가
+    아담한 곡조가 영륜보다 지지 않았네
+    원래 대 피리는 가정 것도 시시한데
+    이는 완연히 진대의 난봉 소리
+    환이(피리의 명수)ㆍ이모(피리의 명수)도 만지작거리지 못할 것
+    귀신이 보호하고 풍운도 놀라니
+    돌아보니 번화도 한바탕 꿈결
+    석양에 세 번 부니 강해가 빈 듯해라
+    곡조가 끝나자 계림의 운이 다하여
+    우수수 황엽이 슬픈 바람에 불렸구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영륜(伶倫) : '
+    value: 황제(皇帝) 때 대피리[竹笛]의 명수이다.
+  - key: '[주-D002] 가정(柯亭) : '
+    value: 그곳의 대[竹]로 한(漢)나라의 채옹(蔡邕)이 명적(名笛)을 만들었고, 뒤에 진(晉)나라의 환이(桓伊)가 그 저를 불어 유명했다. 《晉書 桓伊傳》
+  - key: '[주-D003] 진대(秦臺) : '
+    value: 진(秦)나라 때 왕자진(王子晋)과 소사(簫史)의 옥적(玉笛)이다.
+english:
+  title: The Jade Flute
+  author: Cao Wei
+  language: eng
+  text: |-
+    A precious stone once passed through a master's hands,
+    Its radiance piercing the heavens night after night.
+    Who took blade to craft it into this honored pipe?
+    Its graceful melodies yield not to Ling Lun's art.
+
+    Though bamboo flutes from Ge Pavilion seem common enough,
+    This one echoes the enchanted notes of the Qin court—
+    Where even Huan Yi and Li Mo cannot fully grasp it,
+    And spirits guard it as winds and rains tremble.
+
+    Prosperous days are but a dream in retrospect;
+    Three movements through the slanting sun leave rivers and seas bare.
+    When the song concludes, the fortune of Gye Rim fades away—
+    Yellow leaves scatter on the mournful wind, whisper by whisper.
+  footnotes:
+  - key: ''
+    value: Ling Lun was a legendary master flute-maker of ancient China, celebrated for his mastery of the bamboo flute.
+  - key: ''
+    value: The flute from Ge Pavilion references Huan Yi of the Jin Dynasty, who famously played an instrument made from bamboo grown there.
+  - key: ''
+    value: The Qin terrace alludes to the jade flutes of Prince Wang Zhoujin and Xiao Shi, mythical figures whose music was said to summon celestial beings.
+  - key: ''
+    value: Gye Rim is an alternative name for Gyeongju, the ancient capital of Silla, suggesting this poem may address the transience of Korean civilization or fortune.

@@ -1,0 +1,37 @@
+canonical:
+  title: 絶句
+  author: 崔冲
+  language: lzh
+  text: 滿庭月色無煙燭入座山光不速賓更有松絃彈譜外只堪珍重未傳人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 絶句
+  author: 崔冲
+  language: lzh
+  text: 滿庭月色無煙燭。入座山光不速賓。更有松絃彈譜外。只堪珍重未傳人。
+korean:
+  title: 절구
+  author: 최충
+  language: kor
+  text: |-
+    뜰에 가득한 달빛은 연기 없는 촛불이요
+    자리에 드는 산빛은 청하지 않은 손님일세
+    거기에 또 솔거문고 있어 악보 없는 곡조를 타노니
+    다만 진중히 하여 사람에게 전하지 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0130&viewSync=OT
+  footnotes: []
+english:
+  title: Quatrain
+  author: Choi Chung
+  language: eng
+  text: |-
+    The courtyard fills with moonlight—a candle needing no smoke,
+    As mountain rays enter the room, an uninvited guest.
+    And there, pine-stringed zither sounds notes beyond all notation,
+    A treasure to cherish, yet never to pass to another.
+  footnotes:
+  - key: ''
+    value: The 'pine-stringed zither' (松絃琴) refers to the guqin, the seven-stringed Chinese zither, suggesting a meditative, introspective quality to the poem's scene.
+  - key: ''
+    value: The poem presents nature itself as the true illumination and companionship, surpassing human artifice and social convention.

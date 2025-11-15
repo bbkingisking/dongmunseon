@@ -1,0 +1,59 @@
+canonical:
+  title: 望夫石
+  author: 無名氏
+  language: lzh
+  text: 昔有貞心婦難追杳杳途化爲山下石空望戰塲夫雨洒添珠淚塵侵染雪膚綠雲連鬂起新月帶眉孤窈窕形容在玲瓏笑語無娥皇如見此應恥泣蒼梧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 望夫石
+  author: 無名氏
+  language: lzh
+  text: 昔有貞心婦。難追杳杳途。化爲山下石。空望戰塲夫。雨洒添珠淚。塵侵染雪膚。綠雲連鬂起。新月帶眉孤。窈窕形容在。玲瓏笑語無。娥皇如見此。應恥泣蒼梧。
+korean:
+  title: 망부석
+  author: 무명씨
+  language: kor
+  text: |-
+    옛날에 절개 굳은 어떤 부인이
+    멀리서 아득한 길을 따르기 어려워
+    몸이 산밑의 돌로 되어서
+    전장간 남편을 기다리누나
+    비가 뿌려 구슬 같은 눈물 더하고
+    먼지 날아 눈 같은 살 위에 앉네
+    푸른 구름이 귓머리에 연달아 일고
+    초승달이 눈썹 가에 외로이 뜨네
+    얌전한 모습은 그대로지만
+    상긋 웃는 말씀은 한 마디 없네
+    아황이 만일 이 돌을 보면
+    창오에 울던 일을 부끄러워하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 망부석(望夫石) : '
+    value: 무창(武昌)북산(北山)에 망부석(望夫石)이 있는데, 형상이 사람이 서 있는 것 같다. 전설(傳說)에, 어떤 정부(貞婦)가, 남편이 멀리 병역(兵役)에 나갈 때에 어린 아들과 이 산에서 남편을 전송하고는, 서서 남편의 가는 것을 바라보다가 화(化)하여 돌이 되었으므로, 망부석(望夫石)이라 이름하였다 한다.
+  - key: '[주-D002] 창오(蒼梧) : '
+    value: 순(舜) 임금이 남으로 순수(巡狩)하다가 창오산에서 돌아가니 그의 두 비(妃) 아황(娥皇)ㆍ여영(女英)이 슬피 울었다. 그 눈물이 떨어져서 소상(瀟湘)의 반죽(班竹)이 되었다 한다.
+english:
+  title: The Stone of the Waiting Wife
+  author: Anonymous
+  language: eng
+  text: |-
+    Once there was a woman of steadfast virtue,
+    who could not bear to follow that distant, dim path.
+    Her form became stone beneath the mountain,
+    forever gazing toward her warrior husband.
+
+    Rain falls like tears of pearls upon her,
+    dusty winds settle on her snow-white skin.
+    Green clouds gather at her temple,
+    the crescent moon hangs lonely by her brow.
+
+    Her graceful silhouette remains unchanged,
+    yet her gentle smile speaks not a word.
+    If Ehuang herself should see this stone,
+    she would blush at her own tears by the Cangwu waters.
+  footnotes:
+  - key: ''
+    value: The Stone of the Waiting Wife refers to a legendary rock formation near Wuchang, said to resemble a standing figure. According to tradition, a faithful wife was left behind by her husband as he departed for military service. She stood upon the mountain watching him go until she was transformed into stone.
+  - key: ''
+    value: Ehuang and Nüying were the wives of the legendary Emperor Shun. When he died during his southern travels at Mount Cangwu, their tears fell so profusely that they spotted the bamboo forests of the Xiao and Xiang rivers. The poem compares the waiting wife's constancy to the devotion of these legendary figures.

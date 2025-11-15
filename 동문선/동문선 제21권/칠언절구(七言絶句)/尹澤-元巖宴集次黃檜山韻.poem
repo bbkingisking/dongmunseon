@@ -1,0 +1,45 @@
+canonical:
+  title: 元巖宴集次黃檜山韻
+  author: 尹澤
+  language: lzh
+  text: 少年花下醉沉香立進淸平光熖長潦倒如今看武庫空餘紫電與淸霜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 元巖宴集次黃檜山韻
+  author: 尹澤
+  language: lzh
+  text: 少年花下醉沉香。立進淸平光熖長。潦倒如今看武庫。空餘紫電與淸霜。
+korean:
+  title: 원암연집차황회산운
+  author: 윤택
+  language: kor
+  text: |-
+    소년 때에 꽃 밑에서 침향정에 취했을 제
+    당장 청평사를 바치니 광염이 길었더라
+    실각한 지금에 무고를 보니
+    속절없이 자전과 청상만 남았구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청평사(淸平詞)를 바치니 : '
+    value: 당나라 현종(玄宗)이 침향정(沈香亭)에서 양귀비(楊貴妃)와 함께 모란(牡丹) 꽃을 보다가, “이 좋은 꽃을 보는 데는 재래의 악장(樂章)을 연주(演奏)할 것이 아니라 새 가사(歌詞)를 지어 불러야겠다.” 하고, 이백(李白)을 불렀다. 이백은 술집에서 취하여 들어와서 청평사(淸平詞) 삼수(三首)를 지어 바쳤다.
+  - key: '[주-D002] 광염(光焰) : '
+    value: 한유(韓愈)의 시(詩)에, ‘이두 문장이 남아 있으나, 광염이 만발[丈]이나 길다[李杜文章在 光焰萬丈長].’ 하였다. 이두(李杜)는 이백(李白)과 두보(杜甫)다.
+  - key: '[주-D003] 무고(武庫) : '
+    value: 왕발(王勃)의 글에, ‘자전과 청상은 왕장군의 무고이다[紫電淸霜 王將軍之庫].’는 말이 있다. 모두 보검의 명칭이다.
+english:
+  title: At the Gathering at Wonams, Following the Rhymes of Hwang Hoisan
+  author: Yun Taek
+  language: eng
+  text: |-
+    In youth, beneath the flowers I grew drunk on incense,
+    Then offered the Pure Peace song—its brilliance stretched long.
+    Now, worn and broken, I gaze upon the armory,
+    Leaving only Purple Lightning and Clear Frost behind.
+  footnotes:
+  - key: ''
+    value: The Pure Peace song refers to the famous legend where Emperor Xuanzong of Tang, viewing peonies with Yang Guifei at the Incense Pavilion, summoned Li Bai to compose new verses rather than play old melodies. Li Bai, arriving drunk from a tavern, composed three poems known as the Pure Peace songs.
+  - key: ''
+    value: 'The ''brilliance stretched long'' alludes to Han Yu''s praise of Li Bai and Du Fu: ''Though their writings remain, their brilliance extends ten thousand lengths.'' This mirrors the youthful talent that once shone so brightly.'
+  - key: ''
+    value: The armory contains Purple Lightning and Clear Frost, the names of legendary swords belonging to General Wang. The poet suggests that only these glorious remnants of the past remain, while personal vitality and creative power have faded.

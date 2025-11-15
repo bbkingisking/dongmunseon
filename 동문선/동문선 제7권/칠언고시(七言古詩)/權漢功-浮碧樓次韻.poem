@@ -1,0 +1,49 @@
+canonical:
+  title: 浮碧樓次韻
+  author: 權漢功
+  language: lzh
+  text: 手携永明長慶僧扁舟蕩漾江中流宛在紅塵不到處更窮滄浪欲盡頭古來賢達知誰健我醉欲眠君且休月岩以南天下少朝天石老煙雨愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 浮碧樓次韻
+  author: 權漢功
+  language: lzh
+  text: 手携永明長慶僧。扁舟蕩漾江中流。宛在紅塵不到處。更窮滄浪欲盡頭。古來賢達知誰健。我醉欲眠君且休。月岩以南天下少。朝天石老煙雨愁。
+korean:
+  title: 부벽루 차운
+  author: 권한공
+  language: kor
+  text: |-
+    영명사 장경사 중의 손 이끌고
+    대동강 중류에 쪽배 저으니
+    완연히 홍진(번화한 도시의 먼지)이 이르지 않는 곳에 온 듯
+    다시 창랑 막바지를 더듬으려는데
+    옛적의 현인 달사 남은 이 누구인고
+    나 취해서 졸리니 그대 또한 쉴지어다
+    월암부터 이남은 천하에 드물다
+    조천석 늙어 연우가 시름하니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: Responding to a Rhyme at Floating Jade Pavilion
+  author: Kwon Han-gong
+  language: eng
+  text: |-
+    I lead by hand the monks of Youngmyeong and Changgyeong,
+    Poling a small boat through the middle of the Daedong River.
+    As if arriving where the dust of the mortal world cannot reach,
+    I strain to trace the very end of Changlang's waters.
+    Of the wise men of old, who still remains to prove their worth?
+    Drunk and drowsy, I rest while you too take your ease.
+    South of Worlam, such places grow scarce beneath heaven—
+    Chojeonseok grows old, and mist and rain weep their sorrow.
+  footnotes:
+  - key: ''
+    value: 'Youngmyeong and Changgyeong temples: Buddhist temples on the Daedong River near Pyongyang.'
+  - key: ''
+    value: 'Changlang: A reference to the Miluo River in Chinese poetry, symbolizing purification and solitude; here applied to the Daedong River.'
+  - key: ''
+    value: 'Worlam (月岩): A famous scenic rock formation on the Daedong River.'
+  - key: ''
+    value: 'Chojeonseok (朝天石): Another celebrated rock on the river, literally ''Stone Facing Heaven.'''

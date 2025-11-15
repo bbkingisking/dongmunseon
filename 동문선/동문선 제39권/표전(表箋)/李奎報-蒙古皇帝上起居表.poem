@@ -1,0 +1,33 @@
+canonical:
+  title: 蒙古皇帝上起居表
+  author: 李奎報
+  language: lzh
+  text: 千里靑丘雖守區區之分九重丹闕想瞻穆穆之光願天壽之無疆獨臣心之所有
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蒙古皇帝上起居表
+  author: 李奎報
+  language: lzh
+  text: 千里靑丘。雖守區區之分。九重丹闕。想瞻穆穆之光。願天壽之無疆。獨臣心之所有。
+korean:
+  title: 몽고 황제께 문안하는 글
+  author: 이규보
+  language: kor
+  text: 천리 청구(靑丘)에 비록 구구한 분수를 지키나 구중(九重) 단궐(丹闕)에 목목(穆穆 깊고 먼 것)한 안식을 상상하며, 천수(天壽)의 가이없음을 축원함이 다만 신심(臣心)의 가진 바입니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0420_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: A Respectful Address to the Mongol Emperor
+  author: Lee Gyeong-bo
+  language: eng
+  text: |-
+    Though I keep to my distant station in this green land of a thousand leagues away,
+    I gaze in longing toward the nine-tiered vermilion halls of solemn majesty.
+    I offer prayers for the Emperor's days to be boundless as heaven itself—
+    This alone is the sincere devotion that dwells within this subject's heart.
+  footnotes:
+  - key: ''
+    value: The 'green land' (靑丘) refers to Korea, while the 'nine-tiered vermilion halls' (九重丹闕) represent the imperial court of Mongolia—emphasizing the vast distance and hierarchy between the vassal state and its overlord.
+  - key: ''
+    value: This work was composed during the Goryeo dynasty's period under Mongol domination, reflecting the political reality of the time through formal court language.

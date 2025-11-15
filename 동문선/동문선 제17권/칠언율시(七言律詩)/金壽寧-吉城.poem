@@ -1,0 +1,48 @@
+canonical:
+  title: 吉城
+  author: 金壽寧
+  language: lzh
+  text: 窈窕磨雲最上端竛竮老馬不勝鞍舊聞鳥道三千里今陟羊膓百八盤宿霧輕嵐衣半濕懸崖絶壁眼雙寒憑君莫話東征事鬢髮西風又欲斑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 吉城
+  author: 金壽寧
+  language: lzh
+  text: 窈窕磨雲最上端。竛竮老馬不勝鞍。舊聞鳥道三千里。今陟羊膓百八盤。宿霧輕嵐衣半濕。懸崖絶壁眼雙寒。憑君莫話東征事。鬢髮西風又欲斑。
+korean:
+  title: 길성
+  author: 김수령
+  language: kor
+  text: |-
+    깊숙한 마운령 상상봉 꼭대기에
+    비틀비틀 늙은 말이 안장을 못 이기네
+    조도 3천 리를 옛말로 들었더니
+    양장 108구비를 이제 올랐구나
+    안개와 이내에 옷이 반이나 젖었는데
+    낭떨어지 벼랑에 두 눈이 아찔하네
+    여보게 동정 일을 말하지 말게
+    서풍에 귀밑머리가 또 세려고 하옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0920&viewSync=OT
+  footnotes: []
+english:
+  title: Gil-sung Pass
+  author: Kim Su-ryeong
+  language: eng
+  text: |-
+    Deep in the mountain where clouds gather at the highest peak,
+    A weary old horse stumbles beneath its saddle's weight.
+    Once I heard tales of bird-paths stretching three thousand li,
+    Now I climb these hundred and eight serpentine turns.
+
+    Mist and mountain haze have soaked my robes halfway through,
+    On sheer cliffs my eyes grow dizzy with vertigo.
+    Friend, pray do not speak to me of eastern journeys,
+    For the western wind already turns my temples white.
+  footnotes:
+  - key: ''
+    value: The 'bird-path' (조도/鳥道) refers to ancient narrow mountain trails so perilous only birds could traverse them safely.
+  - key: ''
+    value: The 'hundred and eight bends' (양장 108구비) describes the extremely winding nature of mountain passes, with 108 being a traditional number suggesting countless turns.
+  - key: ''
+    value: The 'eastern journey' (동정/東征) likely refers to official travels or expeditions eastward, which the aging speaker wishes not to be reminded of.

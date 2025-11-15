@@ -1,0 +1,49 @@
+canonical:
+  title: 與李眉叟會湛之家
+  author: 林椿
+  language: lzh
+  text: 久因流落去長安空學南音戴楚冠歲月屢驚羊胛熟風騷重會鶴天寒十年計活挑燈話半世功名抱鏡看自笑老來追後輩文思宦意一時闌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 與李眉叟會湛之家
+  author: 林椿
+  language: lzh
+  text: 久因流落去長安。空學南音戴楚冠。歲月屢驚羊胛熟。風騷重會鶴天寒。十年計活挑燈話。半世功名抱鏡看。自笑老來追後輩。文思宦意一時闌。
+korean:
+  title: 이미수와 함께 담지의 집에 모여서
+  author: 임춘
+  language: kor
+  text: |-
+    오래도록 유락하여 서울을 떠나서
+    초나라 관을 쓰고 남방 음곡썼네
+    세월은 꿈깨고 나니 양의 어깻살 익는다
+    시와 술로 다시 모이니 추운 때로구나
+    10년 동안 살아온 일을 등돋우고 이야기하세
+    반 세상 허튼 공명을 거울 당겨 들여다 보네
+    늙어 후배들 따라다니는 것 스스로 우스워라
+    글 생각 벼슬할 뜻이 둘 다 쇠한 주제에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 세월은 …… 어깻살[胛] 익는다 : '
+    value: 시간이 짧고 빠름. 골리알부(骨利斡部)는 한해(瀚海) 북쪽에 있는데, 거기서 또 북으로 바다를 건너면 낮이 길고 밤이 짧아, 해가 지자 양의 어깻살[羊胛]을 삶아 익을 동안에 동쪽이 벌써 밝는다.
+  - key: '[주-D002] 반(半) 세상 …… 들여다 보네 : '
+    value: “훈업은 자주 거울을 본다.[勳業頻看鏡]”는 두보(杜甫)의 시(詩)가 있다. 공명(功名)은 언제 이룰지 모르고 늙어만 간다는 뜻이다.
+english:
+  title: Gathering at Tamji's House with Lee Meisu
+  author: Lim Chun
+  language: eng
+  text: |-
+    Long years of wandering have carried me far from the capital.
+    I wear the southern tune like a crown of distant Chu.
+    How swift the seasons—time ripens like mutton on a bone.
+    Poetry and wine reunite us in this season's bitter cold.
+    Ten years of survival we recount by lamplight's pale glow.
+    Half a lifetime's empty honors I examine in the mirror's face.
+    How I laugh at myself, an old man chasing after younger peers,
+    When both my wit for words and will for office have already faded away.
+  footnotes:
+  - key: ''
+    value: The image of the mutton bone ripening refers to the legendary speed of time in distant northern lands—a poetic way of expressing how quickly the years pass.
+  - key: ''
+    value: The mirror reference alludes to Du Fu's line about frequently gazing into the mirror for achievements, suggesting the uncertainty and elusive nature of worldly success and honor.

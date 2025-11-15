@@ -1,0 +1,41 @@
+canonical:
+  title: 祈雨醮罷呈政院諸公
+  author: 權健
+  language: lzh
+  text: 玉案天香七寶臺靈風半夜肅然來須知一念通眞宰膏乳從今遍八垓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 祈雨醮罷呈政院諸公
+  author: 權健
+  language: lzh
+  text: 玉案天香七寶臺。靈風半夜肅然來。須知一念通眞宰。膏乳從今遍八垓。
+korean:
+  title: 기우초파 정정원 제공
+  author: 권건
+  language: kor
+  text: |-
+    옥안에 향내 뿜는 칠보대 위에
+    밤중에 신령한 바람 숙연히 오는구나
+    모름지기 이 한 생각이 하늘에 사무쳐
+    기름진 비 이제부터 팔황에 고루 내리렸다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 𧘻 : '
+    value: 祈
+english:
+  title: After the Rain Prayer Ceremony, Presented to the Officials of the Political Affairs Bureau
+  author: Kwon Geon
+  language: eng
+  text: |-
+    Upon the seven-jeweled altar, incense rises to heaven's gate,
+    And in the depths of night, a sacred wind comes solemnly forth.
+    Know that a single thought reaches the true ruler of all things—
+    From this moment on, rich blessing rains fall evenly across the eight directions.
+  footnotes:
+  - key: ''
+    value: The 'seven-jeweled altar' refers to an elaborate ceremonial platform used in Daoist rain-prayer rituals, combining both Daoist and Buddhist imagery of the cosmos.
+  - key: ''
+    value: The 'true ruler' (眞宰) alludes to the supreme cosmic principle or deity governing all natural phenomena, central to both Daoist and Chinese philosophical thought.
+  - key: ''
+    value: The 'eight directions' (八垓) represents the entire world or cosmos, suggesting the universal blessing of rain across all lands.

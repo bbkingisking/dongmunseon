@@ -1,0 +1,65 @@
+canonical:
+  title: 獻時宰回文
+  author: 李仁老
+  language: lzh
+  text: 早學求遊宦詩成謾苦辛老懷春絮亂衰鬢曉霜新倒甑朝炊斷飢膓夜吼頻報恩心欵欵誰是救枯鱗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獻時宰回文
+  author: 李仁老
+  language: lzh
+  text: 早學求遊宦。詩成謾苦辛。老懷春絮亂。衰鬢曉霜新。倒甑朝炊斷。飢膓夜吼頻。報恩心欵欵。誰是救枯鱗。
+korean:
+  title: 헌 시재 회문
+  author: 이인로
+  language: kor
+  text: |-
+    일찍 학문을 닦아 벼슬을 구했더니
+    시만 이루고 괜히 고생만 할 뿐
+    늙은 회포는 봄날 어지러운 버들가지
+    허연 살쩍은 새로운 새벽 서리
+    쌀독을 기울이니 아침 끼니 끊겼고
+    주린 창자는 밤에 자주 꾸르륵
+    간절히 은혜 갚을 생각하건만
+    물마른 고기를 누가 구해 줄 것인가
+    물마른 고기를 구할 이 뉜가
+    은혜 갚을 생각은 간절컨만
+    자주 꾸루룩, 밤에 창자 주리고
+    끼니 못 끓이니 아침 쌀독 텅 거꾸로 누었네
+    새로이 서리는 새벽 살쩍 희었구나
+    어지러운 버들가지 봄날의 늙은 회포
+    애써 부질없이 시만 이루었네
+    벼슬 차 학문을 일찍 구했건만
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0320&viewSync=OT
+  footnotes: []
+english:
+  title: A Palindromic Poem Presented to the Prime Minister
+  author: Lee In-ro
+  language: eng
+  text: |-
+    In youth I pursued learning to seek office,
+    Yet poems alone came forth, and suffering endless.
+    My aging heart stirs like spring's tangled willow down,
+    My graying temples wear the frost of dawn anew.
+
+    The rice jar tips—the morning meal runs dry,
+    Hungry belly cries out through the night.
+    My heart yearns earnestly to repay kindness,
+    But who will save this withered fish?
+
+    Who will rescue this desiccated fish?
+    Earnest still, the thought of repaying grace—
+    The belly groans and rumbles through the night,
+    No morning gruel as the jar lies overturned.
+    Fresh frost has whitened my cheeks at dawn,
+    Tangled willows cloud my aging spring thoughts,
+    My poems achieved, all labor wrought in vain—
+    I sought office through early study's toil.
+  footnotes:
+  - key: ''
+    value: This is a huimun (回文) or palindromic poem, a Korean poetic form where the second half mirrors and reverses the first half. The work demonstrates the virtuosity characteristic of Goryeo literary culture.
+  - key: ''
+    value: The 'withered fish' (枯鱗) is a metaphor for the poet's own impoverished condition and his hope for patronage and aid.
+  - key: ''
+    value: The poem laments the gap between scholarly ambition and material hardship, expressing both gratitude for past support and anxiety about survival.

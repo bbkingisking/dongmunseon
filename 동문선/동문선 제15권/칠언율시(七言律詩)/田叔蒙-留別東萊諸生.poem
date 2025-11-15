@@ -1,0 +1,47 @@
+canonical:
+  title: 留別東萊諸生
+  author: 田叔蒙
+  language: lzh
+  text: 萊郡居民卽地仙半年無事共盤旋望煙南浦行塩戶泛月東湖棹酒船積翠海雲春爛熳長松花路草芊緜身輕更得朝天去謝子相携浴檻泉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 留別東萊諸生
+  author: 田叔蒙
+  language: lzh
+  text: 萊郡居民卽地仙。半年無事共盤旋。望煙南浦行塩戶。泛月東湖棹酒船。積翠海雲春爛熳。長松花路草芊緜。身輕更得朝天去。謝子相携浴檻泉。
+korean:
+  title: 동래에서 제생들을 작별하며
+  author: 전숙몽
+  language: kor
+  text: |-
+    동래 고을 주민들 지상선 그 이던가
+    반 년 동안 무사히 함께 노닐었네그려
+    남포의 연기 바라보며 소금집을 찾았지
+    달빛 아래 동호에 떠서 술 실은 배도 저었다
+    해운대 짙푸른 산에 진달래꽃 만발했고
+    장송 꽃길에 풀이 우거졌던걸
+    가벼운 몸으로 다시 서울로 향하는 나
+    고마우이 그대들 함께 온천에 와 목욕시키니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0780&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell to the Scholars of Dongnae
+  author: Jeon Suk-mong
+  language: eng
+  text: |-
+    The people of Dongnae—are they not immortals dwelling on earth?
+    For half a year we wandered together, free from care.
+    Gazing at mist above the southern shore, we sought the salt-maker's cottage.
+    Beneath the moon on the eastern lake, we rowed our wine-laden boat.
+    On Haewundae's verdant peaks, azaleas burst into flame,
+    And wildflowers thickened the paths beneath the ancient pines.
+    Now my spirit, lightened, must return to the capital.
+    Forgive me, dear friends—you who brought me to bathe in these sacred springs.
+  footnotes:
+  - key: ''
+    value: Dongnae (東萊) refers to an area in present-day Busan, Korea, known for its natural beauty and hot springs.
+  - key: ''
+    value: The 'sacred springs' reference alludes to the tradition of cleansing and renewal, here taking on the meaning of spiritual and emotional restoration through friendship.
+  - key: ''
+    value: The poem employs the classical conceit of viewing earthly pleasures as comparable to immortal paradise, a common theme in East Asian poetry.

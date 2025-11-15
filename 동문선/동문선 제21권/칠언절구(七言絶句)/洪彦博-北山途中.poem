@@ -1,0 +1,37 @@
+canonical:
+  title: 北山途中
+  author: 洪彦博
+  language: lzh
+  text: 千章古木兩山閒滿壑風烟信馬還不是向來名利路世人那解此淸閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 北山途中
+  author: 洪彦博
+  language: lzh
+  text: 千章古木兩山閒。滿壑風烟信馬還。不是向來名利路。世人那解此淸閑。
+korean:
+  title: 북산도중
+  author: 홍언박
+  language: kor
+  text: |-
+    이 숱한 늙은 나무 빽빽히 들어선 두 산 사이
+    온 골짝 풍연 속으로 말을 타고 돌아온다
+    이것은 지금까지의 명리의 길 아니거니
+    세상 사람 어찌 청한한 맛 알까보냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road Through North Mountain
+  author: Hong Eon-bak
+  language: eng
+  text: |-
+    Between two peaks, a thousand ancient trees stand thick,
+    Through misty valleys on horseback I return,
+    This path is not the one of fame and gain
+    that lures the world—how few can taste such peace.
+  footnotes:
+  - key: ''
+    value: 北山 (North Mountain) likely refers to a specific mountain region in Korea known for its natural beauty and as a retreat from worldly concerns
+  - key: ''
+    value: The poem contrasts the quiet simplicity of nature with the pursuits of worldly ambition, a common theme in East Asian literati poetry

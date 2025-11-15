@@ -1,0 +1,45 @@
+canonical:
+  title: 龍鍾
+  author: 徐居正
+  language: lzh
+  text: 天地龍鍾一病翁岸巾危坐小窓中黑雲暗淡葡萄雨紅霧霏微菡萏風燕語自能知主客蛙鳴元不管私公了無官事眠初覺只把詩聯課小童
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 龍鍾
+  author: 徐居正
+  language: lzh
+  text: 天地龍鍾一病翁。岸巾危坐小窓中。黑雲暗淡葡萄雨。紅霧霏微菡萏風。燕語自能知主客。蛙鳴元不管私公。了無官事眠初覺。只把詩聯課小童。
+korean:
+  title: 용종
+  author: 서거정
+  language: kor
+  text: |-
+    천지간에 구지레한 병든 늙은이
+    두건 벗고 작은 창 앞에 바로 앉아 있노니
+    포도에 비 뿌리매 검은 구름 암담하고
+    연꽃에 바람 불매 붉은 안개 휘날린다
+    제비의 말은 스스로 주인과 손을 아는데
+    개구리의 울음은 원래 공사에 상관하지 않는다
+    관사가 전연 없으매 처음으로 잠을 깨어
+    다만 몇 구의 시 가지고 동자에게 가르친다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 개구리의 …… 않는다 : '
+    value: 진(晉)나라 혜제(惠帝)는 어리석고 숙맥이어서, 비원[上林]에서 개구리 우는 소리를 듣고, “저 개구리가 공사(公事)로 하여 저렇게 우느냐, 혹은 사사일로 하여 저렇게 우느냐.” 하고, 물은 일이 있었다.
+english:
+  title: The Weary One
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Between heaven and earth, an old man worn by age and sickness,
+    Sits upright by the small window, head bare of its crown.
+    Dark clouds brood low as rain beads on the grapes,
+    Red mist dances and drifts where wind stirs the lotus blooms.
+    The swallows' speech knows master from guest naturally,
+    Yet the frogs' songs care nothing for public or private affairs.
+    With no official duties weighing upon me, I wake from rest,
+    And teach the young ones naught but a few lines of verse.
+  footnotes:
+  - key: ''
+    value: 'The reference to frogs caring nothing for ''public or private affairs'' alludes to a famous anecdote from the Jin dynasty: Emperor Hui heard frogs croaking and puzzled over whether they sang for official matters or private ones—a joke about his own dim-wittedness. Here, the poet uses it ironically to suggest the freedom of retirement from office.'

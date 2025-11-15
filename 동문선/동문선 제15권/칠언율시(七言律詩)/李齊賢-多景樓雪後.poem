@@ -1,0 +1,49 @@
+canonical:
+  title: 多景樓雪後
+  author: 李齊賢
+  language: lzh
+  text: 樓高正喜雪漫空晴後奇觀更不同萬里天圍銀色界六朝山擁水精宮光搖醉眼滄溟日淸透詩膓草木風却笑區區何事業十年揮汗九街中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 多景樓雪後
+  author: 李齊賢
+  language: lzh
+  text: 樓高正喜雪漫空。晴後奇觀更不同。萬里天圍銀色界。六朝山擁水精宮。光搖醉眼滄溟日。淸透詩膓草木風。却笑區區何事業。十年揮汗九街中。
+korean:
+  title: 다경루에서 눈온 뒤에
+  author: 이제현
+  language: kor
+  text: |-
+    높은 다락에 오르니 공중에 가득한 눈이 반갑더니
+    갠 뒤에 바라보니 더 한층 기관일세
+    만 리 하늘은 은세계를 둘렀고
+    육조의 산들은 수정궁을 안았네
+    창해에 솟는 햇빛은 거나한 눈을 흔들고
+    초목 휩쓰는 바람이 시 짓는 창자에 스며드네
+    우스워라, 구구이 무슨 일에 골몰하여
+    10년간 번잡한 거리 땀 흘리며 다녔나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: After Snow at the Tower of Many Vistas
+  author: Lee Jeheun
+  language: eng
+  text: |-
+    Ascending the lofty tower, I delight in snow filling the void—
+    After clearing skies, the spectacle transforms into something finer still.
+    Ten thousand leagues of heaven frame a silver realm,
+    The mountains of six dynasties embrace a palace of crystal.
+    Sunlight dancing on the wine-dark sea sets my drunken eyes astir,
+    The wind sweeping through grass and trees seeps into the poet's heart.
+    Yet I laugh at myself—what foolish concerns have consumed me?
+    Ten years spent laboring in bustling streets, my brow wet with sweat.
+  footnotes:
+  - key: ''
+    value: The 'Tower of Many Vistas' (다경루) is a famous scenic overlook, likely in Hangzhou, known for its panoramic views.
+  - key: ''
+    value: The 'six dynasties' references the classical period of Chinese history, evoking temporal grandeur and historical depth.
+  - key: ''
+    value: The 'palace of crystal' is a poetic image of pristine, luminous mountains reflected in snow.
+  - key: ''
+    value: The final couplet shifts from sensory celebration to philosophical reflection, expressing the poet's disillusionment with worldly pursuits.

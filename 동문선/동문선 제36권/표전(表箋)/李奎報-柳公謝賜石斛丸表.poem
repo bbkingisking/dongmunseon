@@ -1,0 +1,47 @@
+canonical:
+  title: 柳公謝賜石斛丸表
+  author: 李奎報
+  language: lzh
+  text: 臣某言云云千金珍藥特紆善救之私六尺殘軀已有更生之望凌兢何措奉戴失容中謝 伏念臣昨罹風痺之交侵乞免官班之非據雖退適於蛙井仰感天恩尙未離於蟻床臥更歲律百方莫療五氣相乖惟石斛之名丸實金篇之遺訣補精益內旣著於方經壯骨輕身又聞於𧗱士如非內府之秘蓄誠匪人閒之易求豈意至仁俯矜舊物命良醫而騁技降溫詔以霈恩未及拜承更思平昔顧尙昧養生之術致此沉嬰又豈施醫國之言有所裨益無功可副受賜自慙庶圖飮啜之勤立獲靈奇之効行復邯鄲之故步免爲晏子之躄行苟保餘生曷忘後効云云
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 柳公謝賜石斛丸表
+  author: 李奎報
+  language: lzh
+  text: 臣某言云云。千金珍藥。特紆善救之私。六尺殘軀。已有更生之望。凌兢何措。奉戴失容。中謝。 伏念臣昨罹風痺之交侵。乞免官班之非據。雖退適於蛙井。仰感天恩。尙未離於蟻床。臥更歲律。百方莫療。五氣相乖。惟石斛之名丸。實金篇之遺訣。補精益內。旣著於方經。壯骨輕身。又聞於𧗱士。如非內府之秘蓄。誠匪人閒之易求。豈意至仁。俯矜舊物。命良醫而騁技。降溫詔以霈恩。未及拜承。更思平昔。顧尙昧養生之術。致此沉嬰。又豈施醫國之言。有所裨益。無功可副。受賜自慙。庶圖飮啜之勤。立獲靈奇之効。行復邯鄲之故步。免爲晏子之躄行。苟保餘生。曷忘後効云云。
+korean:
+  title: 석곡환을 하사하심을 유공이 사례하는 표
+  author: 이규보
+  language: kor
+  text: |-
+    신 모(某)는 아뢰옵나이다.운운. 천금의 진귀한 약을 특별히 구병(救病)의 방문으로 하사하시오니, 6척 병구(病軀)가 이미 갱생의 희망은 있사오나, 황송함을 어찌하오리이까. 봉대(奉戴)하여 몸 둘 바를 알지 못하겠나이다. 중사(中謝)
+    엎드려 생각하옵건대, 신이 저번에 풍비병(風痹病)에 걸려 분에 넘친 관직을 사면하옵고 몸은 비록 개구리 우물 속에 물러와 휴양하면서 우러러 천은(天恩)을 감사하고 있사오나, 아직도 병상(病床)을 떠나지 못하여 해가 바뀌도록 누워서 백방으로 치료하여도 낫지 않고 오기(五氣)가 서로 어긋났나이다.
+    이 석곡환이란 명약(名藥)은 실로 금편(金篇 옛 의서(醫書))의 유결(遺訣)로서 정기를 보(補)하고 몸을 이익하게 함이 이미 의서(醫書)에 나타나 있고, 근골(筋骨)을 장하게 하며 몸을 가볍게 함이 또 의원들에게도 주지(周知)되어 있사오나, 내부(內府)의 비장(秘藏)이 아니면 인간에서 쉽게 구하기 어렵삽더니, 뜻밖에 지극히 인자(仁慈)하신 성상께서 굽어 옛 물건을 불쌍히 여기시어 좋은 의원을 명하여 의술을 베풀게 하고 따뜻한 조서(詔書)를 내려 은혜를 적시시니, 미처 받잡기 전에 다시 생각하여 보옵건대, 평소에 양생(養生)하는 법을 몰라 이런 중병(重病)에 걸렸사오니, 제 어찌 나라를 고치는 말씀을 올려 보탬이 있게 하였사오리까. 아무런 공(功)도 없이 하사품을 받자오니 스스로 부끄럽사옵나이다.부지런히 복용(服用)함으로써 고대 신기한 효험을 보아 장차 한단(邯鄲)의 옛 걸음을 회복하여 안자(晏子)의 절름발이를 면하고자 하옵나이다. 진실로 여생을 보전하면 어찌 뒤의 보답함을 잊으오리이까. 운운.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0390_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오기(五氣)가 서로 어긋났나이다 : '
+    value: 수(水)ㆍ화(火)ㆍ금(金)ㆍ목(木)ㆍ토(土)의 오기가 사람의 오장(五臟)에 각각 분배되어 있다 한다.
+  - key: '[주-D002] 나라를 고치는 말씀 : '
+    value: 상등 의원은 나라를 치료하고, 하등 의원은 병을 치료한다는 옛말이 있다.
+  - key: '[주-D003] 안자(晏子)의 절름발이 : '
+    value: 안자(晏子)는 극자(郤子)의 오(誤)가 아닌지 모르겠다. 안자의 절름발이는 상고할 데가 없고, 극자(郤子 영극(郢克))의 절름발이는 《좌전(左傳)》에 있다.
+english:
+  title: Memorial of Gratitude Presented by Liu Gong for the Gift of Shihu Pellets
+  author: Lee Kyubo
+  language: eng
+  text: |-
+    Your servant humbly presents this memorial. A thousand-gold treasure of medicine—through your compassionate care for the afflicted, this humble six-foot frame now harbors hope of renewal. Yet how can reverence find proper voice? Accepting your grace leaves me speechless. I offer my humble thanks.
+
+    I reflect that your servant, having fallen into the grip of wind-stroke palsy, sought release from office—a mercy undeserved. Though I have withdrawn to my modest retreat, ever grateful for Heaven's kindness, still I cannot leave my sickbed. Through the turning seasons I have lain there. Though a hundred remedies were tried, nothing brought relief; the five vital forces within me grew discordant.
+
+    Yet these Shihu pellets—this celebrated medicine—are truly the lost secrets preserved in the ancient medical texts. That they restore the essence and strengthen the inner being is already recorded in the physicians' canon; that they fortify the bones and lighten the body is well known among healers. Yet without access to the imperial treasury's precious stores, such a remedy would be impossible to obtain in the common world. Who could have imagined that Your Majesty, in supreme benevolence, would take pity on this forgotten vessel? You commanded the finest physicians to exercise their art and sent down your warm imperial decree like timely rain.
+
+    Before I could even properly receive this gift, I am seized by reflection: all my life I have been ignorant of the art of nurturing life, and thus I fell into this grave affliction. How could one so blind to self-preservation ever offer counsel to heal the realm? I have done nothing to merit such generosity, and I receive it with shame. Yet I shall diligently take this medicine, hoping to experience its miraculous efficacy—that I might recover the gait I once had and be spared the stumbling that now afflicts me. If I can but preserve these remaining years, how could I ever forget to repay such kindness?
+  footnotes:
+  - key: ''
+    value: The 'five vital forces' (水火金木土) correspond to the five organs in classical Chinese medicine; their harmony is essential to health.
+  - key: ''
+    value: A reference to the classical principle that the greatest physicians heal nations, while lesser ones merely treat ailments.
+  - key: ''
+    value: The reference here may contain a textual confusion in the original; the limping gait most famously appears in historical accounts as a calamity befalling other figures rather than a specific allusion Lee Kyubo would have intended.

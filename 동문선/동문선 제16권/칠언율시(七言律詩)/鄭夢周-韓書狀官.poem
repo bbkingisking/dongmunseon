@@ -1,0 +1,49 @@
+canonical:
+  title: 韓書狀官
+  author: 鄭夢周
+  language: lzh
+  text: 昨日張帆涉海波故園迴首已天涯地經遼霫軍容壯路入登萊景物多客子未歸逢燕子杏花纔落又桃花同來幸有韓生在每作新詩和我歌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 韓書狀官
+  author: 鄭夢周
+  language: lzh
+  text: 昨日張帆涉海波。故園迴首已天涯。地經遼霫軍容壯。路入登萊景物多。客子未歸逢燕子。杏花纔落又桃花。同來幸有韓生在。每作新詩和我歌。
+korean:
+  title: 봉래역에서 한 서장관
+  author: 정몽주
+  language: kor
+  text: |-
+    어제 돛을 달고 바다에 둥실 떴네
+    고향쪽 머리 돌리니 벌써 하늘 가로구나
+    요습 땅을 지나자 군용이 장하더고
+    등래 길을 들어서니 볼 경치도 많더구먼
+    나그네가 돌아가기 전에 제비를 만났지
+    살구꽃이 갓 지는데 또 복숭아꽃이
+    동행 중에 다행히 한생 자네 있어서
+    매양 새 시를 지어서 내 노래를 화답하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0890&viewSync=OT
+  footnotes: []
+english:
+  title: To Official Han at Penglai Station
+  author: Jeong Mongju
+  language: eng
+  text: |-
+    Yesterday I set sail across the ocean waves,
+    Turning back toward home, now it lies beyond the sky.
+    Passing through Liaodong's lands, the armies march in splendor,
+    Entering the roads to Dengzhou, sights abound along the way.
+    A wanderer not yet homeward bound meets the swallows,
+    As apricot blossoms fall, peach flowers bloom anew.
+    Fortunately Han is here among our traveling companions—
+    Each day he crafts new verses, answering my songs.
+  footnotes:
+  - key: ''
+    value: 'Liaodong (遼東/요습): A region in northeast China, suggesting the author''s journey through significant territories'
+  - key: ''
+    value: 'Dengzhou (登州/등래): A coastal city in Shandong, marking the port of departure for voyages to Korea'
+  - key: ''
+    value: The swallows and changing flowers (apricot to peach) symbolize the passage of time and seasons during travel
+  - key: ''
+    value: Han (韓生) likely refers to the official mentioned in the title, serving as both travel companion and fellow poet

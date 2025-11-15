@@ -1,0 +1,45 @@
+canonical:
+  title: 夕守
+  author: 陳澕
+  language: lzh
+  text: 薄暮趨宸仗彤庭逐貴遊詩懷憑酒得世態向人羞新月彎宮樹華燈上御樓坐思天下事何日借前籌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夕守
+  author: 陳澕
+  language: lzh
+  text: 薄暮趨宸仗。彤庭逐貴遊。詩懷憑酒得。世態向人羞。新月彎宮樹。華燈上御樓。坐思天下事。何日借前籌。
+korean:
+  title: 석수
+  author: 진화
+  language: kor
+  text: |-
+    초저녁에 대궐에 나아가서
+    대궐 뜰에서 귀인들 좇아 노네
+    시 회포는 술을 빌어 얻곤 하나
+    세태는 남 대하여 부끄럽네
+    초승달이 궁 안 나무에 걸리고
+    꽃등이 어루 위로 올라갈 때
+    앉아서 천하의 일을 생각하네
+    어느 날 어상의 저를 빌어 계책을 올릴까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0670&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 어상(御床)의 …… 빌어 : '
+    value: 한(漢)나라 장량(張良)이 한왕(漢王)께 뵈오니 그가 막 식사 중이라, 양(良)이 밥상의 저를 빌어 조건을 세어가면서 계책을 아뢰었다.
+english:
+  title: Evening Guard Duty
+  author: Chen Hua
+  language: eng
+  text: |-
+    At twilight I hasten to the palace gate,
+    Following nobles through the crimson court.
+    My poet's heart finds voice through wine's aid—
+    The world's affairs bring only shame.
+    A crescent moon snags on the palace trees,
+    While flowering lanterns climb toward the royal tower.
+    Sitting here, I ponder the realm's concerns:
+    When shall I find occasion to present my counsel?
+  footnotes:
+  - key: ''
+    value: The final couplet references the historical example of Zhang Liang (張良) of the Han dynasty, who used a dining table as a prop to present his strategic advice to the Han king. The poet hopes for a similar opportunity to offer his counsel to the throne.

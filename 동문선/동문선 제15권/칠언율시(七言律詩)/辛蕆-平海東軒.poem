@@ -1,0 +1,48 @@
+canonical:
+  title: 平海東軒
+  author: 辛蕆
+  language: lzh
+  text: 亂紅濃綠遍村村信馬平蕪雨後原繞郭長川如故里倚山脩竹問誰園宦途幾見鞭先着客路多慙席未溫幸得餘閑欹午枕隔林無數鷓鴣喧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 平海東軒
+  author: 辛蕆
+  language: lzh
+  text: 亂紅濃綠遍村村。信馬平蕪雨後原。繞郭長川如故里。倚山脩竹問誰園。宦途幾見鞭先着。客路多慙席未溫。幸得餘閑欹午枕。隔林無數鷓鴣喧。
+korean:
+  title: 평해 동헌
+  author: 신천
+  language: kor
+  text: |-
+    마을마다 붉은 꽃, 짙푸른 녹음
+    비온 뒤 넓은 들을 말 가는 대로
+    성을 두른 긴 내는 고향 마을 같으이
+    산밑의 대 숲은 뉘 집의 동산인지
+    벼슬 길엔 선착편 못하면서
+    객지로만 다니니 자리가 따스할 틈이 없네
+    요행 한가한 틈을 얻어 낮 베개에 기댔더니
+    자고새 건너 숲에서 수없이 지저귀네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 선착편(先着鞭) : '
+    value: 유곤(劉琨)이 젊어서 지기(志氣)를 자부했는데 조적(祖逖)과 벗이 되었다. 적이 등용(登用)되자 친구에게 주는 편지에 말하되, “내가 창을 베고 새벽을 기다리며 늘 조생이 나보다 먼저 채찍을 칠까[先着鞭] 두려워했느니라.” 했다.
+english:
+  title: The Eastern Pavilion at Pyeonghai
+  author: Shin Cheon
+  language: eng
+  text: |-
+    Scattered red blossoms and verdant green—every village draped in spring.
+    After rain, I ride my horse where it will across the open plain.
+    The long river encircling the town recalls my native place,
+    While bamboo groves beneath the mountain—whose garden might they be?
+
+    On the path of office, I have always lagged behind,
+    And as a wanderer, my seat grows ever cold.
+    Yet fortune grants me leisure to rest my head on afternoon's pillow,
+    And beyond the woods, countless partridges sing their endless song.
+  footnotes:
+  - key: ''
+    value: 'The phrase "lagged behind" alludes to the historical friendship between Liu Kun and Zu Ti, both ambitious young men. When Zu Ti was promoted, he wrote to Liu Kun: "I fear you will always whip your horse ahead of mine." The speaker regrets never achieving such success in office.'
+  - key: ''
+    value: The partridge's call (鷓鴣) in Chinese poetry traditionally carries a melancholic association, yet here its endless chorus brings solace to the speaker's contentment in retirement and leisure.

@@ -1,0 +1,40 @@
+canonical:
+  title: 題水落山聖殿庵
+  author: 金時習
+  language: lzh
+  text: 山中伐木響丁丁處處幽禽弄晩晴碁罷溪翁歸去後綠陰移案讀黃庭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題水落山聖殿庵
+  author: 金時習
+  language: lzh
+  text: 山中伐木響丁丁。處處幽禽弄晩晴。碁罷溪翁歸去後。綠陰移案讀黃庭。
+korean:
+  title: 제 수락산 성전암
+  author: 김시습
+  language: kor
+  text: |-
+    산중에 나무 치는 소리가 정정한데
+    곳곳의 그윽한 새는 늦게 갠 날을 희롱한다
+    바둑을 파하고 개울 늙은이 돌아간 뒤에
+    푸른 그늘에 책상을 옮겨 놓고 황정을 읽네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0650&viewSync=OT
+  footnotes: []
+english:
+  title: On the Hermitage of Sungjon Temple at Surak Mountain
+  author: Kim Siseup
+  language: eng
+  text: |-
+    In the mountains, the sound of woodcutting rings out—ting, ting.
+    Every hollow harbors shy birds playing in the late-clearing sky.
+    After the old fisherman by the stream has finished his game
+    and gone his way, I move my desk into the green shade
+    and read the Yellow Court Classic.
+  footnotes:
+  - key: ''
+    value: The 'Yellow Court Classic' (Huangting jing) is a Daoist text on inner cultivation, suggesting the speaker's spiritual pursuits in this mountain retreat.
+  - key: ''
+    value: The 'old fisherman' likely represents a fellow recluse or hermit, a common figure in East Asian poetry symbolizing the simple life in nature.
+  - key: ''
+    value: The progression from external sounds (woodcutting, birdsong) to internal quietude (reading in green shade) traces a movement from the world into contemplative solitude.

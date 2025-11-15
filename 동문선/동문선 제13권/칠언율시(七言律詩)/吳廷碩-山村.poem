@@ -1,0 +1,54 @@
+canonical:
+  title: 山村
+  author: 吳廷碩
+  language: lzh
+  text: 誰適爲容飾好粧村夫未解賞孤芳可堪工部終無詠不是昌州獨有香陳后幽悲離館寂王嬙遠嫁塞天長愁煙慘霧多嬌態空使行人幾斷膓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山村
+  author: 吳廷碩
+  language: lzh
+  text: 誰適爲容飾好粧。村夫未解賞孤芳。可堪工部終無詠。不是昌州獨有香。陳后幽悲離館寂。王嬙遠嫁塞天長。愁煙慘霧多嬌態。空使行人幾斷膓。
+korean:
+  title: 산촌
+  author: 오정석
+  language: kor
+  text: |-
+    누구를 위하여 얼굴을 곱게 단장했나
+    촌사람들 고고한 미를 완상할 줄 모르거니
+    두 공부는 어찌 끝내 읊지 않았던가
+    창주만이 유독 향기 있는 것 아닌 것을
+    쓸쓸한 별궁에 구슬피 갇혀 있는 진후인가
+    가없는 변방으로 멀리 출가하는 왕소군인가
+    근심어린 내와 처량한 안개 속에도 교태가 많아
+    지나는 사람들 몇 번이나 애를 끊었나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두공부(杜工部) : '
+    value: 당나라 시인(詩人)  두보(杜甫)의 벼슬이 공부원외랑(工部員外郞)이었으므로, 세칭 ‘두공부’라 하였다. 시(詩)에 온갖 화목(花木)을 읊었으나 집중(集中)에 해당시(海棠詩)만이 없다.
+  - key: '[주-D002] 창주(昌州)만이 유독 …… 아닌 것을 : '
+    value: 해당화(海棠花)가 향기가 없는데, 오직 창주(昌州)의 해당화는 향기가 있다 한다.
+  - key: '[주-D003] 쓸쓸한 별궁(別宮)에 …… 진후(陳后)인가 : '
+    value: 한 무제(漢武帝)의 비(妃) 진황후인데, 무제의 사랑을 잃어 장문궁(長門宮)에 별거하였다.
+english:
+  title: Mountain Village
+  author: Wu Jeong-seok
+  language: eng
+  text: |-
+    Who adorns their face so fair for?
+    The rustic folk cannot fathom such rare beauty.
+    Why did Du Fu never compose its praise?
+    Not Chang Province alone holds fragrance sweet.
+
+    Is it Chen Hou, languishing lonely in her distant palace,
+    Or Wang Xifei, wedded far to the borderlands?
+    In sorrowful mist and melancholy haze, such grace abounds—
+    How many hearts of passing travelers does it break?
+  footnotes:
+  - key: ''
+    value: Du Fu (712-770), the celebrated Tang poet, served as Waiwang of the Ministry of Works (工部員外郞), hence known as 'Du Gongbu.' Though he wrote verses on countless flowers and trees, notably absent from his collected works is a poem on the crabapple.
+  - key: ''
+    value: The crabapple typically lacks fragrance, but legend holds that those blooming in Chang Province possess a rare scent.
+  - key: ''
+    value: Chen Hou was consort to Emperor Wu of Han, who later confined her to the Palace of Long Gates after his affections waned. Wang Xifei refers to Wang Zhaojun, who was sent to marry a Xiongnu ruler, a symbol of sacrifice and distant sorrow.

@@ -1,0 +1,55 @@
+canonical:
+  title: 鳳臺曲 昭帝上官后
+  author: 金宗直
+  language: lzh
+  text: 秦女儷簫史日夕吹參差崇臺遺鏡匳巾袖雲披披暮伴鳳凰宿朝侶鳳凰嬉天地以永久那識人間悲妾泪不可忍此生長別離
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鳳臺曲 昭帝上官后
+  author: 金宗直
+  language: lzh
+  text: 秦女儷簫史。日夕吹參差。崇臺遺鏡匳。巾袖雲披披。暮伴鳳凰宿。朝侶鳳凰嬉。天地以永久。那識人間悲。妾泪不可忍。此生長別離。
+korean:
+  title: 봉대곡 소제 상관후
+  author: 김종직
+  language: kor
+  text: |-
+    진나라 아가씨가 소사를 짝하여
+    날마다 밤마다 피리를 불더니
+    높은 대에 거울과 빗접을 남기고
+    수건과 소매에 구름이 너훌너훌
+    저녁엔 봉황을 짝하여 자고
+    아침엔 봉황과 어울려 노네
+    천지가 다하도록 길이 살랴만
+    인간의 설움을 어찌 알았으리
+    내 눈물 어찌 참으리
+    이 평생의 이별을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소제상관후(昭帝上官后) : '
+    value: 한(漢)나라 소제(昭帝)의 상관황후(上官皇后)는 그의 할아버지 상관걸(上官桀)과 아버지 안(安)이 국가에 죄를 짓고 죽었으나 황후는 곽광(霍光)의 외손녀이므로 그대로 황후로 있었다. 여기서는 소제(昭帝)가 죽어서 과부가 된 서름을 읊은 것인 듯하다.
+english:
+  title: 'Phoenix Tower Song: The Empress Shanguan of Emperor Zhao'
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    A maiden of Qin, paired with Xiao Shi at the pipes,
+    Day and night she played their melodies entwined.
+    Upon the towering terrace left behind—a mirror, a comb—
+    While clouds drift gently through her kerchief and sleeves.
+
+    At dusk she rested beside the phoenix,
+    At dawn she frolicked with the phoenix's grace.
+    Though Heaven and Earth endure eternally,
+    How could such as I perceive the sorrow of this world?
+
+    These tears of mine cannot be contained—
+    A lifetime's parting, endless and complete.
+  footnotes:
+  - key: ''
+    value: 'Xiao Shi: A legendary figure known for his mastery of the bamboo pipe; here symbolizing romantic companionship.'
+  - key: ''
+    value: The poem alludes to Empress Shanguan of Emperor Zhao (of the Han Dynasty), who, despite her family's disgrace, remained empress through her connection to the powerful Huo Guang. The work explores her loneliness after Emperor Zhao's death, her transition from imperial companion to widow.
+  - key: ''
+    value: The phoenix imagery suggests both imperial status and the transience of such fortune; the pairing with the phoenix represents her former position and happiness now lost.

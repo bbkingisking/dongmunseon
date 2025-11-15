@@ -1,0 +1,41 @@
+canonical:
+  title: 雪
+  author: 徐居正
+  language: lzh
+  text: 禪家初喜皎然至詩壘還逢白也來羞作顚狂春後絮相從淡薄臈前梅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雪
+  author: 徐居正
+  language: lzh
+  text: 禪家初喜皎然至。詩壘還逢白也來。羞作顚狂春後絮。相從淡薄臈前梅。
+korean:
+  title: 설
+  author: 서거정
+  language: kor
+  text: |-
+    선가에서는 처음으로 교연이 이른 것을 기뻐하는데
+    시루에서는 도리어 백야 온 것을 만났다
+    봄 뒤에 미처 날뛰는 버들개지 되기 부끄러워
+    담박한 눈앞의 매화를 좇았노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 교연(皎然) : '
+    value: 당나라 때 시 잘하는 중이었다. 여기서는 그 이름의 교(皎)라는 뜻 있는 글자를 이용하여 환하게 왔다는 재치를 보인 것이다.
+  - key: '[주-D002] 백야(白也) : '
+    value: 백야(白也)라는 말은 이백(李白)인데 과장된 말이다. 역시 눈[雪]의 흰 것을 재치 있게 표현한 것이다.
+english:
+  title: Snow
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The monks rejoice when Jiaoran arrives at last—
+    yet in my verse, I meet with Li Bai come again.
+    Shamed to become the wild catkins of spring's wake,
+    I follow instead the subtle plum blossoms before me.
+  footnotes:
+  - key: ''
+    value: Jiaoran (皎然) was a Tang Dynasty Buddhist monk renowned for his poetry. The poet plays on the character 皎 (bright, luminous) to suggest snow's dazzling arrival.
+  - key: ''
+    value: Li Bai (李白) is invoked here as a poetic reference to whiteness itself, the snow's brilliant presence rendered through classical allusion.

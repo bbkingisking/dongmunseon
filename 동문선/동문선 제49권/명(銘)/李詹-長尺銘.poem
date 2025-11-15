@@ -1,0 +1,33 @@
+canonical:
+  title: 長尺銘
+  author: 李詹
+  language: lzh
+  text: 惟爾之平我以爲兄惟尒之直我以爲德平直其物人而何屈詧物反躬天地其同
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長尺銘
+  author: 李詹
+  language: lzh
+  text: 惟爾之平。我以爲兄。惟尒之直。我以爲德。平直其物。人而何屈。詧物反躬。天地其同。
+korean:
+  title: 장척 명
+  author: 이첨
+  language: kor
+  text: 너의 편명함이여, 내가 형을 삼는다. 너의 곧은 것은 내가 본받아서 덕을 삼는다. 물건도 편평하고 곧은데 사람으로서 어찌 굽힐 것인가. 물건을 보고 내 몸에 반성하면 덕이 천지나 같으리라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0310&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on a Ruler
+  author: Lee Cham
+  language: eng
+  text: |-
+    Your evenness, I take as my elder brother.
+    Your straightness, I make my virtue.
+    When things are level and true,
+    How could a person bend?
+    When I observe the thing and turn inward,
+    My virtue aligns with heaven and earth.
+  footnotes:
+  - key: ''
+    value: The 'ruler' (尺) referenced in the title is not merely a measuring instrument but a symbol of moral rectitude and cosmic order, invoking both practical straightness and spiritual alignment.

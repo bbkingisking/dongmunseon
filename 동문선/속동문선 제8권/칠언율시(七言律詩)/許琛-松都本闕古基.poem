@@ -1,0 +1,65 @@
+canonical:
+  title: 松都本闕古基
+  author: 許琛
+  language: lzh
+  text: 操鷄搏鴨已雄飛一炬秦宮舊業微天下董公元自健輦前嵆紹竟何歸假威不恤窺神器蹈尾方知觸駭機未待百年悲麥秀君王當日亦霑衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 松都本闕古基
+  author: 許琛
+  language: lzh
+  text: 操鷄搏鴨已雄飛。一炬秦宮舊業微。天下董公元自健。輦前嵆紹竟何歸。假威不恤窺神器。蹈尾方知觸駭機。未待百年悲麥秀。君王當日亦霑衣。
+korean:
+  title: 송도 본궐 고기
+  author: 허침
+  language: kor
+  text: |-
+    닭을 잡고 오리를 쳐서 이미 웅비하였거니
+    진나라 궁궐이 한 번 불붙으매 옛 공업이 쇠미하다
+    천하에 동공은 원래 스스로 건장하거니
+    연 앞의 혜소는 마침내 어디로 돌아갔노
+    〈여우가 범의〉 위엄을 빌어 신기를 엿보다가
+    꼬리를 밟고야 비로소 해기에 부딪침을 알았다
+    백 년 뒤 맥수를 슬퍼하길 기다릴 것 없이
+    당일에 이미 군왕의 눈물이 옷을 적셨었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 닭을 …… 쳐서 : '
+    value: 고려 태조가 계림(鷄林 신라)을 얻고 압록강 이 쪽을 차지한 것을 말한다.
+  - key: '[주-D002] 진(秦)나라 …… 불붙으매 : '
+    value: 진나라가 망할 때에 항우(項羽)가 궁궐을 불태웠다.
+  - key: '[주-D003] 천하에 …… 건장하거니 : '
+    value: 한(漢)나라 동탁(董卓)이 임금을 폐(廢)하고 새 임금을 세우려고 조정에 의논하니, 원소(袁紹)가 성을 내며, “천하에 건장한 자[健者]가 어찌 동공(董公)뿐이냐.” 하였다. 여기서는 우왕(禑王)을 폐한 일을 말한 것이다.
+  - key: '[주-D004] 연(輦) 앞의 혜소(嵇紹) : '
+    value: 진(晋)나라 혜제(惠帝)의 군사가 탕음(蕩陰)에서 패하였는데, 시중(侍中)  혜소(嵇紹)가 임금을 호위하다가 연(輦 임금의 수레) 앞에서 맞아 죽었다.
+  - key: '[주-D005] 〈여우가 범의〉 위엄을 …… 엿보다가 : '
+    value: 이것은 우왕(禑王)이 공민왕(恭愍王)의 참 아들이 아니면서 임금의 자리[神器]를 엿보았다는 말이다.
+  - key: '[주-D006] 꼬리를 …… 부딪침 : '
+    value: 범의 꼬리를 밟다가 위태로움을 당하였다는 말이다.
+  - key: '[주-D007] 백년 뒤 …… 기다릴 것 없이 : '
+    value: 기자(箕子)가 은(殷)나라의 망한 터를 지나다가 옛 궁궐 터에 보리가 자라난 것을 보고 맥수가(麥秀歌)를 지어 슬퍼하였다.
+  - key: '[주-D008] 당일에 이미 …… 적셨었다 : '
+    value: 우왕(禑王)이 울면서 최영을 내보내었다.
+english:
+  title: On the Ruined Foundation of Songdo Palace
+  author: Heo Chim
+  language: eng
+  text: |-
+    The rooster seized, the duck struck down—already soaring high in dominion.
+    One torch set to the Qin palace, and ancient glory turns to dust.
+    Dong Zhuo held the empire, thinking himself strong by nature's design,
+    Yet before the imperial carriage, Xi Shao fell—where did his loyalty lead?
+    Borrowing the tiger's majesty to glimpse the throne's sacred vessel,
+    Only by treading upon its tail did he learn to fear the snare.
+    Why wait a hundred years to weep like Ki Zi for barley on the ruins?
+    That very day, the king's tears already drenched his royal robes.
+  footnotes:
+  - key: ''
+    value: The opening alludes to Taejo of Goryeo's unification of the peninsula, seizing both Silla (the 'Chicken Forest') and territory west of the Yalu River.
+  - key: ''
+    value: The reference to the Qin palace recalls how Xiang Yu burned it during the dynasty's fall—a classical image of imperial destruction.
+  - key: ''
+    value: Xi Shao's death before the imperial carriage recalls the loyal minister's sacrifice during the Jin dynasty, foreshadowing the fate of those who serve unstable crowns.
+  - key: ''
+    value: The poem's final image invokes Ki Zi's lament upon seeing barley growing on the ruins of the Shang dynasty—a meditation on how kingdoms fall not only in hindsight, but are already mourned by their own rulers in the moment of decline.

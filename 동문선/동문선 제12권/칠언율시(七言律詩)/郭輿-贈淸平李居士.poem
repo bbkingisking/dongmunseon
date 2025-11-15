@@ -1,0 +1,49 @@
+canonical:
+  title: 贈淸平李居士
+  author: 郭輿
+  language: lzh
+  text: 淸平山水冠東濱邂逅相逢見故人三十年前同擢第一千里外各栖身浮雲入洞曾無累明月當溪不染塵擊目忘言良久處淡然相照舊精神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈淸平李居士
+  author: 郭輿
+  language: lzh
+  text: 淸平山水冠東濱。邂逅相逢見故人。三十年前同擢第。一千里外各栖身。浮雲入洞曾無累。明月當溪不染塵。擊目忘言良久處。淡然相照舊精神。
+korean:
+  title: 증 청평 이거사
+  author: 곽여
+  language: kor
+  text: |-
+    청평의 산수가 해동에도 으뜸인데
+    예서 뜻밖에 고인을 만났네그려
+    30년 전에 같이 급제한 우리
+    천 리 밖에 각기 나뉘어 살았네
+    흰 구름 골에 드니 더러움이란 없고
+    밝은 달이 시내를 비치니 티끌이란 있을쏘냐
+    목격하고 말을 잊고 한참 앉았노라니
+    담연히 서로 비치는 두 사람의 옛 정신
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0680&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청평(淸平) : '
+    value: 춘천(春川) 북쪽에 있는 청평산. 경운산(慶雲山)이다.
+  - key: '[주-D002] 이거사(李居士) : '
+    value: 이자현(李資玄)은 자연(子淵)의 손자이다. 고려 선종(宣宗) 때 벼슬을 버리고 청평산에 문수원(文殊院)을 짓고 그 안에서 선(禪)을 하였다. 동년(同年)곽여(郭輿)가 관동(關東)에 안찰사(按察使)로 가서 그를 찾아가 이 시를 주었다.
+english:
+  title: A Gift to Master Lee of Cheongpyeong
+  author: Gwak Yeo
+  language: eng
+  text: |-
+    Cheongpyeong's mountains and waters reign supreme in the eastern lands,
+    Where by fortune's grace I encountered an old friend once more.
+    Thirty years since we both passed the examination together,
+    Yet a thousand leagues kept us dwelling each in separate places.
+    White clouds drift into the valley—there is no defilement,
+    The bright moon shines on the stream—where could dust adhere?
+    We sat in silence, words forgotten, for a long while,
+    And in that faint clarity, our ancient spirits met again.
+  footnotes:
+  - key: ''
+    value: Cheongpyeong refers to Cheongpyeong Mountain (also known as Gyeongungsan) near Chuncheon, located in present-day Korea.
+  - key: ''
+    value: Master Lee (李居士) is Li Jahyeon, who abandoned his official post during the Goryeo dynasty and built a Buddhist temple on Cheongpyeong Mountain to practice meditation. The poet Gwak Yeo, serving as an inspector in the eastern region, sought him out and presented this poem.

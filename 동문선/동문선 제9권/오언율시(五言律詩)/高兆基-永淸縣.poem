@@ -1,0 +1,46 @@
+canonical:
+  title: 永淸縣
+  author: 高兆基
+  language: lzh
+  text: 路橫層岫僻城倚半天孤碧洞長虛寂行雲忽有無古松能自籟春鳥巧相呼物像馴吟賞留連倒酒壺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永淸縣
+  author: 高兆基
+  language: lzh
+  text: 路橫層岫僻。城倚半天孤。碧洞長虛寂。行雲忽有無。古松能自籟。春鳥巧相呼。物像馴吟賞。留連倒酒壺。
+korean:
+  title: 영청현
+  author: 고조기
+  language: kor
+  text: |-
+    층층 솟은 산봉에 옆으로 난 길
+    우뚝 공중에 의지한 외로운 성
+    푸른 골 안은 늘 텅 비어 적막한데
+    가는 구름은 문득 있었다 없었다
+    늙은 솔은 솨솨 절로 소리내고
+    봄 새는 짹짹 듣기 좋게 마주 우네
+    온갖 경치가 시흥을 자아내기 알맞으니
+    며칠째 묵어가면서 술병을 기울일 수밖에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: Yongqing County
+  author: Ko Cho-gi
+  language: eng
+  text: |-
+    A path winds through the layered peaks,
+    The lonely fortress leans upon the void of sky.
+    The green gorge lies perpetually empty and still—
+    Thin clouds drift, now present, now vanished.
+
+    Ancient pines make their own whispered song,
+    Spring birds call to each other in gentle chorus.
+    All the landscape conspires to stir the poet's heart,
+    And lingering here, I can only tip the wine cup again.
+  footnotes:
+  - key: ''
+    value: The 'fortress' (城) likely refers to Yongqing County itself, perched precariously in the mountains, creating a sense of isolation and transcendence.
+  - key: ''
+    value: The motif of wine-tipping (倒酒壺) at the end suggests the speaker's surrender to the contemplative beauty of the place, a common trope in East Asian poetry expressing both melancholy and spiritual contentment.

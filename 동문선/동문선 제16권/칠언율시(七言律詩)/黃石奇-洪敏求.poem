@@ -1,0 +1,72 @@
+canonical:
+  title: 洪敏求
+  author: 黃石奇
+  language: lzh
+  text: 好賢明主幸崇文君出儒宗積善門十世祖文憲公崔沖九世祖文和公崔惟善敎人稱爲儒宗皆位至中書令 養老心爲洪佛子洪皓宣和中籍有粟者活九萬五千人公出無不以手加額呼佛子晚年乞歸鄕郡養老母上曰卿志不忘君豈可舍朕去 捷科榮迫魏公孫魏公孫景茂射策甲科遷大常博土時稱書庫豈同荆璞經三獻只効周詩蔽一言况復遭逢參選擧却勝韓愈遇貞元
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 洪敏求
+  author: 黃石奇
+  language: lzh
+  text: |-
+    好賢明主幸崇文。君出儒宗積善門。十世祖文憲公崔沖。九世祖文和公崔惟善敎人。稱爲儒宗。皆位至中書令。 養老心爲洪佛子。洪皓宣和中。籍有粟者。活九萬五千人。公出。無不以手加額呼佛子。晚年乞歸鄕郡養老母。上曰。卿志不忘君。豈可舍朕去。 捷科榮迫魏公孫。魏公孫景茂射策甲科。遷大常博土。時稱書庫。
+    豈同荆璞經三獻。只効周詩蔽一言。况復遭逢參選擧。却勝韓愈遇貞元。
+korean:
+  title: 우곡 정자후의 시를 차운하여 홍민구
+  author: 황석기
+  language: kor
+  text: |-
+    어진이를 좋아하시는 임금이 글도 또한 숭상할 제
+    그대가 유종의 적선 가문서 나왔구나
+    그의 외가 10대조 문헌공 최충과 9대조 문화공 최유선이 사람을 잘 가르쳐 유종으로 일컬어졌고 다 벼슬이 중서령에 이르렀다.
+    노모를 봉양할 마음은 홍불자와 같고
+    송나라 선화 연간에 홍호가 쌀을 풀어 9만 5천 사람을 살리매 나갈 때마다 사람들이 손을 이마에 얹으며 불자라고 불렀다. 만년에, 그가 고향으로 돌아가 어머니를 봉양하기를 청하니, 임금이 말하되, “경의 뜻이 임금을 잊지 않거늘 어찌 짐을 버리고 가는가.” 하였다.
+    과거에 장원한 영광은 위공의 손자 못지 않으리
+    송나라 한위공의 손자 경무가 갑과에 올라 벼슬이 태상박사에까지 오르니, 그 때의 사람들이 그를 ‘글광’이라 일렀다.
+    어찌 형산 박옥처럼 세 번까지 바치랴
+    시경의 일언이폐지를 본받았을 뿐
+    하물며 성대를 만나 고선에 참예하니
+    한유의 정원 시대 만남보다 나으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 형산(荊山) 박옥(璞玉) : '
+    value: 초(楚)나라 사람 변화(卞和)가 형산(荊山)에서 박옥(璞玉)을 얻어 여왕(厲王)에게 드리니 왕이 속인다 하여 그 왼발을 잘랐다. 무왕(武王)이 즉위하자 또 드리니 또 속인다 하여 그 오른발을 잘랐다. 문왕(文王)이 서자, 이에 박옥을 안고 형산 아래서 울거늘 왕이 사람을 시켜 물으니, 그가 말하되, “신(臣)이 발 잘린 것을 서러워함이 아니오라, 보옥을 돌이라 일컫고 곧은 선비를 속임꾼이라 하니, 그래서 서러워하노이다.” 왕이 사람을 시켜 그 박옥을 쪼개니 과연 그 속에 옥이 있었다.
+  - key: '[주-D002] 시경(詩經)의 일언이폐지 : '
+    value: 공자가 말하기를, “《시경》 3백 편을 한 말로 덮으면[一言以蔽之] ‘생각이 사특함이 없음[思無邪]’이다.” 하였다.
+  - key: '[주-D003] 정원(貞元) : '
+    value: 당(唐) 덕종(德宗) 연호.
+english:
+  title: Rhyming with Master Ukok Jung Zaihou's Poem on Hong Minqu
+  author: Hwang Seokgi
+  language: eng
+  text: |-
+    A wise and cultured sovereign loves the virtuous and exalts the written word—
+    Your lineage flows from a house of Confucian mastery and accumulated merit.
+
+    Ten generations back, your ancestor Choe Chung, the Literary Sage,
+    Nine generations back, Choe Yuseon, the Teacher of Humanity—
+    Both named Confucian masters, both rose to Minister of the Secretariat.
+
+    Your filial heart rivals Hong Zhao's devotion to his mother;
+    In the Xuanhe years, Hong Hao's grain sustained ninety-five thousand souls,
+    And the people, pressing hand to brow, called him the Bodhisattva.
+    In his twilight years, he sought to return home to tend his aging mother,
+    But the Emperor replied: "Your heart does not forget your sovereign—
+    How could you abandon me and depart?"
+
+    Your examination laurels need not bow to Wei Gongxun's descendants;
+    Wei Jingmou topped the highest degree, rose to Grand Historiographer,
+    And earned the name "Treasury of Learning" from his contemporaries.
+
+    Yet you need not thrice present your jade from Jingshan's slopes,
+    Nor merely echo the Odes' single word that covers all—
+    For you have met a flourishing age and taken part in noble selection,
+    A fortune greater than Han Yu's encounter in the Zhengyuan era.
+  footnotes:
+  - key: ''
+    value: Jingshan jade refers to the legendary story of Bian He, whose uncut jade was three times rejected by successive rulers until finally recognized by King Wen—a metaphor for virtue unrecognized.
+  - key: ''
+    value: 'The single word covering the Odes: Confucius said ''The three hundred poems of the Odes may be covered in one phrase: thoughts without crookedness.'''
+  - key: ''
+    value: The Zhengyuan era (貞元) was a period under Tang Emperor Dezong, here representing an earlier time; the poet suggests his subject's era is even more fortunate.

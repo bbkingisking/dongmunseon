@@ -1,0 +1,52 @@
+canonical:
+  title: 寄梁使君 汝恭
+  author: 鄭招
+  language: lzh
+  text: 戇也端宜世我踈天涯且喜故人書羸形有似喪家狗濡沫誰憐涸轍魚良會謾勞馳夢想窮愁唯有話樵漁金鷄何日流洪澤匹馬相從展素攄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄梁使君 汝恭
+  author: 鄭招
+  language: lzh
+  text: 戇也端宜世我踈。天涯且喜故人書。羸形有似喪家狗。濡沫誰憐涸轍魚。良會謾勞馳夢想。窮愁唯有話樵漁。金鷄何日流洪澤。匹馬相從展素攄。
+korean:
+  title: 기 양사군 여공
+  author: 정초
+  language: kor
+  text: |-
+    내 워낙 어리석어 세상과 등졌으나
+    하늘가에서 편지를 받아보니 기쁘외
+    꼬치꼬치 여윈 모양은 집 잃은 개와 비슷
+    한 방울 물로 누가 마른 수레바퀴 자국의 고기를 동정하리
+    좋은 모임은 부질없이 몽상으로나 달리고
+    궁한 신세에 말동무는 나무꾼과 고기잡이
+    어느 날에 특사로 홍은을 받자와서
+    필마로 서로 좇아 평소 회포 풀어볼까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사군(使君) : '
+    value: 어사(御使)나 지방장관의 존칭을 말한다.
+  - key: '[주-D002] 꼬치꼬치 …… 비슷 : '
+    value: 공자가 정(鄭)나라에 가서 혼자 성(城) 동문에 서있는데 어떤 사람이 자공(子貢)에게 말하기를, “동문에 어떤 사람이 어릿어릿 집 잃은 개 같더라.” 하였다.
+  - key: '[주-D003] 한 방울 …… 고기 : '
+    value: 《장자》 〈외물(外物)〉 편에 나오는 말로, 수렛바퀴 자국에 괸 물에 있는 붕어처럼 곤경에 처하여 애타게 구원을 기다리는 사람을 비유함.
+english:
+  title: To Liang Prefect Yu Gong
+  author: Jung Cho
+  language: eng
+  text: |-
+    Stubborn and foolish, I have withdrawn from the world,
+    Yet joy arrives with a letter from across the sky.
+    My emaciated frame resembles a homeless dog,
+    Who will pity the fish in the dry rut, gasping for a drop of water?
+
+    Fine gatherings fade into empty dreams and longing,
+    In poverty's grip, my only companions are the woodcutter and fisherman.
+    When will the imperial mandate bring me to the great estate?
+    Then on horseback we shall ride together, at last unfolding what dwells in the heart.
+  footnotes:
+  - key: ''
+    value: The 'homeless dog' alludes to Confucius standing alone at the eastern gate of Zheng, described by onlookers as resembling a stray dog without a home.
+  - key: ''
+    value: The 'fish in the dry rut' references the Zhuangzi and represents one in dire straits desperately awaiting salvation—here, the poet's hope for deliverance through his friend's intervention.

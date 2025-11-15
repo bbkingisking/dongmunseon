@@ -1,0 +1,47 @@
+canonical:
+  title: 永明寺浮碧樓
+  author: 邢君紹
+  language: lzh
+  text: 江樓孤笛動龍眠醉裏風流白日仙遠岫似雲雲似岫長天浮水水浮天兩崖出沒高低岸萬派朝宗巨細川一葉扁舟何處客茫茫獨去夕陽邊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永明寺浮碧樓
+  author: 邢君紹
+  language: lzh
+  text: 江樓孤笛動龍眠。醉裏風流白日仙。遠岫似雲雲似岫。長天浮水水浮天。兩崖出沒高低岸。萬派朝宗巨細川。一葉扁舟何處客。茫茫獨去夕陽邊。
+korean:
+  title: 영명사 부벽루
+  author: 형군소
+  language: kor
+  text: |-
+    강 다락의 외로운 젓대가 용의 잠을 깨우는데
+    취중의 풍류가 백일의 신선이로세
+    먼 봉이 구름인 양, 구름이 봉인 양
+    긴 하늘이 물에 둥실, 물은 하늘에 둥실
+    두 벼랑에 들락날락 높고 낮은 언덕
+    만 갈래로 모여드네, 크고 작은 냇물이
+    어디로 가는 일엽 편주의 손이
+    아득히 석양 가로 혼자 가고 있나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: The Floating Green Tower at Yongmyeong Temple
+  author: Xing Junshao
+  language: eng
+  text: |-
+    A solitary flute from the riverside tower stirs the dragon's sleep,
+    In drunken reverie, a man becomes a immortal under the daylight.
+    Distant peaks wear the face of clouds, clouds wear the face of peaks—
+    The vast heaven floats upon the water, water floats upon the heaven.
+    Two cliffs rise and fall with highs and lows of shifting earth,
+    Ten thousand tributaries converge, great and small streams gathering,
+    A single leaf—a boat—what wanderer guides it there?
+    It drifts alone toward the fading sun through the boundless mist.
+  footnotes:
+  - key: ''
+    value: The 'dragon' may allude to a water dragon, as the flute's sound awakens the spirit of the river itself
+  - key: ''
+    value: The paradoxical imagery of peaks and clouds exchanging places reflects the Buddhist concept of the illusory nature of phenomenal distinctions
+  - key: ''
+    value: '''Immortal under the daylight'' suggests a transcendent state achieved not through ascetic withdrawal but through aesthetic intoxication and poetic communion with nature'

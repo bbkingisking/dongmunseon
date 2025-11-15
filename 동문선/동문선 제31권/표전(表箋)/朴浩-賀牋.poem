@@ -1,0 +1,36 @@
+canonical:
+  title: 賀牋
+  author: 朴浩
+  language: lzh
+  text: 瑤源啓茂王格降眞曁商曆之開元復高禖之演慶中賀 伏惟王太子性資聦睿志禀寬仁前曜涵祥奉丹霄而久照東朝紀號闢靑牓以長懸俯臨誕節之還益保儲闈之祉臣阻陪講席逖擁征旄拘虎帳以戒虞有同於守兔望龍樓而寄抃但効於歡鼇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀牋
+  author: 朴浩
+  language: lzh
+  text: 瑤源啓茂。王格降眞。曁商曆之開元。復高禖之演慶。中賀。 伏惟王太子。性資聦睿。志禀寬仁。前曜涵祥。奉丹霄而久照。東朝紀號。闢靑牓以長懸。俯臨誕節之還。益保儲闈之祉。臣阻陪講席。逖擁征旄。拘虎帳以戒虞。有同於守兔。望龍樓而寄抃。但効於歡鼇。
+korean:
+  title: 하례하는 전
+  author: 박호
+  language: kor
+  text: 선원(璿源 왕실의 보계[譜系]이 더욱 무성하시어 왕사(王嗣)가 탄강하셨으니, 은력(殷曆)의 정월(12월)을 맞아 고매(高禖)의 축복을 다시금 경하(慶賀)하나이다. 중하(中賀) 엎드려 생각건대, 왕태자께서 천차(天資)가 총명하시고 성질이 관인(寬仁)하시니, 전요(前曜 태자성(太子星))가 상서를 나타내어 단소(丹霄)를 받들어 오래 비치고, 동조(東朝)에 위호(位號)를 기록하여 청방(靑榜)에 길이 걸었으니, 이제 탄강하신 가절(佳節)을 만나 저궁(儲宮)에 복이 더욱 보존되리이다. 신이 강석(講席)을 떠나 멀리 군문(軍門)에 와 있사오니, 호장(虎帳)에 구한(拘限)되어 비상사태를 경계함은 아예 토끼를 지킴[守兎] 같으나, 용루(龍樓)를 바라보며 춤추는 마음은 다만 은택에 감사하여 떠받드는[鼇戴] 기쁨을 다할 뿐입니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 토끼를 지킴[守兎] : '
+    value: 토끼가 들에 달려가다가 우연히 말뚝을 받고 죽는 것을 보고 어리석은 사람이 매일 그 말뚝만 지키고 토끼를 기다렸다는 옛 말이 있는데, 여기서는 임지(任地)를 그대로 지키는 것을 말하였다.
+english:
+  title: Congratulatory Dispatch
+  author: Park Ho
+  language: eng
+  text: |-
+    The jade springs of the royal lineage bloom ever more luxuriant. The mandate of kings descends in truth. At this turning of the calendar's first month, we celebrate anew the blessings of High Matchmaking.
+
+    In this central felicitation, I humbly reflect: Your Highness the Crown Prince possesses brilliance by nature and benevolence by temperament. The former star shines with auspiciousness, illuminating the crimson heavens with enduring light. The Eastern Palace records your noble title, inscribed upon the blue placard for all time. Now as we observe this auspicious day of your birth, the Treasury of the Heir grows ever more blessed.
+
+    Your servant stands distant from the lecture hall, posted far at the military gate, confined within the tiger's pavilion, vigilant against calamity—much like one guarding an empty post, waiting for fortune by mere chance. Yet gazing toward the dragon tower, I dance with joy, my heart overflowing with gratitude for the heavens' favor, bearing up the grace like the great tortoise bears the world.
+  footnotes:
+  - key: ''
+    value: The 'tiger's pavilion' and 'guarding an empty post' are classical allusions to one bound by duty at a distant post, remaining watchful though separated from the court.
+  - key: ''
+    value: The 'dragon tower' and 'great tortoise bearing grace' are traditional symbols of the imperial household and celestial benediction.

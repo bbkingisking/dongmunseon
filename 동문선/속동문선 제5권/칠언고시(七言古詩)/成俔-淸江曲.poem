@@ -1,0 +1,50 @@
+canonical:
+  title: 淸江曲
+  author: 成俔
+  language: lzh
+  text: 扁舟冒雨穿蒼靄菰葉蘆化擁灘瀨靑裙抱兒坐蓬窓鶴髮撤網車輪大一生烟水作爲隣功名脫屣浮雲外相邀同伴開酒缸旋芼椒蓼斫秋膾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淸江曲
+  author: 成俔
+  language: lzh
+  text: 扁舟冒雨穿蒼靄。菰葉蘆化擁灘瀨。靑裙抱兒坐蓬窓。鶴髮撤網車輪大。一生烟水作爲隣。功名脫屣浮雲外。相邀同伴開酒缸。旋芼椒蓼斫秋膾。
+korean:
+  title: 청강곡
+  author: 성현
+  language: kor
+  text: |-
+    편주로 비를 무릅쓰고 푸른 안개를 뚫어 가니
+    고미 잎, 갈꽃이 여울가에 둘러 섰네
+    여인은 애를 안고 배 안에 앉아 있고
+    노인은 수레바퀴만한 그물을 걷네
+    일생에 안개와 물을 이웃 삼아
+    공명을 뜬구름, 헌신짝처럼
+    친구들을 동반하여 술 항아리 열어 놓고
+    여뀌ㆍ후추 양념하여 가을 회를 저미네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: Song of the Clear River
+  author: Seong Hyeon
+  language: eng
+  text: |-
+    A small boat pushes through the rain, piercing the blue mist—
+    Arrowroot leaves and reed flowers crowd the shallows.
+    A woman holds her child, sitting in the boat's cabin,
+    While an old man gathers nets large as wagon wheels.
+
+    A lifetime spent with mist and water as companions,
+    I cast off glory and fame like worn-out slippers,
+    Light as clouds that drift beyond the world.
+    With friends beside me, I open the wine jar,
+    Seasoning the autumn catch with pepper and smartweed—
+    Slicing raw fish for our evening feast.
+  footnotes:
+  - key: ''
+    value: The poem presents a portrait of humble river life, celebrating simplicity and withdrawal from worldly ambition. The imagery contrasts the fisherman's contentment with conventional notions of success.
+  - key: ''
+    value: '''Worn-out slippers'' (脫屣) references a famous Chinese idiom about renouncing worldly concerns, here applied to the poet''s philosophy of detachment.'
+  - key: ''
+    value: The final domestic scene—preparing food with friends—elevates ordinary life to a moment of genuine joy and communion.

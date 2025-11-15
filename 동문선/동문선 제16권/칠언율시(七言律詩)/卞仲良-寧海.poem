@@ -1,0 +1,45 @@
+canonical:
+  title: 寧海
+  author: 卞仲良
+  language: lzh
+  text: 二月江城霽景遅芳洲散策動春思少年流落傷豪氣半日娛歡遇舊知梅柳開時難把酒樓臺多處謾題詩京華北望幾千里每賦苽亭獨自悲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寧海
+  author: 卞仲良
+  language: lzh
+  text: 二月江城霽景遅。芳洲散策動春思。少年流落傷豪氣。半日娛歡遇舊知。梅柳開時難把酒。樓臺多處謾題詩。京華北望幾千里。每賦苽亭獨自悲。
+korean:
+  title: 영해
+  author: 변중량
+  language: kor
+  text: |-
+    2월 강성에 비도 채 안 갰는데
+    강가에 산책하니 봄 생각이 동하누나
+    젊어선 돌아다니다며 호기에 상했지
+    반나절을 흥청거리며 친구 만나 즐기네
+    매화ㆍ버들 철에 술 들기도 어렵것다
+    누대 많은 곳에 시 어이 아니 쓰리
+    북쪽 서울 바라보니 길이 몇 천 리인고
+    정과정 읊을 때마다 혼자 서러하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_1020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정과정(鄭瓜亭) : '
+    value: 고려 의종(毅宗) 때 정서(鄭敍 호 과정)가 죄없이 참소로 동래(東萊)에 귀양가서 임금을 그리워하여 거문고를 타고 슬피 노래한 곡조. 《高麗史 樂志》
+english:
+  title: Ninghai
+  author: Byeon Jungryang
+  language: eng
+  text: |-
+    February rain lingers over the river city's clearing light.
+    Walking the fragrant banks, spring thoughts stir within my heart.
+    In youth I wandered far and lost that youthful fire.
+    Half a day of revelry—fortunate to meet an old friend.
+    When plum and willow bloom, it's hard to raise a cup.
+    In places thick with towers, how can one not compose verse?
+    Turning north toward the capital, thousands of miles away—
+    Each time I hum the song of Jeong Gwajung, solitude weighs upon me.
+  footnotes:
+  - key: ''
+    value: Jeong Gwajung refers to a sorrowful melody from the Goryeo period, traditionally associated with the minister Jeong Seo (pen name Gwajung) who was unjustly exiled to Dongnae and composed melancholic music longing for his king—here used as a symbol of displacement and yearning.

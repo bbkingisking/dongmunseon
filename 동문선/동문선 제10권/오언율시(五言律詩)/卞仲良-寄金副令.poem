@@ -1,0 +1,46 @@
+canonical:
+  title: 寄金副令
+  author: 卞仲良
+  language: lzh
+  text: 最憐金典校華髮卜山居睡枕松聲落吟窓竹影踈巖耕春種豆水宿夜又魚盛代求賢急行當見鶴書
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄金副令
+  author: 卞仲良
+  language: lzh
+  text: 最憐金典校。華髮卜山居。睡枕松聲落。吟窓竹影踈。巖耕春種豆。水宿夜又魚。盛代求賢急。行當見鶴書。
+korean:
+  title: 기 김부령
+  author: 변중량
+  language: kor
+  text: |-
+    가장 어여쁘도다 김 전교는
+    백발이 되어 산에 가 사네
+    자는 베개에는 소나무 소리가 떨어지고
+    읊조리는 창가에는 대 그림자가 성기리라
+    돌밭을 갈아 봄에 콩을 심고
+    물가에 자며 밤에 고기를 낚으리
+    성대에 현인 구함이 급하니
+    장차 마땅히 조서 받들지로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0490&viewSync=OT
+  footnotes: []
+english:
+  title: To Kim, the Vice-Administrator
+  author: Byeon Joong-ryang
+  language: eng
+  text: |-
+    How lovely is Kim, the exemplary scholar—
+    With silver hair he seeks the mountains' peace.
+    Upon his sleeping pillow, pine needles fall,
+    And by his window where he hums, bamboo shadows grow sparse.
+
+    He tills the rocky fields to plant spring beans,
+    And sleeps by waters, fishing through the night.
+    Yet in this prosperous age, sage-seekers press urgent calls—
+    Soon the royal summons will surely arrive.
+  footnotes:
+  - key: ''
+    value: Kim is the recipient of this poem, bearing the title of Vice-Administrator (부령). The poem reflects the tension between the virtuous man's desire for rural retirement and the state's need for capable officials.
+  - key: ''
+    value: The 'royal summons' or 'crane letter' (조서/鶴書) refers to an official imperial decree calling someone to service, symbolized by the crane, a bird of auspicious meaning in East Asian tradition.

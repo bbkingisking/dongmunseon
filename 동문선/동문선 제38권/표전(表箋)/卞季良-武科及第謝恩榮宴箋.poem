@@ -1,0 +1,40 @@
+canonical:
+  title: 武科及第謝恩榮宴箋
+  author: 卞季良
+  language: lzh
+  text: 聖明在上求士無方臣子承恩撫躬知感怳心顔而交怍揆涯分而何堪竊念學止記名資非超乘未甞曉縱橫之略祗自速㤼懶之譏豈意捷科而霑錫宴玉壺御醞暖浮千里之春紗帽宮花香浥九天之露沉酣薰骨顧眄生輝玆盖伏遇主上殿下大度包荒至仁存下故將駑鈍獲荷鴻私臣謹當獻計騁謀思効漢臣之心腹折衝敵愾願爲周士之爪牙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 武科及第謝恩榮宴箋
+  author: 卞季良
+  language: lzh
+  text: 聖明在上。求士無方。臣子承恩。撫躬知感。怳心顔而交怍。揆涯分而何堪。竊念學止記名。資非超乘。未甞曉縱橫之略。祗自速㤼懶之譏。豈意捷科。而霑錫宴。玉壺御醞。暖浮千里之春。紗帽宮花。香浥九天之露。沉酣薰骨。顧眄生輝。玆盖伏遇主上殿下。大度包荒。至仁存下。故將駑鈍。獲荷鴻私。臣謹當獻計騁謀。思効漢臣之心腹。折衝敵愾。願爲周士之爪牙。
+korean:
+  title: 무과급제하고 은영연에 사례하는 글
+  author: 변계량
+  language: kor
+  text: 성명(聖明)이 위에 계시어 사방에서 선비를 구하시자 신자(臣子)가 은혜를 받아 스스로 돌아보아 감격하여 마음과 얼굴에 부끄러움이 바뀌어 일어납니다. 분수를 헤아리매 어찌 감당이나 하겠습니까.가만히 생각해보니 학문은 성명을 기록하는데 그치고, 자질은 수레를 뛰어 타지[超乘] 못하며, 일찍이 종횡(縱橫)의 지략을 통달하지 못하고 다만 스스로 겁많고 나약하다는 기롱을 듣게 되었더니, 뜻밖에 무과(武科)에 올라 잔치를 내려 주심을 받자오니 옥항아리의 어주(御酒)는 따뜻하게 천리(千里)의 봄보다 지나치고 사모(紗帽)에 꽂은 궁화(宮花)는 향기가 구천(九天)의 이슬에 젖었나이다. 깊이 취하여 골수에 훈훈하고 돌아보매 빛이 납니다. 이것은 대개 주상전하의 큰 도량이 거친 것을 포용하고, 지극한 어지심이 아래 사람을 생각함을 만나서 노둔한 것을 가지고 큰 은혜를 받게 된 것이었습니다.신이 삼가 마땅히 계책을 드리어 한(漢)나라 신하의 심복을 본받기로 생각하고, 왕실을 위해 적을 무찌르는 주(周)나라 장사(將士)처럼 조아(爪牙)가 되기를 원하옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0410_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 수레를 뛰어 타지[超乘] : '
+    value: 뛰어서 수레에 올라 타는 것인데 용맹스럽고 날랜 것을 표현한 말이다.
+english:
+  title: A Letter of Gratitude for Advancement in the Military Examination and the Banquet of Honor
+  author: Byeon Gye-ryang
+  language: eng
+  text: |-
+    When sagacity reigns above and talent is sought from every quarter, the subject receives grace and, turning inward, feels overwhelming gratitude. Shame and honor intertwine across my face. How can I measure myself worthy of such favor?
+
+    In quiet reflection, I know my learning reaches only to inscribed names, my nature lacks the leap of the swift horse, my mind has never grasped the subtleties of strategy—I have only earned the mockery of cowardice and weakness. Yet unexpectedly, I have risen through the martial examination and been honored with this feast.
+
+    The imperial wine in jade vessels flows warm, exceeding the spring of a thousand leagues. The palace flowers adorning my cap perfume the very dew of heaven itself. Intoxicated and suffused through bone and marrow, I turn and see my reflection brightened by grace.
+
+    This comes because Your Majesty possesses such breadth as to embrace the rough, such benevolence as to cherish even the lowly. Thus even dullness and weakness receive boundless favor. I shall devote myself to offering counsel and strategy, aspiring to serve as the Han statesman served—becoming claws and fangs for the throne, ever ready to strike down the realm's enemies.
+  footnotes:
+  - key: ''
+    value: The 'leap of the swift horse' refers to an ancient metaphor for military prowess and keen agility
+  - key: ''
+    value: Reference to Han statesman/ministers suggests loyalty and tactical brilliance in service to the crown
+  - key: ''
+    value: Reference to Zhou warriors emphasizes martial service as the highest form of loyalty

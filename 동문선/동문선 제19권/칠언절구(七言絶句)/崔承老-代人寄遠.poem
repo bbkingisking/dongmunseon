@@ -1,0 +1,39 @@
+canonical:
+  title: 代人寄遠
+  author: 崔承老
+  language: lzh
+  text: 一別征車隔歲來幾勞登覩倚樓臺雖然有此相思苦不願無功便早迴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 代人寄遠
+  author: 崔承老
+  language: lzh
+  text: 一別征車隔歲來。幾勞登覩倚樓臺。雖然有此相思苦。不願無功便早迴。
+korean:
+  title: 여자가 먼 곳의 임에게 부치는 것처럼 꾸미다
+  author: 최승로
+  language: kor
+  text: |-
+    가는 수레 한 번 작별한 뒤 해가 격하였네
+    다락에 기대어 바라보고자 오르기에 몇 번이나 수고로웠나
+    상사의 괴로움 비록 이와 같을지라도
+    원하지 않네, 공 없이 빨리 돌아오는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0110&viewSync=OT
+  footnotes: []
+english:
+  title: On Behalf of One Sending Word to a Distant Beloved
+  author: Choe Seung-ro
+  language: eng
+  text: |-
+    Since the chariot departed, a year has passed in separation.
+    How many times I have climbed the tower, leaning on the rail, to gaze toward him.
+    Though my heart aches with longing,
+    I do not wish for him to return empty-handed, rushing back too soon.
+  footnotes:
+  - key: ''
+    value: This poem adopts the voice of a woman waiting for her beloved, likely a soldier or official on an expedition. The 'chariot' (征車) suggests a military or official journey.
+  - key: ''
+    value: The tower imagery conveys the classical pose of the waiting beloved—a common motif in East Asian poetry symbolizing patient devotion and the passage of time.
+  - key: ''
+    value: 'The final couplet reveals the speaker''s noble sentiment: though she suffers from separation, she prioritizes her beloved''s success and honor over her own comfort, refusing to wish for his hasty return without accomplishment.'

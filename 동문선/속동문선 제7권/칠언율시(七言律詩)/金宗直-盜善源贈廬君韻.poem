@@ -1,0 +1,52 @@
+canonical:
+  title: 盜善源贈廬君韻
+  author: 金宗直
+  language: lzh
+  text: 屢把詩書叩倚廬人多不足子贏餘何須活水勤三沐終擬長風借一噓棐几塵侵琴上鴈寒廚日照釜中魚善源眞箇吾同志故贈鞙鞙珩瑀琚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 盜善源贈廬君韻
+  author: 金宗直
+  language: lzh
+  text: 屢把詩書叩倚廬。人多不足子贏餘。何須活水勤三沐。終擬長風借一噓。棐几塵侵琴上鴈。寒廚日照釜中魚。善源眞箇吾同志。故贈鞙鞙珩瑀琚。
+korean:
+  title: 차 선원 증 노군운
+  author: 김종직
+  language: kor
+  text: |-
+    여러 번 시서를 가지고 의려를 찾았더니
+    사람들은 많이 부족했는데 자네는 넉넉했다
+    어찌 구태여 활수로 삼목을 힘쓸건가
+    마침내 먼 바람을 비기어 길게 부르짖음[一噓]을 빌리었다
+    비자나무 책상에는 티끌이 거문고 위의 기러기를 침노하고
+    찬 부엌에는 해가 솥 안의 고기를 비추었다
+    선원은 진실로 내 동지라
+    그러므로 현현한 형우거(모두 옥의 이름)를 주노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0730&viewSync=OT
+  footnotes: []
+english:
+  title: A Gift of Jade to Master Lu, on the Rhyme of Daoshan's Virtue
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Again and again I've sought the hermitage, bringing books and verse,
+    finding many empty vessels, but you—overflowing.
+    Why toil with living waters, washing thrice?
+    Instead, I borrow the long wind's single breath.
+
+    On your folding table, dust encroaches where the crane-sound rests,
+    and in your modest kitchen, sunlight illuminates the fish within.
+
+    Selfsource is truly my kindred spirit.
+    Therefore I offer these jade ornaments—
+    brilliant names of jade, each one precious.
+  footnotes:
+  - key: ''
+    value: The hermitage (廬) likely refers to the residence of the poem's recipient, Master Lu, a place of learning and cultivation.
+  - key: ''
+    value: The 'living waters' and 'three washings' evoke Confucian purification rituals, while the 'long wind's single breath' suggests a more natural, spontaneous awakening.
+  - key: ''
+    value: The crane-sound (鴈) traditionally symbolizes literary refinement in Chinese poetics.
+  - key: ''
+    value: The final line references jade ornaments whose names themselves carry virtuosity—a fitting metaphor for the gift of recognition being bestowed.

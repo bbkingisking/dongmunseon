@@ -1,0 +1,36 @@
+canonical:
+  title: 診脈圖誌
+  author: 李崇仁
+  language: lzh
+  text: 醫書未易讀醫術未易工予持此論久矣世之醫家者流讀未能句其書則曰吾於術工也者盖有之予病此輩亦久矣國家設十學科作成人材醫其一也提調官三峯鄭藝文以爲醫當切脉無差然後處方有效考諸家之說爲圖以䟽其凡爲訣以盡其曲題曰診脉圖俾予誌其下方予於醫頗甞折肱焉今此書詳而不至於繁簡而不至於略學者觀之當有得於肯綮之間矣若由是而無書不讀無術不工則在其人矣勉旃勉旃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 診脈圖誌
+  author: 李崇仁
+  language: lzh
+  text: 醫書未易讀。醫術未易工。予持此論久矣。世之醫家者流。讀未能句其書。則曰。吾於術工也者。盖有之。予病此輩亦久矣。國家設十學科。作成人材。醫其一也。提調官三峯鄭藝文以爲醫當切脉無差。然後處方有效。考諸家之說。爲圖以䟽其凡。爲訣以盡其曲。題曰診脉圖。俾予誌其下。方予於醫。頗甞折肱焉。今此書。詳而不至於繁。簡而不至於略。學者觀之。當有得於肯綮之間矣。若由是而無書不讀。無術不工。則在其人矣。勉旃勉旃。
+korean:
+  title: 진맥도 지
+  author: 이숭인
+  language: kor
+  text: 의서(醫書)는 읽기가 쉽지 않고, 의술은 공부하기가 어렵다는 논지(論旨)를 내가 가진 지가 오래되었다. 세상의 의원들이 의서의 구두(句讀)를 띄어 읽지도 못하면서 “내가 의술에 정밀하다.”고 말하는 자가 있으니, 내가 이 무리를 미워한 지 또한 오래되었다.나라에서 10학과(學科)를 설치하여 인재를 양성하게 하니, 의과가 그 중의 하나였다. 제조관(提調官)  삼봉(三峯) 정예문(鄭藝文)이 이르기를, “의원은 마땅히 진맥에 착오가 없어야 처방에 효험이 있다.” 하고, 제가(諸家)의 설을 상고하여서 그림을 만들고, 그 범례를 해석하며, 요결을 하여 그 곡절(曲折)을 극진히 하여서 진맥도(診脈圖)라 이름 짓고, 부족한 나에게 그 아래에 기록하기를 명하니, 내가 의학에 꽤 많은 연구가 있었다.이제 이 책은 상세하고 번잡하지 않으며 간요하고도 소략하지 않으니, 배우는 자는 읽어보면, 응당 긴요한 것을 얻을 수 있을 것이다. 이로 말미암아 읽지 않은 글이 없게 되며, 정교하지 않은 의술이 없게 되는 것은 그 사람에 달려 있으니, 힘쓰고 힘쓸지어다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1080_030_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Preface to the Pulse Diagnosis Illustrated
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Medical texts are not easy to read, nor is the art of medicine simple to master—this conviction I have held for long. Among physicians of our time, there are those who cannot even properly parse the sentences of medical writings, yet claim, "I have perfected the medical art." I have despised such charlatans for many years.
+
+    Our nation has established ten schools of learning to cultivate talent, with medicine being one among them. The Superintendent of Studies, Jeong Ye-mun of the Three Peaks, declared: "A physician must discern the pulse without error; only then will prescriptions prove effective." Having examined the theories of the ancients, he created diagrams to clarify their principles, composed formulae to capture their subtleties, and titled this work "Pulse Diagnosis Illustrated." He commanded that I add my commentary below.
+
+    Though my studies of medicine are considerable, this book achieves a rare balance—detailed without excess, concise without omission. Those who study it carefully will surely discover the vital essence within its pages. Yet whether one goes on to read all texts and master all techniques depends upon the individual themselves. So I urge: persevere, persevere!
+  footnotes:
+  - key: ''
+    value: The "Three Peaks" (三峯) refers to Jeong Do-jeon (鄭道傳), a prominent Neo-Confucian scholar and administrator of the early Joseon period.
+  - key: ''
+    value: The ten schools of learning (十學科) established by the early Joseon government included medicine as an important field of study alongside classical studies, law, and other disciplines.
+  - key: ''
+    value: The phrase "vital essence" (肯綮) is an idiom referring to the crucial point or crux of a matter, derived from the anatomical knowledge of cutting between joints without resistance.

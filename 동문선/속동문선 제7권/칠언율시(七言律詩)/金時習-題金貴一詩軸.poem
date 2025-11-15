@@ -1,0 +1,62 @@
+canonical:
+  title: 題金貴一詩軸
+  author: 金時習
+  language: lzh
+  text: 家在金剛古寺前夕陽喬木惹寒烟山連鰲極蒼茫外地接雞林縹緲邊九聖有亭雲幕幕五陵無主草芊芊卧龍居處人如問桑柘陰中一路穿
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題金貴一詩軸
+  author: 金時習
+  language: lzh
+  text: 家在金剛古寺前。夕陽喬木惹寒烟。山連鰲極蒼茫外。地接雞林縹緲邊。九聖有亭雲幕幕。五陵無主草芊芊。卧龍居處人如問。桑柘陰中一路穿。
+korean:
+  title: 제김귀일시축
+  author: 김시습
+  language: kor
+  text: |-
+    집은 금강의 옛절 앞에 있는데
+    해질 녘에 큰 나무는 찬 연기를 끄은다
+    산은 오극의 창망한 밖에 이어져 있고
+    땅은 계림의 표묘한 끝에 닿아 있다
+    구성에 정자가 있어 구름은 막막한데
+    오능에 주인이 없어 풀은 우거져 있다
+    와룡이 사는 곳을 만일 누가 물으면
+    뽕나무와 재나무 그늘 속에 한 길이 뚫여 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0950&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오극(鰲極) : '
+    value: 삼신산(三神山)은 바다 가운데에 있는데, 모두 큰 거북 등 위에 있어서 큰 거북이 움직이는 대로 산이 이동한다고 한다. 그 산이 있는 곳은 대개 동해 바다이다. 그래서 여기에는 동해가 다한 곳이라고 해석하게 된다.
+  - key: '[주-D002] 구성(九聖) : '
+    value: 원래 아홉 사람의 성인인 복희(伏羲)ㆍ신농(神農)ㆍ황제(黃帝)ㆍ요(堯)ㆍ순(舜)ㆍ우(禹)ㆍ문왕(文王)ㆍ주공(周公)ㆍ공자를 말한다.
+  - key: '[주-D003] 오릉(五陵)에 …… 있다 : '
+    value: 오릉(五陵)은 원래 한나라에서 고조(高祖) 이하의 다섯 황제의 능을 말함이다. 그 당시의 무한한 권력을 가졌던 황제의 능도 지금은 풀만 우거졌다는 말인데, 여기에는 무슨 뜻으로 썼는지 미상이다.
+  - key: '[주-D004] 와룡(臥龍) : '
+    value: 삼국 시대에 제갈량이 젊어서 살던 곳인데, 집 위의 산 이름이 와룡강(臥龍崗)이므로 와룡 선생이라고 자칭하였었다.
+english:
+  title: On a Poem Scroll by Kim Gwi-il
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    A home stands before the ancient temple of Geumgang,
+    Where evening sun and tall trees stir the cold mist.
+    Mountains stretch beyond the realm of the turtle throne,
+    And earth touches the horizon of the Rooster Land.
+
+    At Nine Saints' pavilion, clouds hang thick and boundless,
+    While at Five Tombs without masters, grasses grow wild.
+    Should anyone ask where the Reclining Dragon dwells,
+    A path winds through the shadows of mulberry and scholar trees.
+  footnotes:
+  - key: ''
+    value: 'Geumgang: Diamond Mountain, a sacred Buddhist site in Korea'
+  - key: ''
+    value: The turtle throne refers to the mythical eastern seas and the Three Immortal Isles, representing the distant reaches of the world
+  - key: ''
+    value: 'Nine Saints: A reference to the sage rulers and philosophers of antiquity—Fu Xi, Shen Nong, the Yellow Emperor, Yao, Shun, Yu, King Wen, Duke of Zhou, and Confucius'
+  - key: ''
+    value: 'Five Tombs: Traditionally referring to the imperial mausolea of Han dynasty emperors, here suggesting the transience of earthly power and glory'
+  - key: ''
+    value: 'Reclining Dragon: Alludes to Zhuge Liang, the famous strategist of the Three Kingdoms period, known for his hermit years before entering service'
+  - key: ''
+    value: 'The Rooster Land (Gyerim): An ancient poetic name for Korea'

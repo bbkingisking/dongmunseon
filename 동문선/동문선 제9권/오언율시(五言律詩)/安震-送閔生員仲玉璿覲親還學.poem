@@ -1,0 +1,50 @@
+canonical:
+  title: 送閔生員仲玉璿覲親還學
+  author: 安震
+  language: lzh
+  text: 歲暮話離別男兒豈定居班荊酒一盞連軫書五車時俗不好古斯人能起予芳年知去就臨路莫躕躇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送閔生員仲玉璿覲親還學
+  author: 安震
+  language: lzh
+  text: 歲暮話離別。男兒豈定居。班荊酒一盞。連軫書五車。時俗不好古。斯人能起予。芳年知去就。臨路莫躕躇。
+korean:
+  title: 근친하고 학당으로 돌아가는 생원 민중옥을 보내며
+  author: 안진
+  language: kor
+  text: |-
+    세모 이별에 주고 받는 말
+    남아가 한 곳에만 박혀서 살리
+    풀밭을 깔고 앉아, 드는 술 한 잔
+    짐으로 실은 것은 책 다섯 수레
+    시속은 옛 것을 안 즐기지만
+    이 사람이 제법 날 흥기시키네
+    그대는 한창 청춘, 거취 알 것이니
+    길에 오르며 주저치 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0750&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 책 다섯 수레 : '
+    value: 장자(莊子)의 친구 혜시(惠施)가 학식이 많아 그 서책이 다섯 수레나 되었다 한다. 《장자》
+  - key: '[주-D002] 이 사람이 …… 흥기시키네 : '
+    value: 공자가 복상(卜商)의 시(詩)에 능함을 칭찬하여 한 말인데, “나를 흥기시킬 자는 상(商)이로구나. 같이 시를 말할 만하구나.” 하였다.
+english:
+  title: Seeing Off Min Saengwon Jungok on His Return Home to Visit His Parents and Then Back to His Studies
+  author: An Jin
+  language: eng
+  text: |-
+    As the year draws to its close, we speak of parting ways—
+    Why should a man be bound to one place alone?
+    We spread the grass and share a cup of wine,
+    And load five cartfuls of books upon the journey.
+
+    Though the times have turned away from the ancients' way,
+    This man stirs something in my heart.
+    You know, in your flourishing years, the path of duty calls—
+    When you take to the road, do not hesitate.
+  footnotes:
+  - key: ''
+    value: 'Five cartfuls of books: A reference to the scholar Hui Shi, friend of Zhuangzi, whose vast learning filled five carts of scrolls.'
+  - key: ''
+    value: 'This man stirs something in my heart: An allusion to Confucius''s praise of Bo Shang, saying ''It is Shang who stirs me! With him I can discuss the Book of Poetry.'''

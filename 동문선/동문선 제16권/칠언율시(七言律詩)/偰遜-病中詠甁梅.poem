@@ -1,0 +1,95 @@
+canonical:
+  title: 病中詠甁梅
+  author: 偰遜
+  language: lzh
+  text: 病愛仙人玉雪肌愁無健步也能移林逋遂有西湖樂何遜還成東閣詩小硏虛屛供自照踈燈斜月揔相宜靜中忽契先天畫已被枝頭數葉知二月江梅亦有情亂開花萼滿銅甁若爲折寄逢邊使恨不移栽作弟兄庾嶺樹曾雲外辨羅浮春每夢中行何由盡結和羹實長笛猶敎怨落英
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病中詠甁梅
+  author: 偰遜
+  language: lzh
+  text: 病愛仙人玉雪肌。愁無健步也能移。林逋遂有西湖樂。何遜還成東閣詩。小硏虛屛供自照。踈燈斜月揔相宜。靜中忽契先天畫。已被枝頭數葉知。二月江梅亦有情。亂開花萼滿銅甁。若爲折寄逢邊使。恨不移栽作弟兄。庾嶺樹曾雲外辨。羅浮春每夢中行。何由盡結和羹實。長笛猶敎怨落英。
+korean:
+  title: 병중 영 병매
+  author: 설손
+  language: kor
+  text: |-
+    병중에도 신선의 옥같고 눈같은 살을랑 보니
+    걸음 잘 못 걸어도 〈매화는〉 어디론지 옮겨올 수 있네
+    임포는 마침내 서호의 낙을 누렸것다
+    하손은 오히려 동각의 시를 지었지
+    벼루랑 병풍이랑 〈매화와〉 서로 비추고
+    성긴 등잔 비낀 달 모두 매화와 알맞네
+    고요한 가운데 선천의 괘획을 깨달았더니
+    가지 끝 몇 송이 꽃이 벌써 먼저 아누나
+    정월의 강 매화가 또한 유정하여서
+    송이 꽃부리가 구리 화병에 가득하구나
+    어이하면 변방 사자에게 꺾어 부칠까
+    땅에 옮겨 심어 형제를 못 삼음이 한이로세
+    유령[중국 지명. 매화가 많다.]의 나무는 구름 밖에서 분변했고
+    나부산 봄은 꿈속에 매양 다녔네
+    국에 넣는 열매를 어쩌면 다 맺게 할꼬
+    긴 젓대 떨어지는 꽃 원망이야 하더라도
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 임포(林逋) : '
+    value: 송(宋)의 은사(隱士). 서호(西湖)  고산(孤山)에 20년 은거했다. 매화와 학을 몹시 사랑하였다.
+  - key: '[주-D002] 하손(何遜) : '
+    value: 남조(南朝)양(梁)의 시인. 그의 설중 매화(雪中梅花)를 읊은, 동각(東閣)시가 유명하다.
+  - key: '[주-D003] 선천(先天)의 괘획(卦畫) : '
+    value: 송나라 소강절(邵康節)이 주역(周易)의 괘도(卦圖)를 해설하고 선천도(先天圖)와 후천도(後天圖)를 구분하여, “복희씨(伏羲氏)의 팔괘(八卦)는 선천(先天)이요, 주문왕(周文王)의 팔괘는 후천(後天)이라.” 하였다.
+  - key: '[주-D004] 형제 : '
+    value: 매화(梅花)를 매형(梅兄)이라 한다.
+  - key: '[주-D005] 나부산(羅浮山) 봄은 …… 다녔네 : '
+    value: 수(隋)나라 조사웅(趙師雄)이 나부산(羅浮山)에 갔는데 해가 저물 때에 숲 사이 어느 집에 한 미인이 소복담장(素服淡粧)으로 나와 영접하는데 향기가 정신을 황홀케 하였다. 사웅이 미인과 함께 술집에 가서 즐겨 놀았는데 옆에 푸른 옷 입은 동자(童子)가 노래를 불렀다. 사웅이 취하여 자다가 새벽에 깨어 보니 매화나무에 푸른 새가 지저귀고 있었다. 미인은 화신(花神)이었던 것이다.
+  - key: '[주-D006] 떨어지는 꽃 : '
+    value: 강적(羌笛)의 곡조에 낙매화(落梅花) 곡에 있다.
+english:
+  title: 'Plum Blossoms in a Vase: A Sickbed Meditation'
+  author: Seol Son
+  language: eng
+  text: |-
+    Though illness binds me, still I see
+    The fairy's flesh of jade and snow.
+    My weakened steps cannot roam free,
+    Yet blossoms find their way to go.
+
+    Lin Bu gained his West Lake peace,
+    He Xun composed his Eastern tower verse—
+    So too my inkstone finds release,
+    My folding screen reflects what fierce
+    And gentle lamplight cannot hide:
+    The slanted moon sits by my side.
+
+    In stillness, I perceive the way
+    The ancient patterns intertwine,
+    And petals on the branch's gray
+    Already know this truth divine.
+
+    February's river plums awake,
+    Their tangled blooms a copper vase does take.
+    O that I could break and send them far
+    To some far messenger and star!
+    I grieve I cannot plant them here,
+    And make them brothers, year by year.
+
+    Beyond the clouds of Luofeng's height,
+    The trees once showed their bloom so bright.
+    In dreams I walk that mountain's spring—
+    O would that spring could grant me everything!
+    That fruits for medicine might all be made,
+    Though long flutes mourn the falling jade.
+  footnotes:
+  - key: ''
+    value: Lin Bu (林逋) was a hermit poet of the Song dynasty who lived in seclusion for twenty years on Lone Mountain by West Lake, famous for his devotion to plum blossoms and cranes.
+  - key: ''
+    value: He Xun (何遜) was a poet of the Liang dynasty during the Southern dynasties, renowned for his poem 'Plum Blossoms in Snow' composed at the Eastern Tower.
+  - key: ''
+    value: The 'ancient patterns' (先天卦畫) refers to the diagram of the eight trigrams attributed to Fuxi, representing primordial cosmic order.
+  - key: ''
+    value: The reference to making plum blossoms 'brothers' draws on the poetic conceit of calling the plum tree 'Elder Brother Plum' (梅兄).
+  - key: ''
+    value: The Luofeng mountain (羅浮山) alludes to the legend of Zhao Shiyong, who encountered a beautiful woman in a dream at this mountain who was revealed to be the spirit of a plum blossom.
+  - key: ''
+    value: The 'long flute mourning falling blossoms' refers to the famous melody 'Falling Plum Flowers' (落梅花) played on the qiang flute, expressing sorrow at transience.

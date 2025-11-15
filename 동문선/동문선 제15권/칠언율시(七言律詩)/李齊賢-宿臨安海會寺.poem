@@ -1,0 +1,54 @@
+canonical:
+  title: 宿臨安海會寺
+  author: 李齊賢
+  language: lzh
+  text: 梵宮臺殿遠嵯峩沙步移舟夜始過峽月轉廊隨響屐溪風入戶動鳴珂山因蘇子知名久樹自錢王閱事多陌上春歸花寂寂唯聞谷鳥和村歌陌上花曲卽此地事
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿臨安海會寺
+  author: 李齊賢
+  language: lzh
+  text: 梵宮臺殿遠嵯峩。沙步移舟夜始過。峽月轉廊隨響屐。溪風入戶動鳴珂。山因蘇子知名久。樹自錢王閱事多。陌上春歸花寂寂。唯聞谷鳥和村歌。陌上花曲。卽此地事。
+korean:
+  title: 숙 임안 해회사
+  author: 이제현
+  language: kor
+  text: |-
+    절의 전각이 멀리 높직이 솟아 있는데
+    모래톱에 배를 대고 밤에야 찾아 갔네
+    산협의 달은 복도로 돌아 나막신 소리를 따르고
+    시내 바람은 문에 들어 패옥을 울리누나
+    산은 동파로 이름난 지 오래고
+    전왕적부터 숱한 일을 겪었네
+    언덕 위에 봄 돌아와 꽃은 적막한데
+    골짝의 새 우는 소리가 촌 노래를 화답할 뿐
+    맥상화(陌上花) 곡(曲)은 바로 이 땅의 일을 노래한 것
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동파(東坡) : '
+    value: 송(宋)나라 시인 소식(蘇軾)의 호. 그가 항주(杭州 송대의 임안(臨安)의 지부(知府)로 좌천되었을 때 그곳 산수를 몹시 사랑하여 많은 유적(遺蹟)을 남겼다.
+  - key: '[주-D002] 전왕(錢王) : '
+    value: 오대(五代) 때 오월(吳越)왕 전씨(錢氏). 시조 전유(錢鏐), 그 손자 숙(叔) 송(宋)에 항복하기까지 3세(世), 5주(主) 84년간(895~978) 왕이라 일컬었다.
+english:
+  title: Lodging at Haihui Temple in Linan
+  author: Lee Jehyeon
+  language: eng
+  text: |-
+    The Buddhist hall rises high and distant, its towers sharp against the sky.
+    Across the sandbar we pole the boat, reaching it only as night falls.
+    Through the gorge, moonlight traces the corridor, following the echo of wooden clogs.
+    From the stream, wind enters the door, setting the jade pendants chiming.
+    The mountain earned its fame long ago through Dongpo's verse,
+    And the trees have witnessed countless ages since the Kings of Qian held sway.
+    Spring returns to the hillside path, but the flowers rest in silence—
+    Only the valley birds sing in answer to the villagers' song.
+    The "Flowers on the Path" that the old song celebrates:
+    It is the very story of this place.
+  footnotes:
+  - key: ''
+    value: Dongpo refers to Su Shi (蘇軾), the Song dynasty poet, who served as prefect of Hangzhou and left behind many beloved landmarks through his appreciation of the region's natural beauty.
+  - key: ''
+    value: The Kings of Qian were the rulers of Wu-Yue during the Five Dynasties period, reigning for 84 years (895-978) until their submission to Song.
+  - key: ''
+    value: The 'Flowers on the Path' is an ancient folk song about spring, which the poet invokes to illuminate the timeless beauty and history of this temple location.

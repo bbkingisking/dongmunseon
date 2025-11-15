@@ -1,0 +1,51 @@
+canonical:
+  title: 孫吳和余二月梅韻走筆復和
+  author: 金宗直
+  language: lzh
+  text: 野老年年折作藩群芳調笑苦相喧玉妃遲暮奈賦命靑鳥寂寥空斷魂此日不緣冰蘂醉明朝只有蠟跗存上林密地應多隙借問何人移故村
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 孫吳和余二月梅韻走筆復和
+  author: 金宗直
+  language: lzh
+  text: 野老年年折作藩。群芳調笑苦相喧。玉妃遲暮奈賦命。靑鳥寂寥空斷魂。此日不緣冰蘂醉。明朝只有蠟跗存。上林密地應多隙。借問何人移故村。
+korean:
+  title: 손오 화여 이월매운 주필부화
+  author: 김종직
+  language: kor
+  text: |-
+    들 늙은이가 해마다 꺾어 울타리를 만들면
+    온갖 꽃이 비웃으며 괴로이 숙덕거린다
+    옥비를 늦도록 못 만나니 운명에야 어찌하리
+    청조는 쓸쓸히 한갓 혼을 끊는다
+    오늘 언 꽃술로 인해 취하지 않으면
+    내일 아침에는 다만 납부가 남아 있으리
+    비원의 비밀한 땅에는 빈틈이 많으리니
+    묻노니 어떤 사람이 고촌으로 옮겨 오리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0630&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청조(靑鳥) : '
+    value: 예전 한나라 무제(武帝)의 창 앞에 푸른 새가 한 마리 와서 울므로 그것이 무슨 새인가 하고 여러 신하에게 물으니, 동방작이란 사람이, “그것은 하늘에 있는 서왕모(西王母)가 오늘밤에 내려 온다는 소식을 전하려 온 것입니다.” 하였는데, 과연 그날 밤에 서왕모가 하강하여 인연을 맺었다는 말이 있는데, 여기에는 그런 소식도 없다는 것이다.
+  - key: '[주-D002] 납부(蠟跗) : '
+    value: 부(跗)라는 것은 매화꽃의 화판이 붙었던 꽃꼭지이다. 매화의 꼭지는 황갈색이므로 그것은 밀[蠟]로 만든 것이라고 미화하여 말한 것이다.
+english:
+  title: In Response to Sun and Wu's Rhyme on February Plum Blossoms
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Year after year the old villager breaks branches to mend his fence,
+    And all the flowers mock him, murmuring in their distress.
+    The Jade Consort cannot meet him in her declining years—
+    What can be done against such fate?
+    The blue bird calls in solitude, severing only the soul.
+
+    Unless today the frozen stamens intoxicate,
+    Tomorrow will leave but the waxen calyx behind.
+    In the Secret Park's hidden grounds there must be many gaps—
+    I ask: what man would move to that abandoned village?
+  footnotes:
+  - key: ''
+    value: The blue bird (青鳥) alludes to the divine messenger in Han lore, who brought news of the Queen Mother of the West's descent. Here it ironically announces not reunion, but silence.
+  - key: ''
+    value: The waxen calyx (蠟跗) refers to the sepals of the plum blossom after its petals have fallen—a poignant image of what remains when beauty fades.

@@ -1,0 +1,46 @@
+canonical:
+  title: 送張衡叔還西都田宰相幕
+  author: 李崇仁
+  language: lzh
+  text: 相國經綸器朝鮮禮義邦參謀今俊逸遺俗更淳厖樓閣臨平楚風煙接大江君歸如記我莫惜鯉魚雙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送張衡叔還西都田宰相幕
+  author: 李崇仁
+  language: lzh
+  text: 相國經綸器。朝鮮禮義邦。參謀今俊逸。遺俗更淳厖。樓閣臨平楚。風煙接大江。君歸如記我。莫惜鯉魚雙。
+korean:
+  title: 서도 전재상막으로 돌아가는 장형숙을 보내며
+  author: 이숭인
+  language: kor
+  text: |-
+    상국은 경륜의 그릇이요
+    조선은 예의의 나라이네
+    참모는 당세의 준일인데
+    서도에 끼친 풍속은 다시 순후하네
+    누각은 질펀한 들판에 임했고
+    풍연은 큰 강에 접해 있네
+    그대 돌아가 나를 생각하거든
+    잉어를 아끼지 말게
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 잉어[鯉魚] : '
+    value: 고시(古詩)에, “친구가 나에게 두 잉어를 보내기에, 아이를 불러 잉어를 삶았더니, 그 속에 편지가 들었네.” 하는 구절이 있다.
+english:
+  title: Farewell to Zhang Hengbok Returning to the Western Capital to Join Minister Jeon's Retinue
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    The Prime Minister bears the vessel of statecraft and strategy,
+    Choson is a realm of propriety and righteousness.
+    The counselor, a paragon of this age,
+    Brings refined and gentle customs to the western lands.
+
+    Towers and halls overlook the broad plains,
+    Wind and mist reach toward the great river.
+    When you return, should you think of me,
+    Do not spare to send the pair of carp.
+  footnotes:
+  - key: ''
+    value: The final image of the 'pair of carp' alludes to a classical poem in which a friend sends two carp to the poet, and a letter is found hidden within them when cooked—a traditional metaphor for maintaining correspondence and remembrance across distance.

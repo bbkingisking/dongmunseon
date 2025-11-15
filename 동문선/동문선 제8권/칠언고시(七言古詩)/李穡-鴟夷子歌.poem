@@ -1,0 +1,86 @@
+canonical:
+  title: 鴟夷子歌
+  author: 李穡
+  language: lzh
+  text: 漢家龍飛泗水闊秦宮三月紅焰烈當時運籌身被瘡諸公一旦高閥閱礪山帶河字未乾韓彭葅醢寃誰雪當時子房美婦人素書一篇三寸舌封留便與赤松游羽翼儲皇眞一督乃知鴟夷子用心與人別成功不退多禍機先獲黃石公秘訣五湖煙月天無邊千古遺風吹不絶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鴟夷子歌
+  author: 李穡
+  language: lzh
+  text: 漢家龍飛泗水闊。秦宮三月紅焰烈。當時運籌身被瘡。諸公一旦高閥閱。礪山帶河字未乾。韓彭葅醢寃誰雪。當時子房美婦人。素書一篇三寸舌。封留便與赤松游。羽翼儲皇眞一督。乃知鴟夷子用心與人別。成功不退多禍機。先獲黃石公秘訣。五湖煙月天無邊。千古遺風吹不絶。
+korean:
+  title: 치이자가
+  author: 이색
+  language: kor
+  text: |-
+    한 고조가 용비하매 사수가 넓었고
+    아방궁이 두 달이나 붉은 불길 맹렬했네
+    그 당시의 모사들과 몸에 상처 입은 장수들
+    공 이루자 하루 아침에 높은 지위에 올랐으나
+    산하여대 글자도 마르기 전
+    한ㆍ팽이 주륙되니 그 원한 누가 씻으리
+    당시에 자방(장량(張良)의 자(字))은 미부인 같은 용모로다
+    《소서》 한 권 세 치 혀
+    유후에 봉해지자 적송 따라 놀다가
+    눈 깜짝할 사이에 태자를 우익했네
+    이제사 알리로다, 저 치이자, 마음 씀이 여느 사람과 다른 줄을
+    성공하고 안 물러서면 화의 기틀 되나니
+    황석공의 비결은 그가 먼저 배웠던 것
+    오호에 연월 가득, 하늘이 가없는데
+    천고에 끼친 바람은 불어 끊이지 않누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 치이자(鴟夷子) : '
+    value: 월상국(越相國) 범여(范蠡)가 왕 구천(句踐)을 도와 오(吳)나라를 멸한 뒤에 벼슬을 사양하고 오호(五湖)에 노닐며 성명을 고쳐 치이자피(鴟夷子皮)라 했다. 치이(鴟夷)는 가죽주머니라는 뜻으로 세태를 따라 가죽주머니처럼 늘었다 줄었다 한다는 뜻.
+  - key: '[주-D002] 한 고조(漢高祖)가 …… 넓었고 : '
+    value: 한 고조(漢高祖) 유방(劉邦)이 상정장(上亭長)으로 몸을 일으켰다.
+  - key: '[주-D003] 아방궁이 …… 맹렬했네 : '
+    value: 진 시황(秦始皇)이 지은 큰 궁궐이다. 항우(項羽)가 진나라를 멸한 뒤 아방궁을 불살랐다는데 두 달 동안이나 불이 꺼지지 않았다.
+  - key: '[주-D004] 산하여대(山河礪帶) : '
+    value: 공신(功臣)을 봉(封)해 주는 맹세의 말인데, “황하의 물이 띠[帶]와 같이 줄고, 태산이 숫돌같이 작게 되도록 영원히 서로 나라를 보전하여 후손에게까지 미치게 하자.”는 것이다.
+  - key: '[주-D005] 한(韓)ㆍ팽(彭) : '
+    value: 한신(韓信)과 팽월(彭越), 두 사람이 다 한 고조(漢高祖) 부하의 명장(名將)으로 수훈(殊勳)을 세웠으나 그 뒤에 의심을 사 잡혀 죽었다.
+  - key: '[주-D006] 소서(素書) : '
+    value: 신인(神人)  황석공(黃石公)이 지어 장량(長良)에게 주었다는 비결(祕決).
+  - key: '[주-D007] 세 치 혀[三寸舌] : '
+    value: 장량(張良)이 유후(留侯)에 봉해진 뒤에 말하기를, “내가 세 치 혀[三寸舌]로써 임금의 스승이 되었으니 만족하다. 이제는 적송자(赤松子 신선)를 따라 놀겠노라.” 하고, 화식(火食)을 끊고 도인법(導引法)을 배웠다.
+  - key: '[주-D008] 태자를 우익(羽翼)했네 : '
+    value: 한 고조(漢高祖)가 태자(太子)를 바꿔 세우려 하니, 여후(呂后)가 장량에게 계책을 물어서 상산(商山)의 사호(四皓)를 청해 와서 태자를 보호하였다. 고조가 사호가 태자를 따르는 것을 보고, “우익(羽翼)이 벌써 생겼으니 변동하기 어렵구나.” 하고, 태자를 바꾸지 않았다.
+  - key: '[주-D009] 황석공(黃石公)의 비결(祕訣) : '
+    value: 장량이 황석공(黃石公)에게서 소서(素書)라는 비결(祕訣)을 받았는데, 그 글 속에, “성공하고 나면 물러가야 한다.”는 말이 있다.
+  - key: '[주-D001] 督 : '
+    value: 瞥
+english:
+  title: Song of the Leather-Bag Sage
+  author: Lee Saek
+  language: eng
+  text: |-
+    The Han Dragon rose when the Si River ran wide,
+    The Afang Palace burned three months with crimson flame.
+    Then strategists bore wounds upon their bodies,
+    Yet in one dawn the nobles climbed to highest rank.
+    With mountains worn to whetstones, rivers drawn as sashes,
+    Yet Han Xin and Peng Yue—who shall wash away their shame?
+
+    Zi Fang in those days had the face of a beauty,
+    One scroll of Secret Words, a three-inch tongue's power—
+    Granted the Marquis rank, he followed the Immortals,
+    In a blink preserved the heir with guardian wings.
+    Now I know: the Leather-Bag Sage's heart
+    Differs from the hearts of common men.
+
+    Achievement gained but not relinquished breeds disaster;
+    He alone had learned the Yellow Stone Master's mystery.
+    Over Five Lakes the mist and moonlight stretch endless,
+    And through ten thousand ages his wind blows unbroken.
+  footnotes:
+  - key: ''
+    value: The Leather-Bag Sage (鴟夷子) refers to Fan Li, a legendary minister of Yue who helped destroy Wu, then withdrew from office to wander the Five Lakes under an assumed name—'leather bag' symbolizing one who adapts to circumstances.
+  - key: ''
+    value: Han Xin and Peng Yue were celebrated generals under Liu Bang who were later executed on suspicion, their injustice left unredressed.
+  - key: ''
+    value: Zhang Liang (Zi Fang), with wisdom from the Yellow Stone Master's 'Secret Words,' famously said his three-inch tongue sufficed to make him the emperor's tutor, then retired to follow immortals.
+  - key: ''
+    value: The preservation of the heir refers to how Zhang Liang's strategy protected the crown prince from the emperor's attempt to change succession, earning him the epithet 'guardian wings.'

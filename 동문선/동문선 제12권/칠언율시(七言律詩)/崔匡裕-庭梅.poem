@@ -1,0 +1,47 @@
+canonical:
+  title: 庭梅
+  author: 崔匡裕
+  language: lzh
+  text: 練艷霜輝照四隣庭隅獨占臘天春繁枝半落殘粧淺晴雪初銷宿淚新寒影低遮金井日冷香輕鎖玉䆫塵故園還有臨溪樹應待西行萬里人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 庭梅
+  author: 崔匡裕
+  language: lzh
+  text: 練艷霜輝照四隣。庭隅獨占臘天春。繁枝半落殘粧淺。晴雪初銷宿淚新。寒影低遮金井日。冷香輕鎖玉䆫塵。故園還有臨溪樹。應待西行萬里人。
+korean:
+  title: 정매
+  author: 최광유
+  language: kor
+  text: |-
+    비단처럼 곱고 서리처럼 빛이 나서 이웃까지 비추니
+    뜰 한 구석에서 섣달의 봄을 독차지했구나
+    번화한 가지 반쯤 떨어져 단장이 거의 스러진 듯
+    갠 눈이 갓 녹아 눈물 새로 머금었네
+    찬 그림자는 나직이 금정의 해를 가리웠고
+    싸늘한 향내는 가벼이 옥창의 먼지를 잠갔구나
+    내 고향에도 시냇물 가에 몇 나무
+    서방에 땅 손질하는 만리 사람을 기다리고 있으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: Courtyard Plum
+  author: Choi Gwang-yu
+  language: eng
+  text: |-
+    Lustrous as silk, radiant as frost, its light spills to neighboring houses—
+    In one corner of the courtyard, it claims the spring of winter's last month.
+    Thick branches half-bare, their beauty fading like worn makeup,
+    Fresh snow melts and mingles with tears newly wept.
+    Cold shadows dimly veil the sun above the golden well,
+    Chill fragrance softly locks the dust upon the jade window.
+    In my native home, trees still stand by the stream's edge—
+    Waiting, perhaps, for the wanderer who travels ten thousand miles west.
+  footnotes:
+  - key: ''
+    value: The 'golden well' (金井) and 'jade window' (玉窗) are classical poetic images representing the refined spaces of home and memory.
+  - key: ''
+    value: The poem's movement from the present plum blossom to the distant homeland suggests themes of exile, longing, and the passage of seasons both literal and metaphorical.
+  - key: ''
+    value: The 'wanderer traveling west' may reference the poet's own journey or circumstance of separation from home.

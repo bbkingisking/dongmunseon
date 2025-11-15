@@ -1,0 +1,44 @@
+canonical:
+  title: 梵日國師影贊
+  author: 朴仁範
+  language: lzh
+  text: 最上之法杳杳冥冥皓月之白長江之淸彼旣有相我乃無形無形之形可以丹靑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 梵日國師影贊
+  author: 朴仁範
+  language: lzh
+  text: 最上之法。杳杳冥冥。皓月之白。長江之淸。彼旣有相。我乃無形。無形之形。可以丹靑。
+korean:
+  title: 범일국사영 찬
+  author: 박인범
+  language: kor
+  text: |-
+    최상의 법은
+    깊고깊어 아득하네
+    호월의 하얀 것이랑
+    장강의 맑은 것이랑
+    그는 이미 상이 있지만
+    이는 이내 형이 없네
+    형할 수 없는 그 형을
+    단청으로 나타내리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0020&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the Portrait of National Preceptor Beomil
+  author: Park Inbom
+  language: eng
+  text: |-
+    The highest dharma—
+    deep and distant, shrouded in mist.
+    Like the whiteness of the bright moon,
+    like the clarity of the Long River.
+
+    Though he already possessed form,
+    I have no form.
+    Yet that formless form
+    I render in brush and pigment.
+  footnotes:
+  - key: ''
+    value: National Preceptor Beomil (범일국사) was a prominent Buddhist figure in medieval Korea, suggesting this work commemorates a portrait, likely of a Buddhist master. The portrait itself becomes the subject of meditation on the tension between the transcendent and the representable.

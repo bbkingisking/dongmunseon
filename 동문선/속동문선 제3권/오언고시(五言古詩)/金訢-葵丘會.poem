@@ -1,0 +1,105 @@
+canonical:
+  title: 葵丘會
+  author: 金訢
+  language: lzh
+  text: 膠舟漢水濱烽火驪山下王綱一以墜黍離不復雅賴有葵丘會尙知尊周社五命植三綱九合匡諸夏鳴呼如其仁不歸知久假歃血紛未乾已有問鼎者向微管仲力吾民其衽左尼聖竟棲遑祥麟亦罹禍不復夢周公轍環誰用我衮鉞寄深意聖筆無不可
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 葵丘會
+  author: 金訢
+  language: lzh
+  text: 膠舟漢水濱。烽火驪山下。王綱一以墜。黍離不復雅。賴有葵丘會。尙知尊周社。五命植三綱。九合匡諸夏。鳴呼如其仁。不歸知久假。歃血紛未乾。已有問鼎者。向微管仲力。吾民其衽左。尼聖竟棲遑。祥麟亦罹禍。不復夢周公。轍環誰用我。衮鉞寄深意。聖筆無不可。
+korean:
+  title: 규구회
+  author: 김흔
+  language: kor
+  text: |-
+    한수 가녘에 아교 배가 떴고
+    여산 밑에 봉화가 오르니
+    왕군이 타락 일로
+    서리가가 다시 아가 되지 못하더니
+    다행히 규구회가 있어
+    아직도 주실을 높일 줄을 알았네
+    다섯 가지 명령으로 삼강을 세우고
+    제후를 규합아여 제하(중국 본토)를 바로잡았으니
+    아, 뉘라서 그 인과 같으리
+    안 돌리매 오래 빌린 줄 알겠네
+    맹세로 마신 피가 마르기도 전에
+    벌써 솥의 경중을 물은 자 있었으니
+    그 때 만일 관중 힘 아니었던들
+    백성들 다 오랑캐 되었을 뻔
+    공자도 마침내 부산히 돌아다니고
+    기린도 끝내 하를 입어서
+    다시금 주공을 꿈꾸지 못하였으니
+    온 천하를 주류한들 뉘 나를 써 주리
+    곤월로 깊은 뜻을 붙이었으니
+    성인의 필법이 과연 불가함 없어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0500&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 규구회(葵丘會) : '
+    value: 제환공(齊桓公)이 제후(諸侯)들을 송(宋)의 규구에 모아 존주(尊周)를 맹약했다. 《左傅僖九年》
+  - key: '[주-D002] 한수(漢水) …… 떴고 : '
+    value: 주(周)나라 소왕(昭王)이 남방으로 순행(巡幸)하였는데, 초(楚)나라 사람들이 왕이 타는 배를 아교[膠]로 붙여서 만들었으므로, 중류(中流)에서 아교가 녹아 배가 파선되어 왕이 빠져 주었다.
+  - key: '[주-D003] 여산(驪山) …… 오르니 : '
+    value: 주나라 유왕(幽王)이 포사(褒姒)란 미인에게 미혹하였는데, 포사는 평생에 웃는 일이 없었다. 왕은 한 번 웃기기 위하여 거짓으로 여산에 봉화(烽火)를 올렸더니 사방의 제후(諸侯)들은 참으로 난리가 난 줄 알고 군사를 거느리고 구원하러 왔다가 헛걸음을 하니 그제야 포사가 한 번 웃었다. 그 뒤에 정말 외적이 침입하였을 적에 봉화를 드니 제후들이 믿지 않고 군사가 오지 않아 국도(國都)가 함락되었다.
+  - key: '[주-D004] 서리가(黍離歌)가 …… 못하더니 : '
+    value: 유왕(幽王)이 망하고 그 아들 평왕(平王)이 도읍을 동도(東鄕 낙양(洛陽))에 옮긴 뒤로 지위가 일반 제후와 같이 낮아져서, 그 지방의 시(詩)를 왕풍(王風)이라 하고 다시 아(雅)로 칭하지 않았다. 서리편(黍離篇)은 왕풍의 첫 편이다.
+  - key: '[주-D005] 아, 뉘라서 …… 같으리 : '
+    value: 공자(孔子)가 관중(管中)의 공을 칭찬한 말이다.
+  - key: '[주-D006] 안 돌리매 …… 알겠네 : '
+    value: 맹자(孟子)의 말에, 오패(五覇)는 인(仁)을 빌린 자이다. 빌린 것도 오래 하여 돌리지 않으면 제것이 안될 줄을 어찌 알랴.” 하였다. 이것은 처음에는 공리(功利)를 위하여 인의(仁義)를 표방하였으나 끝까지 실행하면 된다는 뜻이다.
+  - key: '[주-D007] 벌써 솥의 …… 물은 자 : '
+    value: 초장왕(楚莊王)이 주나라에 대하여 구정(九鼎)의 경중을 물었다. 구정은 하우(夏禹)가 만들어 전해 오다가 은(殷)나라에서 혁명(革命)한 뒤에 옮겨 왔고, 주나라가 다시 옮겨 왔던 것인데, 초장왕이 물은 것은 주나라를 멸시하여 왕권(王權)을 빼앗겼다는 뜻이다.
+  - key: '[주-D008] 기린도 …… 입어서 : '
+    value: 공자가 기린[麟]이 나왔다가 맞아 죽는 것을 보고 울었다. 그가 춘추(春秋)를 짓다가 그 때부터 붓을 끊고 말았다.
+  - key: '[주-D009] 다시금 …… 못하였으니 : '
+    value: 공자가 말하기를, “내가 너무 쇠했구나. 다시는 꿈에 주공(周公)을 보지 못하네.” 하였다. 공자는 늘 주공의 예악(禮樂)을 다시 일으키려고 사모하였던 것이다.
+  - key: '[주-D010] 곤월(袞鉞) : '
+    value: 공자가 실제로 정치할 수 없게 되자 《춘추》를 지었는데, 한 (字)로 표창한 것이 곤룡포[袞]보다 영광스럽고 한 자로 깎은 것이 도끼[鉞]보다 무섭다 하였다.
+english:
+  title: The Assembly at Kuixiu
+  author: Kim Hyun
+  language: eng
+  text: |-
+    By the banks of the Han River, a boat of glue once floated,
+    While beacon fires rose beneath Mount Li—
+    The royal line crumbled in one fateful hour,
+    And the Millet Song ceased to be called the Elegant Verse.
+
+    Yet fortune granted the Assembly at Kuixiu,
+    Where still they knew to honor the Zhou and its altars.
+    With five commands they planted the three bonds of order,
+    And through nine assemblies set the Central Lands aright.
+
+    Alas, who could match his benevolence?
+    They knew not they had merely borrowed what they could not return—
+    The blood-oath barely dry upon their lips,
+    When already someone dared to question the tripods' weight.
+
+    Had Guan Zhong's strength not stood that day,
+    Our people would have worn their robes reversed as barbarians.
+    Confucius himself was driven to endless wandering,
+    And even the auspicious Qilin fell to calamity—
+    No more could he dream of the Duke of Zhou.
+
+    Though I turn the whole realm in my hands, who would employ me?
+    Yet the sage's robe and ax carry meanings profound,
+    For the sacred brush knows no impossibility.
+  footnotes:
+  - key: ''
+    value: 'The Assembly at Kuixiu: Duke Huan of Qi gathered the feudal lords at Kuixiu to pledge their allegiance to Zhou authority.'
+  - key: ''
+    value: 'The glued boat: Zhou''s King Zhao died when Chu craftsmen deliberately weakened his boat with glue, causing it to sink mid-river.'
+  - key: ''
+    value: 'Mount Li beacons: King You of Zhou lit false beacon fires to amuse his concubine Baosi, destroying the credibility of the warning system. When real invaders came, no lords responded.'
+  - key: ''
+    value: 'The Millet Song: After the Zhou court''s move east, their royal poetry lost its status and was no longer classified as ''Elegant Verse'' (ya).'
+  - key: ''
+    value: 'The tripods'' weight: King Zhuang of Chu openly questioned which state possessed the Nine Tripods—symbols of the Mandate of Heaven—a direct challenge to Zhou supremacy.'
+  - key: ''
+    value: 'Confucius and the Qilin: The sage wept when he saw the auspicious qilin captured and killed, an omen of disorder in the world.'
+  - key: ''
+    value: 'The Duke of Zhou: Confucius revered the Duke of Zhou''s virtue and ritual mastery, seeking to restore them throughout his life.'
+  - key: ''
+    value: 'The robe and ax: The sage''s written word (represented by the ritual robe) and judgment (the executioner''s ax) wield power beyond ordinary instruments of rule.'

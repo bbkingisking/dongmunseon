@@ -1,0 +1,51 @@
+canonical:
+  title: 寄龍頭釋老
+  author: 李穀
+  language: lzh
+  text: 西原只有龍頭寺龍頭詩老釋儒閒我行正値花時節珍禽磔磔鳴春山靑衫故人亦好事邂逅三笑開塵顔高談劇飮白日永何人更道書生寒師乎勿誚不告別山花未落吾當還
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄龍頭釋老
+  author: 李穀
+  language: lzh
+  text: 西原只有龍頭寺。龍頭詩老釋儒閒。我行正値花時節。珍禽磔磔鳴春山。靑衫故人亦好事。邂逅三笑開塵顔。高談劇飮白日永。何人更道書生寒。師乎勿誚不告別。山花未落吾當還。
+korean:
+  title: 기 용두석로
+  author: 이곡
+  language: kor
+  text: |-
+    서원 땅에 다만 용두사가 있고
+    용두사 늙은 시인은 중과 선비 중간이라
+    내 걸음이 정히 꽃시절을 만나
+    이상한 새 짹짹 봄산에 울고 있네
+    청삼 입은 고인이 또한 풍류객이라
+    우연히 셋이 만나 웃으며 세상에 시달려 먼지 낀 얼굴을 폈네
+    고상한 얘기, 흥껏 마시기에 해도 길어라
+    뉘라서 서생이 차기만 하다더냐
+    스님, 고별 인사 없음을 나무라지 마소
+    산꽃 떨어지기 전 내 다시 돌아오리다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to the Poet-Priest of Dragon Head Temple
+  author: Lee Gok
+  language: eng
+  text: |-
+    In the western hills stands only Dragon Head Temple,
+    where the old poet-priest dwells between monk and scholar.
+    My journey arrives just as the flowers bloom—
+    strange birds chirp sharply across the spring mountains.
+    My old friend in blue robes is also a lover of elegance;
+    by chance we three meet, laughing away the dust of worldly troubles from our weathered faces.
+    High discourse and earnest drinking stretch the day long—
+    who says scholars live only in poverty?
+    Master, do not reproach me for departing without farewell.
+    Before the mountain flowers fall, I shall return.
+  footnotes:
+  - key: ''
+    value: Dragon Head Temple (용두사) was a real temple in medieval Korea, known as a gathering place for scholar-officials and monks who shared literary interests.
+  - key: ''
+    value: The 'three' meeting—the poet-speaker, the monk-poet, and the blue-robed friend—represents the ideal fellowship of the educated elite transcending their different roles.
+  - key: ''
+    value: The final couplet transforms a simple farewell into a promise of return, embodying the cyclic return of seasons and the eternal renewal of spring blossoms.

@@ -1,0 +1,47 @@
+canonical:
+  title: 寄香巖山睿上人
+  author: 朴仁範
+  language: lzh
+  text: 却憶前頭忽黯然共遊江海偶同船雲山凝志知何日松月聯文已十年自嘆迷津依闕下豈勝拋世臥溪邊煙波阻絶過千里鴈足書來不可傳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄香巖山睿上人
+  author: 朴仁範
+  language: lzh
+  text: 却憶前頭忽黯然。共遊江海偶同船。雲山凝志知何日。松月聯文已十年。自嘆迷津依闕下。豈勝拋世臥溪邊。煙波阻絶過千里。鴈足書來不可傳。
+korean:
+  title: 기 향암산 예상인
+  author: 박인범
+  language: kor
+  text: |-
+    인생의 앞길 생각하니 문득 서러운 마음
+    우연히 같은 배 타고 강해에 놀았었지
+    어느 날에야 청산 백운에 마음 수양할까
+    벌써 십 년이네 솔나무 사이 달 밑에 글짓던 것이
+    나루를 못 찾아 궐하의 내 신세 가엾어라
+    세상을 버리고 시냇가에 누움이 나으리
+    피차에 막힌 물결이 천 리도 더 되니
+    기러기 발의 글월이 온들 어찌 전하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to the Venerable Sleeper of Fragrant Rock Mountain
+  author: Park In-beom
+  language: eng
+  text: |-
+    Remembering the path ahead, my heart suddenly grows heavy with sorrow.
+    Once we shared a boat by chance, wandering through rivers and seas together.
+    When will we find a day to cultivate our spirits among blue mountains and white clouds?
+    It has been ten years already since we wrote verses together beneath the pines and moon.
+    I lament my lost way, dependent still on the palace walls below—
+    would it not be better to abandon the world and lie beside the stream?
+    Waves of mist and water, stretching now a thousand leagues and more between us,
+    how can geese carry letters when such distances cannot be crossed?
+  footnotes:
+  - key: ''
+    value: Fragrant Rock Mountain (香巖山) likely refers to a sacred mountain or retreat associated with the addressee.
+  - key: ''
+    value: The 'Venerable Sleeper' (睿上人) suggests the recipient is a Buddhist monk or spiritual adept.
+  - key: ''
+    value: The reference to 'geese carrying letters' alludes to the classical Chinese tradition of using migratory geese as messengers across great distances.

@@ -1,0 +1,47 @@
+canonical:
+  title: 楊花
+  author: 李齊賢
+  language: lzh
+  text: 似花非雪最顚狂空闊風微轉渺茫晴日欲迷深院落春波不動小池塘飄來釦砌輕無影吹入紗䆫細有香却憶東臯讀書處半隨紅雨撲空床
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 楊花
+  author: 李齊賢
+  language: lzh
+  text: 似花非雪最顚狂。空闊風微轉渺茫。晴日欲迷深院落。春波不動小池塘。飄來釦砌輕無影。吹入紗䆫細有香。却憶東臯讀書處。半隨紅雨撲空床。
+korean:
+  title: 양화
+  author: 이제현
+  language: kor
+  text: |-
+    꽃 비슷 눈은 아닌데 어찌 그리 하늘대나
+    넓은 하늘 솔솔 바람에 더욱 헤매는구나
+    갠 날 깊은 후원에 펄펄 날리고
+    작은 못[池] 봄 물결에 둥둥 떠있네
+    나부껴 섬돌에 앉으니 사뿐 그림자도 없고
+    불어 사창에 드니 향긋한 냄새
+    문득 회상되네, 동고에서 글 읽을 때
+    낙화와 반쯤 섞이어 빈 상에 지던 일
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: Willow Catkins
+  author: Lee Jae-hyeon
+  language: eng
+  text: |-
+    Like flowers yet not snow, how wildly they dance—
+    Across the empty expanse, the gentle wind sends them astray.
+    On clear days they scatter through the deep garden courts,
+    Floating on the still waters of the small pond.
+    When they alight on the stone steps, they cast no shadow,
+    Blown through the silk screens, they bring their fragrant breath.
+    Suddenly I recall those days at the eastern meadow,
+    Reading among the falling blossoms that drifted across my empty bed.
+  footnotes:
+  - key: ''
+    value: Willow catkins (양화) are the downy seeds of the willow tree, often confused with snow or blossoms due to their appearance and movement through the air.
+  - key: ''
+    value: The 'eastern meadow' (동고) refers to a place of scholarly retreat and study, evoking the poet's youthful days of reading and contemplation.
+  - key: ''
+    value: The 'falling blossoms' (낙화) reference peach or plum blossoms, which in Chinese poetry traditionally symbolize the transience of beauty and youth.

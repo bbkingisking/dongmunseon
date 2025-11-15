@@ -1,0 +1,35 @@
+canonical:
+  title: 荅平仲
+  author: 姜希孟
+  language: lzh
+  text: 杉松影裏一村家急雨顚風睡若何冷暖辛酸曾染指世間眞味到閑多
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 荅平仲
+  author: 姜希孟
+  language: lzh
+  text: 杉松影裏一村家。急雨顚風睡若何。冷暖辛酸曾染指。世間眞味到閑多。
+korean:
+  title: 답평중
+  author: 강희맹
+  language: kor
+  text: |-
+    삼나무와 소나무 그림자 속에 한 촌가 있는데
+    소나기와 미친 바람에 어떻게 잠을 자나
+    차고 덥고 쓰고 시매 일찍 손가락을 물들였거니
+    이 세상의 참맛은 한가한 데 이르러야 많더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0290&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Pyeongjoong
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    Beneath the shadows of cedar and pine stands a humble village home.
+    How can one sleep through the sudden downpour and the raging wind?
+    Cold and heat, bitterness and sorrow—my fingers have long tasted them all.
+    The true flavor of this world reveals itself only in leisure.
+  footnotes:
+  - key: ''
+    value: Pyeongjoong (平仲) likely refers to the recipient of this poem, to whom the author is responding. The poem contrasts the turbulent exterior world with the inner peace found in stillness and withdrawal from worldly concerns.

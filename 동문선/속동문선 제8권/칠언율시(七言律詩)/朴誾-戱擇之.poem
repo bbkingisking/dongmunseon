@@ -1,0 +1,48 @@
+canonical:
+  title: 戱擇之
+  author: 朴誾
+  language: lzh
+  text: 朝廷今要詩書學冠盖誰憐潦倒翁幽夢每回驚啄木小軒終日掃淸風酒盃欵欵無違拒憂喜悠悠倂一空身自低佪心已决舊山松筍謾成叢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 戱擇之
+  author: 朴誾
+  language: lzh
+  text: 朝廷今要詩書學。冠盖誰憐潦倒翁。幽夢每回驚啄木。小軒終日掃淸風。酒盃欵欵無違拒。憂喜悠悠倂一空。身自低佪心已决。舊山松筍謾成叢。
+korean:
+  title: 희택지
+  author: 박은
+  language: kor
+  text: |-
+    지금 조정에서는 시서의 학문을 요구하는데
+    관개에서 누가 이 늙은이를 가엾이 여기는가
+    꿈은 번번히 탁목새 소리에 놀라고
+    맑은 바람은 한종일 작은 난간을 쓰네
+    술잔은 정다와서 사양하는 일이 없고
+    근심과 기쁨은 유유하나 모두 비워 버린다
+    몸은 스스로 방황하나 마음은 이미 결정했거니
+    고향 산의 소나무와 죽순은 부질없이 떨기를 이루었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 관개(冠蓋) : '
+    value: 관(冠) 쓰고 일산[蓋]을 받친 이의 말인데, 여기서는 벼슬하는 이를 가리킨 것이다.
+english:
+  title: A Jest on Selection
+  author: Park Eun
+  language: eng
+  text: |-
+    The court now demands learning in poetry and books—
+    yet who among the officials pities this worn-out old man?
+    My dreams startle at every tap of the woodpecker's call,
+    and the clear wind sweeps all day through my humble dwelling.
+
+    The wine cup comes round without refusal or restraint,
+    while worry and joy alike dissolve into emptiness.
+    My body wanders still, though my heart has found its resolve—
+    the pines and bamboo shoots of my native hills grow thick for nothing.
+  footnotes:
+  - key: ''
+    value: 'Woodpecker''s call: a traditional symbol in Chinese poetry representing disturbance or interruption of quiet contemplation'
+  - key: ''
+    value: The contrast between the court's demands (poetry and books) and the speaker's chosen retreat suggests a commentary on refusing official service in favor of rural simplicity

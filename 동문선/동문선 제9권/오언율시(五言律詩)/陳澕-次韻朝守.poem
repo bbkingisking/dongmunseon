@@ -1,0 +1,45 @@
+canonical:
+  title: 次韻朝守
+  author: 陳澕
+  language: lzh
+  text: 淸切天居近徘徊閣道深樓明初榜殿月落半庭陰煙色籠溫樹風聲度舜琴醉顔侵夜起殘夢雜微吟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻朝守
+  author: 陳澕
+  language: lzh
+  text: 淸切天居近。徘徊閣道深。樓明初榜殿。月落半庭陰。煙色籠溫樹。風聲度舜琴。醉顔侵夜起。殘夢雜微吟。
+korean:
+  title: 아침에 궁궐을 수직하며 차운하여
+  author: 진화
+  language: kor
+  text: |-
+    맑고 엄숙히 임금 계신 곳 가깝고
+    빙빙 돌아 각도가 깊숙하네
+    처음 방 붙인 누각에 등불이 아직 환한데
+    달이 져 뜰[庭] 절반이 그늘 진 때
+    안개는 온실 나무에 자욱하고
+    바람결에 순의 거문고 타는 소리
+    거나한 얼굴로 날 새기 전 일어나니
+    꿈 아직 못 다 깬 채 가늘게 읊조리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 순(舜)의 거문고 : '
+    value: 순(舜)이 오현금(五絃琴)을 타면서 〈남풍가(南風歌)〉를 불렀다.
+english:
+  title: In Response to the Morning Watch at the Palace
+  author: Jin Hwa
+  language: eng
+  text: |-
+    Pure and solemn, the sovereign's dwelling draws near,
+    winding through passages that run ever deep.
+    Lanterns still glow in the newly-posted pavilion,
+    while the moon sets and half the courtyard falls to shadow.
+    Mist clings to the warm greenhouse trees,
+    and on the breeze comes the sound of Shun's zither playing.
+    With flushed face, I rise before dawn breaks,
+    still half-dreaming, I hum a trembling song.
+  footnotes:
+  - key: ''
+    value: 'Shun''s zither: According to legend, the sage-king Shun played a five-stringed qin while singing the ''Song of the South Wind,'' a hymn of benevolent governance.'

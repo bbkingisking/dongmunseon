@@ -1,0 +1,35 @@
+canonical:
+  title: 神勒寺
+  author: 李達善
+  language: lzh
+  text: 禪房僧已寂獨坐夜將分知有漁舟過江心人語聞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 神勒寺
+  author: 李達善
+  language: lzh
+  text: 禪房僧已寂。獨坐夜將分。知有漁舟過。江心人語聞。
+korean:
+  title: 신륵사
+  author: 이달선
+  language: kor
+  text: |-
+    선방의 스님들 고요해졌는데
+    혼자 앉았으매 밤중이 지내려 한다
+    고기잡이 배가 지나감을 알 수 있다니
+    강 복판에서 사람의 말소리가 들린다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0110&viewSync=OT
+  footnotes: []
+english:
+  title: Sinryeuk Temple
+  author: Lee Dal-seon
+  language: eng
+  text: |-
+    The meditation hall grows still—the monks at rest.
+    I sit alone as night draws near its end.
+    A fishing boat passes on the river;
+    From the water's heart, human voices drift to shore.
+  footnotes:
+  - key: ''
+    value: Sinryeuk Temple (神勒寺) is a historical Buddhist temple located on an island in the Yeongsan River in Korea, known for its serene setting and spiritual atmosphere.

@@ -1,0 +1,37 @@
+canonical:
+  title: 長峴下人家
+  author: 金宗直
+  language: lzh
+  text: 籬外紅桃竹數科𩁺𩁺雨脚閒飛花老翁荷耒兒騎犢子美詩中西崦家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長峴下人家
+  author: 金宗直
+  language: lzh
+  text: 籬外紅桃竹數科。𩁺𩁺雨脚閒飛花。老翁荷耒兒騎犢。子美詩中西崦家。
+korean:
+  title: 장현 하인가
+  author: 김종직
+  language: kor
+  text: |-
+    울타리 밖에는 붉은 복사꽃과 대나무 두어 가지
+    부실부실 빗발은 가끔 꽃을 날린다
+    늙은 첨지는 보습을 졌고 아이는 송아지를 탔나니
+    이것은 자미의 시 가운데 서암의 집일러라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0460&viewSync=OT
+  footnotes: []
+english:
+  title: 'Below Long Peak: A Rustic Home'
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Beyond the fence, red peach blossoms and bamboo stalks,
+    Soft rain-threads drift and scatter petals in their flight.
+    The old man carries his plow, the boy rides his calf—
+    A scene from Tu Fu's verse, the western valley's humble house.
+  footnotes:
+  - key: ''
+    value: Tu Fu (杜甫), the celebrated Tang Dynasty poet, frequently depicted rural life and pastoral scenes in his work. Kim Jong-jik invokes this classical reference to elevate the modest country dwelling to the realm of poetic tradition.
+  - key: ''
+    value: The 'western valley' (西崦) refers to a specific locale in classical poetry associated with rustic simplicity and natural beauty.

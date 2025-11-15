@@ -1,0 +1,48 @@
+canonical:
+  title: 新寓崇德寺
+  author: 李穡
+  language: lzh
+  text: 千車萬馬九街頭咫尺祗林境自幽枸杞映階紅欲滴葡萄滿架翠如流僧窓寄食生前事客枕思親半夜愁屈指歸軒今到未鎭江煙雨滿漁舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新寓崇德寺
+  author: 李穡
+  language: lzh
+  text: 千車萬馬九街頭。咫尺祗林境自幽。枸杞映階紅欲滴。葡萄滿架翠如流。僧窓寄食生前事。客枕思親半夜愁。屈指歸軒今到未。鎭江煙雨滿漁舟。
+korean:
+  title: 신우 숭덕사
+  author: 이색
+  language: kor
+  text: |-
+    천 수레 만 말이 오가는 번화한 거리
+    지척에 있는 절이 경개 절로 그윽하구나
+    구기꽃 섬돌에 비춰 벌겋게 뚝뚝 듣고
+    포도가 시렁에 가득 푸른 빛 줄줄 흐르는 듯
+    중의 방에 기숙하는 것 생전의 인연인가
+    나그네 베개엔 어버이 생각 밤중의 시름일세
+    돌아오시는 행차 기다리니 지금쯤 오셨을까
+    진강의 뽀오얀 비가 어선에 가득한데
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0600&viewSync=OT
+  footnotes: []
+english:
+  title: At the Suungdeok Temple on the New Manor
+  author: Lee Saek
+  language: eng
+  text: |-
+    A thousand carts and myriad horses throng the nine streets,
+    Yet the temple at hand withdraws into its own quiet realm.
+    Goji blossoms mirror the stone steps, red as if to drip,
+    While grapes spill across the trellis in cascades of green.
+
+    To lodge in the monk's quarters—a karma from life before,
+    A traveler's pillow bears the ache of distant parents through the night.
+    I count the hours, waiting for the lord's return—is he arriving now?
+    Zhenjiang's misty rain fills the fishing boats upon the river.
+  footnotes:
+  - key: ''
+    value: The 'nine streets' likely refers to a major urban center, possibly the capital, emphasizing the contrast between worldly bustle and monastic solitude.
+  - key: ''
+    value: The poem appears to have been written during the poet's stay at the temple, possibly during a period of political upheaval or personal uncertainty.
+  - key: ''
+    value: Zhenjiang (鎭江) is a city along the Yangtze River, suggesting either the poet's location or a symbolic evocation of distance and separation.

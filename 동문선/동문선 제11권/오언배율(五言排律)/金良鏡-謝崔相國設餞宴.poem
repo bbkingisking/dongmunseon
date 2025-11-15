@@ -1,0 +1,55 @@
+canonical:
+  title: 謝崔相國設餞宴
+  author: 金良鏡
+  language: lzh
+  text: 紫陌人相噵侯家有樂聲誰知賢相國寵餞老書生琥珀春波㶑珊瑚晚照明舞嬌回雪轉歌妙貫珠淸別語千金重歸心一羽輕國恩何以報出塞作長城
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝崔相國設餞宴
+  author: 金良鏡
+  language: lzh
+  text: 紫陌人相噵。侯家有樂聲。誰知賢相國。寵餞老書生。琥珀春波㶑。珊瑚晚照明。舞嬌回雪轉。歌妙貫珠淸。別語千金重。歸心一羽輕。國恩何以報。出塞作長城。
+korean:
+  title: 최상국이 베푼 송별연을 사례하여
+  author: 김양경
+  language: kor
+  text: |-
+    번화한 거리에서 사람들 말이
+    재상(宰相) 댁 풍악 소리 들려온다고
+    뉘라서 알았으리, 어진 정승님이
+    늙은 서생을 전송해 주실 줄
+    호박 잔에 봄 물결 철철 넘치고
+    산호 창에 석양이 환히 밝은데
+    춤추는 소매들은 눈송이 날 듯
+    묘한 노랫소리 구슬 굴리 듯
+    이별에 주신 말씀 천금 같으니
+    돌아갈 마음 새털처럼 가볍네
+    나라의 은혜를 어이 갚으리
+    변방에 나가서 장성 되오리다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: In Thanks for the Farewell Banquet Given by Minister Choe
+  author: Kim Yang-gyeong
+  language: eng
+  text: |-
+    Through the bustling streets, people whisper
+    of music drifting from the Minister's house.
+    Who would have known that a virtuous statesman
+    would honor an aging scholar with such farewell?
+
+    In amber cups, spring waters overflow,
+    while coral screens glow in the evening light.
+    The dancers' sleeves flutter like falling snow,
+    and their song flows pure as rolling pearls.
+
+    Your parting words are worth a thousand gold—
+    yet my returning heart weighs light as feathers.
+    How can I repay the nation's grace?
+    I shall go forth and become its Great Wall.
+  footnotes:
+  - key: ''
+    value: The poem references the traditional Korean literati practice of hosting farewell banquets for scholars embarking on service or journeys, emphasizing both the honor of the guest and the patron's virtue.
+  - key: ''
+    value: The final couplet contains a classical allusion to military service and sacrifice—becoming the 'Great Wall' suggests the poet's commitment to defend the nation, echoing the famous call to duty in Confucian literature.

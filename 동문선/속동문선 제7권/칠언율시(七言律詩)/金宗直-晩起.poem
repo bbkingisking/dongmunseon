@@ -1,0 +1,49 @@
+canonical:
+  title: 晩起
+  author: 金宗直
+  language: lzh
+  text: 紛紛物役盡輿臺高卧園廬樂不材籬落風膻尨警虎溪橋月淡鵲移梅霜華覆砌春猶冷人語連村夢已回家事無營因晩起非關肘柳與脩蛕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 晩起
+  author: 金宗直
+  language: lzh
+  text: 紛紛物役盡輿臺。高卧園廬樂不材。籬落風膻尨警虎。溪橋月淡鵲移梅。霜華覆砌春猶冷。人語連村夢已回。家事無營因晩起。非關肘柳與脩蛕。
+korean:
+  title: 만기
+  author: 김종직
+  language: kor
+  text: |-
+    시끄러운 물질에 매였는 것 모두 노예들이라
+    동산 초막에 높이 누워 부재를 즐기나니
+    울타리에 바람이 비끼매 삽살개가 호랑이를 경계하고
+    개울 다리에 달이 맑으매 까치가 매화나무로 옮긴다
+    서리꽃이 섬돌을 덮어 봄이 아직 차가운데
+    사람 소리가 마을에 연이었으니 꿈이 이제 깨었다
+    경영하는 집 일 없으매 늦게 일어났거니
+    주류와 수회에 관계된 것 아니다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0800&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주류(肘柳)와 수회(脩蛕) : '
+    value: 주류(肘柳)라는 말은 늙어서 쇠퇴되었다는 말이나 수회(脩蛕)는 미상이다.
+english:
+  title: Waking Late
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    All the bustling pursuits of the material world are but servitude.
+    I lie high in my mountain cottage, delighting in my uselessness.
+    When wind creeps through the fence, the shaggy dog growls at tigers.
+    When moonlight dims over the creek bridge, magpies flit to plum blossoms.
+    Frost-flowers blanket the stone steps; spring remains cold.
+    Village voices echo and drift—my dreams have now awakened.
+    With no household duties pressing, I wake up late.
+    This is not about the weariness of age or the weight of years.
+  footnotes:
+  - key: ''
+    value: The poem plays on the concept of 'uselessness' (不材) as a Daoist virtue—freedom from the demands of society and utility.
+  - key: ''
+    value: The natural images (dog, magpie, frost, moon) represent the harmonious simplicity of life removed from worldly entanglement.
+  - key: ''
+    value: The final couplet clarifies that late waking stems not from bodily decline or infirmity, but from deliberate withdrawal and contentment.

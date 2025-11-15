@@ -1,0 +1,39 @@
+canonical:
+  title: 絶句
+  author: 李黿
+  language: lzh
+  text: 十里長堤草似茵雨昏南浦長靑蘋落花啼鳥渾無賴閑閉柴門過一春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 絶句
+  author: 李黿
+  language: lzh
+  text: 十里長堤草似茵。雨昏南浦長靑蘋。落花啼鳥渾無賴。閑閉柴門過一春。
+korean:
+  title: 절구
+  author: 이원
+  language: kor
+  text: |
+    십 리 긴 뚝 위에 풀은 방석인 양
+    남포에 비 어둡고 푸른 마름 길었어라
+    지는 꽃 우는 새에 무료하기 짝이 없어
+    싸릿문 굳게 닫고 한 봄을 지났노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0430&viewSync=OT
+  footnotes: []
+english:
+  title: Quatrain
+  author: Lee Won
+  language: eng
+  text: |-
+    Ten miles of embankment, grass like a cushioned seat,
+    Rain dims the southern shore where blue duckweed stretches long.
+    Falling blossoms and crying birds—endless tedium—
+    I shut my rustic gate and let the spring pass by.
+  footnotes:
+  - key: ''
+    value: The 'southern shore' (南浦) is a traditional poetic reference to a place of departure or longing, often evoking themes of separation and melancholy.
+  - key: ''
+    value: The image of grass as a 'cushioned seat' suggests both the comfort and emptiness of nature's indifference to human emotion.
+  - key: ''
+    value: The act of closing the gate against spring's beauty represents a deliberate withdrawal from the world, suggesting either resignation or meditation.

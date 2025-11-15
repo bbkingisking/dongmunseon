@@ -1,0 +1,54 @@
+canonical:
+  title: 鏡湖
+  author: 崔承祐
+  language: lzh
+  text: 採蕨山前越國中麴塵秋水澹連空蘆花散撲沙頭雪菱菜吹生波口風方朔絳囊遊渺渺鴟夷桂楫去忩忩明皇乞與知章後萬頃恩波竟不窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鏡湖
+  author: 崔承祐
+  language: lzh
+  text: 採蕨山前越國中。麴塵秋水澹連空。蘆花散撲沙頭雪。菱菜吹生波口風。方朔絳囊遊渺渺。鴟夷桂楫去忩忩。明皇乞與知章後。萬頃恩波竟不窮。
+korean:
+  title: 경호
+  author: 최승우
+  language: kor
+  text: |-
+    채궐산 바로 앞 월나라 안에
+    파아란 가을 물이 맑게 하늘에 닿았네
+    갈꽃 흩어지니 모래 위에 눈보라요
+    마름잎 흔들리니 호수 어귀에 바람일세
+    동방삭은 붉은 주머니 차고 어디서 노는고
+    치이자의 계수 돛대는 총총히도 가버렸네
+    명황이 하지장에게 빌려 주신 뒤로부터
+    만경의 은혜 물결이 끝내 아니 마르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경호(鏡湖) : '
+    value: 감호(鑑湖)의 별칭. 또 장호(長湖)ㆍ태호(太湖)ㆍ하감호(賀監湖) 등의 이름이 있다. 절강성(淅江省) 소흥현(紹興縣)에 남아 있다.
+  - key: '[주-D002] 치이자(鴟夷子) : '
+    value: 곧 배를 타고 오호(五湖)에 떠간 월(越)나라 범려(范蠡)이다.
+  - key: '[주-D003] 하지장(賀知章) : '
+    value: 당(唐)나라의 시인이다. 현종(玄宗) 때 비서감(秘書監)으로 있다가 늙어서 벼슬을 그만두고 도사(道士)가 되어 돌아가기를 청하니, 경호(鏡湖) 한 구비를 조사(詔賜)하였다.
+english:
+  title: Mirror Lake
+  author: Choe Seung-u
+  language: eng
+  text: |-
+    Before the bracken-gathering hills, within the realm of Yue,
+    Clear autumn waters touch the sky in crystalline hue.
+    Reed blossoms scatter like snow upon the sand,
+    Water chestnuts drift where lakeside breezes fan.
+
+    Dongfang Shuo roams afar with crimson purse in hand,
+    While Chi Yi's laurel sail departs this misty land.
+    Since Ming Huang granted it to He Zhizhang's care,
+    Ten thousand acres of grace flow endlessly there.
+  footnotes:
+  - key: ''
+    value: Mirror Lake (also known as Jian Lake) is located in Shaoxing County, Zhejiang Province, and was historically a place of great renown in Chinese literature.
+  - key: ''
+    value: Chi Yi (the Osprey) refers to Fan Li, the legendary minister of Yue who, after achieving his purpose, sailed away to the Five Lakes to escape political turmoil.
+  - key: ''
+    value: He Zhizhang was a Tang Dynasty poet who served as Director of the Imperial Library under Emperor Xuanzong. In his old age, he retired and became a Daoist priest, and the Emperor granted him a portion of Mirror Lake as a gift.

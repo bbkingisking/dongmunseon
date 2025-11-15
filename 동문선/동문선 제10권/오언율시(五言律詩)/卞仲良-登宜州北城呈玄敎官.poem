@@ -1,0 +1,43 @@
+canonical:
+  title: 登宜州北城呈玄敎官
+  author: 卞仲良
+  language: lzh
+  text: 迢遞鐵關北孤臣奈此何老狐樓古壘夕鳥聚寒柯湖海三年謫秋風百感多那堪正飄泊賴有故人過
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登宜州北城呈玄敎官
+  author: 卞仲良
+  language: lzh
+  text: 迢遞鐵關北。孤臣奈此何。老狐樓古壘。夕鳥聚寒柯。湖海三年謫。秋風百感多。那堪正飄泊。賴有故人過。
+korean:
+  title: 의주 북성에 올라 현교관에게
+  author: 변중량
+  language: kor
+  text: |-
+    멀고 먼 철관 북쪽
+    외로운 신하 이를 어이할꼬
+    늙은 여우는 묵은 성에 깃들고
+    저녁 새들은 찬 나뭇가지에 모였네
+    호해에서 삼 년 동안 귀양살이에
+    가을 바람에는 백 가지 감회가 많고녀
+    어이 이 떠도는 신세를 견디어 갈까
+    친구에게 찾아주는 것 덕택일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: Ascending the Northern Fortress of Uiju, Presented to the Daoist Official Hyeon
+  author: Byeon Jungryang
+  language: eng
+  text: |-
+    Beyond the distant iron gate, far to the north—
+    what can a lonely exile do?
+    The old fox settles in the crumbling fortress,
+    evening birds gather on the frozen boughs.
+    Three years of banishment by lake and sea,
+    and autumn winds bring a hundred sorrows.
+    How can I endure this drifting, homeless fate?
+    Only by the grace of friends who seek me out.
+  footnotes:
+  - key: ''
+    value: The 'iron gate' likely refers to a strategic frontier boundary, emphasizing the speaker's remote exile. 'Old fox' is a classical allusion suggesting aged cunning or resignation to circumstance.

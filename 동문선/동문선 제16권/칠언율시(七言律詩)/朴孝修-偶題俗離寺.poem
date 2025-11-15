@@ -1,0 +1,53 @@
+canonical:
+  title: 偶題俗離寺
+  author: 朴孝修
+  language: lzh
+  text: 嵯峩四面碧芙蓉長岬靈源第幾重文藏臺封千古蘚亐陁窟蔭萬株松龍歸塔裏留眞骨騾卧嵒前訪聖蹤永福三韓誰是主珊瑚殿上紫金容
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偶題俗離寺
+  author: 朴孝修
+  language: lzh
+  text: 嵯峩四面碧芙蓉。長岬靈源第幾重。文藏臺封千古蘚。亐陁窟蔭萬株松。龍歸塔裏留眞骨。騾卧嵒前訪聖蹤。永福三韓誰是主。珊瑚殿上紫金容。
+korean:
+  title: 우제 속리사
+  author: 박효수
+  language: kor
+  text: |-
+    사면에 높이 솟은 푸른 연꽃 같은 봉들
+    긴 곶 신비한 물 근원이 몇 겹이나 되는고
+    문장대 위엔 천 년 이끼가 덮이었고
+    우타굴 앞엔 만 그루 소나무가 그늘졌네
+    용은 탑 속에 들어가 진골을 머물렀고
+    노새가 바위 앞에 누워서 거룩한 자취를 찾았다네
+    길이 삼한에 복을 내릴 분이 뉘신고
+    금부처 산호전 위에 엄연히 앉아 계시네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 용(龍)은 탑 …… 머물렀고 : '
+    value: 법주사(法住寺) 뜰에 고려 승 자정(慈淨)의 비와 탑이 있다. 자정은 고려 왕자 출신.
+  - key: '[주-D002] 노새가 바위 …… 자취를 찾았다네 : '
+    value: 법주사 전설에, “신라 중 의신(義信)이 노새로 경(經)을 싣고 와 처음 이 절을 이룩했다.” 한다.
+  - key: '[주-D003] 금부처 산호전(珊瑚殿) …… 앉아 계시네 : '
+    value: 법주사에 산호전이 있고, 거기 금신(金身) 장륙상(丈六像)이 있다.
+english:
+  title: Casually Inscribed at Songnisa Temple
+  author: Park Hyo-su
+  language: eng
+  text: |-
+    From all four sides, peaks rise like green lotus blooms,
+    A long promontory, its sacred spring—how many layers deep?
+    On Moongjang Peak a thousand years of moss have gathered,
+    Before Udah Grotto ten thousand pines cast their shade.
+    The dragon entered the pagoda, leaving bones of truth behind,
+    The mule lay at the rocky gate, tracing holy footprints.
+    Who is the master bringing eternal blessings to these three kingdoms?
+    On the Coral Hall's throne sits the golden Buddha, serene and bright.
+  footnotes:
+  - key: ''
+    value: The dragon and pagoda reference the Goryeo monk Ja-jeong, whose reliquary and memorial stupa stand in the temple grounds.
+  - key: ''
+    value: 'The mule refers to the founding legend of Songnisa: the Silla monk Ui-sin arrived carrying sutras on a mule, establishing the temple.'
+  - key: ''
+    value: The Coral Hall houses a golden Buddha statue of monumental proportions, sixteen feet in height.

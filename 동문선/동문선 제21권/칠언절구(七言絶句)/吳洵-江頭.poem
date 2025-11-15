@@ -1,0 +1,37 @@
+canonical:
+  title: 江頭
+  author: 吳洵
+  language: lzh
+  text: 春江無際暝烟沉獨把漁竿坐夜深餌下纖鱗知幾箇十年空有釣鰲心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 江頭
+  author: 吳洵
+  language: lzh
+  text: 春江無際暝烟沉。獨把漁竿坐夜深。餌下纖鱗知幾箇。十年空有釣鰲心。
+korean:
+  title: 강두
+  author: 오순
+  language: kor
+  text: |-
+    끝 없는 봄 강은 어두운 연기에 잠겼는데
+    나 혼자 낚싯대 잡고 깊은 밤에 앉아 있다
+    미끼 끝에 어린 고리 몇 마린가
+    십 년에 속절없이 새우 낚을 마음만 가졌었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0500&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 새우 낚을 : '
+    value: 이백이 어느 재상을 찾아갔는데 명함에, ‘해상조오객 이백(海上釣鰲客 李白)’이라 하였다. 주인이 묻기를, “새우[鰲]를 낚는 데는 무엇을 미끼로 하는가.” 하니, 이백은 “천하에 무의(無義)한 사람으로써 미끼를 삼는다.” 하였다.
+english:
+  title: By the River
+  author: Wu Xun
+  language: eng
+  text: |-
+    The boundless spring river darkens, swallowed by mist and smoke.
+    Alone, I grip my fishing rod and sit through the deepening night.
+    How many silver scales nibble at my bait?
+    Ten years have passed—still harboring this futile dream of catching great fish.
+  footnotes:
+  - key: ''
+    value: 'The final image alludes to a famous anecdote about Li Bai, who visited a chancellor with a calling card reading ''Li Bai, Seeker of Great Fish in the Sea.'' When asked what bait he used to catch such creatures, Li Bai replied: ''Men without virtue.'' The poem thus suggests the speaker''s long, unrequited pursuit of something that may never come.'

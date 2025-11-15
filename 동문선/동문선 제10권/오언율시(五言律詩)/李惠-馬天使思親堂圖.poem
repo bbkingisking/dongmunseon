@@ -1,0 +1,47 @@
+canonical:
+  title: 馬天使思親堂圖
+  author: 李惠
+  language: lzh
+  text: 思親堂可畫孝子意難摹懷橘戀河曲乘査窮海隅秋風吹去鴈斜日照慈烏囊底無長物唯藏一軸圖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 馬天使思親堂圖
+  author: 李惠
+  language: lzh
+  text: 思親堂可畫。孝子意難摹。懷橘戀河曲。乘査窮海隅。秋風吹去鴈。斜日照慈烏。囊底無長物。唯藏一軸圖。
+korean:
+  title: 마천사 사친당도
+  author: 이혜
+  language: kor
+  text: |-
+    사친당은 그림에 그릴 수도 있겠지만 어버이를 생각하는
+    효자의 마음은 묘사하기가 어렵네
+    귤을 품어 하곡을 그리워하고
+    뗏목을 타고선 해우로 왔네
+    가을 바람은 가는 기러기를 불어보내고
+    저녁빛은 자애로운 까마귀를 비치네
+    주머니 속에 다른 물건 없고
+    오직 이 한 폭 그림을 간직하였네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0900&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 귤을 품어[懷橘] : '
+    value: 육적(陸績)이 6세 때에 원술(袁術)에게 갔는데, 귤(橘)을 내어 손님을 대접하였다. 육적이 하직하여 나오면서 절을 하는데, 귤이 품 안에서 떨어졌다. 원술이 웃으면서, “동자(童子)는 왜 귤을 품에 넣었는가.” 하니, 대답하기를, “어머니에게 드리려 합니다.” 하였다.
+english:
+  title: On Ma Tianshi's Painting of the Hall of Filial Remembrance
+  author: Lee Hui
+  language: eng
+  text: |-
+    A hall of remembrance can be brushed onto silk,
+    Yet a filial son's heart defies the artist's hand.
+    He cherishes oranges, yearning for the river bend,
+    On a raft he journeys to the distant sea's end.
+    Autumn winds scatter the departing geese in flight,
+    Evening sunlight illuminates the tender crow's light.
+    His pouch holds nothing of worldly concern—
+    Only this one scroll he keeps in his heart's turn.
+  footnotes:
+  - key: ''
+    value: The 'cherishing oranges' alludes to the young Lu Ji, who at six years old secretly tucked oranges in his breast when visiting Yuan Shu, intending to bring them home as a gift for his mother—an exemplar of filial devotion in Chinese tradition.
+  - key: ''
+    value: '''The tender crow'' (慈烏) is a traditional symbol of filial piety and maternal devotion in East Asian literature.'

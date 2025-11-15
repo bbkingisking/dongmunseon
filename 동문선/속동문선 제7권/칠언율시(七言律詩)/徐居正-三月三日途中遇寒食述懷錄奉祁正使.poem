@@ -1,0 +1,49 @@
+canonical:
+  title: 三月三日途中遇寒食述懷錄奉祁正使
+  author: 徐居正
+  language: lzh
+  text: 江湖索寞斷人烟百五正當寒食天節物今年差較晩風光觸處動相牽金岩日暖初楊柳劒水春寒未杜鶻辜負踏靑酬令節客中時序劇悠然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 三月三日途中遇寒食述懷錄奉祁正使
+  author: 徐居正
+  language: lzh
+  text: 江湖索寞斷人烟。百五正當寒食天。節物今年差較晩。風光觸處動相牽。金岩日暖初楊柳。劒水春寒未杜鶻。辜負踏靑酬令節。客中時序劇悠然。
+korean:
+  title: 3월 3일 도중 우 한식 술회 녹봉 기정사
+  author: 서거정
+  language: kor
+  text: |-
+    강호가 삭막하여 사람 연기 끊겼는데
+    백오일 만에 바로 한식 때를 당하였네
+    금년에는 절물이 어긋나 비교적 늦었는데
+    가는 곳마다 풍광은 움직여 서로 끄은다
+    금암에는 날이 따뜻해 첫 버들이 피는데
+    검수에는 봄이 차가워 아직 두견 안 피었네
+    답청 좋은 철 헛되이 보냈거니
+    객지의 시절 차례는 매우 유연하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백오일(百五日) : '
+    value: 동지(冬至)에서 한식날까지 꼭 105일이 되므로 한식을 백오절이라고도 함
+  - key: '[주-D002] 답청(踏靑) : '
+    value: 3월 3일을 답청절(踏靑節)이라고 한다.
+english:
+  title: 'On the Third Day of the Third Month, Encountering Cold Food Festival on the Road: A Record of Reflections Presented to the Royal Envoy Gi'
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The rivers and lakes lie desolate, smoke of human habitation cut off.
+    After one hundred and five days, we arrive at Cold Food's season.
+    This year the turning of the world comes late, the timing gone awry—
+    Yet everywhere the light strikes, the landscape stirs and pulls at the heart.
+    At Golden Cliffs the sun warms, and the first willows begin to show,
+    While at Sword Water spring still holds its chill, and the cuckoo has not yet sung.
+    I have squandered the fine day of spring wandering, unfulfilled,
+    And in this guest's exile, time flows on, endless and uncertain.
+  footnotes:
+  - key: ''
+    value: Cold Food Festival (한식) falls exactly 105 days after the winter solstice, marking a traditional moment of seasonal transition in East Asian calendars.
+  - key: ''
+    value: The Third Day of the Third Month was traditionally celebrated as the Spring Wandering Festival (踏靑節), a time for outdoor travels and enjoying spring scenery—which makes the poet's inability to celebrate it all the more poignant.

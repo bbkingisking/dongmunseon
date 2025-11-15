@@ -1,0 +1,44 @@
+canonical:
+  title: 渡臨津
+  author: 姜希孟
+  language: lzh
+  text: 一舸度淸津江花欲暮春潮回沙有迹風細水生鱗地僻帆檣少人稀鷗鷺馴經行曾幾日不覺鬢絲新
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 渡臨津
+  author: 姜希孟
+  language: lzh
+  text: 一舸度淸津。江花欲暮春。潮回沙有迹。風細水生鱗。地僻帆檣少。人稀鷗鷺馴。經行曾幾日。不覺鬢絲新。
+korean:
+  title: 도임진
+  author: 강희맹
+  language: kor
+  text: |-
+    조각배로 맑은 나루 건너가노니
+    강 가의 꽃에 봄은 저물려 하네
+    조수가 돌아 나가 모래밭에 흔적 있고
+    바람이 부드러워 물에 비늘 생긴다
+    땅이 궁벽하매 배 나들이가 적고
+    사람 발길 드물매 해오라기 순하여라
+    이곳을 지나 다니기 얼마였던가
+    살쩍 세는 줄 못 깨달았네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0110&viewSync=OT
+  footnotes: []
+english:
+  title: Crossing Imjin Ford
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    A small boat crosses the clear ford,
+    As spring fades on the river flowers.
+    The turning tide leaves traces in the sand,
+    Gentle winds ruffle the water like scales.
+
+    The remote land sees few sails pass,
+    And herons grow tame where few people tread.
+    How many days have I wandered here?
+    Yet I scarcely noticed my hair turning grey.
+  footnotes:
+  - key: ''
+    value: Imjin Ford (臨津) was a historically significant crossing point on the Imjin River on the Korean peninsula, making this poem's setting one of geographical and perhaps personal significance.

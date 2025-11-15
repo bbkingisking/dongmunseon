@@ -1,0 +1,47 @@
+canonical:
+  title: 和董文功錄事
+  author: 林惟正
+  language: lzh
+  text: 學堂日無事韓愈 引睡臥看書永叔 洗酌開新醞杜甫 呼兒掃弊廬司馬光 幽花欹滿樹杜甫 涼月巧臨除林敏 虛室絶塵想陶潛 陶潛語不虛樂天
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和董文功錄事
+  author: 林惟正
+  language: lzh
+  text: 學堂日無事。韓愈。 引睡臥看書。永叔。 洗酌開新醞。杜甫。 呼兒掃弊廬。司馬光。 幽花欹滿樹。杜甫。 涼月巧臨除。林敏。 虛室絶塵想。陶潛。 陶潛語不虛。樂天。
+korean:
+  title: 화 동문공 녹사
+  author: 임유정
+  language: kor
+  text: |-
+    학당에 날마다 일이 없어서 한유(韓愈)
+    누워서 졸음을 청하느라 책을 보네 영숙(永叔)
+    잔을 씻어 놓고 새 술독을 열기도 두보(杜甫)
+    애를 불러 헌 집을 쓸기도 하고. 사마광(司馬光)
+    그윽한 꽃은 비스듬히 나무에 가득하고 두보(杜甫)
+    서늘한 달은 공교로이 안뜰을 비치는데 임민(林敏)
+    빈 방에 티끌 생각 끊인다 도잠(陶潛)
+    연명의 시[詞]의 말이 헛되지 않구나 낙천(樂天)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Dongmungong, the Recording Clerk
+  author: Lim Yujeong
+  language: eng
+  text: |-
+    In the study hall, day after day brings no urgent matters—Han Yu knows this well.
+    I lie drowsing, seeking sleep while still turning pages—Yongseok's way.
+    I rinse the cups and open vessels of fresh wine—as Du Fu did.
+    I call the servants to sweep the old house clean—following Sima Guang.
+    Delicate flowers lean askew, adorning every branch—Du Fu's vision.
+    The cool moon shines cunningly across the courtyard—Lin Min perceives it so.
+    In the empty room, dust-laden thoughts dissolve—Tao Qian's refuge.
+    Yet Baiju's words prove true and never hollow—his wisdom endures.
+  footnotes:
+  - key: ''
+    value: This poem employs a classical technique of weaving together fragments from celebrated poets and historical figures, creating a tapestry of contemplative life and refined leisure.
+  - key: ''
+    value: The progression moves from intellectual pursuits (reading, wine) through domestic order (sweeping) to spiritual emptiness (the empty room), reflecting a journey toward inner peace.
+  - key: ''
+    value: Tao Qian and Bai Juyi (Baiju) represent different philosophical approaches to contentment—one through withdrawal, the other through acceptance.

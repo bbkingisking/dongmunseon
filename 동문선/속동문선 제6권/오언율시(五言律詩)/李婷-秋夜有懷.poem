@@ -1,0 +1,45 @@
+canonical:
+  title: 秋夜有懷
+  author: 李婷
+  language: lzh
+  text: 雙鬢白已盡悠悠此夜心天邊一行鴈霜外數聲砧庭樹生秋影簷雲起夕陰相思意不盡回首憶君吟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋夜有懷
+  author: 李婷
+  language: lzh
+  text: 雙鬢白已盡。悠悠此夜心。天邊一行鴈。霜外數聲砧。庭樹生秋影。簷雲起夕陰。相思意不盡。回首憶君吟。
+korean:
+  title: 추야 유회
+  author: 이정
+  language: kor
+  text: |-
+    두 살쩍이 이미 다 희었거니
+    유유하여라 이 밤의 마음이여
+    하늘 가에 한 줄의 기러기인데
+    서리 밖에는 다듬이질 두어 소리
+    뜰 나무에는 가을 그림자 생기고
+    처마 구름은 저녁 그늘에 인다
+    생각하는 그 뜻이 끝이 없거니
+    머리 돌려 그대를 생각하며 시를 읊노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0510&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 月山君 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: Autumn Night's Reverie
+  author: Lee Jeong
+  language: eng
+  text: |-
+    My temples have turned completely white,
+    And this night's heart drifts on and on.
+    A line of geese crosses the distant sky—
+    Beyond the frost, the sound of fulling stones.
+    Autumn's shadow falls upon the courtyard trees,
+    While clouds at the eaves darken into evening.
+    My longing knows no end,
+    Turning back, I speak your name in verse.
+  footnotes:
+  - key: ''
+    value: The fulling stones (砧) refer to the wooden blocks used in cloth-making, whose rhythmic sounds were traditionally associated with autumn nights and nostalgia in East Asian poetry.

@@ -1,0 +1,39 @@
+canonical:
+  title: 東都客館
+  author: 金君綏
+  language: lzh
+  text: 武烈王孫文烈家雞林眞骨得無誇故鄕尙在天東角今幸來遊作使華
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東都客館
+  author: 金君綏
+  language: lzh
+  text: 武烈王孫文烈家。雞林眞骨得無誇。故鄕尙在天東角。今幸來遊作使華。
+korean:
+  title: 동도 객관
+  author: 김군수
+  language: kor
+  text: |-
+    무열왕 왕손이요 문열공 집이라
+    계림의 진골 자랑할 만 않으랴
+    고향은 하늘 동쪽에 있었더니
+    이제 다행히 사신 되어 와서 노네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0380&viewSync=OT
+  footnotes: []
+english:
+  title: The Guest House of the Eastern Capital
+  author: Kim Gun-su
+  language: eng
+  text: |-
+    Descendant of the Martial King, heir to Minister Munryeol's house,
+    A true bone of Gyerim—why should I not take pride?
+    My homeland remains in heaven's eastern corner,
+    Yet here I am, fortunate to have come as an envoy, wandering free.
+  footnotes:
+  - key: ''
+    value: Gyerim (鷄林) is an ancient name for the Korean kingdom of Silla, from which the true bone (真骨) aristocratic class emerged.
+  - key: ''
+    value: The 'Martial King' (武烈王) and 'Minister Munryeol' (文烈公) likely refer to illustrious ancestors in the poet's lineage.
+  - key: ''
+    value: The poem plays on the tension between the poet's nostalgic attachment to his distant homeland and his present status as an envoy at the court.

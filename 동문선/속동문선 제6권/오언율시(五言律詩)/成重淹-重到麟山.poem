@@ -1,0 +1,48 @@
+canonical:
+  title: 重到麟山
+  author: 成重淹
+  language: lzh
+  text: 暫被金鷄赦重爲白首囚冰霜圍舊宅桂玉起新愁行止非人力窮通與道謀龍灣奇絶景天意盡冥搜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 重到麟山
+  author: 成重淹
+  language: lzh
+  text: 暫被金鷄赦。重爲白首囚。冰霜圍舊宅。桂玉起新愁。行止非人力。窮通與道謀。龍灣奇絶景。天意盡冥搜。
+korean:
+  title: 중도 인산
+  author: 성중엄
+  language: kor
+  text: |-
+    잠깐 금계의 용서를 입었다가
+    흰 머리로 다시 죄수 되었다
+    얼음과 서리는 옛 집을 둘렀는데
+    계수[桂 땔나무]와 옥(쌀)은 새 시름 일으킨다
+    행하고 그치는 것 사람의 힘이 아닌데
+    궁하고 통하는 것 도와 더불어 꾀하자
+    용만은 매우 기이한 경치거니
+    하늘 뜻을 가만히 가만히 더듬어 본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0750&viewSync=OT
+  footnotes: []
+english:
+  title: Returning to Imsan Mountain
+  author: Seong Jung-eom
+  language: eng
+  text: |-
+    A moment's reprieve from the Golden Rooster's pardon,
+    yet I am imprisoned again with whitened hair.
+    Frost and ice encircle my old dwelling,
+    while cinnamon and jade awaken fresh sorrow.
+
+    To go or stay lies beyond human will—
+    prosperty and ruin are counseled by the Way.
+    Yongwan spreads its wondrous, incomparable vistas;
+    silently, I trace the hidden designs of Heaven.
+  footnotes:
+  - key: ''
+    value: The 'Golden Rooster' refers to a pardon or temporary amnesty, a classical reference to imperial clemency.
+  - key: ''
+    value: The cinnamon tree and jade are symbols of noble virtue and worth, here suggesting both beauty and the source of renewed melancholy.
+  - key: ''
+    value: Yongwan (용만) appears to be a specific location of scenic beauty, possibly the mountain or valley where the poet finds solace and reflection.

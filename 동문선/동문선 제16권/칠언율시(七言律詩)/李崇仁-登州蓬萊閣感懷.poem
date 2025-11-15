@@ -1,0 +1,51 @@
+canonical:
+  title: 登州蓬萊閣感懷
+  author: 李崇仁
+  language: lzh
+  text: 征鞍初卸郡城西又向峯頭杖瘦藜暘谷波翻看日出蓬萊雲近訝天低坡仙絶唱誰能和島客幽魂每欲迷自是登臨多古意非關遊子獨悲凄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登州蓬萊閣感懷
+  author: 李崇仁
+  language: lzh
+  text: 征鞍初卸郡城西。又向峯頭杖瘦藜。暘谷波翻看日出。蓬萊雲近訝天低。坡仙絶唱誰能和。島客幽魂每欲迷。自是登臨多古意。非關遊子獨悲凄。
+korean:
+  title: 등주 봉래각 감회
+  author: 이숭인
+  language: kor
+  text: |-
+    군성 서쪽서 가던 말을 잠깐 멈추고
+    산 머리를 향하여 지팡이 짚고 올라왔네
+    양곡에 뒤집는 물결 솟는 해가 보이고
+    봉래의 구름이 가까워 하늘이 낮아진 듯
+    파선의 절창을 뉘 능히 화답할꼬
+    섬 손의 구슬픈 혼이 여지껏 헤매누나
+    예 오르면 워낙 회고의 뜻이 많거니
+    타향에 노니는 자의 쓸쓸함만 아니로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0980&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 섬 손[島客] : '
+    value: 진말(秦末) 제(齊)의 왕 전횡(田橫)의 종자(從者)들. 전횡이 항우(項羽)와 싸워 제(齊) 땅을 회복하고 3년 동안 왕이 되었으나, 한(漢)에게 눌려 종자 5백명을 데리고 섬으로 망명해 들어가 있다가 한 고조(漢高祖)가 통일한 뒤에 항복하기를 명하매 부득이 두 객을 데리고 낙양(洛陽) 30리 밖까지 와서 자살했다. 섬에 있던 5백여 명도 전횡이 죽었다는 소식을 듣고 모두 자살했다. 동주 앞 바다에 ‘전횡섬’이 있다고 한다.
+english:
+  title: Reflections at Penglai Tower in Dengzhou
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    I dismount where the garrison city fades westward,
+    and lean upon my staff to climb toward the mountain's crown.
+    At Yanggu's edge the waves turn back—I see the sun rise,
+    and Penglai's clouds draw near until the sky descends.
+
+    Who can answer Posian's sublime song?
+    The island wanderer's lonely spirit still wanders without rest.
+    Yet when one ascends these heights, the heart fills naturally with memory,
+    not merely the melancholy of a traveler far from home.
+    No, it is something deeper—the weight of all that was.
+  footnotes:
+  - key: ''
+    value: Posian (坡仙) refers to Su Shi, the great Song poet, who wrote famous verses about Penglai, the legendary island of immortals in Chinese mythology.
+  - key: ''
+    value: The 'island wanderer' alludes to the followers of Tian Heng, a general from the Qin-Han period, who fled to an island rather than submit to the Han dynasty. When their lord died, they chose death over survival, becoming emblems of loyalty and melancholy exile.
+  - key: ''
+    value: Penglai Tower stands overlooking the Yellow Sea in Dengzhou (modern Yantai), Shandong Province, a site famed in classical Chinese poetry for its connection to myths of paradise and immortality.

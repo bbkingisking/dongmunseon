@@ -1,0 +1,37 @@
+canonical:
+  title: 赤道寺
+  author: 金富軾
+  language: lzh
+  text: 聖祖樓船憇此中江山王氣尙葱葱當時故事無人識除却堂堂十八公
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 赤道寺
+  author: 金富軾
+  language: lzh
+  text: 聖祖樓船憇此中。江山王氣尙葱葱。當時故事無人識。除却堂堂十八公。
+korean:
+  title: 적도사
+  author: 김부식
+  language: kor
+  text: |-
+    성조의 누선이 이곳에서 쉬었거니
+    강산의 왕기는 아직도 자욱하다
+    당당한 십팔공(十八公) 제해 놓고는
+    그때의 고사를 아는 이 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 십팔공(十八公) : '
+    value: 솔[松]을 십팔공(十八公)이라 하는데, 송(松) 자를 파자(破字)한 것이다.
+english:
+  title: The Red Path Temple
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The Sacred Ancestor's river-boat found rest within these walls,
+    And still the mountain's imperial fortune rises thick as mist.
+    But who remembers now the tales of those ancient days?
+    Save only for the Eighteen Sages standing proud and tall.
+  footnotes:
+  - key: ''
+    value: The 'Eighteen Sages' (十八公) refers to pine trees, a play on the character 松 (pine), which when broken down resembles the number eighteen written in classical form.

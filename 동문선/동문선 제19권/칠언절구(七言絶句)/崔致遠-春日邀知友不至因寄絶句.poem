@@ -1,0 +1,37 @@
+canonical:
+  title: 春日邀知友不至因寄絶句
+  author: 崔致遠
+  language: lzh
+  text: 每憶長安舊苦辛那堪虛擲故園春今朝又負遊山約悔識塵中名利人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春日邀知友不至因寄絶句
+  author: 崔致遠
+  language: lzh
+  text: 每憶長安舊苦辛。那堪虛擲故園春。今朝又負遊山約。悔識塵中名利人。
+korean:
+  title: 봄날에 벗을 청하였으나 오지 않아 절구를 부친다
+  author: 최치원
+  language: kor
+  text: |-
+    매양 장안에서 고생하던 일 생각하면
+    차마 어찌 고원의 봄을 헛되이 보내랴
+    오늘 아침 또 산놀이 약속을 저버리는구나
+    뉘우치노라 티끌 속의 명리인 알게 된 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0050&viewSync=OT
+  footnotes: []
+english:
+  title: 'Spring Day: Inviting a Friend Who Does Not Come, Sent in Verse'
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Remembering long ago the hardships endured in Chang'an—
+    how can I bear to let this spring in my homeland slip away in vain?
+    Yet this morning I break my promise to walk the mountains,
+    regretting the day I came to know those who chase fame and profit in the dust.
+  footnotes:
+  - key: ''
+    value: 'Chang''an (長安): The ancient capital of China, likely referring to Choi Chi-won''s years of service in China during the Tang Dynasty'
+  - key: ''
+    value: The broken promise to walk the mountains represents the speaker's entanglement with worldly affairs and social obligations that prevent simple communion with nature and friends

@@ -1,0 +1,37 @@
+canonical:
+  title: 贈彌勒住老
+  author: 金克己
+  language: lzh
+  text: 林端窈渺路逶遅境僻寧敎俗士知唯有雪衣松上鶴見公初到結廬時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈彌勒住老
+  author: 金克己
+  language: lzh
+  text: 林端窈渺路逶遅。境僻寧敎俗士知。唯有雪衣松上鶴。見公初到結廬時。
+korean:
+  title: 미륵암 주지 노장에게
+  author: 김극기
+  language: kor
+  text: |-
+    수풀은 그윽하고 길은 아득하네
+    땅이 궁벽하니 어찌 속세 선비 알도록 하랴
+    오직 눈 같은 옷을 입은 소나무 위의 학만이
+    그대 처음 와서 이 절 짓는 걸 보았네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0680&viewSync=OT
+  footnotes: []
+english:
+  title: To the Abbot of Mireuk Hermitage
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The forest deepens in misty shadow, the path winds away and fades.
+    The land lies remote—how could worldly scholars ever know of this place?
+    Only the crane in white robes, perched upon the pine,
+    Witnessed you arriving to build your hermitage from the first day.
+  footnotes:
+  - key: ''
+    value: Mireuk (彌勒) refers to Maitreya Buddha, and hermitages dedicated to this bodhisattva were common in Korean Buddhism. The addressee, an abbot or elder master, has come to establish a new monastery or hermitage in this remote location.
+  - key: ''
+    value: The 'crane in white robes' is a classical image linking Daoist immortals and Buddhist monks, representing spiritual purity and transcendence. The crane serves as the sole witness to the abbot's arrival and the founding of the monastery, suggesting that only nature and the divine perceive this sacred act.

@@ -1,0 +1,50 @@
+canonical:
+  title: 木落
+  author: 韓脩
+  language: lzh
+  text: 木落悲秋盡床寒覺夜長回風搖閉戶飢鼠闘空梁世事莊生蝶人情華氏羊塵纓未濯久明發問滄浪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 木落
+  author: 韓脩
+  language: lzh
+  text: 木落悲秋盡。床寒覺夜長。回風搖閉戶。飢鼠闘空梁。世事莊生蝶。人情華氏羊。塵纓未濯久。明發問滄浪。
+korean:
+  title: 목락
+  author: 한수
+  language: kor
+  text: |-
+    나뭇잎 지니 가을 다한 것이 슬프고
+    자리가 차니 밤 긴 것을 알겠구나
+    휘도는 바람은 닫힌 문을 흔들고
+    주린 쥐들은 빈 들보에 소란하네
+    세상일이 장생(장자(莊子))이 나비이요
+    인정은 화씨의 양이어라
+    먼지 묻은 갓끈을 오래 씻지 못하였으니
+    내일 창랑을 찾아가리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화씨(華氏)의 양(羊) : '
+    value: 춘추 때에 송(宋)나라 화원(華元)이 양(羊)을 잡아 여러 사람을 대접하였는데, 그 어자(御者) 양침(羊斟)은 얻어 먹지 못하여 불평을 품었다가, 그 뒤에 송나라와 정(鄭)나라가 싸울 때에 양침이, “전일에 양을 잡아 대접할 때는 당신의 마음대로 하였지마는, 오늘 전쟁에 수레를 모는 것은 내 마음대로 하겠다.” 하고는 화원의 탄 수레를 몰고 정나라 군중으로 달려 들어갔으므로 화원이 패하였다.
+english:
+  title: Falling Leaves
+  author: Han Soo
+  language: eng
+  text: |-
+    Leaves fall and autumn's end brings sorrow,
+    Cold spreads across the mat—now I know night's length.
+    The turning wind shakes at the barred door,
+    While hungry rats quarrel in the empty rafters.
+
+    Worldly affairs are but Zhuangzi's butterfly,
+    Human feelings, the lamb of Huashi.
+    My dusty cap-strings, long unwashed,
+    At dawn I shall seek the waters of Canglang.
+  footnotes:
+  - key: ''
+    value: 'Zhuangzi''s butterfly: Reference to Zhuangzi''s famous dream of being a butterfly, symbolizing the illusory nature of worldly existence.'
+  - key: ''
+    value: 'The lamb of Huashi: An allusion to a historical incident during the Spring and Autumn period. The nobleman Hua Yuan once feasted many guests with lamb, but his charioteer Yang Zhen was denied a share. Later, during war between Song and Zheng, Yang Zhen took revenge by deliberately driving Hua Yuan''s chariot into enemy lines, causing Hua Yuan''s defeat. The image represents how human relationships and favors are fleeting and can lead to unexpected consequences.'
+  - key: ''
+    value: 'Canglang waters: An allusion to the Pure Waters of Canglang, often referenced as a place of moral refuge and cleansing, symbolizing a desire to escape worldly corruption and seek renewal.'

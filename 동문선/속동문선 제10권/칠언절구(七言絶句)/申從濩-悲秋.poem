@@ -1,0 +1,39 @@
+canonical:
+  title: 悲秋
+  author: 申從濩
+  language: lzh
+  text: 月子纖纖白玉鉤霜風露菊滿庭秋天翁不辦埋愁地盡向寒窓種白頭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 悲秋
+  author: 申從濩
+  language: lzh
+  text: 月子纖纖白玉鉤。霜風露菊滿庭秋。天翁不辦埋愁地。盡向寒窓種白頭。
+korean:
+  title: 비추
+  author: 신종호
+  language: kor
+  text: |-
+    하얀 옥갈퀴에 가는 달이 걸려 있고
+    서리 바람 이슬 국화 가을 뜰에 가득
+    시름 묻을 곳을 하느님은 마련 못한 채
+    모두 한창을 향하여 흰 머리만 심었다오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: Lamenting Autumn
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    The moon, delicate as silk, hooks upon white jade.
+    Frost wind, dew, chrysanthemums crowd the autumn courtyard.
+    Heaven's maker has no place to bury sorrow—
+    Only toward the cold window does he plant white hair.
+  footnotes:
+  - key: ''
+    value: The 'white jade hook' is a traditional metaphor for the crescent moon in Chinese poetry. Here it suggests both beauty and fragility.
+  - key: ''
+    value: The chrysanthemums, dew, and frost create a melancholic autumn atmosphere, traditionally associated with reflection on time's passage.
+  - key: ''
+    value: '''White hair'' is a poetic expression for aging and the accumulation of life''s sorrows.'

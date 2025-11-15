@@ -1,0 +1,37 @@
+canonical:
+  title: 書耳叟唐三體詩卷上
+  author: 柳洵
+  language: lzh
+  text: 無邪三百最精英詩到唐家亦大成獨笑江西傳晩派強將排比賭虛名
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書耳叟唐三體詩卷上
+  author: 柳洵
+  language: lzh
+  text: 無邪三百最精英。詩到唐家亦大成。獨笑江西傳晩派。強將排比賭虛名。
+korean:
+  title: 서이수 당삼체시 권상
+  author: 유순
+  language: kor
+  text: |-
+    요사 없는 삼백 편이 가장 꽃답더니
+    당나라에 이르러서 역시 대성하였어라
+    홀로 웃노니 강서파를 늦게 전하여
+    억지로 얽어매어 헛된 이름 따려 하였네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강서파(江西派) : '
+    value: 남송(南宋) 시대에 시인들은 황산곡(黃山谷)의 시체를 승행하였는데, 황산곡이 강서 사람이므로 그 일파를 강서파라 하였다.
+english:
+  title: 'On the Three Forms of Tang Poetry: A Record of Scholar Yi Sou, Volume One'
+  author: Yu Sun
+  language: eng
+  text: |-
+    Three hundred poems without guile—the finest of their kind.
+    When poetry reached the Tang, it too achieved its greatest heights.
+    Yet I alone laugh at the late transmission of the Jiangxi school,
+    Forcing twisted phrases together to chase a hollow name.
+  footnotes:
+  - key: ''
+    value: The Jiangxi School refers to a poetic lineage that emerged during the Southern Song, wherein poets inherited and carried forward the style of Huang Shangu (黃山谷), a poet from Jiangxi province, from whom the school took its name.

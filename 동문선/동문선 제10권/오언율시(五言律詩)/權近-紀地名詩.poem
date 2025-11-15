@@ -1,0 +1,92 @@
+canonical:
+  title: 紀地名詩
+  author: 權近
+  language: lzh
+  text: 北渡桑乾水南浮楊子江金陵朝萬國鍾阜鎭中邦齊魯宗親盛幽幷醜虜降三韓非化外松岳氣鴻厖雨暗沙門島風高碣石山燕鴻今已至遼鶴幾時還水接蓬瀛闊雲橫海岱閑扶蘇何處在夢繞紫霞間黃縣秋風晚靑州落日沉浿江歸路阻渤海客愁深方丈疑無有嗚呼弔古今隅夷東表地渺渺望鷄林
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 紀地名詩
+  author: 權近
+  language: lzh
+  text: 北渡桑乾水。南浮楊子江。金陵朝萬國。鍾阜鎭中邦。齊魯宗親盛。幽幷醜虜降。三韓非化外。松岳氣鴻厖。雨暗沙門島。風高碣石山。燕鴻今已至。遼鶴幾時還。水接蓬瀛闊。雲橫海岱閑。扶蘇何處在。夢繞紫霞間。黃縣秋風晚。靑州落日沉。浿江歸路阻。渤海客愁深。方丈疑無有。嗚呼弔古今。隅夷東表地。渺渺望鷄林。
+korean:
+  title: 기 지명시
+  author: 권근
+  language: kor
+  text: |-
+    북으로 상건수를 건너고
+    남으로 양자강에 떠가네
+    금릉에서 만국의 조회를 받고
+    종부는 중원을 진압하네
+    제나라ㆍ노나라에는 종친이 성하고
+    유주와 병주에는 추로가 항복하였네
+    삼한이 덕화 밖이 아니라
+    송악의 기운이 크고 또 도탑구나
+    비는 사문도에 어둡고
+    바람은 갈석산에 높다
+    연나라 기러기가 이미 왔는데
+    요 땅 학은 언제 돌아오려나
+    물은 봉영에 접해 넓고
+    구름은 해대에 비껴 한가롭네
+    부소가 어디이뇨
+    꿈은 자하 사이에 떠도네
+    황현에 가을바람이 늦고
+    청주에 낙일이 잠기네
+    패강에는 돌아가는 길이 막혔고
+    발해에는 나그네 시름이 깊네
+    방장산은 있고 없는 것이 의심스러운데
+    오호도에서 고금을 조상하노라
+    우이 동표의 땅에
+    아득히 계림을 바라본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0690&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem on the Names of Places
+  author: Kwon Geun
+  language: eng
+  text: |-
+    Northward across the Sanggan Waters,
+    Southward adrift on the Yangzi stream—
+    At Jinling the ten thousand nations bow,
+    While Zhongfu guards the central realm.
+
+    The kinships flourish in Qi and Lu,
+    And Youzhou and Bingzhou bring tribute.
+    The Three Han are no distant lands,
+    For Songak's spirit grows vast and luminous.
+
+    Rain darkens the Temple Island,
+    Wind rises high on Gaeshi Peak.
+    The geese from Yan have already arrived—
+    When will the cranes of Liao return?
+
+    Waters stretch wide toward Penglai's shores,
+    Clouds drift leisurely across sea and peaks.
+    Where now is Fusu gone?
+    My dreams wander through the Purple Mist.
+
+    Autumn wind grows late in Huangxian,
+    The setting sun sinks in Qingzhou.
+    The homeward path on the Pae River is blocked,
+    And the traveler's sorrow deepens in Bohai.
+
+    Penglai Mountain—does it exist or not?—
+    I lament the ages from this lonely shore.
+    From this remote corner of the eastern lands,
+    I gaze dimly toward Gyerim.
+  footnotes:
+  - key: ''
+    value: 'Jinling: ancient name for Nanjing, representing the central power'
+  - key: ''
+    value: 'Zhongfu: Mount Zhong, symbolic center of the middle kingdom'
+  - key: ''
+    value: 'The Three Han: referring to ancient Korean kingdoms'
+  - key: ''
+    value: 'Songak: Mount Song, representing Korea'
+  - key: ''
+    value: 'Penglai: legendary isles of the immortals in Chinese mythology'
+  - key: ''
+    value: 'Fusu: eldest son of China''s first emperor, symbolizing lost dynasties'
+  - key: ''
+    value: 'Gyerim: ancient name for Kyongju, the capital of Silla kingdom'

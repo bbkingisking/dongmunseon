@@ -1,0 +1,40 @@
+canonical:
+  title: 團扇 銘
+  author: 李奎報
+  language: lzh
+  text: 綠筠作團裝以冰綃涼風自來不召不招哀哉三界煎爍如窰願以此扇是簸是搖濯之以淸救爾之焦
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 團扇 銘
+  author: 李奎報
+  language: lzh
+  text: 綠筠作團。裝以冰綃。涼風自來。不召不招。哀哉三界。煎爍如窰。願以此扇。是簸是搖。濯之以淸。救爾之焦。
+korean:
+  title: 단선명
+  author: 이규보
+  language: kor
+  text: 푸른 대(竹)로 둥글게 만들어 얼음 같은 비단으로 꾸며노니 서늘한 바람이 저절로 오네. 삼계(三界)가 뜨겁기는 도자기(陶磁器) 굽는 굴속 같으니 원컨대 이 부채를 가지고 부채질하고 흔들어서 맑음으로써 식혀서 너희들의 타는[焦] 것을 구(救)하라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼계(三界) : '
+    value: 인도(印度)에서 말하는 욕계(欲界) 색계(色界) 무색계(無色界)인데, 인간과 천상의 모든 중생(衆生)의 사는 데를 모두 합하여 말한 것이다.
+english:
+  title: Inscription on a Round Fan
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    Green bamboo woven into a circle,
+    Adorned with silk like ice—
+    Cool breezes arrive of their own accord,
+    Without summons, without call.
+
+    Alas, the Three Realms burn
+    Like kilns glazing pottery.
+    With this fan, I wish
+    To wave and sweep the air,
+    To cleanse with clarity,
+    And quench the fires that torment you.
+  footnotes:
+  - key: ''
+    value: The Three Realms refers to the Buddhist cosmology of desire, form, and formlessness—encompassing all realms where sentient beings dwell in both heaven and earth.

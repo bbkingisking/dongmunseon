@@ -1,0 +1,38 @@
+canonical:
+  title: 爲同前人上分臺狀
+  author: 李奎報
+  language: lzh
+  text: 金闕九門曾奉出綸之命玉關千里肅騰持斧之威凡屬管臨悉深禱頌恭惟某官學鞭楊馬詞倒曹劉瑞錦毛新當浴鳳池之波暖貞松節勁先參烏府之霜寒暫出班心行巡國尾某叨承外寄竊伏下風想瞻戴豸之光彌切攀龍之志
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 爲同前人上分臺狀
+  author: 李奎報
+  language: lzh
+  text: 金闕九門。曾奉出綸之命。玉關千里。肅騰持斧之威。凡屬管臨。悉深禱頌。恭惟某官。學鞭楊馬。詞倒曹劉。瑞錦毛新。當浴鳳池之波暖。貞松節勁。先參烏府之霜寒。暫出班心。行巡國尾。某叨承外寄。竊伏下風。想瞻戴豸之光。彌切攀龍之志。
+korean:
+  title: 위 동전인 상 분대 장
+  author: 이규보
+  language: kor
+  text: 구문(九門)의 궁궐에 일찍이 조서를 내리신 왕명(王命)을 받들고, 천 리의 옥관(玉關)에 엄숙히 부월(斧鉞)을 잡은 위엄을 드날리시니, 무릇 관하에 소속된 자는, 모두 칭송하는 바 깊습니다. 삼가 생각하건대, 모관(某官)의 학문은 양웅(揚雄)과 사마천(司馬遷)을 채찍질할 만하고, 문장은 조식(曹植)과 유정(劉禎)을 넘어뜨릴 만하며, 서금(瑞錦)의 새로운 무늬는(문장을 말한 것) 마땅히 물결이 따뜻한 봉지(鳳池)에서 목욕할 만하고, 송백(松柏) 같은 굳센 절개는 진작 서릿발 치는 오부(烏府 사헌부)에 참여하였는데 지금은 잠깐 조정의 반열에서 떠나, 앞으로 나라의 변방을 순찰하게 되었습니다. 모(某)는 외람되이 외읍을 지키란 부탁을 받고 저으기 덕화 아래 엎드렸기로, 대치(戴豸)의 광경을 우러러 상상하매 반룡(攀龍)의 뜻이 더욱 간절합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대치(戴豸) : '
+    value: 해치관(獬豸冠)을 말한 것인데, 법을 맡은 관직이다. 해치(獬豸)는 신양(神羊)인데 능히 곡직(曲直)을 분별하므로 초왕(楚王)이 항상 그것을 잡아다가 관을 만들었다 한다. 《後漢書 輿服志》
+  - key: '[주-D002] 반룡(攀龍) : '
+    value: 반룡 부봉(附鳳)의 약칭이다. 옛날에는 용과 봉을 사람에 비유하기도 하였는데, 여기서는 때를 타서 공업을 세운다는 말이다.
+english:
+  title: Memorial on Behalf of a Former Colleague Requesting a Promotion to Provincial Inspector
+  author: Lee Kyou-bo
+  language: eng
+  text: |-
+    From the Nine Gates of the Golden Palace, a royal decree once issued forth its command, and across the thousand-li Jade Pass, the awe-inspiring authority of the axe is solemnly upheld. All who fall under such jurisdiction offer their deepest reverence and praise.
+
+    I humbly reflect upon this official's learning—it rivals the brilliance of Yang Xiong and Sima Qian themselves; his prose outshines even Cao Zhi and Liu Zhen. His auspicious brocade, newly woven, deserves to bathe in the warm waters of the Phoenix Pool, while his integrity, steadfast as the pine and cypress, has long endured the frost of the Raven Bureau. Now, though briefly withdrawn from the court's ranks, he ventures forth to patrol the realm's distant borders.
+
+    I, though unworthy, have accepted the charge of distant governance and humbly prostrate myself beneath your grace. As I gaze upon the splendor of the judge's cap, my yearning to ascend with the dragon grows ever more fervent.
+  footnotes:
+  - key: ''
+    value: The 'judge's cap' (戴豸) refers to the hat woven from the mythical judging beast, symbolizing judicial authority and moral discernment.
+  - key: ''
+    value: '''Ascending with the dragon'' is a classical phrase meaning to advance one''s position through timely achievement and virtue.'

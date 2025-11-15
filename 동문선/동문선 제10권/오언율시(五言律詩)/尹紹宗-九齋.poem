@@ -1,0 +1,51 @@
+canonical:
+  title: 九齋
+  author: 尹紹宗
+  language: lzh
+  text: 定策雖群彦酬功在一人民心去隋久天命向唐新滌蕩三邊日丹靑萬古春英雄何代乏往事不順珍益齋李文忠公三歎末句曰吾所不及也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九齋
+  author: 尹紹宗
+  language: lzh
+  text: 定策雖群彦。酬功在一人。民心去隋久。天命向唐新。滌蕩三邊日。丹靑萬古春。英雄何代乏。往事不順珍。益齋李文忠公三歎末句曰。吾所不及也。
+korean:
+  title: 능연각 구재
+  author: 윤소종
+  language: kor
+  text: |-
+    책략을 세운 것은 여러 사람이지만
+    공을 갚음은 한 사람(임금)이네
+    민심이 수나라를 떠난 지 오래이고
+    천 명이 당나라로 향하여 새로웠네
+    삼변을 소탕한 날이여
+    단청은 만고의 봄이어라
+    영웅이 어느 땐들 없으랴
+    지나간 일 진기하게 여길 게 없네
+    익재 이 문충공(益齋李文忠公)이 끝구를 칭찬하여 내가 미치지 못 하겠다 하였다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0530&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 능연각(凌煙閣) : '
+    value: 당나라 때 개국(開國)한 공신(功臣)들은 능연각에다 화상(畵像)을 그려 붙였다.
+english:
+  title: Nine Stanzas
+  author: Yun Sojong
+  language: eng
+  text: |-
+    Many minds devised the strategy,
+    yet one man claims the reward.
+    Long have the people's hearts turned from Sui,
+    toward Tang's new mandate they turn.
+
+    The three borders swept clean in days of old—
+    their painted halls remain spring eternal.
+    What age lacks heroes?
+    The past holds no rare treasure to cherish.
+
+    [The master Yi Mun-jung of the Ikchai school praised the final couplet, saying: 'I cannot match such words.']
+  footnotes:
+  - key: ''
+    value: The reference to painted halls alludes to the Lingyan Pavilion (凌煙閣), where Tang Dynasty founders immortalized their founding ministers in portrait.
+  - key: ''
+    value: The poem celebrates the founding of the Tang Dynasty, contrasting the chaos of the Sui with the new order established through both collective wisdom and singular leadership.

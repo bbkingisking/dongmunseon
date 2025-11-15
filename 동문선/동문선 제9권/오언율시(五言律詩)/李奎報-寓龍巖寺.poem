@@ -1,0 +1,46 @@
+canonical:
+  title: 寓龍巖寺
+  author: 李奎報
+  language: lzh
+  text: 羇紲不到處白雲僧自閑煙光愁暮樹松色護秋山落日寒蟬噪長天倦鳥還病中深畏客白晝鎖松關
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寓龍巖寺
+  author: 李奎報
+  language: lzh
+  text: 羇紲不到處。白雲僧自閑。煙光愁暮樹。松色護秋山。落日寒蟬噪。長天倦鳥還。病中深畏客。白晝鎖松關。
+korean:
+  title: 우 용암사
+  author: 이규보
+  language: kor
+  text: |-
+    진세의 속박 못 이르는 곳
+    흰 구름 속의 중은 절로 한가하네
+    가득 낀 연기에 저녁 나무들 시름이요
+    소나무 빛은 가을 산을 두호하네
+    석양에 쓰르라미[寒蟬] 울어대고
+    넓은 하늘에 지친 새[倦鳥]가 돌아오네
+    병중이라 찾는 손[客]이 두려워서
+    대낮에 솔문을 걸고 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0570&viewSync=OT
+  footnotes: []
+english:
+  title: Dwelling at Yongam Temple
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    Beyond the reach of worldly bonds,
+    the monk amid white clouds finds ease.
+    Smoke and light weigh down the evening trees,
+    while pine-hue guards the autumn mountain.
+
+    At dusk the cicadas cry harsh and cold,
+    weary birds return across the vast sky.
+    Fearing visitors in my sickness,
+    I bar the pine gate even in daylight.
+  footnotes:
+  - key: ''
+    value: Yongam Temple (龍巖寺) was a Buddhist temple where Lee Gyubo, a Goryeo literatus, retreated during his later years.
+  - key: ''
+    value: The cold cicadas (寒蟬) and weary birds (倦鳥) are traditional symbols of autumn melancholy and the passage of time in East Asian poetry.

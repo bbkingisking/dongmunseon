@@ -1,0 +1,50 @@
+canonical:
+  title: 謝獎諭表
+  author: 金富軾
+  language: lzh
+  text: 陪臣某言今月十日中使某至奉傳勑旨伏蒙聖慈以臣馬一匹納萬壽觀祝聖壽萬年事特降詔書奬諭者眷愛殊深俯賜絲綸之詔褒嘉至渥實踰衮黻之華拜命兢惶撫躬震越中謝 伏念臣占雲萬里濫吹九賓恩深周雅之爲龍賞僭羲經之錫馬雖乾坤覆載草木皆被其榮而山海高深塵涓豈有所益思乞靈於福地効申祝於華封不圖一介之誠上徹九重之聽賜之寶訓示以至懷雲漢高明沐餘光而知幸江湖悠遠藏一札以爲榮仰省寵私不勝感涕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝獎諭表
+  author: 金富軾
+  language: lzh
+  text: 陪臣某言。今月十日。中使某至。奉傳勑旨。伏蒙聖慈以臣馬一匹納萬壽觀。祝聖壽萬年事。特降詔書奬諭者。眷愛殊深。俯賜絲綸之詔。褒嘉至渥。實踰衮黻之華。拜命兢惶。撫躬震越。中謝。 伏念臣占雲萬里。濫吹九賓。恩深周雅之爲龍。賞僭羲經之錫馬。雖乾坤覆載。草木皆被其榮。而山海高深。塵涓豈有所益。思乞靈於福地。効申祝於華封。不圖一介之誠。上徹九重之聽。賜之寶訓。示以至懷。雲漢高明。沐餘光而知幸。江湖悠遠。藏一札以爲榮。仰省寵私。不勝感涕。
+korean:
+  title: 사 장유 표
+  author: 김부식
+  language: kor
+  text: |-
+    배신 모는 아뢰옵나이다.이달 10일에 중사(中使) 모가 이르러 전하는 칙지(勅旨)를 받자오니, 성상께서 신(臣)이 말 한 필을 만수관(萬壽觀)에 바쳐 성수(聖壽) 만년을 축원하였다 하여 특히 조서(詔書)를 내려 장유(獎諭)하심이었나이다.돌보시는 사랑이 특별히 깊으시어 굽어 윤음(綸音)을 내리옵시고, 포장(褒獎)이 우악(優渥)하시니 실로 곤불(袞黻)의 영광보다 더하옴에 어명을 받잡고 너무나 황공하여 제 몸을 어루만지며 두려운 마음을 가눌 길이 없나이다. 중사(中謝)
+    엎드려 생각하옵건대, 신이 만리 밖에서 구름을 점치며 와서 구빈(九賓)에 외람되이 참가하옴에 은총은 주아(周雅)의 용(龍)이 된다는 것 보다 더 깊고, 상(賞)은 희경(羲經 주역)의 말을 줌보다도 넘쳐서 비록 하늘과 땅이 덮고 실어 초목이 다 그 영화를 입사오나, 산과 바다처럼 높고 깊사온대 티끌과 물방울 같이 작은 것이 어찌 더함이 있사오리이까. 다만 복지(福地)에 신령(神靈)을 빌고 화봉인(華封人)의 축수를 본받고자 하였는데 뜻밖에도 한낱 정성이 위로 구중(九重)에 들려 이처럼 보훈(寶訓)을 하사하시고 지회(至懷)를 보이시오니, 높고 밝은 운한(雲漢)의 남은 빛에 목욕함을 다행인 줄을 알겠사옵고 머나먼 강호(江湖)에서도 일찰(一札)을 간직하게 됨을 영광을 삼겠사오며 우러러 내려주신 은총을 살피옴에 감격한 눈물을 금할 길이 없나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 곤불(袞黻)의 …… 더하옴에 : '
+    value: 공자가《춘추(春秋)》를 짓는데 인물에 대하여 한 글자로 표창함이 곤룡포[袞]보다 더 빛났다고 한다.
+  - key: '[주-D002] 구름을 점치며 : '
+    value: 당나라 때에 오색 구름이 나타나니 태사(太史) 장선(張璇)이 점쳐서 말하기를, “송(宋)의 분야(分野)에 있으니 이 뒤 1백 60년에 성인이 그 땅에 날 것이다.” 하더니 과연 그 시기에 송 태조(宋太祖)가 났다.
+  - key: '[주-D003] 구빈(九賓) : '
+    value: 천지의 조정에 늘어선 아홉 가지 예복(禮服)을 입은 손님들.
+  - key: '[주-D004] 주아(周雅)의 …… 것 : '
+    value: 《시경》육소(蓼蕭)편은 천자가 제후를 잔치하는 시인데, “이미 군자를 보니 용이 되고 빛이 된다.” 하였다.
+  - key: '[주-D005] 희경(羲經)의 말을 줌 : '
+    value: 《주역》진괘(晉卦)에, “제후가 천자의 주는 말을 받는다.” 하였다.
+  - key: '[주-D006] 높고 밝은 운한(雲漢) : '
+    value: 임금의 글을 하늘에 밝게 나타난 은하수에 비한다.
+english:
+  title: Memorial of Gratitude for Imperial Commendation
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Your humble servant reports: On the tenth day of this month, an imperial messenger arrived bearing the sovereign's decree. Having graciously accepted my offering of a single horse to the Temple of Ten Thousand Years as a prayer for the sovereign's longevity of ten thousand years, His Majesty has specially issued a proclamation commending and praising this deed. Such affection runs deep, and though he has deigned to bestow upon me the silken words of imperial decree, the commendation far surpasses even the splendor of imperial robes. Receiving this command, I tremble with both reverence and fear, my body shaking as I contemplate this honor.
+
+    Reflecting upon this matter: I, stationed in clouds ten thousand leagues distant, have presumed to participate in the nine ranks of the celestial court. The imperial grace runs deeper than the dragon that emerges when a gentleman appears, and the reward exceeds even the gift of noble steeds from the sage-kings of old. Though heaven and earth embrace all things, and grass and trees alike share in their glory, yet I, like the distant mountains and seas, am but a speck of dust, a drop of water—how could I add anything of worth? I had merely sought to borrow virtue from the sacred places and to emulate the blessings pronounced by the Sage of Huafeng. Unexpectedly, this small sincerity has reached the ears of the nine-fold palace, and the sovereign has shown me his treasured teachings and revealed his deepest compassion. Bathed in the radiance of the luminous River of Heaven, I know myself blessed. In distant rivers and lakes, I shall cherish this single scroll as my greatest glory. Beholding such grace bestowed upon me, I cannot restrain my tears of gratitude.
+  footnotes:
+  - key: ''
+    value: The offering of a horse references the I Ching's Advancement hexagram, where lords receive horses from the Son of Heaven as marks of favor.
+  - key: ''
+    value: The 'dragon that emerges' alludes to a poem in the Book of Odes celebrating how worthy gentlemen, when recognized, become as noble as dragons.
+  - key: ''
+    value: The 'nine ranks of the celestial court' refers to the nine celestial officials attending the heavenly throne.
+  - key: ''
+    value: The 'Sage of Huafeng' is a legendary figure known for pronouncing blessings of longevity and prosperity.

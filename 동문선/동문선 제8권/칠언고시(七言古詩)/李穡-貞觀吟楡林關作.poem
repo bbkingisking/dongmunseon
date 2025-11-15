@@ -1,0 +1,97 @@
+canonical:
+  title: 貞觀吟楡林關作
+  author: 李穡
+  language: lzh
+  text: 晉陽公子結豪客風雲壯懷滿八極赫然一起揮天戈隋堤楊柳無顔色已踵殷周成武功宜追虞夏敷文德持盈守成貴安靖好大喜功多反側三韓箕子不臣地置之度外疑亦得胡爲至動金玉武㗸枚自將臨東土貔貅夜擁鶴野月旌旗曉濕雞林雨謂是囊中一物耳那知玄花落白羽鄭公已死言路澁可笑豐碑蹶復立回頭三叫貞觀年天末悲風吹颯颯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 貞觀吟楡林關作
+  author: 李穡
+  language: lzh
+  text: 晉陽公子結豪客。風雲壯懷滿八極。赫然一起揮天戈。隋堤楊柳無顔色。已踵殷周成武功。宜追虞夏敷文德。持盈守成貴安靖。好大喜功多反側。三韓箕子不臣地。置之度外疑亦得。胡爲至動金玉武。㗸枚自將臨東土。貔貅夜擁鶴野月。旌旗曉濕雞林雨。謂是囊中一物耳。那知玄花落白羽。鄭公已死言路澁。可笑豐碑蹶復立。回頭三叫貞觀年。天末悲風吹颯颯。
+korean:
+  title: 유림관에서 정관의 노래를 짓는다
+  author: 이색
+  language: kor
+  text: |-
+    진양 공자가 호걸들을 맺어
+    풍운의 장한 기개가 우주에 가득했었네
+    와락 한 번 일어 천과를 휘두르니
+    수제의 버들이 빛을 잃었네
+    은ㆍ주를 본받아 무공을 이미 세웠거니
+    우ㆍ하를 따라 문덕을 폄이 마땅하다
+    찬 것을 지니고 이룬 것 지킴엔 안정함이 귀한 법
+    떠벌이기 좋아하고 공을 즐기면 뒤집히기 일쑤라
+    삼한은 예로부터 기자의 불신한 땅
+    치지도외함이 아마도 득책일 것을
+    어쩌다 군병을 움직여서
+    재갈 물리고 몸소 동토에 왔단 말인가
+    백만 군사가 학야 달밤에 몰려들고
+    무수한 깃발이 계림 새벽비에 젖었네
+    주머니 속 물건을 뒤져 냄 같으리라 일렀더니
+    어찌 알았으랴 눈이 흰 깃에 떨어질줄을
+    정공이 이미 죽어 언로도 막혔으니
+    우스워라 큰 비석이 넘어졌다 되 일어섰네
+    내가 고개 돌려 “정관” 세 번을 소리치니
+    하늘 끝 슬픈 바람이 와스스 불어 오네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진양(晉陽) 공자(公子) : '
+    value: 당 태종 이세민(李世民). 진양은 고을 이름. 현 산서성 태원현(太原縣) 치(治). 옛날의 당국(唐國) 뒤에 진(晉)으로 고침. 당 고조(唐高祖) 이연(李淵)이 진 양공(晉陽公)이므로 그 아들 태종이 진양공자이다.
+  - key: '[주-D002] 천과(天戈) : '
+    value: 천자의 무기(武器). “선왕이 분기하여 천과를 휘둘렀네[先王憤起 揮天戈].”《韓僉 石鼓歌》
+  - key: '[주-D003] 수제(隋堤) : '
+    value: 수 양제(隋煬帝)가 운하(運河)를 파고 운하에 따라 쌓은 둑에 버들을 줄지어 심었었다. “수제의 버들이 빛을 잃었다.”함은 당 태종의 위력에 수(隋)가 패망했음을 뜻한다.
+  - key: '[주-D004] 기자(箕子)의 불신(不臣) : '
+    value: 주 무왕(周武王)은 은 주(殷紂)의 숙부요, 태랑(太郞)인 기자(箕子)를 조선에 봉하여, 신하로 삼지 않는 우우(優遇)를 했다 한다.
+  - key: '[주-D005] 재갈 물리고 : '
+    value: 급하게 행군(行軍)하여 남의 나라를 습격할 때에 소리나지 않게 말[馬]과 군사에게 입에 재갈을 물린다.
+  - key: '[주-D006] 학야(鶴野) : '
+    value: 요동의 정령위(丁令威)가 신선이 되어서 학이 되어 돌아와 화표주(華表柱)에 앉아 울었으므로 요동을 ‘학 벌판[鶴野]’이라 한다.
+  - key: '[주-D007] 주머니 …… 같으리라 : '
+    value: 아주 취(取)하기 쉬운 물건의 비유. “중국이 나를 써 정승으로 삼으면 강남을 취함이 주머니 속의 물건을 더듬는 것 같으리라.”한 구절이 있다.
+  - key: '[주-D008] 눈이 …… 떨어질 : '
+    value: 당 태종이 친히 백만 대군을 거느리고 고구려에 쳐들어와 안시성(安市城) 싸움에서 패하여 돌아갔는데, 《당서(唐書)》엔 숨겨 기록이 없으나, 우리나라에서 전하는 말로는, “안시성주 양만춘([梁]楊萬春)이 쏜 화살이 태종의 눈을 맞혔다.” 하였는데, 현화(玄花)는 눈이고, 흰 깃[白羽]은 백우전(白羽箭) 곧 살[矢].
+  - key: '[주-D009] 정공(鄭公) : '
+    value: 당 태종의 신하 위징(魏徵)인데, 그의 봉호(封號)가 정국공(鄭國公)이다. 그는 직간(直諫)으로 유명하였다.
+  - key: '[주-D010] 큰 비석 …… 일어섰네 : '
+    value: 태종이 위징이 죽은 뒤에 비석을 세워 주었다가 그 뒤에 위징이 평일에 직간(直諫)한 초고(草稿)를 집에 남겨 둔 것을 보고, 자기의 허물을 드러내었다고 격노하여 비석을 넘어뜨리라 명하였다가, 뒤에 고구려에게 패하고 와서 뉘우치고 위징을 생각하여 다시 세웠다.
+english:
+  title: Song of Zhenguan at Yulin Gate
+  author: Lee Saeq
+  language: eng
+  text: |-
+    The Prince of Jinyang gathered heroes about him,
+    and the grandeur of wind and cloud filled all the eight directions.
+    With a sudden sweep of Heaven's halberd, he rose—
+    and the willows of Sui's dikes lost their luster.
+
+    Following Yin and Zhou, he had already established martial glory;
+    now he should pursue the cultural virtue of Yu and Xia.
+    To hold fullness and guard what is won—stability is the treasure.
+    But those who love grandeur and covet achievement often see ruin.
+
+    Three Han lands were Qiziʼs realm of non-vassalage—
+    why not leave such matters beyond the pale?
+    Yet why did he move armies and stir the gold and jade of war?
+    With muzzled steeds, he came himself to the Eastern lands.
+    A hundred thousand beasts prowled through the crane-marshes under moonlight,
+    and countless banners grew damp in the rain of Gyerim's dawn.
+
+    They said it was plucking fruit from a bag—
+    but who could have known the white feather would find the eye?
+
+    Zheng Gong is dead; the voice of remonstrance grows still.
+    How absurd—the great stone falls, then rises again.
+    I turn my head and cry "Zhenguan!" three times into the void,
+    and from heaven's edge a mournful wind comes howling down.
+  footnotes:
+  - key: ''
+    value: The Prince of Jinyang refers to Tang Taizong (Li Shimin), whose father held the title of Prince of Jinyang before founding the Tang dynasty.
+  - key: ''
+    value: This poem critiques Taizong's costly military campaigns, particularly his invasion of Goguryeo. Despite his earlier martial triumphs and cultural achievements, the poet uses the image of an arrow striking the emperor's eye at the siege of Ansicheng (a Korean victory) to represent divine judgment against his overreach.
+  - key: ''
+    value: Wei Zheng (Zheng Gong), Taizong's most celebrated advisor, was known for his fearless remonstrances. The poet laments that with Wei Zheng's death, there is no voice to check the emperor's ambitions.
+  - key: ''
+    value: The poem's final cry of "Zhenguan!" invokes the era name of Taizong's reign while lamenting both his lost wisdom and the historical irony of imperial power undone by its own excess.

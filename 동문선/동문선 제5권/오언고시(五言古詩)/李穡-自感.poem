@@ -1,0 +1,60 @@
+canonical:
+  title: 自感
+  author: 李穡
+  language: lzh
+  text: 無悶是聖人遣之賢者事戚戚以終身斯爲小人耳我學本空踈我行多乖異有聲觸于耳妄動寧復止鶯語融吾神虫鳴悽我志我則踐我迹歲月其逝矣抑戒皎如日尙期無自棄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自感
+  author: 李穡
+  language: lzh
+  text: 無悶是聖人。遣之賢者事。戚戚以終身。斯爲小人耳。我學本空踈。我行多乖異。有聲觸于耳。妄動寧復止。鶯語融吾神。虫鳴悽我志。我則踐我迹。歲月其逝矣。抑戒皎如日。尙期無自棄。
+korean:
+  title: 자감
+  author: 이색
+  language: kor
+  text: |-
+    근심이 없는 이가 성인이요
+    이것을 보내는 것이 현인의 일이라
+    근심 걱정으로 몸을 마치는 것
+    이것이 곧 소인이니라
+    내 학문은 본래 텅비고 소홀하니
+    내 행실은 괴이한 짓이 많아라
+    무슨 소리가 귀에 부닥치면
+    망령되게 움직임을 어찌 다시 그치랴
+    꾀꼬리 말은 내 심신을 융화시키고
+    벌레 울음은 내 뜻을 슬프게 하네
+    나는 내 자취를 밟는데
+    세월은 그저 흘러만 가누나
+    억계가 해와 같이 밝으니
+    오히려 자기 없기를 기약하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 억계(抑戒) : '
+    value: 《시경》에 억편(抑篇)이 있는데, 위(衛)의 무공(武公)이 나이 90세에 그 시를 지어서 스스로 경계한 것이다.
+english:
+  title: Self-Reflection
+  author: Lee Saek
+  language: eng
+  text: |-
+    Freedom from worry marks the sage,
+    And releasing it the wise one's way.
+    Yet to end one's days in constant care and dread—
+    This is the path of the petty man.
+
+    My learning was ever hollow and neglected,
+    My conduct strewn with strange missteps.
+    When any sound strikes upon my ear,
+    How can this wandering mind ever find stillness?
+
+    The nightingale's song dissolves my very being,
+    The insect's cry fills my heart with sorrow.
+    I trace my own footsteps through this world,
+    Yet the years slip away like water.
+
+    But my warning shines bright as the sun itself—
+    I yet hope to never abandon myself.
+  footnotes:
+  - key: ''
+    value: The phrase 'my warning shines bright as the sun' alludes to the classical text where a ninety-year-old sage composed verses to counsel himself—a meditation on growing older with vigilant self-discipline.

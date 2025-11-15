@@ -1,0 +1,43 @@
+canonical:
+  title: 寄鄭司空
+  author: 權漢功
+  language: lzh
+  text: 有美人兮隔雲端山高水深難跋涉欲往從之歲時變極目高空鳥飛捷誰得知搔首無言日又曛秋風颼飀捲黃葉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄鄭司空
+  author: 權漢功
+  language: lzh
+  text: 有美人兮隔雲端。山高水深難跋涉。欲往從之歲時變。極目高空鳥飛捷。誰得知搔首無言日又曛。秋風颼飀捲黃葉。
+korean:
+  title: 기정사공
+  author: 권한공
+  language: kor
+  text: |-
+    미인이 저 구름 끝에 격(隔)해있는데
+    산 높고 물 깊으니 발섭(이리저리 돌아다님)이 어려우니
+    좇아가려 하나 그 간에 세월은 변할 것이고
+    먼 공중 바라보니 나는 새만 빨라라
+    누가 알랴, 머리 긁적거리며 말 없는 사이에 해는 저물고
+    가을 바람이 우수수 누른 잎 몰 아침을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0350&viewSync=OT
+  footnotes: []
+english:
+  title: To Jung, the Grand Commandant
+  author: Gwon Han-gong
+  language: eng
+  text: |-
+    A fair one dwells beyond the veil of clouds,
+    Yet mountains tower high and waters run deep—
+    The path is treacherous, the crossing hard.
+    I long to follow, but the seasons turn,
+    And in the distant sky the birds fly swift and free.
+    Who knows what becomes of me, scratching my head in silence
+    As daylight fades, while autumn wind
+    Comes whistling through, sweeping the yellow leaves away?
+  footnotes:
+  - key: ''
+    value: Jung, the Grand Commandant (鄭司空) was likely a contemporary or acquaintance of the poet, and the 'fair one' may refer to a lady of virtue or the addressee himself, using classical poetic convention of the beautiful person as a figure of virtue or longing.
+  - key: ''
+    value: The poem employs the classical Chinese trope of separation by natural barriers as a metaphor for emotional or social distance that cannot be bridged.

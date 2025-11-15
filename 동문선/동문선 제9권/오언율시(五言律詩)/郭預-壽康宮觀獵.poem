@@ -1,0 +1,45 @@
+canonical:
+  title: 壽康宮觀獵
+  author: 郭預
+  language: lzh
+  text: 原上雨初霽燒痕春色新一鷹如箭疾萬馬若雲屯雉困還遭犬麕迷不避人長楊賦未就慚愧諫垣臣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 壽康宮觀獵
+  author: 郭預
+  language: lzh
+  text: 原上雨初霽。燒痕春色新。一鷹如箭疾。萬馬若雲屯。雉困還遭犬。麕迷不避人。長楊賦未就。慚愧諫垣臣。
+korean:
+  title: 수강궁에서 사냥을 보며
+  author: 곽예
+  language: kor
+  text: |-
+    넓은 벌에 비가 갓 갠 뒤
+    잔디밭 불탄 흔적, 봄빛이 새로워라
+    매 한 마리 화살처럼 빠르고
+    말[馬]은 만 필인가, 구름처럼 늘어섰네
+    꿩은 도망치다 오히려 개를 만나고
+    노루는 급한 김에 사람도 못 피하네
+    장양부(長楊賦)를 아직 다 못 지었으니
+    간관(諫官)으로서 부끄러워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0700&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장양부(長楊賦) : '
+    value: 한(漢)나라 양웅(揚雄)의 작인데, 성제(成帝)가 사냥을 즐겨 온갖 짐승들을 장양궁(長楊宮)으로 수송함을 보고 이 부(賦)를 지어 풍간했다.
+english:
+  title: Watching a Hunt at Sugang Palace
+  author: Gwak Ye
+  language: eng
+  text: |-
+    Rain has just cleared on the broad plain,
+    And spring renews where fire scorched the grass.
+    One hawk dives swift as an arrow's flight,
+    Ten thousand horses massed like gathering clouds.
+    The pheasant flees but meets the hound instead,
+    The deer in panic cannot dodge a man.
+    The "Long Yang" rhapsody remains unfinished—
+    I blush, a censor who should speak against such sport.
+  footnotes:
+  - key: ''
+    value: The "Long Yang Rhapsody" refers to a famous work by Yang Xiong of the Han dynasty, composed to remonstrate with Emperor Cheng when he observed the emperor transporting countless animals to Long Yang Palace for hunts. The poet, serving as a censor, mirrors this classical precedent while being unable to complete his own remonstration.

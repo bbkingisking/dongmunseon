@@ -1,0 +1,48 @@
+canonical:
+  title: 別
+  author: 崔承祐
+  language: lzh
+  text: 人越遊秦恨轉生每回傷別問長亭三尊綠酒應須醉一曲丹唇且待聽南浦片帆風颯颯東門驅馬草靑靑不唯兒女多心緖亦到離筵盡涕零
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 別
+  author: 崔承祐
+  language: lzh
+  text: 人越遊秦恨轉生。每回傷別問長亭。三尊綠酒應須醉。一曲丹唇且待聽。南浦片帆風颯颯。東門驅馬草靑靑。不唯兒女多心緖。亦到離筵盡涕零。
+korean:
+  title: 별
+  author: 최승우
+  language: kor
+  text: |-
+    월나라 진나라로 갈리는 정한
+    번번이 구슬픈 이별 장정이 어디뇨
+    푸른 술 세 병 취해야 하리로고
+    붉은 입술의 한 곡조 듣고 가야 하리
+    남포의 떠나는 배는 바람이 살랑살랑
+    동문에 말을 보니 풀이 더북더북
+    아녀자만 다정한 것 아니라
+    누군들 이별 자리에 눈물 아니 흘리리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장정(長亭) : '
+    value: 정(亭)은 길에 있는 역사(驛舍) 비슷한 것인데, 오리(五里)에 단정(短亭)이요, 십리에 장정(長亭)이었다.
+english:
+  title: Parting
+  author: Choe Seung-u
+  language: eng
+  text: |-
+    Between Yue and Qin the sorrow flows—each parting cuts anew.
+    At every farewell pavilion, where does the heart find rest?
+    Three cups of green wine, I must drink them deep.
+    One song from crimson lips—I'll listen ere I go.
+
+    At South Bank the lone sail flutters, wind sighs soft and low.
+    From East Gate I ride forth where grasses grow thick and green.
+    Not only maidens weep at separation's sting—
+    Who among us will not shed tears when the farewell feast must end?
+  footnotes:
+  - key: ''
+    value: The Long Pavilion (長亭) was traditionally located ten li from a destination, where travelers would make their final farewell before parting ways.
+  - key: ''
+    value: South Bank and East Gate are classical topoi for departure in Chinese poetry, evoking the timeless sorrow of separation.

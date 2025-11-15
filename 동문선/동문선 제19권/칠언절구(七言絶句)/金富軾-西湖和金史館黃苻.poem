@@ -1,0 +1,41 @@
+canonical:
+  title: 西湖和金史館黃苻
+  author: 金富軾
+  language: lzh
+  text: 老大無心泛五湖不開書卷卽提壺有時扶病來蕭寺一蔟江山似畫圖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西湖和金史館黃苻
+  author: 金富軾
+  language: lzh
+  text: 老大無心泛五湖。不開書卷卽提壺。有時扶病來蕭寺。一蔟江山似畫圖。
+korean:
+  title: 서호에서 김사관 황부에 화답하여
+  author: 김부식
+  language: kor
+  text: |-
+    늘그막에 오호에 떠갈 마음 없고
+    서권은 열지 않고 술병만 기울이네
+    때로는 병든 몸 부축하고 소사(蕭寺)에 오니
+    강산이 한 폭 그림 같고나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오호(五湖)에 떠갈 : '
+    value: 월(越)나라 범소백(范少伯)이 월왕(越王)을 보좌하여 오(吳)나라에 원수를 갚고 공을 이룬 뒤에는 벼슬을 버리고 미인 서시(西施)를 배에 싣고 오호(五湖)에 떠서 월나라를 떠났다.
+  - key: '[주-D002] 소사(蕭寺) : '
+    value: 양 제(梁武帝)가 불법을 혹신하여 절을 많이 지었는데, 양 무제의 성을 따라 소사라 했다.
+english:
+  title: Reply at West Lake to Director Kim Hwang-bu
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    In my twilight years, I have no heart to drift upon the Five Lakes.
+    I do not open my books—only tilt the wine jug to my lips.
+    Sometimes, supporting this ailing frame, I visit the ancient temple,
+    And behold—the mountains and streams become a painted scroll before me.
+  footnotes:
+  - key: ''
+    value: 'The Five Lakes: An allusion to Fan Li, who served the King of Yue with great wisdom and military success, then renounced his post and sailed away on the Five Lakes with the beauty Xi Shi, seeking freedom from worldly affairs.'
+  - key: ''
+    value: 'The ancient temple (Xiao Temple): Named after the Liang Dynasty emperor who was a devoted patron of Buddhism and commissioned many temples.'

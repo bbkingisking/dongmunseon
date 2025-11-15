@@ -1,0 +1,57 @@
+canonical:
+  title: 閑中偶書
+  author: 林惟正
+  language: lzh
+  text: 萬里江湖夢淸江 千山橘柚鄕奬堂 砌涼鳴蟋蟀智圓 沙暖睡鴛鴦杜甫 事去靑山在錢公輔 官閑白日長禹偁 人生都幾日盧仝 痛飮信行藏杜甫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閑中偶書
+  author: 林惟正
+  language: lzh
+  text: 萬里江湖夢。淸江。 千山橘柚鄕。奬堂。 砌涼鳴蟋蟀。智圓。 沙暖睡鴛鴦。杜甫。 事去靑山在。錢公輔。 官閑白日長。禹偁。 人生都幾日。盧仝。 痛飮信行藏。杜甫。
+korean:
+  title: 한중 우서
+  author: 임유정
+  language: kor
+  text: |-
+    만 리 강호의 꿈 청강(淸江)
+    천산 귤나무ㆍ유자나무 고장 장당(獎堂)
+    서늘한 돌 층계에 귀뚜라미 울고 지원(智圓)
+    따뜻한 모래엔 원앙새 졸고 있네 두보(杜甫)
+    일은 지나갔는데 청산만 남아 있고 전공보(錢公輔)
+    관청이 한가하니 대낮이 긴지고 왕우칭(王禹稱)
+    인생이 손꼽아 도무지 며칠인가 노동(盧同)
+    술 흠뻑 마시고 출세야 하건 못 하건 두보(杜甫)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0490&viewSync=OT
+  footnotes: []
+english:
+  title: Idle Jottings
+  author: Im Yujung
+  language: eng
+  text: |-
+    Ten thousand miles of rivers and lakes—a dream,
+    Clear waters flowing.
+    Thousand mountains thick with tangerines and pomelos—
+    Awarded halls.
+    On cool stone steps, crickets sing their song,
+    Wisdom rounds and turns.
+    On warm sand, mandarin ducks drift in slumber—
+    Dufu's ancient verse.
+    Deeds depart, yet blue mountains remain,
+    Qian Gongfu's wisdom.
+    With office duties light, the daylight stretches long,
+    Wang Yuchen's thought.
+    How many days does human life hold?
+    Counted on fingers, mere handful.
+    Lu Tong reminds us true.
+    Drink deeply, deeply of the wine—
+    Whether fortune comes or stays away,
+    Dufu's way.
+  footnotes:
+  - key: ''
+    value: This poem is composed of literary allusions and quoted lines from celebrated Chinese poets, each attribution noted in the original. The work creates a meditation on transience and contentment through these borrowed voices.
+  - key: ''
+    value: The named locations (Clear Waters, Awarded Halls) appear to reference actual places or literary references known to the educated Korean reader of the period.
+  - key: ''
+    value: Dufu's name appears twice, suggesting the poet's particular affinity for this Tang master's philosophical perspective on life and acceptance.

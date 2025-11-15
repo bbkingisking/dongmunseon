@@ -1,0 +1,47 @@
+canonical:
+  title: 水原雲錦樓
+  author: 薛文遇
+  language: lzh
+  text: 樓在林巒積翠中登臨一望四方空花間瓦影鱗鱗碧石上苔紋點點紅荷葉亂鳴欹枕雨柳條輕颺捲簾風謫來到處江山好萬事皆從失馬翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 水原雲錦樓
+  author: 薛文遇
+  language: lzh
+  text: 樓在林巒積翠中。登臨一望四方空。花間瓦影鱗鱗碧。石上苔紋點點紅。荷葉亂鳴欹枕雨。柳條輕颺捲簾風。謫來到處江山好。萬事皆從失馬翁。
+korean:
+  title: 수원 운금루
+  author: 설문우
+  language: kor
+  text: |-
+    겹겹 푸른 숲 속에 다락이 솟았으니
+    한 번 올라 바라보매 사방이 탁 트였네
+    꽃 사이의 푸른 기와 비늘처럼 포개졌고
+    돌 위의 이끼무늬는 점점이 분홍빛일세
+    베개에 기대니 연잎에 빗소리 요란하고
+    발 걷으니 버들가지 바람에 하늘거리네
+    귀양살이 간 곳마다 강산이 좋으니
+    만사가 모두 새옹의 실마 그대로네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0190&viewSync=OT
+  footnotes: []
+english:
+  title: Suwon's Cloud-Brocade Tower
+  author: Seol Mun-u
+  language: eng
+  text: |-
+    The tower rises within layered emerald forests—
+    One climb, and gazing out, the four directions open wide.
+    Among the flowers, blue tiles overlap like scales,
+    Upon the stones, moss patterns speckle rosy red.
+    Reclining on my pillow, rain drums on lotus leaves,
+    As the breeze stirs willow branches dancing past my curtain.
+    Exiled here, yet everywhere the rivers and mountains gleam—
+    All things follow the old sage's tale: fortune lost, fortune gained.
+  footnotes:
+  - key: ''
+    value: The 'Cloud-Brocade Tower' (雲錦樓) likely refers to a pavilion in Suwon known for its panoramic views, with 'cloud-brocade' evoking the interplay of mist and landscape coloring.
+  - key: ''
+    value: The final couplet alludes to the folk tale of the Old Man of Sai, who teaches acceptance of life's reversals through the famous line 'when one door closes, another opens'—suggesting the poet finds wisdom in apparent misfortune.
+  - key: ''
+    value: The poem employs the conceit of exile as a spiritual journey, transforming banishment into an occasion for contemplating natural beauty and philosophical acceptance.

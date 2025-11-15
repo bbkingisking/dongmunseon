@@ -1,0 +1,71 @@
+canonical:
+  title: 達摩大士像贊
+  author: 李奎報
+  language: lzh
+  text: 面壁小林欲傳心耳心已傳於震旦將身與形而西矣當其見在可傳者心兮無用者身身已去矣何必寫眞寫眞求心若尋蛇蛻而索珠曰身曰眞孰有孰無身是夢中物眞爲夢中夢混混溟溟皆歸于無兮唯心兮與月長共
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 達摩大士像贊
+  author: 李奎報
+  language: lzh
+  text: 面壁小林。欲傳心耳。心已傳於震旦。將身與形而西矣。當其見在可傳者心兮。無用者身。身已去矣。何必寫眞。寫眞求心。若尋蛇蛻而索珠。曰身曰眞。孰有孰無。身是夢中物。眞爲夢中夢。混混溟溟。皆歸于無兮。唯心兮與月長共。
+korean:
+  title: 달마대사상 찬
+  author: 이규보
+  language: kor
+  text: |-
+    소림에서 벽을 맞대기는
+    마음을 전하자는 것이었네
+    마음은 이미 동방에 전했으니
+    몸은 장차 형과 함께 서쪽으로 갈거라
+    현재에 있어서도
+    전할 것은 마음이요
+    쓸데 없는 것은 몸이거니
+    몸이 이미 떠났거늘
+    어찌 반드시 상을 그려야 하나
+    상을 그려 마음을 구하기는
+    뱀 허물에 구슬을 구하는 걸세
+    몸이건 상이건
+    어느 것은 있고 어느 것은 없으리
+    몸은 저 꿈속의 물건이라면
+    상은 꿈속의 꿈인 셈
+    아득하고 아득하여 깊으니
+    모두 다 무로 돌아가고
+    오직 마음만이 달과 함께 길이 남으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0110&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of Bodhidharma's Portrait
+  author: Lee Kyou-bo
+  language: eng
+  text: |-
+    At Shaolin, facing the wall—
+    it was the mind he sought to transmit.
+    The mind is already passed to the Eastern lands;
+    the body shall depart westward with form.
+
+    In this present moment,
+    what can be transmitted is mind;
+    what is useless is the body.
+    The body has already gone—
+    why then must we paint his likeness?
+
+    To paint a portrait seeking the mind
+    is like searching for pearls in a serpent's shed skin.
+    Body or portrait—
+    which exists, which does not?
+    The body is an object within a dream;
+    the portrait, a dream within a dream.
+
+    Vague and nebulous, all dissolving into depths,
+    everything returns to nothingness.
+    Only the mind remains,
+    enduring forever alongside the moon.
+  footnotes:
+  - key: ''
+    value: Bodhidharma (Daruma in Japanese, Damo in Chinese) was the legendary founder of Chan/Zen Buddhism who is said to have meditated facing a wall at Shaolin Temple for nine years.
+  - key: ''
+    value: The reference to 'Eastern lands' (震旦, Zhendan) reflects the Buddhist perspective of transmission from India through China to Korea.
+  - key: ''
+    value: The 'moon' serves as a traditional poetic symbol for enlightenment and the eternal nature of consciousness in East Asian Buddhist poetry.

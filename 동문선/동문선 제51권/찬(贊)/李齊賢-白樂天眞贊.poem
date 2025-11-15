@@ -1,0 +1,33 @@
+canonical:
+  title: 白樂天眞贊
+  author: 李齊賢
+  language: lzh
+  text: 駱旣竟鬻素亦不留龍門泉石飄然獨游
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 白樂天眞贊
+  author: 李齊賢
+  language: lzh
+  text: 駱旣竟鬻。素亦不留。龍門泉石。飄然獨游。
+korean:
+  title: 백낙천 진찬
+  author: 이제현
+  language: kor
+  text: 낙타는 벌써 팔아버렸나, 그림에는 그것도 나타나지 않았다. 용문산(龍門山)  천석(泉石) 중에 표연히 홀로 다니네.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백낙천 진찬(白樂天眞贊) : '
+    value: 복건(幅巾)과 야복(野服)으로 지팡이를 짚고 홀로 걷는 모양.
+english:
+  title: In Praise of Bai Letian's True Portrait
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The camel is already sold away,
+    Not even appearing in the painting.
+    Among Dragon Gate's springs and stones,
+    He wanders alone, drifting free.
+  footnotes:
+  - key: ''
+    value: This piece depicts Bai Juyi (白樂天, 772-846), the celebrated Tang poet, dressed in simple robes and head wrap, leaning on a staff as he walks solitary through nature. The absence of the camel in the portrait suggests a renunciation of worldly possessions and concerns, emphasizing the spiritual freedom of the sage-poet in communion with natural landscapes.

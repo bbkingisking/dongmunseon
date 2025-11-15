@@ -1,0 +1,37 @@
+canonical:
+  title: 惠陰院途中
+  author: 鄭誧
+  language: lzh
+  text: 驅馬悠悠渡小溪斜陽古碣草萋萋山村四月行人少深樹黃鸝自在啼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 惠陰院途中
+  author: 鄭誧
+  language: lzh
+  text: 驅馬悠悠渡小溪。斜陽古碣草萋萋。山村四月行人少。深樹黃鸝自在啼。
+korean:
+  title: 혜음원도중
+  author: 정포
+  language: kor
+  text: |-
+    말을 몰고 유유히 작은 시내 건너노니
+    저녁 볕 묵은 비에 풀만 어지럽구나
+    산마을의 사월에 행인은 적고
+    깊숙한 나무에는 누른 꾀꼬리 자유로이 우네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0740&viewSync=OT
+  footnotes: []
+english:
+  title: Along the Road to Huieum Temple
+  author: Jeong Po
+  language: eng
+  text: |-
+    I drive my horse leisurely across the shallow stream.
+    On the ancient stone marker, evening sun—the grass grows wild and tangled.
+    In the mountain village of April, few travelers pass,
+    While in the deep trees, golden orioles sing freely, at ease.
+  footnotes:
+  - key: ''
+    value: Huieum Temple (惠陰院) was a Buddhist temple located on a well-traveled route in medieval Korea.
+  - key: ''
+    value: The 'ancient stone marker' suggests a roadside monument worn by time, emphasizing the solitude and remoteness of this journey.

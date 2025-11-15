@@ -1,0 +1,51 @@
+canonical:
+  title: 秋雨夜坐
+  author: 李穀
+  language: lzh
+  text: 寒雲作色送昬鴉獨倚書䆫感物華秋晚江山正搖落夜深風雨更橫斜利名少味徒爲客魂夢無情不到家曉鏡定應添鬢髮羸驂肯復傍塵沙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋雨夜坐
+  author: 李穀
+  language: lzh
+  text: 寒雲作色送昬鴉。獨倚書䆫感物華。秋晚江山正搖落。夜深風雨更橫斜。利名少味徒爲客。魂夢無情不到家。曉鏡定應添鬢髮。羸驂肯復傍塵沙。
+korean:
+  title: 추우야좌
+  author: 이곡
+  language: kor
+  text: |-
+    찬 구름이 쌀쌀히 저녁 까마귀를 보내는데
+    홀로 서창에 기대어 철 바뀌는 것 느끼노라
+    늦가을에 강산이 한창 쓸쓸하고
+    밤 깊은데 풍우가 다시 불어치네
+    명리가 무슨 맛인가 괜히 나그네만 되었지
+    꿈조차 무정하여 고향집에 못 이르네
+    새벽 종 소리에 백발이 정녕 더 나리니
+    어이 다시 여윈 말 타고 모래 먼지 무릅쓰리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0680&viewSync=OT
+  footnotes: []
+english:
+  title: Autumn Rain, Night Sitting
+  author: Lee Gok
+  language: eng
+  text: |-
+    Cold clouds usher in the twilight crows,
+    And I lean alone against my study window,
+    Feeling the seasons turn.
+    Late autumn—the rivers and mountains already in their descent,
+    The night deepens; wind and rain slash anew.
+
+    What flavor has profit and fame?
+    I've become a wanderer for nothing.
+    Even in dreams, that unkind distance—
+    I cannot reach my home.
+
+    At dawn's bell, surely my hair grows whiter still.
+    How can I mount this worn-out horse again
+    And ride through dust and sand?
+  footnotes:
+  - key: ''
+    value: The 'study window' (書窗) suggests the speaker's scholarly pursuits and solitary contemplation.
+  - key: ''
+    value: The 'worn-out horse' (羸驂) is a classical image of exhaustion and futile journeying, evoking the speaker's weariness with worldly ambition.

@@ -1,0 +1,40 @@
+canonical:
+  title: 玉河館偶吟
+  author: 金訢
+  language: lzh
+  text: 隙曛斜透弄游塵靜坐焚香閱此身盡日掩門來往絶時時還有賣書人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 玉河館偶吟
+  author: 金訢
+  language: lzh
+  text: 隙曛斜透弄游塵。靜坐焚香閱此身。盡日掩門來往絶。時時還有賣書人。
+korean:
+  title: 옥하관 우음
+  author: 김흔
+  language: kor
+  text: |-
+    문틈으로 햇빛이 비껴 들어 떠도는 먼지를 희롱하는데
+    향을 사르고 고요히 앉아 이 몸을 살펴본다
+    한종일 문을 닫고 사람 내왕 끊겼는데
+    도리어 때로는 책 파는 사람 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0860&viewSync=OT
+  footnotes: []
+english:
+  title: A Casual Poem at the Jade River Pavilion
+  author: Kim Heun
+  language: eng
+  text: |-
+    Through the crack in the door, sunlight slants in,
+    playing with dust motes adrift in the air.
+    I burn incense and sit in stillness,
+    contemplating this fleeting form.
+
+    All day the gate remains shut,
+    the world's comings and goings cut off.
+    Yet still, from time to time,
+    a book merchant passes by.
+  footnotes:
+  - key: ''
+    value: The 'Jade River Pavilion' likely refers to the poet's retreat or study, a space of solitude and reflection. The juxtaposition of complete isolation with the occasional visitor creates a subtle irony—even in seclusion, commerce and the outside world find their way in.

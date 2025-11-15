@@ -1,0 +1,47 @@
+canonical:
+  title: 秋夜入直都省偶題壁上
+  author: 林惟正
+  language: lzh
+  text: 時秋積雨霽韓公 雲捲碧天長子西 淅淅風生砌杜甫 斜斜月轉廊元寵 殘燈生暗暈荊公 老木犯新霜呂本中 病肺不飮酒呂溫 無因作醉狂齊己
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋夜入直都省偶題壁上
+  author: 林惟正
+  language: lzh
+  text: 時秋積雨霽。韓公。 雲捲碧天長。子西。 淅淅風生砌。杜甫。 斜斜月轉廊。元寵。 殘燈生暗暈。荊公。 老木犯新霜。呂本中。 病肺不飮酒。呂溫。 無因作醉狂。齊己。
+korean:
+  title: 가을밤 도성에 입직했다가 우연히 벽 위에 쓰면서
+  author: 임유정
+  language: kor
+  text: |-
+    때는 가을, 오랜 비도 갰는데 한공(韓公)
+    구름이 걷히니 푸른 하늘이 드좁구나 자서(子西)
+    우수수 바람은 뜰에서 일어나고 두보(杜甫)
+    비슷히 달은 행랑을 도네 원총(元寵)
+    쇠잔한 등불에 어득한 무리[暈] 생기고 형공(荊公)
+    늙은 나무는 새 서리를 맞는구나 여본중(呂本中)
+    폐를 앓아 술을 못 마시니 여온(呂溫)
+    주광을 부릴 수도 없어라 제기(齊己)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0520&viewSync=OT
+  footnotes: []
+english:
+  title: 'Autumn Night on Duty at the Capital: Verses Inscribed Upon the Wall'
+  author: Lim Yu-jeong
+  language: eng
+  text: |-
+    Autumn rain has cleared at last—
+    Clouds roll back, the blue sky stretches far—
+    Whispering wind stirs across the courtyard stones—
+    The moon slants gently down the corridor—
+    A dimming lamp casts soft halos in the dark—
+    The ancient tree meets frost's new bite—
+    My lungs are weak; I cannot drink the wine—
+    So I cannot lose myself in revelry.
+  footnotes:
+  - key: ''
+    value: This poem is composed of eight lines, each attributed to a classical Chinese poet or figure, creating a poetic collage that weaves together observations from tradition with the poet's own nocturnal meditation.
+  - key: ''
+    value: The structure reflects a common literary practice of the period, where poets would compose by incorporating celebrated phrases or lines from predecessors, demonstrating both erudition and creative synthesis.
+  - key: ''
+    value: The final couplet shifts from pure landscape description to personal reflection, revealing the poet's physical ailment and resulting melancholy as the true subject beneath the autumn scene.

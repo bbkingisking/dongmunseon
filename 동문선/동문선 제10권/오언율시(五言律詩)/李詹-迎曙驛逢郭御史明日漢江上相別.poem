@@ -1,0 +1,48 @@
+canonical:
+  title: 迎曙驛逢郭御史明日漢江上相別
+  author: 李詹
+  language: lzh
+  text: 再過三峯下傷時淚滿巾年來新日月事往幾風塵世路少相識郵亭逢故人依依不忍別立馬漢江濱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 迎曙驛逢郭御史明日漢江上相別
+  author: 李詹
+  language: lzh
+  text: 再過三峯下。傷時淚滿巾。年來新日月。事往幾風塵。世路少相識。郵亭逢故人。依依不忍別。立馬漢江濱。
+korean:
+  title: 영서역에서 곽어사를 만나 이튿날 한강에서 작별하며
+  author: 이첨
+  language: kor
+  text: |-
+    다시 삼봉 밑을 지나다가
+    시사에 상심이 되어 눈물이 수건에 찼네
+    해가 오니 새로운 일월이요
+    지난 일은 얼마나 풍진을 겪었던고
+    세상길에는 서로 아는 이가 적은데
+    우정에서 고인을 만났네
+    차마 작별하지 못하여
+    한강가에 말을 세웠도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0800&viewSync=OT
+  footnotes: []
+english:
+  title: Meeting Guo the Censor at Yeongso Station, Parting at the Han River the Next Day
+  author: Lee Cham
+  language: eng
+  text: |-
+    Again beneath the three peaks I pass,
+    grieving for the times, tears soak my kerchief.
+    New days and months have come,
+    yet past affairs have weathered through how many winds and dust.
+
+    On the world's path, few know one another,
+    yet at the postal inn I met an old friend.
+    Loath to part, reluctant to let go,
+    my horse stands still on the Han River's shore.
+  footnotes:
+  - key: ''
+    value: The 'three peaks' (三峯) likely refers to a geographical landmark near Yeongso Station, marking a significant location in the poet's journey.
+  - key: ''
+    value: The 'postal inn' (郵亭) was a station for official travelers, emphasizing the chance encounter with the censor.
+  - key: ''
+    value: The Han River (漢江) held deep symbolic significance in Korean and Chinese poetry, often representing the boundary between parting lovers or friends.

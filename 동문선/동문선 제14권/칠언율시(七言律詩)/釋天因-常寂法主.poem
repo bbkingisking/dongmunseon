@@ -1,0 +1,49 @@
+canonical:
+  title: 常寂法主
+  author: 釋天因
+  language: lzh
+  text: 行盡滄洲幾日程此行還似督郵行衲衣久被風塵涴物色潛隨歲月更己信幻泡非我有更憐疣贅寄他生若爲洗盡空華眼常寂光中一笑呈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 常寂法主
+  author: 釋天因
+  language: lzh
+  text: 行盡滄洲幾日程。此行還似督郵行。衲衣久被風塵涴。物色潛隨歲月更。己信幻泡非我有。更憐疣贅寄他生。若爲洗盡空華眼。常寂光中一笑呈。
+korean:
+  title: 배가 남해에 닿자 안질을 얻어 상적법주
+  author: 석천인
+  language: kor
+  text: |-
+    창해의 며칠 길을 다 오고 보니
+    이 걸음이 숫제 독우(군(郡)의 좌리(佐吏). 속현(屬縣)의 행정을 맡음)의 행차와도 같네
+    누비옷이 오랜 풍진에 더럽혔구나
+    물색은 어느덧 세월 따라 달라지고
+    이 몸은 환과 거품, 내 것이 아니로세
+    어쩌다 혹과 사마귀 마냥 남에게 붙어 사는고
+    눈 앞의 일체 공화를 말끔히 씻어 내면
+    상적광 그 속에서 한 번 웃어 주련만
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0550&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 눈 앞의 일체 공화(空華) : '
+    value: 불경(佛經)에, “일체의 세간(世間)은 허공에 아른거리는 꽃과 같다.” 하였는데, 그것은 눈에 병이 있는 사람이 허공을 쳐다보면 꽃 같은 것이 아른거리나 실제로는 꽃이 없다는 뜻이다.
+  - key: '[주-D002] 상적광(常寂光) : '
+    value: 부처[佛]의 경계(境界)를 상적광토(常寂光土)라 하는데, 항상 고요하며 광명이 가득 찬 세계라는 뜻이다.
+english:
+  title: The Master of Constant Serenity and Light
+  author: Suk Cheon In
+  language: eng
+  text: |-
+    Days have passed crossing the vast sea—
+    this journey too resembles a magistrate's procession.
+    My patched robe, long soiled by wind and dust,
+    while all things shift and transform with the turning years.
+    I know this phantom bubble holds nothing that is mine,
+    yet lament how warts and growths cling to another's flesh.
+    If only I could wash away these flower-illusions before my eyes,
+    then laugh once more within the Light of Constant Serenity.
+  footnotes:
+  - key: ''
+    value: 'The ''flower-illusions'' (空華) refer to a Buddhist metaphor: just as a person with eye disease sees flowers floating in empty space that don''t truly exist, all phenomena appear to our deluded vision but lack inherent reality.'
+  - key: ''
+    value: The 'Light of Constant Serenity' (常寂光) represents the Buddha's realm—a world of eternal peace and luminous clarity beyond the cycles of suffering and change.

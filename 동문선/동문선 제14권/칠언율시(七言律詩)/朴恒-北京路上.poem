@@ -1,0 +1,47 @@
+canonical:
+  title: 北京路上
+  author: 朴恒
+  language: lzh
+  text: 一色平蕪觸處同四時無日不狂風淺山白日能飛雨古塞黃沙忽放虹地隔四千天共遠堠磨雙隻路何窮漢家信美非吾土歸夢時時落海東
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 北京路上
+  author: 朴恒
+  language: lzh
+  text: 一色平蕪觸處同。四時無日不狂風。淺山白日能飛雨。古塞黃沙忽放虹。地隔四千天共遠。堠磨雙隻路何窮。漢家信美非吾土。歸夢時時落海東。
+korean:
+  title: 북경로상
+  author: 박항
+  language: kor
+  text: |-
+    가는 곳마다 똑같은 무연한 벌판에
+    사철 어느 때나 광풍이 불어오네
+    얕은 산 대낮에도 난데없는 소낙비
+    낡은 변새 황사장에 문득 뻗치는 무지개
+    4천 리 격한 땅 하늘처럼 머나 멀고
+    쌍으로 외톨로 서 있는 장승, 길은 끝이 없어라
+    한토가 좋다마는 내 고장이 아니거니
+    때때로 돌아갈 꿈이 해동으로 향하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0960&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road to Beijing
+  author: Park Hang
+  language: eng
+  text: |-
+    Wherever I go, the same desolate plain meets my eyes—
+    Every season brings wild winds without cease.
+    On shallow hills, sudden rain falls in bright daylight,
+    And over the ancient fortress, yellow dust suddenly births a rainbow.
+    Four thousand leagues divide us; the sky stretches equally far.
+    Lonely stone markers stand in pairs; the road seems without end.
+    Though the Han lands are fair, they are not my own soil.
+    My dreams of return drift ever eastward, toward the sea.
+  footnotes:
+  - key: ''
+    value: The 'four thousand leagues' refers to the distance between Korea and Beijing.
+  - key: ''
+    value: The 'stone markers' (장승, jangseung) are traditional Korean boundary markers, here suggesting the poet's distance from home and the longing to see familiar sights.
+  - key: ''
+    value: The final reference to 'the sea to the east' (해동) is a traditional poetic name for Korea, emphasizing the speaker's yearning for their homeland.

@@ -1,0 +1,39 @@
+canonical:
+  title: 薦氷祝
+  author: 金克己
+  language: lzh
+  text: 銅管吹和方屬仲暄之候玉壺告潔克脩先薦之儀惟兾仁聦卽臨孝懇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 薦氷祝
+  author: 金克己
+  language: lzh
+  text: 銅管吹和。方屬仲暄之候。玉壺告潔。克脩先薦之儀。惟兾仁聦。卽臨孝懇。
+korean:
+  title: 얼음을 올리는 축문
+  author: 김극기
+  language: kor
+  text: 동관(銅管 동(銅)과 관(管)으로 된 악기(樂器))이 화(和)한 기운을 불어, 바야흐로 중훤(仲暄 중춘 혹은 중하)의 절후가 되어 옥병[玉壺]의 얼음이 깨끗함을 고하옵기에, 삼가 먼저 천신(薦新)의 예절을 갖추오니, 바라옵건대, 어질고 총명하신 영(靈)이시여, 이 효심의 간곡함에 강림하옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0010&viewSync=OT
+  footnotes: []
+english:
+  title: A Prayer for Presenting Ice
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Bronze pipes blend their harmonious breath,
+    As spring's warm season turns to summer's threshold.
+    The jade vessel declares its crystal purity—
+    I humbly perform the rite of first offering.
+
+    Wise and illumined spirit,
+    I beseech you:
+    Descend upon this humble, earnest devotion.
+  footnotes:
+  - key: ''
+    value: The 'bronze pipes' (銅管) refer to musical instruments whose harmony marks the seasonal transition. In traditional East Asian cosmology, music and natural cycles are intimately connected.
+  - key: ''
+    value: The 'jade vessel' (玉壺) is a classical image of purity and is used here to represent the ice being offered—itself a symbol of clarity and refinement.
+  - key: ''
+    value: The 'rite of first offering' (薦新之儀) was a traditional practice of presenting newly available seasonal items to ancestral spirits or deities, expressing gratitude and seeking blessing.

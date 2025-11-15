@@ -1,0 +1,51 @@
+canonical:
+  title: 題耳叟
+  author: 柳洵
+  language: lzh
+  text: 堂上開樽對孟光門前曳杖看方塘閑尋泉脉行苔徑醉愛松陰卧石床自負有山兼有水不論流臭與流芳披心許我頻相叩和氣薰然滿一堂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題耳叟
+  author: 柳洵
+  language: lzh
+  text: 堂上開樽對孟光。門前曳杖看方塘。閑尋泉脉行苔徑。醉愛松陰卧石床。自負有山兼有水。不論流臭與流芳。披心許我頻相叩。和氣薰然滿一堂。
+korean:
+  title: 제이수
+  author: 유순
+  language: kor
+  text: |-
+    마루 위에서 술항아리를 열어 맹광을 대하다가
+    문앞에서 지팡이를 끌며 방당을 구경한다
+    한가하매 샘물 줄기를 찾아 이끼 낀 길을 걷고
+    취해서는 소나무 그늘을 사랑하여 돌평상 위에 눕는다
+    산이 있고 또 물이 있는 것을 자부하노니
+    유취와 또 유방은 논하지 않는다
+    마음을 털어놓고 내가 자주 문을 두드림을 허락하니
+    화한 기운이 훈언히 온 당에 차네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0790&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 맹광(孟光) : '
+    value: 한(漢)나라 양홍(梁鴻)의 부인인데, 양홍이 어진 선비로서 벼슬을 구하지 않고 숨어서 품팔이로 사는데 맹광이 같이 뜻을 맞추어 곤궁함을 견디고 남편 앞에 밥상을 올릴 때에 상을 자기 눈썹 위에 닿도록 높이 들어 공경하였다.
+  - key: '[주-D002] 방당(方塘) : '
+    value: 네모난 조그만 연못이다.
+  - key: '[주-D003] 유취(流臭)와 …… 논하지 않는다 : '
+    value: 진(晋)나라 권신(權臣)  환온(桓溫)이 탄식하기를, “대장부 꽃다운 이름을 백세(百世)에 전하지 못하면 또한 마땅히 더러운 냄새를 만년(萬年)까지 남겨야 한다.” 하였다.
+english:
+  title: On Meeting Ear-old
+  author: Yu Suen
+  language: eng
+  text: |-
+    Upon the hall I open wine to face Meng Guang's noble grace,
+    And at the gate I drag my staff to view the pond's still face.
+    When leisure calls, I seek the spring through moss-veiled pathways green,
+    And drunk with joy, I love the pine shade where stone beds lean.
+    Proud of the mountains and the waters that are mine,
+    I care not whether fame or shame through ages shine.
+    You open wide your heart and grant me frequent knocks to make—
+    And gentle warmth pervades the hall, all filled for virtue's sake.
+  footnotes:
+  - key: ''
+    value: Meng Guang was the wife of Liang Hong, a virtuous hermit-scholar of the Han dynasty who refused official position. She shared his simple life, and when presenting him with meals, she would hold the tray so high it touched her eyebrows—a gesture of utmost respect and humility.
+  - key: ''
+    value: 'The reference to ''fame or shame through ages'' alludes to the words of Huan Wen, a powerful minister of Jin: ''If a great man cannot leave a fragrant name for a hundred generations, he must leave a foul stench for ten thousand years.'' The poem dismisses such worldly concerns.'

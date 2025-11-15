@@ -1,0 +1,32 @@
+canonical:
+  title: 圓鑑國師語錄序
+  author: 釋明友
+  language: lzh
+  text: 圓鑑國師得無㝵辨才於晦堂和尙自甘露至曹溪三坐道塲隨機說法接物利生或上堂或示衆或歌或訟禪也敎也儒焉釋焉橫拈倒用暗去明來千差萬別莫窮其涯涘矣其義則一也譬如春行萬彙一花一草皆春也海遍千江一涓一滴皆海也然不向一花一草上知春不向一涓一滴上知海者觀之有暇矣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 圓鑑國師語錄序
+  author: 釋明友
+  language: lzh
+  text: 圓鑑國師。得無㝵辨才於晦堂和尙。自甘露至曹溪。三坐道塲。隨機說法。接物利生。或上堂。或示衆。或歌或訟。禪也敎也。儒焉釋焉。橫拈倒用。暗去明來。千差萬別。莫窮其涯涘矣。其義則一也。譬如春行萬彙。一花一草。皆春也。海遍千江。一涓一滴。皆海也。然不向一花一草上知春。不向一涓一滴上知海者。觀之有暇矣。
+korean:
+  title: 원감국사어록서
+  author: 석명우
+  language: kor
+  text: 원감국사(圓鑑國師)가 무애변재(無㝵辨才)를 회당화상(晦堂和尙)에게서 터득하고, 감로(甘露)로부터 조계(曹溪)에 이르기까지 세 번 도량에 앉아서 근기에 따라 법을 말하고, 물에 접하여 중생을 이롭게 하였다. 당에 오르고 혹 중생에게 보여주기도 하며, 혹 노래도 하고 혹 송(頌)도 하며, 선(禪)ㆍ교(敎)ㆍ유(儒)ㆍ석(釋)에 대하여 자유자재로 출입하고 인용하여 논변하니 천차만별(千差萬別)하여 그 궁극을 볼 수 없으나 그 의는 한 가지다. 비유하면, 봄이 만물에 유행하니 하나의 꽃과 하나의 풀도 다 봄이요, 바다가 1천 강에 두루 통하여 한 방울 물도 다 바다인 것과 같다. 그러나 하나의 꽃과 하나의 풀에서 봄을 알지 못하고 한 방울 물에서 바다를 알지 못하는 자는 보는 것이 거리가 있을 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0870_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Preface to the Recorded Sayings of National Teacher Yuangian
+  author: Shi Mingyu
+  language: eng
+  text: |-
+    National Teacher Yuangian attained unobstructed eloquence from the Venerable Huitang. From Ganlu to Caoxi, he sat three times in the dharma hall, expounding the teachings according to each person's capacity, benefiting all beings through contact with phenomena. He ascended the platform, revealed truth to the assembly, sang songs and composed verses—now channeling Chan, now teaching doctrine; now speaking as a Confucian, now as a Buddhist. Moving freely through all schools, turning words upside down and wielding them inversely, light emerging where darkness receded. A thousand differences, ten thousand distinctions, their limits beyond measure—yet the essence remains one.
+
+    Consider how spring pervades all things: a single flower, a blade of grass—each is spring. The sea flows through a thousand rivers: a droplet, a trickle—each is the sea. Yet those who cannot recognize spring in a single flower or blade of grass, who cannot perceive the sea in a droplet or trickle, their vision remains distant.
+  footnotes:
+  - key: ''
+    value: 'Ganlu and Caoxi: Important sites in Chan Buddhist history, representing the transmission of the teachings across different locations and generations.'
+  - key: ''
+    value: The imagery of spring pervading all things and the sea in every droplet exemplifies the Buddhist principle of universal enlightenment—that ultimate truth manifests in all phenomena, both great and small.

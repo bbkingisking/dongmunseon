@@ -1,0 +1,45 @@
+canonical:
+  title: 평양
+  author: 金富軾
+  language: lzh
+  text: 朝退離宮得勝遊無窮物象赴雙眸雲邊列岫重重出城下寒江漫漫流柳暗誰家沽酒店月明何處釣魚舟牧之曾願爲閑客今我猶嫌不自由
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 평양
+  author: 金富軾
+  language: lzh
+  text: 朝退離宮得勝遊。無窮物象赴雙眸。雲邊列岫重重出。城下寒江漫漫流。柳暗誰家沽酒店。月明何處釣魚舟。牧之曾願爲閑客。今我猶嫌不自由。
+korean:
+  title: 서도
+  author: 김부식
+  language: kor
+  text: |-
+    이궁에서 물러나와 승한 놀이에 참예하니
+    무궁한 경상이 두 눈 앞에 몰려드누나
+    구름 가에 뭇 산들은 겹겹이 고개 들고
+    성 밑의 찬 강은 굼실굼실 흘러가네
+    버들이 어득한 곳은 술 파는 뉘 집인가
+    달이 휘영청 낚시질배는 어느 곳에 떠 있는가
+    옛날 두목은 한가한 손 되길 바랐지만
+    그것도 부자유할까 나는 지금 꺼리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: Pyongyang
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Retiring from the palace after a victorious excursion,
+    Countless visions of nature rush before my eyes.
+    Beyond the clouds, layered mountains rise in succession,
+    Beneath the walls, the cold river flows on and on.
+    In the willow shadows, whose tavern sells wine?
+    Where does the moon illuminate the fishing boat?
+    Once the ancient poet wished to be a man of leisure,
+    Yet even that, I fear, is not truly free.
+  footnotes:
+  - key: ''
+    value: The reference to 'the ancient poet' alludes to Du Mu (杜牧), a Tang dynasty poet known for his love of leisure and wine, suggesting the speaker's reflection on whether freedom from office brings true liberty.
+  - key: ''
+    value: The contrast between the natural beauty observed and the speaker's inability to fully enjoy it reflects the Confucian tension between duty and personal desire in Korean literati culture.

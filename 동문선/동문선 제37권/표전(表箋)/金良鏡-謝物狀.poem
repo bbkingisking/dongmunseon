@@ -1,0 +1,29 @@
+canonical:
+  title: 謝物狀
+  author: 金良鏡
+  language: lzh
+  text: 帝詔絲綸降自北宸之所皇恩雨露洽然東禁之春前件物等名品尤奇裁成極巧受賜多矣誠可謂爲龍爲光感恩有之所報者惟忠惟孝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝物狀
+  author: 金良鏡
+  language: lzh
+  text: 帝詔絲綸。降自北宸之所。皇恩雨露。洽然東禁之春。前件物等。名品尤奇。裁成極巧。受賜多矣。誠可謂爲龍爲光。感恩有之。所報者惟忠惟孝。
+korean:
+  title: 사물장
+  author: 김양경
+  language: kor
+  text: 사륜(絲綸)같은 조칙(詔勅)이 대궐에서 내려오니, 우로(雨露)같은 은택이 동궁(東宮)의 봄[春]을 적시나이다. 목록에 적힌 물건들은 이름과 품질이 더욱 기이하고, 만듦새가 극히 교묘하여 받자옴이 많은 지라, 진실로 용(龍)이 되고 빛이 되며 은혜에 감사하옴에 보답하기를 오직 충성과 효도로 하겠나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 용(龍)이 …… 되며 : '
+    value: 《시경》〈육소편(蓼蕭篇)〉은 천자가 제후에게 잔치하는 글인데 그 중에 이 구절이 있다. 용(龍)은 총(寵)과 같이 해석된다.
+english:
+  title: Expression of Gratitude for Bestowed Gifts
+  author: Kim Yang-gyeong
+  language: eng
+  text: The imperial edict descends like silken threads from the palace above, and imperial grace falls like rain and dew, drenching the spring of the Eastern Palace. The items listed bear names and qualities most wondrous, their craftsmanship sublime beyond measure. Having received such abundance, I am truly transformed—made radiant as a dragon bathed in celestial light. With profound gratitude for this favor, I pledge to repay it solely through loyalty and filial devotion.
+  footnotes:
+  - key: ''
+    value: The phrase 'made radiant as a dragon' is a literary allusion to the Classic of Poetry (Odes of Zhou), where dragons symbolize imperial favor and benevolence bestowed upon officials.

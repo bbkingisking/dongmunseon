@@ -1,0 +1,45 @@
+canonical:
+  title: 次鎭南樓韻
+  author: 許稠
+  language: lzh
+  text: 爲緣淸景倚新樓縱目初驚一葉秋萬戶炊煙靑靄靄四山佳氣碧浮浮分符留守二千石杖鉞觀風五十州自幸此時當盛際鷄鳴狗吠達窮陬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次鎭南樓韻
+  author: 許稠
+  language: lzh
+  text: 爲緣淸景倚新樓。縱目初驚一葉秋。萬戶炊煙靑靄靄。四山佳氣碧浮浮。分符留守二千石。杖鉞觀風五十州。自幸此時當盛際。鷄鳴狗吠達窮陬。
+korean:
+  title: 차 진남루 운
+  author: 허조
+  language: kor
+  text: |-
+    맑은 경치에 끌려 새 다락에 올랐더니
+    바라보니 아아 벌써 잎이 지는 가을
+    집마다 밥 짓는 연기가 퍼렇게 자욱하고
+    사면 산의 아름다운 기운은 새파랗게 떠오르네
+    병부 나눈 유수는 벼슬이 2천 석
+    도끼 짚고 민풍을 살핀 곳 50고을
+    어허 대견한지고 이때가 태평 성대
+    닭 울음 개 짖는 소리가 벽지에도 사무치네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0720&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 닭 울음 개 짖는 소리 : '
+    value: 《맹자》에 “닭의 울음, 개짖는 소리가 사정에 사무친다.”는 말이 있는데, 인구가 번성한다는 말이다.
+english:
+  title: In Response to the Rhyme of Jinnam Tower
+  author: Heo Jo
+  language: eng
+  text: |-
+    Drawn by the clarity of the scene, I climb the new tower high,
+    And gazing forth, I see—autumn already in a fallen leaf.
+    From every home the cooking smoke rises thick and blue,
+    While from the four surrounding mountains, beauty's breath floats green.
+    The governor holds the seal of two thousand stone,
+    With staff and axe, he surveys the wind across fifty districts.
+    How fortunate that I witness this age of prosperity and peace—
+    Even in the remote corners, roosters crow and dogs bark with vigor.
+  footnotes:
+  - key: ''
+    value: The crowing of roosters and barking of dogs in the final line is an allusion from the Mencius, signifying a flourishing population and settled times.

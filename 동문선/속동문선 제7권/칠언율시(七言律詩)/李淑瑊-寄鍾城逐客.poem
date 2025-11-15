@@ -1,0 +1,47 @@
+canonical:
+  title: 寄鍾城逐客
+  author: 李淑瑊
+  language: lzh
+  text: 淸時遠逐問誰因杳杳天涯著此身衣綻尙餘慈母線臈回猶隔故園春夢驚邊鐸頻推枕淚落胡笳易滿巾是處料君心事苦題詩寄與暗傷神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄鍾城逐客
+  author: 李淑瑊
+  language: lzh
+  text: 淸時遠逐問誰因。杳杳天涯著此身。衣綻尙餘慈母線。臈回猶隔故園春。夢驚邊鐸頻推枕。淚落胡笳易滿巾。是處料君心事苦。題詩寄與暗傷神。
+korean:
+  title: 기 종성 축객
+  author: 이숙감
+  language: kor
+  text: |-
+    밝을 때에 멀리 쫓는 것은 무슨 까닭이던가
+    아득한 하늘 끝에 이 한 몸 붙었나니
+    터진 옷에는 아직 어머니의 실이 남아 있었고
+    섣달이 돌아왔는데 그래도 고향의 봄은 멀다
+    변방의 방울 소리에 꿈은 놀라 자주 베개를 돋구고
+    오랑캐 피리 소리에 눈물이 떨어져 어느새 수건에 찬다
+    여기서 그대 마음의 괴로움을 생각하나니
+    시를 지어 붙이면서 가만히 마음 상한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0560&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to an Exile in Jongseong
+  author: Lee Suk-gam
+  language: eng
+  text: |-
+    Why was he sent to exile when times were peaceful?
+    His solitary form clings to the distant edge of heaven.
+    Still clinging to his tattered robes are threads from his mother's hands.
+    December returns, yet spring in his homeland remains far away.
+    Border bells startle his dreams—he rises from his pillow again and again.
+    Tears fall at the mournful pipes of distant lands, soaking his sleeve.
+    Here I contemplate the anguish that weighs upon his heart.
+    As I write these verses to send him, my own spirit grows dim with sorrow.
+  footnotes:
+  - key: ''
+    value: The poem is addressed to someone exiled to Jongseong, likely during a period of political upheaval in Korean history.
+  - key: ''
+    value: The mother's thread is a traditional symbol of maternal love and the bonds of home that cannot be severed, even in exile.
+  - key: ''
+    value: Border bells and 'orang-chai' pipes (胡笳) reference the imagery of the frontier and foreign lands, common in exile literature influenced by Chinese poetic tradition.

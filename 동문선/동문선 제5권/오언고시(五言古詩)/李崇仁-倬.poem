@@ -1,0 +1,61 @@
+canonical:
+  title: 倬
+  author: 李崇仁
+  language: lzh
+  text: 昔與周雲章情親重骨肉把酒賞幽芳論文剪紅燭相逢共恨晚歸期何太促一別各西東三載飽荼毒自我初銜命謂言當刮目人事喜蹉跎宦途苦遼邈持節燕山陲繫舟龍江曲懷哉不可見日暮烟波綠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 倬
+  author: 李崇仁
+  language: lzh
+  text: 昔與周雲章。情親重骨肉。把酒賞幽芳。論文剪紅燭。相逢共恨晚。歸期何太促。一別各西東。三載飽荼毒。自我初銜命。謂言當刮目。人事喜蹉跎。宦途苦遼邈。持節燕山陲。繫舟龍江曲。懷哉不可見。日暮烟波綠。
+korean:
+  title: 용강 배 안에서 주 참정 이름은 탁
+  author: 이숭인
+  language: kor
+  text: |-
+    전일에 주운장과 더불어
+    친하기가 골육보다 더하였네
+    술잔을 잡고 산중 경치도 구경하였고
+    글을 의논하느라 붉은 촛불을 깎기도 하였지
+    서로 만남이 늦은 것을 함께 한하였는데
+    돌아가는 기약은 어찌 그리 촉박하였던가
+    한 번 이별하매 각각 동과 서에 있어
+    삼 년 동안 신고를 실컷 겪었네
+    내 사명을 받음으로부터
+    눈을 비비고 서로 만나리라 생각하였더니
+    사람 일이란 어긋나기 좋아하고
+    벼슬길은 괴롭게도 멀어라
+    그대 사절로 연산에 가고
+    나는 배를 용강 구비에 맸었거니
+    그대 생각하며 보지 못함이여
+    날은 저물고 연기 물결은 푸르도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 눈을 비비고 서로 만나리라 : '
+    value: “선비가 서로 작별한 지 사흘 만이면 눈을 닦고 서로 대한다.[士別三日刮目相對]”는 말이 있다. 이 말은 그 동안에 진보(進步)되었기 때문에 눈을 닦고 다시 본다는 뜻이다.
+english:
+  title: On Board a Boat at Yonggang
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Once I walked with Zhou Yunzhang,
+    our kinship deeper than bone and blood.
+    We raised cups to mountain beauty,
+    and trimmed red candles while discussing verse.
+    Together we lamented how our meetings came too late,
+    yet how our parting seemed to rush upon us still.
+    One farewell and we drifted east and west—
+    three years I tasted sorrow's bitter cup.
+    Since the day I received my commission,
+    I thought we would meet again with eyes renewed by time.
+    But human fate loves to slip away,
+    and the official's path winds long and hard.
+    You journey to the mountains, bearing the seal of state,
+    while I moor my boat where the dragon river bends.
+    Thinking of you, whom I cannot see—
+    the day darkens and the mist upon the waters turns to green.
+  footnotes:
+  - key: ''
+    value: 'The phrase about eyes renewed refers to the classical saying: ''When three days pass between parting scholars, one should wipe one''s eyes and regard them anew''—meaning that in such time, one may have grown and changed so much as to be almost unrecognizable.'

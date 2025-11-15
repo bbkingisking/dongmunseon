@@ -1,0 +1,39 @@
+canonical:
+  title: 題任實縣壁
+  author: 釋禪坦
+  language: lzh
+  text: 衝泥瘦馬過山城挑盡寒燈聽雨聲客路不隨年矢盡明年何處見新正
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題任實縣壁
+  author: 釋禪坦
+  language: lzh
+  text: 衝泥瘦馬過山城。挑盡寒燈聽雨聲。客路不隨年矢盡。明年何處見新正。
+korean:
+  title: 제임실현벽
+  author: 석선탄
+  language: kor
+  text: |-
+    진흙을 차는 여윈 말로 산성을 지나다가
+    찬 등불 다 돋우고 비소리를 듣고 있다
+    나그네 길은 해를 따라 끝나지 않거니
+    명년에는 어디서 설을 맞이하려나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Written on the Wall of Imshil County
+  author: Seon Tan
+  language: eng
+  text: |-
+    A lean horse treads through mud, crossing the mountain town.
+    I trim the cold lamp's flame and listen to the rain.
+    A traveler's path does not end when the year runs out—
+    where will I greet the new spring next year?
+  footnotes:
+  - key: ''
+    value: Imshil County (任實縣) is located in present-day North Jeolla Province, Korea. The poem was likely written on a wall during the poet's travels through the region.
+  - key: ''
+    value: The 'cold lamp' suggests both the literal lamp in an inn and the loneliness of exile or wandering.
+  - key: ''
+    value: '''New spring'' (新正) refers to the lunar new year, traditionally a time when one returns home or celebrates with family.'

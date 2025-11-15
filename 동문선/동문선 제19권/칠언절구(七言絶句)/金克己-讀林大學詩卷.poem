@@ -1,0 +1,82 @@
+canonical:
+  title: 讀林大學詩卷
+  author: 金克己
+  language: lzh
+  text: 性命年來欲保難天翁聵聵鬼神姦不須厚送傷淸德容膝平生亦易安碧江鏡淨抱長湍曾命蘭舟信湠漫蘋末淸風時渡水恐君筆下起波瀾曾訪徐侯共醉歸別來燕鴈喜相違我今紫塞君黃壤終始睽携似此稀愁膓慘慘涕漣漣獨掩塵篇一問天顔跖短長誰與奪大空無主但茫然足庵勝境品題難憐子華篇照壁閒過客仰看空極目雲端明月有誰攀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀林大學詩卷
+  author: 金克己
+  language: lzh
+  text: 性命年來欲保難。天翁聵聵鬼神姦。不須厚送傷淸德。容膝平生亦易安。碧江鏡淨抱長湍。曾命蘭舟信湠漫。蘋末淸風時渡水。恐君筆下起波瀾。曾訪徐侯共醉歸。別來燕鴈喜相違。我今紫塞君黃壤。終始睽携似此稀。愁膓慘慘涕漣漣。獨掩塵篇一問天。顔跖短長誰與奪。大空無主但茫然。足庵勝境品題難。憐子華篇照壁閒。過客仰看空極目。雲端明月有誰攀。
+korean:
+  title: 독 임대학시권
+  author: 김극기
+  language: kor
+  text: |-
+    요즘은 성명도 보전하기 어려우니
+    하늘은 어리석고 귀신은 간사하도다
+    두터이 보내어 맑은 덕을 상하게 말라
+    평생에 겨우 무릎 용납할 좁은 집 편히 알던 것을
+    푸른 강은 거울같이 맑아 장단을 안았는데
+    일찍이 목란주를 띄워 물결 가는 대로
+    마름 끝에 맑은 바람 때로 물을 스치니
+    그대 붓끝 아래 파란이 일까 두려웠네
+    일찍이 서후를 찾아 함께 취하고 돌아왔더니
+    헤어진 뒤 제비와 기러기 기쁨이 서로 어긋나네
+    나는 이제 자새에 있고 그대는 황양에
+    끝내 어긋남이 이 같음은 참말 드물리라
+    괴로운 마음은 처참하여 눈물이 줄줄
+    홀로 먼지 앉은 책 〈임대학의 시권〉을 덮고 하늘에 한 번 묻노니
+    안회와 도척이 길고 짧음을 누가 주고 빼앗았노
+    임자 없는 넓은 하늘 아득하기만 하여라
+    족암의 좋은 경치 형언키도 어려워라
+    자네의 꽃다운 글 벽에 붙임 어여쁘네
+    나그네는 공연히 우러러보기만 하는데
+    구름 끝 밝은 달은 그 누가 더위잡을꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0800&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 헤어진 뒤 …… 서로 어긋나네 : '
+    value: 제비는 봄에 왔다 가을에 가고, 기러기는 가을에 왔다 봄에 간다.
+  - key: '[주-D002] 나는 이제 …… 황양(黃壤)에 : '
+    value: 진(秦)나라가 쌓은 국경의 장성(長城) 흙빛이 붉으므로 자새(紫塞)라 한다. 또는 북방 국경인 안문(雁門)에는 풀 빛이 붉으므로 자새(紫塞)라고도 하는데, 여기서는 우리나라 변방을 말한다. 황양(黃壤)은 누런 흙인데, 여기서는 죽어서 땅 밑에 묻힌 것을 말한다.
+  - key: '[주-D003] 안회(顔回)와 도척(盜跖) : '
+    value: 도척(盜跖)은 흉악한 도적으로 사람의 간을 내어 회를 쳐서 먹는 자인데, 안락하게 오래 살았다. 공자(孔子)의 제일 사랑하는 제자인 안회(顔回)는 덕이 성인(聖人)의 다음인데도 32세에 요절하였다.
+english:
+  title: Reading Lin Daxue's Poetry Collection
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    These days it grows hard to preserve one's nature and fate.
+    Heaven is deaf and spirits play their tricks.
+    Do not send lavish gifts and wound your noble heart—
+    that narrow room where you rested easy all your life,
+    where knee found perfect space, was enough.
+
+    The green river lies clear as a mirror, holding long currents,
+    where once your orchid boat drifted with the stream's will.
+    When gentle wind brushes the duckweed's edge,
+    I feared it might stir waves beneath your brush.
+
+    Once we sought out Seo-hu and returned home together, drunk with joy.
+    Since we parted, swallows and geese pass in opposite seasons.
+    Now I dwell in the purple frontier, you in yellow earth beneath—
+    such separation, such discord, grows rarer still.
+
+    My heart lies heavy, tears fall in streams.
+    Alone, I close this dust-covered book and ask the sky one question:
+    Who bestows or takes away the length and brevity of Yan Hui and Dao Zhi?
+    The vast sky has no master, only endless emptiness.
+
+    The Clan Hermitage's beauty defies all praise,
+    yet your flowered words grace the bare wall so well.
+    Passersby gaze upward with empty eyes—
+    who could ever grasp the bright moon at the clouds' edge?
+  footnotes:
+  - key: ''
+    value: Swallows arrive in spring and depart in autumn; geese arrive in autumn and depart in spring—a poignant image of separation and longing.
+  - key: ''
+    value: The Purple Frontier refers to Korea's remote borders; yellow earth symbolizes death and burial beneath the ground.
+  - key: ''
+    value: Yan Hui was Confucius's most beloved disciple, renowned for his virtue, yet died at thirty-two. Dao Zhi was a notorious bandit who lived comfortably to old age—a stark contrast questioning fate's justice.

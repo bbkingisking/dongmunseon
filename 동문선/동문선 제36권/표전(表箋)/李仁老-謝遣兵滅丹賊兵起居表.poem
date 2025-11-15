@@ -1,0 +1,31 @@
+canonical:
+  title: 謝遣兵滅丹賊兵起居表
+  author: 李仁老
+  language: lzh
+  text: 表東海以撫邦路遙千里望北宸之居所壽祝萬年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝遣兵滅丹賊兵起居表
+  author: 李仁老
+  language: lzh
+  text: 表東海以撫邦。路遙千里。望北宸之居所。壽祝萬年。
+korean:
+  title: 군사를 파견하여 글안 적병을 섬멸했음을 사례하는 표
+  author: 이인로
+  language: kor
+  text: 동해 끝에 있는 이 나라를 어루만져 주시니, 먼 길 천리 밖에서 북신(北宸)이 계신 곳을 바라보며 만년을 축수하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0390_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial of Gratitude for Dispatching Troops to Eliminate the Rebel Forces of Dangyeok
+  author: Lee In-ro
+  language: eng
+  text: |-
+    You nurture this eastern realm that lies beyond the Eastern Sea,
+    Though the path stretches a thousand li distant.
+    Gazing toward where the Northern Star dwells,
+    I offer blessings for ten thousand years of your reign.
+  footnotes:
+  - key: ''
+    value: '北宸 (Northern Star/Northern Residence): A classical reference to the emperor''s seat, using astronomical imagery to honor the ruler''s celestial mandate.'

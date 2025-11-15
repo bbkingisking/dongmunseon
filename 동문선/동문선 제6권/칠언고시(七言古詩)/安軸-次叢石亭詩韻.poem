@@ -1,0 +1,55 @@
+canonical:
+  title: 次叢石亭詩韻
+  author: 安軸
+  language: lzh
+  text: 千條恠石成奇峯蒼崖煙霏水墨濃鯨濤起海雪霜漲蜃氣浮空樓閣重糢糊字沒大古碣癭瘦根蟠何代松磯邊蒻笠坐相揖月下羽衣招可逢悵望仙徒已雨散厭看俗子如雲從若爲亭前伴鷗鷺却掃人閒塵土蹤
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次叢石亭詩韻
+  author: 安軸
+  language: lzh
+  text: 千條恠石成奇峯。蒼崖煙霏水墨濃。鯨濤起海雪霜漲。蜃氣浮空樓閣重。糢糊字沒大古碣。癭瘦根蟠何代松。磯邊蒻笠坐相揖。月下羽衣招可逢。悵望仙徒已雨散。厭看俗子如雲從。若爲亭前伴鷗鷺。却掃人閒塵土蹤。
+korean:
+  title: 차 총석정 시운
+  author: 안축
+  language: kor
+  text: |-
+    천 개 괴상한 돌은 기이한 봉우리를 이루었는데
+    푸른 벼랑에 연기는 감돌아 수묵화가 짙구나
+    고래 물결이 바다에 일어나매 눈과 서리가 넘치고
+    신기가 허공에 뜨매 누각이 중중하다
+    먼 옛날 비석에는 글자가 낡아 모호한데
+    울퉁불퉁 뿌리가 여위었으니 어느 시대의 솔인가
+    여울가의 부들삿갓(낚시꾼)은 앉아서 서로 읍하고
+    달 아래 깃옷(신선)은 부르면 만날 듯하다
+    아득하다 신선의 무리 비처럼 이미 흩어졌는데
+    속된 사람들 구름처럼 모이는 것 보기 싫구나
+    어찌하면 정자 앞에서 갈매기와 해오리와 짝이 되어
+    인간의 티끌 발자국을 쓸어버릴꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0640&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Poem on Chongseok Pavilion
+  author: An Chuk
+  language: eng
+  text: |-
+    A thousand jagged stones rise into peaks of wonder,
+    On azure cliffs the mist hangs thick as ink-wash painting.
+    Where whale-tides surge, the sea foams white with frost,
+    And mirage-breath floats high—pagodas shimmer, layer upon layer.
+
+    On ancient steles the characters have worn to shadow,
+    The gnarled roots of pines—from which age do they descend?
+    By the rapids, the fisherman sits in his woven hat, bowing,
+    Beneath the moon, the immortal in silk robes beckons—one might meet her.
+
+    Yet alas, the throng of spirits has scattered like rain,
+    And I grow weary watching common folk gather like clouds.
+    Oh, to join the gulls and herons at the pavilion's edge,
+    And sweep away all trace of dust from mortal footprints.
+  footnotes:
+  - key: ''
+    value: Chongseok Pavilion (총석정) is a famous scenic site in Korea, known for its dramatic rock formations and historical significance.
+  - key: ''
+    value: The poem contrasts the ethereal, timeless beauty of the landscape with the mundane presence of ordinary humanity, reflecting the poet's yearning for transcendence and retreat from worldly affairs.

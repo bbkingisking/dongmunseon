@@ -1,0 +1,47 @@
+canonical:
+  title: 驪興淸心樓次韻
+  author: 薛文遇
+  language: lzh
+  text: 萬景森羅指點端登臨不覺屢回顔長江西去赴蒼海複嶺北來圍淺山透網魚跳寒雨裏忘機鷺立瞑煙間一生脫却功名累靑蒻漁翁也自閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 驪興淸心樓次韻
+  author: 薛文遇
+  language: lzh
+  text: 萬景森羅指點端。登臨不覺屢回顔。長江西去赴蒼海。複嶺北來圍淺山。透網魚跳寒雨裏。忘機鷺立瞑煙間。一生脫却功名累。靑蒻漁翁也自閑。
+korean:
+  title: 여흥 청심루 차운
+  author: 설문우
+  language: kor
+  text: |-
+    손가락질하는 끝에 벌여진 온갖 경치
+    올라와보니 나도 모르게 고개 자꾸 돌려지네
+    긴 강은 서로 흘러 바다에 들고
+    겹친 영이 북에서 와 얕은 산을 둘렀네
+    고기들은 찬 비 속에 그물 뚫으며 뛰놀고
+    해오리는 연기 속에 시름없이 서있네
+    한 평생 공명의 누를 다 벗어버렸구나
+    부들삿갓 저 어옹들 스스로 한가하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to a Poem on Qingxin Tower in Ye興
+  author: Seol Mun-u
+  language: eng
+  text: |-
+    A thousand scenes spread wide before my pointing hand,
+    Yet climbing here, I turn my head again and again, unaware.
+    The long river flows westward to meet the azure sea,
+    While layered peaks descend from north to circle shallow hills.
+    Fish leap through breaking nets in the cold rain,
+    And herons stand unmoved through twilight mist.
+    A lifetime freed from all ambition's weight—
+    Those russet-clad fishermen find their own contentment.
+  footnotes:
+  - key: ''
+    value: The poem is written in response to another work, following the classical practice of 차운 (responding in the same rhyme scheme)
+  - key: ''
+    value: The 청심루 (Qingxin Tower) likely refers to a specific tower in Yeheung, a place of contemplation
+  - key: ''
+    value: The fishermen and herons serve as symbols of withdrawal from worldly concerns and the attainment of spiritual peace

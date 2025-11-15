@@ -1,0 +1,41 @@
+canonical:
+  title: 奉呈郭提學珚
+  author: 南兢
+  language: lzh
+  text: 香案鴻樞一路通靑雲步步動春風汾陽舊事人如問指說明朝郭侍郞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉呈郭提學珚
+  author: 南兢
+  language: lzh
+  text: 香案鴻樞一路通。靑雲步步動春風。汾陽舊事人如問。指說明朝郭侍郞。
+korean:
+  title: 봉정곽제학인
+  author: 남긍
+  language: kor
+  text: |-
+    향안과 홍추(추밀원(樞密院))가 한 길로 통했나니
+    청운의 걸음마다 봄바람 움직이네
+    분양의 옛 일을 만일 누가 묻는다면
+    밝은 조정의 곽시랑을 가리켜 말하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0990&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 향안(香案)과 …… 통했나니 : '
+    value: 임금의 향안(香案) 앞에 문신(文臣)으로 있었다는 말이다.
+english:
+  title: Presented to Guo, the Provincial Education Director
+  author: Nam Ging
+  language: eng
+  text: |-
+    The perfumed table and the imperial bureau—all on one path.
+    With each step through blue clouds, spring breezes stir.
+    Should someone ask of the old affairs of Fenyang,
+    I point to Guo the Attendant, bright in the court's light.
+  footnotes:
+  - key: ''
+    value: The 'perfumed table' (香案) refers to standing as a civil official before the throne, suggesting a position of honor and influence in the royal court.
+  - key: ''
+    value: Fenyang (汾陽) alludes to a place of historical significance and tradition in governance.
+  - key: ''
+    value: Guo the Attendant (郭侍郞) appears to be the addressee of this poem, being praised for his virtuous conduct and position.

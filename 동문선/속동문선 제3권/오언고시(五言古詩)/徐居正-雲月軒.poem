@@ -1,0 +1,53 @@
+canonical:
+  title: 雲月軒
+  author: 徐居正
+  language: lzh
+  text: 白白山上雲皎皎天中月雲兮本無心月也自有色上人坐相對忻忻有所得雲能有舒卷月亦有圓缺萬物有變化大虛獨自若師乎勤著力往問安心法
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雲月軒
+  author: 徐居正
+  language: lzh
+  text: 白白山上雲。皎皎天中月。雲兮本無心。月也自有色。上人坐相對。忻忻有所得。雲能有舒卷。月亦有圓缺。萬物有變化。大虛獨自若。師乎勤著力。往問安心法。
+korean:
+  title: 운월헌
+  author: 서거정
+  language: kor
+  text: |-
+    희나 흰 산위의 구름
+    휘영청 밝은 하늘의 달
+    구름이사 본래 무심하고
+    달도 제 스스로 빛이 있건만
+    스님은 앉아서 맞 바라보며
+    마음에 기뻐 얻는 바 있네
+    구름은 폈다 말렸다
+    달도 둥글었다 결했다
+    만물이 다 변화하되
+    허공만은 홀로 그대로이니
+    스님이여, 부지런히 공부하여
+    가서 안심법을 물어보소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 가서 …… 물어보소 : '
+    value: 선종(禪宗)의 혜가(慧可)가 달마(達麻)에게 처음 찾아가서 불안한 마음을 안정하게 할 방법을 물었다.
+english:
+  title: Cloud and Moon Pavilion
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    White clouds drift across the white mountain,
+    Clear and bright, the moon in heaven gleams.
+    The clouds possess no heart of their own,
+    Yet the moon holds its radiance all the same.
+    The monk sits facing these, gazing,
+    And finds joy in what arises within.
+    Clouds can open and curl away,
+    The moon waxes full and wanes to nothing.
+    All things in the world undergo change,
+    But the Great Void alone remains unchanged.
+    Venerable teacher, apply yourself with diligence—
+    Go and ask the method of settling the heart.
+  footnotes:
+  - key: ''
+    value: The final couplet alludes to the Zen exchange where Huike first came to Bodhidharma seeking a way to pacify his troubled mind, a central moment in Zen Buddhist tradition.

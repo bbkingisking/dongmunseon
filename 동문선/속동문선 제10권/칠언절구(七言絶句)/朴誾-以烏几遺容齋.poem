@@ -1,0 +1,39 @@
+canonical:
+  title: 以烏几遺容齋
+  author: 朴誾
+  language: lzh
+  text: 容齋寥落無長物唯有平生萬卷書獨倚烏皮對賢聖晩風晴日鳥聲餘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 以烏几遺容齋
+  author: 朴誾
+  language: lzh
+  text: 容齋寥落無長物。唯有平生萬卷書。獨倚烏皮對賢聖。晩風晴日鳥聲餘。
+korean:
+  title: 이오궤 유 용재
+  author: 박은
+  language: kor
+  text: |-
+    용재가 쓸쓸하여 별 물건 없고
+    한 평생에 오직 만권 책만 있을 뿐
+    오피에 홀로 의지하여 책속의 성현을 대하니
+    오후 바람 갠 날에 새소리 나는도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0490&viewSync=OT
+  footnotes: []
+english:
+  title: On an Ox-Hide Cushion Left at the Studio of Reflection
+  author: Park Eun
+  language: eng
+  text: |-
+    The Studio of Reflection stands bare and sparse,
+    with nothing but the ten thousand books of a lifetime.
+    Alone upon my ox-hide cushion, I face the sages within these pages—
+    and on this quiet afternoon, the birdsong floats through the clear day.
+  footnotes:
+  - key: ''
+    value: The 'ox-hide cushion' (烏皮) refers to a scholar's seat used while reading, symbolizing dedication to learning
+  - key: ''
+    value: The 'ten thousand books' is a traditional expression for an extensive collection of wisdom and knowledge
+  - key: ''
+    value: The 'sages' (賢聖) refers to the classical philosophers and virtuous figures encountered through reading

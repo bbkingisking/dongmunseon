@@ -1,0 +1,41 @@
+canonical:
+  title: 讀唐高宗紀
+  author: 鄭樞
+  language: lzh
+  text: 天皇重色逐功臣自是忠言無一人謾笑隋亡因拒諫不知家索牝鷄晨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀唐高宗紀
+  author: 鄭樞
+  language: lzh
+  text: 天皇重色逐功臣。自是忠言無一人。謾笑隋亡因拒諫。不知家索牝鷄晨。
+korean:
+  title: 독당고종기
+  author: 정추
+  language: kor
+  text: |-
+    천황이 색을 중히 여겨 공신을 쫓아내니
+    그로부터 충언하는 이 한 사람도 없었네
+    수가 망한 것은 간하는 것을 거절하는 데 있었다고 〈고종이〉웃었으나
+    암탉이 새벽에 울면 집이 망하는 줄을 알지 못하였구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 독당고종기(讀唐高宗紀) : '
+    value: 고종(高宗)의 시호가 천황대홍효황제(天皇大弘孝皇帝)이다. 고종이 무씨(武氏 則天武后)를 궁중에 들이매 저수량(褚遂良)이 간(諫)하니, 고종이 노하여 수량을 밖으로 내쫓았다.
+  - key: '[주-D002] 암탉이 …… 망하는 : '
+    value: 《서경》에, ‘암탉이 새벽에 우는 것은 집이 망할 징조다.’ 하였다.
+english:
+  title: Reading the Records of Tang Gaozong
+  author: Jung Chu
+  language: eng
+  text: |-
+    The Emperor prizes beauty over virtue, driving loyal ministers to exile.
+    From that moment, not a single voice dared speak truth.
+    He laughed at Sui's collapse, thinking it came from rejecting remonstrance—
+    yet knew not that when the hen crows at dawn, the house falls to ruin.
+  footnotes:
+  - key: ''
+    value: Gaozong brought the future Empress Wu into the palace, and when the loyal minister Chu Suiliang remonstrated against this, the Emperor grew wrathful and banished him.
+  - key: ''
+    value: According to the Book of Documents, 'When a hen crows at dawn, it is an omen that the household will perish.' This classical allusion suggests that Gaozong's downfall stemmed from feminine influence in court governance, particularly the power wielded by Empress Wu.

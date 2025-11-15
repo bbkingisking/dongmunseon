@@ -1,0 +1,33 @@
+canonical:
+  title: 謝復弓兵馬匹起居表
+  author: 李穀
+  language: lzh
+  text: 昨辭舜殿忽周一歲之星邈處箕封常祝萬年之壽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝復弓兵馬匹起居表
+  author: 李穀
+  language: lzh
+  text: 昨辭舜殿。忽周一歲之星。邈處箕封。常祝萬年之壽。
+korean:
+  title: 사 복궁 병마필 기거 표
+  author: 이곡
+  language: kor
+  text: 어제 순전(舜殿)에 하직한 지 문득 한해의 별이 돌아왔고기봉(箕封)이 멀리 처하오매 항상 만년의 수(壽)를 비나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한해의 별이 돌아왔고 : '
+    value: 1년에 한 번씩 도는 별이 있으므로 1년을 이렇게 말하였다.
+english:
+  title: Memorial Expressing Gratitude for the Return of Horses and Provisions
+  author: Lee Gok
+  language: eng
+  text: |-
+    Since I took my leave from the Hall of Shun,
+    The stars have made their yearly round.
+    Far removed to distant Ki-feng,
+    I offer constant prayers for your ten thousand years of life.
+  footnotes:
+  - key: ''
+    value: The returning of the yearly stars refers to the completion of one full year, as certain stars complete their revolution once annually.

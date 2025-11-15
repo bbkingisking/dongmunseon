@@ -1,0 +1,42 @@
+canonical:
+  title: 送客促馬到湖樓客已去登舟有作
+  author: 權思復
+  language: lzh
+  text: 送客江頭客已歸登舟對酒漫尋詩恨無顧陸丹靑手畫出衰翁走馬時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送客促馬到湖樓客已去登舟有作
+  author: 權思復
+  language: lzh
+  text: 送客江頭客已歸。登舟對酒漫尋詩。恨無顧陸丹靑手。畫出衰翁走馬時。
+korean:
+  title: 손을 송별하려고 말을 재촉하여 호루에 이르니 손이 벌써 가서 배에 올랐으므로
+  author: 권사복
+  language: kor
+  text: |-
+    손을 강 머리서 송별하렸더니 손은 이미 돌아가고
+    배에 올라 술 마시며 부질없이 시를 찾네
+    한하노니 고륙(진(晉)나라의 화가 고개지(顧凱之)와 육탐미(陸探微))의 단청의 손이
+    쇠옹의 말 달리는 때를 그려내지 못하였구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1140&viewSync=OT
+  footnotes: []
+english:
+  title: Seeing Off a Guest by Hurrying Horse to the Lake Tower, but Finding Him Already Gone and Boarded—A Poem Upon the Occasion
+  author: Kwon Sa-bok
+  language: eng
+  text: |-
+    I hurried to see my guest off at the river's edge,
+    only to find he'd already turned back and gone.
+    Boarded upon his boat, I drink alone
+    and idly search for verses in the wine.
+
+    I lament—had I the brush of Gu and Lu,
+    those master painters of the Jin,
+    I might have captured on silk
+    this old man's galloping horse and fleeting time.
+  footnotes:
+  - key: ''
+    value: Gu and Lu refer to Gu Kaizhi (顧愷之) and Lu Tanwei (陸探微), renowned painters of the Eastern Jin dynasty, known for their exceptional skill in capturing movement and the human figure.
+  - key: ''
+    value: The 'old man' (衰翁) is the poet himself, expressing regret at the impossibility of capturing the bittersweet moment of departure through art.

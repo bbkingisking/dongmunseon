@@ -1,0 +1,37 @@
+canonical:
+  title: 本國
+  author: 曺庶
+  language: lzh
+  text: 三業水俱淨一生雲與閑觀空微一笑皓月當靑山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 本國
+  author: 曺庶
+  language: lzh
+  text: 三業水俱淨。一生雲與閑。觀空微一笑。皓月當靑山。
+korean:
+  title: 본국
+  author: 조서
+  language: kor
+  text: |-
+    삼업(三業)은 물과 함께 맑고
+    일생은 구름과 더불어 한가롭다
+    공중을 보고 한 번 미소 짓노니
+    흰 달이 청산에 머물렀네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0630&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼업(三業) : '
+    value: 불교(佛敎)에서 쓰는 말인데, 몸으로 짓는 것[身業], 입으로 짓는 것[口業], 마음으로 짓는 것[意業]을 말한다.
+english:
+  title: The Homeland
+  author: Cho Seo
+  language: eng
+  text: |-
+    Three karmas flow clean with water,
+    One life leisured with the clouds.
+    Beholding emptiness, I smile once—
+    The white moon rests on verdant peaks.
+  footnotes:
+  - key: ''
+    value: Three karmas refers to the Buddhist concept of actions performed through body, speech, and mind—the foundational sources of karmic consequence.

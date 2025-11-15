@@ -1,0 +1,63 @@
+canonical:
+  title: 次梅溪韻
+  author: 成仲淹
+  language: lzh
+  text: 吾衰無夢到金門虛度良辰嶺外村往事春泥鴻着介浮名蒼海劒無痕飄零覊羽何當擧寂寞灰心不復溫自幸知音梅老在江南風月養詩魂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次梅溪韻
+  author: 成仲淹
+  language: lzh
+  text: 吾衰無夢到金門。虛度良辰嶺外村。往事春泥鴻着介。浮名蒼海劒無痕。飄零覊羽何當擧。寂寞灰心不復溫。自幸知音梅老在。江南風月養詩魂。
+korean:
+  title: 차 매계운
+  author: 성중엄
+  language: kor
+  text: |-
+    나는 노쇠해 금문에 들어갈 꿈이 없이
+    헛되이 좋은 때를 재 바깥 마을에서 지나네
+    지난 일은 봄 진흙에 기러기가 발톱에 붙였고
+    뜬 이름은 푸른 바다에 칼의 흔적이 없구나
+    쓸쓸히 나부끼는 나그네의 깃이 어찌 높이 날 수 있으랴
+    적막히 재가 된 마음은 다시 따뜻해지지 않네
+    스스로 지음에 매로의 있음을 다행히 여기나니
+    강남의 바람과 달에 시혼을 기르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0710&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금문(金門) : '
+    value: 금마문(金馬門)인데 한(漢)나라 때에 천거(薦擧)를 받아 서울에 온 선비들이 금마문에서 조서(詔書)를 기다렸다.
+  - key: '[주-D002] 진흙에 …… 붙였고 : '
+    value: 기러기가 앉았던 진흙에 남은 발자국은 곧 없어진다는 뜻이다.
+  - key: '[주-D003] 푸른 바다에 …… 없구나 : '
+    value: 잘 드는 칼로 물을 베면 벤 흔적이 없다는 뜻이다.
+  - key: '[주-D004] 지음(知音) : '
+    value: 옛날에 백아(伯牙)가 거문고를 잘 타는데, 그 곡조를 알아주는 이가 종자기(鐘子期) 한 사람뿐이었다. 백아가 거문고를 타면서, “뜻이 높은 산에 있으니, 종자기는 알아듣고 우뚝한 높은 산이로다.” 하고, 또, “한 곡조는 뜻이 흐르는 물에 있으니, 종자기는 철철 흐르는 물이로다.[洋洋流水]” 하였다.
+english:
+  title: In Response to Plum Stream's Rhymes
+  author: Sung Jung-om
+  language: eng
+  text: |-
+    Worn by age, I hold no dream of entering the Golden Gate.
+    I waste the precious days in a village beyond the mountains.
+    Past events like footprints of geese in spring mud—
+    they fade without trace.
+    Floating fame like a sword's mark on azure seas—
+    no scar remains.
+    Tethered wings fluttering in desolation,
+    how can they ever rise?
+    My heart turned to ash lies cold and still,
+    will not warm again.
+    Yet I count myself blessed:
+    the old plum tree of understanding still stands.
+    On江南winds and moon-pale nights,
+    I nurture the spirit of my poetry.
+  footnotes:
+  - key: ''
+    value: The Golden Gate (金馬門) was where scholars summoned to court in the Han dynasty waited to receive the imperial decree. It represents the hope of official recognition and service.
+  - key: ''
+    value: The geese's footprints in spring mud vanish without trace—a metaphor for how the past and worldly achievements leave no lasting mark.
+  - key: ''
+    value: A sharp sword cutting water leaves no scar—another metaphor for the ephemeral nature of fame and worldly glory.
+  - key: ''
+    value: The 'old plum tree of understanding' alludes to the ancient story of the musician Bo Ya and his only true listener Zhong Ziqi, whose friendship transcended words. It represents the rare gift of being understood by a kindred spirit.

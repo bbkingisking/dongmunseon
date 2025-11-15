@@ -1,0 +1,49 @@
+canonical:
+  title: 南原東軒韻
+  author: 許琮
+  language: lzh
+  text: 客裏方知事事艱人生何術駐紅顔行伸懶脚尋芳草坐點吟頭數亂山夢枕已諳身一世醉鄕那得屋三閒朝來驟雨非無意借我忙中半日閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 南原東軒韻
+  author: 許琮
+  language: lzh
+  text: 客裏方知事事艱。人生何術駐紅顔。行伸懶脚尋芳草。坐點吟頭數亂山。夢枕已諳身一世。醉鄕那得屋三閒。朝來驟雨非無意。借我忙中半日閑。
+korean:
+  title: 남원 동헌운
+  author: 허종
+  language: kor
+  text: |-
+    객지에 있으매 비로소 일일이 어려움을 알겠네
+    인생은 무슨 재주로 붉은 얼굴을 머물게 할 것인가
+    다니다 가는 게으른 다리를 펴 꽃다운 풀을 찾고
+    앉아서 읊조리는 머리를 끄덕이며 어지러운 산을 센다
+    꿈꾸는 베개에서는 이 몸의 한 세상을 이미 깨달았거니
+    취하는 고을에서 어떻게 삼간집을 얻으랴
+    아침부터 오는 소나기는 뜻이 없지 않았나니
+    바쁜 가운데서 반날의 한가함을 내게 빌려 주었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: Rhyme on the Eastern Pavilion at Namwon
+  author: Heo Jong
+  language: eng
+  text: |-
+    Away from home, I have come to know that all things are difficult.
+    What skill in life can hold back the bloom of youth?
+    Walking, I stretch my weary legs to seek the fragrant grasses.
+    Sitting, I nod my musing head and count the tangled mountains.
+    On my pillow in dreams, I have already grasped a whole lifetime of myself.
+    In the land of drunkenness, how can I find a three-roomed house?
+    The sudden rain arriving at dawn is not without purpose—
+    It has lent me half a day of leisure midst my hurried ways.
+  footnotes:
+  - key: ''
+    value: The 'Eastern Pavilion' (東軒) likely refers to a government building or scholar's retreat in Namwon, a region in southern Korea known for its natural beauty.
+  - key: ''
+    value: The imagery of 'red face' (紅顔) refers metaphorically to youth and vitality, a common trope in East Asian poetry.
+  - key: ''
+    value: The contrast between the 'land of drunkenness' and the search for leisured solitude reflects the speaker's conflicted desires—escape through intoxication versus genuine peace.
+  - key: ''
+    value: '''Three-roomed house'' may allude to both material poverty and spiritual simplicity, suggesting the speaker''s modest circumstances or philosophical disposition.'

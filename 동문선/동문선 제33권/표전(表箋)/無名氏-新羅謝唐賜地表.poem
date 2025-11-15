@@ -1,0 +1,33 @@
+canonical:
+  title: 新羅謝唐賜地表
+  author: 無名氏
+  language: lzh
+  text: 伏奉恩勑賜浿江以南地境臣生居海裔沐化聖朝雖丹素爲心而功無可効以忠貞爲事而勞不是償陛下降雨露之恩發日月之詔錫臣土境廣臣邑居遂使墾闢有期農桑得所臣奉絲綸之旨荷恩寵之深粉骨糜身無由上答
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新羅謝唐賜地表
+  author: 無名氏
+  language: lzh
+  text: 伏奉恩勑。賜浿江以南地境。臣生居海裔。沐化聖朝。雖丹素爲心而功無可効。以忠貞爲事而勞不是償。陛下降雨露之恩。發日月之詔。錫臣土境。廣臣邑居。遂使墾闢有期。農桑得所。臣奉絲綸之旨。荷恩寵之深。粉骨糜身。無由上答。
+korean:
+  title: 당나라가 땅을 하사함을 사례하는 신라의 표
+  author: 무명씨
+  language: kor
+  text: 엎드려 은칙(恩勅)을 받드오니, 패강(浿江) 이남의 땅을 하사하신다 하였나이다.신이 바다 한 끝에 살면서 성조(聖朝)의 은혜에 목욕하와, 비록 한 조각 마음은 붉으나 이렇다 할 공을 세운 것이 없고, 충성을 본분으로 삼으나 아무런 갚을 만한 수고가 없었는데도, 폐하께서 특히 우로(雨露)의 은전(恩典)을 내리시고 일월(日月)의 조서(詔書)를 발하시어, 신에게 땅을 주시고 신의 고을살이를 넓혀 주셔셔, 드디어 농지를 개간(開墾)할 기태를 가지게 하시고 농사지을 곳을 장만하게 하시니. 신이 윤음(綸音)의 뜻을 받들어 은총(恩寵)이 깊음을 못내 감하(感荷)하며, 분골쇄신(粉骨碎身)하여도 이 성은(盛恩)을 상답(上答)할 길이 없나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0360_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: Silla's Memorial of Gratitude for Tang's Gift of Land
+  language: eng
+  text: |-
+    I humbly receive this imperial edict granting lands south of the Baekgang River.
+
+    Your servant dwells at the edge of the seas, bathed in the grace of this enlightened dynasty. Though my heart burns with loyalty, I have accomplished no deeds of merit. Though I have made faithfulness my calling, my labors deserve no recompense. Yet Your Majesty descends upon me with the kindness of rain and dew, issues edicts radiant as sun and moon, and bestows upon me territory and expands my domain. Thus do I gain opportunity to till the fields and establish places for the people's livelihood.
+
+    I receive the words from the imperial brush and am overwhelmed by such profound benevolence. Though I grind my bones to dust and dissolve my very self, there exists no way to repay such boundless grace.
+  footnotes:
+  - key: ''
+    value: 'Baekgang River (浿江): The historical name for the Taedong River in present-day Korea, marking a significant boundary in early Korean geography.'
+  - key: ''
+    value: The poetic imagery of 'rain and dew' and 'sun and moon' reflects classical Chinese court rhetoric, representing the nurturing and illuminating power of imperial virtue.

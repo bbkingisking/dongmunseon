@@ -1,0 +1,37 @@
+canonical:
+  title: 遊奉巖寺
+  author: 崔惟淸
+  language: lzh
+  text: 春盡山花掃地無綠林高下鳥相呼故知楊柳風流在飛絮時來繞座隅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊奉巖寺
+  author: 崔惟淸
+  language: lzh
+  text: 春盡山花掃地無。綠林高下鳥相呼。故知楊柳風流在。飛絮時來繞座隅。
+korean:
+  title: 유 봉암사
+  author: 최유청
+  language: kor
+  text: |-
+    봄이 가니 산꽃도 다 떨어져 없고
+    푸른 숲 위아래에선 새만 서로 부르네
+    양류가 멋 있는 줄 새삼 알겠고나
+    버들개지는 날라와 자리를 맴도네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0400&viewSync=OT
+  footnotes: []
+english:
+  title: A Visit to Bongam Temple
+  author: Choe Yoo-cheong
+  language: eng
+  text: |-
+    Spring has gone, and mountain flowers scatter to dust.
+    In the green forest high and low, only birds call to one another.
+    Now I understand why the willow holds such grace—
+    its drifting catkins come dancing around my seat.
+  footnotes:
+  - key: ''
+    value: Bongam Temple (봉암사) is a historical Buddhist temple in Korea
+  - key: ''
+    value: The willow catkins (버들개지, i.e., the fluffy seeds of the catkin) serve as a traditional symbol of spring's transience and natural beauty in East Asian poetry

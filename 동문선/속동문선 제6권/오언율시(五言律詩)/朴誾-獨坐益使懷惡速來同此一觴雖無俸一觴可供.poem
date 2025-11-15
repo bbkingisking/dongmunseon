@@ -1,0 +1,48 @@
+canonical:
+  title: 獨坐益使懷惡速來同此一觴雖無俸一觴可供
+  author: 朴誾
+  language: lzh
+  text: 且與風塵混聊將詩酒爭醉來唯興適奇處要人驚雪盡山凝碧軒空月獨明幽懷誰說似高枕聽寒更
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獨坐益使懷惡速來同此一觴雖無俸一觴可供
+  author: 朴誾
+  language: lzh
+  text: 且與風塵混。聊將詩酒爭。醉來唯興適。奇處要人驚。雪盡山凝碧。軒空月獨明。幽懷誰說似。高枕聽寒更。
+korean:
+  title: 홀로 앉았으매 더욱 무료하게 되니, 속히 와서 이 한 잔을 같이 하세. 비록 봉급은 없으나 한 잔은 제공할 수 있다
+  author: 박은
+  language: kor
+  text: |-
+    우선 바람과 티끌이 한데 섞이어
+    애오라지 시와 술을 가지고 다투나니
+    취해 오면 오직 흥에 맞갖고
+    기이한 일 기어코 사람을 놀래게 한다
+    눈이 다해 산에는 푸른 빛이 어리고
+    헌함이 비어 달만 홀로 밝았네
+    그윽한 이 회포를 누가 그대로 말하려나
+    베개를 높이며 찬 경소리 듣는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0860&viewSync=OT
+  footnotes: []
+english:
+  title: Sitting Alone, Loneliness Deepens—Come Swiftly and Share This Cup with Me; Though Without Stipend, I Can Offer One Cup
+  author: Park Eun
+  language: eng
+  text: |-
+    First, I mingle with the wind and dust of the world,
+    Contending with poetry and wine for consolation.
+    When drunkenness arrives, I find only what suits my mood,
+    And strange beauty startles those who witness it.
+
+    Snow melts away; the mountains gather verdant depths,
+    The empty chamber—only the moon shines alone.
+    Who can speak of this hidden yearning as it truly is?
+    I raise my pillow high and listen to the cold night's chime.
+  footnotes:
+  - key: ''
+    value: The title itself forms an invitation, reflecting the poem's central plea for companionship against solitude and poverty.
+  - key: ''
+    value: The 'wind and dust' is a classical metaphor for the mundane world of human affairs and worldly attachments.
+  - key: ''
+    value: '''Contending with poetry and wine'' suggests using art and drink as weapons against despair and melancholy.'

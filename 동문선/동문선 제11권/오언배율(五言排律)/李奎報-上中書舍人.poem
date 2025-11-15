@@ -1,0 +1,95 @@
+canonical:
+  title: 上中書舍人
+  author: 李奎報
+  language: lzh
+  text: 家傳金鏡賜名在桂仙科舌下驚雷出胷中列宿羅玉斤修月妙瓊尺剪雲多要職方當戶淸班已亞坡五花榮最好一佛賀如何紫桉擎荷橐紅泥染印窠絲綸批密誥芍藥播新歌溫室那言樹金鑾早脫靴行調殷后鼎曾取蔡公禾願記荊山下窮年泣玉和
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上中書舍人
+  author: 李奎報
+  language: lzh
+  text: 家傳金鏡賜。名在桂仙科。舌下驚雷出。胷中列宿羅。玉斤修月妙。瓊尺剪雲多。要職方當戶。淸班已亞坡。五花榮最好。一佛賀如何。紫桉擎荷橐。紅泥染印窠。絲綸批密誥。芍藥播新歌。溫室那言樹。金鑾早脫靴。行調殷后鼎。曾取蔡公禾。願記荊山下。窮年泣玉和。
+korean:
+  title: 상 중서사인
+  author: 이규보
+  language: kor
+  text: |-
+    집은 주신 금경을 물려 전하고
+    이름은 높게 계선의 과에 올랐네
+    혀 끝에 우루루 나오는 뇌성
+    가슴 속에 반짝반짝 늘어선 별들
+    옥도끼로 묘하게 달을 다듬고
+    구슬자로 숱하게 구름을 재네
+    요직은 바야흐로 호에 앉았고
+    맑은 벼슬은 벌써 저 파의 다음 자리
+    오화의 영화가 그지없는데
+    일불이란 치하가 그 어떠하리
+    자주 어안에 하탁(띠에 차는 붓주머니) 받들고
+    붉은 인주로 어인 찍으며
+    임금님 밀지를 선포하기도
+    작약은 새 글귀에 읊어졌는데
+    온실에 나무를 어찌 말하랴
+    금란전에 일찍이 가죽신 벗기네
+    앞으로 은나라의 솥 고르리니
+    일찍이 채공의 벼를 거뒀네
+    부디 잊지 마소, 형산 밑에서
+    변화가 옥을 안고 평생에 욺을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중서사인(中書舍人) : '
+    value: 여기서는 중서사인 고형충을 말한다.
+  - key: '[주-D002] 집은 주신 금경(金鏡) : '
+    value: 금경(金鏡)을 물려 전한 가문이란 이 귀는, 본집(本集)에는 작자의 자주(自註)에, “동성(同姓)과 혼인함.”이라 했으니, 아마 특수한 고사(故事)가 있는 듯하다.
+  - key: '[주-D003] 요직(要職)은 …… 앉았고 : '
+    value: 작자의 자주(自註). “ 중서사인(中書舍人)을 호(戶)라 이른다.” 《李相國集 권8》 아마 고관(高官)에 들어가는 문호(門戶)의 뜻일 것 같다.
+  - key: '[주-D004] 파(坡) : '
+    value: 작자의 자주. “간의(諫議)를 파(坡)라 하였다.” 아파(亞坡)는 장관(長官)의 다음이다.
+  - key: '[주-D005] 오화(五花) : '
+    value: 당나라 때에 국가의 중요한 사건에는 중서사인(中書舍人) 여러 사람이 각각 소견대로 서명(署名)하므로 그것을 오화판사(五花判事)라 하였다.
+  - key: '[주-D006] 일불(一佛)이란 …… 어떠하리 : '
+    value: 당나라 문종(文宗)이 근신(近臣)에게 이르기를, “내가 들으니 조정에서 사인(舍人)을 한 사람 임명하면 육친(六親)이 서로 축하(祝賀)한다 하니, 속담에 이른바, 한 부처가 세상에 나타나는 것[佛出世]이 어찌 쉬우랴.” 하였다.
+  - key: '[주-D007] 작약(芍藥) : '
+    value: 사조(謝眺)가 중서성(中書省)에서 지은 시에, “붉은 작약은 뜰에 당하여 펄럭인다[紅藥當階飜].”란 구절이 있다.
+  - key: '[주-D008] 금란전(金鑾殿)에 …… 벗기네 : '
+    value: 당나라 이태백(李太白)이 한림학사(翰林學士)로 금란전(金鑾殿)에 들어 갔을 때에 술이 취하여 고역사(高力士)에게 신을 벗기게 하였다.
+  - key: '[주-D009] 채공(蔡公)의 벼[禾] : '
+    value: 후한(後漢) 채무(采茂)가 처음 광한(廣漢)에 있을 때, 꿈에 큰 궁전 용마루 위에 벼 세 이삭이 있거늘 뛰어올라 취하였는데, 주부(主簿)곽하(郭賀)에게 물으니 그가 경하(慶賀)하기를, “용마루에 벼가 있으니 신하의 최고의 녹입니다[極而有禾 人臣之上祿也].” 하더니, 열흘 뒤에 임금께 불리었다. 《後漢書》
+english:
+  title: To a Middle Secretariat Attendant
+  author: Lee Gyeou-bo
+  language: eng
+  text: |-
+    Your house inherits the golden mirror passed down through generations,
+    Your name ascends high through the examination of the celestial immortals.
+    Thunder crashes forth from the tip of your tongue,
+    Stars glimmer and array themselves within your breast.
+
+    With a jade axe you refine the moon's subtlety,
+    With a pearl measure you cut abundance from the clouds.
+    The crucial post now stands at the gateway,
+    The clear ranks already claim the seat just below the slopes.
+
+    Five flowers bloom in endless glory—
+    How can such fortune as one Buddha's appearance into the world compare?
+    You bear the purple brush-holder with reverence,
+    Your crimson seal stamps the imperial edicts.
+    You proclaim the sovereign's secret decrees,
+    While peonies compose themselves in your new verses.
+
+    Why speak of trees in the warm hall?
+    Early in the golden palace you already slip off your shoes.
+    You shall examine the tripods of the Yin dynasty,
+    Having already gathered the grain of Minister Cai.
+
+    May you remember, beneath荆 Mountain,
+    How through all the years jade resonates in perpetual transformation.
+  footnotes:
+  - key: ''
+    value: The Five Flowers refers to the practice in Tang China where multiple Secretariat Attendants would each sign important state documents with their own perspectives, earning the collective title 'Five Flower Judges.'
+  - key: ''
+    value: The reference to 'one Buddha's appearance' alludes to a Tang emperor's observation that appointing a Secretariat Attendant was so auspicious that even six relatives would celebrate—like the rare emergence of Buddha into the world.
+  - key: ''
+    value: The golden palace episode references the famous poet Li Bai, who as a Hanlin Scholar became so drunk in the Golden Palace that he had a court official remove his shoes for him, symbolizing the intimate favor shown to talented officials.
+  - key: ''
+    value: The grain of Minister Cai refers to an auspicious omen in which Cai Mao dreamed of grain on a palace roof, which a fortuneteller interpreted as the highest rank of official blessing.

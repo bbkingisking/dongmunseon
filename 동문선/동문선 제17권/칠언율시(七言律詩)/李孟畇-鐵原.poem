@@ -1,0 +1,49 @@
+canonical:
+  title: 鐵原
+  author: 李孟畇
+  language: lzh
+  text: 世上難兼鶴錢州此亭形勝解人愁靑山似畫圍平野綠樹含風動素秋麗祖乘龍何渺渺弓王失鹿亦悠悠憑闌賸得胷中豁雲表何須汗漫遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鐵原
+  author: 李孟畇
+  language: lzh
+  text: 世上難兼鶴錢州。此亭形勝解人愁。靑山似畫圍平野。綠樹含風動素秋。麗祖乘龍何渺渺。弓王失鹿亦悠悠。憑闌賸得胷中豁。雲表何須汗漫遊。
+korean:
+  title: 철원
+  author: 이맹균
+  language: kor
+  text: |-
+    학과 돈과 양주를 세상에 겸하기 어렵거니
+    이 다락의 좋은 경치 사람의 시름을 풀어주네
+    청산이 그림처럼 평야를 둘렀고
+    녹수가 바람을 풍겨 가을 기운 움직이네
+    용을 탔던 여조는 지금 어디 있는고
+    사슴을 잃은 궁왕도 길이 가고 말았네
+    난간에 의지하니 활짝 트이는 가슴 속
+    구태어 저 구름밖에 신선놀이 해 무엇하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0700&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 학(鶴)과 돈과 양주(楊州) : '
+    value: 옛날 사람들이 모여 각기 소원을 말하는데, 혹은 양주 자사(楊州刺史)가 되고 싶다 하고, 혹은 돈을 흠뻑 가지고 싶다 하고 혹은 신선이 되어 학을 타고 하늘에 오르고 싶다 했다. 그 중 한 사람이 말하되, “나는 허리에 10만 관 돈을 차고 학을 타고 양주에 올라가고 싶네.” 하였다. 이곳 지명에 따라 인용한 것이다.
+  - key: '[주-D002] 사슴[鹿]을 잃은 : '
+    value: 임금이 나라를 잃은 것을 비유하였다. 진(秦)나라의 간신(奸臣)  조고(趙高)가 임금 앞에 사슴을 끌고 와서 말[馬]이라고 한 일이 있었으므로, 진나라가 망한 것을 사슴을 잃었다고 말하는 이가 있었다.
+english:
+  title: Cheolwon
+  author: Lee Maeng-gyun
+  language: eng
+  text: |-
+    In this world, it is hard to have crane, wealth, and office all at once.
+    Yet this pavilion's beauty dissolves the sorrows of men.
+    Blue mountains frame the plain like a scroll of ink,
+    Green trees carry the wind, stirring autumn's subtle touch.
+    Where now is the ancient lord who rode the dragon away?
+    The king who lost his realm has also vanished into time.
+    Leaning on this railing, my heart opens wide and clear—
+    Why seek immortal wanderings beyond the clouds?
+  footnotes:
+  - key: ''
+    value: 'The opening alludes to an old story where people gathered to express their desires: one wished to become governor of Yangzhou, another to be rich, another to become an immortal riding a crane to heaven. One man famously said: ''I wish to carry ten thousand pieces of gold at my waist, ride a crane, and ascend to Yangzhou.'' The poem plays on these three aspirations in reference to the place name Cheolwon.'
+  - key: ''
+    value: The lost deer symbolizes a kingdom that has fallen. This echoes the historical tale of the corrupt official Zhao Gao of the Qin dynasty, who brought a deer before the ruler and called it a horse—a moment that foreshadowed the Qin's collapse.

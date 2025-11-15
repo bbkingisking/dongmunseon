@@ -1,0 +1,31 @@
+canonical:
+  title: 冊公主
+  author: 金富軾
+  language: lzh
+  text: 敎仁人之相親也愛之故欲其富寵之故欲其貴况朕無他兄弟惟爾姊妹友悌之念式切中心冊命之儀率由舊典非特申寡人同氣之眷亦將慰先后在天之靈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冊公主
+  author: 金富軾
+  language: lzh
+  text: 敎。仁人之相親也。愛之故欲其富。寵之故欲其貴。况朕無他兄弟。惟爾姊妹。友悌之念。式切中心。冊命之儀。率由舊典。非特申寡人同氣之眷。亦將慰先后在天之靈。
+korean:
+  title: 책공주
+  author: 김부식
+  language: kor
+  text: 교하노라. 어진 사람이 서로 친히 함에는 사랑하기 때문에 그를 부하게 하려 하고 총애하기 때문에 그를 귀하게 하려 하는 것이다. 하물며 짐은 다른 형제가 없고 오직 자매(姉妹)인 너뿐이다. 우애하는 생각이 마음에 간절하여 책명하는 절차를 옛법에 따라 한다. 이는 특별히 과인의 동기에 대한 친애를 펴는 것뿐 아니라, 또한 하늘에 계신 선후(先后)의 영혼을 위로하려는 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0310_010_0270&viewSync=OT
+  footnotes: []
+english:
+  title: Appointment of a Princess
+  author: Kim Bu-sik
+  language: eng
+  text: Hear now my decree. When virtuous people cherish one another, it is through love that they desire each other's prosperity, and through affection that they wish each other's honor. How much more so for me, who have no other siblings—only you, my sister. The bond of brotherly and sisterly love weighs heavy upon my heart. Therefore, I follow the ancient rites in this formal appointment, not merely to express my deep affection for my sister of one blood, but also to bring comfort to the spirits of our departed parents watching from heaven.
+  footnotes:
+  - key: ''
+    value: This text appears to be a royal edict or formal address accompanying the appointment of a princess to an official rank, likely during the Goryeo period.
+  - key: ''
+    value: The reference to '先后' (seonhu) typically means the royal parents, whether both or referring to the late king and queen.
+  - key: ''
+    value: The 'ancient rites' (舊典) refers to established court protocols and precedents for such appointments.

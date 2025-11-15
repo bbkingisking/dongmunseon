@@ -1,0 +1,37 @@
+canonical:
+  title: 長守驛壁上有題
+  author: 權思復
+  language: lzh
+  text: 我昔來遊此館中看花盡日醉春風今來人事不如古花在昔時紅處紅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長守驛壁上有題
+  author: 權思復
+  language: lzh
+  text: 我昔來遊此館中。看花盡日醉春風。今來人事不如古。花在昔時紅處紅。
+korean:
+  title: 장수역벽상유제
+  author: 권사복
+  language: kor
+  text: |-
+    내 일찍 여기 와서 이 관에서 놀았거니
+    꽃을 보며 한종일 봄바람에 취했었네
+    이제 오니 사람 일은 옛날 같지 않은데
+    꽃은 옛 그대로 붉던 곳에 붉구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1160&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem Written on the Wall of Jangsu Station
+  author: Gwon Sa-bok
+  language: eng
+  text: |-
+    In days of old I came to wander in this hall,
+    Watching flowers through the day, drunk on spring's gentle wind.
+    Now returning, human affairs are not as they were,
+    Yet the flowers bloom red where once they bloomed red.
+  footnotes:
+  - key: ''
+    value: Jangsu Station (長守驛) was a relay station in medieval Korea where travelers would rest. The poem reflects on the poet's revisit to a place from his past.
+  - key: ''
+    value: The contrast between the unchanging flowers and the changed circumstances of human life is central to the poem's meditation on time and impermanence.

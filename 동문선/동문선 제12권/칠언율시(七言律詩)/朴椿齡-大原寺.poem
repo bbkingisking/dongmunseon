@@ -1,0 +1,44 @@
+canonical:
+  title: 大原寺
+  author: 朴椿齡
+  language: lzh
+  text: 簿領三年百病身退公時訪舊情親高低樹密疑無路次第花開別有春洞壑陰晴俯仰異煙霞紫翠暮朝新遠公不用過溪水自有山人迎送人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大原寺
+  author: 朴椿齡
+  language: lzh
+  text: 簿領三年百病身。退公時訪舊情親。高低樹密疑無路。次第花開別有春。洞壑陰晴俯仰異。煙霞紫翠暮朝新。遠公不用過溪水。自有山人迎送人。
+korean:
+  title: 대원사
+  author: 박춘령
+  language: kor
+  text: |-
+    공무에 바쁜 3년 병도 많은 몸으로서
+    공사를 끝내고는 때로 옛 친구 찾아보네
+    높고 낮은 빽빽한 숲에 길이 없는가 의심터니
+    차례로 꽃은 피어 봄을 따로 마련했네
+    골안의 날씨는 굽어보고 쳐다봄에 다르고
+    안개의 자주빛ㆍ푸른빛은 아침 저녁에 새로워라
+    혜원 저 스님은 시냇물을 건널 것 없네
+    보내고 맞는 산 사람이 있지 않은가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0840&viewSync=OT
+  footnotes: []
+english:
+  title: Daewon Temple
+  author: Park Chun-ryeong
+  language: eng
+  text: |-
+    Three years lost in ledgers and documents, illness haunting my weary frame.
+    Retired at last, I seek out old friends and cherished bonds.
+    Through dense trees climbing high and low, the path seems to vanish—
+    yet flowers bloom in succession, unveiling a spring all their own.
+
+    The gorge's shadows shift with sun and cloud, different with each glance,
+    while mist and haze paint purple and jade anew with each dawn and dusk.
+    Remote Huiyuan needs no crossing of streams—
+    for mountain-dwellers welcome and bid farewell to wanderers such as I.
+  footnotes:
+  - key: ''
+    value: Huiyuan (慧遠) refers to the famous Buddhist monk Huiyuan, alluding to the spiritual sanctuary and hospitality of the temple

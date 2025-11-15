@@ -1,0 +1,48 @@
+canonical:
+  title: 長安旅舍與于愼微長官接隣有寄
+  author: 崔致遠
+  language: lzh
+  text: 上國覊棲久多慚萬里人那堪顔氏巷得接孟家隣守道唯稽古交情豈憚貧他鄕少知己莫厭訪君頻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長安旅舍與于愼微長官接隣有寄
+  author: 崔致遠
+  language: lzh
+  text: 上國覊棲久。多慚萬里人。那堪顔氏巷。得接孟家隣。守道唯稽古。交情豈憚貧。他鄕少知己。莫厭訪君頻。
+korean:
+  title: 장안 여사 이웃에 우신미 장관이 살기에 시를 지어 부친다
+  author: 최치원
+  language: kor
+  text: |-
+    상국에 와 객지 생활 하도 오래니
+    만 리 타향의 부끄러운 사람
+    안자의 누항 같은 살림으로써
+    맹씨처럼 좋은 이웃에 살게 되다니
+    도 지키어 옛글 공부뿐
+    사귀는 깊은 정은 가난타고 싫어하리
+    타향에 알아 줄 이 없으니
+    그대를 자주 찾아감 싫다지 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 맹씨(孟氏)처럼 …… 살게 되다니 : '
+    value: 맹자(孟子)의 교육을 위하여 그 어머니가 좋은 이웃을 찾아 세 번 집을 옮겼다.
+english:
+  title: To Magistrate U Sin-mi, a Fellow Lodger at My Lodgings in Chang'an
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Long have I dwelt in this great land as a wanderer,
+    A man from ten thousand miles away, wrapped in shame.
+    Yet in this humble lodging, sparse as Yen Hui's alley,
+    I find myself blessed with a neighbor noble as Mencius's kin.
+
+    I keep to the way, studying only the ancient texts,
+    And friendship runs deep—poverty cannot diminish it.
+    In this foreign place, few understand my heart,
+    So forgive me if I seek your company often.
+  footnotes:
+  - key: ''
+    value: 'Mencius''s neighbor: According to tradition, Mencius''s mother moved her family three times to find worthy neighbors for her son''s education, symbolizing the transformative power of virtuous companionship.'
+  - key: ''
+    value: 'Yen Hui''s alley: A reference to the poor but dignified dwelling of Confucius''s disciple Yen Hui, known for maintaining his virtue despite his humble circumstances.'

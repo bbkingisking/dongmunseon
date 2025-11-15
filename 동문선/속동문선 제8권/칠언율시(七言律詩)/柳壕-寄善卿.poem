@@ -1,0 +1,54 @@
+canonical:
+  title: 寄善卿
+  author: 柳壕
+  language: lzh
+  text: 龍香磨盡硯池乾撚斷踈髯下句難長日吟詩知筆窘有時把酒覺心寬功名無異甞鷄肋世味何殊食馬肝獨伴靑燈看古史曉鷄三唱五更闌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄善卿
+  author: 柳壕
+  language: lzh
+  text: 龍香磨盡硯池乾。撚斷踈髯下句難。長日吟詩知筆窘。有時把酒覺心寬。功名無異甞鷄肋。世味何殊食馬肝。獨伴靑燈看古史。曉鷄三唱五更闌。
+korean:
+  title: 기선경
+  author: 유호
+  language: kor
+  text: |-
+    용향을 갈아 다하고 벼루 물은 마르도록
+    성긴 수염을 비비어 끊으면서 시 짓기 어렵구나
+    긴 날에 시를 읊조리면서 필치의 군색함을 알겠고
+    때로는 술잔을 들어 마음의 관대함을 깨닫겠네
+    공명은 계륵을 맛보는 것과 다름이 없고
+    세상 맛이란 마간을 먹는 것과 무엇이 다르랴
+    홀로 푸른 등불을 짝하여 옛 역사를 보노니
+    새벽 닭이 세 번 울고 오경은 늦었도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 용향(龍香) : '
+    value: 좋은 먹 이름이다.
+  - key: '[주-D002] 성긴 수염을 …… 끊으면서 : '
+    value: 당나라 사람의 시에, “다섯 글자를 읊어 짓노라고 두어 줄기 수염 비비어 끊는다.[吟成五個字 撚斷數莖髭]”란 글귀가 있다. 이것은 오언시(五言詩) 두 귀를 짓는데, 이렇게 애를 쓰는 자기의 모양을 형용한 것이다.
+  - key: '[주-D003] 계륵(鷄肋) : '
+    value: 중국의 삼국시대에 조조(曹操)가 한중(漢中)을 치러갔다가 하룻밤은 군호(軍號)를 계륵(鷄肋)이라 하였다. 양수(楊修)는 곧 돌아갈 행장을 꾸렸다. 그 까닭을 물으니, 그는 말하기를, “닭의 늑골(肋骨)은 맛이 있어 씹다가 버리기도 아까우나 삼킬 수도 없으니 지금 한중(漢中)은 아깝지마는 버릴 수 밖에 없다는 뜻이 아닌가.” 하였다.
+english:
+  title: To Seon-gyeong
+  author: Yu Ho
+  language: eng
+  text: |-
+    The dragon-ink grinds away until the inkstone runs dry,
+    I twist my sparse beard and snap it—hard to craft a verse.
+    All day composing poems, I feel the brush grow weary,
+    Yet sometimes with wine cup raised, the heart finds ease.
+
+    Fame and fortune? Merely chewing chicken bone—
+    What difference in this world's taste, eating horse's liver?
+    Alone with emerald lamp, I read the ancient histories,
+    Till the rooster's third cry announces dawn's fifth watch is late.
+  footnotes:
+  - key: ''
+    value: Dragon-ink (龍香) refers to a premium quality of ink, suggesting the poet's dedicated effort despite meager rewards.
+  - key: ''
+    value: The image of twisting and breaking one's beard derives from a Tang poem about the physical strain of composing verse—here expressing the difficulty of poetic creation.
+  - key: ''
+    value: 'Chicken bone (鷄肋) alludes to a historical anecdote from the Three Kingdoms period: when Cao Cao besieged Hanzhong, he ordered the army signal to be ''chicken bone''—meaning something worthless yet troublesome to abandon, comparing worldly success to something neither worth keeping nor easily discarded.'

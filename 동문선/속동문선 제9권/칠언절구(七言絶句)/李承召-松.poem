@@ -1,0 +1,39 @@
+canonical:
+  title: 松
+  author: 李承召
+  language: lzh
+  text: 寸根移植近前墀已見童童翠盖欹待得霜皮圍四十斸開蒼蘚拾流脂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 松
+  author: 李承召
+  language: lzh
+  text: 寸根移植近前墀。已見童童翠盖欹。待得霜皮圍四十。斸開蒼蘚拾流脂。
+korean:
+  title: 송
+  author: 이승소
+  language: kor
+  text: |-
+    한 치의 뿌리를 앞 섬돌 가까이 옮겨 심었더니
+    어느 새 우뚝우뚝 푸른 일산 기울인 듯
+    서리 맞은 껍질이 마흔 아름쯤 되기를 기다려
+    푸른 이끼 찍어내고 흐르는 송진 받으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0190&viewSync=OT
+  footnotes: []
+english:
+  title: Pine
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    A single inch of root transplanted near the front stone step—
+    Already the verdant canopy rises proud and tall.
+    Waiting for frost-weathered bark to span four fathoms round,
+    I'll scrape away the blue-green moss and catch the flowing resin.
+  footnotes:
+  - key: ''
+    value: The 'front stone step' (섬돌) suggests a garden or courtyard setting, marking the pine as a cultivated specimen rather than a wild tree. The poem traces the tree's growth from sapling to mature timber.
+  - key: ''
+    value: The 'four fathoms' (마흔 아름, literally forty ells) represents the desired girth of a mature pine, a measure of both time and the tree's noble development.
+  - key: ''
+    value: Pine resin (송진) holds practical and symbolic significance in Korean culture—both a useful material and a marker of the tree's vitality and value.

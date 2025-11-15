@@ -1,0 +1,49 @@
+canonical:
+  title: 七月七日
+  author: 徐居正
+  language: lzh
+  text: 迢迢銀漢鵲橋通天上神仙此會同牛渚波寒三夜月鳳機梭冷五更風蛛絲乞巧吾無與鶴駕登仙事已空曝腹庭前聊復爾乘槎何路問張公
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 七月七日
+  author: 徐居正
+  language: lzh
+  text: 迢迢銀漢鵲橋通。天上神仙此會同。牛渚波寒三夜月。鳳機梭冷五更風。蛛絲乞巧吾無與。鶴駕登仙事已空。曝腹庭前聊復爾。乘槎何路問張公。
+korean:
+  title: 칠월칠일
+  author: 서거정
+  language: kor
+  text: |-
+    멀고 먼 은하수에 오작교가 통하나니
+    천상 신선들이 여기 함께 모인다
+    우저에 물결이 차매 삼경의 밤달이요
+    봉기에 북이 차매 오경의 바람일네
+    거미줄로 솜씨 빌매 내게는 관계 없고
+    학을 타고 신선에 오르매 일이 이미 끝났더라
+    뜰 앞에서 배를 쬐는 일도 그럴듯하거니
+    뗏목을 탄들 어느 길에서 장공을 물어보랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우저(牛渚) : '
+    value: 견우(牽牛)와 직녀(織女)의 전설을 말함이다. 견우를 소 먹이는 물가라 하였고, 직녀를 봉베틀[鳳機]이라고 말한 것이다.
+  - key: '[주-D002] 장공(張公) : '
+    value: 한(漢)나라의 장건(張騫)이란 사람이 뗏목을 타고 은하수로 올라가서 직녀를 만났는데, 직녀가 돌 하나를 주워서 그것을 가지고 돌아와서 엄군평(嚴君平)이라는 사람에게 보였더니, 그 돌은 직녀의 베틀 괴던 돌이라 하였다 한다.
+english:
+  title: The Seventh Day of the Seventh Month
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Distant, so distant, the Silver River flows where the Magpie Bridge spans,
+    Heaven's immortals gather here in their eternal meeting.
+    At the Oxherd's shore the waves turn cold—the moon of the third watch lingers,
+    At the Weaver Maid's loom the shuttle stills—the wind of the fifth watch sighs.
+    I have no part in spiders' threads that beg for nimble fingers,
+    And those who ride white cranes to heaven's gates have long since disappeared.
+    To lie and warm my belly in the courtyard—such simple comfort remains,
+    Yet what path could bear me to the River to question Zhang Qian's journey?
+  footnotes:
+  - key: ''
+    value: 'The Oxherd and Weaver Maid: figures from the beloved Chinese legend of star-crossed lovers separated by the Milky Way, allowed to meet only once yearly on the seventh day of the seventh month. The Oxherd tends cattle by the riverbank; the Weaver Maid works at her celestial loom.'
+  - key: ''
+    value: 'Zhang Qian: a Han Dynasty envoy who, according to legend, sailed a raft up the Milky Way itself and met the Weaver Maid, receiving from her a sacred stone as proof of his journey—a tale that represents the impossible quest for the celestial realm.'

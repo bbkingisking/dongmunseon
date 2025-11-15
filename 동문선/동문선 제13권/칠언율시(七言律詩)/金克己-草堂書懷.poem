@@ -1,0 +1,49 @@
+canonical:
+  title: 草堂書懷
+  author: 金克己
+  language: lzh
+  text: 蕭條白屋鬢成絲世上升沉已可知南阮定應輕北阮東施那復效西施預愁直道遭三黜先把狂歌賦五噫誰識靜中閑味永典書沽酒醉吟詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 草堂書懷
+  author: 金克己
+  language: lzh
+  text: 蕭條白屋鬢成絲。世上升沉已可知。南阮定應輕北阮。東施那復效西施。預愁直道遭三黜。先把狂歌賦五噫。誰識靜中閑味永。典書沽酒醉吟詩。
+korean:
+  title: 초당에서 회포를 쓰다
+  author: 김극기
+  language: kor
+  text: |-
+    쓸쓸한 초가에서 귀밑머리 희었으니
+    내 팔자 세상 운수를 하마 알리로구나
+    남녘 완씨는 북녘 완을 경멸하나니
+    동가의 시가 서가의 시를 왜 본뜨리
+    곧은 도가 삼출될까 미리 걱정되어
+    오의가를 먼저 불렀네
+    고요한 가운데의 한가한 맛 누가 알리
+    책 잡혀 술사마시고 취하면 시를 쓰네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 남녘 완씨(阮氏)는 …… 경멸하나니 : '
+    value: 완적의 조카 완함(阮咸)은 길 남쪽에 살고, 다른 여러 완씨는 길 북쪽에 사는데, 북완은 부(富)하고 남완은 가난했다.
+  - key: '[주-D002] 오의가(五意歌) : '
+    value: 후한(後漢)  양홍(梁鴻)이 시사(時事)를 슬퍼하여 오의가(五意歌)를 지었다.
+english:
+  title: Reflections at the Thatched Cottage
+  author: Kim Geuk-gi
+  language: eng
+  text: |
+    In this desolate thatched hut, my temples have turned to silk—
+    Now I understand the rise and fall that heaven ordains.
+    The southern Ruan surely looks down upon the northern Ruan,
+    Just as the eastern beauty need not imitate the western.
+    Fearing the straight path may lead to three dismissals,
+    I sing the Five Laments before my time comes.
+    Who knows the lasting subtle joy found in quietude?
+    I pawn my books for wine, grow drunk, and write my verse.
+  footnotes:
+  - key: ''
+    value: 'The ''southern Ruan'' and ''northern Ruan'' refer to two branches of the Ruan family: Ruan Xian lived south of the street and was poor, while the northern Ruans were wealthy. This contrast illustrates how fortune distributes itself unevenly.'
+  - key: ''
+    value: The 'Five Laments' (五意歌) was composed by Liang Hong of the Later Han, who lamented the state of affairs in his time. The poem alludes to resigned protest against political circumstances.

@@ -1,0 +1,54 @@
+canonical:
+  title: 天壽寺
+  author: 韓脩
+  language: lzh
+  text: 花開花落幾回新前度劉郞今老人幸得高軒尋舊迹追懷往事似前身當時共飮荷心酒此去多爲松下塵物與我皆無盡處坡仙眞箇筆如神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 天壽寺
+  author: 韓脩
+  language: lzh
+  text: 花開花落幾回新。前度劉郞今老人。幸得高軒尋舊迹。追懷往事似前身。當時共飮荷心酒。此去多爲松下塵。物與我皆無盡處。坡仙眞箇筆如神。
+korean:
+  title: 천수사
+  author: 한수
+  language: kor
+  text: |-
+    꽃이 피며 꽃이 지고 몇 번이나 새로웠나
+    전에 왔던 유랑이 지금은 노인됐네
+    높은 행차를 모시고 옛 자취를 찾아와서
+    지난 일을 회상하니 아득한 전생 같네
+    그 때엔 함께 하심주를 마셨더니
+    이제는 가고 솔 아래 흙이 거의 되었네
+    외물과 내가 모두 다함 없는 곳
+    파선은 참으로 글이 귀신 같으이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 전에 왔던 유랑(劉郞) : '
+    value: 당(唐) 유우석(劉禹錫)이 귀양갔다 와서 거듭 현도관(玄都觀)에 놀면서, “복숭아 심은 도사(道士)는 지금 어디 갔는고. 전에 왔던 유랑(劉郞 자신) 지금 또 왔네.”란 시를 지었다.
+  - key: '[주-D002] 하심주(荷心酒) : '
+    value: 정공각(鄭公慤)이 연잎[蓮葉]에다 술을 담아 두고 잠(簪)으로 찔러서 줄기와 통하게 하여 그 술을 마시니 맑고 서늘하였다.
+  - key: '[주-D003] 외물(外物)과 …… 다함 없는 곳 : '
+    value: 대개 모든 것을 변하는 것으로 보면, 천지도 한 순간이 못 되나, 변치 않은 것으로 보면, 외물과 내가 다 다함이 없다.
+english:
+  title: Cheonsu Temple
+  author: Han Soo
+  language: eng
+  text: |-
+    Flowers bloom and wither—how many times renewed?
+    The Liu Lang of old has become an aging man.
+    Blessed to escort the high palanquin to these ancient traces,
+    Recalling the past feels like remembering a former life.
+
+    Once we drank together from lotus-heart wine,
+    Now I return to find myself nearly dust beneath the pines.
+    Both the outer world and I rest in what has no ending—
+    Oh, Su Shi truly wrote with a brush like a spirit's own.
+  footnotes:
+  - key: ''
+    value: Liu Lang refers to Liu Yuxi of the Tang Dynasty, who returned from exile to revisit the Xuandu Temple (where he had previously written a famous poem about peach blossoms), thus becoming a symbol of the wanderer's return.
+  - key: ''
+    value: Lotus-heart wine is a legendary drink prepared by placing wine in a lotus leaf and piercing it to allow the stem to draw the liquid, creating a cooling, crystalline beverage—a symbol of elegant refinement and shared moments of beauty.
+  - key: ''
+    value: The reference to Su Shi (known as 'Po Xian' or 'the Sage of Po') invokes one of China's greatest poets and calligraphers, suggesting that true artistic expression transcends the boundaries between permanence and impermanence.

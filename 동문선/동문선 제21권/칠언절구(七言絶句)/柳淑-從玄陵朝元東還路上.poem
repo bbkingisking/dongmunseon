@@ -1,0 +1,37 @@
+canonical:
+  title: 從玄陵朝元東還路上
+  author: 柳淑
+  language: lzh
+  text: 戀主心馳燕塞雲思親夢到胡州月平生忠孝兩難忘茫然獨立長程雪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 從玄陵朝元東還路上
+  author: 柳淑
+  language: lzh
+  text: 戀主心馳燕塞雲。思親夢到胡州月。平生忠孝兩難忘。茫然獨立長程雪。
+korean:
+  title: 종현릉조원동환노상
+  author: 유숙
+  language: kor
+  text: |-
+    임금을 그리는 마음은 연새의 구름으로 달리고
+    어버이를 생각하는 꿈은 호주의 달로 가네
+    한평생 충과 효의 둘을 다 잊지 못해
+    우두커니 먼 길의 눈 속에 혼자 선다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0900&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 현릉(玄陵) : '
+    value: 공민왕.
+english:
+  title: On the Road Back East from Attending Court at Hyungneung
+  author: Yu Suk
+  language: eng
+  text: |-
+    My longing for the lord races on wings of Yan's clouds,
+    Dreams of my parents journey to Hoju's distant moon.
+    Throughout my life, loyalty and filial piety—both burn within me,
+    Yet here I stand alone, bewildered in the snow of this long road.
+  footnotes:
+  - key: ''
+    value: Hyungneung refers to the tomb of King Gongmin, suggesting this poem was written after the poet attended court at the royal tomb and began the journey homeward.

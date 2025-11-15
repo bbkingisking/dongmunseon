@@ -1,0 +1,37 @@
+canonical:
+  title: 江村夜興
+  author: 任奎
+  language: lzh
+  text: 月黑烏飛渚烟沉江自波漁舟何處宿漠漠一聲歌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 江村夜興
+  author: 任奎
+  language: lzh
+  text: 月黑烏飛渚。烟沉江自波。漁舟何處宿。漠漠一聲歌。
+korean:
+  title: 강촌야흥
+  author: 임규
+  language: kor
+  text: |-
+    달빛 침침한데 까마귀 물가에 날고
+    연기 잠긴 데 강물 절로 물결이 이네
+    고기잡이 배는 지금 어디서 자는고
+    멀고먼 한 가락 노랫소리 들리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0110&viewSync=OT
+  footnotes: []
+english:
+  title: Night Reverie by the River Village
+  author: Im Gyu
+  language: eng
+  text: |-
+    The moon fades dark, crows scatter toward the shore.
+    Smoke settles low as the river stirs of its own accord.
+    Where do the fishing boats find their rest tonight?
+    A solitary song drifts through the vastness—so distant, so deep.
+  footnotes:
+  - key: ''
+    value: The fishing boats represent human presence and labor in contrast with the indifferent natural world of darkness and mist.
+  - key: ''
+    value: The 'solitary song' may evoke both human loneliness and the mysterious voice of nature itself in the night.

@@ -1,0 +1,43 @@
+canonical:
+  title: 送李節度 季仝 鎭鏡城
+  author: 金宗直
+  language: lzh
+  text: 三箭奇功豈足收吾王不要月支頭西來楛矢應千束賴有平平定遠侯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送李節度 季仝 鎭鏡城
+  author: 金宗直
+  language: lzh
+  text: 三箭奇功豈足收。吾王不要月支頭。西來楛矢應千束。賴有平平定遠侯。
+korean:
+  title: 송 이절도 계동 진 경성
+  author: 김종직
+  language: kor
+  text: |-
+    삼전의 기이한 공을 어찌 족히 거두리
+    우리 왕은 월지의 머리를 필요로 하지 않도다
+    서쪽으로 온 고시가 천 묶음이 되리니
+    평화를 주장하는 정원후를 힘입으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고시(楛矢) : '
+    value: 두만강 근처는 옛날 숙신(肅愼)이란 나라였는데, 옛날 중국 기록에 숙신 나라에서 고시(楛矢 고나무로 만든 화살)를 보냈다는 말이 있다.
+  - key: '[주-D002] 정원후(定遠侯) : '
+    value: 한나라의 반초(班超)가 중앙아시아 지방을 통치하여서 성공하였는데, 그는 평화를 항상 주장하였다.
+english:
+  title: Farewell to Director Lee Gyedong, Garrison Commander of Mirror City
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Three arrows of remarkable deeds—can such glory ever be contained?
+    Our sovereign needs not the head of the Moon Branch.
+    Thousands of arrows from the western lands shall come,
+    Yet we trust in the peaceful wisdom of the Distant Conqueror.
+  footnotes:
+  - key: ''
+    value: The 'three arrows' refers to extraordinary martial achievements; 'Moon Branch' (月支) is a historical reference to foreign lands, suggesting the poem questions whether mere conquest should be the measure of a ruler's greatness.
+  - key: ''
+    value: The 'arrows from the western lands' alludes to tribute from Sushen (ancient kingdom near the Tumen River), known in Chinese records for sending arrows of high-quality wood.
+  - key: ''
+    value: The 'Distant Conqueror' (定遠侯) references Ban Chao of the Han Dynasty, who successfully governed Central Asian territories while consistently advocating for peaceful resolution over military conquest—a model of virtuous governance the poem celebrates.

@@ -1,0 +1,37 @@
+canonical:
+  title: 贈友人
+  author: 崔林
+  language: lzh
+  text: 白日有朝暮靑山無古今一尊榮辱外相對細論心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈友人
+  author: 崔林
+  language: lzh
+  text: 白日有朝暮。靑山無古今。一尊榮辱外。相對細論心。
+korean:
+  title: 증우인
+  author: 최림
+  language: kor
+  text: |-
+    백일은 아침과 저녁이 있는데
+    청산은 예와 이제가 없구나
+    한 동이 술은 영욕 밖이라
+    마주 대하여 자세히 마음을 논하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: To a Friend
+  author: Choe Rim
+  language: eng
+  text: |-
+    The white sun has its dawn and dusk,
+    Yet the green mountains know no past or present.
+    A cup of wine transcends honor and shame—
+    Face to face, we speak freely of the heart.
+  footnotes:
+  - key: ''
+    value: The contrast between the sun's daily cycle and the mountains' timelessness reflects the poet's meditation on the transience of human concerns versus the eternal constancy of nature.
+  - key: ''
+    value: The cup of wine serves as a symbol of fellowship and the abandonment of worldly pretense, allowing for genuine communion between friends.

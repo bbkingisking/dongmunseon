@@ -1,0 +1,46 @@
+canonical:
+  title: 淸州訪南溪道士明日却寄
+  author: 金宗直
+  language: lzh
+  text: 胡奴種秫南溪北赤脚挑菜南溪南道人長嘯閉關卧壁間自署南溪銜客來剝啄亦不嗔酒旣冷洌肴豐甘紅塵韁鎖誤人甚夜月未共羲皇談
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淸州訪南溪道士明日却寄
+  author: 金宗直
+  language: lzh
+  text: 胡奴種秫南溪北。赤脚挑菜南溪南。道人長嘯閉關卧。壁間自署南溪銜。客來剝啄亦不嗔。酒旣冷洌肴豐甘。紅塵韁鎖誤人甚。夜月未共羲皇談。
+korean:
+  title: 청주에 남계도사를 찾고 다음 날 부침
+  author: 김종직
+  language: kor
+  text: |-
+    머슴놈이 남계 북쪽에 찰벼 심으고
+    장정은 남계 남쪽서 배추를 매는데
+    도인은 휘파람 불며 문 닫고 누워
+    벽 위에 써 붙이되 ‘남계도사’
+    객이 와 문 두드리면 성도 안 내고
+    쩌릿한 냉주에 푸짐한 안주
+    홍진의 굴레가 내 신세를 그르쳐
+    달밤에 함께 희황 이야기도 못하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0630&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 남계도사 : '
+    value: 남계도사는 즉 나의 벗 경연(慶延)의 호(號)다. 산(山) 이라 자호(自號).
+english:
+  title: Visiting the Daoist of Namgye Stream in Cheongju, and Sending Word of My Return the Next Day
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    A servant plants sticky millet north of Namgye Stream,
+    A laborer weeds cabbage patches south of Namgye Stream.
+    The daoist whistles long and lies behind closed gates,
+    Self-inscribing on the wall: 'Daoist of Namgye.'
+
+    When guests come knocking, he shows no annoyance,
+    Cold, crystalline wine and abundant, savory fare—
+    Yet the bridle of red dust has ruined my life so deeply
+    That even on moonlit nights, I cannot speak with the Yellow Emperor of old.
+  footnotes:
+  - key: ''
+    value: Namgye Daoist (南溪道士) is the pen name of the author's friend Gyeong-yeon (慶延), who also called himself 'Mountain' (山).

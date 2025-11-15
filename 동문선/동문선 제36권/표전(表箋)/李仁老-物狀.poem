@@ -1,0 +1,45 @@
+canonical:
+  title: 物狀
+  author: 李仁老
+  language: lzh
+  text: 爲天所啓化猶及於徧方因地之宜禮敢虧於信贄前件物等產從瘠薄品匪精奇聊効獻於芹暄庶勿捐於菅蒯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 李仁老
+  language: lzh
+  text: 爲天所啓。化猶及於徧方。因地之宜。禮敢虧於信贄。前件物等。產從瘠薄。品匪精奇。聊効獻於芹暄。庶勿捐於菅蒯。
+korean:
+  title: 물장
+  author: 이인로
+  language: kor
+  text: 〈황제께서〉 하늘이 열어 준 운(運)을 받으시어 교화가 편방(編方)에까지 미치오니, 토산(土産)을 바치는 예(禮)에 감히 공물(貢物)을 결(缺)하오리이까. 오른쪽 목록에 있는 물건들은 박토[瘠地]의 산물이라 품질이 정기(精奇)한 것이 아니오나, 애오라지 미나리와 햇볕 쬠을 바치는 정성을 본받아 올리오니, 사초풀[菅蒯]과 솔새와 같다 하여 버리지 마시기를 바라옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0390_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 미나리와 햇볕 쬠 : '
+    value: 한 농부는 미나리를 먹고는 맛이 좋아 임금에게 바치려 하였고, 또 한 사람은 추위에 떨다가 등에 햇빛을 쬐어 보고는 그 따뜻한 방법을 임금에게 아뢰려 하였다. 그것은 모두 임금에게는 소용이 없으나 그들의 정성은 가상하다는 뜻이다.
+english:
+  title: Presentation of Local Tribute
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Receiving the mandate that Heaven has opened,
+    Your transformative grace reaches to every corner of the realm.
+    Following the customs of the earth and its offerings,
+    How could I dare withhold the proper tribute?
+
+    These humble goods listed before you
+    Are but the products of our barren soil,
+    Lacking in refinement and rarity.
+    Yet I offer them in the spirit of one who gathered watercress,
+    Or warmed himself in the sun's embrace—
+    Small acts of devotion to his lord.
+    Though they be like common grass and humble birds,
+    I pray you will not cast them away,
+    But receive them as tokens of our earnest hearts.
+  footnotes:
+  - key: ''
+    value: The references to watercress and warming in sunlight are classical allusions to humble offerings made with sincere devotion. A farmer once brought watercress to his king, having tasted its goodness, and another brought news of how sunlight could warm the body—insignificant gifts, but offered with genuine loyalty.
+  - key: ''
+    value: This is a formal presentation document (mugjeong) accompanying local tribute goods to the throne, employing traditional modest language while maintaining dignity.

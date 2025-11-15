@@ -1,0 +1,55 @@
+canonical:
+  title: 杏村李侍中嵒挽章
+  author: 李仁復
+  language: lzh
+  text: 秉志忠兼孝持身險若夷邇來方折屐誰謂忽乘箕黃閣風聲遠蘭亭墨跡遺含言更流涕非獨爲吾私時公姪珣破賊而還故有折屐之語
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 杏村李侍中嵒挽章
+  author: 李仁復
+  language: lzh
+  text: 秉志忠兼孝。持身險若夷。邇來方折屐。誰謂忽乘箕。黃閣風聲遠。蘭亭墨跡遺。含言更流涕。非獨爲吾私。時公姪珣破賊而還。故有折屐之語。
+korean:
+  title: 행촌 이시중 이암 만장
+  author: 이인복
+  language: kor
+  text: |-
+    뜻을 가지기는 충과 효를 겸하였고
+    몸을 가지는 데에는 역경을 순경같이 처하였네
+    근일에 바야흐로 절극을 하였는데
+    누가 알았으랴 갑자기 기성을 탈 줄을
+    황각 풍성이 멀리 전할 것
+    난정의 묵적만이 남았네
+    말을 머금고 다시 눈물을 흘리노니
+    한갓 내 사사로운 정만은 아니네
+    그때 공(公)의 조카 순(珣)이 적을 파하고 돌아왔으므로 절극이라는 말을 씀.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 절극(折屐) : '
+    value: 진(晉)나라 재상(宰相)  사안(謝安)이 그의 조카 현(玄)을 보내어 진병(秦兵)을 막게 하였는데, 현(玄)이 8천 명의 군사로써 진나라 백만 대병을 쳐부수었다. 보고하는 글이 이를 때에 사안은 한창 바둑을 두고 있었는데, 손이 소식을 물으니 사안을 기뻐하는 기색을 나타내지도 않으며, “아이들이 도적을 이미 쳐부수었군.” 하고, 바둑을 계속하였다. 그러나 손을 보내고 문안으로 들어오다가 나무신의 이[齒]가 문턱에 걸려서 부러지는 줄도 몰랐으니 그것은 매우 기뻤기 때문이었다.
+  - key: '[주-D002] 기성(箕星)을 탈 : '
+    value: 은(殷)나라 재상(宰相)  부열(傅說)은 죽은 뒤에 기성(箕星)을 타고 하늘에 올랐다 한다.
+  - key: '[주-D003] 난정(蘭亭)의 묵적(墨跡) : '
+    value: 왕희지(王羲之)의 글씨 중에는 난정첩(蘭亭帖)이 가장 유명한데, 이암은 명필(名筆)이었다.
+english:
+  title: Elegy for Minister Lee Seokjung of Haengchon Village
+  author: Lee In-bok
+  language: eng
+  text: |-
+    In purpose, he joined loyalty with filial devotion,
+    In bearing, he met hardship as if it were ease.
+    Recently he broke his wooden clogs in haste—
+    Who could have known he would ascend to the stars so suddenly?
+
+    The wind of the Yellow Hall carries his name afar,
+    Only the brushstrokes of Lanting remain.
+    Holding back my words, I weep again,
+    Not for my private sorrow alone.
+  footnotes:
+  - key: ''
+    value: The broken clogs allude to the story of Xie An, the Jin minister, who received news of his nephew's great military victory but showed no emotion, continuing his game of Go. Only when he rose to leave did he realize his wooden clogs had broken at the threshold—a sign of the joy he could not contain.
+  - key: ''
+    value: Ascending to the stars references Fu Shuo, the sage minister of the Shang dynasty, who was believed to have ascended to heaven after death.
+  - key: ''
+    value: The brushstrokes of Lanting refer to the Lanting Preface, the most famous work of the calligrapher Wang Xizhi, suggesting that Lee Seokjung was himself known as an accomplished calligrapher.

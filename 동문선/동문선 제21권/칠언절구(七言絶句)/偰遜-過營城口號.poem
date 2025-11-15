@@ -1,0 +1,37 @@
+canonical:
+  title: 過營城口號
+  author: 偰遜
+  language: lzh
+  text: 雲深沙路淨無泥碧草如茵散馬蹄五月營城凉似水冥冥山雨杜鵑啼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過營城口號
+  author: 偰遜
+  language: lzh
+  text: 雲深沙路淨無泥。碧草如茵散馬蹄。五月營城凉似水。冥冥山雨杜鵑啼。
+korean:
+  title: 과영성구호
+  author: 설손
+  language: kor
+  text: |-
+    구름 깊은 모랫길은 진흙이 없이 깨끗하고
+    푸른 풀은 담요 같아 말발굽 미끄러진다
+    오월의 영성이 물처럼 시원한데
+    아득히 어두운 산비에 두견이 우네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1200&viewSync=OT
+  footnotes: []
+english:
+  title: Passing Through Yingcheng Gate
+  author: Seol Son
+  language: eng
+  text: |-
+    Deep clouds crown the sandy path, pristine without mud,
+    Green grass spreads like a blanket where hoofbeats slip and slide.
+    In the fifth month, Yingcheng is cool as flowing water—
+    In the distant, darkening mountain rain, a cuckoo calls.
+  footnotes:
+  - key: ''
+    value: Yingcheng (營城) refers to a fortified garrison or military outpost.
+  - key: ''
+    value: The cuckoo (杜鵑) is a traditional symbol of melancholy and longing in East Asian poetry.

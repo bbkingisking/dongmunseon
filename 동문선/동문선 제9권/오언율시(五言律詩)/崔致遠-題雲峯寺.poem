@@ -1,0 +1,47 @@
+canonical:
+  title: 題雲峯寺
+  author: 崔致遠
+  language: lzh
+  text: 捫葛上雲峯平觀世界空千山分掌上萬事豁胷中塔影日邊雪松聲天半風煙霞應笑我回步入塵籠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題雲峯寺
+  author: 崔致遠
+  language: lzh
+  text: 捫葛上雲峯。平觀世界空。千山分掌上。萬事豁胷中。塔影日邊雪。松聲天半風。煙霞應笑我。回步入塵籠。
+korean:
+  title: 제 운봉사
+  author: 최치원
+  language: kor
+  text: |-
+    칡덩굴 부여잡고 구름 봉에 올라
+    굽어보니 온누리가 텅 빈 듯
+    산들은 올망졸망 손바닥에 놓이고
+    만사는 가슴 속이 탁 틔누나
+    탑 그림자 해[日]가의 눈이요
+    솨솨 솔 소리는 반공의 바람일세
+    구름과 놀[霞]이 응당 나를 웃을 것이
+    진세로 다시 걸음을 돌리다니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: At Cloud Peak Temple
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Grasping vines, I climb to the clouded peak,
+    Looking down, the world spreads empty before me.
+    Thousand mountains rest like lines on my palm,
+    Ten thousand matters dissolve within my heart.
+    The pagoda's shadow merges with snow at the sun's edge,
+    Pine songs drift on winds that split the sky.
+    Clouds and rosy mists must laugh at me—
+    I turn my steps back down into the dusty world.
+  footnotes:
+  - key: ''
+    value: Cloud Peak Temple (雲峯寺) is a Buddhist monastery in Korea, likely visited by the poet during his travels.
+  - key: ''
+    value: The classical allusion in the poem reflects the Buddhist and Daoist themes common in Tang-period Korean poetry, particularly the tension between enlightenment and worldly return.
+  - key: ''
+    value: The palm metaphor draws on both Buddhist meditation imagery and classical Chinese poetic convention, suggesting both detachment and contained wisdom.

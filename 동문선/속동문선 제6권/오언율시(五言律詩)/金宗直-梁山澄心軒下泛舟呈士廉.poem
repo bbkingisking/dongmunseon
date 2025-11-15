@@ -1,0 +1,50 @@
+canonical:
+  title: 梁山澄心軒下泛舟呈士廉
+  author: 金宗直
+  language: lzh
+  text: 幽賞須臨水高樓未析酲柳邊撑畫艇竹下響紋枰群吏參鷗鷺遙燈替月星更深仍信棹巾屨露華淸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 梁山澄心軒下泛舟呈士廉
+  author: 金宗直
+  language: lzh
+  text: 幽賞須臨水。高樓未析酲。柳邊撑畫艇。竹下響紋枰。群吏參鷗鷺。遙燈替月星。更深仍信棹。巾屨露華淸。
+korean:
+  title: 양산징심헌하 범주 정사렴
+  author: 김종직
+  language: kor
+  text: |-
+    그윽한 감상은 물에 가야 하나니
+    높은 다락에는 아직 술이 덜 깨었도다
+    버드나무 곁에는 그림배 매여 있고
+    대나무 밑에서는 바둑판이 울리네
+    뭇 아전으로 구로가 참여하고
+    먼 등불은 달과 별 대신했구려
+    밤이 깊어 이내 노를 젓나니
+    수건과 신에는 이슬빛이 맑아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: Boating Below the澄心 Pavilion at Yangsan, Presented to Saman
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    True appreciation demands we drift upon the water,
+    yet wine still clouds the mind in lofty halls.
+    By willows, a painted boat lies moored,
+    beneath bamboo, the click of go stones echoes.
+
+    Official scribes mingle with gulls and herons,
+    distant lanterns now replace the moon and stars.
+    As night deepens, still we pole the boat along,
+    our robes and shoes glistening with morning dew.
+  footnotes:
+  - key: ''
+    value: Saman (士廉) likely refers to a distinguished guest or companion of the poet on this occasion.
+  - key: ''
+    value: The poem contrasts the lingering effects of wine in the formal setting above with the purifying experience of being on the water.
+  - key: ''
+    value: The 'click of go stones' suggests intellectual leisure and refined company during the outing.
+  - key: ''
+    value: The final image of dew-glistening robes suggests the night journey has extended through dawn, merging the boundaries between evening entertainment and morning contemplation.

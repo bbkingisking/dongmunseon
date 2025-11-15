@@ -1,0 +1,50 @@
+canonical:
+  title: 寧越
+  author: 李詹
+  language: lzh
+  text: 城郭蕭條石逕斜吏民相半十餘家溪舂夜急天初曉崖蜜秋深菊正花風俗有時咨古老官曹無事廢朝衙卧治小郡君休薄竹馬來迎亦可誇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寧越
+  author: 李詹
+  language: lzh
+  text: 城郭蕭條石逕斜。吏民相半十餘家。溪舂夜急天初曉。崖蜜秋深菊正花。風俗有時咨古老。官曹無事廢朝衙。卧治小郡君休薄。竹馬來迎亦可誇。
+korean:
+  title: 영월
+  author: 이첨
+  language: kor
+  text: |-
+    쓸쓸한 성안 돌길이 비낀 곳
+    아전과 백성의 집이 반반씩 여남은 집
+    시냇가에 밤새껏 물레방아 소리에 동이 차차 트이고
+    가을 벼랑에 벌꿀은 듬뿍 국화가 한창 피네
+    풍속은 이따금씩 고로들에게 물어보고
+    관가 일은 한산하여 아침 좌아도 폐하리
+    작은 고을을 누워 다스리는 그대 경홀히 마소
+    죽마들 와서 맞으니 또한 자랑스러우이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 작은 고을을 누워 다스리는 : '
+    value: 한(漢)나라 급암(汲黯)이 동해 태수(東海太守)가 되었을 때에 문밖에 나가지 않고 누어서 다스렸는데도, 1년이 넘어 고을이 크게 잘 다스려졌다.
+  - key: '[주-D002] 죽마(竹馬)들 : '
+    value: 후한(後漢)의 양리(良吏)  곽급(郭伋)이 부임하니 어린 아이들 몇백이 각기 대말[竹馬]을 타고 길 가에 나와 맞으며 절하였다.
+english:
+  title: Yeongwol
+  author: Lee Cham
+  language: eng
+  text: |-
+    The city walls stand desolate, stone paths slope awry.
+    Halfway between officials and common folk, a dozen households scattered.
+    By the stream all night the water mill turns urgent—dawn breaks at last.
+    On autumn cliffs, wild honey pools deep, chrysanthemums burst into bloom.
+
+    Customs we consult from the elders now and then.
+    The magistrate's office idles, morning court falls to disuse.
+    When you lie at ease governing this small domain, do not be ashamed—
+    Bamboo horses come to greet you: this too is glory to behold.
+  footnotes:
+  - key: ''
+    value: The image of 'lying at ease while governing' alludes to the Han official Xi An, who as governor of the Eastern Sea reportedly never left his residence yet ruled so well that the province flourished within a year—suggesting that good governance requires neither bustle nor display.
+  - key: ''
+    value: The 'bamboo horses' references the Later Han official Guo Ji, whose arrival at his post was celebrated when hundreds of children came out on their toy bamboo horses to greet him on the road—a sign of a virtuous administrator beloved by the people.

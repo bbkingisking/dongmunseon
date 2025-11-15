@@ -1,0 +1,46 @@
+canonical:
+  title: 野燒
+  author: 崔致遠
+  language: lzh
+  text: 望中旌旆忽繽紛疑是橫行出塞軍猛焰燎空欺落日狂煙亘野截歸雲莫嫌牛馬皆妨牧須喜狐狸盡喪群只恐風驅山上去虛敎玉石一時焚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 野燒
+  author: 崔致遠
+  language: lzh
+  text: 望中旌旆忽繽紛。疑是橫行出塞軍。猛焰燎空欺落日。狂煙亘野截歸雲。莫嫌牛馬皆妨牧。須喜狐狸盡喪群。只恐風驅山上去。虛敎玉石一時焚。
+korean:
+  title: 벌판의 불붙는 풀
+  author: 최치원
+  language: kor
+  text: |-
+    바라보매 문득 깃발이 펄럭펄럭
+    군사들이 변방을 쳐 나가며 횡행하는 듯
+    사나운 불꽃이 하늘을 찌르니 지는 해도 무색하고
+    미친 연기가 벌판에 뻗어 가는 구름 끊는구나
+    마소를 침에 방해된다 탓하지 마소
+    여우ㆍ삵이 모두 소굴을 잃음이 기쁘지 않은가
+    다만 두려운 건 바람이 산 위에까지 몰고 가서
+    옥과 돌 차별도 없이 일시에 불붙는 일
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옥과 돌 …… 불붙는 일 : '
+    value: 《서경(書經)》에, “곤강(崑崗)에 불이 붙으면 옥과 돌이 다 탄다.”는 말이 있는데, 선(善)ㆍ악(惡)이 다 해를 입음을 뜻한다.
+english:
+  title: Wildfire
+  author: Choi Chiwon
+  language: eng
+  text: |-
+    Gazing afar, banners suddenly flutter and dance—
+    I could swear it was an army marching forth beyond the frontier.
+    Ferocious flames pierce the sky, outshining the setting sun,
+    While mad smoke stretches across the plain, severing the returning clouds.
+
+    Do not resent the harm to cattle and horses in their pastures—
+    Should we not rejoice that foxes and badgers lose their dens?
+    Yet I fear the wind may drive it toward the mountains,
+    Where jade and stone alike, without distinction, burn as one.
+  footnotes:
+  - key: ''
+    value: The final image of jade and stone burning without distinction alludes to a passage in the Book of Documents (Shuijing), symbolizing how both good and evil are consumed indiscriminately by disaster.

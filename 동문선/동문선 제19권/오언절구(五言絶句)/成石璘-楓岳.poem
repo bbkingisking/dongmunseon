@@ -1,0 +1,35 @@
+canonical:
+  title: 楓岳
+  author: 成石璘
+  language: lzh
+  text: 一萬二千峯高低自不同君看日輪出高處最先紅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 楓岳
+  author: 成石璘
+  language: lzh
+  text: 一萬二千峯。高低自不同。君看日輪出。高處最先紅。
+korean:
+  title: 풍악
+  author: 성석린
+  language: kor
+  text: |-
+    일만 이천 봉은
+    높고 낮음이 절로 다르네
+    그대 보아라 해돋을 때에
+    어느 곳이 가장 먼저 붉는가를
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: Mount Fengwu
+  author: Seong Seok-rin
+  language: eng
+  text: |-
+    Twelve thousand peaks rise,
+    Each claiming its own height.
+    Watch when the sun breaks forth—
+    Which summit blushes red first?
+  footnotes:
+  - key: ''
+    value: Mount Fengwu (楓岳) refers to Diamond Mountains (Geumgangsan), a sacred peak in Korea celebrated in classical poetry for its majestic beauty and spiritual significance.

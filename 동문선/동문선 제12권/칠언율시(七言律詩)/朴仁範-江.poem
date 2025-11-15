@@ -1,0 +1,47 @@
+canonical:
+  title: 江
+  author: 朴仁範
+  language: lzh
+  text: 蘭橈晚泊荻花洲露冷蛩聲繞岸秋潮落古灘沙觜沒日沉寒島樹容愁風驅江上群飛鴈月送天涯獨去舟共厭羈離年已老每言心事淚潸流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 江
+  author: 朴仁範
+  language: lzh
+  text: 蘭橈晚泊荻花洲。露冷蛩聲繞岸秋。潮落古灘沙觜沒。日沉寒島樹容愁。風驅江上群飛鴈。月送天涯獨去舟。共厭羈離年已老。每言心事淚潸流。
+korean:
+  title: 강
+  author: 박인범
+  language: kor
+  text: |-
+    갈꽃 핀 강변 저녁에 목란배를 대니
+    찬 이슬에 벌레 우는 가을 언덕
+    썰물 나간 여울터에 모래는 빠져 있고
+    해가 지니 싸늘한 섬에 나무도 걱정하는 듯
+    강위를 떼지어 나는 기러기를 바람이 몰아가고
+    하늘 끝에 홀로 가는 배를 달만이 전송하네
+    유리를 함께 서러워하나 나이조차 늙었으니
+    심사를 말할 때마다 눈물만 글썽하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: The River
+  author: Park In-beom
+  language: eng
+  text: |-
+    At dusk on the reedy shore, I moor my magnolia boat
+    In the cold dew, insects cry along the autumn bank
+    Where the tide has fallen, sand vanishes from ancient shallows
+    As the sun sinks, even the trees on the barren island seem to grieve
+    Wind drives a flock of geese across the river's expanse
+    While moonlight alone escorts my solitary boat toward the distant sky
+    Together we've endured this separation year after year, grown old in exile
+    Each time I speak of my heart's burden, tears only flow
+  footnotes:
+  - key: ''
+    value: The 'magnolia boat' suggests a vessel of modest beauty, emphasizing the speaker's lonely journey
+  - key: ''
+    value: The imagery of autumn—insects, cold dew, barren islands—establishes a melancholic atmosphere of separation and exile
+  - key: ''
+    value: The contrast between the flock of geese and the solitary boat underscores the speaker's isolation despite being part of a larger world

@@ -1,0 +1,37 @@
+canonical:
+  title: 長源亭
+  author: 鄭知常
+  language: lzh
+  text: 玉漏丁東月掛空一春天與牡丹風小堂捲箔春波綠人在蓬萊縹緲中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長源亭
+  author: 鄭知常
+  language: lzh
+  text: 玉漏丁東月掛空。一春天與牡丹風。小堂捲箔春波綠。人在蓬萊縹緲中。
+korean:
+  title: 장원정
+  author: 정지상
+  language: kor
+  text: |-
+    옥루 뎅뎅달이 벽공에 걸렸는데
+    봄 하늘이 모란 바람 보내 주네
+    작은 마루에 주렴 걷으니 봄물결이 푸르고나
+    사람은 봉래산 표묘한 가운데 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0470&viewSync=OT
+  footnotes: []
+english:
+  title: The Pavilion of Long Source
+  author: Jeong Jiryeom
+  language: eng
+  text: |-
+    The jade water-clock drips its rhythm—the moon hangs in the empty wall of heaven.
+    Spring's sky brings the peony wind to drift and sway.
+    I raise the curtains of the small veranda—spring's green waves shimmer.
+    A person dwells in the misty realm of Mount Penglai.
+  footnotes:
+  - key: ''
+    value: 'Mount Penglai: A legendary island of immortals in Chinese mythology, often used in classical poetry to represent a transcendent or otherworldly realm.'
+  - key: ''
+    value: The 'jade water-clock' (玉漏) references the traditional timekeeping device, here marking the passage of time with its rhythmic dripping, setting a contemplative tone for the poem.

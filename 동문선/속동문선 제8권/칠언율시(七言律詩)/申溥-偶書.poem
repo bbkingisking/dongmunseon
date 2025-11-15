@@ -1,0 +1,50 @@
+canonical:
+  title: 偶書
+  author: 申溥
+  language: lzh
+  text: 鳥靴十載踏塵紅飄轉覊蹤任短蓬合眼幾成鄕國夢抽身欲出簿書叢沙痕水沒連朝雨渡口舟橫過海風俛仰古今還感慨孤吟落日立軒東
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偶書
+  author: 申溥
+  language: lzh
+  text: 鳥靴十載踏塵紅。飄轉覊蹤任短蓬。合眼幾成鄕國夢。抽身欲出簿書叢。沙痕水沒連朝雨。渡口舟橫過海風。俛仰古今還感慨。孤吟落日立軒東。
+korean:
+  title: 우서
+  author: 신부
+  language: kor
+  text: |-
+    오화로 십 년 동안 홍진을 밟으며
+    떠다니던 나그네 자취를 짧은 쑥대에 맡기나니
+    눈을 감고는 몇 번이나 고향의 꿈을 이루었던가
+    장부의 무더기 속에서 몸을 빼어 나오려 하네
+    모래밭 흔적에는 아침 비에 물이 잠겼고
+    나루터에는 배가 바다를 지나는 바람에 비껴 있다
+    예와 지금을 굽어보고 우러러보다 다시 감개스러워
+    지는 해에 외로이 읊조리며 난간 동쪽에 섯노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 짧은 쑥대[蓬] : '
+    value: 봉(蓬)이란 풀은 뿌리에서 떨어져 나와서 바람을 따라 이리저리 굴러 다니므로 정처없이 떠돌아다니는 사람에 비유한다.
+  - key: '[주-D001] 鳥 : '
+    value: 烏
+english:
+  title: A Chance Reflection
+  author: Shin Bo
+  language: eng
+  text: |-
+    Ten years my worn boots have trodden the crimson dust,
+    A wanderer's traces surrendered to the rolling tumbleweed.
+    Closing my eyes, how many times have I dreamed of my homeland?
+    I struggle to extract myself from mountains of official records.
+
+    Sand's imprints are swallowed by the morning rain,
+    While boats at the ferry drift crosswise in ocean winds.
+    Looking back and forth through ancient and present times, emotion stirs again—
+    In the fading sun, solitary and chanting, I stand by the eastern railing.
+  footnotes:
+  - key: ''
+    value: The tumbleweed (蓬) is a traditional image in Chinese and Korean poetry for a homeless wanderer, as it rolls aimlessly with the wind after being uprooted.
+  - key: ''
+    value: The 'mountains of official records' suggests the poet's administrative duties that bind him to the capital, keeping him from returning home.

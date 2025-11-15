@@ -1,0 +1,43 @@
+canonical:
+  title: 留題詩
+  author: 林惟正
+  language: lzh
+  text: 縣僻煙霞裏孫何 亂山爲四隣楊蟠 林鶯鳴訝客韓愈 墻燕語留人杜甫 落照紅於燒白樂天 飛花白似銀楊蟠 淸風北䆫下李白 一酌送殘春億之
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 留題詩
+  author: 林惟正
+  language: lzh
+  text: 縣僻煙霞裏。孫何。 亂山爲四隣。楊蟠。 林鶯鳴訝客。韓愈。 墻燕語留人。杜甫。 落照紅於燒。白樂天。 飛花白似銀。楊蟠。 淸風北䆫下。李白。 一酌送殘春。億之。
+korean:
+  title: 낭천현 객사에서 유제시
+  author: 임유정
+  language: kor
+  text: |-
+    안개와 연기 속의 궁벽한 고을 손하(孫何)
+    사면은 모두 첩첩 산봉우리 양반(楊蟠)
+    숲 속의 꾀꼬리는 낯선 손[客] 온다 울고 한유(韓愈)
+    담의 제비는 가지 말라 지저귀네 두보(杜甫)
+    지는 해는 붙는 불보다 더 붉고 백낙천(白樂天)
+    나는 꽃잎은 희기가 은과도 비슷하네 양반(楊蟠)
+    시원한 바람 부는 북창 아래서 이백(李白)
+    술 한 잔 기울이면서 가는 봄을 보내네 억지(億之)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: Poem Left at the Guest House of Langtian County
+  author: Lim Yoo-jung
+  language: eng
+  text: |-
+    County remote in mist and haze—
+    Four mountains rise on every side—
+    Forest warblers cry at the stranger's coming,
+    Wall swallows chirp "do not depart"—
+    The setting sun burns redder than flame,
+    Flying petals drift white as silver—
+    Beneath the northern window's cool breeze,
+    One cup raised to bid spring farewell.
+  footnotes:
+  - key: ''
+    value: This poem is composed of lines attributed to various Chinese poets (Sun He, Yang Pan, Han Yu, Du Fu, Bai Juyi, and others), woven together as a farewell verse. The work exemplifies the East Asian literary tradition of collaborative or allusive composition, where established poetic phrases are recombined to create new meaning within a specific moment and place.

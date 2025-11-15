@@ -1,0 +1,45 @@
+canonical:
+  title: 癸未重九
+  author: 鄭誧
+  language: lzh
+  text: 地僻秋將盡山寒菊未花病知詩愈苦貧覺酒難賖野路天容大村墟日脚斜客懷無以遣薄暮過田家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 癸未重九
+  author: 鄭誧
+  language: lzh
+  text: 地僻秋將盡。山寒菊未花。病知詩愈苦。貧覺酒難賖。野路天容大。村墟日脚斜。客懷無以遣。薄暮過田家。
+korean:
+  title: 계미년 9월 9일에
+  author: 정포
+  language: kor
+  text: |-
+    궁벽한 땅에 가을도 가려 하는데
+    산이 추워서 국화 아직 안 피었네
+    병중이라, 시 짓기 더욱 괴로워라
+    가난하니 술 사오기도 숫제 어렵거니
+    벌판 길에 하늘이 크게 뵈고
+    마을 터엔 햇발이 비꼈구나
+    나그네 회로를 풀 데가 없어
+    황혼에 돌아오다가 농가집을 둘러보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_1030&viewSync=OT
+  footnotes: []
+english:
+  title: Ninth Day of the Ninth Month, Year of Gyeongmi
+  author: Jung Po
+  language: eng
+  text: |-
+    In this remote place, autumn hastens to its end,
+    The mountains turn cold—chrysanthemums refuse to bloom.
+    Sickness deepens my torment in composing verse,
+    Poverty makes even wine a luxury denied.
+    Across the barren fields the sky stretches boundless,
+    While slanting sun-rays pierce the village ruins.
+    With nothing to ease the wanderer's troubled heart,
+    At twilight I turn to linger by a farmer's gate.
+  footnotes:
+  - key: ''
+    value: The Ninth Day of the Ninth Month is a traditional East Asian autumn festival, often associated with chrysanthemum viewing and contemplation of mortality
+  - key: ''
+    value: The poem juxtaposes images of natural hardship with personal suffering—the chrysanthemums that fail to bloom mirror the poet's inability to find solace in verse-making

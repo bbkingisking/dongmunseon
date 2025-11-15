@@ -1,0 +1,78 @@
+canonical:
+  title: 松扇
+  author: 崔詵
+  language: lzh
+  text: 誰爲新㨾扇黑白大分明不用齊紈製渾將剡紙成方圓二體具書畫一時呈剪刻專偸巧裁縫幾費精手中孤月滿席上好風生忽被賢侯賜尤爲衆客驚却思三伏住豈要九秋迎謝相蒲增價曹生竹有名奉揚期不忝藏襲永爲榮感德徒爲切何當報以瓊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 松扇
+  author: 崔詵
+  language: lzh
+  text: 誰爲新㨾扇。黑白大分明。不用齊紈製。渾將剡紙成。方圓二體具。書畫一時呈。剪刻專偸巧。裁縫幾費精。手中孤月滿。席上好風生。忽被賢侯賜。尤爲衆客驚。却思三伏住。豈要九秋迎。謝相蒲增價。曹生竹有名。奉揚期不忝。藏襲永爲榮。感德徒爲切。何當報以瓊。
+korean:
+  title: 문상국이 부채를 선사했기에 사례하며 [謝文相贈扇] - 흰 종이, 검은 종이를 오려 섞어 짠 무늬를 이룬 부채인데, 양면에 글씨와 그림이 매우 기묘하고, 모양은 송선
+  author: 최선
+  language: kor
+  text: |-
+    새 모양의 이 부채를 뉘 만들었나
+    검은 빛, 흰 빛이 또렷하구나
+    제나라(중국 비단의 명산지) 비단으로 만들지 아니하고
+    섬계(중국 종이의 명산지)의 종이로 이루었네
+    둥글고 모난 두 체를 갖고
+    글씨와 그림이 함께 있으니
+    베고 새긴 그 솜씨 공교할씨고
+    재봉에는 얼마나 애를 썼는가
+    손에 드니 외로운 달이 뜨고
+    자리에 시원한 바람 생기네
+    이것이 상국의 선물이라니
+    더구나 뭇 손들 깜짝 놀라네
+    삼복의 더위가 두렵지 않으니
+    어이 9월 달 가을을 맞이할쏜가
+    사상의 포규선이 값 올라가고
+    조생의 죽선이 유명해졌네
+    인풍을 받들어 날려 욕되지 않게 하고
+    길이 간직하여 영광 삼으리
+    덕을 감동하는 맘 간절하오나
+    어떻게 경요로써 갚으오리까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사상(謝相)의 포규선(蒲葵扇) : '
+    value: 동진(東晋)의 명상(名相)사안(謝安)의 포규선(蒲葵扇)으로, 시골로 가는 사람이 있어 돌아가려는 차에 사안에게 가 뵈었는데, 안(安)이 돌아갈 노자가 있느냐 물으니, 대답하기를, “포규선[부들 잎으로 만든 부채] 다섯 자루밖에 없습니다.” 하였다. 안이 그 중에서 하나를 골라 쥐니, 경향(京鄕)의 사서(士庶)들이 다투어 사서 값이 몇 배나 더 올라갔다. 《晋書 謝安傳》
+  - key: '[주-D002] 조생(曹生)의 죽선(竹扇) : '
+    value: 진(晋)나라 원굉(袁宏)이 동양태수(東陽太守)로 나가는데 여러 사람이 전송하였다. 사안(謝安)이 갑자기 옆 사람에게서 부채 한 자루를 받아서 원굉에게 주며, “이것을 전송하는 선물로 삼는다.” 하니, 원굉이 곧 그것을 받으며 답하기를, “마땅히 인풍(仁風)을 받들어 드날려서 저 백성들을 위로하겠소.” 하였다.
+  - key: '[주-D003] 경요(瓊瑤) : '
+    value: 《시경》에, “나에게 목도(木桃)를 주는데 경요(瓊瑤)로써 갚으리라.” 하는 구절이 있다.
+english:
+  title: The Pine-Feather Fan
+  author: Choi Seon
+  language: eng
+  text: |-
+    Who crafted this fan of feathered pine?
+    Black and white in brilliant clarity shine.
+    Not woven from Qi's finest silk thread,
+    But born from Shan paper, pure instead.
+    Two forms complete—the round, the square—
+    Calligraphy and painting merge in air.
+    What artistry in every cut and seam!
+    How much fine labor in each gleaming dream.
+    In hand it holds a solitary moon,
+    Upon the mat, cool breezes come too soon.
+    When the Minister bestowed this treasure rare,
+    All the guests looked on in wonder there.
+    No fear now of the triple heat of summer's height,
+    Nor need to wait for autumn's cool respite.
+    When Xie's brush fan rose in value and in fame,
+    Cao's bamboo fan too earned its noble name.
+    I shall uphold the wind of virtue, flying it with care,
+    And keep it treasured, honor beyond compare.
+    My heart swells deep with gratitude sincere,
+    Yet how repay such kindness, crystal clear?
+    What gift of jade could match this debt I owe?
+  footnotes:
+  - key: ''
+    value: 'Xie''s brush fan: A legendary fan given by the renowned minister Xie An of the Eastern Jin dynasty. When he graciously bestowed one on a departing visitor, the gesture raised its value so dramatically that people competed to acquire them, multiplying its worth many times over.'
+  - key: ''
+    value: 'Cao''s bamboo fan: When Yuan Hong departed as governor, Xie An suddenly gave him a fan as a parting gift, saying, ''Let this be my farewell present.'' Yuan Hong received it and vowed to ''uphold the wind of benevolence in spreading it about, to comfort the common people.'''
+  - key: ''
+    value: 'Jade and precious stones (瓊瑤): An allusion to the Classic of Poetry, expressing the wish to repay kindness with something equally precious, yet acknowledging that true gratitude may transcend material exchange.'

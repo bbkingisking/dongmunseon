@@ -1,0 +1,52 @@
+canonical:
+  title: 十七日月虧又吟
+  author: 金宗直
+  language: lzh
+  text: 閉戶師玄晏持家藉孟光倐然驚露電誰更問蠶桑天地今俱老孤鱞我獨傷䆫櫳空吊影缺月白荒荒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 十七日月虧又吟
+  author: 金宗直
+  language: lzh
+  text: 閉戶師玄晏。持家藉孟光。倐然驚露電。誰更問蠶桑。天地今俱老。孤鱞我獨傷。䆫櫳空吊影。缺月白荒荒。
+korean:
+  title: 17일 월휴 우음
+  author: 김종직
+  language: kor
+  text: |-
+    지개문을 닫으매 현안을 스승하고
+    집을 가지매 맹광을 빙자한다
+    이슬과 번개에 갑자기 놀라나니
+    누가 새삼스레 농사 일 물을 건가
+    천지는 이제 다 함께 늙었는데
+    외로운 홀아비 나 혼자 슬퍼한다
+    창의 그림자를 하염없이 조상하노니
+    이지러진 달빛은 희미하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 현안(玄晏) : '
+    value: 진(晉)나라의 황보필(皇南謐)이라는 사람을 세상에서 현안(玄晏)선생이라 한다. 그는 시골에서 문을 닫고 숨어 살며 일생을 보낸 사람이다.
+  - key: '[주-D002] 맹광(孟光) : '
+    value: 한(漢)나라 양홍(梁鴻)이란 사람의 아내이다. 아내로서의 가장 좋은 사람이라 한다.
+english:
+  title: Moon Waning on the Seventeenth Day—Another Lament
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    I shut my gate and follow Hyuan-an's way,
+    Managing my house through Meng Guang's grace.
+    Suddenly lightning startles, and dew falls—
+    Who asks now of silkworms and growing grain?
+
+    Heaven and earth together grow old,
+    Yet I alone, this lonely widower, grieve.
+    Through the window I gaze at empty shadows,
+    While the waning moon casts its pallid light.
+  footnotes:
+  - key: ''
+    value: 'Hyuan-an (玄晏): A reclusive scholar of the Jin dynasty who withdrew from the world and lived in seclusion, embodying the ideal of spiritual withdrawal from worldly affairs.'
+  - key: ''
+    value: 'Meng Guang (孟光): The wife of Liang Hong of the Han dynasty, celebrated as the ideal of wifely virtue and devotion.'
+  - key: ''
+    value: The poem appears to be a meditation on aging, solitude, and withdrawal from worldly concerns, composed on the date when the moon was waning.

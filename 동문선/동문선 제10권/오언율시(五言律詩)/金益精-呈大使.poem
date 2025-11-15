@@ -1,0 +1,46 @@
+canonical:
+  title: 呈大使
+  author: 金益精
+  language: lzh
+  text: 欲歸歸未得人事苦相牽回互路何遠玄黃馬不前秋風催落葉白髮報殘年兩地相思恨難成一夜眠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 呈大使
+  author: 金益精
+  language: lzh
+  text: 欲歸歸未得。人事苦相牽。回互路何遠。玄黃馬不前。秋風催落葉。白髮報殘年。兩地相思恨。難成一夜眠。
+korean:
+  title: 정대사
+  author: 김익정
+  language: kor
+  text: |-
+    돌아가려도 돌아가지 못하노니
+    사람 일이 괴롭게 서로 끌리네
+    돌고 돌아 길은 어이 그리 멀어
+    머뭇 머뭇 말은 가지않네
+    가을 바람은 지는 잎을 재촉하고
+    흰 털은 쇠잔한 나이를 알리네
+    두 땅에서 서로 생각하는 한으로
+    하룻밤 잠을 이루지 못한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1010&viewSync=OT
+  footnotes: []
+english:
+  title: Presented to the Grand Envoy
+  author: Kim Ik-jeong
+  language: eng
+  text: |-
+    I wish to return, yet return I cannot—
+    Human affairs bind me cruelly, pulling both ways.
+    The path winds on and on, ever more distant,
+    And my horse halts, reluctant to advance.
+
+    Autumn wind hastens the falling leaves,
+    White hair announces the coming of my final years.
+    From two distant lands, longing calls to longing,
+    And through the night, no sleep will come to me.
+  footnotes:
+  - key: ''
+    value: The poem appears to express the speaker's separation from someone of importance, likely the addressee, a high-ranking envoy. The work captures the poignant tension between duty and desire, between the constraints of circumstance and the yearning for return.
+  - key: ''
+    value: The imagery of autumn wind and falling leaves, combined with whitening hair, creates a meditation on transience and the fleeting nature of life—a common theme in classical East Asian poetry reflecting on separation and aging.

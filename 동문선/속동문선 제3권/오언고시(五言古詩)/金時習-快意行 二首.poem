@@ -1,0 +1,66 @@
+canonical:
+  title: 快意行 二首
+  author: 金時習
+  language: lzh
+  text: 我有幷州刀剪取滄溟水手探驪龍窟爭珠風浪裏巨浸凌大空電霓騰閃起將鬚摑其頷健奪然後喜我有一長劒紫氣凌斗牛一擬蒼崖裂再擊狻猊吼直走無當前旅拒無趕後盡芟不平者然後退靖守
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 快意行 二首
+  author: 金時習
+  language: lzh
+  text: 我有幷州刀。剪取滄溟水。手探驪龍窟。爭珠風浪裏。巨浸凌大空。電霓騰閃起。將鬚摑其頷。健奪然後喜。我有一長劒。紫氣凌斗牛。一擬蒼崖裂。再擊狻猊吼。直走無當前。旅拒無趕後。盡芟不平者。然後退靖守。
+korean:
+  title: 쾌의행 이수
+  author: 김시습
+  language: kor
+  text: |-
+    내가 가진 건 병주도
+    이 칼로 창해의 물을 썩 자르고
+    손으로 여룡의 글을 더듬어
+    풍랑 속에서 여의주를 다투니
+    큰 물결이 공중에 치솟고
+    번개와 무지개가 번쩍하누나
+    수염을 잡고 그 턱을 움키어
+    거뜬히 빼앗은 연후에야 기쁘리라
+    내가 가진 건 일장검
+    자색 기운이 두ㆍ우에 뻗치네
+    한 번 가리키니 창애가 쩍 갈라지고
+    두 번 치니 사자가 으르렁거리네
+    냅다 나가니 앞에 막을 자 없고
+    감히 항거하여 뒤를 막을 자 없네
+    불평한 놈들을 모두 무찔러버리고
+    연후에 물러와 고요히 지키려 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 병주도(幷州刀) : '
+    value: 병주의 가위(剪刀)가 유명하다.
+  - key: '[주-D002] 자색(紫色) …… 뻗치네 : '
+    value: 진(晋)나라 때에 장화(張華)와 뇌환(雷煥)이 천문을 본즉, 두성(斗星)과 우성(牛星) 사이에 붉은 기운이 뻗치었다. 뇌환이 말하기를, “이것은 보검(寶劒)의 기운이 땅에서 올라간 것인데 풍성(豊城) 땅에 있을 것이요.” 하였다. 장화는 곧 뇌환을 풍성령(豊城令)으로 보내었더니 과연 땅속에서 보검 두 자루를 파 내었다.
+english:
+  title: Two Poems on Unfettered Joy
+  author: Kim Sisŭp
+  language: eng
+  text: |-
+    I possess a blade of Bingzhou steel—
+    with it I cleave the vast blue waters,
+    my hand delves into the dragon's cave,
+    seizing pearls amid wind-tossed waves.
+    Giant swells surge toward the sky,
+    lightning and rainbow flash and dance—
+    I seize the whiskers, wrench the jaw,
+    and only then, triumphant, find my joy.
+
+    I possess a sword of transcendent length,
+    its violet aura stretches between the stars.
+    One thrust—the pale cliffs split asunder,
+    twice I strike—the beast roars and trembles.
+    Straight I advance with none to bar the way,
+    boldly I press on with none behind to stop me.
+    I sweep away all that is base and crooked,
+    then withdraw at last to dwell in peace.
+  footnotes:
+  - key: ''
+    value: The Bingzhou blade was renowned in antiquity for its exceptional craftsmanship, particularly its scissors.
+  - key: ''
+    value: 'This alludes to a famous legend from the Jin Dynasty: the astronomer Zhang Hua and Lei Huan observed a purple aura emanating between the stars of the Big Dipper and the Bull, which they recognized as the spiritual essence of a legendary sword buried beneath Fengcheng. Upon excavation, two sacred swords were indeed discovered.'

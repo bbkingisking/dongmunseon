@@ -1,0 +1,50 @@
+canonical:
+  title: 傷春二首
+  author: 申從濩
+  language: lzh
+  text: 茶甌飮罷睡初輕隔屋聞吹紫玉笙燕子不來鶯又去滿庭紅雨落無聲粉墻西面夕陽紅飛絮紛紛撲馬鬃夢裏韶華愁裏過一年春事棟花風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 傷春二首
+  author: 申從濩
+  language: lzh
+  text: 茶甌飮罷睡初輕。隔屋聞吹紫玉笙。燕子不來鶯又去。滿庭紅雨落無聲。粉墻西面夕陽紅。飛絮紛紛撲馬鬃。夢裏韶華愁裏過。一年春事棟花風。
+korean:
+  title: 상춘 이수
+  author: 신종호
+  language: kor
+  text: |-
+    차 끓여 마신 뒤에 조름이 가벼울 제
+    부러운 옥피리 소리 담을 격해 들리누나
+    제비는 오지 않고 꾀꼬리 마저 가곤
+    뜰에 가득 찬 붉은 비는 소리 없이 지는구나
+    분장 서녘에 석양이 붉어 있고
+    버들꽃 어지러이 말 머리를 치는고나
+    꿈속에 그 번화는 시름 속에 지나가곤
+    일 년 봄철은 개나리꽃 바람 이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0220&viewSync=OT
+  footnotes: []
+english:
+  title: 'Lamenting Spring: Two Poems'
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    I.
+    After steeping tea, I drift toward slumber's gentle veil,
+    Beyond the wall, a jade flute's song pierces through—
+    The swallows do not come, the oriole has fled,
+    And crimson petals fall through the courtyard without sound.
+
+    II.
+    The western wall glows ruddy in the fading light,
+    Fluffy catkins swirl and strike the horse's mane.
+    In dreams, spring's beauty passes through my sorrow,
+    And all the year's spring fades upon the forsythia wind.
+  footnotes:
+  - key: ''
+    value: The jade flute (玉笙) is a traditional Chinese musical instrument, symbolizing refinement and distant beauty
+  - key: ''
+    value: The swallows and oriole represent the passage of spring and the speaker's sense of loss
+  - key: ''
+    value: The crimson rain of petals is a classic image of spring's transience in East Asian poetry

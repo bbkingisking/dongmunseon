@@ -1,0 +1,42 @@
+canonical:
+  title: 肅王遺敎
+  author: 金綠
+  language: lzh
+  text: 敎宰臣魏繼廷已下文武百寮僧俗耆老朕以涼薄之德嗣守大業永惟萬事之統不遑一日之安躬攬庶政至于宵旰者十有餘載思與中外之人共躋仁壽之域奈何憂勞成疾遂至彌留天命難謀任適短長之分邦基至重敢忘顧囑之勤王太子仁義孝友本乎生知溫慈惠和副於民望宜於柩前便卽君位凡軍國賞罰大事一稟嗣君處分方鎭州牧只於本處擧哀不得擅離理所喪服之制以日易月山陵制度務從儉約嗚呼知始終之期逝者以之無憾講久長之策存者不可傷生尙賴股肱大臣百壁卿士同輸忠力協輔王室使我國祚垂于無窮朕雖瞑目心則足矣布告國內明知朕意
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 肅王遺敎
+  author: 金綠
+  language: lzh
+  text: 敎宰臣魏繼廷已下文武百寮僧俗耆老。朕以涼薄之德。嗣守大業。永惟萬事之統。不遑一日之安。躬攬庶政。至于宵旰者。十有餘載。思與中外之人。共躋仁壽之域。奈何憂勞成疾。遂至彌留。天命難謀。任適短長之分。邦基至重。敢忘顧囑之勤。王太子仁義孝友。本乎生知。溫慈惠和。副於民望。宜於柩前。便卽君位。凡軍國賞罰大事。一稟嗣君處分。方鎭州牧。只於本處擧哀。不得擅離理所。喪服之制。以日易月。山陵制度。務從儉約。嗚呼。知始終之期。逝者以之無憾。講久長之策。存者不可傷生。尙賴股肱大臣百壁卿士。同輸忠力。協輔王室。使我國祚。垂于無窮。朕雖瞑目。心則足矣。布告國內。明知朕意。
+korean:
+  title: 숙왕 유교
+  author: 김록
+  language: kor
+  text: 재신(宰臣)위계정(魏繼廷) 이하 문무 백관과 승(僧)과 속(俗)의 기로(耆老)에게 교한다.짐이 얕은 덕으로 왕업을 이어 지키면서 만 가지 정사의 통치를 길이 생각하매 하루도 편안할 겨를이 없었다. 몸소 여러 정무를 총찰하느라 밤낮 없이 애쓴 지가 10여 년이 되었다. 안팎의 사람이 함께 태평의 지경에 오르기를 생각하였는데, 근심하고 노고한 것이 병이 되어서 드디어 오래 눕게 되었으니, 어찌하겠는가. 천명은 임의대로 하기 어려우니 짧고 긴 것을 분수에 맡기었고, 나라의 기업이 지극히 중하니 감히 후사를 부탁하기를 잊으랴.왕태자는 인의와 효우를 나면서 타고났고, 온화하고 자혜함이 사람들의 기대에 맞으니, 널 앞에서 즉위하여도 마땅할 것이다. 군국(軍國)이나 상벌(賞罰)에 대한 큰 일은 모두 사군(嗣君)의 처분을 품고, 방진(方鎭)과 주목(州牧)은 다만 본고장에서 거애(擧哀)하여 함부로 임소를 떠나지 말라. 상복의 제도는 날짜로써 달을 바꾸고산릉(山陵)의 제도는 되도록 검약을 따를 것이다.슬프다, 시(始)와 종(終)이 있음을 알았으니 가는 자는 유감이 없도다. 장구한 계책을 강구하여야 하나니 산 사람은 애통으로 생(生)을 해쳐서는 안 된다. 팔다리 같은 대신과 여러 백관들이 함께 충성과 힘을 다해 왕실을 보좌하여 우리나라 국운으로 하여금 영원무궁토록 누리게 하라. 그러면 짐이 비록 눈을 감더라도 마음은 만족할 것이다. 국내에 포고하노니 짐의 뜻을 밝게 알지어다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0260_020_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 거애(擧哀) : '
+    value: 국상(國喪)이 있을 때에 망곡(望哭)을 행하고 복을 입는 것이다.
+  - key: '[주-D002] 상복의 …… 바꾸고 : '
+    value: 삼년상(三年喪)을 달수로 치면 24개월인데, 그것을 날로 바꾸어서 24일 동안 상복을 입는 것이다.
+english:
+  title: The Last Testament of King Suk
+  author: Kim Nok
+  language: eng
+  text: |-
+    I proclaim to the ministers and officials of military and civil rank, and to the monks, laypeople, and elders of the realm:
+
+    Though my virtue is shallow, I have inherited and guarded the great work of governance. Endless have been my meditations on the ordering of ten thousand affairs, and not a single day has known me at ease. With my own hands I have managed the manifold duties of state, laboring without respite through countless nights and days for more than a decade. I dreamed that all people, both near and far, might ascend together to the realm of peace and longevity. Yet worry and toil have turned to sickness, and now I lie prolonged in bed. The mandate of Heaven is not mine to command—I surrender to fate's allotment of long and short. The foundation of our nation weighs heavy upon me; how could I forget to entrust its future care?
+
+    The Crown Prince possesses benevolence, righteousness, filial piety, and fraternal love as his innate nature. His warmth, compassion, and harmony accord with the people's hopes. It is fitting that he ascend to the throne even before my coffin.
+
+    In all matters of state—rewards and punishments, great decisions—let the heir alone determine. The regional commanders and provincial governors shall observe mourning rites only in their own jurisdictions; none shall presume to leave their posts. Let the period of mourning robes be measured in days rather than months. Let the mountain tomb be built with frugality as our guide.
+
+    Ah, knowing that all things have their beginning and end, the departed go without regret. Yet we must devise policies for enduring prosperity—let not the living wound themselves with excessive grief. I rely upon my ministers and officials, as steadfast as limbs and joints, to unite their loyalty and strength in support of the throne, that our nation's fortune may flourish eternal. Though my eyes close, my heart shall rest content. Let this proclamation reach all the realm, and may all understand my will.
+  footnotes:
+  - key: ''
+    value: Mourning rites included lamentation and the wearing of hemp garments during the period of state funeral.
+  - key: ''
+    value: Traditional mourning lasted three years (36 months), but this decree reduces it to twenty-four days.

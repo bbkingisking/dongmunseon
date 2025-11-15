@@ -1,0 +1,36 @@
+canonical:
+  title: 謝御酒御衣起居表
+  author: 李穡
+  language: lzh
+  text: 身居鰈域偏承雨露之恩目注龍墀倍祝岡陵之壽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝御酒御衣起居表
+  author: 李穡
+  language: lzh
+  text: 身居鰈域。偏承雨露之恩。目注龍墀。倍祝岡陵之壽。
+korean:
+  title: 술과 의복을 내려준 데 대하여 사례하는 글
+  author: 이색
+  language: kor
+  text: 몸이 동쪽 지경에 거하면서 편벽되게 우로(雨露)의 은혜를 받았고, 눈이 황제의 뜰을 바라보매 배나 강릉(岡陵)의 수를 축원하옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0410_010_0020&viewSync=OT
+  footnotes: []
+english:
+  title: A Memento of Thanks for the Royal Wine and Robes
+  author: Lee Saek
+  language: eng
+  text: |-
+    My body dwells in these eastern lands,
+    yet I receive the sovereign's rain and dew with undeserved abundance.
+    My eyes turn toward the dragon throne,
+    and my heart doubles its prayers for the emperor's longevity—
+    may the hills of his fortune stand eternal.
+  footnotes:
+  - key: ''
+    value: Rain and dew (雨露) is a classical metaphor for the emperor's benevolence and grace dispensed upon his subjects.
+  - key: ''
+    value: The dragon throne refers to the imperial court, using the traditional symbol of imperial authority.
+  - key: ''
+    value: 岡陵 (Gangneung/the hills) alludes to the Taoist concept of celestial mountains and immortality, here expressing wishes for the ruler's eternal prosperity.

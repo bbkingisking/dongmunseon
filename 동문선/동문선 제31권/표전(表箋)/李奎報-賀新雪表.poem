@@ -1,0 +1,40 @@
+canonical:
+  title: 賀新雪表
+  author: 李奎報
+  language: lzh
+  text: 云云首冬開候膏澤應期凡屬照臨擧增慶抃中賀 恭惟聖上陛下仁霶民宇德動天心氣順四時允協在衡之政花飛六出寔呈盈尺之祥霑周農畝之蘇飄趁賀班之舞伏念臣等論思忝位燮理無能幸觀大有之徵第頌難名之道
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀新雪表
+  author: 李奎報
+  language: lzh
+  text: 云云。首冬開候。膏澤應期。凡屬照臨。擧增慶抃。中賀。 恭惟聖上陛下。仁霶民宇。德動天心。氣順四時。允協在衡之政。花飛六出。寔呈盈尺之祥。霑周農畝之蘇。飄趁賀班之舞。伏念臣等。論思忝位。燮理無能。幸觀大有之徵。第頌難名之道。
+korean:
+  title: 하 신설 표
+  author: 이규보
+  language: kor
+  text: 운운.초겨울이 시작되자 때맞추어 고택(膏澤)이 내리니, 해와 달이 조림(照臨)하는 곳에 만민(萬民)이 경사로이 춤추오이다. 중하(中賀) 공손히 생각건대, 성상(聖上)폐하께서 어지심이 민생(民生)을 적시고, 성덕(聖德)이 하늘의 마음을 움직이시어 사시(四時)에 천기가 순하여 재형(在衡)의 정사에 들어맞고 육화(六花 눈)가 분분히 내려 한 자나 쌓이는 상서를 보이니 농토를 두루 적시어 말라죽던 보리싹을 소생시켰으므로 조정 신하들이 하반(賀班)에 달려가 펄펄 춤을 춥니다. 엎드려 생각건대, 신등은 외람되이 논사(論思)의 위(位)에 있어 섭리(燮理)에 무능하오나, 다행히 대유(大有)의 징조를 보고 명상(名狀)키 어려운 도(道)를 기리나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0530&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대유(大有) : '
+    value: 역(易)의 괘명(卦名), 곧 화(火)ㆍ천(天)ㆍ이상(离上)ㆍ건하(乾下). 《周易 大有)》그러나 여기서는 풍년의 뜻.
+  - key: '[주-D002] 명상(名狀)키 어려운 도(道) : '
+    value: 자연의 섭리는 명상(名狀)키 어려움. 《老子》
+english:
+  title: Memorial on the Blessing of Fresh Snow
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    As early winter arrives, timely grace descends upon the earth. Beneath the radiance of sun and moon, all people rejoice and dance.
+
+    In respectful commemoration:
+
+    Your Sacred Majesty rules with compassion that nourishes the people, and your virtue stirs the very heart of Heaven. The vital energies flow in harmony with the four seasons, aligning perfectly with balanced governance. Snowflakes fall in six-pointed designs, manifesting auspicious signs reaching more than a foot in depth. The frozen fields are revived, parched seedlings drink their fill, and courtly ministers hasten to the celebration, dancing in jubilation.
+
+    Your servant humbly reflects that though I hold position among those who deliberate and advise, I am without merit in the work of harmonizing and governing. Yet by great fortune, we witness signs of abundant harvest, and praise that boundless way which transcends all naming.
+  footnotes:
+  - key: ''
+    value: The 'signs of abundant harvest' (大有) alludes to the I Ching hexagram of the same name, traditionally associated with great plenty and prosperity.
+  - key: ''
+    value: The phrase 'that boundless way which transcends all naming' echoes the Taoist principle that the deepest truths of nature cannot be adequately expressed in words.

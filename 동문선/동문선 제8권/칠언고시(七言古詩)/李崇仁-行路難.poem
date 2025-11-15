@@ -1,0 +1,49 @@
+canonical:
+  title: 行路難
+  author: 李崇仁
+  language: lzh
+  text: 行路難行路難我今一鳴君一顧平時坦途盡荊棘白日大都見豺虎萬慮燒胸膓欲爛聽雞未禁中夜舞明朝出門將安如水能覆舟山催車君不見長安陌上富貴兒終然不讀一卷書
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 行路難
+  author: 李崇仁
+  language: lzh
+  text: 行路難行路難。我今一鳴君一顧。平時坦途盡荊棘。白日大都見豺虎。萬慮燒胸膓欲爛。聽雞未禁中夜舞。明朝出門將安如。水能覆舟山催車。君不見長安陌上富貴兒。終然不讀一卷書。
+korean:
+  title: 행로난
+  author: 이숭인
+  language: kor
+  text: |-
+    길가기 어려워 길가기 어려워
+    내 이제 한 번 울면, 그대 한 번 돌아보소
+    평시의 탄탄한 길도 다 가시덤불
+    대낮 큰 도시에도 늑대ㆍ범들 욱실득실
+    만 가지 생각이 가슴을 태워 창자가 무너지는데
+    닭의 울음 들리니 한밤중에 일어나 춤출 수밖에
+    날이 밝자 문을 나서 어디로 가려는고
+    물은 배를 엎어뜨리고 산은 수레를 망가치네
+    그대들은 못 보았나, 장안 거리 하고많은 부귀아들
+    평생에 한 권 책조차 안 읽었다 하는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: The Difficulty of the Road
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Difficult, so difficult is the road ahead.
+    If I cry out once, will you turn to look at me once?
+    Even the smooth paths of peacetime are choked with thorns,
+    And in the bright daylight of the great city, wolves and tigers prowl.
+    A thousand worries burn my breast, my entrails crumble,
+    Yet hearing the rooster's call, I cannot help but dance at midnight.
+    When dawn breaks and I step through the door, where can I go?
+    Water overturns the boat, mountains shatter the cart.
+    Have you not seen the wealthy sons of Chang'an's streets,
+    Who lived their whole lives without reading a single book?
+  footnotes:
+  - key: ''
+    value: Chang'an refers to the ancient capital, here symbolizing the centers of power and wealth where conventional success is measured
+  - key: ''
+    value: The image of dancing at midnight despite anxiety suggests the paradox of compelled joy or restlessness in the face of life's uncertainties

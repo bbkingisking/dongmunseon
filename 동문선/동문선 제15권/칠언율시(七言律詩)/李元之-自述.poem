@@ -1,0 +1,58 @@
+canonical:
+  title: 自述
+  author: 李元之
+  language: lzh
+  text: 宋都六鷁敢圖前鼈縮蝸廬度歲年老病相侵何力濟優閑自任要身全窮途脚底藍關雪謬筭胷中杞國天龜木幸逢知我鮑白頭猶未賦歸田
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自述
+  author: 李元之
+  language: lzh
+  text: 宋都六鷁敢圖前。鼈縮蝸廬度歲年。老病相侵何力濟。優閑自任要身全。窮途脚底藍關雪。謬筭胷中杞國天。龜木幸逢知我鮑。白頭猶未賦歸田。
+korean:
+  title: 자술
+  author: 이원지
+  language: kor
+  text: |-
+    송도의 여섯 익이 감히 앞을 모도하리
+    달팽이 집에 자라처럼 움츠리고 해 보내네
+    늘그막에 병 얻으니 무슨 힘으로 건지랴마는
+    한가히 그렁저렁 몸이나 온전히 하리라
+    길 궁한 신세는 말 앞에 남관의 눈
+    오산은 가슴속의 기국의 하늘
+    거북같이 둔한 몸이 다행 포숙을 만나서
+    머리가 다 희어지도록 귀전부를 못 짓네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 송도(宋都)의 여섯 익(鷁) : '
+    value: 《춘추》에, “여섯 마리 날아 송나라 수도를 지나가다[六鷁退飛 過宋都].”라는 기사(記事)가 있는데, 여기의 뜻은 출세하지 못하고 후퇴(後退)만 한다는 것이다.
+  - key: '[주-D002] 남관(藍關)의 눈 : '
+    value: 당(唐)나라 한유(韓愈)가 불골표(佛骨表)를 드리고 멀리 조주(潮州) 8천 리를 귀양가서 지은 시의 한 연(聯). “구름이 진령(秦嶺)에 비꼈는데 집은 어디에 있는고. 눈이 남관(藍關)에 쌓였는데 말도 걸음을 못 걷는다[雲橫泰嶺家何在 雪擁藍關馬不前].” 했다.
+  - key: '[주-D003] 기국(杞國)의 하늘 : '
+    value: 기국의 어떤 사람이 하늘이 무너지고 땅이 꺼져 몸을 부칠 때가 없을까 조심하여 침식을 폐하였다는 옛말이 있다.
+  - key: '[주-D004] 포숙(鮑叔) : '
+    value: 춘추(春秋) 시대 때 제(齊)나라의 대부(大夫)로 관중(管仲)과 친하여 가난한 그에게 재물을 나누어주고 그가 갇히었을 때 환공(桓公)에게 천거하여 석방되게 하고, 환공을 도와 패업을 이루게 했다. 관중이 술회한 말에, “나를 낳은 이는 부모이며, 나를 알아준 자는 포숙이다.” 하였다.
+english:
+  title: Self-Portrait
+  author: Lee Won-ji
+  language: eng
+  text: |-
+    Six herons flee backward past the capital of Song—
+    I draw myself small as a snail within my modest shell, spending my years.
+    Old age and sickness conspire against me; what strength have I to resist?
+    Yet I find peace in this idleness, asking only that my body remain whole.
+
+    On the road's end, beneath my feet lies snow at Blue Pass,
+    While anxious thoughts fill my chest like the falling sky of Chi.
+    Fortunate this dull turtle-self to have met a Bao Shu,
+    Yet with whitened head, I never wrote my song of return to the fields.
+  footnotes:
+  - key: ''
+    value: 'The six herons: A reference to the Spring and Autumn Annals, where six cranes fly backward over Song''s capital—a symbol of retreat and failure to advance in the world.'
+  - key: ''
+    value: 'Snow at Blue Pass: An allusion to Han Yu''s famous poem about his exile to Chaozhou during the Tang dynasty, expressing hardship and displacement on one''s journey.'
+  - key: ''
+    value: 'The falling sky of Chi: An ancient tale of a man from the state of Chi so worried that heaven might collapse and earth cave in that he lost his appetite—here representing groundless anxiety and worry.'
+  - key: ''
+    value: 'Bao Shu: A great minister of Qi during the Spring and Autumn period, known for recognizing talent and generously aiding the poor Guan Zhong, later saying ''My parents gave me birth, but Bao Shu knew me.'' Here, a metaphor for one who truly understands and values us.'

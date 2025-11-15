@@ -1,0 +1,52 @@
+canonical:
+  title: 寄呈天嶺曹使君 大虛 二首
+  author: 兪好仁
+  language: lzh
+  text: 儒仙一去杳芳塵千古分留物色新學士樓名誰管得玉堂前後兩詞臣泠風沆瀣訪浮丘鐵笛曾攀鶴洞秋收取烟霞成一集篋中磅礴㹅頭流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄呈天嶺曹使君 大虛 二首
+  author: 兪好仁
+  language: lzh
+  text: 儒仙一去杳芳塵。千古分留物色新。學士樓名誰管得。玉堂前後兩詞臣。泠風沆瀣訪浮丘。鐵笛曾攀鶴洞秋。收取烟霞成一集。篋中磅礴㹅頭流。
+korean:
+  title: 기정 천령조사군 대허 이수
+  author: 유호인
+  language: kor
+  text: |-
+    유선이 한번 가자 꽃다운 티끌 아득하곤
+    물색만 남겨 두어 천고에 새로워라
+    학사루 그 이름을 뉘라서 관령하리
+    옥당에 두 사신이 앞뒤에 잇따랐네
+    서늘 바람 바닷기운 부구(옛 신선)를 찾았더니
+    쇠피리 불며 예던 일은 학동의 가을
+    연기와 놀을 모아 한 시집을 이룩하니
+    상자속 두둑한 것 모두가 두류산일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Two Poems Presented to Administrator Cao of Tianling, Called 'The Great Void'
+  author: Yu Hoin
+  language: eng
+  text: |-
+    I.
+
+    When the sage-poet departed, the fragrant dust grew distant and dim,
+    Leaving only the hues of nature to renew through ages eternal.
+    Who can claim stewardship of Scholar's Tower's name?
+    Two imperial ministers walk before and behind the Jade Hall.
+
+    II.
+
+    A cool wind and sea-breath seek the ancient immortal,
+    The iron flute that once played where cranes danced in autumn at their grotto—
+    Gather mist and rosy clouds into a single collection,
+    And all that fills the casket becomes the very substance of Duru Mountain.
+  footnotes:
+  - key: ''
+    value: Scholar's Tower (學士樓) and Jade Hall (玉堂) are references to literary and official institutions, here invoking the memory of great poets and administrators of the past.
+  - key: ''
+    value: The 'sage-poet' (儒仙) represents an ideal figure embodying both Confucian virtue and transcendent wisdom, whose departure marks the beginning of a new era.
+  - key: ''
+    value: Duru Mountain (頭流) in the final line suggests both a physical place and a metaphorical repository of poetic inspiration and natural beauty.

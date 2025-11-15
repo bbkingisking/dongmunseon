@@ -1,0 +1,61 @@
+canonical:
+  title: 迦葉庵
+  author: 曺偉
+  language: lzh
+  text: 連筒泉水出嵓腹來瀉庵前寒更淥山僧掬飮慰朝飢淸甘遠勝康王谷客至呼僧烹日注活火風爐飜雪乳誰持三椀寄盧仝更將絶品誇陸羽平生厭食幾斗塵肺枯吻渴無由津花甌快傾如卷雪頓覺六用俱淸新
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 迦葉庵
+  author: 曺偉
+  language: lzh
+  text: 連筒泉水出嵓腹。來瀉庵前寒更淥。山僧掬飮慰朝飢。淸甘遠勝康王谷。客至呼僧烹日注。活火風爐飜雪乳。誰持三椀寄盧仝。更將絶品誇陸羽。平生厭食幾斗塵。肺枯吻渴無由津。花甌快傾如卷雪。頓覺六用俱淸新。
+korean:
+  title: 가섭암
+  author: 조위
+  language: kor
+  text: |-
+    줄줄 샘물이 바위에서 나와
+    암자 앞에 쏟아지니 써늘하고 맑아라
+    산승이 움켜 마셔 아침에 요기하니
+    맑고도 단맛이 강왕곡 샘물보다 훨씬 낫네
+    객이 오면 중 불러 날마다 차를 끓여
+    풍로 센 불에 백비탕을 번득이네
+    누가 세 사발을 노동에게 부치며
+    다시 절품으로 육우에게 자랑할까
+    내가 평생에 먼지 몇 말을 먹어
+    폐가 시들고 입술이 말라 윤기가 없더니
+    꽃잔에 쾌히 눈 같은 차를 기울이자
+    오장육부가 모두 청신해지네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 노동(盧仝) : '
+    value: 당(唐)나라의 시인(詩人). 차[茶]의 품평(品評)을 잘했으며 다가(茶歌)로 유명했다.
+  - key: '[주-D002] 육우(陸羽) : '
+    value: 당나라의 은사(隱士). 차를 즐겨 다경(茶經) 3편을 지어 천하의 다풍(茶風)을 일으켰다.
+english:
+  title: Kashyapa Hermitage
+  author: Cho Wei
+  language: eng
+  text: |-
+    A spring runs thread-like from the stone's belly,
+    pouring before the hermitage—cold and crystalline.
+    The mountain monk cups it in his palms to break his morning fast;
+    its clarity and sweetness far surpass the waters of King Kang's valley.
+
+    When guests arrive, he calls the monk to brew the daily brew,
+    and the fierce flame dances white like freshly fallen snow.
+    Who would send three bowls to Lu Tong
+    and boast of such supreme quality to Lu Yu himself?
+
+    A lifetime I have swallowed dust by the handful,
+    my lungs withered, my lips parched and wan.
+    But now I tilt the flowered cup, pouring snow-like tea with joy—
+    and suddenly the five organs and six entrails shine clean and new.
+  footnotes:
+  - key: ''
+    value: Lu Tong was a Tang dynasty poet renowned for his tea appreciation and his celebrated 'Song of Tea.'
+  - key: ''
+    value: Lu Yu was a Tang dynasty recluse who authored the Three Chapters of the Tea Classic, establishing refined tea culture throughout the realm.
+  - key: ''
+    value: King Kang's valley refers to a legendary spring of exceptional purity, used here as the standard of excellence.

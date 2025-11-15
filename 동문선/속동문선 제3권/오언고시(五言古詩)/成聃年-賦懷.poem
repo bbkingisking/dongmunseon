@@ -1,0 +1,83 @@
+canonical:
+  title: 賦懷
+  author: 成聃年
+  language: lzh
+  text: 弊廬卜南山淸幽性所僻愛月步松逕看雲坐苔石情興因所遇往來任自適連日雨霏霏雲烟宿簷角今朝忽復晴空翠濃欲滴松蹊風露淨石澗淸流聒酒伴亦不來小齋益淸寂哦懷欲就句調琴未成曲大知無閑忙小知形所役累日無卯酉舊閒聊復得閒懶是眞境眞境本無物只有輞川興散步自怡悅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賦懷
+  author: 成聃年
+  language: lzh
+  text: 弊廬卜南山。淸幽性所僻。愛月步松逕。看雲坐苔石。情興因所遇。往來任自適。連日雨霏霏。雲烟宿簷角。今朝忽復晴。空翠濃欲滴。松蹊風露淨。石澗淸流聒。酒伴亦不來。小齋益淸寂。哦懷欲就句。調琴未成曲。大知無閑忙。小知形所役。累日無卯酉。舊閒聊復得。閒懶是眞境。眞境本無物。只有輞川興。散步自怡悅。
+korean:
+  title: 부회
+  author: 성담년
+  language: kor
+  text: |-
+    남산에 지은 초가집 한 채
+    내 천성이 그윽한 데를 좋아하네
+    달을 사랑하여 소나무길에 걷고
+    구름을 보며 이끼돌에 앉으니
+    만나는 대로 정흥이 일고
+    오락가락 멋대로 노니네
+    며칠 동안 비가 부슬부슬
+    처마 끝에 구름이 자욱하더니
+    오늘 아침엔 문득 다시 개어서
+    푸른 기운이 짙어 뚝뚝 듣는 듯하구나
+    소나무길에 이슬이 산뜻하고
+    돌시내에 맑은 물이 떠들썩한데
+    오늘 따라 술벗도 오지 않으니
+    작은 서재가 더욱 고요하구나
+    회포를 읊어서 사나 한 귀 지어볼까
+    거문고 줄 골라도 곡조가 안 되네
+    대지는 원래 한가함과 바쁨이 없고
+    소지는 노상 외물에 시달리는데
+    나는 여러 날 묘유 없으니
+    옛날의 한가함을 다시 얻었네
+    한가함과 게으름이 진경
+    진경은 본시 물이 없는 법
+    있는 건 다만 망천의 흥뿐
+    멋대로 산보하며 나 혼자 즐기네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 묘유(卯酉) : '
+    value: 묘시(卯時)에 출근하고 유시(酉時)에 퇴근하는 것.
+  - key: '[주-D002] 망천(輞川) : '
+    value: 당나라 왕마힐(王摩詰)이 망천(輞川)에 별장을 두었었는데, 산수가 아름다워 시를 짓고 그림을 그려서 전하였다.
+english:
+  title: Meditation on Dwelling
+  author: Seong Dam-nyeon
+  language: eng
+  text: |-
+    A thatched cottage sits nestled on South Mountain's slope,
+    Where solitude and quietude have drawn my native spirit.
+    I wander the pine-shadowed paths beneath the moon,
+    And perch upon moss-covered stones to watch the clouds drift by.
+    My heart stirs with each encounter, each moment as it comes,
+    And I drift freely, content in my own unplanned wanderings.
+
+    For days the rain fell soft and fine,
+    Mist and vapor clinging to the eaves.
+    But this morning the sky cleared suddenly,
+    And the verdant air grows so thick it seems to drip.
+    The pine paths gleam fresh with dew and wind,
+    While the stone ravine rushes with crystal water.
+    Yet my drinking companion does not come today,
+    And my small study grows ever more still.
+
+    I turn over words, hoping to complete a verse,
+    But my fingers stumble on the qin, the melody unfinished.
+    The great sage knows neither leisure nor labor,
+    While the petty spirit endlessly serves external things.
+    I have forgotten the rhythm of dawn and dusk,
+    Yet somehow have recovered that old tranquility.
+    For quietude and sloth are the true landscape,
+    And the true landscape contains nothing at all—
+    Only the spirit of Wangchuan remains,
+    As I wander freely, delighting in solitude.
+  footnotes:
+  - key: ''
+    value: 'Wangchuan: The mountain retreat of the Tang poet-painter Wang Wei, celebrated as a place of natural beauty and artistic inspiration, symbolizing the ideal of cultivating refinement through communion with nature.'
+  - key: ''
+    value: The closing image evokes the poet's aspiration to achieve the serene aesthetic mastery exemplified by Wang Wei's artistic legacy.

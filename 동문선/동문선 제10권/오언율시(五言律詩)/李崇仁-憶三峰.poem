@@ -1,0 +1,49 @@
+canonical:
+  title: 憶三峰
+  author: 李崇仁
+  language: lzh
+  text: 不見鄭生久秋風又颯然新篇最堪誦狂態更誰怜天地容吾輩江湖臥數年相思渺何限極目斷鴻邊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 憶三峰
+  author: 李崇仁
+  language: lzh
+  text: 不見鄭生久。秋風又颯然。新篇最堪誦。狂態更誰怜。天地容吾輩。江湖臥數年。相思渺何限。極目斷鴻邊。
+korean:
+  title: 억 삼봉
+  author: 이숭인
+  language: kor
+  text: |-
+    정생을 보지 못한 지 오래인데
+    가을 바람은 또 우수수 하누나
+    새 시구는 가장 외울 만하고
+    광태는 누가 다시 어여삐 여기리오
+    천지가 우리에게
+    강호에 두어 해 누었기를 허용했네
+    서로 생각하니 아득하기만
+    눈은 기러기 나는 먼 하늘 가에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0430&viewSync=OT
+  footnotes: []
+english:
+  title: Remembering Three Peaks
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Long it has been since I saw Jeong the scholar.
+    Again the autumn wind sighs through the trees.
+    Your new verses are worth learning by heart,
+    Yet who will cherish such wild, unbridled ways?
+
+    Heaven and earth have granted us
+    To slumber in rivers and lakes these many years.
+    Our mutual longing stretches boundless—
+    My gaze reaches only to the far edge of sky
+    where wild geese disappear.
+  footnotes:
+  - key: ''
+    value: Jeong the scholar (鄭生) likely refers to a friend or fellow poet whom the author has not seen for an extended period.
+  - key: ''
+    value: The 'wild, unbridled ways' (狂態) reflects the Daoist and Chan Buddhist aesthetics popular among literati, suggesting a life of artistic freedom rather than conventional society.
+  - key: ''
+    value: The closing image of wild geese flying toward the horizon is a classical poetic symbol for distance, separation, and the passage of time.

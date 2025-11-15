@@ -1,0 +1,54 @@
+canonical:
+  title: 次韻答淳夫
+  author: 曺偉
+  language: lzh
+  text: 嗣宗非達士何用哭途窮世固遺神驥人多好畫龍飢鳶鳴曉日健鶻下秋風寂寞草玄子長楊獻賦翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻答淳夫
+  author: 曺偉
+  language: lzh
+  text: 嗣宗非達士。何用哭途窮。世固遺神驥。人多好畫龍。飢鳶鳴曉日。健鶻下秋風。寂寞草玄子。長楊獻賦翁。
+korean:
+  title: 차운 답 순부
+  author: 조위
+  language: kor
+  text: |-
+    사종은 달사가 아니거니
+    궁한 길에서 무엇하러 우는가
+    세상에는 진실로 신가가 남아 있고
+    사람들은 그린 용을 많이 좋아한다
+    굶주린 소리개는 새벽에 울고
+    건장한 산비둘기는 가을 바람에 내린다
+    적막하여라 현을 쓰는 사람이요
+    장양에는 시 짓는 늙은이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사종(嗣宗) : '
+    value: 진(晉)나라의 완적(阮籍)의 자가 사종이다. 그는 세상 일을 피하노라고 술을 많이 먹고 취한 것으로 세상을 속였다. 그는 가다가 길이 막히면 통곡하고 돌아왔다 한다.
+  - key: '[주-D002] 적막하여라 현(玄)을 쓰는 사람이요 : '
+    value: 한(漢)나라의 양웅(揚雄)이 큰 학문과 문장이면서 적막하게 들어 앉아서 태현(太玄)이라는 글을 저술하였다.
+  - key: '[주-D003] 장양(長楊)에는 시 짓는 늙은이다 : '
+    value: 한나라의 사마상여(司馬相如)가 장양부(長楊賦)라는 부를 지었다.
+english:
+  title: In Response to Sunbu, Following His Rhyme Scheme
+  author: Cho Wi
+  language: eng
+  text: |-
+    Sichong was no sage who understood the Way—
+    why weep upon a road of destitution?
+    True, the world still holds celestial steeds,
+    yet men prefer their dragons sketched on silk.
+
+    A starving kite cries out at break of day,
+    a robust hawk descends upon the autumn wind.
+    Solitary sits the scholar of the Mystery,
+    while in Long Yang the aged poet crafts his song.
+  footnotes:
+  - key: ''
+    value: Sichong (嗣宗) refers to Ruan Ji of the Jin Dynasty, who evaded worldly affairs through drink and feigned intoxication. Legend tells that when blocked by an impassable road, he would weep bitterly and turn back.
+  - key: ''
+    value: The 'scholar of the Mystery' alludes to Yang Xiong of the Han Dynasty, whose great learning and literary talent led him to compose in solitude the profound work 'Tai Xuan' (太玄).
+  - key: ''
+    value: The 'poet in Long Yang' references Sima Xiangru of the Han, famed for composing the 'Long Yang Rhapsody' (長楊賦).

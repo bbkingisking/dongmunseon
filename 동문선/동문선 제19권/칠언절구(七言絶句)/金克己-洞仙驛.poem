@@ -1,0 +1,39 @@
+canonical:
+  title: 洞仙驛
+  author: 金克己
+  language: lzh
+  text: 竟日長吟蜀道難橫眠姑得一身閑却嫌枕上多情蝶千里殷勤訪故山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 洞仙驛
+  author: 金克己
+  language: lzh
+  text: 竟日長吟蜀道難。橫眠姑得一身閑。却嫌枕上多情蝶。千里殷勤訪故山。
+korean:
+  title: 동선역
+  author: 김극기
+  language: kor
+  text: |-
+    종일토록 촉도난(蜀道難)을 길게 읊고
+    뻗치고 한잠 자니 잠시 한 몸이 한가하네
+    베개 위의 다정한 나비가 도리어 혐의로워
+    천리에 은근히 고향을 찾아가네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0710&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 촉도난(蜀道難) : '
+    value: 촉중(蜀中)으로 가는 산길이 지극히 험하다. 이백(李白)이 지은 〈촉도난(蜀道難)〉이란 유명한 시가 있다.
+english:
+  title: Dongxian Station
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    All day I chant the difficulty of Shu's mountain roads,
+    Then stretch out for sleep—briefly my body knows rest.
+    Yet the tender butterfly upon my pillow stirs displeasure,
+    For earnestly it journeys a thousand miles toward my ancient hills.
+  footnotes:
+  - key: ''
+    value: '"The difficulty of Shu''s mountain roads" (蜀道難) refers to Li Bai''s famous poem of the same name, which describes the treacherous mountain passes leading into Shu. The poet recites this work throughout the day, perhaps meditating on the difficulty of the journey home.'
+  - key: ''
+    value: The butterfly serves as a poetic messenger—its diligent flight toward the old mountain home both attracts and troubles the speaker, as it represents a desire that cannot easily be fulfilled by one who remains still.

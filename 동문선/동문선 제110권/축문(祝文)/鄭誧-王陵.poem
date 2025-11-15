@@ -1,0 +1,43 @@
+canonical:
+  title: 王陵
+  author: 鄭誧
+  language: lzh
+  text: 農乃登穀歲聿其秋感時物而增懷思祖宗之勤敎稻粱黍稷不敢先甞蘊藻蘋蘩是用孝享歆玆中信裕我後昆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 王陵
+  author: 鄭誧
+  language: lzh
+  text: 農乃登穀。歲聿其秋。感時物而增懷。思祖宗之勤敎。稻粱黍稷。不敢先甞。蘊藻蘋蘩。是用孝享。歆玆中信。裕我後昆。
+korean:
+  title: 왕릉
+  author: 정포
+  language: kor
+  text: 농사에 곡식이 잘 익어, 해는 드디어 가을이 되었습니다. 시절을 느끼고 회포를 더하게 되매, 조종(祖宗)의 부지런하신 가르침을 생각합니다. 벼와 차조와 기장과 피를 감히 먼저 맛볼 수 없어, 마름[蘊藻]과 다북쑥을 함께 바치어 효성스럽게 제사를 드리오니, 이 마음속의 참됨을 흠향하시고 우리 후손들을 가멸게 하시옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0110&viewSync=OT
+  footnotes: []
+english:
+  title: At the Royal Tomb
+  author: Jung Po
+  language: eng
+  text: |-
+    The harvest ripens, grain bows heavy with blessing,
+    And autumn, at last, arrives at the year's turning.
+    Feeling the pulse of seasons, my heart swells with remembrance—
+    I think of my ancestors' diligent teaching, their careful way.
+
+    Rice and millet, sorghum and foxtail grain,
+    I dare not taste them first.
+    Instead, with water plants and fragrant mugwort gathered,
+    I offer them in reverent rite, my filial heart laid bare.
+
+    Accept this sincerity dwelling in my breast,
+    And bless our descendants with abundance everlasting.
+  footnotes:
+  - key: ''
+    value: The poem is written as an offering at an ancestral tomb during harvest season, expressing gratitude for ancestral guidance through the agricultural cycle.
+  - key: ''
+    value: The refusal to taste the new crops first reflects a Confucian virtue of filial piety—the harvest's first fruits belong to the ancestors who taught the way of cultivation.
+  - key: ''
+    value: The water plants (藻) and mugwort (蘩) are humble offerings that symbolize the purity of intention rather than material wealth.

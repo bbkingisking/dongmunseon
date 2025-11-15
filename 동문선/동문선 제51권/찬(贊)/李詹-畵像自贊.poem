@@ -1,0 +1,27 @@
+canonical:
+  title: 畵像自贊
+  author: 李詹
+  language: lzh
+  text: 這老漢爾無學術托跡斯文幸也爾無德業致位相君幸也爾無善慶繼緖子孫幸也嗚呼爾之幸也國家之不幸也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 畵像自贊
+  author: 李詹
+  language: lzh
+  text: 這老漢。爾無學術。托跡斯文幸也。爾無德業。致位相君幸也。爾無善慶。繼緖子孫幸也。嗚呼爾之幸也。國家之不幸也。
+korean:
+  title: 화상 자찬
+  author: 이첨
+  language: kor
+  text: 이 늙은 것아, 너는 학술이 없으면서 학문 가운데 끼이게 되었으니, 다행스러운 일이며, 너는 덕업(德業)이 없으면서 대신의 지위에 올랐으니 다행스러운 일이며, 네가 아무리 적선한 것도 없는데 계승할 자손이 있으니 다행이로다. 아아, 너의 다행은 국가로서 불행이로다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0350&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Inscription on My Portrait
+  author: Lee Cham
+  language: eng
+  text: You old man—lacking in learning, yet fortune granted you a place among the scholarly. Lacking in virtue and accomplishment, yet fortune raised you to the rank of minister. Lacking in any good deeds, yet fortune blessed you with descendants to carry on your line. Alas, what fortune is yours becomes the nation's misfortune.
+  footnotes:
+  - key: ''
+    value: 'This self-deprecating inscription reflects a common literary trope in East Asian portraiture, where the subject ironically catalogs their own inadequacies while acknowledging undeserved advancement. The poem''s power lies in its reversal: personal good fortune is presented as a social ill.'

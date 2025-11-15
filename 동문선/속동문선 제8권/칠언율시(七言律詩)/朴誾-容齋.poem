@@ -1,0 +1,47 @@
+canonical:
+  title: 容齋
+  author: 朴誾
+  language: lzh
+  text: 臨風高詠七言詩歲晩襟懷兩轉依我已思歸江海遠君今謝病往來稀早知有命非人力何遽將身與酒違嶺月籬花宵寂寂不堪愁緖作重圍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 容齋
+  author: 朴誾
+  language: lzh
+  text: 臨風高詠七言詩。歲晩襟懷兩轉依。我已思歸江海遠。君今謝病往來稀。早知有命非人力。何遽將身與酒違。嶺月籬花宵寂寂。不堪愁緖作重圍。
+korean:
+  title: 전날 보낸 시를 받으니 내 회포가 더욱 우울하여 오래도록 감히 화답하지 못하였으나 때때로 읊어보니 흥을 금할 수 없어서 시를 지어 용재
+  author: 박은
+  language: kor
+  text: |-
+    바람 앞에서 칠언의 시를 높이 읊노니
+    한 해가 저물 수록 둘이의 회포는 더욱 따르네
+    나는 이미 돌아가기를 생각했으니 강과 바다가 멀고
+    그대는 지금 병을 칭탁해 왕래가 드물구나
+    모든 일은 운명이요 사람의 힘이 아닌 것을 일찍 알았거니
+    어찌 갑자기 이 몸을 가지고 술과 서로 떠나랴
+    산의 달과 울타리의 꽃에 이 밤은 적적한데
+    시름의 실머리가 겹겹이 싸는 것을 견디지 못하겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0680&viewSync=OT
+  footnotes: []
+english:
+  title: The Garden of Tolerance
+  author: Park Eun
+  language: eng
+  text: |-
+    Before the wind I recite seven-character verse in a lofty tone,
+    As the year wanes, our two hearts grow ever more entwined.
+    I have already pondered return to rivers and distant seas,
+    While you now feign illness and rarely visit anymore.
+    Long ago I learned that all things are ruled by fate, not human will—
+    Why then should I suddenly part from wine and this weary form?
+    The mountain moon and garden flowers leave this night desolate and still,
+    And I cannot bear how sorrow's threads weave layer upon layer around me.
+  footnotes:
+  - key: ''
+    value: The title 'The Garden of Tolerance' (容齋) suggests a space of acceptance and forbearance, setting the contemplative tone for the poem's meditation on destiny and separation.
+  - key: ''
+    value: The 'seven-character verse' (七言) refers to a classical poetic form where each line contains seven characters, a refined and dignified structure befitting serious reflection.
+  - key: ''
+    value: The reference to 'feigning illness' alludes to the classical literary trope of withdrawing from society, suggesting the friend's retreat from worldly engagement.

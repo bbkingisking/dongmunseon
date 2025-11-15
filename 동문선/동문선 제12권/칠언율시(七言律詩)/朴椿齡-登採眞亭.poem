@@ -1,0 +1,50 @@
+canonical:
+  title: 登採眞亭
+  author: 朴椿齡
+  language: lzh
+  text: 蕭然一上採眞亭目極征鴻人杳冥往事回頭同夜夢故人屈指半晨星鬂絲斗覺今年白山色仍猶舊日靑自慶重來還自愧腹中未有孝先經
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登採眞亭
+  author: 朴椿齡
+  language: lzh
+  text: 蕭然一上採眞亭。目極征鴻人杳冥。往事回頭同夜夢。故人屈指半晨星。鬂絲斗覺今年白。山色仍猶舊日靑。自慶重來還自愧。腹中未有孝先經。
+korean:
+  title: 등 채진정
+  author: 박춘령
+  language: kor
+  text: |-
+    쓸쓸히 혼자서 채진정에 올라와
+    기러기 아득히 날아가는 끝을 바라보네
+    지난 일을 생각하니 하룻밤 꿈 같구나
+    친구들을 손꼽으니 절반이나 새벽 별(새벽에 드문드문 남은 별처럼 몇 안 됨)
+    머리털은 금년 들어 눈에 띄게 희었는데
+    산빛만은 예전 그대로 푸르구나
+    다시 온 것 대견타마는 맘속으로 부끄럽기는
+    뱃속에 아직도 효선의 경을 못 지닌 것
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0830&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 뱃속에 아직도 효선(孝先)의 경(經) : '
+    value: 한(漢)나라 변소(邊韶)의 자(字)는 효선(孝先)인데, 문학으로 이름이 있어 제자 수백 명을 교수(敎授)하였다. 하루는 낮잠을 자는데 제자들이 몰래 조롱하기를, “변효선(邊孝先)은 배가 볼록한데 낮잠만 자누나.” 하니, 변소가 잠결에 그 말을 듣고 곧 답하기를, “변효선은 볼록한 배는 오경(五經)의 상자[筒]이다.” 하였다.
+english:
+  title: Ascending Chaejin Pavilion
+  author: Park Chun-ryeong
+  language: eng
+  text: |-
+    Solitary and desolate, I climb Chaejin Pavilion,
+    Watching wild geese fade into the distant mist.
+    Memories of the past drift back like a night's dream,
+    Counting old friends on my fingers—half have become morning stars.
+
+    This year my temples have turned conspicuously white,
+    Yet the mountains keep their ancient verdant green.
+    I rejoice to return, and yet feel ashamed:
+    My belly holds no sage's teachings still.
+  footnotes:
+  - key: ''
+    value: 'Chaejin Pavilion (采眞亭): A viewing pavilion, likely in a mountainous area frequented by the poet in his youth.'
+  - key: ''
+    value: The reference to 'morning stars' is a poetic way of saying many old friends have passed away, as stars fade with dawn.
+  - key: ''
+    value: 'The final couplet contains a literary allusion: the poet regrets not having cultivated the scholarship of Bian Shao (Xiao Xian, 邊孝先), a Han dynasty scholar famous for his learning. According to legend, when disciples mocked him for sleeping with a protruding belly, he replied that his belly was like a container for the Five Classics. The poet suggests he has not yet filled himself with such wisdom.'

@@ -1,0 +1,46 @@
+canonical:
+  title: 沙門島
+  author: 朴宜中
+  language: lzh
+  text: 曉日初昇宿霧收仙宮金壁耀沙頭三隅鼎峙山朝拱四面環回海漫流激石驚濤常湧雪含風虛閣自生秋無窮爽槩應難盡故作新詩記勝遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 沙門島
+  author: 朴宜中
+  language: lzh
+  text: 曉日初昇宿霧收。仙宮金壁耀沙頭。三隅鼎峙山朝拱。四面環回海漫流。激石驚濤常湧雪。含風虛閣自生秋。無窮爽槩應難盡。故作新詩記勝遊。
+korean:
+  title: 사문도
+  author: 박의중
+  language: kor
+  text: |-
+    새벽 해 떠오르고 밤 안개가 걷히니
+    신선 궁궐의 금빛 벽이 모랫가에 번쩍이네
+    세 모퉁이에 솔밭처럼 산들이 벌여 있고
+    사면에 빙 둘러 바닷물이 흐르누나
+    돌에 물결이 부딪쳐 늘 눈이 솟는 듯
+    빈 각에 바람이 써늘, 절로 가을이 생기네
+    끝없이 시원한 경치 말로 다할 수 없으니
+    새론 시를 지어 좋은 놀이 적을 밖에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0280&viewSync=OT
+  footnotes: []
+english:
+  title: Samun Island
+  author: Park Ui-jung
+  language: eng
+  text: |-
+    Dawn breaks and the morning mist disperses—
+    the golden walls of the immortals' palace gleam upon the sandy shore.
+    Three peaks stand like tripod legs, mountains bowing to the dawn,
+    while four directions circle round with waters flowing free.
+
+    Waves strike the stones and send up spray like snow,
+    the empty pavilion catches wind and brings forth autumn's chill.
+    Such boundless splendor cannot be contained in words alone—
+    so I compose this verse to mark a journey to this blessed place.
+  footnotes:
+  - key: ''
+    value: Samun Island is located off the coast of Jeolla Province in Korea. The 'immortals' palace' (仙宮) refers to the island's reputation as a place of ethereal beauty, invoking classical Chinese literary imagery of divine realms.
+  - key: ''
+    value: The 'three peaks' (三隅) and 'four directions' (四面) describe the island's geographical features and the surrounding seascape with poetic precision.

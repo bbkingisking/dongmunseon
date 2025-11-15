@@ -1,0 +1,55 @@
+canonical:
+  title: 亭止寺
+  author: 無名氏
+  language: lzh
+  text: 半年塵土負靑山蕭寺偸乘一日閑始見黃花知令節更驚紅葉照衰顔天圍大野蒼茫外舟在淸江寂寞閒賴有上房沽酒引淡煙斜日未能還
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 亭止寺
+  author: 無名氏
+  language: lzh
+  text: 半年塵土負靑山。蕭寺偸乘一日閑。始見黃花知令節。更驚紅葉照衰顔。天圍大野蒼茫外。舟在淸江寂寞閒。賴有上房沽酒引。淡煙斜日未能還。
+korean:
+  title: 정지사
+  author: 무명씨
+  language: kor
+  text: |-
+    반 년이나 진세에서 청산을 저버렸다가
+    절에 와서 한가한 하루를 보내었네
+    국화를 처음 보고 가절인 줄 알았고
+    쇠한 얼굴 비추는 단풍에 놀랐네
+    하늘은 아득한 큰 벌판에 둘러 있고
+    배는 적막한 맑은 강 위에 떠 있구나
+    요행 상방에 술 사 오는 표 있어
+    엷은 놀, 비낀 석양에 돌아가지 못하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0580&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 절[蕭寺] : '
+    value: 양 무제(梁武帝)가 제일 절을 많이 지었는데, 양 무제의 성이 소씨(蕭氏)이므로 절을 소사(蕭寺)라 한다.
+english:
+  title: Tingzhi Temple
+  author: Anonymous
+  language: eng
+  text: |-
+    Half a year lost in dust and worldly toil,
+    forgetting the green mountains—
+    yet here at this quiet temple,
+    I steal one day of leisure.
+
+    First seeing chrysanthemums in bloom,
+    I know autumn's turning point.
+    But the crimson leaves startle me—
+    reflecting back my fading face.
+
+    The sky spreads wide over boundless fields,
+    the boat drifts lonely on clear waters.
+    But fortune holds me at the upper room
+    where wine flows freely—
+    and in the pale mist and slanting sun,
+    I cannot bring myself to leave.
+  footnotes:
+  - key: ''
+    value: The 'upper room' (상방) refers to a room in a Buddhist temple, likely where monks or guests would gather.
+  - key: ''
+    value: The chrysanthemum and red maple leaves symbolize the passage of time and reflection on aging—traditional imagery in East Asian poetry marking seasonal and human transitions.

@@ -1,0 +1,46 @@
+canonical:
+  title: 卽事
+  author: 徐居正
+  language: lzh
+  text: 十年面長瘦一月頭不梳久病兼新病閑居類隱居圍爐烘藥酒點筆寫方書自信經營拙仍知故舊踈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 卽事
+  author: 徐居正
+  language: lzh
+  text: 十年面長瘦。一月頭不梳。久病兼新病。閑居類隱居。圍爐烘藥酒。點筆寫方書。自信經營拙。仍知故舊踈。
+korean:
+  title: 즉사
+  author: 서거정
+  language: kor
+  text: |-
+    10년 동안에 얼굴은 늘 여위었는데
+    한 달 동안 머리를 빗지 않았네
+    오랜 병에 새 병이 겹치고
+    한가히 사는 것 숨어 사는 것 같도다
+    화로 가에 앉아 약주 데우고
+    붓에 먹을 찍어 방서를 쓰나니
+    경영의 옹졸함을 스스로 믿다가
+    고구들과 성긴 것을 이내 알았노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: On This Moment
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Ten years have worn my face to thinness,
+    A month has passed without combing my hair.
+    Old ailments pile upon new ones—
+    My idle dwelling seems a hermit's retreat.
+
+    Beside the brazier I warm medicinal wine,
+    Dipping my brush to write prescriptions.
+    I trusted in my own clumsy management,
+    Yet now I see how distant old friends have grown.
+  footnotes:
+  - key: ''
+    value: The poem reflects on the physical and social toll of prolonged illness and seclusion, common themes in Korean literati poetry of the Joseon period.
+  - key: ''
+    value: The contrast between self-reliant solitude and the erosion of friendships suggests the speaker's gradual withdrawal from society despite initial confidence in his autonomy.

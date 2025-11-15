@@ -1,0 +1,56 @@
+canonical:
+  title: 次文川板上詩韻
+  author: 金壽寧
+  language: lzh
+  text: 盛漢當千載匈奴値百年掃氛長白嶺歇馬黑龍川聖德元和上戎功大雅前燕然須勒頌留取後來傳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次文川板上詩韻
+  author: 金壽寧
+  language: lzh
+  text: 盛漢當千載。匈奴値百年。掃氛長白嶺。歇馬黑龍川。聖德元和上。戎功大雅前。燕然須勒頌。留取後來傳。
+korean:
+  title: 차 문천판상시 운
+  author: 김수령
+  language: kor
+  text: |-
+    융성한 한나라는 천 년 만에 망했고
+    흉노는 백 년을 만났네
+    요분을 장백산 고개에서 쓸어버리고
+    말은 흑룡강 물 가에서 쉬게 하네
+    성덕은 원화의 위요
+    훈공은 대아의 앞이어라
+    연연산에 모름지기 공을 기록하여
+    뒤에 전하게 하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 흉노는 백 년을 만났네 : '
+    value: 오랑캐는 백 년의 운이 없다는 말이 있는데, 여기서는 오랑캐가 망할 때가 왔다는 말이다.
+  - key: '[주-D002] 원화(元和) : '
+    value: 당나라 헌종(憲宗)이 발호(跋扈)하는 번진(藩鎭)들을 소탕하였다. 원화는 헌종의 연호(年號)이다.
+  - key: '[주-D003] 대아(大雅) : '
+    value: 《시경 대아》에 전공(戰功)을 노래한 편(編)이 있다.
+  - key: '[주-D004] 연연산(燕然山)에 모름지기 공을 기록하여 : '
+    value: 한(漢)나라 두헌(竇憲)이 흉노를 쳐서 공을 이루고, 반고(班固)를 시켜 글을 지어서 연연산(燕然山)의 돌에 새겼다.
+english:
+  title: In Response to the Rhymes of a Poem on the Board at Muncheon
+  author: Kim Su-nyeong
+  language: eng
+  text: |-
+    Mighty Han endured for a thousand years,
+    yet the Xiongnu met their destined span of a hundred.
+    We swept away the barbarian clouds at Changbai's pass,
+    and our horses rested by the waters of the Black Dragon.
+
+    Sacred virtue shines in the era of Yuanhe,
+    martial glory surpasses the pages of the Great Odes.
+    On Yenran's mountain we must carve our triumph,
+    leaving it for generations yet unborn to praise.
+  footnotes:
+  - key: ''
+    value: Yuanhe refers to the era of Emperor Xianzong of Tang, who subdued the warlord provinces (fanzhens) that had grown insubordinate.
+  - key: ''
+    value: The Great Odes (Daya) are sections of the Classic of Poetry that celebrate military accomplishments.
+  - key: ''
+    value: The reference to carving triumph on Yenran Mountain alludes to the historical precedent of General Dou Xian of Han, who defeated the Xiongnu and had the scholar Ban Gu inscribe his achievements on stone at Yenran Mountain.

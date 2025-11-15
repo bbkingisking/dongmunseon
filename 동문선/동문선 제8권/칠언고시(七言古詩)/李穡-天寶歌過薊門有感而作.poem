@@ -1,0 +1,73 @@
+canonical:
+  title: 天寶歌過薊門有感而作
+  author: 李穡
+  language: lzh
+  text: 天寶盛時何昌豐天寶亂時何曚曨沉香亭中春色濃漁陽鼙鼓聲鼕鼕馬嵬山下飛塵紅天子劒佩鳴瑽瑽三風十愆在省躬宴安鴆毒須愼終明皇一念常篤恭此胡安敢行狂凶乃知人事非天窮不見吳王宮西施半酣歌吹濛越兵自渡江無風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 天寶歌過薊門有感而作
+  author: 李穡
+  language: lzh
+  text: 天寶盛時何昌豐。天寶亂時何曚曨。沉香亭中春色濃。漁陽鼙鼓聲鼕鼕。馬嵬山下飛塵紅。天子劒佩鳴瑽瑽。三風十愆在省躬。宴安鴆毒須愼終。明皇一念常篤恭。此胡安敢行狂凶。乃知人事非天窮。不見吳王宮西施半酣歌吹濛。越兵自渡江無風。
+korean:
+  title: 계문을 지나며 느낌이 있어 천보의 노래를 짓는다
+  author: 이색
+  language: kor
+  text: |-
+    천보 한창 때엔 얼마나 창성하고 풍성했으며
+    천보 난시엔 얼마나 흐리멍덩했던고
+    침향정 안에 봄빛이 한창 무르녹을 제
+    어양의 북소리 두둥둥 울려 왔네
+    마외산 아래 먼지가 붉어지고
+    천자의 검과 패물이 왱강댕강 울렸구나
+    삼풍ㆍ십건이 몸 살핌에 있나니
+    안락은 짐독이라 처음을 잘했거든 마지막을 조심해야지
+    명황의 일념 늘 돈독하고 공손했던들
+    저 되놈이 어찌 감히 흉포를 부렸으리
+    알겠노라, 사람의 잘못이요, 하늘의 망침이 아닌 것을
+    저 보소, 오왕 궁중에서시가 거나하여 노래하고 춤출 때
+    월병이 멋대로 건너는데 강엔 바람도 없었음을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 침향정(沈香亭) : '
+    value: 당 명황이 대궐의 모란꽃을 흥경지(興慶池)에 옮겨 심어 놓고 꽃을 오나성하며 양귀비(楊貴妃)와 즐기던 정자.
+  - key: '[주-D002] 어양(漁陽)의 북소리 : '
+    value: 안녹산(安祿山)의 반란군이 쳐들어오는 소리. 그가 어양에서 반란을 일으켰다.
+  - key: '[주-D003] 마외산(馬嵬山) : '
+    value: 통칭 마외파(馬嵬坡). 산이 아닌 땅이름. 지금의 섬서성(陝西省) 흥평현(興平縣) 서쪽 25리 마외진(馬嵬鎭). 안녹산의 반란 때 당 현종이 서행(西幸)하다가 여기에 와서 부득이 양귀비를 난군에게 내어 주어 목매어 죽이게 하였다.
+  - key: '[주-D004] 삼풍(三風)ㆍ십건(十愆) : '
+    value: 십건(十愆)은 임금의 정사를 그르치는 열 가지 허물이니, 즉 ①춤[舞] ②노래[歌] ③재화[貨] ④여색[色] ⑤놀이[游] ⑥사냥[畎] ⑦성인의 말씀을 업신여김[侮聖言] ⑧충직을 거스림[逆忠直] ⑨덕 있는 노성한 이를 멀리함[遠耆德] ⑩못된 자를 가까이 함[比頑童]을 말함이요, 삼풍(三風)은 십건(十愆)을 묶어 말한 정사를 그르치는 세 가지 풍인데, 곧 무풍(巫風)ㆍ음풍(淫風)ㆍ난풍(亂風)으로 위의 십건(十愆)의 ①ㆍ②가 무풍, ③~⑥이 음풍, ⑦~⑩이 난풍이다. 《書經》
+  - key: '[주-D005] 되놈 : '
+    value: 안녹산(安祿山)을 가리킨 말이니, 그는 원래 영주(營州) 유성(柳城) 출신의 호인(胡人)이다.
+  - key: '[주-D006] 서시(西施) : '
+    value: 부차(夫差)가 월(越)나라를 피하고 그 나라에서 바친 미녀 서시(西施)에게 혹하여 관왜궁(館娃宮)을 짓고 갖은 향락을 누리다가 월나라에 나라를 빼앗겼다.
+english:
+  title: A Song on the Tianbao Era, Composed upon Reflection While Passing through Jimen Gate
+  author: Lee Saek
+  language: eng
+  text: |-
+    In Tianbao's golden hour, how radiant and abundant it shone!
+    In Tianbao's chaos, how murky and dim the world became!
+    In the Incense-Pavilion, spring colors deepened and grew thick,
+    When drums from Yuyang thundered—boom, boom, boom—drawing near.
+    Beneath Ma-wei's slope the dust turned crimson red,
+    And the Emperor's sword and jewels rang out—clang, clang, clang!
+    Three winds and ten failings lay within self-examination's reach;
+    Yet indulgence is a poison that demands caution at the end.
+    Had the Brilliant Emperor but kept his mind always reverent and pure,
+    How could that barbarian have dared to wreak such violence?
+    Now I understand: man's errors, not Heaven's fault—
+    Look upon the Wu King's palace! Half-tipsy, the fair Xi Shi sang and danced in the mist,
+    While Yue's soldiers crossed the river unbidden, and no wind stirred the waters.
+  footnotes:
+  - key: ''
+    value: The Incense-Pavilion (Shen-xiang Pavilion) was where Emperor Xuanzong of Tang enjoyed spring blossoms and the company of Yang Guifei, his beloved concubine.
+  - key: ''
+    value: The Yuyang drums herald the rebellion of An Lushan, who initiated his uprising from that region.
+  - key: ''
+    value: Ma-wei was the fateful place where, during An Lushan's rebellion, Emperor Xuanzong was forced to deliver Yang Guifei to the rebel soldiers, leading to her tragic death.
+  - key: ''
+    value: The Three Winds and Ten Failings are classical warnings from the Book of Documents about imperial vices that lead to governmental collapse.
+  - key: ''
+    value: 'The comparison to the Wu King and Xi Shi references another cautionary tale: a ruler so entranced by beauty and pleasure that he lost his kingdom to the state of Yue.'

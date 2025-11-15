@@ -1,0 +1,48 @@
+canonical:
+  title: 丙寅十二月六日赴京師
+  author: 李崇仁
+  language: lzh
+  text: 弧矢當年志四方如今奉使幸觀光江分燕尾成天塹山似龍蟠遶苑墻金碧雲開尊象魏綺羅風動照康莊神京制度超前古說與鄕人語合長
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 丙寅十二月六日赴京師
+  author: 李崇仁
+  language: lzh
+  text: 弧矢當年志四方。如今奉使幸觀光。江分燕尾成天塹。山似龍蟠遶苑墻。金碧雲開尊象魏。綺羅風動照康莊。神京制度超前古。說與鄕人語合長。
+korean:
+  title: 병인 십이월 육일 부경사
+  author: 이숭인
+  language: kor
+  text: |-
+    날 때부터 호시로 사방에 뜻 두었더니
+    이제 사절로 다행히 상국을 구경하네
+    제비 꼬리인 양 강이 갈려 천참을 이루었고
+    용처럼 산이 서려 어원의 담을 둘렀네
+    금벽 구름 열린 곳에 궁궐이 우뚝 솟고
+    기라 바람 이는 데 큰 길 환히 트였구나
+    신경의 제도가 만고에 뛰어나니
+    돌아가 이야기하려면 말이 자연 길겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0960&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천참(天塹) : '
+    value: 하늘이 파 놓은 구덩이로, 사람의 힘으로 어찌할 수 없다는 뜻이다.
+english:
+  title: On the Sixth Day of the Twelfth Month of the Year Byeonggin, Traveling to the Capital
+  author: Lee Sunggin
+  language: eng
+  text: |-
+    From my youth, my bow and arrows aimed at all directions;
+    Now, as an envoy, I fortunately behold this great land.
+    The river splits like a swallow's tail, carving Heaven's own moat.
+    The mountains coil like dragons, encircling the palace walls.
+    Golden spires pierce the parted clouds;
+    Silk banners flutter where the broad avenues gleam.
+    The sacred capital's order surpasses all ages past—
+    When I return and speak of this to my countrymen,
+    my words will naturally stretch long into the night.
+  footnotes:
+  - key: ''
+    value: The 'swallow's tail' and 'dragon coil' are poetic descriptions of the natural geography surrounding Beijing, suggesting both the river's serpentine course and the mountains' protective embrace of the city.
+  - key: ''
+    value: The 'heaven's moat' (天塹) refers to a natural barrier so vast that it seems beyond human creation—a testament to the city's naturally defensible position.

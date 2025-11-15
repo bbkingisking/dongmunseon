@@ -1,0 +1,95 @@
+canonical:
+  title: 送鄭大司成奉使日本
+  author: 權近
+  language: lzh
+  text: 崧嶽天低北扶桑日出東鯨濤連浩渺使節講交通慷慨男兒志周旋儒者風遠尋徐氏迹應有陸生功漸海聲初曁無波譯已重格苗文迺誕事葛德彌弘銀漢星芒煥咸池曉色紅梯航紛玉帛劒佩會英雄帝闕承聽履賓筵拜貺弓名將勒金石赫赫耀無窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送鄭大司成奉使日本
+  author: 權近
+  language: lzh
+  text: 崧嶽天低北。扶桑日出東。鯨濤連浩渺。使節講交通。慷慨男兒志。周旋儒者風。遠尋徐氏迹。應有陸生功。漸海聲初曁。無波譯已重。格苗文迺誕。事葛德彌弘。銀漢星芒煥。咸池曉色紅。梯航紛玉帛。劒佩會英雄。帝闕承聽履。賓筵拜貺弓。名將勒金石。赫赫耀無窮。
+korean:
+  title: 송 정 대사성 봉사 일본
+  author: 권근
+  language: kor
+  text: |-
+    송악산은 북쪽에서 높아 하늘에 닿았는데
+    부상은 해 뜨는 머나먼 동편
+    중간에 창파가 그지 없으나
+    사절이 교통하여 왕래가 잦네
+    나라 위한 강개는 남아의 본뜻
+    국교 위해 주선함은 유자의 풍격
+    서씨의 유적을 멀리 찾으며
+    육생의 큰 공을 응당 세우리
+    바다 건너 문화가 처음 퍼지고
+    물결이 일잖으니 통역이 이중
+    묘족이 항복하니 문덕이 컸고
+    갈나라 섬기니 덕이 더욱 넓었네
+    은하수엔 별이 빛나고
+    함지엔 새벽 놀 불그레한데
+    배 타고 옥배(국가간의 예물)들 왕래하고
+    칼 차고 옥을 차고 영웅들이 모이리
+    신 신은 채 제궐에 장차 오르고
+    주는 활 연회에서 받으리
+    금석에 장차 그대 이름 새겨서
+    혁혁히 무궁토록 빛나리로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정 대사성 봉사 일본(鄭大司成奉使日本) : '
+    value: 대사성 정몽주가 우왕(禑王) 3년(1377) 9월에 왜구(倭寇) 금지를 청하기 위하여 사신(使臣)으로 일본에 갔다.
+  - key: '[주-D002] 서씨(徐氏)의 유적(遺跡) : '
+    value: 진(秦)나라의 방사(方士) 서불[徐市]이 시황(始皇)을 위하여 삼신산(三神山)의 불사약을 구하려고 동남동녀(童男童女) 5백 명을 거느리고 떠나간 채 뒷 소식을 모르는데, 전설에 그가 일본에 가 살았다 한다. 특히 화가산(和歌山 와카야마) 지방에 서불사[徐市祠]가 있었다 한다.
+  - key: '[주-D003] 육생(陸生) : '
+    value: 한(漢)나라 사람 육가(陸賈)이다. 변재(辯才)가 있어 남월(南越)에 사절로 가 남월왕 조타(趙他)를 초유(招諭)하였다.
+  - key: '[주-D004] 물결이 …… 이중(二重) : '
+    value: 주 무왕(周武王) 때 교지(交趾) 남의 월상씨(越裳氏)가 멀리 사자를 보내어 중역(重譯)으로 와 말하기를, “바다가 3년 동안이나 물결을 일으키지 않사오니, 중국에 반드시 성신이 나셨는가 하여 왔나이다.” 하였다 한다.
+  - key: '[주-D005] 묘족(苗族)이 …… 컸고 : '
+    value: 묘(苗)는 남방(지금 운남성 부근)의 미개족. 순(舜)이 문덕(文德)을 크게 펴니 묘족이 귀순하였다 한다.
+  - key: '[주-D006] 갈(葛)나라 섬기니 : '
+    value: 갈(葛)은 옛날 나라 이름인데, 탕(湯) 임금이 갈(葛)과 이웃이 되어 갈을 섬겼다.
+  - key: '[주-D007] 은하수엔 별이 빛나고 : '
+    value: 한(漢) 장건(張騫)의 떼[槎]가 성상(星象)으로 나타났다는 고사.
+  - key: '[주-D008] 신 신은 채 …… 오르고 : '
+    value: 명(明) 황제의 궁궐을 말하는데, 황제가 우대하는 신하에게는 신을 신고 올라옴을 허락하였다. 정몽주가 명나라에 사신으로 갔던 일을 말함.
+english:
+  title: Sending Off Jeong, the Grand Master of Rites, on His Mission to Japan
+  author: Gwon Geun
+  language: eng
+  text: |-
+    Song Mountain rises high in the north, touching heaven's gate,
+    While Fusang spreads far in the east where the sun is born.
+    Between them, whale-wave torrents endless and vast—
+    Yet envoys traverse these seas to forge bonds of state.
+
+    A man's bold spirit burns for his nation's name;
+    A scholar's grace bends to serve between two thrones.
+    You trace the steps of Xu the ancient seeker,
+    And surely shall match Lu Jia's great acclaim.
+
+    Beyond the waves, now culture spreads its first light;
+    With waters calm, your words need no double tongue.
+    The southern tribes bow down to your moral sway;
+    The neighboring realms grow wider still in grace.
+
+    The Milky Way glows bright with scattered stars,
+    The sacred pool blushes crimson at dawn.
+    Yade and silk flow back and forth on vessels,
+    While heroes crowned with jeweled blades gather round.
+
+    The imperial palace opens to receive your tread;
+    The feast shall honor the gifts your bow bestows.
+    Your name shall be carved deep in bronze and stone—
+    Radiant and eternal, it shall never fade.
+  footnotes:
+  - key: ''
+    value: Jeong Mongju, Grand Master of Rites, was sent as an envoy to Japan in 1377 to request the cessation of pirate raids.
+  - key: ''
+    value: Xu Fu, an ancient Qin alchemist, was said to have traveled to Japan seeking the elixir of immortality. His shrine reportedly existed in Wakayama.
+  - key: ''
+    value: Lu Jia was a Han diplomat known for his eloquence and success in persuading the southern kingdoms to allegiance.
+  - key: ''
+    value: An allusion to the famous tribute of the Yue peoples to the Zhou dynasty, who came bearing gifts across calm seas with no need for translation—a sign of heaven's favor.
+  - key: ''
+    value: The reference to the southern tribes recalls how Shun's moral virtue brought the Miao peoples into submission.

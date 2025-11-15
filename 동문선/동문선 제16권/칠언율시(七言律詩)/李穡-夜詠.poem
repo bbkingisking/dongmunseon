@@ -1,0 +1,56 @@
+canonical:
+  title: 夜詠
+  author: 李穡
+  language: lzh
+  text: 消磨豪氣入醇眞漸悔高歌動鬼神少日賦傳希有鳥老年說着不祥麟楚囚吟苦猶思越孔聖名垂尙在陳自念秋風吹又急白頭難避庾公塵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜詠
+  author: 李穡
+  language: lzh
+  text: 消磨豪氣入醇眞。漸悔高歌動鬼神。少日賦傳希有鳥。老年說着不祥麟。楚囚吟苦猶思越。孔聖名垂尙在陳。自念秋風吹又急。白頭難避庾公塵。
+korean:
+  title: 야영
+  author: 이색
+  language: kor
+  text: |-
+    헛되이 호기를 부리다 순진함에 들어서니
+    높이 노래 불러 귀신 놀래던 것 차차 뉘우쳐지네
+    젊어선 세상에 드문 새 부를 지어 유명했고
+    늘그막엔 상서롭지 못한 기린을 말하네
+    초나라 포로는 신음해도 월나라를 생각하고
+    공자는 이름을 〈후세에〉 끼쳤으나 오히려 진에 있었네
+    생각하니 가을바람이 또 급히 부는데
+    백발로 유공의 먼지를 못 피하고 있구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0710&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상서롭지 못한 기린 : '
+    value: 춘추 때 노 애공(魯哀公)이 서쪽 벌판에 사냥가서 기린을 잡으니, 공자가 보고 말하기를, “기린은 어진 짐승, 왕자의 아름다운 상사이어늘 어째서 왔는고.” 하며 소매를 뒤집어 얼굴을 씻으며 울어 줄줄이 옷깃을 적시었다. “기린이 기린된 소이는 덕으로서요 형상으로서가 아니니, 기린의 남이 성인을 기다리지 않으면 상서롭지 않다 해도 또한 마땅한저.” 《韓愈 獲麟解》
+  - key: '[주-D002] 초나라 포로[楚囚]는 …… 생각하고 : '
+    value: 진(晋)나라 종의(鍾儀)가 초(楚)나라에 포로가 되어 갔더니 진후(晋侯)가 음악을 하여 보라고 시켰다. 종의는 자기의 고국 소리를 연주하였다. 또 월(越)나라 장석(莊舃)이 초(楚)나라에 벼슬하여 현달(顯達)하였는데 한 번은 병이 나서 누워 있었다. 초왕(楚王)이 사람을 시켜 장석을 가 보게 하며, “장석이 자기의 고국을 생각하는지 알아 보라.” 하였다. 가본 즉 장석은 월나라 소리로 앓고 있었다. 이 시는 두 사실을 혼동하여 인용하였다.
+  - key: '[주-D003] 공자(孔子)는 이름을 …… 진(陳)에 있었네 : '
+    value: 공자가 진에 있으면서 말씀하시되 “내 무리의 애들이 광간[뜻만 크고 실제는 엉성한 것]하여 번쩍하게 무늬를 이루나 마를 줄을 모르는도다.[子在陳曰 吾黨之小子狂簡 斐然成章 不知的以裁之]” 하였다. 《論語 公冶長》 공자가 천하를 주유하여 이름을 날리고도 문인들이 아직 미숙함을 걱정하여 돌아가 시서ㆍ예악을 정리, 술작할 뜻을 가지고 한 말.
+  - key: '[주-D004] 백발로 …… 피하고 있구나 : '
+    value: 진(晋)나라 왕도(王導)가 유량(庾亮)과 사이가 좋지 않았는데 유량은 무창(武昌)에 있었다. 서풍(西風)이 불 때마다 왕도는 부채로 얼굴을 가리우며, “원규(元規 유랑의 字)의 먼지가 사람을 더럽히네.” 하였다. 무창이 서쪽에 있었기 때문이다.
+english:
+  title: Night Reflections
+  author: Lee Seok
+  language: eng
+  text: |-
+    Bold ambitions waste away, dissolving into genuine simplicity.
+    I grow to regret the high songs that once moved spirits and gods.
+    In youth, I gained renown composing rare verses of the world,
+    In old age, I speak of auspicious creatures that never came.
+
+    The captive of Chu groans, yet his heart turns toward Yue,
+    Confucius left his name for ages, yet remained in Chen.
+    As autumn wind grows fierce and will not cease,
+    With white hair I cannot escape the dust of Yü Liang.
+  footnotes:
+  - key: ''
+    value: The auspicious creature (麟, qilin) alludes to Confucius weeping upon witnessing the capture of a qilin—a sign that the age of sage-kings had passed. Here the poet uses it to represent the lost possibility of greatness.
+  - key: ''
+    value: The captive of Chu represents the exile's longing for home, a common metaphor in East Asian poetry for the separation of the soul from its true place.
+  - key: ''
+    value: Yü Liang was a Jin official whose rivalry with Wang Dao became legendary; the 'dust of Yü Liang' became proverbial for unavoidable entanglement with worldly affairs—here representing the poet's inability to escape the grinding wheel of age and circumstance.

@@ -1,0 +1,37 @@
+canonical:
+  title: 寶位
+  author: 金坵
+  language: lzh
+  text: 恪守靑丘厚沐漸東之化遙瞻紫極益殫拱北之虔嘉與兆民切祈遐筭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寶位
+  author: 金坵
+  language: lzh
+  text: 恪守靑丘。厚沐漸東之化。遙瞻紫極。益殫拱北之虔。嘉與兆民。切祈遐筭。
+korean:
+  title: 새로 보위
+  author: 김구
+  language: kor
+  text: 삼가 청구(靑丘)를 지키면서 두터이 동점(東漸)의 황화(皇化)에 목욕(沐浴)하옵니다. 멀리 자신(紫宸)을 바라보며 더욱 충성의 마음을 다하면서 조민(兆民)과 기쁨을 함께하여 만세(萬歲)의 성수(聖壽)를 간절히 비옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: The Precious Throne
+  author: Kim Gu
+  language: eng
+  text: |-
+    With reverence I guard the Eastern Land,
+    Bathed in the grace that flows from the imperial court.
+    Gazing far toward the Purple Palace of Heaven,
+    I dedicate myself ever more to loyal devotion.
+    Joining my heart with all the people,
+    I humbly pray for the sovereign's ten thousand years.
+  footnotes:
+  - key: ''
+    value: The 'Eastern Land' (靑丘, Cheonggu) is a classical reference to Korea.
+  - key: ''
+    value: The 'Purple Palace of Heaven' (紫宸, Jajin) traditionally refers to the throne or the seat of imperial authority.
+  - key: ''
+    value: The prayer for 'ten thousand years' (萬歲, manse) is a traditional expression wishing longevity and prosperity to the ruler.

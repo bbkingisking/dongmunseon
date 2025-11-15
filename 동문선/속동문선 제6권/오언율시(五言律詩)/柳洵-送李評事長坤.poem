@@ -1,0 +1,48 @@
+canonical:
+  title: 送李評事長坤
+  author: 柳洵
+  language: lzh
+  text: 長白連天起其南我北門逐便居雜種視力自雄呑邇日休邊寇非關戀國恩從來豪傑地鼠狗敢輕論
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送李評事長坤
+  author: 柳洵
+  language: lzh
+  text: 長白連天起。其南我北門。逐便居雜種。視力自雄呑。邇日休邊寇。非關戀國恩。從來豪傑地。鼠狗敢輕論。
+korean:
+  title: 송 이평사장곤
+  author: 유순
+  language: kor
+  text: |-
+    장백산이 하늘에 잇대어 일어나니
+    그 남쪽이 우리의 북쪽 문이로다
+    편한 것 좇아 여러 종족[雜種] 살고
+    힘을 보아 스스로 크게 삼킨다
+    가까운 날에 변방 도둑 쉬[休]리니
+    나라 은혜 사모함이 관계 아니라
+    옛부터 원래 호걸 기풍이거니
+    쥐나 개나 감히 함부로 말할건가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_1070&viewSync=OT
+  footnotes: []
+english:
+  title: Seeing Off Yi Pyeongsa Jang Gon
+  author: Yu Sun
+  language: eng
+  text: |
+    Changbai Mountain rises to meet the heavens,
+    Its southern face is our northern gate.
+    Following the ease of settlement, diverse peoples dwell,
+    Their strength, by their own measure, swallows the vastness.
+
+    These recent days the border brigands rest—
+    Not through longing for the nation's grace,
+    But because from ancient times this has been hallowed ground,
+    Where even rats and dogs dare not speak rashly.
+  footnotes:
+  - key: ''
+    value: 'Changbai Mountain (長白山): The sacred mountain on the border between Goguryeo and Jurchen territories, symbolizing the northern frontier of Korea.'
+  - key: ''
+    value: 'Border brigands: References to the Jurchen incursions that plagued Korea''s northern border during this period.'
+  - key: ''
+    value: The final couplet plays on Confucian dignity and territorial pride—even the lowliest creatures recognize the sanctity of heroic lands.

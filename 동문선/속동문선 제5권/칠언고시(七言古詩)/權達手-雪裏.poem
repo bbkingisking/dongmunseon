@@ -1,0 +1,55 @@
+canonical:
+  title: 雪裏
+  author: 權達手
+  language: lzh
+  text: 玉斧年年修月宮月不增修玉成屑顚狂曉風忽披散吹作人間三尺雪飛飛六出偶成耳天上無人巧剪裁山巖溪谷一埋閉誰辨蘭根與草荄剡溪短棹歸未得匹馬西州行路惡淸入吟脾冷不邪白無小汚差可樂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雪裏
+  author: 權達手
+  language: lzh
+  text: 玉斧年年修月宮。月不增修玉成屑。顚狂曉風忽披散。吹作人間三尺雪。飛飛六出偶成耳。天上無人巧剪裁。山巖溪谷一埋閉。誰辨蘭根與草荄。剡溪短棹歸未得。匹馬西州行路惡。淸入吟脾冷不邪。白無小汚差可樂。
+korean:
+  title: 설리
+  author: 권달수
+  language: kor
+  text: |-
+    옥도끼로 해마다 월궁을 중수하니
+    달은 중수 안 되고 옥만 가루가 되어
+    휘휘 부는 새벽 바람에 문득 흩어져
+    인간의 석 자 눈이 되어 불어오누나
+    송이송이 여섯 모는 우연히 된 것뿐
+    하늘의 어느 누가 공교히 말아 낼까
+    산 바위ㆍ시내 골을 한결같이 덮어 놓으니
+    난초 뿌리, 풀뿌리를 뉘라서 분별하리
+    섬계의 짧은 돛대 돌아올 수 없어서
+    필마 서주에 가는 길이 궃으나
+    맑고 차고 순수함이 가슴에 스미고
+    티 없이 새하얌이 즐거워할 만도 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0470&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 섬계(剡溪) : '
+    value: 진(晉)나라의 왕휘지(王徽之)가 눈 오는 밤에 갑자기 흥을 일으켜, 산음(山陰)에서 배를 타고 멀리 이 시내로 벗 대안도(戴安道)를 찾아갔다. 《世說》
+english:
+  title: In the Snow
+  author: Gwon Dal-su
+  language: eng
+  text: |-
+    Year after year the jade axe hews the moon palace,
+    Yet the moon stays unrepaired while jade turns to dust.
+    The frenzied dawn wind suddenly sweeps it all away,
+    Scattering it down as three feet of snow to the human realm.
+
+    Flake by flake, six-pointed stars formed by chance—
+    Who in heaven carefully cut them with such skill?
+    Mountain crags and valley streams lie buried all the same,
+    And who can tell the orchid root from common grass root?
+
+    The short oar on Yan Creek cannot return,
+    A lone horse travels westward through bitter roads,
+    Yet pure and cold and crystalline it penetrates the heart,
+    Spotless and pristine—there is joy enough in that.
+  footnotes:
+  - key: ''
+    value: The reference to Yan Creek alludes to Wang Hui-zhi of the Jin dynasty, who in a sudden burst of inspiration on a snowy night traveled by boat from Shan-yin seeking his friend Dai An-dao, creating one of the most celebrated moments of inspired spontaneity in Chinese literary tradition.

@@ -1,0 +1,50 @@
+canonical:
+  title: 夜臥有懷士華承旨
+  author: 朴誾
+  language: lzh
+  text: 故人自致靑雲上老我孤吟黃菊邊高盖何堪容陋巷酒盃終不負新篇一年秋興南山色獨夜悲懷缺月懸旅鴈似知無伴侶數聲飛過泬寥天
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜臥有懷士華承旨
+  author: 朴誾
+  language: lzh
+  text: 故人自致靑雲上。老我孤吟黃菊邊。高盖何堪容陋巷。酒盃終不負新篇。一年秋興南山色。獨夜悲懷缺月懸。旅鴈似知無伴侶。數聲飛過泬寥天。
+korean:
+  title: 야와 유회 사화승지
+  author: 박은
+  language: kor
+  text: |-
+    친구는 스스로 청운 위에 올랐는데
+    늙은 나는 외로이 누른 국화 곁에서 읊조리네
+    높은 일산이 어떻게 누추한 골목에 용납 되겠는가마는
+    술잔은 마침내 새 시편을 저버리지 않으리
+    1년의 가을 홍취는 남산의 빛깔인데
+    외로운 밤의 슬픈 회포는 이지러진 달이 달려있구나
+    나그네 기러기가 〈나의〉 친구 없는 것을 아는 것 같이
+    몇 마디 소리로 아득한 하늘을 날아 지나네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0670&viewSync=OT
+  footnotes: []
+english:
+  title: Lying Awake at Night with Thoughts of Scholar Saha
+  author: Park Eun
+  language: eng
+  text: |-
+    My old friend has risen to the azure clouds above,
+    while I, grown old, sing alone by yellow chrysanthemums.
+    Though a high canopy cannot fit in this narrow alley,
+    still the wine cup shall not abandon my new verses.
+
+    A year's autumn rapture wears the colors of the southern hills,
+    and in the solitary night, my melancholy heart clings to the waning moon.
+    The wandering geese seem to know my loneliness,
+    their few cries fading into the vast and empty sky.
+  footnotes:
+  - key: ''
+    value: The 'azure clouds' (青雲) is a classical image for high official position and worldly success.
+  - key: ''
+    value: The contrast between the friend's elevated status and the speaker's humble circumstances frames the poem's meditation on separation and abandonment.
+  - key: ''
+    value: The yellow chrysanthemum carries associations with solitude, virtue in obscurity, and the passing of time.
+  - key: ''
+    value: The 'wine cup' and 'new verses' suggest the speaker's consolation through poetry and contemplation despite their reduced circumstances.

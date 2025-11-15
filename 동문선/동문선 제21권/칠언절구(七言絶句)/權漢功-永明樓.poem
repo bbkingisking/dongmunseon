@@ -1,0 +1,39 @@
+canonical:
+  title: 永明樓
+  author: 權漢功
+  language: lzh
+  text: 白鷗波上踈踈雨黃犢坡南點點山有興卽來忘返轡長閑那似此偸閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永明樓
+  author: 權漢功
+  language: lzh
+  text: 白鷗波上踈踈雨。黃犢坡南點點山。有興卽來忘返轡。長閑那似此偸閑。
+korean:
+  title: 영명루
+  author: 권한공
+  language: kor
+  text: |-
+    흰 갈매기 뜬 푸른 물결 위에는 부슬부슬 비 내리고
+    누른 송아지 노는 언덕 남쪽에는 점점이 산이로다
+    흥이 나면 곧 와서 고삐 돌리기 잊었노니
+    다른 이의 늘 한가함이 어찌 〈나의〉 잠깐 틈을 탐만 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0860&viewSync=OT
+  footnotes: []
+english:
+  title: The Tower of Eternal Light
+  author: Gwon Han-gong
+  language: eng
+  text: |-
+    White gulls drift above the rippling waters where the rain falls soft and fine,
+    A tawny calf at play on southern hills where mountains mark the line.
+    When joy calls me, I come and forget to turn my horse's rein,
+    How could another's constant leisure match the freedom that I gain?
+  footnotes:
+  - key: ''
+    value: The Tower of Eternal Light (永明樓) was a famous pavilion, likely a reference to a real or imagined location of retreat and contemplation.
+  - key: ''
+    value: The poem uses natural imagery—gulls, water, calves, and hills—as metaphors for finding moments of escape from worldly duties.
+  - key: ''
+    value: The final couplet contrasts the speaker's stolen moments of leisure with the more permanent idleness of others, suggesting that true freedom lies in occasional, unexpected respite rather than endless vacancy.

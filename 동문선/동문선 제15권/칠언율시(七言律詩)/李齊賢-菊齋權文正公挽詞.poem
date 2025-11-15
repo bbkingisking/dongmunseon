@@ -1,0 +1,59 @@
+canonical:
+  title: 菊齋權文正公挽詞
+  author: 李齊賢
+  language: lzh
+  text: 揚歷淸華到上台君王獨倚棟梁材詩書滿屋無樊素簪履盈門有老萊千歲鶴歸三嶠月九淵龍化五更雷才踈未足銘淸德淚洒當年玉鏡臺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 菊齋權文正公挽詞
+  author: 李齊賢
+  language: lzh
+  text: 揚歷淸華到上台。君王獨倚棟梁材。詩書滿屋無樊素。簪履盈門有老萊。千歲鶴歸三嶠月。九淵龍化五更雷。才踈未足銘淸德。淚洒當年玉鏡臺。
+korean:
+  title: 국재 권문정공 만사
+  author: 이제현
+  language: kor
+  text: |-
+    청직 화직 다 지내고 상태에 올랐으니
+    임금께선 나라의 대들보로 여기셨네
+    시서가 집에 가득하고 번소는 없었으며
+    벼슬 높은 자손 중엔 노래자도 있었네
+    천 년 만에 학은 삼교 달에 돌아갔고
+    구연의 용이 오경 우레에 변화했네
+    서투른 재주로 청덕을 옳게 명하지 못하니
+    옥경대 옛날 생각에 눈물을 뿌리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상태(上台) : '
+    value: 하늘의 삼태성(三台星)을 삼정승(三政丞)에 비하는데 상태(上台)는 수상(首相)이다.
+  - key: '[주-D002] 번소(樊素) : '
+    value: 백거이(白居易)의 시희(詩姬). 노래를 잘했다.
+  - key: '[주-D003] 노래자(老萊子) : '
+    value: 춘추(春秋) 시대 때 효자로, 나이 70에 오색 색동옷을 입고 어린애 놀음을 하여 그 부모를 즐겁게 했다.
+  - key: '[주-D004] 서투른 재주로 …… 못하니 : '
+    value: 작자(作者)가 국재(菊齋)의 비명(碑銘)을 지었다.
+  - key: '[주-D005] 옥경대(玉鏡臺) : '
+    value: 진(晉)나라 온교(溫嶠)가 결혼할 때에 옥경대(玉鏡臺)로 예물을 삼았는데, 작자(作者)는 국재(菊齋)의 사위 때문에 이것을 인용하였다.
+english:
+  title: Funeral Poem for Minister Gwon Mun-jung
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    Through ranks of office pure and high, he rose to the highest throne,
+    The King beheld in him the very pillar of the crown.
+    His halls were thick with books and verse, no courtesan's voice there,
+    Yet virtuous sons of noble rank brought honor to his heir.
+    The crane of ages past took flight beneath the three-fold moon,
+    The dragon of the depths transformed into the thunder of dawn's swoon.
+    My humble pen cannot inscribe the fullness of his grace—
+    I weep remembering the jade-lit palace's sacred space.
+  footnotes:
+  - key: ''
+    value: The 'highest throne' refers to the position of Prime Minister, compared to the celestial Three Stars of heaven.
+  - key: ''
+    value: The absence of 'courtesans' voice' contrasts with those of lesser virtue, highlighting the moral purity of the household.
+  - key: ''
+    value: The crane and dragon imagery evokes the timelessness and transformation of sages in Chinese tradition.
+  - key: ''
+    value: The poet alludes to having composed the epitaph for Gwon Mun-jung, expressing sorrow at the inadequacy of words to capture his virtue.

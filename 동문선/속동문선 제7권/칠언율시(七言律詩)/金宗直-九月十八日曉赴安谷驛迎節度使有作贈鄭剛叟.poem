@@ -1,0 +1,49 @@
+canonical:
+  title: 九月十八日曉赴安谷驛迎節度使有作贈鄭剛叟
+  author: 金宗直
+  language: lzh
+  text: 畫角聲中整鞴靫爲迎旌節驛亭賖荒村十里火穿屋缺月五更霜滿靴擊免伐狐眞有興栽松問竹豈無家隔溪羞殺冰髯叟鼾睡方甘寤曉笳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九月十八日曉赴安谷驛迎節度使有作贈鄭剛叟
+  author: 金宗直
+  language: lzh
+  text: 畫角聲中整鞴靫。爲迎旌節驛亭賖。荒村十里火穿屋。缺月五更霜滿靴。擊免伐狐眞有興。栽松問竹豈無家。隔溪羞殺冰髯叟。鼾睡方甘寤曉笳。
+korean:
+  title: 구월 십팔일 효부 안곡역 영 절도사 유작 증 정강수
+  author: 김종직
+  language: kor
+  text: |-
+    날라리[畵角]소리 속에 고삐 안장 정비하고
+    정절(절도사의 행차)을 맞이하려 하매 역정이 멀다
+    거친 마을 10리에 등불은 창을 뚫는데
+    이지러진 달 오경에 서리가 신에 찼다
+    토끼를 잡고 여우를 치매 참으로 흥취 있는데
+    솔을 심고 대를 묻기에 어찌 집이 없겠는가
+    시내 건너 수염이 언 늙은이 부끄러워했나니
+    코 골며 달게 자던 잠 새벽 피리소리에 깨다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0690&viewSync=OT
+  footnotes: []
+english:
+  title: On the Eighteenth Day of the Ninth Month, Setting Out at Dawn to Meet the Regional Commander at Angok Station—A Gift Poem for Jeong Gangsu
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Through the blare of military horns I tighten saddle and bridle,
+    Rushing to receive the commander's banners—the station-house seems far.
+    Ten leagues through the rough village and torches pierce the cottages,
+    The waning moon at fifth watch, frost gathering thick in my boots.
+    Hunting rabbits, striking foxes—such sport delights the soul,
+    Planting pines, questioning the bamboo—is this not a man's home?
+    Beyond the creek the frost-bearded elder feels ashamed,
+    Awakened from his sweet dreams of snores by the dawn pipes' call.
+  footnotes:
+  - key: ''
+    value: The 'regional commander' (節度使) refers to a high-ranking provincial official, here arriving for inspection.
+  - key: ''
+    value: Fifth watch refers to the hours just before dawn in traditional Korean timekeeping.
+  - key: ''
+    value: The images of hunting and planting suggest both the active pursuits of an official and the peaceful life of a hermit—a tension at the heart of the poem.
+  - key: ''
+    value: The 'frost-bearded elder' likely refers to the poet himself or a companion, contrasting the urgency of official duties with the desire for simple, undisturbed rest.

@@ -1,0 +1,37 @@
+canonical:
+  title: 題畫蟬
+  author: 李承召
+  language: lzh
+  text: 香燒古篆坐蕭然讀盡黃庭內外篇一味天眞無與語畫中相對飮風仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題畫蟬
+  author: 李承召
+  language: lzh
+  text: 香燒古篆坐蕭然。讀盡黃庭內外篇。一味天眞無與語。畫中相對飮風仙。
+korean:
+  title: 제화선
+  author: 이승소
+  language: kor
+  text: |-
+    향을 고전에 사르고 쓸쓸히 앉아
+    황정의 내외편을 모두 읽었다
+    천진의 한 맛과 더불어 말할 이 없어
+    그림 속에서 서로 대하매 바람을 마시는 신선일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0160&viewSync=OT
+  footnotes: []
+english:
+  title: Inscribed on a Painting of a Cicada
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    Incense burns in the pattern of ancient script, and I sit in solitude.
+    I have read through all the inner and outer chapters of the Yellow Court.
+    With this single taste of celestial truth, there is no one to speak with—
+    Yet in the painting, facing each other, we are immortals sipping the wind.
+  footnotes:
+  - key: ''
+    value: The Yellow Court Classics (黃庭) are Daoist texts associated with inner alchemy and spiritual cultivation
+  - key: ''
+    value: The cicada in Chinese and Korean poetry traditionally symbolizes spiritual transcendence and freedom from earthly attachments

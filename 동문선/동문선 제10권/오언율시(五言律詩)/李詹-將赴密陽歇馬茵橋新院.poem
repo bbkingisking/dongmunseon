@@ -1,0 +1,44 @@
+canonical:
+  title: 將赴密陽歇馬茵橋新院
+  author: 李詹
+  language: lzh
+  text: 行旅知多少閑人似我稀愛山隨處駐得句獨吟歸僧院秋方至官塗露未晞會當容此膝江上有魚磯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 將赴密陽歇馬茵橋新院
+  author: 李詹
+  language: lzh
+  text: 行旅知多少。閑人似我稀。愛山隨處駐。得句獨吟歸。僧院秋方至。官塗露未晞。會當容此膝。江上有魚磯。
+korean:
+  title: 밀양으로 가면서 인교신원에서 말을 쉬며
+  author: 이첨
+  language: kor
+  text: |-
+    여행하는 이 얼마인가
+    나처럼 한가로운 사람도 드물리라
+    산을 사랑하니 곳곳에 말을 멈추고
+    시구를 얻어 혼자 읊어 돌아간다
+    산 절간에는 가을이 바야흐로 이르고
+    한길에는 이슬이 아직 마르지 않았네
+    마침내 이 한 몸을 부칠 만한 데는
+    강 위에 낚시터가 있구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0780&viewSync=OT
+  footnotes: []
+english:
+  title: Resting My Horse at Ingyeo Shrine While Traveling to Miryang
+  author: Lee Cham
+  language: eng
+  text: |-
+    How many travelers pass this way?
+    Few are idle like me.
+    Loved mountains make me linger at each turn,
+    And I return home alone, reciting verses found.
+
+    Autumn arrives at the mountain temple,
+    Dew still clings to the official road.
+    At last, I know where to rest this weary frame—
+    On the river's bank, where the fishing rocks await.
+  footnotes:
+  - key: ''
+    value: The poem reflects the poet's contemplative journey, contrasting the bustle of travel with the solace of solitude and nature. Miryang was an important region in medieval Korea, and the shrine (신원) served as a rest station for travelers.

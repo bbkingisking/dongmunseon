@@ -1,0 +1,54 @@
+canonical:
+  title: 文機障子
+  author: 李仁老
+  language: lzh
+  text: 玉色臨軒命管絃春風淡蕩上元天紅雲早綴鴉頭髻碧縷輕飄獸鼎煙桃熟已敎金母獻曲高新自月娥傳壽杯浮動南山影奉祝天皇八萬年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 文機障子
+  author: 李仁老
+  language: lzh
+  text: 玉色臨軒命管絃。春風淡蕩上元天。紅雲早綴鴉頭髻。碧縷輕飄獸鼎煙。桃熟已敎金母獻。曲高新自月娥傳。壽杯浮動南山影。奉祝天皇八萬年。
+korean:
+  title: 문기 장자
+  author: 이인로
+  language: kor
+  text: |-
+    임금님께서 난간에 납시와 관현을 명하시니
+    봄 바람 다사로운 정월에도 대보름날
+    까만 머리 쪽지엔 붉은 구름 엮어있고
+    보정의 연기는 푸른 올이 나부끼네
+    익은 복숭아는 금모(서왕모(西王母))더러 바치라 하세
+    새로 만든 노래곡조는 월궁 항아가 전해준 것
+    헌수배에 남산 그림자 어렸으니
+    천황의 만 8천 년 사시기 못내 봉축하옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 새로 만든 …… 전해준 것 : '
+    value: 나공원(羅公遠)이 비술(秘術)이 많았는데, 일찍이 현종(玄宗)과 함께 월궁(月宮)에 이르니, 선녀 수백이 흰 비단 무지개 치마로 넓은 뜰에 춤추고 있었다. 그 곡을 물으니, ‘예상우의(霓裳羽衣)’라 했다. 공원이 잠자코 그 음조를 기억하고 돌아와 다음날 악공을 불러 그 음조대로 ‘예상우의곡’을 지었다.
+  - key: '[주-D002] 헌수배(獻壽盃)에 …… 어렸으니 : '
+    value: 《시경(詩經)》에, “남산과 같이 오래 사시어, 안 넘어지고 안 무너지소서.” 하는 축수(祝壽)의 구절이 있다.
+  - key: '[주-D003] 천황(天皇)의 만 8천 년 : '
+    value: 태고(太古) 적에 천황씨(天皇氏)는 만 팔천세(萬八千歲)를 살았다는 신화(神話)가 있다.
+english:
+  title: Screen of Literary Artifice
+  author: Lee In-ro
+  language: eng
+  text: |-
+    The lord commands the strings and winds from his pavilion rail,
+    Where spring's gentle breath sweeps through this Lantern Festival night.
+    Red clouds are woven into the blackness of her coiffed hair,
+    And blue threads of smoke from the beast-shaped censer drift and dance.
+
+    The ripened peaches—let them be offered to the Queen Mother of the West,
+    While this newly crafted melody, they say, the Moon Goddess herself has given.
+    In the offering cup the shadow of South Mountain trembles and floats,
+    And I pray ceaselessly that our sovereign reign eight thousand years.
+  footnotes:
+  - key: ''
+    value: The 'newly crafted melody' alludes to the famous composition of the Feather Garment Dance (Yeosaangyuui), said to have been learned from heavenly musicians in the lunar palace.
+  - key: ''
+    value: 'The reference to South Mountain invokes the classic blessing: ''May you endure long as South Mountain, unmoved and unshaken.'''
+  - key: ''
+    value: The 'eight thousand years' references the mythical lifespan of the Heavenly Emperor in ancient cosmology.

@@ -1,0 +1,45 @@
+canonical:
+  title: 城上
+  author: 李承召
+  language: lzh
+  text: 書劒無成鬢已衰又有庭樹葉辭枝秋風客子登高處落日長空鴈過時霜重江楓紅暗淡天晴雲岫碧參差此身知足還無事肯爲封侯嘆數奇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 城上
+  author: 李承召
+  language: lzh
+  text: 書劒無成鬢已衰。又有庭樹葉辭枝。秋風客子登高處。落日長空鴈過時。霜重江楓紅暗淡。天晴雲岫碧參差。此身知足還無事。肯爲封侯嘆數奇。
+korean:
+  title: 성상
+  author: 이승소
+  language: kor
+  text: |-
+    글도 칼도 이루지 못하고 머리털은 세었는데
+    또 뜰의 나뭇잎은 그 가지를 하직한다
+    가을바람의 나그네가 높은 데 오르는 곳이요
+    지는 해의 긴 허공에 기러기 지날 때다
+    서리가 거듭하매 강가의 단풍잎의 붉은 빛은 암담하고
+    하늘이 맑으매 구름 도는 멧부리의 푸른 빛은 참치하다
+    이 몸은 만족할 줄을 알아 다시 일이 없거니
+    어찌 봉후를 위해 불운을 한탄하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 봉후(封侯) : '
+    value: 한나라 이광(李廣)이란 대장은 가장 용감하고 전쟁에 능한 사람이었으나, 한 번도 성공하지 못하였으므로 그의 전날 부하들은 모두 공신(功臣)이 되어 후(侯)를 봉하였으나, 이광만 후로 봉하는 운수가 없었다.
+english:
+  title: On the City Wall
+  author: Lee Seungso
+  language: eng
+  text: |-
+    Neither brush nor blade have I mastered, yet my hair has turned gray.
+    Now even the leaves in the courtyard bid farewell to their branches.
+    Here on this high place, an autumn wind touches the wanderer,
+    As the setting sun stretches across the void and geese pass through.
+    Frost weighs heavy—the crimson maples by the river fade to shadow,
+    The sky clears—the blue peaks where clouds drift shimmer and scatter.
+    This body knows contentment and asks for nothing more,
+    Why should I lament a fate that denied me titles and rank?
+  footnotes:
+  - key: ''
+    value: The reference to 'titles and rank' (封侯) alludes to the tragic story of Li Guang, a celebrated Han Dynasty general whose subordinates all received noble titles while he, despite his valor and military prowess, never received the recognition he deserved. The poet uses this as a meditation on acceptance of fate and contentment with one's lot.

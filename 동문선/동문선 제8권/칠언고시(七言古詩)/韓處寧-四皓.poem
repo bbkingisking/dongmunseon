@@ -1,0 +1,85 @@
+canonical:
+  title: 四皓
+  author: 韓處寧
+  language: lzh
+  text: 吾聞昔者商山翁年皆皓首頗同道風塵澒洞暗豐鎬鴻飛冥冥向秋昊高山蒼蒼谷逶遲採採紫芝事幽討龍虎相啗秦灰冷幾人韜光恨不早志在唐虞嗟世遠豈向高皇展懷抱前星失耀亂天常義士聞此猶驚倒周昌廷爭竟末如蕭曹良平色枯槁賁然一起羽翼成微爾漢祚誰能保惜哉隆準未縶駒終令遠引從所好我今作歌歌四皓淸風飈飈日杲杲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 四皓
+  author: 韓處寧
+  language: lzh
+  text: 吾聞昔者商山翁。年皆皓首頗同道。風塵澒洞暗豐鎬。鴻飛冥冥向秋昊。高山蒼蒼谷逶遲。採採紫芝事幽討。龍虎相啗秦灰冷。幾人韜光恨不早。志在唐虞嗟世遠。豈向高皇展懷抱。前星失耀亂天常。義士聞此猶驚倒。周昌廷爭竟末如。蕭曹良平色枯槁。賁然一起羽翼成。微爾漢祚誰能保。惜哉隆準未縶駒。終令遠引從所好。我今作歌歌四皓。淸風飈飈日杲杲。
+korean:
+  title: 사호
+  author: 한처령
+  language: kor
+  text: |-
+    내 들으니, 옛날 상산의 네 늙은이
+    다 같은 흰 머리로 같은 도를 품었네
+    진나라의 정치가 한창 어지러울 때
+    가물가물 기러기가 가을 하늘에 날듯이
+    창창한 높은 산, 구불구불 골짜기에
+    붉은 지초를 캐고 캐며 산수를 즐겼다네
+    용(한 고조(漢高祖)를 말함)과 범(항우(項羽)를 말함)이 서로 물고 진나라 재가 식었을 제
+    진작 숨지 못했음을 몇 사람이 한했던고
+    뜻은 당우에 있건만, 아아, 세상이 다르니
+    어찌 고조에게 포부를 펼 수 있으리
+    전성이 빛을 잃고 천상이 어지러워질 때
+    의사가 이 소식 듣고 깜짝 놀랄 수밖에
+    주창이 정쟁해도 끝내 어쩔 수 없고
+    소ㆍ조ㆍ양ㆍ평도 얼굴이 핼쓱했네
+    이때 분연히 일어나 태자의 우익을 이루었으니
+    그대들 아니면 한조 어이 보전했으리
+    아깝다, 코 큰 분(한 고조(漢高祖)) 백구를 못 매어
+    그들은 마침내 멀리 가 멋대로 살고 말았구나
+    내 이제 노래 지어 사호를 노래하니
+    청풍이 우수수 일고 해 떠올라 환하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 붉은 지초[紫芝] : '
+    value: 사호(四皓)가 상산(商山)에 숨어 있을 때에, “빛나는 붉은 지초는 가히 요기할 만하도다[燁燁紫芝 可以療飢].”라는 노래를 지어서 불렀다.
+  - key: '[주-D002] 진(秦)나라 재 : '
+    value: 진 시황(秦始皇)이 시서(詩書)와 백가어(百家語)들의 책을 모두 불살랐으므로, 그 재[灰]를 말한 것이다.
+  - key: '[주-D003] 전성(前星) : '
+    value: 태자(太子)를 가리킨다.
+  - key: '[주-D004] 주창(周昌) : '
+    value: 한 고조의 공신으로 고조가 태자를 폐하지 못하게 어사대부(御史大夫)로서 간쟁하였다.
+  - key: '[주-D005] 소(蕭)ㆍ조(曹)ㆍ양(良)ㆍ평(平) : '
+    value: 모두 한 고조의 공신들로서 소하(蕭何)ㆍ조참(曹參)ㆍ장량(張良)ㆍ진평(陳平).
+  - key: '[주-D006] 백구(白駒) : '
+    value: 《시경》에, “흰 망아지[白駒]가 나의 동산에서 풀을 먹는다. 그것을 매어서 오래 머물게 하리라.” 하였는데, 이 시를 인용하여 사호(四皓)가 다시 상산으로 돌아간 데 비유하였다.
+english:
+  title: The Four Hoary Ones
+  author: Han Cheo-nyeong
+  language: eng
+  text: |-
+    I have heard of the Four Old Men of Shang Mountain in ancient days,
+    Whose hair all silvered, their hearts aligned in one noble way.
+    When Qin's rule grew turbulent as dust in wind,
+    Like geese lost in mist, they flew toward autumn's sky.
+    In high blue mountains, through winding valleys deep,
+    They gathered purple fungus, seeking solitude's secrets.
+    When dragon and tiger clashed and Qin's ashes grew cold,
+    How many sages mourned their late concealment!
+    Their hearts yearned for the sage-kings of old,
+    Yet how could they unfold their dreams to the new Han lord?
+    When the bright star dimmed and heaven's order grew strange,
+    The righteous men who heard this news fell in amazement.
+    Zhou Chang debated in court but could not prevail;
+    Xiao, Cao, Zhang, and Chen—their faces grew pale.
+    Then suddenly they rose to become the young prince's wing,
+    Without them, who could have preserved the Han dynasty's fate?
+    Alas, that the great-nosed one could not bind the white colt,
+    And thus they withdrew to live as they pleased in distant mountains.
+    Now I compose this song in praise of the Four Hoary Ones,
+    As pure winds stir gently and the sun shines bright and clear.
+  footnotes:
+  - key: ''
+    value: The 'purple fungus' (紫芝) refers to a legendary fungus that the Four Hoary Ones sang of eating to sustain themselves while hidden on Shang Mountain.
+  - key: ''
+    value: The 'dragon and tiger' are metaphors for the rivalry between Liu Bang (the future Han founder) and Xiang Yu during the Qin's collapse.
+  - key: ''
+    value: The 'great-nosed one' refers to Liu Bang, alluding to a classical poem about binding a white colt to make it stay—here symbolizing the inability to retain the sages' service.
+  - key: ''
+    value: The Four Hoary Ones ultimately returned to Shang Mountain, refusing to permanently serve at court despite their brief involvement in securing the succession of the young prince.

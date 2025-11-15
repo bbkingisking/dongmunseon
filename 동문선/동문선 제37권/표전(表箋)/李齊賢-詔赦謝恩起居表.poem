@@ -1,0 +1,37 @@
+canonical:
+  title: 詔赦謝恩起居表
+  author: 李齊賢
+  language: lzh
+  text: 北辰居所下臨析木之津東海守封上祝蟠桃之歲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詔赦謝恩起居表
+  author: 李齊賢
+  language: lzh
+  text: 北辰居所。下臨析木之津。東海守封。上祝蟠桃之歲。
+korean:
+  title: 조사 사은 기거 표
+  author: 이제현
+  language: kor
+  text: 북신(北辰)이 제자리에 있음에 아래로 석목진(析木津)에 임하였고동해에 봉강(封疆)을 지키매 위로 반도(蟠桃)의 나이를 빌겠나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 석목진(析木津)에 임하였고 : '
+    value: 《논어》에 “정치를 덕으로써 하는 것은, 비유하면 북신(北辰 북극(北極))이 제자리에 있으면 모든 별이 그리로 향(向)함과 같다.” 하였다. 석목진은 성좌(星座)의 이름이다.
+  - key: '[주-D002] 반도(蟠桃) : '
+    value: 서왕모(西王母)의 동산에 반도라는 복숭아나무가 있는데, 3천년 만에 열매가 한 번씩 성숙한다 한다.
+english:
+  title: Memorial of Gratitude for the Edict of Amnesty
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The North Star holds its place on high,
+    Looking down upon the constellation's ford.
+    Guarding the Eastern Sea's domain,
+    I humbly beseech the peaches of immortal years.
+  footnotes:
+  - key: ''
+    value: The North Star and constellation reference alludes to Confucian governance—when the North Star remains in its proper place, all other stars turn toward it, as when a ruler governs through virtue, all subjects naturally align.
+  - key: ''
+    value: The 'peaches of immortal years' refer to the legendary peaches of the Queen Mother of the West, which ripen only once every three thousand years, symbolizing long life and divine blessing.

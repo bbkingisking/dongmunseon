@@ -1,0 +1,49 @@
+canonical:
+  title: 李相國
+  author: 林桂一
+  language: lzh
+  text: 二萬蓮經三十春草庵諸子化循循郵亭半世爲行客香社多年戀主人已與劉雷同入道休憑沮溺欲知津想看天際遙招手雲捲台崖翠色新
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李相國
+  author: 林桂一
+  language: lzh
+  text: 二萬蓮經三十春。草庵諸子化循循。郵亭半世爲行客。香社多年戀主人。已與劉雷同入道。休憑沮溺欲知津。想看天際遙招手。雲捲台崖翠色新。
+korean:
+  title: 다시 이 상국
+  author: 임계일
+  language: kor
+  text: |-
+    2만 연경을 30년간 설법하여
+    암자의 여러 제자들이 모두 감화되었네
+    역로 반생에 행객이 되었던 이 몸
+    향사 여러 해 동안 주인을 그리워했네
+    유ㆍ뇌들과 함께 이미 도에 들었으니
+    장저ㆍ걸익한테 나루를 물을 것 없네
+    멀리 하늘가에서 날 부르며 손젓는 곳
+    천태산 구름 걷힌 봉에 푸른 빛이 새로우리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유(劉)ㆍ뇌(雷) : '
+    value: 진대(晉代) 여산(盧山) 혜원사(慧遠師)의 주위에 모였던 백련사(白蓮社)의 인물들. 유유민(劉遺民)ㆍ뇌차종(雷次宗)ㆍ주속지(周續之)ㆍ종병(宗炳) 등.
+english:
+  title: To Prime Minister Lee Again
+  author: Im Gye-il
+  language: eng
+  text: |-
+    Thirty springs of preaching the Lotus Sutra in ten thousand forms—
+    all the disciples in the mountain hermitage transformed and awakened.
+    Half a lifetime spent as a wanderer on dusty roads,
+    yet for years I have yearned for the master in the fragrant assembly.
+    Already having entered the Way with Liu and Lei,
+    why ask the ferryman about the crossing?
+    I imagine you far at heaven's edge, waving me near—
+    on Tiantai's peaks, the clouds part to reveal jade-green summits anew.
+  footnotes:
+  - key: ''
+    value: Liu and Lei refer to Liu Yimin and Lei Cizhong, members of the White Lotus Society gathered around Master Huiyuan at Lushan during the Jin Dynasty—a legendary assembly of Buddhist practitioners who achieved enlightenment together.
+  - key: ''
+    value: The ferryman and the crossing allude to crossing the river of suffering to reach enlightenment, suggesting that one who has already entered the Way needs no intermediary guidance.
+  - key: ''
+    value: Tiantai refers to Mount Tiantai, a sacred Buddhist mountain in China associated with the Tiantai school of Buddhism.

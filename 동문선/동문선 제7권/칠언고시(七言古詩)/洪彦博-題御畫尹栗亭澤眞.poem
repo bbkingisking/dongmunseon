@@ -1,0 +1,51 @@
+canonical:
+  title: 題御畫尹栗亭澤眞
+  author: 洪彦博
+  language: lzh
+  text: 忠良一箇老書生眼高長與世異好邇來見我何無言風神颯爽須眉皓世閒物我本非眞亦知此身非所保焚香對御共傳燈未必桑門能達道凌烟將相功謾多未得君王親一掃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題御畫尹栗亭澤眞
+  author: 洪彦博
+  language: lzh
+  text: 忠良一箇老書生。眼高長與世異好。邇來見我何無言。風神颯爽須眉皓。世閒物我本非眞。亦知此身非所保。焚香對御共傳燈。未必桑門能達道。凌烟將相功謾多。未得君王親一掃。
+korean:
+  title: 어화 윤율정 초상에
+  author: 홍언박
+  language: kor
+  text: |-
+    충량한 늙은 서생이
+    눈이 높아 항상 세상과 기호를 달리했네
+    요새 나를 보고 왜 말이 없는고
+    풍신은 산뜻하고 수염 눈섭은 희구나
+    세간의 「나」라, 남이라 하는 것은 본디 참이 아니어니
+    이 몸이 보전될 바 못 되는 것도 아노라
+    향 피우며 마주 앉아 함께 전등(전도)하니
+    불문(상문)이어야 반드시 도를 통하는 것 아니라네
+    능연각의 장상 부질없이 공만 많았지
+    임금 손에 한 폭 그려지지 못했으니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: On the Royal Portrait of Yun Yuljung
+  author: Hong Eon-bak
+  language: eng
+  text: |-
+    A loyal and honest old scholar,
+    With eyes too high, forever at odds with the world's desires.
+    Why do you say nothing when you see me now?
+    Your spirit is crisp and clear—your beard and brows have turned white.
+
+    What the world calls "self" and "other" was never truly real;
+    I know well this body is not meant to be preserved.
+    Burning incense, sitting face to face, we pass the lamp together—
+    Yet a Buddhist monk need not grasp the Way through robes alone.
+
+    The generals on the Ling Yan pavilion achieved much glory,
+    But never was their portrait brushed by the royal hand.
+  footnotes:
+  - key: ''
+    value: The 'lamp' (傳燈) references the Zen Buddhist transmission of enlightenment, suggesting the passing of spiritual truth beyond formal religious status.
+  - key: ''
+    value: The Ling Yan pavilion (凌烟閣) was a famous Tang Dynasty hall where portraits of distinguished generals and officials were displayed, symbolizing the highest worldly honor.

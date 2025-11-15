@@ -1,0 +1,43 @@
+canonical:
+  title: 福州暎湖樓
+  author: 辛蕆
+  language: lzh
+  text: 此樓佳致說毋多摘勝探奇莫我加百里桑陰藏野店四山松翠護官家江頭雨暗連天草卷口煙濃出屋花只解登臨如嘿嘿詩人沒彩也如槎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 福州暎湖樓
+  author: 辛蕆
+  language: lzh
+  text: 此樓佳致說毋多。摘勝探奇莫我加。百里桑陰藏野店。四山松翠護官家。江頭雨暗連天草。卷口煙濃出屋花。只解登臨如嘿嘿。詩人沒彩也如槎。
+korean:
+  title: 복주 영호루
+  author: 신천
+  language: kor
+  text: |-
+    이 다락의 좋은 경치를 너무 말하지 마소
+    명승을 찾기야 나보다 나을 이 누구인가
+    백 리 길 뽕나무 그늘에 들주막이 감추였고
+    사면 산 푸른 솔이 관가를 둘러있네
+    비 내리는 강가, 어두운 하늘에 닿은 풀빛
+    마을에 연기 자욱한데 집에 갸웃이 뵈는 꽃
+    올라와 놀 줄만 알고 잠잠히 있으니
+    시인의 생색 없음이 마른 떼와 비슷하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0350&viewSync=OT
+  footnotes: []
+english:
+  title: The Yinghu Tower in Fuzhou
+  author: Shin Cheon
+  language: eng
+  text: |-
+    Do not speak too much of this tower's beauty—
+    who surpasses me in seeking hidden wonders?
+    A hundred miles of mulberry shade conceals a country inn,
+    four mountainsides of green pine guard the official's hall.
+    By the river's edge, rain darkens the sky-touching grass,
+    smoke gathers thick above the town, flowers glimpsed through eaves.
+    I know only how to climb and linger in silence,
+    the poet's faded glory resembles a withered raft adrift.
+  footnotes:
+  - key: ''
+    value: The 'withered raft' (槎) in the final line evokes both futility and the wandering nature of poets, suggesting the speaker's modest place in the landscape despite his keen perception.

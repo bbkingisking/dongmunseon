@@ -1,0 +1,37 @@
+canonical:
+  title: 東都戲題
+  author: 李之氐
+  language: lzh
+  text: 乘醉昏昏曉夢顚不知帳下玉人眠故應解賦西江月莫咲風情减少年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東都戲題
+  author: 李之氐
+  language: lzh
+  text: 乘醉昏昏曉夢顚。不知帳下玉人眠。故應解賦西江月。莫咲風情减少年。
+korean:
+  title: 동도희 제
+  author: 이지저
+  language: kor
+  text: |-
+    술에 취해 혼혼하니 새벽꿈이 어지러워
+    방장 안에 옥 같은 미인 자고 있는 줄 몰랐네
+    응당 서강월(西江月) 읊을 줄 알 것이라
+    풍정이 소년 때보다 감했다고 웃지를 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0550&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 서강월(西江月) : '
+    value: 사곡(詞曲) 이름인데, 남녀의 애정을 노래한 것이다.
+english:
+  title: A Playful Verse on the Eastern Capital
+  author: Lee Ji-jeok
+  language: eng
+  text: |-
+    Drunk and dazed, I stumble through the dawn dream—
+    Unaware that within the chambers sleeps a beauty rare as jade.
+    Surely I should compose a verse in the mode of "Moonlight on the Western River,"
+    But do not laugh at how passion's fire has dimmed with passing years.
+  footnotes:
+  - key: ''
+    value: '"Moonlight on the Western River" refers to a lyric form traditionally devoted to songs of love and romance between men and women.'

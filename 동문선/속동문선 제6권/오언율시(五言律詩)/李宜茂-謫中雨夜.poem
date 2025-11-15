@@ -1,0 +1,45 @@
+canonical:
+  title: 謫中雨夜
+  author: 李宜茂
+  language: lzh
+  text: 窮秋連一雨永夜泣孤臣不死緣明主無家作遠人年光吟裏老時態坐來新何日金鷄放歸歟得此身
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謫中雨夜
+  author: 李宜茂
+  language: lzh
+  text: 窮秋連一雨。永夜泣孤臣。不死緣明主。無家作遠人。年光吟裏老。時態坐來新。何日金鷄放。歸歟得此身。
+korean:
+  title: 적중 우야
+  author: 이의무
+  language: kor
+  text: |-
+    깊은 가을에 잇따라 비오는데
+    긴 밤은 외로운 신하를 울리나니
+    죽지 않는 것은 밝은 임금 때문이요
+    집이 없으매 먼 나그네 되었구나
+    세월은 흘러 읊조리는 속에 늙고
+    세상 형편은 앉은 동안 새로웠다
+    어느 날에나 금계를 놓아
+    이 몸이 얻어 돌아갈거나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금계(金鷄) : '
+    value: 당나라에서는 대사(大赦)가 있으면 붉은 옷 입은 아전이 금으로 만든 닭을 가지고 돌아다닌다고 한다.
+english:
+  title: Rain on a Night of Exile
+  author: Lee Ui-moo
+  language: eng
+  text: |-
+    Autumn deepens as endless rain descends,
+    The long night weeps for this lonely minister.
+    I live because my sovereign shines with wisdom;
+    Without a home, I wander as a stranger far.
+    Years pass away within my verses—I grow old,
+    Yet the world transforms while I merely sit.
+    When will the golden rooster fly at last?
+    Then this body might return, redeemed.
+  footnotes:
+  - key: ''
+    value: 'The ''golden rooster'' alludes to imperial amnesty: in Tang China, when clemency was granted, officials dressed in red carried golden roosters as symbols of the pardon''s arrival.'

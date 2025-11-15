@@ -1,0 +1,65 @@
+canonical:
+  title: 不飮
+  author: 蔡壽
+  language: lzh
+  text: 昔爲醉吟人眞得醉中樂世人皆謂狂吾獨適其適中爲酒病客不保朝與夕妻子憂性命吾獨不悔惜醉時吟酒詩天地一幕席病時有病詩彭殤皆妄作如今作癡漢不能飮一勺飮則輒嘔吐不飮稍能食精神稍復醒肌膚稍潤色世人皆驚恠昔狂今始覺妻子喜欲顚死骨稍蘇息吾獨惘然悲如自鈞天落昔樂今悄悄昔放今局促夢中爲君王溷廁爲天堂未知孰爲覺未知孰爲狂恍惚不可知吾欲問彼蒼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 不飮
+  author: 蔡壽
+  language: lzh
+  text: 昔爲醉吟人。眞得醉中樂。世人皆謂狂。吾獨適其適。中爲酒病客。不保朝與夕。妻子憂性命。吾獨不悔惜。醉時吟酒詩。天地一幕席。病時有病詩。彭殤皆妄作。如今作癡漢。不能飮一勺。飮則輒嘔吐。不飮稍能食。精神稍復醒。肌膚稍潤色。世人皆驚恠。昔狂今始覺。妻子喜欲顚。死骨稍蘇息。吾獨惘然悲。如自鈞天落。昔樂今悄悄。昔放今局促。夢中爲君王。溷廁爲天堂。未知孰爲覺。未知孰爲狂。恍惚不可知。吾欲問彼蒼。
+korean:
+  title: 불음
+  author: 채수
+  language: kor
+  text: |-
+    옛날 취하여 읊조리는 사람 되었을 땐
+    취중의 낙을 참으로 얻었었네
+    세상이 다 미치광이라 일러도
+    나만은 내 멋에 살더니
+    중간에 술 병이 나서
+    조석을 보증키 어려워라
+    처자가 내 생명을 걱정하나
+    나만은 후회도 아낌도 없네
+    취하여 술 시를 읊으니
+    천지가 한 막과 자리요
+    병들 땐 병시를 지으니
+    장수와 조사가 다 헛것이로다
+    지금엔 그만 치한이 되어
+    한 잔도 마시지 못하네
+    마시면 고대 토하고
+    안 마시면 제법 밥을 먹어
+    정신이 차차 되 깨어나고
+    피부도 차차 윤가가 도니
+    사람들 모두 놀라 이상타 하고
+    옛날의 미쳤던 것 지금 깨닫네
+    처자들이 기뻐 어쩔 줄을 모르며
+    다 죽었던 뼈가 되살아난다고
+    나만은 망연히 마음에 슬퍼
+    균천의 꿈에서 떨어진 듯
+    옛날엔 즐겁더니 지금은 서글퍼
+    옛날엔 호방터니 지금은 좀스럽네
+    꿈속엔 거지가 임금도 되고
+    뒷간이 천당도 되나니
+    누가 과연 깬 것이며
+    누가 과연 미친 것이랴
+    알송달송 모르겠으니
+    내 저 푸른 하늘에 물어보려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0460&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천지가 …… 자리요 : '
+    value: 유령(劉伶)의 주덕송(酒德頌)에 있는 문구이다.
+  - key: '[주-D002] 균천(鈞天) : '
+    value: 진목공(秦穆公)이 꿈에 균천(鈞天)에 올라가서 천상의 음악을 듣다가 깨어났다.
+english:
+  title: No Drinking
+  author: Cai Shou
+  language: eng
+  text: "Once I was a man drunk on verse,\ntruly tasting the joy of intoxication—\nthough the world called me mad,\nI alone knew my bliss.\n\nThen came the wine sickness,\nuncertain if dawn would greet the dusk.\nMy wife and children trembled for my life,\nyet I harbored no regret.\n\nDrunk, I composed songs of wine;\nthe heavens and earth became my stage.\nIll, I wrote poems of illness;\nlong life and early death both vanished like smoke.\n\nNow I've become a fool who cannot drink—\neven a single cup undoes me.\nI sip and retch; I abstain and eat my fill.\nMy spirit grows lucid,\nmy skin takes on color.\n\nThe world marvels and calls it strange:\n\"Yesterday's madness, today's awakening!\"\nMy wife and children leap with joy—\n\"Your withered bones breathe again!\"\n\nBut I alone sit heavy with sorrow,\nas though fallen from the celestial dream.\n\nYesterday's joy now turns to quiet;  \nyesterday's freedom now feels confined.\nIn dreams I become a king,\nthe outhouse transforms to paradise.\n\nWhich is waking? Which is madness?\nI cannot tell.\nConfused and lost, I know not—\nso I would ask the vast blue heaven above."
+  footnotes:
+  - key: ''
+    value: The image of heaven and earth as a stage references Liu Ling's classical essay 'In Praise of Wine,' where he describes the vastness of creation as a setting for the wine-drinker's joy.
+  - key: ''
+    value: The 'celestial dream' alludes to the story of Duke Mu of Qin, who dreamed of ascending to the heavens to hear celestial music, only to awaken to ordinary reality—a metaphor for the loss of transcendent experience.

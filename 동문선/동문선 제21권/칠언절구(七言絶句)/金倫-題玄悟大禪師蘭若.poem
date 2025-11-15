@@ -1,0 +1,37 @@
+canonical:
+  title: 題玄悟大禪師蘭若
+  author: 金倫
+  language: lzh
+  text: 我性平生酷愛山愛山何事又催還山靈應笑紅塵客擾擾曾無一日閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題玄悟大禪師蘭若
+  author: 金倫
+  language: lzh
+  text: 我性平生酷愛山。愛山何事又催還。山靈應笑紅塵客。擾擾曾無一日閑。
+korean:
+  title: 제현오대선사난야
+  author: 김륜
+  language: kor
+  text: |-
+    내 성질이 평생에 산을 몹시 좋아하거니
+    산을 좋아하면서 또 무슨 일로 〈서울로〉 돌아오기를 재촉하는가
+    산령은 아마 웃으리라 홍진의 손이
+    언제나 분주하여 하루도 한가한 날이 없는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0310&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on the Hermitage of Master Hyeonwu the Great Zen Practitioner
+  author: Kim Ryun
+  language: eng
+  text: |-
+    My nature has always loved the mountains dearly—
+    Yet loving mountains, what urgency calls me back?
+    The mountain spirit must laugh at this dusty-world wanderer,
+    Whose days are endless bustle, never knowing a moment's rest.
+  footnotes:
+  - key: ''
+    value: The 'mountain spirit' (山靈) represents the personified essence of the mountain, which observes the poet's conflicted attachment to both mountain retreat and worldly affairs.
+  - key: ''
+    value: The 'red dust' (紅塵) is a Buddhist metaphor for the mundane world of human desires and attachments, in contrast to the spiritual purity of mountain solitude.

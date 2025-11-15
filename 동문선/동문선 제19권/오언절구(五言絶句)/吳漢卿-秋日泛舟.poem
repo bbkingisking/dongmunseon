@@ -1,0 +1,46 @@
+canonical:
+  title: 秋日泛舟
+  author: 吳漢卿
+  language: lzh
+  text: 海霧晴猶暗江風晚更斜滿汀紅葉亂疑是泛桃花水鳥浮還沒沙洲直復斜傍舟山展畫迎棹浪生花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋日泛舟
+  author: 吳漢卿
+  language: lzh
+  text: 海霧晴猶暗。江風晚更斜。滿汀紅葉亂。疑是泛桃花。水鳥浮還沒。沙洲直復斜。傍舟山展畫。迎棹浪生花。
+korean:
+  title: 가을날 배를 띄운다
+  author: 오한경
+  language: kor
+  text: |-
+    바다 안개는 개도 오히려 어두운데
+    강바람은 늦게 다시 비끼누나
+    물가에 가득히 단풍잎이 흩어진 것을
+    복사꽃이 떠 오는가 의심하였네
+    물새는 떴다가 도리어 잠기는데
+    사주는 곧다가 비뚤었다가 하네
+    배 가까이 산이 그림을 펼치고
+    돛대를 맞아 물결이 꽃을 일으키네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 복사꽃이 떠 오는가 : '
+    value: 무릉도원(武陵桃源)의 고사(故事)를 연상한 것인데, “어부(漁父)가 냇물에 복사꽃이 떠 오는 것을 보고 물을 따라 올라가서 선경(仙境)을 발견하였다.” 한다.
+english:
+  title: Boating on an Autumn Day
+  author: Oh Han-gyeong
+  language: eng
+  text: |-
+    Sea mist clears, yet darkness lingers still.
+    The river wind turns slant as evening falls.
+    Red leaves scatter thick along the shore—
+    I wonder if it's peach blossoms drifting by.
+
+    Water birds rise up, then dive below.
+    Sandbars straighten, curve, then straighten once more.
+    Mountains near the boat unfold like paintings,
+    And waves meet our sail to bloom like flowers.
+  footnotes:
+  - key: ''
+    value: The mention of peach blossoms evokes the legend of Peach Blossom Spring, where a fisherman follows drifting peach blossoms upstream and discovers a hidden paradise—a realm of immortals untouched by worldly concerns.

@@ -1,0 +1,94 @@
+canonical:
+  title: 陶潛贊 幷序
+  author: 李奎報
+  language: lzh
+  text: 予讀淵明本傳及詩集愛其廣達故贊之云無絃琴上怡怡其心人曰無絃不如無琴有琴無絃安有厥音若曰寓意凡物皆是淵明嗜酒惟日以醉有盃無酒其可醉止達士之趣人豈易會所攝者內可遺者外苟慕於外惟慾之漸豈獨絃耳需索莫猒苟遺其內短折之招眞人鍊丹長生是邀酒亦神藥不飮病隨絃寧可忘酒不可離
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陶潛贊 幷序
+  author: 李奎報
+  language: lzh
+  text: 予讀淵明本傳及詩集。愛其廣達故贊之云。無絃琴上。怡怡其心。人曰無絃。不如無琴。有琴無絃。安有厥音。若曰寓意。凡物皆是。淵明嗜酒。惟日以醉。有盃無酒。其可醉止。達士之趣。人豈易會。所攝者內。可遺者外。苟慕於外。惟慾之漸。豈獨絃耳。需索莫猒。苟遺其內。短折之招。眞人鍊丹。長生是邀。酒亦神藥。不飮病隨。絃寧可忘。酒不可離。
+korean:
+  title: 도잠찬 병서
+  author: 이규보
+  language: kor
+  text: |-
+    나는 도연명(陶淵明)의 본전과 시집을 읽고 그 광달(廣達)한 성격을 사랑하였다. 그러므로 다음과 같이 찬하였다.
+    줄 없는 거문고 위엔
+    즐겁고 즐거운 그 마음일래
+    남들은 말하기를, 줄이 없으면
+    거문고는 있어 무엇하리
+    거문고만 있고 줄이 없으면
+    어디서 그 소리가 나올건고
+    만약에 뜻을 부친 거라면
+    물건치고는 다 그렇지
+    연명이 술을 즐기어
+    나날이 취할 뿐이지만
+    술잔만 있고 술이 없으면
+    그래도 취할 수 있단 말인가
+    달관한 선비의 지취를
+    사람들이 어찌 알리오
+    간직할 것은 안의 것이요
+    버릴 것은 바깥 것일세
+    진실로 바깥 것을 사모하면
+    그거 바로 욕심의 시초로세
+    어찌 거문고 줄뿐이겠나
+    수색마저 싫음 없으리
+    진실로 안의 것을 버리면
+    단명을 부르는 것야
+    진인은 금단을 달구어
+    장생을 맞으려 하네
+    술도 역시 신약이라
+    아니 마시면 병이 따르는 걸
+    거문고 줄을 차라리 잊을망정
+    술이야 떠날 수 있나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0100&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of Tao Yuanming
+  author: Lee Gyu-bo
+  language: eng
+  text: |-
+    I have read the biography and collected poems of Tao Yuanming, and grown fond of his broad and penetrating spirit. Thus I offer this praise:
+
+    Upon a stringless lute,
+    Dwell joy and contentment of heart—
+    Yet people say, without strings,
+    what use is a lute?
+    A lute bereft of strings—
+    where would its music arise?
+
+    But if we speak of harboring intent,
+    then all things are thus.
+    Tao Yuanming loved wine,
+    growing drunk day by day—
+    yet a cup without wine,
+    could it still bring intoxication?
+
+    How can the vulgar comprehend
+    the refined taste of an enlightened man?
+    What must be preserved lies within;
+    what may be discarded lies without.
+    Should one covet only the external,
+    then desire itself becomes the seed.
+    Is it merely the lute's string alone?
+    The endless grasping knows no satiation.
+
+    Should one abandon what lies within,
+    short life and early death come calling.
+    The immortal sage distills the elixir
+    to attain eternal life—
+    yet wine, too, is a divine medicine;
+    to forgo it invites affliction.
+
+    Better to forget the lute's string
+    than to part with wine.
+  footnotes:
+  - key: ''
+    value: Tao Yuanming (陶淵明, 365-427) was a celebrated Eastern Jin poet and recluse known for his love of wine and his rejection of worldly ambition.
+  - key: ''
+    value: The stringless lute and the cup without wine are metaphors for the pursuit of meaning beyond external form—the Daoist principle of finding essence in apparent emptiness.
+  - key: ''
+    value: The 'immortal sage' (真人) and 'divine medicine' (神藥) reference both Daoist alchemy and the philosophical understanding of wine as a path to spiritual transcendence.

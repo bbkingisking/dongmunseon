@@ -1,0 +1,46 @@
+canonical:
+  title: 題砥平東軒
+  author: 釋丁近
+  language: lzh
+  text: 巨嶽撑天似覆盆居民挾岸水平分臨窓赤葉風前舞出谷踈鍾月下聞靜裏有聲憐石澗閑中多事笑山雲主人淸節將誰比却恨鈴齋欠此君
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題砥平東軒
+  author: 釋丁近
+  language: lzh
+  text: 巨嶽撑天似覆盆。居民挾岸水平分。臨窓赤葉風前舞。出谷踈鍾月下聞。靜裏有聲憐石澗。閑中多事笑山雲。主人淸節將誰比。却恨鈴齋欠此君。
+korean:
+  title: 제 지평동헌
+  author: 석정근
+  language: kor
+  text: |-
+    산악이 하늘에 닿아 엎은 동이 같은데
+    인가가 억덕을 끼고 물을 갈랐구나
+    창을 여니 낙엽이 바람 앞에 춤추고
+    골을 나니 종소리가 달 아래서 들리네
+    고요한 속의 졸졸 시냇물 소리 가엾고
+    한가한 중 구름의 다사함이 우습네
+    주인의 맑은 절개를 누구에다 비길꼬
+    동헌에 이군(대의 애칭) 없음 한이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0640&viewSync=OT
+  footnotes: []
+english:
+  title: On the Eastern Pavilion of Jiping
+  author: Seok Jeong-geun
+  language: eng
+  text: |-
+    Towering peaks prop up heaven like an overturned bowl,
+    Settlements cling to the banks where waters divide.
+    From the window, crimson leaves dance before the wind,
+    Beyond the valley, bell-tones drift beneath the moon.
+
+    Within the silence, I cherish the murmur of stone streams,
+    In leisure's emptiness, I smile at the clouds' ceaseless affairs.
+    Whose purity could match the master's noble restraint?
+    Yet still I lament—the pavilion lacks this gentleman's presence.
+  footnotes:
+  - key: ''
+    value: The 'Eastern Pavilion' (東軒, Dongheon) refers to a study or retreat space, a common setting for philosophical reflection in East Asian poetry.
+  - key: ''
+    value: The final couplet plays on the dual meaning of 君 (gun/君), suggesting both 'this gentleman' and potentially a term of endearment, creating an intimate lament for an absent friend or mentor.

@@ -1,0 +1,46 @@
+canonical:
+  title: 登第
+  author: 閔光鈞
+  language: lzh
+  text: 四子同遊翰墨中爭先高折桂林叢二兄早得成龍器一弟曾收中鵠功縱薦萱堂慈母祿誰承金榜大人風瘦鵬尙有圖南翼遙望雲霄萬里通
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登第
+  author: 閔光鈞
+  language: lzh
+  text: 四子同遊翰墨中。爭先高折桂林叢。二兄早得成龍器。一弟曾收中鵠功。縱薦萱堂慈母祿。誰承金榜大人風。瘦鵬尙有圖南翼。遙望雲霄萬里通。
+korean:
+  title: 등제
+  author: 민광균
+  language: kor
+  text: |-
+    네 아들이 함께 글공부를 하여서
+    앞을 다퉈 계수를 높이 꺾었네
+    두 형은 일찌감치 큰 그릇을 이루고
+    한 아우도 진작 과녁 쏘아 맞혔네
+    훤당 어머님의 녹 받들긴 넉넉하여도
+    금방 아버님의 풍을 누가 이으리
+    대붕이 여위었어도 남명 갈 날개 있으니
+    운소를 멀리 바라매 만 리에 활짝 트였네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대붕(大鵬)이 …… 날개 있으니 : '
+    value: 《장자》에, “북명(北冥 북해(北海))에 있는 큰 붕새[大鵬]가 남명(南冥)으로 옮기는데 9만 리(里)를 날아 오른다.” 하였다.
+english:
+  title: Passing the Examination
+  author: Min Gwang-gyun
+  language: eng
+  text: |-
+    Four brothers together pursue the path of letters and learning,
+    Vying to pluck the highest laurels from the garden of success.
+    Two elder brothers have long become vessels of great promise,
+    One younger brother has already struck the target true.
+
+    Though our mother's hall receives abundant honor and reward,
+    Who will inherit our father's legacy and grace?
+    Though the great Peng bird grows lean, it still retains wings for the southern journey—
+    Gazing far toward the clouds and sky, the path opens ten thousand miles wide.
+  footnotes:
+  - key: ''
+    value: The great Peng bird (大鵬) is a reference from the Zhuangzi, describing a mythical bird that travels ninety thousand li from the northern sea (北冥) to the southern sea (南冥). Here it symbolizes aspiration and the potential for great achievement despite present limitations.

@@ -1,0 +1,37 @@
+canonical:
+  title: 書懷
+  author: 金宏弼
+  language: lzh
+  text: 處獨居閑絶往還只呼明月照孤寒煩君莫問生涯事數頃烟波數疊山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書懷
+  author: 金宏弼
+  language: lzh
+  text: 處獨居閑絶往還。只呼明月照孤寒。煩君莫問生涯事。數頃烟波數疊山。
+korean:
+  title: 서회
+  author: 김굉필
+  language: kor
+  text: |-
+    한가히 홀로 있어 오고 감이 끊이고는
+    다만 밝은 달 불러 차고 외로움 비치었네
+    그대는 아예 이 생애를 묻지 마오
+    두어 이랑 연파에 몇 첩의 청산뿐이로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections of the Heart
+  author: Kim Hong-pil
+  language: eng
+  text: |-
+    In solitude I dwell, where visits cease and comings go—
+    I call upon the bright moon to cast its light on my cold loneliness.
+    I beg you, ask me nothing of how I pass my days.
+    Just a few acres of mist-rippled water, a handful of layered green mountains.
+  footnotes:
+  - key: ''
+    value: The poem employs the traditional motif of withdrawal into nature as a spiritual refuge, a common theme in Korean Neo-Confucian literati culture.
+  - key: ''
+    value: The 'mist-rippled water' and 'layered mountains' represent both the physical landscape and the poet's inner landscape of solitude and contemplation.

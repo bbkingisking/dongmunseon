@@ -1,0 +1,50 @@
+canonical:
+  title: 送河南王使郭檢校永錫九疇
+  author: 朴尙衷
+  language: lzh
+  text: 分政河南獨緫戎中興諸將盡趍風乾坤整頓分高下江漢朝宗有會同任重誰知伊尹志時危自許孔明忠君歸好贊平南策靑史應傳不世功
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送河南王使郭檢校永錫九疇
+  author: 朴尙衷
+  language: lzh
+  text: 分政河南獨緫戎。中興諸將盡趍風。乾坤整頓分高下。江漢朝宗有會同。任重誰知伊尹志。時危自許孔明忠。君歸好贊平南策。靑史應傳不世功。
+korean:
+  title: 하남왕의 사자 검교 곽영석 구주를 보내며
+  author: 박상충
+  language: kor
+  text: |-
+    하남에 정사를 나눠 맡아 군사를 통솔하니
+    중흥의 여러 장수들 모두 그 아래 서네
+    천지가 정돈되어 높낮음이 나뉘었고
+    강한이 조종하여 여러 나라 회동하네
+    중한 책임 담당하는 이윤의 뜻 누가 알리
+    시절이 위태하니 공명의 충성을 바치려 하네
+    돌아가거든 좋게 평남책을 협찬하소
+    청사에 꽃다운 이름 길이 전하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0900&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강한(江漢)이 조종 : '
+    value: 강수(江水)과 한수(漢水)가 바다로 모여든다[江漢朝宗于海]”는 말이 있는데, 이것은 여러 제후(諸侯)들이 천자(天子)를 우러러 보고 따르는 것을 말한다.
+english:
+  title: Seeing Off Guo Jianjiao, the Envoy of the Prince of Henan, to the Nine Provinces
+  author: Park Sang-joong
+  language: eng
+  text: |-
+    Divided rule in Henan, commanding all the troops,
+    The generals of restoration all bow beneath his standard.
+    Heaven and earth set in order, rank and station assigned—
+    The Yellow and Han Rivers flow to court, kingdoms convene.
+
+    Who knows the heart of Yi Yin bearing such weight?
+    In perilous times, Kongming offers his loyal devotion.
+    When you return, speak well for the peace of the southern realm—
+    Surely your luminous name shall be recorded in history eternal.
+  footnotes:
+  - key: ''
+    value: Yi Yin was a legendary sage-minister of ancient China, known for his wisdom in governance and unwavering loyalty during turbulent times.
+  - key: ''
+    value: Kongming refers to Zhuge Liang, the celebrated strategist of the Three Kingdoms period, symbolizing loyalty and strategic brilliance in times of crisis.
+  - key: ''
+    value: The image of the Yellow and Han Rivers flowing to court and kingdoms convening is drawn from classical Chinese metaphor, representing how tributary states and peoples naturally yield to virtuous rule.

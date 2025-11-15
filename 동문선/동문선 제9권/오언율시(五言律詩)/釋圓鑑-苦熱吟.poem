@@ -1,0 +1,57 @@
+canonical:
+  title: 苦熱吟
+  author: 釋圓鑑
+  language: lzh
+  text: 有地盡炎赫無階奔廣寒瀑川思雪岳風穴憶冰巒本朝雪岳有瀑川冰山有風穴 未學乘飈列空希愛華潘何當酷吏去得與故人歡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 苦熱吟
+  author: 釋圓鑑
+  language: lzh
+  text: 有地盡炎赫。無階奔廣寒。瀑川思雪岳。風穴憶冰巒。本朝雪岳有瀑川。冰山有風穴。 未學乘飈列。空希愛華潘。何當酷吏去。得與故人歡。
+korean:
+  title: 고열음
+  author: 석원감
+  language: kor
+  text: |-
+    지상엔 온통 더위 천지
+    광한전(달나라에 있다는 궁전) 월궁으로 달아날 재주 없으니
+    설악산 폭포 생각나고
+    풍혈 있는 빙산이 그리워라
+    우리나라 설악산에 폭포가 있고 빙산에 바람 구멍[風穴]이 있다.
+    열자의 바람 타기를 못 배웠으니
+    반랑의 화산 사랑함을 공연히 바라네
+    어쩌면 혹리가 가고
+    고인 반가이 만나 기쁘게 놀까得與故人歡
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0680&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 반랑(潘閬)의 …… 사랑함 : '
+    value: 송나라 반랑이 화산(華山)을 사랑하여, “언제든 저 상봉(上峯)에 가서 살겠노라.” 하였다.
+  - key: '[주-D002] 고인(故人) …… 놀까 : '
+    value: 오대(五代) 때에 범질(范質)이 벼슬하기 전에 다점(茶店)에 들어갔는데, 마침 여름이므로 손에 부채를 들었다. 그 부채에 글쓰기를, “큰 더위에 혹리가 가고, 맑은 바람에 고인이 온다[大暑去酷吏 淸風來故人].” 하였다. 얼굴이 험상궂게 생긴 한 사나이가 앞에 와서 말하기를, “혹리(酷吏)를 어찌 큰 더위에만 비할 것이겠소. 상공(相公)께서 다른 날에 이 폐단을 깊이 살피시오.” 하고는 가버렸다. 범질이 다점에서 나와 그 부근에 있는 신사(神詞)에 들렸더니, 신상(神像)이 곧 조금 전에 본 그 사람이었다. 그 뒤에 범질이 후주(後周)의 재상(宰相)이 되어 첫 머리에 형서(刑書)를 정리하여 형통(荊統)을 만들었다.
+english:
+  title: Lament on Bitter Heat
+  author: Suk Won-gam
+  language: eng
+  text: |-
+    Everywhere upon the earth, the heat blazes fierce and wild.
+    No passage leads to the Lunar Palace's cool expanse.
+    I think of Snowpeak's waterfall, cascading and white,
+    I yearn for the Ice Mountain's wind-hollowed caves.
+
+    Our realm holds these treasures—Snowpeak's falling waters,
+    Ice Mountain's breathing vents where cool winds dwell.
+    But I have not learned to ride the wind like Liezi,
+    Nor can I follow Pan Lang to dwell on Flourishing Peak.
+    When will the cruel magistrate at last depart?
+    Then I might meet again with old friends in joy.
+  footnotes:
+  - key: ''
+    value: 'Liezi (列子): A legendary sage in Chinese Daoism said to be capable of riding the wind.'
+  - key: ''
+    value: 'Pan Lang (潘閬): A Song Dynasty poet who cherished Mount Hua and aspired to dwell at its summit.'
+  - key: ''
+    value: 'The final couplet alludes to a legend of the Five Dynasties in which a man wrote on a fan: ''With the great heat goes the cruel magistrate; with the clear wind comes the old friend.'' This man was revealed to be a divine being, and the poem''s author later became a prime minister who reformed the legal codes.'
+  - key: ''
+    value: The poem contrasts the poet's inability to escape the summer heat through supernatural or poetic means with the hope that cruel officials will depart, allowing for joyful reunion with friends.

@@ -1,0 +1,50 @@
+canonical:
+  title: 海安寺
+  author: 陳澕
+  language: lzh
+  text: 踈慢年來困暑炎小亭那更晝厭厭叵堪日影侵虛榻欲乞松枝補短簷聞道老株流鳳髓問將新斧伐虬髯倘能分我淸涼蔭肯羨侯家水作簾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 海安寺
+  author: 陳澕
+  language: lzh
+  text: 踈慢年來困暑炎。小亭那更晝厭厭。叵堪日影侵虛榻。欲乞松枝補短簷。聞道老株流鳳髓。問將新斧伐虬髯。倘能分我淸涼蔭。肯羨侯家水作簾。
+korean:
+  title: 해안사
+  author: 진화
+  language: kor
+  text: |-
+    몇 해째 게으른 몸이 더위에 들볶이니
+    조그만 정자에서 낮잠인들 어이 자리
+    뙤약볕이 사정 없이 평상을 침노키로
+    솔가지를 빌려다가 짧은 처마를 기우려네
+    해묵은 한 그루가 봉수(송나라 진복령(秦茯苓)의 아칭(雅稱))를 흐른단 말 듣고
+    새 도끼를 가지고서 용의 수염[솔[松]잎, 솔가지에 비유한 것]을 찍어 내네
+    나에게 서늘한 그늘 나누어 보내면
+    부귀가 물줄기발을 부러워할 줄 있으랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 해안사(海安寺) : '
+    value: 개성(開城) 서쪽 24리 봉명산(鳳鳴山)에 있었음. 《여지승람》
+english:
+  title: Haian Temple
+  author: Chen Hua
+  language: eng
+  text: |-
+    Year after year, my weary frame succumbs to the summer heat,
+    Even in this small pavilion, the afternoon weighs heavy on my eyes.
+    The relentless sun invades my humble mat without mercy—
+    I beg for pine boughs to patch my meager eaves.
+
+    I hear of an ancient tree that flows with phoenix essence,
+    So I bring my sharp axe to fell the dragon whiskers of its boughs.
+    If you would grant me but a share of your cool shadow,
+    Why should I envy the noble's waterfall curtain?
+  footnotes:
+  - key: ''
+    value: 'Phoenix essence (鳳髓): a poetic reference to the life force or beneficial qualities of an old pine tree, suggesting both longevity and spiritual vitality'
+  - key: ''
+    value: 'Dragon whiskers (虬髯): a metaphorical description of pine branches, emphasizing their elegant, curved forms'
+  - key: ''
+    value: 'Waterfall curtain (水作簾): an allusion to the luxurious water features of wealthy estates, suggesting cool comfort and refinement'

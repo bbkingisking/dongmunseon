@@ -1,0 +1,45 @@
+canonical:
+  title: 卽事
+  author: 李穡
+  language: lzh
+  text: 幽居野興老彌淸恰得新詩眼底生風定餘花猶自落雲移少雨未全晴墻頭粉蝶別枝去屋角錦鳩深樹鳴齊物逍遙非我事鏡中形色甚分明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 卽事
+  author: 李穡
+  language: lzh
+  text: 幽居野興老彌淸。恰得新詩眼底生。風定餘花猶自落。雲移少雨未全晴。墻頭粉蝶別枝去。屋角錦鳩深樹鳴。齊物逍遙非我事。鏡中形色甚分明。
+korean:
+  title: 즉사
+  author: 이색
+  language: kor
+  text: |-
+    들에 숨어 사는 흥이 늙을수록 맑은데
+    마침 눈 앞에서 새 시가 생겨나누나
+    바람 자도 남은 꽃은 스스로 떨어지고
+    구름이 날아가도 가랑비는 온통 개지 않누나
+    담 위의 흰 나비는 가지를 작별하고
+    추녀 구석의 비둘기는 깊은 나무에서 우는구나
+    제물과 소요가 내 일이 아니로세
+    거울에 비치는 것 사뭇 분명하거니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0730&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 제물(齊物)과 소요(逍遙) : '
+    value: 장자(莊子)의 처음 두 편(篇) 이름. 세속적 대소(大小) 물아(物我)를 초월한 달관을 말한다.
+english:
+  title: On the Moment
+  author: Lee Saek
+  language: eng
+  text: |-
+    Hidden in the fields, my spirit grows clearer with age.
+    A new poem suddenly blooms before my eyes.
+    The wind subsides, yet remaining blossoms still fall of themselves.
+    The clouds drift away, but the light rain refuses to clear.
+    Atop the wall, white butterflies bid farewell to their branches.
+    In the eaves' corner, brocaded doves call from the depths of trees.
+    The equalization of things and wandering free—these are not my concern.
+    What appears in the mirror stands perfectly clear.
+  footnotes:
+  - key: ''
+    value: '"The equalization of things and wandering free" (齊物逍遙) refers to the opening two chapters of Zhuangzi, which expound a transcendent detachment that surpasses worldly distinctions between great and small, self and other.'

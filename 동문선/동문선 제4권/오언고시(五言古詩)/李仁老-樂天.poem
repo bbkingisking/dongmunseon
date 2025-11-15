@@ -1,0 +1,133 @@
+canonical:
+  title: 樂天
+  author: 李仁老
+  language: lzh
+  text: 昔在文陣間爭名勇先購吾甞避銳鋒君亦飽毒手如今厭矛楯相逢但呼酒宜停雙鳥鳴須念兩虎闘右詩友林耆之陶朱雖相越一舸泛溟渤安石在晉朝雅賞東山月今我與夫子豈是愛簪紱散盡東海金行採西山蕨右山水友趙亦樂我飮止數杯君飮須一石及當醉陶陶至樂相與敵兩臉若春融千愁盡氷釋何須校少多且得適其適右酒友李湛之支遁從安石鮑昭愛惠休自古龍象流時與麟鳳遊詩法不相妨古今同一丘共在圓寂光寧見別離愁右空門友宗聆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 樂天
+  author: 李仁老
+  language: lzh
+  text: |-
+    昔在文陣間。爭名勇先購。吾甞避銳鋒。君亦飽毒手。如今厭矛楯。相逢但呼酒。宜停雙鳥鳴。須念兩虎闘。
+    右詩友林耆之
+    陶朱雖相越。一舸泛溟渤。安石在晉朝。雅賞東山月。今我與夫子。豈是愛簪紱。散盡東海金。行採西山蕨。
+    右山水友趙亦樂
+    我飮止數杯。君飮須一石。及當醉陶陶。至樂相與敵。兩臉若春融。千愁盡氷釋。何須校少多。且得適其適。
+    右酒友李湛之
+    支遁從安石。鮑昭愛惠休。自古龍象流。時與麟鳳遊。詩法不相妨。古今同一丘。共在圓寂光。寧見別離愁。
+    右空門友宗聆
+korean:
+  title: 네 벗에게[贈四友] 낙천
+  author: 이인로
+  language: kor
+  text: |-
+    옛날에는 필진 속에서 이름을 다투어
+    용맹스럽게 먼저 날뛰었네
+    나는 이미 날카로운 칼날을 피했거니
+    그대 또한 독한 손에 지쳤구나
+    지금에 와선 창과 방패 싫어해
+    서로 만나면 술 부르느니
+    마땅히 두 새 울음 그치고
+    두 호랑이 싸움을 조심하여라
+    이상은 시우 임기지에게
+    도주는 월나라 상국이나
+    큰 바다에 조각배 띄워 갔고
+    안석은 진나라 조정에 있으면서
+    운치있게 동산 달을 즐기었거니
+    오늘날에 그대나
+    내가 어찌 잠과 인끈(벼슬)을 사랑하리
+    동해의 금을 모두 흩어버리고
+    서산(首陽山)의 고사리나 캐러 갈꺼나
+    이상은 산수의 벗 조역락에게
+    나는 겨우 두어 잔 술에 그치고
+    그대는 한 섬 술을 넉넉히 마시네
+    그러나 거나하게 취함에 이르러
+    지극히 즐겁기는 다름없거니
+    두 볼은 마치 봄이 무르익은 듯
+    일천 시름은 얼음인 듯 녹아지네
+    무엇 구태여 많고 적음 따지랴
+    제각기 멋을 얻으면 그만이네
+    이상은 술벗 이담지에게
+    지둔(동진(東晉)의 명승(名僧))은 안석(사안석(謝安石))을 따랐고
+    포소(유송(劉宋)의 시인)는 혜휴(시승(詩僧))를 사랑하였네
+    예부터 용상(고승(高僧))의 무리들은
+    항상 인봉(귀인(貴人))과 더불어 놀았네
+    시와 불법이 서로 방해되지 않았거니
+    고금이 한 언덕 담비로세
+    원적광(불법(佛法)의 광명(光明)) 속에 함께 있거니
+    어찌 서로 떠날 시름 있으리
+    이상은 공문 벗 종령에게
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 나는 …… 지쳤구나 : '
+    value: 석륵(石勒)이 소시 적에 이웃에 사는 이양(李陽)과 땅을 다투어 서로 때리고 싸운 일이 있었는데, 석륵이 뒤에 임금이 되어 이양을 불러서 술을 마시며 농담하기를, “전일에 나도 자네의 억센 주먹에 욕보았고, 나의 독한 손에 지쳤느니.” 하였다.
+  - key: '[주-D002] 도주(陶朱)는 …… 띄워 갔고 : '
+    value: 도주공(陶朱公)은 곧 범여(范蠡)인데, 월나라 상국(相國)으로서 오(吳)나라를 멸하여 공을 이룬 뒤에, 배를 타고 바다에 떠서 타국으로 가서 성명을 바꾸고 살았다.
+  - key: '[주-D003] 동해(東海)의 흩어버리고 : '
+    value: 한(漢)나라 소광(疏廣)이 태자(太子)의 스승으로 있다가 하루아침에 벼슬을 버리고 고향인 동해(東海)로 돌아가니, 임금과 태자가 황금을 많이 주었는데, 그는 돌아가서 금으로 매일 잔치를 차려 친척 친구들과 즐기며 다 써 버렸다.
+english:
+  title: Finding Joy in Four Friendships
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Once in the clash of words and wit,
+    we raced to make our names shine bright.
+    I dodged the sharpened blade of conflict,
+    you bore the weight of hostile might.
+
+    But now we've set aside our shields,
+    when we meet, we only call for wine.
+    Let the crying birds fall silent,
+    and the warring tigers cease to fight.
+
+    —To my friend Lin Ki-ji, companion in letters
+
+    Tao Chu once ruled all of Yüeh,
+    then cast his boat upon the sea.
+    An Shih held court in Jin's great halls,
+    yet savored moonlight on Eastern Hills.
+
+    Today, you and I—
+    do we cling to rank and sash?
+    We scatter Eastern Sea's gold,
+    and gather ferns from Western Mountains instead.
+
+    —To my friend Zhao Yi-rak, companion in mountains and waters
+
+    I drink but a few small cups,
+    you drain a generous stone of wine.
+    Yet when sweet intoxication comes,
+    our joy knows no division.
+
+    Our cheeks bloom like spring's thaw,
+    a thousand sorrows melt like ice.
+    Why count who drinks more or less?
+    Each finds contentment in his own way.
+
+    —To my friend Lee Dam-ji, companion in wine
+
+    Zhi Dun followed An Shih's path,
+    and Bao Zhao loved the poet-monk.
+    Since ancient times, sages and saints
+    have walked and played together.
+
+    Poetry and Buddha's Way—
+    they never need dispute.
+    In this age and ages past,
+    we dwell upon one shore.
+
+    Together in the radiant light of Nirvana,
+    what parting could ever bring us sorrow?
+
+    —To my friend Zong Ling, companion in the dharma
+  footnotes:
+  - key: ''
+    value: 'The first poem references a famous historical anecdote: when the warlord Shi Le became emperor, he joked with his old neighbor Li Yang about their youthful fistfights, saying they had both borne the other''s blows well. Lee In-ro uses this to suggest that former rivals can become drinking companions in their later years.'
+  - key: ''
+    value: Tao Chu (Fan Li) was a famous minister of Yüeh who, after helping his ruler conquer Wu, abandoned his post and sailed away incognito to seek freedom. An Shih (Xie An) was a prominent Jin official who loved to gaze at the moon over Eastern Hills. Lee In-ro invokes these figures to justify his own turning away from court life.
+  - key: ''
+    value: The reference to scattering Eastern Sea's gold alludes to the Han official Su Guang, who, after retiring from service as a tutor, gave away imperial gifts to entertain friends and family.
+  - key: ''
+    value: Zhi Dun and Bao Zhao were both accomplished Buddhist monastics and poets of the Eastern Jin and Liu Song periods. Lee In-ro suggests that the spiritual and literary paths need not conflict, and that enlightened individuals naturally gather together across time and doctrine.

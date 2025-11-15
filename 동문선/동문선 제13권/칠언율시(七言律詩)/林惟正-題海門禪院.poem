@@ -1,0 +1,55 @@
+canonical:
+  title: 題海門禪院
+  author: 林惟正
+  language: lzh
+  text: 雲埋水隔無人處樂天 杖策多從物外僧蔡肇 樹影悠悠花悄悄曹唐 海山欝欝石稜稜樂天 梧桐葉上三更雨魏野 蘆荻花中一點燈樂天 自愧國恩終莫報永叔 未能衣鉢繼南能郭震
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題海門禪院
+  author: 林惟正
+  language: lzh
+  text: 雲埋水隔無人處。樂天。 杖策多從物外僧。蔡肇。 樹影悠悠花悄悄。曹唐。 海山欝欝石稜稜。樂天。 梧桐葉上三更雨。魏野。 蘆荻花中一點燈。樂天。 自愧國恩終莫報。永叔。 未能衣鉢繼南能。郭震。
+korean:
+  title: 해문선원에 쓰다
+  author: 임유정
+  language: kor
+  text: |-
+    구름 속 물 건너 사람도 없는 곳에 낙천(樂天)
+    막대 짚고 종종 세상 바깥 중을 찾네 채조(蔡肇)
+    나무 그림자 길고 꽃들은 조용하고 조당(曹唐)
+    바다와 산이 겹겹 바위는 울툭불툭 낙천
+    오동잎 위에 삼경 비듣는 소리 위야(魏野)
+    갈대꽃 우거진 속에 한 점 등이 보이누나 낙천
+    나라 은혜 끝내 못 갚음이 부끄러워라 영숙(永叔)
+    의발로 남종 혜능을 잇지 못하네 곽진(郭震)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 의발(衣鉢)로 남종(南宗) 혜능(惠能) : '
+    value: 남종(南宗)을 이룩한 육조(六祖) 혜능(惠能)대사. 속성(俗姓) 노(盧)씨. 그가 황매산(黃梅山)에 가서 오조(五祖) 홍인(弘忍)에게 인가(印可)되어 의발(衣鉢)을 전해 받고 남해(南海)에 가서 조계(曹溪)에 살며 남종을 창시했다.
+english:
+  title: Written at Haemun Zen Temple
+  author: Lim Yu-jeong
+  language: eng
+  text: |-
+    Cloud-buried, water-crossed, where no one treads—
+    So spoke Bai Juyi.
+    With staff in hand, I seek the monks who dwell beyond the world,
+    As Cai Zhao knew.
+    Tree shadows linger long, flowers rest in silence,
+    In Cao Tang's words.
+    Sea and mountains layer upon layer, stone ridges jutting sharp—
+    Bai Juyi again.
+    Rain at the third watch falls upon parasol leaves,
+    As Wei Ye heard.
+    Then one small lamp glows through the reed flowers—
+    Bai Juyi's vision.
+    Shamed am I that the nation's grace I cannot repay,
+    OuyangYong confessed.
+    Yet I have not the robes and bowl to inherit Huineng's Southern School,
+    As Guo Zhen lamented.
+  footnotes:
+  - key: ''
+    value: Huineng (惠能, 638-713) was the Sixth Patriarch of Zen Buddhism and founder of the Southern School. According to tradition, he received the transmission robes and bowl (衣鉢) from the Fifth Patriarch Hongren at Mount Huangmei, establishing his lineage at Caoxistream (曹溪) in South China.
+  - key: ''
+    value: The work is a poetic composition made by juxtaposing celebrated lines from Chinese poets—primarily Bai Juyi (樂天), but also Cai Zhao, Cao Tang, Wei Ye, Ouyang Yong, and Guo Zhen—each attributed to their original authors in parentheses. This creates a layered meditation on Buddhist monasticism, spiritual aspiration, and human limitations.

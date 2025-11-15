@@ -1,0 +1,53 @@
+canonical:
+  title: 贈郭檢校
+  author: 李仁復
+  language: lzh
+  text: 金臺上客是詞臣奉使東遊到海濱旌旆聯翩行閱月杯盤錯落座添春獨賢鞅掌名尤重專對縱橫氣益振幸遇今朝堪燕樂區區爭席亦何人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈郭檢校
+  author: 李仁復
+  language: lzh
+  text: 金臺上客是詞臣。奉使東遊到海濱。旌旆聯翩行閱月。杯盤錯落座添春。獨賢鞅掌名尤重。專對縱橫氣益振。幸遇今朝堪燕樂。區區爭席亦何人。
+korean:
+  title: 증 곽검교
+  author: 이인복
+  language: kor
+  text: |-
+    금대의 상객이 마침 또 사신
+    왕명 띠고 동에 놀아 바닷가에 이르렀네
+    깃발이 펄렁 이어 온 길이 달포 넘고
+    배반이 질펀한데 자리에 가득한 봄 기운
+    왕사에 수고하니 이름 더욱 무거웠고
+    국교에 전대할 제 그 기운 더욱 떨치누나
+    다행히 이 아침에 잔치가 즐거우이
+    그 누가 구구한 예로 자리 다툼 할쏘냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0750&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 증 곽검교(贈郭檢校) : '
+    value: “검교가 하남왕(河南王) 이 총병(李摠兵)의 명(命)을 받들고 우리 조정(朝廷)에 빙문(聘問)왔다.”라는 제주(題註)가 있다.
+  - key: '[주-D002] 금대(金臺) : '
+    value: 연 소왕(燕昭王)이 대(臺)를 쌓아 그 위에 황금(黃金)을 놓고 천하에 어진 사람을 구하였다.
+  - key: '[주-D003] 자리 다툼 : '
+    value: 옛날에 중국과 외국에 사신이 왕래할 때에 흔히 좌석의 높고 낮은 문제로 다툰 일이 있었다.
+english:
+  title: A Gift for Magistrate Guo
+  author: Lee In-bok
+  language: eng
+  text: |-
+    A guest at the Golden Tower—a man of letters come at last,
+    Bearing the royal command eastward, he reaches the sea's expanse.
+    Banners flutter in succession, the journey spanning months of travel,
+    Wine cups and dishes scattered about, spring abundance fills each seat.
+    His labors in the royal service have made his name still weightier,
+    In diplomatic discourse, his spirit grows ever more vigorous.
+    Fortunate that this morning brings us festive joy together,
+    Why would petty men dispute over precedence and place?
+  footnotes:
+  - key: ''
+    value: Magistrate Guo came as an emissary on behalf of the River South King, bearing official greetings to the Korean court.
+  - key: ''
+    value: The Golden Tower alludes to the legendary tower of Yan's King Zhao, who placed gold upon it to summon talented men from across the realm—here used to honor the emissary's distinguished status.
+  - key: ''
+    value: The closing couplet subtly addresses the historical tensions over seating arrangements that often arose between Chinese and foreign envoys during diplomatic missions.

@@ -1,0 +1,37 @@
+canonical:
+  title: 南遷過漢江
+  author: 曺偉
+  language: lzh
+  text: 眊矂歸來不見天終南咫尺望雲烟三年塞下孤臣淚今日江頭倍黯然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 南遷過漢江
+  author: 曺偉
+  language: lzh
+  text: 眊矂歸來不見天。終南咫尺望雲烟。三年塞下孤臣淚。今日江頭倍黯然。
+korean:
+  title: 남천 과 한강
+  author: 조위
+  language: kor
+  text: |-
+    시름 속에 돌아오니 하늘도 아니 보이더니
+    종남산 지척에서 내와 구름 바라보네
+    세해 동안 저 변새에 외론 신하 그 눈물이
+    오늘 이 강 위에선 더욱 아득하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: Crossing the Han River on the Southern Migration
+  author: Cao Wei
+  language: eng
+  text: |-
+    Returning through sorrow, I cannot even see the sky.
+    At the edge of Mount Zhongnan, I gaze upon mist and clouds.
+    Three years of tears shed by a lonely minister at that distant frontier—
+    Today by this river's edge, my heart grows only darker still.
+  footnotes:
+  - key: ''
+    value: 'Mount Zhongnan (終南): a sacred mountain south of Chang''an, symbolizing the poet''s former place of service and the distance from home'
+  - key: ''
+    value: The "lonely minister" refers to the poet's exile or displacement, a common theme in classical Chinese poetry expressing separation from one's ruler and homeland

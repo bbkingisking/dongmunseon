@@ -1,0 +1,39 @@
+canonical:
+  title: 寄妻兄閔及菴
+  author: 白彌堅
+  language: lzh
+  text: 笛聲江郡落梅花西望長安日已斜栗里舊居楊柳在不知春色屬誰家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄妻兄閔及菴
+  author: 白彌堅
+  language: lzh
+  text: 笛聲江郡落梅花。西望長安日已斜。栗里舊居楊柳在。不知春色屬誰家。
+korean:
+  title: 기처형민급암
+  author: 백미견
+  language: kor
+  text: |-
+    피리 소리 강 고을에 매화꽃이 지는데
+    서편으로 장안을 바라보매 해가 이미 기우네
+    율리의 옛 집에는 버들 아직 있건마는
+    알 수 없어라 봄빛은 누구 집에 붙였는고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 율리(栗里)의 …… 있건마는 : '
+    value: 도연명(陶淵明)이 율리(栗里)에 은거(隱居)하면서 문 앞에 버드나무 다섯 그루를 심었다.
+english:
+  title: A Letter to My Wife's Elder Brother, Min Geubam
+  author: Baek Mi-gyeon
+  language: eng
+  text: |-
+    A flute's song drifts through the river town as plum blossoms fall.
+    Gazing westward toward Chang'an, the sun already slopes low.
+    At Yuli's ancient dwelling, willows still stand—
+    Yet who can say to which house spring's hue belongs?
+  footnotes:
+  - key: ''
+    value: 'Yuli (栗里): The retreat of the Eastern Jin poet Tao Yuanming (陶淵明), who famously planted five willows before his cottage door and took the name ''Five Willows'' as a symbol of his reclusive life.'
+  - key: ''
+    value: 'Chang''an: The ancient capital, here evoking nostalgia and perhaps the poet''s distance from home or center of power.'

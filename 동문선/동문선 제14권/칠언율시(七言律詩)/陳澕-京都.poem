@@ -1,0 +1,46 @@
+canonical:
+  title: 京都
+  author: 陳澕
+  language: lzh
+  text: 小雨朝來捲細毛浴江初日暈紅濤千門撲地魚鱗錯雙闕攙天鷙翼高吳苑裌衣晴闘草漢宮仙袂醉分桃多慙每忝金閨侍與倚淸香捧赭袍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 京都
+  author: 陳澕
+  language: lzh
+  text: 小雨朝來捲細毛。浴江初日暈紅濤。千門撲地魚鱗錯。雙闕攙天鷙翼高。吳苑裌衣晴闘草。漢宮仙袂醉分桃。多慙每忝金閨侍。與倚淸香捧赭袍。
+korean:
+  title: 경도
+  author: 진화
+  language: kor
+  text: |-
+    가랑비가 아침 동안 털처럼 부슬부슬 내리더니
+    아침 해가 강물결에 불그레 솟네
+    성 안의 즐비한 집들은 고기 비늘을 겹쳐 놓은 듯
+    하늘에 치솟은 쌍궐은 독수리 날개 드높아라
+    오원의 비단옷들은 풀 싸움이 한창이요
+    한궁의 신선 소매는 취하여 복숭아를 나눈다
+    황송해라, 이 몸도 금규에 모시어서
+    맑은 향 담뿍 지닌 채 용포를 받드나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금규(金閨) : '
+    value: 한(漢)나라 금마문(金馬門)의 별칭인데, 후세의 한림원(翰林院)을 칭한다.
+english:
+  title: The Capital
+  author: Chen Hua
+  language: eng
+  text: |-
+    Fine rain descends like brushed fur throughout the morning,
+    The dawn sun rises crimson-reflected on the river waves.
+    Thousands of gates crowd the earth in fish-scale formation,
+    The twin palaces thrust skyward on eagle's wings held high.
+
+    In the Wu gardens, silk robes contend in verdant sport,
+    In the Han palace, celestial sleeves, drunk, divide the peach.
+    Shamed am I, forever serving in the golden academy,
+    Bearing fragrant incense close while holding the crimson robe.
+  footnotes:
+  - key: ''
+    value: The 'golden academy' (金閨) refers to the Han dynasty's Gate of Golden Horse, later used to denote the imperial Literary Academy (翰林院), a prestigious scholarly institution.

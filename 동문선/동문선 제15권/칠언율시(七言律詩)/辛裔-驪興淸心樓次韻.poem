@@ -1,0 +1,46 @@
+canonical:
+  title: 驪興淸心樓次韻
+  author: 辛裔
+  language: lzh
+  text: 誰使天慳露一端滕王高閣已無顔錦鱗戲躍吹晴浪白鳥驚飛暎碧山此景却思供闕下宦遊深愧在塵間何方更化殘民業得致羲皇上世閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 驪興淸心樓次韻
+  author: 辛裔
+  language: lzh
+  text: 誰使天慳露一端。滕王高閣已無顔。錦鱗戲躍吹晴浪。白鳥驚飛暎碧山。此景却思供闕下。宦遊深愧在塵間。何方更化殘民業。得致羲皇上世閑。
+korean:
+  title: 여흥 청심루 차운
+  author: 신예
+  language: kor
+  text: |-
+    하늘이 아끼는 이 비경을 누가 여기 내놓았는가
+    등왕 높은 각(등왕각은 경치가 좋은 곳으로 유명하다)도 무색하구나
+    뛰노는 고기들은 갠 물결을 불고
+    놀라 나는 갈매기는 푸른 산에 비치네
+    이 경치를 임금님 앞에 바치과저
+    벼슬살이로 진세에 있음이 부끄러워라
+    무슨 방법으로 곤궁한 민생들을 다 잘살게 하여
+    태고적 희황(복희씨(伏羲氏))시절을 다시 이룩해 볼꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0380&viewSync=OT
+  footnotes: []
+english:
+  title: Following the Rhymes of Clearing-Heart Tower at Yeohung
+  author: Shin Ye
+  language: eng
+  text: |-
+    Who has granted heaven to reveal this rare vista?
+    Even the tall pavilion of the Teng Wang pales in comparison.
+    Playful fish leap through the clearing waves,
+    While startled gulls take flight, mirrored in the verdant mountains.
+
+    I wish to offer this beauty to the throne,
+    Yet I am ashamed to dwell here in the dusty world of office.
+    How might one transform the sorrows of common folk,
+    And restore the leisure of the ancient age of Fu Xi?
+  footnotes:
+  - key: ''
+    value: The Teng Wang Pavilion was a legendary location famous for its scenic beauty, located in what is now Nanchang, China.
+  - key: ''
+    value: Fu Xi (伏羲) represents the mythical golden age of ancient China, a time of perfect harmony and effortless governance, often invoked as an ideal to which enlightened rulers should aspire.

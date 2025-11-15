@@ -1,0 +1,40 @@
+canonical:
+  title: 洪州
+  author: 柳淑
+  language: lzh
+  text: 自從無始來生死知幾廻旁人應眼冷老物已心灰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 洪州
+  author: 柳淑
+  language: lzh
+  text: 自從無始來。生死知幾廻。旁人應眼冷。老物已心灰。
+korean:
+  title: 홍주
+  author: 유숙
+  language: kor
+  text: |-
+    무시 이래로부터
+    나고 죽기 몇 번이나 돌고 돌았는고
+    옆의 사람은 응당 냉시하려니
+    늙은 이 몸은 마음이 재와 같네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0490&viewSync=OT
+  footnotes: []
+english:
+  title: Hongzhou
+  author: Yu Suk
+  language: eng
+  text: |-
+    Since the beginning of time,
+    I have circled through birth and death—
+    how many times, who can say?
+
+    Others look upon me with cold eyes,
+    yet this aging frame
+    has a heart turned to ash.
+  footnotes:
+  - key: ''
+    value: Hongzhou (洪州) was a historical region in present-day Jiangxi Province, China, suggesting the poem may have been written during a sojourn or exile there.
+  - key: ''
+    value: The imagery of a heart 'turned to ash' reflects Buddhist and Daoist concepts of spiritual detachment and the dissolution of worldly attachments through the cycles of rebirth.

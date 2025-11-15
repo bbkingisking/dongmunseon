@@ -1,0 +1,37 @@
+canonical:
+  title: 泊宿楊根
+  author: 洪貴達
+  language: lzh
+  text: 遠燒夜如紅錦爛長江春似綠羅鋪扁舟獨宿蒼崖下夜靜無人月色孤
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 泊宿楊根
+  author: 洪貴達
+  language: lzh
+  text: 遠燒夜如紅錦爛。長江春似綠羅鋪。扁舟獨宿蒼崖下。夜靜無人月色孤。
+korean:
+  title: 박숙 양근
+  author: 홍귀달
+  language: kor
+  text: |-
+    먼 불에 밤은 붉은 비단이 타는 것 같고
+    긴 강의 봄은 푸른 비단을 펴 놓은 것 같다
+    조각배로 혼자 푸른 벼랑 밑에서 자노니
+    밤은 고요한데 사람은 없고 달빛만 외로워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0740&viewSync=OT
+  footnotes: []
+english:
+  title: Mooring at Night in Yanggeun
+  author: Hong Gui-dal
+  language: eng
+  text: |-
+    Distant fires burn through the night like crimson silk ablaze,
+    The long river's spring unfolds like bolts of emerald brocade.
+    In my small boat I sleep alone beneath the verdant cliff,
+    The night lies still, no souls around—only the moon's lonely light.
+  footnotes:
+  - key: ''
+    value: Yanggeun (楊根) is a place along the Han River in Korea
+  - key: ''
+    value: The imagery of fire and silk, water and fabric reflects the poet's use of natural phenomena as mirrors for human emotion and solitude

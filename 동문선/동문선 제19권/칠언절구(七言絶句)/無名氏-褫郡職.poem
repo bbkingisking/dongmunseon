@@ -1,0 +1,41 @@
+canonical:
+  title: 褫郡職
+  author: 無名氏
+  language: lzh
+  text: 揮汗當年蜀道行槐陰一睡足平生倚樓長笛無情思驚破南柯夢裏榮 此詩不知誰作世傳一吏官纔出身得郡寄爲趙按廉所黜有是作
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 褫郡職
+  author: 無名氏
+  language: lzh
+  text: 揮汗當年蜀道行。槐陰一睡足平生。倚樓長笛無情思。驚破南柯夢裏榮。 此詩不知誰作。世傳一吏官纔出身得郡寄。爲趙按廉所黜。有是作。
+korean:
+  title: 고을 자리를 바꾸고 나서
+  author: 무명씨
+  language: kor
+  text: |-
+    땀 뿌리며 당년에 촉도를 갔더니
+    홰나무 그늘 한 잠이 평생에 족했네
+    다락에 기대어 긴 젓대 무정한 생각에
+    남가의 한 바탕 꿈속 영광을 놀라 깨네
+    이 시는 누구의 작품인지 모른다. 항간에 전하기로는 어느 미관(微官)이 간신히 출세하여 군수가 되었으나, 조안렴(趙按廉) 때문에 쫓겨나 이 시를 지었다 한다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0510&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 촉도(蜀道) : '
+    value: 한(漢)나라 왕손이 촉(蜀)에 익주 자사(益州刺史)로 부임하다가 가장 험한 공극(邛棘)을 어렵게 알지 않고 말을 채찍질하였다.
+english:
+  title: Dismissed from My Post
+  language: eng
+  text: |-
+    I sweated through the treacherous roads of Shu in those days,
+    And one nap beneath the parasol tree sufficed for all my life.
+    Leaning against the tower, I played a long bamboo flute with heavy heart,
+    When suddenly I woke from the South Branch dream of glory.
+
+    No one knows who composed this poem. It is said that an obscure official, having barely risen to the post of magistrate, was dismissed through the influence of Zhao the Censor, and wrote this work in response.
+  footnotes:
+  - key: ''
+    value: The 'Shu road' references the arduous journey undertaken by Han nobility, evoking the difficulty of official service in distant posts.
+  - key: ''
+    value: The 'South Branch dream' alludes to a famous Tang tale about a man who dreams of a glorious life within a dream—a traditional metaphor for the illusory nature of worldly success and official rank.

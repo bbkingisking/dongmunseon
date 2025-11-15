@@ -1,0 +1,61 @@
+canonical:
+  title: 次韻答淳夫
+  author: 曺偉
+  language: lzh
+  text: 自笑儒酸抵骨淸寸腸冰蘗闘崢嶸功名不必要三傑禮樂終須待兩生刻楮成時非實用吹竽混處捴虛名年來已斷風流夢還愧梅花宋廣平
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻答淳夫
+  author: 曺偉
+  language: lzh
+  text: 自笑儒酸抵骨淸。寸腸冰蘗闘崢嶸。功名不必要三傑。禮樂終須待兩生。刻楮成時非實用。吹竽混處捴虛名。年來已斷風流夢。還愧梅花宋廣平。
+korean:
+  title: 차운 답 순부
+  author: 조위
+  language: kor
+  text: |-
+    스스로 웃나니 선비의 가난이 뼈에 사무쳐 맑은데
+    한 치 창자에 얼음과 쓴 것이 준렬히 싸운다
+    공명은 반드시 삼걸을 요하는 것이 아니요
+    예악은 마침내 양생을 기다려야 한다
+    닥나무를 새겨 이뤄질 때에 실용이 아니요
+    피리를 불어 섞이는 곳에는 모두 빈 이름뿐이다
+    연래로 이미 풍류의 꿈을 끊었거니
+    도리어 매화부 지은 송광평을 부끄러워한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼걸(三傑) : '
+    value: 한 고조(漢高祖)가 말하기를, “관중(關中)에서 군사와 군량(軍糧)을 징발하여 전장으로 보내어 부족함이 없게 하는 것은 소하(蕭何)요, 장막 가운데서 계책을 내어 천리 밖의 승리를 결정하는 것은 장량(張良)이요, 싸움하면 반드시 이기고 공격하면 반드시 빼앗는 것은 한신(韓信)이니, 이 세상 사람은 다 인걸(人傑)이다.” 하였다.
+  - key: '[주-D002] 양생(兩生) : '
+    value: 한 고조(漢高祖)가 숙손통(叔孫通)을 시켜서 예(禮)를 제정하게 하였더니, 숙손통이 천하의 선비를 불렀는데 노(魯)나라의 두 선비[兩生]가 부름에 응하지 아니하며 말하기를, “예악(禮樂)은 덕을 쌓은 지 백년이 되어야 일으킬 수 있는 것인즉, 지금은 전쟁이 겨우 끝나서 죽은 사람의 장사도 못 다하고 상이(傷痍)한 사람이 일어나지도 못했는데 무슨 예악이냐.” 하였다. 후세의 선비들이 이 두 선비를 참다운 선비라 한다.
+  - key: '[주-D003] 닥나무[楮]를 …… 아니요 : '
+    value: 《한비자(韓非子)》에, “송나라에 어떤 교묘한 솜씨를 가진 사람이 상아(象牙)로 닥나무[楮]잎을 만들어 3년 만에 완성하였는데, 그 모양이나 빛깔이 참 닥나무와 구별할 수 없었다. 그러나 실용이 없는 것이었다.”란 말이 있다.
+  - key: '[주-D004] 피리[竽]를 불어 섞이는 : '
+    value: 제(齊)나라 임금이 피리[竽]소리 듣기를 좋아하여 매일 피리를 불고 녹을 먹는 사람이 3백 명이나 되었다. 어느 한 사람은 실지로 피리를 불 줄은 모르면서 매일 3백 명 속에 끼어서 피리를 부는 척 하고 녹을 먹다가 하루는 한 사람씩 불게 하니 곧 도망하고 말았다.
+  - key: '[주-D005] 매화부(梅花賦) 지은 송광평(宋廣平) : '
+    value: 당나라 피일휴(皮日休)가 말하기를, “송광평(宋廣平 송경〈宋璟〉)은 강직하기가 쇠마음 돌창자[鐵心石腸]인 줄 알았더니 그의 지은 매화부(梅花賦)를 본즉 맑고 고와서 그의 사람됨과는 다르다.” 하였다.
+english:
+  title: In Response to Shunbu, Following His Rhyme Scheme
+  author: Cao Wei
+  language: eng
+  text: |-
+    I laugh at myself—a scholar's poverty seeps into the bone, crystalline and pure.
+    One span of gut churns with ice and bitterness, clashing fiercely.
+    Fame need not demand three heroes of old.
+    Ritual and music must await those two sages of virtue.
+    When carved from paper-mulberry, it serves no use.
+    Where bamboo pipes blend, all names are hollow wind.
+    These years I have severed the dream of elegance and grace.
+    Yet I blush before Song Guangping, who wrote the Plum Blossom's praise.
+  footnotes:
+  - key: ''
+    value: 'The ''three heroes'' refers to the three great ministers under the Han founder: Xiao He, who managed supplies; Zhang Liang, who devised strategy; and Han Xin, who won battles. Here the poet suggests that worldly success need not require such extraordinary talents.'
+  - key: ''
+    value: The 'two sages' alludes to two Confucian scholars from Lu who refused to serve in formulating rites, arguing that music and ritual require a hundred years of accumulated virtue—a rebuke to premature claims of cultural authority.
+  - key: ''
+    value: The metaphor of carving from paper-mulberry refers to a craftsman who created a perfect replica of a mulberry leaf from ivory in three years, beautiful but utterly useless—condemning artistic pretense divorced from substance.
+  - key: ''
+    value: The bamboo pipe (yu) echoes the story of three hundred musicians in the state of Qi, many of whom merely pretended to play while drawing salaries, until exposed by being asked to perform individually.
+  - key: ''
+    value: Song Guangping (the Tang official Song Jing) was known for his stern, iron-willed character, yet his 'Ode to the Plum Blossom' revealed a refined aesthetic sensibility—a paradox the poet contemplates with self-awareness.

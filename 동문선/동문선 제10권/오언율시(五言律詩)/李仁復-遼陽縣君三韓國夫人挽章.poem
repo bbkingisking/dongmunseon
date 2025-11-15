@@ -1,0 +1,57 @@
+canonical:
+  title: 遼陽縣君三韓國夫人挽章
+  author: 李仁復
+  language: lzh
+  text: 鸞檢皇恩渥魚軒象服鮮三遷修母道八秩享天年慈儉人皆法哀榮史可傳防山何處在丹旐去翩翩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遼陽縣君三韓國夫人挽章
+  author: 李仁復
+  language: lzh
+  text: 鸞檢皇恩渥。魚軒象服鮮。三遷修母道。八秩享天年。慈儉人皆法。哀榮史可傳。防山何處在。丹旐去翩翩。
+korean:
+  title: 요양현군 삼한국부인 만장
+  author: 이인복
+  language: kor
+  text: |-
+    난검은 황제 은혜 두텁고
+    어헌에 상복이 선명하였네
+    삼천의 가르침으로 어머니의 도를 닦으셨고
+    팔십 세로 천년을 누리셨네
+    자애로움과 검소함은 사람이 다 본받고
+    슬프고 영화로움은 사필로 가히 전할 만하네
+    방산이 어디기에
+    명정은 번뜩이며 가는지
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 난검(鸞檢) : '
+    value: 부인(夫人)을 요양현군(遼陽縣君)으로 봉해 준 황제의 봉고(封誥)이다.
+  - key: '[주-D002] 어헌(魚軒) : '
+    value: 재상(宰相)의 부인이 타는 수레이다.
+  - key: '[주-D003] 상복(象服) : '
+    value: 예복과 의물(儀物)을 말한다.
+  - key: '[주-D004] 슬프고 영화로움 : '
+    value: 《논어》에, “살아서는 영화롭고 죽을 제는 남들이 애통한다.” 하였다. 이것은 덕이 있고 지위가 있는 사람을 말한 것이다.
+english:
+  title: Elegy for Lady of Samhan State, County Magistrate of Liaoyang
+  author: Lee Inbok
+  language: eng
+  text: |-
+    The imperial decree shines with sovereign grace,
+    the carriage of state adorned in lustrous splendor.
+    Through three seasons of virtue she perfected the mother's way,
+    through eighty years she savored heaven's span.
+    Her loving mercy and frugal heart became the model all would follow,
+    her sorrows and honors worthy of history's recording.
+    Where now lies Bangsan's peak?
+    The red banner departs on flickering winds.
+  footnotes:
+  - key: ''
+    value: The 'imperial decree' refers to the official proclamation conferring upon her the titles of County Magistrate of Liaoyang and Lady of Samhan State.
+  - key: ''
+    value: The 'carriage of state' was the ceremonial conveyance reserved for the wives of high ministers and officials.
+  - key: ''
+    value: The reference to 'three seasons' evokes the Confucian ideal of virtuous womanhood perfected through devotion to family and duty.
+  - key: ''
+    value: Her 'sorrows and honors' reflects the classical ideal that those of virtue and rank inspire both mourning at death and celebration in historical records.

@@ -1,0 +1,59 @@
+canonical:
+  title: 靈光郡憶金太守儒
+  author: 朴椿齡
+  language: lzh
+  text: 下惠官卑自不辭牛刀誰使割鷄爲甘棠正是思人樹峴首依然墮淚碑父老空言遺愛化兒童謾誦舊題詩曾聞跖壽顔回夭天理茫茫未可知
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靈光郡憶金太守儒
+  author: 朴椿齡
+  language: lzh
+  text: 下惠官卑自不辭。牛刀誰使割鷄爲。甘棠正是思人樹。峴首依然墮淚碑。父老空言遺愛化。兒童謾誦舊題詩。曾聞跖壽顔回夭。天理茫茫未可知。
+korean:
+  title: 영광에서 고 김유 태수를 회상하며
+  author: 박춘령
+  language: kor
+  text: |-
+    유하혜처럼 낮은 벼슬을 안 사양했으나
+    소잡는 칼로 누가 시켜 닭잡게 했나
+    아가위 그게 바로 사람을 생각하게 하는 나무
+    현산엔 지금도 눈물 비가 있다지
+    부로들은 남긴 사랑에 감화된 이야기하고
+    아이들은 옛날 썼던 시들을 늘 외우건만
+    도척이 오래 살고 안회가 일찍 죽었으니
+    망망한 하늘 이치는 도무지 모를 일
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0860&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유하혜(柳下惠) : '
+    value: 노(魯)나라 현인인데, 맹자(孟子)가 그를 작은 벼슬을 수치로 알지 않았다고 칭찬하였다.
+  - key: '[주-D002] 소잡는 …… 닭잡게 했나 : '
+    value: 공자의 제자 자유(子游)가 무성(武城)의 수령으로 있을 때에, 공자가 가서 현가(絃歌)의 소리를 듣고 웃으며, “닭을 잡는 데에 어찌 소잡는 칼을 쓰는고.” 하였다. 이것은 작은 고을에 큰 경륜을 베푼다는 말이다.
+  - key: '[주-D003] 아가위[甘棠] : '
+    value: 《시경》의 감당[아가위].
+  - key: '[주-D004] 현산(峴山)엔 …… 있다지 : '
+    value: 진(晉)나라 양호(羊祜)가 양양(襄陽)을 진수(鎭守)하면서 현산(峴山)에 자주 올라 놀았는데, 그가 죽은 뒤에 양양 사람들이 그의 덕을 사모하여 현산에다 비(碑)를 세웠는데, 그 앞에 지나는 이가 모두 눈물을 떨어뜨렸으므로 그 비(碑)를 타루비(墮淚碑)라 하였다.
+english:
+  title: Remembering the Late Governor Kim at Yeonggwang
+  author: Park Chunnyeong
+  language: eng
+  text: |-
+    Like Liuxia Hui, he did not disdain a humble post,
+    Yet who bade him use the ox-knife to slaughter the chicken?
+    The sweet pear tree—that very tree that stirs memory of the virtuous—
+    On Xianshan still stands the monument where tears fall.
+    The elders speak of the transforming love he left behind,
+    While children recite the verses he once composed.
+    Yet Zhi lived long and Huifeng died young—
+    The ways of Heaven remain fathomless and unknowable.
+  footnotes:
+  - key: ''
+    value: 'Liuxia Hui: A wise minister of ancient Lu who accepted humble office without shame, as praised by Mencius.'
+  - key: ''
+    value: 'The ox-knife cutting chickens: An allusion to when Confucius visited his disciple Ziyou, who governed a small domain, and gently jested that such great talents used trivial means—suggesting the governor applied great wisdom to modest circumstances.'
+  - key: ''
+    value: 'The Sweet Pear tree: A reference to the Odes, symbolizing the memory of virtuous rulers.'
+  - key: ''
+    value: 'Xianshan''s Monument of Fallen Tears: Yang Hu, a Jin dynasty official, frequently climbed this mountain. After his death, the people erected a monument to honor his virtue, and all who passed wept before it.'
+  - key: ''
+    value: 'Zhi and Hui: References to the long-lived robber Zhi and the short-lived sage Huifeng, representing life''s inequitable distribution of fortune.'

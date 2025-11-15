@@ -1,0 +1,57 @@
+canonical:
+  title: 關山月
+  author: 鄭道傳
+  language: lzh
+  text: 一片關山月長天萬里來塞風吹不盡冷影故徘徊蘇武何時返李陵亦未迴蕭踈白旄節寂寞望鄕臺豈無南飛鴈音信何遼哉見月三歎息搔首有餘哀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 關山月
+  author: 鄭道傳
+  language: lzh
+  text: 一片關山月。長天萬里來。塞風吹不盡。冷影故徘徊。蘇武何時返。李陵亦未迴。蕭踈白旄節。寂寞望鄕臺。豈無南飛鴈。音信何遼哉。見月三歎息。搔首有餘哀。
+korean:
+  title: 관산월
+  author: 정도전
+  language: kor
+  text: |-
+    한 조각 관산 달이
+    긴 하늘 만 리에 온다
+    변방의 바람은 불어 다함이 없는데
+    달의 찬 그림자 짐짓 배회하도다
+    소무는 어느 때에 돌아오려나
+    이릉도 아직 돌아오지 않았네
+    떨어진 흰 모절이요
+    적막한 망향대라
+    남으로 나는 기러기 없으랴마는
+    소식은 어이 그리 아득한가
+    달을 보고 세 번 탄식하고
+    머리를 긁으니 슬픔이 남아 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소무(蘇武)는 어느 때에 돌아오려나 이릉(李陵)도 아직 돌아오지 않았네 : '
+    value: 한(漢)나라 소무(蘇武)가 흉노(凶奴)에 사신으로 갔다가 억류되어 19년을 고생하였는데, 자나 깨나 임금에게서 받아 간 절(節 깃발)을 쥐고 있어 깃발의 끈[節旄]이 모두 떨어졌으며, 이릉은 한나라 장수로 흉노를 치다가 패하여 항복하였다.
+english:
+  title: Moon Over the Mountain Pass
+  author: Jung Do-jeon
+  language: eng
+  text: |-
+    A single moon hangs over the mountain pass,
+    Traversing ten thousand miles of endless sky.
+    The border winds blow without cease,
+    While the moon's cold shadow lingers, wandering still.
+
+    When will Su Wu return from exile?
+    Li Ling, too, has not yet come home.
+    His white-fringed standard grown tattered,
+    He keeps watch from the desolate tower of longing.
+
+    Are there no geese flying southward?
+    Yet their message seems impossibly distant.
+    Seeing the moon, I sigh three times,
+    And scratch my head in grief that will not fade.
+  footnotes:
+  - key: ''
+    value: Su Wu and Li Ling were Han dynasty figures separated from their homeland by war and captivity. Su Wu was detained by the Xiongnu for nineteen years, clutching the ceremonial standard given by his emperor until its silken threads fell away. Li Ling, a Han general defeated in battle, was forced to surrender to the Xiongnu. Their stories became classical symbols of exile and longing in East Asian poetry.
+  - key: ''
+    value: The 'tower of longing' (望鄕臺) is a poetic reference to watchtowers where the homesick would gaze toward their distant homeland.

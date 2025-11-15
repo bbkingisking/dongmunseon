@@ -1,0 +1,49 @@
+canonical:
+  title: 太尉王挽詞
+  author: 崔瀣
+  language: lzh
+  text: 慶襲三韓社功兼一字王恩榮傾戚里富貴冠朝行德讓心何小勞謙道亦光克家傳有子百世永難忘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 太尉王挽詞
+  author: 崔瀣
+  language: lzh
+  text: 慶襲三韓社。功兼一字王。恩榮傾戚里。富貴冠朝行。德讓心何小。勞謙道亦光。克家傳有子。百世永難忘。
+korean:
+  title: 태위왕 만사
+  author: 최해
+  language: kor
+  text: |-
+    삼한의 사직을 경사롭게 이으시고
+    공은 일자왕을 겸하였네
+    은영은 온 척리요
+    부귀는 원나라 조반에서 으뜸이셨지
+    덕으로 사양하사 그리도 소심하시더니
+    겸손하기 애쓰시며 도도 또한 빛났사외
+    아드님 계시와 가문을 떨치오리니
+    가신 임 크신 공덕을 백 세토록 못 잊으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0770&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 태위왕(太尉王) : '
+    value: 고려 충선왕(忠宣王)은 즉위 4년(1313년)에 아들 충숙왕(忠肅王)에게 양위(讓位)하니 원(元)이 태위 심왕(瀋王)에 봉하였다. 충숙왕 12년(1325년) 원도(元都)에서 훙(薨)하였다.
+  - key: '[주-D002] 공(功)은 …… 겸하였네 : '
+    value: 충렬왕(忠烈王)이 원나라의 부마(駙馬)가 되고 고려왕(高麗王)으로 책봉한 위에 다시 심양왕(瀋陽王)으로 봉하였다.
+english:
+  title: Elegy for General Wang, the Taiwi
+  author: Choe Hae
+  language: eng
+  text: |-
+    Blessings flow through the Three Kingdoms' realm,
+    His merit encompasses the throne of unified dominion.
+    Grace and honor overflow the inner chambers,
+    Wealth and power crown him above all in court.
+    Virtue made humble—yet his heart knows no smallness,
+    Modesty strives and shines with its own brilliance.
+    A son to carry forward the family name,
+    His great deeds shall echo through a hundred generations, unforgotten.
+  footnotes:
+  - key: ''
+    value: The Taiwi (太尉) refers to King Chungseon of Goryeo, who abdicated in 1313 in favor of his son King Chungsuk, whereupon the Yuan court appointed him Grand Commandant (Taiwi) and granted him the title Prince of Shen. He passed away in the Yuan capital in 1325.
+  - key: ''
+    value: The merit of unifying the throne refers to how King Chungnyeol first became a son-in-law of the Yuan through marriage, was subsequently appointed King of Goryeo, and further received the title Prince of Shenyang from the Yuan.

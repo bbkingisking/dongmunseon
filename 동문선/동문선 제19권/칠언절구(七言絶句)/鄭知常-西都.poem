@@ -1,0 +1,37 @@
+canonical:
+  title: 西都
+  author: 鄭知常
+  language: lzh
+  text: 紫陌春風細雨過輕塵不動柳絲斜綠䆫朱戶笙歌咽盡是梨園弟子家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西都
+  author: 鄭知常
+  language: lzh
+  text: 紫陌春風細雨過。輕塵不動柳絲斜。綠䆫朱戶笙歌咽。盡是梨園弟子家。
+korean:
+  title: 서도
+  author: 정지상
+  language: kor
+  text: |-
+    번화론 거리 봄바람에 보슬비 지나간 뒤
+    가벼운 티끌조차 일지 않고 버들개지만 휘늘어졌다
+    푸른 창 붉은 문에 흐느끼는 노랫가락
+    이 모두 다 이원제자(梨園弟子)의 집이라네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이원제자(梨園弟子)의 집이라네 : '
+    value: 당나라 현종(玄宗)이 이원(梨園)에 악부(樂部)를 설치하고, 남녀를 모아 음악을 가르쳤다.
+english:
+  title: The Western Capital
+  author: Jeong Jigsang
+  language: eng
+  text: |-
+    Through the purple streets, spring wind carries fine rain—
+    Soft dust doesn't stir, only willow branches sway.
+    Green shutters, vermillion doors—songs of sorrow seep through,
+    Every house here belongs to the disciples of the Pear Garden.
+  footnotes:
+  - key: ''
+    value: The Pear Garden (梨園) refers to a prestigious music academy established by Tang Emperor Xuanzong, where both men and women were trained in the musical arts. By extension, it evokes a world of refined culture and courtly elegance.

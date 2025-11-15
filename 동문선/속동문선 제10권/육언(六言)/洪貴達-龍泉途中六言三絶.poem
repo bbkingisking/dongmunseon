@@ -1,0 +1,57 @@
+canonical:
+  title: 龍泉途中六言三絶
+  author: 洪貴達
+  language: lzh
+  text: 客舘終宵聽雨靑燈一點題詩路遠征人起早泥深驛馬行遲樹深聞鶯不見長途信馬含情人間俯仰今古天地幾回陰晴淋漓雙袖露浥夾路無盡雲林野水魚跳鏡面春山鳥度屛心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 龍泉途中六言三絶
+  author: 洪貴達
+  language: lzh
+  text: 客舘終宵聽雨。靑燈一點題詩。路遠征人起早。泥深驛馬行遲。樹深聞鶯不見。長途信馬含情。人間俯仰今古。天地幾回陰晴。淋漓雙袖露浥。夾路無盡雲林。野水魚跳鏡面。春山鳥度屛心。
+korean:
+  title: 용천 도중 육언 삼절
+  author: 홍귀달
+  language: kor
+  text: |-
+    객관에 밤 새며 비 소리를 들었었고
+    푸른 등불 한 점 켜고 시를 쓰곤 하였노라
+    길이 멀고 보니 가는 사람 일찍 깨고
+    진흙이 깊어서 역마는 더디 가는구나
+    숲이 깊어 꾀꼬리 소리 들리나 뵈지는 않고
+    먼 길엔 말을 믿어 정만 머금어라
+    인간의 고금 일을 굽었다 우러렀다 하매
+    천지는 몇 번이나 그늘졌다 개었던고
+    후줄근히 두 소매에 이슬이 젖었고
+    길 곁의 구름 낀 숲은 한이 없어라
+    들물에는 거울 위에 고기 뛰놀고
+    봄메에는 새가 병풍 속을 지나치더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_020_0020&viewSync=OT
+  footnotes: []
+english:
+  title: Three Quatrains in Six-Word Verse on the Road to Yongcheon
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    All night in the traveler's inn I listened to the rain,
+    A single point of blue lamplight, and I wrote my poems.
+    The road stretches long—the wanderer wakes before dawn,
+    The mud runs deep—the relay horse moves slowly on.
+
+    Deep in the forest, I hear the nightingale's song but cannot see it,
+    On this long journey, trust your horse and carry only feeling.
+    Looking back and forth through the ages of mankind,
+    How many times has heaven and earth turned from shadow into light?
+
+    My sleeves are soaked through with the damp of evening tears,
+    The cloud-wrapped forest lining the path knows no end.
+    On the wild waters, fish leap upon the mirror's face,
+    And through the spring mountains, birds pass beyond the folding screen.
+  footnotes:
+  - key: ''
+    value: This poem uses the six-word (육언) meter, a classical form favored in Korean poetry that creates a distinctive rhythmic pattern.
+  - key: ''
+    value: The 'folding screen' (屛心) in the final line suggests both the literal landscape and the romantic conventions of East Asian poetry, where mountains and birds are traditional symbols of spiritual transcendence.
+  - key: ''
+    value: The poem captures the liminal experience of travel—the speaker suspended between departure and arrival, between observation and introspection.

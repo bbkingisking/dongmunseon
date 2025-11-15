@@ -1,0 +1,41 @@
+canonical:
+  title: 咸陽灆㵢竹枝曲
+  author: 兪好仁
+  language: lzh
+  text: 城南城北閙鷄豚賽罷田神糓雨昏太守遊春勤勸課肩輿時入杏花村
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 咸陽灆㵢竹枝曲
+  author: 兪好仁
+  language: lzh
+  text: 城南城北閙鷄豚。賽罷田神糓雨昏。太守遊春勤勸課。肩輿時入杏花村。
+korean:
+  title: 함양남뢰 죽지곡
+  author: 유호인
+  language: kor
+  text: |-
+    성 남쪽 또 북녘에 닭 돼지 요란할 제
+    밭 기도가 끝이 나자 들 비는 어둑 어둑
+    태수의 봄놀이 권농하기 위함이라
+    때로는 가마 타고 행화촌을 찾아드네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: Bamboo Branch Songs of Hamyang
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    South of the city and north of the walls, the chickens and pigs clamor loud,
+    When the field rituals end, the rain falls soft on darkening clouds.
+    The magistrate's spring journey seeks to encourage the farmer's toil—
+    At times his palanquin winds through the apricot blossom village.
+  footnotes:
+  - key: ''
+    value: Hamyang (咸陽) refers to a county in historical Korea, known for its agricultural tradition.
+  - key: ''
+    value: The field rituals (賽罷田神) refer to ceremonies honoring the agricultural deities, performed at the beginning of the planting season.
+  - key: ''
+    value: The magistrate's role in encouraging agriculture (勤勸課) reflects the Confucian ideal of benevolent governance.
+  - key: ''
+    value: Bamboo branch songs (竹枝曲) were a popular folk poetry form celebrating local customs and seasonal activities.

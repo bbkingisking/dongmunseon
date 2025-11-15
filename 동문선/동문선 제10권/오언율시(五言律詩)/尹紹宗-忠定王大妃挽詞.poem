@@ -1,0 +1,53 @@
+canonical:
+  title: 忠定王大妃挽詞
+  author: 尹紹宗
+  language: lzh
+  text: 開國元勛世平戎積德門皇天生俔妹王室配神孫夏啓謳歌往周姜思媚存聦陵封新隧臣子正銷魂忠定王葬聦陵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 忠定王大妃挽詞
+  author: 尹紹宗
+  language: lzh
+  text: 開國元勛世。平戎積德門。皇天生俔妹。王室配神孫。夏啓謳歌往。周姜思媚存。聦陵封新隧。臣子正銷魂。忠定王葬聦陵。
+korean:
+  title: 충정왕 대비만사
+  author: 윤소종
+  language: kor
+  text: |-
+    나라를 연 원훈의 세계요
+    난리를 평정한 적덕의 가문이어라
+    하늘이 아름다운 부인을 낳아
+    왕실의 신손에게 짝하였네
+    하계에게 구가가 돌아가고
+    주강을 사미함이 있도다
+    총릉에 새 무덤을 봉하니
+    신자 정히 간장이 녹네
+    충정왕릉(忠定王陵)이 총릉(聰陵)이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0540&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 신손(神孫) : '
+    value: 왕위를 계승하는 자손을 높여서 성자(聖子)ㆍ신손(神孫)이라 칭한다.
+  - key: '[주-D002] 하계(夏啓)에게 구가(謳歌) : '
+    value: 하(夏)나라의 우(禹)가 죽은 뒤에, 백성들이 우의 아들 계(啓)에게 칭송[謳歌]하고 따랐다.
+english:
+  title: Elegy for the Great Royal Consort of King Chungjeong
+  author: Yun Sojong
+  language: eng
+  text: |-
+    Lineage of founding merit that opened the nation,
+    A house of virtue that pacified the realm's turmoil.
+    Heaven itself gave birth to beauty,
+    And wed her to the sacred heir of the royal line.
+
+    The songs of praise that once attended the Xia's heir have faded,
+    Yet the reverence for Zhou's queen endures in memory.
+    At Songneung's tomb a new chamber is sealed,
+    And the hearts of loyal subjects dissolve in sorrow.
+
+    [King Chungjeong's grave lies at Songneung.]
+  footnotes:
+  - key: ''
+    value: The Xia reference alludes to the legendary transition when Yu of Xia passed his throne to his son Qi, whose worthiness earned the people's spontaneous praise and loyalty.
+  - key: ''
+    value: Zhou's queen refers to the honored consorts of antiquity whose virtue was remembered through generations—a parallel drawn to honor this consort's legacy.

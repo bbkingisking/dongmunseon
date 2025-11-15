@@ -1,0 +1,53 @@
+canonical:
+  title: 雀噪
+  author: 李穡
+  language: lzh
+  text: 雀噪茅簷日欲西遙憐晏子惜泥谿王風幸矣興於魯女樂胡然至自齊衰草淡煙迷遠近白雲靑嶂互高低鳳歌忽向門前過老我方將傳滑稽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雀噪
+  author: 李穡
+  language: lzh
+  text: 雀噪茅簷日欲西。遙憐晏子惜泥谿。王風幸矣興於魯。女樂胡然至自齊。衰草淡煙迷遠近。白雲靑嶂互高低。鳳歌忽向門前過。老我方將傳滑稽。
+korean:
+  title: 작조
+  author: 이색
+  language: kor
+  text: |-
+    해질녘 처마에 참새가 지저귀니
+    안자가 이계를 아끼던 것 가엾구나
+    왕풍이 다행히 노나라에 흥하려는데
+    여악이 어찌하여 제로부터 이르렀던가
+    쇠한 풀 자욱한 연기는 원근이 아득하고
+    흰 구름 푸른 산이 번갈아 높낮고
+    봉의 노래가 문득 문 앞을 지나가니
+    늙은 나 방금 붓 들어 골계전을 지으려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0770&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 안자(晏子)가 …… 아끼던 것 : '
+    value: 제 경공(齊景公)이 이계(尼谿)의 땅을 공자(孔子)에게 봉해 주려 하였더니 안자(晏子)가 방해하였다.
+  - key: '[주-D002] 여악(女樂)이 …… 이르렀던가 : '
+    value: 공자(孔子)가 노국(魯國)에서 등용되어 정치를 잘하니 제국(齊國)이 노국의 강성할 것을 두려워하여 여악(女樂)을 아름답게 꾸며서 노군(魯君)에게 선물로 보내어 마음을 미혹하게 하였다. 공자는 그 때문에 노국을 떠났다.
+  - key: '[주-D003] 봉(鳳)의 노래 : '
+    value: 초광(楚狂) 접여(接輿)가 공자의 문을 지나가며 부른 노래. “봉이여 봉이여, 어찌 이리 덕이 쇠하노.[鳳兮鳳兮 何韓之衰也]” 《論語 微子》
+english:
+  title: Sparrows' Chatter
+  author: Lee Sek
+  language: eng
+  text: |-
+    Sparrows chatter beneath the eaves as day declines toward west.
+    I pity Yanzi's care for muddy streams, now lost.
+    The Way of Kings fortunately flourished in Lu,
+    Yet how did the music of women drift from Qi?
+    Withered grasses veil the mist, distances grow dim,
+    White clouds and green mountains alternately rise and fall.
+    The phoenix's song suddenly passes before my door—
+    And I, grown old, take up my brush to record the foolish and the wise.
+  footnotes:
+  - key: ''
+    value: Yanzi (晏子) attempted to prevent Confucius from receiving the land of Ni Stream as a gift from the Duke of Qi, valuing ethical restraint over territorial gain.
+  - key: ''
+    value: The Duke of Qi, fearing Lu's growing strength under Confucius's influence, sent beautiful courtesans as a gift to seduce the Duke of Lu. Confucius left Lu as a result.
+  - key: ''
+    value: 'The Phoenix''s Song refers to Jieyu of Chu, the mad sage, who sang as he passed Confucius''s door: ''O Phoenix! O Phoenix! Why has virtue so declined?'' This alludes to the cyclical rise and fall of virtue in the world.'

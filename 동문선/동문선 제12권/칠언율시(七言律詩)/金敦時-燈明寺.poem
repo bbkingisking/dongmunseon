@@ -1,0 +1,48 @@
+canonical:
+  title: 燈明寺
+  author: 金敦時
+  language: lzh
+  text: 寺壓滄波遠淼茫登臨如在海中央捲簾竹影踈還密欹枕灘聲抑更揚夜靜經樓香灺冷月明賓榻葛巾凉堪嗟好景無緣住終日昏昏爲口忙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 燈明寺
+  author: 金敦時
+  language: lzh
+  text: 寺壓滄波遠淼茫。登臨如在海中央。捲簾竹影踈還密。欹枕灘聲抑更揚。夜靜經樓香灺冷。月明賓榻葛巾凉。堪嗟好景無緣住。終日昏昏爲口忙。
+korean:
+  title: 등명사
+  author: 김돈시
+  language: kor
+  text: |-
+    망망한 물결을 절이 누르고 앉았으니
+    오르매 마치 바다 한 가운데 있는 듯
+    발 걷으니 대 그림자는 성긴 듯 빽빽
+    베개를 의지하니 여울소리는 높으락 낮으락
+    고요한 밤 경루에 향촛불이 싸늘하고
+    달 밝으니 객실에는 갈건이 서늘해라
+    어런 좋은 경치에 머물 인연이 없어서
+    온 종일 정신없이 먹고 살기에 바쁘다니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0710&viewSync=OT
+  footnotes: []
+english:
+  title: Lamplight Temple
+  author: Kim Dun-si
+  language: eng
+  text: |-
+    The temple presses down upon the endless waves,
+    And standing high, I seem to float mid-ocean.
+    The bamboo shadows shift from sparse to dense,
+    While resting my head, the rapids sing—now soft, now loud.
+
+    In silent night the incense in the scripture tower grows cold,
+    Beneath the moon the guest room's hemp robe turns cool.
+    Yet such fair beauty cannot hold me here—
+    I must hurry on, all day bewildered, racing after rice.
+  footnotes:
+  - key: ''
+    value: Lamplight Temple (燈明寺) is situated on a peninsula or promontory overlooking water, creating the effect of isolation described in the opening couplet.
+  - key: ''
+    value: The 'scripture tower' (經樓) refers to a tower within the temple where Buddhist scriptures are kept.
+  - key: ''
+    value: The final couplet employs a poignant turn, contrasting the serene natural beauty with the speaker's inability to remain due to worldly obligations and the constant struggle for survival.

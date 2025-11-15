@@ -1,0 +1,37 @@
+canonical:
+  title: 永濟道中
+  author: 金千齡
+  language: lzh
+  text: 羸馬凌兢驛路賖隔林厖吠是誰家黃昏月落郊原黑認得前村蕎麥花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永濟道中
+  author: 金千齡
+  language: lzh
+  text: 羸馬凌兢驛路賖。隔林厖吠是誰家。黃昏月落郊原黑。認得前村蕎麥花。
+korean:
+  title: 영제 도중
+  author: 김천령
+  language: kor
+  text: |-
+    여윈 말 더디가니 역마을 멀어지고
+    숲 넘어 삽살개 짖는 건 그 뉘 집이냐
+    황혼에 달이 지고 교원이 검었으나
+    앞마을 메밀꽃만 내 알괴라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road Through Yongje
+  author: Kim Cheon-ryeong
+  language: eng
+  text: |-
+    A lean horse trudges slowly, the relay station fading behind,
+    Beyond the forest, a watchdog barks—but whose house is that?
+    At dusk the moon sets and the fields turn black,
+    Yet I can still make out the buckwheat flowers of the village ahead.
+  footnotes:
+  - key: ''
+    value: Yongje (永濟) refers to a historical region; the poem captures a traveler's journey through the darkening countryside
+  - key: ''
+    value: The buckwheat flowers serve as a beacon of human presence and refuge in the encroaching darkness

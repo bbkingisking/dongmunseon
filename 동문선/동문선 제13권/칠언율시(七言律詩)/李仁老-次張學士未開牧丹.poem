@@ -1,0 +1,49 @@
+canonical:
+  title: 次張學士未開牧丹
+  author: 李仁老
+  language: lzh
+  text: 春寒勒却小園花舞蝶遊蜂欲戀何楚雨未飄三峽暮吳娃尙阻五湖波苦遮丹口晨粧嬾深鎖紅房睡味多自是含嬙呼不出豈緣銷瘦却羞他
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次張學士未開牧丹
+  author: 李仁老
+  language: lzh
+  text: 春寒勒却小園花。舞蝶遊蜂欲戀何。楚雨未飄三峽暮。吳娃尙阻五湖波。苦遮丹口晨粧嬾。深鎖紅房睡味多。自是含嬙呼不出。豈緣銷瘦却羞他。
+korean:
+  title: 장학사의 미개 모란을 차운하여
+  author: 이인로
+  language: kor
+  text: |-
+    봄 추위가 동산에 꽃피는 것을 억제하니
+    춤추는 벌 나비 그리워한들 어이하리
+    삼협 저문 날에 초나라 비 안 내린 듯
+    오호 물결에 오나라 미인 길이 막힌 듯
+    빨간 입술을 꼭 다무니 새벽 단장 게으르고
+    붉은 방을 꽉 잠그고 단잠만 자는구나
+    애교의 수줍음으로 불러도 안 나오는 게지
+    여위어 대하기 부끄러운 때문이야 아니겠지
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼협(三峽) …… 내린 듯 : '
+    value: 무협의 신녀(神女)가 초 회왕(楚懷王)의 꿈에 나타나 교접하고는 그녀가 가면서 하는 말이 “아침엔 구름이 되고 저녁엔 비가 되리라.” 했다. 남녀의 합환(合歡)을 ‘운우(雲雨)’라 한다. 여기서는 모란꽃 피지 않은 것이 신녀(神女)의 비[雨]가 나부끼지 않음과 같다는 뜻이다. 삼협(三峽)은 사천성(四川省)과 호북성(湖北省)의 경계인 양자강(揚子江) 상류에 있는 세 협곡으로 무협(巫峽), 구당협(瞿唐峽), 서릉협(西陵峽)이다.
+  - key: '[주-D002] 오호(五湖) …… 길이 막힌 듯 : '
+    value: 오호(五湖)는 서시(西施). “오(吳)가 망한 후 월(越)의 서시가 범여(范蠡)와 함께 오호(五湖)에 떠가다.” 하였는데 여기서는 서시가 막혀 오지 못하는 것에 꽃을 비유하였다.
+english:
+  title: In Response to Master Zhang's Unopened Peonies
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Spring's chill holds back the blossoms in the garden.
+    Dancing butterflies and wandering bees—what good their longing?
+    As if the rains of Chu never fall at Gorge's end,
+    As if the beauty of Wu is locked beyond Five Lakes' waves.
+    With crimson lips sealed tight, the morning toilette grows lazy,
+    The scarlet chamber locked, deep in slumber's sweetness.
+    Even called upon with tender grace, she will not emerge—
+    Not from wasting away, surely, but from maiden's shy repose.
+  footnotes:
+  - key: ''
+    value: The reference to Chu rains alludes to the goddess of Wu Gorge, who appeared in the King of Chu's dream and promised to become clouds by day and rain by evening—a classical metaphor for union. Here, the absence of rain mirrors the peonies' refusal to bloom.
+  - key: ''
+    value: The Five Lakes reference evokes Xi Shi, the legendary beauty of Wu, who was said to have disappeared across the Five Lakes after Wu's fall. Like Xi Shi blocked from returning, the peonies remain hidden behind their sealed chambers.

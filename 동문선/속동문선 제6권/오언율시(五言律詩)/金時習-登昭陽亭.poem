@@ -1,0 +1,47 @@
+canonical:
+  title: 登昭陽亭
+  author: 金時習
+  language: lzh
+  text: 鳥外天將盡愁邊恨不休山多從北轉江自向西流鴈下沙汀遠舟回古岸幽何時拋世網乘興此重遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登昭陽亭
+  author: 金時習
+  language: lzh
+  text: 鳥外天將盡。愁邊恨不休。山多從北轉。江自向西流。鴈下沙汀遠。舟回古岸幽。何時拋世網。乘興此重遊。
+korean:
+  title: 등 소양정
+  author: 김시습
+  language: kor
+  text: |-
+    나는 새 밖에 하늘은 끝나려 하고
+    시름에 곁들여 한을 쉬지 않는다
+    산은 많이 북쪽에서 굴러 오는데
+    강은 스스로 서쪽을 향해 흐른다
+    기러기 내리노니 모래톱은 멀고
+    배가 돌아오매 옛 언덕 그윽하다
+    언제나 세상 그물 던져 버리고
+    흥을 타고 여기 와 다시 놀거나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0330&viewSync=OT
+  footnotes: []
+english:
+  title: Ascending Shaoyang Pavilion
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    Beyond the birds, heaven begins to fade.
+    Alongside my sorrow, regret knows no rest.
+    Mountains curve, rolling down from the north,
+    While the river flows of its own toward the west.
+    Geese descend where sandbars stretch far,
+    And the boat returns to ancient banks, hushed and deep.
+    When shall I cast off the world's tangled net?
+    Riding this mood, I would come here again to wander.
+  footnotes:
+  - key: ''
+    value: Shaoyang Pavilion (昭陽亭) was a famous pavilion in ancient China associated with contemplation and melancholy.
+  - key: ''
+    value: The imagery of geese, rivers, and ancient banks reflects common motifs in East Asian poetry symbolizing transience and nostalgia.
+  - key: ''
+    value: The final couplet expresses the poet's desire to transcend worldly concerns and return to this place of natural beauty and spiritual solace.

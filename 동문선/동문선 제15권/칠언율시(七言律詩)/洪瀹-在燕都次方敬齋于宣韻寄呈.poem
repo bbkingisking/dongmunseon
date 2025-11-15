@@ -1,0 +1,57 @@
+canonical:
+  title: 在燕都次方敬齋于宣韻寄呈
+  author: 洪瀹
+  language: lzh
+  text: 百歲人生有幾分孝虧愛日念先尊九經繼業兼三史五子連枝有十孫書劒未酬平國志箕裘欲報昊天恩天涯游子思無盡時望家山酹一樽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 在燕都次方敬齋于宣韻寄呈
+  author: 洪瀹
+  language: lzh
+  text: 百歲人生有幾分。孝虧愛日念先尊。九經繼業兼三史。五子連枝有十孫。書劒未酬平國志。箕裘欲報昊天恩。天涯游子思無盡。時望家山酹一樽。
+korean:
+  title: 연도에서 방경재 우선의 시에 차운하여 부쳐 드림
+  author: 홍약
+  language: kor
+  text: |-
+    백 년 사는 인생이 얼마나 되는고
+    날을 아껴 효도 못했다고 선친을 생각하누나
+    구경으로 업을 이어 삼사까지 겸하여
+    다섯 아들이 가지를 연하여 열 손자가 있네
+    글과 검으로 평생 뜻을 펴지 못했거니
+    기구로나 하늘 같은 은혜를 갚고자
+    하늘 가[먼 곳]에 노니는 아들이 생각이 그지없어
+    이따금 고향산 향해 술 한 잔을 붓습네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 날[日]을 아껴 : '
+    value: 오래 할 수 없는 것은 어버이를 섬기는 일이라, 효자는 날을 아낀다[愛日]는 말이다.
+  - key: '[주-D002] 글과 검(劍)으로 …… 못했거니 : '
+    value: 항우(項羽)의 숙부 항량(項梁)이 항우에게 글을 가르치고 칼 쓰는 법은 가르쳤다. 문무(文武)의 학(學)을 말한 것이다.
+  - key: '[주-D003] 기구(箕裘) : '
+    value: 가업(家業)을 계승한다는 뜻. “훌륭한 대장장이의 아들은 반드시 갖옷 만들기를 배우고, 훌륭한 궁방(弓房)의 아들은 반드시 키를 만들기를 배운다.”는 말이 있다.
+english:
+  title: Written in Response to a Poem by Fang Jingzhai While in Yandu, Presented with Respect
+  author: Hong Yak
+  language: eng
+  text: |-
+    How brief the span of a hundred years of human life—
+    I lament my failure to serve my parents well,
+    though I cherished each passing day.
+    Nine classics built upon the learning of the ancients,
+    three histories now added to our family's charge.
+    Five sons have branched into a line of ten grandsons,
+    yet my brush and blade have never fulfilled their purpose,
+    my ambitions unrealized in all my years.
+    Only through craft and legacy can I hope to repay
+    the boundless grace of Heaven.
+    Far across the world, my wandering son fills my thoughts—
+    so I pour a cup of wine toward the distant mountains of home.
+  footnotes:
+  - key: ''
+    value: The phrase 'cherished each passing day' (愛日) reflects the wisdom that service to parents cannot be deferred, and the filial son honors time itself.
+  - key: ''
+    value: The 'brush and blade' refer to both literary and martial arts, representing the complete cultivation that one hopes to achieve.
+  - key: ''
+    value: The 'craft and legacy' (箕裘) alludes to the transmission of family traditions and the fulfillment of ancestral duties through one's descendants.

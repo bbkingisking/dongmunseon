@@ -1,0 +1,46 @@
+canonical:
+  title: 病臥村莊書寄柳致養
+  author: 梁汝恭
+  language: lzh
+  text: 茅屋絶低小煙花滿壁垂飢兒啼索飯病客臥吟詩簷短朝光早簾踈月色遲沉緜無限思爲問有誰知
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病臥村莊書寄柳致養
+  author: 梁汝恭
+  language: lzh
+  text: 茅屋絶低小。煙花滿壁垂。飢兒啼索飯。病客臥吟詩。簷短朝光早。簾踈月色遲。沉緜無限思。爲問有誰知。
+korean:
+  title: 촌장에 앓고 누워 유치양에게
+  author: 양여공
+  language: kor
+  text: |-
+    초가집은 아주 낮고 작은데
+    연기 꽃이 벽 그득히 드리워 있네
+    주린 아이는 울며 먹을 것을 찾고
+    병든 손은 누워서 시를 읊네
+    처마가 짧아 아침 해가 일찍 들고
+    발은 성긴데 달빛은 더디구나
+    묻노니 병중에 끝없는 생각
+    뉘 있어 알아줄꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1070&viewSync=OT
+  footnotes: []
+english:
+  title: Written from a Village Sickbed to Liu Zhiyang
+  author: Yang Yugong
+  language: eng
+  text: |-
+    A thatched cottage, cramped and low—
+    smoke and cooking fires drift thick down the walls.
+    A hungry child cries out for rice,
+    while I lie sick, composing verse.
+
+    The eaves are short; the morning light arrives too early.
+    The blinds are thin; the moonlight lingers late.
+    My thoughts grow endless, heavy as sickness itself—
+    but who among the living could ever know?
+  footnotes:
+  - key: ''
+    value: Liu Zhiyang (柳致養) was likely an acquaintance or patron of the poet. The poem's structure suggests it was sent as a letter-poem, a common literary form in East Asian poetry.
+  - key: ''
+    value: The contrast between the harsh domestic realities (hungry child, poverty) and the poet's intellectual pursuits (composing verse while sick) reflects the literati ideal of maintaining cultural refinement despite material hardship.

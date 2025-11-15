@@ -1,0 +1,51 @@
+canonical:
+  title: 香山辭
+  author: 姜希孟
+  language: lzh
+  text: 山之高深兮不可以往觀兀然成老兮薄此塵寰鬢髮蕭踈兮戴盈冠白日易暮兮凋朱顔身纏五勞兮腰脚酸陟巘凌危兮羞所難朝馳神遊兮躡巑岏返故居兮形開質頑送師西歸兮發長歎恨無翼兮同躋攀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 香山辭
+  author: 姜希孟
+  language: lzh
+  text: 山之高深兮不可以往觀。兀然成老兮薄此塵寰。鬢髮蕭踈兮戴盈冠。白日易暮兮凋朱顔。身纏五勞兮腰脚酸。陟巘凌危兮羞所難。朝馳神遊兮躡巑岏。返故居兮形開質頑。送師西歸兮發長歎。恨無翼兮同躋攀。
+korean:
+  title: 향산사
+  author: 강희맹
+  language: kor
+  text: |-
+    산이 높고 깊어 가볼 수가 없기에
+    오뚝이 앉아 늙으며 이 속세에 사네
+    머리털 희끗희끗 관 속에 가득
+    세월이 하도 빨라 홍안이 시들었네
+    오로가 몸에 감겨 허리와 다리 시큰하니
+    험한 산, 위험한 바위를 내 어이 올라가리
+    꿈에는 높은 봉에 오르건만
+    깨고 나니 그대로 누워 있는 몸
+    서로 가는 스님 보내며 긴 탄식을 발하노니
+    날개 없어서 함께 오르지 못함이 한이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1370_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오로(五勞) : '
+    value: 의서(醫書)에, “사람의 병드는 원인에 오로(五勞)가 있다.” 하였는데, 심로(心勞)ㆍ신로(腎勞) 등 다섯 가지이다.
+english:
+  title: Ode to Fragrant Mountain
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    The mountain stands high and deep—how can one venture to gaze upon it?
+    I sit alone and grow old, drifting through this dusty realm of men.
+    My hair turns sparse and gray beneath my crown,
+    While swift years steal the bloom from my crimson cheeks.
+    The five maladies grip my body, my loins and legs ache,
+    How can I climb the steep peaks and dangerous crags?
+    In dreams my spirit soars to lofty summits,
+    Yet I wake to find myself still lying prone.
+    Watching my teacher depart toward the west, I heave a long sigh—
+    Wishful, but wingless, I cannot ascend with him.
+  footnotes:
+  - key: ''
+    value: 'The ''five maladies'' (오로) refers to the five types of exhaustion recognized in classical medicine: exhaustion of heart, kidneys, and other vital organs, which manifest as physical decline and suffering.'
+  - key: ''
+    value: The monk or teacher departing westward may allude to a spiritual guide or enlightened master, suggesting the speaker's longing for spiritual ascension.

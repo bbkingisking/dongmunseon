@@ -1,0 +1,55 @@
+canonical:
+  title: 題寒松亭
+  author: 安軸
+  language: lzh
+  text: 四仙曾會此客似孟甞門珠履雲無迹蒼官火不存尋眞思翠密懷古立黃昏唯有煎茶井依然在石根松近爲山火所燒故云
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題寒松亭
+  author: 安軸
+  language: lzh
+  text: 四仙曾會此。客似孟甞門。珠履雲無迹。蒼官火不存。尋眞思翠密。懷古立黃昏。唯有煎茶井。依然在石根。松近爲山火所燒故云。
+korean:
+  title: 제 한송정
+  author: 안축
+  language: kor
+  text: |-
+    네 국선이 일찍 여기 모였으니
+    종자가 맹상군 문객만 하였으리
+    구슬신 신은 분들 구름처럼 다 가고
+    푸른 수염 난 관송은 불에 타 안 남았네
+    선경을 찾으려니 푸른 숲 그립구나
+    옛날을 회상하여 황혼에 서 있네
+    남은 것 오직 차 끓이던 우물
+    아직도 돌 뿌리 옆에 그대로 있구나
+    솔[松]이 근년에 산불[山火]로 타서 이렇게 말했다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0820&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구슬신 : '
+    value: 초(楚)의 춘신군(春申君)의 문객이 3천여 명인데, 그 중 상객(上客)은 다 구슬로 꾸민 신을 신었다. 《史記 春申君傳》
+  - key: '[주-D002] 차 끓이던 우물 : '
+    value: 한송정 구역에 차샘[茶泉]ㆍ돌부엌ㆍ돌절구가 있으니, 곧 술랑(述郞) 등 국선(國仙)의 무리가 놀던 곳이다.
+english:
+  title: On the Pavilion of the Cold Pine
+  author: An Axis
+  language: eng
+  text: |-
+    Four immortal sages once gathered here,
+    Their retinue rivaled Mengchang's grand court.
+    Pearl-adorned slippers—gone like clouds without trace,
+    And the venerable pine with azure beard burned in mountain fire.
+
+    Seeking the realm of immortals, I long for emerald depths,
+    Standing in twilight, lost in reverie of the ancient past.
+    All that remains is the well where tea was brewed,
+    Still resting beside the stone roots, unchanged through the years.
+  footnotes:
+  - key: ''
+    value: The 'four immortal sages' likely refers to the Hwarang or Korean scholars known for their spiritual cultivation and gatherings.
+  - key: ''
+    value: The 'pearl-adorned slippers' alludes to the elegant retinue of Mengchang Jun, a figure from Chinese history known for his patronage of scholars and poets.
+  - key: ''
+    value: The pine tree, which once stood as a symbol of the pavilion, was destroyed by a recent wildfire, prompting this elegiac meditation.
+  - key: ''
+    value: The tea well with stone furnishings and mortar are actual relics from where these sages are said to have gathered and communed.

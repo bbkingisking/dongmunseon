@@ -1,0 +1,37 @@
+canonical:
+  title: 古意
+  author: 崔思齊
+  language: lzh
+  text: 羲軒去大忙天地何早闢散髮卧淸風一鳥沒空碧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 古意
+  author: 崔思齊
+  language: lzh
+  text: 羲軒去大忙。天地何早闢。散髮卧淸風。一鳥沒空碧。
+korean:
+  title: 고의
+  author: 최사제
+  language: kor
+  text: |-
+    복희씨와 헌원씨는 너무 바삐 갔네
+    천지는 어이하여 그리 일찍 개벽했노
+    머리 풀어헤치고 맑은 바람에 누우니
+    새 한 마리 저 하늘 푸른 속으로 파묻혀 가네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Ancient Sentiment
+  author: Choi Sa-je
+  language: eng
+  text: |-
+    Fuxi and Huangdi rushed through their days in such haste—
+    Why did heaven and earth part so early?
+    Hair loosened, I lie in the pure wind,
+    A lone bird vanishes into the depths of blue sky.
+  footnotes:
+  - key: ''
+    value: Fuxi and Huangdi (Huang Di) are legendary Chinese sage-kings, here representing the distant past and the rapid passage of time
+  - key: ''
+    value: The poet contrasts the restless bustle of the ancients with the speaker's moment of repose in nature, suggesting a philosophical meditation on temporality and human ambition

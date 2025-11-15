@@ -1,0 +1,40 @@
+canonical:
+  title: 曉過僧舍
+  author: 柳方善
+  language: lzh
+  text: 東嶺上初暾尋僧扣竹門宿雲留塔頂積雪擁籬根小徑連深洞踈鍾徹遠村蕭然吟未已淸興到黃昬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 曉過僧舍
+  author: 柳方善
+  language: lzh
+  text: 東嶺上初暾。尋僧扣竹門。宿雲留塔頂。積雪擁籬根。小徑連深洞。踈鍾徹遠村。蕭然吟未已。淸興到黃昬。
+korean:
+  title: 효과 승사
+  author: 유방선
+  language: kor
+  text: |-
+    동령에 해 돋을 무렵
+    중을 찾아 대사립문을 두드렸네
+    잔 구름은 탑 위에 머물고
+    쌓인 눈은 울타리 밑을 덮어 있네
+    오솔길은 깊은 골짜기로 연하였고
+    성긴 종소리 먼 마을에 들리네
+    한가히 읊어 마지않아
+    맑은 흥으로 황혼에 이르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0930&viewSync=OT
+  footnotes: []
+english:
+  title: Morning Visit to a Buddhist Monastery
+  author: Yu Bang-seon
+  language: eng
+  text: |-
+    As the sun breaks over the eastern ridge,
+    I seek out the monk and knock on the bamboo gate.
+    Remnant clouds linger upon the pagoda's peak,
+    Accumulated snow embraces the base of the fence.
+    Narrow paths wind into deep ravines,
+    Sparse bell notes drift to distant villages.
+    Still singing, my reverie unfinished,
+    I linger in crystalline joy until twilight falls.

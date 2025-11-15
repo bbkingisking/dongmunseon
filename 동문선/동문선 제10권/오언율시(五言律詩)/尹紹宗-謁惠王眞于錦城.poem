@@ -1,0 +1,45 @@
+canonical:
+  title: 謁惠王眞于錦城
+  author: 尹紹宗
+  language: lzh
+  text: 鐵原方啓聖錦里爲儲英一統三韓日先登百濟城山河扶王氣廟貌見民情願相東征鉞重開萬世平
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謁惠王眞于錦城
+  author: 尹紹宗
+  language: lzh
+  text: 鐵原方啓聖。錦里爲儲英。一統三韓日。先登百濟城。山河扶王氣。廟貌見民情。願相東征鉞。重開萬世平。
+korean:
+  title: 금성에서 혜왕 진영을 뵈옵고
+  author: 윤소종
+  language: kor
+  text: |-
+    철원에서 바야흐로 성업을 여는 때에
+    금리에서 영주를 잉태하였도다
+    삼한을 통일하시던 날에
+    먼저 백제성을 오르셨네
+    산하는 왕기를 붙들어 있고
+    영정을 모신 사당은 사모하는 민정을 보겠네
+    원하건대 동정하는 군사를 도와
+    다시 만세의 평화를 열게 하여 주소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 철원(鐵原)에서 바야흐로 성업(聖業)을 여는 때에 금리(錦里)에서 영주(英主)를 잉태하였도다 : '
+    value: 고려 태조(太祖)가 태봉국(泰封國)의 장수로서 전라도 나주(羅州)에 갔을 때에, 오후(吳后)를 만나서 혜종(惠宗)을 낳았다.
+english:
+  title: Visiting the Portrait of King Hye at Geumseong
+  author: Yun So-jong
+  language: eng
+  text: |-
+    At Cheolwon, the sacred work begins to unfold,
+    At Geumri, the realm conceives its worthy master.
+    On the day when Three Hans were made one,
+    He first ascended the walls of Baekje.
+    The mountains and rivers cradle the royal essence,
+    The shrine enshrining his portrait beholds the people's reverence.
+    I pray to aid the Eastern campaign's righteous sword,
+    That we may open anew ten thousand years of peace.
+  footnotes:
+  - key: ''
+    value: King Taejo of Goryeo, when serving as a general of Taebongkuk, traveled to Naju in Jeolla Province, where he met Lady O and fathered King Hye.

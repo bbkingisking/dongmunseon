@@ -1,0 +1,81 @@
+canonical:
+  title: 北上
+  author: 李齊賢
+  language: lzh
+  text: 斷鴈秋聲苦荒雞夜色闌呼燈憎僕懶騎馬怕兒寒時率兒子而行 草動霜飄袂冰穿水逬鞍主恩猶未報努力敢求安去魯情何極遊秦興未闌每懷姜被暖誰念范袍寒對酒頻彈劒吹燈乍枕鞍白雲看漸遠安得報平安
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 北上
+  author: 李齊賢
+  language: lzh
+  text: 斷鴈秋聲苦。荒雞夜色闌。呼燈憎僕懶。騎馬怕兒寒。時率兒子而行。 草動霜飄袂。冰穿水逬鞍。主恩猶未報。努力敢求安。去魯情何極。遊秦興未闌。每懷姜被暖。誰念范袍寒。對酒頻彈劒。吹燈乍枕鞍。白雲看漸遠。安得報平安。
+korean:
+  title: 북상
+  author: 이제현
+  language: kor
+  text: |-
+    외로운 기러기 가을 소리 괴롭고야
+    으스름 닭소리 밤이 늦었네
+    등불 켜라 하니 게으른 종 얄밉고
+    말을 태우니 어린 자식 추워 떠네 그때 어린 자식을 거느리고 갔다
+    풀을 헤치며 가니 서리가 소매에 날리고
+    얼음이 뚫어지니 물이 안장에 뛰는구나
+    임의 은혜를 아직 못 다 갚았으니
+    있는 힘 다해 나갈 뿐, 감히 편안 찾으랴
+    노를 떠날 때엔 그리도 마음 슬프고
+    진에 노니 흥이 무르익지 않았네
+    강굉의 따뜻한 이불 내 못 잊건마는
+    범숙의 찬 도포를 뉘라서 생각하리
+    술을 대하여 자주 검을 퉁기고
+    등불을 끄곤 잠깐 안장을 베개하네
+    흰 구름이 볼수록 차츰 멀어지니
+    어쩌면 내 고향에 소식을 전하올까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0870&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 노(魯)를 떠날 : '
+    value: 공자(孔子)가 그의 본국인 노국(魯國)을 버리고 타국으로 갈 적에, “나의 걸음이여[遲遲吾行也].” 하였으니, 그것은 부모의 나라를 떠나는 마음이다.
+  - key: '[주-D002] 진(秦)에 노니 : '
+    value: 당나라 시인(詩人)들이 유진(遊秦), 입진(入秦)이란 말을 간간이 쓰는데, 그것은 당나라 수도(首都)가 옛날의 진(秦)인 장안(長安)에 있었기 때문이다. 원(元)나라의 수도는 북경이나, 당나라 시인의 문구를 그대로 써서 중국에 가는 것을 유진(遊秦)이라 하였다.
+  - key: '[주-D003] 범숙(范叔)의 찬 도포(道袍) : '
+    value: 전국 때 위(魏)의 범수(范睢 范叔)가 중대부(中大夫)  수가(須賈)의 고자질로 억울하게 매를 맞고 쫓겨나서 진(秦)에 간 뒤에 상국(相國)이 되었는데, 그때에 수가가 진(秦)에 사신(使臣)으로 왔다. 범수는 남루한 옷으로 수가를 찾았다. 그가 보고 가엾게 여겨, “범수 몹시도 춥겠구나.” 하고 자기가 입었던 비단 도포[綈袍]를 벗어 주었다. 《史記 范睢傳》
+  - key: '[주-D004] 검(劍)을 퉁기고 : '
+    value: 맹상군(孟嘗君)의 문객 풍환(馮驩)이 탄검(彈劒)하면서 불우(不遇)한 노래를 부른 고사.
+  - key: '[주-D005] 흰 구름이 …… 멀어지니 : '
+    value: 당(唐)나라 적인걸(狄仁傑)이 병주(幷州)에 있을 때에 태행산(太行山)에 올라 돌아보니, 흰 구름이 외로이 날아가는지라, “내 어버이 집이 저 아래 있는 것을,”이라 했으니 흰 구름 밑에 고향이 있다는 뜻이다.
+english:
+  title: Journey North
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The cry of distant geese in autumn pierces the heart with sorrow.
+    The rooster's cry at dusk—the night deepens.
+    I call for a lamp, but my servant's laziness vexes me.
+    I mount my horse, yet my young child shivers in the cold.
+    Then I journeyed forth, my child in tow.
+
+    Pushing through the grass, frost scatters upon my sleeves.
+    The ice cracks; water splashes against my saddle.
+    My lord's kindness remains unpaid.
+    With every ounce of strength, I press forward—how dare I seek comfort now?
+
+    Leaving Lu, my heart breaks beyond measure.
+    In Qin, my wandering spirit has not yet found peace.
+    I cannot forget the warm quilts of gentle Jiang.
+    Who would remember the cold robes of forlorn Fan?
+
+    Before wine, I pluck the strings of my sword in lament.
+    Blowing out the lamp, I rest my head upon my saddle.
+    The white clouds drift ever farther from sight.
+    How can I send word of my safety home?
+  footnotes:
+  - key: ''
+    value: Lu (魯) represents the poet's homeland, alluding to Confucius who reluctantly departed his native state—symbolizing the sorrow of leaving one's ancestral home.
+  - key: ''
+    value: Qin (秦) refers to the Yuan capital of Beijing, using the classical name as the destination north.
+  - key: ''
+    value: The reference to Fan's cold robes evokes the historical figure Fan Ju (范睢), who suffered unjust exile before finding success—a parallel to the poet's hardship and uncertain journey.
+  - key: ''
+    value: The plucking of the sword (彈劒) alludes to the famous lament of Feng Huan, expressing the pain of being unrecognized and unappreciated.
+  - key: ''
+    value: The white clouds drifting away symbolizes the growing distance from home, echoing the longing gaze of the official Di Renjie toward his distant family.

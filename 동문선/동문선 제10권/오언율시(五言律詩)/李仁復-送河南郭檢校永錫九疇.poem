@@ -1,0 +1,49 @@
+canonical:
+  title: 送河南郭檢校永錫九疇
+  author: 李仁復
+  language: lzh
+  text: 天子憂南紀元戎控上游遠交來使節遙望卽仙舟雪重貂裘暖天寒驛路脩冬官如有問爲我謝綢繆劉工部是我同年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送河南郭檢校永錫九疇
+  author: 李仁復
+  language: lzh
+  text: 天子憂南紀。元戎控上游。遠交來使節。遙望卽仙舟。雪重貂裘暖。天寒驛路脩。冬官如有問。爲我謝綢繆。劉工部是我同年。
+korean:
+  title: 하남 검교 곽영석 구주를 보내며
+  author: 이인복
+  language: kor
+  text: |-
+    천자가 남쪽 변방을 근심하시매
+    대장이 윗목을 막아 있네
+    멀리 사리매 사절이 오고
+    멀리 바라보니 곧 신선 배이네
+    눈이 무거운데 초구는 따뜻하고
+    하늘이 찬데 역로는 머네
+    동관이 만약 묻거든
+    날 위해 친절한 것 감사하다 일러두게
+    유공부(劉工部)는 나의 동년(同年 : 同榜及第)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동관(冬官) : '
+    value: 공부(工部)를 동관(冬官)이라 한다. 《주례》에 육부(六部)를 천지(天地)ㆍ사시(四時)로 배열하여, 이부(夷部)는 천관, 공부는 동관이라 칭한다.
+english:
+  title: Sending Off Guo Yongxi, Prefectural Inspector of Henan, on His Journey to Jiuzhou
+  author: Lee In-bok
+  language: eng
+  text: |-
+    The Son of Heaven grieves for the southern frontier,
+    The great general holds fast the upper reaches.
+    From distant lands come envoys bearing credentials,
+    Looking far off, I see a boat of immortals.
+    Heavy snow, yet the sable fur keeps warm,
+    The sky freezes cold, yet the road stretches long.
+    Should the Minister of Works inquire of me,
+    Tell him I am grateful for his careful kindness.
+    Liu of the Ministry of Works was my examination companion.
+  footnotes:
+  - key: ''
+    value: The 'Minister of Works' (冬官) is another name for the Ministry of Public Works (工部), which in the classic system of the Zhouli was aligned with the season of winter and the direction north, hence its alternative name.
+  - key: ''
+    value: The reference to 'examination companion' (同年) indicates they passed the civil service examination in the same year, creating a bond of scholarly fellowship.

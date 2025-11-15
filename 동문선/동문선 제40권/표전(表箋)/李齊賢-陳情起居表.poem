@@ -1,0 +1,33 @@
+canonical:
+  title: 陳情起居表
+  author: 李齊賢
+  language: lzh
+  text: 承賜履於東方庶遵箕子八條之化望垂衣於北闕竊效封人三祝之誠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陳情起居表
+  author: 李齊賢
+  language: lzh
+  text: 承賜履於東方。庶遵箕子八條之化。望垂衣於北闕。竊效封人三祝之誠。
+korean:
+  title: 진정 기거하는 글
+  author: 이제현
+  language: kor
+  text: 동방의 봉해 주신 땅[賜履]을 받았으매 아무쪼록 기자(箕子) 팔조(八條)의 교화를 준수하고자 하여, 북궐(北闕)의 수의(垂衣)를 바라고, 가만히 봉인(封人)의 삼축(三祝)의 정성을 본받습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0430_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 수의(垂衣) : '
+    value: 무위(無爲)의 지극한 정치를 말한 것이다. 《주역(周易)》 계사(繫辭)에, “요순(堯舜)은 의상(衣裳)을 드리우고 앉았어도 천하가 다스려졌다[堯舜垂衣裳 而天下治].” 하였다.
+  - key: '[주-D002] 삼축(三祝) : '
+    value: 《장자(莊子)》 천지편(天地篇)에, “요(堯) 임금이 화(華) 땅을 순회하자 화 땅의 봉인(封人)이 요 임금에 축원을 드리기를 청하며, 성인(聖人)으로 하여금 수(壽)하시고, 부(富)하시고, 아들을 많이 두시게 하겠습니다 하였다.” 한다.
+english:
+  title: Memorial on Conduct and Governance
+  author: Lee Je-hyeon
+  language: eng
+  text: I have received the honor of appointment to this eastern realm. May I diligently follow the Eight Precepts of Jizi's teachings. I gaze toward the Northern Palace, humbly emulating the sincere triple blessings of the Sage of Fengyi.
+  footnotes:
+  - key: ''
+    value: The 'hanging robes' (垂衣) refers to rulership through non-action and moral example, alluding to the ancient sage-kings Yao and Shun who governed so virtuously that they could simply sit peacefully while the world ordered itself.
+  - key: ''
+    value: The 'triple blessings' (三祝) references the sage-master of Fengyi who blessed Yao with longevity, prosperity, and numerous sons—representing the virtues the author wishes to embody in service.

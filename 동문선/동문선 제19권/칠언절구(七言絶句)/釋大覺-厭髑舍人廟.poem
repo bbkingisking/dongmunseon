@@ -1,0 +1,37 @@
+canonical:
+  title: 厭髑舍人廟
+  author: 釋大覺
+  language: lzh
+  text: 千里歸來問舍人靑山獨立幾經春若逢末世難行法我亦如君不惜身
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 厭髑舍人廟
+  author: 釋大覺
+  language: lzh
+  text: 千里歸來問舍人。靑山獨立幾經春。若逢末世難行法。我亦如君不惜身。
+korean:
+  title: 염촉사인 묘
+  author: 석대각
+  language: kor
+  text: |-
+    천 리를 돌아와 사인을 찾으니
+    청산을 홀로 서서 몇 봄을 보내었노
+    만일 말세에 불법 행하기 어려운 때 만나면
+    나도 또한 그대같이 몸을 아끼지 않으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0540&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 염촉사인 묘(厭髑舍人廟) : '
+    value: 신라(新羅)법흥왕(法興王) 때에 불법(佛法)을 위해 몸을 바친 박염촉(朴厭髑)의 사실은 《삼국유사(三國遺事)》에 상세하며 사인(舍人)은 염촉의 벼슬이다.
+english:
+  title: At the Shrine of Saje Pak Yeom-chuk
+  author: Sseok Dae-gak
+  language: eng
+  text: |-
+    A thousand miles I have traveled to seek out the Saje,
+    Who stands alone by green mountains through countless springs.
+    Should I encounter an age when the dharma grows difficult to practice,
+    I too, like you, would not begrudge my body to the Way.
+  footnotes:
+  - key: ''
+    value: Saje Pak Yeom-chuk was a historical figure from the Silla period (during King Beop-heung's reign) who sacrificed his life for the Buddhist dharma. His story is detailed in the Samguk Yusa (Records of the Three Kingdoms). 'Saje' refers to his official court title.

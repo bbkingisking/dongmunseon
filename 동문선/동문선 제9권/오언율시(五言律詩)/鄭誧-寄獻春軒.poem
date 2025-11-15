@@ -1,0 +1,48 @@
+canonical:
+  title: 寄獻春軒
+  author: 鄭誧
+  language: lzh
+  text: 飄零千里客蕭索數家村夢斷無由續心寒尙未溫滯留驚節物陶寫賴琴尊但得身能健悠悠不足論
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄獻春軒
+  author: 鄭誧
+  language: lzh
+  text: 飄零千里客。蕭索數家村。夢斷無由續。心寒尙未溫。滯留驚節物。陶寫賴琴尊。但得身能健。悠悠不足論。
+korean:
+  title: 기 헌춘헌
+  author: 정포
+  language: kor
+  text: |-
+    천 리에 떠다니는 나그네
+    쓸쓸한 몇 집 마을
+    끊어진 꿈을 어이 다시 이으리
+    싸늘한 마음 상기 못 따스하네
+    묵느라니 철 바뀜이 놀랍고야
+    울적한 심사를 거문고 술로 풀어가네
+    그저 몸 건강하면 그만이니
+    다른 것이야 논하여서 무엇하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_1010&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to Heonchun Pavilion
+  author: Jung Po
+  language: eng
+  text: |-
+    A wanderer adrift across a thousand leagues,
+    In a desolate village of but a handful of homes.
+    My broken dreams—how shall I mend them?
+    My chilled heart still cannot find its warmth.
+
+    Stuck here, I marvel at the turning seasons,
+    And ease my melancholy with zither and wine.
+    If only this body remains in health,
+    What need is there to speak of anything else?
+  footnotes:
+  - key: ''
+    value: The 'thousand leagues' evokes both physical distance and emotional separation from home
+  - key: ''
+    value: The zither (거문고) represents artistic expression as solace, a common motif in Korean classical poetry
+  - key: ''
+    value: The final couplet expresses a philosophical resignation—that contentment with bodily wellness transcends other worldly concerns

@@ -1,0 +1,54 @@
+canonical:
+  title: 上冊後賀表
+  author: 李穀
+  language: lzh
+  text: 於赫皇圖蔚啓乾元之運聿新壼制茂昭天作之祥宗社安榮臣民欣悅云云曰肅曰乂乃武乃文憂勤能致于中興有光祖業風化實資于內理用厚人倫端遇昌辰誕敷渙號云云叨居華秩獲覩盛儀竊慕華封恭上多男之祝式歌周雅願延萬壽之期
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上冊後賀表
+  author: 李穀
+  language: lzh
+  text: 於赫皇圖。蔚啓乾元之運。聿新壼制。茂昭天作之祥。宗社安榮。臣民欣悅。云云。曰肅曰乂。乃武乃文。憂勤能致于中興。有光祖業。風化實資于內理。用厚人倫。端遇昌辰。誕敷渙號。云云。叨居華秩。獲覩盛儀。竊慕華封。恭上多男之祝。式歌周雅。願延萬壽之期。
+korean:
+  title: 상책후 하표
+  author: 이곡
+  language: kor
+  text: 혁혁(赫赫)한 황도(皇圖)는 울연(蔚然)히 건원(乾元)의 운(運)을 열으시고, 새로 마련된 곤제(壼制)로 성대(盛大)하게 하늘이 내리신 상서를 밝히시오니, 종사(宗社)가 안영(安榮)하고 신민(臣民)이 모두 기뻐하옵나이다. 운운. 숙(肅)하고 예(乂)하며 무(武)하시고 문(文)하시어, 우근(憂勤)하심이 능히 중흥을 이룩하시어 조종(祖宗)의 업을 빛내시고, 풍화(風化)는 실로 내조(內助)에 도움을 받아 인륜(人倫)을 두텁게 하셨으므로 이제 가신(佳辰)을 만나 대호(大號)를 반포하셨나이다. 운운. 신(臣)이 외람되게 화려한 관직(官職)에 처하여 성대한 의식을 보오니, 그윽이 화봉인(華封人)을 사모하여 다남(多男)의 축(祝)을 공손히 올리오며, 주아시(周雅詩)를 노래하여 만년(萬年)의 성수(聖壽)를 늘이옵기 원하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화봉인(華封人) : '
+    value: 화봉인이 요(堯)나라 임금의 수복다남(壽福多男)을 빌었다. 《莊子》
+  - key: '[주-D002] 주아시(周雅詩) : '
+    value: 임금의 만수무강을 축원한 시. 《詩經 小雅》
+english:
+  title: Congratulatory Memorial on the Second Anniversary
+  author: Lee Gok
+  language: eng
+  text: |-
+    Radiant is the imperial realm,
+    brilliant it opens the cosmic forces of heaven.
+    Through newly established household governance,
+    great and glorious shine the signs bestowed by heaven.
+    The ancestral shrines stand secure and honored,
+    the people rejoice in perfect contentment.
+
+    With solemnity and good order, with martial strength and civil virtue,
+    through earnest devotion you have achieved the great restoration,
+    bringing luster to your ancestors' legacy.
+    The transformative influence of virtue finds its source in the counsel within,
+    deepening the bonds of human kinship.
+    Now in this auspicious season,
+    your magnificent proclamation spreads far and wide.
+
+    Though unworthy, I hold this honored post,
+    and am blessed to witness such splendid ceremonies.
+    Humbly I admire those ancient worthies,
+    and respectfully offer wishes for many sons and lasting blessing.
+    Let me sing the praises of the ancient poets,
+    and pray that your sacred life may extend ten thousand years.
+  footnotes:
+  - key: ''
+    value: The reference to ancient worthies wishing for 'many sons' alludes to the sage of Huafeng, who blessed the legendary Emperor Yao with longevity, prosperity, and many sons.
+  - key: ''
+    value: The 'praises of the ancient poets' refers to the Zhou elegies from the Book of Poetry, traditionally used to express wishes for imperial longevity and blessing.

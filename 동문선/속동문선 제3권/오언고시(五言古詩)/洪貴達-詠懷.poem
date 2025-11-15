@@ -1,0 +1,89 @@
+canonical:
+  title: 詠懷
+  author: 洪貴達
+  language: lzh
+  text: 風雨猶如此春寒柰桃李客懷正寥落兀然坐愁裏靜聽松濤喧寒翠打窓紙苦吟詩不成等閑添硯水了不管人事不慍亦何喜兒童當友朋山鳥啼宮徵終南屋上靑白日照憑几無能眞有味午眠酉不起人門雖絶廢卷中多君子無端成獨咲亦不道所以肉食甘亦苦虀塩淡而旨西山食薇者至今云不死江湖舊有約朝夕且行矣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詠懷
+  author: 洪貴達
+  language: lzh
+  text: 風雨猶如此。春寒柰桃李。客懷正寥落。兀然坐愁裏。靜聽松濤喧。寒翠打窓紙。苦吟詩不成。等閑添硯水。了不管人事。不慍亦何喜。兒童當友朋。山鳥啼宮徵。終南屋上靑。白日照憑几。無能眞有味。午眠酉不起。人門雖絶廢。卷中多君子。無端成獨咲。亦不道所以。肉食甘亦苦。虀塩淡而旨。西山食薇者。至今云不死。江湖舊有約。朝夕且行矣。
+korean:
+  title: 영회
+  author: 홍귀달
+  language: kor
+  text: |-
+    풍우가 아직 이러하니
+    봄 추위에 도리들 어찌하리
+    나그네 회포가 하도 쓸쓸하여서
+    시름 속에 오뚝히 앉아있네
+    고요히 들리는 솔바람 소리
+    푸른 산 기운이 창호지에 부딪치는 듯
+    괴로이 읊어도 시는 안 되어
+    하염없이 벼루에 물만 더 치네
+    세상 일을 내 이제 다 잊었거니
+    불평도 없고 기뿔 것도 없어라
+    아이들로 친구를 삼고
+    산새로 음악을 삼네
+    종남산이 지붕위에 푸르고
+    햇빛이 책상에 비쳐오는데
+    무능은 참으로 맛이 있는 것
+    낮잠을 해기울도록 깨지 않네
+    인간과는 비록 담을 쌓았지마는
+    책 속엔 군자들 많기도 하니
+    무단히 혼자서 싱그레 웃음
+    그 까닭을 또한 말하지 않네
+    육식은 달아도 또한 쓴 것
+    소찬은 담박해도 감칠맛 있네
+    서산에 고사리를 캐먹은 이는
+    지금토록 안 죽었나니
+    강호에 예로부터 언약 있으니
+    아침 저녁 가야만 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    Wind and rain persist as they always do,
+    spring's cold strikes down the peach and plum trees.
+    A wanderer's heart grows hollow and still—
+    I sit motionless, sunk in sorrow.
+
+    Quietly the pine winds whisper and roar,
+    green mountain mist strikes the paper windows.
+    I labor to compose a poem, but fail,
+    and mindlessly add more water to my inkstone.
+
+    I have forgotten the affairs of men—
+    no grievance troubles me, no joy excites.
+    I take children as companions,
+    mountain birds as my orchestra.
+
+    Mount Zhongnan rises green above my roof,
+    sunlight falls across my reading table.
+    Incompetence itself holds a secret flavor—
+    at noon I sleep through till evening, unbothered.
+
+    Though I have withdrawn from human affairs,
+    my books teem with ancient gentlemen.
+    Without reason I smile alone—
+    yet cannot explain why.
+
+    Flesh and meat taste sweet, then bitter,
+    salt vegetables taste plain, yet savory.
+    There was one who gathered ferns on Western Mountain—
+    they say he never died.
+
+    I made an old pact with river and lake,
+    and morning and evening, I must keep it.
+  footnotes:
+  - key: ''
+    value: Mount Zhongnan (終南山) is a sacred mountain in classical Chinese poetry, often associated with hermitage and spiritual retreat.
+  - key: ''
+    value: The reference to gathering ferns on Western Mountain alludes to the legendary Taoist immortals who rejected worldly affairs and sustained themselves on simple mountain plants, suggesting freedom from mortality through withdrawal from society.
+  - key: ''
+    value: The poem's meditation on incompetence and simplicity reflects Daoist philosophy, particularly the virtue of wu-wei (non-action) and the paradoxical fulfillment found in apparent emptiness.

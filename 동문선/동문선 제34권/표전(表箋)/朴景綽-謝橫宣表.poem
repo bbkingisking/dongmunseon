@@ -1,0 +1,42 @@
+canonical:
+  title: 謝橫宣表
+  author: 朴景綽
+  language: lzh
+  text: 于隰之華俯宣於寵命彼蕭之澤普及於遠方拜荷以還感驚交集中謝 皇帝聦文天縱聖敬日躋業啓千齡致大同於殊俗恩覃四海不遐棄於小邦星節臨門珍頒溢目臣逖居東表恪守外藩顧述職之寡功何懋賞之踰分庶勤樂率少答鴻慈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝橫宣表
+  author: 朴景綽
+  language: lzh
+  text: 于隰之華。俯宣於寵命。彼蕭之澤。普及於遠方。拜荷以還。感驚交集。中謝。 皇帝聦文天縱。聖敬日躋。業啓千齡。致大同於殊俗。恩覃四海。不遐棄於小邦。星節臨門。珍頒溢目。臣逖居東表。恪守外藩。顧述職之寡功。何懋賞之踰分。庶勤樂率。少答鴻慈。
+korean:
+  title: 사 횡선 표
+  author: 박경작
+  language: kor
+  text: |-
+    진펄[于隰]의 황화(皇華)가 총명(寵命)을 내려 선포하여 저 쑥[彼蕭]을 적시는 은택이 널리 먼 곳에까지 미치오니, 절하옵고 받자옴에 감격과 놀람이 섞여 모이옵나이다. 중사(中謝)
+    황제께옵서 하늘이 내신 총명으로 날로 공경함을 더하시어, 천년의 업(業)을 열으사 외국에까지 대동(大同)을 이루시고, 사해(四海)에 은혜가 미쳐 작은 나라까지 버리지 않으시니, 사절(使節)이 문(門)에 이르자 진기한 하사품이 눈에 가득하옵나이다.신은 멀리 해동(海東)에 살면서 조심하여 외번(外藩)을 지키고 있사오나 직책을 수행함에 있어 공이 적사온대 어찌 포상하심이 이렇듯 분수에 넘치나이까. 오직 사대(事大)의 충성을 다하여 크나큰 은혜를 보답할까 하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0370_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진펄의 …… 황화(皇華) : '
+    value: 《시경》에, “빛나는 꽃이여, 언덕에나 낮은 땅에로[皇皇者華 于彼原隰].” 하였는데, 이 시는 사신으로 가는 것을 읊은 것이다.
+  - key: '[주-D002] 저 쑥을 …… 은택 : '
+    value: 《시경》에, “무성한 저 쑥[彼蕭]에 이슬이 축축하네.” 하였는데, 그것은 천자가 제후에게 연회(宴會)하는 시이다.
+english:
+  title: Memorial in Response to the Envoy's Proclamation
+  author: Park Gyeong-jak
+  language: eng
+  text: |-
+    Like radiant flowers blooming on the marshy plain, your celestial proclamation descends and announces. The dew of grace—like that which falls upon the mugwort—spreads far to distant lands. I bow and receive with mingled gratitude and awe.
+
+    [Middle Expression of Thanks]
+
+    Your Majesty, endowed by Heaven with wisdom and clarity, daily ascends in reverence. Your reign opens forth a thousand ages, bringing Great Harmony even to distant peoples. Your benevolence extends to the four seas, abandoning no corner, however small. When the imperial envoys arrive at my gate, precious gifts overflow before my eyes.
+
+    Yet I, dwelling far in the Eastern sea, humbly guard the outer domains. My service lacks accomplishment, and I am unworthy of such abundant reward. I seek only to fulfill my loyalty in serving the great and thereby repay, in some measure, such boundless grace.
+  footnotes:
+  - key: ''
+    value: The 'radiant flowers on the marshy plain' and 'mugwort' are allusions to the Book of Songs, evoking both the dispatch of envoys and the benevolence of the Son of Heaven toward the feudal lords.
+  - key: ''
+    value: This is a formal memorial (pyo) from a Korean official acknowledging imperial recognition from China, written in the classical diplomatic style of the period.

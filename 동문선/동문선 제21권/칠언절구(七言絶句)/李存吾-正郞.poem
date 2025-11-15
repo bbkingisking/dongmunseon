@@ -1,0 +1,35 @@
+canonical:
+  title: 正郞
+  author: 李存吾
+  language: lzh
+  text: 遊學三年雪滿巖醇醪不覺自沉酣別來歲月奔如電惆悵無人爲指南
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 正郞
+  author: 李存吾
+  language: lzh
+  text: 遊學三年雪滿巖。醇醪不覺自沉酣。別來歲月奔如電。惆悵無人爲指南。
+korean:
+  title: 정랑
+  author: 이존오
+  language: kor
+  text: |-
+    설만암에 유학한 지 삼 년이라 가득한데
+    진국 술에 절고 취하는 줄 깨닫지 못하였다
+    이별한 뒤로 세월은 번개처럼 달리는데
+    나를 지도해 줄 이 아무도 없음을 슬퍼하나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0650&viewSync=OT
+  footnotes: []
+english:
+  title: The Vice Director
+  author: Lee Joon-oh
+  language: eng
+  text: |-
+    Three years of study in snow-blanketed cliffs,
+    In fragrant wine I drowsed, unaware of my own intoxication.
+    Since parting, the months have fled like lightning—
+    No one remains to guide me through this sorrow.
+  footnotes:
+  - key: ''
+    value: The title '정랑' (Vice Director) likely refers to an official position the author held or aspired to, placing this poem in the context of a scholar-official's reflections on youth and loss.

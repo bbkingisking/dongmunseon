@@ -1,0 +1,46 @@
+canonical:
+  title: 文殊寺
+  author: 釋坦然
+  language: lzh
+  text: 一室何寥廓萬緣俱寂寞路穿石鏬通泉透雲根落皓月掛簷楹涼風動林壑誰從彼上人淸坐學眞樂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 文殊寺
+  author: 釋坦然
+  language: lzh
+  text: 一室何寥廓。萬緣俱寂寞。路穿石鏬通。泉透雲根落。皓月掛簷楹。涼風動林壑。誰從彼上人。淸坐學眞樂。
+korean:
+  title: 문수사
+  author: 석탄연
+  language: kor
+  text: |-
+    한 집이 어이 이리 고요하고 비었는가
+    온갖 인연 다 함께 적막하여라
+    돌 틈을 뚫어 길 통하고
+    구름 뿌리 통하여 샘물 떨어지네
+    밝은 달은 추녀 끝에 걸리었는데
+    시원한 바람은 숲 골짜기를 흔드네
+    누구라 저 상인 따라
+    맑게 앉아서 참 즐거움 배우리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: Moonjuseum Temple
+  author: Shi Tanran
+  language: eng
+  text: |-
+    One chamber—how vast and empty it opens!
+    All the threads of existence woven into silence.
+    A path carved through stone,
+    water falling from cloud-roots.
+
+    The bright moon hangs from the eaves,
+    cool wind stirs the forest ravine.
+    Who follows that ancient master
+    to sit in clarity and learn true joy?
+  footnotes:
+  - key: ''
+    value: Moonjuseum Temple refers to a Buddhist temple dedicated to Manjushri, the bodhisattva of wisdom
+  - key: ''
+    value: The reference to 'that ancient master' (彼上人) likely alludes to a venerated Buddhist teacher or sage associated with the temple

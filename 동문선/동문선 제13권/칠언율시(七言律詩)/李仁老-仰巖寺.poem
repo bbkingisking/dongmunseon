@@ -1,0 +1,62 @@
+canonical:
+  title: 仰巖寺
+  author: 李仁老
+  language: lzh
+  text: 前壓蒼波後翠巖蕭蕭蘆葦半松杉謝公遺興唯雙屐張翰歸心滿一帆只要緱山鞭皓鶴不須湓浦泣靑衫十洲三島遨遊遍自愧飄然骨換凡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仰巖寺
+  author: 李仁老
+  language: lzh
+  text: 前壓蒼波後翠巖。蕭蕭蘆葦半松杉。謝公遺興唯雙屐。張翰歸心滿一帆。只要緱山鞭皓鶴。不須湓浦泣靑衫。十洲三島遨遊遍。自愧飄然骨換凡。
+korean:
+  title: 앙암사
+  author: 이인로
+  language: kor
+  text: |-
+    앞에는 푸른 물결 뒤에는 푸른 바위
+    갈대와 소나무가 섞여 우수수
+    사공의 흥치는 나무신 두 짝일 뿐
+    장한의 향수는 한 돛에 가득해라
+    구산엔 흰 학을 타야만 하리
+    분포의 푸른 소매를 적시어 무엇하리
+    십주ㆍ3도를 두루 다 노닐어도
+    표연히 범골을 바꾸었으니 절로 부끄러워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사공(謝公)의 …… 두 짝일 뿐 : '
+    value: 동진(東晋) 사영운(謝靈雲)이 등산하기를 좋아하여 산에 오를 적에는 나무신의 뒷굽[後齒]를 떼고 내릴 적엔 앞굽을 떼었다.
+  - key: '[주-D002] 장한(張翰)의 …… 가득해라 : '
+    value: 진(晋)나라 사람. 자 계응(季鷹). 그가 낙양(洛陽)에 들어와 제왕형(齊王冏)의 동조연(東曹椽)으로 벼슬하다가 가을 바람이 불자 고향인 오중(吳中)의 순나물ㆍ농어회 생각이 나서 벼슬을 버리고 배를 타고 고향으로 돌아갔다.
+  - key: '[주-D003] 구산(緱山)엔 …… 하리 : '
+    value: 주영왕(周靈王)의 태자(太子) 진(晋)이 신선이 되어 구산(緱山)에서 흰 학(鶴)을 타고 하늘로 올라갔다.
+  - key: '[주-D004] 분포(湓浦)의 …… 무엇하리 : '
+    value: 당(唐)나라 백거이(白居易)가 강주사마(江州司馬)로 와 있다가 거기서 객을 전송하던 중 배 위에서 비파 타는 장안(長安) 유락녀(流落女)를 만나 유명한 ‘비파행(琵琶行)’을 지었다. 그 글귀에, “좌중에 흐느낀 울음 누가 제일 많았나. 강주사마 푸른 소매 모두 젖었네.” 하였다. 분포는 곧 강루이다.
+  - key: '[주-D005] 십주(十洲) …… 노닐어도 : '
+    value: 바다 가운데의 신선이 산다는 곳.
+english:
+  title: Angam Temple
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Before, blue waves; behind, emerald cliffs rise,
+    Reeds and pines intermingle in the hushed wind.
+    Xie Ling's wanderlust lives only in wooden clogs—
+    Zhang Han's homesickness fills a single sail.
+
+    Let me ride a white crane through Mount Gou
+    Rather than weep blue sleeves at Penbuo's shore.
+    Though I've roamed the Ten Isles and Three Islands entire,
+    I blush to find my mortal bones have been exchanged.
+  footnotes:
+  - key: ''
+    value: Xie Ling (謝靈運), the Eastern Jin wanderer, would remove the back teeth of his wooden clogs when climbing mountains and the front teeth when descending—his shoes grew lighter with each shift in terrain, much as the spirit grows lighter with each ascent.
+  - key: ''
+    value: Zhang Han abandoned his official post when autumn winds stirred memories of his native Wu—the taste of perch and shrimp sauce drew him homeward on a single sail, fleeing the weightless life of court.
+  - key: ''
+    value: Prince Jin of Mount Gou achieved immortality, riding a white crane skyward—a flight that requires no tears, no farewell.
+  - key: ''
+    value: At Penbuo shore, the poet Bai Juyi wept into his blue sleeves upon hearing a displaced courtesan play the lute—a sorrow the speaker wishes to transcend.
+  - key: ''
+    value: The Ten Isles and Three Islands are legendary lands of immortals beyond the mortal sea, yet wandering even there cannot restore what the soul has surrendered.

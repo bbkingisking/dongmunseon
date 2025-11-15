@@ -1,0 +1,48 @@
+canonical:
+  title: 山中
+  author: 釋卍雨
+  language: lzh
+  text: 寒䆫射朝旭危坐爽煩襟振筆摹山水開書閱古今無心干萬乘有箒享千金自適泉林興因題方外吟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山中
+  author: 釋卍雨
+  language: lzh
+  text: 寒䆫射朝旭。危坐爽煩襟。振筆摹山水。開書閱古今。無心干萬乘。有箒享千金。自適泉林興。因題方外吟。
+korean:
+  title: 산중
+  author: 석만우
+  language: kor
+  text: |-
+    찬 들창으로 아침 햇빛이 비쳐드는데
+    단정히 앉으니 번거로운 마음이 서늘하다
+    붓을 휘둘러 산수를 그리고
+    책을 펼쳐 고금을 열람하네
+    만승에 요구할 마음이 없고
+    천금 가치로 아는 떨어진 비만 지녔네
+    임천의 흥이 자족하여
+    방외의 시를 쓰네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천금(千金) 가치로 아는 떨어진 비[敝帚] : '
+    value: “내 집에 헌 비가 있으면 그것을 천금(千金)의 가치로 안다[家有敝帚].”라는 속담이 있는데, 이것은 내가 가진 것을 소중히 여긴다는 말이다.
+english:
+  title: In the Mountains
+  author: Seok Manwu
+  language: eng
+  text: |-
+    Through the cold window-frame, morning sunlight streams,
+    And sitting upright, my troubled heart grows clear.
+    I brush the strokes of mountains and flowing streams,
+    And open books to scan the ancient and the near.
+
+    No craving pulls me toward the throne's command,
+    Yet I treasure this worn broom as precious gold—
+    Content within these springs and forests grand,
+    I write my verses from a world untold.
+  footnotes:
+  - key: ''
+    value: The worn broom (敝帚) valued as precious gold is a traditional saying meaning one cherishes what little one possesses, suggesting the poet's contentment with simple mountain life.
+  - key: ''
+    value: The 'world untold' (方外) refers to a realm beyond worldly affairs, often associated with Buddhist or Daoist retreat from society.

@@ -1,0 +1,46 @@
+canonical:
+  title: 次張天使寧遊漢江韻
+  author: 權擥
+  language: lzh
+  text: 此日足可惜濠梁幸見招春愁詩或遣豪氣酒難消綺席光凌亂金尊影動搖淸歡殊未已落日日停橈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次張天使寧遊漢江韻
+  author: 權擥
+  language: lzh
+  text: 此日足可惜。濠梁幸見招。春愁詩或遣。豪氣酒難消。綺席光凌亂。金尊影動搖。淸歡殊未已。落日日停橈。
+korean:
+  title: 천사 장영의 한강 놀이 운을 차하여
+  author: 권람
+  language: kor
+  text: |-
+    이 날이 가히 아깝구나
+    호량에 초대를 받았네
+    봄시름은 시로 보낼 수 있으나
+    호기는 술로 끄기 어렵네
+    비단 자리에는 광채가 찬란하고
+    금 술잔에는 그림자가 어릿어릿 어리네
+    맑은 즐거움이 다하지 못하여
+    석양에도 배를 멈추지 않네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 호량(濠梁) : '
+    value: 장자(莊子)와 혜시(惠施)가 호량에서 고기를 보면서 놀았다.
+english:
+  title: Rhyming with Master Zhang's Excursion on the Han River
+  author: Kwon Ram
+  language: eng
+  text: |-
+    How precious is this day—too soon to lose!
+    At Hao Liang I receive a kindly call.
+    Spring's melancholy yields to verse's balm,
+    yet high spirits no wine can still.
+
+    On silk-embroidered seats the light grows wild,
+    gold goblets cast their trembling shadows near.
+    Clear joy has not yet found its end—
+    even as sunset falls, we do not lift the oars.
+  footnotes:
+  - key: ''
+    value: 'Hao Liang (濠梁): An allusion to Zhuangzi and Huishi who once played together at the Hao Liang, watching fish. Here it evokes a place of companionship and philosophical leisure.'

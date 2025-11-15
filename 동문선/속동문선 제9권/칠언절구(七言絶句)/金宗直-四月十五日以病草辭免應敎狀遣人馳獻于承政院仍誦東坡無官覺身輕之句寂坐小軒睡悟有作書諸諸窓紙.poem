@@ -1,0 +1,39 @@
+canonical:
+  title: 四月十五日以病草辭免應敎狀遣人馳獻于承政院仍誦東坡無官覺身輕之句寂坐小軒睡悟有作書諸諸窓紙
+  author: 金宗直
+  language: lzh
+  text: 今日無官返我初小䆫幽夢到華胥一鑪蒼朮薰書了分付淸風自卷舒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 四月十五日以病草辭免應敎狀遣人馳獻于承政院仍誦東坡無官覺身輕之句寂坐小軒睡悟有作書諸諸窓紙
+  author: 金宗直
+  language: lzh
+  text: 今日無官返我初。小䆫幽夢到華胥。一鑪蒼朮薰書了。分付淸風自卷舒。
+korean:
+  title: 4월 15일에 병으로 응교를 사면하는 사표를 초해서 사람을 시켜 달려가 승정원에 들이고, 인해서 소동파의, “벼슬이 없으니 몸이 가벼운 줄 깨닫겠네.”라는 시구를 외우고, 조용히 작은 마루에 앉아 한잠 자고 깨어서 이시를 지어 창호지에 썼다.
+  author: 김종직
+  language: kor
+  text: |-
+    오늘에 벼슬이 없어 내 처음으로 돌아왔나니
+    작은 창 앞에 그윽한 꿈이 화서에 이르렀네
+    창출달이는 화로 가에 책읽기를 마치고
+    맑은 바람에 나누어 주었더니 절로 덮었다 폈다 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화서(華胥) : '
+    value: 안락국(安樂國)이란 말이다. 황제(黃帝)라 하는 이가 꿈에 그 화서국(華胥國)에 가서 놀았다는 말이 있다.
+english:
+  title: On the Fifteenth Day of the Fourth Month, Submitting a Resignation from Office Due to Illness
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Today without office, I return to my original self.
+    Before this small window, my tranquil dream reaches the Land of Hua Xu.
+    The blue mugwort smoke from the brazier fades as I finish reading;
+    I entrust it to the clear wind, which of itself opens and closes.
+  footnotes:
+  - key: ''
+    value: The Land of Hua Xu (華胥) is a legendary realm of peace and contentment. According to ancient Chinese legend, the Yellow Emperor once dreamed of traveling there. The poet alludes to this to express the freedom and lightness of spirit found in retirement from office.
+  - key: ''
+    value: The title references Su Dongpo's famous line about gaining lightness of body upon losing official position—a classical theme of liberation through withdrawal from public duty.

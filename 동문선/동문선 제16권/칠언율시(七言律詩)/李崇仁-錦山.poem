@@ -1,0 +1,51 @@
+canonical:
+  title: 錦山
+  author: 李崇仁
+  language: lzh
+  text: 錦郡山中有老嫠一身無恙閱期頤生先南取錢塘歲語及東征日本時過客皆驚顔似玉曾孫自歎鬢如絲自從德祐來洪武終始宜爲太史知
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 錦山
+  author: 李崇仁
+  language: lzh
+  text: 錦郡山中有老嫠。一身無恙閱期頤。生先南取錢塘歲。語及東征日本時。過客皆驚顔似玉。曾孫自歎鬢如絲。自從德祐來洪武。終始宜爲太史知。
+korean:
+  title: 윤헌숙이 말하기를, “금산
+  author: 이숭인
+  language: kor
+  text: |-
+    금산 고을 산중에 늙은 할미 있어서
+    몸이 병없은 채 백 살을 넘겼다네
+    나기는 남으로 전당을 취한 해 전
+    이야기는 동으로 일본을 칠 적까지
+    그 얼굴 옥같으니 과객이 다 놀라고
+    제 머리 흰 실 같음을 증손이 탄식하네
+    덕우[송나라 연호] 연간에 나서 홍무[명나라 연호]까지 왔으니
+    태사는 마땅히 그의 시종을 알고 기록하오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0920&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강현노인(絳縣老人) : '
+    value: 좌전(左傳)에 진(晋) 도부인(悼夫人)에게 초대되어 회식(會食)한 강현(絳縣)의 노인. 그의 나이가 일수(日數)로 4백45 갑자(甲子)라 해서 그것이 2만 6천 6백60일이 되므로 사광(師曠)은 73년이라 하고, 사조(史趙)가 “해유이수육신 하이여신 족기일수(亥有二首六身 下二如身 足其日數)”라 하여서 사구백(士久伯)이 그런즉 2만 6천6백60일이라 판정했다.
+english:
+  title: Mount Kum
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    In the mountains of Kum county there dwells an ancient widow,
+    Her body still whole, having seen a hundred winters pass.
+    Born when the south seized Qiantang's golden years,
+    Her memories stretch to when armies sailed east to Japan.
+    Visitors marvel at her face, luminous as jade,
+    Yet her great-grandchildren sigh at hair turned to silver thread.
+    From the era of Virtue to the reign of Hongwu she has lived,
+    Surely the Grand Historian should record her long journey through time.
+  footnotes:
+  - key: ''
+    value: Kum (金山) county is located in present-day North Jeolla Province, Korea.
+  - key: ''
+    value: The reference to 'south seized Qiantang' likely refers to the Southern Song dynasty period (12th-13th centuries), establishing the temporal scope of her lifetime.
+  - key: ''
+    value: Hongwu (洪武) refers to the era of the Ming dynasty's founding emperor (1368-1398), suggesting this poem was written during or after the early Ming period.
+  - key: ''
+    value: The poem's structure and reference to recording the woman's lifespan invokes the tradition of the Grand Historian in Chinese classical literature, elevating an ordinary person's longevity to historical significance.

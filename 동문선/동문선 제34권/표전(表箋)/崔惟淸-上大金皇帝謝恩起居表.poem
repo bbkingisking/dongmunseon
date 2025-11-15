@@ -1,0 +1,33 @@
+canonical:
+  title: 上大金皇帝謝恩起居表
+  author: 崔惟淸
+  language: lzh
+  text: 東陲係迹未參玉帛之朝北闕懸心徒望風雲之會
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上大金皇帝謝恩起居表
+  author: 崔惟淸
+  language: lzh
+  text: 東陲係迹。未參玉帛之朝。北闕懸心。徒望風雲之會。
+korean:
+  title: 대금 황제께 올리는 사은 기거표
+  author: 최유청
+  language: kor
+  text: 동방에 얽매인 몸이오라 옥백(玉帛)의 조회에 참례하지는 못하오나, 북궐(北闕)에 달려 있는 마음이라 한갓 풍운(風雲)의 모임을 바라보옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0370_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옥백(玉帛)의 조회 : '
+    value: 제후가 천자에게 조회할 때에는 옥과 비단을 예물로 올린다는 말이다.
+  - key: '[주-D002] 풍운(風雲)의 모임 : '
+    value: 《주역》에 “구름은 용을 따르고, 바람은 범을 따른다.[雲從龍風從虎]” 하였는데, 이것을 신하가 임금을 따르는 데 인용한 것이다.
+english:
+  title: Memorial of Gratitude Submitted to the Great Jin Emperor
+  author: Choi Yu-chung
+  language: eng
+  text: Bound to the eastern frontier, my form cannot attend the court where jade and silk are offered in tribute. Yet my heart hangs fixed upon the northern palace, watching only for the gathering of wind and cloud.
+  footnotes:
+  - key: ''
+    value: Jade and silk offerings refer to the ritual gifts presented by vassal princes when paying court to the Son of Heaven.
+  - key: ''
+    value: 'The gathering of wind and cloud alludes to the Classic of Changes: ''Clouds follow the dragon, wind follows the tiger''—a metaphor for the minister''s devoted following of the sovereign.'

@@ -1,0 +1,34 @@
+canonical:
+  title: 王子開福日降使敎書
+  author: 崔諴
+  language: lzh
+  text: 敎妃延德宮主任氏朕觀古典籍之紀事賢后妃之宜家雖則多內助之功而鮮有多男之慶嘉尒克修於婦德維時屬應於禖祠復膺彌月之祥乃見弄璋之慶本支相依而滋茂源派不竭而靈長與國咸休荷天之佑宜豊寵賚庸示眷懷今差使某官某往彼宣賜銀器匹段布穀鞍馬等物具如別錄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 王子開福日降使敎書
+  author: 崔諴
+  language: lzh
+  text: 敎妃延德宮主任氏。朕觀古典籍之紀事。賢后妃之宜家。雖則多內助之功。而鮮有多男之慶。嘉尒克修於婦德。維時屬應於禖祠。復膺彌月之祥。乃見弄璋之慶。本支相依而滋茂。源派不竭而靈長。與國咸休。荷天之佑。宜豊寵賚。庸示眷懷。今差使某官某。往彼宣賜銀器匹段布穀鞍馬等物。具如別錄。
+korean:
+  title: 왕자 개복일 항사 교서
+  author: 최함
+  language: kor
+  text: 비(妃) 연덕궁주(延德宮主) 임씨(任氏)에게 교하노라.짐이 옛날 전적(典籍)의 기사(紀事) 중에서 어진 후비(后妃)들이 집안을 잘되게 한 것을 보았는데, 비록 내조의 공은 많으나 아들이 많은 경사는 적었다. 네가 능히 부덕(婦德)을 닦은 것을 아름답게 여기는데, 때마침 매사(禖祠)에 응하였다. 다시 만삭의 길조가 있어서 이에 아들을 낳는 경사를 보았다. 근본과 지엽이 서로 의지하여 더욱 무성하고, 근원과 지류가 마르지 않아서 더욱 장원하다. 나라와 더불어 아름다움을 함께 하여 하늘의 도움을 받을 것이다. 물품을 내려 주는 것을 후하게 하여 사랑하는 뜻을 보이려는 것이 마땅하다. 이제 모관 모를 보내어 그곳에 가서 은기(銀器)ㆍ필단(匹段)ㆍ포(布)ㆍ곡(穀)ㆍ안마(鞍馬) 등의 물건을 별록과 같이 내려주게 하노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0260_020_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 매사(禖祠) : '
+    value: 아들을 낳게 하여 주는 신에게 제사 지내는 것이다.
+english:
+  title: Edict on the Occasion of the Royal Prince's Birth
+  author: Choi Ham
+  language: eng
+  text: |-
+    We declare to the Royal Consort, Mistress of Yondok Palace, Lady Ren.
+
+    We have studied the records of antiquity in the classical texts, observing how virtuous consorts and concubines brought flourishing to their households. Though many possessed great merit in their inner ministrations, few were blessed with the joy of bearing many sons. We find your cultivation of wifely virtue most admirable, and heaven has answered your devotion at the shrine of fertility. With the blessing of full term achieved, we now behold the felicity of a prince born. The root and branch grow interdependent and verdant; the source and tributary flow eternal and enduring. Together with the realm we share in this auspiciousness, receiving heaven's favor. It is fitting that we bestow abundant rewards to manifest our affection.
+
+    We hereby dispatch an emissary to convey silver vessels, bolts of fine silk, cloth, grain, saddle horses, and other treasures to your residence, according to the detailed registry appended hereto.
+  footnotes:
+  - key: ''
+    value: The shrine of fertility (禖祠) is where offerings are made to the deity who grants the birth of sons.

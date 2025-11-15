@@ -1,0 +1,48 @@
+canonical:
+  title: 西江帥府
+  author: 鄭思道
+  language: lzh
+  text: 出獵凌霜曉彎弓愧鬢毛放鷹窮野闊馳馬試山高詭遇元非意長驅不覺勞擊鮮將獻闕肯爲作遊遨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西江帥府
+  author: 鄭思道
+  language: lzh
+  text: 出獵凌霜曉。彎弓愧鬢毛。放鷹窮野闊。馳馬試山高。詭遇元非意。長驅不覺勞。擊鮮將獻闕。肯爲作遊遨。
+korean:
+  title: 서강수부
+  author: 정사도
+  language: kor
+  text: |-
+    서리 내린 아침에 사냥을 나가
+    활을 당기니 흰 살쩍이 부끄럽다
+    매를 놓아 넓은 들판에 한껏 날리고
+    말을 달려 높은 산봉우리에 시험하네
+    궤우가 본디 내 뜻이 아니요
+    멀리 달려도 피로를 모르겠네
+    날고기를 대궐에 바치리니
+    어찌 놀이하기 위함이랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 궤우(詭遇) : '
+    value: 수레를 잘 모는 왕량(王良)이 해사(奚斯)와 같이 사냥하러 갔는데, 한 마리도 잡지 못하였다. 다음 날에 다시 가서는 하루아침에 열 마리를 잡았다. 왕량이 말하기를, “해사는 소인(小人)이니 같이 사냥하지 못하겠다. 법도대로 말을 달리니 한 마리도 못 잡고, 짐승을 속여서 만나게[詭遇] 하니 짐승을 잡는다.” 하였다. 《맹자》
+english:
+  title: At the Commander's House by the Western River
+  author: Jung Sa-do
+  language: eng
+  text: |-
+    I ride out to hunt when frost adorns the morning—
+    Drawing back my bow, I blush at these graying hairs.
+    I loose the hawk across the boundless plain,
+    And gallop my steed to test the mountain's height.
+
+    These encounters were never truly my design;
+    Yet riding far, I find fatigue unknown.
+    I'll bring fresh game before the palace gate—
+    Not for sport's sake, but duty calls me on.
+  footnotes:
+  - key: ''
+    value: The phrase 'these encounters were never truly my design' references a Mencian anecdote about the skilled charioteer Wang Liang, who could only catch game through artifice and deception rather than through proper method. The hunter claims his success comes not from cunning, but from sincere purpose.
+  - key: ''
+    value: The final couplet suggests the hunt is framed as an official duty to provide tribute to the court, elevating it beyond mere recreation or personal gratification.

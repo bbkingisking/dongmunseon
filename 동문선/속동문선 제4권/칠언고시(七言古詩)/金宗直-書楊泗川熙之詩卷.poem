@@ -1,0 +1,97 @@
+canonical:
+  title: 書楊泗川熙之詩卷
+  author: 金宗直
+  language: lzh
+  text: 康州南垂海北口累石爲城僅如斗民稠寇近古重鎭地雖褊小宜愼遴使君乞郡章三下忽此分符天所借江山淸奇物産饒況又甿俗安漁樵鳴琴之餘奉甘旨壽母宛宛萱不彫三千貔虎日操鍊有勇不試爭張弮時時對酒輒雅歌手拋羽扇親筆硯豈如前政倦拊循奴視健兒讎齊民漉海圍山不知止苞苴狼籍閭閻貧聖明玉女付美錦要使遐荒皆奠枕金烏老守田野態十年去國豈恬退爲親而宦同禁調萬事不理唯坐嘯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書楊泗川熙之詩卷
+  author: 金宗直
+  language: lzh
+  text: 康州南垂海北口。累石爲城僅如斗。民稠寇近古重鎭。地雖褊小宜愼遴。使君乞郡章三下。忽此分符天所借。江山淸奇物産饒。況又甿俗安漁樵。鳴琴之餘奉甘旨。壽母宛宛萱不彫。三千貔虎日操鍊。有勇不試爭張弮。時時對酒輒雅歌。手拋羽扇親筆硯。豈如前政倦拊循。奴視健兒讎齊民。漉海圍山不知止。苞苴狼籍閭閻貧。聖明玉女付美錦。要使遐荒皆奠枕。金烏老守田野態。十年去國豈恬退。爲親而宦同禁調。萬事不理唯坐嘯。
+korean:
+  title: 양사천 희지의 시권에 씀
+  author: 김종직
+  language: kor
+  text: |-
+    강주 남쪽 끝 바다 북쪽 어귀에
+    돌을 쌓아 만든, 겨우 말 만한 성
+    인구가 조밀하고 왜구가 가까운 옛날의 중진
+    땅을 편소하나 수령의 사명이 중대
+    사군이 수령을 원하는 글 세 번이나 울렸더니
+    문득 이에 임명되니 하늘의 은덕
+    강산이 맑고 물산이 풍부하며
+    하물며 주민들이 어초에 만족
+    거문고 치는 여가에 감지를 받드니
+    대부인 강녕하사 헌초가 시들지 않네
+    삼천 군졸들을 날마다 조련하니
+    용맹을 아니 쓰니 다투어 활 당기네
+    때때로 술 대하여 아가를 부르며
+    우선을 버리고 필연과 친하네
+    어찌 전관처럼 민치에 게을러서
+    군사를 종 보듯, 백성을 원수 보듯
+    수륙의 물신을 모두 긁어들여
+    뇌물이 낭자하고 백성들 가난케 할쏜가
+    성주께서 너를 옥성시키려고 미금을 맡겼으니
+    이 변방 백성들을 편안히 살게 하려는 것이네
+    금오(미산)의 늙은 수령은 시골뜨기
+    십년 서울 떠났으나 염퇴도 아니로세
+    위친의 벼슬살이 같은 회포이나
+    만사를 안 다스리고 앉아서 휘파람만
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 거문고 치는 : '
+    value: 공자의 제자 자천(子賤) 선보(單父)에 수령으로 있으면서 당상(堂上)에서 거문고만 타고 있어도 고을이 잘 다스려졌다 한다.
+  - key: '[주-D002] 대부인 …… 시들지 않네 : '
+    value: 어머니의 계신 곳을 헌당(萓堂)이라 하는데《시경》에서 나온 말이다.
+  - key: '[주-D003] 우선(羽扇) : '
+    value: 제갈량(諸葛亮)이 군중(軍中)에서 백우선(白羽扇)을 돌고 다녔다.
+  - key: '[주-D004] 성주(聖主)께서 …… 옥성(玉成)시키려고 : '
+    value: 고생을 경험시켜 옥처럼 만든다는 말이다.
+  - key: '[주-D005] 미금(美錦)을 맡겼으니 : '
+    value: 《좌전》에 고을 수령에 임명하는 것을 좋은 비단 재단하는데 비하여 능한 사람에게 맡겨야 한다는 말이 있다.
+  - key: '[주-D006] 만사를 …… 휘파람만 : '
+    value: 한나라 홍농태수(弘農太守)  성진(成晋)이 어진 사람을 속관으로 써서 모두 맡기고 자기는 앉아서 휘파람이나 불었다 한다.
+english:
+  title: Written on the Poetry Scroll of Yang Sacheon Hee-ji
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    At Kangju's southern edge, where the sea meets the northern mouth,
+    Stones heaped high make a city, scarcely the size of a measuring cup.
+    Dense with people, near the pirates' threat, an ancient garrison of old—
+    Though the land is narrow and small, the magistrate's burden weighs heavy.
+
+    Thrice the governor's petition rose to the throne,
+    And suddenly came the mandate—heaven's grace bestowed.
+    Clear mountains and rivers, abundant goods and yield,
+    And the common folk content in their fishing and woodcutting lives.
+
+    When the guqin rests from playing, he attends to his mother's comfort—
+    The lady strong and well, her cress garden not yet withered.
+    Three thousand soldiers drilled daily without fail,
+    Their valor unspent, competing fiercely to draw their bows.
+    Wine before him, he sings songs of elegance,
+    Fan in hand, he tends his brush and inkstone near.
+
+    Unlike former magistrates, weary in their coddling ways,
+    Who looked upon strong men as slaves, the people as enemies,
+    Who dredged the seas and stripped the mountains without end,
+    While bribes lay scattered and the poor grew poorer still.
+
+    The sage lord entrusts you with fine brocade,
+    That the distant borderlands might rest in peace.
+    The aging magistrate of Kim-o dwells in rustic simplicity—
+    Ten years from the capital, yet not in idle retreat,
+    Serving one's parents through office, bearing the same heart's burden,
+    Attending to all duties without neglect, not merely sitting and whistling.
+  footnotes:
+  - key: ''
+    value: The image of playing the guqin while governing refers to the Confucian ideal of virtuous administration through moral example, drawing on the story of Zixian, who governed so well through his virtue that he could simply play the lute on his platform and the district would govern itself.
+  - key: ''
+    value: The 'cress garden' alludes to the classical image of filial piety and maternal care, suggesting the magistrate maintains his filial duties even while serving his office.
+  - key: ''
+    value: The reference to the fan and brush suggests both military leadership and scholarly cultivation, evoking Zhuge Liang's image of wise governance.
+  - key: ''
+    value: The final lines contrast empty gestures of governance with genuine dedication to duty, suggesting that true virtue lies in conscientious administration rather than delegating all affairs while appearing above the fray.

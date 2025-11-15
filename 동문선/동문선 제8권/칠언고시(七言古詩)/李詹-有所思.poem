@@ -1,0 +1,66 @@
+canonical:
+  title: 有所思
+  author: 李詹
+  language: lzh
+  text: 頭流山高南海深瘴煙四塞淸晝陰三年逐客苦留滯懷歸更柰傷春心欲修尺書寄美人塞鴈不征河鯉沉山更高兮水更深天涯地角力難任相思一夜夢中見美人遺我雙黃金不重黃金重人意覺來金與人難尋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 有所思
+  author: 李詹
+  language: lzh
+  text: 頭流山高南海深。瘴煙四塞淸晝陰。三年逐客苦留滯。懷歸更柰傷春心。欲修尺書寄美人。塞鴈不征河鯉沉。山更高兮水更深。天涯地角力難任。相思一夜夢中見。美人遺我雙黃金。不重黃金重人意。覺來金與人難尋。
+korean:
+  title: 유소사
+  author: 이첨
+  language: kor
+  text: |-
+    두류산 높디높고 남해 바다 깊디깊은데
+    장기가 둘러싸 대낮에도 어두운 곳
+    3년이나 귀양살이로 괴로이 묶여 온 몸
+    돌아갈 생각 더구나 이 몸 어이 견디리
+    편지나 한 장 써 미인에게 부치려 하나
+    기러기도 아니 오고 잉어도 잠겼네
+    산이 더욱 높고 물 더욱 깊으니
+    하늘가 땅 끝에 힘으로 어이하리
+    하룻 밤 임 그리다 임을 꿈에 만나니
+    임께서 내게 황금 한 쌍을 주셨네
+    황금은 안 중하고 사람의 뜻이 중하더니
+    꿈 깨자 금도 사람도 모두 찾을 길 없어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 기러기도 …… 잠겼네 : '
+    value: 기러기와 잉어는 둘 다 편지를 전한다는 사자인데, 기러기는 한(漢)나라 소무(蘇武)의 고사요, 잉어는, “객이 먼 곳에서 와 내게 잉어 한 쌍을 주기에, 삶으니 그 가운데 편지 한 장 있었네.”라는 고시(古詩)가 있다.
+english:
+  title: A Matter of Longing
+  author: Lee Cheom
+  language: eng
+  text: |-
+    Touryusan stands high, high,
+    and the South Sea stretches deep, deep—
+    miasmic mists encircle, darkening the noonday.
+    Three years bound in exile,
+    my body aching with restraint.
+    To think of home—how can I bear it?
+    I would write a letter to send to my beloved,
+    but the wild geese do not return,
+    and the carp lies sunken in the depths.
+    The mountain grows higher still,
+    the water deeper yet—
+    at the world's edge, the earth's end,
+    what power can carry me across?
+
+    Then one night, longing for my love,
+    I meet her in dreams.
+    With her own hands, she gives me
+    a pair of golden ornaments.
+    Yet gold means nothing to me—
+    only the gift of her regard holds value.
+    I wake to find
+    both the gold and the giver vanished,
+    neither to be found again.
+  footnotes:
+  - key: ''
+    value: The wild geese and carp are classical tropes for messengers bearing letters. The goose recalls Su Wu of the Han dynasty, who famously sent word by wild goose; the carp references an ancient poem in which a distant guest presents a pair of carp, within which is found a letter.
+  - key: ''
+    value: Touryusan (Dureun Mountain) was a place of exile in Koguryeo and later Korean history, evoking the desolation of banishment.

@@ -1,0 +1,61 @@
+canonical:
+  title: 孤雁行
+  author: 洪侃
+  language: lzh
+  text: 五侯池舘春風裏微波鱗鱗鴨頭水闌干十二繡戶深中有蓬萊三萬里彷徨杜若紫鴛鴦倚拍芙蓉金翡翠雙飛雙浴復雙棲綷羽雲衣恣遊戲君不見十年江海有孤鴈舊侶微茫隔雲漢顧影低昂時一呼蘆花索漠風霜晚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 孤雁行
+  author: 洪侃
+  language: lzh
+  text: 五侯池舘春風裏。微波鱗鱗鴨頭水。闌干十二繡戶深。中有蓬萊三萬里。彷徨杜若紫鴛鴦。倚拍芙蓉金翡翠。雙飛雙浴復雙棲。綷羽雲衣恣遊戲。君不見十年江海有孤鴈。舊侶微茫隔雲漢。顧影低昂時一呼。蘆花索漠風霜晚。
+korean:
+  title: 고안행
+  author: 홍간
+  language: kor
+  text: |-
+    오후 지관의 봄바람 속에
+    압록강의 가느다란 물결이 반짝이도다
+    열 두 난간의 수문이 그윽한데
+    그 가운데 봉래산 있어 삼만 리더라
+    두약ㆍ향초에 배회하는 자줏빛 원앙이요
+    부용을 의지하는 금빛 비취라
+    쌍으로 날다가 쌍으로 목욕하고 또 쌍으로 깃들이며
+    비단깃과 구름옷으로 마음껏 유희한다
+    그대는 보지 못했는가 강해에 10년되는 외로운 기러기 있어
+    그 옛 짝은 아득히 은하수를 격해 있으니
+    그림자 돌아보며 서로 높이 올라 한 번씩 부르나니
+    늦가을 바람과 서리에 갈대꽃이 서로 쓸쓸하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 봉래산(蓬萊山) : '
+    value: 봉래산은 동해(東海) 가운데 있다는 삼신산(三神山)의 하나이다. 여기서는 신선이 산다는 봉래산을 모방한 정원(庭園)을 말한 것이다.
+english:
+  title: The Solitary Goose
+  author: Hong Kan
+  language: eng
+  text: |-
+    In the spring wind of the Five Lords' pavilion,
+    Thin ripples shimmer across the duck-dotted water.
+    Twelve railings frame gates of subtle depth,
+    Within them lies Penglai, three thousand leagues away.
+
+    Hovering where duckweed and fragrant herbs grow,
+    Purple mandarin ducks in pairs,
+    Golden kingfishers resting on lotus blooms—
+    They fly together, bathe together, nestle together,
+    Their silken wings and cloud-like plumage
+    Disport themselves freely without care.
+
+    Have you not seen it? On the river and sea,
+    A solitary goose remains after ten long years,
+    Its ancient mate now hidden beyond the Milky Way.
+    It turns to gaze at its shadow, calling out in duet,
+    While late-autumn wind and frost
+    Rustles the reeds in desolate whispers.
+  footnotes:
+  - key: ''
+    value: Penglai refers to a legendary isle of immortals in East Asian mythology. In this poem, it describes a garden designed in imitation of such mythical paradises.
+  - key: ''
+    value: The poem contrasts the paired creatures in the garden—mandarin ducks and kingfishers—with the solitary goose separated from its lifelong companion, creating a poignant meditation on loss and loneliness.

@@ -1,0 +1,83 @@
+canonical:
+  title: 太公釣魚
+  author: 姜希孟
+  language: lzh
+  text: 太釣無鉤魚亦忘小釣眩魚沉餌芳忘魚豈肯討纖鱗揭竿却得淵中璜當時民歌赬尾魴皇天假手于周王非熊非虎表休祥捲釣起來時鷹揚那知磯上八十翁贊成周業猶康強適從何來兩孤竹敢將寸舌爭三綱微君禮遣稱義士萬古彝倫幾欲亡嗚呼權經一律知者稀首陽不磨淸渭長
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 太公釣魚
+  author: 姜希孟
+  language: lzh
+  text: 太釣無鉤魚亦忘。小釣眩魚沉餌芳。忘魚豈肯討纖鱗。揭竿却得淵中璜。當時民歌赬尾魴。皇天假手于周王。非熊非虎表休祥。捲釣起來時鷹揚。那知磯上八十翁。贊成周業猶康強。適從何來兩孤竹。敢將寸舌爭三綱。微君禮遣稱義士。萬古彝倫幾欲亡。嗚呼權經一律知者稀。首陽不磨淸渭長。
+korean:
+  title: 태공 조어
+  author: 강희맹
+  language: kor
+  text: |-
+    큰 낚시는 혀 없으니 고기를 워낙 잊고
+    작은 낚신 고기를 흘려 미끼에 물리게 하누나
+    고기를 잊었으니 어찌 비늘 가진 것 잡으려 하리
+    낚싯대 들자 연못 속의 구슬을 얻었네
+    당시의 백성들이 꼬리 붉은 방어를 노래할 때
+    하늘이 주문왕에게 손을 빌리셨네
+    곰도 아니 범도 아니고 아름다운 상서를 점치매
+    낚싯대 들고 일어나자 바로 매처럼 날쳤구나
+    어찌 알았으랴 낚싯돌 위의 80옹이
+    주나라의 왕업을 협찬하여 기력이 장할 줄
+    마침 어데서 왔는고 저 두 고죽군 아들
+    감히 촌설로 삼강을 다투었네
+    그대가 의사라 일컫고 예로 보내지 않았더면
+    만고의 윤기가 거의 망할 뻔했네
+    아 권도ㆍ경도가 하나임을 아는 자가 드므니
+    수양산이 만고에 푸르고 위수가 길이 흐르누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 낚시대 …… 얻었네 : '
+    value: 태공이 고기를 낚는데 곧은 낚시를 썼으니 고기가 잡힐 리가 없었고 옥황(玉璜)을 하나 낚아 얻었는데 글이 있기를, “주(周)나라가 천하를 얻는다.” 하였다.
+  - key: '[주-D002] 꼬리 붉은 방어[亦尾魴] : '
+    value: 《시경》에 “방어는 꼬리가 붉다.”는 말이 있는데 해설하는 자의 말에, “방어는 피곤하면 꼬리가 붉는 것인데 은나라 백성이 포악한 정치에 피곤함을 비유한 것이라.” 한다.
+  - key: '[주-D003] 곰도 아니 …… 점치매 : '
+    value: 주문왕(周文王)이 사냥하러 나가면서 점을 쳐보니, “오늘의 얻을 것은 범도 곰도 아니요, 패왕의 보자[覇王之輔]라.” 하였더니, 과연 태공을 얻어서 수레에 싣고 왔다.
+  - key: '[주-D004] 낚시대 들고 …… 날쳤구나[鷹揚] : '
+    value: 강태공(姜太公)이 뒤에 주(周)에 벼슬하여 은(殷)나라를 칠 때에 목야(牧野)싸움에서 매처럼 날쳤다.
+  - key: '[주-D005] 그대가 …… 않았더면 : '
+    value: 백이(伯夷)ㆍ숙제(叔齊)가 온나라 치는 것을 말리므로 좌우에서 죽이려 하는 것을 태공이 “이는 의사(義士)다.” 하고 붙들어서 가게 하였다.
+  - key: '[주-D006] 권도(權道) …… 하나임 : '
+    value: 주무왕(周武王)이 신하로서 임금인 온나라 주(紂)를 치는 것은 군신(君臣)의 상도(常道)경도(經道)를 떠나서 백성을 구제하기 위하여 임시로 권도(權道)를 쓴 것이다.
+english:
+  title: The Fishing of the Duke of Zhou
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    The great hook has no barb, so fish forget themselves entirely,
+    While small hooks dazzle prey and bind them to the bait's fragrance.
+    He who forgets the fish would never seek the scaled and small—
+    Yet when he raised his line, a jade disc emerged from the deep.
+
+    When the people sang of red-tailed bream in those days,
+    Heaven itself lent its hand to the Zhou king.
+    No bear, no tiger—auspicious signs were writ in fortune's book,
+    And as he rose with his rod, he soared like a hawk in flight.
+
+    Who could have known that eighty-year-old on the stone
+    Would strengthen the Zhou dynasty with counsel and might?
+    From whence came those two sons of solitary bamboo,
+    Daring with their meager tongues to contest the three bonds?
+
+    Had you not dispatched him with courtesy as a righteous man,
+    The eternal principles of mankind would nearly have perished.
+    Ah, that few know authority and principle are one!
+    Yet Shou Yang's slopes remain verdant through the ages,
+    And the Wei River flows on eternally.
+  footnotes:
+  - key: ''
+    value: The Duke of Zhou (Jiang Ziya) fished with a straight hook, guaranteeing no catch—yet legend tells he drew forth a jade tablet inscribed with the prophecy that Zhou would rule all under heaven.
+  - key: ''
+    value: When King Wen of Zhou went hunting, divination revealed he would capture not beast or tiger, but 'the aide of a hegemonic king'—and he found the Duke of Zhou.
+  - key: ''
+    value: Boyi and Shuqi remonstrated against the Zhou's conquest of the Shang, nearly facing death; the Duke of Zhou recognized them as righteous men and let them pass.
+  - key: ''
+    value: The reference to authority and principle as one addresses the paradox that while violating the normal order of ruler and subject, the Duke's actions followed a higher principle of rescuing the people.
+  - key: ''
+    value: Mount Shouyang, where Boyi and Shuqi died as recluses, and the Wei River represent the enduring virtue of those who upheld moral principle, contrasting with the Duke's pragmatic righteousness.

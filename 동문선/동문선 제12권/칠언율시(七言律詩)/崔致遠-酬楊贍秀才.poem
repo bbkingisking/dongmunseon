@@ -1,0 +1,54 @@
+canonical:
+  title: 酬楊贍秀才
+  author: 崔致遠
+  language: lzh
+  text: 海槎雖定隔年回衣錦還鄕愧不才蹔別蕪城當葉落遠尋蓬島趁花開谷鶯遙想高飛去遼豕寧慚再獻來好把壯心謀後會廣陵風月待㗸盃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 酬楊贍秀才
+  author: 崔致遠
+  language: lzh
+  text: 海槎雖定隔年回。衣錦還鄕愧不才。蹔別蕪城當葉落。遠尋蓬島趁花開。谷鶯遙想高飛去。遼豕寧慚再獻來。好把壯心謀後會。廣陵風月待㗸盃。
+korean:
+  title: 양섬수재에게 답하며
+  author: 최치원
+  language: kor
+  text: |-
+    바다 떼배가 해 건너 한 번씩 돌아오긴 하지만
+    재주 없으니 비단옷 입고 고향에 못 돌아가네
+    나뭇잎 질 때 무성에서 잠시 이별했다가
+    핀 꽃을 놓칠세라 봉래 섬 멀리 찾았것다
+    골짜기의 꾀꼬리는 하마 높이 날았으리만
+    요동의 흰 돼지는 뻔뻔히 또 바치려 하네
+    장한 마음으로 뒤에 또 다시 만나지 않으려나
+    광릉(무성(蕪城)인데, 지금 강소성(江蘇省) 강도현(江都縣) 동북) 풍월에 부디 함께 술잔 드세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 바다 떼배가 …… 하지만 : '
+    value: 바닷가에 해마다 팔월(八月)이면 어디서인지 떼배[槎]가 왔다가 간다 한다.
+  - key: '[주-D002] 골짜기의 …… 날았으리만 : '
+    value: 꾀꼬리가 그윽한 골짜기에서 높은 나무로 옮아간다는 것은 출세를 뜻한다.
+  - key: '[주-D003] 요동(遼東)의 흰 돼지 : '
+    value: 옛날에 요동에 돼지가 있었는데 머리가 흰 새끼를 낳았으므로, 기특히 여겨 임금께 바치려고 가다가 하동(河東)에 이르러 보니, 거기 돼지는 모두 흰것이어서 부끄러워 돌아왔다는 내용이 《한서》에 보인다. 하찮은 재주를 뽐냄에 비유한 것이다.
+english:
+  title: In Response to Yang Seom, a Budding Scholar
+  author: Choe Chiwon
+  language: eng
+  text: |-
+    Though raft-ships cross the sea to return each year,
+    I lack the talent to wear silk and return home.
+    When autumn leaves fall on the desolate city, we part briefly—
+    I venture far to Penglai's isle to catch the blooming flowers.
+
+    The nightingale in the valley surely has flown high by now,
+    Yet the white boar of Liaodong shamelessly offers itself again.
+    Let us hold our ambitions close and meet once more hereafter—
+    In Guangling's moonlit winds, I await your cup and company.
+  footnotes:
+  - key: ''
+    value: The 'raft-ships' reference alludes to legendary vessels said to journey across the sea each August, a metaphor for cycles of separation and reunion.
+  - key: ''
+    value: The nightingale leaving the valley symbolizes advancement and rising in the world through talent and virtue.
+  - key: ''
+    value: The white boar of Liaodong is a classical allusion to false pride and the embarrassment of displaying mediocre gifts—the story tells of a man who tried to present what he thought was a rare white piglet only to discover all pigs in that region were white.

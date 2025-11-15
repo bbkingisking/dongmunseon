@@ -1,0 +1,47 @@
+canonical:
+  title: 南新店
+  author: 李穡
+  language: lzh
+  text: 文章可是立功名自笑儒冠大瘦生楊子著書空自負馬卿題柱竟何成人情不似春山色客夢偏驚夜雨聲過了長城風日好何人畫我海邊行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 南新店
+  author: 李穡
+  language: lzh
+  text: 文章可是立功名。自笑儒冠大瘦生。楊子著書空自負。馬卿題柱竟何成。人情不似春山色。客夢偏驚夜雨聲。過了長城風日好。何人畫我海邊行。
+korean:
+  title: 남신점
+  author: 이색
+  language: kor
+  text: |-
+    글 가지고 어찌 공명을 세울 것인가
+    몹시 여윈 선비 꼴이 스스로 우습네
+    양자는 책을 짓고 자부했느니
+    마경[사마상여]은 기둥에 쓴 뒤 끝내 무엇을 이루었는고
+    인정은 봄날의 산 빛과 같지 않은 것
+    나그네 꿈은 밤비 소리에 특히 놀라네
+    장성을 지나면 날도 흠뻑 좋을 텐데
+    그 누가 나의 해변 걸음을 그림 그릴꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0630&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 양자(揚子) : '
+    value: 양웅(揚雄). 그가 역(易)에 비겨 태현(太玄)을, 논어에 비겨 법언(法言)을, 창힐(倉頡)로 자처하여 훈찬(訓纂)을 지었다.
+english:
+  title: South New Store
+  author: Lee Saek
+  language: eng
+  text: |-
+    Can words and writings ever build a name and lasting fame?
+    I laugh at myself—a scholar worn thin by his own ambition.
+    Yang Xiong wrote books and boasted of his learning,
+    yet Sima Xiangru carved his name on pillars to no avail.
+    Human hearts are not like the colors of spring mountains,
+    Constant and true—a traveler's dream startled by night rain.
+    Beyond the Great Wall the weather turns fair,
+    but who will paint the picture of my wandering by the sea?
+  footnotes:
+  - key: ''
+    value: Yang Xiong (揚雄) was a Han Dynasty scholar who composed works meant to rival the classics—the Taixuan (太玄) to match the Changes, the Fayan (法言) to match the Analects. His ambition to preserve knowledge through writing parallels the speaker's own scholarly pursuits.
+  - key: ''
+    value: Sima Xiangru (司馬相如), a celebrated poet and courtier, was said to have inscribed his name on palace pillars, yet this fame brought him no lasting fulfillment.

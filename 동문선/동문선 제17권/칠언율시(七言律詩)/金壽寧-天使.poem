@@ -1,0 +1,45 @@
+canonical:
+  title: 天使
+  author: 金壽寧
+  language: lzh
+  text: 海天飛馹獨登樓豪氣元龍浩不收漠漠長空迷去鳥深深芳草沒行牛分溪白石灘聲急夾路靑山樹影稠好雨已隨車馬至陂塘五月欲先秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 天使
+  author: 金壽寧
+  language: lzh
+  text: 海天飛馹獨登樓。豪氣元龍浩不收。漠漠長空迷去鳥。深深芳草沒行牛。分溪白石灘聲急。夾路靑山樹影稠。好雨已隨車馬至。陂塘五月欲先秋。
+korean:
+  title: 천사
+  author: 김수령
+  language: kor
+  text: |-
+    바닷가에 역마를 달려 혼자 누에 오르니
+    원룡 같은 그 호기 걷잡을 수 없사외
+    가물가물 긴 하늘에 나는 새 아득하고
+    깊은 풀에 가는 소가 빠지네
+    시내를 가른 흰 돌엔 여울 소리 급하고
+    길 양쪽 푸른 산에 나무가 울창하네
+    좋은 비가 수레 따라 이르니
+    5월 연못 언덕이 가을처럼 서늘해라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0940&viewSync=OT
+  footnotes: []
+english:
+  title: The Heavenly Messenger
+  author: Kim Su-nyeong
+  language: eng
+  text: |
+    I ride a swift horse by the sea and climb the tower alone—
+    my pride, boundless as Yuan Long's, cannot be contained.
+    Through the hazy expanse of sky, a bird disappears,
+    and in the deep grass, an ox sinks from sight.
+    White stones split the stream where rapids rush and roar,
+    while blue mountains on either side are thick with trees.
+    A gentle rain follows the cart and arrives,
+    and in the fifth month, the pond's banks already taste of autumn.
+  footnotes:
+  - key: ''
+    value: Yuan Long (元龍) refers to a legendary figure of exceptional pride and ambition from Chinese lore, invoking a spirit of uncontainable aspiration.
+  - key: ''
+    value: The poem blends observation of natural landscape with an inner emotional landscape, where the external world becomes a mirror for the speaker's inner state.

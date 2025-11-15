@@ -1,0 +1,39 @@
+canonical:
+  title: 送金直提學勘宣慰日本使者行
+  author: 洪貴達
+  language: lzh
+  text: 處處樓臺閙管絃霏霏醉墨落雲牋雕題使者應懽喜贏得珠璣滿畫船
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送金直提學勘宣慰日本使者行
+  author: 洪貴達
+  language: lzh
+  text: 處處樓臺閙管絃。霏霏醉墨落雲牋。雕題使者應懽喜。贏得珠璣滿畫船。
+korean:
+  title: 송 김직제학감 선위일본사자행
+  author: 홍귀달
+  language: kor
+  text: |-
+    곳곳의 누대에는 음악소리 시끄럽고
+    비비한 취한 글씨는 운전에 떨어진다
+    조제의 사자는 응당기뻐하리니
+    화선에 가득한 주기를 넉넉히 얻으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0700&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 조제(雕題) : '
+    value: 사람의 살을 따고 먹을 놓아서 문신(文身)하는 것.
+english:
+  title: Farewell to Kim Jik, Provincial Scholar, as He Departs as an Envoy to Ascertain the Status of Japan
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    In every pavilion, music clamors through pipes and strings,
+    While tipsy brushstrokes scatter like mist upon cloud-white paper.
+    The tattooed envoy shall surely rejoice—
+    He carries away treasures enough to fill his painted vessel.
+  footnotes:
+  - key: ''
+    value: The 'tattooed envoy' refers to Japanese people, who were known in classical East Asian texts for their practice of body tattooing. This serves as both a cultural marker and a respectful acknowledgment of the envoy's foreign origin.
+  - key: ''
+    value: The 'treasures' (珠璣, pearls and jade) are metaphorical representations of cultural and diplomatic gifts, as well as the refinement and courtesy extended during the farewell gathering.

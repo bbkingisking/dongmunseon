@@ -1,0 +1,69 @@
+canonical:
+  title: 秦城銘
+  author: 李齊賢
+  language: lzh
+  text: 秦虎咆哮六畢四一愚浮黔首讖惑古月萬里成城首洮尾碣囊括邊雲鉤聯海日牛羊憧憧踐履白骨雨泣愁魂川流怨血民盡瘡痍杵音未絶豈料蕭牆禍成腐孽高赤厥族嬰素其車城故不圮咸京爲墟猶蝎之木皮完裏虛雖封以植卒顚且枯材雄識闇嗟乎政乎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秦城銘
+  author: 李齊賢
+  language: lzh
+  text: 秦虎咆哮。六畢四一。愚浮黔首。讖惑古月。萬里成城。首洮尾碣。囊括邊雲。鉤聯海日。牛羊憧憧。踐履白骨。雨泣愁魂。川流怨血。民盡瘡痍。杵音未絶。豈料蕭牆。禍成腐孽。高赤厥族。嬰素其車。城故不圮。咸京爲墟。猶蝎之木。皮完裏虛。雖封以植。卒顚且枯。材雄識闇。嗟乎政乎。
+korean:
+  title: 진성 명
+  author: 이제현
+  language: kor
+  text: 진(秦)나라 범[虎]이 으르렁거리니 육국(六國)도 끝장나고 사해(四海)는 통일되었다. 어리석기는 검수(黔首)보다 더하며 참서(讖書)의 고월(古月)에 혹(惑)하였다. 만리에 장성을 쌓아 임조(臨洮) 땅에서 시작하여 갈석(碣石)에 와서 끝이었다. 변방 구름을 휩쌌고 바다의 해[日]에 닿았다. 소와 염소가 왕래할 제 죽은 사람의 백골을 밟게 되었다. 비[雨]는 원통한 혼백을 울어 주고 시내에는 원망으로 죽은 피가 흘렀다. 백성들은 모두 상하고 병들었건만 흙 다지는 절구 소리는 그치지 않았다. 뜻 아니게도 궁궐 안에 불알 깐 환관(宦官)에게서 화(禍)가 생길 줄 어찌 알았으랴. 조고(趙高)가 멸족(滅族)의 형을 당하자 자영(子嬰)은 소거(素車)를 탔네.장성(長城)은 그대로 허물어지지 아니하였건만 함양(咸陽 진나라 서울)이 폐허(廢墟)되었다. 좀먹은 나무 같이 껍질은 멀쩡하여도 속은 비었다. 아무리 보호하여도 필경 넘어지고 말게 된다. 재주는 웅걸(雄傑)하나 식견이 어두었으니 불쌍하다, 정(政)이여.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 검수(黔首) : '
+    value: 진(秦)나라 말에 백성을 검수(黔首)라 하는데, 검은 머리란 말이다. 진시황(秦始皇)이 경전(經傳)을 불에 태워서 백성을 어리석게 만드는 정책을 썼는데 결국 그것은 나라를 망치는 어리석은 정책이므로 결국은 백성보다도 그가 더 어리석은 것이란 뜻이다.
+  - key: '[주-D002] 고월(古月) : '
+    value: '구월(古月)은 호(胡) 자다. 어느 사람이 진시황(秦始皇)에게 참서(讖書)를 바쳤는데, 그 글에 “진나라를 망친 자는 호(胡)다.” 하였다. 시황은 그것이 흉노(匈奴: 胡)를 가리킨 것이라 하여 호를 막을 만리장성(萬里長城)을 쌓았다. 그러나 진시황이 죽은 뒤에 그의 작은 아들 호해(胡亥)가 임금이 되어 악한 정치로 나라를 망쳤으니, 참서에 호라 한 것은 흉노가 아니라 호해였다.'
+  - key: '[주-D003] 자영(子嬰) …… 탔네 : '
+    value: 진나라 환자(宦者)  조고(趙高)가 이세황제(二世皇帝)를 죽이고 자영(子嬰)을 임금으로 세웠는데, 자영이 조고를 죽여 삼족(三族)을 멸하였다. 유방(劉邦)의 군사가 쳐들어오자 자영은 흰 수레를 타고 나와서 항복하였다.
+english:
+  title: Inscription on Qin's City
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The Qin tiger's roar shattered the Six States,
+    and the Four Seas became one. Yet the black-haired masses
+    grew more foolish than the empire itself—
+    deceived by the ancient prophecy's cryptic words.
+
+    A thousand miles of walls rose up,
+    from the waters of Lao to the stones of Jie,
+    swallowing the borderland clouds,
+    reaching to clasp the distant sun.
+
+    But oxen and sheep trampled white bones
+    across this mighty construction,
+    while rain wept for anguished souls
+    and rivers ran red with the blood of the wronged.
+
+    The people bore nothing but wounds and sickness,
+    yet the pestle's song never ceased its pounding.
+    Who could have foreseen the curse
+    growing in the palace's inner chambers?
+
+    When the eunuch's treachery was finally exposed,
+    the heir rode forth in a simple white carriage.
+
+    The Great Wall still stands, its stones unbroken,
+    yet the capital lies in ruins—
+    like a tree whose bark remains intact
+    while the heart has rotted away.
+
+    Though we shore it up and tend it well,
+    it must in the end topple and wither.
+    Great in talent, yet blind in vision—
+    alas, O First Emperor, what folly was yours.
+  footnotes:
+  - key: ''
+    value: The 'black-haired masses' (黔首) refers to the common people of Qin, named for their dark hair. This line carries the irony that Qin Shihuang's policy of burning books and keeping people ignorant made him more foolish than those he ruled.
+  - key: ''
+    value: The 'ancient prophecy' speaks of a man named Hu who would destroy Qin. Shihuang interpreted this as the Xiongnu and built the Great Wall to defend against them. However, it was his own son Hu Hai (胡亥) who brought ruin to the empire through tyrannical rule.
+  - key: ''
+    value: The final image references how the eunuch Zhao Gao murdered the Second Emperor and briefly set up Ziying as puppet ruler. When Ziying's forces were defeated, he surrendered by riding out in a simple white carriage—a symbol of capitulation.

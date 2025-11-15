@@ -1,0 +1,46 @@
+canonical:
+  title: 詠梅 二首
+  author: 鄭道傳
+  language: lzh
+  text: 久別一相見楚楚着緇衣但知風味在莫問容顔非鏤玉製衣裳啜冰養性靈年年帶霜雪不識韶光榮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詠梅 二首
+  author: 鄭道傳
+  language: lzh
+  text: 久別一相見。楚楚着緇衣。但知風味在。莫問容顔非。鏤玉製衣裳。啜冰養性靈。年年帶霜雪。不識韶光榮。
+korean:
+  title: 영매 이수
+  author: 정도전
+  language: kor
+  text: |-
+    오랜 이별 뒤에 한 번 서로 만나니
+    깨끗이 치의(緇衣)를 입었구나
+    다마 풍미가 있음을 알고
+    얼굴이 그릇됨을 묻지 말라
+    옥을 새겨 옷을 짓고
+    얼음을 마셔 성령을 길렀네
+    해마다 서리와 눈을 띠고
+    봄빛의 영화로움을 알지 못하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 치의(緇衣) : '
+    value: 경대부(卿大夫)가 사조(私朝)에 거할 때에 입는 옷이다.
+english:
+  title: 'On the Plum Blossom: Two Poems'
+  author: Jung Do-jeon
+  language: eng
+  text: |-
+    After long separation, we meet once more—
+    You stand arrayed in robes of deepest black.
+    I ask not why your face has changed with time;
+    I know your fragrance still remains intact.
+
+    You carved your beauty from the jade of frost,
+    And drank of ice to nurture your pure soul.
+    Year after year you've worn the snow and cold,
+    Indifferent to spring's bright and fleeting role.
+  footnotes:
+  - key: ''
+    value: The 'robes of deepest black' (緇衣) were worn by scholar-officials in their private chambers, suggesting dignity and austere refinement rather than outward display.

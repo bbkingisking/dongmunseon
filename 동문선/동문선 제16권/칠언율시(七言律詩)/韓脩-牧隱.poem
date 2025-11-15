@@ -1,0 +1,46 @@
+canonical:
+  title: 牧隱
+  author: 韓脩
+  language: lzh
+  text: 雲捲長空露洗秋無聲河漢近人流濁醪亦足償淸景黃菊寧羞上白頭地湧金波澄客位天修玉鏡掛吾樓請公莫厭留連夜不見前賢秉燭遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 牧隱
+  author: 韓脩
+  language: lzh
+  text: 雲捲長空露洗秋。無聲河漢近人流。濁醪亦足償淸景。黃菊寧羞上白頭。地湧金波澄客位。天修玉鏡掛吾樓。請公莫厭留連夜。不見前賢秉燭遊。
+korean:
+  title: 다락에 올라 달을 보며 9월 15일에 목은
+  author: 한수
+  language: kor
+  text: |-
+    긴 하늘에 구름 걷고 이슬이 함초롬 내리는 가을
+    은하수가 소리없이 사람 가까이 흐르누나
+    탁주로도 족히 맑은 경치 구경할 만
+    국화야 어찌 흰 머리에 꽂힘을 부끄러워하리
+    땅에서는 금 물결[달빛]이 솟아 손의 자리를 맑히고
+    하늘은 옥 거울을 닦아 내 다락에 걸었구나
+    가시지 말고 부디 밤새껏 노사이다
+    고인도 촛불 잡고 놀았다지 않았소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0450&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고인(古人)도 촛불 …… 않았소 : '
+    value: “낮은 짧고 밤이 몹시도 기니, 왜 촛불 잡고 놀지 않으랴.[晝短苦夜長 何不秉燭遊]”
+english:
+  title: Viewing the Moon from the Loft on the Fifteenth of the Ninth Month
+  author: Han Soo
+  language: eng
+  text: |-
+    Clouds drift from the endless sky, dew descends on autumn's face.
+    The Milky Way flows silently, bringing heaven near to man.
+    Even coarse wine suffices to honor this crystalline view—
+    why should the golden chrysanthemum blush upon a white-haired head?
+
+    Below, moonlight wells up like liquid gold, clearing the guest's place,
+    while heaven polishes its jade mirror and hangs it above my loft.
+    I ask you—do not leave, but linger through the night with me.
+    For did not the ancients grasp their torches and roam beneath the stars?
+  footnotes:
+  - key: ''
+    value: 'The final couplet alludes to the ancient saying: ''The day is short and the night unbearably long—why not seize the torch and wander?'' This reflects a Daoist sentiment about embracing the fleeting moments of life.'

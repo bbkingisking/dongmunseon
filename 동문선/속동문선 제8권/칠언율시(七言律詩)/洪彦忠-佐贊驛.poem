@@ -1,0 +1,46 @@
+canonical:
+  title: 佐贊驛
+  author: 洪彦忠
+  language: lzh
+  text: 佐贊東邊僧寶西漫漫大野天爲低短蓬隨風去不息客子信命行都迷半世雕虫壯夫恥擧家食粥嬌兒啼如今身事更堪說獨倚古驛扶枯藜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 佐贊驛
+  author: 洪彦忠
+  language: lzh
+  text: 佐贊東邊僧寶西。漫漫大野天爲低。短蓬隨風去不息。客子信命行都迷。半世雕虫壯夫恥。擧家食粥嬌兒啼。如今身事更堪說。獨倚古驛扶枯藜。
+korean:
+  title: 좌찬역
+  author: 홍언충
+  language: kor
+  text: |-
+    좌찬의 동쪽이요 승보의 서쪽인데
+    질펀한 들에 하늘이 나직하구나
+    짧은 쑥대는 바람을 따라 쉬지 않고 가는데
+    나그네는 운명만 믿고서 행하는 것이 모조리 방황 뿐일세
+    반세상을 조충만 하였으니 장부가 부끄럽게 여기고
+    온 집이 죽만 먹으니 어리광 피우는 아이가 우는구나
+    지금의 내 신세를 새삼 말할 것 있나
+    혼자 옛 역을 의지하여 마른 명아주 지팡이를 짚노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 조충(雕虫) : '
+    value: 양웅(揚雄)의 글에, “벌레를 아로새기는 잔 재주는 대장부가 하지 않는다.”는 말이 있는데, 이것은 문장(文章)의 기교(技巧)를 일삼는 것을 비웃는 말이다.
+english:
+  title: The Postal Station at Jasan
+  author: Hong Eon-joong
+  language: eng
+  text: |-
+    Jasan lies between the monastery to the east and the treasure house to the west,
+    Across the boundless fields the sky hangs low.
+    Tumbleweed scatters on the wind without rest,
+    And I, a wanderer, trusting only fate, find my steps all astray.
+
+    Half a lifetime spent carving petty words—a warrior's shame—
+    The whole household eats thin rice gruel while the children weep and fret.
+    What more can be said of my fortune now?
+    Alone I lean upon this ancient station, leaning on a withered wormwood cane.
+  footnotes:
+  - key: ''
+    value: '"Carving petty words" is a classical allusion to the frivolous pursuit of literary ornamentation, contrasting the author''s self-perception as a scholar with the ideal of a true man of action.'

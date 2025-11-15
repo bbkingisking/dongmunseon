@@ -1,0 +1,51 @@
+canonical:
+  title: 窮愁
+  author: 金時習
+  language: lzh
+  text: 窮愁如絮着旋粘除却淸吟不可砭嬾性已如棲木鳥營生何異上竿鮎閑刳竹筧添寒井爲折松枝補短簷閉戶著書聊自慰一庭踈雨正廉纖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 窮愁
+  author: 金時習
+  language: lzh
+  text: 窮愁如絮着旋粘。除却淸吟不可砭。嬾性已如棲木鳥。營生何異上竿鮎。閑刳竹筧添寒井。爲折松枝補短簷。閉戶著書聊自慰。一庭踈雨正廉纖。
+korean:
+  title: 궁수
+  author: 김시습
+  language: kor
+  text: |-
+    곤궁한 시름 솜과 같아서 부딪치면 곧 붙이나니
+    맑은 시 아니고 고칠 수 없네
+    게으른 성질은 이미 나무에 깃드는 새와 같은데
+    삶을 경영하는 것은 낚싯대에 걸리는 메기와 무엇이 다르랴
+    대흠통 파서 찬 우물을 보태고
+    소나무 가지 꺾어서 짧은 처마를 깁는다
+    문을 닫고 글을 지으면서 스스로 위로하나니
+    뜰에 가득한 성긴 비는 부실부실 나리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0890&viewSync=OT
+  footnotes: []
+english:
+  title: Poverty and Sorrow
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    My sorrows cling like cotton fluff—
+    wherever they touch, they stick fast.
+    Only clear verse can ease them,
+    yet even that cure fails me.
+
+    Lazy by nature, I am like a bird
+    nesting in the crooked wood of circumstance.
+    How does my struggle for livelihood differ
+    from a catfish caught on a line?
+
+    I hollow bamboo gutters to feed the cold well,
+    break pine branches to patch my leaking eaves.
+    With doors closed and brush in hand,
+    I comfort myself through writing—
+    while in my courtyard, sparse rain falls
+    soft and gentle as unraveling thread.
+  footnotes:
+  - key: ''
+    value: The poem contrasts the speaker's poetic refuge with the futility of ordinary survival, suggesting that literary creation is both inadequate salve and the only solace available to the impoverished scholar.

@@ -1,0 +1,37 @@
+canonical:
+  title: 壄行
+  author: 咸承慶
+  language: lzh
+  text: 淸曉日將出雲霞光陸離江山更奇絶老子不能詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 壄行
+  author: 咸承慶
+  language: lzh
+  text: 淸曉日將出。雲霞光陸離。江山更奇絶。老子不能詩。
+korean:
+  title: 야행
+  author: 함승경
+  language: kor
+  text: |-
+    맑은 새벽에 해가 장차 뜨려 하니
+    구름과 노을빛이 눈부시구나
+    강산이 더욱 기절하니
+    이 늙은이 시를 못 짓네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0520&viewSync=OT
+  footnotes: []
+english:
+  title: Night Journey
+  author: Ham Seung-gyeong
+  language: eng
+  text: |-
+    At clear dawn, the sun begins to rise,
+    Clouds and rosy light scatter in splendor.
+    The rivers and mountains grow ever more transcendent—
+    Yet this old man cannot compose a poem.
+  footnotes:
+  - key: ''
+    value: The title 'Night Journey' (야행) refers to travel or wandering through the landscape, though the poem itself depicts dawn rather than night, suggesting the poet's journey through life and perception.
+  - key: ''
+    value: The final line carries a note of humility common in classical East Asian poetry, where the poet acknowledges the inadequacy of words before nature's grandeur.

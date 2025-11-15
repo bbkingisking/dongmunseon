@@ -1,0 +1,45 @@
+canonical:
+  title: 阻雨留燕歧示林使君 秀卿
+  author: 金宗直
+  language: lzh
+  text: 短靴低帽拂征塵尊酒留連且探春但使神君能好客不妨甘雨便關人丰茸樹杪爭抽葉嗚咽溪流易蹙鱗仍憶故鄕寒食近河豚上水蕨芽新
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 阻雨留燕歧示林使君 秀卿
+  author: 金宗直
+  language: lzh
+  text: 短靴低帽拂征塵。尊酒留連且探春。但使神君能好客。不妨甘雨便關人。丰茸樹杪爭抽葉。嗚咽溪流易蹙鱗。仍憶故鄕寒食近。河豚上水蕨芽新。
+korean:
+  title: 조우 유연기 시임사군 수경
+  author: 김종직
+  language: kor
+  text: |-
+    짧은 신과 낮은 모자로 길손의 티끌을 떨치다가
+    한 병 술로 객지에 머무르면서 또 봄을 찾아 본다
+    다만 신군으로 하여금 손을 좋아하게 한다면
+    이 좋은 비가 사람을 묶는 것이 상관없으리
+    우거진 나무 가지는 다투어 잎을 내고
+    흐르는 시냇물은 쉬이 고기를 차리
+    이내 고향에 한식의 가까움을 기억하니
+    복어는 물에 오르고 고사리 싹은 새로우리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 신군(神君) : '
+    value: 현명한 관리에 대한 경칭.
+english:
+  title: Detained by Rain at Yanggiji, Presented to Governor Lin, Sugyeong
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    In dusty boots and low-crowned hat, the wayfarer shakes clean the road's grime.
+    With a cup of wine lingering in this strange land, I seek the spring once more.
+    If only you, wise magistrate, would cherish your guest,
+    Then this gentle rain that binds a man need not be blamed.
+    Thick-clustered branches race to unfurl their leaves,
+    While the babbling stream swiftly gathers its scales of fish.
+    Yet I recall how close the Cold Food Festival draws to my homeland—
+    Where river delicacies rise with the waters and bracken shoots push through fresh and new.
+  footnotes:
+  - key: ''
+    value: The 'wise magistrate' (신군) is a respectful term for a capable administrator, referring to the poem's recipient, Governor Lin.

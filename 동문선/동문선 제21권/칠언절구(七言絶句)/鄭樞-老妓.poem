@@ -1,0 +1,37 @@
+canonical:
+  title: 老妓
+  author: 鄭樞
+  language: lzh
+  text: 寒燈孤枕淚無窮錦帳銀屛昨夢中以色事人終見棄莫將紈扇怨西風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 老妓
+  author: 鄭樞
+  language: lzh
+  text: 寒燈孤枕淚無窮。錦帳銀屛昨夢中。以色事人終見棄。莫將紈扇怨西風。
+korean:
+  title: 노기
+  author: 정추
+  language: kor
+  text: |-
+    찬 등불 외로운 베개에 눈물이 끝없나니
+    비단 장막 은 병풍은 어젯밤 꿈속이네
+    색으로 사람을 섬기면 마침내 버림받거니
+    비단부채 서쪽 바람을 원망하지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 비단부채 : '
+    value: 부채가 여름에는 쓰이다가 가을이 오면 버려지는 것인데, 이것을 젊은 시절에 남자의 사랑을 받다가 나이들면 버림받는 여자에게 비유한 것이다.
+english:
+  title: The Aging Courtesan
+  author: Jeong Chu
+  language: eng
+  text: |-
+    By cold lamplight on a lonely pillow, tears flow without end.
+    The silken curtains and silver screens—they were but last night's dream.
+    When beauty is the currency of service, abandonment is the price.
+    Do not blame the silk fan for the autumn wind.
+  footnotes:
+  - key: ''
+    value: 'The silk fan serves as a metaphor for the courtesan''s fate: just as a fan is cherished in summer but discarded when autumn comes, so too is a woman valued for her beauty in youth but cast aside in age.'

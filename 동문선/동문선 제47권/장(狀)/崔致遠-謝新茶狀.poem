@@ -1,0 +1,40 @@
+canonical:
+  title: 謝新茶狀
+  author: 崔致遠
+  language: lzh
+  text: 右某今日中軍使兪公楚奉傳處分送前件茶芽者伏以蜀岡養秀隋苑騰芳始興採擷之功方就精華之味所宜烹綠乳於金鼎汎香膏於玉甌若非靜揖禪翁卽是閑邀羽客豈期仙貺猥及凡儒不假梅林自能愈渴免求萱草始得忘憂下情無任感恩惶懼激切之至
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝新茶狀
+  author: 崔致遠
+  language: lzh
+  text: 右某今日中軍使兪公楚奉傳處分。送前件茶芽者。伏以蜀岡養秀。隋苑騰芳。始興採擷之功。方就精華之味。所宜烹綠乳於金鼎。汎香膏於玉甌。若非靜揖禪翁。卽是閑邀羽客。豈期仙貺。猥及凡儒。不假梅林。自能愈渴。免求萱草。始得忘憂。下情無任感恩惶懼激切之至。
+korean:
+  title: 사 신다 장
+  author: 최치원
+  language: kor
+  text: 모는 아룁니다. 오늘 중군사(中軍使)  유공초(兪公楚)가 처분을 받들어 전달하고 전건(前件)의 작설차[茶芽]를 보내왔습니다.엎드려 생각건대, 촉산(蜀山)에서 빼어난 기운을 받았고, 수원(隋苑)에서 꽃다움을 날렸으며, 비로소 제작하는 공력을 가하여, 바야흐로 정화(精華)로운 맛을 갖추었으니 녹유(綠乳)를 금정(金鼎)에 끓이고, 향고(香膏)를 옥구(玉甌)에 띄워 마땅할 것이니, 만약 고요한 선옹(禪翁)을 대하지 않는다면 바로 한가한 우객(羽客 신선)을 맞아야 할 것이거늘, 뜻밖에 훌륭한 선물이, 외람되이 범상한 선비에게 미치니 매림(梅林)을 빌려오지 아니해도 절로 능히 갈증이 그치고, 훤초(萱草)를 구하지 아니해도 비로소 근심을 잊게 되었습니다. 하정(下情)에 은혜를 느끼어 황공하고 감격함을 이기지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0500_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 매림(梅林) : '
+    value: “조조(曹操)가 장수(張繡)에게 패전하여 달아나는데 부하 군사가 목이 말라서 견디지 못하므로, 조조는 군사들에게 말하기를, ‘이 산을 넘어가면 매림(梅林)이 있다.’ 하니, 군사들이 매실(梅實)을 생각하자 입에 침이 돌아 어려움을 면했다.” 하였다. 《三國志》
+  - key: '[주-D002] 훤초(萱草) : '
+    value: 훤초(萱草)의 별칭을 망우초(忘憂草)라 한다. 《본초강목(本草綱目)》 훤초 조문에, “새 속잎을 따서 나물을 만들어 먹으면 풍기가 일어나 취한 것같이 되어 모든 근심을 잊게 되었다. 그래서 망우초라 한다.” 하였다.
+english:
+  title: A Letter of Gratitude for New Tea
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    I humbly report that today the Military Commander Yü Gong-cho, acting upon his orders, has delivered the tea leaves mentioned above.
+
+    Reflecting upon this gift: the mountainous slopes of Shu have nurtured their finest essence, the ancient gardens of the Sui have wafted their fragrance afar. Through careful harvesting and patient craft, the subtle refinement of flavor has been perfected. Such treasure calls for steeping the green cream in golden vessels, floating the fragrant oils upon jade cups—a ceremony befitting a peaceful monk in meditation, or perhaps welcoming a transcendent immortal wandering at leisure.
+
+    Yet this unexpected fortune, this noble gift, has fallen upon this humble scholar—far beyond my deserving. Without recourse to the legendary plum grove, the thirst has been quenched; without seeking the herb of forgetting, sorrow dissolves. My heart overflows with gratitude, reverence, and overwhelming emotion.
+  footnotes:
+  - key: ''
+    value: The 'green cream' (綠乳) refers to the finest grade of tea, prized in Chinese and Korean literati culture.
+  - key: ''
+    value: 'The plum grove (梅林) alludes to a famous story from the Records of Wei: Commander Cao Cao, fleeing defeat, told his thirsty soldiers that a plum grove lay ahead; the mere thought of plums caused their mouths to water and restored their strength—here used metaphorically to suggest the tea''s restorative power.'
+  - key: ''
+    value: The herb of forgetting (萱草, 'hemerocallis' or 'daylily') was traditionally believed to induce forgetfulness of sorrows; Choi plays on this classical allusion to suggest the tea brings peace of mind.

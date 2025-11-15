@@ -1,0 +1,37 @@
+canonical:
+  title: 寒食
+  author: 李婷
+  language: lzh
+  text: 寒食淸明二月天東風庭院掛鞦韆流鶯啼過畫樓去一樹杏花開政姸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寒食
+  author: 李婷
+  language: lzh
+  text: 寒食淸明二月天。東風庭院掛鞦韆。流鶯啼過畫樓去。一樹杏花開政姸。
+korean:
+  title: 한식
+  author: 이정
+  language: kor
+  text: |-
+    한식과 청명의 2월의 하늘
+    동쪽 바람 정원에 그네를 매었다
+    흐르는 꾀꼬리는 그림 누각을 울면서 지나가는데
+    한 나무의 살구꽃은 피어 진정 아름다워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0840&viewSync=OT
+  footnotes: []
+english:
+  title: Cold Food Festival
+  author: Lee Jeong
+  language: eng
+  text: |-
+    Cold Food and Clear Brightness—the two festivals of the second month's sky.
+    East wind hangs the swing in the garden courtyard.
+    The flowing nightingale sings past the painted tower,
+    And one apricot tree blooms in perfect beauty.
+  footnotes:
+  - key: ''
+    value: Cold Food Festival (寒食) and Clear Brightness Festival (清明) are traditional observances occurring in early spring, two days apart in the lunar calendar.
+  - key: ''
+    value: The 'painted tower' (畫樓) refers to an ornate, decorative building typical of classical Chinese poetry imagery.

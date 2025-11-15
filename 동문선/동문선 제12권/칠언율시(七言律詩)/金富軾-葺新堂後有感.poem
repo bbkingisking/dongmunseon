@@ -1,0 +1,47 @@
+canonical:
+  title: 葺新堂後有感
+  author: 金富軾
+  language: lzh
+  text: 掃開塵垢作虛堂已覺拪遲興味長蕭洒軒䆫貧亦好蹉𧿶書史老難忘花含細雨春陰薄山帶踈煙曉氣涼老去酒膓怯涓滴客來時復更携觴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 葺新堂後有感
+  author: 金富軾
+  language: lzh
+  text: 掃開塵垢作虛堂。已覺拪遲興味長。蕭洒軒䆫貧亦好。蹉𧿶書史老難忘。花含細雨春陰薄。山帶踈煙曉氣涼。老去酒膓怯涓滴。客來時復更携觴。
+korean:
+  title: 새 집을 지은 뒤 느낌이 있어
+  author: 김부식
+  language: kor
+  text: |-
+    먼지 때를 활짝 쓸고 빈 집을 지으니
+    벌써 깃들이는 흥취를 알겠구나
+    난간과 창이 소쇄하니 가난해도 좋구나
+    서책은 늙어도 잊을 수 없네
+    가랑비에 젖은 꽃은 엷은 봄 그늘에 피어 있어
+    성긴 내를 띤 산은 새벽 기운이 서늘해라
+    늙어가매 주량은 한 방울도 겁나지만
+    손 오면 이따금 다시 잔을 드네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0610&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections After Building the New Hall
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    I sweep away the dust and grime to make an empty hall,
+    And already feel the subtle joy that settles in.
+    The railings and windows gleam with simplicity—poverty itself becomes beautiful.
+    Books and histories: though I grow old, I cannot forget them.
+    Flowers heavy with spring rain bloom beneath thin shadows,
+    While mountains wreathed in sparse mist greet the cool dawn air.
+    Old age has made me timid of wine—a single drop now daunts me—
+    Yet when guests arrive, I still bring out the cup.
+  footnotes:
+  - key: ''
+    value: Kim Bu-sik (1075-1151) was a renowned Goryeo historian and scholar, best known for compiling the Samguk Sagi (History of the Three Kingdoms).
+  - key: ''
+    value: The poem celebrates the spiritual richness found in simplicity and solitude, reflecting Neo-Confucian values that prized scholarly pursuits and virtuous living.
+  - key: ''
+    value: The contrast between the speaker's declining physical capacity (weakened tolerance for alcohol) and his enduring hospitality toward guests reflects the Confucian ideal of maintaining one's humanity and social bonds despite age.

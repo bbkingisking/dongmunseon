@@ -1,0 +1,46 @@
+canonical:
+  title: 元宵寄漁叟
+  author: 盧公弼
+  language: lzh
+  text: 閭閻重節日九陌雜蹄輪草木精神動江山氣像新耽閑頻請告食祿敢言貧吾道憑醇酒窮通不用陳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 元宵寄漁叟
+  author: 盧公弼
+  language: lzh
+  text: 閭閻重節日。九陌雜蹄輪。草木精神動。江山氣像新。耽閑頻請告。食祿敢言貧。吾道憑醇酒。窮通不用陳。
+korean:
+  title: 원소 기어수
+  author: 노공필
+  language: kor
+  text: |-
+    마을에 명절이 거듭해오면
+    아홉 거리에 말과 수레 혼잡하다
+    풀과 나무에는 정신이 움직이고
+    강과 산에는 기상이 새로워라
+    한가[閑]를 즐겨 자주 고[告]하기 청하고
+    녹을 먹으면서 가난하다 일컬으랴
+    내 도는 좋은 술을 의지할 뿐이거니
+    궁하고 통함은 말할 것 없노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0990&viewSync=OT
+  footnotes: []
+english:
+  title: Lantern Festival Sent to a Fisherman
+  author: Noh Gong-pil
+  language: eng
+  text: |-
+    When festival returns to the village lanes,
+    Nine streets throng with horses and wheels.
+    The spirits of grass and tree stir awake,
+    As rivers and mountains don fresh robes.
+
+    I cherish idleness, seeking leave to depart,
+    Yet eat my stipend without complaint of want.
+    My path rests upon the virtue of good wine—
+    No need to speak of fortune's rise and fall.
+  footnotes:
+  - key: ''
+    value: The 'nine streets' likely refers to the bustling urban center during the Lantern Festival celebration.
+  - key: ''
+    value: The poem draws a contrast between the poet's official position (receiving a stipend) and his preference for leisure and wine, suggesting a tension between social duty and personal inclination.

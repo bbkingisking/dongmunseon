@@ -1,0 +1,48 @@
+canonical:
+  title: 發寧越向酒泉途中
+  author: 洪貴達
+  language: lzh
+  text: 郡城西去路山水傍吟鞭絶壁削蒼玉淸江皺碧天過橋人似倒緣棧馬如懸獨立最高處乾坤落眼前
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 發寧越向酒泉途中
+  author: 洪貴達
+  language: lzh
+  text: 郡城西去路。山水傍吟鞭。絶壁削蒼玉。淸江皺碧天。過橋人似倒。緣棧馬如懸。獨立最高處。乾坤落眼前。
+korean:
+  title: 발 영월 향 주천 도중
+  author: 홍귀달
+  language: kor
+  text: |-
+    고을 성에서 서쪽으로 가는 길
+    읊조리는 채찍 곁에 산수가 있다
+    낭떠러지는 푸른 옥을 깎았고
+    맑은 강물은 파란 하늘 헤친다
+    다리 위를 지나매 사람이 거꾸러진 듯
+    잔도를 오르매 말[馬]이 달린 듯하다
+    가장 높은 곳에 홀로 섰노니
+    건곤이 눈 앞에 떨어지더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road from Yeongwol Heading Toward Juchen
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    Westward from the county town, the path unfolds—
+    mountains and waters keep pace with my singing whip.
+    Cliff walls carved sharp as jade of deepest green,
+    the clear river wrinkles heaven's blue.
+
+    Crossing the bridge, men seem turned upside down,
+    climbing the narrow ledge, the horse appears to fly.
+    Standing alone at the highest point,
+    the cosmos tumbles into my gaze.
+  footnotes:
+  - key: ''
+    value: The 'singing whip' is a poetic image for the poet's instrument of travel, metaphorically accompanying the landscape in harmony with his verse.
+  - key: ''
+    value: The 'narrow ledge' (잔도, zhandao) refers to a precarious mountain path built into cliff faces—a common feature of dramatic mountain terrain in East Asia.
+  - key: ''
+    value: The final image of 'cosmos tumbling into my gaze' expresses the transcendent perspective achieved from the summit, where the vastness of the universe seems to collapse into the observer's vision.

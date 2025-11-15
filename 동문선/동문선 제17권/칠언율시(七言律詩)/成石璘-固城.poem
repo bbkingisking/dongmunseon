@@ -1,0 +1,45 @@
+canonical:
+  title: 固城
+  author: 成石璘
+  language: lzh
+  text: 擧目江山深復深家書一字抵千金中宵見月思親淚白日看雲憶弟心兩眼看花春霧隔一簪華髮曉霜侵春風不覺愁邊過綠樹鶯聲忽滿林
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 固城
+  author: 成石璘
+  language: lzh
+  text: 擧目江山深復深。家書一字抵千金。中宵見月思親淚。白日看雲憶弟心。兩眼看花春霧隔。一簪華髮曉霜侵。春風不覺愁邊過。綠樹鶯聲忽滿林。
+korean:
+  title: 고성
+  author: 성석린
+  language: kor
+  text: |-
+    눈을 들어 보니 강산이 깊고 또 깊은데
+    집의 편지는 한 자가 천 금 값일세
+    밤중에 달을 보면 부모 생각 눈물이요
+    대낮에 구름 보곤 너를 그리는 내 마음
+    두 눈으로 꽃을 보니 봄 안개가 어린 듯
+    비녀꽂은 화사한 머리엔 새벽서리 나리네
+    봄바람이 어느덧 수심을 스쳐가니
+    푸르른 나무 꾀꼬리 울음 문득 숲에 가득했구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 看 : '
+    value: 《獨谷集》에는 "昏"으로 되어 있다.
+english:
+  title: Gosung
+  author: Seong Seok-rin
+  language: eng
+  text: |-
+    Lifting my eyes, I see mountains and rivers—deep, ever deeper still.
+    A single character in a letter from home is worth a thousand pieces of gold.
+    At midnight, seeing the moon, I weep remembering my parents.
+    By day, watching clouds, my heart aches for you, my brother.
+    These eyes behold the flowers, yet spring mist veils them from my sight.
+    On hair adorned with pins, dawn's frost descends like blossoms.
+    Unknowingly, spring wind passes through my sorrow,
+    And suddenly the nightingale's cry fills the verdant grove.
+  footnotes:
+  - key: ''
+    value: This poem expresses the longing of separation—for family left behind and the bittersweet beauty of nature that only deepens one's homesickness.

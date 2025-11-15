@@ -1,0 +1,37 @@
+canonical:
+  title: 謝友人惠茶
+  author: 權思復
+  language: lzh
+  text: 南國故人新寄茶午窓睡起味偏多令人少睡還堪厭睡可忘憂少睡何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝友人惠茶
+  author: 權思復
+  language: lzh
+  text: 南國故人新寄茶。午窓睡起味偏多。令人少睡還堪厭。睡可忘憂少睡何。
+korean:
+  title: 사우인혜차
+  author: 권사복
+  language: kor
+  text: |-
+    남국의 옛 친구가 새 차를 보내 왔네
+    한낮 창에서 자다 일어나면 맛이 더욱 좋겠건만
+    차가 사람의 잠 적게 한다니 도리어 싫어라
+    잠 자면 걱정 잊는데 잠이 적으면 어찌할꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1170&viewSync=OT
+  footnotes: []
+english:
+  title: In Thanks for Tea Sent by a Friend
+  author: Gwon Sa-bok
+  language: eng
+  text: |-
+    A friend from the southern lands has sent me fresh tea.
+    After sleeping by the noon window, the flavor grows ever deeper.
+    Yet they say this tea steals away one's sleep—how it vexes me!
+    Sleep erases all my sorrows, but without it, what becomes of me?
+  footnotes:
+  - key: ''
+    value: The 'southern lands' likely refers to the tea-growing regions of China or Southeast Asia, emphasizing the precious nature of this gift.
+  - key: ''
+    value: 'The poem plays on a classical paradox: tea is prized for its invigorating properties, yet the speaker values sleep as an escape from worldly cares, creating a tension between pleasure and sorrow-forgetting.'

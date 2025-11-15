@@ -1,0 +1,51 @@
+canonical:
+  title: 新春感懷
+  author: 偰長壽
+  language: lzh
+  text: 新年萬物俱含新九見鵠峯龍岫春草池未碧不成夢梅花滿枝如笑人中原安得息豺虎北闕幾時來鳳麟形迹從敎猶碌碌謾傾濁酒偕比隣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新春感懷
+  author: 偰長壽
+  language: lzh
+  text: 新年萬物俱含新。九見鵠峯龍岫春。草池未碧不成夢。梅花滿枝如笑人。中原安得息豺虎。北闕幾時來鳳麟。形迹從敎猶碌碌。謾傾濁酒偕比隣。
+korean:
+  title: 신춘 감회
+  author: 설장수
+  language: kor
+  text: |-
+    새해에 만물이 모두 새로움을 머금는데
+    아홉 번이나 송악ㆍ용수의 봄을 본단 말인가
+    지당의 풀이 안 푸르니 꿈을 아직 못 꾸었고
+    매화 꽃이 가지에 가득 사람보고 웃는 듯
+    중원의 늑대와 범들을 어쩌면 쉬게 하고
+    북궐엔 어느 때나 봉과 기린이 오겠는가
+    녹록한 신세를 되는 대로 두고
+    이웃과 어울려서 탁주나 기울이세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 지당(池塘)의 …… 꾸었고 : '
+    value: 동진(東晉)의 시인 사영운(謝靈運)이 말하기를, “매양 시를 지을 때에 혜련(惠連 사영운의 족제)을 대하면 문득 아름다운 귀절을 이루었다. 일찍 영가(永嘉)가 서당(西堂)에서 시를 생각하다가 온종일 못 지었는데, 문득 혜련을 꿈에 보고 지당생춘초(池塘生春草)라는 구를 얻었는데, 그것은 신공(神功)이지, 내 말이 아니다.” 하였다.
+english:
+  title: Reflections on Early Spring
+  author: Seol Jang-su
+  language: eng
+  text: |
+    As the new year arrives, ten thousand things stir with renewal—
+    Nine times I have gazed upon the spring of Songak and Yongsu peaks.
+    The garden pool lies still and green, yet dreams elude me;
+    Meadow plums burst forth along their boughs, laughing like a face.
+    When shall the wolves and tigers of the middle kingdoms find their rest?
+    When will phoenix and qilin at last descend to the northern palace?
+    Let my humble life unfold as it will,
+    And I shall share a cup of clouded wine with neighbors near.
+  footnotes:
+  - key: ''
+    value: Songak and Yongsu refer to sacred mountains associated with divine transformation and renewal in East Asian tradition.
+  - key: ''
+    value: 'The garden pool reference alludes to a famous poetic anecdote: the poet Xie Lingyun of Eastern Jin claimed that only through divine inspiration, not human effort alone, did the perfect verse ''the pond brings forth spring grass'' emerge in a dream—suggesting that true poetic creation transcends ordinary effort.'
+  - key: ''
+    value: The wolves and tigers symbolize discord and violence; the phoenix and qilin represent auspicious signs of virtuous governance—reflecting the poet's hope for peace and good order.
+  - key: ''
+    value: The poem balances lofty aspirations for national harmony with acceptance of one's humble personal circumstance, finding solace in simple fellowship and drink.

@@ -1,0 +1,37 @@
+canonical:
+  title: 山行
+  author: 趙廣臨
+  language: lzh
+  text: 溪邊踏白石松下見靑山柱杖尋樵徑幽花開已闌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山行
+  author: 趙廣臨
+  language: lzh
+  text: 溪邊踏白石。松下見靑山。柱杖尋樵徑。幽花開已闌。
+korean:
+  title: 산행
+  author: 조광림
+  language: kor
+  text: |-
+    시냇가에서는 흰 돌을 밟고
+    소나무 밑에서는 푸른 산을 바라본다
+    지팡이 짚고 나무꾼의 길을 찾아보노니
+    그윽한 꽃은 피어 이미 늦었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Mountain Journey
+  author: Jo Gwang-rim
+  language: eng
+  text: |-
+    By the stream I tread on white stones,
+    Beneath the pines I gaze at green mountains.
+    With staff in hand I seek the woodcutter's path,
+    The hidden flowers have bloomed and faded.
+  footnotes:
+  - key: ''
+    value: The 'woodcutter's path' invokes the classical trope of withdrawal from society into nature, a common theme in East Asian poetry.
+  - key: ''
+    value: The progression from spring blooms to their decline mirrors the transience emphasized in East Asian poetic tradition.

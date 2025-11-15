@@ -1,0 +1,49 @@
+canonical:
+  title: 暮春
+  author: 許伯
+  language: lzh
+  text: 眼前世事劇紛紛洗耳年來不願聞病裏黃花如慰我愁邊白酒苦招魂悲來幾讀出師表醉後重吟弔屈文三顧無人問興漢卧龍終歲守柴門
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 暮春
+  author: 許伯
+  language: lzh
+  text: 眼前世事劇紛紛。洗耳年來不願聞。病裏黃花如慰我。愁邊白酒苦招魂。悲來幾讀出師表。醉後重吟弔屈文。三顧無人問興漢。卧龍終歲守柴門。
+korean:
+  title: 모춘
+  author: 허백
+  language: kor
+  text: |-
+    하도 어지러운 눈앞 세상 일을
+    귀 씻고 몇 해째 들으려 하지 않네
+    병중에 국화꽃은 나를 위로하는 듯하다마는
+    시름 속에 드는 술잔으로 혼을 부르누나
+    구슬픈 맘 출사표를 몇 번이나 읽었는고
+    취한 뒤엔 조굴문을 읊고 또 읊어보네
+    한실을 중흥하려 삼고할 이 없으니
+    와룡(제갈량)이 해[歲]가 다하도록 초가집을 지키네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 귀 씻고 : '
+    value: 요(堯)가 허유(許由)에게 천하를 사양하니 허유는 받지 않고 돌아서 영수(穎水)에 귀를 씻었다. 그것은 더러운 소리를 귀로 들었다는 뜻이었다.
+  - key: '[주-D002] 조굴문(弔屈文) : '
+    value: 초나라 회왕(懷王)에게 직간(直諫)하다가 참소를 만나 귀양가 멱라수(汨羅水)에 빠져 죽은 충신 굴원(屈原)을 조상한 부(賦). 한(漢)나라 가의(賈誼)가 지었음.
+english:
+  title: Late Spring
+  author: Heo Baek
+  language: eng
+  text: |-
+    The world's affairs before my eyes rage in such confusion.
+    For years now, I've washed my ears and refused to hear.
+    In my sickness, chrysanthemums offer what solace they can,
+    yet wine in my sorrow summons back a wandering soul.
+    In melancholy, I read the Departure of the Master again and again.
+    Drunk, I recite once more the elegy for the loyal Qu.
+    No one comes to restore the fallen dynasty—
+    the Sleeping Dragon guards his humble cottage through the years.
+  footnotes:
+  - key: ''
+    value: The image of 'washing one's ears' derives from the ancient sage Xu You, who washed his ears in the Ying River after hearing the unworthy Yao's offer of the world, refusing to accept even such words as legitimate.
+  - key: ''
+    value: The 'Departure of the Master' (出師表) is Zhuge Liang's famous memorial to Liu Bei, expressing loyalty and resolve. Qu Yuan's elegy references the tragic patriot who drowned himself rather than serve a corrupt court—here evoking the poet's own sense of displacement and integrity.

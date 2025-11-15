@@ -1,0 +1,37 @@
+canonical:
+  title: 題中書譯史牧丹圖後
+  author: 李穀
+  language: lzh
+  text: 畫師妙思奪天工國色依然帶露紅記取明年相對處沉香亭北倚春風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題中書譯史牧丹圖後
+  author: 李穀
+  language: lzh
+  text: 畫師妙思奪天工。國色依然帶露紅。記取明年相對處。沉香亭北倚春風。
+korean:
+  title: 제중서역사모란도후
+  author: 이곡
+  language: kor
+  text: |-
+    화사의 묘한 생각이 하늘 조화를 빼앗았으니
+    국색이 완연히 이슬 머금어 붉었구나
+    기억하라 명년에 서로 만날 때에는
+    침향정 북쪽에서 봄바람에 기대리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 침향정(沈香亭) : '
+    value: 이백의 청평사(淸平詞)에, ‘침향정 북쪽 난간에 기대었다[沈香亭北倚欄干].’는 구절이 있다.
+english:
+  title: On a Painting of Peonies by the Court Historian
+  author: Lee Gok
+  language: eng
+  text: |-
+    The painter's subtle genius rivals heaven's own creation.
+    The national beauty still glows rosy, kissed by morning dew.
+    Remember when we meet again next spring—
+    I shall wait by the northern pavilion, leaning in the spring breeze.
+  footnotes:
+  - key: ''
+    value: 'The ''northern pavilion'' alludes to Li Bai''s poem ''Clear Peace Song,'' which contains the line: ''Leaning on the railing north of the Fragrant Sandalwood Pavilion.'' This classical reference elevates the poem''s romantic yearning with the weight of literary tradition.'

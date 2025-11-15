@@ -1,0 +1,52 @@
+canonical:
+  title: 淸晨
+  author: 徐居正
+  language: lzh
+  text: 淸晨小坐擁緜衾窓日暉暉淨客心歲月幾何詩是史顔容如此酒爲箴防身只有杜陵劒垂橐曾無陸賈金何日還鄕仍乞骨白鑱歸去斲人蔘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淸晨
+  author: 徐居正
+  language: lzh
+  text: 淸晨小坐擁緜衾。窓日暉暉淨客心。歲月幾何詩是史。顔容如此酒爲箴。防身只有杜陵劒。垂橐曾無陸賈金。何日還鄕仍乞骨。白鑱歸去斲人蔘。
+korean:
+  title: 청신
+  author: 서거정
+  language: kor
+  text: |-
+    맑은 새벽에 솜이불 안고 조금 앉아 있으면
+    빛나는 창의 햇빛이 나그네 마음을 맑혀 주나니
+    세월은 얼마이던가 시가 바로 그 역사요
+    얼굴이 이 같거니 술을 경계해야 하네
+    몸을 방위하기에는 다만 두릉의 칼이 있을 뿐인데
+    늘어뜨린 낭탁에는 일찍부터 육가의 금이 없었다
+    언제나 고향에 돌아가 그대로 뼈를 빌서
+    흰 가래 가지고 돌아가 인삼을 캐리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 육가(陸賈) : '
+    value: 한나라 건국할 때에 고조(高祖)를 도와서 참모로 유명한 사람이었다. 뒤에 남월(지금의 광동)에 위타(尉佗)라는 사람이 독립하여 왕이라고 하였을 제, 그곳에 사절로 가서 위타를 설복(說伏)하여 한나라의 속국이 되게 하였는데, 위타가 육가에게 금(金)을 많이 주어서 그것을 가지고 돌아와 여생을 호화롭게 지냈다.
+  - key: '[주-D002] 고향에 …… 빌어서 : '
+    value: 신하로서 죽을 때까지 국가에 봉사하여야 하는 것이 원칙인데, 나이가 많으면 뼈귀를 고향에 돌아가 묻겠사오니 뼈 주기를 빈다는 것은 벼슬을 사양하는 것을 말함이다.
+english:
+  title: Clear Morning
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    At dawn, wrapped in quilted silk, I sit a while in stillness—
+    The window's radiant light purifies the wanderer's heart.
+    What are mere years? Poetry itself becomes history.
+    So worn by time, wine becomes my warning.
+
+    To guard the body, I have only the sword of Du Ling.
+    In my empty satchel, never did Lu Jia's gold rest.
+    When shall I return to my village and ask for my bones?
+    With white spade in hand, I'll go dig for ginseng.
+  footnotes:
+  - key: ''
+    value: Du Ling refers to the austere virtue of ancient sages who relied on moral strength rather than material wealth.
+  - key: ''
+    value: Lu Jia was a famous minister of early Han who grew wealthy through his diplomatic missions, representing the material success the poet deliberately rejects.
+  - key: ''
+    value: '''Ask for my bones''—a poetic way of requesting retirement from office to return to one''s homeland, expressing the poet''s desire to leave public service and live simply in his birthplace.'

@@ -1,0 +1,47 @@
+canonical:
+  title: 春歸
+  author: 金時習
+  language: lzh
+  text: 何處春歸去淸齋無事邊掃花編竹帚灌圃引山泉養拙長年卧拋書永日眠休言忙惱境閑適我靑氈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春歸
+  author: 金時習
+  language: lzh
+  text: 何處春歸去。淸齋無事邊。掃花編竹帚。灌圃引山泉。養拙長年卧。拋書永日眠。休言忙惱境。閑適我靑氈。
+korean:
+  title: 춘귀
+  author: 김시습
+  language: kor
+  text: |-
+    봄은 어디로 돌아가는가
+    말쑥한 재실의 일이 없는 가[邊]일세
+    꽃을 쓸려고 대 엮어 비를 매고
+    밭에 물 대려고 산 샘물 끌어 온다
+    옹졸함을 기르면서 여러 해를 누웠나니
+    책을 던져 두고 긴 날을 잠을 잔다
+    바쁘고 괴로운 경계라 말하지 말라
+    한가하고 맞갖은 내 푸른 담요일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 담요 : '
+    value: 자기 집에 오랫동안 전래하는 옛 물건이란 말로 쓰인다.
+english:
+  title: Spring's Return
+  author: Kim Sizip
+  language: eng
+  text: |-
+    Where does spring go when it departs?
+    In my clean study, free from all affairs,
+    I sweep the fallen flowers, binding bamboo into a broom,
+    and channel mountain springs to water my garden beds.
+
+    Cultivating simplicity through long years of rest,
+    I cast aside my books and sleep through endless days.
+    Do not speak of the bustling world's vexations—
+    this leisured ease is my ancient blue blanket,
+    handed down through generations.
+  footnotes:
+  - key: ''
+    value: The 'blue blanket' refers to a treasured heirloom, a family possession passed down through time, symbolizing the poet's contentment with inherited simplicity and withdrawal from worldly affairs.

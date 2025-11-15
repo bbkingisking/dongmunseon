@@ -1,0 +1,35 @@
+canonical:
+  title: 卽事
+  author: 徐居正
+  language: lzh
+  text: 小沼如盆水淺淸菰蒲新長荻芽生呼兒爲引連筒去養得芭蕉聽雨聲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 卽事
+  author: 徐居正
+  language: lzh
+  text: 小沼如盆水淺淸。菰蒲新長荻芽生。呼兒爲引連筒去。養得芭蕉聽雨聲。
+korean:
+  title: 즉사
+  author: 서거정
+  language: kor
+  text: |-
+    작은 늪이 동이와 같고 물은 옅고 맑은데
+    줄풀과 부들은 새로 자라고 갈대는 싹이 나네
+    아이를 불러 물을 끌어 통을 이어 가나니
+    파초를 길러 빗소리를 듣기 위해서이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0080&viewSync=OT
+  footnotes: []
+english:
+  title: Immediate Matter
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    A small pond, shallow as a basin, its waters crystal clear—
+    Cat-tails and rushes sprout anew, reed shoots emerge.
+    I call a boy to draw and channel the water through joined pipes,
+    To raise the banana plant and listen to the rain's song.
+  footnotes:
+  - key: ''
+    value: The banana plant (파초/芭蕉) in East Asian poetry symbolizes sensitivity to nature's gentle sounds, particularly the sound of rain striking its broad leaves—a meditation on the poet's attentive cultivation of aesthetic experience.

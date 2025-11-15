@@ -1,0 +1,46 @@
+canonical:
+  title: 戲贈闡師
+  author: 釋宗聆 足菴
+  language: lzh
+  text: 貝葉翻爲竹葉盃天花落盡眼花開醉鄕廣大人間窄誰識佯狂老萬回
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 戲贈闡師
+  author: 釋宗聆 足菴
+  language: lzh
+  text: 貝葉翻爲竹葉盃。天花落盡眼花開。醉鄕廣大人間窄。誰識佯狂老萬回。
+korean:
+  title: 희증 천사
+  author: 석종령 족암
+  language: kor
+  text: |-
+    패엽이 도리어 죽엽배가 되니
+    하늘꽃 다 떨어지고 눈의 꽃이 피누나
+    취향은 넓고 큰데 인간계는 좁아라
+    누가 알랴 거짓 미침을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 희증 천사(戲贈闡師) : '
+    value: “스님이 지난 번 내도량(內道場)에서 술이 취해 코를 흘리며 졸다가 유사에게 쫓겨났으므로 장난 삼아 높은 스님[闡師]께 보낸다.”라는 제주(題註)가 있다.
+  - key: '[주-D002] 하늘꽃 : '
+    value: 석가모니가 경(經)을 설(說)할 때에 하늘에서 꽃이 비오듯 하였다.
+  - key: '[주-D003] 거짓 미침 : '
+    value: 당나라 때에 만회(萬回)라는 도승(道僧)이 있었는데, 매일 술을 먹고 미친 척하고 하루동안 만리(萬里)를 갔다가 돌아왔기 때문에 만회라 하였다.
+english:
+  title: A Playful Gift to the Preaching Master
+  author: Seok Jong-ryeong
+  language: eng
+  text: |-
+    Sacred sutras turned to cups of bamboo wine—
+    when heaven's flowers fade, the eyes bloom drunk.
+    The realm of intoxication sprawls vast and wide,
+    while the human world shrinks small.
+    Who knows the feigned madness of old Wannoe?
+  footnotes:
+  - key: ''
+    value: This poem was written playfully about a senior monk who, having become intoxicated during a dharma assembly, dozed off and was escorted out by an attendant.
+  - key: ''
+    value: The 'flowers of heaven' alludes to the celestial flowers that showered down during the Buddha's teachings.
+  - key: ''
+    value: Wannoe was a Tang dynasty eccentric monk who would drink daily, feign madness, travel ten thousand li in a single day, and return—hence his name meaning 'ten thousand returns.'

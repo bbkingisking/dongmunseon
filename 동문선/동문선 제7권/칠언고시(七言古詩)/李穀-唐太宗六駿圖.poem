@@ -1,0 +1,81 @@
+canonical:
+  title: 唐太宗六駿圖
+  author: 李穀
+  language: lzh
+  text: 汴河錦纜人方厭秦王順天提寶劒風行電邁掃羶腥所向金湯隨手陷周衰千載一貞觀功業赫然超兩漢當時所乘有六駿揮戈恢恢有餘刃寫眞刻石手自贊片石屹與凌煙峻昭陵秋草夕陽邊行人指點多愴然君不見轍迹紛紛王道缺八駿曾到昆崘顚又不見拔山力盡騅不逝烏江煙月漢家天功成自古在知己豈在蹄高幷銳耳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 唐太宗六駿圖
+  author: 李穀
+  language: lzh
+  text: 汴河錦纜人方厭。秦王順天提寶劒。風行電邁掃羶腥。所向金湯隨手陷。周衰千載一貞觀。功業赫然超兩漢。當時所乘有六駿。揮戈恢恢有餘刃。寫眞刻石手自贊。片石屹與凌煙峻。昭陵秋草夕陽邊。行人指點多愴然。君不見轍迹紛紛王道缺。八駿曾到昆崘顚。又不見拔山力盡騅不逝。烏江煙月漢家天。功成自古在知己。豈在蹄高幷銳耳。
+korean:
+  title: 당태종 육준도
+  author: 이곡
+  language: kor
+  text: |-
+    변하의 비단 뱃줄을 사람들이 싫어하기에
+    진왕(당태종)은 천 명에 좇아 보검을 뽑아 들었네
+    바람이 몰 듯 번개가 밀 듯 비린 티끌[腥塵]을 쓸어서
+    간 곳마다 금성탕지가 손짓 따라 무너졌나니
+    주나라 허물어진 지 천 년 만에 정관(당나라 태종의 연호) 한 시대뿐
+    공업은 혁혁하여 양한을 초월했네
+    당시 타던 말에 육준이 있어
+    마음대로 창을 휘둘렀네
+    말의 모습 돌로 새겨 태종이 스스로 찬을 쓰니
+    한 조각 돌이 높이 능연각과 겨누고
+    소릉(태종의 능)의 가을 풀 석양 속에
+    길손은 지점하며 너무도 쓸쓸해 하누나
+    그대 보았으리, 수레자취 분분하자 왕도가 쇠하고
+    팔준마가 일찍이 곤륜산 꼭대기에 오른 것을
+    또 보았으리, 산 뽑던 힘 다하자 오추마[騅]는 가지 아니하고
+    오강연월 한나라 천지된 것을
+    옛부터 성공하는 건 알아 쓰기에 있으니
+    어찌 굽 높고[蹄高] 뾰족한 귀[銳耳 날랜 말[駿馬]]에 있으랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 변하(卞河)의 …… 뱃줄[錦纜] : '
+    value: 수(隋)나라 양제(煬帝)가 변하(卞河)에 배를 띄워 광릉으로 놀러가면서, 많은 배에 비단 뱃줄을 늘이고 갖은 호화를 부리면서 백성을 못살게 괴롭혔으므로, 사방에서 반란이 일어나서 나라가 망하였다.
+  - key: '[주-D002] 팔준마(八駿馬)가 …… 오른 것 : '
+    value: 주(周)나라 목왕(穆王)이 8준마(駿馬)를 타고 사방으로 두루 다니면서 곤륜산(崑崙山)에 올라가서 선녀(仙女)  서왕모(西王母)와 같이 놀았는데, 왕도(王道)는 이때부터 쇠하기 시작하였다.
+  - key: '[주-D003] 산 뽑던 …… 아니하고 : '
+    value: 항우(項羽)가 해하(垓下)에서 마지막으로 패전하여 겹겹이 포위를 당한 속에서 밤에 일어나 장중(帳中)에서 술을 마시며 사랑하는 우미인(虞美人)을 잡고 울면서 노래하기를, “힘은 산을 빼고 기운은 세상을 덮었더니, 때가 불리(不利)하여 오추마(烏騅馬)가 가지 않는다.” 하였다. 오추마는 항우가 항상 타던 말이다.
+  - key: '[주-D004] 오강연월(烏江烟月) : '
+    value: 항우가 도망하여 오강(烏江)에 이르자 강동(江東)으로 건너가지 않고 목을 찔러 자살하니 한(漢)나라가 천하를 통일하였다.
+english:
+  title: On the Six Steeds of Emperor Taizong of Tang
+  author: Lee Gok
+  language: eng
+  text: |-
+    The brocaded ropes of the Bian River grew wearisome to all—
+    The Prince of Qin, following the Mandate of Heaven, drew forth his treasured blade.
+    Like wind it swept, like lightning it raced, cleansing the foul miasma,
+    And wherever his gaze fell, even fortresses of gold and iron crumbled at his hand.
+
+    A thousand years after Zhou's collapse, only one age of Zhenguan shone—
+    His achievements burned so bright they surpassed both Han dynasties combined.
+    The six steeds he rode in those days were legendary,
+    And with them his spear danced, swift and irresistible.
+
+    Their likenesses carved upon stone, the Emperor himself inscribed their praise—
+    One humble slab now stands shoulder to shoulder with the Lingyantge peak,
+    Where autumn grasses bow before Zhaomausoleum in the slanting sun,
+    And travelers pause in sorrowful contemplation.
+
+    Yet observe: when countless wheel-ruts crisscross the land, kingly virtue declines—
+    The eight steeds of old once climbed to the very crown of Kunlun,
+    But their age saw the rise of chaos and the fall of wise rule.
+    And when even a hero's strength to uproot mountains exhausted itself,
+    Wu-zhui, that noble steed, would not go forward—
+    The Yellow River's mist and moon fell under the Han Dynasty's dominion.
+
+    Thus know this: since ancient times, glory rests in those who recognize true worth,
+    Not in the height of hooves nor the sharpness of ears.
+  footnotes:
+  - key: ''
+    value: The Bian River reference alludes to the Sui Emperor Yangdi's extravagant river journey that precipitated rebellion and dynastic collapse, contrasting with Taizong's virtuous rule.
+  - key: ''
+    value: The eight steeds of King Mu of Zhou traveled to Kunlun but marked the beginning of Zhou's decline—a historical parallel suggesting that even magnificent enterprises cannot transcend the cycle of rise and fall.
+  - key: ''
+    value: Wu-zhui was the legendary steed of the hero Xiang Yu, who famously declared that despite his strength to uproot mountains, his horse would not advance, leading to his defeat by the Han—symbolizing the limits of force without virtue.

@@ -1,0 +1,47 @@
+canonical:
+  title: 李而立
+  author: 梁汝恭
+  language: lzh
+  text: 平生交契卽雷陳出處常論不爲身自是朝廷無闕失况今風俗已眞淳敢將梨掖封章手忍向苔磯把釣綸慈父由來忘子過聖明終不棄愚臣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李而立
+  author: 梁汝恭
+  language: lzh
+  text: 平生交契卽雷陳。出處常論不爲身。自是朝廷無闕失。况今風俗已眞淳。敢將梨掖封章手。忍向苔磯把釣綸。慈父由來忘子過。聖明終不棄愚臣。
+korean:
+  title: 이이립
+  author: 양여공
+  language: kor
+  text: |-
+    평생의 교분이 옛날 뇌ㆍ진과 같아
+    출처가 제 몸 위함 아님을 늘 논했었지
+    워낙 조정에야 간할 만한 잘못이 없는 것을
+    지금 풍속은 벌써 순진해졌다네
+    내 어찌 궁궐에 소장 올리던 손으로
+    차마 이끼 긴 돌에 나가 낚시줄을 잡을까
+    인자한 아버지가 자식 허물 잊거니
+    마침내 성주께서도 우신 아니 버리시리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0630&viewSync=OT
+  footnotes: []
+english:
+  title: On Yi Yiryip
+  author: Yang Yeogong
+  language: eng
+  text: |-
+    My lifelong friendship mirrors that of Lei and Chen of old,
+    We have always spoken of duty, never for personal gain.
+    Since the court itself has no faults to censure,
+    And the customs of our time have grown pure and true—
+    How could I dare take the hand that once memorialized the throne
+    And place it upon mossy stones to cast a fishing line?
+    A merciful father forgets his children's failings,
+    So surely the sage ruler will not abandon his foolish servant.
+  footnotes:
+  - key: ''
+    value: Lei and Chen refer to the legendary ministers Lei Yi and Chen Ziqang, exemplars of righteous friendship and principled conduct in ancient Chinese tradition.
+  - key: ''
+    value: The image of the 'hand that memorialized the throne' evokes the poet's former service presenting remonstrances to the ruler—a position of trust and responsibility.
+  - key: ''
+    value: The contrast between court service and retirement (fishing by mossy stones) represents the tension between duty and withdrawal from public life.

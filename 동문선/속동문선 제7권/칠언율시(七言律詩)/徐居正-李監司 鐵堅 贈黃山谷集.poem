@@ -1,0 +1,54 @@
+canonical:
+  title: 李監司 鐵堅 贈黃山谷集
+  author: 徐居正
+  language: lzh
+  text: 元豊太史筆如椽第一江西正派傳句法能追杜陵後詩名或在蘇老前生平鑄錯緣文字身後流芳足簡編謫宦東西三十載黔南雲物夢潸然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李監司 鐵堅 贈黃山谷集
+  author: 徐居正
+  language: lzh
+  text: 元豊太史筆如椽。第一江西正派傳。句法能追杜陵後。詩名或在蘇老前。生平鑄錯緣文字。身後流芳足簡編。謫宦東西三十載。黔南雲物夢潸然。
+korean:
+  title: 이 감사 철견 증 황산곡집
+  author: 서거정
+  language: kor
+  text: |-
+    원풍 태사의 붓은 서까래 같아
+    첫째로 강서의 바른 파를 전하였다
+    글귀의 법은 능히 두릉(당나라 두자미)의 뒤를 따르고
+    시의 이름은 혹 소로(송나라 소동파)의 앞에 있다
+    한평생의 잘못은 문자 때문이지만
+    죽은 뒤의 명예는 간편에 넉넉하다
+    동쪽 서쪽으로 귀양살이 30년
+    검남의 운물이 꿈속에 잠연하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 원풍(元豐) 태사(太史) : '
+    value: 황산곡(黃山谷)의 성명은 황정견(黃庭堅)이요, 산곡은 그의 호이다. 그는 송(宋)나라 신종(神宗) 원풍(元豐) 시대 사람인데, 역사 편찬에 관계되는 벼슬을 하였으므로 태사(太史)라고 말한 것이다.
+  - key: '[주-D002] 강서(江西)의 바른 파(派) : '
+    value: 그는 그 당시에 소동파와 다른 시풍(詩風)을 창작하여 당나라의 두보(杜甫)를 배울 것을 주장하였다. 그래서 그가 강서성(江西省) 사람이므로 그의 시풍을 따르는 자들을 강서파라고 한다.
+  - key: '[주-D003] 검남(黔南) : '
+    value: 그 황산곡은 나중에 소동파의 편당으로 몰려서 귀주성(貴州省)으로 귀양가서 오랫동안 있었다.
+english:
+  title: 'To Yi the Censor: A Gift of the Collected Works of Huang Shangu'
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The brush of the Yuan-feng Historian flows like a rafter,
+    First to transmit the true school of Jiangxi's way.
+    His lines of craft trace steps behind Du Ling's path,
+    Yet his poetic name stands perchance before old Su.
+
+    A lifetime's errors sprang from the written word,
+    But after death his fragrance suffices for the page.
+    Thirty years of exile wandering east and west—
+    In dreams, the clouds of Qiannan weep gently on.
+  footnotes:
+  - key: ''
+    value: 'Yuan-feng Historian: Huang Shangu (黃山谷), whose given name was Huang Tingqian (黃庭堅), lived during the Yuan-feng era of the Song Dynasty''s Emperor Shenzong and held an office related to historical compilation, hence ''Historian.'''
+  - key: ''
+    value: 'Jiangxi school: Huang Shangu established a distinctive poetic tradition centered on studying the Tang master Du Fu, differing from Su Dongpo''s approach. His followers became known as the Jiangxi school because he was from Jiangxi Province.'
+  - key: ''
+    value: 'Thirty years of exile: Huang Shangu was later implicated as a partisan of Su Dongpo and banished to Guizhou Province (Qiannan) in the south, where he spent many years.'

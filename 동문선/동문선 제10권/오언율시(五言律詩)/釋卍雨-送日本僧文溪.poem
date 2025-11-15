@@ -1,0 +1,62 @@
+canonical:
+  title: 送日本僧文溪
+  author: 釋卍雨
+  language: lzh
+  text: 相國古精舍洒然無位人火馳應自息柴立更誰親楓岳雲生屐盆城月滿闉風帆海天闊梅柳古鄕春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送日本僧文溪
+  author: 釋卍雨
+  language: lzh
+  text: 相國古精舍。洒然無位人。火馳應自息。柴立更誰親。楓岳雲生屐。盆城月滿闉。風帆海天闊。梅柳古鄕春。
+korean:
+  title: 송 일본승 문계
+  author: 석만우
+  language: kor
+  text: |-
+    상국 옛 정사에 쇄락한
+    지위 없는 사람이어라
+    불같이 달리는 마음은 응당 절로 쉬었은 즉
+    가시처럼 서서 있으니 다시 누구와 친할까
+    풍악에서는 구름이 나막신 밑에 나고
+    분성(김해(金海))에는 달이 성에 가득하리
+    바람 돛대에 바다 하늘 넓으니
+    매화 버들 옛 고장의 봄을 찾아가리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 지위 없는 사람 : '
+    value: 선가(禪家)에 무위진인(無位眞人)이란 말이 있다.
+  - key: '[주-D002] 가시처럼 서서[柴立] : '
+    value: 병들고 파리하여 몸이 마른 가시나무처럼 뼈만 서 있다는 뜻이다.
+  - key: '[주-D003] 나막신[屐] : '
+    value: 진(晉)나라 사영운(謝靈運)이 등산(登山)을 좋아하였는데, 나막신을 신고 산에 오를 때에는 나막신의 앞니를 꺾어 버리고, 내려올 때에는 뒷니를 꺾어 버렸다.
+english:
+  title: Farewell to the Japanese Monk Mungyei
+  author: Seok Manwu
+  language: eng
+  text: |-
+    In the ancient hall of the Prime Minister's estate,
+    wanders one without rank or station—
+    a true person of emptiness.
+
+    The mind that races like fire
+    must naturally come to rest;
+    yet standing bare as thorns,
+    who would draw near?
+
+    On Pungak's slopes, clouds birth themselves
+    beneath traveling sandals.
+    In Bunsong's walls, the moon swells full.
+
+    With wind filling the sail,
+    the sea and sky stretch boundless—
+    go seek the spring of plum blossoms and willows
+    in that ancient land you call home.
+  footnotes:
+  - key: ''
+    value: The 'one without rank'—in Zen teaching, the 'person of no position' represents the enlightened state beyond all social hierarchy.
+  - key: ''
+    value: To 'stand like thorns' suggests a withered frame, solitary and unyielding—a body worn by the path.
+  - key: ''
+    value: The wooden sandals reference the legendary wanderings of Xie Lingyun, who broke their teeth ascending and descending mountains—a symbol of spiritual pilgrimage across difficult terrain.

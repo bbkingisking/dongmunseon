@@ -1,0 +1,47 @@
+canonical:
+  title: 題丈人觀道士壁
+  author: 李承召
+  language: lzh
+  text: 松窓靜夜篆香殘環佩珊珊下石壇小洞風吹瑤草長高樓月入玉笙寒蟠桃待見千年實藥鼎初成九轉丹莫訝紅塵猶滿面他年我亦掛朝冠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題丈人觀道士壁
+  author: 李承召
+  language: lzh
+  text: 松窓靜夜篆香殘。環佩珊珊下石壇。小洞風吹瑤草長。高樓月入玉笙寒。蟠桃待見千年實。藥鼎初成九轉丹。莫訝紅塵猶滿面。他年我亦掛朝冠。
+korean:
+  title: 제 장인 관도 사벽
+  author: 이승소
+  language: kor
+  text: |-
+    소나무 창의 고요한 밤에 전향이 쇠잔한데
+    환패 소리 딸랑딸랑 석단을 내려간다
+    작은 골짝에 바람이 불어 아름다운 풀이 자라고
+    높은 다락에 달이 들어 옥황생이 차가워라
+    반도는 기다려서 천년 열매를 볼 것이요
+    약솥에는 처음으로 구전단이 되었다
+    아직도 내 얼굴에 홍진이 가득 찼다고 이상히 여기지 말라
+    다른 해에 나도 또한 조관(관원의 복색)을 걸 것이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구전단(九轉丹) : '
+    value: 신선들이 장생불사(長生不死)하는 약을 금단(金丹)이라 한다. 그 금단은 아홉 번을 고아야 약이 된다고 한다. 그래서 구전단이라 한다.
+english:
+  title: On the Wall of a Taoist at My Father-in-law's Observation
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    On a silent night by the pine-framed window, incense smoke grows thin,
+    Jade pendants chiming gently descend the stone terrace.
+    In the small grotto, wind stirs and fragrant grasses grow tall,
+    In the high chamber, moonlight enters and jade flutes turn cold.
+    The peaches of immortality wait to show their thousand-year fruit,
+    The medicine cauldron has just produced the nine-times-refined elixir.
+    Do not wonder that crimson dust still clings to my face—
+    One day I too shall hang the official's robe.
+  footnotes:
+  - key: ''
+    value: The nine-times-refined elixir (九轉丹) refers to the legendary golden pill of immortality sought by Taoist adepts, requiring nine stages of refinement to achieve its potency.
+  - key: ''
+    value: This poem plays on the tension between the speaker's present pursuit of Taoist hermitage and an implicit recognition of eventual return to worldly affairs and court service.

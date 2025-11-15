@@ -1,0 +1,53 @@
+canonical:
+  title: 次江陵東軒韻
+  author: 兪孝通
+  language: lzh
+  text: 棠茇奔馳足一年區區裁决愧人天扶桑日出鯨波裏大嶺雲連鴈塞邊鏡浦夜涵羅代月寒松朝帶濊時煙坐來景物非塵世疑是從遊禦寇仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次江陵東軒韻
+  author: 兪孝通
+  language: lzh
+  text: 棠茇奔馳足一年。區區裁决愧人天。扶桑日出鯨波裏。大嶺雲連鴈塞邊。鏡浦夜涵羅代月。寒松朝帶濊時煙。坐來景物非塵世。疑是從遊禦寇仙。
+korean:
+  title: 차 강릉 동헌운
+  author: 유효통
+  language: kor
+  text: |-
+    아가위 집 그늘에 돌아다닌지 1년 남짓
+    구구한 결재가 사람과 하늘에 부끄럽네
+    부상의 해는 고래 물결속에 솟아 오르고
+    대관령 구름은 안문 변새로 이었구나
+    경포의 밤엔 신라 적 달이 머무르고
+    한송정 아침은 예(강릉의 옛이름) 적 연기를 띠었네
+    앉아 보니 경치가 인간 것은 아니어니
+    내 문득 열자를 좇아 바람타고 노는 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 열자(列子) : '
+    value: 그는 바람을 타고 공중에 다녔다고 전해진다.
+english:
+  title: Following the Rhyme of the East Pavilion in Gangneung
+  author: Yu Hyo-tong
+  language: eng
+  text: |-
+    A year wandering in the shade of the Tang tree's eaves,
+    My meager judgments shame both heaven and earth.
+    The sun of Fusang rises through whale-dark waves,
+    While Daeling's clouds extend to the northern frontier.
+    Mirror Lake holds the moon of Silla's ancient nights,
+    And Cold Pine Pavilion bears the mist of Ye's distant dawn.
+    Sitting here, the landscape transcends the mortal world—
+    I seem to follow Liezi, riding the wind through boundless space.
+  footnotes:
+  - key: ''
+    value: 'Fusang (扶桑): a mythical sacred tree in the east, representing the rising sun and the boundary between worlds'
+  - key: ''
+    value: 'Daeling (大嶺): a major mountain pass, here symbolizing distance and the frontier between civilization and wilderness'
+  - key: ''
+    value: 'Mirror Lake (鏡浦): a famous lake in Gangneung known for its reflective beauty'
+  - key: ''
+    value: 'Silla: the ancient Korean kingdom, evoking historical memory and spiritual depth'
+  - key: ''
+    value: 'Liezi (列子): a legendary sage from Chinese philosophy said to ride upon the wind itself, embodying transcendence and freedom from earthly concerns'

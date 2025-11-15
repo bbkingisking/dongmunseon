@@ -1,0 +1,47 @@
+canonical:
+  title: 南至後二月入淸齋寄子深知院
+  author: 徐居正
+  language: lzh
+  text: 老病情懷已索然靑銅曉攬感流年日南至後初添線風北來時欲折緜紙帳遮寒成獨坐木爐偸暖穩長眠詩家風味依然在喚取龍團雪水煎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 南至後二月入淸齋寄子深知院
+  author: 徐居正
+  language: lzh
+  text: 老病情懷已索然。靑銅曉攬感流年。日南至後初添線。風北來時欲折緜。紙帳遮寒成獨坐。木爐偸暖穩長眠。詩家風味依然在。喚取龍團雪水煎。
+korean:
+  title: 남지 후 이월 입 청재 기 자심지원
+  author: 서거정
+  language: kor
+  text: |-
+    늙고 병든 정회가 이미 쓸쓸하거니
+    새벽에 청동(화로)을 끌며 빠른 세월 느낀다
+    해는 남쪽으로 온 뒤에 처음으로 선을 보태는데
+    바람이 북쪽에서 돌 때는 솜옷을 찢으려 한다
+    종이 장막으로 추위를 막고 홀로 앉았다가
+    나무 화로의 따슨 기운을 틈타 편히 푹 잤다
+    시가의 멋은 의연히 여기 있나니
+    아이 불러 용단(좋은 차)가져다 눈물에 달인다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0280&viewSync=OT
+  footnotes: []
+english:
+  title: 'After the Winter Solstice: Second Month, Entering the Retreat, Sent to Jasim of the Jingyuan'
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Old age and sickness have drained my spirit dry.
+    At dawn I draw the bronze brazier close, feeling the swift years slip past.
+    After the sun turns southward, the daylight at last begins to lengthen,
+    Yet when the north wind comes, it threatens to tear my quilted robe.
+    I barricade the cold with paper screens and sit alone,
+    Then steal warmth from the wooden stove and sink into peaceful sleep.
+    Still, the poet's refined taste remains—
+    I call for the finest tribute tea, steeped in tears of melted snow.
+  footnotes:
+  - key: ''
+    value: The winter solstice marks the southernmost point of the sun's path; after this day, daylight gradually increases, symbolizing renewal and hope.
+  - key: ''
+    value: 龍團 (tribute tea) refers to the highest grade of ancient Chinese tea, pressed into dragon-shaped cakes—a luxury associated with scholarly refinement.
+  - key: ''
+    value: The phrase 'steeped in tears' suggests the speaker's melancholy joy; despite hardship, aesthetic and spiritual pleasures endure.

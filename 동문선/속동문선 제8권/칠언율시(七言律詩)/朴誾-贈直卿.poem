@@ -1,0 +1,51 @@
+canonical:
+  title: 贈直卿
+  author: 朴誾
+  language: lzh
+  text: 秋來屈指待君回準擬盃尊日日開誰料相逢不相見柢應堪笑亦堪哀知君羸病今何似奈我淸狂未自裁後夜雪晴乘興去寓庵燈火聽談雷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈直卿
+  author: 朴誾
+  language: lzh
+  text: 秋來屈指待君回。準擬盃尊日日開。誰料相逢不相見。柢應堪笑亦堪哀。知君羸病今何似。奈我淸狂未自裁。後夜雪晴乘興去。寓庵燈火聽談雷。
+korean:
+  title: 증직경
+  author: 박은
+  language: kor
+  text: |-
+    가을이 와서 손꼽으며 그대 돌아오기를 기다리노니
+    술자리를 날마다 열려고 기다린다
+    서로 만났으나 서로 보지 못할 줄을 누가 생각했으랴
+    다만 웃을 만도하고 슬퍼할 만도하구나
+    알건대 그대의 병이 지금은 어떠한가
+    나의 청광을 스스로 고치지 못하는 것 어찌할고
+    이 뒤 눈이 갠 밤에 흥을 타고 가서
+    우암의 등불 앞에서 우뢰같은 이야기를 들으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0580&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청광(淸狂) : '
+    value: 병이 들어 미친 사람은 맥(脉)이 탁한데 청광(淸狂)이란 것은 병 없이 미친 것이란 뜻이다.
+  - key: '[주-D002] 흥을 타고 가서 : '
+    value: 진(晋)나라 왕자유(王子猶)가 산음(山陰)에 있었는데, 설월(雪月)이 밝은 밤에 문득 섬계(剡溪)에 사는 친구 대안도(戴安道)를 생각하고 배를 저어 찾아가서 새벽에 그 집 문 앞까지 갔다가는 다시 배를 돌렸다. 사람들이 물은즉 “흥(興)을 타고 왔다가 흥이 다하매 돌아왔다. 하필 안도(安道)를 보아야 하느냐.” 하였다.
+english:
+  title: To Jik Kyung
+  author: Park Eun
+  language: eng
+  text: |-
+    Autumn arrives and I count the days, waiting for your return.
+    I prepare wine cups, readying them to open every day.
+    Who could have foreseen that we should meet yet not truly see?
+    There is reason both to laugh and to grieve at this.
+    I wonder how your sickness fares now.
+    How can I master my own wild clarity that will not be tamed?
+    When snow clears on a night to come, I shall follow my impulse and go,
+    And before the lantern light of Woo-am, I shall hear words that thunder like divine speech.
+  footnotes:
+  - key: ''
+    value: Jik Kyung (直卿) appears to be the courtesy name of the recipient, a friend the poet wishes to visit.
+  - key: ''
+    value: The 'wild clarity' (清狂) refers to a madness of the spirit untethered by illness—a spontaneous, inspired frenzy that cannot be restrained.
+  - key: ''
+    value: The reference to following impulse when snow clears alludes to a famous anecdote of Wang Ziyou from the Jin Dynasty, who rowed out on a moonlit night in the snow to visit a friend, but turned back halfway, saying he had come on impulse and the impulse had passed—suggesting a visit driven by genuine inspiration rather than obligation.

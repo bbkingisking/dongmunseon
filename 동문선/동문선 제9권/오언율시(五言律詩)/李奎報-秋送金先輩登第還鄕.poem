@@ -1,0 +1,46 @@
+canonical:
+  title: 秋送金先輩登第還鄕
+  author: 李奎報
+  language: lzh
+  text: 射策登高第騰裝返故鄕春同鶯出谷秋趁鴈隨陽落日愁行色孤煙慘別膓明年會相見好去莫霑裳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋送金先輩登第還鄕
+  author: 李奎報
+  language: lzh
+  text: 射策登高第。騰裝返故鄕。春同鶯出谷。秋趁鴈隨陽。落日愁行色。孤煙慘別膓。明年會相見。好去莫霑裳。
+korean:
+  title: 가을에 급제하여 고향으로 돌아가는 김 선배를 보내며
+  author: 이규보
+  language: kor
+  text: |-
+    과거를 보아 높은 급제에 오르고
+    거들거리는 행장으로 고향에 돌아가네
+    봄에 꾀꼬리와 함께 골짝을 나왔다가
+    가을에 기러기 좇아 남국으로 가누먼
+    지는 해에 행색이 시름겹고
+    외로운 연기에 이별이 서럽네만
+    명년에 다시 서로 만나리니
+    잘 가게, 우리 구태여 눈물짓지 마옵세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: Seeing Off Senior Kim on His Return Home After Passing the Examination in Autumn
+  author: Lee Gyeongbo
+  language: eng
+  text: |-
+    You've scaled the heights of the examination hall,
+    Your packed belongings now turning homeward.
+    Like orioles emerging from valley depths in spring,
+    You follow the wild geese south as autumn turns.
+
+    The setting sun casts shadows on your journey,
+    And lonely smoke curls into the sorrow of parting.
+    Yet next year we shall meet again,
+    So go in peace—let us not stain our sleeves with tears.
+  footnotes:
+  - key: ''
+    value: The poem plays on the classical trope of seasonal birds as messengers of time and departure. The oriole and geese represent the cyclical nature of ambition and return.
+  - key: ''
+    value: The final image of "staining sleeves with tears" is a traditional poetic reference to the wet marks of weeping on one's garment, here invoked ironically to suggest restraint and composure in farewell.

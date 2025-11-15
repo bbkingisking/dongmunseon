@@ -1,0 +1,51 @@
+canonical:
+  title: 思歸
+  author: 李齊賢
+  language: lzh
+  text: 扁舟漂泊若爲情四海誰云盡弟兄一聽征鴻思遠信每看歸鳥嘆勞生窮秋雨鏁靑神樹落日雲橫白帝城認得蓴羹勝羊酪行藏不用問君平
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 思歸
+  author: 李齊賢
+  language: lzh
+  text: 扁舟漂泊若爲情。四海誰云盡弟兄。一聽征鴻思遠信。每看歸鳥嘆勞生。窮秋雨鏁靑神樹。落日雲橫白帝城。認得蓴羹勝羊酪。行藏不用問君平。
+korean:
+  title: 사귀
+  author: 이제현
+  language: kor
+  text: |-
+    편주로 떠도는 내 마음 서글퍼라
+    사해가 다 형제라고 누가 일렀던고
+    기러기 소리 듣자 고향 편지 그립고
+    돌아가는 새를 보면 수고로운 신세 가엾어라
+    늦가을 청신(고을 이름) 나무에 궂은 비가 자욱하고
+    지는 해 백제성에 구름이 비끼였네
+    과연 순나물 국이 양젖보다 나으니
+    내 행장을 군평(유명한 점사)에게 물어 무엇하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 행장(行藏) : '
+    value: 공자(孔子)의 말에, “세상이 나를 쓰면 도(道)를 행(行)하고 나를 버리면 감춘다[藏].” 하였다.
+english:
+  title: Longing to Return Home
+  author: Lee Je-hyun
+  language: eng
+  text: |-
+    My small boat drifts upon the waters, and my heart grows melancholy.
+    Who said all the world's people are as brothers?
+    Hearing wild geese cry, I long for letters from my distant home,
+    And watching returning birds, I lament this weary life.
+    In the late autumn rains, mist clings to the trees of Cheongsin.
+    As the setting sun descends, clouds gather over Baekje's ancient walls.
+    True, shepherd's purse soup surpasses the finest milk—
+    Yet what use is it to ask the fortune-teller about the path of my life?
+  footnotes:
+  - key: ''
+    value: Cheongsin refers to a place name, likely a county or region.
+  - key: ''
+    value: Baekje was an ancient Korean kingdom; the reference to its city represents nostalgia for the homeland.
+  - key: ''
+    value: The shepherd's purse soup alludes to the simpler pleasures of home, contrasted with luxuries abroad.
+  - key: ''
+    value: 'The final couplet references Confucian philosophy: when the world calls upon a sage, he acts; when abandoned, he withdraws—suggesting the speaker''s resignation about his fate.'

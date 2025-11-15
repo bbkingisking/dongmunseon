@@ -1,0 +1,49 @@
+canonical:
+  title: 錢送官
+  author: 金克己
+  language: lzh
+  text: 趨帝闕以朝天會且歸矣遣王人而作伴遠于將之眷遇有終兢榮無已中謝 陪臣畢修聘禮方戒征塗豈謂日君之追綏特令星使以出餞箕封千里免貽失路之嗟漢闕九重遙獻終天之壽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 錢送官
+  author: 金克己
+  language: lzh
+  text: 趨帝闕以朝天。會且歸矣。遣王人而作伴。遠于將之。眷遇有終。兢榮無已。中謝。 陪臣畢修聘禮。方戒征塗。豈謂日君之追綏。特令星使以出餞。箕封千里。免貽失路之嗟。漢闕九重。遙獻終天之壽。
+korean:
+  title: 전송관
+  author: 김극기
+  language: kor
+  text: |-
+    황제의 궁궐에 나와서 조회를 마치고 돌아가려 할 때, 왕인(王人 천자(天子)가 보낸 사람)을 보내어 작반(作伴)하게 하시어 멀리 전송하여 주시니, 끝내 권우(眷遇)하오심에 그지없는 영광을 느끼옵나이다. 중사(中謝)
+    배신(陪臣)이 빙례(聘禮)를 마치고 바야흐로 행장을 차리는데, 뜻밖에도 황제께옵서 〈귀환하는 일행을〉 거듭 편안히 하시려고 특별히 사신을 시켜 나와 전송하여 주시오니, 천리 기봉(箕封)에 길 잃을 걱정이 없겠사오며 구중(九重) 한궐(漢闕)에 멀리 하늘처럼 오래도록 축수(祝壽)를 올리옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0390_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천리 기봉(箕封) : '
+    value: 주 무왕(周武王)이 기자(箕子)를 조선에 봉하였다는 말이다.
+english:
+  title: Farewell to an Official
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Approaching the imperial palace to pay court to the throne,
+    As the time came to return home,
+    The Son of Heaven sent forth his emissary to accompany me,
+    Escorting me far along the way.
+    Such boundless favor and regard—
+    My joy knows no end.
+
+    With this respectful acknowledgment:
+    The visiting minister completes the ceremonial rites,
+    And begins to prepare for the journey ahead,
+    When unexpectedly the Emperor,
+    Wishing to ensure our safe passage home,
+    Commands his messenger to come forth and bid us farewell.
+    With his blessing spanning a thousand li,
+    I need not fear the wanderer's lament of losing the way;
+    From the nine-tiered gates of the Han palace,
+    I offer distant prayers for your eternal longevity,
+    High as heaven itself.
+  footnotes:
+  - key: ''
+    value: The 'thousand li blessing' alludes to King Wu of Zhou enfeoffing Kija in Korea—a reference suggesting the enduring benevolence of imperial favor across lands and generations.

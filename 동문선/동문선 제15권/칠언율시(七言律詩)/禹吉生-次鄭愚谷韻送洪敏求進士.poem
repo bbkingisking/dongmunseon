@@ -1,0 +1,57 @@
+canonical:
+  title: 次鄭愚谷韻送洪敏求進士
+  author: 禹吉生
+  language: lzh
+  text: 崔公當日秉斯文捿第連科起一門十二徒名傳後代半千年慶洽諸孫報劉日短宜先孝佐漢時來可盡言吟詠白華勤敬養何妨獻策輔皇元
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次鄭愚谷韻送洪敏求進士
+  author: 禹吉生
+  language: lzh
+  text: 崔公當日秉斯文。捿第連科起一門。十二徒名傳後代。半千年慶洽諸孫。報劉日短宜先孝。佐漢時來可盡言。吟詠白華勤敬養。何妨獻策輔皇元。
+korean:
+  title: 정우곡의 시를 차운하여 홍민구 진사를 보내며
+  author: 우길생
+  language: kor
+  text: |-
+    일찍 최공이 과시를 맡았을 때
+    급제가 한 가문에서 연이어 났네
+    12문도의 이름이 후세에 전하고
+    5백 년 경사가 여러 손자에 푸짐했네
+    유를 갚을 날이 짧으니 먼저 효도할 것
+    한을 도울 때가 왔으니 하고픈 말씀 다 해야 하네
+    백화를 읊으면서 부지런히 효양하며
+    이따금 기책을 바쳐 황원(원나라)을 도우소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 12문도(門徒) : '
+    value: 고려 때의 사학(私學)에 십이도(十二徒)가 있어 훌륭한 제자들을 많이 길러내었다.
+  - key: '[주-D002] 유(劉)를 갚을 날이 짧으니 : '
+    value: 진(晉)나라 이밀(李密)이 조모의 손에서 자랐고 조모가 90여 세가 되었는데, 조정에서 밀을 벼슬로 불렀다. 밀이 조모를 모시기 위하여 사양하여 올리는 글에, “신이 폐하께 절개를 다할 날은 길고, 조모 유(劉)를 갚을 날은 짧습니다.” 하였다.
+  - key: '[주-D003] 백화(白華) : '
+    value: 《시경》의 편명. 효자의 결백을 노래한 것인데, 본시(本詩)는 없어졌다.
+english:
+  title: Matching Minister Jeong Uweok's Rhyme to Send Off Hong Minju, the Jinsa
+  author: Yu Gil-saeng
+  language: eng
+  text: |-
+    In his day, Minister Choi held the examination of letters,
+    Successive degrees flowed forth from a single household door.
+    Twelve disciples' names are passed down through the ages,
+    Five centuries of blessings overflow upon his grandsons.
+
+    Short are the days left to repay Liu's kindness—
+    Filial devotion must come first.
+    When the time comes to serve the Han,
+    Speak all that your heart desires.
+
+    While chanting White Flower, tend dutifully to respect and care,
+    And perhaps offer wise counsel to aid the Yuan's throne.
+  footnotes:
+  - key: ''
+    value: Minister Choi refers to a renowned examiner whose family produced multiple successive examination graduates, establishing a scholarly lineage.
+  - key: ''
+    value: The phrase 'repay Liu's kindness' alludes to the Jin dynasty official Li Mi, who was raised by his grandmother. When summoned to court, Li Mi wrote that though his days serving the emperor were long, his days to repay his grandmother's care were short, prioritizing filial duty.
+  - key: ''
+    value: White Flower (白華) is a poem from the Book of Odes celebrating the integrity of a filial son, symbolizing the virtue of dutiful care and moral purity.

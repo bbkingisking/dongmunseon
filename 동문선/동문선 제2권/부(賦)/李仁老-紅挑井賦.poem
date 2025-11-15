@@ -1,0 +1,94 @@
+canonical:
+  title: 紅挑井賦
+  author: 李仁老
+  language: lzh
+  text: 栢堂東麓有泉澄淥泠然流出於石縫若漱白雲之幽谷旱而不渴響如琴筑縈迴六七許步然後入於溝瀆遂使傍泉而居者皆快意於挹掬隴西子茹蔬得飽以手捫腹岸掩苒之烏紗杖鏗鈜之龍竹踞一石露雙脚挼碎冰霜吞吐珠玉豈唯火日之可逃亦復塵纓之已濯徐嘯歸來溪風蔌蔌展八尺之風漪枕數寸之癭木夢白鷗而同戲任黃粱之未熟飄飄乎如駕八龍而到瑤池聞金母之一曲浩浩乎若泛枯槎而渡天河驚蜀都之賣卜則何必錦障紆四十里胡椒蓄八百斛打就金蓮盆然後濯吾足
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 紅挑井賦
+  author: 李仁老
+  language: lzh
+  text: 栢堂東麓。有泉澄淥。泠然流出於石縫。若漱白雲之幽谷。旱而不渴。響如琴筑。縈迴六七許步。然後入於溝瀆。遂使傍泉而居者。皆快意於挹掬。隴西子茹蔬得飽。以手捫腹。岸掩苒之烏紗。杖鏗鈜之龍竹。踞一石。露雙脚。挼碎冰霜。吞吐珠玉。豈唯火日之可逃。亦復塵纓之已濯。徐嘯歸來。溪風蔌蔌。展八尺之風漪。枕數寸之癭木。夢白鷗而同戲。任黃粱之未熟。飄飄乎如駕八龍而到瑤池。聞金母之一曲。浩浩乎若泛枯槎而渡天河。驚蜀都之賣卜。則何必錦障紆四十里。胡椒蓄八百斛。打就金蓮盆然後濯吾足。
+korean:
+  title: 홍도 우물을 읊은 부
+  author: 이인로
+  language: kor
+  text: |-
+    백당 동편 산기슭에
+    해맑은 샘이
+    돌 틈으로 졸졸 흘러나와
+    흰 구름 그윽한 골짝을 씻어낼 듯
+    가물어도 안 마르고
+    거문고처럼 맑은 소리
+    예닐곱 걸음 감돌아서
+    도랑으로 들어가는데
+    주변에 사는 사람들이
+    모두 시원히 움켜 마시네
+    농서자(작자의 호)가 나물 먹고 배불러서
+    손으로 배를 문지르고
+    힘없는 오사모 제껴 쓰고
+    댕그랑 용죽장 손에 짚고
+    돌 위에 걸터 앉아
+    두 다리를 드러내고
+    얼음과 서리 희롱하고
+    구슬을 머금었다가 뿜어내니
+    불 같은 더위를 피할 뿐가
+    먼지 묻은 갓끈도 씻어내네
+    휘파람 불며 돌아오니
+    시냇 바람 설렁설렁
+    여덟 자 대자리를 펼쳐놓고
+    조막만한 영목(나무에 생긴 혹)을 베고 누워
+    꿈속에 흰 갈매기와 희롱하며
+    누른 조밥이야 익거나 말거나
+    너훌너훌 여덟 용 타고 요지에 가서
+    서왕모 노래를 듣는 듯
+    훨훨 떼를 띄워서 은하를 건넜다가
+    촉도의 점장이 놀래는 듯
+    그러니 하필이면 금보장 40리
+    호초 8백 곡의 부로써
+    금 연동이을 만들어서야
+    내 발을 씻으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0050_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 먼지 …… 씻어내네 : '
+    value: “창랑의 물이 맑으면 내 갓끈을 씻을 만하네.” 하는 노래가 굴원(屈原)의〈어부사(漁父辭)〉에 있다.
+  - key: '[주-D002] 누른 조밥이야 …… 말거나 : '
+    value: 당나라의《침중기(沈中記)》란 소설에 노생(盧生)이 한단(邯鄲) 여숙에서 도사(道士)  여옹(呂翁)을 만나 그가 주는 베개를 베고 꿈을 꾸어 출장입상(出將入相), 자손이 모두 영달(榮達), 80년의 호화를 누리다가 문득 깨니, 여숙 주인이 짓던 누른 조밥이 아직 익지 않았다.
+  - key: '[주-D003] 요지(瑤池) : '
+    value: 서왕모(西王母)가 산다는 선경(仙境). 주(周)나라 목왕(穆王)이 팔준마(八駿馬)를 타고 요지에 가서 왕모와 노래로 서로 화답하였다.
+  - key: '[주-D004] 촉도(蜀道)의 점장이 : '
+    value: 어떤 사람이 하(河 황하)의 근원을 찾아 부인이 빨래함을 보고 물으니, “여기가 천하(天河)다.” 했다. 한 돌은 주기에 가지고 돌아와 엄군평(嚴君平)에게 물으니, 그가 가로되, “이것은 직녀(織女)의 베틀 바치는 돌이다.” 했다. 엄군평이 촉(蜀)나라의 도읍 성도(成都)에서 점장이 노릇을 하면서 충효와 신의(信義)로 사람들을 가르쳤으며, 날마다 백전(百錢)을 얻으면 곧 가게를 닫고《노자》를 읽었다. 전설(傳說)이 많음.
+  - key: '[주-D005] 금보장(錦步障) 40리 : '
+    value: 진(晉)나라 왕개(王愷)와 석숭(石崇)이 부(富)를 자랑할 새 왕개가 자사보장(紫紗步障) 40리를 치니, 석숭은 금보장(錦步障) 50리를 쳤다.
+  - key: '[주-D006] 호초(胡椒) …… 부(富) : '
+    value: 당(唐)나라 원재(元載)의 가산(家産)을 적몰(籍沒)하니, 호초(胡椒)가 8백 곡(斛)이요, 다른 재물도 그와 같을 정도로 많았다.
+  - key: '[주-D007] 금 연동이[金蓮盆] : '
+    value: 당(唐)나라 단문창(段文昌)이 소시(少時)에 말하기를, “장래에 부귀(富貴)하여 금련화분(金蓮花盆)에 발을 씻으리라.” 하더니 뒤에 과연 그 말대로 되었다.
+english:
+  title: On the Red Well at Baekdang
+  author: Lee Inro
+  language: eng
+  text: |-
+    On the eastern slope of Baekdang, there springs forth a crystal-clear fountain, trickling from between the stones like water washing through a misty valley of white clouds. It never runs dry even in drought, its voice like a zither's song, winding for seven or eight paces before joining the stream.
+
+    Those who dwell beside this spring drink deeply and find their fill. Here the Simple Hermit eats his greens, content as his belly grows round. With hand pressed to his stomach, he loosens his listless silk hat and leans upon his bamboo cane, settling on a stone with legs stretched bare. He plays with frost and ice, holds pearls in his mouth and releases them—escaping not only the blazing sun but also washing clean the dusty ribbons of the world.
+
+    When he whistles his way home, the stream breeze whispers soft. He spreads his eight-foot mat and pillows his head on a knobbed log, dreaming he sports with white gulls while amber rice steams slowly on. Light as gossamer, he rides eight dragons to the Jade Pool, hearing the Mother of the West sing her ancient song. Vast and boundless, he floats on driftwood across the River of Heaven.
+
+    Let the fortune-tellers of Shu be amazed! Why should one need forty miles of brocaded screens, eight hundred measures of pepper, and golden lotus basins to wash one's feet? This simple spring suffices for all the luxury one needs.
+  footnotes:
+  - key: ''
+    value: 'The image of washing dusty ribbons recalls the famous verse from Qu Yuan''s ''Song of the Fisherman'': ''When the waters of Changlang run clear, they wash my silken cap-strings.'''
+  - key: ''
+    value: The image of the unfinished millet rice alludes to the Tang tale 'The Pillow of Handan,' where a dreamer experiences a lifetime of glory in a single dream, only to wake as the millet is still cooking.
+  - key: ''
+    value: The Jade Pool is the legendary realm of the Queen Mother of the West. The sage-king Mu of Zhou once rode eight divine horses to visit her there.
+  - key: ''
+    value: The reference to Shu's fortune-teller evokes Yan Junping, a Daoist sage of Shu who would divine people's fates each day for a hundred coins, then close his shop to read the Daodejing.
+  - key: ''
+    value: The forty miles of brocaded screens refers to the famous competition in extravagance between Wang Kai and Shi Chong of the Jin dynasty.
+  - key: ''
+    value: The eight hundred measures of pepper alludes to the vast wealth of the Tang official Yuan Zai, confiscated when he fell from power.
+  - key: ''
+    value: The golden lotus basin references the vow of the Tang official Duan Wenchang, who as a youth promised himself he would wash his feet in gold when he grew rich—a vow that came true.

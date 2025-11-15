@@ -1,0 +1,35 @@
+canonical:
+  title: 次竹山東軒韻
+  author: 崔士老
+  language: lzh
+  text: 好雨村村足溪流岸岸深飛潛與動植渾是一春心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次竹山東軒韻
+  author: 崔士老
+  language: lzh
+  text: 好雨村村足。溪流岸岸深。飛潛與動植。渾是一春心。
+korean:
+  title: 차 죽산 동헌 운
+  author: 최사로
+  language: kor
+  text: |-
+    좋은 비는 마을마다 족한데
+    시냇물은 언덕마다 깊구나
+    날짐승ㆍ물고기 움직이고 심어진 것이
+    혼연히 이 모두가 한봄 마음이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0680&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Rhyme of Bamboo Mountain's Eastern Studio
+  author: Choe Sa-ro
+  language: eng
+  text: |-
+    Good rains fall abundantly on every village,
+    Streams deepen along every bank.
+    Winged creatures and fish, all that moves and grows—
+    They are all, as one, the heart of spring.
+  footnotes:
+  - key: ''
+    value: This poem is a response verse (次韻) composed in reply to another poet's work, following the same rhyme scheme and poetic form. 'Bamboo Mountain's Eastern Studio' refers to the original poem's location or the poet being addressed.

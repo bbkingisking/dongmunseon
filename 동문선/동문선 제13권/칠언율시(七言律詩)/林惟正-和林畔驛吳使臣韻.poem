@@ -1,0 +1,49 @@
+canonical:
+  title: 和林畔驛吳使臣韻
+  author: 林惟正
+  language: lzh
+  text: 到處爲家不解愁敏若 壯年雙鬢已驚秋蔡襄 蒼龍闕下思英主何永錫 白玉京中夢舊遊永叔 壓地樓臺春富貴夏竦 携觴談笑醉風流荊公 須知別後無由到永叔落日將歸又小留荊公
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和林畔驛吳使臣韻
+  author: 林惟正
+  language: lzh
+  text: |-
+    到處爲家不解愁。敏若。 壯年雙鬢已驚秋。蔡襄。 蒼龍闕下思英主。何永錫。 白玉京中夢舊遊。永叔。 壓地樓臺春富貴。夏竦。 携觴談笑醉風流。荊公。 須知別後無由到。永叔。
+    落日將歸又小留。荊公。
+korean:
+  title: 임반역에서 오사신의 운에 화답하며
+  author: 임유정
+  language: kor
+  text: |-
+    가는 곳마다 내 집 삼으니 시름 몰라라마는 민야(敏若)
+    장년에도 두 귀밑은 벌써 가을임을 놀라네 채양(蔡襄)
+    창룡궐 밑에 임금님을 생각하고 하영석(何永錫)
+    백옥경 안에 예 놀던 일 꿈꾸누나 영숙(永叔)
+    땅을 누른 누대는 봄날의 부귀 하송(夏竦)
+    잔을 드는 담소는 취중의 풍류 형공(荊公)
+    한 번 이별하면 다시 오기 어려우니 영숙(永叔)
+    석양에 떠나려다가 또 잠시 머무르세 형공
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Rhymes of the Wu Envoy at Lin Pan Station
+  author: Im Yu-jeong
+  language: eng
+  text: |-
+    Wherever I go becomes my home, yet sorrow I cannot escape—
+    Even in my prime, my temples already silver with autumn's surprise.
+    Beneath the Azure Dragon Gate, I long for my sovereign,
+    Within the White Jade Capital, I dream of pleasures past.
+    The terraced halls that press down on earth speak of spring's wealth and rank,
+    While cups raised in jest and laughter taste of drunken grace.
+    Once parted, there is no way to return again—
+    As the setting sun calls me to leave, I linger still a moment more.
+  footnotes:
+  - key: ''
+    value: The Azure Dragon Gate (蒼龍闕) refers to the imperial palace or court.
+  - key: ''
+    value: The White Jade Capital (白玉京) is a classical allusion to an idealized celestial or imperial realm.
+  - key: ''
+    value: This poem is composed of couplets, each attributed to different classical Chinese poets, a common literary game of the period.

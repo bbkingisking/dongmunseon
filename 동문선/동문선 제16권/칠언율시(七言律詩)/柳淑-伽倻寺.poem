@@ -1,0 +1,85 @@
+canonical:
+  title: 伽倻寺
+  author: 柳淑
+  language: lzh
+  text: 少年歌舞醉華堂肯想淸遊雲水鄕老去不堪趨綺陌退來隨分坐藜床閑中氣味茶三椀夢裏功名紙一張多謝新詩慰幽獨上人深意若爲量林下閑開綠野堂溪山勝景稻魚鄕菊將松竹成三逕琴與圖書共一床但願交遊繼支許何須富貴羡金張古人可笑歸來晚宦路風波浩莫量流年逐水去堂堂農圃餘生寄此鄕山雨來時新得句樹陰深處屢移床家貧只有書堪讀客至還無席可張早晚飄然陪杖屨山林高趣共論量
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 伽倻寺
+  author: 柳淑
+  language: lzh
+  text: 少年歌舞醉華堂。肯想淸遊雲水鄕。老去不堪趨綺陌。退來隨分坐藜床。閑中氣味茶三椀。夢裏功名紙一張。多謝新詩慰幽獨。上人深意若爲量。林下閑開綠野堂。溪山勝景稻魚鄕。菊將松竹成三逕。琴與圖書共一床。但願交遊繼支許。何須富貴羡金張。古人可笑歸來晚。宦路風波浩莫量。流年逐水去堂堂。農圃餘生寄此鄕。山雨來時新得句。樹陰深處屢移床。家貧只有書堪讀。客至還無席可張。早晚飄然陪杖屨。山林高趣共論量。
+korean:
+  title: 가야사
+  author: 유숙
+  language: kor
+  text: |-
+    소년 시절에 노래하고 춤추면서 화당에 취할 제는
+    한가히 운수향에 노닐 줄야 생각이나 했었으리
+    늙어 가매 서울 거리에 분주하기 귀찮아서
+    물러와 분수대로 평상에 앉았네
+    한가한 가운데 그윽한 맛은 차 석 잔
+    꿈 속의 공명은 종이 한 장
+    새 시로 내 고독을 위로함이 고마워라
+    스님의 깊은 뜻을 어이 다 헤아리리
+    숲 사이에 한가히 열린 녹야당
+    산수 좋은 경치 벼와 물고기 마을
+    국화는 솔ㆍ대와 함께 세 길을 이뤘고
+    거문고ㆍ도서가 모두 한 상에 놓여 있네
+    사귐이 지ㆍ허를 잇기 바랄 뿐
+    부귀로 금ㆍ장을 부러워해 무엇하리
+    우스워라 늦게야 돌아온 옛 사람들
+    벼슬길 험한 풍파가 끝간 데를 몰라라
+    물같이 흐르는 세월 빠르기도 한지고
+    여생을 농사나 하려 이 마을에 부쳤네
+    산 비가 올 때 새로운 싯구 얻고
+    나무 그늘 짙은 데로 자주 평상 옮기네
+    집이 가난하니 지닌 것은 읽을 책 몇 권
+    손이 와도 깔아 놓을 돗자리도 없네
+    조만간 한가히 스님 모셔 놀면서
+    산림의 높은 흥취 함께 논해 보려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 지(支)ㆍ허(許) : '
+    value: 진(晋) 고승(高僧) 지둔(支遁 자는 도림(道林))과 명사(名士) 허순(許詢 자는 현도(玄度))인데, 이 두 사람이 깊이 사귀었다.
+  - key: '[주-D002] 금(金)ㆍ장(張) : '
+    value: 한(漢) 선제(宣帝) 때의 고관이었던 김일제(金日磾)와 장안세(張安世)인데 부귀한 가문이다.
+english:
+  title: Gaya Temple
+  author: Yu Suk
+  language: eng
+  text: |-
+    In youth I sang and danced, drunk in halls of splendor,
+    yet never thought to wander the cloud-waters of leisure.
+    Now age makes me weary of city streets and bustle—
+    I have retired to sit by portion and plain bench.
+
+    In idleness, the subtle taste of three cups of tea,
+    and in dreams, ambition thin as a single sheet of paper.
+    I am grateful for new verses that comfort my solitude—
+    how can I measure the deep meaning in the monk's heart?
+
+    In the forest grove, a vacant hall opens to green fields,
+    where mountain waters and fair scenes meet rice fields and fish.
+    Chrysanthemum joins pine and bamboo in three paths,
+    qin and books rest together on a single table.
+    I wish only that fellowship continues with those kindred spirits—
+    why should I envy wealth and the great families' fortune?
+
+    Laughed at are those ancients who returned too late,
+    for official roads churn with waves no one can measure.
+    Years flow like water, swift and grand—
+    I commit my remaining days to farming in this village.
+    When mountain rain comes, I gain a new verse,
+    and often move my bench where the tree-shade deepens.
+
+    My house is poor; all I possess is books to read.
+    When guests arrive, I have no mat to spread.
+    Soon I shall walk freely, accompanying the staff and cane,
+    and together with the monk, discuss the high spirit of mountains and forests.
+  footnotes:
+  - key: ''
+    value: Chi Tun and Xu Xun were a Buddhist priest and literatus of the Jin dynasty who shared a deep friendship, here invoked as an ideal of spiritual companionship.
+  - key: ''
+    value: Jin Midi and Zhang Anshi were powerful officials of the Han dynasty, representing worldly wealth and status that the poet has renounced.

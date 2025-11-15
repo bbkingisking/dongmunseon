@@ -1,0 +1,31 @@
+canonical:
+  title: 大將軍楊仁孟請老三表依允
+  author: 崔惟淸
+  language: lzh
+  text: 君臣之閒必當以至誠相與進退之際豈可以虗辭爲文朕方求賢以有爲卿乃據經而請老援而不止確然難回勉從知足之心以示憫勞之典
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大將軍楊仁孟請老三表依允
+  author: 崔惟淸
+  language: lzh
+  text: 君臣之閒。必當以至誠相與。進退之際。豈可以虗辭爲文。朕方求賢以有爲。卿乃據經而請老。援而不止。確然難回。勉從知足之心。以示憫勞之典。
+korean:
+  title: 대장군 양인맹 청로 삼표 의윤
+  author: 최유청
+  language: kor
+  text: 임금과 신하 사이는 반드시 지성으로 서로 관여하는 법이니, 나아오고 물러갈 즈음에 어찌 헛된 말로 체면을 꾸미겠는가. 짐이 바야흐로 어진 이를 구하여 나라를 다스리려고 하는데, 경은 이제 옛 법을 근거로 하여 물러나게 해 주기를 청하였다. 이에 만류하였으되 머물지 않아 뜻을 굳이 돌리기 어려우니, 만족함을 아는 마음을 좇아 오랫동안 수고했음을 위로하는 특전을 보이노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0320_020_0250&viewSync=OT
+  footnotes: []
+english:
+  title: Three Memorials of General Yang Ren-meng Requesting Retirement, Respectfully Approved
+  author: Choe Yu-cheong
+  language: eng
+  text: Between ruler and subject, there must ever be communion of utmost sincerity. When the time comes to advance or withdraw, how could we dress mere empty words in the garb of propriety? I now seek the virtuous to govern the realm, yet you, my minister, base your petition on ancient precedent and request to lay down your office. Though I have pleaded with you to remain, your resolve will not bend—your will is too firm to turn aside. Therefore, I shall honor your contentment with sufficiency and grant you this mark of esteem for your long years of service.
+  footnotes:
+  - key: ''
+    value: Yang Ren-meng (楊仁孟) was a high-ranking general who formally submitted three memorials requesting retirement from his position.
+  - key: ''
+    value: The 'ancient precedent' (經) likely refers to Confucian principles governing when officials should step down from service.
+  - key: ''
+    value: This text represents an imperial rescript formally granting the general's request for retirement, a ceremonial document affirming both the ruler's benevolence and the official's wisdom in knowing when to withdraw.

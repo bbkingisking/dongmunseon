@@ -1,0 +1,46 @@
+canonical:
+  title: 白溝
+  author: 李齊賢
+  language: lzh
+  text: 誰將督亢餌強隣空費金繒歲結親尺水區區遏南牧可能卧榻不容人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 白溝
+  author: 李齊賢
+  language: lzh
+  text: 誰將督亢餌強隣。空費金繒歲結親。尺水區區遏南牧。可能卧榻不容人。
+korean:
+  title: 백구
+  author: 이제현
+  language: kor
+  text: |-
+    누가 독항을 가져다 강한 이웃에 주어
+    화친을 맺어 해마다 공연히 금과 비단을 대비했던가
+    한 자쯤 되는 물을 한계로 하여 남목을 막으려 하였으니
+    누운 탑 옆에 다른 사람을 용납하지 않는 것인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백구(白溝) : '
+    value: 옛날 송(宋)나라와 거란(契丹)의 경계에 있는 강이며, 독항(督亢)도 그곳의 지명(地名)이다. 송나라 진종(眞宗) 때에 거란이 침입하였으므로 송나라에서 백구 이북의 땅을 주고, 해마다 금과 비단을 많이 주기로 하여 강화(講和)를 맺었다.
+  - key: '[주-D002] 남목(南牧) : '
+    value: 한 무제(漢武帝)가 흉노(匈奴)를 쳐서 물리치니, 흉노가 감히 남으로 내려와 말을 먹이지 못하였다. 북방 민족이 중국에 침입하는 것을 남목(南牧)이라 한다.
+  - key: '[주-D003] 누운 탑(榻) …… 않는 것인가 : '
+    value: 송 태조(宋太祖)가 중국을 차지한 뒤에 남당(南唐)에서 사신(使臣)을 보내어 강화(講和)를 청하니, 송 태조가 물리치며 말하기를, “내가 자는 침대 옆에 다른 사람이 코를 고는 것을 용납할 수 없다.” 하였다.
+english:
+  title: The White Stream
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    Who gave Dukang away to appease a stronger neighbor,
+    Year after year squandering gold and silk for fragile peace?
+    A mere thread of water drawn as boundary
+    Against the southern grazing of barbarian hordes—
+    Yet can the ruler truly rest, with another breathing at his bedside?
+  footnotes:
+  - key: ''
+    value: The White Stream was a river marking the border between the Song Dynasty and the Khitan Liao. The Song Emperor Zhenzong ceded territories north of this river and agreed to annual tribute in gold and silk to achieve peace after Khitan invasion.
+  - key: ''
+    value: The phrase 'southern grazing' alludes to the Xiongnu invasions of Han Dynasty China—a historical metaphor for barbarian incursion into civilized lands.
+  - key: ''
+    value: 'The final image invokes Song Emperor Taizu''s famous declaration: ''I cannot tolerate another snoring at my bedside''—expressing the impossibility of true security through appeasement alone.'

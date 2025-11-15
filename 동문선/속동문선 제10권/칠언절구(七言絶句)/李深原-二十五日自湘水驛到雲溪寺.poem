@@ -1,0 +1,41 @@
+canonical:
+  title: 二十五日自湘水驛到雲溪寺
+  author: 李深原
+  language: lzh
+  text: 樹陰濃淡石盤陀一逕縈迴透澗阿陣陣暗香通鼻觀遙知林下有殘花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 二十五日自湘水驛到雲溪寺
+  author: 李深原
+  language: lzh
+  text: 樹陰濃淡石盤陀。一逕縈迴透澗阿。陣陣暗香通鼻觀。遙知林下有殘花。
+korean:
+  title: 25일 자상수역 도운계사
+  author: 이심원
+  language: kor
+  text: |-
+    수음은 맑고 잘며 돌은 깔렸는데
+    한 길이 얽히어서 시내 언덕 뚫었어라
+    한번 한번 풍기는 암향 코를 통하니
+    알겠다 먼 숲 밑에 남은 꽃이 있는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이심원(李深源) : '
+    value: 조선 성종 때 왕족인 주계군(朱溪君).
+  - key: '[주-D001] 朱溪君 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: On the Twenty-Fifth Day, Traveling from Xiangshui Station to Yunxi Temple
+  author: Lee Sim-won
+  language: eng
+  text: |-
+    The tree shadows dance between light and dark upon the scattered stones,
+    A winding path curves through and pierces the ravine's embrace.
+    Wave after wave, the hidden fragrance drifts through to greet my nose—
+    And so I know: deep in that distant grove, the last blossoms still linger.
+  footnotes:
+  - key: ''
+    value: The 'hidden fragrance' (暗香) refers to the subtle scent of fading flowers, a classical image suggesting both beauty and impermanence.
+  - key: ''
+    value: This poem was written during a journey, likely as an observational meditation on passing beauty encountered along the way.

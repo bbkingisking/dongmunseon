@@ -1,0 +1,80 @@
+canonical:
+  title: 竹醉日移竹
+  author: 李仁老
+  language: lzh
+  text: 古今一丘貉天地眞籧廬此君獨酩酊兀兀忘所如江山雖有異風景本無殊不用更醒悟操戈便逐儒司馬甞客遊夫子亦旅寓新亭相對泣數子眞兒女此君恥匏繫所適天不阻何必登樓吟信美非吾土
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 竹醉日移竹
+  author: 李仁老
+  language: lzh
+  text: 古今一丘貉。天地眞籧廬。此君獨酩酊。兀兀忘所如。江山雖有異。風景本無殊。不用更醒悟。操戈便逐儒。司馬甞客遊。夫子亦旅寓。新亭相對泣。數子眞兒女。此君恥匏繫。所適天不阻。何必登樓吟。信美非吾土。
+korean:
+  title: 죽취일에 대를 옮겨 심으면서
+  author: 이인로
+  language: kor
+  text: |-
+    예와 지금은 한 언덕의 담비요
+    하늘과 땅은 진정 여관집이로다
+    차군(대[竹]) 홀로 취하여
+    정신 없이 어디로 가는지 모르네
+    강산은 비록 변했지마는
+    풍경은 예와 다름없다
+    다시 술에서 깨어날 필요없으니
+    창을 들고서 술 못 먹게 하는 도학자를 쫓으리라
+    사마천도 일찍 먼 데 놀았고
+    공자도 또한 나그네 되었었네
+    신정에서 마주 대해 울었거니
+    그들은 실로 아녀 같았네
+    차군 박처럼 매달려 있어 부끄러워하여
+    어디 가도 하늘이 막지 못하네
+    구태어 누에 올라
+    실로 아름다우나 내 땅이 아니다고 읊조릴 것 없느니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 죽취일 : '
+    value: 죽미일(竹迷日)이라 하는데, 5월 13일 이날 대를 옲겨 심으면 무성하게 잘 자란다고 한다.
+  - key: '[주-D002] 예와 지금은 한 언덕의 담비[丘貂]요 : '
+    value: 한(漢)나라 양운(揚惲)이 말하기를, “진(秦)나라가 충량(忠良)한 신하를 죽여서 멸망하더니, 예와 지금이 한 언덕에 사는 담비와 같다.” 하였다.
+  - key: '[주-D003] 사마천도 …… 되었었네 : '
+    value: 사마천은 20세 때 강호(江湖)를 주유(周遊)하였고, 공자는 늘 타국에 손[客]으로 돌아다녔다.
+  - key: '[주-D004] 신정(新亭)에서 …… 울었거니 : '
+    value: 진(晉)나라는 외래 민족에게 중원(中原)을 빼앗기고 강동(江東)으로 옮겨 갔는데, 하루는 여러 사람들이 신정(新亭)에 나와 놀다가 술이 거나하게 취하자, “산하(山河)는 다르지 않으나 풍경이 예와 다르다.” 하면서 서로 보고 울었다.
+  - key: '[주-D005] 박[匏]처럼 매달려 있어 : '
+    value: 공자(孔子)가 불힐(佛肹)의 부름을 받고 가려 하니, 자로(子路)가 말리었다. 공자가 말하기를, “내가 어찌 박[匏]이나 오이[苽]냐. 한 군데 매여 살게.” 하였다.
+  - key: '[주-D006] 실로 …… 아니다 : '
+    value: 한(漢)나라 왕찬(王粲)이 난세를 만나서 고향을 떠나 형주(荊州)로 가서 유표(劉表)에게 의탁하고 있을 때에 누(樓)에 올라 부(賦)를 짓되, “비록 실로 아름다우나 내 고장이 아니니 조금인들 머무르랴.” 한 구절이 있다.
+english:
+  title: Planting Bamboo on the Day of Bamboo's Intoxication
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Past and present are but badgers on a single hill,
+    Heaven and earth are truly a wayside inn.
+    This gentleman alone lies drunk,
+    Wandering senseless, forgetting whither he goes.
+
+    Though mountains and rivers have changed their face,
+    The wind and scenes remain as they were.
+    Why wake from such sweet intoxication?
+    Let us take up arms and chase away the moralizing scholars!
+
+    Sima Qian once wandered distant lands,
+    Confucius too was ever a traveling guest.
+    At New Pavilion they wept facing one another—
+    Those sages were but sentimental as women.
+
+    This gentleman, like a gourd, refuses to hang bound in shame.
+    Wherever he goes, heaven cannot bar his way.
+    Why climb the tower and compose verses,
+    Saying though the land is fair, it is not mine own?
+  footnotes:
+  - key: ''
+    value: This poem plays on the traditional auspiciousness of transplanting bamboo on the fifth lunar month, a day considered especially favorable for the bamboo's thriving growth.
+  - key: ''
+    value: The opening allusion references Yang Yun's observation that just as badgers of past and present inhabit the same hill, so too do the virtuous and corrupt of different ages.
+  - key: ''
+    value: The reference to New Pavilion recalls when Jin dynasty nobles, having lost their homeland to foreign conquest, wept at the pavilion over the unchanging beauty of a landscape they could no longer call their own.
+  - key: ''
+    value: 'The poet invokes Confucius''s famous response to being called away: ''Am I a gourd to be hung immobilized? I shall go where I am needed,'' affirming that a noble spirit cannot be bound to one place.'

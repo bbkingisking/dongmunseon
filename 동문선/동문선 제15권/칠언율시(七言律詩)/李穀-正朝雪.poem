@@ -1,0 +1,47 @@
+canonical:
+  title: 正朝雪
+  author: 李穀
+  language: lzh
+  text: 雪從除夜到正朝旋入春風不禁消扇影未分雙闕仗靴聲早集五門橋從敎賀列朝衣濕好傍昭容舞袖飄便是新年多瑞氣願隨椒酒進民謠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 正朝雪
+  author: 李穀
+  language: lzh
+  text: 雪從除夜到正朝。旋入春風不禁消。扇影未分雙闕仗。靴聲早集五門橋。從敎賀列朝衣濕。好傍昭容舞袖飄。便是新年多瑞氣。願隨椒酒進民謠。
+korean:
+  title: 정조설
+  author: 이곡
+  language: kor
+  text: |-
+    제야에 내린 눈이 설날 아침까지 이르러
+    불어오는 새 봄바람에 어쩔 수 없이 녹는구나
+    쌍궐의 의장은 그림자도 희미한데
+    오문 다리엔 가죽신 소리 벌써 들리네
+    늘어선 하정 반열의 조회에 옷이야 젖어도
+    춤추는 궁인들의 소매에 어울리리
+    금년 새해엔 진작 서기 많사오니
+    초주(초백주(椒柏酒))를 가득 드리며 민요 함께 바치과저
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0710&viewSync=OT
+  footnotes: []
+english:
+  title: Snow on New Year's Day
+  author: Lee Gok
+  language: eng
+  text: |-
+    Snow falls through the last night of the year and reaches New Year's dawn,
+    Only to melt away helpless beneath the breath of spring wind.
+    The twin palace gates grow dim in shadow,
+    Yet leather boots already echo across the Five Gate Bridge.
+    Let the officials' robes grow wet in the morning audience—
+    It suits the dancing sleeves of court ladies swaying.
+    Since this new year brings such auspicious signs,
+    I offer spiced wine and folk songs for all the people.
+  footnotes:
+  - key: ''
+    value: The Five Gate Bridge (五門橋) refers to the main approaches to the royal palace where official ceremonies took place.
+  - key: ''
+    value: The 'spiced wine' (椒柏酒) was traditionally made with pepper and cypress leaves, a ceremonial drink offered during New Year celebrations.
+  - key: ''
+    value: The poem contrasts the melting snow—a harbinger of spring—with the formal New Year court ceremony, suggesting both the natural renewal of seasons and the human rituals of governance.

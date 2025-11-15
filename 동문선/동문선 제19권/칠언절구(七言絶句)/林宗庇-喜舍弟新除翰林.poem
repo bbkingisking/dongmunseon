@@ -1,0 +1,37 @@
+canonical:
+  title: 喜舍弟新除翰林
+  author: 林宗庇
+  language: lzh
+  text: 鴈行聯拜玉堂春屈指于今有幾人想得八花甎上過傾朝應羨寵光新
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 喜舍弟新除翰林
+  author: 林宗庇
+  language: lzh
+  text: 鴈行聯拜玉堂春。屈指于今有幾人。想得八花甎上過。傾朝應羨寵光新。
+korean:
+  title: 아우가 새로 한림이 된 것을 기뻐하며
+  author: 임종비
+  language: kor
+  text: |-
+    형제가 연달아 옥당의 봄을 누린 이
+    손꼽아 지금까지 몇 사람인고
+    상상컨대 화전(花甎)을 지날 적마다
+    온 조정이 응당 임금 은혜 새로움을 부러워하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화전(花甎) : '
+    value: 당나라 때에 한림원(翰林院) 뜰에 꽃무늬 벽돌을 깔았다.
+english:
+  title: Joy at My Younger Brother's New Appointment to the Hanlin Academy
+  author: Im Jong-bi
+  language: eng
+  text: |-
+    Brothers in succession now ascend the Jade Hall of spring—
+    How few through all the ages have known such fortune's twin.
+    When passing by the flowered tiles of that storied court,
+    The whole realm gazes on, envying heaven's new-bestowed accord.
+  footnotes:
+  - key: ''
+    value: The Jade Hall (玉堂) refers to the Hanlin Academy, an elite imperial institution. The 'flowered tiles' allude to the patterned brick courtyard of the Tang dynasty Hanlin Academy, evoking both the prestige of that ancient institution and the rarity of brothers serving together in such distinguished posts.

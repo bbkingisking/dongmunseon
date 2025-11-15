@@ -1,0 +1,65 @@
+canonical:
+  title: 黃山歌
+  author: 鄭誧
+  language: lzh
+  text: 過雨霏霏濕江樹薄雲洩洩凝晴光黃山江深不可渡回望百里雲茫茫江頭兒女美無度臨流欲濟行彷徨鳴鳩乳燕春日暮落花飛絮春風香招招舟子來何所掛帆却下魚山莊問之與我同去路遂與共坐船中央也知羅敷自有夫恠厎笑語何輕狂藐然不願黃金贈目送江岸雙鴛鴦君乎艤舟我豈留我友政待黃茅岡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 黃山歌
+  author: 鄭誧
+  language: lzh
+  text: 過雨霏霏濕江樹。薄雲洩洩凝晴光。黃山江深不可渡。回望百里雲茫茫。江頭兒女美無度。臨流欲濟行彷徨。鳴鳩乳燕春日暮。落花飛絮春風香。招招舟子來何所。掛帆却下魚山莊。問之與我同去路。遂與共坐船中央。也知羅敷自有夫。恠厎笑語何輕狂。藐然不願黃金贈。目送江岸雙鴛鴦。君乎艤舟我豈留。我友政待黃茅岡。
+korean:
+  title: 황산가
+  author: 정포
+  language: kor
+  text: |-
+    지나는 비 부슬부슬 강 나무 젖고
+    얇은 구름 띄엄띄엄 햇빛 머금네
+    황산강이 깊으니 건널 수 없어
+    돌아보니 백 리에 구름만 아득하다
+    강 머리에 고운 여자
+    이 물 건너려고 두리번거리네
+    우는 비둘기, 새끼 가진 제비, 봄날은 저물고
+    낙화와 날으는 버들가지 봄바람에 향기롭다
+    뱃사공 불러보니 어디서 오느냐고
+    돛 달고 곧 어산장 내려오네
+    물으니 그 여자 갈 길이 나와 같기에
+    드디어 배 복판에 나란히 앉다
+    나부는 스스로 남편 있을 줄 아는데
+    웃는 모습, 말씨 왜 그리 가볍고 방정맞은고
+    황금으로 선물 줄 생각 없고
+    강 언덕에 한 쌍 원앙새를 눈여겨 본다
+    그대여 배 대어라, 내 어찌 머무르랴
+    내 친구는 진정 황모강에서 기다리니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 나부(羅敷)는 …… 아는데 : '
+    value: 진(秦)나라 여자 나부(羅敷)가 들에서 뽕을 따는데 관원이 지나다가 황금 선물 주겠다고 유혹하였으나 거절하기를, “사또님은 아내가 있고 나부는 남편이 있습니다[使君自有婦羅敷自有夫].” 하였다.
+english:
+  title: Song of Yellow Mountain
+  author: Jeong Po
+  language: eng
+  text: |-
+    Past the rain, fine and drifting, the river trees are soaked.
+    Thin clouds drift apart, holding the bright sunlight.
+    Yellow Mountain's river runs deep—impossible to ford.
+    Turning back, a hundred miles fade into clouded distances.
+    By the river's edge, a maiden of surpassing beauty
+    stands hesitant, yearning to cross the flowing water.
+    The pigeon cries, the swallow tends her young—spring day grows late.
+    Falling blossoms and floating willow down drift fragrant on the spring wind.
+    I call to the boatman: "Where do you come from?"
+    With sail raised, he descends toward Fish Mountain Village.
+    Asking the maiden, I find she travels the same path as I.
+    So we sit together in the center of the boat.
+    She knows, as Luo Fu knew, that she has a husband.
+    Yet her smile, her words—why are they so light, so unguarded?
+    Unwilling to accept gifts of gold,
+    she watches instead the pair of mandarin ducks upon the river shore.
+    You there, bring the boat to shore—how could I linger?
+    My friend waits for me truly at Yellow Thatch Ridge.
+  footnotes:
+  - key: ''
+    value: The reference to Luo Fu alludes to a famous tale from ancient China where the beautiful maiden Luo Fu refuses a magistrate's advances, stating that both he and she already have spouses. The poet uses this allusion to suggest the maiden's virtuous character despite her seemingly carefree manner.

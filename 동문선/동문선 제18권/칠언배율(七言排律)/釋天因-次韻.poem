@@ -1,0 +1,79 @@
+canonical:
+  title: 次韻
+  author: 釋天因
+  language: lzh
+  text: 久聞身世兩都忘飽得禪門氣味長東請幾時甘粉骨南詢此日再遊方皇州應厭風塵擾江國還思橘抽香斥鷃一枝聊適性冥鴻千里好隨陽已知榮辱多飜覆不用機籌巧度量萍迹隨波元不住雲心戀岫更何忙珠迴妙唱驚投暗冰釋窂愁似灌湯萬事空華纔過眼百年歸客又催裝多君獨向煙霞老素抱難迴鐵石膓靖退空閑猶小節好從佳處早開塲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻
+  author: 釋天因
+  language: lzh
+  text: 久聞身世兩都忘。飽得禪門氣味長。東請幾時甘粉骨。南詢此日再遊方。皇州應厭風塵擾。江國還思橘抽香。斥鷃一枝聊適性。冥鴻千里好隨陽。已知榮辱多飜覆。不用機籌巧度量。萍迹隨波元不住。雲心戀岫更何忙。珠迴妙唱驚投暗。冰釋窂愁似灌湯。萬事空華纔過眼。百年歸客又催裝。多君獨向煙霞老。素抱難迴鐵石膓。靖退空閑猶小節。好從佳處早開塲。
+korean:
+  title: 홍영상인이 시를 주기로 차운
+  author: 석천인
+  language: kor
+  text: |-
+    들으니 오래 전부터 몸과 세상 다 잊어서
+    선문의 무궁한 재미를 톡톡히 맛보다가
+    동으로 초청되어 분골쇄신 애쓰고
+    남녘으로 순방코자 먼 길 다시 떠났다고
+    황도에서는 시끄러운 풍진을 싫어하여
+    강국의 향기로운 귤과 유자를 생각하리
+    메추리는 한 가지로 성정에 맞고
+    하늘 가 기러기 천리에 양기 좇아 가는군
+    영욕이 번복 많음을 익히 알았나니
+    교묘한 계책은 내어서 무엇하리
+    부평초는 물결 따라 머무르지 않는데
+    구름은 산을 그리는데 왜 다시 바쁘랴
+    묘한 시는 어둠에 야광주처럼 놀라게 하니
+    불평 시름이 끓는 물에 얼음 녹는 듯
+    만사는 허공의 꽃 눈에 잠깐 스치고
+    백 년의 돌아갈 손은 어서 행장 재촉하네
+    갸륵할손 그대는 연하 속에 늙으며
+    안 돌리네 그 소지 철석 같은 그 심장
+    물러나 한가히 삶은 외려 작은 일이니
+    좋은 산수 찾아서 얼른 도량 여시오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 메추리는 한 가지 : '
+    value: 대붕(大鵬)이 9만 리를 날아 남쪽으로 옮아감을 가지 사이로 팔짝팔짝 나는 조그만 새[斥鷃]가 웃으며 나는 한 가지[一枝]로도 족하다 하였다. 《莊子》
+  - key: '[주-D002] 묘한 시는 …… 하니 : '
+    value: 추양(鄒陽)의 글에, “야광주(夜光珠)를 밤에 갑작스레 남의 앞에 던지면 보배인 줄 모르고 놀래어 칼을 뺀다.” 하였다.
+  - key: '[주-D001] 抽 : '
+    value: 柚
+english:
+  title: In Response to Hong Yeong-sang's Poem
+  author: Seok Cheon-in
+  language: eng
+  text: |-
+    Long have I heard he forgot both self and world,
+    Tasting the endless delight of the Dharma gate.
+    Called eastward, he labors to break his bones and scatter his body,
+    Turning south again, he travels far to wander the realm.
+
+    In the imperial capital, weary of dust and tumult,
+    He remembers the fragrant citrus of the river lands.
+    The quail is content with a single branch,
+    The wild goose follows the sun a thousand miles.
+
+    He knows well that glory and shame forever turn and overturn—
+    Why deploy cunning schemes to measure and reckon?
+    Duckweed traces drift with the current, never staying,
+    Cloud-heart yearns for peaks—why then the hurry?
+
+    Wondrous verses shine like jewels in the dark,
+    Heavy sorrows melt like ice in boiling water.
+    All things are but flowers of emptiness, glimpsed then gone,
+    A hundred years of returning guests rush to pack.
+
+    Rare indeed, you grow old in mist and rosy clouds,
+    Your steadfast heart will not turn, hard as iron and stone.
+    To withdraw in stillness is only a minor practice—
+    Go find that beautiful place and open wide the gate.
+  footnotes:
+  - key: ''
+    value: 'The quail with a single branch: An allusion to the Zhuangzi, where the small quail (斥鷃) mocks the great roc''s journey of ninety thousand miles, content to fly one branch at a time.'
+  - key: ''
+    value: 'Jewels shining in darkness: Referencing a passage where luminous pearls suddenly thrown before someone at night cause alarm, as their value is not recognized at first—here representing how extraordinary verse reveals itself suddenly to perception.'

@@ -1,0 +1,40 @@
+canonical:
+  title: 遊西溪
+  author: 安琛
+  language: lzh
+  text: 散策斷橋西尋詩春水渚物情爾自如老境吾誰與岸草坐王孫溪風迎小女幽探到暝烟還共沙禽語
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊西溪
+  author: 安琛
+  language: lzh
+  text: 散策斷橋西。尋詩春水渚。物情爾自如。老境吾誰與。岸草坐王孫。溪風迎小女。幽探到暝烟。還共沙禽語。
+korean:
+  title: 유 서 계
+  author: 안침
+  language: kor
+  text: |-
+    끊어진 다리 서쪽에 산책하면서
+    봄날 불가에 시를 찾네
+    자연아, 너는 그대로다마는
+    늙은 나는 노경에 누구와 놀꼬
+    언덕 풀위에 앉은 왕손들
+    시냇 바람은 소녀를 맞아주는구나
+    저녁 때까지 경치를 완상타가
+    물새들과 함께 이야기하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: Wandering at Western Creek
+  author: An Chim
+  language: eng
+  text: |-
+    I stroll west of the broken bridge,
+    seeking poems in the spring water's shallows.
+    Nature, you remain ever constant—
+    but I, grown old, have no one to share this twilight with.
+    Young nobles rest upon the grassy banks,
+    while the creek breeze greets the maidens.
+    Exploring beauty until dusk's mist descends,
+    I converse with the waterbirds.

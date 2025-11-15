@@ -1,0 +1,49 @@
+canonical:
+  title: 遁村
+  author: 金九容
+  language: lzh
+  text: 百年春夢倚南柯一陣新涼感歲華風月有期長作伴乾坤乘興卽爲家李侯不悟倉中鼠杜簿猶疑盞底蛇從此共成眞隱遁莫將虛譽向人誇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遁村
+  author: 金九容
+  language: lzh
+  text: 百年春夢倚南柯。一陣新涼感歲華。風月有期長作伴。乾坤乘興卽爲家。李侯不悟倉中鼠。杜簿猶疑盞底蛇。從此共成眞隱遁。莫將虛譽向人誇。
+korean:
+  title: 둔촌
+  author: 김구용
+  language: kor
+  text: |-
+    인생 백 년을 봄날의 꿈으로 여겼더니
+    서늘바람 불어오니 가는 세월 느껴웁구나
+    때를 맞춰 풍월은 늘 벗이 되어주고
+    흥 곧 나면 천지가 곧 내 집일세
+    이후는 곳간 속의 쥐를 못 깨달았고
+    두부는 잔 밑의 뱀까지 의심했네
+    이제부터 함께 정작 은자가 되세나
+    허예를 사람들에게 자랑하지 말고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_1000&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이후(李侯)는 …… 못 깨달았고 : '
+    value: 이사(李斯)는 초(楚)나라 사람인데 일찍이 고향에서 소리(小吏)로 있다가 칙간[厠]에 들어가서 똥을 먹는 쥐를 보고는 탄식하기를, “이 쥐가 이 더러운 데 있지 않고 나라의 쌀창고에 살았더라면 얼마나 편하고 배부를 것인가. 사람도 이와 같다.” 하고는 곧 진(秦)나라에 들어가서 승상(丞相)이 되어 부귀를 누리다가 필경에 혹독한 형벌을 받아 죽었다. 여기서는 부귀가 화(禍)가 될 줄 깨닫지 못하였다는 뜻이다.
+  - key: '[주-D002] 두부(杜簿)는 …… 의심했네 : '
+    value: 응침(應郴)이 주부(主簿) 두선(杜宣)을 술자리에 초청했는데, 두(杜)가 보니 술잔 속에 뱀이 있는지라, 마시지 못하고 돌아가 병이 났다. 뒤에 바로 그 자리에 술자리를 다시 베풀고 보니, 뱀은 활[弩] 그림자였으므로 두의 병이 나았다. 《風俗通》 진(晋) 악광(樂廣)과 그의 친객 간에도 같은 이야기가 전한다. 《晋書 樂廣傳》
+english:
+  title: The Hermitage
+  author: Kim Gu-yong
+  language: eng
+  text: |-
+    A hundred years of life, but a spring dream beneath the parasol tree—
+    when the cool wind arrives, I feel the passing years.
+    Wind and moon keep their appointed time, forever my companions,
+    and heaven-and-earth become my home whenever interest stirs.
+    Li Hou never understood the rat in the granary,
+    while Du the clerk still doubts the serpent at the cup's bottom.
+    Henceforth let us both become true hermits together—
+    and boast not of hollow fame to those we meet.
+  footnotes:
+  - key: ''
+    value: Li Hou alludes to Li Si, who once saw rats eating waste in a privy and lamented that they would be comfortable in the state's granary. He took this as wisdom for advancement, became Prime Minister of Qin, and gained great wealth—only to meet a terrible fate. The poem suggests he failed to recognize that rank and riches can be the source of misfortune.
+  - key: ''
+    value: Du the clerk refers to Du Xuan, who saw what he believed was a serpent in his wine cup and fell ill from worry. When he later discovered it was merely the shadow of a crossbow hanging on the wall, his illness vanished. The poem uses this as an image of baseless anxiety born from misperception.

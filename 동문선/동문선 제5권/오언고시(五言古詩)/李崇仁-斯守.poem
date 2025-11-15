@@ -1,0 +1,59 @@
+canonical:
+  title: 斯守
+  author: 李崇仁
+  language: lzh
+  text: 玉衡指南陸薰風吹我衣徘徊登高原悠悠勞我思浮雲日夕征問君將安歸丈夫意有在不作兒女悲人生非參啇會合諒無疑但願崇令德功名惜芳時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 斯守
+  author: 李崇仁
+  language: lzh
+  text: 玉衡指南陸。薰風吹我衣。徘徊登高原。悠悠勞我思。浮雲日夕征。問君將安歸。丈夫意有在。不作兒女悲。人生非參啇。會合諒無疑。但願崇令德。功名惜芳時。
+korean:
+  title: 설부보 이름은 사수
+  author: 이숭인
+  language: kor
+  text: |-
+    옥형이 남쪽을 가리키니
+    훈훈한 바람이 내 옷에 부누나
+    배회하여 높은 언덕에 오르니
+    멀고 아득하여 내 생각 괴롭도다
+    뜬 구름은 낮과 저녁으로 가는데
+    묻노니 그대는 장차 어디로 가려는가
+    장부의 뜻 두는 데가 있거니
+    아녀의 슬픔은 짓지 않으련다
+    인생은 삼성 상성이 아니거니
+    다시 만날 것 의심이 없어라
+    다만 원하노니 아름다운 덕을 높일 것을
+    공명은 젊은 시절을 아끼노니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 부보(符寶) : '
+    value: 부보랑(符寶郞)을 말하는데, 고려시대 왕부(王府)의 인신(印信)을 맡아보던 벼슬이다.
+english:
+  title: On Serving as Keeper of the Seal
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    The jade handle points toward the south—
+    the fragrant wind brushes against my robes.
+    I wander and climb the high hills,
+    and my thoughts grow distant and weary.
+    Floating clouds journey through daylight and dusk;
+    I ask you, where do you mean to go?
+
+    A man's resolve is set on something real—
+    he will not indulge in womanish sorrow.
+    Life is not like the three stars in their dance,
+    and surely our meeting again holds no doubt.
+
+    I only wish to elevate noble virtue,
+    and guard the promise of my youthful days.
+  footnotes:
+  - key: ''
+    value: The 'keeper of the seal' (符寶郞) was a court official during the Goryeo period responsible for safeguarding the royal seals and documents.
+  - key: ''
+    value: The three stars refer to a legend of celestial separation and reunion, suggesting the speaker's belief in inevitable reunion despite parting.
+  - key: ''
+    value: The jade handle (玉衡) traditionally refers to the handle of official seals or the pivotal star in the celestial sphere.

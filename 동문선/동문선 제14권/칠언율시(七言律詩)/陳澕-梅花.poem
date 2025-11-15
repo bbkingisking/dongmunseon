@@ -1,0 +1,46 @@
+canonical:
+  title: 梅花
+  author: 陳澕
+  language: lzh
+  text: 東君試手染群芳先點寒梅作澹粧玉頰愛含春意淺縞裙偏許月華涼數枝猶對撩人艷一片微迴逐馬香正似淸溪看踈影只愁桃李未升堂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 梅花
+  author: 陳澕
+  language: lzh
+  text: 東君試手染群芳。先點寒梅作澹粧。玉頰愛含春意淺。縞裙偏許月華涼。數枝猶對撩人艷。一片微迴逐馬香。正似淸溪看踈影。只愁桃李未升堂。
+korean:
+  title: 매화
+  author: 진화
+  language: kor
+  text: |-
+    동군(봄을 맡은 신(神))이 시험삼아 뭇 꽃을 물들일 제
+    먼저 매화를 점찍어 말쑥히 단장했구나
+    옥 같은 뺨에 봄뜻을 살짝 머금어 있고
+    흰 치마에 달빛이 싸늘히 담겨 있네
+    몇 가질 대하니 사람의 맘 고이 흔들리고
+    한 조각이 떨어져 말을 좇아 향기롭구나
+    청계에서 생긴 그림자를 보는 듯
+    도리화 당에 못 오를까 걱정되네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청계(淸溪)에서 …… 보는 듯 : '
+    value: 송나라 임포(林逋)의 매화시(梅花詩)에, “성긴 그림자 비꼈으매 물이 맑고 얕다[疏影橫斜水淸淺].”란 귀절이 유명하다.
+english:
+  title: Plum Blossoms
+  author: Chen Hua
+  language: eng
+  text: |-
+    Spring's lord tries his hand at painting flowers anew—
+    First he marks the plum blossom with delicate grace.
+    Jade cheeks hold but a whisper of spring's tender meaning,
+    White robes chill beneath the moon's cool light.
+
+    A few branches stir the heart with their artless beauty,
+    A single petal drifts, perfuming the horse's path.
+    Like scattered shadows glimpsed in a clear stream's mirror,
+    I fear the peach and cherry have not yet graced the hall.
+  footnotes:
+  - key: ''
+    value: 'The final couplet alludes to the celebrated lines from Lin Bu''s Plum Blossom poem: ''Sparse shadows slant across the clear, shallow water''—a classical evocation of the plum''s elegant, understated beauty.'

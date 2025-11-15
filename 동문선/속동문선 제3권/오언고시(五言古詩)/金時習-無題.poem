@@ -1,0 +1,78 @@
+canonical:
+  title: 無題
+  author: 金時習
+  language: lzh
+  text: 大雅久不作王道日以靡聖人縱復起濩落無所施尼父攻異端孟軻闢楊墨滔滔天下士駸駸而汩沒紛紛競取利仁義消蟊賊鳳兮何德衰麟也西狩獲煕煕揖讓秋邈矣難可復豈獨聖人憂蒸黎何由則
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無題
+  author: 金時習
+  language: lzh
+  text: 大雅久不作。王道日以靡。聖人縱復起。濩落無所施。尼父攻異端。孟軻闢楊墨。滔滔天下士。駸駸而汩沒。紛紛競取利。仁義消蟊賊。鳳兮何德衰。麟也西狩獲。煕煕揖讓秋。邈矣難可復。豈獨聖人憂。蒸黎何由則。
+korean:
+  title: 무제
+  author: 김시습
+  language: kor
+  text: |-
+    대아가 오래 일지 않아
+    왕도가 날로 쓰러져가니
+    성인이 비록 다시 일어난들
+    휑하여 손 쓸 길이 없으리
+    공자가 이단을 공격하고
+    맹자가 양묵을 배척했어도
+    도도한 천하의 선비들은
+    점차로 빠져들어가
+    분분히 다투어 이를 취하니
+    인의가 무적에게 녹아지네
+    봉이여, 어찌 덕이 쇠한고
+    기린이 서수에 잡히고나니
+    희희한 저 읍양의 때는
+    아득하여 다시 화복하기 어렵네
+    어찌 다만 성인만의 근심일건가
+    만 백성들 무엇으로 준칙 삼으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대아(大雅)가 …… 않아 : '
+    value: 첫귀는 이백(李白)의 시다, 대아(大雅)는 시경 중에 있는 가장 전아(典雅)한 귤인데, 왕도(王道)의 융성함을 노래한 시이다. 대개가 주공(周公)이 지은 것이다.
+  - key: '[주-D002] 양묵(楊墨) : '
+    value: 양자(楊子)는 자아(自我)를 위하는 주의로서 한 털을 뽑아서 천하를 이롭게 할 수 있어도 아니하고, 묵자(墨子)는 겸애(兼愛 박애(博愛))하는 주의로서 몸을 죽여서라도 천하를 이롭게 할 수 있으면 한다는 것이다.
+  - key: '[주-D003] 봉(鳳)이여 …… 쇠한고 : '
+    value: 《논어》에, “접여(接輿)가 공자 앞을 지내 가며 노래 부르기를, ‘봉이여, 봉이여, 어찌 덕이 쇠한고.’ 하였다.” 했다.
+  - key: '[주-D004] 기린(麒麟)이 …… 잡히고나니 : '
+    value: 공자의 만년에 노(魯)나라 숙손씨(叔孫氏)가 서쪽으로 사냥하다가 기린(麒麟)을 잡아 죽이니, 공자가 보고 울고는 춘추짓던 것을 끝내었다. 그것은 상서로운 짐승인 기린이 성인(聖人)없는 때에 잘못 나와서 불행하게 되었다는 뜻이다.
+  - key: '[주-D005] 읍양(揖讓) : '
+    value: 요(堯)가 순(舜)에게 천하를 사양했고, 순(舜)이 우(禹)에게 천하를 사양하였다는 것이다.
+english:
+  title: Untitled
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    The Great Odes have long fallen silent,
+    and the Way of Kings crumbles day by day.
+    Even should the sage arise once more,
+    he finds only emptiness—no place to act.
+
+    Confucius attacked heterodoxy,
+    Mencius rejected Yang and Mo,
+    yet the scholars of all under Heaven,
+    steadily drift and disappear.
+    They scramble and contend for gain,
+    while Humanity and Righteousness dissolve like snow.
+
+    Phoenix, how has your virtue declined?
+    The Qilin was slain in the western hunt.
+    That ancient age of courteous yielding,
+    how distant—impossible to restore.
+
+    Is this sorrow the sage's alone?
+    What standard shall the common people follow?
+  footnotes:
+  - key: ''
+    value: 'The opening echoes Li Bai: the ''Great Odes'' refers to the most refined section of the Book of Poetry, traditionally celebrating the flourishing of virtuous rule under the Zhou Duke.'
+  - key: ''
+    value: Yang and Mo represent two ancient philosophical schools—Yangism emphasizing individual welfare, Mohism advocating universal love—both rejected by Confucian orthodoxy.
+  - key: ''
+    value: The Phoenix and Qilin are auspicious creatures in Chinese lore; their misfortune symbolizes the absence of sage-kings and the corruption of the age.
+  - key: ''
+    value: The 'courteous yielding' (yijing) references the legendary sage-kings Yao and Shun, who voluntarily passed their thrones to worthy successors—an ideal lost to history.

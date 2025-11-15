@@ -1,0 +1,70 @@
+canonical:
+  title: 有感
+  author: 姜淮伯
+  language: lzh
+  text: 蒼海無垠堮瀰漫天地閒其大固無外中有三神山扶桑倚天東可望不可攀蛟龍之窟穴黿鼉之所安誰能掣巨鼇使之安波瀾難可限南北九萬其鵬摶嗚呼皇王澤比則寬莫寬何如浴沂風舞雩翺翔羽儀朝天衢導踈壅遏淸人區
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 有感
+  author: 姜淮伯
+  language: lzh
+  text: 蒼海無垠堮。瀰漫天地閒。其大固無外。中有三神山。扶桑倚天東。可望不可攀。蛟龍之窟穴。黿鼉之所安。誰能掣巨鼇。使之安波瀾。難可限南北。九萬其鵬摶。嗚呼皇王澤。比則寬莫寬。何如浴沂風舞雩。翺翔羽儀朝天衢。導踈壅遏淸人區。
+korean:
+  title: 유감
+  author: 강회백
+  language: kor
+  text: |-
+    푸른 바다 가이 없어
+    천지간에 펼쳐졌다
+    크기는 바깥이 없는데
+    가운데는 삼신산이 있다
+    부상이 하늘 동쪽에 기댔으니
+    바라는 보아도 더위잡을 수 없다
+    교룡의 굴혈이요
+    자라가 사는 곳이로다
+    뉘 능히 큰 자라를 제어하여
+    저 파란을 안정시킬꼬
+    남북이 끝이 없는데
+    봉새가 9만 리에 날개를 친다
+    아아 황왕의 덕택이여
+    비교하면 더할 수 없이 너그럽도다
+    기수에 목욕하고 무우에 바람 쐬며
+    훨훨 날아 우의로 천구에 조회하며
+    막힌 것을 소통하여 인간 세상을 맑히는 것과 어떠하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: Upon Reflection
+  author: Kang Hwae-baek
+  language: eng
+  text: |-
+    The boundless azure sea
+    spills across heaven and earth.
+    Its vastness knows no limit,
+    yet within it lie the Three Blessed Mountains.
+    Fusan leans against the eastern sky—
+    visible to the eye, but beyond all grasping.
+    Dragons coil in their hidden grottos,
+    turtle-serpents make their dwelling.
+
+    Who could seize the great tortoise,
+    and still the waves?
+    North and south stretch without end,
+    while the great roc spreads its wings ninety thousand leagues.
+
+    Ah, the grace of sage-kings!
+    In comparison, nothing is more magnanimous.
+    To bathe in the river Yi, to dance in the Wind of Wu,
+    to soar with feathered splendor before the heavenly court,
+    to clear the channels of stagnation and purify the realm of man—
+    can such things compare?
+  footnotes:
+  - key: ''
+    value: The Three Blessed Mountains refer to legendary islands in Chinese mythology said to exist beyond the sea.
+  - key: ''
+    value: Fusan (Fusang) is a mythical sacred tree in the Far East of Chinese cosmology.
+  - key: ''
+    value: The 'great roc' (peng) references Zhuangzi's legendary bird that flies ninety thousand leagues.
+  - key: ''
+    value: Bathing in the river Yi and dancing in the Wind of Wu allude to Confucian sage ideals of harmony with nature and moral cultivation.

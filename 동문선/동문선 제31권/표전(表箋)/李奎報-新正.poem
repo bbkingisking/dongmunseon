@@ -1,0 +1,29 @@
+canonical:
+  title: 新正
+  author: 李奎報
+  language: lzh
+  text: 云云搏桑接境恭守職於漢藩行葦沐仁第輸忠於周室爰屬履新之旦益殫倍舊之誠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新正
+  author: 李奎報
+  language: lzh
+  text: 云云。搏桑接境。恭守職於漢藩。行葦沐仁。第輸忠於周室。爰屬履新之旦。益殫倍舊之誠。
+korean:
+  title: 신정
+  author: 이규보
+  language: kor
+  text: 운운(云云).부상(扶桑)과 접경(接境)한 곳에서 공손히 한(漢)나라 번방(藩邦)의 구실을 지키고, 행위(行葦)의 어진 덕에 젖어 다만 주실(周室)에 충성을 다하였습니다. 이제 새해의 아침을 당하여 더욱 옛날보다 곱절로 충성을 다하겠나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0550&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 행위(行葦) : '
+    value: 《시경》 대아 편명, 주나라 왕실의 충후(忠厚)함을 읊은 시.
+english:
+  title: New Year's Day
+  author: Lee Gyubo
+  language: eng
+  text: In this land that borders the sacred East, I humbly discharge my duty as a vassal of Han. Bathed in the benevolence of those virtuous reeds, I pledge my loyalty to the Zhou throne. Now, as dawn breaks on this new year, I commit myself with redoubled devotion, surpassing all former earnestness.
+  footnotes:
+  - key: ''
+    value: The 'virtuous reeds' reference alludes to a poem from the Book of Songs celebrating the loyalty and goodness of the Zhou royal house, invoking a classical ideal of faithful service.

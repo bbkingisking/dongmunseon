@@ -1,0 +1,31 @@
+canonical:
+  title: 賀皇太子千秋起居箋
+  author: 李穡
+  language: lzh
+  text: 侍書鶴禁偏承優渥之恩守履鯷岑恒切康寧之祝玆逢令旦益罄微忱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀皇太子千秋起居箋
+  author: 李穡
+  language: lzh
+  text: 侍書鶴禁。偏承優渥之恩。守履鯷岑。恒切康寧之祝。玆逢令旦。益罄微忱。
+korean:
+  title: 황태자의 천추를 하례하는 기거 전
+  author: 이색
+  language: kor
+  text: 학금(鶴禁)의 시서(侍書)로서 우악(優渥)한 은총을 도맡아 받자옵다가, 제잠(鯷岑)에 직책을 지키면서 강녕(康寧)하옵소서의 축원이 항상 간절하였습니다. 이제 가신(佳辰)을 당하와 더욱 미침(微沈)을 다하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0320&viewSync=OT
+  footnotes: []
+english:
+  title: A Congratulatory Note on the Thousandth Day Celebrations of the Crown Prince
+  author: Lee Saek
+  language: eng
+  text: As a court attendant in the Crane Pavilion, I have been blessed to receive such abundant favor and grace. While holding my post in humble service, my fervent prayers for Your Highness's health and longevity remain ever constant. Now, as this auspicious day arrives, I offer forth the sincerity of my heart without reservation.
+  footnotes:
+  - key: ''
+    value: The 'Crane Pavilion' (鶴禁) refers to the imperial library or court archives, a prestigious position.
+  - key: ''
+    value: The 'thousandth day' (千秋) was a traditional celebration marking significant anniversaries, often used as an auspicious occasion for formal congratulations.
+  - key: ''
+    value: The imagery of the crane and wishes for 'health and longevity' (康寧) draw on classical Chinese symbolism of longevity and good fortune.

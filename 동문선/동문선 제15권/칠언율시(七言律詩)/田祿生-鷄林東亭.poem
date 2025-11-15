@@ -1,0 +1,48 @@
+canonical:
+  title: 鷄林東亭
+  author: 田祿生
+  language: lzh
+  text: 終日昏昏簿領閒偶因迎客出郊關俯看逝水歎流景坐對靑山多厚顔半月城空江月白孤雲仙去野雲閑更尋陶令歸來賦千載高風未易攀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鷄林東亭
+  author: 田祿生
+  language: lzh
+  text: 終日昏昏簿領閒。偶因迎客出郊關。俯看逝水歎流景。坐對靑山多厚顔。半月城空江月白。孤雲仙去野雲閑。更尋陶令歸來賦。千載高風未易攀。
+korean:
+  title: 계림동정
+  author: 전녹생
+  language: kor
+  text: |-
+    공문서 더미 속에 온 하루를 정신없이 보내다가
+    우연히 손 맞으러 성밖에 나왔네
+    가는 물을 굽어보며 흐르는 세월 탄식하고
+    청산을 마주 대하니 내 얼굴 부끄러워라
+    반월성 비었는데 강달만 희고
+    고운선이 간 뒤에 들구름이 한가하구나
+    다시금 도연명의 귀거래사를 읊어 보노니
+    천고에 그 높은 풍을 뉘라서 따르리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0880&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고운선(孤雲仙) : '
+    value: 고운(孤雲)은 최치원(崔致遠)의 호인데, 그가 신선이 되어 갔다는 전설이 있다.
+english:
+  title: The Eastern Pavilion of Gyerim
+  author: Jeon Nok-saeng
+  language: eng
+  text: |-
+    Lost all day in dusty ledgers and endless forms,
+    I stole away beyond the city walls to greet a visiting friend.
+    Gazing down at flowing waters, I sigh at time's swift passage—
+    Facing green mountains, my face burns with shame.
+
+    Half-moon fortress emptied, yet the river gleams white with moonlight,
+    After the wandering cloud departed, wild clouds drift in leisure.
+    Once more I recite the Return to the Garden of Tao Yuanming,
+    Yet in ten thousand ages, who can climb to reach such heights?
+  footnotes:
+  - key: ''
+    value: The 'wandering cloud' (고운선) refers to Choi Chi-won (崔致遠), a great Silla scholar and poet who adopted the pen name 'Solitary Cloud.' Legend tells he became an immortal and departed this world.
+  - key: ''
+    value: The 'Return to the Garden' (歸去來辭) is a celebrated poem by the Chinese poet Tao Yuanming, celebrating retirement from bureaucratic service to live in harmony with nature—a work that deeply influenced Korean literati.

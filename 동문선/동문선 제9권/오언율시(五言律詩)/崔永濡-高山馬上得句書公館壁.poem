@@ -1,0 +1,45 @@
+canonical:
+  title: 高山馬上得句書公館壁
+  author: 崔永濡
+  language: lzh
+  text: 自喜從王事仍能占勝遊山鴉啼壟樹野鴨泛溪流帶雪千峯瘦連村一逕幽選來逢絶致立馬更遅留
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 高山馬上得句書公館壁
+  author: 崔永濡
+  language: lzh
+  text: 自喜從王事。仍能占勝遊。山鴉啼壟樹。野鴨泛溪流。帶雪千峯瘦。連村一逕幽。選來逢絶致。立馬更遅留。
+korean:
+  title: 고산 말 위에서 구를 얻어 공관 벽에 쓰며
+  author: 최영유
+  language: kor
+  text: |-
+    왕사로 다니면서
+    그로 인해 좋은 구경 기쁘구나
+    산가마귀는 언덕 나무에서 까옥까옥
+    들오리는 시냇물에 둥실둥실
+    눈[雪]을 띠어[帶] 앙상하게 여윈 봉들
+    마을로 가는 그윽한 외줄기 오솔길
+    이따금 절승한 경개를 만나면
+    가다가 말을 세우고 한참이나 머무르고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0250&viewSync=OT
+  footnotes: []
+english:
+  title: Written on the Wall of the Government Residence—A Verse Composed While Mounted on a High Mountain
+  author: Choe Yeong-yu
+  language: eng
+  text: |-
+    In service to the king, I find my way,
+    Yet still can seek the beauty of the day.
+    Mountain crows cry out from ridge-worn trees,
+    Wild ducks drift gently on the flowing breeze.
+    A thousand peaks, snow-girdled, worn and thin,
+    One winding path leads through the hamlets in.
+    When rare and perfect vistas meet my sight,
+    I stop my horse and linger there, in light.
+  footnotes:
+  - key: ''
+    value: The poem celebrates the dual nature of official service—duty to the crown alongside personal freedom to appreciate natural beauty
+  - key: ''
+    value: The 'high mountain' setting and the act of composing while traveling on horseback were common romantic tropes in East Asian literati poetry, suggesting both the poet's noble station and his enlightened sensibility

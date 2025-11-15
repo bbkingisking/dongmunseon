@@ -1,0 +1,34 @@
+canonical:
+  title: 寄君實
+  author: 李婷
+  language: lzh
+  text: 旅舘殘燈曉孤城細雨秋思君意不盡千里大江流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄君實
+  author: 李婷
+  language: lzh
+  text: 旅舘殘燈曉。孤城細雨秋。思君意不盡。千里大江流。
+korean:
+  title: 기군실
+  author: 이정
+  language: kor
+  text: |-
+    여관의 쇠잔한 등은 새벽이 되었는데
+    외로운 성에는 가을의 보슬비 온다
+    그대를 생각하는 마음 끝이 없나니
+    천리의 큰 강은 흐르고 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 月山君 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: A Letter to Lord Gunshil
+  author: Lee Jung
+  language: eng
+  text: |-
+    The inn's fading lamp yields to dawn.
+    In the lonely city, autumn's fine rain falls.
+    My longing for you knows no end—
+    the great river flows on, a thousand miles between us.

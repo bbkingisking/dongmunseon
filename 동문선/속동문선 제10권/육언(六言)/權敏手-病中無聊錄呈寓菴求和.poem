@@ -1,0 +1,51 @@
+canonical:
+  title: 病中無聊錄呈寓菴求和
+  author: 權敏手
+  language: lzh
+  text: 一身東西南北百年三萬六千古來夷跖同盡醉鄕唯有聖賢短世黃粱半熟長歌白酒三杯相如但有四壁彭澤欲賦歸來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病中無聊錄呈寓菴求和
+  author: 權敏手
+  language: lzh
+  text: 一身東西南北。百年三萬六千。古來夷跖同盡。醉鄕唯有聖賢。短世黃粱半熟。長歌白酒三杯。相如但有四壁。彭澤欲賦歸來。
+korean:
+  title: 병중무료 녹정우암 구화
+  author: 권민수
+  language: kor
+  text: |-
+    한 몸이 동서남북으로
+    백년은 3만 6천 일이었다
+    옛날의 백이 도척은 함께 없어지고
+    숲속의 성현만이 오직 남았다네
+    짧은 세상은 누른 쌀이 반만 익고
+    긴 노래에 흰술이 석 잔이라
+    사마상여는 다만 네 벽이 서 있을 뿐
+    도연명은 귀거래사를 짓고자 하였네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_020_0030&viewSync=OT
+  footnotes: []
+english:
+  title: A Record of Tedium During Illness, Presented to Uam in Request of Verse
+  author: Gwon Minsu
+  language: eng
+  text: |-
+    One body scattered to the four directions—
+    East, west, south, and north.
+    A hundred years: thirty-six thousand days.
+    From ancient times, the righteous and the wicked alike have vanished,
+    Leaving only sages dwelling in stillness.
+
+    In this brief world, the yellow grain half-ripens,
+    Yet in long songs, white wine fills three cups.
+    Sima Xiangru owns but four bare walls,
+    While Tao Yuanming yearns to compose his return home.
+  footnotes:
+  - key: ''
+    value: 'Boyi and Zizhi: legendary figures from antiquity representing righteousness and transgression, both ultimately forgotten by history'
+  - key: ''
+    value: 'Yellow grain: a reference to Zhuangzi''s butterfly dream; represents the fleeting and dreamlike nature of worldly existence'
+  - key: ''
+    value: 'Sima Xiangru: Han dynasty poet and scholar known for his poverty despite his literary talent'
+  - key: ''
+    value: 'Tao Yuanming: Tang dynasty recluse poet famous for ''Return Home'' (Guiqu Lai Ci), embodying the ideal of withdrawal from public life'

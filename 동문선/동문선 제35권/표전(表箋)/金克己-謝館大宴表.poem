@@ -1,0 +1,38 @@
+canonical:
+  title: 謝館大宴表
+  author: 金克己
+  language: lzh
+  text: 高其閈閎寓羈蹤於瓊館儐尒籩豆霑異數於玳筵祗荷恩榮曷勝隕越中謝 陪臣邈從東鄙來騁北宸豈期雲漢之殊私猶記草萊之賤介言惟作命宴以示慈蘭羞王饌之芳馨桂醑金醅之栗旨盡其心矣雖愧鹿鳴之忠嘉報其上焉仰祈天保之戩穀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝館大宴表
+  author: 金克己
+  language: lzh
+  text: 高其閈閎。寓羈蹤於瓊館。儐尒籩豆。霑異數於玳筵。祗荷恩榮。曷勝隕越。中謝。 陪臣邈從東鄙。來騁北宸。豈期雲漢之殊私。猶記草萊之賤介。言惟作命。宴以示慈。蘭羞王饌之芳馨。桂醑金醅之栗旨。盡其心矣。雖愧鹿鳴之忠嘉。報其上焉。仰祈天保之戩穀。
+korean:
+  title: 빈관의 큰 잔치를 사례하는 표
+  author: 김극기
+  language: kor
+  text: |-
+    높으나 높은 문, 으리으리한 빈관(賓館)에 나그네의 자취를 붙이고 진열된 변두(籩豆), 화려한 연석에 이수의 접대를 받사오니, 그지없는 은영(恩榮)에 황공함을 어찌 이기오리이까. 중사(中謝)
+    배신이 멀리 동비(東鄙)로부터 북신(北宸)에 사절(使節)로 왔사온대 어찌 운한(雲漢)의 특수한 은혜를 기약하였사오리까. 다만 초래(草萊)의 비천한 사절임을 기억하고 있을 뿐인데 따뜻한 말씀으로 성지(聖旨)를 내리시고 큰 잔치로 자애(慈愛)를 보이시오니, 난수(蘭壽)ㆍ옥찬(玉饌)의 꽃다운 향기와 계서(桂醑)ㆍ금배(金醅)의 짜릿한 맛은 마음을 다하여도 녹명(鹿鳴)의 아름다운 충의(忠義)에는 부끄럽사오나, 위의 은혜를 보답코자 우러러 천보(天保)의 복을 비옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천보(天保) : '
+    value: 《시경》천보편(天保篇)은 군자의 오래살기를 비는 시다.
+english:
+  title: Memorial Expressing Gratitude for the Grand Banquet at the Guest Hall
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Lofty gates stand tall, their grandeur opening wide—within these noble halls, this wandering guest has left his weary trace. Before the splendid feast, graced with delicacies and fine vessels arranged in splendor, I am honored with distinctions beyond measure. How can my trembling heart contain such overwhelming grace?
+
+    [A midway expression of thanks]
+
+    This humble envoy has journeyed far from the eastern frontier to serve at the northern court. Who could have dared hope for such singular favor from on high? Yet I remember only my lowly station, my modest origins in the grass and fields. Your Majesty speaks with warm counsel, your sacred will descends like gentle rain, and this grand banquet reveals your boundless compassion. The fragrant orchids and jade-like dishes grace the royal table, while cassia wine and golden spirits delight the palate—though I exhaust my heart in appreciation, I blush before the noble sentiments of the Deer Song.¹ Yet let me repay this grace: I humbly pray that Heaven's Blessing may grant you ten thousand years of peace and plenty.
+  footnotes:
+  - key: ''
+    value: The 'Deer Song' (鹿鳴) is a classical poem expressing loyal gratitude; the speaker humbly acknowledges his devotion cannot match such noble ideals.
+  - key: ''
+    value: Heaven's Blessing (天保) refers to the opening poem of the Book of Songs, which celebrates the longevity and good fortune of the virtuous ruler.

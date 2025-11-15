@@ -1,0 +1,45 @@
+canonical:
+  title: 八月將赴京又有旨仍行秋祭南行路上有作
+  author: 安軸
+  language: lzh
+  text: 鞍馬關東望秋黃再入槐吏民嫌拙政山水厭凡才昨已推相送今胡去又迴多慚見沙鳥虛過釣魚臺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 八月將赴京又有旨仍行秋祭南行路上有作
+  author: 安軸
+  language: lzh
+  text: 鞍馬關東望。秋黃再入槐。吏民嫌拙政。山水厭凡才。昨已推相送。今胡去又迴。多慚見沙鳥。虛過釣魚臺。
+korean:
+  title: 8월에 서울로 가려하니 또 교지가 내려 가을제를 행하게 되어 남행하는 노상에서
+  author: 안축
+  language: kor
+  text: |-
+    말 타고 관동을 바라보며 가더니
+    가을 곡식 누렇자 다시 괴산골 들어왔네
+    이민들은 옹졸한 정사에 물렸겠지
+    산수도 범용한 글재주가 싫으렸다
+    어제 이미 밀어서 보냈는데
+    이제 어이 가다가 또 돌아왔는고
+    모래 위의 물새를 보기가 부끄럽구나
+    헛되이 낚시터[釣魚臺] 앞을 지나간다고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0830&viewSync=OT
+  footnotes: []
+english:
+  title: Departing for the Capital in August, Yet Ordered to Conduct the Autumn Sacrifice, Composed on the Road South
+  author: An Chuk
+  language: eng
+  text: |-
+    On horseback I gaze back toward the east,
+    As autumn grain turns golden, I enter the valley again.
+    The common folk must tire of my clumsy governance,
+    And mountains and streams reject my ordinary talent.
+    Yesterday I was already sent away with ceremony,
+    Yet now, why do I return once more?
+    Ashamed to face the sandpipers on the shore,
+    I pass uselessly before the fishing pavilion.
+  footnotes:
+  - key: ''
+    value: The poem reflects An Chuk's conflicted feelings about being recalled to Seoul for court duties after already departing his post, requiring him to conduct autumn rituals before resuming his journey south.
+  - key: ''
+    value: The sandpipers and fishing pavilion are classical allusions to retreat and reclusive virtue, emphasizing the poet's sense of shame at being unable to withdraw from public service.

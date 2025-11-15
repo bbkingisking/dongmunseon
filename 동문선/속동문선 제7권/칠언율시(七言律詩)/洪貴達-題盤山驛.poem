@@ -1,0 +1,45 @@
+canonical:
+  title: 題盤山驛
+  author: 洪貴達
+  language: lzh
+  text: 山到無閭靑欲了廣寧東望路漫漫泥途瘦馬那堪苦小驛孤牀蹔借安半夜角聲吹客起一窓月色照愁寒雞鳴又向高平去見說雲深路更難
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題盤山驛
+  author: 洪貴達
+  language: lzh
+  text: 山到無閭靑欲了。廣寧東望路漫漫。泥途瘦馬那堪苦。小驛孤牀蹔借安。半夜角聲吹客起。一窓月色照愁寒。雞鳴又向高平去。見說雲深路更難。
+korean:
+  title: 제 반산역
+  author: 홍귀달
+  language: kor
+  text: |-
+    산은 무려에 이르러 푸른 빛이 끝나려 하는데
+    광녕에서 동쪽을 바라보매 길은 멀고 아득하다
+    진흙 길이라 여윈 말이 어찌 고통을 견디는가
+    작은 역의 외로운 평상에서 잠깐 쉬기를 청한다
+    밤중의 고각 소리는 손을 놀라 깨우는데
+    한 창의 달빛은 시름을 비추어 차다
+    닭이 울면 또 고평을 향해 떠나리니
+    거기는 구름이 깊어 길이 더욱 어렵다는 말을 들었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 무려(無閭) : '
+    value: 만주(滿洲)에서 중국 본부로 가는 길. 요하(遙河) 서쪽 북방에 있는 산인 외무려산(醫無閭山)을 말함이다.
+english:
+  title: Inscribed at Panshan Station
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    The mountains fade toward Wulü, their green growing dim.
+    From Guangning, gazing east, the road stretches endless and remote.
+    Mud-slicked paths—how can a thin horse bear such suffering?
+    At a small station's lonely bed, I beg a moment's rest.
+    In the dead of night, the bugle's call startles the traveler awake.
+    Moonlight through a single window illuminates a cold and heavy heart.
+    When the rooster crows, I must journey on toward Gaoping again,
+    where they say the clouds run deep and the path grows ever harder.
+  footnotes:
+  - key: ''
+    value: Wulü (無閭) refers to the Wulü Mountains in Manchuria, marking the boundary between Jurchen territory and the Chinese heartland—a critical waypoint on official routes between the frontier and the capital.

@@ -1,0 +1,37 @@
+canonical:
+  title: 溫泉雨中望西山瀑布
+  author: 金宗直
+  language: lzh
+  text: 海上終風挾雨驕蓬山平地欲棲蛟却將南畝傷農眼閑望西巖瀑一條
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 溫泉雨中望西山瀑布
+  author: 金宗直
+  language: lzh
+  text: 海上終風挾雨驕。蓬山平地欲棲蛟。却將南畝傷農眼。閑望西巖瀑一條。
+korean:
+  title: 온천우중망 서산폭포
+  author: 김종직
+  language: kor
+  text: |-
+    바다 위의 마지막 바람이 비를 끼고 교만하여
+    봉산의 평지에 이무기를 깃들이려 한다
+    문득 남쪽 들에서 농사를 슬퍼하던 눈으로
+    서암의 한 줄기 폭포를 한가로이 바라본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0450&viewSync=OT
+  footnotes: []
+english:
+  title: Viewing the Western Mountain Waterfall in Rain at the Hot Spring
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Upon the sea, the final wind embraces rain in haughty pride,
+    On Peng Mountain's plain it seeks to harbor dragons deep.
+    I turn away the sorrowing gaze of southern fields,
+    And idly watch one silver thread of waterfall from western stone.
+  footnotes:
+  - key: ''
+    value: Peng Mountain (蓬山) refers to the legendary Penglai, a mythical island of immortals, here used to suggest the fantastical nature of the storm
+  - key: ''
+    value: The shift from the turbulent opening to the quiet contemplation of the waterfall reflects a turn from outer turmoil to inner peace

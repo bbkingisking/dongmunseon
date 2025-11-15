@@ -1,0 +1,29 @@
+canonical:
+  title: 與金東京交聘狀
+  author: 崔惟淸
+  language: lzh
+  text: 地分南北限禹蹟之山川天覆邇遐同漢家之日月屬歸時事倂寓書音兾膺福履之綏益副瞻依之素
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 與金東京交聘狀
+  author: 崔惟淸
+  language: lzh
+  text: 地分南北。限禹蹟之山川。天覆邇遐。同漢家之日月。屬歸時事。倂寓書音。兾膺福履之綏。益副瞻依之素。
+korean:
+  title: 여금 동경 교빙 장
+  author: 최유청
+  language: kor
+  text: 땅이 남북으로 나뉘어 우적(禹蹟)의 산천이 한계되었으나, 하늘은 가까운 데나 먼 데를 두루 덮어 한가(漢家)의 일월을 똑같이 우러릅니다. 마침 시사(時事)에 가게 되어 아울러 서신을 부치오니, 부디 많은 복을 누리시어 더욱 평소의 기대에 부응하시기를 바랍니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: Letter of Exchange with Kim Dong-gyeong
+  author: Choe Yucheong
+  language: eng
+  text: Though earth divides us into south and north, marked by the mountains and rivers of Yu's domain, heaven encompasses both near and far alike, bestowing upon us the same sun and moon as the Han. As circumstances now bring us to correspond, I send this letter alongside my words, hoping that you may receive abundant blessings and thus fulfill the deep expectations I have long held for you.
+  footnotes:
+  - key: ''
+    value: Yu's domain (禹蹟) refers to the territories controlled by Yu the Great in ancient Chinese mythology, here representing the division of land and geography.
+  - key: ''
+    value: Han family's sun and moon (漢家之日月) is an idiomatic expression suggesting universal illumination and impartial benevolence that transcends geographical boundaries.

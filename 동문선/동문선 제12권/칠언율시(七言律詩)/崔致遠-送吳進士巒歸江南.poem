@@ -1,0 +1,46 @@
+canonical:
+  title: 送吳進士巒歸江南
+  author: 崔致遠
+  language: lzh
+  text: 自識君來幾度別此回相別恨重重干戈到處方多事詩酒何時得再逢遠樹參差江畔路寒雲零落馬前峯行行遇景傳新作莫學嵇康盡放慵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送吳進士巒歸江南
+  author: 崔致遠
+  language: lzh
+  text: 自識君來幾度別。此回相別恨重重。干戈到處方多事。詩酒何時得再逢。遠樹參差江畔路。寒雲零落馬前峯。行行遇景傳新作。莫學嵇康盡放慵。
+korean:
+  title: 송 오 진사 만 귀 강남
+  author: 최치원
+  language: kor
+  text: |-
+    그대와 안 뒤 몇 번째 이별인가
+    이번 서로 갈림에는 한이 더욱 겹치옵네
+    전쟁은 가는 곳마다 한창 수선한데
+    시와 술로 어느 때 우리 다시 만나볼까
+    먼 나무는 강변 길에 우뚝우뚝
+    찬 구름은 말 앞 메에 떨어지네
+    가다가 경치 좋거든 새 작을 전해 주게
+    게으른 혜강의 버릇 제발 배우지 말고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 혜강(嵇康) : '
+    value: 진(晉)나라 때 죽림칠현(竹林七賢)의 한 사람. 그가 산도(山濤)에게 보내는 절교서(絶交書)에, “근일에는 세속이 편지의 내왕을 중히 여기는데, 나는 게을러서 남에게 편지를 전혀 하지 않으니, 이것도 벼슬할 수 없는 한 조건이다.” 하였다.
+english:
+  title: Farewell to Scholar Wu Luan Returning to the South
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    How many times have we parted since first we met?
+    This parting weighs upon my heart more heavily than before.
+    Wherever armies march, affairs multiply and trouble reigns.
+    When shall wine and poetry bring us together once more?
+
+    Distant trees stand jagged along the riverbank path,
+    Cold clouds scatter and fall before your horse's ascent.
+    As you journey and encounter fair landscapes,
+    Send word of your new verses—but pray, do not emulate Hye-gang's indolence.
+  footnotes:
+  - key: ''
+    value: Hye-gang (嵇康) was a celebrated figure among the Seven Sages of the Bamboo Grove during China's Jin Dynasty, known for his philosophical ideals and aesthetic refinement. The reference here alludes to his famous letter of severance, where he apologized for his negligence in correspondence, saying his laziness in writing letters was another reason he could not serve in office. The poet urges his friend not to abandon their literary friendship through such indifference.

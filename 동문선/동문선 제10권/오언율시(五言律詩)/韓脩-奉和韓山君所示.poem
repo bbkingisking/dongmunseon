@@ -1,0 +1,48 @@
+canonical:
+  title: 奉和韓山君所示
+  author: 韓脩
+  language: lzh
+  text: 殘歲寒風積窮居酒盞踈愁雲低野逈凍雀傍簷虛拙可存吾道閑唯愛我廬南䆫書課進漸覺日行舒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉和韓山君所示
+  author: 韓脩
+  language: lzh
+  text: 殘歲寒風積。窮居酒盞踈。愁雲低野逈。凍雀傍簷虛。拙可存吾道。閑唯愛我廬。南䆫書課進。漸覺日行舒。
+korean:
+  title: 한산군이 보낸 시에 받들어 화답하여
+  author: 한수
+  language: kor
+  text: |-
+    세모에 찬 바람은 심한데
+    궁하게 살자니 술잔이 드물다
+    운 구름은 휑한 들판에 나직하고
+    언 새는 빈 처마에 모이네
+    졸 근심스러함으로 내 도를 보존하고
+    한적한 것은 오직 내 집을 사랑하네
+    남녘창에 글이 더 읽혀지니
+    차츰 날이 길어감을 알겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to a Poem Presented by Duke Han of the Mountains
+  author: Han Soo
+  language: eng
+  text: |-
+    The year's end brings bitter winds that gather and deepen,
+    Living in hardship, my wine cup sits sparse and untouched.
+    Sad clouds descend low over the desolate fields,
+    Frozen sparrows cluster near the hollow eaves.
+
+    Through humble concerns I preserve the way within me,
+    In quietude alone do I cherish my modest dwelling.
+    At the southern window, my reading progresses,
+    And I begin to sense the lengthening of days.
+  footnotes:
+  - key: ''
+    value: The poem employs the traditional Chinese poetic form of responding to another's work, suggesting a literary exchange between the poet and Duke Han.
+  - key: ''
+    value: The imagery of winter—bitter winds, frozen sparrows, and bare eaves—contrasts with the interior life of study and philosophical cultivation, a common theme in Korean literati poetry.
+  - key: ''
+    value: The 'humble concerns' (拙) and 'way' (道) reference Confucian and Daoist ideals of virtue maintained through modest living and contemplation.

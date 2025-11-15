@@ -1,0 +1,37 @@
+canonical:
+  title: 僧舍晝眠
+  author: 金富儀
+  language: lzh
+  text: 天靜無氛麗景遲僧家良與睡相宜無人喚起華胥夢盡日踈簾寂寞垂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 僧舍晝眠
+  author: 金富儀
+  language: lzh
+  text: 天靜無氛麗景遲。僧家良與睡相宜。無人喚起華胥夢。盡日踈簾寂寞垂。
+korean:
+  title: 승사 주면
+  author: 김부의
+  language: kor
+  text: |-
+    하늘 고요하고 거친 기운 없어 해가 더디니
+    절이란 참으로 잠자기 알맞고나
+    화서몽(華胥夢) 깨우는 사람 없으니
+    하루 종일 성긴 발이 적막히 드리워 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화서몽(華胥夢) : '
+    value: 황제(黃帝)가 꿈에 화서국(華胥國)에서 놀았다 한다.
+english:
+  title: Daytime Sleep at a Monastery
+  author: Kim Bu-ui
+  language: eng
+  text: |-
+    Heaven grows still, no coarse winds stir—the daylight lingers slow.
+    A monastery truly knows the art of sleep.
+    No one awakens me from the Huaxu dream.
+    All day long the sparse bamboo blind hangs in solitude.
+  footnotes:
+  - key: ''
+    value: The Huaxu dream refers to the legendary Emperor's dream of wandering in the paradise of Huaxu—an allusion suggesting the dreamer has entered a timeless realm of perfect peace.

@@ -1,0 +1,49 @@
+canonical:
+  title: 聊城驛壁上韻
+  author: 李奎報
+  language: lzh
+  text: 幽谷一宵中酒宿聊城半日解驂留歸來阮籍空長嘯寂寞相如故倦遊郵吏送迎何日了使華來往幾時休唯予幸是閑行者來不煩人去自由
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 聊城驛壁上韻
+  author: 李奎報
+  language: lzh
+  text: 幽谷一宵中酒宿。聊城半日解驂留。歸來阮籍空長嘯。寂寞相如故倦遊。郵吏送迎何日了。使華來往幾時休。唯予幸是閑行者。來不煩人去自由。
+korean:
+  title: 요성역 벽상운
+  author: 이규보
+  language: kor
+  text: |-
+    그윽한 골짝에서 하룻밤 술에 취해
+    요성에서 반 나절 말을 풀고 머물렀네
+    완적은 돌아와서 기나긴 휘파람만
+    상여는 적막하니 노는 데 지쳤구나
+    역리들의 영송은 어느 날 그치려나
+    사신들의 내왕은 쉴 적이 없구나
+    다만 나만이 다행스레 한가한 길손이라
+    온대도 성가실 이 없고 가는 데도 자유롭구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 완적(阮籍) : '
+    value: 진(晉)나라 사람. 자(字)는 사종(嗣宗), 죽림칠현(竹林七賢)의 하나. 박학하였고 장로(莊老)를 즐겼으며, 휘파람을 잘 불고 거문고에 능했다.
+  - key: '[주-D002] 상여(相如) : '
+    value: 한(漢)나라의 문인(文人), 사마상여(司馬相如). 그의 전기(傳記)에, “노는 데 지쳤다[倦遊].”는 말이 있다.
+english:
+  title: Inscription on the Wall of Liaochen Post Station
+  author: Lee Gyu-bo
+  language: eng
+  text: |-
+    In a shadowed valley I slept off wine through the night,
+    At Liaochen I lingered half a day, my horse set free.
+    Yuan Ji returns with only his long whistle echoing,
+    Sima Xiangru, weary of wandering in this emptiness.
+    When will the postmaster's farewells ever cease?
+    How many times will the messenger's footsteps come and go?
+    Only I am blessed—a wanderer of leisure,
+    Needing nothing when I arrive, free when I depart.
+  footnotes:
+  - key: ''
+    value: Yuan Ji was a man of the Jin dynasty, known for his learning and mastery of the zither, famed for the melancholic beauty of his whistling.
+  - key: ''
+    value: Sima Xiangru was a literary figure of the Han dynasty whose biography records his weariness with constant travel and wandering.

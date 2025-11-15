@@ -1,0 +1,47 @@
+canonical:
+  title: 俯仰
+  author: 金時習
+  language: lzh
+  text: 俯仰杳無垠其中有此身三才參並立一理自相分形役爲微物躬行卽大君古今何間斷堯舜我同群
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 俯仰
+  author: 金時習
+  language: lzh
+  text: 俯仰杳無垠。其中有此身。三才參並立。一理自相分。形役爲微物。躬行卽大君。古今何間斷。堯舜我同群。
+korean:
+  title: 부앙
+  author: 김시습
+  language: kor
+  text: |-
+    굽어보고 쳐다봐도 아득해 가이[垠] 없는데
+    그 가운데 이 한 몸 태어나 산다
+    삼재(하늘ㆍ땅ㆍ사람)에 참여하여 나란히 서고
+    한 가지 이치를 스스로 나누었네
+    육체에 불리우면 미물 되지만
+    몸소 행하여야 큰 군자이니라
+    예와 이제에 무슨 간단 있으랴
+    요 임금 순 임금도 나와 한 무리인데
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0410&viewSync=OT
+  footnotes: []
+english:
+  title: Looking Up and Down
+  author: Kim Siseup
+  language: eng
+  text: |-
+    Looking up and down, the vastness stretches without end,
+    Yet within it, this single body dwells and lives.
+    The three realms—heaven, earth, and man—stand together,
+    And the one principle divides itself naturally.
+    Bound to the flesh, I become a creature small,
+    But practicing in person, I become a great sage.
+    What gulf lies between the ancient and the present?
+    Yao and Shun, too, are kindred spirits to me.
+  footnotes:
+  - key: ''
+    value: The 'three realms' (三才) refer to heaven, earth, and humanity—the fundamental categories of the cosmos in classical Chinese philosophy.
+  - key: ''
+    value: The 'one principle' (一理) alludes to the Neo-Confucian concept of li (理), the underlying order or principle that governs all things.
+  - key: ''
+    value: Yao and Shun are legendary sage-kings of ancient China, representing the highest ideals of virtuous rulership and moral cultivation.

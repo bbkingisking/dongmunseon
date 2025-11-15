@@ -1,0 +1,43 @@
+canonical:
+  title: 春日
+  author: 鄭知常
+  language: lzh
+  text: 物象鮮明霽色中勝遊懷抱破忡忡江含落日黃金水柳放飛花白雪風故國江山千里遠一尊談笑萬緣空興來意欲題新句下筆慚無氣吐虹
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春日
+  author: 鄭知常
+  language: lzh
+  text: 物象鮮明霽色中。勝遊懷抱破忡忡。江含落日黃金水。柳放飛花白雪風。故國江山千里遠。一尊談笑萬緣空。興來意欲題新句。下筆慚無氣吐虹。
+korean:
+  title: 춘일
+  author: 정지상
+  language: kor
+  text: |-
+    맑게 갠 하늘아래 모든 물상 산뜻하네
+    흥겨운 봄놀이로 우울한 회포 깨쳐 버리네
+    지는 해 머금은 강은 황금 물결 반짝이고
+    바람곁의 버들개지는 흰눈인 양 나부껴라
+    고향 산천은 천 리 밖에 머나 먼데
+    술잔 앞 담소에 온갖 인연 잊었네
+    흥겨워 새 시 한수를 쓰려 하나
+    붓 들어 적으려 하니 호기 모자라 부끄럽네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0740&viewSync=OT
+  footnotes: []
+english:
+  title: Spring Day
+  author: Jeong Jisjang
+  language: eng
+  text: |-
+    Beneath the clear sky, all things shimmer fresh and bright—
+    spring's joyful wanderings dissolve my brooding heart.
+    The river holds the setting sun, gold-gleaming waves,
+    while willows loose their blossoms like white snow on wind.
+    Yet home and mountains lie a thousand miles away,
+    and talking over wine, I forget ten thousand ties.
+    Inspired, I yearn to write a verse anew,
+    but brush in hand, ashamed—my spirit lacks its fire.
+  footnotes:
+  - key: ''
+    value: The poem moves from the vividness of spring's rejuvenation to an introspective moment where the speaker, despite the surroundings' beauty, confronts distance from home and the inadequacy of artistic expression in capturing the moment.

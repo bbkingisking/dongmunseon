@@ -1,0 +1,35 @@
+canonical:
+  title: 示諸子
+  author: 趙仁規
+  language: lzh
+  text: 事君當盡忠遇物當至誠願言勤夙夜無忝爾所生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 示諸子
+  author: 趙仁規
+  language: lzh
+  text: 事君當盡忠。遇物當至誠。願言勤夙夜。無忝爾所生。
+korean:
+  title: 시제자
+  author: 조인규
+  language: kor
+  text: |-
+    임금을 섬기는 덴 마땅히 충성을 다할 것이니
+    사물을 대하여선 마땅히 지성스러울지라
+    바라노니 밤낮으로 부지런히 닦아
+    낳아 준 아비를 욕되지 않게 하라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: Instructions to My Sons
+  author: Jo In-gyou
+  language: eng
+  text: |-
+    In serving your lord, let loyalty be your constant guide.
+    In dealing with all things, let sincerity be your path.
+    I urge you to labor diligently through all hours—
+    so that you bring no shame upon those who gave you life.
+  footnotes:
+  - key: ''
+    value: This poem serves as paternal instruction, emphasizing the Confucian virtues of loyalty to one's ruler and integrity in all dealings, while reminding the sons of their filial duty to honor their parents through virtuous conduct.

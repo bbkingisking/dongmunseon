@@ -1,0 +1,49 @@
+canonical:
+  title: 飮中八仙歌
+  author: 李仁老
+  language: lzh
+  text: 長齋蘇晉愛逃禪脫帽張顚草聖傳賀老眼花眠水底宗之玉樹倚風前汝陽日飮須三斗左相晨興費萬錢太白千篇焦遂辯八人眞箇飮中仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 飮中八仙歌
+  author: 李仁老
+  language: lzh
+  text: 長齋蘇晉愛逃禪。脫帽張顚草聖傳。賀老眼花眠水底。宗之玉樹倚風前。汝陽日飮須三斗。左相晨興費萬錢。太白千篇焦遂辯。八人眞箇飮中仙。
+korean:
+  title: 음중 팔선의 노래
+  author: 이인로
+  language: kor
+  text: |-
+    장재(주육(酒肉)을 끊는 것)하는 소진은 선에 숨기 좋아하고
+    모자 벗은 장전은 초서로 성인
+    하로(하지장(賀知章))는 눈이 아찔 물속에서 자고
+    종지(제국공(齊國公) 최종지)는 옥수가 바람에 한들
+    여양(여양왕 진(璡))은 하루에 꼭 서말 마셨고
+    좌상(이적지(李適之))은 새벽부터 만전을 쓰네
+    태백의 시 천 수와 초수의 웅변
+    여덟이 참으로 술 중의 신선이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Eight Immortals of the Wine Cup
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Su Jin fasts and loves to hide in meditation,
+    Zhang Dian removes his hat, his cursive script transcends the sage.
+    He Lao's eyes blur as he sleeps beneath the waters,
+    Zong Zhi's jade form sways before the wind.
+    Ruyang drinks exactly three pecks in a day,
+    The Left Minister squanders ten thousand coins at dawn.
+    Taibai's thousand poems and Jiao Sui's eloquence—
+    Eight souls, truly immortals within the wine.
+  footnotes:
+  - key: ''
+    value: This poem celebrates eight historical figures renowned for their drinking prowess and artistic talents during the Tang Dynasty. Each figure exemplifies a particular virtue or talent displayed through their relationship with wine.
+  - key: ''
+    value: 'The eight immortals referenced are: Su Jin, Zhang Xu, He Zhizhang, Cui Zongzhi, Li Yuanying (Prince of Ruyang), Li Jizhi, Li Bai, and Jiao Sui.'
+  - key: ''
+    value: The 'Three Pecks' and 'Ten Thousand Coins' are hyperbolic expressions emphasizing their legendary consumption and expenditure.
+  - key: ''
+    value: '''Immortals of the Wine Cup'' is a deliberate inversion of the famous Daoist ''Eight Immortals,'' suggesting these poets achieve transcendence through wine and art rather than traditional asceticism.'

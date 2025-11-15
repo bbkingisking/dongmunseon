@@ -1,0 +1,48 @@
+canonical:
+  title: 題守城賓于光先達水閣朴石齋韻
+  author: 崔洳
+  language: lzh
+  text: 才望今誰比淸閑古莫儔柳邊蓮沼凈竹裏草堂幽皎潔心如月逍遙鬢未秋自慙無定止飄泊似沙鷗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題守城賓于光先達水閣朴石齋韻
+  author: 崔洳
+  language: lzh
+  text: 才望今誰比。淸閑古莫儔。柳邊蓮沼凈。竹裏草堂幽。皎潔心如月。逍遙鬢未秋。自慙無定止。飄泊似沙鷗。
+korean:
+  title: 박석재의 운에 따라 수성 빈우광 선달의 수각에 쓰며
+  author: 최여
+  language: kor
+  text: |-
+    재주와 명망이 지금 누구에 비하랴
+    그 청한함이 옛날에도 짝 없으리
+    버들 가에 연당이 깨끗하고
+    대숲 속에 초당이 그윽하구나
+    교결도 할시고, 그 마음 달과 같고
+    소요하는 몸, 머리 아직 안 희었네
+    정처없는 이 몸이 스스로 부끄러워라
+    모래 위 갈매기처럼 떠돌아다니거니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0800&viewSync=OT
+  footnotes: []
+english:
+  title: 'On Park Seokjae''s Water Pavilion: In Response to the Rhyme of Suso''s Bin Ugwang, the Worthy'
+  author: Choe Yeo
+  language: eng
+  text: |-
+    Whose talent and renown could match him today?
+    In ancient times, none bore such clarity.
+    By the willow's edge, the lotus pond lies pure,
+    Within the bamboo grove, the grass hall breathes mystery.
+
+    His heart gleams bright as moon-jade,
+    His wandering form—the hair not yet gray.
+    Yet I, ashamed of my rootless path,
+    Drift like a gull upon the sand.
+  footnotes:
+  - key: ''
+    value: The poem is written in response to another's rhyme scheme, a common practice in classical East Asian poetry circles as a form of literary exchange and friendship.
+  - key: ''
+    value: The water pavilion (수각) was likely a scholarly retreat or study space, reflecting the Neo-Confucian ideal of the reclusive gentleman scholar.
+  - key: ''
+    value: The imagery of the gull drifting on sand is a traditional trope representing the wandering poet or exile, expressing both detachment from the world and a sense of displacement.

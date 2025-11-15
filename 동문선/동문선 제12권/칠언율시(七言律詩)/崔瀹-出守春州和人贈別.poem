@@ -1,0 +1,47 @@
+canonical:
+  title: 出守春州和人贈別
+  author: 崔瀹
+  language: lzh
+  text: 吾家世受盛朝恩欲繼忠淸不墜門但把螢輝增聖日敢將蟸測議詞源自慙風月無功業回望雲霄已夢魂駭汗未收還感淚謫來猶得駕朱幡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 出守春州和人贈別
+  author: 崔瀹
+  language: lzh
+  text: 吾家世受盛朝恩。欲繼忠淸不墜門。但把螢輝增聖日。敢將蟸測議詞源。自慙風月無功業。回望雲霄已夢魂。駭汗未收還感淚。謫來猶得駕朱幡。
+korean:
+  title: 춘주에 수령으로 나가며 증별시를 화답하며
+  author: 최약
+  language: kor
+  text: |-
+    우리 집이 대대로 성조의 은을 입었으니
+    충성과 청백으로 계승하여 가문을 떨어뜨리지 않으려네
+    반딧불 빛으로 햇빛에 보태고저
+    조그만 잔으로 감히 사원을 헤아리랴
+    풍월이나 읊고 공 없음이 부끄러워라
+    구름 하늘(대궐)을 바라보니 벌써 꿈이로세
+    놀란 땀 씻기 전에 느껴운 눈물 나오니
+    귀양 가면서도 수령 행차로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0420&viewSync=OT
+  footnotes: []
+english:
+  title: 'Departing as Governor of Chunju: A Response in Verse to Gifts of Farewell'
+  author: Choi Yak
+  language: eng
+  text: |-
+    My family has received the grace of successive dynasties,
+    I wish to inherit loyalty and integrity, not to let our lineage fade.
+    With the glow of fireflies I add to the light of the imperial sun,
+    How dare I, with this humble vessel, measure the source of words?
+    Shamed by verses on wind and moonlight, lacking any true service,
+    Gazing back at the clouds of the capital, my spirit already dreams.
+    Before my startled sweat can dry, tears of gratitude fall—
+    Even banished to the frontier, I am granted the crimson banner of office.
+  footnotes:
+  - key: ''
+    value: The firefly's glow is a classical image of modest effort to aid greater light, referencing the famous scholar of old who studied by firefly light.
+  - key: ''
+    value: The 'humble vessel' (蟸) suggests the poet's own insignificance in trying to comprehend the profound principles of language and governance.
+  - key: ''
+    value: The 'crimson banner' (朱幡) symbolizes the authority and honor of an official position, indicating that even in demotion or assignment to a distant post, the poet recognizes the continuing favor of the crown.

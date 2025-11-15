@@ -1,0 +1,47 @@
+canonical:
+  title: 江南
+  author: 鄭夢周
+  language: lzh
+  text: 十載風塵首獨回與君今日共含杯三冬足用文章富五世同居吉慶來使節遠遊箕子國歸舟却向越王臺何時四海淸如鏡共上天台一笑開
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 江南
+  author: 鄭夢周
+  language: lzh
+  text: 十載風塵首獨回。與君今日共含杯。三冬足用文章富。五世同居吉慶來。使節遠遊箕子國。歸舟却向越王臺。何時四海淸如鏡。共上天台一笑開。
+korean:
+  title: 강남
+  author: 정몽주
+  language: kor
+  text: |-
+    10년 동안 풍진 속에서 혼자 고개를 돌리다가
+    오늘 그대를 만나 함께 술잔을 드네
+    삼동에 닦은 문장이 풍부하고
+    다섯 대를 같이 산 집에 경사 왔네
+    사절이 멀리 기자 나라에 와 놀더니
+    돌아갈 배가 문득 월왕대로 향하누나
+    어느 때나 사해가 거울처럼 밝아져
+    천태산 함께 올라서 한 번 웃음 웃을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0800&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 삼동(三冬)에 닦은 문장 : '
+    value: 한(漢)나라 동방삭(東方朔)의 글에, “나이 열둘에 글을 배워, 삼동(三冬) 공부에 문사(文史)를 족히 쓸 만하다.”는 말이 있다.
+english:
+  title: Jiangnan
+  author: Jung Mongju
+  language: eng
+  text: |-
+    Ten years I wandered through dust and wind, turning back alone.
+    Today I meet you again—together we raise our cups.
+    Three winters of study have made my words abundant;
+    Five generations dwelling as one—blessings arrive.
+    As envoy I traveled far to the land of Ki Tzu,
+    Yet my returning boat turns toward the terrace of the Yue King.
+    When will the four seas gleam clear as mirrors?
+    Then we shall climb Mount Tiantai and laugh together once more.
+  footnotes:
+  - key: ''
+    value: The reference to 'three winters of study' alludes to the ancient scholar Dongfang Shuo, whose writings mention that by age twelve, three winters of diligent study sufficed to master literary and historical knowledge—a metaphor for refined learning and scholarly accomplishment.
+  - key: ''
+    value: Mount Tiantai is a sacred Buddhist mountain in ancient China, often symbolizing spiritual transcendence and enlightenment in classical poetry.

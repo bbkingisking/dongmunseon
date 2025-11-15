@@ -1,0 +1,45 @@
+canonical:
+  title: 暎湖樓
+  author: 鄭子厚
+  language: lzh
+  text: 起樓詩眼費功多月斧雲斤亦未加自訝登臨橫翠閣誰敎飛上大淸家春江綠漲蒲萄酒夕照紅酣躑躅花待過已知軒盖近樹頭時有鵲槎槎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 暎湖樓
+  author: 鄭子厚
+  language: lzh
+  text: 起樓詩眼費功多。月斧雲斤亦未加。自訝登臨橫翠閣。誰敎飛上大淸家。春江綠漲蒲萄酒。夕照紅酣躑躅花。待過已知軒盖近。樹頭時有鵲槎槎。
+korean:
+  title: 영호루
+  author: 정자후
+  language: kor
+  text: |-
+    다락을 지을 때 시안으로 무척 공력 들었네
+    달 도끼 구름 자귀만은 역시 이에 더 할 수 없으리
+    올라오니, 예가 혹시 횡취각 그 아닌가
+    누가 나를 날려 태청궁에 오르게 하였는가
+    봄 강의 푸른 물은 포도주가 넘치는 양
+    저녁 노을 붉게 타니 철쭉꽃이 만발한 듯
+    지나가기 기다리노라니 행차 아마 가까운 듯
+    이따금 나뭇가지에 까치 소리만 깍깍
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 태청궁(太淸宮) : '
+    value: '도가(道家)에서 말하는 하늘 위 삼청(三淸 : 玉淸ㆍ中淸ㆍ上淸 혹은 太淸).'
+english:
+  title: The Tower at Yinghu Lake
+  author: Jeong Ja-hu
+  language: eng
+  text: |-
+    Building this tower cost the poet's eye such labor and pains,
+    even the moon's axe and cloud's chisel could add nothing more.
+    Climbing up, I wonder—is this not the Hall of Transverse Jade?
+    Who has lifted me to soar into the Palace of Great Clarity?
+    Spring's river runs green as overflowing grape wine,
+    evening's glow burns red as azaleas in full bloom.
+    Waiting for travelers to pass, I sense the imperial carriage draws near—
+    yet only magpies call from the treetops, their cries sharp and clear.
+  footnotes:
+  - key: ''
+    value: The Palace of Great Clarity (太淸宮) refers to the celestial realm in Daoist cosmology, representing the highest heaven. The poet playfully imagines his tower reaching such heights.

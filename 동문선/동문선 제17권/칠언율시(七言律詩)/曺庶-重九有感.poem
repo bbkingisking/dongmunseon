@@ -1,0 +1,47 @@
+canonical:
+  title: 重九有感
+  author: 曺庶
+  language: lzh
+  text: 閑中忽念趁良辰走到東陽共主人溪繞樓臺涵落照驛分南北動行塵風煙凈盡山如畫草樹彫零菊更新與客登臨多感慨秋光不老一壺春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 重九有感
+  author: 曺庶
+  language: lzh
+  text: 閑中忽念趁良辰。走到東陽共主人。溪繞樓臺涵落照。驛分南北動行塵。風煙凈盡山如畫。草樹彫零菊更新。與客登臨多感慨。秋光不老一壺春。
+korean:
+  title: 9월 9일에 느낌이 있어
+  author: 조서
+  language: kor
+  text: |-
+    한가한 중에 문득 가절 놀이를 생각하여
+    동양에 달려와서 주인과 함께 노니네
+    누대를 두른 시내는 지는 해를 비치고
+    남북으로 갈리는 역엔 행인의 먼지 이는구나
+    연기가 죄 걷히니 산이 그림 같을시고
+    초목이 시들어지니 국화가 더 말쑥해라
+    주객이 함께 올라 감개가 많으이
+    가을 경치에 늙을 줄 모를 한병 술의 봄이여
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections on the Ninth Day of the Ninth Month
+  author: Cho Seo
+  language: eng
+  text: |-
+    In idleness, suddenly I recall the festival season—
+    I hasten to Dongyang to enjoy it with the master.
+    The stream winds round the tower, mirroring the setting sun,
+    While at the station, travelers' dust stirs between the paths north and south.
+    The mist clears away and the mountains become a painting,
+    The withered grasses and trees give way to chrysanthemums renewed.
+    The guest and host climb together, hearts full of feeling—
+    In autumn's light that knows no age, a single cup holds endless spring.
+  footnotes:
+  - key: ''
+    value: The Ninth Day of the Ninth Month (重九) is a traditional East Asian festival celebrated for its auspicious numerology, associated with gathering, celebration, and the admiration of chrysanthemums.
+  - key: ''
+    value: Dongyang (東陽) refers to a location in the Yeongnam region of Korea, known for its natural beauty.
+  - key: ''
+    value: The poem's final couplet suggests that despite autumn's transience, wine and companionship preserve a perpetual sense of renewal and youth.

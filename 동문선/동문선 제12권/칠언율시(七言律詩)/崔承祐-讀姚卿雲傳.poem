@@ -1,0 +1,50 @@
+canonical:
+  title: 讀姚卿雲傳
+  author: 崔承祐
+  language: lzh
+  text: 曾向紗䆫揭縹囊洛中遺事最堪傷愁心已逐朝雲散怨淚空隨逝水長不學投身金谷檻却應偸眼宋家墻尋思都尉憐才子大抵功曹分外忙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀姚卿雲傳
+  author: 崔承祐
+  language: lzh
+  text: 曾向紗䆫揭縹囊。洛中遺事最堪傷。愁心已逐朝雲散。怨淚空隨逝水長。不學投身金谷檻。却應偸眼宋家墻。尋思都尉憐才子。大抵功曹分外忙。
+korean:
+  title: 독 요경운전
+  author: 최승우
+  language: kor
+  text: |-
+    언젠가 사창 앞에서 표낭(책을 넣어두는 청백색 주머니)을 들쳐 보니
+    낙양의 옛 일이 서럽기도 서럽네
+    시름은 벌써 아침 구름 좇아 흩어졌건만
+    원망의 눈물은 가는 물 따라 그지없었네
+    금곡 난간에서 몸 던진 것 안 배우고
+    송옥의 담을 엿봄에 응했구나
+    생각하면 도위가 재자를 어여삐 여겼지
+    공조란 워낙 특별히 바쁜 신세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 아침 구름 : '
+    value: 초왕(楚王)이 고당(高唐)에 놀다가 낮잠을 자는데, 꿈에 한 여자가 와서 말하기를, “나는 무산(巫山)의 여인인데 고당에 왔다가 왕과 동침(同寢)하기를 원합니다.” 하였다. 왕이 동침하였더니 여인이 가면서, “나는 무산에서 아침에는 구름이 되고, 저녁에는 비가 되어 아침저녁마다 양대(陽臺) 밑에 있습니다.” 하였다. 《宋玉 高唐賦》
+  - key: '[주-D002] 송옥(宋玉)의 담[墻] : '
+    value: 전국 때 초(楚)나라 송옥(宋玉)의 〈호색부(好色賦)〉의 일절에, “초나라에 미인이 많되 신(臣)의 마을만한 데가 없고, 신의 마을에 미인이 많으나 신의 집 동녘 집 처녀가 으뜸이온데, 그녀가 신의 담을 엿본 지가 3년이로되 신이 한 번도 거들떠보지 않았나이다.” 하였다.
+english:
+  title: Reading the Biography of Yao Jing-yun
+  author: Choi Seung-woo
+  language: eng
+  text: |-
+    Once I held open the pale silk pouch before the pleasure quarters—
+    the forgotten tales of Luoyang pierce the heart.
+    Sorrow has already scattered like the morning clouds,
+    yet tears of resentment flow endless as the passing waters.
+
+    I will not learn the despair of those who threw themselves from Golden Valley's rail,
+    but rather answer the yearning glances over the Song household's wall.
+    Thinking of how the prefect cherished talent in the young scholar—
+    such is the lot of a clerk: perpetually, hopelessly burdened.
+  footnotes:
+  - key: ''
+    value: 'The morning clouds: An allusion to the Chu king''s dream of the goddess of Wu Mountain, who transforms into morning clouds and evening rain. Here, used to represent fleeting beauty and lost love.'
+  - key: ''
+    value: 'The Song household''s wall: Reference to Song Yu''s ''Ode to Beauty,'' where a beautiful woman gazed over the wall at the poet for three years, yet he never once returned her gaze. The poem suggests the speaker finally reciprocates such yearning attention.'

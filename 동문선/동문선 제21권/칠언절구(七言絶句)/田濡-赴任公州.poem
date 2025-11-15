@@ -1,0 +1,37 @@
+canonical:
+  title: 赴任公州
+  author: 田濡
+  language: lzh
+  text: 公事如雲鬢欲絲雪晴江路馬遅遅吏人不識憂民意誤道溪山覔好詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 赴任公州
+  author: 田濡
+  language: lzh
+  text: 公事如雲鬢欲絲。雪晴江路馬遅遅。吏人不識憂民意。誤道溪山覔好詩。
+korean:
+  title: 부임공주
+  author: 전유
+  language: kor
+  text: |-
+    공사는 구름 같아 귀밑머리 세려 하네
+    눈 멎은 강가 길에 말걸음 더디어라
+    내가 백성 걱정하는 뜻 아전들은 모르고
+    시내와 산에서 좋은 시를 찾는다고 잘못 말하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0690&viewSync=OT
+  footnotes: []
+english:
+  title: Departing for My Post in Gongju
+  author: Jeon Yu
+  language: eng
+  text: |-
+    Official duties pile like clouds upon my graying temples,
+    Snow has cleared on the riverside road, yet my horse moves slowly.
+    The clerks do not understand my concern for the people—
+    They mistake my purpose, saying I seek fine poems in streams and mountains.
+  footnotes:
+  - key: ''
+    value: Gongju was a provincial city where the author was appointed to an administrative post. The poem reflects the tension between the poet's genuine dedication to his duties and the public's misperception of his intentions.
+  - key: ''
+    value: The image of graying temples (or hair turning to silk) represents the weight and passage of time spent in service.

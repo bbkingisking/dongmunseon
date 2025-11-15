@@ -1,0 +1,39 @@
+canonical:
+  title: 先涅庵
+  author: 金宗直
+  language: lzh
+  text: 門掩藤蘿雲半扃雲根矗矗水泠泠高僧結夏還飛錫只有林閒猿鶴驚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 先涅庵
+  author: 金宗直
+  language: lzh
+  text: 門掩藤蘿雲半扃。雲根矗矗水泠泠。高僧結夏還飛錫。只有林閒猿鶴驚。
+korean:
+  title: 선열암
+  author: 김종직
+  language: kor
+  text: |-
+    등라는 문을 가리고 구름은 반쯤 빗장을 질렀는데
+    산은 뾰족뾰족하고 물은 졸졸 흐르도다
+    고승은 여름 안거 마친 뒤 다시 멀리 떠나고
+    다만 숲 속에는 원숭이와 학이 있어 놀라네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0490&viewSync=OT
+  footnotes: []
+english:
+  title: The Hermitage of Prior Nirvana
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Vines curtain the gate while clouds halfway bar the door,
+    Mountain peaks pierce upward, waters murmur clear and cold.
+    The great monk, his summer retreat complete, takes flight once more,
+    Leaving only startled gibbons and cranes in the forest depths.
+  footnotes:
+  - key: ''
+    value: Prior Nirvana (先涅) refers to a Buddhist predecessor or earlier enlightened master; the hermitage bears this name in veneration.
+  - key: ''
+    value: The 'summer retreat' (安居) refers to the Buddhist practice of Varsa, when monks gather during the rainy season for intensive practice and study.
+  - key: ''
+    value: The departure of the monk suggests the transient nature of even spiritual dwelling places, while the animals' alarm underscores the sudden disturbance of the hermitage's deep solitude.

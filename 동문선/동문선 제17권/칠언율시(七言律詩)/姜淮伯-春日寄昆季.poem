@@ -1,0 +1,46 @@
+canonical:
+  title: 春日寄昆季
+  author: 姜淮伯
+  language: lzh
+  text: 旅牎簷雨苦難聽况復萊衣隔鯉庭心與暮雲歸不駐愁隨春酒醉無醒江山此日頭先白骨肉何時眼更靑宦路險夷曾歷試是身天地一浮萍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春日寄昆季
+  author: 姜淮伯
+  language: lzh
+  text: 旅牎簷雨苦難聽。况復萊衣隔鯉庭。心與暮雲歸不駐。愁隨春酒醉無醒。江山此日頭先白。骨肉何時眼更靑。宦路險夷曾歷試。是身天地一浮萍。
+korean:
+  title: 봄날 형과 아우에게 부침
+  author: 강회백
+  language: kor
+  text: |-
+    여관 처마끝 빗소리 차마 어이 들으랴
+    때때옷 입고 부모님 앞에 춤 못 추는 서글픔
+    마음은 저녁 구름 함께 그저 돌아갈 생각 뿐
+    시름은 봄 술 따라 취해 깬 때 없구나
+    강산에 오늘 내 머리 먼저 희었네
+    골육들은 언제 눈이 다시 푸르리
+    벼슬길이 험한 줄 익히 겪어 아는 일
+    이 몸은 천지간의 한낱 부평초로구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0390&viewSync=OT
+  footnotes: []
+english:
+  title: Spring Day Letter to My Brothers
+  author: Kang Hwae-baek
+  language: eng
+  text: |-
+    The rain dripping from the inn eaves—how can I bear to hear it?
+    In patched clothes, I cannot dance before my parents' face.
+    My heart follows the evening clouds, wanting only to return,
+    While sorrow trails the spring wine, drunk and never waking.
+
+    Today my hair has turned white before the mountains and rivers,
+    When will my brothers' eyes grow young again?
+    I have long known the treacherous path of official service,
+    And this body is but a duckweed floating on heaven and earth.
+  footnotes:
+  - key: ''
+    value: The 'patched clothes' (萊衣) alludes to Confucian ideals of filial piety and humble dress, emphasizing the speaker's sense of inadequacy before his parents.
+  - key: ''
+    value: The image of duckweed represents the transience and rootlessness of human existence, a common Buddhist and Daoist metaphor in East Asian poetry.

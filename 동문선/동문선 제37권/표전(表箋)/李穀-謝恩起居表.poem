@@ -1,0 +1,31 @@
+canonical:
+  title: 謝恩起居表
+  author: 李穀
+  language: lzh
+  text: 襲封三載功未著於保釐祝壽萬年心常馳於垂拱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝恩起居表
+  author: 李穀
+  language: lzh
+  text: 襲封三載。功未著於保釐。祝壽萬年。心常馳於垂拱。
+korean:
+  title: 사은 기거 표
+  author: 이곡
+  language: kor
+  text: 습봉(襲封)한 지 3년에 나라를 보존하여 다스린 공이 나타나지 못하였사오나, 만년을 축수함에 마음은 항상 수공(垂拱)으로 달리나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial of Gratitude for Continued Office
+  author: Lee Gok
+  language: eng
+  text: Three years have passed since I inherited my position, yet no merit in governance and preservation of the realm can be discerned. As I offer wishes for ten thousand years of blessing, my heart ever races toward the virtue of humble repose.
+  footnotes:
+  - key: ''
+    value: '習封 (seup-bong): inheriting or succeeding to an official position'
+  - key: ''
+    value: '垂拱 (su-gong): a Confucian ideal of virtuous rulership through non-action, literally ''hanging one''s arms in repose'''
+  - key: ''
+    value: This memorial appears to be written in the formal style of court documents, blending humble self-deprecation with aspirational Confucian ideals

@@ -1,0 +1,37 @@
+canonical:
+  title: 嚴川寺午睡
+  author: 金宗直
+  language: lzh
+  text: 麥熟何妨省敎條偸閑蹔憇野僧寮翛然午睡無人覺只有林間婆餠焦
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 嚴川寺午睡
+  author: 金宗直
+  language: lzh
+  text: 麥熟何妨省敎條。偸閑蹔憇野僧寮。翛然午睡無人覺。只有林間婆餠焦。
+korean:
+  title: 엄천사 오수
+  author: 김종직
+  language: kor
+  text: |-
+    보리가 익은들 교조 살피는 데 방해되랴
+    여가를 훔쳐 야승의 절에서 잠깐 쉬네
+    어느새 낮잠이 들었으나 깨우는 사람 없고
+    숲 사이 봄새 파병초만 울어대누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 파병초(婆餠焦) : '
+    value: 새 이름이다. 우는 소리가 “婆餠焦”와 같다고 하여 붙여진 이름이다. 송(宋)나라 매요신(梅堯臣)의 〈기송오공명둔전통판태주(寄送吳公明屯田通判泰州)〉에 “봄새인 파병초 소리를 한 번 들으니, 대숲과 산 속 나무에 쓸쓸함이 생겨나네.[一聞春禽婆餠焦 竹林山木生蕭條]”라고 하였다. 《宛陵集 卷43 寄送吳公明屯田通判泰州》
+english:
+  title: Afternoon Nap at Eomcheon Temple
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    What harm if ripening barley goes untended by my official duties?
+    I steal away an hour's rest at the mountain temple's hermit lodge.
+    In the depths of noon I drift to sleep, and no one marks my absence—
+    Only the forest birds, the pa-byeong-chiao, cry out their lonely calls.
+  footnotes:
+  - key: ''
+    value: 'Pa-byeong-chiao (婆餠焦): A spring bird whose call resembles these Chinese characters. The name was derived from its distinctive cry. The Song dynasty poet Mei Yaochen wrote of hearing this bird''s melancholy song emerging from the bamboo groves and mountain forests.'

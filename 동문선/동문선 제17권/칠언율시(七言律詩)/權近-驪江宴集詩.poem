@@ -1,0 +1,48 @@
+canonical:
+  title: 驪江宴集詩
+  author: 權近
+  language: lzh
+  text: 黃驪山水自淸奇冠盖相逢若有期別院絃歌筵秩秩長江雲月夜遲遲浮査縹緲通霄漢飛雪霏微落酒巵幸與諸公陪盛集風流文彩勝當時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 驪江宴集詩
+  author: 權近
+  language: lzh
+  text: 黃驪山水自淸奇。冠盖相逢若有期。別院絃歌筵秩秩。長江雲月夜遲遲。浮査縹緲通霄漢。飛雪霏微落酒巵。幸與諸公陪盛集。風流文彩勝當時。
+korean:
+  title: 여강 연집시
+  author: 권근
+  language: kor
+  text: |-
+    황려고을 산수가 워낙 맑고 기교한데
+    관개(옛날 귀족이 타던 수레)들 모이는데 앞서 기약 있은 듯
+    별원에 현가소리 자리가 질서 있고
+    긴 강에 구름과 달 밤도 더디 가누나
+    띄운 배는 아득히 은하수로 통하고
+    날리는 눈은 사뿐사뿐 술잔 위에 떨어지네
+    다행 여러분을 모신 이 성한 모임
+    풍류랑 문채랑이 어느 때보다 낫구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem from the Gathering at Yeohgang
+  author: Kwon Geun
+  language: eng
+  text: |-
+    The waters of Yellow Deerhorn Mountain flow pure and rare,
+    As noble carriages converge as if by destined care.
+    In the separate pavilion, stringed music graces the feast,
+    While on the long river, clouds and moon drift at their leisured peace.
+
+    Boats drift away, ethereal, reaching toward the Milky Way,
+    Falling snow descends gently upon the wine cups where we stay.
+    Fortunate am I to gather with you all at this splendid hour—
+    Our grace and literary brilliance surpass all former power.
+  footnotes:
+  - key: ''
+    value: Yellow Deerhorn Mountain (黃驪山) refers to Yeohgang, a region in Korea known for its scenic beauty.
+  - key: ''
+    value: The 'separate pavilion' (別院) suggests an exclusive venue set apart for the gathering of distinguished guests.
+  - key: ''
+    value: The reference to snow falling into wine cups is a poetic image suggesting the blending of natural beauty with human celebration.

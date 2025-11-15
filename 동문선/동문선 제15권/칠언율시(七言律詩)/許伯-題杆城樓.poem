@@ -1,0 +1,45 @@
+canonical:
+  title: 題杆城樓
+  author: 許伯
+  language: lzh
+  text: 山水縈回境靜幽坐來心迹便淸脩五更曉色先虛閣一葉秋聲滿小樓逐浪輕鷗知所止投林倦鳥得其休吾今役役成何事俯仰東西閱數州
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題杆城樓
+  author: 許伯
+  language: lzh
+  text: 山水縈回境靜幽。坐來心迹便淸脩。五更曉色先虛閣。一葉秋聲滿小樓。逐浪輕鷗知所止。投林倦鳥得其休。吾今役役成何事。俯仰東西閱數州。
+korean:
+  title: 제 간성루
+  author: 허백
+  language: kor
+  text: |-
+    산과 물이 감돌고 경계가 그윽하니
+    앉으매 마음속이 절로 맑아지누나
+    오경 새벽빛은 빈 각에 먼저 오고
+    한 잎 떨어지자 가을소리 작은 다락에 가득하네
+    물결 쫓는 갈매기는 멈출 바를 아는 듯
+    숲에 드는 지친 새는 쉴 데를 얻건만
+    내 이제 분주했어도 무슨 일을 이뤘는고
+    동서로 몇 고을 지내왔을 뿐이구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0330&viewSync=OT
+  footnotes: []
+english:
+  title: Inscribed on Ganseong Tower
+  author: Heo Baek
+  language: eng
+  text: |-
+    Mountains and waters wind through this tranquil realm,
+    And as I sit, my heart grows clear and pure.
+    At the fifth watch, dawn's light reaches the empty pavilion first,
+    When one leaf falls, autumn's sound fills the small tower.
+    The gull chasing waves knows where to rest,
+    The weary bird seeking the forest finds its repose—
+    Yet I, though always rushing about, what have I achieved?
+    Only traveled east and west through lands unnumbered.
+  footnotes:
+  - key: ''
+    value: The 'fifth watch' refers to the final watch of the night in traditional timekeeping, around 3-5 AM, suggesting the speaker's early morning contemplation.
+  - key: ''
+    value: The contrast between the natural world finding rest and the speaker's fruitless journeys suggests a meditation on purposeless ambition and the wisdom found in accepting one's place.

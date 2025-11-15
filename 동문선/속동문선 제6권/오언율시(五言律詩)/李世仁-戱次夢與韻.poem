@@ -1,0 +1,46 @@
+canonical:
+  title: 戱次夢與韻
+  author: 李世仁
+  language: lzh
+  text: 暗淡山光晦蒼茫海氣沉客中無與話春去若爲心竟夕看紅藥移床卧綠陰猶堪慰寥落日日醉花林
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 戱次夢與韻
+  author: 李世仁
+  language: lzh
+  text: 暗淡山光晦。蒼茫海氣沉。客中無與話。春去若爲心。竟夕看紅藥。移床卧綠陰。猶堪慰寥落。日日醉花林。
+korean:
+  title: 희 차 몽여운
+  author: 이세인
+  language: kor
+  text: |-
+    암담하여라 산빛은 어두운데
+    아득하여라 바다 기운 침침하다
+    나그네와 더불어 이야기할 이 없고
+    봄이 떠나매 마음에 걸리는 듯
+    저녁이 다하도록 붉은 작약 바라보다가
+    평상을 옮겨 푸른 그늘에 누웠나니
+    그래도 쓸쓸함을 달랠 만한 것
+    날마다 꽃수풀에 취하여 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0710&viewSync=OT
+  footnotes: []
+english:
+  title: Playing on a Dream and Rhyme
+  author: Lee Se-in
+  language: eng
+  text: |-
+    The mountain light grows dim and faint,
+    The sea's breath spreads a heavy mist.
+    No companion here to share a word—
+    Spring departs, and my heart clings to it.
+
+    All evening I gaze upon red peonies,
+    Then move my bed beneath the verdant shade.
+    Yet there remains a cure for emptiness:
+    each day I lose myself in blooming groves.
+  footnotes:
+  - key: ''
+    value: The title suggests this poem was composed in response to another work, following a poetic tradition of matching rhymes and themes.
+  - key: ''
+    value: Red peonies (작약) symbolize beauty tinged with melancholy in East Asian poetry, while the act of moving one's bed represents a wanderer's restless search for solace.

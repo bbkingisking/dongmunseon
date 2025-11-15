@@ -1,0 +1,40 @@
+canonical:
+  title: 松廣李國師眞贊
+  author: 李齊賢
+  language: lzh
+  text: 國師乾乾有德與年王命寫像載瞻載虔是身離相是法離詮卽圖作贊臣愧斐然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 松廣李國師眞贊
+  author: 李齊賢
+  language: lzh
+  text: 國師乾乾。有德與年。王命寫像。載瞻載虔。是身離相。是法離詮。卽圖作贊。臣愧斐然。
+korean:
+  title: 송광 이국사 진찬
+  author: 이제현
+  language: kor
+  text: 국사의 꾸준한 노력, 덕망과 연령이 모두 높구나. 임금의 명으로 화상을 그려내어 쳐다보며 경의를 펴하였다. 이몸은 상(相)에서 떠난 것이며, 이 법(法)은 전(詮)에서 떠난 것이다. 그림에 대하여 찬을 지으니, 신의 글 솜씨 도리어 부끄럽나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the True Form of National Preceptor Lee of Songgwang
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The National Preceptor labors on with constant resolve,
+    His virtue and years both reaching their height.
+    By royal command his portrait has been painted—
+    We gaze upon it with reverent heart.
+
+    This body transcends all form and mark,
+    This dharma surpasses all explanation.
+    Yet asked to inscribe praise for his likeness,
+    I, your humble servant, blush at my meager brush.
+  footnotes:
+  - key: ''
+    value: 'National Preceptor (국사/國師): A high ecclesiastical rank in Korean Buddhism, indicating Lee''s prominence as a Buddhist prelate'
+  - key: ''
+    value: 'The paradox of praising the formless: The poem reflects Buddhist philosophy—the true nature of the preceptor exists beyond physical form and conceptual language, yet the poet must use both to fulfill the king''s command'
+  - key: ''
+    value: 'Songgwang (松廣): Songgwangsa, one of Korea''s most prominent Buddhist temples, suggesting the preceptor''s significant institutional role'

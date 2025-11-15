@@ -1,0 +1,38 @@
+canonical:
+  title: 定州途中
+  author: 鄭樞
+  language: lzh
+  text: 定州關外草萋萋沙磧無人日向西過海腥風吹戰骨白楡多處馬頻嘶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 定州途中
+  author: 鄭樞
+  language: lzh
+  text: 定州關外草萋萋。沙磧無人日向西。過海腥風吹戰骨。白楡多處馬頻嘶。
+korean:
+  title: 정주도중
+  author: 정추
+  language: kor
+  text: |-
+    정주관 밖에 풀은 어지러운데
+    모래밭에 사람 없고 해는 기울려 하네
+    바다를 지나오는 비린 바람이 전사의 뼈에 불어 오는데
+    흰 느티나무 많은 곳에 말은 자주 울더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1110&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road to Jeongju
+  author: Jung Chu
+  language: eng
+  text: |-
+    Beyond Jeongju Gate the grasses tangle wild,
+    On barren sand where no soul stirs, the sun descends.
+    A briny wind sweeps inland from the sea,
+    Bearing the chill of fallen soldiers' bones—
+    Where white elms stand thick, the horses cry and cry.
+  footnotes:
+  - key: ''
+    value: Jeongju Gate refers to the defensive fortification on the northern frontier of Goryeo
+  - key: ''
+    value: The 'fallen soldiers' bones' alludes to the constant warfare and suffering along the border regions

@@ -1,0 +1,59 @@
+canonical:
+  title: 廣寧驛偶書
+  author: 申從濩
+  language: lzh
+  text: 遼左雄藩控塞天胡氛常雜萬家烟遠人跋涉投郵傳地主殷勤送餼牽禹會何時參玉帛堯封是處問山川丁寧更與西風道穩送靈槎到日邊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 廣寧驛偶書
+  author: 申從濩
+  language: lzh
+  text: 遼左雄藩控塞天。胡氛常雜萬家烟。遠人跋涉投郵傳。地主殷勤送餼牽。禹會何時參玉帛。堯封是處問山川。丁寧更與西風道。穩送靈槎到日邊。
+korean:
+  title: 광녕역 우서
+  author: 신종호
+  language: kor
+  text: |-
+    요좌의 웅번이 변방의 하늘을 받치고 있는데
+    오랑캐의 기운은 항상 집집마다 연기에 섞인다
+    발섭해서 멀리 온 사람이 우전[역사]에 드니
+    주인은 은근히 희견을 보내 준다
+    우 임금 모임 어느 때에 모여 옥백에 참여할꼬
+    요 임금의 강토인 산천에 묻는다
+    다시 간절히 서쪽 바람에게 이르노니
+    안온히 성스러운 뗏목을 보내어 해가에 이르게 하라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 웅번(雄藩) : '
+    value: 큰 진영(鎭營)이란 말인데, 변방의 진영은 국가의 울타리가 되므로 번(藩)이라 한다.
+  - key: '[주-D002] 희견(餼牽) : '
+    value: 공가(公家)에서 공급하는 음식이다.
+  - key: '[주-D003] 옥백(玉帛) : '
+    value: 우(禹) 임금이 도산(塗山)에서 제후(諸侯)를 모았는데, 옥과 비단을 예물로 가지고 모인 자가 만국(萬國)이나 되었다 한다.
+  - key: '[주-D004] 성스러운 뗏목[靈槎] : '
+    value: 한(漢)나라 장건(張騫)이 서역(西域)에 사신(使臣)으로 가면서, 뗏목[槎]을 타고 갔다가 물을 따라 올라가서 은하수(銀河水)에 이르러, 직녀성(織女星)을 만나고 왔다는 전설(傳說)이 있으므로, 신령스러운 뗏목이라 하였다.
+  - key: '[주-D005] 해[日]가 : '
+    value: 여기서는 천자의 곁이란 말이다.
+english:
+  title: A Casual Verse at Guangning Station
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    The mighty garrison of Liaodong upholds the borderland's sky,
+    Yet barbarian mists forever mingle with the smoke of ten thousand homes.
+    Weary travelers from distant lands arrive at the posting station,
+    And hospitable hosts graciously provide provisions for the journey.
+
+    When shall we gather like Yu the Great at his sacred meeting,
+    Where jade and silk were brought as tribute to his realm?
+    I ask this of the mountains and rivers of Yao's own domain—
+    O western wind, I entreat you: safely guide the sacred raft
+    To reach the seat beside the sun.
+  footnotes:
+  - key: ''
+    value: The 'sacred raft' alludes to the legend of Zhang Qian of the Han dynasty, who traveled westward as an envoy and, following the waters on a raft, reached the Milky Way itself and met the Weaver Star.
+  - key: ''
+    value: The 'seat beside the sun' is a poetic reference to the emperor's presence at the celestial court.
+  - key: ''
+    value: Yu the Great's gathering at Tushan, where ten thousand kingdoms brought jade and silk as tokens of homage, represents the ideal of universal harmony under enlightened rule.

@@ -1,0 +1,37 @@
+canonical:
+  title: 郵亭夜雨
+  author: 崔致遠
+  language: lzh
+  text: 旅舘窮秋雨寒䆫靜夜燈自憐愁裏坐眞箇定中僧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 郵亭夜雨
+  author: 崔致遠
+  language: lzh
+  text: 旅舘窮秋雨。寒䆫靜夜燈。自憐愁裏坐。眞箇定中僧。
+korean:
+  title: 우정 야우
+  author: 최치원
+  language: kor
+  text: |-
+    여관에 늦은 가을비 소리
+    고요한 밤 한창의 불빛
+    스스로 탄식하네 시름 속에 앉으니
+    이야 참으로 정(定)에 든 중인 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정(定) : '
+    value: 삼매(三昧)의 역어(譯語)인데, 온갖 생각을 끊고 정신이 통일된 상태를 말한다.
+english:
+  title: Night Rain at the Post Station
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Late autumn rain sounds through the inn,
+    A solitary lamp glows in the quiet night.
+    I sit alone and sigh in sorrow—
+    Truly, I have become a monk lost in meditation.
+  footnotes:
+  - key: ''
+    value: The 'meditation' (定) referenced here is a state of profound mental unity where all thoughts are stilled, a Buddhist concept of samadhi.

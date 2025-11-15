@@ -1,0 +1,40 @@
+canonical:
+  title: 謝表上
+  author: 李齊賢
+  language: lzh
+  text: 聦聽必卑天豈鶴鳴之相阻睿恩偏重山非蚊負之可勝惟一國之感銘實四方之欽慕伏念遭逢盛旦宿衛多年言告言歸雖輟趨蹌之列而康而色每容敷奏之辭適因賤介之還迴與先臣之賜璽書六軸承使命以有憑銀字三符報軍情而無滯玆盖伏遇簡臨寬御厚往薄來推博愛於邊氓視同內地記微勞於上世撫及後昆臣敢不率祖攸行述侯所職有闕文 天子之休夜寐夙興請祝聖人之壽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝表上
+  author: 李齊賢
+  language: lzh
+  text: 聦聽必卑。天豈鶴鳴之相阻。睿恩偏重。山非蚊負之可勝。惟一國之感銘。實四方之欽慕。伏念遭逢盛旦。宿衛多年。言告言歸。雖輟趨蹌之列。而康而色。每容敷奏之辭。適因賤介之還。迴與先臣之賜。璽書六軸。承使命以有憑。銀字三符。報軍情而無滯。玆盖伏遇簡臨寬御。厚往薄來。推博愛於邊氓。視同內地。記微勞於上世。撫及後昆。臣敢不率祖攸行。述侯所職。有闕文。 天子之休。夜寐夙興。請祝聖人之壽。
+korean:
+  title: 사표상
+  author: 이제현
+  language: kor
+  text: 밝게 들음이 반드시 낮으니 하늘에 어찌 학(鶴)의 울음소리가 안 들리리까. 임금의 은혜가 치우치게 무거우니 산이 모기의 힘으로 질 것이 아니옵니다. 일국의 감명(感銘)하는 바이며 사방이 흠모하나이다. 엎드려 생각하옵건대, 융성한 때를 만나 다년간 숙위(宿衛)하였나이다. 하직하고 돌아오매 비록 늘어서던 반열에는 빠졌사오나, 낯빛을 부드럽게 하시어 매양 아뢰는 말씀을 받아 주셨나이다. 마침 천한 사신이 돌아옴에 선신(先臣)에게 주셨던 것을 돌려 주시니, 쇄서(璽書)육축(六軸))은 사명(使命)을 받자온 증거가 있으며, 은자(銀字) 삼부(三符)는 군정(軍情)을 보고하는데 지체가 없게 되었나이다. 이는 대개 폐하께서 간이(簡易)하게 임하시며 너그럽게 대접하시고, 후히 가고 박하게 오게 하시어 먼 지방의 백성에게 박애(博愛)하여 내지(內地)와 같이 보시며, 선대의 조그만 공로를 기억하시어 후손에까지 어루만져 주심을 엎드려 만났음이라, 신이 감히 어찌 조상의 하던 바를 따라서 제후(諸侯)의 직분을 이행하지 않겠사오며 □ 천자(天子)의 아름다운 명령을 복종하지 않겠습니까. □ 밤늦게 자며 일찍 일어나서 성인(聖人)의 수를 빌겠나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 밝게 …… 낮으니 : '
+    value: ‘하늘이 높아도 듣는 것은 낮다[天高聽卑].’는 말이 있는데, 땅 위에 있는 것을 다 듣는다는 뜻이다.
+  - key: '[주-D002] 학(鶴)의 …… 들리리까 : '
+    value: 《시경》에 “학(鶴)이 언덕에서 우는 데 소리가 하늘에 들린다.”라는 말이 보인다.
+  - key: '[주-D003] 쇄서(璽書) : '
+    value: 임금의 옥쇄(玉璽)를 찍은 친서(親書).
+english:
+  title: Memorial of Gratitude Presented
+  author: Lee Jae-hyeon
+  language: eng
+  text: |-
+    Though heaven's ear bends low, it hears all beneath—does it not catch the crane's cry? The sovereign's grace weighs heavy and partial, no mere mosquito's strength could bear such burden. The gratitude of one kingdom, the admiration of the four quarters—all converge here.
+
+    I reflect humbly: in these prosperous days, I have stood guard for many years. Though I have now stepped back from the imperial retinue, the sovereign's gracious countenance has ever received my humble reports. As this humble servant returns, the treasures once bestowed upon my predecessors are restored to me—the imperial seals in six rolls serve as proof of my mandate, the silver tallies in three copies ensuring swift dispatch of military affairs.
+
+    This flows from Your Majesty's gentle governance and generous forbearance, extending your vast love to distant lands as you do to the inner realm, remembering even the small services of our ancestors and extending grace to their descendants. How could I dare not follow the path my forebears have trod, nor fulfill the duties of my station? I shall not slumber nor cease my vigil, and I offer daily prayers for the longevity of the Sage-King.
+  footnotes:
+  - key: ''
+    value: The opening phrase alludes to the classical principle that 'though heaven is high, it listens low'—meaning the sovereign hears and sees all his subjects.
+  - key: ''
+    value: The crane's cry reaching heaven is a reference to the Book of Odes, suggesting that even the humblest voice may reach the highest authority.

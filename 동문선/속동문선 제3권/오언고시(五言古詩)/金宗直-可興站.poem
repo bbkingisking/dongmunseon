@@ -1,0 +1,86 @@
+canonical:
+  title: 可興站
+  author: 金宗直
+  language: lzh
+  text: 嵯峩雞立嶺終古限北南北人闘豪華南人脂血甘牛車歷鳥道農野無丁男江干夜枕籍吏胥何婪婪小市魚欲縷茅店酒如泔醵錢喚遊女翠翹凝紅藍民苦剜心肉吏姿喧醉談斗斛又計贏漕司宜發慚官賦什之一胡令輸二三江水自滔滔日夜噓雲嵐帆檣蔽峽口北下爭驂驔南人蹙頞看北人誰能諳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 可興站
+  author: 金宗直
+  language: lzh
+  text: 嵯峩雞立嶺。終古限北南。北人闘豪華。南人脂血甘。牛車歷鳥道。農野無丁男。江干夜枕籍。吏胥何婪婪。小市魚欲縷。茅店酒如泔。醵錢喚遊女。翠翹凝紅藍。民苦剜心肉。吏姿喧醉談。斗斛又計贏。漕司宜發慚。官賦什之一。胡令輸二三。江水自滔滔。日夜噓雲嵐。帆檣蔽峽口。北下爭驂驔。南人蹙頞看。北人誰能諳。
+korean:
+  title: 가흥참
+  author: 김종직
+  language: kor
+  text: |-
+    높고 가파른 계립령은
+    예로부터 남북을 그어놓았네
+    북쪽 사람은 호화를 다투고
+    남쪽 사람은 기름과 피 빨리네
+    우차가 험한 고개를 넘어가니
+    농사 벌판에 남정들이 없겠다
+    강변에서 밤에 줄지어 자는데
+    아전들은 왜 그리 욕심도 사나운고
+    작은 저자에 생선은 실오라기만하고
+    초가집 주막에 술은 쌀뜨물 같은데
+    돈을 모아 유녀를 불러오니
+    푸른 머리 단장에 분홍 저고리 남치마
+    백성들은 살을 깎이는 것괴로운데
+    아전들은 멋대로 취해서 지껄이네
+    게다가 또 말과 섬으로 이를 보려 계교하니
+    조사는 마땅히 부끄러움을 알아야 하리
+    관가의 부세는 십분의 일인데
+    어찧다 2ㆍ3을 수운하게 하는고
+    강물은 도도히 제 흐르며
+    주야로 구름과 이내를 불어내는데
+    돛대가 협구를 가득히 덮어
+    북쪽으로 앞을 다투어 내려가는구나
+    남쪽 사람들 낯을 찡그리고 바라보건만
+    북쪽 사람들 뉘라서 이 사정 알리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백성들은 살을 깎이는 것 : '
+    value: 당나라 섭이중(聶夷中)이, 농민들이 농사지은 곡식을 국세(國稅)로 다 바치는 것을 읊은 시에, “심두(心頭)의 살을 깎아 낸다[剜却心頭肉].”는 글귀가 있다.
+  - key: '[주-D002] 조사(曹司) : '
+    value: 세곡(稅穀)을 서울로 수송(輸送)하는 관원.
+english:
+  title: Kaxing Station
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Craggy peaks rise steep at Ridge of계립령,
+    Since ancient times dividing North from South.
+    Northmen vie for splendor and excess,
+    While Southmen bleed their marrow dry.
+
+    Ox-carts labor up the perilous gorge—
+    The farmlands emptied now of able men.
+    By night they crowd the riverbank to sleep,
+    While clerks grow fat with appetites unchained.
+
+    The market stalls display but meager fish,
+    The thatched tavern pours what seems like swill.
+    They pool their coins to summon dancing girls—
+    With painted brows and crimson skirts they come.
+
+    The people cry as flesh is carved from bone,
+    Yet drunken clerks discourse and laugh aloud.
+    With scales and measures bent to thievish gain,
+    The transport magistrate should bow in shame.
+
+    Official taxes ask one part in ten—
+    Yet somehow two or three make passage South.
+    The river flows relentless, day and night,
+    Exhaling mist and cloud toward Heaven's dome.
+
+    Sails and masts block out the gorge's mouth,
+    As Northbound vessels race in haste downstream.
+    The Southmen watch with furrowed, grieving brows,
+    But Northmen—who among them knows their plight?
+  footnotes:
+  - key: ''
+    value: The phrase 'flesh is carved from bone' alludes to a Tang dynasty poem by Nie Yizhen lamenting how peasant farmers must surrender their entire harvest as taxes, describing it as 'carving flesh from the heart.'
+  - key: ''
+    value: This poem condemns the systematic exploitation occurring at Kaxing Station, a major transport hub where tax grain was collected and shipped northward, revealing the corruption of local officials and the suffering of the common people caught in this system.

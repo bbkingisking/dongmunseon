@@ -1,0 +1,46 @@
+canonical:
+  title: 次驪江淸心樓韻
+  author: 辛碩祖
+  language: lzh
+  text: 世事紛紜日幾端登臨此夕偶開顔江邊老樹不知歲天末遙岑何處山仙境肯尋三島外風流却勝五湖閒怱怱仗鉞皇華使胡奈奔馳未暫閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次驪江淸心樓韻
+  author: 辛碩祖
+  language: lzh
+  text: 世事紛紜日幾端。登臨此夕偶開顔。江邊老樹不知歲。天末遙岑何處山。仙境肯尋三島外。風流却勝五湖閒。怱怱仗鉞皇華使。胡奈奔馳未暫閑。
+korean:
+  title: 차 여강청심루 운
+  author: 신석조
+  language: kor
+  text: |-
+    시끄러운 세상일 하루에도 몇 가진고
+    오늘 이 다락에 우연히 얼굴 펴네
+    강가의 늙은 나무는 나이도 모르겠네
+    하늘 끝 먼 봉은 어느 곳의 산인가
+    선경을 삼도 밖에 찾아서 무엇하리
+    풍류는 오호보다 예가 더 낫구나
+    총총히 도끼 짚은 사신의 몸
+    내 어이 뛰어다니며 잠시도 한가하지 못한가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0740&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Rhymes of the Leoyeong River Clear Heart Pavilion
+  author: Shin Seok-jo
+  language: eng
+  text: |-
+    How many troubles fill each day in this chaotic world?
+    Tonight I climb this tower and smile without cause.
+    The ancient tree by the river knows not its own age,
+    And that distant peak beyond the sky—what mountain is it?
+
+    Why seek paradise beyond the Three Isles?
+    The wind and grace of rivers surpasses five lakes' leisure.
+    Hurrying on with the envoy's staff and blade,
+    How can I find even a moment's rest in all my wandering?
+  footnotes:
+  - key: ''
+    value: The Three Isles (三島) and Five Lakes (五湖) are classical references to legendary paradises and peaceful retreats in Chinese poetry.
+  - key: ''
+    value: The 'envoy's staff and blade' (鉞) refers to the speaker's official duties and responsibilities, suggesting a life of constant service and travel.

@@ -1,0 +1,47 @@
+canonical:
+  title: 謫居卽事
+  author: 李種學
+  language: lzh
+  text: 江山雖寂寞天地自淸寧身困春欹枕心愁晝掩扃何人趍北闕此地近南溟客裏春初仲時時讀楚經
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謫居卽事
+  author: 李種學
+  language: lzh
+  text: 江山雖寂寞。天地自淸寧。身困春欹枕。心愁晝掩扃。何人趍北闕。此地近南溟。客裏春初仲。時時讀楚經。
+korean:
+  title: 적거 즉사
+  author: 이종학
+  language: kor
+  text: |-
+    강산이 비록 적막하나
+    천지가 절로 맑고 편안하네
+    몸이 곤하매 봄 베개에 기대어 졸고
+    마음에 수심 있으니 온종일 사립문을 닫네
+    어느 사람이 북궐로 가는가
+    이 땅은 남해에 가깝다
+    객지에 몸은 벌써 반이나 됐는데
+    나는 때때로 초경(초나라 굴원(屈原)이 지은 이소경(離騷經))을 읽고 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0950&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 북궐(北闕) : '
+    value: 임금의 대궐은 남향(南向)이므로 북궐(北闕)이 된다.
+english:
+  title: Reflections on Exile
+  author: Lee Jong-hak
+  language: eng
+  text: |-
+    Though mountains and rivers lie desolate,
+    heaven and earth maintain their pristine calm.
+    My weary body rests against a spring pillow,
+    while sorrow locks my heart behind closed doors all day.
+    Who journeys north to the palace gates?
+    This land lies near the southern sea.
+    Half my life now spent in wandering exile,
+    I read the verses of Chu, again and again.
+  footnotes:
+  - key: ''
+    value: The 'palace gates' (北闕) refer to the royal court to the north, following the traditional Chinese orientation where the emperor faces south.
+  - key: ''
+    value: The 'verses of Chu' alludes to the Lisao (離騷), the classical elegy by Qu Yuan of the Chu kingdom, itself a meditation on exile and political displacement.

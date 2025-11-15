@@ -1,0 +1,41 @@
+canonical:
+  title: 靑嶂幽林圖
+  author: 李淑琪
+  language: lzh
+  text: 陸公靑嶂幽林置我瀟湘華陰對此還思歸路借吾第幾煙岑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靑嶂幽林圖
+  author: 李淑琪
+  language: lzh
+  text: 陸公靑嶂幽林。置我瀟湘華陰。對此還思歸路。借吾第幾煙岑。
+korean:
+  title: 청장 유림도
+  author: 이숙기
+  language: kor
+  text: |-
+    육공(陸公)의 푸른 산과 그윽한 숲은
+    나를 소상이나 화음에 가져다 두었네
+    이것을 대하다 도리어 돌아갈 길을 생각하나니
+    나에게 몇 번째 연기 낀 봉우리를 빌려 주려나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0250_020_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 육공(陸公) : '
+    value: 진(晉)나라 육탐미(陸探微)가 그림을 잘 그렸는데, 여기서는 그것을 말하였는지 혹은 당시에 그 그림을 그린 육씨(陸氏)가 있었는지 미상(未詳)이다.
+english:
+  title: On Master Lu's Painting of Green Mountains and Secluded Forest
+  author: Lee Suk-ki
+  language: eng
+  text: |-
+    Master Lu's green mountains and secluded forest
+    Have placed me in the landscape of Xiaoxiang or Huayin.
+    Gazing upon this scene, I long again for the path home—
+    Will you lend me one of these mist-wreathed peaks?
+  footnotes:
+  - key: ''
+    value: Master Lu refers to the renowned painter Lu Tanwei of the Jin Dynasty, though it is uncertain whether this poem references his work specifically or another artist of the Lu family from the poet's own time.
+  - key: ''
+    value: Xiaoxiang and Huayin are legendary landscape locations, representing idealized natural settings sought by those yearning for retreat from the world.
+  - key: ''
+    value: The final image of 'mist-wreathed peaks' suggests the poet's desire not merely to escape, but to be transformed by nature itself—seeking permanence in the sublime landscape rather than mere physical departure.

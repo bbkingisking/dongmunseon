@@ -1,0 +1,37 @@
+canonical:
+  title: 聞鶯有感用元內書韻
+  author: 鄭樞
+  language: lzh
+  text: 夏木陰陰雨乍晴金衣相喚百般聲知渠固有驚人喙齊鳥三年不肯鳴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 聞鶯有感用元內書韻
+  author: 鄭樞
+  language: lzh
+  text: 夏木陰陰雨乍晴。金衣相喚百般聲。知渠固有驚人喙。齊鳥三年不肯鳴。
+korean:
+  title: 문앵유감용원내서운
+  author: 정추
+  language: kor
+  text: |-
+    여름 나무 우거지고 비가 잠깐 갰는데
+    금옷(꾀꼬리)의 서로 부르는 온갖 소리일세
+    보아라 본래 사람을 놀랠 만한 부리 있건만
+    그 제나라 새는 삼 년 동안 울려 하지 않네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 제(齊)나라 …… 울려 하지 않네 : '
+    value: 제 위왕(齊威王)이 임금이 된 지 3년에 음란한 놀이만 하고 정치는 돌보지 아니하였다. 순우곤(淳于髡)이 왕에게 은어(隱語 수수께끼)를 하기를, “큰 새가 한 마리 있는데 3년 동안이나 날지도 않고 울지도 않으니 무슨 까닭입니까.” 하니 왕이 답하기를, “3년 동안 날지 않다가 날면 장차 하늘을 찌를 것이며, 3년 동안 울지 않다가 울면 장차 사람을 놀래게 할 것이다.” 하고 그날부터 정치에 힘을 써서 강국(強國)이 되었다.
+english:
+  title: 'Reflections Upon Hearing the Oriole: Using the Rhyme Scheme of Yuan''s Inner Commentary'
+  author: Jeong Chu
+  language: eng
+  text: |-
+    Summer trees thick with verdant shade, the rain has just cleared away.
+    Golden-robed birds call to one another in a hundred different songs.
+    See how they possess beaks sharp enough to startle the heart—
+    Yet that bird of Qi remained three years without a single cry.
+  footnotes:
+  - key: ''
+    value: 'This poem alludes to a famous anecdote from the Warring States period. Lord Wei of Qi indulged himself for three years without attending to governance. The counselor Chunyu Kun posed a riddle: ''There is a great bird that has not flown nor sung for three years—why is this?'' The Lord replied, ''When at last it flies, it will strike the heavens; when it finally sings, it will astonish mankind.'' Taking this rebuke to heart, the Lord thereafter devoted himself to statecraft and made Qi a powerful realm. The poem uses this historical parallel to contrast the oriole''s constant, carefree song with the potential of dormant greatness—suggesting that silence and restraint can precede momentous action.'

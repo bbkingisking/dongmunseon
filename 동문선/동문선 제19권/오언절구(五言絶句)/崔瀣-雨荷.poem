@@ -1,0 +1,40 @@
+canonical:
+  title: 雨荷
+  author: 崔瀣
+  language: lzh
+  text: 貯椒八百斛千載笑其愚何如綠玉斗竟日量明珠牧隱云此誚不廉饒富者
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雨荷
+  author: 崔瀣
+  language: lzh
+  text: 貯椒八百斛。千載笑其愚。何如綠玉斗。竟日量明珠。牧隱云此誚不廉饒富者。
+korean:
+  title: 우하
+  author: 최해
+  language: kor
+  text: |-
+    후추 8백 섬 쌓아 놓았다고
+    천재에 그 어리석음을 웃었네
+    녹옥두 푸른 말로
+    진종일 구슬을 되는 건 어떤가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 후추 8백 섬 : '
+    value: 당나라 재상(宰相)  원재(元載)가 죽음을 당한 뒤, 가산(家産)을 몰수하니 후추(胡椒)가 8백 섬[斛]이요, 다른 재물도 그렇게 많았다.
+english:
+  title: The Rain-Lotus
+  author: Choi Hae
+  language: eng
+  text: |-
+    Eight hundred measures of peppercorns heaped high—
+    For a thousand years they mocked his foolish greed.
+    Yet what of the green jade measure?
+    All day long it weighs out pearls.
+    Mu-yin said this was a jibe at those of rank who hoarded wealth.
+  footnotes:
+  - key: ''
+    value: The eight hundred measures of peppercorns refers to the confiscated wealth of Yuan Zai, a Tang Dynasty chancellor, whose hoarded spices became legendary as a symbol of greed that earned only mockery through the ages.
+  - key: ''
+    value: The 'green jade measure' and 'weighing pearls' present a contrasting image—perhaps suggesting that true wealth lies not in accumulation of material goods, but in something more precious and fluid, like measuring light itself.

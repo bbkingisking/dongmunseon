@@ -1,0 +1,49 @@
+canonical:
+  title: 中秋雨後
+  author: 陳澕
+  language: lzh
+  text: 仰看濃墨久含情忽喜涼風四面生銀竹已隨雲脚捲玉盤還共露華淸遊人欲散重呼酒倡妓相招更按笙應爲天瓢洗空碧孤光全勝別宵明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中秋雨後
+  author: 陳澕
+  language: lzh
+  text: 仰看濃墨久含情。忽喜涼風四面生。銀竹已隨雲脚捲。玉盤還共露華淸。遊人欲散重呼酒。倡妓相招更按笙。應爲天瓢洗空碧。孤光全勝別宵明。
+korean:
+  title: 중추 우후
+  author: 진화
+  language: kor
+  text: |-
+    먹장 구름 쳐다보며 마음 오래 울적터니
+    문득 서늘바람이 사면에서 불어 오네
+    은빛 대줄기는 구름발 따라 걷어 가고
+    둥그런 옥소반이 이슬과 함께 해맑구나
+    놀이꾼들은 헤지려다 거듭 술을 가져오라고
+    기생들은 서로 불러 다시 피리를 부는구나
+    하늘의 물바가지로 말끔히 벽공을 씻었으니
+    휘영청 밝은 그 빛이 여느 밤과 영 다르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 은빛 대줄기[銀竹] : '
+    value: 내리는 소나기의 비유. “하얀 비가 찬 산에 비치니, 쭉쭉 은대와 같구나[白雨映寒山森森如銀竹].”《李白》
+  - key: '[주-D002] 둥그런 옥소반[玉盤] : '
+    value: “어렸을 적에 달을 몰라서 흰 옥소반이라 불렀네[少時不識月呼作白玉盤].”《이백(李白)》
+english:
+  title: After Rain at Mid-Autumn
+  author: Chen Hua
+  language: eng
+  text: |-
+    I gaze up at clouds dark as ink, my heart lingering long in melancholy.
+    Suddenly a cool wind stirs from all four directions with delight.
+    Silver bamboo already bends and trails with the wind's sweep.
+    The jade plate of the moon glows pure alongside the dewy gleam.
+    The revelers, about to disperse, call again for wine.
+    The courtesans beckon each other and resume their pipes.
+    As if heaven's ladle had scraped the vault of sky clean,
+    This solitary radiance shines far brighter than any other night.
+  footnotes:
+  - key: ''
+    value: 'Silver bamboo: a metaphor for falling rain, evoking Li Bai''s image of white rain reflecting off cold mountains like shining silver bamboo.'
+  - key: ''
+    value: 'Jade plate: a reference to Li Bai''s famous line about mistaking the moon for a white jade plate in childhood—here suggesting the moon''s perfect circular luminescence.'

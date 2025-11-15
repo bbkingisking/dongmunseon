@@ -1,0 +1,57 @@
+canonical:
+  title: 詠雪
+  author: 林惟正
+  language: lzh
+  text: 聽憐終夜落齊己 片薄逐風斜辛寅遜 幽澗迷松響盧肇虛庭混月華僧正勤 繞墻全剝粉李商隱 着樹揔成花 趙滕 爲報詩人導錢起 前村酒可賖和放
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詠雪
+  author: 林惟正
+  language: lzh
+  text: |-
+    聽憐終夜落。齊己。 片薄逐風斜。辛寅遜。 幽澗迷松響。盧肇。
+    虛庭混月華。僧正勤。 繞墻全剝粉。李商隱。 着樹揔成花。 趙滕。 爲報詩人導。錢起。 前村酒可賖。和放。
+korean:
+  title: 영설
+  author: 임유정
+  language: kor
+  text: |-
+    듣기도 어여쁘다, 밤새도록 내리는 소리 제기(齊己)
+    얇다란 조각이 바람에 쫓겨 하늘하늘 신인손(辛寅遜)
+    그윽한 골짝에선 솔 소리와 섞갈리고 노조(盧肇)
+    빈 뜰에서는 달빛과 혼동되네 승(僧) 정근(正勤)
+    담을 둘러 전부 분을 칠했고 이상은(李商隱)
+    나무에 붙으면 모두 꽃이 되는구나 조등(趙膝)
+    시인에게 말씀 좀 전해 주게 전기(錢起)
+    앞 마을에 가 술 먹을 만하다고 화방(和放)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: On Snow
+  author: Lim Yu-jeong
+  language: eng
+  text: |-
+    Lovely to hear—the sound of snow falling through the night,
+    according to Qi Ji.
+    Thin fragments chased by wind, dancing lightly,
+    says Xin Yin-xun.
+    In the secluded ravine it mingles with the whisper of pines,
+    Lu Zhao observes.
+    In the empty courtyard it blurs with moonlight—
+    thus speaks the monk Jing-kun.
+    Around the walls, white powder covers all,
+    Li Shang-yin notes.
+    Where it clings to trees, it becomes flowers entirely,
+    Zhao Teng declares.
+    Bring word to the poets, I say,
+    as Qian Qi would wish.
+    That in the village ahead, wine may still be had for credit,
+    He Fang concludes.
+  footnotes:
+  - key: ''
+    value: This poem is composed entirely of allusions to and quotations from famous Chinese poets and Buddhist monks, each attribution noted parenthetically. The work is a sophisticated literary game where the author weaves together multiple poetic voices to create a unified meditation on snow.
+  - key: ''
+    value: The shift from sensory impressions (hearing, sight) to the practical concern of obtaining wine at the poem's end reflects a classical move from refined aesthetic appreciation to the humbler realities of human life.
+  - key: ''
+    value: The attribution of each line to different poets and monks suggests this may be a collaborative work or a compilation drawing from a shared literary tradition among Korean literati of the period.

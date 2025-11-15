@@ -1,0 +1,41 @@
+canonical:
+  title: 琵琶行
+  author: 權漢功
+  language: lzh
+  text: 公主烏孫萬里程江州司馬淚千行後人豈解絃中趣淸夜沉沉月轉廊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 琵琶行
+  author: 權漢功
+  language: lzh
+  text: 公主烏孫萬里程。江州司馬淚千行。後人豈解絃中趣。淸夜沉沉月轉廊。
+korean:
+  title: 비파행
+  author: 권한공
+  language: kor
+  text: |-
+    공주는 오손에게 만 리 길을 떠났고
+    강주사마는 천 줄기 눈물을 흘리었다
+    뒷사람이 어떻게 그 비파줄 속의 뜻을 알건가
+    맑은 밤은 깊어 가는데 달은 행랑에 구른다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0840&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 공주(公主)는 …… 떠났고 : '
+    value: 한(漢)나라 공주(公主)가 오손왕(烏孫王) 곤막(昆莫)에게 시집가면서 슬픈 회포를 비파의 곡조로 탔다.
+  - key: '[주-D002] 강주사마(江州司馬)는 …… 흘리었다 : '
+    value: 당나라 백락천(白樂天)이 강주사마(江州司馬)로 멀리 좌천(左遷)되어 갔는데, 강상(江上)에서 여자의 비파소리를 듣고 자기의 신세를 한탄하여 눈물을 흘렸다.
+english:
+  title: The Pipa Song
+  author: Gwon Han-gong
+  language: eng
+  text: |-
+    The princess journeyed ten thousand miles to the Wusun lands,
+    The circuit judge of Jiangzhou wept a thousand streams of tears.
+    How could those who come after understand the meaning hidden in the strings?
+    On this clear night, growing ever deeper, the moon rolls past the gallery.
+  footnotes:
+  - key: ''
+    value: The opening alludes to a Han dynasty princess who was sent to marry the Wusun king, expressing her sorrow through the pipa's melody.
+  - key: ''
+    value: The circuit judge of Jiangzhou refers to the Tang poet Bai Juyi, who was demoted to this remote post and, upon hearing a woman's pipa performance on the riverbank, wept at the reflection of his own fate.

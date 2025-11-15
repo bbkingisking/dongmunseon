@@ -1,0 +1,55 @@
+canonical:
+  title: 醉題翰院
+  author: 白元恒
+  language: lzh
+  text: 今夕不知是何夕偶與靑州從事同欣然引滿醉復醉席上爛熳回春風半壁靑燈翳復吐時聞玉漏聲丁東論交到深夜不覺金樽空醉鄕差可樂世事終無窮明朝醉醒後揮汗紅塵中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 醉題翰院
+  author: 白元恒
+  language: lzh
+  text: 今夕不知是何夕。偶與靑州從事同。欣然引滿醉復醉。席上爛熳回春風。半壁靑燈翳復吐。時聞玉漏聲丁東。論交到深夜。不覺金樽空。醉鄕差可樂。世事終無窮。明朝醉醒後。揮汗紅塵中。
+korean:
+  title: 취제한원
+  author: 백원항
+  language: kor
+  text: |-
+    이 밤이 무슨 밤인지 모르는데
+    우연히 청주종사와 함께 하였다
+    흔연히 가득히 따라 취하고 또 취하니
+    자리 위에 난만히 봄바람이 도는구나
+    반 벽의 푸른 등불은 어두워졌다 다시 살아나는데
+    때로는 옥누 뚝뚝 떨어지는 소리 들린다
+    우정을 이야기하다가 밤이 깊은데
+    금 동이의 빈 줄을 깨닫지 못하였다
+    취한 천지는 조금 즐겁지마는
+    세상 일은 마침내 끝이 없더라
+    내일 아침 깬 뒤에는
+    홍진 속에서 또 허덕거리리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0610&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청주종사(靑州從事) : '
+    value: 좋지 못한 술은 평원독우(平原督郵)라 부르고 좋은 술을 청주종사(靑州從事)라 부르는데 그것은 평원에 격현(鬲縣)이 있고 청주에 제현(齊縣)이 있는데, 좋지 못한 술은 가슴[膈]에서 오르내리고 좋은 술은 배꼽[臍]까지 내려간다는 뜻으로 그렇게 술에다 은어(隱語)를 붙인 것이다.
+english:
+  title: Drunk Inscription at the Han Academy
+  author: Baek Won-hang
+  language: eng
+  text: |-
+    What night is this night, I cannot say—
+    By chance I drink with Qingzhou's finest wine.
+    Willing, I pour and drink, drink deep again,
+    And spring winds waltz across our laden table.
+
+    On half the wall, blue lamplight flickers, fades, then glows anew,
+    While now and then the jade clock drops its measured song.
+    We speak of friendship as the night grows old,
+    Unaware the golden vessel's belly turns to void.
+
+    The realm of drunkenness holds its small joy,
+    Yet worldly cares refuse to ever cease.
+    When morning breaks and sobriety returns,
+    I'll labor once more in the red dust's endless toil.
+  footnotes:
+  - key: ''
+    value: The term 'Qingzhou' wine refers to premium wine, as opposed to inferior varieties. According to Chinese poetic convention, good wine descends to the belly while poor wine merely rises and falls in the chest.

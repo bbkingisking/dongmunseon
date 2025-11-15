@@ -1,0 +1,39 @@
+canonical:
+  title: 東郊値雨
+  author: 金克己
+  language: lzh
+  text: 黃埃漠漠漲晴旻擧扇西風欲汚人多謝晚雲能作雨半途湔洗滿衣塵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東郊値雨
+  author: 金克己
+  language: lzh
+  text: 黃埃漠漠漲晴旻。擧扇西風欲汚人。多謝晚雲能作雨。半途湔洗滿衣塵。
+korean:
+  title: 동교 치우
+  author: 김극기
+  language: kor
+  text: |-
+    누른 먼지 막막히 개인 하늘에 가득한데
+    부채를 드니 서녁 바람이 사람을 더럽히려네
+    늦은 구름이 능히 비를 일으켜
+    노상에서 옷에 가득한 티끌 씻어 줌이 고마워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0670&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 부채를 …… 더럽히려네 : '
+    value: 진(晉)나라 유량(庾亮)과 왕도(王導) 두 사람이 서로 권세를 다투었는데, 유량은 석두(石頭)에 있고, 왕도는 야성(冶城)에 있었다. 왕도가 앉았을 때에 서풍이 크게 불어 티끌을 날리니 왕도가 부채를 들어 티끌을 막으며, “원규(元規 유량(庾亮)의 자(字))의 티끌이 사람을 더럽히네.” 하였다.
+english:
+  title: Rain at the Eastern Suburb
+  author: Kim Keuk-gi
+  language: eng
+  text: |-
+    Yellow dust swirls thick across the open sky,
+    When I raise my fan, the western wind seeks to soil me.
+    Thank the tardy clouds for their kindness—
+    They wash the road dust from my robes halfway through my journey.
+  footnotes:
+  - key: ''
+    value: The image of the fan and western wind alludes to a historical anecdote from the Jin Dynasty, where Wang Dao fanned away dust while making a pointed remark about his rival Yu Liang, transforming a mundane gesture into political commentary. Here, the poet invokes this classical reference to express the universal human struggle against nature's indignities.
+  - key: ''
+    value: The poem's structure emphasizes the welcome intervention of rain as a form of grace—the clouds arrive not as mere meteorological event but as benevolent force that interrupts the traveler's suffering.

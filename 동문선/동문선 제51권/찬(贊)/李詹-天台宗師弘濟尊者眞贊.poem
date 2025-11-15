@@ -1,0 +1,45 @@
+canonical:
+  title: 天台宗師弘濟尊者眞贊
+  author: 李詹
+  language: lzh
+  text: 假合四大有此根塵法身離相直親無垠是身爲假傳神乃眞溫其道貌與物皆春釋門之表學海崐崙祖燈有續永世不泯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 天台宗師弘濟尊者眞贊
+  author: 李詹
+  language: lzh
+  text: 假合四大。有此根塵。法身離相。直親無垠。是身爲假。傳神乃眞。溫其道貌。與物皆春。釋門之表。學海崐崙。祖燈有續。永世不泯。
+korean:
+  title: 천태종사 홍제존자 진찬
+  author: 이첨
+  language: kor
+  text: 사대(四大)를 빌며 합해 놓아서 이렇게 근(根)과 진(塵)이 있게 되었다. 법신(法身)은 모양을 떠나서 있고, 직친(直親)은 한계가 없다. 이 몸은 빌린 것이나 정신을 전하는 것은 참이로다. 온화한 그의 도 있는 모양, 사물과 함께 모두가 봄이로다. 불교에서 사표가 되며 학계에는 곤륜산 같은 존재였다. 조사(祖師)의 법등(法燈)은 계속되리니 영원한 세대까지 없어지지 않으리라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of Hongje, Master of the Heavenly Terrace School
+  author: Lee Cham
+  language: eng
+  text: |-
+    Four elements borrowed and joined—
+    thus arise sense-faculties and their objects.
+    The Dharma-body transcends all form,
+    yet direct presence knows no bounds.
+
+    This body is but a temporary vessel,
+    yet the transmission of spirit is eternally true.
+    His gentle way, embodied in bearing,
+    shares with all things the essence of spring.
+
+    A beacon of the Buddhist gate,
+    a Kunlun among the seas of learning.
+    The ancestral lamp continues burning—
+    its light shall never fade through endless ages.
+  footnotes:
+  - key: ''
+    value: The Dharma-body (法身) refers to the ultimate reality or truth-body in Buddhist philosophy, distinct from the physical form.
+  - key: ''
+    value: The 'ancestral lamp' (祖燈) is a traditional Buddhist metaphor for the transmission of enlightenment from master to student across generations.
+  - key: ''
+    value: Kunlun (崐崙) references the sacred mountain in Chinese cosmology, here used as a metaphor for supreme spiritual authority and wisdom.

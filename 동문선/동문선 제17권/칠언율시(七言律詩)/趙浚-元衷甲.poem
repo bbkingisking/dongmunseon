@@ -1,0 +1,51 @@
+canonical:
+  title: 元衷甲
+  author: 趙浚
+  language: lzh
+  text: 鐵關胡馬若風行一劒功高白面生許國孤忠應貫日忘身大義便長城至今父老蒙餘澤後世英雄揖盛名我亦掃淸敷奏已杏花春雨耦而耕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 元衷甲
+  author: 趙浚
+  language: lzh
+  text: 鐵關胡馬若風行。一劒功高白面生。許國孤忠應貫日。忘身大義便長城。至今父老蒙餘澤。後世英雄揖盛名。我亦掃淸敷奏已。杏花春雨耦而耕。
+korean:
+  title: 원충갑
+  author: 조준
+  language: kor
+  text: |-
+    오랑캐의 말이 바람치 듯 횡행하는데
+    한 칼로 공이 높은 백면서생
+    나라에 허락한 충성은 응당 해를 꿰겠고
+    몸을 잊은 대의는 곧 장성일세
+    지금토록 부로들은 남은 덕택을 입었고
+    후세의 영웅들 그 성명에 절하오리
+    나 역시 오랑캐를 쓸어 임금께 아뢰고서
+    살구꽃 봄비 올 때에 짝 지어 밭 갈려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 원충갑(元衷甲) : '
+    value: 충렬왕(忠烈王) 때 진사로 원주 별초(別抄). 합단적(哈丹賊)의 침공을 막아 큰 공을 세웠다. 《여지승람》
+  - key: '[주-D002] 짝 지어 밭 갈려네 : '
+    value: 춘추 시대 때 은사(隱士)  장저(長沮)와 걸익(桀溺)이 짝지어 밭을 갈았다.
+english:
+  title: Won Chung-gap
+  author: Cho Jun
+  language: eng
+  text: |-
+    Barbarian horses sweep across like wind,
+    A single sword raises a pale scholar's name high.
+    The loyalty he pledged the kingdom pierces through the sun,
+    His great cause, forgetting self, becomes the Great Wall.
+
+    Even now the elders taste the grace he left behind,
+    Future heroes bow before his enduring fame.
+    I too have swept back the invaders and made report to court,
+    And when apricot blossoms fall with spring rain,
+    I shall pair my plow and work the fields.
+  footnotes:
+  - key: ''
+    value: Won Chung-gap was a civil service examination passer during King Chungryeol's reign who served with special cavalry units in Wonju. He earned great merit by repelling the invasion of the Khadan raiders.
+  - key: ''
+    value: The final image of plowing in pairs alludes to Long Zu and Jie Mi, hermit scholars of the Spring and Autumn period, who famously worked the fields together to escape the turmoil of the world.

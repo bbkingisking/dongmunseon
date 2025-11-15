@@ -1,0 +1,44 @@
+canonical:
+  title: 題蔚州官舍壁
+  author: 鄭誧
+  language: lzh
+  text: 極目丘園隔回頭歲月侵關山千里夢風雨五更心處世身如寄居官力不任攻愁無過酒擧酒莫停斟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題蔚州官舍壁
+  author: 鄭誧
+  language: lzh
+  text: 極目丘園隔。回頭歲月侵。關山千里夢。風雨五更心。處世身如寄。居官力不任。攻愁無過酒。擧酒莫停斟。
+korean:
+  title: 제 울주 관사벽
+  author: 정포
+  language: kor
+  text: |-
+    눈 들어 멀리 바라니 내 고향은 어딘고
+    머리를 돌이키니 세월 진정 빠르구나
+    관산 천 리에 아득한 꿈이여
+    풍우 오경에 서글픈 내 마음
+    평생을 생각하니 인생은 나그네
+    벼슬을 살자니 힘겨워 어이하리
+    시름을 물리침은 술 만한 것 없으니
+    잔 들자, 부어라 멈추지 말아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_1000&viewSync=OT
+  footnotes: []
+english:
+  title: Written on the Wall of the Official Residence in Ulju
+  author: Jung Po
+  language: eng
+  text: |-
+    I lift my eyes to gaze afar—where is my distant home?
+    I turn my head and realize how swiftly time has stolen away.
+    A thousand miles of mountains and passes—dim dreams arise,
+    In the wind and rain of the fifth watch, my heart grows heavy.
+
+    A lifetime of wandering: how fragile is this borrowed flesh.
+    Official duties weigh upon me—how can I bear their burden?
+    Against sorrow, nothing equals wine to wash it clean—
+    So raise the cup, pour freely, never let it rest.
+  footnotes:
+  - key: ''
+    value: The 'fifth watch' (오경) refers to the last watch before dawn in the traditional Chinese timekeeping system, a time associated with loneliness and melancholy in East Asian poetry.

@@ -1,0 +1,78 @@
+canonical:
+  title: 次韻答祕書閣金坵
+  author: 釋眞靜
+  language: lzh
+  text: 龜蒙當日散江湖只是行藏與世殊祿隱何妨鸞鷺序道心寧爽馬牛呼多君輦下雲無迹記我山中雪入鬚蓮社芸臺無彼此大千何處不參吾幽居背巘面平湖地位淸高景物殊拾橡生涯隨日足種蓮賓客有時呼仙遊却勝登鼇頂世險都忘捋虎鬚莫把古吾來辨我古吾寧得敵今吾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻答祕書閣金坵
+  author: 釋眞靜
+  language: lzh
+  text: 龜蒙當日散江湖。只是行藏與世殊。祿隱何妨鸞鷺序。道心寧爽馬牛呼。多君輦下雲無迹。記我山中雪入鬚。蓮社芸臺無彼此。大千何處不參吾。幽居背巘面平湖。地位淸高景物殊。拾橡生涯隨日足。種蓮賓客有時呼。仙遊却勝登鼇頂。世險都忘捋虎鬚。莫把古吾來辨我。古吾寧得敵今吾。
+korean:
+  title: 차 운답 비서각 김구
+  author: 석진정
+  language: kor
+  text: |-
+    강호에 한산한 생애를 보낸 육구몽
+    당시 그의 행장이 세상과는 달랐을 뿐
+    벼슬서도 숨었거니 완로반(고관(高官)이 늘어선 항렬)인들 상관이랴
+    도심으론 마소로 불린들 어떠리
+    갸륵할손 연하에서도 구름마냥 자취없는 그대
+    용하게도 기억했지, 산중에 흰 눈이 수염에 든 나를
+    연사거나 운대거나 피차가 없는 것
+    대천계 안 어느 곳에 나를 깨닫지 못하리
+    그윽한 거처는 산 등 지고 호수를 면한 곳
+    지대가 맑고 높고 경치가 유다르네
+    도토리 줍는 생애는 날마다 풍족하고
+    연을 심어 손들을 때로 부르네
+    신선 같은 놀이 새우 머리에 오름보다 나아라
+    험한 세상에 범의 수염을 당기리
+    옛 나를 가져와 나를 분변치 마소
+    어즈버, 옛 내가 어이 지금 나만 할쏜가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0470&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 강호(江湖)에 …… 육구몽(陸龜蒙) : '
+    value: 당나라 육구몽(陸龜蒙)이 강호산인(江湖散人)이라 자칭하였다.
+  - key: '[주-D002] 행장(行藏) : '
+    value: 논어(論語)에 “쓰면 행하고 버리면 감춘다[用之則行 舍之則藏].”는 말이 있는데, 나가서 벼슬하는 것을 행(行)한다 하고, 나가지 아니하는 것을 감춘다[藏] 한 것이다.
+  - key: '[주-D003] 도심(道心)으론 …… 불린들 어떠리 : '
+    value: 소 라고 부르면 소라고 대답하고, 말이라고 부르면 말이라고 대답한다는 옛말이 있는데, 남과 이름을 다투지 아니한다는 뜻이다.
+  - key: '[주-D004] 운대(芸臺) : '
+    value: 비서각(祕書閣)의 별칭(別稱)인데, 운(芸)은 향초(香草)이다. 그 풀을 장서(藏書)하는 데 넣어 두면 책에 벌레가 먹지 아니한다.
+  - key: '[주-D005] 신선 같은 놀이 새우 머리[鰲頭] : '
+    value: 동해에 새우[鰲]가 산을 이고 있는데, 그 위에 신선이 산다 한다.
+english:
+  title: In Response to Secretary Gim Gu, Following the Rhyme Scheme
+  author: Seogjinjeong
+  language: eng
+  text: |-
+    Lu Guimeng wandered the rivers and lakes of old,
+    yet his path and the world's were never the same.
+    What matter if rank hides him among the robed officials?
+    The Way's heart fears not being called by common names.
+    Your kindness—like clouds leaving no trace by the city walls—
+    yet you remember me, snow gathering in my mountain beard.
+    The lotus society and the cloud archive know no division:
+    where in the great cosmos does it not perceive me?
+
+    My hermitage sits with its back to ridges, facing the clear lake,
+    where the ground is high and pure, the landscape supreme.
+    A life of gathering acorns suffices with each passing day,
+    and lotus-planting brings visitors when it calls.
+    The wanderer's play surpasses climbing heaven's summit,
+    and in this treacherous world, I forget to grasp the tiger's whisker.
+    Do not bring forth my former self to judge my present one—
+    for how could my yesteryear ever match my today?
+  footnotes:
+  - key: ''
+    value: Lu Guimeng was a Tang Dynasty recluse scholar who called himself 'the wanderer of rivers and lakes' (江湖散人), representing the life of withdrawal from official service.
+  - key: ''
+    value: The 'Way's heart' alludes to the Confucian concept of not contending over names—if called by any name, one simply accepts it without dispute.
+  - key: ''
+    value: The 'cloud archive' (芸臺) refers to the Secret Archives, comparing books guarded by the sacred herb to one's inner wisdom.
+  - key: ''
+    value: '''Climbing heaven''s summit'' references the mythical turtle Ao in the Eastern Sea, upon which immortals dwell—suggesting transcendent experience.'
+  - key: ''
+    value: The final couplet rejects comparison between one's past and present self, affirming transformation and growth beyond static judgment.

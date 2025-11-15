@@ -1,0 +1,44 @@
+canonical:
+  title: 漢江
+  author: 李奎報
+  language: lzh
+  text: 江遠天低襯舟行岸趁移薄雲橫似素踈雨散如絲灘險水流疾峯多山盡遅沉吟費回首正是望鄕時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漢江
+  author: 李奎報
+  language: lzh
+  text: 江遠天低襯。舟行岸趁移。薄雲橫似素。踈雨散如絲。灘險水流疾。峯多山盡遅。沉吟費回首。正是望鄕時。
+korean:
+  title: 사평강
+  author: 이규보
+  language: kor
+  text: |-
+    먼 강에 하늘이 나직이 붙었는데
+    배가 가니 언덕이 따라 움직이네
+    엷은 구름은 흰 비단처럼 비껴 있고
+    성긴 비가 실마냥 흩어져 내리네
+    여울이 험하니 물도 빠르게 흐를시고
+    봉이 하도 많으니 산이 끝나기 더디네
+    흥얼거리다 문득 고개를 돌리는 그때는
+    내 고향 바라보는 때외다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0540&viewSync=OT
+  footnotes: []
+english:
+  title: The Han River
+  author: Lee Gyewbo
+  language: eng
+  text: |-
+    The distant river meets the low horizon,
+    As our boat glides on, the banks drift and shift.
+    Thin clouds drift like white silk stretched across the sky,
+    Sparse rain scatters down like strands of thread.
+
+    The shallows churn rough and the waters rush swift,
+    So many peaks that the mountains never seem to end.
+    When I pause mid-thought and turn back my gaze,
+    That is the moment I long for my homeland.
+  footnotes:
+  - key: ''
+    value: The Han River (Hangang) is one of the major rivers of the Korean peninsula, flowing through what is now North and South Korea. This poem captures both the physical journey along the river and the emotional journey of remembrance and longing.

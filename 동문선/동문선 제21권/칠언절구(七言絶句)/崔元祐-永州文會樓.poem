@@ -1,0 +1,35 @@
+canonical:
+  title: 永州文會樓
+  author: 崔元祐
+  language: lzh
+  text: 林外長川野外山倚樓人在畫圖間已爲才俊登臨地雲物千年定不閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永州文會樓
+  author: 崔元祐
+  language: lzh
+  text: 林外長川野外山。倚樓人在畫圖間。已爲才俊登臨地。雲物千年定不閑。
+korean:
+  title: 영주문회루
+  author: 최원우
+  language: kor
+  text: |-
+    숲 밖에는 긴 내요 들 밖에는 산인데
+    다락을 기댄 사람이 그림 속에 있구나
+    이미 재주 있는 이 올라 노는 곳이라
+    천 년의 운물이 결코 한가하지 않으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: The Wen Hui Pavilion of Yongzhou
+  author: Choi Won-woo
+  language: eng
+  text: |-
+    Beyond the forest flows a long river, beyond the fields rise mountains.
+    Leaning against the tower, a man stands within a painted world.
+    Already this is where the talented gather to roam and play—
+    The clouds and forms of a thousand years shall never rest.
+  footnotes:
+  - key: ''
+    value: The Wen Hui Pavilion was a gathering place for literati and poets in Yongzhou, known for its scenic beauty and intellectual discourse.

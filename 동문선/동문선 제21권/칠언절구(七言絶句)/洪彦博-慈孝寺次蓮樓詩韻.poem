@@ -1,0 +1,35 @@
+canonical:
+  title: 慈孝寺次蓮樓詩韻
+  author: 洪彦博
+  language: lzh
+  text: 白藕花開翠荇長柳陰秋水滿陂塘莫言今日空歸去隨喜吾師一瓣香
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 慈孝寺次蓮樓詩韻
+  author: 洪彦博
+  language: lzh
+  text: 白藕花開翠荇長。柳陰秋水滿陂塘。莫言今日空歸去。隨喜吾師一瓣香。
+korean:
+  title: 자효사차연루시운
+  author: 홍언박
+  language: kor
+  text: |-
+    흰 연꽃은 피고 푸른 물풀은 길었는데
+    버들 그늘의 가을물은 못에 가득 차 있고야
+    오늘에 헛걸음으로 돌아간다 말하지 말라
+    우리 스님에게 한 가닥 향으로 수희하였노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0220&viewSync=OT
+  footnotes: []
+english:
+  title: Responding to the Rhyme of a Poem at the Lotus Tower in the Temple of Filial Compassion
+  author: Hong Eon-park
+  language: eng
+  text: |-
+    White lotus blossoms open, green waterweeds stretch long,
+    Beneath the willow's shade, autumn waters fill the pond.
+    Do not say I leave this place with empty hands today—
+    I offer but a wisp of incense, my joy in the Master's way.
+  footnotes:
+  - key: ''
+    value: The 'wisp of incense' (一瓣香) is a Buddhist metaphor for offering one's gratitude and spiritual joy, regardless of material gifts or grand gestures. This conveys the poet's sincere devotion through humble means.

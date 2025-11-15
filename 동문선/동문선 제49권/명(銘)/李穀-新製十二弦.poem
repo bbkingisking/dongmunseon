@@ -1,0 +1,33 @@
+canonical:
+  title: 新製十二弦
+  author: 李穀
+  language: lzh
+  text: 不雅不俗匪古匪今旣非其瑟孰謂之琴亞於箏筑之製間于韶韎之音盖未足薦郊廟而讌君臣亦可以洗塵耳而滌煩襟者也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新製十二弦
+  author: 李穀
+  language: lzh
+  text: 不雅不俗。匪古匪今。旣非其瑟。孰謂之琴。亞於箏筑之製。間于韶韎之音。盖未足薦郊廟而讌君臣。亦可以洗塵耳而滌煩襟者也。
+korean:
+  title: 신제 십이현
+  author: 이곡
+  language: kor
+  text: 아(雅)한 것도 아니며 속(俗)된 것도 아니요, 옛날 식도 아니요, 지금 식도 아니다. 이미 슬(瑟)이라 할 수도 없으니 그 뉘가 금(琴)이라 하겠는가. 쟁(箏)과 축(筑)의 제작에 다음 가고 소(韶)와 말(靺)의 소리에 중간되네. 이것으로는 교묘(郊廟)에 사용하거나 군신(君臣)간 연회에 쓸 수는 없으나 그래도 티끌 끼인 귀를 씻고 답답한 가슴을 상쾌하게 할 수는 있다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소(韶)와 말(靺) : '
+    value: 소(韶)는 순(舜)의 음악이요 말(靺)은 동방에 있는 말갈족(靺鞨族)의 음악을 말한 것이다.
+  - key: '[주-D002] 교묘(郊廟) : '
+    value: 교(郊)는 하늘을 제사 지내는 것을 말하며 묘(廟)는 조상을 모신 데다.
+english:
+  title: On the Newly Crafted Twelve-Stringed Instrument
+  author: Lee Gok
+  language: eng
+  text: Neither refined nor common, neither ancient nor modern. Since it cannot be called a zither, who would dare name it a qin? It ranks below the manufacture of the zheng and the chu, and occupies a middle ground between the music of Shao and that of the Jurchen. Thus it falls short of being worthy for the sacrifices at heaven and the ancestral temple, or for the feasts of lords and ministers. Yet it remains capable of cleansing the dust-laden ear and refreshing the weary heart.
+  footnotes:
+  - key: ''
+    value: The zheng and chu are ancient stringed instruments; the music of Shao refers to the legendary compositions of Emperor Shun, while the music of the Jurchen peoples represents more distant, foreign traditions.
+  - key: ''
+    value: Sacrifices at heaven (jiao) and ancestral temples (miao) represent the highest ceremonial uses of music in classical East Asian culture.

@@ -1,0 +1,48 @@
+canonical:
+  title: 懷歸
+  author: 李詹
+  language: lzh
+  text: 再拜子規鳥思君淚滿衣人窮人不愛事往事多違片月吹羌笛枯桐送落暉松山遙在望安得一迴歸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 懷歸
+  author: 李詹
+  language: lzh
+  text: 再拜子規鳥。思君淚滿衣。人窮人不愛。事往事多違。片月吹羌笛。枯桐送落暉。松山遙在望。安得一迴歸。
+korean:
+  title: 회귀
+  author: 이첨
+  language: kor
+  text: |-
+    자규새에게 두 번 절하노니
+    임금 생각에 눈물이 옷을 적시네
+    사람이 궁하니 사람들이 사랑해 주지 않고
+    일은 지나쳤는데 어긋난 것이 많네
+    조각달 아래 강적을 불고
+    거문고 타며 저녁 햇빛을 보내네
+    송산이 아득히 바라보이는 듯
+    언제 한 번 돌아가보려나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0770&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 자규새[子規鳥]에게 두 번 절하노니 : '
+    value: 자규(子規 두견(杜鵑))는 옛날 촉(蜀)나라 임금 망제(望帝)의 혼이 화(化)한 것이라 하는데, 두보(杜甫)의 시에, “두견에게 절한다.”는 구절이 있다.
+english:
+  title: Longing for Home
+  author: Lee Chaem
+  language: eng
+  text: |-
+    I bow twice before the cuckoo bird,
+    Thinking of my lord, tears drench my robe.
+    When a man falls low, others turn away,
+    And what has passed leaves only regret.
+
+    Beneath a crescent moon, a barbarian flute cries,
+    And withered zither strings greet the fading light.
+    Song Mountain rises distant in my gaze—
+    When shall I return to that place once more?
+  footnotes:
+  - key: ''
+    value: The cuckoo (杜鵑) holds deep significance in classical Chinese and Korean poetry. Legend tells that it was born from the soul of Wangdi, the last emperor of Shu, who transformed into the bird after his death. The cuckoo's mournful call became a symbol of longing, loss, and the yearning to return home.
+  - key: ''
+    value: Song Mountain (松山) likely refers to a specific location meaningful to the poet, possibly in his homeland or a place of spiritual significance.

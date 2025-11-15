@@ -1,0 +1,68 @@
+canonical:
+  title: 奉和思謙題西宇鍊師山水圖
+  author: 釋宏演
+  language: lzh
+  text: 畫山須畫華與嵩畫水須極滄溟東仙翁新意奪造化筆底颯颯生秋風蘿梯石磴三百尺槎牙老樹撑蒼空飛泉娟娟石鑿鑿淸輝粲爛開吟瞳老關往矣小李死孰云當代無良工胷中丘壑自磥砢揮洒墨妙精難窮我家有屋松山下此圖恍墮三韓中自緣遊子遠在望白雲日日生晴峯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉和思謙題西宇鍊師山水圖
+  author: 釋宏演
+  language: lzh
+  text: 畫山須畫華與嵩。畫水須極滄溟東。仙翁新意奪造化。筆底颯颯生秋風。蘿梯石磴三百尺。槎牙老樹撑蒼空。飛泉娟娟石鑿鑿。淸輝粲爛開吟瞳。老關往矣小李死。孰云當代無良工。胷中丘壑自磥砢。揮洒墨妙精難窮。我家有屋松山下。此圖恍墮三韓中。自緣遊子遠在望。白雲日日生晴峯。
+korean:
+  title: 사겸의 서우련사의 산수도에 쓴 시에 화답하여
+  author: 석굉연
+  language: kor
+  text: |-
+    산을 그리려면 화산ㆍ숭산을 그리고
+    물을 그리려면 창해 동쪽 끝을 그려라
+    선옹의 새 의장이 조화의 솜씨를 앗아
+    붓 끝에 우수수 가을 바람 일었네
+    다래덩굴 돌벼랑 3백 척 꼭대기에
+    앙상한 늙은 나무 창공을 버티었네
+    나는 샘이 졸졸, 돌들이 삐죽삐죽
+    산뜻하고 찬란해서 시인의 눈이 트이네
+    노관이 갔고, 소리도 죽었을망정
+    당대에 명수 없다 누가 이를쏜가
+    가슴속의 구학이 워낙 울툭불툭하거니
+    먹으로 그려 내니 무궁할싸 그 정묘
+    우리 집은 송산 밑
+    이 그림 황홀히 삼한에 와 떨어졌네
+    객지에 있는 사람 멀리서 바라보니
+    흰 구름 날마다 갠 봉에서 생기네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 노관(老關) : '
+    value: 후량(後梁) 관동(關同)은 산수도(山水圖)의 명가(名家)로 추산한림도(秋山寒林圖)가 있다.
+  - key: '[주-D002] 소리(小李) : '
+    value: 당(唐) 이사훈(李師訓)이 산수 화가로 유명했고, 그 아들 소도(昭道)도 산수를 잘 그렸으므로, 그때 사람들이 아버지를 대리(大李), 아들을 소리(小李)라 불렀다. 또 전촉(前蜀)의 산수 화가 이승(李昇)도 촉(蜀)의 산수를 그려 절묘했는데, 당(唐) 이사훈(李師訓)의 필법을 얻고도 더 유려(流麗)했으므로 사람들이 소리장군(小李將軍)이라 불렀다.
+english:
+  title: In Response to Si Gyeom's Poem on Monk Yeonsa's Landscape Painting
+  author: Seok Hongryeon
+  language: eng
+  text: |-
+    To paint mountains, one must capture Hua and Song,
+    To paint waters, reach the eastern edge of the vast sea.
+    The immortal master's vision steals from creation itself—
+    From his brush tip, autumn wind stirs and whispers.
+
+    Vine-laden cliffs rise three hundred feet high,
+    Gnarled ancient trees hold up the azure sky.
+    Narrow streams murmur, stones jut sharp and clear,
+    Clear radiance gleams—the poet's eye opens wide.
+
+    Old Guan is gone, Little Li has passed away,
+    Yet who would say our age lacks masters of the craft?
+    The mountains in the heart are jagged, uneven—
+    Yet brushwork renders them, mysteries without end.
+
+    Beneath Pine Mountain stands my humble home,
+    This painting seems to fall mysteriously into Samhan.
+    A wanderer gazing from distant shores,
+    White clouds daily rise from peaks washed clean.
+  footnotes:
+  - key: ''
+    value: 'Hua and Song: references to sacred mountains of classical painting tradition'
+  - key: ''
+    value: 'Old Guan and Little Li: references to celebrated ancient masters of landscape painting, indicating this work stands in a distinguished lineage despite its contemporary creation'

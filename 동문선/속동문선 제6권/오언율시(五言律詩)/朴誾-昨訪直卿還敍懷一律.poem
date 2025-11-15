@@ -1,0 +1,46 @@
+canonical:
+  title: 昨訪直卿還敍懷一律
+  author: 朴誾
+  language: lzh
+  text: 此老無人愛身猶與病爭半年渾得卧瘦骨儘堪驚未見空愁思相逢尙眼明論心一盃酒歸路欲嚴更
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 昨訪直卿還敍懷一律
+  author: 朴誾
+  language: lzh
+  text: 此老無人愛。身猶與病爭。半年渾得卧。瘦骨儘堪驚。未見空愁思。相逢尙眼明。論心一盃酒。歸路欲嚴更。
+korean:
+  title: 작 방직경 환서회 일률
+  author: 박은
+  language: kor
+  text: |-
+    이 노인을 아무도 사랑하지 않거니
+    그 몸은 아직도 병과 싸우고 있다
+    반 년을 오로지 누워서 있었는데
+    여윈 골각은 깜짝 놀랄 만하였다
+    보기 전에는 부질없이 걱정했더니
+    만나보매 그 눈은 아직 밝았다
+    마음을 의논하며 한 잔 술을 마시고
+    돌아오는 길에는 밤이 깊으려 했다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0870&viewSync=OT
+  footnotes: []
+english:
+  title: Upon Visiting Jikgyeong and Expressing My Feelings in Verse
+  author: Park Eun
+  language: eng
+  text: |
+    This old man—no one loves him,
+    yet still his body wrestles with disease.
+    Half a year spent lying down,
+    his withered bones a sight to startle.
+
+    Before I came, I fretted needlessly,
+    but meeting him, his eyes still gleamed.
+    Over a cup of wine we spoke of hearts,
+    and on my way home, night grew deep.
+  footnotes:
+  - key: ''
+    value: Jikgyeong (直卿) was likely the poet's friend or acquaintance, addressed by an affectionate or respectful epithet.
+  - key: ''
+    value: The contrast between the speaker's worry before the visit and the comfort found in the friend's still-bright eyes emphasizes the power of human connection to transcend physical decline.

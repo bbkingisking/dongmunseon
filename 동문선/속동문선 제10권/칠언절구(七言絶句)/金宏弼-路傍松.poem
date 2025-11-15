@@ -1,0 +1,37 @@
+canonical:
+  title: 路傍松
+  author: 金宏弼
+  language: lzh
+  text: 一老蒼髯任路塵勞勞迎送往來賓歲寒與汝同心事經過人中見幾人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 路傍松
+  author: 金宏弼
+  language: lzh
+  text: 一老蒼髯任路塵。勞勞迎送往來賓。歲寒與汝同心事。經過人中見幾人。
+korean:
+  title: 노방송
+  author: 김굉필
+  language: kor
+  text: |-
+    한 늙은이 푸른 수염 길 티끌에 맡겨두고
+    고생하여 오가는 손 보내고 맞이했소
+    이해가 차가웁다 너와 심사 같게 하리
+    지나치는 사람 중에 몇몇이나 보았더냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0380&viewSync=OT
+  footnotes: []
+english:
+  title: The Roadside Pine
+  author: Kim Hong-beop
+  language: eng
+  text: |-
+    An old one, grey-bearded, surrenders to the dust of the road,
+    Laboring to welcome and farewell the endless stream of travelers.
+    In this harsh season, my heart aligns with yours—
+    Among all who pass, how many truly see?
+  footnotes:
+  - key: ''
+    value: The pine tree is a traditional symbol in East Asian poetry representing steadfastness, integrity, and constancy through hardship. Here it serves as both observer and companion to the speaker's solitary vigil.
+  - key: ''
+    value: The 'harsh season' (歲寒) carries philosophical weight, evoking both the literal cold and the metaphorical trials that reveal one's true nature and values.

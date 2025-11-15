@@ -1,0 +1,38 @@
+canonical:
+  title: 竹山大平院石佛
+  author: 兪好仁
+  language: lzh
+  text: 征驢撫古抱酸辛一佛功成萬姓嗔人國已亡渠獨在長年風雨院邊身
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 竹山大平院石佛
+  author: 兪好仁
+  language: lzh
+  text: 征驢撫古抱酸辛。一佛功成萬姓嗔。人國已亡渠獨在。長年風雨院邊身。
+korean:
+  title: 죽산 대평원 석불
+  author: 유호인
+  language: kor
+  text: |-
+    나귀 등에 옛일 생각 슬픔이 절로 날 제
+    한 부처는 성공해도 뭇 백성은 말썽 많아
+    남의 나라 망쳐 두고 저 홀로 남아 있어
+    오랫동안 비바람이 그 몸에 뿌리더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Stone Buddha at Taepyeong Temple, Juksan
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    Upon a weary donkey I recall the ancient past,
+    my heart heavy with sorrow.
+    One Buddha stands complete while the common people remain aggrieved.
+    The kingdom has fallen to ruin, yet this stone form endures alone,
+    battered through long years by wind and rain at the temple's edge.
+  footnotes:
+  - key: ''
+    value: Juksan refers to a region in present-day South Korea. Taepyeong Temple is a historical site where this stone Buddha statue stands as a remnant of a bygone era.
+  - key: ''
+    value: The poem reflects on the contrast between the eternal stone Buddha and the transience of human kingdoms and their subjects.

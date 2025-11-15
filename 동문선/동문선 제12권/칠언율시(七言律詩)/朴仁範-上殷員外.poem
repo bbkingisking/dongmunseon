@@ -1,0 +1,51 @@
+canonical:
+  title: 上殷員外
+  author: 朴仁範
+  language: lzh
+  text: 孔明籌策惠連詩坐幕親臨十萬師騏驥躡雲終有日鸞凰開翅已當期好尋山寺探幽勝愛上江樓話遠思淺薄幸因遊鄭驛貢文多愧遇深知
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上殷員外
+  author: 朴仁範
+  language: lzh
+  text: 孔明籌策惠連詩。坐幕親臨十萬師。騏驥躡雲終有日。鸞凰開翅已當期。好尋山寺探幽勝。愛上江樓話遠思。淺薄幸因遊鄭驛。貢文多愧遇深知。
+korean:
+  title: 상은원외
+  author: 박인범
+  language: kor
+  text: |-
+    제갈량의 군략과 사혜련의 시풍
+    막중에 앉아서 십 만 군을 지휘하네
+    기마가 구름까지 뛰오를 날이 있고야 말리
+    봉황이 날개를 펼침은 지금이 한창
+    산사를 찾아 그윽한 경치를 탐방하고
+    강 다락에 올라 먼 회포를 이야기하기도
+    천박한 재주로 다행히 정역에 놀면서
+    글을 바쳐 깊은 지우 받음이 못내 부끄러워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정역(鄭驛) : '
+    value: 한(漢)나라 정당시(鄭當時)가 빈객(賓客)을 좋아하여 장안(長安) 근교(近郊)에 역(驛)을 설치하여 빈객을 청하였다 한다.
+english:
+  title: To Eun the Minister
+  author: Park In-beom
+  language: eng
+  text: |-
+    Zhuge Liang's stratagems and Shi Huilian's verse—
+    Seated in the command tent, directing ten thousand troops.
+    The charger leaps toward clouds; such a day shall come,
+    The phoenix spreads its wings; that time is now.
+    I seek mountain temples to explore their hidden grace,
+    Climb river towers to share my distant yearnings.
+    By fortune's favor, I wander through these halls of wit,
+    Yet ashamed to offer humble words to one so wise.
+  footnotes:
+  - key: ''
+    value: 'Zhuge Liang (181-234): The legendary strategist and chancellor of Shu Han, representing supreme military and political wisdom.'
+  - key: ''
+    value: 'Shi Huilian (5th century): A celebrated poet known for refined and elegant verse.'
+  - key: ''
+    value: The charger leaping toward clouds and the phoenix spreading its wings are metaphors for advancement and fulfillment of one's potential.
+  - key: ''
+    value: The 'halls of wit' (鄭驛) alludes to the historical generosity of Zheng Dangshi of the Han dynasty, who established a resting place where talented guests could gather and share their works.

@@ -1,0 +1,45 @@
+canonical:
+  title: 彦深見投
+  author: 趙之瑞
+  language: lzh
+  text: 愁坐淸宵數漏籤朝來捲幔對山尖鶯銜晩色啼深樹燕掠輕陰入短簷卧穩正因身慣懶家貧非是我爲廉平生壯志消磨盡羞把菱花照老髯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 彦深見投
+  author: 趙之瑞
+  language: lzh
+  text: 愁坐淸宵數漏籤。朝來捲幔對山尖。鶯銜晩色啼深樹。燕掠輕陰入短簷。卧穩正因身慣懶。家貧非是我爲廉。平生壯志消磨盡。羞把菱花照老髯。
+korean:
+  title: 언심견투
+  author: 조지서
+  language: kor
+  text: |-
+    맑은 밤에 근심스레 앉아 누첨을 세이리라
+    아침에 장막을 걷고 산꼭대기를 마주한다
+    꾀꼬리는 새벽 빛을 띠고 깊은 나무에서 우는데
+    제비는 엷은 그늘을 스쳐 짧은 처마에 든다
+    누워야 편안한 것은 진실로 몸이 게으른데 습관되었기 때문이요
+    집이 가난하나 내가 청렴한 까닭이 아니다
+    평생의 장한 뜻이 모두 다 사그라졌거니
+    거울을 들고 늙은 수염을 비추기 부끄럽네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 누첨(漏籤) : '
+    value: 시간을 알리는 누수(漏水 물시계)를 헤아리는 줏대[籤]다.
+english:
+  title: A Message from Yon-sim
+  author: Cho Ji-seo
+  language: eng
+  text: |-
+    Anxious in the clear night, I count the hours on the water clock.
+    At dawn I draw back the curtain to face the mountain's peak.
+    A warbler, wearing the hue of twilight, sings deep within the trees,
+    While a swallow skims the thin shadows and slips beneath the low eaves.
+    I rest content because my body has grown accustomed to idleness—
+    Not because poverty has made me virtuous, as some might claim.
+    All the noble ambitions of my life have faded away.
+    Shamed, I cannot bear to hold the mirror up to my graying beard.
+  footnotes:
+  - key: ''
+    value: The water clock (누수) and its marker sticks (漏籤) were used in East Asia to measure time's passage through the night, marking the hours as water dripped from one vessel to another.

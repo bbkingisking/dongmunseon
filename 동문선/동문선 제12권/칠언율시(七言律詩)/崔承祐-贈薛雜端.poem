@@ -1,0 +1,54 @@
+canonical:
+  title: 贈薛雜端
+  author: 崔承祐
+  language: lzh
+  text: 聖君須信整朝綱數歲公才委憲章按轡已淸雙闕路搢紳俱奉一臺霜鴻飛碧落曾猶漸鷹到金風始見揚長慶橋邊休顧望忽聞消息入文昌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈薛雜端
+  author: 崔承祐
+  language: lzh
+  text: 聖君須信整朝綱。數歲公才委憲章。按轡已淸雙闕路。搢紳俱奉一臺霜。鴻飛碧落曾猶漸。鷹到金風始見揚。長慶橋邊休顧望。忽聞消息入文昌。
+korean:
+  title: 증 설잡단
+  author: 최승우
+  language: kor
+  text: |-
+    성군께서 그대가 조정의 기강을 정돈할 줄 믿고서
+    몇 해나 그대의 재주에 법을 맡기셨네
+    고삐를 쥐매 두 궐 앞 길이 말끔해졌고
+    조정의 관원들 한 대 서리를 받들었네
+    기러기가 높은 하늘에 차츰 올라가더니
+    매는 가을바람에 비로소 날치네
+    장경교를 돌아보지 말라
+    갑자기 소식이 문창에 듦을 듣겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고삐를 쥐매 : '
+    value: 후한(後漢)범방(范滂)이 환제(桓帝) 때 청조사(淸詔使)가 되어 기주(冀州)의 뭇 도적을 안찰(按察)했다. 그가 수레에 올라 고삐를 잡으면서 개연히 천하를 밝힐 뜻이 있었다.
+  - key: '[주-D002] 조정의 관원(官員)들 한 대(臺) 서리[霜] : '
+    value: 어사대부(御史大夫)의 아칭(雅稱)이 상대(霜臺)인데, 서릿발같이 엄한 관서라는 뜻이다.
+  - key: '[주-D003] 기러기가 …… 올라가더니 : '
+    value: “기러기가 점점 나아간다[鴻漸].”는 말이 《주역(周易)》에 있으며, 벼슬이 아래로부터 위로 차츰 올라감을 비유하였다.
+english:
+  title: A Gift for Xueh Japduan
+  author: Choi Seung-woo
+  language: eng
+  text: |-
+    The sage ruler trusts that you will set the court's affairs in order—
+    For years now he has entrusted law to your capable hand.
+    When you take the reins, the twin palaces' roads grow clear,
+    And all the officials reverence the frost of your tribunal.
+
+    The wild goose rises through the jade sky, step by step ascending,
+    The hawk takes wing when autumn winds begin to blow.
+    Do not look back toward the Long Peace Bridge—
+    Suddenly word comes that you ascend to the Hall of文昌.
+  footnotes:
+  - key: ''
+    value: The image of taking the reins alludes to the Han official Fan Fang, who as imperial inspector held the reins with the noble intention of bringing clarity to the realm.
+  - key: ''
+    value: The 'frost of the tribunal' refers to the censor's office, called the Frost Platform—a place of stern authority and justice.
+  - key: ''
+    value: The gradual ascent of the wild goose symbolizes advancement through ranks from lower to higher office, an image from the Book of Changes.

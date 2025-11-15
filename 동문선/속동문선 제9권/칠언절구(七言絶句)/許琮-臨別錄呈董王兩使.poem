@@ -1,0 +1,37 @@
+canonical:
+  title: 臨別錄呈董王兩使
+  author: 許琮
+  language: lzh
+  text: 靑烟漠漠草離離正是江頭送別時默默相看無限意此生何處更追隨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 臨別錄呈董王兩使
+  author: 許琮
+  language: lzh
+  text: 靑烟漠漠草離離。正是江頭送別時。默默相看無限意。此生何處更追隨。
+korean:
+  title: 임별록 정동왕 양사
+  author: 허종
+  language: kor
+  text: |-
+    푸른 연기는 막막하고 풀은 이리하거니
+    바로 이것이 강 머리에 송별하는 때이네
+    잠자코 서로 바라보며 생각이 한이 없는데
+    이 생에 어느 곳에서 다시 서로 따르리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0400&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell Record Presented to the Two Envoys, Dong and Wang
+  author: Heo Jong
+  language: eng
+  text: |-
+    Blue mist hangs thick and the grasses wave in disarray—
+    This is the hour of parting by the river's edge.
+    In silence we gaze at each other, hearts brimming with unspoken longing,
+    Yet in this life, where shall we meet to follow one another again?
+  footnotes:
+  - key: ''
+    value: The 'two envoys' (董王兩使) refers to specific officials to whom this farewell poem was presented, suggesting this was written upon a ceremonial departure.
+  - key: ''
+    value: The river setting is a classical trope in East Asian poetry symbolizing the melancholy of separation and the flowing passage of time.

@@ -1,0 +1,109 @@
+canonical:
+  title: 昭陽行
+  author: 李弁
+  language: lzh
+  text: 峽中萬古凝翠煙兩邊山木高撑天沿溪細路石确大嶺小嶺橫當前行行數日到光海喜得平廣還停鞭此閒形狀畫不如四山屛擁臨雙川中流頓忘來時苦忽然逸興入渺然誰能喚致琴高生一彈流水泠泠絃閬風玄圃是何處便欲於此消餘年千金笑與早春梅一展謝傅東山懷江邊又築子陵臺一竿明月卬石苔携妓釣魚兩不惡乘流上下不知回盡將江水作春酒日飮無何那計盃人生此志苟能遂何須役役東華埃況今太守政化最田野盡闢無蕪萊與人喜怒不形色頗設盃盤遣寂寞我因王事得勝遊却嗟不是忘機客
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 昭陽行
+  author: 李弁
+  language: lzh
+  text: |-
+    峽中萬古凝翠煙。兩邊山木高撑天。沿溪細路石
+    确。大嶺小嶺橫當前。行行數日到光海。喜得平廣還停鞭。此閒形狀畫不如。四山屛擁臨雙川。中流頓忘來時苦。忽然逸興入渺然。誰能喚致琴高生。一彈流水泠泠絃。閬風玄圃是何處。便欲於此消餘年。千金笑與早春梅。一展謝傅東山懷。江邊又築子陵臺。一竿明月卬石苔。携妓釣魚兩不惡。乘流上下不知回。盡將江水作春酒。日飮無何那計盃。人生此志苟能遂。何須役役東華埃。況今太守政化最。田野盡闢無蕪萊。與人喜怒不形色。頗設盃盤遣寂寞。我因王事得勝遊。却嗟不是忘機客。
+korean:
+  title: 소양행
+  author: 이변
+  language: kor
+  text: |-
+    협중 만고에 푸른 아지랑이 어렸는데
+    양편 산나무가 하늘 높이 떠받치니
+    시내 따라 한 가닥 길엔 돌이 울퉁불퉁
+    큰 재 작은 재는 앞에 가로질렀네
+    걷고 또 걸어 수 일만에 광해에 이르니
+    펀펀히 터진 것 기뻐서 잠시 말을 멈추다
+    이 사이 경치는 그림보다도 더 좋아
+    사면에 산이 병풍처럼 두 내를 안았다
+    중류에서 어느덧 올 때의 수고를 잊고
+    흥이 그만 아득한 데로 날아들다
+    누가 능히 금고생(고대의 거문고 잘 타는 사람)을 불러와서
+    유수곡의 서늘한 줄을 한 번 퉁길꼬
+    낭풍 현포(선녀가 산다는 곳)는 다 어디인지
+    아주 여기서 여년을 보내고 싶다
+    천금소와 조춘매와 함께
+    사부의 동산 회포를 한바탕 펴기도 하고
+    강변에 또 자릉의 대를 쌓아
+    낚싯대 끝 밝은 달에 돌이끼 밟기도 하리라
+    기생 데리고 노는 것, 낚시질하는 것 모두 싫지 않으니
+    강물 타고 오르내리며 돌아가길 잊어버리리
+    강물을 죄 따뤄 봄 술 빚어두고
+    날마다 한없이 마시면 어찌 잔 수를 헤이리
+    인생치고 이 뜻 진정 이룩된다면야
+    동화의 티끌에 바삐 서둘러 무엇하리
+    더욱이 이 땅 태수는 정교에 일등이라
+    들은 묵은 데 없이 다 개간되고
+    남에게 희로의 빛 안 보이며
+    때대로 주연 벌여 적막함을 푸는구나
+    내 공사로 인해 좋은 놀이 했건마는
+    돌이켜 깨우치니 슬프다, 나는 망기객(세속의 일이나 속념을 잊어버린 사람)이 아니려니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사부(謝傅)의 …… 회포 : '
+    value: 사부는 진(晋)나라 태부(太傅)  사안(謝安)인데 동산(東山)에서 기생을 데리고 놀았다.
+  - key: '[주-D002] 자릉(子陵)의 대(臺) : '
+    value: 한(漢)나라 엄자릉(嚴子陵)은 광무제(光武帝)의 고인(故人)으로 벼슬 주는 것을 받지 않고 칠리탄(七里灘)에 돌아가 낚시질을 하였다. 지금도 그의 조대(釣臺)가 있다.
+  - key: '[주-D003] 동화(東華) : '
+    value: 송나라 때에 한림학사(翰林學士)가 처음 임명되면 동화문(東華門)으로부터 들어가서 좌승천문(左承天門)에 이르러서 말[馬]에서 내렸다.
+  - key: '[주-D001]  : '
+    value: 犖
+  - key: '[주-D002] 卬 : '
+    value: 印
+english:
+  title: Song of Soyang
+  author: Lee Byeon
+  language: eng
+  text: |-
+    Through the gorge, ten thousand ages hold the pale green mist—
+    On both sides, mountain trees prop up the sky.
+    Along the stream, a narrow path of jagged stone,
+    Great ridges, small ridges cross before us.
+
+    Walking, ever walking, after days we reach the shining sea.
+    Glad of open plains, I check my horse awhile.
+    This landscape surpasses any painter's brush—
+    Four mountains curve like screens, embracing twin rivers.
+
+    In midstream, suddenly I forget the hardship of the road,
+    And wild delight sweeps me into vastness.
+    Who could summon Qin Gao to play for us?
+    One pluck of strings—the water sings, notes clear and cool.
+
+    Where are Langfeng and the Caverns of Mystery?
+    I wish to spend my years here, let them drift away.
+    With wine-gold and the budding spring plum,
+    To spread out Xie An's Eastern Mountain dreams—
+    And build Chi Ling's Fishing Tower by the shore,
+    Where moonlight gleams on the moss-covered stone.
+
+    With singing girls, with fishing—neither one displease—
+    Riding the current up and down, forgetting return.
+    All the river's water turned to spring wine,
+    Drinking endless days—who counts the cups?
+
+    If a man's true purpose could but thus be fulfilled,
+    Why toil in the dust of official courts?
+    Moreover, this prefect governs with greatest grace—
+    The fields all cleared, no wasteland left.
+    He hides his moods behind an even face,
+    Yet spreads great feasts to ease the emptiness.
+
+    Through official duty, I have tasted this joy,
+    Yet turning back, I grieve—I am no man who forgets the world.
+  footnotes:
+  - key: ''
+    value: 'Qin Gao: A legendary musician of antiquity renowned for playing the qin (zither).'
+  - key: ''
+    value: 'Xie An''s Eastern Mountain dreams: Xie An, a celebrated official of the Jin dynasty, indulged in pleasures and artistic pursuits on Eastern Mountain rather than serving in court.'
+  - key: ''
+    value: 'Chi Ling''s Fishing Tower: Named after the Han dynasty recluse Yan Ziling, who refused official appointment and instead fished at Seven-Mile Rapid.'

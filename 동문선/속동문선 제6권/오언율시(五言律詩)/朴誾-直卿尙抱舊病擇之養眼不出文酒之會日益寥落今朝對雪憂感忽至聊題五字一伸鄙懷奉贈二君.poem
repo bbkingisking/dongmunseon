@@ -1,0 +1,48 @@
+canonical:
+  title: 直卿尙抱舊病擇之養眼不出文酒之會日益寥落今朝對雪憂感忽至聊題五字一伸鄙懷奉贈二君
+  author: 朴誾
+  language: lzh
+  text: 故人多抱病我獨與誰遨閉戶聽寒雪呼兒問濁醪人猶嫌放達天亦忌風騷今古渾如此塵埃孰可逃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 直卿尙抱舊病擇之養眼不出文酒之會日益寥落今朝對雪憂感忽至聊題五字一伸鄙懷奉贈二君
+  author: 朴誾
+  language: lzh
+  text: 故人多抱病。我獨與誰遨。閉戶聽寒雪。呼兒問濁醪。人猶嫌放達。天亦忌風騷。今古渾如此。塵埃孰可逃。
+korean:
+  title: 직경이는 아직도 병에 오래 신음하고 있고 택지는 안질을 치료하느라고 나오지 아니하므로 시짓고 술마시는 모임이 날로 쓸쓸해 진다. 오늘 아침에 눈을 대하여 근심스러운 감상이 갑자기 생기므로 이렇게 5자 시를 지어서 내 회포를 말하여 두 분에게 드린다
+  author: 박은
+  language: kor
+  text: |-
+    친구들 많이 병을 앓거니
+    내 혼자라 누구와 즐기며 놀리
+    문닫고 앉아 찬 눈 소리 듣다가
+    아이를 불러 탁주 있나 묻는다
+    사람들 그대로 방달을 싫어하고
+    하늘도 또한 풍소를 꺼리누나
+    예나 이제나 모두 이러하거니
+    그 누가 티끌 세상 벗어날건가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0960&viewSync=OT
+  footnotes: []
+english:
+  title: On a Snowy Morning, Moved to Compose a Five-Character Poem for Two Friends, as Our Gatherings for Poetry and Wine Grow Ever More Sparse
+  author: Park Eun
+  language: eng
+  text: |-
+    My friends all languish in sickness—
+    alone, with whom shall I seek joy?
+    I close my doors and listen to the cold snow,
+    call the boy to ask if there is wine.
+
+    Men still despise unbridled hearts,
+    and Heaven too abhors the passionate soul.
+    In ancient times and now alike,
+    who can escape this dusty world?
+  footnotes:
+  - key: ''
+    value: This poem was written to Jik-gyeong and Taek-ji, friends whose illnesses and eye troubles prevented them from attending the poet's usual gatherings for composing poetry and drinking wine.
+  - key: ''
+    value: '''Five-character'' refers to the classical five-character regulated verse form (jueju) of Chinese poetry, where each line contains five characters.'
+  - key: ''
+    value: '''Unbridled hearts'' and ''passionate soul'' reference Confucian and Daoist tensions regarding emotional expression and individual freedom in society.'

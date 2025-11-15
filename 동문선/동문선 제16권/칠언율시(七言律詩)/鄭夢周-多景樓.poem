@@ -1,0 +1,51 @@
+canonical:
+  title: 多景樓
+  author: 鄭夢周
+  language: lzh
+  text: 欲展平生氣浩然須來甘露寺樓前瓮城畫角斜陽裏苽浦歸帆細雨邊古鑊尙留梁歲月高軒直壓楚山川登臨半日逢僧話忘却東韓路八千
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 多景樓
+  author: 鄭夢周
+  language: lzh
+  text: 欲展平生氣浩然。須來甘露寺樓前。瓮城畫角斜陽裏。苽浦歸帆細雨邊。古鑊尙留梁歲月。高軒直壓楚山川。登臨半日逢僧話。忘却東韓路八千。
+korean:
+  title: 다경루
+  author: 정몽주
+  language: kor
+  text: |-
+    평생에 기른 호연지기를 펴려거든
+    모름지기 감로사 다락 앞에 와보소
+    옹성의 화각 소리는 석양이 비낀 때
+    과포의 돌아가는 돛은 가랑비 내리는 물가에
+    옛 가마엔 아직도 양나라 세월 머물러 있고
+    높은 난간은 곧장 초의 산천을 위압하네
+    올라서 반나절이나 중을 만나 얘기하니
+    동한의 8천 리 길을 내 잠깐 잊었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0840&viewSync=OT
+  footnotes: []
+english:
+  title: The Tower of Many Views
+  author: Jung Mong-ju
+  language: eng
+  text: |-
+    If you wish to unfold the vastness of spirit cultivated through a lifetime,
+    You must come before the tower of Ganglok Temple.
+    From the city walls, the painted horns sound through the slanting sun,
+    While homebound sails drift on waters where light rain falls.
+    In the ancient stove lingers still the time of Liang's golden age,
+    And the high balcony commands straight down the mountains of Chu.
+    Half a day spent ascending and conversing with the monks—
+    And I forget the eight thousand leagues of the eastern path home.
+  footnotes:
+  - key: ''
+    value: 'Ganglok Temple (감로사): A significant Buddhist temple, here representing a place of spiritual refuge and elevation.'
+  - key: ''
+    value: The 'painted horns' refer to decorated military horns sounding from the fortress walls, evoking both the grandeur and the passage of time.
+  - key: ''
+    value: The 'ancient stove' alludes to the historical legacy and layered memories contained within the temple structure.
+  - key: ''
+    value: Chu and Liang are ancient Chinese kingdoms whose names evoke literary and historical resonance, suggesting the speaker's immersion in classical learning.
+  - key: ''
+    value: The 'eight thousand leagues of the eastern path' refers to the speaker's homeland and the distance traveled, which momentarily fades from memory in the temple's contemplative atmosphere.

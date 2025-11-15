@@ -1,0 +1,45 @@
+canonical:
+  title: 贈妓
+  author: 鄭襲明
+  language: lzh
+  text: 百花叢裏淡丰容忽被狂風减却紅獺髓未能醫玉頰五陵公子恨無窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈妓
+  author: 鄭襲明
+  language: lzh
+  text: 百花叢裏淡丰容。忽被狂風减却紅。獺髓未能醫玉頰。五陵公子恨無窮。
+korean:
+  title: 증기
+  author: 정습명
+  language: kor
+  text: |-
+    온갖 꽃떨기 속에 청초한 그 모습이
+    홀연히 광풍을 만나 붉은 빛을 덜었구나
+    수달의 골도 옥뺨을 능히 고치지 못하니
+    오릉(五陵)의 공자 한이 무궁하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 증기(贈妓) : '
+    value: 이 시는 어느 지방의 수령이 갈려 가면서 사랑하던 기생에게, “내가 간 뒤에는 또 다른 남자의 사랑을 받을 것이다.” 하고는 촛불로 얼굴을 찢어서 흉하게 만들었으므로 작자(作者)가 그것을 두고 시를 이렇게 지었다.
+  - key: '[주-D002] 수달의 골 : '
+    value: 삼국(三國) 때에 오(吳)나라 임금 손화(孫和)가 여의주를 가지고 희롱하다가 미인의 얼굴에 상처를 내었는데, 한 수달의 골[白獺髓]을 구하여 치료하였다.
+  - key: '[주-D003] 오릉(五陵) : '
+    value: 장안(長安)에 있는 남녀의 놀이터.
+english:
+  title: A Gift for a Courtesan
+  author: Jeong Seup-myeong
+  language: eng
+  text: |-
+    Among the hundred flowers she stood in gentle grace,
+    Until the wild wind came and stole away her face.
+    No otter's bone can mend what cruelty has done—
+    The lords of the five tombs lament what they have won.
+  footnotes:
+  - key: ''
+    value: 'This poem addresses a cruel act: a provincial governor, upon leaving his post, disfigured the courtesan he had loved by scarring her face with candle flame, fearing she would find another lover in his absence.'
+  - key: ''
+    value: The 'otter's bone' refers to a legendary remedy from the Three Kingdoms period, when a white otter's bone was used to heal a beauty's wounded face—a cure now powerless against human cruelty.
+  - key: ''
+    value: The Five Tombs refers to the pleasure quarters of Chang'an, where the noble and dissolute gathered.

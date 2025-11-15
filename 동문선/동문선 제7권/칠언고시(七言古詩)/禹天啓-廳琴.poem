@@ -1,0 +1,90 @@
+canonical:
+  title: 廳琴
+  author: 禹天啓
+  language: lzh
+  text: 畫堂白日開錦筵琴師爲我張絲桐絃將手語雅韻多宮商角徵相爲宮小成大成度不盡極淸極濁聲無窮蕩如楊花急飄散閙如玉佩搖玲瓏獨鴈叫群飛曉霜幽禽得友呼春風山靜流泉落深磵風吹冷雨侵孤篷錚鏘攫繹動入神悲歌浩歎飜欲同雍容恬淡古意深峩峩洋洋山水中君不見昔時虞舜制五絃無聲之樂聞四方南風薰兮草木香又不見殷商一夫不脩德惉懘之音亂五常北鄙靡兮人民傷聲音感動便如此聖人於此尤謹詳若爲奏得正始音復使天下歸陶唐
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 廳琴
+  author: 禹天啓
+  language: lzh
+  text: 畫堂白日開錦筵。琴師爲我張絲桐。絃將手語雅韻多。宮商角徵相爲宮。小成大成度不盡。極淸極濁聲無窮。蕩如楊花急飄散。閙如玉佩搖玲瓏。獨鴈叫群飛曉霜。幽禽得友呼春風。山靜流泉落深磵。風吹冷雨侵孤篷。錚鏘攫繹動入神。悲歌浩歎飜欲同。雍容恬淡古意深。峩峩洋洋山水中。君不見昔時虞舜制五絃。無聲之樂聞四方。南風薰兮草木香。又不見殷商一夫不脩德。惉懘之音亂五常。北鄙靡兮人民傷。聲音感動便如此。聖人於此尤謹詳。若爲奏得正始音。復使天下歸陶唐。
+korean:
+  title: 청금
+  author: 우천계
+  language: kor
+  text: |-
+    화려한 집, 좋은 날씨, 비단 자리에서
+    금사거문고를 다루었네
+    손과 줄이 속삭이는데 아담한 운율이 많아
+    궁ㆍ상ㆍ각ㆍ치(음악의 5음)가 번갈아 궁성으로 되나니
+    소성ㆍ대성(성은 음악 한 곡조의 매듭) 도수가 다하지 않는 곡조며
+    극청ㆍ극탁으로 무궁한 소리
+    탕한 곡조는 버들가지가 갑자기 날아 흩어지듯
+    시끄러울 제는 옥 패물이 흔들려 쟁그랑거리듯
+    외기러기 짝을 찾아 새벽 서리에 날으듯
+    골짜기의 새가 벗을 얻어 봄바람에 울부짖듯
+    산은 고요한데 흐르는 샘물 깊은 시내에 떨어지듯
+    바람이 불어 찬 비가 외로운 뱃집[篷] 위에 뿌리듯
+    쟁글당글 뜯고 누름이여 모두 입신이라
+    슬픈 노래인지 긴 탄식인지 마냥 한가지로
+    한가하고 담담하여 고의 깊으니
+    아아(우뚝우뚝) 양양(넘실넘실) 산수 속이라
+    그대 보았으리, 옛날 우순이 오현금을 만들어
+    소리 없는 풍악이 사방에 들리게 하니
+    남풍은 따스하여 초목이 향기로웠다는 것을
+    또 보았으리, 일부 은주가 덕을 닦지 않아
+    불화한 음악으로 오상을 어지럽혀서
+    북비의 음탕한 곡에 백성이 상하였음을
+    소리의 감동이 곧 이와 같았기에
+    성인은 이에 더욱 삼갔나니
+    어떻게 정시음을 연주하여서
+    천하가 다시 당우 시대로 돌아가게 할꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 아아(峩峩) 양양(洋洋) : '
+    value: 백아(伯牙)가 거문고를 타는데 종자기(鍾子期)가 들으면서, “아아(峩峩)하다. 산이로다.” 하고, 또 한 곡조를 듣고 나서는, “양양(洋洋)하다. 흐르는 물이로다.” 하여 곡조를 잘 알아주었다.
+  - key: '[주-D002] 일부 은주(一夫殷紂) : '
+    value: 은왕(殷王) 주(紂)가 포악한 정치를 하므로 주무왕(周武王)이 쳐서 죽였는데, 뒤에 맹자(孟子)가 말하기를, “주(紂)가 민심을 잃었으니 일부(一夫)요, 임금이 아니므로 죽임이 옳다.” 하였다.
+  - key: '[주-D003] 북비(北鄙)의 음탕한 곡 : '
+    value: 주(紂)는 음악을 ‘북쪽 변두리의 음탕한 소리[北鄙靡靡之聲]’로 만들었다. 《禮記》
+english:
+  title: The Guqin in the Hall
+  author: Yu Tian-qi
+  language: eng
+  text: |-
+    The painted hall opens to white daylight, silk cushions spread in splendor.
+    The musician takes up the stringed guqin for me.
+    Strings whisper beneath fingertips, refined melodies abound,
+    As gong and shang, jiao and zhi revolve in succession.
+    Small movements, large movements—the measures never exhaust themselves,
+    Pure and turbid tones blend in endless sound.
+    Swelling like willow catkins, they scatter in sudden flight,
+    Clashing like jade pendants, they shimmer and chime.
+    A solitary goose calls to its flock through dawn's frost,
+    Wild birds find companions and cry out to the spring wind.
+    The mountain lies still as water falls through deep ravines,
+    Wind-driven rain strikes the lonesome boat's canopy.
+    The trembling, the plucking—all enters the realm of spirit,
+    Sorrowful songs and long sighs merge into one.
+    With graceful ease and tranquil depth, ancient meaning dwells,
+    Lofty and flowing—the music flows through mountains and waters.
+
+    Did you not know that sage Yu the Great once made the five-stringed lute,
+    And through music without sound his virtue reached the four corners?
+    The warm south wind caressed the earth; grass and trees grew fragrant.
+    Yet did you not see how one man of Yin-Shang neglected virtue,
+    And his chaotic music threw the five bonds of order into disorder?
+    The wanton songs of the northern wilds wounded the people.
+    Such is the power by which sound moves the world.
+    The sages therefore guarded this with utmost care.
+    If only we could play again the music of righteous harmony,
+    Then under heaven all would return to the golden age of Yao and Shun.
+  footnotes:
+  - key: ''
+    value: Gong, shang, jiao, and zhi represent four of the five fundamental notes in traditional Chinese music theory.
+  - key: ''
+    value: The sage Yu the Great, according to legend, created an instrument whose silent music (expressing inner virtue) spread across the realm without audible sound.
+  - key: ''
+    value: This poem alludes to the historical contrast between virtuous rulership—exemplified by ancient sage-kings—and the tyrant Shang Zhou, whose corrupt music symbolized moral decay and brought suffering to his people.

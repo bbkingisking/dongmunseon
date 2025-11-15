@@ -1,0 +1,75 @@
+canonical:
+  title: 榻銘
+  author: 金時習
+  language: lzh
+  text: 不華晥以飾大夫之簀不斑爛以文小戎之茵展我土床溫如陽春穿膝累脚危坐待晨窮理密察思晞古人不偏不倚省躬惟寅從居闇室如對大賓不愧屋漏如在祭神主一無適惺惺堅硬泥團木槊廣博平正惟君子賴尒以居敬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 榻銘
+  author: 金時習
+  language: lzh
+  text: 不華晥以飾大夫之簀。不斑爛以文小戎之茵。展我土床。溫如陽春。穿膝累脚。危坐待晨。窮理密察。思晞古人。不偏不倚。省躬惟寅。從居闇室。如對大賓。不愧屋漏。如在祭神。主一無適。惺惺堅硬。泥團木槊。廣博平正。惟君子賴。尒以居敬。
+korean:
+  title: 탑명
+  author: 김시습
+  language: kor
+  text: |-
+    빛나고 곱게 하여 대부책처럼 꾸민 것도 아니요
+    찬란하고 아롱지제 하여 소융인의 문장처럼 윤낸 것도 아니로세
+    나의 토상에 깔아 놓으니
+    봄과 같이 훈훈하구나
+    무릎 끊고 다리 포개고
+    오뚝이 앉아 밤을 지새며
+    이치를 궁구하며 정밀히 따져
+    옛사람과 같이 가련다
+    뒤틀지도 않고 기대지도 않아
+    몸뚱이를 살펴 오직 공경하네
+    어둔 방에 처해서도
+    큰 손님을 대한 듯이 하며
+    옥누에도 부끄럽지 않고
+    신명을 제사하 듯하며
+    하나를 목표하여 갈내지 않고
+    마음 가짐 굳고 단단하네
+    이단과 목소는
+    광박하고 평정하니
+    군자는 너를 힘입어 공경을 갖는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1470_040_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대부책(大夫簀) : '
+    value: 책(簀)은 자리와 같은 물건인데, 증자(曾子)가 임종(臨終)할 적에 아들 증원(曾元)이 책을 깔았는데 중자는 보고, “화려하고 고우니 대부(大夫)가 사용하는 책이 아니냐, 빨리 바뀌라.” 하였다.
+  - key: '[주-D002] 소융인(小戎茵) : '
+    value: 인(茵)은 수레깔개 《시경》진풍(秦風)  소융장(小戎章)에, “문채나는 방석에, 긴 바퀴통이라.” 하였다.
+english:
+  title: Inscription on a Woven Mat
+  author: Kim Si習
+  language: eng
+  text: |-
+    Not adorned with brilliance to match a great official's seat,
+    Not embellished with gaudy patterns like a chariot's cushion—
+    My humble mat of earth spread plain,
+    Warms like the breath of spring.
+
+    Knees bent, legs folded tight,
+    I sit upright through the night,
+    Investigating principle with meticulous care,
+    Drawing near the wisdom of the ancients.
+
+    Straight without leaning, unmoved without swaying,
+    I examine myself and cultivate reverence alone.
+    In my darkened chamber,
+    I receive as though greeting honored guests.
+    Without shame before heaven's hidden eye,
+    As solemn as making offerings to the spirits.
+
+    Focused on one thing, straying nowhere,
+    My spirit grows firm and steadfast.
+    This clay-formed, wooden thing—
+    Broad and level, honest and true—
+    On this the gentleman relies
+    To practice reverence and decorum.
+  footnotes:
+  - key: ''
+    value: The reference to the 'great official's seat' alludes to Zengzi (曾子), the sage who, on his deathbed, rejected an ornate mat as unbecoming, saying it was fit only for high officials. This inscription deliberately rejects such ostentation.
+  - key: ''
+    value: The 'chariot's cushion' references a decorated cushion from the Book of Songs, further emphasizing the poem's rejection of worldly adornment in favor of spiritual cultivation.

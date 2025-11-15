@@ -1,0 +1,47 @@
+canonical:
+  title: 得病告暫往江村還京馬上
+  author: 任奎
+  language: lzh
+  text: 萬事悠悠一夢塲自憐身世未全忘少而寡合多踈放老不求名可退藏書室舊開師子嶺釣臺新占少華岡國恩未報親猶在更踏紅塵跡似忙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 得病告暫往江村還京馬上
+  author: 任奎
+  language: lzh
+  text: 萬事悠悠一夢塲。自憐身世未全忘。少而寡合多踈放。老不求名可退藏。書室舊開師子嶺。釣臺新占少華岡。國恩未報親猶在。更踏紅塵跡似忙。
+korean:
+  title: 병으로 휴가를 얻어 잠깐 강촌에 갔다가 서울로 돌아오며 말 위에서
+  author: 임규
+  language: kor
+  text: |-
+    인간 만사가 이럭저럭 한바탕 꿈
+    내 어이 몸과 세상 온통 잊지 못하는가
+    젊어선 남과 맞지 않음은 소방한 까닭이요
+    늙어 이름 안 구하니 물러가 숨을 만하네
+    서실은 전부터 사자령에 마련했었고
+    낚시터 새로 소화강에 차렸건만
+    나라 은혜 못 갚았고 부모 아직 계셔서
+    홍진을 다시 밟으니 제법 바쁜 내 행색
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0870&viewSync=OT
+  footnotes: []
+english:
+  title: On Returning to the Capital by Horseback After a Brief Retreat to River Village Due to Illness
+  author: Im Gyui
+  language: eng
+  text: |-
+    All the affairs of this world drift like a single dream.
+    Yet I cannot forget myself, nor the world entire.
+    In youth, my isolation came from discord with others;
+    now in age, I seek no fame and could retire in peace.
+    My study long awaited at Lion Ridge,
+    my fishing pavilion newly set by Little Hua's Hill—
+    but the nation's grace remains unpaid, my parents still alive.
+    So here I ride through red dust again, my hurried steps betray me.
+  footnotes:
+  - key: ''
+    value: Lion Ridge (師子嶺) and Little Hua's Hill (少華岡) are poetic names for places of retreat, representing the speaker's earlier hopes for reclusion
+  - key: ''
+    value: The 'red dust' (紅塵) is a Buddhist metaphor for the material world and its entanglements
+  - key: ''
+    value: The poem expresses the tension between the speaker's desire for solitude and their sense of obligation to family and state

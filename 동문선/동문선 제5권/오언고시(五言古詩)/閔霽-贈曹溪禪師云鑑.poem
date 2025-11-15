@@ -1,0 +1,48 @@
+canonical:
+  title: 贈曹溪禪師云鑑
+  author: 閔霽
+  language: lzh
+  text: 道人抱夙志物外遂長往眞源靜無瀾法喜日方丈宴坐巖谷深閉門松檜長高蹤隔塵凡企予徒想像
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈曹溪禪師云鑑
+  author: 閔霽
+  language: lzh
+  text: 道人抱夙志。物外遂長往。眞源靜無瀾。法喜日方丈。宴坐巖谷深。閉門松檜長。高蹤隔塵凡。企予徒想像。
+korean:
+  title: 증 조계선사 운감
+  author: 민제
+  language: kor
+  text: |-
+    도인이 일찍 뜻을 품고
+    세상 밖으로 멀리 갔었네
+    참된 근원은 고요하여 파란이 없고
+    법희는 날로 점점
+    고요하게 앉았으면 바위 골짜기가 깊숙하고
+    문을 닫으면 송회만이
+    높은 자취 티끌 세상과 막혔으니
+    바라보는 내가 한갓 상상만 할 뿐이로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: A Gift for Priest Yunggam of Jokgye
+  author: Min Je
+  language: eng
+  text: |-
+    The monk harbored his resolve from long ago,
+    and wandered far beyond the world of things.
+    The true source flows still, unmarred by ripples—
+    the dharma-joy grows wider, day by day.
+
+    In quiet sitting, deep within the stone valley,
+    with doors closed, only pines and cypresses grow tall.
+    His lofty traces stand apart from dust and world;
+    I who look upon him can only imagine, dream.
+  footnotes:
+  - key: ''
+    value: 'Jokgye (曹溪): A famous Buddhist temple in Korea, also referring to the lineage of the Southern School of Zen Buddhism'
+  - key: ''
+    value: 'Dharma-joy (法喜): In Buddhist terminology, the joy or delight that comes from understanding the dharma'
+  - key: ''
+    value: The 'true source' refers to the Buddha-nature or original enlightened mind in Zen philosophy

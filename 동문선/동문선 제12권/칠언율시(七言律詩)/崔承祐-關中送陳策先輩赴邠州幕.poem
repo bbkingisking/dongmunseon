@@ -1,0 +1,50 @@
+canonical:
+  title: 關中送陳策先輩赴邠州幕
+  author: 崔承祐
+  language: lzh
+  text: 禰衡詞賦陸機文再捷名高已不群珠淚遠辭裴吏部玳筵今奉竇將軍尊前有雪吟京洛馬上無山入塞雲從此幕中聲價重紅蓮丹桂共芳芬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 關中送陳策先輩赴邠州幕
+  author: 崔承祐
+  language: lzh
+  text: 禰衡詞賦陸機文。再捷名高已不群。珠淚遠辭裴吏部。玳筵今奉竇將軍。尊前有雪吟京洛。馬上無山入塞雲。從此幕中聲價重。紅蓮丹桂共芳芬。
+korean:
+  title: 분주 막부로 부임하는 진책 선배를 관중에서 보내며
+  author: 최승우
+  language: kor
+  text: |-
+    미형의 사부와 육기의 문으로
+    두 번이나 급제하여 드높이 떨친 이름
+    구슬 눈물로 멀리 배리부를 하직하니
+    대모 자리에 이제 두장군을 모시누나
+    눈 오는 날 술을 들며 서울 떠나는 회포
+    말 위에 선뜻 오르니 산에 구름도 활짝 걷히네
+    이제부터 막부 안에 성가가 중하리니
+    붉은 연 붉은 계수(과거에 급제함을 말한다)가 아울러 향기로우리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0340&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell to Senior Official Chen Ce Departing for the Binzhou Military Command in Guanzhong
+  author: Choe Seung-u
+  language: eng
+  text: |-
+    Your prose rivals Nieheng's wit, your writing matches Luxie's grace—
+    Twice you've passed the examinations, your renown already surpassing the crowd.
+    With pearl-like tears you bid farewell to Minister Pei's office,
+    Now you attend General Dou at the mother-of-pearl banquet.
+
+    Before the wine cup, snow falls as you leave the capital's streets,
+    Upon your horse you climb—the mountains fade, the borderland clouds part wide.
+    Henceforth your name shall weigh heavy in the military's halls,
+    The crimson lotus and red cinnamon bloom together in sweet fragrance.
+  footnotes:
+  - key: ''
+    value: Nieheng and Luxie (陸機) were celebrated classical poets and writers, evoking the recipient's literary talents.
+  - key: ''
+    value: The 'two examinations' refers to the recipient's notable successes in the civil service examinations.
+  - key: ''
+    value: Minister Pei and General Dou are historical figures invoked to honor the recipient's previous and current positions.
+  - key: ''
+    value: The crimson lotus and red cinnamon are traditional metaphors for success in the imperial examinations and official advancement.

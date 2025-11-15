@@ -1,0 +1,48 @@
+canonical:
+  title: 大倉
+  author: 鄭夢周
+  language: lzh
+  text: 男子平生愛遠遊異鄕胡乃歎淹留無人更掃陳蕃榻有客獨登王粲樓萬戶砧聲明月夜一竿帆影白蘋洲時來飮酒城南市豪氣猶能塞九州 更掃一作爲下竿一作江
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大倉
+  author: 鄭夢周
+  language: lzh
+  text: 男子平生愛遠遊。異鄕胡乃歎淹留。無人更掃陳蕃榻。有客獨登王粲樓。萬戶砧聲明月夜。一竿帆影白蘋洲。時來飮酒城南市。豪氣猶能塞九州。 更掃一作爲下。竿一作江。
+korean:
+  title: 대창
+  author: 정몽주
+  language: kor
+  text: |-
+    사나이 평생에 멀리 놀기를 사랑하는데
+    이역에 체류됨을 어이 탄식하는가
+    진번의 탑을 누가 다시 쓸어주리
+    왕찬의 다락에 나그네 혼자 오르네
+    휘영청 달 밝은 밤 집집이 다듬이 소리
+    흰 갈대 우거진 해변에 한 돛대 그림자
+    이따금 성남 저자에 와 술을 마시니
+    내 호기 아직도 제법 구주에 꽉차네
+    ‘다시 쓸다’는 혹 ‘위하여 내리다’로, ‘돛대’는 혹 ‘강’으로 되어 있다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0830&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진번(陳蕃)의 …… 쓸어주리 : '
+    value: 후한(後漢)  진번(陳蕃)이 태수가 되어, 고을에서 손님을 접대하지 않되 오직 서치(徐穉)가 오면 특히 한 탑(榻)을 베풀었다가 그가 가면 매달곤[懸] 했다.
+english:
+  title: The Grand Repository
+  author: Jeong Mong-ju
+  language: eng
+  text: |-
+    A man in his lifetime loves to roam far and wide—
+    why does he sigh at lingering in a foreign land?
+    Who will sweep Chen Fan's mat again?
+    A solitary guest climbs Wang Can's tower alone.
+    On moonlit nights, the sound of fulling stones rings from ten thousand homes,
+    a single sail's shadow drifts by the white reeds.
+    When I come to drink wine in the market south of the city,
+    my bold spirit still swells to fill the nine provinces.
+  footnotes:
+  - key: ''
+    value: 'Chen Fan''s mat: A reference to the Eastern Han official Chen Fan, who prepared a special mat only for the arrival of his friend Xu Zhi; when Xu Zhi departed, Chen Fan would hang up the mat—a symbol of reserved hospitality for the truly worthy.'
+  - key: ''
+    value: 'Wang Can''s tower: An allusion to the scholar-official Wang Can of the Three Kingdoms period, evoking longing and contemplation from a height.'

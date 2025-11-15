@@ -1,0 +1,37 @@
+canonical:
+  title: 西江寒食
+  author: 南孝溫
+  language: lzh
+  text: 天陰籬外夕寒生寒食東風野水明無限滿船商客語柳花旹節故鄕情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西江寒食
+  author: 南孝溫
+  language: lzh
+  text: 天陰籬外夕寒生。寒食東風野水明。無限滿船商客語。柳花旹節故鄕情。
+korean:
+  title: 서강 한식
+  author: 남효온
+  language: kor
+  text: |-
+    하늘 그늘 울타리 밖 차가운 저녁
+    한식날 동녘 바람 들물만 밝았고녀
+    온배의 장사꾼 하는 얘기
+    버들꽃 이 철에 고향 생각 절로 나네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: Cold Food Festival on the Western River
+  author: Nam Hyo-on
+  language: eng
+  text: |-
+    The sky grows dim beyond the fence, evening chill descends.
+    On Cold Food Festival, the eastern wind clears the wild waters.
+    The merchant voices fill the boat without end—
+    Willow blossoms in this season stir memories of home.
+  footnotes:
+  - key: ''
+    value: Cold Food Festival (한식/寒食) is traditionally observed one day before Tomb Sweeping Day, a time for ancestral veneration and reflection
+  - key: ''
+    value: The 'western river' likely refers to the Han River near Seoul, a traditional setting for contemplation

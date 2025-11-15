@@ -1,0 +1,59 @@
+canonical:
+  title: 乾竺國 인도의 雅稱
+  author: 朴仁範
+  language: lzh
+  text: 家隔滄溟夢早迷前程况復雪山西磬聲漸逐河源逈帆影長隨落月低葱嶺鬼應開棧道流沙神與作雲梯離鄕五印人相問年號咸通手自題
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 乾竺國 인도의 雅稱
+  author: 朴仁範
+  language: lzh
+  text: 家隔滄溟夢早迷。前程况復雪山西。磬聲漸逐河源逈。帆影長隨落月低。葱嶺鬼應開棧道。流沙神與作雲梯。離鄕五印人相問。年號咸通手自題。
+korean:
+  title: 건축국
+  author: 박인범
+  language: kor
+  text: |-
+    집이 창해 밖이라 꿈에조차 아득한데
+    머나먼 앞길이 하물며 설산 서쪽
+    경 소리는 멀어지고 황하의 근원을 따라가리
+    지는 달 좇아 돛 그림자도 낮아지리
+    총령에는 귀신이 응당 잔도를 열어 줄 것
+    유사에는 신이 구름다리를 만들어 주리
+    오천축 사람들이 묻거들랑
+    당나라 함통(당(唐)나라 의종(懿宗)) 연호를 손수 써서 보이소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 설산(雪山) : '
+    value: 천산(天山)의 별칭(別稱). 여름에도 눈이 쌓여 있으므로 설산(雪山) 또는 백산(白山)이라 한다.
+  - key: '[주-D002] 총령(葱嶺) : '
+    value: 돈황(敦煌) 서쪽 8천 리에 있는데, 산이 높고 크며 위에 파가 나므로, 총령이라 한다. 《水經》
+  - key: '[주-D003] 유사(流沙) : '
+    value: 사막(沙漠)을 말함. 우공(禹貢) 이후 역대 사지(史志)의 유사는 그 지점이 각기 다르나, 다 서역(西域)의 사막지대이다. 모래가 물처럼 유동(流動)하므로 유하(流河)라 했다.
+  - key: '[주-D004] 오천축(五天竺) : '
+    value: “천축국에 동ㆍ서ㆍ남ㆍ북ㆍ중앙 다섯 나라가 있으니, 지금 5인도이다.”라는 말이 《괄지지(括地志)》에 보인다.
+english:
+  title: India, the Gracious Land
+  author: Park In-beom
+  language: eng
+  text: |-
+    My home lies beyond the vast sea, lost even in dreams.
+    How much more distant the western path beyond the Snow Mountains?
+    Bell sounds fade, tracing the Yellow River to its source,
+    As sail-shadows lower, following the descending moon.
+    In the Onion Range, spirits shall surely open the cliff roads,
+    And in the Flowing Sands, gods will fashion stairs of cloud.
+    When the people of the Five Indias inquire of my journey,
+    I will show them the year-title, inscribed by my own hand.
+  footnotes:
+  - key: ''
+    value: The Snow Mountains refer to the Tian Shan range, perpetually crowned with snow even in summer.
+  - key: ''
+    value: The Onion Range lies eight thousand li west of Dunhuang, named for the onions that grow upon its heights.
+  - key: ''
+    value: The Flowing Sands denote the vast deserts of the Western Regions, where sand moves like water.
+  - key: ''
+    value: 'The Five Indias refer to the five regions of ancient India: east, west, south, north, and central.'
+  - key: ''
+    value: The year-title mentioned is from the Xiantong era (859-873) of Tang Emperor Yizong, marking the time of the poet's journey.

@@ -1,0 +1,58 @@
+canonical:
+  title: 柳平章
+  author: 釋眞靜
+  language: lzh
+  text: 黑頭黃閣坐魁然知是生當五百年大手四分蟾窟桂香根幾種鷲峯蓮早曾厭飫空門味况復虛明古鏡圓更有故藏彌露處韓公鉞與謝公篇自注集賢殿大學士兼上將軍故云
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 柳平章
+  author: 釋眞靜
+  language: lzh
+  text: 黑頭黃閣坐魁然。知是生當五百年。大手四分蟾窟桂。香根幾種鷲峯蓮。早曾厭飫空門味。况復虛明古鏡圓。更有故藏彌露處。韓公鉞與謝公篇。自注集賢殿大學士。兼上將軍故云。
+korean:
+  title: 유 평장
+  author: 석진정
+  language: kor
+  text: |-
+    검은 머리로 정승 자리에 우뚝 앉았으니
+    5백 년에 한 번 타고난 어진 분
+    월궁의 계수를 네 번이나 나눈 솜씨라
+    취봉의 연 향기로운 뿌리는 얼마나 심었는고
+    진작 일찍이 공문(불문(佛門))의 맛을 배부르게 맛본 몸
+    하물며 비고 밝은 옛 거울(마음에 비함)의 둥글음이야
+    하기야 감춘 곳이 더욱 드러났네
+    한공의 도끼와 사공의 명편
+    집현전(集賢殿) 대학사(大學士)로) 상장군(上將軍)을 겸했기에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 월궁(月宮)의 계수(桂樹) : '
+    value: 과거에 급제하는 것을 월궁에 있는 계수나무 꽃을 꺽는 데 비하므로 과거에 고시관(考試官)이 되어 선비들을 급제시키는 것을 계수꽃을 나누어 준다 한 것이다. 섬굴(蟾窟)은 월궁을 말한 것이다.
+  - key: '[주-D002] 한공(韓公)의 도끼 : '
+    value: 수(隋)나라 한금호(韓擒虎)가 대장이 되어 진(陳)나라를 쳐서 멸하였는데, 도끼[銊]는 임금이 출정(出征)하는 대장에게 내려주는 것이다.
+  - key: '[주-D003] 사공(謝公) : '
+    value: 동진(東晉)의 명상(名相)  사안(謝安)이다. 풍류 재상으로 시(詩)에도 능했다.
+english:
+  title: Hymn to Minister Yu P'yŏngchang
+  author: Sŏk Chin-jŏng
+  language: eng
+  text: |-
+    With dark hair you sit majestic in the purple-robed seat of state—
+    One born once in five hundred years, a man of rare virtue.
+    Your hand has split the moon's sweet laurel four times over,
+    How many fragrant lotus roots have you planted on Eagle Peak?
+
+    Long ago you grew weary of the empty gates' bitter taste,
+    Yet still that ancient mirror shines, clear and round within your breast.
+    What once was hidden now is ever more revealed—
+    The axe of Han, the verses of Hsieh echo still in your name.
+
+    Collector of the Hall of Assembled Worthies, Grand Academician,
+    Concurrently bearing the rank of Supreme General—thus it is told.
+  footnotes:
+  - key: ''
+    value: The moon's laurel refers to the laurel tree of the moon palace, a symbol of passing the imperial examinations. To 'split the laurel four times' means Yu has served as an examiner, granting degrees to scholars.
+  - key: ''
+    value: Han Kong's axe refers to General Han Ch'in-hu of the Sui dynasty, who received the ceremonial axe as supreme commander.
+  - key: ''
+    value: Hsieh Kung refers to Hsieh An, the renowned minister and poet of the Eastern Chin dynasty, known for his literary elegance and political acumen.

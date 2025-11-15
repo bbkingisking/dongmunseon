@@ -1,0 +1,38 @@
+canonical:
+  title: 遊南湖示同遊二子成重淹鄭希良
+  author: 曺偉
+  language: lzh
+  text: 游鯈鼓鬣綠波深林鳥關關和我吟物自得時機自動我今觀物見天心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊南湖示同遊二子成重淹鄭希良
+  author: 曺偉
+  language: lzh
+  text: 游鯈鼓鬣綠波深。林鳥關關和我吟。物自得時機自動。我今觀物見天心。
+korean:
+  title: 유 남호시 동유이자 성중엄 정희량
+  author: 조위
+  language: kor
+  text: |-
+    노는 고기 날개 치고 푸른 물결 깊은데
+    숲 새소리 관관하여 나의 시를 답하는 듯
+    물은 절로 뜻을 얻고 천기 절로 이룩한다네
+    이제 나는 물건 보고 하늘 마음 보았노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: 'At Southern Lake: Shown to My Two Companions in Travel, Seong Jung-eom and Jeong Hui-ryang'
+  author: Cho Wei
+  language: eng
+  text: |-
+    Fish leap and thresh their fins through green waves deep,
+    Forest birds call and answer back my song.
+    All things achieve their purpose by themselves—
+    The Way moves on, its timing always true.
+    Now as I watch the world, I see Heaven's heart.
+  footnotes:
+  - key: ''
+    value: The poem plays on the philosophical concept that observing nature reveals the fundamental principles (Heaven's heart) underlying all existence, a common theme in Korean Neo-Confucian poetry of this period.
+  - key: ''
+    value: The birds 'answering' the speaker's verse suggests a harmony between human expression and natural response, reflecting the Daoist ideal of wu-wei (effortless action) in the second couplet.

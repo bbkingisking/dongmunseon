@@ -1,0 +1,124 @@
+canonical:
+  title: 遠遊歌
+  author: 鄭道傳
+  language: lzh
+  text: 置酒賓滿堂起舞歌遠遊遠遊亦何方九州復九州朝枻洞庭波暮泊易水流四顧騁遐矚想像雍煕秋翼翼唐虞都崇崇夏殷丘歲月曾幾何邈矣不可求登車復行邁翩翩逝宗周峩峩靈臺高靄靄祥雲浮鳳凰鳴高岡關雎在河洲緜緜千載後綽有無疆休繼世何莫述王風日以偸祖龍呀其口一擧呑諸侯阿房與天齊兀盡蜀山頭禍在魚狐閒一朝輸項劉孰非出民力得失如薰蕕徘徊感今昔日晏旋我輈滿堂賓未散擧酒相獻酬高歌未終曲雙涕爲君流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遠遊歌
+  author: 鄭道傳
+  language: lzh
+  text: 置酒賓滿堂。起舞歌遠遊。遠遊亦何方。九州復九州。朝枻洞庭波。暮泊易水流。四顧騁遐矚。想像雍煕秋。翼翼唐虞都。崇崇夏殷丘。歲月曾幾何。邈矣不可求。登車復行邁。翩翩逝宗周。峩峩靈臺高。靄靄祥雲浮。鳳凰鳴高岡。關雎在河洲。緜緜千載後。綽有無疆休。繼世何莫述。王風日以偸。祖龍呀其口。一擧呑諸侯。阿房與天齊。兀盡蜀山頭。禍在魚狐閒。一朝輸項劉。孰非出民力。得失如薰蕕。徘徊感今昔。日晏旋我輈。滿堂賓未散。擧酒相獻酬。高歌未終曲。雙涕爲君流。
+korean:
+  title: 원유가
+  author: 정도전
+  language: kor
+  text: |-
+    술을 차려 손이 집에 가득하니
+    일어나 춤추며 먼 곳에서 노래 부르며 논다
+    멀리 노는 것이 또한 어느 곳인가
+    구주요 다시 구주로다
+    아침에는 동정호 물결에 노질하고
+    저물 때는 역수(연(燕)나라의 물 이름)의 흐름에 배를 댄다
+    사방으로 돌아보아 멀리 시력을 달리면서
+    태평하던 시대를 상상하여 본다
+    웅장한 당ㆍ우의 도읍이요
+    융숭한 하ㆍ은의 터로다
+    세월이 얼마나 되었는지
+    아득하여 찾아볼 수 없도다
+    수레에 올라 다시 가니
+    나는 듯 주나라로 향한다
+    영대(주나라 문왕(文王)이 쌓았다)는 삐쭉히 높고
+    상서로운 구름은 둥실둥실 떴도다
+    봉황은 높은 멧부리에서 울고
+    관저는 하수 가운데 언덕에 있도다
+    면면한 천 년 뒤까지
+    작작하게 끝없는 아름다움이 있다
+    뒤를 잇는 임금들이 어찌 계술을 못하였는가
+    왕의 풍화가 날마다 투박하여졌다
+    조룡(진시황(秦始皇))이 그 입을 벌리어
+    한 번에 제후를 삼켜버렸다
+    아방궁이 하늘과 가지런하여
+    촉산의 머리를 빨갛게 만들었다
+    화가 어호 사이에 있어서
+    하루 아침에 항우ㆍ유방에게 넘겨 주었다
+    어느 것이 백성의 힘에서 나오지 않았으랴마는
+    얻고 잃는 것이 훈유와 같도다
+    배회하며 옛과 이제를 느끼다가
+    해가 저무니 내 수레를 돌리었다
+    당에 가득한 손이 흩어지지 않았으니
+    술을 들어 서로 주고 받는다
+    높은 노래가 곡조를 맞추지 못하니
+    그대를 위하여 두 줄기 눈물을 흘리노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구주(九州)요 다시 구주로다 : '
+    value: 전국(戰國) 시대 추연(騶衍)의 학설(學說)에, “구주 밖에 또 구주가 있다.” 하였다.
+  - key: '[주-D002] 관저(關雎)는 하수 가운데 언덕에 있도다 : '
+    value: 주 문왕(周文王)이 덕이 있으므로, 봉황이 그 도읍의 기산(岐山)에서 울었다 하여 《시경》의 첫편 〈관저편(關雎篇)〉에 있는데, “관관(關關 화락하게 지절거리는 것)한 저구(雎鳩) 새가 하수의 언덕에 있다.” 하였다. 그것은 부부(夫婦)의 화합함을 읊은 시(詩)로써 주 문왕의 덕화를 칭송한 것이다.
+  - key: '[주-D003] 아방궁(阿房宮)이 하늘과 가지런하여 촉산(蜀山)의 머리를 빨갛게 만들었다 : '
+    value: 당나라 두목지(杜牧之)의 〈아방궁부(阿房宮賦)〉에, “나무를 다 베어내어 촉산(蜀山)이 우뚝하니 아방궁이 솟았구나.” 하는 구절이 있다.
+  - key: '[주-D004] 화(禍)가 어호(魚狐) 사이에 있어서 : '
+    value: 진(秦)나라의 수졸(戍卒)진승(陳勝)과 오광(吳廣)이 반란을 일으킬 때에 군사의 마음을 선동하기 위한 술책으로 비단에다, “진승이 왕이 된다.”고 글을 써서 물고기 뱃속에 넣어 사람을 시켜서 그 물고기를 팔게 하였고, 또 밤에 오광이 숲속의 신사(神祠)에 몰래 들어가서 여우의 소리로, “진승이 왕이 된다.”고 울었다.
+  - key: '[주-D005] 훈유(薰蕕) : '
+    value: 훈(薰)은 향초(香草)요, 유(蕕)는 냄새 나는 풀이다. 여기서는 주 문왕의 영대와 진시황의 아방궁이 모두 백성의 힘으로 이루어졌으나, 문왕은 흥하고 시황은 망한 것이 향초와 냄새나는 풀처럼 서로 다르다는 뜻이다.
+english:
+  title: Song of Far Wandering
+  author: Jung Do-jeon
+  language: eng
+  text: |-
+    Wine is poured and guests fill the hall,
+    I rise to dance and sing of distant journeys.
+    But where exactly is this far wandering?
+    Nine provinces, yet nine provinces beyond.
+
+    At dawn I ply the waters of Dongting Lake,
+    At dusk I moor upon the currents of Yi River.
+    Turning my gaze in all directions,
+    I stretch my sight across the realm—
+    Imagining that golden age of peace,
+    the grand capitals of Tang and Yu,
+    the towering foundations of Xia and Shang.
+
+    How many centuries have passed?
+    The years grow distant, beyond all reckoning.
+
+    I mount my chariot and journey on,
+    fluttering toward the Zhou.
+    The Spirit Tower rises steep and high,
+    auspicious clouds drift and drift above.
+    The phoenix calls from mountain peaks,
+    and the wild geese rest on river shores.
+
+    Through endless centuries hence,
+    beauty endures, boundless and eternal.
+    But why did later kings fail to carry on?
+    The royal Way grows coarser with each day.
+
+    Then came the Dragon of Qin, mouth gaping wide,
+    swallowing all the feudal lords in one gulp.
+    The Efang Palace rose as high as heaven itself,
+    stripping bare the mountains of Shu.
+    Yet calamity came—whispered in secrets, hidden like foxes—
+    and in a single dawn it fell to Xiang and Liu.
+
+    Whose glory did not spring from common folk's toil?
+    Gain and loss are like fragrance and stench:
+    both flow from the same source.
+
+    Wandering lost between past and present,
+    the sun descends, and I turn my chariot home.
+    The guests still linger in the hall,
+    we raise our cups in offering and song.
+    But the high melody breaks mid-verse—
+    and for you, dear friend, two tears fall.
+  footnotes:
+  - key: ''
+    value: The 'nine provinces and nine provinces beyond' alludes to ancient cosmological theory—the known world is but one of many.
+  - key: ''
+    value: The phoenix's call and the wild geese on the river evoke the virtuous reign of the Zhou kings and the auspicious omens that accompanied their rule.
+  - key: ''
+    value: The contrast between the enduring beauty of virtuous rule and the swift collapse of tyranny—the fragrant and the foul—suggests that all human glory, however grand, is ultimately subject to Heaven's judgment.
+  - key: ''
+    value: 'The poem shifts from grand historical vision to intimate sorrow: the singer''s tears suggest both the melancholy of transience and a moral meditation on the rise and fall of dynasties.'

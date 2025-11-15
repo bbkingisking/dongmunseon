@@ -1,0 +1,55 @@
+canonical:
+  title: 重遊北山
+  author: 李奎報
+  language: lzh
+  text: 俯仰頻驚歲屢更十年猶是一書生偶來古寺尋遺迹却對高僧話舊情半壁夕陽飛鳥影滿山秋月冷猿聲幽懷一欝殊難寫時下中庭獨步行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 重遊北山
+  author: 李奎報
+  language: lzh
+  text: 俯仰頻驚歲屢更。十年猶是一書生。偶來古寺尋遺迹。却對高僧話舊情。半壁夕陽飛鳥影。滿山秋月冷猿聲。幽懷一欝殊難寫。時下中庭獨步行。
+korean:
+  title: 중유 북산
+  author: 이규보
+  language: kor
+  text: |-
+    이럭저럭 해가 자주 바뀌는데
+    십 년 동안 나는 그대로 서생의 신세
+    우연히 옛 절에 와 유적을 찾아보고
+    고승을 대하여서 옛정을 얘기하네
+    벽에 비치는 석양은 날새가 지나는 듯
+    산 가득 가을달에 싸늘한 원숭이 울음
+    울적한 회포를 풀 길이 바이 없어
+    이따금 뜰에 내려서 혼자 거닐어 보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: Revisiting North Mountain
+  author: Lee Gyeongbo
+  language: eng
+  text: |-
+    The years slip away in constant change,
+    yet ten winters find me still a scholar young.
+    Chancing upon an ancient temple,
+    I search for traces of the past,
+    and speak of old affections with a learned monk.
+
+    On the temple wall, the sunset casts
+    the fleeting shadow of a bird in flight.
+    Across the mountainside, beneath the autumn moon,
+    the monkey's cry sounds cold and thin.
+
+    My tangled heart finds no release—
+    its sorrows lie too deep for words.
+    So now and then I leave my room,
+    and walk alone through moonlit courtyards,
+    seeking solace in the silent night.
+  footnotes:
+  - key: ''
+    value: North Mountain (北山) likely refers to a sacred or historically significant mountain in Korea, possibly associated with temples and Buddhist sites.
+  - key: ''
+    value: The 'scholar young' (書生) reflects the poet's sense of stagnation—despite the passage of ten years, he remains unchanged, still bearing the status of a youth pursuing learning.
+  - key: ''
+    value: The imagery of the monkey's cry was a traditional symbol in East Asian poetry for melancholy and the loneliness of autumn.

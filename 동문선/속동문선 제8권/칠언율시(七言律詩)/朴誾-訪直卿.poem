@@ -1,0 +1,48 @@
+canonical:
+  title: 訪直卿
+  author: 朴誾
+  language: lzh
+  text: 與病君今謀契濶於時我亦作蘧篨十年知己偶同此一笑相看聊自如坐久都忘刻漏盡談間已了毁譽虛主人留客故多事更出平生未見書
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 訪直卿
+  author: 朴誾
+  language: lzh
+  text: 與病君今謀契濶。於時我亦作蘧篨。十年知己偶同此。一笑相看聊自如。坐久都忘刻漏盡。談間已了毁譽虛。主人留客故多事。更出平生未見書。
+korean:
+  title: 방직경
+  author: 박은
+  language: kor
+  text: |-
+    그대는 지금 병과 멀어지려하는데
+    이 때에 있어서 나는 또한 병신이 되었구나
+    10년 동안 지기가 우연히 이 자리를 같이 하거니
+    서로 보고 한 번 웃으니 애오라지 자약하네
+    오래 앉아 각루가 다한 것을 완전히 잊었는데
+    이야기하는 동안에 훼예의 헛것임을 이미 알았네
+    주인이 손을 만류하노라고 핑계도 많아
+    평생에 보지 못한 글을 번갈아 내놓네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0660&viewSync=OT
+  footnotes: []
+english:
+  title: Visiting Jikgyeong
+  author: Park Eun
+  language: eng
+  text: |-
+    You seek to part from illness now,
+    Yet in this hour, I too have grown infirm.
+    Ten years of friendship chance has gathered here—
+    We meet and laugh, at ease with what we are.
+
+    Sitting long, we forget the water clock runs dry,
+    And in our talk, the hollowness of praise and blame grows clear.
+    The host finds reasons to delay his guest,
+    Bringing forth the unread scrolls of all his years.
+  footnotes:
+  - key: ''
+    value: '蘧篨 (huáng chú): a humble term for illness or infirmity, used here with self-deprecating irony'
+  - key: ''
+    value: '刻漏: an ancient water clock, metaphorically representing the passage of time'
+  - key: ''
+    value: '毁譽: praise and blame, representing the transient concerns of the world'

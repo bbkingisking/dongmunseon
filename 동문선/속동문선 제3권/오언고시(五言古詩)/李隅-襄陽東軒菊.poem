@@ -1,0 +1,67 @@
+canonical:
+  title: 襄陽東軒菊
+  author: 李隅
+  language: lzh
+  text: 我不如陶令採汝東籬下峴山非南山悠然眞趣寡客䆫尙幽靜頗可敵山野興來病不禦淸尊堪一把屈汝隱逸姿我豈眞苟且相逢官道中汝亦非靜者蕭蕭風雨夕依依不相舍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 襄陽東軒菊
+  author: 李隅
+  language: lzh
+  text: 我不如陶令。採汝東籬下。峴山非南山。悠然眞趣寡。客䆫尙幽靜。頗可敵山野。興來病不禦。淸尊堪一把。屈汝隱逸姿。我豈眞苟且。相逢官道中。汝亦非靜者。蕭蕭風雨夕。依依不相舍。
+korean:
+  title: 양양 동헌국
+  author: 이우
+  language: kor
+  text: |-
+    내가 도령(도연명)과 같이
+    너를 동편 울타리 밑에서 뜯지 못하네
+    현산이 남산이 아니어서
+    유연한 진취는 적다마는
+    객창이 그나마 그윽하고 고요하여
+    산과 들만 못하지 않구나
+    흥이 나면 병도 흥을 막지 못하니
+    맑은 술잔을 한 번 잡으며
+    네 은일한 양자를 굽히게 하노니
+    내 어찌 참으로 구차한 것이랴
+    벼슬길에서 서로 만나니
+    너도 은일한 자가 아니로구나
+    우수수 풍우 치는 이 저녁에
+    의의히 맞붙들고 놓지 못하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0870&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 현산(峴山)이……아니어서 : '
+    value: 중국의 양양(襄陽)에 현산(峴山)이 있으므로 여기에 인용한 것이며 도연명의 시에, “국화를 동쪽 울타리 밑에서 캐다가 유연히 남산을 보네.”[采菊東籬下 悠然見南山]란 글귀가 있다.
+  - key: '[주-D002] 은일(隱逸) : '
+    value: |
+      주염계(周濂溪)는 “국화는 꽃 중의 은일(隱逸)이라.” 하였다.
+  - key: '[주-D001] 李堣 : '
+    value: 저본에는 '李隅'로 되어 있다. 저본의 원목차에 근거하여 '李堣'로 수정하였다.
+english:
+  title: Chrysanthemum at the East Pavilion in Xiangyang
+  author: Lee U
+  language: eng
+  text: |-
+    I am no Tao Yuanming—
+    cannot pluck you beneath the eastern fence.
+    Xian Mountain is not Southern Mountain;
+    yet the leisurely charm remains, though dimmed.
+
+    Still, the guest pavilion holds its quiet grace,
+    not wholly lesser than mountain and field.
+    When inspiration strikes, sickness cannot hold it back;
+    I clasp the clear cup and find my way.
+
+    I bend your hermit bearing to my will—
+    yet how can I claim such petty victory?
+    We meet along the official road,
+    and you too are no recluse.
+
+    On this evening of wind and rain,
+    I hold you close and will not let you go.
+  footnotes:
+  - key: ''
+    value: 'Tao Yuanming (陶淵明), the famous recluse poet, wrote: ''Plucking chrysanthemums beneath the eastern fence, / I gaze in leisure at Southern Mountain.'' This poem echoes that celebrated image.'
+  - key: ''
+    value: In Chinese philosophy, the chrysanthemum is called 'the hermit among flowers'—a symbol of withdrawal from worldly affairs and cultivation of inner virtue.

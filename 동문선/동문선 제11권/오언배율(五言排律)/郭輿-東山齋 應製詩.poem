@@ -1,0 +1,73 @@
+canonical:
+  title: 東山齋 應製詩
+  author: 郭輿
+  language: lzh
+  text: 何處難忘酒虛經寶輦迴朱門追小宴丹竈落寒灰鄕飮通宵罷天門待曉開杖還蓬島徑屐惹洛城苔樹下靑童語雲閒玉帝來鼇宮多寂寞龍馭久徘徊有意仍抽筆無人獨上臺未能瞻日月却恨向塵埃搔首立階下含愁傍石隈此時無一盞豈慰寸心哉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東山齋 應製詩
+  author: 郭輿
+  language: lzh
+  text: 何處難忘酒。虛經寶輦迴。朱門追小宴。丹竈落寒灰。鄕飮通宵罷。天門待曉開。杖還蓬島徑。屐惹洛城苔。樹下靑童語。雲閒玉帝來。鼇宮多寂寞。龍馭久徘徊。有意仍抽筆。無人獨上臺。未能瞻日月。却恨向塵埃。搔首立階下。含愁傍石隈。此時無一盞。豈慰寸心哉。
+korean:
+  title: 동산재응제시
+  author: 곽여
+  language: kor
+  text: |-
+    어느 곳에서 술 잊기 어려웠던고
+    보연이 허행하여 돌아가셨네
+    주문(부귀한 집)의 작은 잔치에 참례했다가
+    단조(신선의 단약(丹藥)을 만드는 부엌)의 찬 재를 떨어뜨렸네
+    밤새껏 고을 유생들과 술 마셨더니
+    새벽녘에 천문(성문(城門))이 열렸네
+    지팡이로 봉래 길을 돌아오면서
+    나막신에 낙성 이끼 묻혀 왔더니
+    나무 아래 청의동자 알리는 말씀
+    구름 새에 옥황님이 오셨더라고
+    오관(한림원의 관원)이 모두 다 쓸쓸해 하고
+    용어가 오랫동안 서성대다가
+    붓을 뽑아 시 한 수 써 놓으시고
+    사람 없는 대에 혼자 오르셨다고
+    일월을 뵙지 못했사오니
+    진애로 향했던 것 못내 한이라
+    머리를 긁적이며 계하에 서고
+    시름을 머금고 돌에 기대니
+    이런 때 술 한 잔 없을 양이면
+    제 어찌 촌심을 위로하리까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동산재 응제시(東山齋應製詩) : '
+    value: 개성(開城) 동쪽 약두산(若頭山) 한 봉우리에 있던 작자의 양지재(養志齋)에 그를 몹시 총애하던 예종(睿宗)이 어떤 날 미행(微行)하여 산재에 이르니, 마침 그가 성중(城中)에 들어가고 없는지라, 한참 배회하다가 시 한 수를 벽에 쓰고 돌아갔다. 뒷날 임금이 또 거둥하여, 그의 손을 잡고 시를 구호(口號)하라 하매 응제(應制) 한 작. 《高麗史 郭輿傳》
+english:
+  title: Poem Written at the Eastern Mountain Lodge in Response to the Royal Command
+  author: Guo Yu
+  language: eng
+  text: |-
+    Where can one forget the wine?
+    The royal carriage passed through empty halls and turned back.
+    At the crimson gates of the noble house, I attended a small feast,
+    Then knocked cold ash from the purple furnace of the immortals.
+
+    Through the night I drank with the scholars of the town,
+    Until dawn broke and the city gates swung open.
+    With staff in hand I returned along the path to the Blessed Isles,
+    My wooden clogs gathering moss from Luoyang's ancient stones.
+
+    Beneath the trees, a blue-faced attendant spoke his words,
+    And between the clouds, the Jade Emperor himself came forth.
+    The halls of office grew silent and melancholy,
+    While the dragon-drawn carriage lingered, pacing long.
+
+    Yet still I took up brush and composed a verse,
+    Then climbed alone to the empty pavilion.
+    Unworthly to gaze upon sun and moon,
+    I turn instead to dust and ash, my heart full of regret.
+
+    Scratching my head, I stand below the steps,
+    Leaning against stone, clasping my sorrow—
+    But without a single cup of wine at such a time,
+    How can this weary heart find any comfort?
+  footnotes:
+  - key: ''
+    value: This poem commemorates a visit by King Yejong to the poet's Eastern Mountain Lodge near Kaesong. Finding the poet absent, the king wrote a poem on the wall. On a subsequent visit, the king asked the poet to respond with verse on the spot—hence the title 'In Response to the Royal Command.' The poem playfully blends the poet's regret at having missed the royal visit with philosophical reflection on the transience of fortune and favor.

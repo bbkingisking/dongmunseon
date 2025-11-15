@@ -1,0 +1,47 @@
+canonical:
+  title: 延慶宮古基
+  author: 成俔
+  language: lzh
+  text: 鵠嶺凌空紫翠浮龍蟠虎踞擁神州康安殿上松千夫威鳳樓前土一丘羅綺香消春獨在笙歌聲盡水空流不須問訊興亡事落日風烟滿目愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 延慶宮古基
+  author: 成俔
+  language: lzh
+  text: 鵠嶺凌空紫翠浮。龍蟠虎踞擁神州。康安殿上松千夫。威鳳樓前土一丘。羅綺香消春獨在。笙歌聲盡水空流。不須問訊興亡事。落日風烟滿目愁。
+korean:
+  title: 연경궁 고기
+  author: 성현
+  language: kor
+  text: |-
+    곡령이 허공을 업신여겨 자취가 떠 있는데
+    용이 서린 듯 호랑이 쭈구린 듯 신주를 끼고 있다
+    강안전 위에는 소나무가 천 그루요
+    위봉루 앞에는 흙이 한 언덕이다
+    비단옷의 향기는 사라지고 봄만 홀로 남았고
+    생황[관악기(管樂器)의 일종]과 노랫소리 다했는데 물만 속절없이 흐른다
+    구태여 흥하고 망한 일 물을 것 없다
+    지는 해의 바람과 연기가 눈에 가득 시름일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1110&viewSync=OT
+  footnotes: []
+english:
+  title: The Ancient Foundation of Yengyong Palace
+  author: Sung Hyun
+  language: eng
+  text: |-
+    The Gogryeong ridge rises to pierce the void, its traces floating in purple and green.
+    The dragon coils, the tiger crouches—they cradle the sacred realm.
+    Above the Kangahn Hall, a thousand pines stand sentinel.
+    Before the Weibong Tower, but a single mound of earth remains.
+    The fragrance of silken robes has vanished; only spring lingers on.
+    The pipes and songs have ceased their chorus; only water flows indifferent.
+    Why inquire into the rise and fall of empires?
+    At day's end, wind and mist fill the eye—and fill the heart with sorrow.
+  footnotes:
+  - key: ''
+    value: Gogryeong ridge and the directional imagery (dragon and tiger) evoke the geomantic principles that once guided the palace's placement, now rendered meaningless by its decay.
+  - key: ''
+    value: Kangahn Hall and Weibong Tower were structures within Yengyong Palace, now reduced to earthen mounds—a poignant image of temporal impermanence.
+  - key: ''
+    value: 'The final couplet reflects the Buddhist-influenced philosophical stance common to Korean literati poetry: acceptance that the rise and fall of human institutions is inevitable and not worth lamenting.'

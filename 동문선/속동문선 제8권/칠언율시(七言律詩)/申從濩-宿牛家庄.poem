@@ -1,0 +1,48 @@
+canonical:
+  title: 宿牛家庄
+  author: 申從濩
+  language: lzh
+  text: 寒䆫策策闇風吹衾銕生稜獨坐時白髮欺人增老態靑燈伴我作親知爐添榾柮供春暖飯雜泥沙救夜飢試把菱花照憔悴鄕愁一抹上雙眉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿牛家庄
+  author: 申從濩
+  language: lzh
+  text: 寒䆫策策闇風吹。衾銕生稜獨坐時。白髮欺人增老態。靑燈伴我作親知。爐添榾柮供春暖。飯雜泥沙救夜飢。試把菱花照憔悴。鄕愁一抹上雙眉。
+korean:
+  title: 숙 우가장
+  author: 신종호
+  language: kor
+  text: |-
+    밤바람이 휘몰아 와 찬 창문을 치는데
+    금철에 능이 생겨 혼자 앉아 있노니
+    흰 머리털은 사람을 속여 늙은 모습만 더하고
+    푸른 등불은 나를 짝해 친한 벗이 되었다
+    화로에는 장작 토막을 보태어 봄의 따뜻함을 이바지하고
+    밤에는 진흙과 모래 섞였는데 밤의 주림을 구제한다
+    일부러 거울을 잡아 여윈 얼굴을 비춰 보나니
+    한 가닥 고향 시름이 두 눈썹에 오른다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금철(衾鐵) : '
+    value: 겨울 밤 추운 방에 이불이 쇠처럼 차다는 말이다.
+  - key: '[주-D001] 㽵 : '
+    value: 庄
+english:
+  title: Lodging at Niu Family Village
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    The cold wind sweeps and lashes against the frosted window.
+    Beneath iron quilts grown rigid, I sit alone.
+    White hairs deceive me, adding to the look of age,
+    While the blue lamp becomes my companion, my intimate friend.
+
+    I feed the brazier with split wood to bring spring's warmth,
+    And rice mixed with clay and sand to ease the hunger of night.
+    When I lift the mirror to see my wasted face,
+    A single thread of homesickness climbs across my brows.
+  footnotes:
+  - key: ''
+    value: The 'iron quilts' refer to the quilts that become stiff and rigid from the freezing cold of winter nights—a traditional image expressing hardship and desolation.

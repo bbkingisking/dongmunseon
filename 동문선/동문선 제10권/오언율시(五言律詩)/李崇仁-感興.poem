@@ -1,0 +1,46 @@
+canonical:
+  title: 感興
+  author: 李崇仁
+  language: lzh
+  text: 久矣妨賢路飄然落遠方山川非故國風露近重陽冉冉蘆花白團團菊蘂黃客懷何以遣除却接杯觴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 感興
+  author: 李崇仁
+  language: lzh
+  text: 久矣妨賢路。飄然落遠方。山川非故國。風露近重陽。冉冉蘆花白。團團菊蘂黃。客懷何以遣。除却接杯觴。
+korean:
+  title: 감흥
+  author: 이숭인
+  language: kor
+  text: |-
+    현로를 방해한 지 오래여라
+    표연히 먼 곳에 떨어졌네
+    산과 물은 내 고장이 아니어서
+    풍경은 중양에 가까워라
+    더부룩히 더부룩히 갈꽃은 희고
+    둥글게 둥글게 국화꽃은 누르다
+    나그네 시름 어이 견디리
+    문득 뜰 가에서 술잔을 드네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 현로(賢路)를 방해한 : '
+    value: 높은 벼슬자리에 한 사람이 오래 앉아 있는 것을 다른 현인(賢人)의 진출할 길을 방해한다고 이른다.
+english:
+  title: Stirrings of Feeling
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Long have I blocked the path of the worthy—
+    scattered like dust to distant lands.
+    These mountains and waters are not my home;
+    wind and dew draw near to the Double Ninth.
+
+    Reed flowers drift, drift—their whiteness spreading,
+    chrysanthemum blooms cluster, cluster—their gold deepening.
+    How else can a wanderer's sorrow find rest?
+    But suddenly, by the pavilion's edge, I raise the cup.
+  footnotes:
+  - key: ''
+    value: The 'path of the worthy' (賢路) refers to high office—by remaining long in one's position, one blocks the advancement of other capable men. The poet expresses remorse for having done so, now finding himself exiled to remote lands.

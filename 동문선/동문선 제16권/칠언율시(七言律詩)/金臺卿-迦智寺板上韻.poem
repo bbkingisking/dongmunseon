@@ -1,0 +1,47 @@
+canonical:
+  title: 迦智寺板上韻
+  author: 金臺卿
+  language: lzh
+  text: 百尺浮圖揷半空飛樓傑閣幾千重尋僧野興閑彌篤學佛機緣老漸濃揭厲屢經無盡水扶持更上最高峯晚來雙脚多酸楚木枕蒲圑忽放慵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 迦智寺板上韻
+  author: 金臺卿
+  language: lzh
+  text: 百尺浮圖揷半空。飛樓傑閣幾千重。尋僧野興閑彌篤。學佛機緣老漸濃。揭厲屢經無盡水。扶持更上最高峯。晚來雙脚多酸楚。木枕蒲圑忽放慵。
+korean:
+  title: 가지사 판상운
+  author: 김대경
+  language: kor
+  text: |-
+    백 자나 되는 높은 탑이 반공에 솟았는데
+    높고 큰 누각이 겹겹이 벌여 있네
+    중을 찾는 흥치는 한가할수록 더하고
+    불도 배우는 기연은 늙어 점점 깊어가네
+    걷고 벗고 수없는 물을 건너와서
+    잡으며 최고봉을 그에 올라왔네
+    저녁에 두 다리가 시큰하니
+    포단에 목침을 베고 쭉 뻗고 누웠노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0080&viewSync=OT
+  footnotes: []
+english:
+  title: On the Wooden Platform at Gaji Temple
+  author: Kim Dae-gyeong
+  language: eng
+  text: |-
+    A pagoda a hundred feet high pierces the half-empty sky,
+    Layered halls and soaring towers multiply in the clouds.
+    My wandering spirit seeks the monks, and idleness deepens my longing—
+    The path to Buddha opens wider as age creeps on.
+    I have climbed and struggled through waters without end,
+    Reaching up to grasp the highest peak at last.
+    But now at dusk my weary legs ache and throb,
+    And I lie stretched upon the platform, pillow of wood beneath my head.
+  footnotes:
+  - key: ''
+    value: The 'wooden platform' (판상) likely refers to a wooden veranda or terrace at the temple where the poet rests after his spiritual ascent
+  - key: ''
+    value: The 'waters without end' (무진수) symbolize the suffering and obstacles of worldly existence in Buddhist teaching
+  - key: ''
+    value: The contrast between the strenuous spiritual climb and the weary physical rest in the final couplet reflects the tension between aspiration and mortal limitation

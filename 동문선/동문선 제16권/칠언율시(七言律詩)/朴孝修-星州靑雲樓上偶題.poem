@@ -1,0 +1,54 @@
+canonical:
+  title: 星州靑雲樓上偶題
+  author: 朴孝修
+  language: lzh
+  text: 樓下居人笑語譁畫橋流水柳陰多恨無崔顥題芳草誰爲滕王詠落霞山雨曉催燒笋興野風時送揷秧歌強留拙句眞蕭散滿壁龍騰醉筆斜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 星州靑雲樓上偶題
+  author: 朴孝修
+  language: lzh
+  text: 樓下居人笑語譁。畫橋流水柳陰多。恨無崔顥題芳草。誰爲滕王詠落霞。山雨曉催燒笋興。野風時送揷秧歌。強留拙句眞蕭散。滿壁龍騰醉筆斜。
+korean:
+  title: 성주 청운루상 우제
+  author: 박효수
+  language: kor
+  text: |-
+    다락 아래 사는 사람들 왁작 웃고 떠드는 소리
+    다리 밑 흐르는 물에 버들그늘이 짙구나
+    섭섭하다 최호가 방초를 읊은 시가 없구나
+    누가 등왕각에 떨어지는 놀을 읊을꼬
+    새벽에 산비 오니 죽순 먹을 흥이 나고
+    이따금 들 바람에 모심는 노래 들려오네
+    서투른 시를 구태여 쓰니 참으로 멋적으이
+    벽 가득 용 꿈틀거리듯 취필로 비껴쓰네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 다리밑 …… 버들그늘이 짙구나 : '
+    value: 최호(崔顥)가 쓴 황학루(黃鶴樓) 시의 셋째 연(聯).
+  - key: '[주-D002] 죽순 먹을[燒笱] : '
+    value: 소동파(蘇東波)가 절에 가서 죽순(竹筍)을 구워 먹은 일화(逸話)가 있다.
+english:
+  title: Casually Written on Cheonggun Pavilion in Seongju
+  author: Park Hyosoo
+  language: eng
+  text: |-
+    Below the tower, residents laugh and chatter loudly—
+    beneath the painted bridge, flowing water and dense willow shade.
+    I lament that Cui Hao wrote no poem on fragrant grasses;
+    who will compose verses on the falling glow at Teng's tower?
+
+    Morning mountain rain arrives, stirring desire for grilled bamboo shoots.
+    Now and then the wild wind carries songs of rice-planting.
+    I force my clumsy verses here, truly scattered and loose—
+    across the wall the dragons leap and writhe in drunken brush strokes.
+  footnotes:
+  - key: ''
+    value: Cui Hao was a Tang poet famous for his work on the Yellow Crane Tower; the reference to the painted bridge and willow shade echoes the celebrated beauty of that celebrated site.
+  - key: ''
+    value: The reference to Teng's tower (Teng Wang Pavilion) alludes to Wang Bo's celebrated poem on falling clouds and flying birds, one of the most famous works of Chinese poetry.
+  - key: ''
+    value: The image of grilled bamboo shoots invokes Su Dongpo's rustic pleasures, suggesting the poet's embrace of simple, unrefined delights.
+  - key: ''
+    value: The final image of dragons leaping in drunken brush strokes suggests the semi-autonomous, spirited nature of spontaneous writing—the poem itself becomes almost an involuntary expression of the moment.

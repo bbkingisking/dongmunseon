@@ -1,0 +1,45 @@
+canonical:
+  title: 奉使日本有感
+  author: 朴瑞生
+  language: lzh
+  text: 一飯聊申一祝辭君恩偏重遠游時盤飱日日多兼味尊酒時時滿大巵異卉幽花隨處好回山曲水到頭奇不因奉使來東域天下奇觀緫不知
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉使日本有感
+  author: 朴瑞生
+  language: lzh
+  text: 一飯聊申一祝辭。君恩偏重遠游時。盤飱日日多兼味。尊酒時時滿大巵。異卉幽花隨處好。回山曲水到頭奇。不因奉使來東域。天下奇觀緫不知。
+korean:
+  title: 봉사 일본 유감
+  author: 박서생
+  language: kor
+  text: |-
+    끼니 때마다 드리옵는 축수의 한 마디
+    멀리 노니 임금님 은혜 더욱 무거워라
+    반찬은 날마다 여러 가지
+    술도 이따금 곱배기 술잔에 가득하구나
+    기이한 풀 그윽한 꽃이 곳곳마다 좋고
+    둘린 산 굽은 물이 가는 곳마다 기특해라
+    봉명 사신으로 동쪽 나라 안 왔던들
+    천하의 이런 기관을 통 모를 뻔하였네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0560&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections Upon My Mission to Japan
+  author: Park Seo-saeng
+  language: eng
+  text: |-
+    With each meal, I offer up a word of gratitude—
+    How the sovereign's grace grows heavier still in distant lands.
+    Each day the table spreads with many dishes,
+    And ofttimes the wine cup overflows, brimming full.
+    Strange grasses and secluded flowers enchant at every turn,
+    Encircling mountains and winding waters reveal their marvels at journey's end.
+    Had I not come as envoy to this eastern realm,
+    I would have wandered all my days in ignorance of heaven's wonders.
+  footnotes:
+  - key: ''
+    value: The poem was written during Park Seo-saeng's diplomatic mission to Japan, reflecting both gratitude for official provisions and wonder at the natural beauty encountered.
+  - key: ''
+    value: The 'eastern realm' (東域) refers to Japan, positioned east of Korea in traditional East Asian geography.

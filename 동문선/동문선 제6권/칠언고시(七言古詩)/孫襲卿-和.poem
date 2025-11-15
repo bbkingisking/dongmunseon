@@ -1,0 +1,54 @@
+canonical:
+  title: 和
+  author: 孫襲卿
+  language: lzh
+  text: 塞垣無鼎又無鍾欲記元功詩可闕書之板上告後來觀者爭前僵復蹶孟明濟河雪秦恥若比於公當處末明年又可定天山三箭元無一虛發
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和
+  author: 孫襲卿
+  language: lzh
+  text: 塞垣無鼎又無鍾。欲記元功詩可闕。書之板上告後來。觀者爭前僵復蹶。孟明濟河雪秦恥。若比於公當處末。明年又可定天山。三箭元無一虛發。
+korean:
+  title: 화
+  author: 손습경
+  language: kor
+  text: |-
+    변방에는 정도 없고 종도 또한 없으니
+    그 공을 적으려 하나 진실로 빠뜨리기 쉽도다
+    현판에 써서 뒤에 오는 이에게 알리니
+    보는 이 앞을 다투다 쓰러지고 밟고 할 것이다
+    맹명이 강을 건너 진나라 원한을 씻었다 하지만
+    그것도 공에 견주면 끝 자리에 앉으리라
+    이듬해에 또 천산을 평정할 때에는
+    세 화살에서 한 화살도 쏘지 않았으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정(鼎)도 …… 없으니 : '
+    value: 국가에 큰 공훈(功勳)이 있으면 종(鍾)과 정(鼎)에 새겨서 영원히 전한다.
+  - key: '[주-D002] 맹명(孟明)이 …… 씻었다 : '
+    value: 춘추(春秋) 시대에 진(秦)나라 장수 백리 맹명(孟明)이 처음에는 효함(殽函)에서 진(晋)나라의 습격을 당하여 포로가 되었다가, 석방되어 본국에 돌아가서 3년 만에 하수(河水)를 건너 진나라를 쳐서 보복하였다.
+  - key: '[주-D003] 천산(天山)을 평정할 때 : '
+    value: 당나라 장수 설인귀(薛仁貴)가 화살 세 개로 적장 세 사람을 쏘아 죽이니, 적군이 패하여 천산(天山)을 평정하였다.
+english:
+  title: In Response
+  author: Son Seup-gyeong
+  language: eng
+  text: |-
+    On the borderlands there stands neither cauldron nor bell.
+    To inscribe such valor—how easily it slips away!
+    Yet carved upon this wooden board, it speaks to those who come after,
+    and crowds will surge and stumble, trampling one another to behold it.
+
+    Meng Ming crossed the river and washed away Qin's ancient shame—
+    yet set beside your deeds, even he would take the lowest seat.
+    When next year comes to pacify the Heavenly Mountains,
+    not one of three arrows will fly without its mark.
+  footnotes:
+  - key: ''
+    value: Cauldron and bell refer to the ancient practice of recording great deeds upon bronze vessels to preserve them for eternity.
+  - key: ''
+    value: Meng Ming was a Qin general who, after years of exile, crossed the river to avenge his nation's defeat—a celebrated act of martial redemption.
+  - key: ''
+    value: The three arrows allude to Xue Rengui, a Tang general whose three perfect shots slew three enemy commanders and broke their forces at the Heavenly Mountains.

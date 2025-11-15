@@ -1,0 +1,38 @@
+canonical:
+  title: 下第
+  author: 李公遂
+  language: lzh
+  text: 白日明金榜靑雲起草廬那知廣寒桂尙有一枝餘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 下第
+  author: 李公遂
+  language: lzh
+  text: 白日明金榜。靑雲起草廬。那知廣寒桂。尙有一枝餘。
+korean:
+  title: 하제
+  author: 이공수
+  language: kor
+  text: |-
+    백일이 금방에 비치는데
+    청운이 초려에 일어나도다
+    어찌 알리요, 광한(廣寒)의 계수나무가
+    아직도 오히려 한 가지 남아 있는 줄을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 광한(廣寒) : '
+    value: 광한전(廣寒殿)은 월궁(月宮)이니, 과거에 오르는 것을 달 가운데 계수[桂]꽃을 꺾는 것에 비유하였는데, 여기서는 다음 차례에 과거에 오르겠다는 뜻이다.
+english:
+  title: Failed Examination
+  author: Lee Gong-su
+  language: eng
+  text: |-
+    Sunlight gleams upon the golden roster,
+    And azure clouds rise above the humble cottage.
+    Yet how should I despair?
+    In the Palace of the Moon, the cassia tree
+    Still has another branch for me to pluck.
+  footnotes:
+  - key: ''
+    value: The cassia tree in the lunar palace is a traditional metaphor for passing the civil service examination. Breaking a branch from the cassia represents success in the exams. The poet suggests that though he has failed this time, another opportunity awaits him in the future.

@@ -1,0 +1,48 @@
+canonical:
+  title: 奉天殿
+  author: 姜淮伯
+  language: lzh
+  text: 御溝楊柳正依依月上觚稜玉漏遲環佩丁當鵷鷺集羽林磨戛虎賁馳螭頭忽暗香煙動鳳尾徐開綵仗移稽首紅雲瞻肅穆日光先照萬年枝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉天殿
+  author: 姜淮伯
+  language: lzh
+  text: 御溝楊柳正依依。月上觚稜玉漏遲。環佩丁當鵷鷺集。羽林磨戛虎賁馳。螭頭忽暗香煙動。鳳尾徐開綵仗移。稽首紅雲瞻肅穆。日光先照萬年枝。
+korean:
+  title: 봉천전
+  author: 강회백
+  language: kor
+  text: |-
+    어구의 버들개지 하늘하늘하는데
+    전각엔 달이 걸리고 옥루소리 느릿느릿
+    환패가 쟁그렁쟁그렁 백관들 모여들고
+    우림군 저벅저벅 무장들 달려오네
+    용의 머리 어두워지자 향연이 풍겨오고
+    봉미부채 천천히 열려 채장이 갈라서네
+    붉은 구름 절하옵고 엄숙히 바라보니
+    햇빛이 만년지에 맨먼저 비치옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 용(龍)의 머리 : '
+    value: 대궐 계단의 돌로 새긴 용의 머리[螭頭]. 한유(韓愈)의 〈원일조회(元日朝會)〉시에, “금로의 향이 움직이니 용의 머리가 어두워지네[金爐香動螭頭暗].”라는 구절이 있다.
+english:
+  title: The Hall of Receiving Heaven
+  author: Kang Hoe-baek
+  language: eng
+  text: |-
+    The willows by the palace stream sway gently in the breeze,
+    While moonlight touches the tower's corners and the jade clepsydra ticks slowly.
+    Bells and ornaments jingle—officials gather like mandarin ducks and herons,
+    The imperial guards march with measured steps as soldiers come galloping.
+
+    As the dragon-carved portal darkens, fragrant incense drifts through the air,
+    The phoenix fan slowly opens, and the colored procession shifts aside.
+    I bow before the crimson clouds, gazing with reverence and awe,
+    Where sunlight first illuminates the ten-thousand-year branches.
+  footnotes:
+  - key: ''
+    value: 'The ''dragon-carved portal'' refers to the ornamental stone dragon head carved into the palace steps, a common architectural feature of grand halls. This image is drawn from Han Yu''s poem ''The New Year''s Court Assembly,'' which contains the line: ''As incense stirs in the golden censer, the dragon head grows dark.'''
+  - key: ''
+    value: The 'ten-thousand-year branches' is a poetic reference to longevity and the perpetual prosperity of the dynasty, comparing the imperial reign to an eternally flourishing tree.

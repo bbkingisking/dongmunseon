@@ -1,0 +1,36 @@
+canonical:
+  title: 夜坐卽事
+  author: 許琮
+  language: lzh
+  text: 滿庭花月寫窓紗花易隨風月易斜明月固應明夜又十分愁思屬殘花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜坐卽事
+  author: 許琮
+  language: lzh
+  text: 滿庭花月寫窓紗。花易隨風月易斜。明月固應明夜又。十分愁思屬殘花。
+korean:
+  title: 야좌 즉사
+  author: 허종
+  language: kor
+  text: |-
+    뜰에 가득한 꽃과 달이 비단 창에 비치더니
+    꽃은 쉬이 바람을 따르고 달은 쉬이 기운다
+    밝은 달은 진실로 내일 밤에도 비치련만
+    한많은 근심스러운 생각은 쇠잔한 꽃에 붙이었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0380&viewSync=OT
+  footnotes: []
+english:
+  title: 'Night Sitting: Immediate Impressions'
+  author: Heo Jong
+  language: eng
+  text: |-
+    The courtyard overflows with flowers and moonlight,
+    Cast upon the silken window screen—
+    Flowers drift too easily with the wind,
+    The moon shifts too easily from its place.
+
+    Bright moon, you will surely shine tomorrow night,
+    But all my sorrow, all my worry,
+    Clings to these fading flowers.

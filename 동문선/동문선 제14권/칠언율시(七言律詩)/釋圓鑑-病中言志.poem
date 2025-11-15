@@ -1,0 +1,47 @@
+canonical:
+  title: 病中言志
+  author: 釋圓鑑
+  language: lzh
+  text: 古寺秋深木葉黃風高天色正蒼涼閑無檢束甘年老病似拘囚覺日長霜冷急尋三事衲室空唯對一爐香沙彌不解蔬餐淡來點山茶勸我甞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病中言志
+  author: 釋圓鑑
+  language: lzh
+  text: 古寺秋深木葉黃。風高天色正蒼涼。閑無檢束甘年老。病似拘囚覺日長。霜冷急尋三事衲。室空唯對一爐香。沙彌不解蔬餐淡。來點山茶勸我甞。
+korean:
+  title: 병중 언지
+  author: 석원감
+  language: kor
+  text: |-
+    낡은 절에 가을 깊어 나뭇잎이 누른데
+    바람 높으니 하늘빛도 한결 선선하구나
+    멋대로 한가하매 늙는 것도 좋으이
+    병들어 꼼짝 못하니 해 긴 줄 알겠구나
+    서리 차니 삼사(불서(佛書)에 의(衣)ㆍ식(食)ㆍ자리) 누비옷 서둘러 챙기고
+    방이 비었으니 오직 향로 하나를 대하여 앉아 있네
+    사미놈은 산나물 담박한 맛을 모르고서
+    산차를 와서 따르며 날더러 맛보라네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0690&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 바람 높으니 : '
+    value: 늦가을 바람을, “바람이 높다.” 하는데, 옛시 풍고목락구추시(風高木落九秋時)라는 귀절이 있다.
+english:
+  title: Reflections on Life in Illness
+  author: Monk Won-gam
+  language: eng
+  text: |-
+    In the ancient temple, autumn deepens—the leaves turn gold.
+    The wind rises high, and heaven's color grows ever pale.
+    Free from all restraint, I welcome even aging now.
+    Illness confines me like a prisoner; how long each day becomes.
+    Frost bites sharply—I hurry to gather my three robes.
+    The room stands empty; I face only a single censer of incense.
+    The young novice knows not the subtle taste of simple mountain greens,
+    Yet comes to pour mountain tea, urging me to drink.
+  footnotes:
+  - key: ''
+    value: 'The ''three robes'' (三事衲) refers to the three essential possessions of a Buddhist monk: clothing, food, and bedding.'
+  - key: ''
+    value: The poem reflects the Buddhist theme of accepting life's conditions with equanimity—the monk finds peace in his sickness and simplicity.

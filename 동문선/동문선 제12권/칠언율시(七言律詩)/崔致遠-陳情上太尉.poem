@@ -1,0 +1,50 @@
+canonical:
+  title: 陳情上太尉
+  author: 崔致遠
+  language: lzh
+  text: 海內誰憐海外人問津何處是通津本求食祿非求利只爲榮親不爲身客路離愁江上雨故園歸夢日邊春濟川幸遇恩波廣願濯凡纓十載塵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陳情上太尉
+  author: 崔致遠
+  language: lzh
+  text: 海內誰憐海外人。問津何處是通津。本求食祿非求利。只爲榮親不爲身。客路離愁江上雨。故園歸夢日邊春。濟川幸遇恩波廣。願濯凡纓十載塵。
+korean:
+  title: 진정 상태위
+  author: 최치원
+  language: kor
+  text: |-
+    해내서 누가 해외 사람을 어여삐 여기오리
+    나루를 묻노니 어디가 통하는 나루이온지
+    본디 녹을 구함일 뿐 이를 구함은 아니요
+    다만 어버이 빛내려 할뿐 제 몸 위함 아니로세
+    객지의 이별하는 시름은 강 위에 비내릴 때
+    고원에 돌아가는 꿈은 저 햇가
+    내 건너다 요행히 은혜 물결 만나서
+    속된 갓끈 십년 먼지를 다 씻어버리자
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 나루를 묻노니 : '
+    value: 《논어》에, “장저(長沮)걸익(桀溺)이 짝지어 밭 갈거늘 공자가 지나가다가 자로(子路)를 시켜 나루를 물었다.”라는 말이 있는데, 뒷사람이 이 말을 끌어다가 남에게 미혹(迷惑)을 지시해 달라고 청구하는 뜻으로 쓴다.
+  - key: '[주-D002] 햇가[日邊] : '
+    value: 여기서는 천애(天涯)와 같다는 뜻으로 쓴다. 다같이 시명(詩名)이 온 천하에 전했으나, 낭선(浪仙)이 어이 그대 송년(松年)을 따르리. 글로 새 격식(格式)을 세웠을 뿐이니, 행하고 감춤[行藏]도 옛 성현의 자취를 이었네. 밤에는 명아주 지팡이[藜杖]를 외로운 산 달에 끌고, 아침엔 갈대 발[葦簾]이 먼 마을 연기에 걷히네. 병중에 장빈(漳濱)의 싯귀를 지어 성중(城中)에 들어오는 어옹(漁翁)의 배편에 부쳤네그려.
+english:
+  title: A Petition to the Grand Commandant
+  author: Choe Chi-won
+  language: eng
+  text: |-
+    Who beyond the seas will pity one from foreign lands?
+    I ask: where lies the ford that leads to passage through?
+    I seek but sustenance and rank, not wealth or gain,
+    Only to bring honor to my parents, not to serve myself.
+
+    In exile's sorrow, rain falls on the river waters,
+    While dreams of home spring forth beneath the distant sun.
+    Fortunate to meet the broad waves of imperial grace,
+    I wish to cleanse the common dust of ten long years from my brow.
+  footnotes:
+  - key: ''
+    value: The image of asking for the ford (渡津) alludes to Confucius asking the way, a classical reference to seeking guidance and direction in uncertain times.
+  - key: ''
+    value: The 'ten years' dust' refers to the poet's long service abroad, seeking to be restored to favor and return home purified of worldly corruption.

@@ -1,0 +1,61 @@
+canonical:
+  title: 竹月軒銘
+  author: 卞季良
+  language: lzh
+  text: 恭惟王世子邸下作竹月軒三字以與之信璿上人上人携以示予徵其銘銘曰維竹之虛維月之明師號其軒以寂以惺書筵淸讌親紆扎翰欝欝三字光射雲漢山門之榮一世所稀何以報之惟有祝釐
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 竹月軒銘
+  author: 卞季良
+  language: lzh
+  text: 恭惟王世子邸下。作竹月軒三字。以與之信璿上人。上人携以示予。徵其銘。銘曰。維竹之虛。維月之明。師號其軒。以寂以惺。書筵淸讌。親紆扎翰。欝欝三字。光射雲漢。山門之榮。一世所稀。何以報之。惟有祝釐。
+korean:
+  title: 죽월헌 명
+  author: 변계량
+  language: kor
+  text: |-
+    왕세자(王世子)  저하(邸下)께서 ‘죽월헌’세 글자를 써서 신선(信璿) 상인에게 주시니 상인이 가지고 와서 나에게 보이고 명(銘)을 청하니, 다음과 같다.
+    대는 오직 속이 비고
+    달은 오직 빛이 밝네
+    스님은 제호를 삼아
+    고요하고 영통하네
+    서연의 맑은 이야기 끝에
+    친히 찰한을 내리시니
+    세 글자 굼실굼실
+    광채가 하늘을 솟구치네
+    산문의 영광이요
+    한 세상의 드문 일일세
+    무엇으로 갚으려나
+    오직 복을 빌어 드릴 따름일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription for the Hall of Bamboo and Moon
+  author: Byeon Gyel-lyang
+  language: eng
+  text: |-
+    The Royal Prince, in his gracious wisdom, inscribed these three characters—'Hall of Bamboo and Moon'—and bestowed them upon the Venerable Seonsu. The monk brought them to me and requested an inscription. Thus I offer this:
+
+    Bamboo stands hollow,
+    its emptiness complete.
+    Moon shines luminous,
+    its clarity supreme.
+    The master names his hall
+    by these two virtues—
+    stillness and awakening.
+
+    In the clear discourse of the study,
+    the Prince himself has wielded his brush,
+    three characters suffused with grace,
+    their radiance piercing the heavens.
+
+    Such honor graces the temple gate,
+    rare in all the world.
+    How can one repay such blessing?
+    Only with prayers for the Prince's eternal fortune.
+  footnotes:
+  - key: ''
+    value: The 'Hall of Bamboo and Moon' (竹月軒) represents a meditation space, where bamboo symbolizes emptiness and the moon symbolizes illumination—key concepts in Buddhist practice.
+  - key: ''
+    value: The inscription celebrates both the artistic merit of the Prince's calligraphy and the honor bestowed upon the temple through his patronage.

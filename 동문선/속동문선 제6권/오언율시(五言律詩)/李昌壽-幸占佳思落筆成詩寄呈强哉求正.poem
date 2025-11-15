@@ -1,0 +1,45 @@
+canonical:
+  title: 幸占佳思落筆成詩寄呈强哉求正
+  author: 李昌壽
+  language: lzh
+  text: 高閣宜長夏踈簾透翠微芳園鶯亂囀深院燕交飛風細搖靑草溪虗蘸晩暉移床林下坐山鳥識忘機
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 幸占佳思落筆成詩寄呈强哉求正
+  author: 李昌壽
+  language: lzh
+  text: 高閣宜長夏。踈簾透翠微。芳園鶯亂囀。深院燕交飛。風細搖靑草。溪虗蘸晩暉。移床林下坐。山鳥識忘機。
+korean:
+  title: 행점가사 낙필성시 기정강재구정
+  author: 이창수
+  language: kor
+  text: |-
+    높은 누각은 긴 여름에 좋고
+    성긴 발에는 취미(푸른 산빛)가 뚫고 든다
+    꽃다운 동산에는 꾀꼬리가 어지러이 우는데
+    깊숙한 집에는 제비가 번갈아 날은다
+    바람은 살랑거려 푸른 풀을 흔들고
+    시내는 비어 저녁볕을 담았고야
+    평상을 옮겨 수풀 아래 앉았노니
+    산새 소리에 속세 잊음 알았노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_1020&viewSync=OT
+  footnotes: []
+english:
+  title: Fortune Favors the Poet—Inspired Verse Composed and Offered to Kangjaehae for Correction
+  author: Lee Chang-soo
+  language: eng
+  text: |-
+    The lofty pavilion welcomes the long summer days,
+    Where sparse curtains let verdant mountain mist drift through.
+    In the fragrant garden, orioles sing in joyful confusion,
+    While in the deep courtyard, swallows dart and weave.
+    A gentle breeze stirs the emerald grass below,
+    And the empty creek mirrors the fading evening light.
+    I move my couch beneath the forest eaves to sit,
+    And in the mountain bird's cry, I know the world is forgotten.
+  footnotes:
+  - key: ''
+    value: The title suggests this poem was written as a spontaneous composition inspired by fortunate circumstances, offered to a friend named Kangjaehae (强哉) for literary critique and correction.
+  - key: ''
+    value: The poem employs the classical Chinese poetic motif of retreat into nature as a path to spiritual peace and freedom from worldly concerns, culminating in the final image of forgetting human attachments through communion with the natural world.

@@ -1,0 +1,60 @@
+canonical:
+  title: 春愁
+  author: 徐居正
+  language: lzh
+  text: 春愁緜緜有根蔓年年歲歲生不斷大盈六合細入髮無有靑春不愁日謌臺舞閣入無因却來窮巷尋幽人幽人欲避避無地愁獨有信信亦祟古來天地若無愁白髮亦不欺吾頭我願春江變作春酒淸洗盡崢嶸萬古之愁城愁自有愁醉自醉愁生醉死君擇二
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春愁
+  author: 徐居正
+  language: lzh
+  text: 春愁緜緜有根蔓。年年歲歲生不斷。大盈六合細入髮。無有靑春不愁日。謌臺舞閣入無因。却來窮巷尋幽人。幽人欲避避無地。愁獨有信信亦祟。古來天地若無愁。白髮亦不欺吾頭。我願春江變作春酒淸。洗盡崢嶸萬古之愁城。愁自有愁醉自醉。愁生醉死君擇二。
+korean:
+  title: 춘수
+  author: 서거정
+  language: kor
+  text: |-
+    봄시름이 이엄이엄 뿌리와 줄기가 있어서
+    해마다 해마다 끊임없이 돋아나네
+    크기는 우주에 가득 가늘기는 털 같아
+    청춘 치고 어느 날에 시름이 없으리
+    가무하는 누각엔 들어갈 길 없는지
+    궁항에 와서 유인만 찾는구나
+    유인이 피하려 하나 피할 곳이 없으니
+    시름만은 유신타마는 신도 탈이로세
+    예로부터 천지간에 시름이 없다면은
+    백발이 내 머리를 우롱치 않으련만
+    바라건대 저기 저 봄강물을 봄술로 변하여서
+    높디 높은 만고의 수성을 말끔 씻어 내과져
+    시름은 제 시름대로 취하기는 취하는대로
+    시름하여 살거나 취해 죽거나 둘 중의 하나를 택하소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 수성(愁城) : '
+    value: 근심을 성에 비유하여 수성(愁城)이라 한다.
+english:
+  title: Spring Sorrow
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Spring sorrow creeps and creeps, rooted deep with tangled vines,
+    Year after year, age after age, it grows without end.
+    Vast as the universe itself, fine as a single hair,
+    Is there a day in all of youth without this melancholy?
+
+    The dancing halls and pavilions—no way to enter them,
+    So I wander through poor alleys seeking the recluse.
+    But the recluse seeks to flee, yet finds no place to hide—
+    Sorrow alone keeps faith; even the gods cannot escape it.
+
+    If since ancient times heaven and earth knew no sorrow,
+    White hairs would not mock and mock upon my head.
+    Oh, that I might turn the spring river into spring wine,
+    And wash away the towering fortress of sorrow through the ages!
+
+    Let sorrow be sorrow, let drunkenness be drunkenness—
+    Choose between living in sorrow or dying in wine.
+  footnotes:
+  - key: ''
+    value: The 'fortress of sorrow' is a poetic conceit, comparing accumulated sorrow to a great citadel that cannot be breached or overcome.

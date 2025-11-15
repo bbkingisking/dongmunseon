@@ -1,0 +1,57 @@
+canonical:
+  title: 陋巷
+  author: 鄭摠
+  language: lzh
+  text: 陋巷生涯只一瓢門堪羅雀轉寥寥樹頭病葉知秋下階面新苔挾雨驕懶慢有如嵇叔夜醒狂或似盖寬饒邇來三徑荒松菊五斗令人尙折腰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陋巷
+  author: 鄭摠
+  language: lzh
+  text: 陋巷生涯只一瓢。門堪羅雀轉寥寥。樹頭病葉知秋下。階面新苔挾雨驕。懶慢有如嵇叔夜。醒狂或似盖寬饒。邇來三徑荒松菊。五斗令人尙折腰。
+korean:
+  title: 누항
+  author: 정총
+  language: kor
+  text: |-
+    누항의 생애는 표주박 하나뿐
+    참새 그물을 칠 만큼 문전이 아주 쓸쓸하네
+    나무 끝의 병든 잎은 가을을 알아 떨어지고
+    섬돌 위의 새 이끼는 비를 맞으며 으시대네
+    게으르고 느리기야 혜숙야(혜강의 장가숙야)도 있었지
+    깨고도 어린 듯하긴 개관요 비슷할까
+    이즈음 세 길에 솔과 국화가 거칠어도
+    닷 말 쌀에 지금 사람은 상기 허리 굽히데
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 개관요(蓋寬饒) : '
+    value: 한(漢)나라 사람 개관요(蓋寬饒)는 강직한 사람인데 당시의 귀족인 허백(許伯)의 새 집 낙성식에 가서 술을 마시다가, “이 집이 객관과 같으니 주인이 갈리겠구나.” 하였다. 옆의 사람이 민망하여, “차공(次孔 개관요의 자)은 술만 취하면 미친다.” 하니, 주인이, “차공은 깨어있으면서도 미쳤구먼.” 하였다.
+  - key: '[주-D002] 이즈음 …… 거칠어도 : '
+    value: 〈귀거래사(歸去來辭)〉에 “세 길이 비록 거칠었으나, 솔과 국화는 아직 있네[三徑雖荒 松菊猶存].”라는 말이 보인다.
+  - key: '[주-D003] 닷 말 쌀에 : '
+    value: 도연명이 팽택령(彭澤令)으로 있다가, “내 어찌 녹쌀[祿米] 닷 말 때문에 허리를 굽혀 독우(督郵)에게 절을 할 것이냐.” 하고 벼슬을 버리고 돌아갔다.
+english:
+  title: The Humble Lane
+  author: Jung Chong
+  language: eng
+  text: |-
+    A life in the humble lane—a single gourd suffices.
+    The gate stands empty as a bird trap never laid,
+    Desolation deepens day by day.
+    Sick leaves at the treetop know when autumn falls,
+    And fresh moss on the steps dances bold with rain.
+
+    Laziness and slowness—even Xi Kang knew such grace,
+    While tipsy wisdom or sober folly—which is which?
+    Now the three paths lie rough, though pine and chrysanthemum remain,
+    Yet men still bow their backs for five pecks of grain.
+  footnotes:
+  - key: ''
+    value: The 'humble lane' (陋巷) alludes to Confucius's description of his disciple Yan Hui, who lived in poverty with only a gourd for sustenance yet maintained his virtue.
+  - key: ''
+    value: Xi Kang (嵇叔夜) was a famous Daoist recluse of the Jin dynasty, known for his indifference to worldly concerns and his carefree lifestyle.
+  - key: ''
+    value: The 'three paths' and 'pine and chrysanthemum' reference Tao Yuanming's 'Return to Seclusion,' symbolizing retirement to simple, rural virtue.
+  - key: ''
+    value: The final image of bowing for 'five pecks of grain' alludes to Tao Yuanming's rejection of official service, famously refusing to compromise his integrity for a magistrate's modest salary.

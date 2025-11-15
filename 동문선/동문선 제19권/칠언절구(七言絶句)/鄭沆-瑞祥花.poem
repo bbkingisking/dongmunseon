@@ -1,0 +1,35 @@
+canonical:
+  title: 瑞祥花
+  author: 鄭沆
+  language: lzh
+  text: 新祥喜見滿枝春果向今朝得好賓花瑞一家賢瑞國誰收花愛揔移人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 瑞祥花
+  author: 鄭沆
+  language: lzh
+  text: 新祥喜見滿枝春。果向今朝得好賓。花瑞一家賢瑞國。誰收花愛揔移人。
+korean:
+  title: 서상화
+  author: 정항
+  language: kor
+  text: |-
+    새로운 상서 기꺼이 보노니 가지에 가득한 봄이여
+    과연 오늘 아침 반가운 손님을 맞았네
+    꽃은 한 집의 상서요 어진 이는 나라의 상서니
+    누가 꽃 사랑을 거두어 모두 다 사람에게 옮길꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0500&viewSync=OT
+  footnotes: []
+english:
+  title: Auspicious Blossoms
+  author: Jeong Hang
+  language: eng
+  text: |-
+    Fresh omens gladly seen—spring overflowing each branch,
+    This very morning welcomed a cherished guest indeed.
+    The flowers are one household's blessing, the virtuous man his nation's grace—
+    Who will gather this love of flowers and bestow it upon all people?
+  footnotes:
+  - key: ''
+    value: The poem employs a traditional parallel structure, with 'flowers' (花) representing personal virtue and 'nation' (國) representing the collective good, a common conceit in classical East Asian poetry where natural beauty mirrors moral excellence.

@@ -1,0 +1,46 @@
+canonical:
+  title: 次韻
+  author: 李昌壽
+  language: lzh
+  text: 大野秋天杳空江煙霧收夕暉遍平陸山影落長洲偃仰殘年逼悲歡萬事悠浮生逢勝日閑倚水邊樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻
+  author: 李昌壽
+  language: lzh
+  text: 大野秋天杳。空江煙霧收。夕暉遍平陸。山影落長洲。偃仰殘年逼。悲歡萬事悠。浮生逢勝日。閑倚水邊樓。
+korean:
+  title: 차운
+  author: 이창수
+  language: kor
+  text: |-
+    넓은 들 끝에 가을하늘 아득한데
+    빈 강에는 연기 안개 걷히었네
+    저녁 볕은 편편한 육지에 두루하고
+    산 그림자는 긴 물가에 떨어졌다
+    드러누웠으면 늙음이 닥쳐오고
+    슬픔과 기쁨 속에 만사는 유유하다
+    덧없는 이 인생은 명일[勝日]을 만나
+    한가히 물가의 누각에 기대었노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_1000&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 終南守 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: Rhyming With
+  author: Lee Chang-soo
+  language: eng
+  text: |-
+    Across the wide fields, autumn sky stretches distant,
+    Over the empty river, mist and fog have cleared away.
+    Evening light spreads across the level land,
+    Mountain shadows fall upon the long water's edge.
+
+    When I lie back, old age draws ever near,
+    Through sorrow and joy, ten thousand things drift on.
+    This fleeting life has met a perfect day—
+    Leaning idly by the riverside tower, I rest.
+  footnotes:
+  - key: ''
+    value: This poem appears to be composed in response to another work, as suggested by the title '次韻' (Rhyming With), a common practice in classical poetry where one poet would compose a poem matching the rhyme scheme of another's work.

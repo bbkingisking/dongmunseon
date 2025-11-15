@@ -1,0 +1,36 @@
+canonical:
+  title: 禁告諜過百日箚子
+  author: 李詹
+  language: lzh
+  text: 本國之制職事未受告諜者過百日則不許仕其官盖因省府有議而持之也凡告諜可議者或關於世係或拘於己身其人不稱其職爾近來僕隸之賤皆得美官先以受諜爲望交相請謁當官者不勝訾謷如使受諜過期者不許仕其官則庶乎本國之制復行省府之職不廢請謁之徒稍息矣其若從軍奉使而無可議者則宜不在此限
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 禁告諜過百日箚子
+  author: 李詹
+  language: lzh
+  text: 本國之制。職事未受告諜者。過百日則不許仕其官。盖因省府有議而持之也。凡告諜可議者。或關於世係。或拘於己身。其人不稱其職爾。近來僕隸之賤。皆得美官。先以受諜爲望。交相請謁。當官者不勝訾謷。如使受諜過期者。不許仕其官。則庶乎本國之制復行。省府之職不廢。請謁之徒稍息矣。其若從軍奉使而無可議者。則宜不在此限。
+korean:
+  title: 금고 첩과 백일 차자
+  author: 이첨
+  language: kor
+  text: 본국의 제도는 직사(職事)에 있어 고첩(告諜)을 받지 아니한 자가 백일(百日)이 지나면 그 벼슬을 하지 못하게 하고 있사옵니다. 이것은 성부(省府)에서 의논이 있어 보존되는 것이옵니다. 대개 고첩에서 의논할 것은, 혹은 세계(世系)에 관계되거나 혹은 자신이 구애되어 그 사람에게 그 직(職)을 맞지 않는 것이옵니다. 근래에는 종복과 노예같이 비천한 사람이 모두 좋은 벼슬을 얻고, 우선 고첩 받기를 바라 서로 해당 관원을 찾고 있사와 그 헐뜯음이 심하옵니다.만약 고첩(告諜)을 받는데 기일이 경과된 사람은 그 벼슬을 하지 못하게 하시면, 본국의 제도가 다시 시행되고, 성부의 직책이 폐지되지 않으며, 청탁하고 방문하는 무리들이 약간은 없어지기를 바랄 수 있을 것이옵니다. 그 가운데 만약 종군(從軍)하거나 사신을 모시고 간 이유로 해서 의논할 수 없는 경우에는 마땅히 이 제한에 들지 않게 할 것이옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0590_020_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial on Enforcing the Hundred-Day Limit for Credential Verification
+  author: Lee Cham
+  language: eng
+  text: |-
+    Our kingdom's law decrees that officials who have not received proper credential verification within one hundred days shall not be permitted to assume their posts. This rule has been preserved through deliberation by the provincial authorities. When credentials come under review, the concerns may pertain to matters of lineage or personal circumstances—simply put, whether the candidate is suited to the office. Yet in recent times, even those of servile status now obtain distinguished positions, eagerly seeking credential verification and exchanging favors with officials, creating endless complaints and corruption.
+
+    Should we enforce that those whose credential verification exceeds the hundred-day limit be barred from office, then our kingdom's original law might flourish again. The provincial authorities' duties would not fall into disuse, and the tide of petitioners and favor-seekers might finally subside.
+
+    However, for those serving in military campaigns or diplomatic missions where verification cannot reasonably be conducted, such cases should rightly be exempted from this restriction.
+  footnotes:
+  - key: ''
+    value: The 'credential verification' (告諜) was an official examination process in medieval Korea to certify a candidate's qualifications before appointment.
+  - key: ''
+    value: The 'hundred-day limit' refers to a statutory period within which verification must be completed; failure to do so would disqualify the candidate.
+  - key: ''
+    value: This memorial represents a reform proposal to combat nepotism and the degradation of the civil service system by enforcing existing regulations.

@@ -1,0 +1,46 @@
+canonical:
+  title: 左尹
+  author: 楊以時
+  language: lzh
+  text: 擬賦早春詩轉頭春欲歸斷腸芳草遠滿目落花飛修褉客方盛浴沂人正稀浩然淸興發新沐振吾衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 左尹
+  author: 楊以時
+  language: lzh
+  text: 擬賦早春詩。轉頭春欲歸。斷腸芳草遠。滿目落花飛。修褉客方盛。浴沂人正稀。浩然淸興發。新沐振吾衣。
+korean:
+  title: 좌윤
+  author: 양이시
+  language: kor
+  text: |-
+    조춘시를 지으려다 머리를 돌리니
+    봄이 벌써 돌아가련다
+    애끊는 방초가 질펀하고
+    눈에 그득히 낙화가 날리네
+    수계하는데 객은 바야흐로 많으나
+    기수에 목욕하는 사람은 드무네
+    호연히 맑은 흥 발하여
+    새로 목욕하고 새 옷을 터네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 새로 목욕하고 새 옷을 터네 : '
+    value: 새로 머리를 감은 자는 반드시 갓을 털고, 새로 목욕한 자는 반드시 옷을 턴다. 《屈原 漁父辭》
+english:
+  title: Left Minister
+  author: Yang Yishi
+  language: eng
+  text: |-
+    Attempting to compose an early spring poem,
+    I turn my head—spring is already departing.
+    Far stretches the grass that breaks the heart,
+    and before my eyes, fallen petals dance.
+
+    At the bathing pavilion, guests crowd thick as ever,
+    yet by the sacred stream, few dare to wade.
+    Suddenly clarity and pristine joy awaken within,
+    and I shake my freshly washed robes in the spring air.
+  footnotes:
+  - key: ''
+    value: The image of washing and shaking one's robes alludes to the ancient sage Qu Yuan's 'Fisherman's Chant,' where ritual purification through bathing and dressing represents spiritual renewal and freedom from worldly corruption.

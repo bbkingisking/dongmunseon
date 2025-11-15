@@ -1,0 +1,49 @@
+canonical:
+  title: 遊紫淸宮
+  author: 釋宏演
+  language: lzh
+  text: 洪崖先生舊所隱階下碧桃花飄零夜光出井留丹藥春露浥松生茯苓天女或携綠玉杖仙人自讀黃庭經隣寺歸來不五里回頭望斷煙冥冥
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊紫淸宮
+  author: 釋宏演
+  language: lzh
+  text: 洪崖先生舊所隱。階下碧桃花飄零。夜光出井留丹藥。春露浥松生茯苓。天女或携綠玉杖。仙人自讀黃庭經。隣寺歸來不五里。回頭望斷煙冥冥。
+korean:
+  title: 유 자청궁
+  author: 석굉연
+  language: kor
+  text: |-
+    홍애(선인의 이름)선생이 옛날 숨어 살던 곳
+    뜰앞에 벽도화꽃 떨어지누나
+    밤에도 우물에서 광채나니 단약이 남아있고
+    봄 이슬이 솔을 적셔 복령이 생기네
+    천녀들은 혹 녹옥장을 들고 있고
+    선인은 저마다 황정경(선가의 경전)을 읽고 있네
+    5리도 못 되는 이웃 절로 돌아오니
+    연기만 자욱하여라 바라봐도 안 보이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: A Visit to the Purple Clarity Palace
+  author: Seok Hongryeon
+  language: eng
+  text: |-
+    Where the ancient Master Hongya once withdrew from the world,
+    Azure peach blossoms scatter across the courtyard.
+    Even at night the well glows—traces of the elixir remain,
+    Spring dew soaks the pines, and fungus of immortality grows.
+    Heaven's maidens carry staffs of green jade,
+    While immortal sages read the Yellow Court Sutra.
+    Returning to the neighboring temple, less than five miles away,
+    I turn back to gaze—only mist upon mist, fading from sight.
+  footnotes:
+  - key: ''
+    value: 'Hongya (洪崖): A legendary Daoist immortal of antiquity, often depicted as a sage dwelling in mountains'
+  - key: ''
+    value: 'Elixir (丹藥): A reference to Daoist alchemical practices seeking immortality'
+  - key: ''
+    value: 'Fungus of immortality (茯苓): In Chinese tradition, linked to longevity and spiritual cultivation'
+  - key: ''
+    value: 'Yellow Court Sutra (黃庭經): A foundational Daoist text on inner cultivation and meditation'

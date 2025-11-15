@@ -1,0 +1,37 @@
+canonical:
+  title: 守福州寄寧海李府使叔琪
+  author: 蔡禑
+  language: lzh
+  text: 海棠紅點白沙洲想見文章太守遊山水永嘉應不下若爲來往校風流
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 守福州寄寧海李府使叔琪
+  author: 蔡禑
+  language: lzh
+  text: 海棠紅點白沙洲。想見文章太守遊。山水永嘉應不下。若爲來往校風流。
+korean:
+  title: 수복주기영해이부사숙기
+  author: 채우
+  language: kor
+  text: |-
+    해당화는 흰 모래 물가에 붉은 점들을 찍었으리니
+    생각컨대 문장 태수는 거기 노닐 것이다
+    산과 물로는 영가도 아마 여기에 밑 가지 않으리니
+    어찌하면 내왕하여 풍류를 한 번 겨누어 볼꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영가(永嘉) : '
+    value: 복주(福州)ㆍ영가(永嘉)는 모두 안동(安東)의 고호(古號)이다.
+english:
+  title: Sent to Li Shuqi, the Prefect of Ninghai, While Guarding Fuzhou
+  author: Chae U
+  language: eng
+  text: |-
+    Begonias red with dots upon the white sand shore—
+    I imagine the cultured Prefect wandering there.
+    Even Yongja's mountains and waters could not compare;
+    How then might we traverse and measure the elegance of the wind?
+  footnotes:
+  - key: ''
+    value: Yongja (永嘉) and Fuzhou (福州) are both ancient names for the same region, known in later times as Andong (安東). The poem plays on these classical place names to evoke a landscape of refinement and cultural significance.

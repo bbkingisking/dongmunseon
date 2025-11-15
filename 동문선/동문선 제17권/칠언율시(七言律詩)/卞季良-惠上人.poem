@@ -1,0 +1,44 @@
+canonical:
+  title: 惠上人
+  author: 卞季良
+  language: lzh
+  text: 山徑迢迢半入雲玆遊足可避塵喧百年身世客迷路滿壑烟霞僧閉門晴澗束薪隨野老秋林摘實共寒猿我來欲問楞伽字合眼低頭無一言
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 惠上人
+  author: 卞季良
+  language: lzh
+  text: 山徑迢迢半入雲。玆遊足可避塵喧。百年身世客迷路。滿壑烟霞僧閉門。晴澗束薪隨野老。秋林摘實共寒猿。我來欲問楞伽字。合眼低頭無一言。
+korean:
+  title: 산에 올라 혜상인
+  author: 변계량
+  language: kor
+  text: |-
+    까마득히 반쯤 산길이 구름에 들었으니
+    이번 놀이는 시끄런 티끌 세상 피할 만하네
+    백 년 신세는 나그네가 길을 헤매는 것
+    골 가득한 연하 속에 중은 문을 닫았구나
+    시냇가에서 촌 늙은이와 나뭇단을 묶기도 하고
+    숲에서 잔나비와 함께 열매를 따먹기도 하고
+    선방에 들어가 능가자(불경 이름)를 물으려 하니
+    스님은 눈 감고 머리 숙여 한 말씀도 없구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: To Reverend Hye
+  author: Byeon Gyeryang
+  language: eng
+  text: |-
+    The mountain path stretches far, half-hidden in clouds above.
+    This journey offers escape from the clamor of dusty existence.
+    A hundred years of life—a wanderer lost upon the road,
+    While the monk behind closed doors sits wrapped in mist and rosy light.
+
+    By the clear stream I bundle firewood with an old villager,
+    In the autumn forest I pluck fruit with the shivering monkeys.
+    I enter the meditation hall hoping to ask about the Lankavatara Sutra,
+    But the master only closes his eyes, bows his head—and speaks not a word.
+  footnotes:
+  - key: ''
+    value: The Lankavatara Sutra (Lenga-jing in Chinese, 능가경 in Korean) is a key Buddhist text emphasizing sudden enlightenment and the primacy of mind-consciousness. The poet's unanswered question suggests that ultimate truth transcends verbal teaching.

@@ -1,0 +1,46 @@
+canonical:
+  title: 挽趙宰臣
+  author: 成石璘
+  language: lzh
+  text: 溫溫吾益友情話幾回同未必仁人壽空留長者風塵棲經卷上火盡藥爐中惆悵平生事松楸夜月籠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 挽趙宰臣
+  author: 成石璘
+  language: lzh
+  text: 溫溫吾益友。情話幾回同。未必仁人壽。空留長者風。塵棲經卷上。火盡藥爐中。惆悵平生事。松楸夜月籠。
+korean:
+  title: 만 조재신
+  author: 성석린
+  language: kor
+  text: |-
+    온화한 나의 어여쁜 벗
+    얼마나 정담을 몇 번이나 나누었던가
+    반드시 어진 사람이 수하는 것도 아닐세라
+    속절없이 장자의 풍만 남았구나
+    책시렁 위에는 티끌이 쌓이고
+    약 화로에는 불이 꺼졌네
+    슬프다 평생의 일은
+    송추에 밤달이 둘리었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0700&viewSync=OT
+  footnotes: []
+english:
+  title: Elegy for Minister Cho
+  author: Sung Seok-lin
+  language: eng
+  text: |-
+    Gentle was my cherished friend,
+    How many times we shared our deepest thoughts—
+    Yet the virtuous are not assured of long years;
+    Only his noble bearing lingers on.
+
+    Dust settles upon the shelves of books,
+    The flame dies in the medicine brazier.
+    Ah, the sorrows of a lifetime spent—
+    Now the moon at night wraps the pine and grave in shadow.
+  footnotes:
+  - key: ''
+    value: The poem mourns the death of a government minister named Cho, using traditional imagery of loss and impermanence. The medicine brazier and extinguished flame suggest the end of life and healing efforts.
+  - key: ''
+    value: The final image of pine trees and graves under moonlight is a classical motif evoking both the dignity of the deceased and the melancholy passage of time.

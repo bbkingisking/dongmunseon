@@ -1,0 +1,36 @@
+canonical:
+  title: 王世子封崇竹冊文
+  author: 尹淮
+  language: lzh
+  text: 建儲副以定國本斯謂通規正名分以繫人心實惟公義若稽古昔爰擧彝章咨爾某岐嶷夙成溫文日就仁明之質神器有歸世嫡之尊輿情攸屬肆涓辰而見廟令主鬯而承祧庸建爾爲王世子嗚呼惟天無親惟德是輔以賢以長載膺監撫之權克儉克寬庶衍邦家之慶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 王世子封崇竹冊文
+  author: 尹淮
+  language: lzh
+  text: 建儲副以定國本。斯謂通規。正名分以繫人心。實惟公義。若稽古昔。爰擧彝章。咨爾某。岐嶷夙成。溫文日就。仁明之質。神器有歸。世嫡之尊。輿情攸屬。肆涓辰而見廟。令主鬯而承祧。庸建爾爲王世子。嗚呼。惟天無親。惟德是輔。以賢以長。載膺監撫之權。克儉克寬。庶衍邦家之慶。
+korean:
+  title: 왕세자 봉숭 죽책문
+  author: 윤회
+  language: kor
+  text: 세자를 세워서 국본(國本)을 정하는 것을 통규(通規)라 이르고, 명분을 바로하여 인심을 매는 것은 실로 공의(公義)인 것이다. 이에 옛 전례를 상고해서 의식을 거행하노라.아, 너 모(某)는 우뚝하게 숙성하고, 온화함이 나날이 늘었다. 인명(仁明)한 바탕은 나라의 신기(神器)가 돌아갈 데가 있게 되었고, 세적(世嫡)의 존귀함은 백성의 물망이 따라온 바다. 그러기에 날을 정하여 종묘에 알현하고, 제사를 지냄으로써 종통을 잇도록 하기 위해 너를 세워 왕세자로 삼노라.아, 하늘은 사사로이 친함이 없어 오직 덕 있는 이를 돕는 법이다. 어진데다가 맏이이기에 감무(監撫)의 권한을 받았으니, 검소하게 하고 너그럽게 해서 국가의 경사를 넓힐지어다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0320_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 감무(監撫) : '
+    value: 태자를 세우는 데는 아들 중에서 어진 자를 가려서 세우든지 장남을 세우든지 두 가지 중에서 한다는 것이며, 나라에 전쟁이 있을 때에 태자가 종군(從軍)하는 것을 무군(撫軍)이라 하고, 임금이 나간 뒤에 태자가 서울을 지키는 것을 감국(監國)이라 한다.
+english:
+  title: Edict on the Investiture of the Crown Prince Sung as Protector of the Bamboo Realm
+  author: Yun Hoe
+  language: eng
+  text: |-
+    To establish the heir apparent and secure the foundation of the realm—this is the universal principle. To rectify the distinctions of rank and bind the hearts of the people—this is true justice. Thus we consult the precedents of antiquity and perform this sacred rite.
+
+    Ah, you of noble character have ripened early in wisdom, and your gentle virtue grows with each passing day. Your nature joins benevolence with brilliance, and the Mandate of Heaven has found its proper heir. The dignity of the crown prince belongs to you, for the people's hearts follow where you lead. On this auspicious day we present you before the ancestral temple and consecrate the succession through sacred rites, hereby investing you as Crown Prince.
+
+    Hark! Heaven shows no partiality—it aids only those of virtue. Because you possess both benevolence and the birthright of the eldest son, you receive the authority to oversee and govern the realm. Let your rule be marked by frugality and magnanimity, that the blessings of the nation may flourish and endure.
+  footnotes:
+  - key: ''
+    value: This is a formal investiture edict (冊文), a ceremonial document presented during the official installation of a crown prince. The structure follows classical Chinese bureaucratic and religious protocols.
+  - key: ''
+    value: The reference to 'the Mandate of Heaven' (神器) reflects the traditional East Asian understanding that legitimate political authority derives from virtue and cosmic harmony, not mere inheritance alone.

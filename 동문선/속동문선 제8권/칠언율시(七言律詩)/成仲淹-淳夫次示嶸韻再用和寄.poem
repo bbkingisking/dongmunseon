@@ -1,0 +1,51 @@
+canonical:
+  title: 淳夫次示嶸韻再用和寄
+  author: 成仲淹
+  language: lzh
+  text: 衰顔鏡裏瘦崢嶸夜夜愁聞擊柝聲飛雪入簾添骨冷歸雲掩月失窓明已知筆硯爲身祟誰使文章假我鳴莫怪年來憔悴語不堪抱病卧寒城
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淳夫次示嶸韻再用和寄
+  author: 成仲淹
+  language: lzh
+  text: 衰顔鏡裏瘦崢嶸。夜夜愁聞擊柝聲。飛雪入簾添骨冷。歸雲掩月失窓明。已知筆硯爲身祟。誰使文章假我鳴。莫怪年來憔悴語。不堪抱病卧寒城。
+korean:
+  title: 순부 차시 영운 재용 화기
+  author: 성중엄
+  language: kor
+  text: |-
+    거울 속의 쇠한 얼굴이 여위어 앙상한데
+    밤마다 근심스레 딱딱이 소리 듣는구나
+    날리는 눈은 발에 들어와 뼈의 추위를 보태고
+    돌아가는 구름은 달을 가리워 창이 어두워지네
+    이미 붓과 벼루가 몸의 병이 되는 줄을 알았거니
+    누가 문장을 내게 빌려 주어 울리게 하였는가
+    연래의 초췌한 말을 괴상히 여기지 말라
+    병을 안고 쓸쓸한 성에 누워 있기 견딜 수 없구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0750&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 누가 문장을 …… 울리게 하였는가 : '
+    value: 당나라 한유(韓愈)의 글에, “하늘이 글 잘하는 사람에게 빌려서 세상을 울린다.” 하였다.
+english:
+  title: In Response to Chunbu's Poem in the Rhyme of Ying, Composed Again and Sent as a Gift
+  author: Sung Joong-eom
+  language: eng
+  text: |-
+    My withered face grows gaunt in the mirror's glass.
+    Each night I hear the watchman's doleful tap—
+    that hollow knocking stirs my anxiety.
+    Flying snow drifts through the curtain's seam,
+    adding frost to the very marrow of my bones.
+    Returning clouds veil the moon,
+    and my window loses its borrowed light.
+
+    I have long known that brush and inkstone are the affliction of my body.
+    Who granted to me this borrowed voice,
+    this instrument to move the world to tears?1
+    Do not find my words of decay strange.
+    I lie fevered and ailing in this desolate city,
+    unable even to bear my own weight.
+  footnotes:
+  - key: ''
+    value: 'The poet alludes to Han Yu of the Tang Dynasty, who wrote: ''Heaven lends eloquence to certain men so that their words might move the world.'' The speaker suggests that his literary gifts, rather than being a gift, have become a burden that worsens his suffering.'

@@ -1,0 +1,106 @@
+canonical:
+  title: 金銅仙人辭漢歌
+  author: 兪好仁
+  language: lzh
+  text: 太初天子凌雲志脫略萬乘如弊屣蓬山回首不可到弱水浩渺三千里文成未試長生籙宿草茂陵秋燐碧人間富貴捴浮雲金莖沆瀣空寂寞泠然孤影伴廣寒三百年來到建安一朝神器輸奸雄孱孫僅辦山陽封幺麽此物偶拋擲等是夜半舟在壑萬牛迢迢出洛城金銅脉脉辭西京渭流嗚咽夕陽邊出關始恨黃初天分明款識元鼎年文縷常帶驪山烟如鉛淸泪爲誰寃似訴劉郞陶鑄恩人間流轉竟難保國破蒼茫天亦老銅仙銅仙渠獨是漢家耆舊無寸恥曹家門外紅塵多半是西都冠盖子
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金銅仙人辭漢歌
+  author: 兪好仁
+  language: lzh
+  text: 太初天子凌雲志。脫略萬乘如弊屣。蓬山回首不可到。弱水浩渺三千里。文成未試長生籙。宿草茂陵秋燐碧。人間富貴捴浮雲。金莖沆瀣空寂寞。泠然孤影伴廣寒。三百年來到建安。一朝神器輸奸雄。孱孫僅辦山陽封。幺麽此物偶拋擲。等是夜半舟在壑。萬牛迢迢出洛城。金銅脉脉辭西京。渭流嗚咽夕陽邊。出關始恨黃初天。分明款識元鼎年。文縷常帶驪山烟。如鉛淸泪爲誰寃。似訴劉郞陶鑄恩。人間流轉竟難保。國破蒼茫天亦老。銅仙銅仙渠獨是。漢家耆舊無寸恥。曹家門外紅塵多。半是西都冠盖子。
+korean:
+  title: 금동선인이 한나라를 하직하는 노래
+  author: 유호인
+  language: kor
+  text: |-
+    태초 천자가 신선이 될 뜻으로
+    만승을 헌신처럼 버리려 하였으나
+    봉래산이 어디메뇨, 고개 돌려 못 가고
+    약수가 어디메뇨, 아득할쏜 삼천 리
+    글 이루고 장생비결 시험하기 전에
+    무릉에 풀이 더북, 도깨비 불 퍼랬네
+    인간의 부귀가 모두 다 뜬구름
+    금경과 감로가 부질없이 적막해졌네
+    써늘한 외 그림자가 광한전을 짝하여
+    삼백 년을 지나 건안에 이르렀더니
+    일조에 신기가 간웅(조조(曹操))에게 돌아가니
+    후손은 겨우 산양공을 얻어했구나
+    요만 물건은 내던지듯 버려 두어
+    마치 밤중에 구렁 속 배와 같았더니
+    만 소가 끌어내어 낙양성을 나가니
+    금동이 말도 없이 서경을 하직하네
+    위수도 목이 메는 석양 가
+    관을 나자 비로소 황초(위 문제(魏文帝)의 연호) 하늘을 한하누나
+    관지엔 분명 원정(한 무제(漢武帝)의 연호) 연호
+    문루엔 항시 여산 연기를 띠었었네
+    납물처럼 흐르는 눈물 누구를 원망함인고
+    유랑(한 무제 유철(劉徹))의 부어 만든 은혜를 하소연하는 듯
+    인간의 변전은 끝내 어찌할 수 없는 것
+    나라도 망하고 아득히 하늘도 늙었네
+    동선아, 동선아, 너만이 홀로 제법
+    한가의 기구들은 촌치도 없었구나
+    조가 문 밖에 들끓는 무리들은
+    반쯤이 옛날 서도의 관개자였더니라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 태초(太初) : '
+    value: 한 무제(漢武帝)의 처음 연호이다.
+  - key: '[주-D002] 금경(金莖)과 …… 적막 해졌네 : '
+    value: 한 무제가 장생불사의 선방(仙方)을 얻고자 높은 동주(銅柱)를 세워 그 끝에 선인장(仙人掌)을 만들고 감로(甘露)를 받아 마시려 했다.
+  - key: '[주-D003] 건안(建安) : '
+    value: 후한(後漢) 마지막 황제인 헌제(獻帝)의 연호이다.
+  - key: '[주-D004] 밤중에 구렁 속 배 : '
+    value: “구렁에 배[舟]를 감추고, 못 속에 산을 감추면 안전하다고 한다. 그러나 밤중에 힘센 자가 와서 짊어지고 가 버리면 바보는 알지 못할 것이다.(藏舟於壑 藏山於澤謂之固矣然而夜半有力者負之而走癡者不知也) 하였다. 《莊子 大宗師》
+english:
+  title: The Golden Immortal Bids Farewell to the Han
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    The early emperor dreamed of transcendence,
+    Casting off ten thousand chariots like worn-out sandals.
+    But Penglai Mountain—where is it now? He turned his head, could not reach it.
+    The waters of weakness shimmer three thousand leagues away.
+
+    Before the scriptures of immortality could be tested,
+    Weeds grew thick upon the tomb, ghostfire flickered blue.
+    All human riches are but floating clouds;
+    the golden stem and dew-drops fade into barren silence.
+
+    A cold shadow, solitary, companions the distant moon—
+    Three hundred years pass until the era of Jian'an.
+    In one morning the mandate turns to cunning and strength;
+    the feeble heir grasps only a distant fiefdom.
+    This trifle, carelessly cast aside,
+    like a boat hidden in a ravine at midnight.
+
+    Ten thousand oxen drag it out from Luoyang's gates.
+    The bronze immortal departs in silence from the western capital.
+    The Wei River sobs beneath the evening sun;
+    only beyond the pass do I learn to curse the reign of Huang Chu.
+
+    The inscription clearly bears the year of Yuan Ding—
+    War-torn, the tower always trailing Lishan's smoke.
+    These tears, heavy as lead, pour forth—
+    for whom do they grieve?
+    They seem to plead with the Emperor Liu,
+    recounting the kindness of his hand that cast the mold.
+
+    Human fate turns endlessly, beyond all remedy;
+    the kingdom crumbles, the sky itself grows old.
+    Oh bronze immortal, bronze immortal—you alone remain,
+    untouched by the least trace of shame.
+    Yet beyond Cao's gate the red dust swirls with multitudes,
+    half of them once the crowned elite of the Western capital.
+  footnotes:
+  - key: ''
+    value: 'Penglai Mountain: a legendary island of immortals in Chinese mythology, unreachable from the mortal world'
+  - key: ''
+    value: The tale of the bronze immortal refers to a famous statue erected by Emperor Wu of Han to collect heavenly dew for elixirs of immortality; it was later moved to Chang'an and eventually to Luoyang by Cao Cao
+  - key: ''
+    value: 'Yuan Ding: a reign era of Emperor Wu of Han; Huang Chu: a reign era of Cao Pi, highlighting the transition of power from Han to Wei'
+  - key: ''
+    value: 'Lishan: the location where Emperor Wu had erected his immortal statue and performed rituals'
+  - key: ''
+    value: The poem mourns not just the fate of the bronze immortal, but the transience of all earthly power and the fall of dynasties

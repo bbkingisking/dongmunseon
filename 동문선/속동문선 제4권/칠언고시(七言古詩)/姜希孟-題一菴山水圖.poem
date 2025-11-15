@@ -1,0 +1,71 @@
+canonical:
+  title: 題一菴山水圖
+  author: 姜希孟
+  language: lzh
+  text: 蒸沙未必終成飯畫餠安能卒療飢師何爲哉舍眞境却畫雲山堂中垂乃知如幻得三昧當境無心恣娛嬉江山自是有定形畫史翻出無窮奇長川噴薄瀉巖罅翠巘㟮屼臨江湄雲烟萬里容寸分畫耶眞耶空騰疑憶曾年少縱遊觀泉石膏育尙未醫如今失脚墜紅塵白首看山還似痴從師本分沒眞假了知萬事俱如斯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題一菴山水圖
+  author: 姜希孟
+  language: lzh
+  text: 蒸沙未必終成飯。畫餠安能卒療飢。師何爲哉舍眞境。却畫雲山堂中垂。乃知如幻得三昧。當境無心恣娛嬉。江山自是有定形。畫史翻出無窮奇。長川噴薄瀉巖罅。翠巘㟮屼臨江湄。雲烟萬里容寸分。畫耶眞耶空騰疑。憶曾年少縱遊觀。泉石膏育尙未醫。如今失脚墜紅塵。白首看山還似痴。從師本分沒眞假。了知萬事俱如斯。
+korean:
+  title: 제 일암 산수도
+  author: 강희맹
+  language: kor
+  text: |-
+    모래를 쪄선 끝내 밥이 안 되는 것
+    그림의 떡이 어찌 요기가 되리
+    스님은 어찌하여 진경을 버리고
+    짜장 운산을 그려 당중에 드리웠는가
+    알괘라, 환과 같은 여환 삼매를 얻었으니
+    경을 당하는 대로 무심하게 즐기네
+    강상이 제 워낙 일정한 형상 있거늘
+    화가는 무궁한 기경을 그려 냈구나
+    긴 냇물이 냅다 뿜어 바위틈으로 쏟아지고
+    푸른 메가 오뚝 강가에 임하였는데
+    만리 운연을 한 치, 한 품에 나타냈으니
+    그림인가 진짜인가 의심이 나네
+    생각하니, 내가 젊어 유람을 즐겨
+    천석고황 아직도 못 고치네만
+    지금은 홍진에 발을 빠뜨려
+    센 머리로 산을 보니 도리어 바보와 비슷
+    스님의 본분에는 진과 가가 없으니
+    인간 만사가 다 이런 줄 알겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여환삼매(如幻三昧) : '
+    value: 불경에 삼매(三昧)가 종류가 많은데 그 중에 여환삼매가 있다. 그것은 없는 것을 있는 것처럼 만들 수 있는 삼매라는 것이다.
+english:
+  title: On a Painting of Landscape by the Hermitage
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    Steamed sand will never become rice—
+    how can a painted cake ever satisfy hunger?
+    Why, Master, did you abandon the true landscape
+    and hang instead these clouds and mountains within your hall?
+
+    Now I understand: having attained the samadhi of illusion,
+    before all things the mind is empty, free to play and rejoice.
+    Though rivers and mountains possess their fixed forms,
+    the painter's brush conjures infinite wonders.
+
+    Long waters spume and rush through rocky crevices;
+    green peaks stand steep upon the river's edge.
+    In mere inches you have captured ten thousand miles of mist—
+    is this painting? is this reality? Doubt swirls within me.
+
+    I recall when young I wandered in delight,
+    and spring stones, though they nourished me, left me still sick.
+    Now, stumbling in the red dust of the world,
+    with white hair I gaze at mountains—still the fool, it seems.
+
+    Yet in the Master's true practice there is no false or true:
+    knowing this, I see all ten thousand things are just the same.
+  footnotes:
+  - key: ''
+    value: The samadhi of illusion (如幻三昧) is a Buddhist meditative state in which the meditator perceives all phenomena as illusory, neither wholly existing nor non-existing, thus transcending attachment to dualistic perception.
+  - key: ''
+    value: The opening references the ancient parable of steamed sand and painted cakes—useless substitutes that cannot fulfill their promise, suggesting the inadequacy of representations compared to reality.

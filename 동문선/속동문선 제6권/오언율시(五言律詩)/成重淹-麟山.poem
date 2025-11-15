@@ -1,0 +1,48 @@
+canonical:
+  title: 麟山
+  author: 成重淹
+  language: lzh
+  text: 寂寞麟山鎭酸寒竄逐身丹心空戀闕白首更思親禍福非天意窮通問我辰一觴還得興不復枉傷神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 麟山
+  author: 成重淹
+  language: lzh
+  text: 寂寞麟山鎭。酸寒竄逐身。丹心空戀闕。白首更思親。禍福非天意。窮通問我辰。一觴還得興。不復枉傷神。
+korean:
+  title: 인산
+  author: 성중엄
+  language: kor
+  text: |-
+    적막하여라 인산진이여
+    슬프고 쓸쓸한 귀양가는 몸이로다
+    붉은 마음 속절없이 궁궐을 그리다가
+    흰 머리로 다시 어버이 생각한다
+    화와 복은 하늘의 뜻이 아니다
+    궁과 통은 내 팔자에 물을 지니라
+    술 한 잔에 도리어 흥취를 얻어
+    이젠 다시 헛되이 상심하지 않으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0740&viewSync=OT
+  footnotes: []
+english:
+  title: Insan
+  author: Seong Jung-eom
+  language: eng
+  text: |-
+    Desolate stands Insan fortress,
+    Cold sorrow pursues my exiled frame.
+    My crimson heart still yearns for the palace halls,
+    White-haired now, I long for my parents.
+
+    Fortune and ruin are not heaven's decree—
+    Prosperity and hardship rest in my own stars.
+    Yet a single cup of wine restores my spirits,
+    And I shall grieve no more in vain.
+  footnotes:
+  - key: ''
+    value: 'Insan (麟山): A mountain fortress, likely the place of the author''s exile'
+  - key: ''
+    value: The 'crimson heart' (丹心) is a classical Chinese expression for loyalty and devotion
+  - key: ''
+    value: The poem's final couplet reflects a shift from despair to acceptance, suggesting both Daoist and Confucian philosophical perspectives on fate and self-cultivation

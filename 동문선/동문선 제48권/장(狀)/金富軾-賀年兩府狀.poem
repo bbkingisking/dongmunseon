@@ -1,0 +1,38 @@
+canonical:
+  title: 賀年兩府狀
+  author: 金富軾
+  language: lzh
+  text: 璇穹載周正月初吉畫三陽而爲泰法五始以書元伏惟致政相國閤下將相四朝始終一節知止不殆特高老子之心俾熾而昌永錫魯侯之壽况臨令旦休有嘉祥某等限守麾符阻趨閥閱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀年兩府狀
+  author: 金富軾
+  language: lzh
+  text: 璇穹載周。正月初吉。畫三陽而爲泰。法五始以書元。伏惟致政相國閤下。將相四朝。始終一節。知止不殆。特高老子之心。俾熾而昌。永錫魯侯之壽。况臨令旦。休有嘉祥。某等限守麾符。阻趨閥閱。
+korean:
+  title: 하 연 양부 장
+  author: 김부식
+  language: kor
+  text: 선궁(璇穹 하늘)이 한 바퀴 돌아서 정월 초하루가 되니, 삼양(三陽)을 그어서 태괘(泰卦)가 되고, 오시(五始)를 본받아서 원(元)을 쓰는 때로소이다. 엎드려 생각건대, 치정 상국합하(致政相國閤下)는 네 대 조정의 장상(將相)이요 처음과 나중이 한결같은 절개이셨고 그칠 줄을 알아 위태롭지 않으시니 특별히 노자(老子)의 마음을 높이 여기고, 번성하고 창대(昌大)하여 길이 노후(魯侯)의 수(壽)를 누리시는데, 하물며 좋은 날을 당하여 아름다운 상서가 있을 것으로 믿습니다. 모 등은 직무를 지키고 있기에 문정(門庭)에 절을 드리지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하 연 양부 장(賀年兩府狀) : '
+    value: “안서대도호 하 치사 임평장(安西大都護賀致仕林平章)”이라는 원주가 있다.
+  - key: '[주-D002] 오시(五始) : '
+    value: 《한서(漢書)》에, “춘추(春秋)는 오시(五始)의 요점을 본받았다[春秋法五始之要].” 하였고, 그 주에, “원(元)은 기(氣)의 시작이요, 봄은 사시(四時)의 시작이며, 왕자(王者)는 명(命)을 받은 시작이요, 정월(正月)은 정교(政敎)의 시작이며, 공이 즉위한 것은 한 나라의 시작이다.” 하였다.
+english:
+  title: A Felicitation on the New Year to the Two Governors
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The celestial sphere completes its rotation, and the first day of the first month arrives—a time when three yangs are traced to form the hexagram of Peace, and we follow the Five Beginnings to write of Primordial Unity.
+
+    I humbly reflect upon Your Excellency, the Retired Prime Minister and Chancellor: you who served as general and minister through four reigns, maintaining constant virtue from beginning to end. In knowing when to cease, you remain ever free from peril—thereby embodying the lofty wisdom of the ancient sage Laozi. May you continue in prosperity and glory, and enjoy the boundless longevity of the Marquis of Lu. How auspicious that this felicitous day brings omens of good fortune! Though we remain bound to our duties and cannot kneel in tribute at your gate, our hearts attend in reverence.
+  footnotes:
+  - key: ''
+    value: 'The Five Beginnings refer to the five inaugural moments in the cosmos and state: the beginning of vital energy, the beginning of the seasons, the beginning of the mandate received by a ruler, the beginning of governance, and the beginning of a new era with a ruler''s ascension.'
+  - key: ''
+    value: The Marquis of Lu alludes to the longevity of a sage ruler; Laozi represents the wisdom of knowing when to withdraw from power.
+  - key: ''
+    value: This is a formal document of congratulation, likely written on behalf of officials who could not personally attend a court ceremony.

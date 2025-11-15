@@ -1,0 +1,54 @@
+canonical:
+  title: 淸明日有感
+  author: 黃啓沃
+  language: lzh
+  text: 短帽烏衫趁卯申十年車騎逐黃塵功名本是妨行樂時序寧知已暮春官柳市橋風雨後鈿車油幕往來頻淸明過了渾無省非是東君解負人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淸明日有感
+  author: 黃啓沃
+  language: lzh
+  text: 短帽烏衫趁卯申。十年車騎逐黃塵。功名本是妨行樂。時序寧知已暮春。官柳市橋風雨後。鈿車油幕往來頻。淸明過了渾無省。非是東君解負人。
+korean:
+  title: 청명일 유감
+  author: 황계옥
+  language: kor
+  text: |-
+    짧은 모자와 검은 적삼으로 묘신에 맞추노라고
+    10년을 수레와 말로 황진을 쫓아다녔네
+    공명은 본래 행락을 방해하는 것이라
+    시절이 이미 모춘임을 어찌 알았으랴
+    관류는 시교의 비바람 지낸 뒤에
+    자개 박은 수레와 기름 바른 휘장의 왕래가 잦았구나
+    청명이 지나가도 전연 몰랐으니
+    그것은 동군이 사람을 저버린 것 아닐세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 묘신(卯申) : '
+    value: 벼슬아치들이 묘시(卯時)에 출근하여 신시(申時)에 퇴근한다.
+  - key: '[주-D002] 기름 바른 휘장의 : '
+    value: 여자가 밖에 나갈 때에 타는 수레에 기름 바른 휘장을 두른다.
+  - key: '[주-D003] 동군(東君) : '
+    value: 봄의 신(神)이다.
+english:
+  title: Reflections on Clear and Bright Day
+  author: Hwang Gye-ok
+  language: eng
+  text: |-
+    In modest cap and dark robe, I follow the morning bell to evening.
+    Ten years chasing yellow dust from carriage and steed.
+    Fame and fortune have always hindered joy—
+    when did I notice that spring was already fading?
+
+    After wind and rain, the willows by the market bridge bend low,
+    while ornate carriages with silken curtains pass to and fro.
+    Clear and Bright has come and gone, yet I perceive nothing.
+    Not the Lord of Spring's betrayal, but my own blindness.
+  footnotes:
+  - key: ''
+    value: Clear and Bright (Qingming/청명) is a traditional festival marking the spring equinox, traditionally a day for tomb-sweeping and reflection
+  - key: ''
+    value: The morning and evening hours referenced (卯申) represent the typical official working hours of a government servant
+  - key: ''
+    value: The Lord of Spring (東君) is a personification of spring itself in classical Chinese poetry

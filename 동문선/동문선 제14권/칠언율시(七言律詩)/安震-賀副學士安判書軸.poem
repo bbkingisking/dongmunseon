@@ -1,0 +1,50 @@
+canonical:
+  title: 賀副學士安判書軸
+  author: 安震
+  language: lzh
+  text: 玉禁肩隨賞牧丹邇來天榜接飛翰六年共就冰銜列四節甞開桂苑歡試院着鞭先遇主慶筵聯袂獨無官爲君遙薦萱堂壽喜氣能挑竹嶺寒慈堂在興州竹嶺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀副學士安判書軸
+  author: 安震
+  language: lzh
+  text: 玉禁肩隨賞牧丹。邇來天榜接飛翰。六年共就冰銜列。四節甞開桂苑歡。試院着鞭先遇主。慶筵聯袂獨無官。爲君遙薦萱堂壽。喜氣能挑竹嶺寒。慈堂在興州竹嶺。
+korean:
+  title: 하 부학사 안판서축
+  author: 안진
+  language: kor
+  text: |-
+    궁중서 어깨 나란히 모란꽃을 완상했더니
+    이즈음 하늘 방에 급히 전해온 어명
+    6년이나 함께 빙함에 어울려서
+    사철로 늘 동과연을 벌였겠다
+    시원에 채찍 들어 그대 먼저 임 만났고
+    경연에 모였는데 나 홀로 벼슬 없네
+    멀리 그대 위해 자당의 수를 비옵노니
+    기쁜 기운이 죽령 추위도 물리치리
+    자당(慈堂)은 흥주(興州)  죽령(竹嶺)에 있다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0930&viewSync=OT
+  footnotes: []
+english:
+  title: Congratulations on the Appointment of Vice Scholar An as Judge
+  author: An Jin
+  language: eng
+  text: |-
+    At court we stood shoulder to shoulder, admiring the peonies together,
+    Now Heaven's decree has come swiftly through urgent dispatch.
+    Six years we shared the same frosted rank,
+    Through all four seasons we opened celebrations in the cassia garden.
+    At the examination halls you cracked your whip and met the Lord first,
+    While at the feast of joy I stood alone without office.
+    For you I send distant blessings upon your mother's long life,
+    That the joy of this news might warm even the cold peaks of Bamboo Ridge.
+
+    Note: The mother resides at Bamboo Ridge in Heungju.
+  footnotes:
+  - key: ''
+    value: The 'frosted rank' refers to the frosted robe worn by junior officials, suggesting shared humble beginnings
+  - key: ''
+    value: The 'cassia garden' is a traditional metaphor for imperial patronage and scholarly advancement
+  - key: ''
+    value: Bamboo Ridge (竹嶺) and Heungju (興州) are geographical references in the historical Korean peninsula

@@ -1,0 +1,39 @@
+canonical:
+  title: 東郊別業
+  author: 金富軾
+  language: lzh
+  text: 水縠微黃風浩蕩園蔬膩碧雨淋浪有時閑步田邊踞逢着漁樵咲語長
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東郊別業
+  author: 金富軾
+  language: lzh
+  text: 水縠微黃風浩蕩。園蔬膩碧雨淋浪。有時閑步田邊踞。逢着漁樵咲語長。
+korean:
+  title: 동교 별업
+  author: 김부식
+  language: kor
+  text: |-
+    물결은 노르스럼 바람은 일렁
+    원두밭 푸성귀는 비에 젖어 짙푸르구나
+    이따금 한가한 걸음 밭둑에 주저앉아
+    어부랑 나뭇꾼 만나 웃고 이야기 길어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동교 별업(東郊別業) : '
+    value: 별장 전원의 뜻과 같다.
+  - key: '[주-D001] 縠 : '
+    value: 穀
+english:
+  title: My Cottage on the Eastern Outskirts
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The water ripples pale yellow as the wind sweeps wide,
+    The garden greens grow thick and lustrous in the rain.
+    Sometimes I wander idly to the field's edge and sit,
+    Meeting fishermen and woodcutters—we laugh and talk the day away.
+  footnotes:
+  - key: ''
+    value: The cottage represents a rustic retreat from official life, reflecting the Korean literati's idealization of countryside simplicity.

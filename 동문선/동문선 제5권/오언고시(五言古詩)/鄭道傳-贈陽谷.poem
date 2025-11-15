@@ -1,0 +1,66 @@
+canonical:
+  title: 贈陽谷
+  author: 鄭道傳
+  language: lzh
+  text: 道人結茅屋在彼山之陽白日照其上草木姸其光冲然寂無營宴坐談羲經君看七日復朋來無疾傷萬物雖未形天心正分明縱橫變化殊盡向一中生此理亮昭晣自古非冥冥吾當往問之爲我一丁寧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈陽谷
+  author: 鄭道傳
+  language: lzh
+  text: 道人結茅屋。在彼山之陽。白日照其上。草木姸其光。冲然寂無營。宴坐談羲經。君看七日復。朋來無疾傷。萬物雖未形。天心正分明。縱橫變化殊。盡向一中生。此理亮昭晣。自古非冥冥。吾當往問之。爲我一丁寧。
+korean:
+  title: 증양곡
+  author: 정도전
+  language: kor
+  text: |-
+    도인이 진 초가집이
+    저 산의 남쪽에 있도다
+    햇빛이 그 위에 비치니
+    초목의 그 빛이 곱도다
+    마음이 비고 고요하니 영위하는 것 없이
+    조용히 앉아서 복희씨의 경(주역(周易))을 얘기하노라
+    그대는 7일 만에 회복하는 것을 보라
+    벗이 와도 병들거나 상하는 것이 없는 것이다
+    만물이 형성되기 전에도
+    천심은 바르고 분명하도다
+    종횡하는 변화의 다름이
+    모두 하나 가운데에서 생긴다
+    이 이치가 진실로 밝아서
+    예로부터 컴컴하지 않거니
+    내가 물으며 가려하니
+    나를 위해 한 번 자세히 가르치소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: A Gift for Yangok
+  author: Jeong Do-jeon
+  language: eng
+  text: |-
+    A wanderer has built a simple grass hut
+    On the southern slope of that distant mountain.
+    Sunlight falls upon its roof,
+    And the grasses and trees gleam in its glow.
+
+    His heart is empty and still, free from worldly striving,
+    He sits in quiet repose, speaking of the I Ching's mysteries.
+    See how one recovers in seven days—
+    When friends arrive, neither illness nor harm touches them.
+
+    Even before the ten thousand things took form,
+    The mind of Heaven stood clear and true.
+    Though change moves in endless directions,
+    All transformations arise from that single source.
+
+    This principle shines with perfect clarity—
+    It has never been obscured since ancient times.
+    Now I journey forth to inquire of it,
+    But I ask you: teach me this once with careful words.
+  footnotes:
+  - key: ''
+    value: The reference to recovery in seven days and freedom from illness likely alludes to Daoist practices of meditation and spiritual cultivation that promote longevity and health.
+  - key: ''
+    value: The I Ching (周易, Zhouyi) is the ancient Chinese Book of Changes, central to both Confucian and Daoist thought, here representing profound wisdom.
+  - key: ''
+    value: The 'mind of Heaven' (天心) refers to the underlying principle or order of the cosmos in Neo-Confucian philosophy, which Jeong Do-jeon deeply studied.

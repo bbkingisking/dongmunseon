@@ -1,0 +1,45 @@
+canonical:
+  title: 東宮春帖子
+  author: 金富軾
+  language: lzh
+  text: 曙色明樓角春風着柳梢鷄人初報曉已向寢門朝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東宮春帖子
+  author: 金富軾
+  language: lzh
+  text: 曙色明樓角。春風着柳梢。鷄人初報曉。已向寢門朝。
+korean:
+  title: 동궁 춘첩자
+  author: 김부식
+  language: kor
+  text: |-
+    새벽빛은 다락의 뿌연 끝에 밝고
+    봄바람은 버드나무 가지 끝에 닥쳤네
+    닭사람[鷄人]이 새벽을 처음 알리는데
+    이미 침문(寢門)으로 아침 문안했네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동궁 춘첩자(東宮春帖子) : '
+    value: 옛날 궁중(宮中)에서 입춘(立春)이 되면 황제ㆍ황후ㆍ태자의 궁에다 모두 축하하는 시를 써서 붙였는데, 이것을 춘첩자(春帖子)라 한다.
+  - key: '[주-D002] 닭사람[鷄人] : '
+    value: 당나라 때 궁궐에 새벽이 되면, 붉은 비단 수건을 쓴 닭처럼 꾸민 사람이 소리를 질러 새벽을 알리는데, 이것을 닭사람[鷄人]이라 한다.
+  - key: '[주-D003] 침문(寢門) : '
+    value: 태자가 새벽마다 황제의 침실(寢室) 문 앞에 문안하였다.
+english:
+  title: Spring Verses for the Eastern Palace
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Dawn's light breaks clear at the tower's edge,
+    Spring wind touches the willow's tender tip.
+    The rooster-man first announces the new day—
+    Already bowing at the sleeping chamber's gate.
+  footnotes:
+  - key: ''
+    value: This poem is a spring verse (chungjapja) traditionally composed and posted in the imperial court upon the arrival of spring (Iipsun), addressed to the emperor, empress, and crown prince.
+  - key: ''
+    value: The 'rooster-man' (gyeoksa-in) was a court official during the Tang Dynasty who, dressed in red silk like a rooster, would cry out at dawn to announce the arrival of morning.
+  - key: ''
+    value: The 'sleeping chamber's gate' refers to the crown prince's daily morning ritual of paying respects at the emperor's bedchamber door.

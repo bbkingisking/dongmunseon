@@ -1,0 +1,43 @@
+canonical:
+  title: 自警
+  author: 李吉祥
+  language: lzh
+  text: 班白豈非爲老翁飄飄日用尙孩童驚人只有踈狂語輔世會無細小功嗜酒過三杯止渴題詩無一句全工乾坤容汝德何厚汝自加修善始終
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自警
+  author: 李吉祥
+  language: lzh
+  text: 班白豈非爲老翁。飄飄日用尙孩童。驚人只有踈狂語。輔世會無細小功。嗜酒過三杯止渴。題詩無一句全工。乾坤容汝德何厚。汝自加修善始終。
+korean:
+  title: 자경
+  author: 이길상
+  language: kor
+  text: |-
+    머리털이 반백이라 벌써 늙은이 아닌가
+    나풀나풀 일상 행동은 아직도 어린애
+    엉뚱한 수작으로 사람을 놀래지만
+    털끝만한 공으로도 세상 돕지 못했네
+    술은 즐겨 석 잔 마셔야 해갈이 되고
+    시는 옳게 된 것 한 귀도 못 지었네
+    천지가 덕이 두터워 너를 용납했으니
+    네 삼가 몸을 닦아서 시종여일하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Admonition
+  author: Lee Gil-sang
+  language: eng
+  text: |-
+    My hair has turned half-white—am I not already old?
+    Yet my daily manner remains light and childish still.
+    I startle people only with nonsensical jests,
+    and help the world not even with the smallest deed.
+    Wine requires three cups before it quenches my thirst,
+    and in all my poems, not a single line rings true.
+    Heaven and earth bear such thick virtue toward me—
+    so let me tend myself with care from this day forth.
+  footnotes:
+  - key: ''
+    value: This poem is a personal reflection on aging and the gap between appearance and character, a common theme in East Asian literati poetry. The speaker acknowledges physical decline paired with spiritual immaturity, and resolves toward self-cultivation.

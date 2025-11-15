@@ -1,0 +1,46 @@
+canonical:
+  title: 十一月二十日有雪夜坐
+  author: 李原
+  language: lzh
+  text: 西峯寒日暮萬里凍雲凝䆫外三冬雪床頭半夜燈擁襟全似鐵呵筆更生冰欲向梁園醉其如酒價增
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 十一月二十日有雪夜坐
+  author: 李原
+  language: lzh
+  text: 西峯寒日暮。萬里凍雲凝。䆫外三冬雪。床頭半夜燈。擁襟全似鐵。呵筆更生冰。欲向梁園醉。其如酒價增。
+korean:
+  title: 십일월 이십일 유설야좌
+  author: 이원
+  language: kor
+  text: |-
+    서녘 봉우리에 찬 날이 저물고
+    만 리에는 언 구름이 엉기네
+    창 밖은 삼동 눈이요
+    산 머리엔 밤중 등잔불이어라
+    이불을 둘러 쓰니 차기가 전혀 쇳조각 같고
+    붓끝은 입김으로 불어도 다시 얼음꽃이 되네
+    양원에 가 술에 취하고자 하나
+    술값이 올랐으니 어찌하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0830&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 양원(梁園) : '
+    value: 한(漢)나라 양 효왕(梁孝王)이 문인(文人)들을 데리고 놀던 곳인데, 여기서는 글 짓는 친구들과 노는 것을 말한다.
+english:
+  title: On a Snowy Night, the Twenty-first Day of the Eleventh Month
+  author: Lee Won
+  language: eng
+  text: |-
+    The cold sun sets over the western peaks,
+    Frozen clouds congeal across ten thousand li.
+    Beyond the window, winter snow falls thick,
+    At the bed's head, a lamp glows through the night.
+
+    Wrapped in quilts, I am hard as iron,
+    And my brush-tip freezes again with each breath.
+    I wish to escape to the garden of friends and wine,
+    But alas—the price of drink has risen.
+  footnotes:
+  - key: ''
+    value: The 'garden of friends and wine' (梁園) alludes to the famous retreat of the Liang prince during the Han dynasty, here representing a gathering place for poets and scholars to drink and compose together.

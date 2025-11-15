@@ -1,0 +1,41 @@
+canonical:
+  title: 朝參
+  author: 金克己
+  language: lzh
+  text: 雞人報曉漏聲殘拜手龍墀謝賜環尙歎紅雲前繚繞擡頭才得覩天顔
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 朝參
+  author: 金克己
+  language: lzh
+  text: 雞人報曉漏聲殘。拜手龍墀謝賜環。尙歎紅雲前繚繞。擡頭才得覩天顔。
+korean:
+  title: 조참
+  author: 김극기
+  language: kor
+  text: |-
+    닭사람이 새벽 알리고 누수소리 쇠잔한데
+    대궐뜰에 절하고 사환(賜環)한 것 사례하네
+    오히려 탄식하노니 붉은 구름이 앞을 가리워
+    머리 들고 겨우 천안 뵈옵는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0810&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사환(賜環) : '
+    value: 신하가 죄가 있어 국경에서 임금의 처분을 기다릴 때에, 임금이 환(環)을 주면 돌아오라는 것이요, 결(玦)을 주면 사사(賜死)한다는 것인데, 여기서는 작자(作者)가 귀양살이에서 풀려 온 것이다.
+  - key: '[주-D002] 붉은 구름 : '
+    value: 임금의 거처하는 곳에는 서기(瑞氣)가 어리어 붉은 구름이 둘렀다는 것이다.
+english:
+  title: Morning Court
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The rooster cries at dawn, the water clock runs dry.
+    I bow in the palace court, grateful for the ring bestowed—
+    yet still I sigh, for crimson clouds drift before me,
+    and only when I lift my head can I glimpse the face of heaven.
+  footnotes:
+  - key: ''
+    value: The presentation of a ring (環) by the ruler traditionally signaled a courtier's pardon and permission to return from exile. Here the poet celebrates his restoration to grace.
+  - key: ''
+    value: The crimson clouds are said to hover around the imperial residence as auspicious vapors, suggesting the sanctity of the ruler's presence while also emphasizing the distance and barrier between subject and sovereign.

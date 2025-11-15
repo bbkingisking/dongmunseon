@@ -1,0 +1,33 @@
+canonical:
+  title: 永陵復位謝起居表
+  author: 鄭誧
+  language: lzh
+  text: 披雲紫殿親瞻穆穆之光就國靑丘常抱拳拳之意
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永陵復位謝起居表
+  author: 鄭誧
+  language: lzh
+  text: 披雲紫殿。親瞻穆穆之光。就國靑丘。常抱拳拳之意。
+korean:
+  title: 영릉복위 사 기거 표
+  author: 정포
+  language: kor
+  text: 자전(紫殿)에 구름을 헤침에 친히 목목(穆穆)한 빛을 뵈었사오며, 청구(靑丘)에 취국(就國)하오매 항상 권권(拳拳)한 뜻을 품었나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0460&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청구(靑丘)에 취국(就國) : '
+    value: 제후가 천자의 수도에 있다가 자기의 봉국(封國)으로 돌아가는 일을 말한다.
+english:
+  title: Memorial of Gratitude for the Restoration of Perpetual Tomb
+  author: Jung Po
+  language: eng
+  text: Parting the clouds of the Purple Palace, I have been granted to witness the dignified radiance of the Son of Heaven. Departing for my fief in the Blue Hills, I bear forever in my heart an unwavering devotion.
+  footnotes:
+  - key: ''
+    value: The 'Blue Hills' refers to the author's fief, which he returns to after his time at court.
+  - key: ''
+    value: The Purple Palace (紫殿) is a poetic reference to the imperial court.
+  - key: ''
+    value: '''Dignified radiance'' (穆穆之光) evokes both the literal splendor of the court and the moral authority of imperial presence.'

@@ -1,0 +1,45 @@
+canonical:
+  title: 鸚鵡
+  author: 李奎報
+  language: lzh
+  text: 衿披藍綠觜丹砂都爲能言見罻羅嬌姹小兒圓舌澁玲瓏處女慧容多慣聞人語傳聲巧新學宮詞噵字訛牢鏁玉籠無計出隴山歸夢漸蹉跎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鸚鵡
+  author: 李奎報
+  language: lzh
+  text: 衿披藍綠觜丹砂。都爲能言見罻羅。嬌姹小兒圓舌澁。玲瓏處女慧容多。慣聞人語傳聲巧。新學宮詞噵字訛。牢鏁玉籠無計出。隴山歸夢漸蹉跎。
+korean:
+  title: 앵무
+  author: 이규보
+  language: kor
+  text: |-
+    옷깃은 남빛, 부리는 발강이
+    말할 줄 알기 때문에 네가 갇혀 있구나
+    재롱 부리는 애마냥 혀가 맘대로 안 돌고
+    영롱한 처녀인 듯 상냥한 그 얼굴
+    사람의 말 익히 들어 재치 있게 전하고
+    궁중의 노래 새로 배워 몇 자가 틀리네
+    옥 둥우리에 갇히어 빠져 나갈 길 없으니
+    농산에 돌아갈 꿈이 차츰 아득하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 농산(隴山) : '
+    value: 현 섬서성 농현(隴縣) 서북에 있는 산. 앵무의 원 서식지(棲息地)로 일컬어 옴.
+english:
+  title: The Parrot
+  author: Lee Gyubo
+  language: eng
+  text: |
+    Your robe is blue-green, your beak the color of cinnabar—
+    But it is your gift of speech that has trapped you in this cage.
+    Your tongue stumbles like a playful child learning to speak,
+    Yet your face shines gentle and wise as a courtly maiden's.
+    You mimic human words with clever precision,
+    And learn the palace songs, though a few characters slip away.
+    Locked in your jade prison with no way to escape,
+    Your dreams of the distant Longshan Mountains fade ever further.
+  footnotes:
+  - key: ''
+    value: 'Longshan Mountains: Located in present-day Shaanxi Province, traditionally known as the native habitat of parrots. The bird''s longing to return here represents the theme of captivity and lost freedom.'

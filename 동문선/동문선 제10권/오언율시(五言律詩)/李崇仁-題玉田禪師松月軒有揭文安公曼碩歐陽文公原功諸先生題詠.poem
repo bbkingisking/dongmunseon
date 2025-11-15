@@ -1,0 +1,54 @@
+canonical:
+  title: 題玉田禪師松月軒有揭文安公曼碩歐陽文公原功諸先生題詠
+  author: 李崇仁
+  language: lzh
+  text: 獨向層峯裏新開丈室淸踈松留鶴老好月近人明河漢高秋影風霜半夜聲師心遣有相燕坐樂無生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題玉田禪師松月軒有揭文安公曼碩歐陽文公原功諸先生題詠
+  author: 李崇仁
+  language: lzh
+  text: 獨向層峯裏。新開丈室淸。踈松留鶴老。好月近人明。河漢高秋影。風霜半夜聲。師心遣有相。燕坐樂無生。
+korean:
+  title: 옥전선사 송월헌에 문안공 만석과 구양문공 원공 제선생의 쓴 시가 게시되어 있어
+  author: 이숭인
+  language: kor
+  text: |-
+    홀로 층층으로 된 산봉우리를 향하여
+    새로운 장실을 맑게 열었네
+    성긴 소나무들은 학을 머물러 늙고
+    좋은 달은 사람을 가까이하여 밝네
+    은하수는 가을 그림자요
+    사람 서리는 밤중의 소리일러라
+    스님 마음 상이 있는 것을 초월했고
+    조용히 앉아 무생을 즐기네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장실(丈室) : '
+    value: 《維摩經》에 있는 말인데, 유마거사(維摩居士)가 거처하는 방이 사방(四方)으로 한발[一丈]이므로, 그 방을 방장(方丈), 또는 장실(丈室)이라 한다. 뒤에 고승(高僧)의 거처하는 방을 그렇게 부른다.
+  - key: '[주-D002] 스님 마음 상(相)이 있는 것을 초월했고 : '
+    value: 물(物)이나 심(心)의 모든 유(有)를 유상(有相)이라 한다. 《금강경(金剛經)》에, “대개 유상(有相)은 모두 허망(虛妄)한 것이니, 만일 모든 상(相)이 아닌 것을 알면, 곧 여래(如來)를 보느니라.” 하였다.
+  - key: '[주-D003] 무생(無生) : '
+    value: 불법(佛法)을 무생(無生)의 법(法)이라 한다. 그것은 본시 생(生)이 없는 것이라는 뜻이다.
+english:
+  title: Written Beside the Abbot Jeok-jeon's Hall of Pine and Moon, with Inscriptions by Minister Mun An, Master Man-seok, and Other Worthies Including Ouyang Wen-gong and Yuan-gong
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Alone I turn toward the layered peaks,
+    A new monastic chamber opens pure and clear.
+    Sparse pines shelter cranes growing old,
+    The fair moon draws near, bright among men.
+
+    The Milky Way descends in autumn's shadow,
+    Frost and wind cry out at midnight's hour.
+    The master's mind transcends all form,
+    Sitting still, he savors the birthless way.
+  footnotes:
+  - key: ''
+    value: The "monastic chamber" (丈室) is a reference to the quarters of Vimalakirti from the Vimalakirti Sutra. Originally describing a space ten feet on each side, this term later came to designate the dwelling of eminent monks.
+  - key: ''
+    value: 'The phrase "transcends all form" refers to the Buddhist concept of moving beyond all phenomena and mental constructs. As the Diamond Sutra teaches: "All conditioned dharmas are like dreams, illusions, bubbles, and shadows... knowing this, one perceives the Tathagata."'
+  - key: ''
+    value: The "birthless way" (無生之法) refers to the Buddhist teaching that all dharmas are fundamentally without origination—they have never truly been born.

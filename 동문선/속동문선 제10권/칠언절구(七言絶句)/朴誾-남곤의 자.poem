@@ -1,0 +1,38 @@
+canonical:
+  title: 남곤의 자
+  author: 朴誾
+  language: lzh
+  text: 此心無處與深論知我濠梁獨有君談罷歸來乘小雨翠軒牢落一鑪熏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 남곤의 자
+  author: 朴誾
+  language: lzh
+  text: 此心無處與深論。知我濠梁獨有君。談罷歸來乘小雨。翠軒牢落一鑪熏。
+korean:
+  title: 사화
+  author: 박은
+  language: kor
+  text: |-
+    이 마음을 깊이 논할 곳 없어
+    호수 다리 내 마음 알아줄 이 그대뿐이로다
+    얘기 끝내고 부슬비를 무릅쓰고 돌아오니
+    푸른 마루 뇌락했는데 화로가 다사롭네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: To a Friend
+  author: Park Eun
+  language: eng
+  text: |-
+    This heart finds no one to speak with in depth—
+    Only you at the bridge over still waters understand me.
+    Our talk done, I return through the gentle rain,
+    And in the emerald hall, now lonely and bare,
+    Smoke curls from the incense burner, tending to my solitude.
+  footnotes:
+  - key: ''
+    value: The 'bridge over still waters' (濠梁) alludes to the famous philosophical dialogue between Confucius and Zhuangzi, suggesting a meeting of kindred spirits
+  - key: ''
+    value: The incense burner's smoke serves as a meditation on the lingering warmth of friendship after departure

@@ -1,0 +1,37 @@
+canonical:
+  title: 隋
+  author: 乙支文德
+  language: lzh
+  text: 神策究天文妙筭窮地理戰勝功旣高知足願云止
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 隋
+  author: 乙支文德
+  language: lzh
+  text: 神策究天文。妙筭窮地理。戰勝功旣高。知足願云止。
+korean:
+  title: 수
+  author: 을지문덕
+  language: kor
+  text: |-
+    신책은 천문을 꿰뚫었고
+    묘산은 지리에 통달했네
+    싸움에 이겨 공이 이미 높거니
+    족함을 알아 원컨대 그치시라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 족함을 …… 그치시라 : '
+    value: 노자(老子)의 《도덕경(道德經)》에, “족함을 알면 욕되지 않고, 그칠 줄 알면 위태롭지 않다 [知足不辱 知止不殆].”란 말이 있다.
+english:
+  title: On Sui
+  author: Eulji Mundeok
+  language: eng
+  text: |-
+    Divine strategy pierces through the celestial patterns,
+    Subtle calculation penetrates earthly forms.
+    Victory in battle has brought glory already high—
+    Knowing sufficiency, I pray we now cease.
+  footnotes:
+  - key: ''
+    value: 'The closing couplet alludes to the Daodejing: ''He who knows when to stop does not find himself in trouble; he who knows when to stop shall live long.'' The poet invokes this Daoist wisdom to counsel restraint and moderation in the aftermath of triumph.'

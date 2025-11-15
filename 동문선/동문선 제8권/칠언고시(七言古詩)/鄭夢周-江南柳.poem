@@ -1,0 +1,57 @@
+canonical:
+  title: 江南柳
+  author: 鄭夢周
+  language: lzh
+  text: 江南柳江南柳春風裊裊黃金絲江南柳色年年好江南行客歸何時蒼海茫茫萬丈波家山遠在天之涯天涯之人日夜望歸舟坐對落花空長嘆但識相思苦肯識此間行路難人生莫作遠遊客少年兩鬢如雪白
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 江南柳
+  author: 鄭夢周
+  language: lzh
+  text: 江南柳江南柳。春風裊裊黃金絲。江南柳色年年好。江南行客歸何時。蒼海茫茫萬丈波。家山遠在天之涯。天涯之人日夜望歸舟。坐對落花空長嘆。但識相思苦。肯識此間行路難。人生莫作遠遊客。少年兩鬢如雪白。
+korean:
+  title: 강남류
+  author: 정몽주
+  language: kor
+  text: |-
+    강남 버들, 강남 버들아
+    봄바람에 하늘하늘 황금 실을 늘였구나
+    강남에 버들은 해마다 좋으련만
+    강남의 나그네는 언제나 돌아가리
+    망망한 창해에 물결이 만 길
+    고향은 어디냐, 하늘끝 닿은 곳
+    하늘끝 사람 날마다 밤바다 돌아올 배를 바라보며
+    앉아서 낙화를 대하여 길이 탄식만 할 뿐
+    상사의 괴로움은 알겠지만
+    이곳의 행로난이야 제 어이 알리
+    인생은 제발 먼 길의 나그네 되지 말것이라
+    소년의 두 귀밑 머리가 눈처럼 희어졌네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: The Willows of Jiangnan
+  author: Jeong Mongju
+  language: eng
+  text: |-
+    O willows of Jiangnan, willows of Jiangnan,
+    Spring breezes set your golden threads dancing and swaying.
+    Year after year the willows of Jiangnan wear beauty—
+    Yet when shall the wanderer of Jiangnan return home?
+
+    The vast sea stretches endless, waves rising ten thousand fathoms high.
+    Home lies distant, beyond the very edge of heaven.
+    He who dwells at heaven's edge watches night and day
+    For the returning ship upon the dark waters.
+    Sitting before fallen blossoms, he can only sigh and sigh again.
+
+    Longing's anguish—yes, he knows it well.
+    But who could understand the hardship of these roads?
+    O do not make your life a journey of endless wandering!
+    For already the hair at a young man's temples
+    Has turned white as snow.
+  footnotes:
+  - key: ''
+    value: Jiangnan (江南) refers to the region south of the Yangtze River, traditionally a symbol of beauty, refinement, and longing in East Asian poetry.
+  - key: ''
+    value: The poem employs the classical conceit of the traveler separated from home, expressing the poet's personal sorrow through landscape imagery—a common device in both Chinese and Korean classical poetry.

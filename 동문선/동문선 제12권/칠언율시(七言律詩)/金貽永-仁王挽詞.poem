@@ -1,0 +1,57 @@
+canonical:
+  title: 仁王挽詞
+  author: 金貽永
+  language: lzh
+  text: 高拱喦廊九閏強性仁躬儉致時康仙遊已遠空遺劒聖孝方深每見墻縱有謳歌歸啓德那堪遏密服堯喪孤臣更念生成德洒盡春風淚萬行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仁王挽詞
+  author: 金貽永
+  language: lzh
+  text: 高拱喦廊九閏強。性仁躬儉致時康。仙遊已遠空遺劒。聖孝方深每見墻。縱有謳歌歸啓德。那堪遏密服堯喪。孤臣更念生成德。洒盡春風淚萬行。
+korean:
+  title: 인왕 만사
+  author: 김이영
+  language: kor
+  text: |-
+    옥좌에 앉아 다스린 지 아홉 해가 넘는 동안
+    인자한 성품 검소한 몸으로 태평을 이루셨네
+    신선 고장에 멀리 가사 검만을 남기셨네
+    거룩한 효도 깊으시어 매양 담을 보시더니
+    구가하는 백성들이 계님 덕을 찬송해도
+    알밀하는 국민들의 요님 상을 어찌할꼬
+    내어 이루어 주신 덕을 다시금 생각하니
+    외로운 신하 봄바람에 눈물이 그지없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0890&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 검(劍)만을 남기셨네 : '
+    value: 전설에, “황제(黃帝)가 붕(崩)할 제 몸은 하늘로 올라가고 활과 검만 남겼다.” 하는데, 임금의 승하함을 말한다.
+  - key: '[주-D002] 계(啓) : '
+    value: 하(夏)나라 우(禹) 임금의 아들인데, 우가 죽은 뒤에 백성이 계(啓)의 덕을 구가(謳歌)하고 따랐다. 예종(睿宗)을 우(禹)에, 세자(世子)를 계(啓)에 비유하였다.
+  - key: '[주-D003] 알밀(遏密) : '
+    value: 요(堯)가 죽은 뒤에 삼 년 동안을 백성이 부모의 상(喪)을 당한 것 같이 하여 천하에 음악 소리가 막히고 없어졌었다 한다.
+english:
+  title: Elegy for King Injo
+  author: Kim Yi-young
+  language: eng
+  text: |-
+    Nine years and more he sat upon the jade throne,
+    Ruling with a merciful heart and humble frame,
+    bringing peace to all beneath heaven.
+    He has journeyed to the immortal realm, leaving only his sword behind—
+    the way of sages who depart this world.
+    His filial piety ran deep as the earth;
+    even gazing at walls, he saw his father's presence.
+    Though the people sing praises for the virtue of the heir,
+    how can we silence the grief that fills the land,
+    as if the world itself mourns like a child losing both parents?
+    I, a lonely minister, remember anew the grace he bestowed,
+    and my tears flow like spring winds without end.
+  footnotes:
+  - key: ''
+    value: The sword left behind alludes to the legendary departure of the Yellow Emperor, whose body ascended to heaven while only his weapons remained—a poetic way of describing an emperor's passing.
+  - key: ''
+    value: The references to Yu and his son Qi recall how the people sang praises of Qi's virtue after Yu's death. Here, King Sejong (the father) is compared to Yu, and the Crown Prince to Qi.
+  - key: ''
+    value: The 'silencing of music' refers to the ancient tradition where, after Yao's death, the people mourned for three years with such intensity that music ceased throughout the realm—evoking the depth of national grief.

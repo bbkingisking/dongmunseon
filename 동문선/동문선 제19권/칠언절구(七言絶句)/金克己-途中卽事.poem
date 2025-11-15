@@ -1,0 +1,37 @@
+canonical:
+  title: 途中卽事
+  author: 金克己
+  language: lzh
+  text: 一逕靑苔濕馬蹄蟬聲斷續路高低窮村婦女猶多思笑整荊釵照柳溪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 途中卽事
+  author: 金克己
+  language: lzh
+  text: 一逕靑苔濕馬蹄。蟬聲斷續路高低。窮村婦女猶多思。笑整荊釵照柳溪。
+korean:
+  title: 도중 즉사
+  author: 김극기
+  language: kor
+  text: |-
+    한 줄기 오솔길의 푸른 이끼는 말 발굽에 젖는데
+    매미소리는 끊어졌다 이어졌다, 길은 높았다 낮았다
+    산골의 색시는 생각이 많아
+    웃으며 나무 비녀 바로잡으면서 버들 개울에 비쳐보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0660&viewSync=OT
+  footnotes: []
+english:
+  title: Impressions on the Road
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    A single path, green with moss, grows damp beneath the horse's hooves.
+    Cicada songs break and resume as the road rises and falls.
+    The village girl, her mind adrift in reverie,
+    Smiles as she adjusts her wooden hairpin, gazing at her reflection in the willow creek.
+  footnotes:
+  - key: ''
+    value: The wooden hairpin (荊釵) traditionally signified a modest maiden, contrasting with the elaborate ornaments of the wealthy
+  - key: ''
+    value: The willow creek serves as both a literal mirror and a symbol of fleeting beauty and reflection

@@ -1,0 +1,37 @@
+canonical:
+  title: 庚寅重九
+  author: 金莘尹
+  language: lzh
+  text: 輦下干戈起殺人如亂麻良辰不可負白酒泛黃花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 庚寅重九
+  author: 金莘尹
+  language: lzh
+  text: 輦下干戈起。殺人如亂麻。良辰不可負。白酒泛黃花。
+korean:
+  title: 경인 중구
+  author: 김신윤
+  language: kor
+  text: |-
+    연하에 간과가 일어나
+    사람 죽이기를 삼 베듯 하네
+    그래도 양신을 헛보내기 어려워
+    백주에 국화꽃을 띄워 마시네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경인 중구(庚寅重九) : '
+    value: 이 시는 의종(毅宗) 때 정중부(鄭仲夫)의 난(亂)으로 문관(文官)을 모두 죽인 해에 지은 것이다.
+english:
+  title: Double Ninth of the Gengyin Year
+  author: Kim Shin-yun
+  language: eng
+  text: |-
+    War and rebellion stir beneath the capital walls,
+    Death falls like scattered threads, harvest after harvest.
+    Yet a fine day cannot be squandered—
+    White wine floats chrysanthemum blossoms on its face.
+  footnotes:
+  - key: ''
+    value: This poem was written during the reign of King Uijong, when the rebellion of Jung Jung-bu resulted in the massacre of all civil officials.

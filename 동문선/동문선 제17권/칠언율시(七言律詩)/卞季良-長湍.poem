@@ -1,0 +1,46 @@
+canonical:
+  title: 長湍
+  author: 卞季良
+  language: lzh
+  text: 蓬轉東南影與身舊情誰復似雷陳病深藥物渾無效吟苦詩篇頗有神虛白連天江郡曉暗黃浮地柳郊春自憐令節情懷惡題句時還寄故人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長湍
+  author: 卞季良
+  language: lzh
+  text: 蓬轉東南影與身。舊情誰復似雷陳。病深藥物渾無效。吟苦詩篇頗有神。虛白連天江郡曉。暗黃浮地柳郊春。自憐令節情懷惡。題句時還寄故人。
+korean:
+  title: 서울로 가는 도중 장단
+  author: 변계량
+  language: kor
+  text: |-
+    동남에 표랑해 온 외로운 신세
+    그 누구의 옛 정이 뇌ㆍ진과 같을까
+    병이 깊으니 약이 통 효험 없네
+    애써 읊으니 시는 혹 신이 시키는 듯
+    허연 기운 하늘에 닿았으니 강변 고을 새벽이요
+    누런 빛이 땅에 떴으니 들 버들의 봄이로고
+    이 좋은 철에 회포가 얄궂어서
+    글귀 짓기만 하면 곧 친구에게 부치네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0500&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 뇌(雷)ㆍ진(陳) : '
+    value: 동한(東漢)  뇌의(雷義)와 진중(陳重)이다. 뇌의가 무재(茂才)로 천거되자 진중에게 사양했으나 자사(刺史)가 들어주지 않자, 의는 거짓 미친 체하고 머리를 풀어 헤치고 나아가 명(命)에 응하지 않으니 삼부(三府)에서 동시에 두 사람을 다 불러 벼슬주었다.
+english:
+  title: Changtuan
+  author: Byeon Gyeryang
+  language: eng
+  text: |-
+    Drifting southeast, my shadow and I have grown distant.
+    Whose old affection could rival Lei and Chen's bond?
+    Deep illness renders all medicines useless,
+    Yet when I compose in anguish, the verse takes on a spirit of its own.
+
+    Pale radiance touches the heavens—the river town greets the dawn,
+    Dim gold floats upon the earth—the willows by the field welcome spring.
+    Hating how this fair season finds my heart bitter,
+    I inscribe these lines and send them forth to old friends.
+  footnotes:
+  - key: ''
+    value: Lei and Chen refer to Lei Yi and Chen Zhong of the Eastern Han, legendary friends whose mutual loyalty and integrity became a symbol of steadfast friendship in classical literature.

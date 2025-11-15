@@ -1,0 +1,53 @@
+canonical:
+  title: 用安陰詩韻
+  author: 徐居正
+  language: lzh
+  text: 百歲光陰晴復陰當頭細事怕臨深一生踈懶嵆中散萬古風流李翰林老病樽前花翳眼功名鏡裏雪盈簪十年空草歸來賦何用區區學越吟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 用安陰詩韻
+  author: 徐居正
+  language: lzh
+  text: 百歲光陰晴復陰。當頭細事怕臨深。一生踈懶嵆中散。萬古風流李翰林。老病樽前花翳眼。功名鏡裏雪盈簪。十年空草歸來賦。何用區區學越吟。
+korean:
+  title: 용 안음 시운
+  author: 서거정
+  language: kor
+  text: |-
+    백 년의 광음은 갰다 흐렸다
+    당장 세세한 일은 위험을 두려워하는 것이다
+    일생을 등한하고 게으르기는 혜중산인데
+    만고에 풍류롭기는 이한림(이태백)이다
+    늙고 병들매 술항아리 앞에서 꽃이 눈을 가리고
+    공명은 거울 속에 눈이 잠에 가득 찼다
+    십 년을 헛되이 귀래부를 초했거니
+    무엇하러 구구히 월나라 노래를 배울 건가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 일생을 …… 혜중산(嵇中散)인데 : '
+    value: 3국 시대 위(魏)나라 혜강(嵇康)이란 사람이 중산대부(中散大夫) 벼슬을 하였으므로 혜중산이라 한다. 그는 시대가 좋지 아니함을 알고 고의로 게으름을 부리고 세상에 나가지 않았었다.
+  - key: '[주-D002] 늙고 …… 가리고 : '
+    value: 늙으면 꽃이 잘 보이지 않는다고 옛 시인들은 탄식하였다.
+  - key: '[주-D003] 공명(功名)은 …… 가득 찼다 : '
+    value: 옛날에는 머리를 끌어 올려서 상투를 짜고 그 상투에 조그만 관(冠)을 만들어 씌웠는데, 그것을 상투관이라 한다. 그 상투관은 비녀를 만들어서 가로로 상투에 꽂는다. 여기 잠(簪)이라 함은 그런 비녀를 말한다.
+english:
+  title: Poem Following the Rhyme of An Yin
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    A hundred years of light and shadow—clear then clouded again.
+    The petty cares before us fear to tread the depths.
+    A lifetime of neglect and idleness, like Xi Kang in his mountain retreat,
+    While through the ages flows the grace of Li the Immortal Poet.
+    In old age and sickness, before my cup of wine, flowers blur my eyes.
+    In the mirror's reflection, fame and fortune gather snow upon my cap.
+    Ten years I've wasted drafting verses of return,
+    Yet why should I, in vain effort, learn the songs of distant Wu?
+  footnotes:
+  - key: ''
+    value: Xi Kang (嵇康) held the office of Colonel of the Central Secretariat (中散大夫) during the Wei dynasty of the Three Kingdoms period. Recognizing the corruption of his age, he deliberately withdrew from service and lived in idleness, refusing to engage with the world.
+  - key: ''
+    value: Li the Immortal Poet refers to Li Bai (李太白), celebrated throughout the ages for his poetic grace and romantic spirit.
+  - key: ''
+    value: The 'snow upon my cap' alludes to the hairpin (簪) that held one's topknot in place—a symbol of official rank now white with age, suggesting how ambition fades with time.

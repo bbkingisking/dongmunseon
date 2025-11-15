@@ -1,0 +1,65 @@
+canonical:
+  title: 琇峯銘
+  author: 權近
+  language: lzh
+  text: 石之秀者琇也於玉比德維其有之也山之鋒者峯也所立卓爾末由從之也不櫝而藏不衒而光任崐岡也泉甘而土肥玉蘊而山輝簪吾冠兮佩吾衣吾與子同歸兮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 琇峯銘
+  author: 權近
+  language: lzh
+  text: 石之秀者琇也。於玉比德。維其有之也。山之鋒者峯也。所立卓爾。末由從之也。不櫝而藏。不衒而光。任崐岡也。泉甘而土肥。玉蘊而山輝。簪吾冠兮佩吾衣。吾與子同歸兮。
+korean:
+  title: 수봉 명
+  author: 권근
+  language: kor
+  text: |-
+    돌이 빼어난 것은 수석이라
+    옥에다 비하는 덕은
+    오직 자신이 지닌 것이요
+    산의 뾰쪽한 것은 봉우리라
+    우뚝히 세운 자세는
+    따르자해도 따를 길이 없고
+    독이 아닌데도 감춰지고
+    자랑하지 않아도 빛나는
+    곤강에 맡긴다
+    샘물은 달고 토지는 기름지고
+    옥이 쌓이어 산이 빛나니
+    내 관에 꽂고
+    내 옷에 차고
+    나는 그대와 함께 돌아가련다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 수봉(琇峯) : '
+    value: 여상인(汝上人)의 별호인데 초은(招隱)의 뜻이 있음.
+  - key: '[주-D001] 泫 : '
+    value: 玄
+english:
+  title: Inscription on Suphong
+  author: Kwon Geun
+  language: eng
+  text: |-
+    Radiant stone is called jade-bright.
+    Compared to jade itself in virtue—
+    yet only what one possesses within.
+
+    The sharp peak of a mountain is called a summit.
+    Standing aloft with noble bearing,
+    there is no path by which to follow.
+
+    Without a vessel to hide it,
+    yet it remains concealed.
+    Without boasting of itself,
+    yet it shines forth—
+    entrusted to Kunlun's keeping.
+
+    Sweet springs flow, the earth grows fertile,
+    jades accumulate and the mountain gleams.
+
+    I fasten it to my crown,
+    I wear it at my side.
+    With you, I shall return to that place.
+  footnotes:
+  - key: ''
+    value: Suphong (琇峯) is a pen name of an esteemed hermit, carrying the meaning of retreat from the world and seeking solitude in nature.

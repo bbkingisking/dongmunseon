@@ -1,0 +1,50 @@
+canonical:
+  title: 避寇入城上牧伯金賞
+  author: 權興
+  language: lzh
+  text: 世故終難料人心各不同兢兢常履薄咄咄但書空相鳥猶求友聞蛙似爲公仰天時大笑吾道豈長窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 避寇入城上牧伯金賞
+  author: 權興
+  language: lzh
+  text: 世故終難料。人心各不同。兢兢常履薄。咄咄但書空。相鳥猶求友。聞蛙似爲公。仰天時大笑。吾道豈長窮。
+korean:
+  title: 난리를 피해 성으로 들어와 목백 김상에게
+  author: 권흥
+  language: kor
+  text: |-
+    세상일은 종내 알 수가 없는 것
+    사람의 마음도 각각 다 같지 않데
+    조심스러이 엷은 얼음을 밟듯이 하였고
+    한탄하며 한갓 허공에다 글자를 썼네
+    새를 보니 오히려 벗을 부르고
+    개구리 소리를 들으니 공사를 위하는 것 같도다
+    하늘을 우러러 한 번 크게 웃어 보노니
+    우리의 도가 어찌 길이 궁하랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0470&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한갓 허공에다 글자를 썼네 : '
+    value: 진(晉)나라 은호(殷浩)가 벼슬에서 쫓겨나 있으면서, 종일토록 앉아 허공에다 손으로 돌돌(咄咄)이라고 글자를 썼다. 돌돌은 놀라고 괴이히 여기는 소리다.
+  - key: '[주-D002] 개구리 소리를 들으니 공사(公事)를 위하는 것 같도다 : '
+    value: 진(晉)나라 혜제(惠帝)는 어리석은 임금이므로, 신하들과 동산에 놀다가 개구리의 우는 소리를 듣고는 묻기를, “저 개구리의 우는 것이 관(官 공(公))을 위한 것인가, 사(私)를 위한 것인가.” 하였다.
+english:
+  title: 'Taking Refuge in the City to Escape the Turmoil: Presented to Magistrate Kim Sang'
+  author: Gwon Heung
+  language: eng
+  text: |-
+    The world's affairs defy all prediction,
+    and human hearts beat each to their own measure.
+    I tread as carefully as one crossing thin ice,
+    and write my sighs into empty air.
+
+    A bird calls out seeking a kindred spirit,
+    and hearing frogs croak, I wonder if they too serve the public good.
+    Looking up at heaven, I break into genuine laughter—
+    our path cannot remain straitened forever.
+  footnotes:
+  - key: ''
+    value: The image of writing into empty air alludes to the Jin scholar Yin Hao, who was dismissed from office and spent his days inscribing the exclamation 'tut-tut!' (咄咄) into the void in frustration and bewilderment—a gesture expressing both despair and defiance.
+  - key: ''
+    value: 'The question about the frogs recalls Emperor Hui of Jin, who, being of limited wisdom, once asked his courtiers while watching frogs croak: ''Do these frogs croak for public duty or private gain?'' The allusion plays with the theme of discerning true intention in a corrupted world.'

@@ -1,0 +1,48 @@
+canonical:
+  title: 中秋天王峯不見月
+  author: 金宗直
+  language: lzh
+  text: 抽身簿領陟崔嵬剛被良辰造物猜霧漲寰區八紘海風掀岩嶽萬槌雷勝遊天柱知難繼淸夢瓊臺未擬回時有頑雲蹔成罅誰能取月滿懷來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中秋天王峯不見月
+  author: 金宗直
+  language: lzh
+  text: 抽身簿領陟崔嵬。剛被良辰造物猜。霧漲寰區八紘海。風掀岩嶽萬槌雷。勝遊天柱知難繼。淸夢瓊臺未擬回。時有頑雲蹔成罅。誰能取月滿懷來。
+korean:
+  title: 중추 천왕봉 불견월
+  author: 김종직
+  language: kor
+  text: |-
+    장부 속에서 몸을 빼어 높은 산에 올랐거니
+    좋은 때를 조물의 시기함을 받았다
+    안개가 온 세상 넘치매 팔굉이 바다인데
+    바람은 바위 산을 흔들어 만 방망이의 우레일세
+    천주에서는 좋은 놀이를 계속하기 어려움을 알겠고
+    경대에서는 맑은 꿈이 돌아오기를 생각할 수 없구나
+    마침 흉한 구름이 잠깐 틈을 내었나니
+    누가 능히 저 달을 잡아 가슴 가득히 오려나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0640&viewSync=OT
+  footnotes: []
+english:
+  title: 'Mid-Autumn at Cheonwang Peak: The Moon Unseen'
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    I fled the ledgers of office to climb the towering heights,
+    Yet Heaven's jealousy seized this auspicious night.
+    Mist swells across the world—the eight horizons drowned in sea,
+    While wind shakes the stone mountains with ten thousand thunderclaps' decree.
+
+    From Heaven's Pillar I learn that such glorious wandering must end,
+    From Jade's clear dream no return can I foresee or comprehend.
+    Then briefly the stubborn clouds part, opening a narrow seam—
+    But who has the power to gather the moon into their dream?
+  footnotes:
+  - key: ''
+    value: 'Cheonwang Peak (天王峯): A sacred mountain peak, symbolizing aspiration and transcendence.'
+  - key: ''
+    value: 'Heaven''s Pillar (天柱) and Jade Terrace (瓊臺): Classical references to celestial realms and the dwelling places of immortals, representing the poet''s yearning for escape from worldly concerns.'
+  - key: ''
+    value: 'The eight horizons (八紘): A poetic expression for the vastness of the known world.'

@@ -1,0 +1,50 @@
+canonical:
+  title: 郞官
+  author: 洪侃
+  language: lzh
+  text: 江湖數載漫爲州藍袂西垣又滯留龍尾蛇頭安敢擇牛溲馬渤幸容收空濛柳色層城晚狼籍荷花大液秋物色惱人人不會百年宦海苦沉浮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 郞官
+  author: 洪侃
+  language: lzh
+  text: 江湖數載漫爲州。藍袂西垣又滯留。龍尾蛇頭安敢擇。牛溲馬渤幸容收。空濛柳色層城晚。狼籍荷花大液秋。物色惱人人不會。百年宦海苦沉浮。
+korean:
+  title: 여러 낭관
+  author: 홍간
+  language: kor
+  text: |-
+    여러 해 강호에 나가 고을살이를 하다가
+    남빛 옷깃으로 서원(궁궐의 서쪽에 있는 한림원(翰林院))에 또 와 묵네
+    용의 꼬리니, 뱀의 머리니 감히 어찌 고르리
+    쇠오줌, 말오줌이나마 요행 수용된 것을
+    높은 성 늦은 날씨에 버들빛이 뽀얗고
+    궁 못 가을 바람에 연꽃이 낭자하구나
+    물색이 서글픔을 아는 사람 적으니
+    한평생 벼슬 바다에 뜨락 잠기락 괴로워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0810&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 쇠오줌, 말오줌 : '
+    value: 훌륭한 의원은 옥전(玉箭) 청지(靑芝) 같은 좋은 약이나, 쇠오줌[牛溲]ㆍ말오줌[馬渤]ㆍ떨어진 북가죽[敗鼓之皮] 같은 것을 모두 모아서 병을 치료하는 약으로 쓴다는 뜻이다.
+  - key: '[주-D002] 벼슬 바다[宦海] : '
+    value: 관계(官界)를 환해(宦海)라 하는데, 그것은 풍파(風波)가 많다는 뜻이다.
+english:
+  title: A Court Official
+  author: Hong Gan
+  language: eng
+  text: |-
+    For years I wandered through rivers and lakes, governing distant towns,
+    Then in my blue-bordered robes I returned to the Western Hall, lingering still.
+    The dragon's tail, the serpent's head—who am I to choose between them?
+    Even the oxen's urine and horses' discharge find use as medicine.
+
+    In the evening, pale willows blur against the layered walls of the capital,
+    While autumn wind scatters lotuses across the great palace pond.
+    Few understand the melancholy that beauty brings,
+    Yet a lifetime on the bureaucratic sea means rising and sinking in pain.
+  footnotes:
+  - key: ''
+    value: The 'oxen's urine and horses' discharge' is a classical allusion to how a skilled physician accepts all remedies, however humble, to heal. Here it represents the poet's willingness to serve in any capacity, no matter how lowly.
+  - key: ''
+    value: The 'bureaucratic sea' (宦海) is a traditional metaphor for official service, emphasizing its turbulent, unpredictable nature—one is constantly buffeted by its waves, rising and falling with the tides of fortune.

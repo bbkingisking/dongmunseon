@@ -1,0 +1,29 @@
+canonical:
+  title: 皇太子冊封起居表
+  author: 李齊賢
+  language: lzh
+  text: 昔陪京輦與霑行葦之恩今守海藩願獻蟠桃之筭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 皇太子冊封起居表
+  author: 李齊賢
+  language: lzh
+  text: 昔陪京輦。與霑行葦之恩。今守海藩。願獻蟠桃之筭。
+korean:
+  title: 황태자 책봉 기거 표
+  author: 이제현
+  language: kor
+  text: 앞서 경연(京輦)을 모셨을 때 함께 행위(行葦)의 은덕(恩德)에 젖었삽더니, 지금 해번(海藩)을 지키면서 반도(蟠桃)의 수(壽)를 드리고자 원하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial on the Investiture of the Crown Prince
+  author: Lee Je-hyeon
+  language: eng
+  text: Once I attended upon the royal carriage at court, and basked together in the grace bestowed upon the willow path. Now, guarding the distant shore, I wish to offer the longevity of the peaches of immortality.
+  footnotes:
+  - key: ''
+    value: The 'willow path' (行葦) alludes to the gracious favor shown to courtiers who walked alongside the ruler.
+  - key: ''
+    value: The 'peaches of immortality' (蟠桃) reference the mythical fruit of eternal life, here offered as a poetic gesture of loyalty and wishes for the Crown Prince's long reign.

@@ -1,0 +1,45 @@
+canonical:
+  title: 王文公
+  author: 釋始寧
+  language: lzh
+  text: 一葉秋來起浩然年經年復幾年年那知陌巷搖搖柳元是淤泥濯濯蓮白菊籬邊篁韻碎紫苔庭畔樹陰圓長沙隻眼雖云在一點靈犀露短篇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 王文公
+  author: 釋始寧
+  language: lzh
+  text: 一葉秋來起浩然。年經年復幾年年。那知陌巷搖搖柳。元是淤泥濯濯蓮。白菊籬邊篁韻碎。紫苔庭畔樹陰圓。長沙隻眼雖云在。一點靈犀露短篇。
+korean:
+  title: 앞서 왕문공
+  author: 석시령
+  language: kor
+  text: |-
+    한 잎이 가을 되자 호연한 흥취가 일어나니
+    해 가고 해가 다시 몇몇 해를 지내는고
+    누가 알리, 거리길에 흔들리는 버들가지가
+    본시 진흙 속의 깨끗한 연이었던 것을
+    흰 국화 울타리 옆에 대잎 소리 부서지고
+    자주 이끼 뜰가에 나무 그늘 둥글어라
+    장사의 일척안이 비록 있다 하나
+    일점서 서로 통하여 맘을 짧은 시로 나타내네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 일점서(一點犀) : '
+    value: 두 마음이 서로 비추어 통하는 것을 신령스러운 서각(犀角)이 서로 비추는 데 비유한 것이다.
+english:
+  title: To Master Wang Wenggong
+  author: Seok Sinyeong
+  language: eng
+  text: |-
+    A single leaf falls—autumn arrives and boundless spirit awakens.
+    Years pass into years; how many seasons slip away?
+    Who knew that willows swaying in the roadside lanes
+    were once pure lotus blooms rising from the mud.
+    White chrysanthemums by the fence, bamboo whispers shattered,
+    purple moss in the courtyard, tree shadows grow round.
+    Though Changsha's eye of wisdom may still remain,
+    a single spark of kindred spirits—this brief poem to convey it all.
+  footnotes:
+  - key: ''
+    value: 'Changsha''s eye of wisdom: A reference to profound insight; the poem suggests that despite such clarity of vision, only a moment of spiritual communion can truly be expressed through verse.'

@@ -1,0 +1,46 @@
+canonical:
+  title: 貞烈公畵像贊
+  author: 李詹
+  language: lzh
+  text: 勳閥之胄社稷之臣量弘江海氣燠陽春片言之發人服其信寬政之尙民懷其仁此所以能坐鎭邦國而儀表於薦紳者也遺像凜然丹靑入神我作贊辭永示後人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 貞烈公畵像贊
+  author: 李詹
+  language: lzh
+  text: 勳閥之胄。社稷之臣。量弘江海。氣燠陽春。片言之發。人服其信。寬政之尙。民懷其仁。此所以能坐鎭邦國。而儀表於薦紳者也。遺像凜然。丹靑入神。我作贊辭。永示後人。
+korean:
+  title: 정렬공 화상 찬
+  author: 이첨
+  language: kor
+  text: 공신 집안의 자손이며 나라를 지킨 신하로다. 도량은 강이나 바다처럼 넓었고 기운은 따뜻한 봄과 같이 온화하였다. 한 마디의 말을 꺼내어도 사람은 그 신의에 감복하였고, 관대한 정치를 숭상하여 백성은 그의 사랑을 그리워하였다. 이것은 그가 능히 앉아서 국가를 진정시키며 모든 관료들에 모범이 되는 것이다. 남아 있는 화상 의젓하시며 그린 솜씨도 우수하였다. 나는 찬(贊)의 글을 지어서 영원히 뒤의 사람에게 보이노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Eulogy for the Portrait of Lord Jeongnyeol
+  author: Lee Chaem
+  language: eng
+  text: |-
+    Descended from the line of merit-bearing fathers,
+    a minister who stood guardian of the nation's pillars.
+    His measure broad as rivers and seas,
+    his spirit warm as gentle spring.
+
+    When he spoke but a single word,
+    all men bowed to his truthfulness.
+    Honoring the path of magnanimous rule,
+    the people cherished his benevolence.
+
+    Thus could he sit unmoved, anchoring the realm,
+    becoming a model to all officials and scholars.
+
+    The portrait left behind stands dignified,
+    the brushwork transcendent, touched by divine skill.
+    I compose these words of praise
+    to show eternal posterity his worth.
+  footnotes:
+  - key: ''
+    value: Eulogy (贊, chan) was a classical form of commemorative inscription, often paired with portraits of worthy officials and ancestors to preserve their virtue for future generations.
+  - key: ''
+    value: The metaphors of vast waters and spring warmth are conventional expressions in classical Chinese for virtue and benevolent character.

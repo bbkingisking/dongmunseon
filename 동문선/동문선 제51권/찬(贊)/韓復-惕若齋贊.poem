@@ -1,0 +1,38 @@
+canonical:
+  title: 惕若齋贊
+  author: 韓復
+  language: lzh
+  text: 十目所視十手所指戰兢自持愼終如始對越上帝肅焉嚴只爲賢爲聖之功止乎此而已矣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 惕若齋贊
+  author: 韓復
+  language: lzh
+  text: 十目所視。十手所指。戰兢自持。愼終如始。對越上帝。肅焉嚴只。爲賢爲聖之功。止乎此而已矣。
+korean:
+  title: 척약재 찬
+  author: 한복
+  language: kor
+  text: 열 눈이 보며 열 손이 손가락질한다. 두려워하며 공경하여 스스로 지켜서 끝까지 조심하여 시작할 때와 같이 하라. 언제나 하늘을 대하고 있는 듯 정숙하며 엄격하라. 현인(賢人)이 되며 성인이 되는 공부가 이것뿐이니라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0280&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the Hall of Reverent Vigilance
+  author: Han Bok
+  language: eng
+  text: |-
+    Ten eyes observe, ten fingers point—
+    yet tremble and hold yourself with care,
+    guard your end as you guarded your beginning.
+
+    As if forever in the presence of Heaven,
+    be composed and grave in all things.
+
+    The work of becoming wise, becoming sage—
+    it culminates here and nowhere else.
+  footnotes:
+  - key: ''
+    value: 'The opening alludes to the Analects: ''When ten eyes observe and ten hands point, it is as if one dug into the earth or ascended to the heavens''—suggesting that virtue cannot be hidden from scrutiny.'
+  - key: ''
+    value: '"Tikhyakjae" (惕若齋) literally means "Hall of Reverent Vigilance," suggesting a space devoted to moral cultivation through constant self-awareness.'

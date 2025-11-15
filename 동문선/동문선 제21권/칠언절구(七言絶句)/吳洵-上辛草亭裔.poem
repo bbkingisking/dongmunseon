@@ -1,0 +1,39 @@
+canonical:
+  title: 上辛草亭裔
+  author: 吳洵
+  language: lzh
+  text: 漢江南畔釣魚翁來入紅塵謁相公欲去欲留心未决滿庭黃葉又秋風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上辛草亭裔
+  author: 吳洵
+  language: lzh
+  text: 漢江南畔釣魚翁。來入紅塵謁相公。欲去欲留心未决。滿庭黃葉又秋風。
+korean:
+  title: 상신초정예
+  author: 오순
+  language: kor
+  text: |-
+    한강 남쪽 가에서 고기 낚던 늙은이
+    홍진에 들어와서 상공을 뵈옵니다
+    가고도 싶고 있고도 싶어 결정 짓지 못하나니
+    뜰에 가득한 누른 잎은 또 가을 바람이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: To Shin Chotaeng Yeok
+  author: O Sun
+  language: eng
+  text: |-
+    An old fisherman by the southern banks of the Han River—
+    He enters the dusty world to pay respects to the minister.
+    Yet torn between staying and going, his heart cannot decide,
+    As yellow leaves scatter across the courtyard in the autumn wind.
+  footnotes:
+  - key: ''
+    value: The 'southern banks of the Han River' evokes a life of simplicity and retirement from worldly affairs, a classical ideal in East Asian poetry.
+  - key: ''
+    value: The 'dusty world' (紅塵) is a Buddhist-influenced metaphor for the mundane realm of human desires and attachments.
+  - key: ''
+    value: The minister (相公) represents official power and the social world the fisherman must navigate, creating tension with his former solitary life.

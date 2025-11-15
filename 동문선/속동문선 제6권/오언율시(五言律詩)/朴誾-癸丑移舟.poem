@@ -1,0 +1,50 @@
+canonical:
+  title: 癸丑移舟
+  author: 朴誾
+  language: lzh
+  text: 夜雨鳴篷急朝雲出壑新磨舟石鑿鑿媵客魚鱗鱗敢有乘桴志長懷擊楫人夢中過上院瞥眼失龍津
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 癸丑移舟
+  author: 朴誾
+  language: lzh
+  text: 夜雨鳴篷急。朝雲出壑新。磨舟石鑿鑿。媵客魚鱗鱗。敢有乘桴志。長懷擊楫人。夢中過上院。瞥眼失龍津。
+korean:
+  title: 계축 이주
+  author: 박은
+  language: kor
+  text: |-
+    밤비가 봉창을 급히 치더니
+    골짝을 나오는 아침 구름 새로워라
+    배바닥 부딪는 돌은 착착하고
+    손님을 꾀는 고기는 인린하다
+    감히 떼배 탈 마음을 가졌었고
+    항상 돛대 치는 사람을 생각했다
+    꿈속에서 상원을 지나가나니
+    어느 새 용진을 잃어버렸다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0800&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 감히 떼배 탈 마음을 가졌었고 : '
+    value: 공자는 도(道)가 행하지 아니하면 떼를 타고 가겠다 하였다.
+  - key: '[주-D002] 항상 돛대 치는 사람을 생각했다 : '
+    value: 진(晉)나라의 조적(祖逖)이란 사람이 중국의 북쪽 흉노족에게 함락된 것을 수복하려고 군사를 거느리고 강을 건너갈 때에 배의 돛대를 치며 맹세코 적을 격멸하겠다고 하였다.
+english:
+  title: Setting Boat Afloat in the Year Guichou
+  author: Park Eun
+  language: eng
+  text: |-
+    Night rain strikes the canopy urgent and wild,
+    Morning clouds emerge from the valley fresh and new.
+    Stones scrape the hull with sharp, ceaseless sound,
+    Fish scales shimmer, luring the weary traveler.
+
+    Once I harbored the heart to drift on a raft,
+    And long I contemplated the one who struck his oar in oath.
+    In dreams I passed through the upper temple,
+    Yet in a blink, the Dragon Ford vanished from sight.
+  footnotes:
+  - key: ''
+    value: The reference to the raft echoes Confucius's teaching that if the Way cannot be practiced in the world, one should set adrift upon the waters—suggesting the poet's own disillusionment with worldly affairs.
+  - key: ''
+    value: The image of striking the oar recalls Zu Ti of the Jin dynasty, who vowed to reclaim the northern lands from the Xiongnu, striking his boat's mast in solemn oath as he crossed the river—an emblem of heroic resolve and patriotic fervor.

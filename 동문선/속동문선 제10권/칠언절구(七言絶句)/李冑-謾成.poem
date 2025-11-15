@@ -1,0 +1,37 @@
+canonical:
+  title: 謾成
+  author: 李冑
+  language: lzh
+  text: 老㤼風霜病益頑一簷朝旭坐蒲團隣僧去後門還掩只有山雲過石欄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謾成
+  author: 李冑
+  language: lzh
+  text: 老㤼風霜病益頑。一簷朝旭坐蒲團。隣僧去後門還掩。只有山雲過石欄。
+korean:
+  title: 만성
+  author: 이주
+  language: kor
+  text: |-
+    풍상에 늙은 겁은 병에 더욱 굳어지고
+    한 처마 아침 볓에 포단 위에 앉았어라
+    이웃 중 간 뒤에 문은 도로 닫혔으니
+    다만 메 구름이 돌 난간을 지나치네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0400&viewSync=OT
+  footnotes: []
+english:
+  title: Carelessly Composed
+  author: Lee Ju
+  language: eng
+  text: |-
+    Weathered by frost and time, my stubborn ailments deepen.
+    I sit upon my meditation mat in the morning sun at the eaves.
+    After my neighbor monk departs, the gate closes again behind him.
+    Only mountain clouds drift past the stone balustrade.
+  footnotes:
+  - key: ''
+    value: The poet sits in contemplative solitude, the morning light offering temporary solace to a body worn by age and hardship.
+  - key: ''
+    value: The closing gate symbolizes the poet's increasing isolation and withdrawal from the world, with only nature—the passing clouds—as companionship.

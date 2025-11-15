@@ -1,0 +1,46 @@
+canonical:
+  title: 詩邀河允源郞中
+  author: 李岡
+  language: lzh
+  text: 獨坐成幽興苔深四壁空菰蒲一池雨枕簟滿樓風壺底冰漿冷盤心野果紅此閒閑氣味思與阿兄同
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詩邀河允源郞中
+  author: 李岡
+  language: lzh
+  text: 獨坐成幽興。苔深四壁空。菰蒲一池雨。枕簟滿樓風。壺底冰漿冷。盤心野果紅。此閒閑氣味。思與阿兄同。
+korean:
+  title: 낭중 하윤원을 시로 초청하며
+  author: 이강
+  language: kor
+  text: |-
+    혼자 앉으니 그윽한 흥(興)이 도네
+    텅 빈 집안에 이끼[苔] 깊은데
+    연못에 비 내리니 우거진 고미[菰蒲]
+    다락에 바람 오니 서늘한 베개
+    병 속에는 얼음 같은 수리 있고
+    소반에는 빨간 들 과일이 있도다
+    이 사이의 한가한 멋을
+    그대와 함께 하길 생각하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0970&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem Inviting Councillor Ha Yun-won by the River
+  author: Lee Gang
+  language: eng
+  text: |-
+    Sitting alone, subtle reverie takes hold—
+    moss deepens upon these four barren walls.
+    Rain falls on the rushes and sedge of the pond,
+    wind sweeps through the upper chamber where my pillow rests.
+
+    In the bottle, ice-cold juice awaits,
+    on the wooden tray, wild fruits blush red.
+    This quiet taste of leisure and ease—
+    I wish to share it with you, my friend.
+  footnotes:
+  - key: ''
+    value: The 'river' (河) in the title likely refers to Ha Yun-won's given name and serves as a literary allusion, a common practice in Classical Chinese poetry when addressing someone by their name or title.
+  - key: ''
+    value: '''Ahing'' (阿兄) in the original refers to an elder brother or respected friend—here expressing both affection and respect toward the addressee.'

@@ -1,0 +1,31 @@
+canonical:
+  title: 息影菴硯銘
+  author: 李齊賢
+  language: lzh
+  text: 重而堅得之天滌以新存乎人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 息影菴硯銘
+  author: 李齊賢
+  language: lzh
+  text: 重而堅得之天。滌以新存乎人。
+korean:
+  title: 식영암 연 명
+  author: 이제현
+  language: kor
+  text: 무겁고 단단한 것은 하늘에서 얻은 것이요 씻어서 새롭게 하기는 사람에게 매였다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on the Inkstone of Sikyeong Hermitage
+  author: Lee Jeheun
+  language: eng
+  text: |-
+    Heavy and firm, it comes from Heaven's gift.
+    Washed clean and made new, it dwells in human hands.
+  footnotes:
+  - key: ''
+    value: Sikyeong Hermitage (息影菴) refers to a retreat for scholarly contemplation, suggesting this inkstone belonged to a scholar or artist. The inkstone itself symbolizes the tools of learning and artistic creation.
+  - key: ''
+    value: The inscription contrasts the eternal, unchanging nature of the material (Heaven's creation) with the human capacity to restore and renew it through care and use—a meditation on the relationship between permanence and cultivation.

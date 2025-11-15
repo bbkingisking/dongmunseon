@@ -1,0 +1,51 @@
+canonical:
+  title: 梅亭
+  author: 許琮
+  language: lzh
+  text: 沒馬街頭萬丈埃何曾半點到山隈意堅肯索東皇力色正應敎白帝栽林下雪寒能自適人閒花動免相猜心期後葉調羹實不怕風前玉笛催
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 梅亭
+  author: 許琮
+  language: lzh
+  text: 沒馬街頭萬丈埃。何曾半點到山隈。意堅肯索東皇力。色正應敎白帝栽。林下雪寒能自適。人閒花動免相猜。心期後葉調羹實。不怕風前玉笛催。
+korean:
+  title: 매정
+  author: 허종
+  language: kor
+  text: |-
+    말이 빠지는 거리의 만장이 되는 먼지
+    어찌 일찍이 반점인들 산 모통이에 왔던가
+    뜻이 굳세매 즐겨 동황(봄을 맡은 신)의 힘을 끌어 왔고
+    빛이 바르매 아마 백제를 시켜 심었을 것이다
+    숲 밑에 눈이 차도 스스로 즐거워하고
+    세상의 꽃이 움직여도 시기를 면할 수 있다
+    마음으로 마지막 잎사귀에서 국 맛을 맞추는 열매를 기약하거니
+    바람 앞에서 옥젓대의 재촉을 두려워하지 않는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 빛 …… 것이다 : '
+    value: 여기에 노래한 매화는 흰 매화이다. 그러므로 그 매화가 일찍 핀 것은 봄을 맡는 신을 억지로 먼저 끌어 온 것이나, 빛깔이 흰 것은 백제가 심었기에 그렇게 흰 것이라 하였다. 원래 백제는 가을을 맡은 신이지만 그 백제의 백(白)이라는 것을 이용한 것이다.
+english:
+  title: The Plum Pavilion
+  author: Heo Jong
+  language: eng
+  text: |-
+    Through bustling streets where dust rises ten thousand feet high,
+    How could even a speck ever reach the mountain's remote fold?
+
+    With resolute heart, I summon the Eastern Lord of spring,
+    With pure radiance, perhaps the White God plants me here.
+
+    Beneath the forest eaves, though snow falls keen and cold,
+    I find contentment in solitude;
+    Among the world's flowers that sway and stir,
+    I remain untouched by envy.
+
+    My heart awaits the final leaves—
+    That they may ripen into fruits of perfect flavor,
+    Undaunted by the wind's jade flute, forever calling.
+  footnotes:
+  - key: ''
+    value: The plum tree (梅) celebrated here is white-blossomed. Its early blooming suggests it has drawn forth the Eastern Lord of spring; its white purity is attributed to the White God (白帝), playing on the character 白 (white/pure), though the White God traditionally governs autumn. This wordplay enriches the poem's meditation on the plum's noble character transcending seasonal bounds.

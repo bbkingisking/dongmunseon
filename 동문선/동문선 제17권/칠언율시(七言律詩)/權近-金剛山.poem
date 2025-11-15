@@ -1,0 +1,49 @@
+canonical:
+  title: 金剛山
+  author: 權近
+  language: lzh
+  text: 雪立亭亭千萬峯海雲開出玉芙蓉神光蕩漾滄溟近淑氣蜿蜒造化鍾突兀岡巒臨鳥道淸幽洞壑秘仙蹤東遊便欲凌高頂俯視鴻濛一盪胷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金剛山
+  author: 權近
+  language: lzh
+  text: 雪立亭亭千萬峯。海雲開出玉芙蓉。神光蕩漾滄溟近。淑氣蜿蜒造化鍾。突兀岡巒臨鳥道。淸幽洞壑秘仙蹤。東遊便欲凌高頂。俯視鴻濛一盪胷。
+korean:
+  title: 금강산
+  author: 권근
+  language: kor
+  text: |-
+    눈같이 우뚝우뚝 선 천만 봉우리
+    바닷구름 펼치자 드러나는 옥 연꽃
+    늠실대는 신비한 빛 창해를 닮은 듯
+    굼틀대는 아늑한 기운 조화를 모은 듯
+    오뚝 솟은 산부리는 조도를 굽어보고
+    맑고 깊숙한 골안에는 신선의 자취 감추었네
+    동국에 노는 분들 모두 절정에 올라서
+    우주를 내려다보며 가슴 한 번 씻으려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금강산(金剛山) : '
+    value: 이하 두 수는 작자가 명 태조(明太祖)에게 입조(入朝)했을 때의 응제시(應制詩)이다.
+english:
+  title: Diamond Mountain
+  author: Kwon Geun
+  language: eng
+  text: |-
+    Snow-white peaks stand towering, ten thousand strong,
+    As ocean clouds part, revealing jade lotus flowers.
+    Mystical light dances and shimmers,
+    As if touching the vast sea itself.
+    Gentle currents of blessed air wind and drift,
+    As if gathering all the works of creation.
+    Abrupt ridges loom over the bird's path below,
+    While clear, deep valleys hide the traces of immortals.
+    All who travel through the Eastern realm
+    Must climb to the highest summit,
+    And gazing down upon the cosmos,
+    Wash their hearts clean in that boundless expanse.
+  footnotes:
+  - key: ''
+    value: This poem was composed as a ceremonial verse (應制詩) when the author was presenting himself at court to the Ming emperor.

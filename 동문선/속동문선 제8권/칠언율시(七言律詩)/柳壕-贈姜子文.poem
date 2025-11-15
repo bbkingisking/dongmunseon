@@ -1,0 +1,50 @@
+canonical:
+  title: 贈姜子文
+  author: 柳壕
+  language: lzh
+  text: 歸來彈鋏食無魚可惜生平志未舒身老一官多淡泊家徒四壁有圖書百年富貴終歸盡一世升沉緫是虛是處靑山可埋骨不妨長醉寄樵漁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈姜子文
+  author: 柳壕
+  language: lzh
+  text: 歸來彈鋏食無魚。可惜生平志未舒。身老一官多淡泊。家徒四壁有圖書。百年富貴終歸盡。一世升沉緫是虛。是處靑山可埋骨。不妨長醉寄樵漁。
+korean:
+  title: 증 강자문
+  author: 유호
+  language: kor
+  text: |-
+    돌아가자고 칼을 퉁긴 밥상에 고기없으니
+    가석해라 한 평생에 뜻을 펴지 못했구나
+    몸이 한 벼슬에 늙으매 담박함이 많고
+    집에는 한갓 네 벽에 도서만이 있다
+    백 년의 부귀도 끝내 다함에 돌아가고
+    한 세상의 오름과 잠김은 모두 다 헛것이다
+    이 곳 푸른 산에 뼈를 묻을 만하거니
+    항상 취하여 초어에 붙임이 무방하도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한 세상의 …… 잠김은[升沈] : '
+    value: 이 세상에 올랐다가 잠겼다 한다는 말이다.
+  - key: '[주-D002] 초어(樵漁) : '
+    value: 벼슬을 버리고 나와서 산에서 나무하고 물에서 고기 잡는 데 취미를 붙이겠다는 말이다.
+english:
+  title: A Gift for Gang Ja-mun
+  author: Yu Ho
+  language: eng
+  text: |-
+    I return and pluck the zither, yet the table holds no fish—
+    How sad, a lifetime's aspirations left unfulfilled.
+    My body has grown old in a single small office,
+    where my household owns only bare walls and books.
+
+    A hundred years of riches must finally turn to dust,
+    and a whole life's rises and falls are but empty dreams.
+    These green mountains here are worthy of my bones,
+    so let me dwell in constant drunkenness with the woodcutter and fisher.
+  footnotes:
+  - key: ''
+    value: The reference to 'plucking the zither' alludes to the ancient Chinese tale of Xiang Ji, who played the zither and complained of having no fish to eat—a metaphor for unfulfilled ambitions and meager rewards.
+  - key: ''
+    value: The 'woodcutter and fisher' represent the ideal of withdrawal from official life to live simply in nature, a classical Daoist and literati fantasy of freedom from worldly concerns.

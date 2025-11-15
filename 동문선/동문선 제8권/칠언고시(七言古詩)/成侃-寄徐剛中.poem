@@ -1,0 +1,70 @@
+canonical:
+  title: 寄徐剛中
+  author: 成侃
+  language: lzh
+  text: 早知窮達皆有命舊書自可千回讀冥搜萬古窺鴻濛深淺不同俱可樂我有舊業西山隈家有鄴侯三萬軸人間歲月雙跳丸胡乃區區慕人爵至今山鶴鳴夜闌白雲有意遮舊壑行當與子歸去來十年不復窺門閾策勳玆事知有期夜夢車輪生四角
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄徐剛中
+  author: 成侃
+  language: lzh
+  text: 早知窮達皆有命。舊書自可千回讀。冥搜萬古窺鴻濛。深淺不同俱可樂。我有舊業西山隈。家有鄴侯三萬軸。人間歲月雙跳丸。胡乃區區慕人爵。至今山鶴鳴夜闌。白雲有意遮舊壑。行當與子歸去來。十年不復窺門閾。策勳玆事知有期。夜夢車輪生四角。
+korean:
+  title: 기서강중
+  author: 성간
+  language: kor
+  text: |-
+    궁달이 운명인 줄 일찍 알았더라면
+    옛글을 천 번이나 읽을 것을
+    만고를 깊이 찾아 태고를 엿보니
+    심천이 다를망정 다 즐길 만하구나
+    내 옛 전장은 저 서산 기슭
+    집에 업후 3만 축 책이 있네
+    인간의 세월은 두 탄환이 뛰어 구르듯
+    어찌 구구히 인작을 부러워하리
+    고향에는 지금토록 산 학이 밤늦게 울음 울고
+    흰 구름이 뜻 있어 옛 골짜기 지키고 있네
+    그대와 함께 그리로 돌아가서
+    10년 동안 다시 문턱을 안 나려네
+    책훈(공훈(功勲)을 기록하여 책(策)에 올리는 것) 그 일만은 때가 있으리니
+    어젯밤 수레바퀴가 네모난 것 꿈꿨네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 서강중(徐剛中) : '
+    value: 강중은 서거정(徐居正 1420~1464)의 자(字).
+  - key: '[주-D002] 궁달(窮達)이 …… 것을 : '
+    value: 남조(南朝) 송나라 심유지(沈攸之)가 말하기를, “일찍 곤궁하고 현달(顯達)함이 운명에 달린 것인 줄 알았더라면, 공명을 애써서 구하지 말고 10년 동안 글을 읽지 못한 것이 한(恨)이로다.” 하였다.
+  - key: '[주-D003] 업후(鄴侯) …… 책 : '
+    value: 당(唐)나라 업후(鄴侯) 이필(李泌)이 집에 장서(藏書)가 많았는데, 한퇴지(韓退之)의 시에, “업후의 집에 책이 많아 3만 축을 시렁에 꽂았네.” 하는 글귀가 있다.
+  - key: '[주-D004] 인작(人爵) : '
+    value: 맹자의 말에, “인의충신(人義忠信)은 하늘 벼슬[天爵]이요, 공경대부(公卿大夫)는 사람 벼슬[人爵]이다.” 하였다.
+english:
+  title: A Letter to Xu Gangzhong
+  author: Sung Kan
+  language: eng
+  text: |-
+    If only I had known early that rise and fall are destined,
+    I would have read the ancient texts a thousand times through.
+    Searching deep into ten thousand ages, glimpsing the primordial mist,
+    Shallow and profound both hold their pleasures.
+
+    I have my old lands in the shadow of Western Mountain,
+    And in my house, thirty thousand scrolls like the library of the Prince of Ye.
+    Yet human years slip away like two spinning bullets,
+    Why then should I chase after the honors men grant?
+
+    Even now the mountain crane cries when night grows late,
+    White clouds linger with purpose over ancient valleys.
+    One day I shall return with you to that refuge,
+    And for ten years more not cross the threshold.
+
+    The recording of merit has its destined time—
+    Last night I dreamed the carriage wheels had turned square.
+  footnotes:
+  - key: ''
+    value: 'The Prince of Ye (鄴侯): A reference to Li Mi of the Tang dynasty, known for his vast collection of thirty thousand volumes of books—representing a life devoted to learning rather than worldly advancement.'
+  - key: ''
+    value: 'The mountain crane and white clouds: Traditional symbols of the hermit''s withdrawal from the world and return to nature.'
+  - key: ''
+    value: 'The carriage wheels turned square: A paradoxical dream image suggesting the impossibility or absurdity of seeking worldly success; wheels that are square cannot roll forward.'

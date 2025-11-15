@@ -1,0 +1,64 @@
+canonical:
+  title: 送任萬戶訓赴知世浦
+  author: 許琛
+  language: lzh
+  text: 爛熳春光去路遙羽林初輟紫宸朝韜深虎豹能開闔威重湖山可動搖水府晩烟迷蜃市海門殘雨送鰌潮貂蟬本自兜鍪出努力功名鬢未彫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送任萬戶訓赴知世浦
+  author: 許琛
+  language: lzh
+  text: 爛熳春光去路遙。羽林初輟紫宸朝。韜深虎豹能開闔。威重湖山可動搖。水府晩烟迷蜃市。海門殘雨送鰌潮。貂蟬本自兜鍪出。努力功名鬢未彫。
+korean:
+  title: 송임 만호훈 부지세포
+  author: 허침
+  language: kor
+  text: |-
+    난만한 봄 경치에 가는 길이 멀거니
+    우림에서 처음으로 자신의 조회를 그치었다
+    도략이 깊으매 범과 표범을 열었다 닫았다 하고
+    위엄이 무거우매 강과 산도 흔들 수 있다
+    수부의 늦은 연기는 신시가 아득하고
+    해문의 쇠잔한 비는 추조를 보내리라
+    초선은 본래 투구에서 나오는 것이어니
+    노력하라 공명을 살쩍 시들기 전에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우림(羽林) : '
+    value: 한(漢)나라 무제(武帝) 때에 궁궐을 금위(禁衛)하는 군사를 우림(羽林)이라 하였다.
+  - key: '[주-D002] 자신(紫宸) : '
+    value: 당나라의 조회 받는 궁전의 이름이다.
+  - key: '[주-D003] 범과 …… 닫았다 : '
+    value: 병서에 육도(六韜) 삼략(三略)이 있는데 육도는 용도(龍韜)ㆍ호도(虎韜)ㆍ표도(豹韜) 등이다. 열었다 닫았다는 말은 변화개합(變化開闔)한다는 뜻이다.
+  - key: '[주-D004] 신시(蜃市) : '
+    value: 바다에 신기루(蜃氣樓)가 저자처럼 보이는 것이 있는데, 그것을 신시(蜃市)라 한다.
+  - key: '[주-D005] 추조(鰌潮) : '
+    value: 《산해경(山海經)》에, “바다 미꾸리의 출입하는 것이 조수(潮水)가 된다”는 말이 있다.
+  - key: '[주-D006] 초선(貂蟬)은 …… 것이어니 : '
+    value: 초선(貂蟬)은 임금에게 근시(近侍)하는 관직인 중상시(中常侍)의 관(冠)에 꽃는 것인데, 남북조(南北朝)시대에 주반룡(周盤龍)이 변방에 대장(大將)으로 있다가 불려와서 중상시가 되었다. 임금이 묻기를, “초선이 투구보다 어떤가.” 한즉, 대답하기를, “초선이 투구에서 나왔습니다.” 하였다.
+english:
+  title: Farewell to Task Commander Ren Wanhu Journeying to Zhishi Port
+  author: Heo Chim
+  language: eng
+  text: |-
+    Spring's splendid bloom fades as the journey stretches long,
+    The Imperial Guards now leave the purple palace halls.
+    With tactics deep as tigers and leopards opening and closing their dance,
+    Their authority weighs so heavy that lakes and mountains tremble.
+
+    Late evening mists veil the mirage market of the sea,
+    While rain at the gate sends forth the tide of hidden currents.
+    The marten tassel springs from warrior's helm, not empty air—
+    Strive for glory and renown before your temples silver and decline.
+  footnotes:
+  - key: ''
+    value: The Imperial Guards (羽林) were the palace sentries of the Han court—a reference to distinguished service.
+  - key: ''
+    value: The purple palace halls (紫宸) allude to the great audience halls of Tang, seat of imperial authority.
+  - key: ''
+    value: The image of tigers and leopards opening and closing refers to the military strategies of the Six Secret Teachings, suggesting the commander's mastery of tactical flexibility.
+  - key: ''
+    value: The mirage market (蜃市) and hidden tide (鰌潮) are fantastic visions—the former being mirages over the sea, the latter mythical currents said to be caused by the movement of great eels.
+  - key: ''
+    value: 'The final couplet plays on an exchange between an emperor and his general: when asked if the marten tassel of office was superior to a warrior''s helm, the general replied that the tassel itself came from the helm—suggesting that civil honors are earned through military virtue.'

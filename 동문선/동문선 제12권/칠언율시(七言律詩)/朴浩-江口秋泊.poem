@@ -1,0 +1,47 @@
+canonical:
+  title: 江口秋泊
+  author: 朴浩
+  language: lzh
+  text: 荻花如雪鴈南飛倚棹行人動所思晚浦風微靑靄合霽江雲盡碧天垂雞潮冷濺漁船枕蟹火斜連島寺籬湘瑟未休峯自翠錢生新得夢中詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 江口秋泊
+  author: 朴浩
+  language: lzh
+  text: 荻花如雪鴈南飛。倚棹行人動所思。晚浦風微靑靄合。霽江雲盡碧天垂。雞潮冷濺漁船枕。蟹火斜連島寺籬。湘瑟未休峯自翠。錢生新得夢中詩。
+korean:
+  title: 강구 추박
+  author: 박호
+  language: kor
+  text: |-
+    갈꽃이 눈 같고 기러기는 남으로 나는데
+    돛에 기댄 나그네 시름이 움직이네
+    저녁 개에 바람이 솔솔 퍼런 안개 어울리고
+    갠 강에 구름이 걷어 파란 하늘 드리웠구나
+    새벽 조수가 선뜩 뿌려지네 어선 베개에
+    게 잡는 불은 섬 절에 울타리로 비껴 이었구나
+    상수의 비파 안 끊기고 멧부리가 푸르르니
+    전생이 새로 꿈속의 시를 얻나보다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0900&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 전생(餞生) : '
+    value: 중당(中唐) 시인 전기(錢起). 대력(大歷) 10재자(才子)의 하나. 그가 과거할 때, “상수의 영이 비파를 탐[湘靈鼓瑟].”이란 시제(試題)에 지은 시 끝귀에, “곡이 끝나자 사람은 보이지 않는데, 강위에 두어 봉이 푸르르다[曲終人不見 江上叛峯靑].” 하였는데, 전기가 소시에 길을 가다가 역정(驛亭)에서 자는데, 이 글귀를 외우는 이가 있으므로 문을 열어본 즉 사람은 없었으니 아마 귀신의 글귀였다. 그 뒤에 과거 볼 때에 이 시제(試題)에 글을 짓다가 끝귀에 이 글귀를 써 넣어서 합격하였으므로 신(神)이 도와준 귀라 한다.
+english:
+  title: Autumn Mooring at the River's Mouth
+  author: Park Ho
+  language: eng
+  text: |-
+    Reeds bloom like snow as geese fly southward,
+    A traveler leans upon his boat, stirred by wandering thoughts.
+    Evening mist softens in the gentle breeze,
+    Clouds scatter from the clear river, blue heaven descends.
+    At dawn the tide sprays cold upon the fisherman's pillow,
+    Crab-fire flickers, leaning against the island temple's fence.
+    The Xiang spirit's lute plays on, peaks remain verdant—
+    Some former sage receives new verses born in dreams.
+  footnotes:
+  - key: ''
+    value: The final couplet alludes to the legendary poet Qianqi (錢起) of the Tang Dynasty. According to legend, Qianqi once dreamed of receiving divine verses by the river that later helped him pass the imperial examination. The poem suggests the speaker too may be visited by such inspiration in this sublime landscape.
+  - key: ''
+    value: The Xiang spirit and her lute reference a famous Tang-era examination poem, creating a poetic echo between past and present across the waters.

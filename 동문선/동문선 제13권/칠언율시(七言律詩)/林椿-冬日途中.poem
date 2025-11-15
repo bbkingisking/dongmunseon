@@ -1,0 +1,47 @@
+canonical:
+  title: 冬日途中
+  author: 林椿
+  language: lzh
+  text: 凌晨獨出洛州城幾許長亭與短亭跨馬行衝微雪白擧鞭吟數亂峯靑天邊日落歸心促野外風寒醉面醒寂寞孤村投宿處人家門戶早常扃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冬日途中
+  author: 林椿
+  language: lzh
+  text: 凌晨獨出洛州城。幾許長亭與短亭。跨馬行衝微雪白。擧鞭吟數亂峯靑。天邊日落歸心促。野外風寒醉面醒。寂寞孤村投宿處。人家門戶早常扃。
+korean:
+  title: 겨울날 노상에서
+  author: 임춘
+  language: kor
+  text: |-
+    첫 새벽에 혼자 낙주의 성을 나왔네
+    장정 단정 몇 군데나 지나왔노
+    말께 올라 보슬눈 흰 데를 밟으며 가고
+    채찍 들고 푸른 봉우리들을 읊으며 세어보네
+    하늘 가에 해가 지니 돌아갈 맘 서둘러지고
+    벌판에 바람이 차니 취한 얼굴이 깨는구나
+    적막한 외로운 마을에 하룻밤 묵으려하니
+    집마다 모두 일찍이 문을 잠갔어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0110&viewSync=OT
+  footnotes: []
+english:
+  title: Winter Journey
+  author: Lim Chun
+  language: eng
+  text: |-
+    At dawn's first light, I ride out alone from Luozhou's walls.
+    How many pavilions, both grand and small, dot the road behind me.
+    Mounted on horseback, I tread through the white of gentle snow,
+    Whip in hand, I count and sing the verdant peaks as they pass.
+    As the sun sinks beyond the horizon, my heart quickens to return home,
+    Yet the cold wind sweeping the wilderness sobers my wine-flushed face.
+    In the desolate solitude of a lonely village, I seek a place to rest,
+    But every door, alas, is shuttered fast against the night.
+  footnotes:
+  - key: ''
+    value: Luozhou refers to a historical region, likely in present-day Henan province, representing a point of departure in the poet's journey.
+  - key: ''
+    value: The pavilions mentioned were traditional wayhouses along travel routes in classical China, marking distances and providing rest.
+  - key: ''
+    value: The image of counting peaks while riding suggests both the monotony and meditation of long-distance travel in winter.

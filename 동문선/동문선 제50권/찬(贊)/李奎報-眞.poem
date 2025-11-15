@@ -1,0 +1,73 @@
+canonical:
+  title: 眞
+  author: 李奎報
+  language: lzh
+  text: 髯麤而靡脣厚且赬此何人者似若春卿果是春卿影耶形耶形尙虛妄惟夢之似何况是影夢中夢尒五紀升沉區區一身入幅素中儼然似人寫心雖難微露于眞凡我子孫毋笑予醜但傳其心無忝祖考
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 眞
+  author: 李奎報
+  language: lzh
+  text: 髯麤而靡。脣厚且赬。此何人者。似若春卿。果是春卿。影耶形耶。形尙虛妄。惟夢之似。何况是影。夢中夢尒。五紀升沉。區區一身。入幅素中。儼然似人。寫心雖難。微露于眞。凡我子孫。毋笑予醜。但傳其心。無忝祖考。
+korean:
+  title: 정이안이 나의 진
+  author: 이규보
+  language: kor
+  text: |-
+    수염은 거칠어서 쓸어지고
+    입술은 두텁고 붉네
+    이것이 어떤 사람인가
+    춘경과 같기도 하네
+    과연 이것이 춘경이라면
+    영인가 형인가
+    형은 오히려 허망하여
+    오직 꿈만 같거니
+    더더구나 이것이 영일진대
+    꿈 속의 꿈일 따름이야
+    잠기락 뜨락 오십 년에
+    구구한 한 몸뚱이를
+    한 폭의 비단에 들여 놓으니
+    엄연한 사람도 같으이
+    마음을 그리기란 매우 어렵지만
+    살포시 진영에 드러났네
+    무릇 내 자손은
+    나의 추한 모양 웃지 말고
+    다만 그 마음을 전하면
+    할배께 욕되진 않으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Portrait
+  author: Lee Gyeou-bo
+  language: eng
+  text: |-
+    My beard is coarse and disheveled,
+    my lips thick and ruddy—
+    who is this man in the mirror?
+    He seems to resemble Chun-gyeong.
+    If it is indeed Chun-gyeong,
+    is it shadow or substance?
+    Substance itself is but illusion,
+    no more real than a dream.
+    How much less so is a shadow—
+    a dream within a dream.
+
+    Through fifty years of rising and falling,
+    this humble frame of mine
+    has been set into silk.
+    There I stand, seemingly solid,
+    yet capturing the heart is difficult—
+    only faintly does it show through in the portrait.
+
+    To all my descendants, I say:
+    do not laugh at your ancestor's ugly face.
+    Just pass on this heart of mine,
+    and you will bring no shame to those who came before.
+  footnotes:
+  - key: ''
+    value: Chun-gyeong (춘경) likely refers to the artist's own name or self-reference, suggesting this is a poem about a self-portrait
+  - key: ''
+    value: The phrase 'dream within a dream' echoes Buddhist and Daoist philosophical concepts of the illusory nature of reality prevalent in medieval Korean thought
+  - key: ''
+    value: The 'fifty years' (오십 년) marks a significant life milestone in East Asian tradition, representing maturity and reflection

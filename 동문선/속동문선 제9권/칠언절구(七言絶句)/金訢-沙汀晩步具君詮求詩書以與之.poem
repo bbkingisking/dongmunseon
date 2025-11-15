@@ -1,0 +1,43 @@
+canonical:
+  title: 沙汀晩步具君詮求詩書以與之
+  author: 金訢
+  language: lzh
+  text: 徐步芳洲倚短筇碧波㶑灧蘸晴峯傍山喬木藏村塢閃閃寒鴉帶晩舂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 沙汀晩步具君詮求詩書以與之
+  author: 金訢
+  language: lzh
+  text: 徐步芳洲倚短筇。碧波㶑灧蘸晴峯。傍山喬木藏村塢。閃閃寒鴉帶晩舂。
+korean:
+  title: 사정만보 구군전 구시 서이여지
+  author: 김흔
+  language: kor
+  text: |-
+    꽃다운 물가를 천천히 걷다가 짧은 지팡이를 의지하나니
+    잔잔한 푸른 물결에 파란 봉우리가 잠기었다
+    산 곁의 큰 나무들은 마을 언덕을 감추었는데
+    섬섬한 찬 까마귀는 저녁 절구 소리를 띠었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0890&viewSync=OT
+  footnotes: []
+english:
+  title: 'Evening Walk at Sandy Pavilion: A Poem Composed for Ju Gunju''s Request'
+  author: Kim Heun
+  language: eng
+  text: |-
+    I wander slowly by the flowering shore,
+    Leaning upon my slender staff.
+    The tranquil blue waters embrace
+    The jade peaks reflected in the evening light.
+
+    Tall trees beside the mountain
+    Hide the village and its slopes,
+    While the sharp-eyed crows,
+    Faint and distant, carry the sound of the mortar
+    Into the gathering dusk.
+  footnotes:
+  - key: ''
+    value: The 'mortar' (절구, jeolgu) likely refers to the traditional stone mortar used for grinding grain, whose rhythmic sounds mark the transition into evening—a common image in East Asian poetry signifying the passage of day and the return home.
+  - key: ''
+    value: The 'slender staff' (짧은 지팡이) suggests both physical support for the aged wanderer and the poet's contemplative stance as an observer of nature.

@@ -1,0 +1,49 @@
+canonical:
+  title: 鷺鷥
+  author: 崔匡裕
+  language: lzh
+  text: 煙洲日暖隱蒲叢閑刷霜毛伴釣翁高跡不知舟頂鶴踈情應及紺翎鴻嚴光臺畔蘋花曉范蠡舟邊葦雪風兩處斜陽堪愛爾雙雙零落斷霞中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鷺鷥
+  author: 崔匡裕
+  language: lzh
+  text: 煙洲日暖隱蒲叢。閑刷霜毛伴釣翁。高跡不知舟頂鶴。踈情應及紺翎鴻。嚴光臺畔蘋花曉。范蠡舟邊葦雪風。兩處斜陽堪愛爾。雙雙零落斷霞中。
+korean:
+  title: 노사
+  author: 최광유
+  language: kor
+  text: |-
+    내 낀 강변 따스한 볕에 부들포기에 숨어서
+    서리 같은 털을 털며 어옹을 짝했구나
+    높은 운취는 붉은 이마 학을 제 몰라라
+    한가한 정은 보라빛 날개 기러기만 못지 않네
+    엄광대 옆에 새벽에 핀 마름꽃
+    범려 뱃가에 갈꽃 바람
+    두 곳 석양에 사랑스러운 너
+    쌍쌍이 떨어지누나 끊어진 노을 속에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 엄광대(嚴光臺) : '
+    value: 엄광(嚴光)은 동한(東漢) 사람으로, 자는 자릉(子陵). 젊어서 광무제와 친우였으나 광무가 즉위하자 은거하여 부춘산(富春山)에 돌아가 밭 갈며 낚시질하고 살았다. 그 낚시질하던 대(臺)가 엄광대(嚴光臺)이며 칠리탄(七里灘)에 있다.
+  - key: '[주-D002] 범려(范蠡) : '
+    value: 춘추(春秋) 때 사람인데 월왕(越王)구천(句踐)을 섬겨 오나라를 멸한 공으로 정승이 되었으나 벼슬을 버리고 편주(扁舟)로 오호(五湖)에 떠 가버렸다 한다.
+english:
+  title: The Egret
+  author: Choe Gwang-yu
+  language: eng
+  text: |-
+    On the warm riverside beneath the haze, hidden among the cattails,
+    You groom your frost-like plumage, companion to the angler.
+    Your lofty bearing rivals the red-crowned crane you know not,
+    Your serene spirit matches the purple-winged goose.
+    By Yanguang's pavilion, where smartweed blooms at dawn,
+    Beside Fan Li's boat, reeds dance in the wind.
+    In these two places at dusk, how lovely you are—
+    Pairs falling, scattering into the broken sunset's glow.
+  footnotes:
+  - key: ''
+    value: Yanguang's Pavilion refers to a famous fishing spot on the Fuchun River associated with the recluse Yan Guang of the Eastern Han, who withdrew from court life to live as a fisherman and farmer.
+  - key: ''
+    value: Fan Li alludes to the legendary minister who served the King of Yue and helped defeat Wu, then renounced his position to sail freely on the Five Lakes, representing the idealized life of voluntary retreat from the world.

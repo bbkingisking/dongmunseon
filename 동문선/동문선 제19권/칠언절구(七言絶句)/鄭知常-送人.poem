@@ -1,0 +1,37 @@
+canonical:
+  title: 送人
+  author: 鄭知常
+  language: lzh
+  text: 雨歇長堤草色多送君南浦動悲歌大同江水何時盡別淚年年添綠波
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送人
+  author: 鄭知常
+  language: lzh
+  text: 雨歇長堤草色多。送君南浦動悲歌。大同江水何時盡。別淚年年添綠波。
+korean:
+  title: 송인
+  author: 정지상
+  language: kor
+  text: |-
+    비 갠 긴 언덕엔 풀 빛이 푸르른데
+    남포로 임 보내며 슬픈 노래 울먹이네
+    대동강 물이야 어느 때 마를거나
+    해마다 이별 눈물 강물을 더하는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0450&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off a Traveler
+  author: Jung Jisung
+  language: eng
+  text: |-
+    The rain has cleared on the long embankment where the grass shines green.
+    I send you toward the southern shore, my voice breaking into a sorrowful song.
+    When will the waters of the Daedong River ever run dry?
+    Year after year, my tears of parting swell the waves.
+  footnotes:
+  - key: ''
+    value: The Daedong River (大同江) flows through Pyongyang in present-day North Korea, historically an important site of farewell and separation in Korean poetry.
+  - key: ''
+    value: The 'southern shore' (南浦) refers to a riverside area traditionally associated with partings and journeys in East Asian poetic tradition.

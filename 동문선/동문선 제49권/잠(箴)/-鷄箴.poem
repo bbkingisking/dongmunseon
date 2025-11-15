@@ -1,0 +1,31 @@
+canonical:
+  title: 鷄箴
+  author: 李齊賢
+  language: lzh
+  text: 鳴不廢時鬪不守雌啄糞得肥自速人犧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鷄箴
+  author: 李齊賢
+  language: lzh
+  text: 鳴不廢時。鬪不守雌。啄糞得肥。自速人犧。
+korean:
+  title: 계잠
+  author: 이제현
+  language: kor
+  text: 울기는 시간을 잃지 아니하고 싸울 때는 지지 아니하려 한다. 똥을 쪼아 먹어 살이 쪄서 사람들이 잡아먹게 한다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_030_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Admonition to the Rooster
+  author: Lee Che-hyun
+  language: eng
+  text: |-
+    It crows without missing its time,
+    Fights without yielding its pride.
+    Pecking at filth to grow fat,
+    It hastens its own offering to the blade.
+  footnotes:
+  - key: ''
+    value: This poem is a satirical commentary using the rooster as an allegory for human behavior and folly. The rooster's virtues—punctuality and courage—become instruments of its own demise through gluttony and pride.

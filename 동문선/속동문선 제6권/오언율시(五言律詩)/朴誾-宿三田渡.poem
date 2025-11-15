@@ -1,0 +1,50 @@
+canonical:
+  title: 宿三田渡
+  author: 朴誾
+  language: lzh
+  text: 寓庵初被酒箭串晩乘風白雨時時墮黃花處處同詩篇半行李秋色一蓑翁獨問漁村宿平江月影空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿三田渡
+  author: 朴誾
+  language: lzh
+  text: 寓庵初被酒。箭串晩乘風。白雨時時墮。黃花處處同。詩篇半行李。秋色一蓑翁。獨問漁村宿。平江月影空。
+korean:
+  title: 숙 삼전도
+  author: 박은
+  language: kor
+  text: |-
+    우암에서 처음으로 술에 몹시 취했고
+    전곶에서 저녁에 바람 쐰다
+    흰 빗발은 때때로 떨어지는데
+    누런 꽃은 곳곳이 매한가지다
+    시편은 행리(여행)에 반이나 찼고
+    가을 빛은 외로운 도롱이 늙은이다
+    나 홀로 고기잡이 마을 물어 자노니
+    편편한 강물 위에 달 그림자 비었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0920&viewSync=OT
+  footnotes: []
+english:
+  title: Lodging at Samjeon Ferry
+  author: Park Eun
+  language: eng
+  text: |-
+    At the hermitage, I first surrendered to wine,
+    At the arrow point, evening caught the wind.
+    White rain falls here and there,
+    Yellow flowers bloom the same everywhere.
+
+    Poems fill half my traveling pack,
+    Autumn light robes this solitary old fisherman.
+    Alone I ask the fishing village for shelter—
+    On the flat river, the moon's shadow lies empty.
+  footnotes:
+  - key: ''
+    value: Samjeon Ferry (三田渡) was a historical crossing point on the Han River near Seoul, significant in Korean history.
+  - key: ''
+    value: The 'arrow point' (箭串) likely refers to a specific geographic location or landmark along the poet's journey.
+  - key: ''
+    value: The image of poems filling the traveling pack suggests the poet carries literary pursuits wherever he goes, as a constant companion.
+  - key: ''
+    value: The final couplet captures a moment of solitary reflection, with the empty moon shadow on the water suggesting both beauty and the poet's solitude.

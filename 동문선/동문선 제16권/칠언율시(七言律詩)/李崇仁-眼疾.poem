@@ -1,0 +1,54 @@
+canonical:
+  title: 眼疾
+  author: 李崇仁
+  language: lzh
+  text: 阿堵昏花未易醫彼蒼嗔我好看詩逢人豈作嗣宗白視物眞成老子夷飜覆多時尤有味姸媸擾處竟無知閉門塊坐蒲團上遮莫兒曹笑大癡
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 眼疾
+  author: 李崇仁
+  language: lzh
+  text: 阿堵昏花未易醫。彼蒼嗔我好看詩。逢人豈作嗣宗白。視物眞成老子夷。飜覆多時尤有味。姸媸擾處竟無知。閉門塊坐蒲團上。遮莫兒曹笑大癡。
+korean:
+  title: 안질
+  author: 이숭인
+  language: kor
+  text: |-
+    눈이 아스름 흐려져서 고치기 어려우니
+    시 보기 좋아함을 하늘이 꾸중하나뵈
+    사람 만나 어찌 완적의 흰 자위를 지으리
+    물건 볼 때 정말 노자의 이를 이루네
+    세상에 엎치락 뒤치락 많을 때엔 안 보는 것 더 맛이 있고
+    곱다 못생겼다 떠드는 것을 내야 통 몰라라
+    문 닫고 방석 위에 흙덩인 양 앉았노니
+    아이들 큰 바보라고 웃어대리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0930&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 완적(阮籍)의 흰 자위 : '
+    value: 완적(阮籍 자(嗣宗))이 눈을 흰자위, 푸른 자위로 지을 줄을 알아 맘에 맞는 사람은 푸른 눈[靑眼]으로 대하고 속인이 오면 흰 눈으로 대하였다.
+  - key: '[주-D002] 노자(老子)의 이(夷) : '
+    value: 노자에, “보아도 안 보임을 이(夷)라 이름한다.[視之不見 名曰夷]”는 말이 있다.
+english:
+  title: Eye Ailment
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    My eyes grow dim and clouded—no easy cure.
+    Heaven scolds me for my love of reading verse.
+    When meeting men, I cannot show Wan Chi's knowing gaze,
+    Viewing things, I've truly mastered Laozi's blindness.
+
+    When the world tumbles and turns in endless chaos,
+    Not seeing is the greater taste.
+    Beauty and ugliness debated all around—
+    I understand nothing of their noise.
+
+    I sit behind closed doors upon my meditation mat,
+    A lump of earth, a stone.
+    Let the children laugh and call me a great fool.
+  footnotes:
+  - key: ''
+    value: 'Wan Chi''s knowing gaze: The sage Ruan Ji (阮籍) was known to express his judgment through his eyes—rolling them back to show the whites to those he despised, while fixing them with brightness upon those he respected. The ''white of the eye'' (白眼) became a symbol of cold disdain.'
+  - key: ''
+    value: 'Laozi''s blindness: A reference to the Daodejing: ''When you look at it, you cannot see it; this is called yi (夷), the imperceptible.'' The text suggests that true vision lies in not-seeing, in transcending the distinctions of ordinary perception.'

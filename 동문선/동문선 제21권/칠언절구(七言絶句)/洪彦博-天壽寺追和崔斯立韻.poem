@@ -1,0 +1,49 @@
+canonical:
+  title: 天壽寺追和崔斯立韻
+  author: 洪彦博
+  language: lzh
+  text: 溪深柳密乳鴉飛滿路淸陰信馬歸畢竟功名將底用回頭五十二年非投壺圍坐箭輕飛淸興時時醉欲歸來往共君成二老人生此樂未爲非
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 天壽寺追和崔斯立韻
+  author: 洪彦博
+  language: lzh
+  text: 溪深柳密乳鴉飛。滿路淸陰信馬歸。畢竟功名將底用。回頭五十二年非。投壺圍坐箭輕飛。淸興時時醉欲歸。來往共君成二老。人生此樂未爲非。
+korean:
+  title: 천수사추화최사립운
+  author: 홍언박
+  language: kor
+  text: |-
+    시내는 깊고 버들은 빽빽한데 새끼 가진 갈가마귀 날으나니
+    길에 가득한 맑은 그늘 속을 말을 타고 돌아온다
+    필경 공명은 무엇에 쓰는 것인가
+    머리 돌리매 오십 이년을 그르치었네
+    둘러앉아 투호 높이에 화살이 가벼이 난다
+    맑은 흥은 때때로 취해 돌아오려 하네
+    그대와 함께 왕래하면서 두 늙은이 되었나니
+    인생의 이 즐거움 그르다 할 것 없다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: Following the Rhyme of Choe Sa-rip at Cheonsu Temple
+  author: Hong Eon-bak
+  language: eng
+  text: |-
+    Deep runs the stream, thick grow the willows, and mother crows take flight.
+    The shaded path lies green before us as we turn our horses homeward.
+    What use, after all, are fame and fortune?
+    Looking back, fifty-two years have slipped away.
+    Circled together we play at pitching arrows, light they fly.
+    Clear spirits stir in us, growing drunk on the desire to depart.
+    Wandering here and there beside you, we have grown into two old men.
+    This joy of living—there is nothing wrong with it.
+  footnotes:
+  - key: ''
+    value: The title indicates this is a poem written in response to another poem by Choe Sa-rip, following the same rhyme scheme. This was a common poetic practice in Classical Chinese and Korean literary circles.
+  - key: ''
+    value: The reference to 'fifty-two years' is a personal reflection by the poet on the passage of time and his own aging.
+  - key: ''
+    value: Touhu (投壺) was an ancient Chinese game of skill where players attempted to toss arrows into a pot from a distance, often played by scholars during leisure.
+  - key: ''
+    value: The poem contrasts worldly ambitions with the simple pleasures of friendship, nature, and old age—a common theme in East Asian literati culture.

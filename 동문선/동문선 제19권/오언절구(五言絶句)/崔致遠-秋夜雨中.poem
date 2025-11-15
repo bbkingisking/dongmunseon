@@ -1,0 +1,37 @@
+canonical:
+  title: 秋夜雨中
+  author: 崔致遠
+  language: lzh
+  text: 秋風唯苦吟擧世少知音䆫外三更雨燈前萬里心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋夜雨中
+  author: 崔致遠
+  language: lzh
+  text: 秋風唯苦吟。擧世少知音。䆫外三更雨。燈前萬里心。
+korean:
+  title: 추야 우중
+  author: 최치원
+  language: kor
+  text: |-
+    가을바람에 처량한 이 읊조림만
+    온 세상에 지음 적네
+    창 밖에는 삼경의 비가 오는데
+    등불 앞에 아물아물 만리의 마음이여
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0020&viewSync=OT
+  footnotes: []
+english:
+  title: Autumn Rain in the Night
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Autumn wind, and only my mournful song remains.
+    The world has few who understand such notes.
+    Beyond the window, rain falls at the third watch,
+    And before the lamp, my heart stretches ten thousand miles away.
+  footnotes:
+  - key: ''
+    value: The 'third watch' (삼경) refers to the late hours of night in traditional timekeeping, evoking the poet's solitude in darkness.
+  - key: ''
+    value: The image of the heart stretching 'ten thousand miles' suggests both physical and spiritual distance—perhaps longing for an absent companion or spiritual kinship.

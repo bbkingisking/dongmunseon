@@ -1,0 +1,37 @@
+canonical:
+  title: 送式無外上人乘舟如上國
+  author: 權漢功
+  language: lzh
+  text: 滄海西頭天一涯片帆高掛欲何之與師相識渾無賴又作春風送別詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送式無外上人乘舟如上國
+  author: 權漢功
+  language: lzh
+  text: 滄海西頭天一涯。片帆高掛欲何之。與師相識渾無賴。又作春風送別詩。
+korean:
+  title: 송식무외상인승주여상국
+  author: 권한공
+  language: kor
+  text: |-
+    넓은 바다 서쪽의 하늘 한 끝에
+    조각돛 높이 달고 어디로 가려는가
+    스승님과 서로 안 것이 부질없어라
+    봄바람에 송별시를 또 짓게 되었구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0870&viewSync=OT
+  footnotes: []
+english:
+  title: Seeing Off Monk Sikmu on His Boat Journey to the Upper Land
+  author: Gwon Han-gong
+  language: eng
+  text: |-
+    At the western edge of the vast sea, where heaven meets the horizon,
+    A single sail is hoisted high—but where does it sail?
+    Our meeting with the master proves to be of no account,
+    And I find myself composing yet another farewell poem in the spring wind.
+  footnotes:
+  - key: ''
+    value: '''Upper Land'' (상국) likely refers to China, representing a spiritual or literary pilgrimage'
+  - key: ''
+    value: The poem reflects on the transience of meetings and the recurring nature of partings among literati and Buddhist monks

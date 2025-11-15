@@ -1,0 +1,48 @@
+canonical:
+  title: 南堤柳崔校勘韻
+  author: 崔滋
+  language: lzh
+  text: 南堤一株柳濯濯秀風標毒虺藏空腹嬌鶯弄細腰歲寒無勁節春暖有長條但問材何用休論百尺喬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 南堤柳崔校勘韻
+  author: 崔滋
+  language: lzh
+  text: 南堤一株柳。濯濯秀風標。毒虺藏空腹。嬌鶯弄細腰。歲寒無勁節。春暖有長條。但問材何用。休論百尺喬。
+korean:
+  title: 최교감 시의 운을 따라 남제의 버들을 노래하다
+  author: 최자
+  language: kor
+  text: |-
+    남쪽 언덕의 한 그루 버드나무
+    빼어난 그 풍격이 날씬도 하이
+    빈 배엔 독사가 숨겨 있지만
+    가는 허리엔 꾀꼬리 아양 피네
+    추운 겨울 굳센 절개는 없고
+    따뜻한 봄날 긴 가지가 늘어지네
+    다만 묻노라, 그 재목 어디다 쓸꼬
+    백척의 교목인들 무엇하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0630&viewSync=OT
+  footnotes: []
+english:
+  title: On the Willows of the South Embankment, Following the Rhyme of Master Choe's Verse
+  author: Choe Ja
+  language: eng
+  text: |-
+    A single willow on the southern embankment—
+    its slender grace sways elegant in the wind.
+    Though a poisonous viper coils within its hollow,
+    a coy oriole dances upon its delicate frame.
+
+    In winter's chill, it holds no steadfast virtue,
+    yet in spring's warmth, its long branches droop and flow.
+    I ask but this: what timber serves its purpose?
+    What good is a hundred-cubit tree of such crooked pride?
+  footnotes:
+  - key: ''
+    value: The viper and oriole represent hidden dangers and superficial beauty, suggesting the willow's moral ambiguity—beautiful but lacking integrity.
+  - key: ''
+    value: The contrast between winter (virtue/steadfastness) and spring (weakness/indulgence) emphasizes the willow's failure to maintain noble principles.
+  - key: ''
+    value: The final rhetorical questions question the willow's ultimate value and usefulness, reflecting on the tension between aesthetic beauty and practical worth.

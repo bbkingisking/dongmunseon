@@ -1,0 +1,48 @@
+canonical:
+  title: 和耀德鎭住華亭諸都統留題
+  author: 林惟正
+  language: lzh
+  text: 問柳尋花到野亭杜甫 銅壺漏刻過三更盧延讓 淸風明月本無價永叔 綠水靑山倍有情陳純益 唯以琴樽住佳客永叔 莫敎絃管作離聲永叔 武陵不與人間隔 胡藏之 岸有桃花錦浪生李白
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和耀德鎭住華亭諸都統留題
+  author: 林惟正
+  language: lzh
+  text: 問柳尋花到野亭。杜甫。 銅壺漏刻過三更。盧延讓。 淸風明月本無價。永叔。 綠水靑山倍有情。陳純益。 唯以琴樽住佳客。永叔。 莫敎絃管作離聲。永叔。 武陵不與人間隔。 胡藏之。 岸有桃花錦浪生。李白。
+korean:
+  title: 요덕진 주화정에서 여러 도통들의 유제에 화답하며
+  author: 임유정
+  language: kor
+  text: |-
+    버들 묻고 꽃을 찾아 들정자에 이르니 두보(杜甫)
+    구리병의 누각이 삼경을 지났구나 노정양(盧廷讓)
+    맑은 바람 밝은 달은 본래 값 없는 것 영숙(永叔)
+    파란 물 푸른 산은 배나 정 있구나 진순익(陳純益)
+    거문고와 술병으로 반가운 손을랑 만류하라 영숙
+    피리랑 비파랑으로 이별곡은 아뢰지 마소 영숙
+    무릉이 인간과 그리 멀지 않은 듯 호장지(胡藏之)
+    언덕에 복사꽃 있어 비단물결 생기네 이백(李白)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0590&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Verses Left by Various Generals at Yao De's Residence at Huating
+  author: Lim Wi-jeong
+  language: eng
+  text: |-
+    Seeking willows and finding flowers, we arrive at the pavilion in the fields—
+    After Du Fu, the copper water-clock marks the passage past the third watch of night—
+    After Bu Yanrang, clear wind and bright moon have no price by nature—
+    After Yongshuk, blue waters and green mountains hold ever more feeling—
+    After Chen Chunyi, only with zither and wine cup do we entertain our cherished guests—
+    After Yongshuk, let not the strings and pipes sound notes of parting—
+    After Yongshuk, the realm of Wuling seems not so distant from the world of men—
+    After Hu Cangzhi, peach blossoms bloom on the banks, brocaded waves arise—
+    After Li Bai.
+  footnotes:
+  - key: ''
+    value: This is a poetic response poem (和詩) where each line builds upon classical allusions and poetic fragments, likely from inscriptions left by visiting officials. The attribution to classical poets after each couplet indicates the source of inspiration rather than direct quotation.
+  - key: ''
+    value: The third watch of night (三更) refers to approximately 11 PM to 1 AM in traditional Chinese timekeeping, suggesting a gathering that extended into the late hours.
+  - key: ''
+    value: Wuling (武陵) refers to the legendary paradise described in Tao Yuanming's 'Peach Blossom Spring,' symbolizing an idealized refuge from the mundane world.

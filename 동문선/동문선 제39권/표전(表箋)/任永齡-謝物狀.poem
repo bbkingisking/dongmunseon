@@ -1,0 +1,29 @@
+canonical:
+  title: 謝物狀
+  author: 任永齡
+  language: lzh
+  text: 使星忽降睿澤橫流實惟上國之珍奇波及小邦之僻陋維其多矣過承露湑之私何以報之但祝山呼之歲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝物狀
+  author: 任永齡
+  language: lzh
+  text: 使星忽降。睿澤橫流。實惟上國之珍奇。波及小邦之僻陋。維其多矣。過承露湑之私。何以報之。但祝山呼之歲。
+korean:
+  title: 예물을 감사하는 글
+  author: 임영령
+  language: kor
+  text: 사성(使星)이 문득 내려와 황제의 혜택이 넘쳐 흘러서 상국(上國)의 진기한 보배가 구석진 소방(小邦)에까지 파급되었나이다. 물품도 많을사, 지나치게 성은(聖恩)을 받자왔사오니, 무엇으로 갚으리까. 다만 산호(山呼)의 만세를 축원하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0420_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 산호 …… 축원하나이다 : '
+    value: 한 무제(漢武帝)가 숭산(嵩山)에 올라갔더니 산에서 만세를 세 번 부르는 소리가 들렸다 한다.
+english:
+  title: A Letter of Gratitude for Gifts
+  author: Im Yeong-ryeong
+  language: eng
+  text: The imperial envoy has descended from on high, and the Emperor's benevolence flows boundlessly forth. The precious rarities of the great nation have reached even to the remote corners of our small realm. How abundant are these gifts! Having received such excessive grace, how can we ever repay it? We can only offer our wish that ten thousand years of prosperity echo across the mountains.
+  footnotes:
+  - key: ''
+    value: The 'mountain cry' (山呼) refers to a legendary tale in which the people of a region spontaneously cry out in unison to bless their ruler, as when the mountains themselves seemed to voice 'ten thousand years' during an ancient emperor's reign. It represents the people's heartfelt devotion and blessing.

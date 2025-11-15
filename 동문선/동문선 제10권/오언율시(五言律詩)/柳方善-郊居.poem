@@ -1,0 +1,45 @@
+canonical:
+  title: 郊居
+  author: 柳方善
+  language: lzh
+  text: 郊居近市閻偃仰樂無厭竹靜微風過花香細雨霑買魚尋晚艇賖酒向春帘盡日跫音少靑山自滿簾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 郊居
+  author: 柳方善
+  language: lzh
+  text: 郊居近市閻。偃仰樂無厭。竹靜微風過。花香細雨霑。買魚尋晚艇。賖酒向春帘。盡日跫音少。靑山自滿簾。
+korean:
+  title: 교거
+  author: 유방선
+  language: kor
+  text: |-
+    도시 가까운 교외에 살면서
+    누웠다 일어났다 즐거움이 그지없네
+    대숲은 고요한데 가는 바람 지나가고
+    꽃이 향기로우매 보슬비 젖어 있네
+    고기를 사려 느지막하게 낚시배를 찾고
+    술을 받으러 봄 주막에 가네
+    온종일 찾는 이도 없이
+    푸른 산만 절로 발에 가득하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0910&viewSync=OT
+  footnotes: []
+english:
+  title: Suburban Dwelling
+  author: Yu Bang-seon
+  language: eng
+  text: |-
+    Living in the countryside near the bustling market,
+    Reclining and rising, my joy knows no end.
+    The bamboo grove stands silent as a gentle breeze passes through,
+    Flowers breathe their fragrance as fine rain falls and clings.
+    I seek the fishing boats at evening to buy fresh fish,
+    And go to the spring tavern to purchase wine on credit.
+    All day long, few footsteps disturb this place—
+    Only the green mountains fill my eyes and rest upon my heart.
+  footnotes:
+  - key: ''
+    value: The contrast between proximity to the market ('閻', a commercial district) and the peaceful escape of suburban life suggests a retreat from urban society while maintaining access to its conveniences.
+  - key: ''
+    value: The final image of green mountains filling one's vision and resting upon one's heart conveys both literal and spiritual fulfillment—a common theme in East Asian nature poetry representing harmony between self and landscape.

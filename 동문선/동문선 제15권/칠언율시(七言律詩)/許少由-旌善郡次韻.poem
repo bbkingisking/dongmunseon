@@ -1,0 +1,51 @@
+canonical:
+  title: 旌善郡次韻
+  author: 許少由
+  language: lzh
+  text: 地僻誰能取次行驅馳倂日得江城犬牙當路高丹遠娥黛浮空太白橫冷淡爲歡違俗尙優游自適是眞情土墝賦重流亡遍忍見家抽石蜜淸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 旌善郡次韻
+  author: 許少由
+  language: lzh
+  text: 地僻誰能取次行。驅馳倂日得江城。犬牙當路高丹遠。娥黛浮空太白橫。冷淡爲歡違俗尙。優游自適是眞情。土墝賦重流亡遍。忍見家抽石蜜淸。
+korean:
+  title: 정선군 차운
+  author: 허소유
+  language: kor
+  text: |-
+    궁벽한 땅에 뉘 능히 다닐쏜가
+    며칠 달려서 겨우 이 강성에 왔네
+    개 이빨마냥 뻗친 길을 고단역(춘천(春川))이 얼마인고
+    미인 눈썹 공중에 뜬 듯 태백산이 비꼈네
+    냉담으로 기쁨 삼으니 시속과는 어긋나나
+    한가롭게 자적함이 이 나의 진정이네
+    박토에 세는 무거워 살길 없는 백성들
+    집집이 산벌 꿀 짜는 걸 차마 눈으론 못 보리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0910&viewSync=OT
+  footnotes: []
+english:
+  title: Matching Rhymes at Jungseon County
+  author: Heo So-yu
+  language: eng
+  text: |-
+    Who could venture on such a desolate path?
+    After days of hard riding, I barely reach this river town.
+    The jagged peaks like dogs' teeth stretch far away—
+    how distant is Godan Ridge?
+    A beauty's eyebrows floating in the void,
+    White Peak gleams across the sky.
+    I find joy in coldness, departing from worldly tastes,
+    and leisurely contentment—this is my true heart.
+    On barren soil the tax burden falls heavy,
+    and wandering people scatter everywhere.
+    I cannot bear to watch each household
+    squeezing the last drop of honey from their stones.
+  footnotes:
+  - key: ''
+    value: 'Godan Ridge (고단역/高丹遠): A mountain pass in the Chuncheon region, representing the rugged terrain between isolated lands.'
+  - key: ''
+    value: 'White Peak (태백산): A sacred mountain in Korea, often symbolizing spiritual elevation and natural grandeur.'
+  - key: ''
+    value: The final image of 'squeezing honey from stones' is a metaphor for the people's desperate struggle to survive under harsh taxation on unproductive land.

@@ -1,0 +1,38 @@
+canonical:
+  title: 東北面兵馬屬官賀新帥狀
+  author: 金克己
+  language: lzh
+  text: 伏審趨高帝之蓂陛親奉命綸踐亞夫之柳營肇嚴戎律凡有聞知孰無欣躍恭惟元帥相公學際天人才兼將相珠幢玉節才分閫以出邊毳幕韋韝已望風而避境某叨將庸鄙幸託庇庥欣頌寔深述宣奚旣謹具狀陳聞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東北面兵馬屬官賀新帥狀
+  author: 金克己
+  language: lzh
+  text: 伏審趨高帝之蓂陛。親奉命綸。踐亞夫之柳營。肇嚴戎律。凡有聞知。孰無欣躍。恭惟元帥相公。學際天人。才兼將相。珠幢玉節。才分閫以出邊。毳幕韋韝。已望風而避境。某叨將庸鄙。幸託庇庥。欣頌寔深。述宣奚旣。謹具狀陳聞。
+korean:
+  title: 동북면병마속관 하 신수 장
+  author: 김극기
+  language: kor
+  text: 엎드려 살피건대, 고제(高帝)의 명폐(蓂陛)에 나아가 친히 임명장을 받들고, 주아부(周亞夫)의 유영(柳營)에 앉아서 비로소 군율(軍律)을 엄숙히 하고 계시다니, 무릇 듣고 아는 사람이면 누구나 좋아서 뛰지 않겠습니까. 삼가 생각건대, 원수(元帥) 상공께서는 천(天)ㆍ인(人)의 학을 궁구하시고 장(將)ㆍ상(相)의 재주를 겸하시어 주당(珠幢)과 옥절(玉節)로 비로소 임금의 근심[閫憂]을 분담하여, 변방으로 나감에 취막(毳幕 오랑캐)과 위구(韋韝 오랑캐)는 이미 소문을 듣고 멀리 피했습니다. 모(某)는 용렬하고 비루한 몸으로써, 비호하고 덮어주는 그늘에 의탁하게 되었으니, 진실로 즐거움이 깊음을 어찌 말로 다 아뢰리이까마는 삼가 하장(賀狀)을 갖추어 아룁니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고제(高帝)의 명폐(蓂陛) : '
+    value: 《죽서기년(竹書記年)》 제요도당씨(帝堯陶唐氏) 편에, “명협(蓂莢)이란 서초(瑞草)가 뜰 아래 나서 매월 초하루부터 잎이 하루 하나씩 돋아 보름이면 열 다섯 잎이 되고, 보름 이후에는 잎이 하루 하나씩 떨어져서 그믐이 되면 다 떨어지는데, 만약 그 달이 작으면 잎 하나가 말라붙어 떨어지지 아니하였다. 그래서 그로써 초하루 보름을 알게 되었다.” 하였다.
+  - key: '[주-D002] 주아부(周亞夫)의 유영(柳營) : '
+    value: 세류(細柳)는 땅 이름이다. 《사기(史記)》 강후세가(降侯世家)에, “주아부를 장군으로 삼아 세류(細柳)에 주둔하게 하였다.” 했으므로 유영이라 칭한다.
+english:
+  title: Congratulatory Statement to the New Commander of the Northeastern Military Administration
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    I humbly observe that you have ascended to the hall of the High Emperor, received the imperial mandate in person, and taken your seat in the camp of discipline—thus establishing martial law with utmost rigor. All who hear of this cannot but rejoice and leap with gladness.
+
+    I respectfully contemplate that you, our Commander-in-Chief, have cultivated learning that bridges heaven and earth, and possess talents befitting both general and minister. Bearing the pearl pennants and jade insignia of office, you shoulder the sovereign's concerns beyond the frontier. The barbarian hosts, hearing of your renown, have already retreated far beyond the borders.
+
+    I, though but a humble and unworthy officer, find myself sheltered beneath your grace. My joy runs deep indeed—far too deep for words to convey. Yet I reverently present this statement of congratulations.
+  footnotes:
+  - key: ''
+    value: The 'hall of the High Emperor' alludes to the legendary sage-king Yao and references auspicious governance marked by the blooming of the Mingshu plant, whose leaves grew and fell with the calendar—a sign of virtue in rulership.
+  - key: ''
+    value: The 'camp of discipline' refers to the famous encampment at Xiliu, where the Han general Zhou Ya-fu maintained such strict military order that even the emperor's entourage could not pass without permission—the exemplar of martial excellence and proper command.

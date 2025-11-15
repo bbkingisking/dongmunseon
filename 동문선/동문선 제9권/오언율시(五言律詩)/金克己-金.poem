@@ -1,0 +1,46 @@
+canonical:
+  title: 金
+  author: 金克己
+  language: lzh
+  text: 前途餘幾里晚色漸微茫天外北風黑地中西日黃婦人能走馬童子解騎羊一曲梅花落聲聲斷客膓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金
+  author: 金克己
+  language: lzh
+  text: 前途餘幾里。晚色漸微茫。天外北風黑。地中西日黃。婦人能走馬。童子解騎羊。一曲梅花落。聲聲斷客膓。
+korean:
+  title: 금
+  author: 김극기
+  language: kor
+  text: |-
+    앞 길이 몇 리나 남았노
+    저녁 빛이 차츰 어스름한데
+    하늘 저편은 북풍이 불어 시커멓고
+    땅에는 서쪽 해가 넘어가며 노랗네
+    여인들도 제법 말을 달리누나
+    어린애들이 양 탈 줄을 알고
+    저 피리는 낙매화곡(落梅花曲)이 아닌가
+    닐니리 닐니리 소리 나그네 애를 끊는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: Gold
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    How many miles remain on the road ahead?
+    The twilight deepens into dimness—
+    Beyond the heavens, north wind turns the sky black,
+    While in the west, the setting sun burns gold.
+
+    The women ride their horses with such grace,
+    The children know well how to mount the sheep.
+    That melody—is it not "Falling Plum Blossoms"?
+    Each note, each note severs the wanderer's heart.
+  footnotes:
+  - key: ''
+    value: '"Falling Plum Blossoms" (落梅花曲) is a traditional Chinese tune often played on the flute, associated with melancholy and parting.'
+  - key: ''
+    value: The poem employs the traditional motif of the traveler on an evening journey, using natural imagery and distant music to evoke the ache of separation and homesickness.

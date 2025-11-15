@@ -1,0 +1,48 @@
+canonical:
+  title: 贈孫斯慶進士
+  author: 郭㻒
+  language: lzh
+  text: 愁來却恨作書生知有孫公共此情事業渾歸管城子功名不識孔方兄樽前好語菊花發樓上新詩山色晴杖屨莫辭來數數文書滿眼小窓明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈孫斯慶進士
+  author: 郭㻒
+  language: lzh
+  text: 愁來却恨作書生。知有孫公共此情。事業渾歸管城子。功名不識孔方兄。樽前好語菊花發。樓上新詩山色晴。杖屨莫辭來數數。文書滿眼小窓明。
+korean:
+  title: 증 손사경 진사
+  author: 곽균
+  language: kor
+  text: |-
+    시름겨운 때 서생된 것을 한하노니
+    손군 그대는 이 마음 알 줄 아네
+    사업은 오로지 관성자(붓[筆])에게 맡기고
+    공명은 내사 공방형을 몰라라
+    술잔 들고 이야기하니 국화도 때맞추어 피고
+    다락에 올라 시 읊으니 산빛이 갰구나
+    지팡이 짚고 자주 찾아와 주소
+    글이 눈에 가득해도 작은 창이 밝으이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 공방형(孔方兄) : '
+    value: 돈을 익살스럽게 표현한 말. 돈이 둥글고 가운데 모난 구멍이 있으므로 의인(擬人)하여 공방(孔方)이라 함. “세상 사람들이 형처럼 친한 자를 공방이라 했다.”는 구절이 진(晉)나라 노포의 〈전신론(錢神論)〉에 있다.
+english:
+  title: Gift Poem for Sun Sa-gyeong, the Jinsa Scholar
+  author: Gwak Gyun
+  language: eng
+  text: |-
+    When sorrow weighs upon my heart, I rue becoming a scholar.
+    Yet you, Sun-gun, understand this melancholy we share.
+    All enterprise entrusted to the brush—that humble servant of words,
+    While fame and fortune? I've never courted that hollow brother.
+
+    Before the wine cup, our words flow free as chrysanthemums bloom in season,
+    And from the tower, new verses sing as mountain colors clear.
+    Come often with your walking stick, spare no moment's hesitation,
+    For papers fill my weary eyes, yet still your window glows.
+  footnotes:
+  - key: ''
+    value: '孔方兄 (Kong Fang-xiong, literally ''Brother Square Hollow''): A playful classical metaphor for money, derived from the shape of ancient Chinese coins which are round with a square hole in the center. The reference alludes to Luo Pu''s ''Discourse on the Money God'' from the Jin dynasty.'
+  - key: ''
+    value: The poem contrasts the speaker's dedication to literary pursuits (represented by the brush and writing) with worldly concerns of wealth and status, celebrating a kindred spirit who shares this artistic commitment.

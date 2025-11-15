@@ -1,0 +1,39 @@
+canonical:
+  title: 智異山庵醉後有作
+  author: 釋無名
+  language: lzh
+  text: 求名求利不如閑屛跡烟霞二五閒好事何人來勸酒袈裟半濕愧靑山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 智異山庵醉後有作
+  author: 釋無名
+  language: lzh
+  text: 求名求利不如閑。屛跡烟霞二五閒。好事何人來勸酒。袈裟半濕愧靑山。
+korean:
+  title: 지리산암취후유작
+  author: 석무명
+  language: kor
+  text: |-
+    이름과 이익을 구하는 것은 한가함만 못하거니
+    구름과 안개 속에 자취를 감춘 지 25년이었네
+    일을 좋아하는 어떤 사람이 와서 내게 술을 권하여
+    가사가 반쯤 젖었으니 푸른 산이 부끄럽다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1240&viewSync=OT
+  footnotes: []
+english:
+  title: Composed While Drunk at a Hermitage on Jiri Mountain
+  author: Seok Mumyeong
+  language: eng
+  text: |-
+    To seek fame and fortune—how inferior to idleness.
+    For twenty-five years I've hidden my traces among clouds and mist.
+    Who comes to tempt me with wine and friendly counsel?
+    My robe dampened with drink—I shame the green mountain.
+  footnotes:
+  - key: ''
+    value: Jiri Mountain (智異山) is one of Korea's most sacred peaks, traditionally a place of Buddhist monasteries and hermitages.
+  - key: ''
+    value: The 'twenty-five years' suggests a long retreat from worldly affairs; the number may also carry numerological significance in Buddhist practice.
+  - key: ''
+    value: The dampened robe (袈裟) refers to the monk's vestments soaked with wine, creating an ironic tension between religious discipline and human weakness that becomes the poem's emotional center.

@@ -1,0 +1,43 @@
+canonical:
+  title: 寄遠
+  author: 高兆基
+  language: lzh
+  text: 錦字裁成寄玉關勸君珍重好加飱封侯自是男兒事不斬樓蘭未擬還
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄遠
+  author: 高兆基
+  language: lzh
+  text: 錦字裁成寄玉關。勸君珍重好加飱。封侯自是男兒事。不斬樓蘭未擬還。
+korean:
+  title: 기원
+  author: 고조기
+  language: kor
+  text: |-
+    비단 글자 마련하여 옥관에 부치노니
+    부디 몸조심하여 밥 많이 드소서
+    봉후는 본디 대장부의 일
+    누란(樓蘭)을 베지 않고는 돌아오지 않으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 비단 글자 : '
+    value: 옛날에 여자가 먼 데 있는 남편에게 비단에다 글자를 자수(刺繡)하여 부치는 일이 있었다.
+  - key: '[주-D002] 누란(樓蘭) : '
+    value: 서역(西域)의 나라 이름이다. 한 무제(漢武帝)가 대완국(大宛國)과 통하려 하는데, 누란국이 가로막아 한(漢)나라 사절(使節)을 공격하였으며, 소제(昭帝) 때에 부개자(傅介子)를 보내어 누란왕을 쳐 죽였다.
+english:
+  title: A Letter to the Distant
+  author: Ko Jo-gi
+  language: eng
+  text: |-
+    Embroidered words on silk I send to the Jade Gate Pass,
+    I urge you, care for yourself and eat your fill of rice.
+    To seal a noble rank is the calling of a warrior,
+    I shall not return until the Loulans are defeated.
+  footnotes:
+  - key: ''
+    value: The 'embroidered words on silk' refers to an ancient custom where women would embroider messages on fabric to send to distant husbands or lovers, conveying tender concern across great distances.
+  - key: ''
+    value: Loulan was an ancient kingdom in the Western Regions that once blocked Han Dynasty envoys. The reference alludes to military campaigns and the determination of a soldier not to return home until victory is achieved—a theme of noble sacrifice and martial duty.
+  - key: ''
+    value: The 'Jade Gate Pass' represents the threshold between civilization and the frontier, symbolizing the vast distance between the speaker and their beloved.

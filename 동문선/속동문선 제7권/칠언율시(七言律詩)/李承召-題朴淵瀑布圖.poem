@@ -1,0 +1,47 @@
+canonical:
+  title: 題朴淵瀑布圖
+  author: 李承召
+  language: lzh
+  text: 廬岳瓌觀天下知雖然未並朴淵奇削成鐵壁千尋壯倒瀉銀潢一派垂數里晴空飛雹亂雙崖白日怒霆馳天磨昨夜山靈泣偶向先生坐右移
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題朴淵瀑布圖
+  author: 李承召
+  language: lzh
+  text: 廬岳瓌觀天下知。雖然未並朴淵奇。削成鐵壁千尋壯。倒瀉銀潢一派垂。數里晴空飛雹亂。雙崖白日怒霆馳。天磨昨夜山靈泣。偶向先生坐右移。
+korean:
+  title: 제 박연폭포도
+  author: 이승소
+  language: kor
+  text: |-
+    여악의 장관은 세상이 다 알지만
+    그러나 박연의 기이함만 같지 못하니
+    철벽을 깎아 만들매 천 길이 웅장하고
+    은하를 거꾸로 쏟으매 한 갈래가 드리웠다
+    몇 리의 맑은 하늘에는 나는 우박이 어지러운데
+    두 벼랑에는 한낮에 성낸 우레가 달린다
+    어젯밤 천마산의 산신령이 울었는가
+    우연히 선생 앉은 자리로 향해 보내도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0450&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여악(廬岳)의 장관(壯觀) : '
+    value: 중국 여산(廬山)에는 큰 폭포가 있는데, 이태백(李太白)의 비류직하삼천척(飛流直下三千尺)이라는 시로 유명하다.
+english:
+  title: On a Painting of Parkyon Waterfall
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    The grandeur of Mount Lu is known throughout the world,
+    Yet it cannot match the wonder of Parkyon's cascade.
+    Carved like iron walls, a thousand fathoms tall and majestic,
+    Inverted, the silver torrent pours down in endless streams.
+    Miles of clear sky scatter with tumbling hail,
+    While double cliffs rage with thunder at midday.
+    Did the mountain spirit weep through last night's storm?
+    By chance, it sent its voice toward the master's seat.
+  footnotes:
+  - key: ''
+    value: Mount Lu in China is famous for its great waterfall, celebrated in Li Bai's poem with the line 'The cascade flies straight down three thousand feet.'
+  - key: ''
+    value: Parkyon waterfall is located in Korea and was a celebrated subject of painting and poetry during the classical period.

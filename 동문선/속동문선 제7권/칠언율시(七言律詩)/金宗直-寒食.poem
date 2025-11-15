@@ -1,0 +1,49 @@
+canonical:
+  title: 寒食
+  author: 金宗直
+  language: lzh
+  text: 淸明寒食一年春節物斑斑入眼新紅襯山花蒸躑躅靑挑野菜細茵陳殘年官况知無味晩節交情覺倍親相望故人違咫尺一杯恨不共良辰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寒食
+  author: 金宗直
+  language: lzh
+  text: 淸明寒食一年春。節物斑斑入眼新。紅襯山花蒸躑躅。靑挑野菜細茵陳。殘年官况知無味。晩節交情覺倍親。相望故人違咫尺。一杯恨不共良辰。
+korean:
+  title: 한식
+  author: 김종직
+  language: kor
+  text: |-
+    청명과 한식은 1년의 봄이라
+    시절 물건이 골고루 눈에 들어 새로워라
+    붉은 빛은 산꽃을 도와 진달래가 찌는 듯
+    푸른 빛은 들나물을 가리어 고운 자리를 편 것 같다
+    남은 생의 벼슬 형편은 재미없을 줄 알고
+    늘그막에 사귀는 우정은 곱이나 친한 줄을 깨닫겠다
+    바라보매 고인은 지척의 사이인데
+    한 잔 술로 좋은 때를 함께 하지 못하는 것을 서러워하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0620&viewSync=OT
+  footnotes: []
+english:
+  title: Cold Food Festival
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Clear Bright and Cold Food mark the spring of a year,
+    Seasons' gifts arrive fresh before my eyes.
+    Red blooms embrace the mountain flowers, rhododendrons steam with life,
+    Green traces mark the wild greens, spreading soft as silk.
+
+    I know the official life that remains holds little savor,
+    Yet in these twilight years, I discover friendship deepens even more.
+
+    Though my old friend lingers so near I could reach across the gap,
+    I grieve that this cup of wine cannot celebrate this good season together.
+  footnotes:
+  - key: ''
+    value: Clear Bright and Cold Food refer to two adjacent spring festivals in the traditional Chinese calendar, here representing the fullness of spring.
+  - key: ''
+    value: The rhododendrons 'steaming' suggests their profuse blooming, as if they rise from the earth in abundance.
+  - key: ''
+    value: The poem reflects on the speaker's advancing years and separation from loved ones, a common theme in Korean literati poetry of the period.

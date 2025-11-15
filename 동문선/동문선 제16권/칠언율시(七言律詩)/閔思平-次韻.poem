@@ -1,0 +1,54 @@
+canonical:
+  title: 次韻
+  author: 閔思平
+  language: lzh
+  text: 流年過眼隙駒如忽放狂歌憶孟諸今世有誰收老馬此身無處泣前魚銀蓴玉膾淸江上蒻笠蓑衣細雨餘好趁秋風飛一棹不須回首更踟躕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻
+  author: 閔思平
+  language: lzh
+  text: 流年過眼隙駒如。忽放狂歌憶孟諸。今世有誰收老馬。此身無處泣前魚。銀蓴玉膾淸江上。蒻笠蓑衣細雨餘。好趁秋風飛一棹。不須回首更踟躕。
+korean:
+  title: 차운
+  author: 민사평
+  language: kor
+  text: |-
+    눈앞에 얼른 지나는 세월 틈 지나는 망아지 같은데
+    문득 미친 노래를 부르니 맹저가 그립네
+    지금 세상에 누가 늙은 말을 거두리
+    이 몸은 전에 잡은 고기 울 곳도 없구나
+    순나물국 생선회 강가의 천렵놀이
+    청약립 녹사의 가랑비를 맞는 재미
+    가을바람 일거든 배 타고 돌아가자
+    구태여 고개를 돌려 망설일 것 없나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 맹저(孟諸) : '
+    value: 중국 남방의 늪[藪澤] 이름인데, 당나라 고적(高適)의 시에, “나는 본시 맹저(孟儲) 들에서 고기 잡고 나무하고, 초택(草澤)에서 미친 노래 불렀네.” 하였다.
+  - key: '[주-D002] 이 몸은 전에 잡은 고기 : '
+    value: 용양군(龍陽君)이 고기를 낚으며 울었다. 초왕(楚王)이 까닭을 물으매 대답하되, “신(臣)이 처음 고기를 얻었을 땐 몹시 기쁘더니, 뒤에 더욱 큰 것을 많이 잡으니 전에 잡았던 것을 버릴 생각이 나옵니다. 지금 해미에 미인이 심히 많사온데 신이 총행(寵幸)되었다는 소문을 듣고 달려오는 자가 많사오니, 신도 또한 전에 얻은 고기 같사오리이다.” 하였다.
+  - key: '[주-D003] 청약립(靑蒻笠), 녹사의(綠簑衣) : '
+    value: 당(唐) 연파조도(烟波釣徒) 장지화(張志和)의 어부사(漁父詞)에, “푸른 부들삿갓, 파란 도롱이 쓰고, 비낀 바람 가랑비에 돌아갈 것 없어라.” 하였다.
+english:
+  title: In Response to a Rhyme
+  author: Min Sabyeong
+  language: eng
+  text: |-
+    Years slip through my fingers like a colt through a crack in time.
+    Suddenly I burst into wild song, remembering Mengzhu.
+    Who in this present age would take in an aging horse?
+    This body has nowhere to weep for the fish I once caught.
+
+    Fresh greens and raw fish gleaming on the clear river—
+    Fishing pleasures in blue rush hat and green raincoat through the drizzle.
+    When autumn wind stirs, let me take up the oar and fly.
+    Why turn my head back? Why hesitate or falter?
+  footnotes:
+  - key: ''
+    value: 'Mengzhu: A marshland in ancient China, referenced in the Tang poet Gao Shi''s work as a place of freedom where one could fish, gather firewood, and sing wildly without constraint.'
+  - key: ''
+    value: 'The fish I once caught: An allusion to the story of Lord Longyang, who wept while fishing because he feared being abandoned for a younger favorite, just as smaller fish are discarded for larger ones. The speaker uses this to reflect on the transience of favor and the anxiety of aging.'
+  - key: ''
+    value: 'Blue rush hat and green raincoat: References the famous ''Fisherman''s Song'' by Zhang Zhihe of the Tang dynasty, evoking the Daoist ideal of the fisherman-sage who finds freedom and contentment in simple pursuits and natural solitude.'

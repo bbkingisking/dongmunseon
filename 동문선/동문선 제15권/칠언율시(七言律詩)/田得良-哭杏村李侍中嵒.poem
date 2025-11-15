@@ -1,0 +1,47 @@
+canonical:
+  title: 哭杏村李侍中嵒
+  author: 田得良
+  language: lzh
+  text: 直節高標冠世人一身忠孝事君親堂開綠野遣淸興會續白蓮修勝因庭下芝蘭繁奕葉門前桃李尙靑春風流耆舊今何處忍見琴書撲素塵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 哭杏村李侍中嵒
+  author: 田得良
+  language: lzh
+  text: 直節高標冠世人。一身忠孝事君親。堂開綠野遣淸興。會續白蓮修勝因。庭下芝蘭繁奕葉。門前桃李尙靑春。風流耆舊今何處。忍見琴書撲素塵。
+korean:
+  title: 시중 행촌 이암을 곡하다
+  author: 전득량
+  language: kor
+  text: |-
+    곧은 절개 높은 품격이 세상에 뛰어난 분
+    한 몸으로 충과 효, 임금ㆍ어버일 섬기셨네
+    녹야당(당나라 현상(賢相) 배도(裵度)의 별장)을 열어 맑은 흥취를 부쳤고
+    백련사를 이어 모아 좋은 인연 닦았도다
+    뜰 아래 지란들은 여러 대로 번성하고
+    문전의 도리(문하생)들은 아직도 청춘이네
+    풍류 노재상은 이제 어이 가는고
+    먼지 쌓인 금서를 차마 어이 보란 말가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0840&viewSync=OT
+  footnotes: []
+english:
+  title: Elegy for Minister Lee Eom of Haengchon Village
+  author: Jeon Deuk-ryang
+  language: eng
+  text: |-
+    Unbending integrity, lofty virtue—a paragon among men,
+    With one body serving loyalty and filial piety to sovereign and parent.
+    He opened the halls of verdant fields to cultivate refinement,
+    Continued the White Lotus monastery to nurture karmic bonds.
+    In the courtyard, orchids and fungi flourished through generations,
+    And his disciples at the gate remain forever in their prime.
+    But where now is this man of cultivated grace and wisdom?
+    How can I bear to see his books and zither gathering dust?
+  footnotes:
+  - key: ''
+    value: The 'Green Fields Hall' (綠野堂) references the elegant leisure of celebrated statesmen of old.
+  - key: ''
+    value: The 'White Lotus' alludes to both Buddhist practice and the cultivation of virtue.
+  - key: ''
+    value: Books and zither (琴書) represent scholarly and artistic pursuits—traditional markers of the cultivated gentleman.

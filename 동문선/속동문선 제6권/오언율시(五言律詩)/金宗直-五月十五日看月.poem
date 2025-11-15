@@ -1,0 +1,47 @@
+canonical:
+  title: 五月十五日看月
+  author: 金宗直
+  language: lzh
+  text: 學道嗟吾晩飜爲鬼物欺茫茫人去後故故月團時鏡匣空餘澤泉臺倘有期不堪池上照露葉泫雙垂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 五月十五日看月
+  author: 金宗直
+  language: lzh
+  text: 學道嗟吾晩。飜爲鬼物欺。茫茫人去後。故故月團時。鏡匣空餘澤。泉臺倘有期。不堪池上照。露葉泫雙垂。
+korean:
+  title: 5월 15일 간월
+  author: 김종직
+  language: kor
+  text: |-
+    슬프다. 나의 도 배우기 늦었기로
+    도리어 귀물들의 속임 받았노라
+    아득하여라, 사람이 떠난 뒤요
+    영원히 있는 달이 둥글 때이네
+    거울 갑엔 공연한 손때만이 남았거니
+    천대에서나 혹시 기약 있으리
+    못 위을 차마 비추지 못해
+    이슬에 젖은 잎에 두 줄기 눈물일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: Viewing the Moon on the Fifteenth Day of the Fifth Month
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Alas, I lament that I came late to the Way.
+    Instead, I fell prey to the deceptions of ghosts and demons.
+    Vast and desolate, after the people have departed,
+    The eternal moon hangs full in its season.
+    The mirror-case retains only the traces of empty hands,
+    And perhaps there lingers some promise in the underworld.
+    I cannot bear to see its reflection on the pond—
+    Two streams of tears drip upon the dew-laden leaves.
+  footnotes:
+  - key: ''
+    value: The 'Way' (道) refers to the Buddhist or Daoist path of enlightenment that the speaker regrets not pursuing earnestly enough.
+  - key: ''
+    value: The mirror imagery suggests both vanity and the fleeting nature of earthly concerns, contrasted with the eternal celestial bodies.
+  - key: ''
+    value: The 'underworld' (泉臺) is a classical Chinese reference to the realm of the afterlife, suggesting the speaker's contemplation of mortality.

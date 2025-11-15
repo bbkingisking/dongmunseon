@@ -1,0 +1,39 @@
+canonical:
+  title: 新住水多寺感舊有作
+  author: 釋無名
+  language: lzh
+  text: 十里松間官道大一聲鍾後梵宮幽滿山猿鳥休相恠少日經過與共遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新住水多寺感舊有作
+  author: 釋無名
+  language: lzh
+  text: 十里松間官道大。一聲鍾後梵宮幽。滿山猿鳥休相恠。少日經過與共遊。
+korean:
+  title: 신주수다사감구유작
+  author: 석무명
+  language: kor
+  text: |-
+    십 리 소나무 사이에 관도가 큰데
+    한 소리 쇠북 뒤에는 범궁이 그윽하다
+    산에 가득한 잔나비와 새들아 이상히 여기지 말라
+    며칠만 지내면 같이 놀 수 있으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1250&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections on Returning to Sudasa Temple in Sinjusong
+  author: Sseok Mumyeong
+  language: eng
+  text: |-
+    Ten miles of pine-lined roads stretch wide and grand,
+    After a single stroke of the temple bell, the dharma hall grows still.
+    Monkeys and birds crowding the mountainside, do not wonder at my return—
+    In but a few days' time, we shall play together once more.
+  footnotes:
+  - key: ''
+    value: Sudasa Temple (水多寺) was a historical Buddhist temple. The poet, a Buddhist monk, is revisiting a place from his past.
+  - key: ''
+    value: The 'dharma hall' (梵宮) refers to the Buddhist temple and its sacred space, suggesting both spiritual retreat and nostalgic memory.
+  - key: ''
+    value: The poem's gentle address to the mountain creatures suggests the poet's previous familiarity with this place and his joyful anticipation of renewed communion with nature.

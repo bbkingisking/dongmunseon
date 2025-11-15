@@ -1,0 +1,57 @@
+canonical:
+  title: 織婦行
+  author: 徐居正
+  language: lzh
+  text: 霜風昨夜如箭瞥機上絲頭半凍裂機邊織婦續斷絲兩手龜盡寒砭骨理絲軋軋鳴寒梭自恨身爲他人織織成下機催刀尺官租私債迷緩急官私兩糶那可辜此身寧忍無裙襪嗚呼旣作田家婦卒歲甘分無衣褐終然不學娼家兒爲人謌舞衣滿篋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 織婦行
+  author: 徐居正
+  language: lzh
+  text: 霜風昨夜如箭瞥。機上絲頭半凍裂。機邊織婦續斷絲。兩手龜盡寒砭骨。理絲軋軋鳴寒梭。自恨身爲他人織。織成下機催刀尺。官租私債迷緩急。官私兩糶那可辜。此身寧忍無裙襪。嗚呼旣作田家婦。卒歲甘分無衣褐。終然不學娼家兒。爲人謌舞衣滿篋。
+korean:
+  title: 직부행
+  author: 서거정
+  language: kor
+  text: |-
+    어젯밤 된서리 바람이 쏜살같이 불더니
+    베틀 위에 실꾸리가 반이나 얼어 터졌네
+    베틀 가의 베짜는 여인 끊어진 실을 잇느라니
+    두 손이 다 터지고 추위가 뼈에 사무치네
+    실을 손질해 찰칵찰칵 북을 울리면서는
+    남 위해 베를 짜는 자기 신세여
+    다 짜고 베틀에서 내려 가위 자질 바삐하여서
+    관조와 사채 어느 것이 더 급한가
+    관ㆍ사 두 빚 어느것인들 안 물 수 있으랴마는
+    내 몸은 어찌 차마 치마ㆍ버선 없으랴
+    아 이미 농사꾼의 아내 됐으니
+    1년내 옷 없음도 당연한 분수
+    끝내 창녀 년은 안 배우리라
+    남 위해 가무하여 농에 가득한 옷
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: The Weaver Woman's Lament
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Last night the frost wind shot through like arrows,
+    On the loom the thread spools froze and cracked.
+    By the loom the weaver woman joins the broken threads,
+    Both her hands burst open, cold pierces deep into bone.
+    She works the threads—click-clack, click-clack—the shuttle sings in winter,
+    And sighs for herself, weaving cloth for another.
+    The cloth done, she hurries down from the loom with scissors ready,
+    Which debt presses harder—the official tax or the merchant's loan?
+    Both claims upon her, neither can be refused,
+    Yet how can she bear to go without skirt and stockings?
+    Alas, already a farmer's wife,
+    To go through the year in rags seems her appointed lot.
+    She'll never learn the courtesan's trade,
+    Dancing and singing for men, their coffers full of silk.
+  footnotes:
+  - key: ''
+    value: The poem contrasts the weaver woman's harsh poverty with the silk-clad luxury of courtesans, suggesting how patriarchal feudal society valued women's labor differently based on their social position.
+  - key: ''
+    value: The specific mention of 'skirt and stockings' (치마·버선) represents basic necessities that even this laboring woman must do without, emphasizing the extremity of her deprivation.

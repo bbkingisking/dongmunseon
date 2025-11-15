@@ -1,0 +1,48 @@
+canonical:
+  title: 送朱子蘭
+  author: 曺庶
+  language: lzh
+  text: 文明天地泰優老賜還生侵路岷山碧迴舟楚水淸琴書應有待花木更含榮擾擾吾何事徘徊送子行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送朱子蘭
+  author: 曺庶
+  language: lzh
+  text: 文明天地泰。優老賜還生。侵路岷山碧。迴舟楚水淸。琴書應有待。花木更含榮。擾擾吾何事。徘徊送子行。
+korean:
+  title: 송 주자란
+  author: 조서
+  language: kor
+  text: |-
+    문명하여 천지가 태평하니
+    늙은이를 우대하여 돌아와 삶을 허락하시네
+    길에는 민산이 푸르고
+    배를 돌리니 초수가 맑으리
+    거문고와 책이 응당 기다릴 터이고
+    꽃 나무는 다시 빛나리로다
+    분주한 나는 무슨 일로
+    서성거리며 가는 그대를 보내는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0960&viewSync=OT
+  footnotes: []
+english:
+  title: Seeing Off Ju Jaran
+  author: Cho Seo
+  language: eng
+  text: |-
+    The world shines with civility and grace—all heaven and earth at peace.
+    The aging are honored, granted safe return to life.
+    The Min Mountains guard the path in emerald green,
+    the boat turns back where the Chu waters run clear.
+
+    The zither and books await you with purpose,
+    flowers and trees will bloom again in splendor.
+    Yet here I am, restless and uneasy—
+    why do I linger, hesitating as I see you depart?
+  footnotes:
+  - key: ''
+    value: The Min Mountains (民山) and Chu waters (楚水) reference the regions of Sichuan and the Yangtze River valley, suggesting a journey southward through classical Chinese landscape.
+  - key: ''
+    value: The zither (琴) and books (書) represent the scholarly and artistic pursuits awaiting the traveler's retirement.
+  - key: ''
+    value: The poem's final turn reveals an emotional undercurrent beneath the formal language of farewell—the speaker's own uncertainty masks a deeper reluctance to part.

@@ -1,0 +1,35 @@
+canonical:
+  title: 東來客館
+  author: 成士弘
+  language: lzh
+  text: 先人往歲赴東萊孤子方爲襁褓孩今日廵臨民喜迓怳如身入故鄕來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東來客館
+  author: 成士弘
+  language: lzh
+  text: 先人往歲赴東萊。孤子方爲襁褓孩。今日廵臨民喜迓。怳如身入故鄕來。
+korean:
+  title: 동래객관
+  author: 성사홍
+  language: kor
+  text: |-
+    옛날에 선인이 동래에 부임할 때
+    나는 겨우 강보에 싸인 어린애였었는데
+    오늘 여기 오매 백성들 기꺼이 맞아 주나니
+    마치 내 몸이 고향에 돌아온 것 같아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0600&viewSync=OT
+  footnotes: []
+english:
+  title: The Dongnae Guest Hall
+  author: Sung Sa-hong
+  language: eng
+  text: |-
+    Years ago my father came to serve in Dongnae,
+    when I was but a swaddled infant in arms.
+    Today as I return, the people greet me with joy—
+    and I feel as though I've come home to my native place.
+  footnotes:
+  - key: ''
+    value: Dongnae (東萊) is an ancient name for the Busan region in Korea's southeast. The poem reflects on the author's return to a place where he spent his early childhood, evoking the bittersweet recognition of a homeland half-remembered from infancy.

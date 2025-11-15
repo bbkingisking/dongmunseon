@@ -1,0 +1,45 @@
+canonical:
+  title: 寄正叔
+  author: 禔
+  language: lzh
+  text: 讀書三月不窺園未覺園林綠已繁梅子欲成春自去謾將幽思立黃昏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄正叔
+  author: 禔
+  language: lzh
+  text: 讀書三月不窺園。未覺園林綠已繁。梅子欲成春自去。謾將幽思立黃昏。
+korean:
+  title: 기 정숙
+  author: 제
+  language: kor
+  text: |-
+    글 읽어 석달 동안 동산을 엿보잖아
+    온 숲에 푸른 빛이 성한 줄을 몰랐노라
+    매실은 맺고 봄은 절로 가려는데
+    깊은 생각 부질없이 황혼에 서 있노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 제(禔) : '
+    value: 양녕대군. 왕족은 성을 안 썼다.
+  - key: '[주-D001] 富林君 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: To Jeong-suk
+  author: Je
+  language: eng
+  text: |-
+    Three months immersed in reading,
+    I have not glimpsed the garden.
+    Yet the grove grows verdant without my knowing—
+    the green abundance has already flourished.
+
+    The plum fruits ripen and spring departs on its own.
+    In vain I stand at dusk
+    with my profound thoughts.
+  footnotes:
+  - key: ''
+    value: The speaker's deep concentration on study has made him oblivious to the passage of seasons and the blooming of nature around him.
+  - key: ''
+    value: The ripening plum and departing spring suggest the transience of time and opportunity—a meditation on what is lost through singular focus.

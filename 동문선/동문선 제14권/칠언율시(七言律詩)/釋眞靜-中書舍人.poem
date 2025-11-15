@@ -1,0 +1,61 @@
+canonical:
+  title: 中書舍人
+  author: 釋眞靜
+  language: lzh
+  text: 逃名入社豈徒然正是蘇山妙悟年天台智者二十三始謁大蘇山思大禪師妙悟法花三昧我輩亦年至二十三始謁圓妙聖凡雖殊似遵遺躅故及此云 塵靜虎溪携靖節風淸象席引張蓮爲成五十人隨喜感悟三千境最圓珍重中書賢學士留心此事寄佳篇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中書舍人
+  author: 釋眞靜
+  language: lzh
+  text: 逃名入社豈徒然。正是蘇山妙悟年。天台智者二十三。始謁大蘇山思大禪師。妙悟法花三昧。我輩亦年至二十三。始謁圓妙。聖凡雖殊。似遵遺躅故及此云。 塵靜虎溪携靖節。風淸象席引張蓮。爲成五十人隨喜。感悟三千境最圓。珍重中書賢學士。留心此事寄佳篇。
+korean:
+  title: 중서사인
+  author: 석진정
+  language: kor
+  text: |-
+    세속 이름을 버리고 사에 듦이 우연치 않았었네
+    바로 그게 소산이 묘오햇던 해
+    천태지자(天台智者)가 23세에 비로소 대소산(大蘇山) 혜사선사(慧思禪師)를 뵈옵고 법화삼매(法華三昧)를 묘오(妙悟)했는데, 나도 23세에 비로소 원묘(圓妙)를 뵈었으니, 성인[천태지자]과 범인[자신]이 비록 다르나 끼친 자취를 따를 듯하기에 끝구에 뜻을 말함.
+    티끌 없는 호계에서 도정절(연명(淵明)을 함께 했고
+    바람 맑은 상석으로 장련을 인도했네
+    50명의 수희를 성취하고자
+    삼천 세계에 둥근 이치를 깨닫게 했네
+    갸륵할손 중서각의 어진 학사님이
+    이 일[불법(佛法)]에 마음을 두어 좋은 시를 부쳤네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0460&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상석(象席) : '
+    value: 불법(佛法)의 거물(巨物)을 용상(龍象)이라 하는데, 그것은 물에서는 용이 가장 큰 동물이요, 육지에서는 코끼리가 가장 큰 동물이기 때문에 그렇게 비유하였다.
+  - key: '[주-D002] 50명의 수희(隨喜) : '
+    value: 화엄경(華嚴經)에 선재동자(善財童子)가 도(道)를 구하여 남방으로 다니며 53명의 선지식(善知識)을 방문하였다. 수희(隨喜)는 남의 착함을 따라서 기뻐한다는 뜻이다.
+  - key: '[주-D003] 삼천 세계 : '
+    value: 불교에서는 온 우주(宇宙)를 삼천 세계(三千世界)라 칭하는데, 일천(一千) 세계는 소천(小千)이요, 소천의 천배(千倍)가 중천(中千)이요, 중천의 천배가 대천(大千)이다.
+english:
+  title: The Court Scribe
+  author: Seok Jinjeong
+  language: eng
+  text: |-
+    To abandon worldly name and enter the monastery was no mere chance—
+    It was the very year of Sushan's profound awakening.
+    When Zhiyi of Tiantai at twenty-three first met the Great Master Huisi of Sushan,
+    And awakened to the Lotus Samadhi,
+    I too at twenty-three first encountered Yuanmiao—
+    Though sage and common person differ in station,
+    Yet I seem to follow in those sacred footsteps, and thus speak to this end.
+
+    In dust-free Tiger Gorge I walked with Yuanming,
+    On wind-swept Elephant Seat I guided Zhang Lian.
+    To perfect the joy of fifty who followed,
+    Awakening the perfect truth throughout the threefold world.
+
+    How worthy, O learned Court Scribe of noble mind,
+    Who holds this dharma close and crafts such verse.
+  footnotes:
+  - key: ''
+    value: Zhiyi of Tiantai (天台智者) and Huisi (慧思) represent the transmission of Buddhist insight across generations. The poet identifies himself with this lineage by meeting his teacher at the same age.
+  - key: ''
+    value: The reference to fifty followers alludes to the Avatamsaka Sutra, where Sudhana visits fifty-three spiritual teachers in his quest for enlightenment. 'Rejoicing' (随喜) means to take joy in the virtues of others.
+  - key: ''
+    value: The threefold world (三千世界) in Buddhist cosmology encompasses the entire universe—representing the totality of dharma teaching reaching all realms.

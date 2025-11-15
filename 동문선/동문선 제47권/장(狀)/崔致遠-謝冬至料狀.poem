@@ -1,0 +1,39 @@
+canonical:
+  title: 謝冬至料狀
+  author: 崔致遠
+  language: lzh
+  text: 右伏蒙仁恩特賜前件節料者伏以某忝栖德宇無愧異鄕萬里滄波雖恨絶東來之信三冬愛日且歡迎南至之辰豈料尊慈別垂厚賜玉粒旣資於同穎霜華乃出於兩歧不勞大嚼之言却懷中聖之慮莫識酬恩報德唯知飽食醉吟下情無任感戴兢懼之至
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝冬至料狀
+  author: 崔致遠
+  language: lzh
+  text: 右伏蒙仁恩。特賜前件節料者。伏以某忝栖德宇。無愧異鄕。萬里滄波。雖恨絶東來之信。三冬愛日。且歡迎南至之辰。豈料尊慈。別垂厚賜。玉粒旣資於同穎。霜華乃出於兩歧。不勞大嚼之言。却懷中聖之慮。莫識酬恩報德。唯知飽食醉吟。下情無任感戴兢懼之至。
+korean:
+  title: 사 동지 요 장
+  author: 최치원
+  language: kor
+  text: 엎드려 특별한 인은(仁恩)으로 전건(前件)의 절료(節料 명절에 주는 급료)를 내려주심을 입었습니다.엎드려 생각건대, 모(某)는 부족한 몸이 덕문(德門)에 깃들어 있어 타향(他鄕)이 서글프지 아니하며, 만리의 한바다에 가로막혀 비록 동쪽에서 오는 소식은 끊어져 듣지 못하는 것이 한이나, 삼동(三冬)의 애일(愛日)이 장차 남지(南至)의 날이 다가옴을 환영하는데, 뜻밖에 존자(尊慈)께서 특별히 후한 은사를 내리어 옥립(玉粒 쌀)은 이미 동영(同潁 벼 한 가지에 두 이삭이 달린 것)에서 빼어난 것이고, 상화(霜華)는 바로 양기(兩岐 보리 한 가지에 두 이삭이 달린 것)에서 나온 것이니 대작(大嚼)의 말을 위로하기 전에 도리어 중성(中聖)의 염려를 품게 되었습니다. 무엇으로 은혜와 덕에 보답해야 할지 모르겠으며, 오직 배부르게 먹고 취하여 읊조릴 뿐입니다. 하정(下情)에 지극히 감사하고 송구함을 이기지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0500_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 애일(愛日) : '
+    value: 겨울 햇빛을 애일(愛日)이라 칭한다. 《춘추(春秋)》에 진(晉)나라 가계(賈季)가 조쇠(趙衰)를 겨울날의 해에 비유하며, “겨울날의 해는 따뜻해서 사랑스럽다.” 한 데서 기인된 것이다.
+  - key: '[주-D002] 남지(南至) : '
+    value: 동지(冬至)를 남지라 칭한다. 희공(僖公) 5년에, “춘왕정월(春王正月) 신해(辛亥)에 해가 남지하였다.” 하였다. 《左傳》
+  - key: '[주-D003] 대작(大嚼) : '
+    value: 도문대작(屠門大嚼)의 준말인데, 부러워만 하고 실제로 얻지 못하는 것을 비유하여 쓰인다. 환담(桓譚) 《신론(新論)》에, “고기 맛이 너무 좋아서 도문(屠門)만 바라보아도 크게 씹게 된다.” 하였다.
+  - key: '[주-D004] 중성(中聖) : '
+    value: 중성인(中聖人)의 준말이다. 《삼국지(三國志)》 위지(魏志) 서막전(徐邈傳)에, “서막(徐邈)이 상서랑(尙書郞)으로 있는데, 때마침 금주령(禁酒令)이 내렸음에도 불구하고 서막은 몰래 술을 마시고 취했었다. 그래서 사무를 감사하는 자가 사무를 물으니 서막은 대답하기를, ‘성인(聖人)에게 중독되었다.’ 하였다.” 청주를 성인(聖人)이라 칭하고 탁주를 현인(賢人)이라 칭하므로 이와 같이 말한 것이다.
+english:
+  title: A Grateful Acknowledgment of Winter Solstice Provisions
+  author: Choe Chi-won
+  language: eng
+  text: 'I bow in gratitude for the extraordinary kindness shown me—this special provision granted on the occasion of winter''s turning. I, unworthy though I am, have made my dwelling in virtue''s garden, so that this distant shore does not sadden my heart. Though ten thousand leagues of rolling sea sever me from tidings of the east, I welcome with joy the approach of the solstice''s brief returning sun. Yet unexpectedly, your compassion extends further still, bestowing upon me such generous bounty. The finest grain emerges luminous as jade, the frost-touched harvest abundant and doubled—surely more than words of mere longing could express. Instead, I find myself caught between gratitude and a lighter intoxication. How can I repay such kindness and virtue? I know only this: to eat my fill and compose verses while gently warmed by wine. My humble heart overflows with gratitude and trembling reverence.'
+  footnotes:
+  - key: ''
+    value: The 'brief returning sun' (愛日) refers to winter sunlight, valued for its warmth. The image derives from a classical comparison in which winter sun is likened to the warmth of noble virtue.
+  - key: ''
+    value: The 'solstice' (南至) marks the moment when the sun reaches its southernmost point before returning northward, a symbol of renewal and cyclical restoration.
+  - key: ''
+    value: '''Composed verses while gently warmed by wine'' echoes a famous story of Xu Mao, who claimed to be ''intoxicated by the sage''—a witty evasion that plays on calling clear wine the ''sage'' and turbid wine the ''worthy man.'''

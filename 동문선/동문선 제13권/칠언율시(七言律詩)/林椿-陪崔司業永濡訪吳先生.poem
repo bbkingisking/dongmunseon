@@ -1,0 +1,47 @@
+canonical:
+  title: 陪崔司業永濡訪吳先生
+  author: 林椿
+  language: lzh
+  text: 高文妙訣鬼神幽早歷詞階翰院遊杜氏胷中吞國子褚生皮裏裹陽秋聲名東漢無雙客家世中朝第一流筆下三千風月句成編須爲後人留
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陪崔司業永濡訪吳先生
+  author: 林椿
+  language: lzh
+  text: 高文妙訣鬼神幽。早歷詞階翰院遊。杜氏胷中吞國子。褚生皮裏裹陽秋。聲名東漢無雙客。家世中朝第一流。筆下三千風月句。成編須爲後人留。
+korean:
+  title: 사업 최영유를 모시고 오선생을 찾아가서
+  author: 임춘
+  language: kor
+  text: |-
+    글 짓는 묘한 솜씨 귀신 같아서
+    일찍 급제하여 한원에 노시네
+    두씨의 가슴안엔 국자를 삼켰고
+    저생 가죽속엔 양추를 감췄구나
+    명성은 동한시대의 무쌍한 분
+    가계는 중조에도 첫째가는 내력
+    일찍이 읊은 풍월구 삼천 편이라
+    시집을 엮어 꼭 후세에 전하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 저생(褚生) …… 감췄구나 : '
+    value: 진(晋)나라 저부(褚裒), 자는 계야(季野)다. 그가 입으로 남의 잘잘못을 말하지 않으나 맘속으로는 시비(是非)가 분명했다. 환이(桓彝)가 그를 보고 평하여, “계야(季野)는 입으로는 말하지 않으나, 가죽속에 양추(陽秋)가 있군.” 하였다. 양추는 곧 봄과 가을로 봄에는 상을 주고 가을에는 벌을 주니 시비를 판단하는 기준이 있다는 말이다.
+english:
+  title: Accompanying Prefect Choi Youngyu to Visit Master O
+  author: Im Chun
+  language: eng
+  text: |-
+    The subtle craft of writing rivals spirits and gods,
+    Early he passed the exam and wandered the halls of the Han Academy.
+    Within Du's breast dwells the wisdom of the Masters,
+    Yet Chu hides his judgments deep within—a secret ledger of right and wrong.
+    His name stands alone in the Eastern Han, without equal,
+    His lineage ranks first among the noble clans.
+    Three thousand verses on wind and moonlight from his brush,
+    Gathered now in collections for posterity to treasure.
+  footnotes:
+  - key: ''
+    value: Du's breast refers to Du Shi, an official known for his vast learning. The 'Masters' (國子) alludes to the imperial academy and the profound knowledge contained within it.
+  - key: ''
+    value: Chu's 'secret ledger' (陽秋) refers to the Spring and Autumn Annals—a tradition of moral judgment. Like the sage Chu Pao of Jin who kept his verdicts unspoken yet absolute, the poem suggests hidden depths of discernment.

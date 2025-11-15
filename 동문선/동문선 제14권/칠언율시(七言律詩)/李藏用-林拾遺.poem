@@ -1,0 +1,56 @@
+canonical:
+  title: 林拾遺
+  author: 李藏用
+  language: lzh
+  text: 伴食黃扉已八春無功可立謾因循若爲去作社中客應道何曾林下人四軸初成傳異迹百篇時出指迷津遙知一榻香煙畔恒見靈山面目新
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 林拾遺
+  author: 李藏用
+  language: lzh
+  text: 伴食黃扉已八春。無功可立謾因循。若爲去作社中客。應道何曾林下人。四軸初成傳異迹。百篇時出指迷津。遙知一榻香煙畔。恒見靈山面目新。
+korean:
+  title: 임 습유
+  author: 이장용
+  language: kor
+  text: |-
+    황비(재상(宰相)이 거처하는 집)에서 반식한 지 벌써 여덟 봄
+    아무 공도 없이 부질없이 그럭저럭
+    나도 가서 사 중의 일원이 되려 하나
+    사람들 모두 웬 임하 시람이냐 이르리
+    시 네 축이 갓 이뤄서 이적을 전하더니
+    백 편이 가끔 나와 아늑한 길 지시해 주네
+    멀리 상상하니, 한 탑 향로 가에
+    영산의 새로운 면목이 항상 보이리로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 연사(蓮社) : '
+    value: 묘산(廟山) 동림사(東林寺)에서 혜원법사(惠遠法師)가 백련사(白蓮社)를 만들고 신도(信徒)를 모아 염불(念佛)하였다.
+  - key: '[주-D002] 장하(丈下) : '
+    value: 장실(丈室) 밑이라는 말인데, 유마경(維摩經)에 유마거서(維摩居士)의 거처하는 방이 사방 10척이므로 방장실(方丈室)이라는 문자를 인용하였다.
+  - key: '[주-D003] 반식(伴食) : '
+    value: 당나라 노회신(盧懷愼)이 요숭(姚崇)과 같이 재상이 되었으나, 재주가 요숭보다 못함을 스스로 알고 항상 자기의 의견을 주장하지 아니하니, 사람들이 그를 반식재상(伴食宰相)이라 하였다.
+  - key: '[주-D004] 임하(林下) 사람이냐 : '
+    value: 벼슬을 그만두고 물러가 쉬는 사람을 말한다. 당(唐)나라 중 영철(靈澈)이 위단(韋丹)에게 지어 준 시에, “서로 만나면 다 벼슬을 쉬고 간다지만, 임하(林下)에야 어디 한 사람이나 보이더냐[相逢盡道休官去 林下何會見一人].” 하였다.
+english:
+  title: For Lin Seop-ui
+  author: Lee Chang-yong
+  language: eng
+  text: |-
+    Eight springs now I've served as mere companion at the minister's gate,
+    Accomplishing nothing, drifting on without purpose or weight.
+    Should I too withdraw to join the Lotus Society's sacred way,
+    Would they not ask: what manner of hermit walks among men by day?
+
+    Four scrolls of verse, freshly completed, bear traces of the strange,
+    A hundred poems scattered forth, guiding seekers through the range.
+    Far off I imagine it—by the tower where incense curls and glows—
+    The ever-radiant countenance of Vulture Peak, forever showing.
+  footnotes:
+  - key: ''
+    value: The Lotus Society (Yeonsahwe) refers to the White Lotus Society established by the monk Huiyuan at Dongrimsa Temple, where devotees gathered to practice Buddhist chanting together.
+  - key: ''
+    value: The 'hermit' or 'forest dweller' (imha) is a classical reference to one who has retired from worldly office to live in seclusion and virtue.
+  - key: ''
+    value: Vulture Peak (Yeongsan) alludes to the sacred mountain where Buddha preached, symbolizing spiritual enlightenment and eternal truth.

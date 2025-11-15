@@ -1,0 +1,38 @@
+canonical:
+  title: 謝差館伴表
+  author: 金克己
+  language: lzh
+  text: 訖可少愒投廈屋以就安誰與晤言遣朝英而爲伴喜得攀依之幸冞深感悸之懷中謝 陪臣外域占風中宵就日無怨無惡豈惟煩廬舘之華居有文有恩兼亦忝搢紳之粲接寵光莫大縻粉難酬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝差館伴表
+  author: 金克己
+  language: lzh
+  text: 訖可少愒。投廈屋以就安。誰與晤言。遣朝英而爲伴。喜得攀依之幸。冞深感悸之懷。中謝。 陪臣外域占風。中宵就日。無怨無惡。豈惟煩廬舘之華居。有文有恩。兼亦忝搢紳之粲接。寵光莫大。縻粉難酬。
+korean:
+  title: 관반을 보내 주심을 사례하는 표
+  author: 김극기
+  language: kor
+  text: |-
+    이제는 조금 쉴세라 큰 집에 와 편안한 자리에 거처하오나, 누구와 더불어 대화할 사람이 없던 터에 조정의 알뜰한 신하를 보내시어 짝을 삼게 하시니, 서로 의지하는 다행을 얻음에 기쁘고 감격하여 울렁이는 회포가 깊도소이다. 중사(中謝)
+    배신이 이역(異域)에서 바람을 점치고 배 타고 출발하여 하늘에 햇빛을 바라보고 와서, 무엇 하나 탓할 것 없이 화려한 빈관(賓館)에 기거(起居)할 뿐 아니라 예절도 있고 은혜도 있어 문신[搢紳]들의 융숭한 접대를 받사오니, 영광이 막대하여 분골쇄신(粉骨碎身)으로도 고마움을 갚기 어렵도소이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial of Gratitude for the Bestowal of an Official Companion
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Now that I have found respite and come to rest in this grand dwelling, I stood alone without companion for discourse. Yet you have sent forth a devoted minister from court to stand beside me as my attendant. How my heart swells with joy at this blessing of mutual support, and my emotions run deep with gratitude.
+
+    [Middle Expression of Thanks]
+
+    Your humble servant has journeyed across foreign lands, reading the winds and sailing the seas, watching the sun traverse the heavens. Without complaint or grievance, I have been lodged not merely in this resplendent hall of reception, but have been honored with courteous conduct and gracious kindness. The refined gentlemen of your court have shown me such distinguished hospitality that the radiance of your favor knows no bounds. How could one repay such generosity, even if one were to exhaust body and soul in the attempt?
+  footnotes:
+  - key: ''
+    value: The 'Middle Expression of Thanks' (中謝) indicates this is the central section of a formal memorial, likely part of a longer diplomatic document.
+  - key: ''
+    value: The reference to 'foreign lands' (異域) indicates the author was stationed abroad, possibly as a Korean envoy or official.
+  - key: ''
+    value: The phrase about 'refined gentlemen' (搢紳) refers to officials and scholars, emphasizing the cultured treatment received from court bureaucrats.

@@ -1,0 +1,36 @@
+canonical:
+  title: 任元濬讓國子祭酒不允
+  author: 崔惟淸
+  language: lzh
+  text: 師氏之官王化所本苟尊記問之學曷足美其材猷必待老成之人然後敎以德行使承學之士彬彬然趣聖賢之門則入彀之英磊磊乎皆將相之器領是職者不其難哉以卿毅然忠誠副以經術言爲天下之則行有古人之風歷試於朝久有嘉績往莅于學必見師模朕方選於衆而擧焉卿乃得其時則駕者無事退讓以稱眷懷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 任元濬讓國子祭酒不允
+  author: 崔惟淸
+  language: lzh
+  text: 師氏之官。王化所本。苟尊記問之學。曷足美其材猷。必待老成之人。然後敎以德行。使承學之士。彬彬然趣聖賢之門。則入彀之英。磊磊乎皆將相之器。領是職者。不其難哉。以卿毅然忠誠。副以經術。言爲天下之則。行有古人之風。歷試於朝。久有嘉績。往莅于學。必見師模。朕方選於衆而擧焉。卿乃得其時則駕者。無事退讓。以稱眷懷。
+korean:
+  title: 임원준 양 국자좨주 불윤
+  author: 최유청
+  language: kor
+  text: 사씨(師氏)의 벼슬은 왕화(王化)의 근본이다. 구차스럽게 기문(記問)의 학문만 높인다면 어찌 인재를 알뜰히 양성하겠는가. 반드시 노성한 사람이 있을 다음에야 덕행으로써 잘 가르쳐서 가르침을 받는 선비들로 하여금 성현(聖賢)의 문에 나아가게 하고, 과거에 오른 영재들로 하여금 다 장상(將相)의 그릇이 되게 하는 법이다. 그러니 이 직책을 맡을 이를 뽑기가 과연 어렵지 아니한가.경은 꿋꿋한 충성을 지닌데다가 아울러 경술까지 갖추어서 말 한 마디가 천하의 준칙(準則)이 되고, 행실은 옛 사람의 풍도가 있었다. 일찍부터 조정에 임용되어 훌륭한 공적을 드러냈으매, 태학(太學)에 부임하면 반드시 스승다운 모범을 보일 것이다. 이에 짐이 이제 뭇 사람 중에서 경을 뽑아 그 자리에 임용한 것이다. 그러니 경은 그때를 얻어 수레를 탈지어다. 겸양하여 물러나기를 일삼지 말고 짐의 마음을 받들지어다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0320_020_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사씨(師氏)의 벼슬 : '
+    value: 《주례(周禮)》에, 사씨(師氏)는 국가의 스승되는 관직으로서 덕행으로 백성의 모범이 된다 하였는데, 여기서는 국자좨주(國子祭酒)를 말한다.
+  - key: '[주-D002] 기문(記問)의 학문 : '
+    value: 시서(詩書)를 외어서 상대방의 물음에 답이나 하는 학문으로, 참 공부가 아닌 학문을 뜻한다.
+english:
+  title: Remonstrance Against Yim Won-jun's Refusal of the Position of Rector of the National University
+  author: Choi Wi-cheong
+  language: eng
+  text: |-
+    The office of the Master of All Officials is the very foundation of the King's transformative influence. If we merely elevate the shallow learning of memorization and recitation, how can we truly nurture talent? Only when a person of mature wisdom and seasoned virtue takes the helm can we teach through moral cultivation, guiding students toward the path of sages and worthies. Thus the talented who pass the examination will all become vessels fit for high office. Is it not difficult indeed to find such a one?
+
+    Your Excellency possesses unflinching loyalty, fortified by profound learning. Your words become the standard for the realm; your conduct mirrors the noble bearing of the ancients. Long tested in service at court, you have already demonstrated distinguished merit. When you take charge of the great academy, you will surely exemplify the way of the true teacher. It is I myself who have chosen you from among the many and placed you in this seat. Therefore, seize this moment and ascend the chariot of office. Do not make habitual refusals through false modesty, but honor the trust I place in you.
+  footnotes:
+  - key: ''
+    value: The Master of All Officials (師氏) is referenced in the Zhou Rituals as a position of supreme importance whose bearer serves as moral exemplar to all people; here it refers specifically to the Rector of the National University (國子祭酒).
+  - key: ''
+    value: The 'shallow learning of memorization and recitation' (記問之學) refers to rote memorization of classical texts—knowledge without true understanding or moral development.

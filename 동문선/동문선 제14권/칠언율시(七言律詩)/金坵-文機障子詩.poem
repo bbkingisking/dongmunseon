@@ -1,0 +1,48 @@
+canonical:
+  title: 文機障子詩
+  author: 金坵
+  language: lzh
+  text: 一朶蓬萊湧海高銀宮貝闕駕靈鼇蘭燈燦爛赬虬卵羽葆參差翠鳳毛風護花奴頭上槿露濃金母手中桃請看明月徘徊影應是姮娥望赭袍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 文機障子詩
+  author: 金坵
+  language: lzh
+  text: 一朶蓬萊湧海高。銀宮貝闕駕靈鼇。蘭燈燦爛赬虬卵。羽葆參差翠鳳毛。風護花奴頭上槿。露濃金母手中桃。請看明月徘徊影。應是姮娥望赭袍。
+korean:
+  title: 문기 장자시
+  author: 김구
+  language: kor
+  text: |-
+    봉래산 한 봉우리가 바다 위에 우뚝 솟아
+    은궁ㆍ패궐이 신령한 자라를 타고 앉았네
+    난초 등은 휘황찬란 붉은 용의 앞인 듯
+    새털 일산은 너울너울 푸른 봉의 털인가
+    화노 머리 위 무궁화엔 바람이 잔잔하고
+    금모 손의 복숭아엔 이슬이 방울방울
+    저 보아, 맑은 달도 머뭇거리며 있지 않는가
+    항아가 임금의 홍포를 바라보기 위함일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0630&viewSync=OT
+  footnotes: []
+english:
+  title: Poem on the Screen of Literary Mechanism
+  author: Kim Gu
+  language: eng
+  text: |-
+    A single peak of Penglai rises high above the sea,
+    Silver palaces and pearl gates ride the sacred turtle's shell.
+    Orchid lamps gleam brilliant as a crimson dragon's egg,
+    Feathered parasols drift like strands of emerald phoenix hair.
+
+    Wind gently caresses the hibiscus on the flower maiden's head,
+    Dew pools like pearls on the peach within the Golden Mother's palm.
+    Look—does not the bright moon itself linger in hesitation,
+    As Chang'e gazes downward, yearning for the ruler's crimson robe?
+  footnotes:
+  - key: ''
+    value: 'Penglai: The legendary island of immortals in Chinese mythology, a place of divine beauty and eternal life.'
+  - key: ''
+    value: 'Chang''e: The moon goddess of Chinese mythology, condemned to solitude on the moon.'
+  - key: ''
+    value: The 'flower maiden' and 'Golden Mother' are references to celestial maidens and divine feminine figures in Daoist cosmology.

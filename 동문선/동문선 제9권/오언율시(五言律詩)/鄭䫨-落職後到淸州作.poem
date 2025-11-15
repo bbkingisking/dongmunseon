@@ -1,0 +1,45 @@
+canonical:
+  title: 落職後到淸州作
+  author: 鄭䫨
+  language: lzh
+  text: 自我來桑邑無人可說愁身閑仍懶拙地僻絶交遊命亦任窮達心難决去留南州已多感蕭索更逢秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 落職後到淸州作
+  author: 鄭䫨
+  language: lzh
+  text: 自我來桑邑。無人可說愁。身閑仍懶拙。地僻絶交遊。命亦任窮達。心難决去留。南州已多感。蕭索更逢秋。
+korean:
+  title: 벼슬 떨어진 뒤 청주에 이르러
+  author: 정오
+  language: kor
+  text: |-
+    내 고향 오기는 했으나
+    시름을 말할 친구도 없네
+    몸이 한가하니 따라 게을러지고
+    땅이 궁벽하니 교유도 끊이누나
+    궁달이야 천명에 맡긴다마는
+    거류는 맘속에 결정키 어려워라
+    남쪽 시골에 와서 이미 느낌 많거든
+    하물며 쓸쓸한 가을 다시 맞는 내 회포
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0850&viewSync=OT
+  footnotes: []
+english:
+  title: Upon Arriving at Cheongju After Losing My Position
+  author: Jung O
+  language: eng
+  text: |-
+    I have come back to my native village,
+    yet find no friend to whom I can speak my sorrow.
+    My body grows idle, and with it, laziness creeps in;
+    my land lies remote, and friendships have withered away.
+    Poverty and fortune alike, I leave to Heaven's decree—
+    but whether to stay or go, my heart cannot decide.
+    Already in the southern countryside I feel much weighing upon me;
+    what more shall I bear when desolate autumn comes again?
+  footnotes:
+  - key: ''
+    value: The poem reflects the author's experience after losing his official position, a common theme in classical East Asian poetry where displacement becomes a meditation on fate, solitude, and the human condition.
+  - key: ''
+    value: The contrast between 'Heaven's decree' (concerning material fortune) and the speaker's inner turmoil (unable to decide his course) reveals the Confucian tension between accepting destiny and exercising personal will.

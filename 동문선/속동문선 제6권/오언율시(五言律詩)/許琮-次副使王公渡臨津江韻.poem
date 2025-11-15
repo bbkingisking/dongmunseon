@@ -1,0 +1,48 @@
+canonical:
+  title: 次副使王公渡臨津江韻
+  author: 許琮
+  language: lzh
+  text: 鳥影沉雲渚潮聲隱海門遠風搏野馬晴日聚河豚客路山千簇離情酒一尊隔江凝望處花柳數家村
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次副使王公渡臨津江韻
+  author: 許琮
+  language: lzh
+  text: 鳥影沉雲渚。潮聲隱海門。遠風搏野馬。晴日聚河豚。客路山千簇。離情酒一尊。隔江凝望處。花柳數家村。
+korean:
+  title: 차 부사왕공 도 임지강운
+  author: 허종
+  language: kor
+  text: |-
+    새 그림자는 구름 낀 물가에 잠기고
+    조수 소리는 바닷물에 숨는도다
+    멀리서 오는 바람 야마(아지랭이)를 때리는데
+    비 개인 날에 하돈(복생선)이 모여드네
+    나그네 길은 산이 연달으고
+    떠나는 정은 술이 한 단지
+    강 건너 의심스레 바라보는 곳
+    꽃과 버들 두어 집 마을일세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0170&viewSync=OT
+  footnotes: []
+english:
+  title: Matching the Rhyme as Vice-Envoy Wang Crosses the Imjin River
+  author: Heo Jong
+  language: eng
+  text: |-
+    Bird shadows sink into the clouded shore,
+    Tidal sounds are swallowed by the sea gate.
+    Distant wind strikes the shimmering heat,
+    On clear days river fish gather in schools.
+
+    The traveler's path winds through a thousand peaks,
+    Parting sorrow drowns in a single cup of wine.
+    Across the river, in that uncertain gaze,
+    A village of a few houses wrapped in flowers and willows.
+  footnotes:
+  - key: ''
+    value: The Imjin River (臨津江) marks the border between ancient Korean kingdoms and was an important crossing point.
+  - key: ''
+    value: The 'heat' (야마) refers to the shimmering distortion visible above hot ground or water on clear days.
+  - key: ''
+    value: This poem was composed to match the rhyme scheme of Vice-Envoy Wang's original work, a common poetic practice among literati.

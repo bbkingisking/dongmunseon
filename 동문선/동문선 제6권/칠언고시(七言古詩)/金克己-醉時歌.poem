@@ -1,0 +1,92 @@
+canonical:
+  title: 醉時歌
+  author: 金克己
+  language: lzh
+  text: 釣必連海上之六鼇射必落日中之九烏六鼇動兮魚龍震蕩九烏出兮草木焦枯男兒要自立奇節弱羽纖鱗安足誅紫纓雲孫始墮地自謂壯大陳雄圖鍊石欲補東南缺鑿石將通西北迂嗟哉計大未易報半世飄零爲腐儒不隨馮異西登隴不逐孔明南渡瀘論詩說賦破屋下却把短布抱妻孥時時壯憤掩不得拔劒斫地空長吁何時乘風破巨浪坐令四海如唐虞君不見凌煙閣上圖形容半是書生半武夫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 醉時歌
+  author: 金克己
+  language: lzh
+  text: 釣必連海上之六鼇。射必落日中之九烏。六鼇動兮魚龍震蕩。九烏出兮草木焦枯。男兒要自立奇節。弱羽纖鱗安足誅。紫纓雲孫始墮地。自謂壯大陳雄圖。鍊石欲補東南缺。鑿石將通西北迂。嗟哉計大未易報。半世飄零爲腐儒。不隨馮異西登隴。不逐孔明南渡瀘。論詩說賦破屋下。却把短布抱妻孥。時時壯憤掩不得。拔劒斫地空長吁。何時乘風破巨浪。坐令四海如唐虞。君不見凌煙閣上圖形容。半是書生半武夫。
+korean:
+  title: 취시가
+  author: 김극기
+  language: kor
+  text: |-
+    낚으면 반드시 바다 속 여섯 자라를 한꺼번에 낚을 것이고
+    쏘면 반드시 해 속의 아홉 마리 까마귀를 떨어뜨린다
+    여섯 자라가 움직이매 어룡이 떨고
+    아홉 까마귀 나오매 초목이 마르고 탄다
+    사내는 스스로 기특한 절개를 세워야 하나니
+    약한 새와 가늘은 물고기야 잡을 것 있으랴
+    붉은 갓끈의 운손(먼 손자(孫子))이 처음으로 땅에 떨어지니
+    스스로 장하고 큰 계획을 베푼다고 일렀네
+    돌을 다루어 하늘 동남 무너지는 것 막으려 하고
+    돌을 파서 하늘 막힌 서북의 길 트려 하네
+    슬프다 큰 계획을 쉬이 풀지 못하니
+    반 평생 불행한 신세가 썩은 선비되었구나
+    풍이가 농서에 오름을 따르지 못하였고
+    공명이 노수를 건넘을 본받지 못하였다
+    쓰러진 집 아래서 시를 논하고 부를 말하며
+    짧은 포대기로 처자를 안아 준다
+    때때로 일어나는 울분을 누를 수 없어
+    칼을 빼어 땅을 치고 하염없이 탄식하네
+    어느 때나 바람을 타고 큰 물결 부수고
+    앉아서 이 천하를 당우가 되게 할까
+    그대는 능연각 위에 그린 얼굴을 보지 못했는가
+    그 반은 서생이요 반은 무부이니라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여섯 자라 : '
+    value: 동해(東海)에 자라 여섯 마리가 산을 머리에 이고 있다고 한다.
+  - key: '[주-D002] 쏘면 …… 떨어뜨린다 : '
+    value: 요(堯) 시대에 해[日]가 열개나 생겨나니 초목이 타고 마르므로 활 잘 쏘는 예(羿)를 시켜서 아홉 해를 쏘아서 떨어뜨렸는데, 해 가운데 세발 까마귀[三足鳥]가 들어 있었다 한다.
+  - key: '[주-D003] 붉은 갓끈 : '
+    value: 봉(鳳)의 종류인 완추(鵷雛)가 푸른 목털이며, 붉은 갓끈이 달렸다[翠鬛紫櫻] 한다.
+  - key: '[주-D004] 풍이(馮異)가 …… 오름 : '
+    value: 한(漢)나라 장수 풍이(馮異)가 농서(隴西)의 외호(隗囂)를 치러 갔다.
+  - key: '[주-D005] 공명(孔明)이 …… 건넘 : '
+    value: 제갈량(諸葛亮)이 노수(瀘水)를 건너서 남만(南蠻)의 반란을 평정하였다.
+english:
+  title: A Song While Drunk
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    When I cast my line, I shall hook the six great tortoises of the eastern sea,
+    When I draw my bow, I shall fell the nine sun-ravens from the heavens.
+    As the six tortoises stir, dragons and fishes tremble in their depths,
+    When the nine ravens fall, grasses and trees wither and burn.
+
+    A true man must forge his own extraordinary virtue—
+    What worth in catching weakling birds and slender fish?
+    The purple-ribboned heir of the phoenix first touched earth,
+    And boasted of grand designs, resolved to shake the world.
+
+    I would patch the heavens' tear in the southeast,
+    Carve open passages through the blocked northwest.
+    Yet fate frustrates the mightiest schemes—
+    Half my life squandered, I've become a withered scholar.
+
+    I did not follow Feng Yi westward to the Long plateau,
+    Nor trace Kongming's southern crossing of the Lu waters.
+    Beneath a crumbling roof I discuss poetry and rhyme,
+    Wrapping my children in threadbare cloth.
+
+    Sometimes my fury surges beyond all restraint—
+    I draw my sword and slash the earth, sighing endlessly.
+    Oh, when shall I ride the wind and break the mighty waves,
+    And transform these four seas into a realm of sage-kings?
+
+    Do you not see the portraits in the Hall of Lingyan?
+    Half are scholars, half are warriors of the sword.
+  footnotes:
+  - key: ''
+    value: The six tortoises are mythical creatures said to support mountains in the eastern sea.
+  - key: ''
+    value: The nine sun-ravens reference the archer Yi, who shot down nine of ten suns during the reign of Emperor Yao.
+  - key: ''
+    value: Feng Yi was a celebrated Han general; Zhuge Liang was the legendary strategist of the Three Kingdoms period.
+  - key: ''
+    value: The Hall of Lingyan (Lingyan Pavilion) housed portraits of the greatest generals and ministers of the Tang dynasty.

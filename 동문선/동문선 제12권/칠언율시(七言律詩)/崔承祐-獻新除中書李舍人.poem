@@ -1,0 +1,49 @@
+canonical:
+  title: 獻新除中書李舍人
+  author: 崔承祐
+  language: lzh
+  text: 五色仙毫入紫薇好將新業助雍煕玄卿石上長批詔林府枝閒已作詩銀燭剪花紅滴滴銅臺輸刻漏遅遅自從子壽登庸後繼得淸風更有誰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獻新除中書李舍人
+  author: 崔承祐
+  language: lzh
+  text: 五色仙毫入紫薇。好將新業助雍煕。玄卿石上長批詔。林府枝閒已作詩。銀燭剪花紅滴滴。銅臺輸刻漏遅遅。自從子壽登庸後。繼得淸風更有誰。
+korean:
+  title: 헌 신제 중서 이사인
+  author: 최승우
+  language: kor
+  text: |-
+    오색 신선 붓이 자미성에 들어가니
+    새로운 공업으로 거룩한 정치를 도우리
+    현경 돌 위에 늘 조서를 초하고
+    임부 가지 새에 벌써 시를 지었네
+    은 촛대의 심지를 갈기니 붉은 꽃송이 뚝뚝
+    구리대에 누각을 지키니 누수가 방울방울
+    자수 그대 이제 등용된 뒤로
+    맑은 바람을 다시 뉘라서 이을꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 자미성(紫薇省) : '
+    value: 당나라 때에 중서성(中書省)이라 했으며, 성(省) 안에 자미화가 있었다. 천자의 정령(政令)을 돕는 비서관서(秘書官署)였다.
+english:
+  title: Presenting a Poem on the New Appointment of the Ministry Secretary Lee
+  author: Choe Seung-u
+  language: eng
+  text: |-
+    Five-colored celestial brushes enter the Purple Microstar Hall—
+    New duties serve to aid harmonious governance.
+    On Xuanqing's stone, he ever drafts imperial decrees,
+    While in the Forest Ministry's branches, poems already take form.
+    Silver candles' wicks trimmed—crimson blossoms drip and drip,
+    Copper tower guards the clepsydra's waters, trickling slow and slow.
+    Since Zishou rose to office and found his place,
+    Who now shall carry on this pure wind of virtue?
+  footnotes:
+  - key: ''
+    value: The Purple Microstar Hall (紫薇省) refers to the Central Secretariat during the Tang Dynasty, which housed imperial administrative offices responsible for assisting the Emperor's governance. It took its name from the purple microflowers that grew within.
+  - key: ''
+    value: The dual imagery of 'silver candles' and 'copper tower' references both the passage of time and the meticulous precision required of administrative work.
+  - key: ''
+    value: The closing couplet plays on the theme of succession and legacy, questioning who will maintain the virtue and integrity of the newly appointed official.

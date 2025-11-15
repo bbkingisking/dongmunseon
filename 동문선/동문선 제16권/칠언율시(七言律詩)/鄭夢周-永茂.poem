@@ -1,0 +1,48 @@
+canonical:
+  title: 永茂
+  author: 鄭夢周
+  language: lzh
+  text: 海石曾經巧琢磨上人持贈自天涯噓呵滿面寒雲起涓滴盈池片月斜觸處精金鏘有響洗來團璧滑無瑕淸晨點筆秋牎下頓覺詩情十倍加
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永茂
+  author: 鄭夢周
+  language: lzh
+  text: 海石曾經巧琢磨。上人持贈自天涯。噓呵滿面寒雲起。涓滴盈池片月斜。觸處精金鏘有響。洗來團璧滑無瑕。淸晨點筆秋牎下。頓覺詩情十倍加。
+korean:
+  title: 일본 중 영무
+  author: 정몽주
+  language: kor
+  text: |-
+    바닷돌을 교묘히 다듬고 갈아서
+    스님이 멀리 가져다가 내게 선사하네
+    호호 입김 부니 〈벼루의〉 면에 가득히 찬 구름 일고
+    물이 연적 안에 차니 조각달이 비끼누나
+    다치면 정금인 양 쨍그랑 소리를 내고
+    씻으면 동그란 구슬, 매끈히 티가 없네
+    첫새벽 가을 창 밑에 붓에 먹을 찍으니
+    불현듯 시정이 열 배 더해짐을 느끼네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0870&viewSync=OT
+  footnotes: []
+english:
+  title: Eternal Jade
+  author: Jeong Mongju
+  language: eng
+  text: |-
+    A sea stone, cunningly polished and refined,
+    A monk brings it from distant lands to me.
+    When I exhale upon its face, cold clouds arise,
+    Water fills the inkwell, a crescent moon slants through.
+
+    Wherever it is touched, like precious metal it rings,
+    Washed clean, a flawless sphere without a blemish.
+    At dawn beneath the autumn window,
+    I dip my brush, and suddenly—poetry swells tenfold.
+  footnotes:
+  - key: ''
+    value: The inkstone, fashioned from sea stone, is personified as a precious object that responds to the poet's touch and breath.
+  - key: ''
+    value: The 'crescent moon' refers to the reflection on the surface of water in the inkwell—a common image in East Asian literati culture representing the marriage of natural beauty and human refinement.
+  - key: ''
+    value: The poem moves from physical description to the transformative moment of creative inspiration, suggesting that material objects can awaken the spirit of poetic composition.

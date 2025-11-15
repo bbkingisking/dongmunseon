@@ -1,0 +1,40 @@
+canonical:
+  title: 謝館餞宴表
+  author: 金克己
+  language: lzh
+  text: 帝極殊私俯允還圭之請公廬勝餞宏張折俎之筵荷澤殊尤捫心感慨中謝 陪臣旣成規聘方乞辭違幸蒙從欲之仁言歸斯復仍荷寵行之禮式燕以遨始終徒極銘藏生死固難於報効
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝館餞宴表
+  author: 金克己
+  language: lzh
+  text: 帝極殊私。俯允還圭之請。公廬勝餞。宏張折俎之筵。荷澤殊尤。捫心感慨。中謝。 陪臣旣成規聘。方乞辭違。幸蒙從欲之仁。言歸斯復。仍荷寵行之禮。式燕以遨。始終徒極銘藏。生死固難於報効。
+korean:
+  title: 빈관의 전송연을 사례하는 표
+  author: 김극기
+  language: kor
+  text: |-
+    황은(皇恩)이 특별하사 굽어 환국의 청을 윤허하여 주시고, 공관에 잔치를 벌여 성대한 전송의 자리를 베풀어 주시오니, 은혜를 입사옴이 너무나 지나치옴에 가슴을 어루만지며 감개가 깊도소이다. 중사(中謝)
+    배신이 이미 정례(定例)의 빙례(聘禮)를 마치옵고 바야흐로 하직을 비옴에 다행히 원하는 대로 허락하시는 어지심을 받자와 이제 귀국의 길에 오르려 하옵는데 인하여 전송의 총례(寵禮)를 베풀어 잔치를 마음껏 즐기게 되오니 처음부터 끝까지 고마우신 은혜를 깊이 마음속에 새겨 간직하오니, 살거나 죽거나 간에 진실로 은덕을 보답하기 어렵겠삽나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial of Gratitude for the Farewell Banquet at the Official Residence
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Your Majesty's exceptional favor has graciously granted permission for my return home, and the official residence has been transformed into a magnificent venue of farewell. Such abundant kindness overwhelms my heart—I am moved beyond words.
+
+    [In respectful acknowledgment]
+
+    As your humble servant has now completed the customary rites of diplomatic mission, I humbly seek leave to depart. By your benevolent consent, I am permitted to return to my native land. Yet further, you bestow upon me the honor of this grand farewell celebration, allowing me to enjoy this feast to the fullest. From beginning to end, I shall carry deep within my heart the memory of your grace. In life or death, I confess the difficulty of ever repaying such virtue.
+  footnotes:
+  - key: ''
+    value: This is a formal memorial (표, pyo) addressed to the ruler, expressing gratitude for diplomatic courtesies shown to an envoy preparing to return home.
+  - key: ''
+    value: The 'return of the jade' (還圭) is a classical metaphor for an envoy completing his mission and seeking permission to depart.
+  - key: ''
+    value: The phrase 'stroke one's heart' (捫心) expresses the depth of emotional gratitude—a gesture of pressing one's hand to one's heart.
+  - key: ''
+    value: The 'rules of reception' (定例) and 'respectful rites' (寵禮) refer to the formal protocols and honors typically extended to departing diplomatic envoys.

@@ -1,0 +1,39 @@
+canonical:
+  title: 次南浦詩韻
+  author: 盧公弼
+  language: lzh
+  text: 珊珊環佩集群仙拉我還登萬斛船日落烟波望不極白鷗飛去水如天
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次南浦詩韻
+  author: 盧公弼
+  language: lzh
+  text: 珊珊環佩集群仙。拉我還登萬斛船。日落烟波望不極。白鷗飛去水如天。
+korean:
+  title: 차 남포 시운
+  author: 노공필
+  language: kor
+  text: |-
+    산산한 환패 소리에 뭇 신선이 모여들어
+    나를 끌어 만곡 배에 오르누나
+    해 지자 내 낀 물결 가이 없고
+    흰 해오라기 날고 물은 하늘 같아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0520&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Poem on Nanpu
+  author: No Gong-pil
+  language: eng
+  text: |-
+    The tinkling of jade pendants gathers immortals—
+    they draw me aboard a vessel laden with ten thousand bushels.
+    As the sun descends, the mist-wrapped waters stretch beyond sight,
+    while white gulls drift and the water becomes sky.
+  footnotes:
+  - key: ''
+    value: Nanpu (南浦) is a classical reference to a place of farewell and journey, often evoking themes of separation and adventure in East Asian poetry. The title indicates this is a response poem following the rhyme scheme of an original work on this theme.
+  - key: ''
+    value: The 'jade pendants' (環佩) evoke the ornaments of celestial beings, establishing the ethereal, otherworldly tone of the poem.
+  - key: ''
+    value: The 'vessel laden with ten thousand bushels' suggests both a grand, magnificent boat and the weightiness of the journey undertaken.

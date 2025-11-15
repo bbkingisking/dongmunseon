@@ -1,0 +1,37 @@
+canonical:
+  title: 花塢
+  author: 吳洵
+  language: lzh
+  text: 披書獨坐百花林魏紫姚黃淺復深讀了塵編欲吟賞風吹紅雨滿衣襟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 花塢
+  author: 吳洵
+  language: lzh
+  text: 披書獨坐百花林。魏紫姚黃淺復深。讀了塵編欲吟賞。風吹紅雨滿衣襟。
+korean:
+  title: 화오
+  author: 오순
+  language: kor
+  text: |-
+    책을 펴고 혼자 앉았으매 온갖 꽃 숲인데
+    위자와 요황은 빛깔이 옅고 또 깊다
+    먼지 낀 책을 읽고는 읊조리고 완상하려 하니
+    바람이 붉은 비를 불어 옷깃에 가득하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 위자(魏紫)와 요황(姚黃) : '
+    value: 아름다운 모란꽃의 종명(種名)이다.
+english:
+  title: The Flower Garden
+  author: Oh Sun
+  language: eng
+  text: |-
+    I open my book and sit alone in a grove of countless flowers.
+    Weizi and Yaohuang blooms—some pale, some deep in hue.
+    Having read through dusty pages, I long to compose and savor,
+    When wind scatters crimson petals like rain upon my robe.
+  footnotes:
+  - key: ''
+    value: Weizi and Yaohuang are celebrated varieties of peony, celebrated in Chinese and Korean literati traditions for their distinctive coloring.

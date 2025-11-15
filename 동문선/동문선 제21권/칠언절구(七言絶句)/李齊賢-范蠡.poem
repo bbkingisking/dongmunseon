@@ -1,0 +1,41 @@
+canonical:
+  title: 范蠡
+  author: 李齊賢
+  language: lzh
+  text: 論功豈啻破強吳最在扁舟泛五湖不解載將西子去越宮還有一姑蘇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 范蠡
+  author: 李齊賢
+  language: lzh
+  text: 論功豈啻破強吳。最在扁舟泛五湖。不解載將西子去。越宮還有一姑蘇。
+korean:
+  title: 범려
+  author: 이제현
+  language: kor
+  text: |-
+    공을 논하면 어찌 강한 오나라를 쳐부순 것뿐이랴
+    보다 더 오호에 조각배를 띄운 데 있다
+    서시를 배에 싣고 떠날 줄을 몰랐더라면
+    월나라 궁전에도 고소대가 또 하나 있었을 것이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 범려(范蠡) : '
+    value: 전국(戰國) 시대 월(越)나라 범려(范蠡)가 임금 구천(句踐)을 보좌하여 오나라를 쳐서 멸한 뒤에, 벼슬을 버리고 오호(五湖)에 배를 띄워 서시(西施)를 싣고 가 버렸다. 서시는 본래 월나라에서 난 미인(美人)이었는데, 월나라에서 오나라를 멸하려고 꾀를 써서 서시를 오왕(吳王)에게 바쳤더니, 과연 오왕이 서시의 미색에 혹하여 고소대(姑蘇臺)에서 음란한 놀이만 하다가 월나라 군사의 침입을 받아 나라가 망하였다. 이 시의 뜻은 범려가 서시를 월나라에 남겨 두었더라면 월왕도 오왕처럼 서시에게 혹하여 나라가 망하였을 것이라는 뜻이다.
+english:
+  title: Fan Li
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    To speak of merit—is it merely the crushing of mighty Wu?
+    Greater still: a small boat drifting on the Five Lakes.
+    Had he not known to bear the Western Beauty away,
+    The Moon Palace too would have its Suzhou Tower of Ruin.
+  footnotes:
+  - key: ''
+    value: Fan Li was a statesman of the Warring States period who helped his lord Goujian of Yue defeat and destroy the state of Wu. After his victory, he abandoned office and sailed away on the Five Lakes with the beautiful Xi Shi.
+  - key: ''
+    value: Xi Shi was a legendary beauty born in Yue. Yue had strategically sent her to seduce the King of Wu, leading him to neglect his kingdom. The poem suggests that had Fan Li left Xi Shi in Yue instead, the King of Yue might have similarly been ruined by her beauty—as the King of Wu was by his infatuation at the Suzhou Tower.
+  - key: ''
+    value: The 'Five Lakes' refers to the waters of ancient China where Fan Li supposedly lived in retirement. The 'Suzhou Tower' (Gusu Tower) was where the King of Wu indulged in pleasure before his kingdom fell.

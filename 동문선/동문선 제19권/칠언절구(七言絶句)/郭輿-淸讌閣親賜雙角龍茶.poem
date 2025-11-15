@@ -1,0 +1,37 @@
+canonical:
+  title: 淸讌閣親賜雙角龍茶
+  author: 郭輿
+  language: lzh
+  text: 雙角盤龍入小團蜀山新採趁春寒俄回御手親提賜露氣天香惹一般
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淸讌閣親賜雙角龍茶
+  author: 郭輿
+  language: lzh
+  text: 雙角盤龍入小團。蜀山新採趁春寒。俄回御手親提賜。露氣天香惹一般。
+korean:
+  title: 청연각 친사 쌍각룡다
+  author: 곽여
+  language: kor
+  text: |-
+    쌍뿔 반롱이 작은 단(團)에 드니
+    이른 봄에 촉산에서 새로 딴 잎에
+    어수를 드시어 친히 따 내리시니
+    이슬 기운 하늘 향기가 함께 일어나옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 쌍뿔 …… 단(團) : '
+    value: 송나라 때에 임금에게 진상하는 차[茶]를 용의 형상으로 뭉쳐서 만들었다.
+english:
+  title: Tea with Twin Dragon Horns, Graciously Presented at the Clear Banquet Hall
+  author: Gwak Yeo
+  language: eng
+  text: |-
+    Twin-horned dragons coiled within the small cake,
+    Fresh leaves from Shu's mountains, plucked in early spring's cold.
+    From the imperial hands, bestowed with gracious touch—
+    The mist of morning dew and heaven's fragrance rise as one.
+  footnotes:
+  - key: ''
+    value: The tea leaves were pressed into cakes shaped like coiled dragons, a traditional form of tribute tea presented to the emperor during the Song Dynasty.

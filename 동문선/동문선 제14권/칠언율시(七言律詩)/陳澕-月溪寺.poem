@@ -1,0 +1,45 @@
+canonical:
+  title: 月溪寺
+  author: 陳澕
+  language: lzh
+  text: 小樓高倚碧孱顔雨後登臨物色閑帆帶綠煙歸遠浦潮穿黃葦到前灣水分天上眞身月雲漏江邊本色山客路幾人閑似我曉來吟到晚鴉還
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 月溪寺
+  author: 陳澕
+  language: lzh
+  text: 小樓高倚碧孱顔。雨後登臨物色閑。帆帶綠煙歸遠浦。潮穿黃葦到前灣。水分天上眞身月。雲漏江邊本色山。客路幾人閑似我。曉來吟到晚鴉還。
+korean:
+  title: 월계사
+  author: 진화
+  language: kor
+  text: |-
+    조그만 다락이 푸른 산 가에 우뚝 솟았는데
+    비 온 뒤 올라 보니 경치가 한가하구나
+    돛은 푸른 연기를 띠고 먼 개로 돌아가고
+    조수는 누른 갈숲을 뚫고 앞 물굽이에 이르네
+    하늘의 진신 달을 물이 나눠 가지고
+    강가의 본색 산이 구름 새로 나타나네
+    여로 인생이 뉘 나처럼 한가할까
+    새벽에 와서 읊기를 저녁 갈가마귀 돌아오도록
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하늘의 진신(眞身) : '
+    value: 하늘에 있는 달[月]은 진신(眞身)이요, 여러 군데 물 속에 비치는 달 그림자는 달의 분신(分身) 또는 환신(幻身)ㆍ화신(化身)이 된다.
+english:
+  title: Wolgyesa Temple
+  author: Jin Hwa
+  language: eng
+  text: |-
+    A modest tower rises proudly against the emerald mountainside,
+    And after the rain, climbing high, all nature seems at leisure.
+    Sails drift through green mist toward distant shores,
+    While tides pierce through golden reeds to reach the bay ahead.
+    Waters divide the moon's true body from the heavens,
+    Clouds reveal the mountain's essence along the river's edge.
+    Who else on this wandering path knows leisure as I do?
+    From dawn I compose my verses until the evening crow returns home.
+  footnotes:
+  - key: ''
+    value: The 'moon's true body' refers to the moon in heaven itself, while its reflections scattered across the water represent its manifestations—shadows and illusions of that celestial truth.

@@ -1,0 +1,37 @@
+canonical:
+  title: 題伽倻山讀書堂
+  author: 崔致遠
+  language: lzh
+  text: 狂噴疊石吼重巒人語難分咫尺閒常恐是非聲到耳故敎流水盡籠山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題伽倻山讀書堂
+  author: 崔致遠
+  language: lzh
+  text: 狂噴疊石吼重巒。人語難分咫尺閒。常恐是非聲到耳。故敎流水盡籠山。
+korean:
+  title: 제 가야산 독서당
+  author: 최치원
+  language: kor
+  text: |-
+    첩첩한 돌 사이에 미친 듯이 내뿜어 겹겹 봉우리에 울리니
+    사람 말소리 지척에서 분간하기 어렵네
+    항상 시비하는 소리 귀에 들림을 두려워 하기에
+    짐짓 흐르는 물을 시켜 온 산을 둘러싸네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0100&viewSync=OT
+  footnotes: []
+english:
+  title: On the Reading Hall at Mount Gaya
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    The torrent roars through stacked stones, crying out across layered peaks,
+    Human voices blur to nothing within arm's reach.
+    Fearing the sounds of dispute might drift to my ear,
+    I bid the flowing waters to embrace the entire mountain.
+  footnotes:
+  - key: ''
+    value: Mount Gaya (Gaya-san) in southern Korea was a famous site for Buddhist temples and scholarly retreats during the Silla period. Choi Chi-won, a celebrated scholar-official and poet of late Silla, built a reading hall there to escape worldly distractions.
+  - key: ''
+    value: The poem employs water as a metaphorical boundary between the scholar's retreat and the mundane world of human conflict and gossip.

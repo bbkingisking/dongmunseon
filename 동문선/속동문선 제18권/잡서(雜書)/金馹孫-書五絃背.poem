@@ -1,0 +1,29 @@
+canonical:
+  title: 書五絃背
+  author: 金馹孫
+  language: lzh
+  text: 予旣置六絃於堂又置五絃於家長三尺博六寸用今尺取古像也六絃去一而五汰冗也十六卦去四而十二亦汰冗以存十二律也絃旣五則三在卦上而兩在卦傍卦正桐腹無偏跛不正之失卦方言也於是雖不盡合於古而亦不甚悖於古乃操南風切切然有太古之遺音焉客曰公六絃於堂而私五絃於家亦何義耶曰予欲外今而內古
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書五絃背
+  author: 金馹孫
+  language: lzh
+  text: 予旣置六絃於堂。又置五絃於家。長三尺博六寸。用今尺。取古像也。六絃去一而五汰冗也。十六卦去四而十二亦汰冗。以存十二律也。絃旣五則三在卦上而兩在卦傍。卦正桐腹。無偏跛不正之失。卦方言也。於是雖不盡合於古。而亦不甚悖於古。乃操南風。切切然有太古之遺音焉。客曰公六絃於堂而私五絃於家。亦何義耶。曰予欲外今而內古。
+korean:
+  title: 서 오현배
+  author: 김일손
+  language: kor
+  text: 나는 이미 육현금(六絃琴)을 만들어 당(堂)에 두고 또 오현금을 만들어 집에 두었는데, 그 길이는 석 자요 너비는 여섯 치로 하였다. 요즘의 자를 써서 옛 모양을 취한 것이다. 육현에서 하나를 빼고 다섯으로 한 것은 복잡을 덜자는 것이요, 열여섯 괘(卦)에서 넷을 빼고 열둘로 한 것은 역시 복잡을 덜어서 열둘의 율(律)을 보존하자는 것이다. 줄이 다섯인지라 세 줄은 괘 위에 있고 두 줄은 괘 곁에 있으며, 괘는 오동 복판에 정중하여 기울고 바르지 못한 실수가 없다. 괘라는 것은 방언(方言)이다. 이에 비록 옛것과 전부 합한다고는 못하겠지만 역시 옛것과 과히 틀리지는 않는다. 드디어 남풍조(南風操)를 하니, 소리가 청아하여 태고 시절의 유음(遺音)이 있다. 손님이 말하기를, “육현금은 당(堂)에 공개하고 오현금은 집안에 사장하는 것은 무슨 까닭인가.” 하므로, 나는 말하기를, “요즘 것으로 겉치레를 하고 옛것으로 속치레를 하자는 것이다.” 하였다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1540_010_0150&viewSync=OT
+  footnotes: []
+english:
+  title: Record of the Five-String Zither
+  author: Kim Il-son
+  language: eng
+  text: 'I have placed a six-string zither in the hall and a five-string zither in my home. Its length is three feet and its width six inches, measured in modern units, yet fashioned after the ancient design. By reducing the six strings to five, I have pruned away excess; by reducing the sixteen trigrams to twelve, I preserve the twelve pitches of the ancient scale. With five strings, three rest upon the trigrams while two rest beside them. The trigrams sit perfectly centered upon the paulownia wood, without the slightest tilt or distortion. The trigrams speak the language of antiquity. Thus, though it does not fully accord with the old ways, neither does it greatly depart from them. When I play the "Southern Wind" melody, its notes ring with crystalline clarity—the very music of primordial times echoes through the sound. A guest asked me: "Why do you display the six-string zither publicly in the hall, yet keep the five-string zither privately at home?" I replied: "I wish to dress the exterior in the modern, while clothing the interior in the ancient."'
+  footnotes:
+  - key: ''
+    value: The "Southern Wind" (南風操) is a legendary ancient melody, traditionally attributed to the sage ruler Yao, symbolizing harmony and virtue.
+  - key: ''
+    value: The reference to trigrams relates to the Yijing (I Ching), suggesting a correlation between the zither's construction and cosmological principles.

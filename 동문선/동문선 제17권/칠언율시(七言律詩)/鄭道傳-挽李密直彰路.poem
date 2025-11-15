@@ -1,0 +1,59 @@
+canonical:
+  title: 挽李密直彰路
+  author: 鄭道傳
+  language: lzh
+  text: 憶曾受業益齋門獨立當時亦有聞積善盡知餘慶在老成雖遠典刑存金樽美酒春長滿玉子紋楸日又曛最恨難將仙掌露一杯救得病文園
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 挽李密直彰路
+  author: 鄭道傳
+  language: lzh
+  text: 憶曾受業益齋門。獨立當時亦有聞。積善盡知餘慶在。老成雖遠典刑存。金樽美酒春長滿。玉子紋楸日又曛。最恨難將仙掌露。一杯救得病文園。
+korean:
+  title: 만 이밀직 창로
+  author: 정도전
+  language: kor
+  text: |-
+    내 일찍 익재님 문하에서 공부할 때
+    홀로 섰던 당시를 역시 들은 바 있었네
+    아니나 다를까 적선한 집엔 여경이 있었고
+    노성한 이는 갔으나 전형은 남았었네
+    금준의 좋은 술은 봄향기 가득했는데
+    옥자 널린 바둑판에 해가 또 어두웠네
+    가장 한스럽긴, 선장 이슬 한 잔 가져다가
+    따라서 [注]병든 문원 구하지 못한 일이었어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 창로(彰路) : '
+    value: 익재(益齋) 이제현(李齊賢)의 셋째 아들.
+  - key: '[주-D002] 홀로 …… 있었네 : '
+    value: 공자(孔子)가 홀로 서 있을 때에 그의 아들 이(鯉)가 뜰 앞을 지나니 공자가, “너는 시(詩)를 배우고 예(禮)를 배우라.” 하였다.
+  - key: '[주-D003] 노성(老成)한 …… 남았었네 : '
+    value: 한(漢)나라 공융(孔融)은 채옹(蔡邕)을 좋아하였다. 채옹이 죽은 뒤에 얼굴이 채옹과 비슷한 늙은 병졸(兵卒) 한 사람을 불러 함께 술을 마시면서, “《시경》에, 노성한 이는 갔으나 전형은 남았구나 하지 않았는가.” 하였다. 여기서는 아들이 아버지를 닮았다는 뜻이다.
+  - key: '[주-D004] 선장(仙掌) 이슬 : '
+    value: 한(漢)나라 무제(武帝)가 신선 되기를 원하여 구리로 신선의 손바닥을 만들어 세워 감로(甘露)를 받았다.
+  - key: '[주-D005] 병든 문원(文園) : '
+    value: 한(漢)나라 문인(文人)  사마상여(司馬相如)를 가리킴. 효문원령(孝文園令)을 지냈는데, 그는 소갈(消渴)병이 있었다.
+english:
+  title: A Elegy for Yi Mil-jik, Director of Changno
+  author: Jeong Do-jeon
+  language: eng
+  text: |-
+    I recall studying in the school of Ikjae in earlier days,
+    And heard tell of you standing alone in that time.
+    As expected, the virtuous house received blessings in full measure,
+    And though the elder has departed, his exemplary conduct remains.
+    The golden cup held fine wine, fragrant with spring,
+    While the jade-marked Go board darkened as day declined.
+    My deepest regret: I could not bring the immortal's palm dew—
+    One cup that might have saved the ailing scholar of Wen Garden.
+  footnotes:
+  - key: ''
+    value: Changno (彰路) was the third son of Yi Je-hyeon (1287-1367), known as Ikjae, a renowned Goryeo scholar and statesman whom Jeong Do-jeon deeply respected.
+  - key: ''
+    value: The phrase 'standing alone' alludes to Confucius standing in solitude, instructing his son on the importance of learning poetry and propriety—a reference to the transmission of virtue from father to son.
+  - key: ''
+    value: The 'ailing scholar of Wen Garden' refers to Sima Xiangru, the Han dynasty poet and official who suffered from a wasting disease. The 'immortal's palm dew' is a legendary elixir that might have cured him—here used metaphorically for remedies beyond human reach.
+  - key: ''
+    value: This is a funeral elegy composed to honor Yi Mil-jik's memory, emphasizing the continuity of his father's exemplary legacy through him.

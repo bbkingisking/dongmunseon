@@ -1,0 +1,45 @@
+canonical:
+  title: 正月十七日出自金川門馬上詠懷
+  author: 李崇仁
+  language: lzh
+  text: 男子平生志何曾學臥駝一身行地遠兩眼閱人多經緯山河大蕃維宋漢和歸來覺踈宕馬上放高歌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 正月十七日出自金川門馬上詠懷
+  author: 李崇仁
+  language: lzh
+  text: 男子平生志。何曾學臥駝。一身行地遠。兩眼閱人多。經緯山河大。蕃維宋漢和。歸來覺踈宕。馬上放高歌。
+korean:
+  title: 정월 17일 금천문으로 나와 말 위에서 지난날을 회상하며
+  author: 이숭인
+  language: kor
+  text: |-
+    남자 평생의 뜻이
+    어찌 일찍이 허리 굽혀 누웠으랴
+    한 몸으로 먼 지방 다녔고
+    두 눈으로 열인한 것이 많네
+    산하를 경위하여 크고
+    송ㆍ한을 번유하여 화하네
+    돌아오매 소탕함을 느껴
+    말 위에서 소리쳐 노래를 불러 보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0440&viewSync=OT
+  footnotes: []
+english:
+  title: On the Seventeenth Day of the First Month, Riding Out from the Golden Stream Gate—A Reflection While on Horseback
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    A man's lifelong ambition—
+    why would he ever bow and cower?
+    One body has traversed distant lands,
+    two eyes have witnessed countless souls.
+    The mountains and rivers spread vast before me,
+    Song and Han united in harmony.
+    Returning, I feel my spirit unbound,
+    and from my horse I cry out in song.
+  footnotes:
+  - key: ''
+    value: The Golden Stream Gate (金川門) was a gate of Seoul during the Joseon period
+  - key: ''
+    value: This poem celebrates a life of wandering and experience, contrasting active engagement with the world against a life of retreat and passivity

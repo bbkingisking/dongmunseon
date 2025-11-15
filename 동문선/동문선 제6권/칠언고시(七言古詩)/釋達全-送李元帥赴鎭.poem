@@ -1,0 +1,46 @@
+canonical:
+  title: 送李元帥赴鎭
+  author: 釋達全
+  language: lzh
+  text: 甲光參差黃金鱗少年斗膽文章身馬蹄特特向何處珊瑚鞭指江南去紅旗影拂細柳營千里角聲雲外語手提玉匣三尺水欲斬長鯨獻天子
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送李元帥赴鎭
+  author: 釋達全
+  language: lzh
+  text: 甲光參差黃金鱗。少年斗膽文章身。馬蹄特特向何處。珊瑚鞭指江南去。紅旗影拂細柳營。千里角聲雲外語。手提玉匣三尺水。欲斬長鯨獻天子。
+korean:
+  title: 송 이원수 부진
+  author: 석달전
+  language: kor
+  text: |-
+    갑옷 빛은 번쩍번쩍 황금 비늘인데
+    소년의 담은 말만큼 크고 글 잘하는 몸이로다
+    뚜벅뚜벅 말굽은 어디로 향하는가
+    산호 채찍으로 강남을 가리키며 떠난다
+    붉은 깃발 그림자는 세류영을 떨치는데
+    천리의 군악 소리 구름 밖에 들린다
+    손에는 옥갑의 삼척수(검(劒))를 들었으니
+    큰 고래를 베어 천자에게 드리려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0510&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 세류영(細柳營) : '
+    value: 한(漢)나라 명장(名將)  주아부(周亞夫)가 흉노(匈奴)를 방어하기 위하여 세류(細柳)에 진을 쳤다.
+english:
+  title: Seeing Off General Yi to His Garrison
+  author: Seok Dal-jeon
+  language: eng
+  text: |-
+    Golden armor gleams with scales of light,
+    A young commander bold in deed and word—
+    What distant road calls those horse hooves forward?
+    A coral whip points toward the southern river.
+
+    The crimson banner's shadow sweeps through camp,
+    Where military horns sound a thousand leagues through clouds.
+    In hand, a jade-hilted sword of three feet,
+    Ready to slay the great whale for the Son of Heaven.
+  footnotes:
+  - key: ''
+    value: 'Seol Yu-yeong (細柳營): The famous garrison established by the Han dynasty general Zhou Yafu to defend against the Xiongnu invasions, here representing an exemplary military encampment.'

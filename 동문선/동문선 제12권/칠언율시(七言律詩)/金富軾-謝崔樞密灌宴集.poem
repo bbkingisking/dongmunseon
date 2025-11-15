@@ -1,0 +1,53 @@
+canonical:
+  title: 謝崔樞密灌宴集
+  author: 金富軾
+  language: lzh
+  text: 爲嘉東道主人情文馬翩翩翠盖傾禮重賓儀瞻秩秩義深朋舊賦嚶嚶酒尊屢倒春添暖舞袖初迴雪比輕獨感留髡意尤重從容談咲到三更
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝崔樞密灌宴集
+  author: 金富軾
+  language: lzh
+  text: 爲嘉東道主人情。文馬翩翩翠盖傾。禮重賓儀瞻秩秩。義深朋舊賦嚶嚶。酒尊屢倒春添暖。舞袖初迴雪比輕。獨感留髡意尤重。從容談咲到三更。
+korean:
+  title: 추밀 최관의 연회를 사례하며
+  author: 김부식
+  language: kor
+  text: |-
+    동도 주인의 정을 고맙게 여기노니
+    무늬 말이 떼를 짓고 푸른 거개가 모이었네
+    예의가 엄연하니 손의 거동이 질질함을 보겠고
+    정의가 깊어 벗들이 앵앵을 노래했지
+    술병을 연해 기울이매 봄이 따뜻함을 보태고
+    기녀들 춤추는 소매는 눈보다 가벼이 날리네
+    대머리 나를 유곤하는 정이 특히 느껴워라
+    늦도록 삼경 때까지 종용히 담소했것다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0600&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동도(東道) 주인 : '
+    value: 손[客]이 주인을 이르는 말. 춘추 시대 때에 정(鄭)나라가 진(秦)나라에 대하여, “동도 주인이 되겠다.” 하였으니, 그것은 진나라 동쪽으로 나올 일이 있으면 정나라가 주인노릇으로 편리를 보아 주겠다는 뜻이다.
+  - key: '[주-D002] 앵앵(嚶嚶) : '
+    value: 새의 울음소리이다. 《시경》 〈벌목(伐木)〉편은 친구들과 연락(燕樂)하는 노래로써 꾀꼬리를 기흥(起興)하여 친구의 정을 읊었는데, “새가 앵앵 울더라. 앵앵 우는 그 울음은 벗을 부르는 소리로다[鳥鳴嚶嚶 嚶其鳴矣 求其友生].” 하였다.
+  - key: '[주-D003] 유곤(留髠)하는 정 : '
+    value: 전국(戰國) 시대에 순우곤(淳于髠)이 제왕(齊王)에게 말하기를, “해가 저물고 술이 취했을 적에 남녀(男女)가 자리를 같이 하였는데, 당상(堂上)에는 촛불이 꺼지고 주인이 다른 손을 보내고 곤(髠)을 유숙하게 할 적에 여인의 비단 옷에 끈이 풀어지고 향내가 나면 그 때가 제일 즐겁습니다.” 하였다.
+english:
+  title: Gratitude for Choe Kwan's Banquet as Eastern Host
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    I am grateful for the generosity of the Eastern host.
+    Patterned horses prance in groups, green canopies gather close.
+    With solemn courtesy, the guests' gestures show proper decorum,
+    and deep sincerity draws from friends songs of harmony.
+    Wine cups are raised again and again, spring grows warm with each round,
+    while dancing sleeves twirl lighter than falling snow.
+    What touches me most is your kindness to this old, bare-headed guest—
+    until the third watch we talked on, leisurely and at ease.
+  footnotes:
+  - key: ''
+    value: 'Eastern host: An ancient courtesy reference meaning the host shows hospitality to the traveling guest, as if receiving them along their eastward journey.'
+  - key: ''
+    value: 'Songs of harmony (嚶嚶): Echoing the Classical poem about friendship, where birds call to summon their companions—here representing friends gathering in festive song.'
+  - key: ''
+    value: 'Kindness to this bare-headed guest: An allusion to the ancient statesman Chunyu Kun, suggesting the host''s generous attention to even the humblest guest, making the occasion feel like the finest celebration.'

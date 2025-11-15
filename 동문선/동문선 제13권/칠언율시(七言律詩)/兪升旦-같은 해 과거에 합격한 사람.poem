@@ -1,0 +1,49 @@
+canonical:
+  title: 같은 해 과거에 합격한 사람
+  author: 兪升旦
+  language: lzh
+  text: 般斧誰掄一代雄靈椿獨秀衆材中安危經濟當今日將相功名屬我公幾轉玉弢馴犬豕時留珠唾警兒童百般計校皆無歉揚觶唯祈壽不窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 같은 해 과거에 합격한 사람
+  author: 兪升旦
+  language: lzh
+  text: 般斧誰掄一代雄。靈椿獨秀衆材中。安危經濟當今日。將相功名屬我公。幾轉玉弢馴犬豕。時留珠唾警兒童。百般計校皆無歉。揚觶唯祈壽不窮。
+korean:
+  title: 동년
+  author: 유승단
+  language: kor
+  text: |-
+    수반(공수반, 명장(名匠)이다)의 도끼로 누가 당대의 큰 재목 가려냈나
+    신령한 동백나무가 뭇 재목 중에 홀로 빼어났네
+    나라의 안위에 관한 경륜 오늘에 당해서
+    장상의 공과 이름을 공에게 촉망하네
+    몇 번이나 옥 활집을 돌려 개돼지(오랑캐)를 길들였나
+    때론 구슬침을 남겨 애들을 깨우치네
+    온 가지로 평판해도 부족이 없으니
+    술잔을 높이 쳐들어 가없는 수를 비옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 때론 구슬침[珠唾]을 …… 깨우치네 : '
+    value: 《진서(晋書)》에, “기침과 침은 주옥(珠玉)을 이룬다.”는 말이 있다. 말이나 글이 입만 떼면 아름다운 주옥이 된다는 뜻이다.
+english:
+  title: Classmates
+  author: Yu Seung-dan
+  language: eng
+  text: |-
+    Who wields the axe of the master craftsman to select the great timber of our age?
+    The sacred camellia blooms resplendent, surpassing all other wood.
+    On matters of state and statecraft that determine our nation's fate,
+    I foresee for you the glory of generals and ministers.
+    How many times you have turned the jade quiver to tame the savage tribes,
+    Yet still you leave pearls of wisdom to awaken the young.
+    In every measure and reckoning, there is no lack of merit,
+    So I raise high this cup and pray for your endless years.
+  footnotes:
+  - key: ''
+    value: 'The ''pearls of wisdom'' references a classical allusion from the Book of Jin: ''Each word and utterance becomes precious jade''—suggesting that all the author speaks flows with beauty and truth.'
+  - key: ''
+    value: The 'sacred camellia' represents exceptional talent, standing alone among common materials.
+  - key: ''
+    value: The poem celebrates the author's classmate's success in the civil service examination, wishing him a brilliant career in service to the state.

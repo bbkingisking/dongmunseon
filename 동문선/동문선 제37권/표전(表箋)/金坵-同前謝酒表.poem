@@ -1,0 +1,50 @@
+canonical:
+  title: 同前謝酒表
+  author: 金坵
+  language: lzh
+  text: 寤寐淑女恩宣燕爾之婚宴遨嘉賓寵示懽然之飾光生樽俎喜溢襟懷伏念臣學靡緝煕資無冲裕職叨監國誠殫三問之日勤義重嗣親首許十倫之天合方展初筵之秩秩驟頒美祿之油油禮云旣成德以旣醉優沐蓼蕭之澤但期嵩岳之呼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同前謝酒表
+  author: 金坵
+  language: lzh
+  text: 寤寐淑女。恩宣燕爾之婚。宴遨嘉賓。寵示懽然之飾。光生樽俎。喜溢襟懷。伏念臣學靡緝煕。資無冲裕。職叨監國。誠殫三問之日勤。義重嗣親。首許十倫之天合。方展初筵之秩秩。驟頒美祿之油油。禮云旣成。德以旣醉。優沐蓼蕭之澤。但期嵩岳之呼。
+korean:
+  title: 동전 사 주 표
+  author: 김구
+  language: kor
+  text: 자나 깨나 생각하던 숙녀(淑女)로써 즐거운 결혼을 시켜 주시고 아름다운 손들에게 잔치하도록 즐겨 마실 술을 내리시니, 잔치자리에 빛이 나고 마음에 기쁨이 넘치나이다. 엎드려 생각하옵건대, 신은 학문이 진취하지 못하고 자질도 깊고 넉넉하지 못하온데, 감국(監國)의 직책으로 하루 세 번의 문안을 부지런히 하였사오며, 의(義)는 부모를 잇는 것이 중하므로 십륜(十倫)의 천생 배필을 허락하셨나이다. 바야흐로 연회의 첫 머리에 갑자기 아름다운 술을 주시오니, 예(禮)가 이루어지고 덕에 취하였나이다. 육소(蓼蕭)의 은택에 흐뭇하게 젖었사오나 다만 숭악(嵩岳)의 세 번 부름을 기약하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 자나 깨나 생각하던 숙녀(淑女) : '
+    value: 《시경》 〈관저편(關雎篇)〉에, “요조숙녀를 자나 깨나 구한다[寤寐求之].” 하였다.
+  - key: '[주-D002] 감국(監國) : '
+    value: 태자(太子)는 임금이 출정(出征)할 때에 따라가면 무군(撫軍)이라 칭하고, 도성(都城)을 지키면 감국이라 칭하는 것이다.
+  - key: '[주-D003] 하루에 세 번의 문안 : '
+    value: 《예기》에 “주문왕(周文王)이 세자(世子)가 되었을 때에 하루에 세 번씩 부왕(父王)에게 문안하였다.”고 했다.
+  - key: '[주-D004] 십륜(十倫) : '
+    value: 《예기》에, “군신(君臣)ㆍ부자(父子)ㆍ귀천(貴賤)ㆍ친소(親疎)ㆍ부부(夫婦) 등의 십륜(十倫)을 말하였다.
+  - key: '[주-D005] 육소(蓼蕭) : '
+    value: 《시경》 〈육소편(蓼蕭篇)〉은 천자가 제후에게 연회를 내리는 것을 읊은 시이다.
+english:
+  title: Commemorative Expression of Gratitude for Wine
+  author: Kim Gu
+  language: eng
+  text: |-
+    The virtuous lady I sought through day and night—she has been granted to me in blissful marriage. The noble guests feast upon wine presented with generous favor, and light dances above the wine vessels while joy overflows my breast.
+
+    Humbly I reflect: though my learning lacks vigor and my nature lacks depth, I have dutifully attended court three times daily in my service as Guardian of the Capital. Since the bonds of kinship are sacred, I have been blessed with a heavenly match among the ten eternal relations. As the first banquet unfolds in proper sequence, your majesty suddenly bestows upon me this exquisite wine. Thus ritual is fulfilled and virtue itself intoxicates me. I am bathed in the grace that falls like dew upon the wild pepper and mugwort—yet I merely await the three-fold calling from the sacred mountains.
+  footnotes:
+  - key: ''
+    value: 'The phrase ''virtuous lady I sought through day and night'' alludes to the opening of the Classic of Poetry: ''Waking and sleeping, I sought her.'''
+  - key: ''
+    value: As Guardian of the Capital, the speaker maintained the court in the ruler's absence—a position of honor and responsibility.
+  - key: ''
+    value: The 'three times daily' attendance refers to the ancient practice of filial duty, exemplified by the Duke of Zhou who visited his father three times each day.
+  - key: ''
+    value: The 'ten eternal relations' (ruler-minister, father-son, noble-base, near-distant, husband-wife, etc.) represent the foundational bonds of civilization.
+  - key: ''
+    value: The reference to 'wild pepper and mugwort' draws from the Classic of Poetry's celebration of a ruler's benevolent banquet for his vassals, suggesting the speaker's gratitude for being so honored.
+  - key: ''
+    value: The 'three-fold calling from the sacred mountains' evokes longing for continued virtue and the highest forms of celestial recognition.

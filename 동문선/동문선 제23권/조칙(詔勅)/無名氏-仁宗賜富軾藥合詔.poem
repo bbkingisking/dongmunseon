@@ -1,0 +1,41 @@
+canonical:
+  title: 仁宗賜富軾藥合詔
+  author: 無名氏
+  language: lzh
+  text: 云云逆命滔天憤妖人之作亂登壇受鉞嘉大將之請行觸風霜之沍寒憫士卒之辛苦今者王師壓境賊類摧鋒傳首于玆已協藁街之殉戢兵在卽實由蓮幕之謀宜更勉六軍之心卒以圖萬全之計
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仁宗賜富軾藥合詔
+  author: 無名氏
+  language: lzh
+  text: 云云。逆命滔天。憤妖人之作亂。登壇受鉞。嘉大將之請行。觸風霜之沍寒。憫士卒之辛苦。今者王師壓境。賊類摧鋒。傳首于玆。已協藁街之殉。戢兵在卽。實由蓮幕之謀。宜更勉六軍之心。卒以圖萬全之計。
+korean:
+  title: 인종 사 부식 약합 조
+  author: 무명씨
+  language: kor
+  text: 운운. 명령을 거스리는 죄악이 하늘에 닿았으매, 요인(妖人)이 난을 일으킨 것을 분하게 여겼고, 단(壇)에 올라 도끼를 받았으니 대장이 출전하기를 자청하는 것을 가상하게 여겼노라. 풍상(風霜)의 매서운 추위를 무릅썼으매, 사졸들의 노고가 민망스러웠다. 이제 왕사(王師)가 지경(地境)을 진압하여 역적 무리들의 칼날이 꺾였다. 괴수의 머리를 베어 와서 이미 고가(槀街)에 매달아 보였으며, 군사를 철수함이 가까운 시일에 있음은 실로 연막(蓮幕)의 계책으로 인한 것이다. 그러니 다시 육군(六軍)의 마음을 격려하여 끝까지 만전의 계책을 도모할지어다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0260_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 요인(妖人) : '
+    value: 여기에서는 백수한(白壽翰)과 묘청(妙淸)을 말한다.
+  - key: '[주-D002] 단(壇)에 …… 받았으니 : '
+    value: 대장(大將)이 출정(出征)할 때에 임금이 그에게 도끼를 주는 것은 특별한 권력을 맡겨서 살리고 죽임을 마음대로 하라는 표시이다.
+  - key: '[주-D003] 괴수의 …… 보였으며 : '
+    value: 고가는 한(漢)나라 때 장안(長安)에 있는 거리의 이름으로, 당시에 속국들의 관사(館舍)가 이곳에 모여 있었다. 죄인의 머리를 이곳에 달아매어 사람들에게 보이었다.
+  - key: '[주-D004] 연막(蓮幕) : '
+    value: 재상이나 장군이 막부(幕府)를 열고 관속을 쓰는데, 남제(南齊) 때에 왕검(王儉)의 막부에 명사가 많았으므로 거기에 들어가는 것을 연꽃에 의탁한다고 부러워하였다.
+english:
+  title: An Imperial Edict Granting Medicine to General Bu Sik
+  author: Anonymous
+  language: eng
+  text: 'Thus it is proclaimed: When rebellion''s tide rose high to heaven''s gate, we grew wrathful at those sorcerers who dared foment disorder. We ascended the altar and bestowed the axe of command, honoring our great general''s request to march forth. Through bitter winds and frost''s cruel bite, he trudged onward, and we were moved by compassion for our soldiers'' suffering. Now our royal army presses upon the borderlands, and the rebels'' blades are shattered. The heads of traitors are displayed in the market, bearing witness to justice served. The swift laying down of arms approaches—a triumph born of the cunning counsel of our prime minister. Let us therefore renew the spirit of our six legions, that together we may secure the perfect victory and lasting peace.'
+  footnotes:
+  - key: ''
+    value: The 'sorcerers' mentioned refer to historical figures who led a rebellion during King Injong's reign.
+  - key: ''
+    value: The axe of command symbolizes the delegation of supreme military authority, granting power over life and death.
+  - key: ''
+    value: Displaying heads in the marketplace follows the ancient practice of making rebels' fate known to all.
+  - key: ''
+    value: The 'prime minister's counsel' refers to the wisdom of talented officials serving in the general's military administration.

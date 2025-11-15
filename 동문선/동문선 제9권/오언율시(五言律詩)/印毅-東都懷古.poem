@@ -1,0 +1,48 @@
+canonical:
+  title: 東都懷古
+  author: 印毅
+  language: lzh
+  text: 昔年鷄貴國王氣歇山河代遠人安在江流水自波舊墟空草木遺俗尙絃歌崔薛無因見嗟嗟可柰何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東都懷古
+  author: 印毅
+  language: lzh
+  text: 昔年鷄貴國。王氣歇山河。代遠人安在。江流水自波。舊墟空草木。遺俗尙絃歌。崔薛無因見。嗟嗟可柰何。
+korean:
+  title: 동도 회고
+  author: 인의
+  language: kor
+  text: |-
+    옛날 계귀국(鷄貴國)
+    그 산하에 지금 왕기가 끊였구나
+    시대는 멀었다, 사람들은 어디 갔는고
+    강은 그대로 스스로 물결 치네
+    옛 터엔 풀만 우거졌고
+    남긴 풍속은 상기 현가를 아뢰누나
+    최후(崔侯 최치원(崔致遠))와 설씨(薛氏 설총(薛聰))를 이제 볼 길 없으니
+    서럽고 서럽다마는, 아아, 어찌하오리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 계귀국(鷄貴國) : '
+    value: 신라(新羅)의 이칭(異稱) 당(唐)나라 말로는 ‘계귀(鷄貴)’이니 곧 고려국(高麗國)이다. 모두 닭 신(神)을 섬기며, 머리에 닭의 깃을 이고 있으므로 그렇게 불렀다. 천축(天竺) 사람이 해동(海東)을 부르되, “구구탁(矩吒) 반설라(磐說羅)라 이르니, 구구탁은 닭이란 말이요, 반설라는 귀하다는 말이다.” 《삼국유사 권4 歸竺諸師》
+english:
+  title: Reminiscence of the Eastern Capital
+  author: In Eui
+  language: eng
+  text: |-
+    In ancient days, the Rooster Kingdom thrived,
+    yet now the royal spirit has fled the hills and streams.
+    Ages have passed—where have the people gone?
+    The river flows on, its waves eternal and unceasing.
+
+    The old sites lie bare, overtaken by grass and trees;
+    the legacy of custom still echoes with stringed songs.
+    But Cui and Seol cannot be seen again—
+    alas, alas, what can be done?
+  footnotes:
+  - key: ''
+    value: The 'Rooster Kingdom' (鷄貴國) is an alternate name for Silla, derived from how the Tang Chinese called Korea. According to legend, it references ancient custom of worshipping a rooster deity and wearing rooster feathers as adornment.
+  - key: ''
+    value: Cui and Seol likely refer to Choe Chi-won (崔致遠), the great Silla scholar-official, and Seol Chong (薛聰), the celebrated polymath. Their absence emphasizes the loss of the golden age of intellectual and cultural flourishing.

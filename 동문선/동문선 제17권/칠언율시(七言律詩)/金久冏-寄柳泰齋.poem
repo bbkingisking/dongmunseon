@@ -1,0 +1,47 @@
+canonical:
+  title: 寄柳泰齋
+  author: 金久冏
+  language: lzh
+  text: 君在南邊我北邊昔年同戲夢依然淚因別久成河落心爲愁深貯火燃沙暖海棠紅勝錦日晴江柳綠如煙何時握手成佳會兩地相思路二千
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄柳泰齋
+  author: 金久冏
+  language: lzh
+  text: 君在南邊我北邊。昔年同戲夢依然。淚因別久成河落。心爲愁深貯火燃。沙暖海棠紅勝錦。日晴江柳綠如煙。何時握手成佳會。兩地相思路二千。
+korean:
+  title: 기 유태재
+  author: 김구경
+  language: kor
+  text: |-
+    그대는 남쪽 가에, 나는 북쪽 가에
+    옛날 함께 놀던 일이 꿈에도 선하네 그려
+    눈물은 오랜 이별에 은하수 되어 떨어지듯
+    맘은 깊은 시름에 장작불을 지피는 듯
+    따스한 노래에 해당화가 비단보다 더 붉고
+    갠 날에 강 버들은 연기마냥 푸르네
+    언제 우리 손 잡고 멋지게 만나볼까
+    두 지방에서 서로 생각 길이 2천 리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0670&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to Yu Tae-jae
+  author: Kim Gu-gyeong
+  language: eng
+  text: |-
+    You dwell on the southern shore, I on the northern.
+    The games we played in years gone by—still vivid in my dreams.
+    Tears from our long parting fall like the Milky Way,
+    While my heart, heavy with sorrow, kindles fires within.
+
+    On warm banks, the crabapple blooms redder than silk,
+    And on clear days, the riverside willows drift like smoke.
+
+    When shall we clasp hands and meet in joy?
+    Two thousand li of longing stretch between our lands.
+  footnotes:
+  - key: ''
+    value: The Milky Way alludes to the ancient Chinese legend of the Weaver and Cowherd, separated lovers whose tears form the celestial river
+  - key: ''
+    value: The riverside willows and crabapple flowers evoke the beauty of spring, contrasting poignantly with the speaker's separation from his friend

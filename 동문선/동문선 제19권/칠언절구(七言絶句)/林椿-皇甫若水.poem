@@ -1,0 +1,37 @@
+canonical:
+  title: 皇甫若水
+  author: 林椿
+  language: lzh
+  text: 聞君閉戶對塵編讀過長安積雨天要向柴扉尋病叟淸談終勝卷中賢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 皇甫若水
+  author: 林椿
+  language: lzh
+  text: 聞君閉戶對塵編。讀過長安積雨天。要向柴扉尋病叟。淸談終勝卷中賢。
+korean:
+  title: 황보약수
+  author: 임춘
+  language: kor
+  text: |-
+    들으니 그대 문 닫고 먼지 앉은 책 뒤적거려
+    읽으며 장안의 장마철 넘긴다지
+    시비 두드려 병든 늙은이 찾게나
+    청담이 마침내 책 속 현인보다 나을걸세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0870&viewSync=OT
+  footnotes: []
+english:
+  title: Huang Fu Ruoshui
+  author: Lim Chun
+  language: eng
+  text: |-
+    I hear you've closed your door to dusty books,
+    reading through the long rains of Chang'an.
+    Why not seek out the ailing sage
+    by knocking at his simple cottage gate?
+    Clear conversation surpasses
+    all the worthies bound in pages.
+  footnotes:
+  - key: ''
+    value: Chang'an refers to the ancient capital, here used to evoke a sense of place and time. The poem contrasts textual knowledge with the wisdom gained through direct human encounter and dialogue.

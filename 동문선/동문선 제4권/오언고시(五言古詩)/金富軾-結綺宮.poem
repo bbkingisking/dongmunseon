@@ -1,0 +1,50 @@
+canonical:
+  title: 結綺宮
+  author: 金富軾
+  language: lzh
+  text: 堯階三尺卑千載餘其德秦城萬里長二世失其國古今靑史中可以爲觀式隋皇何不思土木竭人力
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 結綺宮
+  author: 金富軾
+  language: lzh
+  text: 堯階三尺卑。千載餘其德。秦城萬里長。二世失其國。古今靑史中。可以爲觀式。隋皇何不思。土木竭人力。
+korean:
+  title: 결기궁
+  author: 김부식
+  language: kor
+  text: |-
+    요 임금 뜰은 낮기 세 자였으나
+    천추에 그 덕을 남기었고
+    진 시황 성은 만 리나 되었으나
+    두 대만에 나라를 잃었네
+    예와 오늘의 흐름 속에서
+    능히 그 거울이 될 만하거니
+    수황은 어이 생각하지 못하고서
+    토목으로 백성의 힘 말렸던고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: The Palace of Elaborate Beauty
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Yao's court was but three feet low,
+    Yet his virtue echoed a thousand ages.
+    Qin's walls stretched ten thousand li wide,
+    Yet two generations lost the realm.
+
+    In the current flowing through past and present,
+    A mirror to guide the wise—
+    But why did the Sui emperor not consider?
+    With stone and timber, he drained the people's strength.
+  footnotes:
+  - key: ''
+    value: Yao refers to the legendary sage-king of ancient China, known for his humble virtue and moral governance.
+  - key: ''
+    value: The Qin alludes to Qin Shi Huang and the Great Wall, whose massive projects could not prevent the dynasty's swift collapse under his successor.
+  - key: ''
+    value: The Sui emperor likely refers to Yang of Sui, whose extravagant construction projects, including the Grand Canal, contributed to the dynasty's downfall.
+  - key: ''
+    value: The poem uses historical examples to warn against prioritizing grand material works over the welfare of the people.

@@ -1,0 +1,43 @@
+canonical:
+  title: 又
+  author: 崔惟淸
+  language: lzh
+  text: 九霄詔檢霈蕭露之湑兮萬里使軺耀原華之皇者先聲纔曁嘉問繼臨載循相好之溢言益認終謙之令德尙愼風霜之凜蚤符雲霧之披
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 又
+  author: 崔惟淸
+  language: lzh
+  text: 九霄詔檢。霈蕭露之湑兮。萬里使軺。耀原華之皇者。先聲纔曁。嘉問繼臨。載循相好之溢言。益認終謙之令德。尙愼風霜之凜。蚤符雲霧之披。
+korean:
+  title: 우
+  author: 최유청
+  language: kor
+  text: 구소(九霄)에서 내린 조서의 은총은 소로(蕭露)처럼 함초롬히 젖었고, 만 리에서 오시는 사행(使行)이 당도한 언덕은 황화(皇華)가 빛이 납니다. 오신다는 기별이 겨우 이르자 뒤이어 아름다운 서문(書問)을 보내주시니, 정다운 말씀이 넘치어 더욱 겸손한 덕을 인정합니다. 부디 차가운 풍상(風霜)을 조심하시어 빨리 반갑게 뵙고자 하는 생각에 부응하도록 하여 주소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소로(蕭露)처럼 …… 젖었고 : '
+    value: 《시경(詩經)》 소아(小雅)육소편(蓼蕭篇)에, “쫑긋한 저 쑥대여, 이슬이 뚝뚝 떨어지도다. 이미 군자를 보았으니, 내 마음이 쏟는도다[蓼彼蕭斯 零露湑兮 旣見君子 我心寫兮].” 하였고, 그 서(序)에 천자가 제후를 보고 잔치하면서 지은 것이라 하였다.
+english:
+  title: Another
+  author: Choi Yu-cheong
+  language: eng
+  text: |-
+    The imperial decree descends from the nine heavens,
+    its grace soaking soft as dew on mugwort—
+    and the envoy's path across ten thousand leagues
+    glows with the brilliance of royal flowers.
+
+    Barely has word of your coming arrived
+    when your gracious letter follows close behind,
+    and in your generous words overflowing,
+    I see my humble virtue newly recognized.
+
+    I only pray you will guard yourself
+    against the chill of frost and wind,
+    so that our longing—like clouds parting—
+    might soon dissolve into joyful meeting.
+  footnotes:
+  - key: ''
+    value: The metaphor of dew on mugwort alludes to a passage in the Classic of Poetry celebrating the Son of Heaven's reception of the feudal lords, expressing a heart that overflows with emotion at the meeting.

@@ -1,0 +1,55 @@
+canonical:
+  title: 用贈鄭子文詩韻寄李主簿
+  author: 徐居正
+  language: lzh
+  text: 靜裏功夫課菜畦有時編簡費提携詩成或惡砭無客計拙何營諫有妻世事對門曾嚼肉人心懲熱復吹虀石田茅屋餘年興牋告天公首屢稽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 用贈鄭子文詩韻寄李主簿
+  author: 徐居正
+  language: lzh
+  text: 靜裏功夫課菜畦。有時編簡費提携。詩成或惡砭無客。計拙何營諫有妻。世事對門曾嚼肉。人心懲熱復吹虀。石田茅屋餘年興。牋告天公首屢稽。
+korean:
+  title: 용증 정자문 시운 기 이 주부
+  author: 서거정
+  language: kor
+  text: |-
+    고요할 때의 공부를 채소밭에 배정했는데
+    때로는 책을 읽기에 시간을 허비하네
+    시를 지은 것 잘못되어도 고쳐 줄 사람 없으나
+    계획이 옹졸하매 무엇을 경영할까 충고하는 아내 있네
+    세상 일은 이웃끼리도 서로 살을 씹는가 하면
+    사람 마음은 더위에 데이었어도 다시 양념 끊인다
+    돌밭과 띠풀 집에서 남은 생의 홍취는
+    사설로 하늘에 아뢰어 머리를 자주 조아림이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: Sent to Magistrate Lee Using the Rhymes of a Poem Gifted to Jeong Ja-mun
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    In quiet hours I tend my garden plot,
+    Yet books consume the time I thought I had.
+    Though verse I make may bear its flaws unsought,
+    My wife, with prudent counsel, keeps me glad.
+
+    Among our neighbors, men will gnaw their fill,
+    While hearts, once burned by summer's bitter heat,
+    Grow cool again with pickled vegetables' skill.
+    In stony fields where humble grasses meet,
+
+    I find what years have left me to enjoy—
+    A thatched-roof home, my refuge and my joy.
+    With written words I bow before the sky,
+    My head bent low in reverence drawn nigh.
+  footnotes:
+  - key: ''
+    value: The title suggests this poem responds to verse sent by Jeong Ja-mun, and is being forwarded to Magistrate Lee—likely a social courtesy among literati.
+  - key: ''
+    value: The references to gardening, books, and a wife's counsel paint a portrait of scholarly retirement, a valued theme in classical East Asian poetry.
+  - key: ''
+    value: The image of neighbors gnawing meat and hearts cooling like pickled vegetables may suggest the transience of worldly passions and the contrast between public ambition and private contentment.
+  - key: ''
+    value: The final couplet shows the poet maintaining scholarly rituals and reverence despite his humble circumstances, reflecting the Confucian ideal of moral cultivation in retirement.

@@ -1,0 +1,29 @@
+canonical:
+  title: 太后賀正起居表
+  author: 李穀
+  language: lzh
+  text: 守藩東海之濱未能趨造注想內朝之列徒切瞻依
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 太后賀正起居表
+  author: 李穀
+  language: lzh
+  text: 守藩東海之濱。未能趨造。注想內朝之列。徒切瞻依。
+korean:
+  title: 태후 하정 기거 표
+  author: 이곡
+  language: kor
+  text: 동해(東海) 가녘에 번봉(藩封)을 지키느라 몸소 추창(趨蹌)하여 뵈옵지 못하오나, 내조(內朝)의 반열(班列)로 생각을 달려 첨의(瞻依)하옵는 마음 오직 간절하옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial Offering New Year Greetings to the Queen Dowager
+  author: Lee Gok
+  language: eng
+  text: Guarding my distant fief upon the eastern seas, I cannot myself make the journey to pay my respects. Yet my thoughts reach toward the halls of the inner court, and my yearning gaze and reverent heart remain ever fervent.
+  footnotes:
+  - key: ''
+    value: This is a formal memorial (표, biao) submitted to the Queen Dowager during the New Year season, a genre of official court correspondence common in medieval Korean and Chinese bureaucracy.
+  - key: ''
+    value: The 'eastern seas' refers to the author's provincial posting, away from the capital, emphasizing both his distance and his loyalty despite the separation.

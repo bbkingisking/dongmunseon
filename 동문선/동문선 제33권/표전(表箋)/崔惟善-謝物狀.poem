@@ -1,0 +1,33 @@
+canonical:
+  title: 謝物狀
+  author: 崔惟善
+  language: lzh
+  text: 孝理之風達于下土喪紀之賜出自上仁顧惟孤藐之姿曷稱畀矜之惠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝物狀
+  author: 崔惟善
+  language: lzh
+  text: 孝理之風。達于下土。喪紀之賜。出自上仁。顧惟孤藐之姿。曷稱畀矜之惠。
+korean:
+  title: 사물장
+  author: 최유선
+  language: kor
+  text: 효도로 다스리는 풍도(風度)가 하토(下土)에 달하여 상사(喪事)에 쓸 물품이 상천(上天)에서 내리시니, 돌아보건대 이 외롭고 조그만 몸이 어찌 고맙고 자랑스러운 은혜를 감당하리이까.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0360_010_0290&viewSync=OT
+  footnotes: []
+english:
+  title: A Statement of Gratitude for Provisions
+  author: Choe Yuseong
+  language: eng
+  text: |-
+    The wind of filial governance reaches down to the humble earth below,
+    And the gifts for mourning descend from above—from celestial benevolence.
+    Yet turning inward upon this solitary, diminished frame of mine,
+    How can I bear the weight of such gracious and magnificent favor?
+  footnotes:
+  - key: ''
+    value: The poem employs the convention of mock modesty typical of thank-you compositions, where the speaker expresses unworthiness to receive official provisions and sympathy during mourning.
+  - key: ''
+    value: The 'wind of filial governance' refers to the moral influence of virtuous rulership, particularly as it manifests in the state's concern for proper mourning practices and support for the bereaved.

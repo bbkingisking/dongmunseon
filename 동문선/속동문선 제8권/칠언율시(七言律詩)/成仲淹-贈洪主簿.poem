@@ -1,0 +1,46 @@
+canonical:
+  title: 贈洪主簿
+  author: 成仲淹
+  language: lzh
+  text: 暫從朝市厭塵囂早歲歸田已息交細雨江干靑蒻笠淸風屋上海棠巢自占物外無窮興都把人閒萬事拋愧我當年迷進退如今身世繫瓜匏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈洪主簿
+  author: 成仲淹
+  language: lzh
+  text: 暫從朝市厭塵囂。早歲歸田已息交。細雨江干靑蒻笠。淸風屋上海棠巢。自占物外無窮興。都把人閒萬事拋。愧我當年迷進退。如今身世繫瓜匏。
+korean:
+  title: 증 홍주부
+  author: 성중엄
+  language: kor
+  text: |-
+    잠깐 조시를 따랐다가 시끄러움을 싫어해
+    젊어서 전원에 돌아와 이미 교제를 끊었네
+    보슬비 강가에는 푸른 부들삿갓과 도롱이요
+    맑은 바람 집 위에는 해당의 둥우리 일러라
+    세상 밖의 무궁한 흥을 스스로 차지했거니
+    인간의 모든 일을 한꺼번에 던져버리었구나
+    부끄럽다 나는 그 때에 진퇴에 미혹했나니
+    지금의 내 신세는 과포처럼 매이었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0730&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 과포(瓜匏)처럼 매이었네 : '
+    value: 공자(孔子)의 말에, “나는 어찌 박[匏]이나 오이처럼 한 군데에 매어 있으란 말이냐.” 하였다.
+english:
+  title: A Gift for Hong, the Assistant Magistrate
+  author: Seongjung-eom
+  language: eng
+  text: |-
+    I followed the court and market for a time, weary of the noise and dust,
+    But early in my years I returned to the fields and severed all ties.
+    In the gentle rain by the river, a traveler's hat of green reed,
+    And above the house in the clean wind, the nest of a tree peony.
+
+    I have claimed for myself the infinite joy beyond the world,
+    Casting away all the thousand affairs of human life.
+    Yet I am ashamed—in those days I wavered in my choices,
+    And now my fate binds me like a gourd upon a string.
+  footnotes:
+  - key: ''
+    value: 'The final image of the gourd alludes to Confucius''s words: ''Why should I be bound like a gourd or melon in one place?''—expressing a longing for freedom that the speaker finds he cannot achieve.'

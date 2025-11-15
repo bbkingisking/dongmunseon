@@ -1,0 +1,48 @@
+canonical:
+  title: 北界營
+  author: 金之岱
+  language: lzh
+  text: 雲海茫茫空復空倚樓長嘯生雄風白鳥去盡暮天碧靑山猶含殘照紅花塼侍講老學士栢署提綱賢按公握手一笑百憂散乾坤可盡心難窮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 北界營
+  author: 金之岱
+  language: lzh
+  text: 雲海茫茫空復空。倚樓長嘯生雄風。白鳥去盡暮天碧。靑山猶含殘照紅。花塼侍講老學士。栢署提綱賢按公。握手一笑百憂散。乾坤可盡心難窮。
+korean:
+  title: 북계영
+  author: 김지대
+  language: kor
+  text: |-
+    구름과 바다가 아득하게 끝없이 비었는데
+    다락에 기대어 휘파람 부니 웅풍이 나네
+    흰 물새 나는 끝에 저문 하늘이 푸르고
+    청산은 아직도 붉은 낙일 띠었구나
+    이 몸은 화전에서 시강하던 노학사
+    그대는 백서(어사대(御史臺)의 별칭)의 장으로 보외된 안부
+    손 잡고 한 번 웃자 온 시름 흩어지네
+    천지는 다한다 해도 이 마음은 그지없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화전(花塼) : '
+    value: 당나라 한림원(翰林院)에 꽃무늬 있는 벽돌을 뜰에 깔았다.
+english:
+  title: Northern Garrison Camp
+  author: Kim Ji-dae
+  language: eng
+  text: |-
+    Cloud and sea stretch boundless, emptiness upon emptiness—
+    Leaning on the tower, I whistle and a mighty wind is born.
+    White birds vanish into the twilight sky's deepening blue,
+    While green mountains still wear the crimson of the falling sun.
+
+    I, an aged scholar who lectured in the flower-tiled court,
+    You, promoted as chief official of the censorate's halls—
+    Let us clasp hands and laugh once; all worries scatter away.
+    Though heaven and earth may reach their end, the heart knows no bounds.
+  footnotes:
+  - key: ''
+    value: The 'flower-tiled court' alludes to the Tang Dynasty's Hanlin Academy, where flowered tiles adorned the courtyard—here suggesting a place of scholarly refinement and imperial service.
+  - key: ''
+    value: The 'censorate's halls' refers to the office of the Censoriate (御史臺), the body responsible for imperial inspection and remonstrance.

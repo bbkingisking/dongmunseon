@@ -1,0 +1,75 @@
+canonical:
+  title: 上黨韓公狎鷗亭詩
+  author: 金守溫
+  language: lzh
+  text: 謝安不起東山中晉家烟霧何涳濛謝安一起東山東晉家日月開晴空時危必仗濟世雄光岳氣合英雄鍾天爲東方生我公眞主奮興雲從龍安劉定策扶日紅泰山喬岳銘彜鍾勳盟帶礪保始終位冠百僚光顯融公視富貴浮雲同河汾一曲親鷗翁公功却與天地隆公心自與秋旻洪余觀古人誰比蹤宋朝丞相韓魏公
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上黨韓公狎鷗亭詩
+  author: 金守溫
+  language: lzh
+  text: 謝安不起東山中。晉家烟霧何涳濛。謝安一起東山東。晉家日月開晴空。時危必仗濟世雄。光岳氣合英雄鍾。天爲東方生我公。眞主奮興雲從龍。安劉定策扶日紅。泰山喬岳銘彜鍾。勳盟帶礪保始終。位冠百僚光顯融。公視富貴浮雲同。河汾一曲親鷗翁。公功却與天地隆。公心自與秋旻洪。余觀古人誰比蹤。宋朝丞相韓魏公。
+korean:
+  title: 상당 한공 압구정시
+  author: 김수온
+  language: kor
+  text: |-
+    사안이 동산에서 일지 않으니
+    진가의 연무가 자욱하더니
+    사안이 동산 동쪽에서 한 번 일어나니
+    진가의 일월이 활짝 개었네
+    위태로운 시국엔 반드시 세상을 건질 인물이 나는 법
+    광악의 기운이 합해 영웅이 태어났네
+    하늘이 동방을 위하여 우리 공을 낳으시니
+    진주가 일어나자 구름이 용을 좇아
+    종사를 안정하고 붉은 해를 붙들어
+    태산교악 같은 공을 세웠네
+    산하대려의 훈맹이 시종을 보전하니
+    벼슬이 백관의 으뜸 빛나고 드러났네
+    그러나 공은 부귀를 뜬구름 보듯
+    강가 한 구비에서 갈매기와 친하는 늙은이
+    공의 공은 천지와 더불어 높이고
+    공의 마음은 가을하늘처럼 넓구나
+    내 보건대 옛 사람 중에 누가 공에 견줄 만할까
+    송조의 승상 한위공일까 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사안(謝安)이 …… 일지 않으니 : '
+    value: 진(晋)나라 사안(謝安)이 40세가 되기까지 동산(東山)에서 놀고 벼슬하지 않을 때에 사람들이, “안석(安石 사안의 자)이 일어나지 않으면 창생(蒼生)을 어찌하랴.” 하였더니, 뒤에 나와 명재상(名宰相)이 되었다.
+  - key: '[주-D002] 송조(宋朝)의 …… 하네 : '
+    value: 송나라 재상 한기(韓琦)에게 압구정(狎歐亭)이 있었다.
+english:
+  title: On Minister Han's Taming-the-Gull Pavilion
+  author: Kim Su-on
+  language: eng
+  text: |-
+    When Xie An would not rise from Eastern Mountain,
+    Jin's realm lay shrouded in mist and fog.
+    But when Xie An arose from Eastern Mountain's slope,
+    Jin's sun and moon burst into clear sky.
+
+    In perilous times, heaven sends forth the worthy sage,
+    When luminous peaks converge, heroes are born.
+    Heaven itself has fashioned you for the East,
+    As the true lord rises, clouds follow the dragon.
+
+    Steadying the realm and grasping the crimson sun,
+    You carved your name upon mountains and bells,
+    Your meritorious oaths, sealed with belt and stone,
+    Preserve the kingdom from beginning to end.
+    Your position shines supreme among all ministers,
+    Yet you regard wealth and rank as drifting clouds.
+
+    By the river's bend you befriend the old gull-watcher,
+    Your merit towers high as heaven and earth,
+    Your heart spreads wide as the autumn sky.
+
+    Among the ancients, who stands as your equal?
+    Could it be Song's Chancellor Han Wei-gong?
+    Truly, you alone match his noble measure.
+  footnotes:
+  - key: ''
+    value: 'Xie An (謝安) of the Jin Dynasty famously withdrew to Eastern Mountain for forty years, refusing office until age forty, while people lamented: ''If An does not rise, what becomes of the common folk?'' He later emerged to become a renowned prime minister.'
+  - key: ''
+    value: Han Qi (韓琦), chancellor of the Song Dynasty, was known to have had a 'Taming-the-Gull Pavilion' (狎歐亭), reflecting a hermetic retreat despite his high office.

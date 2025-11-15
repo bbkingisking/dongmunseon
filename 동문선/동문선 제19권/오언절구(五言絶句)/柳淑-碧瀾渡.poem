@@ -1,0 +1,37 @@
+canonical:
+  title: 碧瀾渡
+  author: 柳淑
+  language: lzh
+  text: 久負江湖約風塵二十年白鷗如欲笑故故近樓前
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 碧瀾渡
+  author: 柳淑
+  language: lzh
+  text: 久負江湖約。風塵二十年。白鷗如欲笑。故故近樓前。
+korean:
+  title: 벽란도
+  author: 유숙
+  language: kor
+  text: |-
+    강호의 기약을 오랫동안 저버린 채
+    풍진에 어느덧 이십 년일세
+    백구도 조롱하는 듯
+    짐짓 다락 앞으로 가까이 오네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: Byeokran Ferry
+  author: Yu Suk
+  language: eng
+  text: |-
+    For twenty years I've wandered through dust and wind,
+    broken my promise to return to river and lake.
+    Even the white gulls seem to mock me now—
+    they drift so close before my tower, as if to laugh.
+  footnotes:
+  - key: ''
+    value: Byeokran Ferry was a famous crossing point on the Yeseong River, historically a gathering place for scholars and poets. The poem alludes to the poet's long absence from such places of refuge and contemplation.
+  - key: ''
+    value: The white gull is a traditional symbol in East Asian poetry of freedom, purity, and the untamed spirit—here used ironically as a witness to the speaker's compromised state.

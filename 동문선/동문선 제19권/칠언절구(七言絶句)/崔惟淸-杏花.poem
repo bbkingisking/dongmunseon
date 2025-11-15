@@ -1,0 +1,38 @@
+canonical:
+  title: 杏花
+  author: 崔惟淸
+  language: lzh
+  text: 平生最是戀風光今日花前興欲狂願借漆園胡蝶夢遶枝攀蘂恣飛揚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 杏花
+  author: 崔惟淸
+  language: lzh
+  text: 平生最是戀風光。今日花前興欲狂。願借漆園胡蝶夢。遶枝攀蘂恣飛揚。
+korean:
+  title: 행화
+  author: 최유청
+  language: kor
+  text: |-
+    평생에 좋아하긴 풍광을 그리는 일
+    오늘 꽃 앞에 흥이 미치겠고야
+    원컨댄 칠원(漆園)의 나비꿈을 빌어서
+    가지를 돌고 꽃술에 앉으며 마음대로 날고저
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 칠원(漆園) : '
+    value: 장자(莊子)를 지칭한다. 일찍이 칠원(漆園) 땅의 관원으로 있었기 때문에 붙여진 이름이다.
+english:
+  title: Apricot Blossoms
+  author: Choe Yu-cheong
+  language: eng
+  text: |-
+    All my life I have cherished the beauty of nature's changing light.
+    Today before these flowers, my spirit threatens to break free.
+    I wish to borrow the butterfly dream of the man of Qi Garden,
+    That I might circle the branches and dance upon the stamens,
+    Flying wild and unrestrained.
+  footnotes:
+  - key: ''
+    value: The 'man of Qi Garden' refers to Zhuangzi, who once served as an official in that region. The poet invokes Zhuangzi's famous parable of dreaming he was a butterfly, using it as a metaphor for transcendence and liberation through communion with nature.

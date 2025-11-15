@@ -1,0 +1,41 @@
+canonical:
+  title: 淸州元巖宴集
+  author: 黃石奇
+  language: lzh
+  text: 碧玉杯深美酒香嵇琴聲緩笛聲長箇中又有歌喉細七老相歡鬓似霜 七老杏村李侍中嵒漆園尹侍中桓瑞谷廉侍中悌臣唐城洪元哲壽春李壽山啓城王梓檜山黃石奇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淸州元巖宴集
+  author: 黃石奇
+  language: lzh
+  text: 碧玉杯深美酒香。嵇琴聲緩笛聲長。箇中又有歌喉細。七老相歡鬓似霜。 七老。杏村李侍中嵒，漆園尹侍中桓，瑞谷廉侍中悌臣，唐城洪元哲，壽春李壽山，啓城王梓，檜山黃石奇。
+korean:
+  title: 청주원암연집
+  author: 황석기
+  language: kor
+  text: |-
+    푸른 옥잔이 깊어 맛난 술이 향기로운데
+    해금 소리는 늘어지고 피리 소리는 길다
+    그 중에 또 고운 목노래 있어
+    일곱 노인 즐기는데 귀밑머리는 서리 같네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0720&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 일곱 노인 : '
+    value: 행촌(香村) 이시중(李侍中) 암(嵒)과, 칠원(漆園) 윤시중(尹侍中) 환(桓)과, 서곡(瑞谷) 염시중(廉侍中) 제신(悌臣)과, 당성(唐城)  홍원철(洪元哲)과, 수춘(壽春)  이수산(李壽山)과, 계성(啓城) 왕재(王梓)와, 회산(檜山)  황석기(黃石奇)이다.
+english:
+  title: A Gathering at Wonham in Cheongju
+  author: Hwang Seok-gi
+  language: eng
+  text: |-
+    Deep jade cups brim with fragrant wine,
+    The zither's voice draws long and slow,
+    The bamboo flute extends its line—
+    And midst it all, a voice so fine,
+    Seven elders, their temples snow,
+    In joy together intertwine.
+  footnotes:
+  - key: ''
+    value: 'The ''Seven Elders'' were accomplished literary figures of the time: Yi Seok (이암) of Haengchon, Yun Hwan (윤환) of Chilwon, Yeom Jae-sin (염제신) of Seogok, Hong Won-cheol (홍원철) of Tangseong, Yi Su-san (이수산) of Suchun, Wang Ja (왕재) of Gyeseong, and the poet Hwang Seok-gi himself of Hoisan.'
+  - key: ''
+    value: The 'jade cups' reference the finest vessels for wine, suggesting both the quality of the gathering and its refined atmosphere.

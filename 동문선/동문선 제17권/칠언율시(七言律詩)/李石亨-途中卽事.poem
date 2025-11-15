@@ -1,0 +1,51 @@
+canonical:
+  title: 途中卽事
+  author: 李石亨
+  language: lzh
+  text: 悠悠馬上送烏蟾忽忽人間換冷炎山腹雲歸橫翠帶海唇松掩長蒼髥魂驚絶棧泥仍滑病怯寒風雪更添弧矢當年曾結意百千辛苦也無嫌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 途中卽事
+  author: 李石亨
+  language: lzh
+  text: 悠悠馬上送烏蟾。忽忽人間換冷炎。山腹雲歸橫翠帶。海唇松掩長蒼髥。魂驚絶棧泥仍滑。病怯寒風雪更添。弧矢當年曾結意。百千辛苦也無嫌。
+korean:
+  title: 도중 즉사
+  author: 이석형
+  language: kor
+  text: |-
+    오랜 세월을 말 위에서 보내노라니
+    인간의 철 바뀜이 바쁘기도 한지고
+    산 중턱에 떠도는 구름은 파란 띠를 감은 듯
+    바다 입술을 솔이 가리워 푸른 수염이 길구나
+    넋이 떨리는 잔도에 진흙이 미끄럽고
+    병중에 겁나는 찬 바람 눈까지 겹쳐오네
+    날 적부터 진작 호시를 뜻했던 것
+    신고가 백ㆍ천이라도 내사 싫지 않노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0980&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 호시(弧矢) : '
+    value: ‘상호봉시(桑弧蓬矢)’의 준말로 남자를 낳으면, 뽕나무 활과 쑥대 화실로 동서남북 사방으로 쏘는데, 그것은 장래에 사방으로 다니면서 대업을 이루기를 축원하는 것이다.
+english:
+  title: Events on the Journey
+  author: Lee Seok-hyeong
+  language: eng
+  text: |-
+    Endless years I spend upon my horse,
+    While seasons shift with hurried course.
+    Clouds drift through mountain's middle air,
+    Wrapped like a blue and emerald sash so fair.
+    The pines conceal the ocean's edge,
+    With emerald whiskers on its ledge.
+    My spirit trembles on the narrow ledge,
+    Where mud still slips at every edge.
+    Sick with the cold wind's bitter bite,
+    The falling snow compounds my plight.
+    Yet from my youth I held this aim—
+    The archer's bow, the wanderer's flame.
+    Though ten thousand hardships block my way,
+    I harbor not a single complaint today.
+  footnotes:
+  - key: ''
+    value: 'The ''archer''s bow'' (弧矢) alludes to an ancient ritual: when a son is born, a mulberry bow and mugwort arrows are shot toward the four directions, symbolizing hopes that he will travel far and accomplish great deeds.'

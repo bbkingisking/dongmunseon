@@ -1,0 +1,59 @@
+canonical:
+  title: 途中寒食
+  author: 崔淑精
+  language: lzh
+  text: 去年寒食長安道百花香裏深醉倒今年寒食塞上城瀟瀟風雨隨行旌循環歲事年復年男兒行止皆關天邊庭日暮人烟稀孤村楊柳搖春霏龍灣江上把一杯杏花消息來不來風光不减兩鬢改明年何處更相待
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 途中寒食
+  author: 崔淑精
+  language: lzh
+  text: 去年寒食長安道。百花香裏深醉倒。今年寒食塞上城。瀟瀟風雨隨行旌。循環歲事年復年。男兒行止皆關天。邊庭日暮人烟稀。孤村楊柳搖春霏。龍灣江上把一杯。杏花消息來不來。風光不减兩鬢改。明年何處更相待。
+korean:
+  title: 도중한식
+  author: 최숙정
+  language: kor
+  text: |-
+    작년 한식날 서울 길에선
+    온갖 꽃 향내 속에 잔뜩 취해 넘어졌더니
+    금년 한식 변새 성에선
+    우수수 풍우가 가는 깃발 따르네
+    해마다 철은 빙빙 돌아오건만
+    남아의 행지는 모두 다 운명
+    변방에 날 저물어 인연도 드문데
+    외딴 마을 버들가지 봄비에 흔들리네
+    용만 강변에서 술 한 잔을 드노라니
+    살구꽃 소식은 오는가, 안 오는가
+    풍광은 전 같으나 두 귀밑머리는 세었으니
+    명년엔 어느 곳에서 다시 기다리게 될까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0020&viewSync=OT
+  footnotes: []
+english:
+  title: Cold Food Festival on the Road
+  author: Choi Suk-jeong
+  language: eng
+  text: |-
+    Last year at Cold Food Festival on the Chang'an road,
+    I collapsed drunk amid the fragrance of a hundred flowers.
+    This year at Cold Food Festival in the borderland fortress,
+    Whispered winds and rain follow the marching banners.
+
+    Year after year the seasons turn and return,
+    Yet a soldier's path is written by fate alone.
+    At dusk on the frontier, the smoke of hearths grows thin,
+    And lonely willows in a distant village tremble in spring rain.
+
+    By Dragon Bay on the river I raise a single cup,
+    Waiting—will word of apricot blossoms come or not?
+    The landscape remains unchanged, yet my temples have turned gray,
+    Where will I wait for you again when next year comes?
+  footnotes:
+  - key: ''
+    value: 'Cold Food Festival (寒食): A traditional spring festival held a day or two before Qingming, when only cold food was eaten. The poem uses it as a temporal marker, comparing the speaker''s experience at the festival in two different years.'
+  - key: ''
+    value: 'Chang''an: The ancient capital of China, here representing the speaker''s peaceful past.'
+  - key: ''
+    value: 'Dragon Bay (龍灣): Likely a specific location in the borderlands, or possibly a poetic name for a scenic river bend.'
+  - key: ''
+    value: 'Apricot blossoms: A traditional symbol in Chinese poetry for spring beauty and renewal, but here tinged with melancholy waiting and uncertainty.'

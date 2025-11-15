@@ -1,0 +1,35 @@
+canonical:
+  title: 邊山路上
+  author: 李奎報
+  language: lzh
+  text: 旌旗光客路鼓角壯人心野鼠跳藏竹驚麕走覓林
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 邊山路上
+  author: 李奎報
+  language: lzh
+  text: 旌旗光客路。鼓角壯人心。野鼠跳藏竹。驚麕走覓林。
+korean:
+  title: 변산 로상
+  author: 이규보
+  language: kor
+  text: |-
+    정기는 손의 길을 빛내고
+    고각은 사람 마음을 장하게 하네
+    들쥐는 대숲에 뛰어들어 숨는데
+    놀랜 노루는 숲을 찾아 달아나네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: On the Mountain Border Road
+  author: Lee Gyeongbo
+  language: eng
+  text: |-
+    The banners gleam along the traveler's path,
+    Drums and horns steel the warrior's heart.
+    Wild rats dart and hide in the bamboo thicket,
+    Startled deer bound away, seeking the forest.
+  footnotes:
+  - key: ''
+    value: The 'mountain border road' likely refers to a frontier route during Korea's medieval period, suggesting a military or official journey. The poem contrasts human martial readiness with the instinctive fear of small creatures disturbed by the military procession.

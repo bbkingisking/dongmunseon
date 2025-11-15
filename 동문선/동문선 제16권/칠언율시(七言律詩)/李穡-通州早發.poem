@@ -1,0 +1,47 @@
+canonical:
+  title: 通州早發
+  author: 李穡
+  language: lzh
+  text: 鍾動樓門曉色明獨鞭羸馬問前程半空白塔見雲影一曲淸江聞棹聲東北山含王氣壯西南地控帝都平檣烏接趐桃花漲穩送番商入鳳城
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 通州早發
+  author: 李穡
+  language: lzh
+  text: 鍾動樓門曉色明。獨鞭羸馬問前程。半空白塔見雲影。一曲淸江聞棹聲。東北山含王氣壯。西南地控帝都平。檣烏接趐桃花漲。穩送番商入鳳城。
+korean:
+  title: 통주 조발
+  author: 이색
+  language: kor
+  text: |-
+    다락문에 종이 울자 새벽빛이 밝는데
+    혼자 여윈 말 채찍질하며 앞길을 묻네
+    반공에 솟은 백탑엔 구름 그림자 보이고
+    한 굽이 맑은 강에 노젓는 소리 들리누나
+    동북의 산은 왕기를 머금어 장한지고
+    서남 땅은 황제의 도읍을 끼고 번듯하구나
+    돛대 위에 까마귀 훨훨 물에 둥실 복사꽃
+    번상들 편안히 실려 봉성으로 들어가네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0620&viewSync=OT
+  footnotes: []
+english:
+  title: Early Departure from Tongzhou
+  author: Lee Saek
+  language: eng
+  text: |-
+    The bell strikes at the tower gate as dawn breaks bright.
+    Alone, I urge my weary horse forward, asking what lies ahead.
+    Halfway to heaven, the white pagoda catches shadows of clouds.
+    One bend in the clear river carries the sound of oars.
+    The northeastern mountains hold the vigor of ancient kings—how grand.
+    The southwestern lands cradle the imperial capital—how splendid.
+    Crows on the mast spread wings as peach blossoms drift on swollen waters.
+    Foreign merchants sail peacefully toward the Phoenix City.
+  footnotes:
+  - key: ''
+    value: 'Tongzhou: A historical port city on the Grand Canal connecting to the imperial capital, known as a major commercial hub during the Yuan and Ming dynasties.'
+  - key: ''
+    value: 'White pagoda: Likely refers to a distinctive Buddhist pagoda used as a landmark for travelers and merchants on the canal route.'
+  - key: ''
+    value: 'Phoenix City: A poetic reference to the imperial capital, symbolizing imperial power and prestige.'

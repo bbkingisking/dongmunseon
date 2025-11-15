@@ -1,0 +1,52 @@
+canonical:
+  title: 以祈雨獻官入齋三淸殿避暑溪邊薀珍寄詩奉和
+  author: 權健
+  language: lzh
+  text: 處世身嫌懶憂時意獨深何人賦雲漢明主禱桑林碧簡三行奏靑鸞半夜歆步虗聲未罷甘霔霈成霖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 以祈雨獻官入齋三淸殿避暑溪邊薀珍寄詩奉和
+  author: 權健
+  language: lzh
+  text: 處世身嫌懶。憂時意獨深。何人賦雲漢。明主禱桑林。碧簡三行奏。靑鸞半夜歆。步虗聲未罷。甘霔霈成霖。
+korean:
+  title: 기우제 헌관으로 삼청전에 들어가 재하고 시냇가에 피서하는데, 온진의 부친 시에 화답한다
+  author: 권건
+  language: kor
+  text: |-
+    세상을 살아감에 게으름을 꺼리고
+    때를 걱정하매 뜻이 혼자 깊었다
+    어떤 사람이 운한을 읊었던가
+    밝은 임금은 상림에서 기도한다
+    파란 간지에 세 줄로 아뢰나니
+    푸른 난새[鸞]는 밤중에 흠향한다
+    보허의 소리 아직 끝나기 전에
+    단 비 쏟아져 장마를 이루소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0620&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 어떤 사람이 운한(雲漢)을 읊었던가 : '
+    value: 《시전》에 주(周)나라 선왕(宣王) 때에 가물어서 비를 빌던 것을 노래한 시이다.
+  - key: '[주-D002] 밝은 임금은 상림(桑林)에서 기도한다 : '
+    value: 은(殷)나라의 탕(湯)이 7년 대한(大旱)에 큰 가뭄 때에 상림에서 기우제 지낸 것을 말하는 것이다.
+english:
+  title: In Response to a Poem by Unjin's Father, While Serving as an Official at a Rain-Prayer Ceremony, Fasting in the Samcheong Hall and Taking Refuge by the Stream
+  author: Kwon Geon
+  language: eng
+  text: |-
+    Living in this world, I harbor no laziness,
+    Yet worry for the times weighs heavy on my heart alone.
+    Who was it that sang of the Clouded River?
+    The enlightened ruler prayed at Sangnim.
+
+    In blue-bound documents, three lines of petition rise—
+    The jade phoenix heeds them in the midnight dark.
+    Before the sound of the Spirit Path has ceased,
+    Let sweet rain pour down and become a torrent.
+  footnotes:
+  - key: ''
+    value: The 'Clouded River' (云漢) refers to a song from the Book of Poetry commemorating prayers for rain during a drought under Zhou's King Xuan.
+  - key: ''
+    value: Sangnim (桑林) refers to the ancient rain-prayer ceremony performed by Tang of Shang during a seven-year drought.
+  - key: ''
+    value: The 'Spirit Path' (步虛) evokes the celestial procession of Daoist deities, suggesting the efficacy of ritual prayer.

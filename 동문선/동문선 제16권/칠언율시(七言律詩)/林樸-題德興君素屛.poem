@@ -1,0 +1,49 @@
+canonical:
+  title: 題德興君素屛
+  author: 林樸
+  language: lzh
+  text: 棄本滔滔逐末行泰山還似一毫輕投鞭直欲橫江去嗜餠徒勞畫地成得瓮舞時誰識破吹竽混處謾求榮莫將繪事迷人目我愛天然古石屛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題德興君素屛
+  author: 林樸
+  language: lzh
+  text: 棄本滔滔逐末行。泰山還似一毫輕。投鞭直欲橫江去。嗜餠徒勞畫地成。得瓮舞時誰識破。吹竽混處謾求榮。莫將繪事迷人目。我愛天然古石屛。
+korean:
+  title: 제 덕흥군 소병
+  author: 임박
+  language: kor
+  text: |-
+    근본을 버리는 세속 인심 끝만 찾아 다니니
+    태산이 도리어 털끝만큼 가볍게 되누나
+    채찍 던지며 곧장 강을 건너가려 하고
+    떡이 먹고 싶어 헛되이 땅에다 떡을 그려 만드네
+    독을 얻고 춤출 때에 누가 깨질 줄을 알꼬
+    뒤섞여서 피리 불며 영화를 구하는 사람도
+    허튼 그림으로 사람의 눈 미혹치 마소
+    나는야 천연인 돌 병풍을 사랑하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 채찍 던지며 …… 건너가려 하고 : '
+    value: 후진왕(後秦王) 부견(符堅)이 동진(東晋)을 치려고 하면서, “우리의 많은 군사가 양자강에다 채찍을 던져서 강을 메우고 건너갈 수 있으리라.” 하였다.
+  - key: '[주-D002] 뒤섞여서 피리 …… 구하는 사람도 : '
+    value: 제왕(齊王)이 피리[竽]를 듣기를 좋아하여 피리 잘 부는 사람 삼백 명을 길러 매일 함께 불게 하였는데, 그 중에 한 사람은 실제로 피리 불 줄을 모르면서 피리를 입에 물고 부는 형용만 하고 녹을 받아 먹었다. 한 번은 한 사람씩 각각 피리를 불게 하니, 그 사람은 도망하였다.
+english:
+  title: On the Stone Screen of Lord Deok-heung
+  author: Lim Park
+  language: eng
+  text: |-
+    Men abandon their roots and rush after trivial gain,
+    And Mount Tai becomes as light as a single hair.
+    They cast their whips, dreaming to cross the river dry,
+    Yet hunger makes them draw bread upon the ground in vain.
+    Who sees through the dancer's broken vessel?
+    Among the crowd of flute players, one seeks empty glory.
+    Let not mere paintings bewitch the eye—
+    I love the ancient stone screen, born of nature itself.
+  footnotes:
+  - key: ''
+    value: The reference to casting whips alludes to Fu Jian of Later Qin, who boasted that his vast armies would fill the Yangtze River with their whips and cross it.
+  - key: ''
+    value: The flute player in the crowd references the story of a musician in the court of the King of Qi who pretended to play while contributing nothing—a metaphor for hollow ambition.

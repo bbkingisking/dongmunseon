@@ -1,0 +1,37 @@
+canonical:
+  title: 興海途上
+  author: 金克己
+  language: lzh
+  text: 桑閒婦女趁微行撥穀飛來繞樹鳴只爲田家趨耒耜何人寫出管絃聲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 興海途上
+  author: 金克己
+  language: lzh
+  text: 桑閒婦女趁微行。撥穀飛來繞樹鳴。只爲田家趨耒耜。何人寫出管絃聲。
+korean:
+  title: 흥해 도상
+  author: 김극기
+  language: kor
+  text: |-
+    상간(桑間)의 부녀들 미행 길에 부딪치고
+    뻐꾹새 날아와 나무가지를 돌며 우네
+    다만 농가의 밭갈기 바쁠 땐데
+    어느 사람 능히 관현성을 내는고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0700&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상간(桑間)의 부녀 : '
+    value: 노는 계집을 말한다. 《시경》의 〈상중편(桑中篇)〉은 남녀의 밀회(密會)를 읊은 것이며, 《예기》에서 상간(桑間)은 음탕한 음악이라 하였다.
+english:
+  title: On the Road to Heunghai
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Women of loose virtue cross my path on hidden walks,
+    The cuckoo flies and circles round the mulberry tree, singing.
+    Yet the farming families are pressed with urgent work—
+    Who has the leisure to draw forth the music of strings and flute?
+  footnotes:
+  - key: ''
+    value: The 'women of the mulberry groves' alludes to illicit romance and frivolous pursuits, contrasting sharply with the honest toil of farmers during harvest season. The poem subtly critiques the indulgence of idleness against the necessity of labor.

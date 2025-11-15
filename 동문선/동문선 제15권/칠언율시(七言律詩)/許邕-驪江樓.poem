@@ -1,0 +1,49 @@
+canonical:
+  title: 驪江樓
+  author: 許邕
+  language: lzh
+  text: 景物來呈非一端登臨是處可開顔好風微雨涼生樹殘照歸雲半隱山海客査通銀漢上仙人笙降紫霄閒可憐老被名韁縛只得樓中半日閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 驪江樓
+  author: 許邕
+  language: lzh
+  text: 景物來呈非一端。登臨是處可開顔。好風微雨涼生樹。殘照歸雲半隱山。海客査通銀漢上。仙人笙降紫霄閒。可憐老被名韁縛。只得樓中半日閑。
+korean:
+  title: 여강루
+  author: 허옹
+  language: kor
+  text: |-
+    이바지하는 경치가 한두 가지가 아니라서
+    이곳에 올라오니 얼굴에 펼 만하네
+    좋은 바람 가랑비는 나무에 서늘히 생겨나고
+    지는 해 돌아가는 구름이 반쯤 산에 걸렸구나
+    해객의 뗏목은 은하수로 통하는 듯
+    신선의 피리소리가 하늘에서 내려오네
+    가엾어라, 늙도록 벼슬 고삐에 얽매여서
+    이 좋은 다락에 와서 겨우 반나절 즐기다니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0860&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여강루(驪江樓) : '
+    value: 여주(驪州)  청심루(淸心樓)
+  - key: '[주-D002] 해객(海客)의 뗏목 : '
+    value: 해변(海邊)에 8월이 되면 어디선지 떼배가 왔다가 간다 한다.
+english:
+  title: The Tower at Yeojugang
+  author: Heo Yong
+  language: eng
+  text: |-
+    The landscape offers countless gifts of beauty,
+    And climbing here, my face opens with joy.
+    A gentle wind and soft rain refresh the trees,
+    While the setting sun and returning clouds half-veil the mountains.
+    A sea merchant's raft seems to sail through the Milky Way,
+    And celestial music descends from heaven's distant reaches.
+    Yet pitifully, bound all my life by the bridle of office,
+    I can steal but half a day to savor this precious tower.
+  footnotes:
+  - key: ''
+    value: Yeojugang refers to Yeoju (驪州) and the tower known as Cheongsimu (淸心樓).
+  - key: ''
+    value: 'The sea merchant''s raft alludes to a local phenomenon: each eighth lunar month, mysterious rafts appear and disappear along the river.'

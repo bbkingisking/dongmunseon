@@ -1,0 +1,45 @@
+canonical:
+  title: 上國
+  author: 安震
+  language: lzh
+  text: 祖席高張碧澗濱西郊日薄靄黃塵今年雨雪連寒食觸處烟花阻今辰芳草未堪留去馬綠楊豈解繫行人男兒自有四方志安用臨歧苦愴神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上國
+  author: 安震
+  language: lzh
+  text: 祖席高張碧澗濱。西郊日薄靄黃塵。今年雨雪連寒食。觸處烟花阻今辰。芳草未堪留去馬。綠楊豈解繫行人。男兒自有四方志。安用臨歧苦愴神。
+korean:
+  title: 상국
+  author: 안진
+  language: kor
+  text: |-
+    전별 자리를 푸른 시냇가에 높이 깔았는데
+    서교 저문 날에 누른 먼지 자욱하네
+    금년은 한식까지 눈과 비가 연하여서
+    가는 데마다 꽃소식도 좋은 철을 놓치네
+    돋아나는 연한 풀도 떠나는 말 못 멈추고
+    푸른 버들인들 가는 사람을 어이 잡아매랴만
+    사내로 태어나서 사방 뜻을 품었거니
+    먼 길에 서로 갈려도 슬퍼할 수 있으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0920&viewSync=OT
+  footnotes: []
+english:
+  title: Parting at the Upper Country
+  author: An Jin
+  language: eng
+  text: |-
+    We spread our farewell feast high upon the green stream's shore,
+    As the western suburbs darken, dust turns the sky to gold.
+    This year the snows and rains stretch through the cold feast days,
+    And everywhere the flowers miss their proper season's call.
+    The tender grass that springs cannot hold back the departing horse,
+    Nor can the willow's green arms bind the traveler to stay.
+    A man is born with ambitions that reach toward distant lands—
+    Why should we grieve when duty calls us to diverging paths?
+  footnotes:
+  - key: ''
+    value: The 'cold feast days' (寒食, hansik) refers to a traditional period of tomb-sweeping and ancestral veneration, typically occurring in early spring, making this a poem of spring parting.
+  - key: ''
+    value: The contrast between natural beauty (grass, willows, flowers) and human duty reflects a classical theme in East Asian poetry about the necessity of separation despite emotional attachment.

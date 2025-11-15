@@ -1,0 +1,56 @@
+canonical:
+  title: 同禁內諸生遊紫霞洞
+  author: 李穀
+  language: lzh
+  text: 草堂睡起落花閑捲簾南北多靑山靑山笑我不出門兀兀窮年文字閒長安萬家無所適肯向高門低我顔山中之遊是何夕屣齒䃘䃘響溪石詩豪更値玉堂賢八斗文章超古昔須攀翠壁記玆遊明朝依舊紅塵客
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同禁內諸生遊紫霞洞
+  author: 李穀
+  language: lzh
+  text: 草堂睡起落花閑。捲簾南北多靑山。靑山笑我不出門。兀兀窮年文字閒。長安萬家無所適。肯向高門低我顔。山中之遊是何夕。屣齒䃘䃘響溪石。詩豪更値玉堂賢。八斗文章超古昔。須攀翠壁記玆遊。明朝依舊紅塵客。
+korean:
+  title: 금내제생과 자하동에서 놀며
+  author: 이곡
+  language: kor
+  text: |-
+    초당에 잠 깨자 낙화가 한가롭다
+    발 걷고 바라보니 남북에 청산이 많구나
+    청산은, 내가 문에 나오지 않고서
+    오똑 앉아 문자 속에서 세월을 보낸다고 웃고
+    장안 만가에 갈 곳이 없는 것을
+    즐겨 부귀의 고문 찾아 내 얼굴 낮출까보냐
+    산중놀이 이 날이 어느 날인고
+    신굽이 달각달각 시냇돌에 울린다
+    시 벗 옥당 선비 만나나
+    팔두문장이 옛 사람을 능가하니
+    모름지기 푸른 석벽에 기어올라 이 놀이를 새겨 두라
+    내일이면 의구히 홍진객 틀림없으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0190&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 팔두문장(八斗文章) : '
+    value: 위(魏)나라 조자건(曹子建) 식(植)의 글 재주가 높으므로 당시 사람들이 말하기를, “천하의 글재주가 모두 한 섬[一石]이라면 자건은 혼자서 여덟 말[八斗]은 된다.” 하였다.
+english:
+  title: Excursion to Purple Glow Grotto with Fellow Scholars Within the Palace Grounds
+  author: Lee Gok
+  language: eng
+  text: |-
+    Waking from sleep in the thatched hall, fallen blossoms drift in leisure.
+    Rolling up the blinds, I see green mountains north and south.
+    The green mountains laugh at me—never stepping beyond my door,
+    spending years hunched over books, my spirit dulled by characters.
+    In great Chang'an's ten thousand homes, there is nowhere fit to go;
+    why should I lower my face at the gates of the powerful and proud?
+
+    What evening is this mountain wandering?
+    My woven sandals strike the river stones—click, click, click—
+    meeting with talented poets and palace scholars,
+    their eight pecks of verse surpassing all the ancients.
+    We must clamber up the emerald cliffs and carve this day in stone,
+    for tomorrow I return again to be but dust upon the road.
+  footnotes:
+  - key: ''
+    value: '"Eight pecks of verse" (八斗文章) refers to a famous saying about Cao Zhi of the Wei dynasty, whose literary talent was so renowned that people said if all the world''s writing talent equaled one measure of grain, Cao Zhi alone possessed eight pecks of it—meaning his genius was extraordinary.'
+  - key: ''
+    value: The poem contrasts the scholar's reclusive life of study with this rare moment of mountain wandering and camaraderie, suggesting both the preciousness of such occasions and the inevitable return to worldly constraints.

@@ -1,0 +1,29 @@
+canonical:
+  title: 睿宗不允魏繼廷乞退詔
+  author: 無名氏
+  language: lzh
+  text: 云云卿貪邪所忌忠亮不回先考尙賢早授洪鈞之任寡人受命以爲同德之臣自春以來稱疾求免雖嘉止足之義未符倚注之心知予至誠無或遜避前已曲諭夫復何言
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 睿宗不允魏繼廷乞退詔
+  author: 無名氏
+  language: lzh
+  text: 云云。卿貪邪所忌。忠亮不回。先考尙賢。早授洪鈞之任。寡人受命。以爲同德之臣。自春以來。稱疾求免。雖嘉止足之義。未符倚注之心。知予至誠。無或遜避。前已曲諭。夫復何言。
+korean:
+  title: 예종 불윤 위계정 걸퇴 조
+  author: 무명씨
+  language: kor
+  text: 운운. 경은 탐악스럽고 간사한 무리들이 꺼리는 바로서, 충성스럽고 정직하여 사특하지 않았다. 선고(先考)께서 어진 이를 높이어 일찍이 정승의 책임을 맡기었고, 과인이 왕위에 오르매 덕을 같이할 신하로 여기었다. 그런데 봄이 된 이후로 병을 빙자하여 사면시켜 주기를 요청하였다. 비록 그칠 줄을 알고 족한 것을 아는 경의 뜻은 아름다우나, 의지하고 믿는 내 마음에는 부합되지 않는다. 나의 지성을 알아서 혹시라도 사양하고 피하지 말지어다. 전에 이미 간곡히 일렀으니 다시 무슨 말을 하겠는가.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0260_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 그칠 …… 아는 : '
+    value: “그칠 줄 알면 위태롭지 않고 만족한 줄 알면 욕되지 않는다[知止不殆知足不辱].” 하였다. 이것은 벼슬이나 처세에서 중간에 물러나야 한다는 것을 말한 것이다.
+english:
+  title: 'A Royal Edict: Emperor Sejo''s Refusal to Grant Minister Wei Gyejeong''s Request for Retirement'
+  author: Anonymous
+  language: eng
+  text: '...Thus it is. You are one whom the corrupt and scheming fear, yet your loyalty remains steadfast and your integrity unbending. Your late father, recognizing your virtue, entrusted you early with the highest office. When I ascended the throne, I deemed you a minister of kindred spirit. Yet since spring, you have feigned illness and sought release from service. Though your desire to withdraw while content possesses a certain nobility, it does not accord with the faith I have placed in you. Know well my sincerity—do not dare refuse me. I have already spoken plainly on this matter. What more need be said?'
+  footnotes:
+  - key: ''
+    value: The Korean phrase about 'knowing when to stop and knowing when enough is sufficient' references the Daodejing principle that those who know their limits avoid danger, and those content with their station avoid shame—a traditional argument for withdrawal from office at the proper time, which the emperor here rejects.

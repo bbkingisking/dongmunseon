@@ -1,0 +1,47 @@
+canonical:
+  title: 高原驛
+  author: 金克己
+  language: lzh
+  text: 百歲浮生逼五旬奇區世路少通津三年去國成何事萬里歸家只此身林鳥有情啼向客野花無語笑留人詩魔觸處來相惱不待窮愁已苦辛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 高原驛
+  author: 金克己
+  language: lzh
+  text: 百歲浮生逼五旬。奇區世路少通津。三年去國成何事。萬里歸家只此身。林鳥有情啼向客。野花無語笑留人。詩魔觸處來相惱。不待窮愁已苦辛。
+korean:
+  title: 고원역
+  author: 김극기
+  language: kor
+  text: |-
+    한 세상 백 년에 어느덧 오십
+    기구한 세상길에 통한 나루가 적으니
+    삼 년을 서울 떠나 무슨 일을 이루었나
+    만 리에서 집에 돌아오니 다만 이 몸 뿐이로세
+    숲새는 정이 있어 나그네 보고 우는구나
+    들꽃은 말도 없이 웃으며 나를 만류하네
+    시마가 도처에서 와 성화대니
+    곤궁한 시름 말고도 벌써 괴로운 일이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0440&viewSync=OT
+  footnotes: []
+english:
+  title: The Waystation of the High Plain
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    A hundred years of fleeting life—already fifty springs have passed.
+    On this strange and difficult path of the world, few passages lead through.
+    Three years away from the capital—what have I accomplished?
+    Returning home across ten thousand miles, I bring only this worn body.
+
+    Forest birds, moved by feeling, cry out as they see the traveler.
+    Wild flowers, speaking no words, smile and beckon me to linger.
+
+    The demon of poetry strikes from every direction, tormenting me relentlessly.
+    Even without the weight of poverty and sorrow, affliction already weighs upon my heart.
+  footnotes:
+  - key: ''
+    value: The 'demon of poetry' (詩魔) refers to the irresistible compulsion to compose verse, a common conceit in East Asian poetry that suggests inspiration as both blessing and burden.
+  - key: ''
+    value: The geographical imagery—three years away from the capital, a journey of ten thousand miles—suggests the poet's exile or extended absence from court, a common experience among Korean literati of the period.

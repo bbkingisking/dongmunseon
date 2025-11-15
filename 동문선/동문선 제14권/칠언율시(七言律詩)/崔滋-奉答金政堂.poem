@@ -1,0 +1,50 @@
+canonical:
+  title: 奉答金政堂
+  author: 崔滋
+  language: lzh
+  text: 鷄林千古事茫然金樻中兒降自天從此雲來爲姓氏至今風調帶神仙一吟政事堂東竹再問將軍幕下蓮出武入文千態度丹靑何㨾畫凌煙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉答金政堂
+  author: 崔滋
+  language: lzh
+  text: 鷄林千古事茫然。金樻中兒降自天。從此雲來爲姓氏。至今風調帶神仙。一吟政事堂東竹。再問將軍幕下蓮。出武入文千態度。丹靑何㨾畫凌煙。
+korean:
+  title: 봉답 김정당
+  author: 최자
+  language: kor
+  text: |-
+    계림 천년 아득한 역사
+    금궤 속의 아기[신라 김씨(金氏) 시조(始祖)  김알지(金閼智)]가 하늘에서 내려왔네
+    그때부터 자손이 ‘김’으로 성씨 삼아
+    지금토록 풍골이 사뭇 신선 같구나
+    정사당 동쪽 대를 한 번 읊고서
+    장군막의 연꽃을 다시 묻삽되
+    문신과 무장으로 나드는 천 가지 모습
+    어떠한 단청으로써 능연각에 그릴꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장군막(將軍幕)의 연꽃 : '
+    value: 막부(幕府)를 아름답게 일러 연화지(蓮花池)라 하였다. 《南史》
+english:
+  title: In Response to Minister Kim
+  author: Choe Ja
+  language: eng
+  text: |-
+    Gyerim's thousand years of history fade into mist.
+    From the golden casket, a child descended from heaven.
+    From that moment, descendants took 'Kim' as their name,
+    and to this day their noble bearing carries the grace of immortals.
+
+    Once I sing of the bamboo east of the Minister's hall,
+    again I ask of the lotus in the General's pavilion.
+    Thousand-fold transformations between civil and martial arts—
+    what vermilion painting could capture them in the Hall of Ascension?
+  footnotes:
+  - key: ''
+    value: Gyerim (鷄林) is an ancient name for Korea, particularly associated with Silla.
+  - key: ''
+    value: The golden casket refers to the birth of Kim Al-ji (金閼智), the legendary founder of the Kim clan, who emerged from a golden box in Silla.
+  - key: ''
+    value: The 'lotus in the General's pavilion' is a classical reference to an administrative bureau, employing the aesthetic language of the lotus flower to describe the seat of power.

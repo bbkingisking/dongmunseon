@@ -1,0 +1,41 @@
+canonical:
+  title: 物狀
+  author: 金富軾
+  language: lzh
+  text: 造庭修聘永觀厥成載贄展儀各以所寶前件物等風儀極陋物品至卑享上之誠不因菲廢包荒之度無以遐遺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 金富軾
+  language: lzh
+  text: 造庭修聘。永觀厥成。載贄展儀。各以所寶。前件物等。風儀極陋。物品至卑。享上之誠。不因菲廢。包荒之度。無以遐遺。
+korean:
+  title: 물장
+  author: 김부식
+  language: kor
+  text: 대궐에 나아가 빙례(聘禮)를 닦아 유감없이 사무를 끝냈사오니, 폐백을 드리고 의식을 행하는 데는 각기 보배로운 것으로 해야 되옵는데, 지난번 물건들은 풍의(風儀)가 너무도 누추하고 물품이 지극히 보잘것없사오나, 윗사람에게 바치는 정성은 박하다 해서 폐하지 못하는 것이오니, 넓으신 도량으로 멀리 버리지 말아 주시옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0200&viewSync=OT
+  footnotes: []
+english:
+  title: On Offerings
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    I have approached the palace and perfected the rites of audience,
+    So that the ceremony might be completed without regret.
+    In presenting gifts and performing the prescribed forms,
+    Each should offer what they hold most precious.
+
+    Yet these humble items I bring before you—
+    Their elegance falls short, their substance is meager.
+    But the sincerity of one who offers to his sovereign
+    Should not be diminished by the poverty of the gift.
+
+    With your magnanimous heart, I humbly entreat:
+    Do not cast these humble offerings aside.
+  footnotes:
+  - key: ''
+    value: The poem is presented as a memorial or petition accompanying the presentation of gifts to a superior, likely a royal court.
+  - key: ''
+    value: The contrast between the humble nature of the offerings and the genuine devotion they represent is central to the poem's meaning.

@@ -1,0 +1,46 @@
+canonical:
+  title: 謝郊迎表
+  author: 金富軾
+  language: lzh
+  text: 陪臣某言今月七日伏蒙聖慈以臣初届郊亭差降中亮大夫貴州防禦使充樞密院使承旨知客省事同舘伴范訥押賜御宴兼賜帶來三節人酒食者王事靡盬式遄周隰之行天威不違已沐需雲之渥失風波之枯槁覺徒馭之光輝中謝 臣非膚使之才辱寡君之命不憚逶遅之役鼎來衆大之都魏闕在瞻已慰子牟之戀甘泉入侍願效呼韓之朝豈謂宸慈遽霑犒飮此盖伏遇法道善貸體神曲成特推字小之仁以示包荒之德進於中國免貶絶於春秋如彼南山但詠歌於天保
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝郊迎表
+  author: 金富軾
+  language: lzh
+  text: 陪臣某言。今月七日。伏蒙聖慈以臣初届郊亭。差降中亮大夫，貴州防禦使，充樞密院使，承旨知客省事同舘伴范訥。押賜御宴。兼賜帶來三節人酒食者。王事靡盬。式遄周隰之行。天威不違。已沐需雲之渥。失風波之枯槁。覺徒馭之光輝。中謝。 臣非膚使之才。辱寡君之命。不憚逶遅之役。鼎來衆大之都。魏闕在瞻。已慰子牟之戀。甘泉入侍。願效呼韓之朝。豈謂宸慈。遽霑犒飮。此盖伏遇法道善貸。體神曲成。特推字小之仁。以示包荒之德。進於中國。免貶絶於春秋。如彼南山。但詠歌於天保。
+korean:
+  title: 본국의 사절 일행을 들에 나와 맞아 줌을 사례하는 표
+  author: 김부식
+  language: kor
+  text: |-
+    배신(陪臣) 모(某)는 아뢰나이다.금월 7일에 성자(聖慈)께옵서 신이 처음 교정(郊亭)에 도착하였다 하여 중량대부 귀주방어사 충추밀원사 승지지객성사관반(中亮大夫貴州防禦使充樞密院使承旨知客省事館伴) 범눌(范訥)을 보내어 어연(御宴)을 베풀어 주시고, 겸하여 데리고 온 삼절인(三節人)들에게 술과 음식을 주시었나이다.왕사(王事)에 쉴 틈이 없이 외지고 험한 길을 빠르게 와서 천위(天威)가 멀지 않은 곳에서 이미 수운(需雲)의 은택이 푸짐하오니, 풍파에 지친 것을 온통 잊어버리고 일행이 모두 영광을 느끼옵나이다. 중사
+    신이 워낙 사신(使臣)의 재능이 없이 과군(寡君)의 명을 받자와, 머나먼 길의 역정(役鼎)을 꺼리지 않고 크나큰 황도(皇都)에 들어와서, 위궐(魏闕)이 눈앞에 보이자, 벌써 자모(子牟)의 연모(戀慕)를 위로하였삽고, 감천궁(甘泉宮)에 입시(入侍)하던 호한(呼韓)의 조회함을 본받고자 하였삽더니, 뜻밖에도 성자(聖慈)께서 문득 연회를 하사하옵시니, 이는 대개 도(道)를 법받아 은혜를 베푸시고 신(神)을 본받아 곡진(曲盡)히 이루어 주시되 특별히 작은 나라를 사랑하는 인애(仁愛)를 미루어 먼 지방을 포용하는 덕을 보여서 중국에 나아가게 하시고 춘추(春秋)에 폄절(貶絶)을 면하게 하시니 저희들은, 다만 수와 복이 저 남산(南山)과 같으리라는 천보시(天保詩)를 노래하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0370_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 수운(需雲)의 은택 : '
+    value: “구름이 하늘로 오르는 것이 수(需 괘 이름)이니 군자는 이 괘에 따라 음식으로 잔치하고 즐긴다.” 하였다. 《周易》
+  - key: '[주-D002] 자모(子牟)의 연모(戀慕) : '
+    value: 《장자(莊子)》에, “위(魏)나라 공자모(公子牟)는 몸은 강호(江湖)에 있어도 마음은 궁궐[魏闕]에 있었다.” 하였다. 이것은 임금을 그리워하는 뜻이다.
+  - key: '[주-D003] 호한(呼韓)의 조회함 : '
+    value: 흉노(匈奴)의 호한야선우(呼韓邪單于)가 한(漢)나라에 와서 조회하였다.
+  - key: '[주-D004] 춘추(春秋)에 폄절(貶絶) : '
+    value: 춘추의 필법(筆法)에 이적(夷狄)은 폄절하였다.
+  - key: '[주-D005] 천보시(天保詩) : '
+    value: 《시경》천보편(天保篇)에, “남산이 오래 견디어[壽]무너지지 않음과 같으소서.” 하였는데, 신하가 임금의 수복(壽福)을 비는 말이다.
+english:
+  title: A Memorial of Gratitude for the Royal Reception at the Outskirts
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Your humble servant begs to report: On the seventh of this month, by the gracious benevolence of the throne, upon our first arrival at the pavilion beyond the gates, an emissary of distinguished rank was dispatched to bestow upon us a royal banquet, and provisions were given to all in our retinue. Through endless duties and arduous roads we hastened, yet heaven's favor was not distant—already we have bathed in the abundant grace that falls like nourishing clouds. The weariness of wind and wave is forgotten; our entire company feels renewed in glory.
+
+    Your servant possesses no talent for such service, yet accepted his sovereign's command. Undaunted by the trials of distance, we have entered this great capital. As the imperial palace comes into view, the longing that dwelt in our hearts finds solace. We had hoped to emulate the homage of distant vassal states before the throne of heaven. Yet unexpectedly, the gracious sovereign has bestowed this feast upon us. This springs from a Way that bestows mercy with understanding, a virtue that accomplishes all with divine precision—extending particular kindness to a small nation, displaying the magnanimity that embraces the distant lands, allowing us to ascend to the civilized realm and escape the dismissive judgments of history. Like the South Mountain that endures eternally, we offer only our prayers: may your blessings be as constant as the songs of heaven's protection.
+  footnotes:
+  - key: ''
+    value: The phrase about 'nourishing clouds' references the I Ching, where cloud and rain represent the benevolence of the ruler sustaining the people
+  - key: ''
+    value: The reference to longing hearts echoes the Zhuangzi's image of one whose body travels distant lands but whose heart remains with the palace
+  - key: ''
+    value: The invocation of the South Mountain's endurance derives from the Book of Songs, a traditional blessing for the emperor's longevity and the state's permanence

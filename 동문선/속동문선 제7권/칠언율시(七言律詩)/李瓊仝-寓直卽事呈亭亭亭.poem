@@ -1,0 +1,50 @@
+canonical:
+  title: 寓直卽事呈亭亭亭
+  author: 李瓊仝
+  language: lzh
+  text: 不眠鍾鼓聽逢逄閑詠新辭換舊腔萬里家山長入夢五更風露獨開窓爲官自笑鮎魚上待問應嫌寸筳撞誰是詞源䟽鑿手欲從溝澮達湖江
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寓直卽事呈亭亭亭
+  author: 李瓊仝
+  language: lzh
+  text: 不眠鍾鼓聽逢逄。閑詠新辭換舊腔。萬里家山長入夢。五更風露獨開窓。爲官自笑鮎魚上。待問應嫌寸筳撞。誰是詞源䟽鑿手。欲從溝澮達湖江。
+korean:
+  title: 우직즉사 정 정정정
+  author: 이경동
+  language: kor
+  text: |-
+    잠이 들지 못하고 봉봉한 종고 소리 들으며
+    새로운 시를 한가히 읊조리면 옛 창자를 바꾼다
+    만리의 고향 산은 언제나 꿈에 들고
+    오경의 바람과 이슬에 혼자 창문을 연다
+    벼슬을 하매 스스로 모래무지처럼 오르는 것을 웃고
+    묻기를 기다리매 응당 촌정의 때림을 꺼리리다
+    누가 이 시의 근원을 소통하게 파는 솜씨이냐
+    도랑을 따라서 호수나 강으로 가려 하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 모래무지처럼 …… 것 : '
+    value: 모래무지라는 물고기는 잘 올라가지 못하는 고기이다. 자기도 벼슬이 올라가지 못함을 말함이다.
+  - key: '[주-D002] 촌정(寸筳)의 …… 꺼리리다 : '
+    value: 한 치[寸]쯤 되는 풀로 큰 종(鐘)을 쳐 보아야 그 소리가 크지 못하다는 이야기이다.
+english:
+  title: 'Lodging While on Duty: Impromptu Verses Presented to the Pavilion'
+  author: Lee Kyongdong
+  language: eng
+  text: |-
+    I cannot sleep, listening to the restless gonging of bells and drums.
+    Humming new verses idly, I replace the old melodies.
+    The distant mountains of my homeland always drift into my dreams—
+    at the fifth watch, I open the window alone to wind and dew.
+
+    Serving in office, I laugh at myself, a loach that cannot climb.
+    Waiting for inquiry, I fear the strike of a reed no wider than an inch.
+    Who possesses the art to channel the source of poetry?
+    I wish to follow the streamlets until they flow into lakes and rivers.
+  footnotes:
+  - key: ''
+    value: A loach is a fish that cannot ascend easily; the poet uses this as a metaphor for his stalled advancement in office.
+  - key: ''
+    value: The image of striking a great bell with a reed an inch wide produces only a faint sound, suggesting that small efforts cannot produce significant results—here applied to the poet's inadequate qualifications for his post.

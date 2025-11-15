@@ -1,0 +1,49 @@
+canonical:
+  title: 扶寧浦口
+  author: 李奎報
+  language: lzh
+  text: 流水聲中暮復朝海村籬落苦蕭條湖淸巧印當心月浦闊貪吞入口潮古石浪舂平作礪壞船苔沒卧成橋江山萬景吟難狀須倩丹靑畫筆描
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 扶寧浦口
+  author: 李奎報
+  language: lzh
+  text: 流水聲中暮復朝。海村籬落苦蕭條。湖淸巧印當心月。浦闊貪吞入口潮。古石浪舂平作礪。壞船苔沒卧成橋。江山萬景吟難狀。須倩丹靑畫筆描。
+korean:
+  title: 부령 포구
+  author: 이규보
+  language: kor
+  text: |-
+    아침저녁으로 들리느니 물소리뿐
+    바닷가 촌락이 하도 쓸쓸하구나
+    호수 한복판엔 달이 도장 찍었는데
+    포구는 들어오는 조수를 탐내듯 삼키고
+    찧는 물결에 바위가 닳아 숫돌이 되고
+    부서진 배가 이끼에 묻혀 누운 채 다리가 되었네
+    이 강산의 온갖 경칠 어이 다 읊으리
+    화가를 좀 빌려다가 단청으로 그렸으면
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: Bunyeong Ferry
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    In the sound of flowing water, evening turns to dawn again.
+    The coastal village lies desolate, its fences worn thin.
+    In the heart of the lake, the moon stamps its seal,
+    while the ferry mouth greedily swallows the incoming tide.
+    Waves pound the ancient stone until it becomes a whetstone;
+    the broken ship, moss-buried, lies as a bridge.
+    How can my brush capture all the ten thousand scenes of this landscape?
+    I wish I could borrow a painter's hand to render it in vermillion and jade.
+  footnotes:
+  - key: ''
+    value: Bunyeong (扶寧) refers to a coastal region in medieval Korea, known for its strategic port location.
+  - key: ''
+    value: The moon 'stamping its seal' (도장 찍었는데) is a metaphor for the moon's reflection appearing perfectly centered in the still lake water.
+  - key: ''
+    value: The broken ship becoming a bridge represents the passage of time and nature's transformation of human artifacts.
+  - key: ''
+    value: The final couplet expresses the poet's humility before nature's grandeur—only visual art could adequately capture such scenery.

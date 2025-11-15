@@ -1,0 +1,49 @@
+canonical:
+  title: 題八景圖
+  author: 安止
+  language: lzh
+  text: 虔州異景未曾知一幅生綃恍惚移殷壑鍾聲明月夕傍林嵐彩雨晴時日斜浦口帆飛疾雪滿沙頭鴈下遅不出戶庭看盡處渺然幽興入新詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題八景圖
+  author: 安止
+  language: lzh
+  text: 虔州異景未曾知。一幅生綃恍惚移。殷壑鍾聲明月夕。傍林嵐彩雨晴時。日斜浦口帆飛疾。雪滿沙頭鴈下遅。不出戶庭看盡處。渺然幽興入新詩。
+korean:
+  title: 제 팔경도
+  author: 안지
+  language: kor
+  text: |-
+    건주의 기이한 경치를 내 일찍 몰랐더니
+    한 폭 생초에 황홀히 옮겼구나
+    달 밝은 밤 총소리는 골짝에 은은하고
+    비 갠 날 이내가 수풀에 아롱졌네
+    포구 비낀 해에 돛은 나는 듯 빠르고
+    사장 가득한 눈에 기러기 천천히 내리누나
+    뜰안을 안 나가도 모조리 다 구경하니
+    그윽한 흥 절로 일어 새 시에 들어가네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0780&viewSync=OT
+  footnotes: []
+english:
+  title: Inscribed on a Painting of the Eight Scenic Views
+  author: An Ji
+  language: eng
+  text: |-
+    Long did I not know the wondrous landscapes of Gyeongju.
+    Now on a single bolt of silk they shimmer before me.
+    Where deep ravines gather, the temple bell rings clear
+    Beneath the luminous moon of evening.
+    Where rain has cleared, the mountain mist blooms in color
+    Along the forest's edge at dawning.
+    The sun slants toward the river's mouth—the sail flies swift,
+    Snow blankets the sandy shore—the geese descend in leisure.
+    Without stepping beyond my courtyard gate, I have seen it all,
+    And subtle rapture stirs within me, flowing into verses new.
+  footnotes:
+  - key: ''
+    value: 'Gyeongju (건주): An ancient Korean kingdom and cultural center, whose scenic beauty inspired classical landscape art.'
+  - key: ''
+    value: 'The Eight Scenic Views: A traditional genre of East Asian painting depicting famous landscapes, often capturing different seasons and times of day.'
+  - key: ''
+    value: The painting captures multiple scenes—moonlit ravines, clearing rain, sunset over water, and snow-covered shores—unified within a single silk scroll, allowing the viewer to journey through diverse landscapes without leaving home.

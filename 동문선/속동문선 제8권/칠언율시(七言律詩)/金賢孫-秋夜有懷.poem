@@ -1,0 +1,51 @@
+canonical:
+  title: 秋夜有懷
+  author: 金賢孫
+  language: lzh
+  text: 空齋愁寂夜冥冥歲晏難堪久客情風透破窓搖燭影雨侵踈壁濕蛩聲人閒桂玉身長困江上鱸蓴夢自驚早晩南山營一畒白雲蒼石養殘生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋夜有懷
+  author: 金賢孫
+  language: lzh
+  text: 空齋愁寂夜冥冥。歲晏難堪久客情。風透破窓搖燭影。雨侵踈壁濕蛩聲。人閒桂玉身長困。江上鱸蓴夢自驚。早晩南山營一畒。白雲蒼石養殘生。
+korean:
+  title: 추야 유회
+  author: 김현손
+  language: kor
+  text: |-
+    빈 서재가 근심스리 적적하며 밤은 어두운데
+    해가 저물자 오랜 나그네의 정을 견디기 어렵구나
+    바람은 뚫어진 창문을 뚫고 촛불 그림자를 흔드는데
+    비는 허술한 벽을 침노하여 귀뚜라미 소리를 적시네
+    인간의 계옥에 몸이 항상 곤궁하고
+    강 위의 농어와 순채의 꿈이 절로 놀래네
+    언제고 남쪽 산에 한 이랑 농사를 마련하여
+    흰 구름 푸른 돌에 여생을 기르리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 계옥(桂玉) : '
+    value: 《사기》에, “땔나무를 구하기는 계수나무보다 귀하고 쌀은 옥보다도 귀하다.”는 말이 있다. 여기서는 가난한 사람이 쌀과 나무를 구하기 어렵다는 뜻으로 썼다.
+  - key: '[주-D002] 농어와 순채의 꿈 : '
+    value: 진(晋)나라 장한(張翰)이 중원(中原)에 와서 벼슬하다가 가을 바람이 일어남을 보고, 고향인 강동(江東)의 순채(蓴菜)와 농어(鱸魚)의 맛이 그립다 하고 곧 행장을 차려 돌아갔다.
+  - key: '[주-D001] 明陽正 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: Autumn Night, Longing
+  author: Kim Hyeon-son
+  language: eng
+  text: |-
+    The empty study lies forlorn as darkness deepens through the night.
+    With the year's end, the sorrow of long wandering grows unbearable.
+    Wind pierces the broken window, trembling the candlelight shadow.
+    Rain seeps through the crumbling wall, dampening the cricket's song.
+    In this narrow life, my body remains ever constrained,
+    And dreams of river perch and water greens suddenly startle awake.
+    Someday I shall prepare a single field on the southern mountain,
+    There to nurture my remaining years among white clouds and green stone.
+  footnotes:
+  - key: ''
+    value: The 'river perch and water greens' is an allusion to the scholar Zhang Han of the Jin Dynasty, who abandoned his official post upon catching the autumn breeze, longing for his homeland's delicacies and simple life.
+  - key: ''
+    value: The imagery of 'white clouds and green stone' evokes the hermit's retreat into nature—a traditional aspiration in East Asian poetry for those weary of worldly affairs.

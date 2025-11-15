@@ -1,0 +1,35 @@
+canonical:
+  title: 偶吟
+  author: 徐居正
+  language: lzh
+  text: 深院風恬柳影多寒塘雨足長蒲芽閑愁正與春相伴獨坐無言數落花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偶吟
+  author: 徐居正
+  language: lzh
+  text: 深院風恬柳影多。寒塘雨足長蒲芽。閑愁正與春相伴。獨坐無言數落花。
+korean:
+  title: 우음
+  author: 서거정
+  language: kor
+  text: |-
+    깊은 원에 바람은 화하고 버들 그림자는 많은데
+    찬 못의 빗발에 부들 싹이 자란다
+    한가한 시름은 바로 봄과 서로 짝하거니
+    혼자 앉아 말 없이 지는 꽃만 세노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0110&viewSync=OT
+  footnotes: []
+english:
+  title: A Casual Verse
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    In the deep courtyard, the wind grows still and willow shadows multiply.
+    Rain swells the cold pond, and cattail shoots begin to sprout.
+    My idle sorrow keeps step with spring itself—
+    Sitting alone in silence, I count only the falling flowers.
+  footnotes:
+  - key: ''
+    value: The poem captures a moment of melancholic contemplation, where the speaker finds their inner emptiness mirrored in the natural world of early spring. The 'falling flowers' at the poem's close may suggest both the transience of beauty and the speaker's resigned acceptance of their loneliness.

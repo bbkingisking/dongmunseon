@@ -1,0 +1,70 @@
+canonical:
+  title: 雪軒鄭相宅靑山白雲圖
+  author: 李達衷
+  language: lzh
+  text: 山本乎止本乎靜雲可以西可以東本乎止靜者有體而附地可以西東者無心而隨風一動一靜將觀物所性或靑或白已累吾之瞳閑目嘿坐入大素胷襟寥寥如秋空森然還有雲山態誰爲詩人誰畫工畫工之神未易測詩人所見何能窮靑山靑靑白雲外白雲白白靑山中靑山白雲爲一致方信胷無九疑峯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雪軒鄭相宅靑山白雲圖
+  author: 李達衷
+  language: lzh
+  text: 山本乎止本乎靜。雲可以西可以東。本乎止靜者有體而附地。可以西東者無心而隨風。一動一靜將觀物所性。或靑或白已累吾之瞳。閑目嘿坐入大素。胷襟寥寥如秋空。森然還有雲山態。誰爲詩人誰畫工。畫工之神未易測。詩人所見何能窮。靑山靑靑白雲外。白雲白白靑山中。靑山白雲爲一致。方信胷無九疑峯。
+korean:
+  title: 설헌 정정승택의 청산백운도
+  author: 이달충
+  language: kor
+  text: |-
+    산은 그침이 본색이요, 고요함이 본색이다
+    구름은 서로 갈 수 있고 동으로 갈 수 있다
+    그침과 고요함이 본색인 것은 형상 있어 땅에 붙은 탓이지만
+    서로 동으로 갈 수 있는 것은 마음없이 바람을 따르는 탓이다
+    하나는 동이요 하나는 정인 데서 물의 품성을 보겠지만
+    혹은 푸르고 혹은 희었으니 이는 내 눈에 누가 끼친 것이다
+    눈감고 묵묵히 앉아 태소로 돌아가면
+    흉금이 텅 비어 가을 허공과 같다가도
+    도리어 엄연히 구름과 산의 자태가 있으니
+    누가 시인이며 누가 화공이냐
+    화공의 신을 쉽사리 측량 못하거니
+    시인의 소견인들 어찌 능히 다함이 있으랴
+    청산은 백운 밖에 푸르고 푸르며
+    백운은 청산 속에 희고 희다
+    청산과 백운이 일치될 때
+    비로소 가슴에 구의봉 없음을 믿으라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 태소(太素) : '
+    value: 푸름과 흰 것의 구별된 빛깔이 없는 원시(原始)의 소박(素朴)한 것이다.
+  - key: '[주-D002] 구의봉(九疑峰) : '
+    value: 중국의 남방에 있는 산인데 아홉 봉우리가 거의 같아서 이것인지 저것인지 의심스럽다는 뜻으로 산 이름을 지었다. 여기서는 “의심”이란 뜻으로 썼다.
+english:
+  title: On Master Jeong the Prime Minister's Blue Mountain and White Cloud Painting at Seolheon's Residence
+  author: Lee Dal-chung
+  language: eng
+  text: |-
+    Mountains find their essence in stillness, their nature in quietude.
+    Clouds drift freely west and east without restraint.
+
+    What rests in stillness bears form and clings to earth,
+    Yet what travels west and east moves without heart, merely following wind.
+    In this dance of motion and repose, we glimpse the nature of all things—
+    Sometimes blue, sometimes white, impressions painted upon my watching eyes.
+
+    When I close my eyes and sit in silence,
+    Entering that original simplicity where all forms dissolve,
+    My heart becomes vast and empty as autumn's boundless sky.
+    Yet in that emptiness, the forms of clouds and mountains suddenly emerge—
+
+    Who then is the poet? Who is the painter?
+    The painter's spirit cannot be easily measured,
+    Nor can the poet's vision ever be exhausted.
+
+    The blue mountain towers beyond the white clouds, eternally azure,
+    The white clouds drift within the blue mountain, eternally pale.
+    When blue mountain and white cloud become one,
+    Then at last the heart believes itself free of all doubt.
+  footnotes:
+  - key: ''
+    value: 'Original simplicity (太素): A return to the primordial state before colors and forms distinguish themselves—the pure, undifferentiated essence of being.'
+  - key: ''
+    value: 'Nine-peaked doubt (九疑峰): A reference to the Nine Doubts mountains in southern China, whose peaks are so similar they blur together. Here it symbolizes confusion and wavering doubt of mind.'

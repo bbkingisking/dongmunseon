@@ -1,0 +1,46 @@
+canonical:
+  title: 七夕訪仲說不遇
+  author: 安處善
+  language: lzh
+  text: 乘興尋佳約敲門不見人悲歡元未定離合果誰因辜負詩兼酒歸來影伴身吾廬還可意獨酌自無廵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 七夕訪仲說不遇
+  author: 安處善
+  language: lzh
+  text: 乘興尋佳約。敲門不見人。悲歡元未定。離合果誰因。辜負詩兼酒。歸來影伴身。吾廬還可意。獨酌自無廵。
+korean:
+  title: 칠석 방 중열 불우
+  author: 안처선
+  language: kor
+  text: |-
+    흥을 따라 아름다운 언약을 찾았더니
+    문을 두드렸으나 사람은 안 보이네
+    슬픔과 기쁨은 원래 정한 것 아닌데
+    떠나고 모임은 과연 무슨 인연인가
+    뜻대로 안 될 때는 시와 술이 있고
+    돌아오매 그림자가 몸을 짝한다
+    내 집이 도리어 내 마음에 들거니
+    혼자서 잔질하며 돌릴 곳 없도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0700&viewSync=OT
+  footnotes: []
+english:
+  title: Seeking Jung on the Seventh Evening, Finding No One
+  author: An Cheo-seon
+  language: eng
+  text: |-
+    Following a whim, I sought that fair promise we made—
+    knocked at the gate, but no one appeared.
+    Sorrow and joy were never fixed to begin with,
+    so why should parting and reunion be fate's doing?
+
+    When plans go awry, there are poems and wine,
+    and returning home, my shadow becomes my companion.
+    My humble dwelling pleases me after all—
+    alone with my cup, I circle round with no one to turn to.
+  footnotes:
+  - key: ''
+    value: The Seventh Evening refers to the seventh day of the seventh lunar month, traditionally associated with the meeting of the Weaver Girl and Cowherd stars in Chinese lore. The poem plays on the irony of an unfulfilled earthly meeting on this auspicious night.
+  - key: ''
+    value: The shadow as companion is a poignant image conveying both solitude and the quiet acceptance of one's own presence.

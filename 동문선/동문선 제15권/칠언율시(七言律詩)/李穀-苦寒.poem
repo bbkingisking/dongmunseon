@@ -1,0 +1,48 @@
+canonical:
+  title: 苦寒
+  author: 李穀
+  language: lzh
+  text: 朔吹搖空歲暮天颼颼老屋讀書氈一寒到骨那能解萬事關心只自煎衾鐵夜深明積雪樵山市近絶炊煙詩人耐冷今猶古擬訪梅花澗水邊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 苦寒
+  author: 李穀
+  language: lzh
+  text: 朔吹搖空歲暮天。颼颼老屋讀書氈。一寒到骨那能解。萬事關心只自煎。衾鐵夜深明積雪。樵山市近絶炊煙。詩人耐冷今猶古。擬訪梅花澗水邊。
+korean:
+  title: 고한
+  author: 이곡
+  language: kor
+  text: |-
+    북풍이 휘몰아치는, 해도 저무는 날씨에
+    우수수 낡은 집에 글읽는데 싸늘한 담요
+    추위가 뼈에 사무치니 무엇으로 녹일까
+    만사가 맘에 뒤설레나 혼자서 애탈 뿐
+    밤이 깊어 눈이 내리니 이불이 차기 쇳장 같고
+    나무시장 가까우나 불기는 끊겼구나
+    시인이 추위 견딤 이제나 예나 같거니
+    어즈버 시냇물 가로 매화를 찾아가려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0720&viewSync=OT
+  footnotes: []
+english:
+  title: Bitter Cold
+  author: Lee Gok
+  language: eng
+  text: |-
+    The north wind howls through the fading year's end sky,
+    Whispering through the old house where I read, wrapped in thin cloth.
+    The cold cuts to the bone—how can it be thawed?
+    My mind churns with ten thousand cares, yet I can only torment myself alone.
+
+    Deep in the night, snow falls and my quilt grows hard as iron,
+    The timber market lies near, yet no smoke rises from hearths.
+    Poets have endured the cold since ancient times as now,
+    So I resolve to seek the plum blossoms by the mountain stream.
+  footnotes:
+  - key: ''
+    value: The 'quilt like iron' suggests the extreme cold that freezes even bedding solid, a common image in classical Chinese poetry for harsh winter conditions.
+  - key: ''
+    value: The plum blossom (梅花) is a traditional symbol of integrity and resilience in the face of hardship, particularly because it blooms in winter. The poet's journey to find it represents a turn from passive suffering to active pursuit of spiritual beauty.
+  - key: ''
+    value: Lee Gok (李穀, 1298-1351) was a late Goryeo scholar-official whose work often explored themes of moral integrity and scholarly refinement during tumultuous political times.

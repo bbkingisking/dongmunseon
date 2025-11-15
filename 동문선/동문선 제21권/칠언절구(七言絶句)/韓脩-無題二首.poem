@@ -1,0 +1,60 @@
+canonical:
+  title: 無題二首
+  author: 韓脩
+  language: lzh
+  text: 水流有本何時盡雲出無心旣雨歸漢上平生行樂處復携童冠着春衣浩蕩白鷗千萬里斯須蒼狗古今雲何妨卽墨不求譽無復張湯巧舞文
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無題二首
+  author: 韓脩
+  language: lzh
+  text: 水流有本何時盡。雲出無心旣雨歸。漢上平生行樂處。復携童冠着春衣。浩蕩白鷗千萬里。斯須蒼狗古今雲。何妨卽墨不求譽。無復張湯巧舞文。
+korean:
+  title: 무제이수
+  author: 한수
+  language: kor
+  text: |-
+    흐르는 물 근원 있거니 어느 때 다하는고
+    구름은 무심히 나왔다가 비오고 나면 돌아가네
+    한강 위는 평생 향락하던 곳
+    다시 동관 이끌고 봄옷을 입네
+    호탕한 흰 갈매기 천만 리인데
+    잠깐 동안의 푸른 개는 고금의 구름일세
+    즉묵의 칭찬을 구하지 않음이 무엇이 방해 되랴
+    다시는 법문을 교묘히 환롱하는 장탕이 없어져라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동관(童冠) …… 입네 : '
+    value: 공자(孔子)의 제자 증점(曾點)이 춘복(春服)를 입고 관자(冠者) 5,6명과 동자(童子) 6,7명을 데리고 놀러 가겠다던 고사(故事)를 인용하였다.
+  - key: '[주-D002] 호탕(浩蕩)한 흰 갈매기 : '
+    value: 두보(杜甫)의 시(詩)에, ‘백구가 호탕한 데 빠지니 만 리에 누가 능히 깃들랴[白鷗沒浩蕩 萬里誰能馴].’한 구절이 있다. 이것은 높은 선비가 세속을 멀리 떠나감을 말한 것이다.
+  - key: '[주-D003] 잠깐 동안의 푸른 개는 : '
+    value: 두보(杜甫)가 구름을 두고 지은 시에, ‘잠깐 동안에 푸른 개 모양으로 변화한다.’는 구절이 있다.
+  - key: '[주-D004] 즉묵(即墨) : '
+    value: 전국(戰國) 때에 제 위왕(齊威王)이 즉묵대부(即墨大夫)를 불러서 말하기를, “네가 즉묵(即墨)에 부임한 뒤에 헐뜯는 말이 날로 들어오기에 내가 사람을 시켜 가 보게 했더니 치적(治績)이 대단히 좋았다. 이것은 네가 나의 측근자에게 뇌물을 쓰지 않은 까닭이다.” 하고 즉묵대부를 표창하였다.
+  - key: '[주-D005] 다시는 법문(法文)을 …… 없어져라 : '
+    value: 한 무제(漢武帝) 때에 혹리(酷吏)  장탕(張湯)이 법문(法文)을 교묘히 환롱(幻弄 舞文)하여 가혹하게 다스렸다.
+english:
+  title: Two Untitled Poems
+  author: Han Soo
+  language: eng
+  text: |-
+    Water flows from its source—when will it ever end?
+    Clouds drift without intention, then return as rain.
+    On the Han River, where I spent my life in leisure,
+    I lead the young ones forth again, dressed in spring garments.
+
+    Vast white gulls sweep a thousand miles away,
+    Yet fleeting clouds transform to blue dogs between past and present.
+    What harm in seeking no praise like the governor of Jimo?
+    Let there be no more cunning ministers twisting law for cruelty.
+  footnotes:
+  - key: ''
+    value: The reference to leading young ones in spring garments alludes to the sage Zengdian, who dreamed of taking a group of youth to frolic by the water in spring clothes—a symbol of virtuous simplicity and natural joy.
+  - key: ''
+    value: The image of vast white gulls reflects the inspired wanderer who distances himself from the mundane world, drawing from Du Fu's poetry on solitary transcendence.
+  - key: ''
+    value: The 'governor of Jimo' represents one who performs his duties faithfully without seeking flattery or favor from those in power.
+  - key: ''
+    value: Zhang Tang, the cruel minister, represents those who pervert the law through elaborate schemes and harsh punishments—a cautionary figure against the corruption of justice.

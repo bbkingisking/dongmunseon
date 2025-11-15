@@ -1,0 +1,56 @@
+canonical:
+  title: 馬上寄人 三首
+  author: 崔讜
+  language: lzh
+  text: 迴首海陽城傍城山嶙峋山遠已不見况是城中人看山帶慘色聽水帶愁聲此時借何物能得慰人情一別有一見蹔別又何傷情知不再見斷膓仍斷膓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 馬上寄人 三首
+  author: 崔讜
+  language: lzh
+  text: 迴首海陽城。傍城山嶙峋。山遠已不見。况是城中人。看山帶慘色。聽水帶愁聲。此時借何物。能得慰人情。一別有一見。蹔別又何傷。情知不再見。斷膓仍斷膓。
+korean:
+  title: 마상 기인 삼수
+  author: 최당
+  language: kor
+  text: |-
+    머리 돌려 해양성을 보니
+    성 곁에 산이 우뚝 솟았네
+    그 산도 멀어져 이미 보이지 않거니
+    하물며 이 성중 사람들이야
+    보니 산은 슬픈 빛이요
+    들으매 물소리 수심(愁心)일세
+    이때에 그 무엇으로
+    이 마음 위로할 것인가
+    이별이라도 다시 만날 기약 있으면
+    잠시 헤어짐이 어떠리요마는
+    다시 못 만날 줄 알기에
+    애끊는 마음 애끊는 마음
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: Three Poems Sent to Someone on Horseback
+  author: Choi Dang
+  language: eng
+  text: |-
+    I turn my head to look back at Haeyang Castle.
+    Beside the walls, the mountains rise jagged and steep.
+    Yet those mountains, grown distant, fade from sight—
+    how much more will the faces of those within the city walls?
+
+    The mountains wear a melancholy hue,
+    the waters murmur with sorrow's sound.
+    What comfort could I offer in this moment?
+    What balm could ease this aching heart?
+
+    If parting held the promise of return,
+    what hardship would a brief farewell bring?
+    But knowing we shall meet no more,
+    my heart breaks, breaks again—
+    endlessly breaking.
+  footnotes:
+  - key: ''
+    value: 'Haeyang Castle (海陽城): likely refers to a location in ancient Korea; the specific castle may refer to present-day Haeyang or a similar historical site'
+  - key: ''
+    value: The three poems are united by the theme of separation and the speaker's journey on horseback away from someone cherished

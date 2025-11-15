@@ -1,0 +1,47 @@
+canonical:
+  title: 禪月寺四涼亭次韻
+  author: 李藏用
+  language: lzh
+  text: 襟袂殷勤片片涼老禪欄檻俯崇岡江山卽是解脫境草木亦生知見香地逈易敎人倚久天高剰與鳥飛長功名二字眞無賴遮斷淸風六尺床
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 禪月寺四涼亭次韻
+  author: 李藏用
+  language: lzh
+  text: 襟袂殷勤片片涼。老禪欄檻俯崇岡。江山卽是解脫境。草木亦生知見香。地逈易敎人倚久。天高剰與鳥飛長。功名二字眞無賴。遮斷淸風六尺床。
+korean:
+  title: 선월사 사량정 차운
+  author: 이장용
+  language: kor
+  text: |-
+    옷깃과 소매에 은근히 스며드는 서늘바람
+    절 다락의 난간이 높은 메를 굽어보네
+    강산이 그대로 곧 해탈경이로구나
+    초목 또한 지견의 향내를 풍기네
+    땅이 유벽하니 사람들 오래 쉬어 가고
+    하늘이 높으니 새도 맘 놓고 날아가네
+    공명 두 글자가 진실로 무뢰하여라
+    육척 상 서늘바람을 마구 막아 버리다니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 초목(草木) …… 풍기네 : '
+    value: 불법(佛法)의 공부를 향(香)에 비유하여 정향(定香)ㆍ계향(戒香) 등으로 말한다. 지견(知見)은 불법에 대한 지견이란 말이다.
+english:
+  title: Matching Rhymes at the Four Cooling Pavilion of Seonwol Temple
+  author: Lee Jang-yong
+  language: eng
+  text: |-
+    The cool breeze seeps gently through my collar and sleeves—
+    From the temple's high railing, I gaze down upon the lofty peaks.
+    These mountains and rivers are themselves the realm of liberation.
+    Even grass and trees exhale the fragrance of Buddhist wisdom.
+    The earth's distant expanse invites us to linger long,
+    While heaven's height grants the birds their boundless flight.
+    Those two words—merit and fame—are truly worthless things,
+    Yet they erect a screen to block the cool wind from my simple bed.
+  footnotes:
+  - key: ''
+    value: The fragrance of grass and trees represents the essence of Buddhist practice, alluded to in classical Buddhist terminology as the 'incense of discipline' and 'incense of meditation.' The 'knowledge and vision of dharma' refers to one's understanding of Buddhist truth.
+  - key: ''
+    value: The 'simple bed of six feet' likely references a monastic sleeping space, a humble dwelling contrasted with worldly concerns.

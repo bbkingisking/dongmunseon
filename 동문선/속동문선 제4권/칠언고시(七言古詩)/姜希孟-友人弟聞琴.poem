@@ -1,0 +1,51 @@
+canonical:
+  title: 友人弟聞琴
+  author: 姜希孟
+  language: lzh
+  text: 琴本無聲聲亦空聲塵幻出由絲桐律變十二演無窮緣我有耳聞商宮宮商轉換萬不同繁會衆音成一終一聲終來兩耳聾聲滅未敢尋其蹤請君冥觀妙默中無成與毁昭氏翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 友人弟聞琴
+  author: 姜希孟
+  language: lzh
+  text: 琴本無聲聲亦空。聲塵幻出由絲桐。律變十二演無窮。緣我有耳聞商宮。宮商轉換萬不同。繁會衆音成一終。一聲終來兩耳聾。聲滅未敢尋其蹤。請君冥觀妙默中。無成與毁昭氏翁。
+korean:
+  title: 우인 제 문금
+  author: 강희맹
+  language: kor
+  text: |-
+    거문고가 본디 소리 없고 소리도 빈 것
+    소리가 생겨 남은 실과 오동 때문일세
+    열두 율로 변하여 가락이 무궁하나
+    내가 귀가 있으므로 그 곡조를 듣네
+    변하는 곡조 만 가지로 다르나
+    숱한 여러 소리가 한 끝을 이루네
+    한 소리 끝나자 두 귀가 먹으니
+    소리가 사라진 것 종적을 찾을 수 없네
+    그대는 잠잠한 속에서 눈감고 보라
+    소씨옹(昭氏翁)은 이루는 것도 허는 것도 없느니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 거문고가 …… 빈 것 : '
+    value: 《장자》에 소문씨(昭文氏)의 거문고 타는 것은 성(成)도 없고 훼(毁)도 없다는 말이 있다.
+english:
+  title: On Hearing My Friend's Brother Play the Guqin
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    The guqin itself holds no sound, and sound too is empty—
+    Voice arises from silk strings and parasol wood alone.
+    Twelve pitches transform, unfolding endlessly,
+    Yet I hear them only because my ears exist.
+
+    Each modulation differs in ten thousand ways,
+    Many voices converge to reach a single end.
+    When one note fades, both ears go deaf,
+    And the vanished sound leaves no trace to follow.
+
+    I ask you to observe in silent darkness,
+    Where old Zhao the master creates nothing, destroys nothing.
+  footnotes:
+  - key: ''
+    value: 'Zhao Wen, the legendary lute master referenced here, appears in the Zhuangzi as an example of the paradox of perfect musicianship: his playing transcends the distinction between creation and destruction, existence and non-existence.'

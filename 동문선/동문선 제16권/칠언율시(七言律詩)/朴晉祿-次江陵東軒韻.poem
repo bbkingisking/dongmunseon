@@ -1,0 +1,47 @@
+canonical:
+  title: 次江陵東軒韻
+  author: 朴晉祿
+  language: lzh
+  text: 擁節觀風已二年臨瀛浮水水浮天宦遊如在金鰲頂詩眼增明白鳥邊軒戶早延東海日簾旌半濕北山烟傍人不識爲儒腐將謂西垣玩世仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次江陵東軒韻
+  author: 朴晉祿
+  language: lzh
+  text: 擁節觀風已二年。臨瀛浮水水浮天。宦遊如在金鰲頂。詩眼增明白鳥邊。軒戶早延東海日。簾旌半濕北山烟。傍人不識爲儒腐。將謂西垣玩世仙。
+korean:
+  title: 차 강릉동헌 운
+  author: 박진록
+  language: kor
+  text: |-
+    관찰로 벌써 두 해나 머무는 곳
+    임영이 물에 둥실 물은 하늘에 떴네
+    벼슬 놀이가 사뭇 금오 꼭대기에 있는 듯
+    시 짓는 눈은 백조 물가에서 더 밝아지네
+    난간마다 집마다 일찍 맞는 동해의 해
+    발이랑 깃발이랑 반쯤 젖는 북산의 이내
+    곁 사람은 내가 썩은 선비인 줄 모르고
+    서원에서 세상 희롱하는 신선이라 하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0910&viewSync=OT
+  footnotes: []
+english:
+  title: Matching Rhymes with the East Pavilion in Gangreung
+  author: Park Jin-rok
+  language: eng
+  text: |-
+    Two years now I linger as provincial observer,
+    Yimyeong floats on water, water floats on sky.
+    This posting seems to place me on the golden turtle's peak,
+    my poet's eye grows keener by the white birds' shore.
+    Each terrace greets the eastern sun at dawn,
+    curtains and banners half-soaked by northern mists.
+    Those around me know not that I am a worn-out scholar—
+    they mistake me for a Taoist sage who mocks the world from the Western Garden.
+  footnotes:
+  - key: ''
+    value: The 'golden turtle's peak' (금오) alludes to the celestial realm and the elevated nature of official position, yet tinged with irony.
+  - key: ''
+    value: The 'poet's eye' sharpening by white birds suggests how natural beauty and observation elevate one's artistic sensibility.
+  - key: ''
+    value: The final couplet plays on the tension between genuine decay and outward appearance—the speaker's companions misread his quiet detachment as celestial transcendence rather than scholarly disillusionment.

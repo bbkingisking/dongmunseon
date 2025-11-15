@@ -1,0 +1,49 @@
+canonical:
+  title: 量移
+  author: 成熺
+  language: lzh
+  text: 見逐明時乃老何四年憔悴二毛多漢城客作盆城客銀海波添金海波自擬屈原吟楚澤誰憐賈誼謫長沙聖恩已許歸田去應向公山作酒魔
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 量移
+  author: 成熺
+  language: lzh
+  text: 見逐明時乃老何。四年憔悴二毛多。漢城客作盆城客。銀海波添金海波。自擬屈原吟楚澤。誰憐賈誼謫長沙。聖恩已許歸田去。應向公山作酒魔。
+korean:
+  title: 양이
+  author: 성희
+  language: kor
+  text: |-
+    명시에 쫓겨나 늙었으니 어이하리
+    4년 동안 고생에 백발도 많이 났네
+    한성 사람이 분성사람 되었으니
+    은해(도가에서 눈을 말한다) 물결이 금해 물결 더했네
+    초택에 읊는 굴원으로 자처했건만
+    장사에 귀양간 가의를 누가 동정했던가
+    성은이 이미 귀전을 허락했으니
+    공산(공주의 진산)에 내 돌아가서 술부대나 되오리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 양이(量移) : '
+    value: “공(公)은 병자년에 종질 삼문(三問)의 연루로 김해(金海)에서 귀양살이하다가 기묘년에 편의를 좇게 하여 공주(公州)로 돌아왔다.”라는 제주(題註)가 있다. 양이(量移)는 귀양간 사람을 조금 나은 곳으로 작량(酌量)하여 옮겨 주는 것이다.
+english:
+  title: Transfer of Exile
+  author: Sung Hui
+  language: eng
+  text: |-
+    Banished in the bright reign, now I grow old—what remedy?
+    Four years of hardship have turned my hair white beyond measure.
+    Once a man of Seoul, now a man of Gimhae,
+    The silver sea's waves have joined the golden sea's waves.
+    I fancied myself Qu Yuan singing by the marshes of Chu,
+    Yet who takes pity on Jia Yi, exiled to Changsha?
+    The royal grace has already granted me leave to return home—
+    I shall go back to Gongsan and become a drunkard on the mountain.
+  footnotes:
+  - key: ''
+    value: Qu Yuan and Jia Yi are historical references to wronged ministers who were exiled. Qu Yuan famously composed poems during his exile in Chu, while Jia Yi was exiled to Changsha despite his talents.
+  - key: ''
+    value: Gimhae and Seoul represent the poet's exile and former home respectively. The 'silver sea' and 'golden sea' play on the homophone of Gimhae (金海, literally 'golden sea').
+  - key: ''
+    value: Gongsan refers to the true mountain of Gongju (공주), the poet's destination following the transfer of his exile.

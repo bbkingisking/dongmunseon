@@ -1,0 +1,45 @@
+canonical:
+  title: 放言
+  author: 李鷩
+  language: lzh
+  text: 我欲殺鳴鷄恐有舜之聖雖欲不殺之亦有跖之橫風雨鳴不已舜跖同一聽善惡各孜孜不鳴非鷄性
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 放言
+  author: 李鷩
+  language: lzh
+  text: 我欲殺鳴鷄。恐有舜之聖。雖欲不殺之。亦有跖之橫。風雨鳴不已。舜跖同一聽。善惡各孜孜。不鳴非鷄性。
+korean:
+  title: 방언
+  author: 이별
+  language: kor
+  text: |-
+    내가 우는 닭을 죽이려 하니
+    순 임금의 거룩함이 있을까 두렵고
+    비록 안 죽이려 하나
+    도척의 횡포가 역시 있네
+    풍우에 울어 아니 고치니
+    순 임금과 도척이 같이 듣네만
+    선과 악을 부지런히 각기 행하니
+    울지 않으면 닭의 천성 아니로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0810&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 순(舜) 임금의……두렵고 : '
+    value: 맹자의 말에, “닭이 울자 일어나서 부지런히 선(善)을 하는 이는 순(舜)의 무리요, 닭이 울자 일어나서 부지런히 이익만 구하는 것은 도척의 무리다.” 하였다.
+english:
+  title: Candid Words
+  author: Lee Byeol
+  language: eng
+  text: |-
+    I wish to kill the crowing rooster,
+    yet I fear the sainthood of Shun.
+    Though I would spare its life,
+    the tyranny of Robber Zhi persists.
+    The wind and rain, its cry unceasing—
+    Shun and Robber Zhi hear it alike.
+    Goodness and evil, each diligently pursued,
+    yet silence would not be a rooster's nature.
+  footnotes:
+  - key: ''
+    value: Shun represents the virtuous ruler who rises at the rooster's crow to practice goodness; Robber Zhi (Daozhuo) represents the thief who rises to pursue selfish gain. Both are stirred by the same call, yet follow opposite paths.

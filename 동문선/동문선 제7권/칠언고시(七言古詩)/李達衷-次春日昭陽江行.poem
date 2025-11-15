@@ -1,0 +1,104 @@
+canonical:
+  title: 次春日昭陽江行
+  author: 李達衷
+  language: lzh
+  text: 昭陽江草綠如煙昭陽江水碧於天情興難容宇宙內吟哦已入羲皇前平看大野正如局遠數靑山頻擧鞭誰知仲尼嘆逝水競效崔灝吟晴川去年過此秋颯爾今年過此春茫然羅綺香熏琥珀枕別離聲苦鴛鴦絃多情自謂少壯日屈栺還驚老成年江淸安用心渴梅江流可以寄予懷繞江臯兮掇瑤草愛江石兮坐綠苔牽攀六龍日馭驅挽到百歲風光迴酤酒何論十千斗逢人輒釂三百盃從此倘佯山水窟洒然脫落原衢埃行險須知世道惡多荒要去心田萊東山不妨有聲色首陽何苦守寂寞主人聽此昭陽行努力勞慰昭陽客
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次春日昭陽江行
+  author: 李達衷
+  language: lzh
+  text: 昭陽江草綠如煙。昭陽江水碧於天。情興難容宇宙內。吟哦已入羲皇前。平看大野正如局。遠數靑山頻擧鞭。誰知仲尼嘆逝水。競效崔灝吟晴川。去年過此秋颯爾。今年過此春茫然。羅綺香熏琥珀枕。別離聲苦鴛鴦絃。多情自謂少壯日。屈栺還驚老成年。江淸安用心渴梅。江流可以寄予懷。繞江臯兮掇瑤草。愛江石兮坐綠苔。牽攀六龍日馭驅。挽到百歲風光迴。酤酒何論十千斗。逢人輒釂三百盃。從此倘佯山水窟。洒然脫落原衢埃。行險須知世道惡。多荒要去心田萊。東山不妨有聲色。首陽何苦守寂寞。主人聽此昭陽行。努力勞慰昭陽客。
+korean:
+  title: 봄날 소양강 노래를 차운하여
+  author: 이달충
+  language: kor
+  text: |-
+    소양강 풀은 연기처럼 푸르다
+    소양강 물은 하늘처럼 푸르다
+    흥은 우주 안이 비좁다
+    시 읊음은 희황(복희씨) 이전으로 쏠린다
+    큰 들을 보니 바둑판이로구나
+    멀리 청산 봉우리 헤이며 자주 말채찍을 들다
+    누가 중니의 서수 한탄함을 알랴
+    다퉈 최호의 청천 읊조림을 본받았다
+    거년 여기 지날 땐 가을이 소삽하더니
+    금년 여기 지날 땐 봄이 망망하다
+    호박침에 비단 향내 짙고
+    원앙현에 이별곡이 괴롭다
+    스스로 다정하다고 젊어서 일렀더니
+    손꼽아보니 놀랍구나, 어느덧 노성한 나이로다
+    강 맑음이여 마음의 갈증 풀리며
+    강 흐름이여 내 회포 맡아가도다
+    강 언덕 돌아와서 향풀 캐고
+    강 돌을 좋아하여 푸른 이끼에 앉다
+    해를 몰고 가는 육룡을 얽어매어서
+    백세토록 좋은 풍광을 거꾸로 돌리련다
+    술을 사면 어찌 한 말에 십천 전 비싸다고 말하랴
+    사람 만나면 곧 3백 배 들리라
+    이리하여 산수굴에 맴돌면서
+    쾌히 거리의 티끌을 털어 벗으리라
+    험난한 때에 걸으니 세도 악한 줄을 알아야 한다
+    묵은 데가 많으니 심전의 풀을 물리쳐야 한다
+    동산에서 기악 가지는 것이 무방하거늘
+    수양산에서 적막을 지켜서 무엇하리
+    주인이여 이 소양의 노래 듣고서
+    힘써 소양의 객을 위로해 주소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0420&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중니(仲尼)의 서수(逝水) : '
+    value: 공자[仲尼]가 내[川] 위에서 흐르는 물을 보고 말하기를, “가는 것이 이와 같구나, 주야로 쉬지 않으니.” 하였다.
+  - key: '[주-D002] 최호(崔顥)의 청천(晴川) : '
+    value: 당나라 시인(詩人)  최호(崔顥)가 황학루(黃鶴樓)에 올라서 지은 시에, “비 갠 강에 한양의 나무 역력하다[晴川歷歷漢陽樹].”라는 구가 있다.
+  - key: '[주-D001] 栺 : '
+    value: 指
+english:
+  title: A Song on the Soyang River in Spring, Following the Rhymes of an Earlier Poem
+  author: Lee Dalchung
+  language: eng
+  text: |-
+    The Soyang River's grass gleams green as smoke,
+    The Soyang River's waters blue beyond the sky.
+    Such feeling could not fit within the universe—
+    My verses climb back before the age of ancient sages.
+
+    The vast plain stretches like a game board below,
+    And I count the blue peaks ahead, flicking my reins.
+    Who knows the sage's lament for passing waters?
+    Yet all rush to echo that poet's song of the clear stream.
+
+    Last year when I passed here, autumn came desolate,
+    This year when I pass here, spring seems dreary and vast.
+    On amber pillows, silk perfumes linger thick,
+    On mandarin-duck strings, the song of parting cuts deep.
+
+    Once I called myself devoted in my youth,
+    Now, counting the years, I'm startled—old age arrived!
+    The clear river, grant my heart its thirst-quenching ease,
+    The flowing river, take with you all my longing.
+
+    I wander the banks gathering fragrant herbs,
+    I sit on green moss, loving the river stones.
+    I'd bind the six dragons that pull the sun's chariot,
+    And turn back a hundred years of the wind and light.
+
+    What matter if wine costs a fortune per measure?
+    When I meet a friend, I drain three hundred cups.
+    Thus lingering in this mountain-water paradise,
+    I shake off the dust of the streets like fallen petals.
+
+    Walking in perilous times, I know the world grows dark,
+    With so much waste around, I must clear my heart's fields.
+    Even on Eastern Hill, one need not shun music and beauty—
+    Why toil in lonely silence on First Yang's height?
+
+    O master, having heard this song of the Soyang,
+    I beg you: comfort this wanderer with your grace.
+  footnotes:
+  - key: ''
+    value: Confucius observed water flowing past and said, 'What passes goes thus—ceaselessly day and night,' recognizing time's relentless flow.
+  - key: ''
+    value: 'The poet Cui Hao of Tang wrote of Yellow Crane Tower: ''On the clear river, the trees of Hanyang stand distinct''—a famous line celebrating both moment and landscape.'
+  - key: ''
+    value: 'The six dragons: in Chinese cosmology, the celestial dragons that draw the sun''s chariot across the sky.'

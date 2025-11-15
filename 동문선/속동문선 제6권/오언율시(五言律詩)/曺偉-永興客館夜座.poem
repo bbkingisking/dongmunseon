@@ -1,0 +1,46 @@
+canonical:
+  title: 永興客館夜座
+  author: 曺偉
+  language: lzh
+  text: 淸夜坐虛閣秋聲在樹間水明山影落月上露華漙恠鳥啼深壑潛魚過別灣此時塵慮靜幽興集毫端
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永興客館夜座
+  author: 曺偉
+  language: lzh
+  text: 淸夜坐虛閣。秋聲在樹間。水明山影落。月上露華漙。恠鳥啼深壑。潛魚過別灣。此時塵慮靜。幽興集毫端。
+korean:
+  title: 영흥 객관 야좌
+  author: 조위
+  language: kor
+  text: |-
+    맑은 밤에 혼자 빈 누각에 앉았노니
+    가을 소리가 나무 사이에 있다
+    물이 밝으매 산 그림자 떨어지고
+    달이 오르매 이슬꽃이 동글다
+    괴상한 새는 깊은 골에서 울고
+    잠긴 고기는 다른 만을 지내간다
+    이런 때에는 세속 잡념 고요하여
+    그윽한 그 흥취가 붓 끝에 모인다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0560&viewSync=OT
+  footnotes: []
+english:
+  title: Night Sitting at the Yeonghung Guest Hall
+  author: Cho Wei
+  language: eng
+  text: |-
+    On this clear night I sit alone in the empty pavilion,
+    Autumn's voice whispers through the trees.
+    Water gleams—the mountain's shadow tumbles down,
+    The moon rises—dewdrops gather like pearls.
+
+    Strange birds cry out from the depths of the gorge,
+    Hidden fish drift past another bay.
+    In such a moment, worldly cares grow still,
+    And subtle inspiration gathers at my brush's tip.
+  footnotes:
+  - key: ''
+    value: Yeonghung was a location known for its scenic beauty in classical Korea, making it a fitting setting for poetic contemplation.
+  - key: ''
+    value: The image of inspiration gathering at the brush's tip suggests the moment when inner contemplation transforms into artistic creation—a culmination of the poet's meditative experience.

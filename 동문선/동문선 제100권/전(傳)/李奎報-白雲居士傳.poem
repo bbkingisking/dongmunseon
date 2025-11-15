@@ -1,0 +1,31 @@
+canonical:
+  title: 白雲居士傳
+  author: 李奎報
+  language: lzh
+  text: 白雲居士先生自號也晦其名顯其號其所以自號之意具載先生白雲語錄家屢空火食不續居士自怡怡如也性放曠無檢六合爲隘天地爲窄甞以酒自昏人有邀之者欣然輒造徑醉而返豈古陶淵明之徒歟彈琴飮酒以此自遣此其實錄也居士醉而吟自作傳自作贊贊曰志固在六合之外天地所不囿將與氣母遊於無何有乎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 白雲居士傳
+  author: 李奎報
+  language: lzh
+  text: 白雲居士。先生自號也。晦其名。顯其號。其所以自號之意。具載先生白雲語錄。家屢空。火食不續。居士自怡怡如也。性放曠無檢。六合爲隘。天地爲窄。甞以酒自昏。人有邀之者。欣然輒造徑醉而返。豈古陶淵明之徒歟。彈琴飮酒。以此自遣。此其實錄也。居士醉而吟。自作傳。自作贊。贊曰。志固在六合之外。天地所不囿。將與氣母。遊於無何有乎。
+korean:
+  title: 백운거사전
+  author: 이규보
+  language: kor
+  text: 백운거사(白雲居士)는 선생이 스스로 지은 호이다. 그 이름을 숨기고 그의 호를 드러냈고, 그가 스스로 호를 지은 취지에 대하여는 선생이 쓴 〈백운어록(白雲語錄)〉에 갖추어 기재되었다. 집안에는 자주 식량이 떨어져서 끼니를 잇지 못하였으나, 거사는 스스로 유쾌히 지냈다. 성격이 소탈하여 단속할 줄을 모르며, 육합(六合)을 좁게 여기고 천지를 비좁게 생각한다. 일찍이 술을 마시고 스스로 혼미하여 그를 초청하는 사람이 있어 곧 즐겁게 나아가서 잔뜩 취하여 돌아왔다. 아마 옛적 도연명의 부류인 듯하도다. 거문고를 타고 술을 마시며 이렇게 스스로 세월을 보낸다. 이는 그의 사실대로의 기록이다. 거사는 취하면 시를 읊으며 스스로 전(傳)을 짓고 스스로 찬(贊)을 지었다.찬에 이르기를, “뜻이 본래 천지의 밖에 있으니, 하늘과 땅도 그를 얽매지 못하리로다. 장차 대기(大氣)의 모체(母體)와 함께 무하유(無何有)의 세계에서 세계에 노니리로다.” 하였다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1030_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: Biography of the White Cloud Recluse
+  author: Lee Gyeou-bo
+  language: eng
+  text: 'The White Cloud Recluse—a name the Master gave himself. He kept his true name hidden while revealing his chosen title. The meaning behind this self-chosen name is fully recorded in the Master''s Discourse on White Cloud. His household often lacked provisions, unable to sustain daily bread, yet the Recluse remained serene and content. Of an open and unrestrained nature, bound by no conventions, he deemed the six directions too cramped and heaven and earth too narrow. Often he would drink wine and cloud his mind in blissful haze. When invited by others, he would gladly go, returning deep in his cups. Was he not of the lineage of that ancient Tao Yuanming? Playing the zither and sipping wine, thus he spent his days in solitary ease. This is the true record of him. When the Recluse grew drunk, he would intone verses, composing his own biography and his own eulogy. In the eulogy he wrote: "My aspiration dwells ever beyond the six directions—beyond even what heaven and earth can bind. I shall journey with the great spirit-mother through that realm of absolute emptiness, wandering where nothing has form or name."'
+  footnotes:
+  - key: ''
+    value: 'Tao Yuanming (陶淵明, 365-427): The celebrated recluse poet of the Eastern Jin dynasty, known for his love of wine, simple living, and withdrawal from official life.'
+  - key: ''
+    value: 'The six directions (六合): An ancient Chinese cosmological concept representing the totality of space—the four cardinal directions plus heaven and earth.'
+  - key: ''
+    value: '無何有 (wu he you): A philosophical term from the Zhuangzi referring to the realm of absolute nothingness or non-being, beyond conventional reality.'

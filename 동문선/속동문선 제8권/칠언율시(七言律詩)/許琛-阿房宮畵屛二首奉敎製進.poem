@@ -1,0 +1,84 @@
+canonical:
+  title: 阿房宮畵屛二首奉敎製進
+  author: 許琛
+  language: lzh
+  text: 終南山色欝岧嶤前殿平臨紫極遙萬落蜂房盤地軸八方馳道卧雲霄天心已與人心改王氣潛從怨氣銷千古分明殷鑑在也宜摸取上鮫綃百戰蒼生竟困窮更煩餘力作朝宮周馳殿閣臨無地隱暎觚稜半入空琪樹香風春郁郁玉樓雲氣曉濛濛欲傳萬世眞虛計已在英雄睥睨中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 阿房宮畵屛二首奉敎製進
+  author: 許琛
+  language: lzh
+  text: 終南山色欝岧嶤。前殿平臨紫極遙。萬落蜂房盤地軸。八方馳道卧雲霄。天心已與人心改。王氣潛從怨氣銷。千古分明殷鑑在。也宜摸取上鮫綃。百戰蒼生竟困窮。更煩餘力作朝宮。周馳殿閣臨無地。隱暎觚稜半入空。琪樹香風春郁郁。玉樓雲氣曉濛濛。欲傳萬世眞虛計。已在英雄睥睨中。
+korean:
+  title: 아방궁 화병 이수 봉교제진
+  author: 허침
+  language: kor
+  text: |-
+    종남산 빛은 울창하여 높은데
+    앞 궁전은 편편히 자극의 높은 데에 바로 닿았네
+    만 개의 벌집 같은 방은 지축에 서리었는데
+    팔방으로 치도는 구름 하늘에 누웠구나
+    하늘의 마음은 이미 사람의 마음과 함께 변해졌고
+    왕기는 가만히 〈백성들의〉 원망하는 기운을 좇아 녹아졌네
+    천고에 분명히 그 은감이 있거니
+    마땅히 그것을 본떠 내어 교초에 올리자
+    백 번이나 싸운 백성은 극도로 곤궁한데
+    다시 남은 힘을 번거로이 하여 조궁을 지었구나
+    둘려 있는 전각은 땅이 없는 데까지 다달았고
+    숨었다 비췄다 하는 고릉은 반이나 허공에 들어 갔구나
+    기수의 향기로운 바람은 봄에 자욱하고
+    옥루의 구름 기운은 새벽에 뭉게 뭉게
+    만세에 전하려 한 것이 진실로 헛 계획이었거니
+    이미 영웅들의 비예하는 속에 있었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 종남산(終南山) : '
+    value: 장안(長安)의 남산이다.
+  - key: '[주-D002] 자극(紫極) : '
+    value: 하늘에 제성(帝星)이 있는 곳이다.
+  - key: '[주-D003] 하늘의 마음은 …… 변해졌고 : '
+    value: 진(秦)나라가 인심(人心)을 잃으니 하늘의 마음도 진나라를 망친다는 뜻이다.
+  - key: '[주-D004] 교초(鮫綃) : '
+    value: 바다에 교인(鮫人 인어(人魚))이 아름다운 비단을 짜낸다는 전설이 있다. 그 비단을 교초(鮫綃)라 한다.
+  - key: '[주-D005] 조궁(朝宮) : '
+    value: 조회 받는 궁이다.
+  - key: '[주-D006] 고릉(觚稜) : '
+    value: 지붕의 모난 모퉁이.
+  - key: '[주-D007] 이미 영웅들의 …… 있었네 : '
+    value: 눈을 흘기며 욕심내어 엿본다는 말이다. 진시황(秦始皇)이 동으로 회계(會稽)에 놀러 갔을 때에 항우(項羽)가 어린 나이에 그것을 멀리서 구경하다가, “저것을 빼앗아 내가 할 수 있겠구나.” 하였고, 유방(劉邦 한 고조)이 진나라 서울인 함양(咸陽)에 역부(役夫)로 갔다가 멀리서 진시황을 바라보고는, “대장부가 마땅히 저와 같이 될 것이다.” 하고, 탄식하였다. 이 시는 그런 사실을 가리켜 한 말이다. 진 시황이 처음 천하를 통일하고는 만세에 무궁토록 전하겠다고 한 말이 있었다.
+english:
+  title: Two Painted Screens of the Epang Palace, Presented as Commanded
+  author: Heo Chim
+  language: eng
+  text: |-
+    I. The Verdant South Mountain
+
+    The verdant South Mountain rises high and dense,
+    While the front palace reaches level toward the Purple Throne's heights.
+    Ten thousand chambers, honeycombed, settle upon earth's axis,
+    Eight roads of imperial thoroughfares stretch across the clouded sky.
+
+    Heaven's heart has already changed with the people's heart,
+    And the dynasty's fortune silently dissolves with the people's resentment.
+    In a thousand years, the lesson stands clear and distinct—
+    Should we not capture it and present it upon silk as fair as mermaid's weave?
+
+    II. The Crumbling Legacy
+
+    A hundred battles have ground the common folk to uttermost despair,
+    Yet they squandered their last strength to build this morning palace.
+    The encircling halls and pavilions extend to lands beyond all measure,
+    While the angular eaves, shadowed and sunlit, thrust halfway into empty air.
+
+    The fragrant breeze through trees of jade grows thick with spring,
+    And clouds that cling to crystal towers gather misty at dawn.
+    All that was meant to endure for ten thousand ages was but hollow ambition—
+    Yet already it lay within the gaze of those who would seize the world.
+  footnotes:
+  - key: ''
+    value: The Epang Palace (阿房宮) was the legendary palace complex built by China's First Emperor, Qin Shi Huang, symbolizing imperial excess and the dynasty's eventual collapse.
+  - key: ''
+    value: This poem appears to be composed as a warning, using the ruined palace as a meditation on the correlation between Heaven's will and the people's suffering—the palace's grandeur becomes a monument to moral failure rather than achievement.
+  - key: ''
+    value: The final couplet alludes to historical figures like Xiang Yu and Liu Bang (the future Han founder), who allegedly gazed upon the imperial grandeur with ambition, foreshadowing their roles in overthrowing the Qin dynasty.

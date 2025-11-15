@@ -1,0 +1,46 @@
+canonical:
+  title: 雪夜小酌
+  author: 李穀
+  language: lzh
+  text: 臘近纔呈瑞冬溫不失和履聲人起早篆迹鳥留多舊業餘書榻歸期誤釣蓑擁爐俱是客奈欠酒錢何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雪夜小酌
+  author: 李穀
+  language: lzh
+  text: 臘近纔呈瑞。冬溫不失和。履聲人起早。篆迹鳥留多。舊業餘書榻。歸期誤釣蓑。擁爐俱是客。奈欠酒錢何。
+korean:
+  title: 설야 소작
+  author: 이곡
+  language: kor
+  text: |-
+    섣달이 가까워서 눈[雪]이 겨우 상서를 보이니
+    겨울이 따스하여도 천화를 잃지 않네
+    눈 위의 신 소리는 누가 일찍 일어났나
+    전자 같은 발자국, 새가 많이 남겼구나
+    옛 업은 서탑만이 남았는데
+    돌아갈 기약은 낚는 누역을 저버렸구나
+    화로를 둘러앉은 이 모두 나그네들인데
+    술 사올 돈이 모자라니 이를 어찌 할거나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0900&viewSync=OT
+  footnotes: []
+english:
+  title: A Modest Drink on a Snowy Night
+  author: Lee Gok
+  language: eng
+  text: |-
+    As the twelfth month draws near, snow barely shows its blessing,
+    Winter stays warm yet loses not heaven's grace.
+    Whose footsteps wake the earth at dawn upon the snow?
+    Antlike tracks—the birds have left their marks in plenty.
+
+    Old pursuits remain only by the books on the shelf,
+    My promised homecoming forsaken for the fisherman's cloak.
+    We gather round the glowing brazier, all of us strangers,
+    Yet lacking coin for wine—what remedy remains?
+  footnotes:
+  - key: ''
+    value: The reference to 'the fisherman's cloak' invokes the classical image of the recluse who abandons worldly affairs, suggesting the speaker has retreated from active life.
+  - key: ''
+    value: The gathering around the brazier evokes a sense of temporary refuge and fellowship among transient souls, emphasizing the speaker's displacement and melancholy.

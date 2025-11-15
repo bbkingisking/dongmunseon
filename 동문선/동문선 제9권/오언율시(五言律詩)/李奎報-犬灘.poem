@@ -1,0 +1,44 @@
+canonical:
+  title: 犬灘
+  author: 李奎報
+  language: lzh
+  text: 淸曉發龍浦黃昬泊犬灘黠雲欺落日狠石捍狂瀾水國秋先冷船亭夜更寒江山眞勝畫莫作畫圖看
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 犬灘
+  author: 李奎報
+  language: lzh
+  text: 淸曉發龍浦。黃昬泊犬灘。黠雲欺落日。狠石捍狂瀾。水國秋先冷。船亭夜更寒。江山眞勝畫。莫作畫圖看。
+korean:
+  title: 견탄
+  author: 이규보
+  language: kor
+  text: |-
+    첫 새벽에 용포(龍浦)를 떠나
+    황혼에 개여울에 대었네
+    간교한 구름이 지는 해를 놀려대고
+    험상궂은 돌이 미친 물살을 막는구나
+    수국에 가을이 먼저 서늘하고
+    선정은 밤에 더 차네
+    강산이 참으로 그림보다 나으니
+    혹시나 그림이라 보지 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0560&viewSync=OT
+  footnotes: []
+english:
+  title: The Dog Rapid
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    At first dawn I depart from Dragon Harbor,
+    By twilight I moor at the Dog Rapid.
+    Cunning clouds mock the setting sun,
+    While jagged stones resist the raging current.
+
+    In water-lands, autumn arrives early with its chill,
+    The boat pavilion grows even colder through the night.
+    These river mountains surpass any painting—
+    Do not mistake them for mere brush and ink.
+  footnotes:
+  - key: ''
+    value: 'Dragon Harbor (龍浦) and the Dog Rapid (犬灘) are actual landmarks on a Korean river journey, likely the Han River or Yeongsan River. ''Water-lands'' refers to regions characterized by rivers and wetlands. The final couplet presents a classical paradox: that living nature surpasses artistic representation, yet the poem itself immortalizes the landscape through verse.'

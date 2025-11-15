@@ -1,0 +1,47 @@
+canonical:
+  title: 在善山境上
+  author: 金宗直
+  language: lzh
+  text: 津吏非瀧吏官人卽邑人三章辭聖主五馬慰慈親白鳥如迎棹靑山慣送賓澄江無點綴持以律吾身
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 在善山境上
+  author: 金宗直
+  language: lzh
+  text: 津吏非瀧吏。官人卽邑人。三章辭聖主。五馬慰慈親。白鳥如迎棹。靑山慣送賓。澄江無點綴。持以律吾身。
+korean:
+  title: 선산 지경 위에 있다
+  author: 김종직
+  language: kor
+  text: |-
+    나루터의 아전은 농의 아전 아니요
+    그 관리들은 바로 읍 사람이라네
+    삼장(세 번 올린 사표)으로써 성주를 하직하고
+    오마(태수의 행차는 말이 다섯 필이다)로써 자친을 위로하네
+    흰 새는 배를 맞이하는 듯
+    푸른 산은 손을 보내기에 익었구나
+    맑은 강은 찍은 점이 하나 없거니
+    그것으로 내 몸을 다리리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0220&viewSync=OT
+  footnotes: []
+english:
+  title: On the Border of Seonsan
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    The ferry keeper is no waterfalls keeper,
+    The officials here are the townspeople themselves.
+    With three letters of resignation I bid the sage-king farewell,
+    With five horses I comfort my aging mother.
+    White birds seem to welcome my boat,
+    Green mountains have grown skilled at sending off travelers.
+    The clear river holds not a single blemish—
+    By this I shall measure and perfect my soul.
+  footnotes:
+  - key: ''
+    value: Three letters of resignation (三章) refers to formal requests for retirement, here symbolizing the poet's departure from official service.
+  - key: ''
+    value: Five horses (五馬) alludes to the traditional pageantry of a provincial governor's procession, representing the poet's former station of authority.
+  - key: ''
+    value: The river and mountains serve as mirrors of inner purity, reflecting the poet's aspirations for moral refinement in retirement.

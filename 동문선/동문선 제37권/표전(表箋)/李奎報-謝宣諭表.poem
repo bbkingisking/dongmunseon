@@ -1,0 +1,40 @@
+canonical:
+  title: 謝宣諭表
+  author: 李奎報
+  language: lzh
+  text: 星使鼎來天書狎至傴僂拜命欣悚交懷中謝 恭惟挺上聖之資受昊天之命握樞臨極居萬乘之獨尊耀武揚威微一方之不服誕頒明詔布及遐方臣夙戴皇靈恪供臣職更沐自天之訓倍深就日之誠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝宣諭表
+  author: 李奎報
+  language: lzh
+  text: 星使鼎來。天書狎至。傴僂拜命。欣悚交懷。中謝。 恭惟挺上聖之資。受昊天之命。握樞臨極。居萬乘之獨尊。耀武揚威。微一方之不服。誕頒明詔。布及遐方。臣夙戴皇靈。恪供臣職。更沐自天之訓。倍深就日之誠。
+korean:
+  title: 사 선유 표
+  author: 이규보
+  language: kor
+  text: |-
+    성사(星使)가 방금 옴에 조칙(詔勅)이 내리오니, 구부려 절하오며 기쁨과 황송함이 마음에 뒤섞입니다. 중사(中謝)
+    공손히 생각하옵건대, 황제께서 상성(上聖)의 자질을 타고 나시고 하늘의 명을 받아서, 권력을 잡고 황극(皇極)에 임하여 혼자 만승(萬乘)의 높은 자리에 오르시고 위엄을 드날리시니 한 곳도 불복(不服)한 데가 없나이다. 밝은 조칙을 내리시어 먼 지방에 선포하심에, 신은 일찍부터 황제의 덕을 추대하온 바라 신하의 직분을 조심스레 닦아서, 다시 하늘에게 내리신 교훈을 받들어 해에 나아가는[就日] 정성이 배나 더 깊으오이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 성사(星使) : '
+    value: 후한(後漢)익주(益州) 사람 이합(李郃)은 천문(天文)을 잘 보았다. 서울에서 두 사신이 행색을 감추고 미복(微服)으로 갔는데, 이합은 그들에게, “두 분이 서울을 떠날 대에 두 사신이 익주로 온다는 것을 알았다.” 하였다. 두 사신이 놀래어 물으니, 이합은 하늘에 별을 가리키며, “두 사성(使星)이 익주분야(益州分野)로 향하였으므로 안다.” 하였다.
+  - key: '[주-D002] 해에 나아가는[就日] : '
+    value: 요(堯) 임금의 덕이 지극하므로 백성들이, “바라기를 구름처럼 하고 나아가기를 해처럼 한다[望之如雲 就之如日].” 하였다.
+english:
+  title: Memorial of Gratitude for the Imperial Edict
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    The celestial messenger arrives with tidings, and the heavenly decree descends. I bow low with reverence, my heart stirring between joy and awe.
+
+    I humbly reflect that Your Majesty inherits the wisdom of the sage-kings and receives the mandate of heaven. Grasping the threads of power, you ascend the throne of absolute sovereignty, commanding all beneath heaven. Your virtue radiates forth, and nowhere remains unsubdued. You proclaim your luminous edicts and send them to the distant lands.
+
+    Your servant has long revered the imperial grace and faithfully tended to his duties. Now receiving once more the instruction that descends from heaven, my devotion deepens ever more—like the people of old who gazed upon virtue as they gaze upon the clouds, and approach it as they approach the sun.
+  footnotes:
+  - key: ''
+    value: The celestial messenger refers to an ancient belief that stars would move in the heavens to herald important events or the arrival of imperial envoys.
+  - key: ''
+    value: The final image alludes to the virtue of Emperor Yao, whose beneficence was so great that the people watched for him as they watch the clouds gather, and advanced toward him as they advance toward the sun.

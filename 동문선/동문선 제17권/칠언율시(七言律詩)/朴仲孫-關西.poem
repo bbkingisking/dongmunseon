@@ -1,0 +1,51 @@
+canonical:
+  title: 關西
+  author: 朴仲孫
+  language: lzh
+  text: 出處行藏不可期一文一武是男兒元戎望重裴丞相司馬才雄韓退之聖德自來覃異域天驕那得犯邊陲從容談笑妖烟熄莫向關西惜別離
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 關西
+  author: 朴仲孫
+  language: lzh
+  text: 出處行藏不可期。一文一武是男兒。元戎望重裴丞相。司馬才雄韓退之。聖德自來覃異域。天驕那得犯邊陲。從容談笑妖烟熄。莫向關西惜別離。
+korean:
+  title: 관서
+  author: 박중손
+  language: kor
+  text: |-
+    출처와 행장은 기필할 수 없는 것
+    문무를 겸전함이 곧 남아일세
+    배승상은 원수로도 명망이 높았거늘
+    한퇴지는 사마로도 재주가 뛰어났었지
+    성덕이 원래 이역에까지 미쳤으니
+    오랑캐들 어이 변방을 침범하리
+    조용히 담소하는 중 요괴로운 연기 그치리니
+    관서로 떠나는 이별 섭섭하다 마옵세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0880&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 배승상(裴丞相) : '
+    value: 당(唐) 배도(裴度). 그는 문무를 겸전하여 승상(丞相)으로서 회채(淮蔡)를 토평하고 진국공(晉國公)에 봉해졌다.
+  - key: '[주-D002] 한퇴지(韓退之)는 사마 : '
+    value: 한퇴지는 당나라 한유(韓愈). 배도(裴度)가 회서(淮西)를 칠 때에 한퇴지(韓退之)가 행군사마(行軍司馬)의 직책으로 종군(從軍)하였다.
+english:
+  title: Guanxi
+  author: Park Joong-son
+  language: eng
+  text: |-
+    Whether to advance or retreat cannot be foreseen—
+    Mastery of both pen and sword makes a true man.
+    Pei Chengxiang's name grew mighty as commander,
+    Han Tuizhi's genius shone as military aide.
+    Virtue of the sage extends beyond distant lands,
+    How could barbarians dare breach our frontier?
+    In calm discourse and laughter, demon smoke dissolves,
+    Do not sorrow at parting from Guanxi's gate.
+  footnotes:
+  - key: ''
+    value: Pei Du (裴度) was a Tang dynasty statesman who mastered both civil and military arts, serving as Prime Minister and pacifying the Huaixi Rebellion, earning the title Duke of Jin.
+  - key: ''
+    value: Han Yu (韓愈), known as Han Tuizhi, served as Provost Marshal (行軍司馬) under Pei Du's command during the Huaixi campaign.
+  - key: ''
+    value: Guanxi (關西, the region west of the pass) likely refers to the frontier region being discussed or the poet's destination.

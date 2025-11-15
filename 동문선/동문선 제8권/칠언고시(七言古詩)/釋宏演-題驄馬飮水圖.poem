@@ -1,0 +1,65 @@
+canonical:
+  title: 題驄馬飮水圖
+  author: 釋宏演
+  language: lzh
+  text: 昔聞韋偃畫無敵解使房星落千尺今觀頗似之坐見落落精權奇千里歸來汙未乾碧波吸盡湘雲寒波光雲氣塡滿腹便欲西走還長安長安此去三千里天閑駿骨差可擬題詩卷啚還授君眼見新龍欲飛起
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題驄馬飮水圖
+  author: 釋宏演
+  language: lzh
+  text: 昔聞韋偃畫無敵。解使房星落千尺。今觀頗似之。坐見落落精權奇。千里歸來汙未乾。碧波吸盡湘雲寒。波光雲氣塡滿腹。便欲西走還長安。長安此去三千里。天閑駿骨差可擬。題詩卷啚還授君。眼見新龍欲飛起。
+korean:
+  title: 제총마음수도
+  author: 석굉연
+  language: kor
+  text: |-
+    옛날 위언의 그림은 제일
+    방성을 하늘에서 떨어지게 하였던가
+    이 그림이 그와 비슷하여
+    앉아서 기특한 모습을 보겠구나
+    천리 길 돌아와서 땀도 아직 안 마른 채
+    푸른 물결 다 마시고 상수의 구름까지
+    물결과 구름이 뱃속에 가득 차자
+    서쪽으로 금방 달려 장안에 가려네
+    장안이 예서 3천 리 먼 길
+    하늘 마굿간의 준마와 견주리
+    그림에 시를 써 그대에게 돌리노니
+    저 보게, 새 용이 꿈틀 날아 일어나는구먼
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 총마(驄馬) : '
+    value: 청백색의 말을 총마라 한다.
+  - key: '[주-D001] 汙 : '
+    value: 汗
+english:
+  title: On a Painting of a Dappled Horse Drinking Water
+  author: Seok Hung-yeon
+  language: eng
+  text: |-
+    Once I heard Wei Yan's brush was matchless,
+    How it made the House Star tumble a thousand feet from heaven.
+    Now viewing this, it seems akin to his art—
+    Sitting here, I behold its wondrous, extraordinary form.
+
+    A thousand leagues traveled, sweat still wet upon the brow,
+    The azure waves drunk dry, even the clouds of Xiang grown cold.
+    With wave-light and cloud-mist filling its belly,
+    The steed yearns to gallop west, back to Chang'an.
+
+    Chang'an lies three thousand miles distant from here,
+    Yet this heavenly stable's noble courser rivals the way.
+    I inscribe a poem upon the scroll and return it to you—
+    Behold! A new dragon stirs, about to take flight and rise.
+  footnotes:
+  - key: ''
+    value: Wei Yan (韋偃) was a renowned Tang dynasty painter famous for his horse paintings, said to have such vitality that his subjects seemed to leap from the silk.
+  - key: ''
+    value: The 'House Star' (房星) refers to one of the lunar mansions, suggesting the extraordinary heights to which Wei Yan's brush could lift his subjects.
+  - key: ''
+    value: Xiang (湘) refers to the Xiang River region, evoking the misty southern landscape.
+  - key: ''
+    value: The 'dappled horse' (驄馬) is a horse of pale blue or gray coloring, highly prized in classical Chinese tradition.
+  - key: ''
+    value: The transformation of the horse into a 'new dragon' in the final lines reflects the classical Chinese belief that horses and dragons share a spiritual kinship.

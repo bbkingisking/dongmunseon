@@ -1,0 +1,40 @@
+canonical:
+  title: 安命
+  author: 李那
+  language: lzh
+  text: 朔風號怒雪飄揚念汝飢寒感歎長色必敗身須戒愼言能害己更詳量狂荒結友終無益驕慢輕人反有傷萬事不求忠孝外一朝名譽達吾王
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 安命
+  author: 李那
+  language: lzh
+  text: 朔風號怒雪飄揚。念汝飢寒感歎長。色必敗身須戒愼。言能害己更詳量。狂荒結友終無益。驕慢輕人反有傷。萬事不求忠孝外。一朝名譽達吾王。
+korean:
+  title: 아들 안명
+  author: 이나
+  language: kor
+  text: |-
+    북풍이 몰아치고 눈이 휘날리는데
+    네 기한을 생각하니 서글픈 맘 그지없노라
+    색은 몸을 망치나니 모름지기 삼갈 것
+    말이 저를 해치거니 다시금 조심하여라
+    난봉 친구 사귀면 끝내 무익한 법
+    교만하여 남 업신여기면 되려 제가 상하느니
+    만사를 충성과 효도 밖에 구하지 말라
+    일조에 빛난 이름이 임금님께 달하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0750&viewSync=OT
+  footnotes: []
+english:
+  title: Settling Your Fate
+  author: Lee Na
+  language: eng
+  text: |-
+    The north wind howls and snow swirls wildly—
+    Thinking of your trials, my heart grows heavy with sorrow.
+    Beauty will ruin the body; guard against it with care.
+    Words can wound the self; consider them well before speaking.
+    Wild companions bring only waste in the end,
+    And pride that scorns others brings harm to oneself.
+    Seek nothing beyond loyalty and filial duty in all things,
+    And your good name will shine before the king.

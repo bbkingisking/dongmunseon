@@ -1,0 +1,53 @@
+canonical:
+  title: 書雲巖寺
+  author: 陳澕
+  language: lzh
+  text: 昨夜山梅一枝發山中老僧不知折使君年少正多情走傍寒叢問消息恨無仙人雙玉簫吹破人閒遠離別到山三日不登山無奈東風却淒切明朝上馬入紅塵誰賞堂前一簾月
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書雲巖寺
+  author: 陳澕
+  language: lzh
+  text: 昨夜山梅一枝發。山中老僧不知折。使君年少正多情。走傍寒叢問消息。恨無仙人雙玉簫。吹破人閒遠離別。到山三日不登山。無奈東風却淒切。明朝上馬入紅塵。誰賞堂前一簾月。
+korean:
+  title: 서 운암사
+  author: 진화
+  language: kor
+  text: |-
+    어제 밤에 산매화 한 가지 피었는데
+    산속의 늙은 중은 꺾을 줄을 모른다
+    사군이 나이 젊고 또한 정이 많기에
+    찬 떨기 곁에 와서 소식을 묻는구나
+    한스럽다 신선들의 옥퉁소 한 쌍이 없어
+    인간의 먼 이별을 부술 수가 없구나
+    산에 온 지 사흘 되어도 산에 오르지 않았나니
+    봄바람의 쌀쌀함을 어찌할 수 없었다
+    내일 아침에는 말에 올라 붉은 티끌 속으로 들어가리니
+    이 당 앞 주렴에 가득한 달을 누가 구경할 것인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0220&viewSync=OT
+  footnotes: []
+english:
+  title: Written at Yunam Temple
+  author: Chen Hua
+  language: eng
+  text: |-
+    Last night a single branch of mountain plum came into bloom,
+    yet the old monks dwelling there knew not to gather it.
+    Young official, your heart is full of tender feeling—
+    you wander through the cold thicket seeking its news.
+
+    I lament we have no jade flutes of the immortals
+    to blow away the sorrows of this distant parting.
+    Three days I've stayed upon the mountain without climbing high,
+    unable to escape the bite of the eastern wind.
+
+    Tomorrow at dawn I mount my horse toward the red dust of the world.
+    Who will linger to admire the moon through the hall's silk curtains?
+  footnotes:
+  - key: ''
+    value: 'Yunam Temple: A mountain temple in classical Korea, representing a place of spiritual refuge and natural beauty.'
+  - key: ''
+    value: The mountain plum (梅) symbolizes resilience and quiet beauty in East Asian poetry, blooming in harsh conditions.
+  - key: ''
+    value: The 'red dust' (紅塵) is a classical metaphor for the mundane, worldly realm with all its attachments and suffering, contrasted with the purity of mountain temples.

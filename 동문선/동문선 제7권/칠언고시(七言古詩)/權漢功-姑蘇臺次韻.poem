@@ -1,0 +1,56 @@
+canonical:
+  title: 姑蘇臺次韻
+  author: 權漢功
+  language: lzh
+  text: 越有人兮圖霸時吳兵雖精安所施君王枕戈志願畢天悔禍兮有今日論功未必西子多子胥江上空濤波姑蘇往事悲乃何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 姑蘇臺次韻
+  author: 權漢功
+  language: lzh
+  text: 越有人兮圖霸時。吳兵雖精安所施。君王枕戈志願畢。天悔禍兮有今日。論功未必西子多。子胥江上空濤波。姑蘇往事悲乃何。
+korean:
+  title: 고소대 차운
+  author: 권한공
+  language: kor
+  text: |-
+    월나라에 사람 있어 패업을 경영할 때
+    오병은 강하지만 어디에 쓰랴
+    임금이 창을 베고 소원이 이룩되니
+    하늘이 도와서 이 날이 있었다고
+    공을 논하면 반드시 서자(서시 때문에 오나라가 망했다)에게 상이 많겠고
+    오자서가 강 위에서 속절없이 파도만 치누나
+    고소대의 지난 일 슬퍼한들 어찌할꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고소대(姑蘇臺) : '
+    value: 오왕(吳王)이 월(越)을 쳐서 항복 받은 뒤에, 고소대에서 미인 서시(西施)를 데리고 향락(享樂)에 빠졌다가 월나라 군사에게 멸망을 당하였다.
+  - key: '[주-D002] 임금이 창을 베고[枕戈] : '
+    value: “원수를 갚으려는 사람은 거적자리에서 창을 베고 잠을 잔다.”는 말이 《예기》에 있는데, 월왕(越王)  구천(句踐)이 오(吳)나라에 항복하여 굴욕(屈辱)을 당한 뒤에 나라에 돌아와서 범여(范蠡)ㆍ대부종(大夫種)과 함께 국력(國力)를 길러서 도리어 오나라를 멸하고 패업(覇業)을 성취하였다.
+  - key: '[주-D003] 오자서(伍子胥) : '
+    value: 오왕에게 간(諫)하다가 도리어 참소를 만나 죽음을 당하고 시체는 강물에 던져졌다.
+english:
+  title: Following the Rhyme at Gusu Terrace
+  author: Gwon Han-gong
+  language: eng
+  text: |-
+    Once Yue had a man who schemed to seize dominion's prize,
+    Yet Wu's mighty forces—where could they deploy their might?
+    The king pillow his spear; his ancient wish at last takes flight,
+    Heaven's favor turned the tide to grant him this day's rise.
+
+    When merit's reckoned, who can claim the greater prize?
+    Not the beauty fair—though many credit her alone.
+    But Wu Zixu on the river churns in waves unknown,
+    His vengeful spirit rippling where the current cries.
+
+    Gusu's faded glory, its sorrows of the past—
+    What solace can we find in tears that cannot last?
+  footnotes:
+  - key: ''
+    value: 'Gusu Terrace: the pleasure palace where the King of Wu indulged himself after conquering Yue, only to fall to Yue''s revenge. The legend epitomizes the danger of forgetting one''s enemies.'
+  - key: ''
+    value: 'Pillow his spear: an allusion to the determination of Goujian, King of Yue, who endured humiliation after defeat, then rebuilt his state and ultimately destroyed Wu.'
+  - key: ''
+    value: 'Wu Zixu: a loyal minister to the King of Wu who warned against complacency. When his counsel was rejected, he was executed and his body cast into the river—a tragic ghost forever wandering.'

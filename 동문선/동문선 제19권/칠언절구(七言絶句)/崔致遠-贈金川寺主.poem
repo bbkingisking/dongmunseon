@@ -1,0 +1,37 @@
+canonical:
+  title: 贈金川寺主
+  author: 崔致遠
+  language: lzh
+  text: 白雲溪畔刱仁祠三十年來此住持笑指門前一條路纔離山下有千歧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈金川寺主
+  author: 崔致遠
+  language: lzh
+  text: 白雲溪畔刱仁祠。三十年來此住持。笑指門前一條路。纔離山下有千歧。
+korean:
+  title: 증 금천사 주
+  author: 최치원
+  language: kor
+  text: |-
+    흰 구름 시냇가에 절을 지으니
+    서른 해 내리 이 주지로세
+    웃으며 가리키노니 문앞의 한 줄기 길이
+    조금 곧 산 아래를 떠나면 천 가닥이 되네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 절 : '
+    value: 석가(釋迦)의 한역(漢譯)이 능인(能仁)이듯이 절을 인사(仁祠)라 한다.
+english:
+  title: A Gift for the Abbot of Geumcheon Temple
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    By the stream where white clouds gather, a temple of compassion was built.
+    Thirty years the abbot has kept watch over this sacred place.
+    With a smile, he points to the single path before the gate—
+    yet barely past the mountain's foot, it branches into a thousand ways.
+  footnotes:
+  - key: ''
+    value: The temple is called a 'shrine of compassion' (仁祠), playing on the Buddhist name for the Buddha as 'the compassionate one.'

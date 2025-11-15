@@ -1,0 +1,48 @@
+canonical:
+  title: 夏日卽事
+  author: 徐居正
+  language: lzh
+  text: 小晴簾幙日暉暉短帽經衫暑氣微解籜有心因雨長落花無力受風飛久拚翰墨藏名姓已厭簪纓惹是非寶鴨香殘初睡覺客曾來少燕頻歸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夏日卽事
+  author: 徐居正
+  language: lzh
+  text: 小晴簾幙日暉暉。短帽經衫暑氣微。解籜有心因雨長。落花無力受風飛。久拚翰墨藏名姓。已厭簪纓惹是非。寶鴨香殘初睡覺。客曾來少燕頻歸。
+korean:
+  title: 하일 즉사
+  author: 서거정
+  language: kor
+  text: |-
+    비가 잠깐 개어 발과 장막에 햇빛이 빛나는데
+    짧은 모자 가벼운 적삼에 더운 기운이 얇다
+    솟는 죽순은 마음이 있어 비로 인해 자랐고
+    지는 꽃은 힘이 없어 바람을 받아 흩날린다
+    오랫동안 한묵(문필)을 버려 성명을 감추었거니
+    이미 잠영들의 시비 일으킴을 싫어했었다
+    보압(향로)에 향기는 쇠잔하고 첫잠이 깨었는데
+    찾는 손님은 적고 제비 자주 돌아온다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0170&viewSync=OT
+  footnotes: []
+english:
+  title: 'A Summer''s Day: Immediate Impressions'
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The rain clears and sunlight gleams upon curtain and rail,
+    A light cap and thin robe—the heat grows pale.
+    The bamboo shoots rise with purpose, nurtured by the rain,
+    The fallen blossoms, weakened, scatter on the wind in vain.
+
+    Long have I abandoned brush and ink to hide my name,
+    Weary of the entangling gossip of the world's acclaim.
+    The jade censer's fragrance fades as first sleep stirs awake,
+    Few guests arrive to visit, yet swallows come for morning's sake.
+  footnotes:
+  - key: ''
+    value: The poem contrasts natural vitality (bamboo shoots strengthened by rain, swallows returning) with the speaker's chosen withdrawal from public life and literary ambition.
+  - key: ''
+    value: The jade censer (寶鴨) refers to an ornamental incense burner, suggesting both refinement and solitude.
+  - key: ''
+    value: The work reflects Confucian themes of withdrawal from official life and the tranquility found in solitude and nature.

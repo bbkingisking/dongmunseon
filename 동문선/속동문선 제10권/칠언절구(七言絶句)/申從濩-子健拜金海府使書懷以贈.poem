@@ -1,0 +1,39 @@
+canonical:
+  title: 子健拜金海府使書懷以贈
+  author: 申從濩
+  language: lzh
+  text: 獨力回天未罷休一麾今日向南州惜無一語留君去持祿容容抵死羞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 子健拜金海府使書懷以贈
+  author: 申從濩
+  language: lzh
+  text: 獨力回天未罷休。一麾今日向南州。惜無一語留君去。持祿容容抵死羞。
+korean:
+  title: 자건 배 김해 부사 서회 이증
+  author: 신종호
+  language: kor
+  text: |-
+    혼자서 하늘 돌리려다 그치기를 아니하고
+    한 깃발 오늘에는 남녘 고을 향하였네
+    그대를 만류하는 말 한 마디 없이
+    녹록히 벼슬만 지키니 그 부끄럼 어이하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0240&viewSync=OT
+  footnotes: []
+english:
+  title: Lines of Feeling Offered to Chi-geon Upon His Appointment as Magistrate of Gimhae
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    Alone you strive to turn the heavens, refusing ever to cease—
+    Today your banner points toward the southern provinces.
+    I have no words to hold you back as you depart,
+    Yet here I sit, clinging to office in comfortable shame.
+  footnotes:
+  - key: ''
+    value: The 'turning of heavens' refers to attempting to influence fate or change circumstances through virtue and effort, a Confucian ideal.
+  - key: ''
+    value: The 'southern provinces' refers to Gimhae, located in the Gyeongsang region of Korea's south.
+  - key: ''
+    value: The speaker's 'comfortable shame' suggests the contrast between the recipient's active virtue and the speaker's passive bureaucratic existence.

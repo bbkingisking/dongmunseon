@@ -1,0 +1,29 @@
+canonical:
+  title: 回金使遠狀
+  author: 崔惟淸
+  language: lzh
+  text: 肅將帝渥遠届藩封載惟跋履之勤方圖脩問遽沐謙柔之睠先枉飛文玩辭以還服義無斁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 回金使遠狀
+  author: 崔惟淸
+  language: lzh
+  text: 肅將帝渥。遠届藩封。載惟跋履之勤。方圖脩問。遽沐謙柔之睠。先枉飛文。玩辭以還。服義無斁。
+korean:
+  title: 회 금사원 장
+  author: 최유청
+  language: kor
+  text: 삼가 황제의 거룩한 은혜를 받들어, 멀리 번방(藩邦)에 미치게 하시므로, 곧 발섭(跋涉)의 근로(勤勞)를 생각하여 바야흐로 문서(問書)를 올리고자 하던 차에 갑자기 겸손한 마음으로 회유하시는 사랑에 목욕하도록 먼저 글월을 보내주시니, 사연을 읽어보며 의(義)를 흠모함이 그지없습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: Response to the Emissary from the Gold Nation
+  author: Choi Yu-cheong
+  language: eng
+  text: I humbly receive the sovereign's sacred grace, which extends even to distant vassal lands. I was but contemplating the toils of my arduous journey, preparing to send words of inquiry, when suddenly I was bathed in the gentle care of your benevolent affection—your letter arriving first. Reading your words, my reverence for righteousness knows no end.
+  footnotes:
+  - key: ''
+    value: The 'Gold Nation' (金) likely refers to the Jurchen Jin dynasty. This appears to be a diplomatic response acknowledging receipt of correspondence from an emissary.
+  - key: ''
+    value: The poem employs the classical courtly language of gratitude and submission typical of East Asian diplomatic correspondence.

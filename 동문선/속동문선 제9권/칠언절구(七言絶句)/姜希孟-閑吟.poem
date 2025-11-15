@@ -1,0 +1,32 @@
+canonical:
+  title: 閑吟
+  author: 姜希孟
+  language: lzh
+  text: 慵來負手望雲山巷絶輪蹄却似閑覓句忽圓還一笑恠禽驚起掠簷端
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閑吟
+  author: 姜希孟
+  language: lzh
+  text: 慵來負手望雲山。巷絶輪蹄却似閑。覓句忽圓還一笑。恠禽驚起掠簷端。
+korean:
+  title: 한음
+  author: 강희맹
+  language: kor
+  text: |-
+    게으름이 오면 손을 얹고 구름산을 바라보고
+    거리에는 수레와 말이 끊어져 문득 한가한 것 같다
+    글귀를 찾다가 갑자기 얻어지면 다시 한번 웃나니
+    이상한 새가 놀라 일어나 추녀 끝을 스친다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0280&viewSync=OT
+  footnotes: []
+english:
+  title: Idle Musing
+  author: Kang Hee-meng
+  language: eng
+  text: |-
+    Laziness comes, and I rest my hands, gazing at the clouded mountains.
+    The streets are empty of carts and horses—suddenly, leisure feels real.
+    Searching for words, when one arrives unbidden, I cannot help but smile.
+    A strange bird startles awake and sweeps across the eaves.

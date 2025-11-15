@@ -1,0 +1,51 @@
+canonical:
+  title: 驪興淸心樓
+  author: 鄭子厚
+  language: lzh
+  text: 北原西畔漢南端我昔登樓一展顔脚底蒼茫江繞郭眼前平遠野連山白雲仙想三淸外明月詩情八詠閒二十年來塵土下至今思夢不曾閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 驪興淸心樓
+  author: 鄭子厚
+  language: lzh
+  text: 北原西畔漢南端。我昔登樓一展顔。脚底蒼茫江繞郭。眼前平遠野連山。白雲仙想三淸外。明月詩情八詠閒。二十年來塵土下。至今思夢不曾閑。
+korean:
+  title: 여흥 청심루
+  author: 정자후
+  language: kor
+  text: |-
+    북원(원주(原州)) 서쪽, 한강 남쪽 끝
+    내 옛날 이 다락에 올라 한 번 얼굴 폈었지
+    발 밑에 아스라히 강이 성을 둘렀고
+    눈앞엔 넓으나 넓은 들이 산에 이엇것다
+    신선마냥 흰 구름 타고 삼청 밖에 노니는 듯
+    휘영청 밝은 달에 팔영 시가 흥겨워라
+    20년 동안이나 진토에 묻혀 살며
+    이제껏 여기를그리는 꿈이 한가하지 못하였네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 팔영(八詠) : '
+    value: 양(梁)나라 심약(沈約)이 동양 태수(東陽太守)가 되어 팔영시(八詠詩)를 지어 현창루(玄暢樓)에 썼는데, 후인(後人)이 그 누(樓)를 팔영루(八詠樓)라 하였다.
+english:
+  title: Ascending the Tower of Clear Heart at Yeohung
+  author: Jung Ja-hu
+  language: eng
+  text: |-
+    At the western edge of the northern plain, where the Han River bends southward,
+    Once I climbed this tower and let my spirit unfold.
+    Beneath my feet, the river wound misty-blue around the walls,
+    Before my eyes, boundless fields stretched to meet the mountains.
+
+    Like an immortal riding white clouds beyond the Three Pure Realms,
+    Beneath the bright moon, the Eight Songs' inspiration flows endlessly.
+
+    Twenty years buried in the dust of the world,
+    Yet still this place returns to haunt my restless dreams.
+  footnotes:
+  - key: ''
+    value: The Eight Songs (八詠) refers to a famous suite of poems composed by Shen Yue when he served as governor of Dongyang during the Liang dynasty. His work was inscribed on the Xuanchang Pavilion, which became known as the Eight Songs Tower.
+  - key: ''
+    value: The Three Pure Realms (三淸) represents the highest heavens in Daoism, symbolizing transcendence and spiritual elevation.
+  - key: ''
+    value: The speaker reflects on a youthful visit to this tower two decades prior, suggesting the poem expresses longing for youth and a spiritually awakened past.

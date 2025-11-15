@@ -1,0 +1,29 @@
+canonical:
+  title: 方物狀
+  author: 李穡
+  language: lzh
+  text: 自天而祐彌增重潤之休隨土所宜聊達可羞之信云云名般甚寡製造亦踈愧非適用之資兾諒表誠之禮
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 方物狀
+  author: 李穡
+  language: lzh
+  text: 自天而祐。彌增重潤之休。隨土所宜。聊達可羞之信。云云。名般甚寡。製造亦踈。愧非適用之資。兾諒表誠之禮。
+korean:
+  title: 방물장
+  author: 이색
+  language: kor
+  text: 하늘에서 복을 내리시니 더욱 중윤(重潤)의 아름다움을 더하시고, 땅의 산물(産物)대로 애오라지 드릴 만한 미더운 물품을 올리나이다. 운운. 가지 수가 매우 적고 만듦새도 서투르오니, 긴히 쓰실 만한 물건이 못 됨을 부끄럽게 여기나, 정성을 표하는 예(禮)로 굽어 살펴 주시옵기 바라옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0340&viewSync=OT
+  footnotes: []
+english:
+  title: A Description of Local Tributes
+  author: Lee Suk
+  language: eng
+  text: Heaven bestows its blessings, ever deepening the grace of generous favor. Following what each region yields, I humbly present these modest offerings as tokens of sincerity. And so forth. The varieties are few and meager, their craftsmanship rough and unrefined. I am ashamed that these are not worthy of practical use, yet I beseech your kindness to regard them as expressions of my utmost devotion.
+  footnotes:
+  - key: ''
+    value: A 'Description of Local Tributes' (方物狀) is a formal document presenting regional products as tribute to a higher authority, typically a king or emperor. This piece serves as both a presentation and an act of ritual courtesy.
+  - key: ''
+    value: The phrase 'grace of generous favor' (重潤) suggests both material bounty and the recipient's benevolent disposition toward the humble offerings.

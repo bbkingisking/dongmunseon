@@ -1,0 +1,87 @@
+canonical:
+  title: 過紫石山下
+  author: 成俔
+  language: lzh
+  text: 君不見端溪三種皆神品鴝眼晶熒爛如錦又不見靑州所産最多姿紅絲理作含風漪金池歙嶺浪得名龍尾鳳咮誰重輕千金購求未易得誇奇衒異紛縱橫豈如桃源㮈城百里閒倚空山色靑巑岏山頭玉骨正凝紫腴紋隱暎如馬肝硏磨幻出鸊鵜血明星粲爛光照室年年充貢奉至尊餘波亦潤鑾坡筆山中片片可抵鵲散入長安千萬落文房護愛如藏珠農夫視之等沙礫誰知頑然磅礴質派接陶泓侯卽墨充梁溢棟千萬言賴此一一垂無極
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過紫石山下
+  author: 成俔
+  language: lzh
+  text: 君不見端溪三種皆神品。鴝眼晶熒爛如錦。又不見靑州所産最多姿。紅絲理作含風漪。金池歙嶺浪得名。龍尾鳳咮誰重輕。千金購求未易得。誇奇衒異紛縱橫。豈如桃源㮈城百里閒。倚空山色靑巑岏。山頭玉骨正凝紫。腴紋隱暎如馬肝。硏磨幻出鸊鵜血。明星粲爛光照室。年年充貢奉至尊。餘波亦潤鑾坡筆。山中片片可抵鵲。散入長安千萬落。文房護愛如藏珠。農夫視之等沙礫。誰知頑然磅礴質。派接陶泓侯卽墨。充梁溢棟千萬言。賴此一一垂無極。
+korean:
+  title: 과 자석산하
+  author: 성현
+  language: kor
+  text: |-
+    그대는 보지 않았는가, 단계의 삼종이 모두 신품이어서
+    구욕새 눈(鴝眼 벼룻돌에 있는 구멍)이 번들번들 비단처럼 빛나는 것을
+    또 보지 않았는가, 청주의 소산이 가장 예쁘장하여
+    붉은 실 같은 돌 결에 잔물살이 이는 듯함을
+    금지와 흡령은 허랑한 이름뿐
+    용미연ㆍ봉수연은 천하의 귀물
+    천금으로 사려도 손에 넣기 어려운 것을
+    기이한 것 자랑하느라 각기 야단이지만
+    무엇보다 최고는 이 무릉도원 내성 백 리 사이에
+    공중에 솟은 산빛이 푸르고 가파른데
+    산 위의 옥 같은 돌이 자색으로 엉기어
+    기름진 무리가 얼른얼른 말 간 같은 것
+    갈[磨]아내니 붉은빛이 되강오리 피 같고
+    찬란한 샛별처럼 빛이 방에 환하네
+    해마다 공물로 상감님께 받들어
+    남은 것은 난파의 붓을 적시네
+    산중의 조각조각한 건 까치런가
+    흩어져 장안의 천만 집으로
+    문방의 애호가 여의주 같건만
+    농부들이 보면 자갈과 같네
+    누가 알리, 완고한 이 돌덩이가
+    도홍후(연적) 즉묵대부(먹)와 일가인 것을
+    충량일동의 천만 말들이
+    이 덕택에 일일이 후세에 전하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 단계(端溪) : '
+    value: 중국 광동성(廣東省)에 있는 시내. 그 시냇가에서 나는 벼룻돌이 당(唐)ㆍ송(宋) 이래 천하의 명품(名品)이다.
+  - key: '[주-D002] 내성(㮈城) : '
+    value: 강원도 평창군(平昌郡) 동쪽 17리에 있는 미탄현(味呑峴)에 자연석(紫硯石)이 유명하다. 《輿覽 平昌》
+  - key: '[주-D003] 산 중의 …… 까치[鵲] : '
+    value: 양(梁)나라 재상(宰相)  장영(張影)이, 산의 까치가 날아[飛翔] 원석(圓石)이 된 것을 얻어 깨어 보니, “충효후인(忠孝侯印)”이라고 새겨진 금인(金印)을 얻었다 한다.
+english:
+  title: Passing Below Purple Stone Mountain
+  author: Sung Hyun
+  language: eng
+  text: |-
+    Have you not seen how the three grades of Duanxi stone are all divine treasures,
+    With sparkling eyes gleaming like brocade in the light?
+    Have you not witnessed how Qingzhou's finest stones possess the greatest beauty,
+    Their crimson veins creating patterns like wind-rippled waters?
+    Gold Pool and Sheshan Mountain lend their names to mere rumor,
+    While Dragon's Tail and Phoenix's Beak—who can judge their worth?
+    Though ten thousand gold coins cannot easily procure them,
+    The merchants boast and flaunt their rarities in confusion.
+
+    Yet nothing compares to this hundred leagues of leisure in Peach Blossom Realm,
+    Where the mountain's color rises blue and steep into empty space.
+    Atop the peak, jade-like stone congeals into purple hue,
+    Its rich veins gleaming faintly like mare's liver.
+    Ground smooth, it yields the red of a grebe's blood,
+    Brilliant as morning stars, its light fills the room.
+    Year after year, it is offered as tribute to the throne,
+    And its scattered remnants still moisten the imperial brush.
+
+    Pieces from these mountains rival the magpie's fortune—
+    They scatter through the ten thousand homes of Chang'an.
+    The literati cherish them like hidden pearls,
+    While farmers see them as mere gravel beneath their feet.
+    But who knows that this stubborn, massive stone
+    Is kin to the ink and ink-well of the ancients?
+    The countless words of Liang's great halls endure
+    Because this stone preserves them for eternity.
+  footnotes:
+  - key: ''
+    value: Duanxi (端溪) refers to a famous river in Guangdong Province, China, renowned since the Tang and Song dynasties for producing the finest inkstones in the world.
+  - key: ''
+    value: The 'Peach Blossom Realm' alludes to a remote paradise; the poet compares the purple stone mountains of Korea (specifically in Pyeongchang) to these legendary stones, suggesting their superior quality despite being less famous than Chinese varieties.
+  - key: ''
+    value: The reference to the magpie's fortune draws from a legend where a magpie's stone became a golden seal inscribed with 'Seal of the Loyal and Filial Duke,' suggesting that humble stones may contain unexpected value and significance.

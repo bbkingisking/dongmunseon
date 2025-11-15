@@ -1,0 +1,59 @@
+canonical:
+  title: 尙州
+  author: 金之岱
+  language: lzh
+  text: 去歲江樓餞我行今年公亦到黃堂曾爲管記顔如玉復作遨頭鬂未霜洛邑溪山雖洞府晉陽風月亦仙鄕兩州歸路閒何許一寸離懷久已傷欲把琴書尋舊要况看簾幙報新涼嗟公虛負中秋約更約重陽飮菊香
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 尙州
+  author: 金之岱
+  language: lzh
+  text: 去歲江樓餞我行。今年公亦到黃堂。曾爲管記顔如玉。復作遨頭鬂未霜。洛邑溪山雖洞府。晉陽風月亦仙鄕。兩州歸路閒何許。一寸離懷久已傷。欲把琴書尋舊要。况看簾幙報新涼。嗟公虛負中秋約。更約重陽飮菊香。
+korean:
+  title: 상주
+  author: 김지대
+  language: kor
+  text: |-
+    작년 강루에서 나를 전송하더니
+    금년에 당신 또한 황당(수령의 관아)에 왔구려
+    일찍이 관기로서 얼굴이 옥 같더니
+    지금 오두(지방 태수) 되어서도 머리 아직 안 희었네
+    낙읍(洛邑) 계산도 비록 신선의 동부이지마는
+    진양의 풍월이 또한 선향 아닌가 보네
+    두 고을의 오고 가는 길 거리가 얼마인가
+    일촌간장 이별의 회포는 오래전 벌써 상심됐네
+    금서를 가지고 옛 벗을 찾으려는데
+    염막에 더구나 새 가을이 온다 하네
+    추석의 약속을 저버린 것 야속하니
+    이 다음 중양 날에는 국화주를 꼭 마시세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 관기(管記) : '
+    value: 서기(書記)의 속관(屬官)이다. 최자가 전일에 서기로 있었다.
+  - key: '[주-D002] 낙읍(洛邑) : '
+    value: 여기서는 상주(尙州)를 낙읍이라 하였는데, 낙동강(洛東江) 고을이란 말이다.
+english:
+  title: Sangju
+  author: Kim Ji-dae
+  language: eng
+  text: |-
+    Last year you saw me off at the riverside pavilion,
+    This year you yourself have come to the magistrate's hall.
+    Once your face shone fair as jade in your clerk's position,
+    Now as governor your hair has yet to silver.
+
+    Though Nakji's streams and mountains hold the grottoes of immortals,
+    Jinyang's wind and moonlight are no less a realm divine.
+    What distance lies between our two towns' parting ways?
+    This single inch of longing in my heart has ached so long.
+
+    I wish to seek old friends through books and lute,
+    Yet the curtains whisper that new autumn comes again.
+    Alas, you've broken the Mid-Autumn promise we once made—
+    Let us pledge anew: when Double Ninth arrives, we'll drink chrysanthemum wine together.
+  footnotes:
+  - key: ''
+    value: Nakji refers to Sangju, named for the Nakdong River region to the east.
+  - key: ''
+    value: The poet references changing seasons and natural beauty as metaphors for time's passage and the constancy of friendship despite separation.

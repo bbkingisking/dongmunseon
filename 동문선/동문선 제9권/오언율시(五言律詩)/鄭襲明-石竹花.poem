@@ -1,0 +1,49 @@
+canonical:
+  title: 石竹花
+  author: 鄭襲明
+  language: lzh
+  text: 世愛牧丹紅栽培滿院中誰知荒草野亦有好花叢色透村塘月香傳隴樹風地偏公子少嬌態屬田翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 石竹花
+  author: 鄭襲明
+  language: lzh
+  text: 世愛牧丹紅。栽培滿院中。誰知荒草野。亦有好花叢。色透村塘月。香傳隴樹風。地偏公子少。嬌態屬田翁。
+korean:
+  title: 석죽화
+  author: 정습명
+  language: kor
+  text: |-
+    세상 사람이 붉은 모란을 좋아하여
+    뜰에 가득히 심어두지만
+    누가 알리 거친 풀 벌판에도
+    역시 좋은 꽃포기가 있는 줄을
+    빛은 마을 연못 달에 스며들고
+    향은 언덕 나무 바람에 풍겨 오네
+    궁벽한 땅에 귀공자가 적으니
+    그 고운 교태를 다만 촌옹에게 붙이누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Carnation
+  author: Jeong Seup-myeong
+  language: eng
+  text: |-
+    The world loves the crimson peony,
+    filling courtyards with its planted pride.
+    But who knows in the wild grasslands,
+    among rough and barren fields,
+    there too bloom flowers of grace?
+
+    Their petals glow like moonlight on village ponds,
+    their fragrance drifts on mountain winds.
+    In this remote and humble place,
+    where few young nobles venture,
+    their delicate beauty belongs
+    to the farmer's weathered eye alone.
+  footnotes:
+  - key: ''
+    value: The stone carnation (石竹) was traditionally considered a humble flower compared to the peony, making it a fitting subject for a poem about overlooked beauty and rural virtue.
+  - key: ''
+    value: The contrast between the cultivated peony of urban society and the wild carnation of the countryside reflects broader themes in East Asian poetry about simplicity versus excess.

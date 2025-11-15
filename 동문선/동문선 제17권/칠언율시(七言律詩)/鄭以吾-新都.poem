@@ -1,0 +1,49 @@
+canonical:
+  title: 新都
+  author: 鄭以吾
+  language: lzh
+  text: 繡屛圍暖酒初酣不覺庭除勢已嚴夜靜更無風掃地䆫明疑有月窺簷茅茨萬屋平初合蓑笠孤舟重乍添曉望終南渾一色應餘馬耳出雙尖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新都
+  author: 鄭以吾
+  language: lzh
+  text: 繡屛圍暖酒初酣。不覺庭除勢已嚴。夜靜更無風掃地。䆫明疑有月窺簷。茅茨萬屋平初合。蓑笠孤舟重乍添。曉望終南渾一色。應餘馬耳出雙尖。
+korean:
+  title: 신도
+  author: 정이오
+  language: kor
+  text: |-
+    훈훈한 수병풍 안에 술이 갓 거나한데
+    뜰에는 나도 몰래 눈이 대단한 모양
+    고요한 밤 땅을 쓸 바람도 없고
+    창문이 훤하니 달이 처마를 엿보는 듯
+    만 채 초가 지붕에 한결같이 덮였고
+    외로운 배의 도롱이 삿갓은 무거움을 더했으리
+    새벽에 남산 바라보면 모두 한 빛
+    아마도 마이산(중국에 있는 산 이름. 말귀처럼 두 봉우리가 쫑긋하다.) 두 말귀 끝만 뾰죽 드러 났으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0470&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구양수(歐陽修)의 체 : '
+    value: 구양수(歐陽修)가 여러 사람과 함께 눈[雪]을 두고 시를 지으면서 옥(玉)ㆍ는(銀)ㆍ경(瓊)ㆍ가(梨) 등 눈에 대하여 늘 쓰이는 여러 글자를 쓰지 못하도록 하였다.
+  - key: '[주-D002] 외로운 배의 도롱이 삿갓 : '
+    value: “외로운 배의 도롱이 갓 쓴 늙은 이 홀로 찬 강 눈에 낚시질하네[孤舟簔笠翁 獨釣寒江雪].”라는 시가 있다.
+english:
+  title: New Settlement
+  author: Jung Yio
+  language: eng
+  text: |-
+    Within embroidered screens the warmth holds—wine just reaching its gentle glow.
+    Snow descends upon the courtyard, sudden and severe.
+    In the stillness of night, no wind sweeps the ground,
+    yet through the window's clarity, moonlight seems to peer at the eaves.
+    Ten thousand thatched roofs lie level, newly merged as one,
+    while the solitary boat's straw cloak and hat grow heavier still.
+    At dawn, gazing toward Mount Zhongnan, all dissolves into uniform whiteness—
+    only the twin peaks of Horse-Ear Mountain prick through the veil, sharp and alone.
+  footnotes:
+  - key: ''
+    value: The poem follows the stylistic constraint of Ouyang Xiu's snow poetry composition, where conventional words for snow (jade, silver, crystal, pear) are deliberately avoided.
+  - key: ''
+    value: The image of the solitary fisherman in straw cloak and hat alludes to a famous couplet depicting an old angler alone on a cold river in snow—a figure of isolation and tranquility that enriches the poem's meditation on solitude within winter's landscape.

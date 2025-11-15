@@ -1,0 +1,49 @@
+canonical:
+  title: 諸富村別墅將開遣僮奴起功有作
+  author: 徐居正
+  language: lzh
+  text: 中年好道晩當歸卜地山中頗自奇豈有行窩追邵老當營別墅擬王維石田有種宜供稅草屋無人爲寄貲寄語卜鄰諸野老他時爭席我爲誰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 諸富村別墅將開遣僮奴起功有作
+  author: 徐居正
+  language: lzh
+  text: 中年好道晩當歸。卜地山中頗自奇。豈有行窩追邵老。當營別墅擬王維。石田有種宜供稅。草屋無人爲寄貲。寄語卜鄰諸野老。他時爭席我爲誰。
+korean:
+  title: 제부촌 별서 장개 견동노 기공 유작
+  author: 서거정
+  language: kor
+  text: |-
+    중년부터 도를 좋아했는데 늙어서는 돌아가야 하나니
+    산중에 땅을 택하매 자못 절로 기이하다
+    움집으로서야 어떻게 소로를 따르랴만
+    별장을 경영하려면 왕유를 본받아야 한다
+    돌밭에라도 종자를 뿌리거니 세를 내야 하고
+    초옥에는 아무도 재물 보내는 이 없다
+    복린할 제 여러 야로들에게 말하노니
+    다른 날 자리 다툴 때 나를 누구라 할꺼나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소로(邵老) : '
+    value: 송나라의 소옹(邵雍)인데, 그는 낙양에 살면서 안빈낙도(安貧樂道)하기로 유명하였다. 세상에서는 그를 강절(康節) 선생이라고 불렀다.
+  - key: '[주-D002] 왕유(王維) : '
+    value: 당나라 사람으로 망천(輞川)에 별장이 있었는데, 풍경이 아름답기로 유명하고 그 풍경을 노래한 왕유의 시로도 유명하다.
+english:
+  title: 'On the Villa at Jebu Village: Dispatching Servants to Begin Construction'
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Since middle age I have loved the Way, and now in my years I must return.
+    I chose this mountain land, and found it strangely beautiful of itself.
+    Could a mere hermitage follow the path of Shao Lao?
+    To build a proper villa, I must learn from Wang Wei.
+    Even rocky fields, when planted, must yield their tax.
+    But my thatched cottage, empty of guests, receives no gifts of wealth.
+    I tell the country elders who will be my neighbors:
+    When someday you quarrel over seats of honor, who will I be then?
+  footnotes:
+  - key: ''
+    value: Shao Lao refers to the Song Dynasty philosopher Shao Yong, known for his hermitic virtue and contentment in poverty. He lived in Luoyang and was honored as Master Kangjie.
+  - key: ''
+    value: Wang Wei was a Tang Dynasty poet and painter whose villa at Wangchuan was celebrated for its natural beauty, immortalized in his own celebrated poems.

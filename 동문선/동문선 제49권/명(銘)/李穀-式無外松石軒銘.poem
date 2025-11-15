@@ -1,0 +1,38 @@
+canonical:
+  title: 式無外松石軒銘
+  author: 李穀
+  language: lzh
+  text: 匪貞其質匪高其節地厚而不能壓歲寒而不能奪松耶石耶得其道者式耶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 式無外松石軒銘
+  author: 李穀
+  language: lzh
+  text: 匪貞其質。匪高其節。地厚而不能壓。歲寒而不能奪。松耶石耶。得其道者式耶。
+korean:
+  title: 식무외 송석헌 명
+  author: 이곡
+  language: kor
+  text: 굳은 것이 그 재질 아닌가. 높은 것은 그 절개가 아닌가. 땅이 두텁다 해도 돌을 누를 수가 없고 겨울이 춥다 해도 솔의 절개를 빼앗지를 못한다. 솔이냐, 돌이냐. 그 도(道)를 얻은 이 주인 되는 식(式)이냐.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0220&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on the Hall of Pines and Stones Without External Form
+  author: Lee Gok
+  language: eng
+  text: |-
+    Not in hardness alone lies its substance,
+    Not in loftiness alone its integrity.
+    Though earth presses down with all its weight,
+    It cannot crush the stone.
+    Though winter comes with bitter cold,
+    It cannot steal the pine's resolve.
+    Pine and stone—
+    Are they not the very form of one who has found the Way?
+    The master of this hall embodies such a model.
+  footnotes:
+  - key: ''
+    value: The title references a studio or retreat (軒/헌) dedicated to the virtues exemplified by pine and stone, traditional symbols of integrity and steadfastness in East Asian aesthetics.
+  - key: ''
+    value: The concept of '式' (form/model) suggests that the owner of this hall aspires to embody the timeless virtues represented by these natural elements, transcending superficial external appearance.

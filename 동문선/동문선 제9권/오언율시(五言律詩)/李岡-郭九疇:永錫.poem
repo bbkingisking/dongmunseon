@@ -1,0 +1,48 @@
+canonical:
+  title: 郭九疇:永錫
+  author: 李岡
+  language: lzh
+  text: 我在遼海東君居天地中相逢如隔世一見喜同風禮貌從輕重交期誓始終論文恐難再歸騎莫匆匆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 郭九疇:永錫
+  author: 李岡
+  language: lzh
+  text: 我在遼海東。君居天地中。相逢如隔世。一見喜同風。禮貌從輕重。交期誓始終。論文恐難再。歸騎莫匆匆。
+korean:
+  title: 하남으로 돌아가는 검교 곽구주
+  author: 이강
+  language: kor
+  text: |-
+    나는 요해 동쪽에 살고
+    그대는 천지의 복판에 사는 사람
+    서로 만나니 딴 세상 사람인 듯
+    한 번 보자 같은 풍임을 기뻐했네
+    예모는 경중대로 하고
+    교분은 시종을 맹세했네
+    글 논할 기회 두 번 있기 어려우리니
+    돌아가는 말[馬], 총총히 떠나지 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0960&viewSync=OT
+  footnotes: []
+english:
+  title: To Gawk Gu-ju Returning to Hanan
+  author: Lee Gang
+  language: eng
+  text: |-
+    I dwell in the eastern reaches of the Liao Sea,
+    While you abide in the center of heaven and earth.
+    When we meet, it seems we greet across different worlds—
+    Yet in that single glance, we rejoice in kindred spirit.
+
+    Let courtesy be measured by its proper weight,
+    And our friendship sworn to last from start to end.
+    Such rare occasions to discourse on letters and learning—
+    So do not rush away upon your homeward steed.
+  footnotes:
+  - key: ''
+    value: The Liao Sea (遼海) refers to the region of Liaodong in Manchuria, representing the speaker's distant northern location.
+  - key: ''
+    value: The contrast between 'eastern reaches' and 'center of heaven and earth' emphasizes the vast distance separating the two friends.
+  - key: ''
+    value: The final image of the 'homeward steed' suggests the parting of two travelers, lending poignancy to the plea not to depart hastily.

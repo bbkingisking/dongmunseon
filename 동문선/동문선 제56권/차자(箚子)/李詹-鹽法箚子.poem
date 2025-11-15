@@ -1,0 +1,32 @@
+canonical:
+  title: 鹽法箚子
+  author: 李詹
+  language: lzh
+  text: 塩爲權貨非民之所共利也是以先王寘塩倉於濱海郡縣迺令深陸之民納稅和賣以達上下之利近者法久弊生納稅而未受者遠至十年民無所賴私販遽興非先王之本意也處此之計使煮海丁口安其所業一也使守令酧民所賦二也禁斷私販三也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鹽法箚子
+  author: 李詹
+  language: lzh
+  text: 塩爲權貨。非民之所共利也。是以先王。寘塩倉於濱海郡縣。迺令深陸之民。納稅和賣。以達上下之利。近者法久弊生。納稅而未受者。遠至十年。民無所賴。私販遽興。非先王之本意也。處此之計。使煮海丁口安其所業一也。使守令酧民所賦二也。禁斷私販三也。
+korean:
+  title: 염법 차자
+  author: 이첨
+  language: kor
+  text: 소금은 나라의 관권으로 다루는 재화[權貨]이기 때문에 백성들이 함께 이득을 보는 것이 아니옵니다. 이 까닭에 선왕(先王)은 바닷가에 있는 군(郡)ㆍ현(縣)에 염창(鹽倉)을 설치하고 육지에 있는 백성에게 세금을 바치며 팔게 함으로써 상하(上下)의 이득을 갖게 하는 것이옵니다.근자에는 법이 오래 되어 폐단이 생겼으므로, 세금을 바치고도 소금을 받지 못한 지가 10년이나 되오며, 백성들은 이를 믿지 못하여 사판(私販)이 갑자기 흥성하게 되었사오니, 이는 선왕(先王)의 본의가 아니옵니다.이것을 처리하는 계책은 소금을 굽는 사람으로 하여금 생업이 안정케 하는 것이 첫째이옵고, 수령(守令)으로 하여금 세금 바친 데에 따라 백성에게 물건을 내어주는 것이 둘째이옵고, 사판을 금단하는 것이 셋째이옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0590_020_0010&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial on Salt Policy
+  author: Lee Chaem
+  language: eng
+  text: |-
+    Salt is a commodity controlled by state authority, and thus its benefits do not flow equally to the common people. For this reason, the ancient kings established salt warehouses in the coastal provinces and counties, requiring the inland people to pay taxes and purchase salt through official channels, so that both high and low might share in the advantage.
+
+    In recent times, the system has grown old and corruption has taken root. Those who have paid their taxes wait ten years or more without receiving their salt, and the people, losing faith, have turned to illicit trade. This runs counter to the original intention of the ancient kings.
+
+    To remedy this situation, I propose three measures: First, that those who work the salt pans be assured of stable livelihood; Second, that local officials distribute the salt according to what taxes the people have paid; Third, that illicit trafficking be strictly prohibited.
+  footnotes:
+  - key: ''
+    value: This is a petition (차자, memorial) addressed to the throne regarding salt monopoly reform during the Goryeo period.

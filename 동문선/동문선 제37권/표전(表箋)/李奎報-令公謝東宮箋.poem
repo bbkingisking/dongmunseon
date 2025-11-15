@@ -1,0 +1,79 @@
+canonical:
+  title: 令公謝東宮箋
+  author: 李奎報
+  language: lzh
+  text: 命出九重爵崇五等循涯有溢靦面何施中謝 伏念某學謝成麟智昏秤象偶緣天幸濫叨肺腑之親猶有童心罔意脤膰之禮夫何豐眷特出當鈞導宣汪濊之恩俾受厖鴻之冊此盖伏遇王太子殿下溫姿玉裕茂德川冲羽翼已成雖同鴻鵠之絶海首尾相應尙念鶺鴒之在原至使連枝與蒙優澤某謹當能順而悌終和且平承覆萼之華不唯韡韡託庇根之葛其永緜緜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 令公謝東宮箋
+  author: 李奎報
+  language: lzh
+  text: 命出九重。爵崇五等。循涯有溢。靦面何施。中謝。 伏念某學謝成麟。智昏秤象。偶緣天幸。濫叨肺腑之親。猶有童心。罔意脤膰之禮。夫何豐眷。特出當鈞。導宣汪濊之恩。俾受厖鴻之冊。此盖伏遇王太子殿下。溫姿玉裕。茂德川冲。羽翼已成。雖同鴻鵠之絶海。首尾相應。尙念鶺鴒之在原。至使連枝。與蒙優澤。某謹當能順而悌。終和且平。承覆萼之華。不唯韡韡。託庇根之葛。其永緜緜。
+korean:
+  title: 영공 사 동궁 전
+  author: 이규보
+  language: kor
+  text: |-
+    구중(九重)에서 명이 내리시니 벼슬이 오등(五等)에서 높으옵니다. 분수에 넘치옴에 부끄러운 낯을 어디에 드오이까. 중사(中謝)
+    엎드려 생각하옵건대, 모(某)는 학문은 기린[麟]을 이루지 못하였었고, 지혜는 코끼리를 저울질하는 것이 못 되옵니다. 우연히 천행(天幸)으로 폐부(肺腑)의 친(親)이 되었사오나, 아직도 동심(童心)이 있어 진번(脤膰)의 예(禮)를 생각하지 못했더니, 어찌 두터운 돌보심이 특별히 동궁(東宮)에서 나와서 넓은 임금의 은혜를 도와 베푸시어 융숭한 책봉을 받게 되었나이까. 이는 대개 왕태자전하께옵서 온화한 자질은 옥처럼 아름다우시고 성한 덕은 냇물처럼 풍족하며, 우익(羽翼)이 이미 이루어짐에, 비록 홍곡(鴻鵠)이 높이 남과 같사오나, 머리와 꼬리가 서로 응함에 오히려 척령(鶺鴒)의 언덕에 있음을 생각하시어 연지(連枝)로 하여금 우악한 은택을 받게 하셨습니다. 이에 모(某)는 삼가 마땅히 순하고 공손하며 끝까지 화평하여, 꽃부리[萼]를 덮어 주는 꽃송이[花瓣]을 받들어 위위(韡韡)할 뿐만 아니라, 뿌리를 덮어 주는 칡덩굴에 의탁하여 길이 뻗어나가게 하오리다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0400_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오등(五等) : '
+    value: 공(公)ㆍ후(侯)ㆍ백(伯)ㆍ자(子)ㆍ남(男)이 오등(五等)의 작(爵)인데, 공이 제일 높다는 말이다.
+  - key: '[주-D002] 폐부(肺腑) : '
+    value: 절친한 친척이란 말이다. 오장육부(五臟六腑) 중에 폐(肺)가 가장 가까운 위치에 있다.
+  - key: '[주-D003] 진번(脤膰)의 예(禮) : '
+    value: 진번(脤膰)은 종묘에 쓰는 제육(祭肉)인데, 형제(兄弟)의 나라에 나누어 준다. 주례(周禮)에 나온 말이다.
+  - key: '[주-D004] 홍곡(鴻鵠)이 높이 남 : '
+    value: 한 고조(漢高祖)가 태자(太子)를 바꾸려 하자, 여후(呂后)가 장량(張良)의 꾀를 써서 상산사호(商山四皓)를 초청해 왔는데, 고조가 사호(四皓)를 보고는, “홍곡이 높이 날았구나. 우익이 이루어졌으니 그물로 어이하랴.” 하고, 태자를 건드리지 못하였다.
+  - key: '[주-D005] 척령(鶺鴒)이 언덕에 있음 : '
+    value: 척령은 물새[水鳥]인데, 《시경(詩經)》에, “척령이 언덕에 있다.” 했는데, 이는 서로 도우는 것을 비유한 말이다.
+  - key: '[주-D006] 꽃부리[萼] 덮어주는 꽃송이[花瓣] : '
+    value: 악(萼)은 화판(花瓣)과 그것을 둘러싼 것이다. 서로 다닥다닥 붙은 것을 형제에게 비유한 것이다.
+  - key: '[주-D007] 위위(韡韡) : '
+    value: 《시경》에, “상체(常棣)의 꽃이 빛나다[韡韡].” 했는데, 이는 형제에 비유한 것이다.
+english:
+  title: A Letter of Gratitude to the Crown Prince on Behalf of the Prime Minister
+  author: Lee Kyubo
+  language: eng
+  text: |-
+    A command descends from the Nine Chambers of the Palace,
+    And rank is elevated to the highest of the Five Degrees.
+    When fortune overflows its measure,
+    Where can a shameful face find refuge?
+
+    [The Middle Expression of Gratitude]
+
+    I humbly reflect that my learning has never matched the brilliance of the qilin,
+    And my wisdom falls short of weighing the elephant's wisdom.
+    By mere chance of Heaven's favor, I have become as one of the inner circle—
+    Yet my childish heart remains, unworthy of the ancestral rites.
+    How can such abundant kindness flow forth especially from the Eastern Palace?
+    It guides and proclaims the vast grace that causes me to receive these generous honors.
+
+    This comes from the benevolence of the Royal Crown Prince,
+    Whose gentle bearing shines like jade in purity,
+    Whose flourishing virtue flows abundant as a river.
+    Though his wings have grown strong—like the wild geese soaring far across the seas—
+    He remembers still the wagtails on the bank,
+    How head and tail move in harmony.
+    Thus the connected branches receive his special grace.
+
+    I shall henceforth be obedient and reverent,
+    Harmonious and peaceful to the end.
+    I receive the radiance of the calyx and petal,
+    Not merely in their brightness,
+    But rooted in the shelter of the creeping vine,
+    That my branches may forever spread and flourish.
+  footnotes:
+  - key: ''
+    value: 'The Five Degrees of rank (五等) refers to the five highest noble ranks in ancient China: Duke (公), Marquis (侯), Earl (伯), Viscount (子), and Baron (男), with Duke being the highest.'
+  - key: ''
+    value: The Eastern Palace (東宮) is the traditional residence of the Crown Prince, here representing his authority and favor.
+  - key: ''
+    value: The references to the qilin (麟) and the wild geese (鴻鵠) draw on classical Chinese imagery of virtue and power respectively.
+  - key: ''
+    value: The wagtails on the bank (鶺鴒) symbolize mutual support among siblings, contrasting with the soaring flight of wild geese to suggest both aspiration and familial harmony.
+  - key: ''
+    value: The final image of the calyx and petal (萼 and 花瓣) uses botanical metaphor to express the interconnection of brothers, much like the blooms of the hawthorn tree mentioned in the Book of Songs.

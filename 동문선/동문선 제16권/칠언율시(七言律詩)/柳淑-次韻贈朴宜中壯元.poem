@@ -1,0 +1,49 @@
+canonical:
+  title: 次韻贈朴宜中壯元
+  author: 柳淑
+  language: lzh
+  text: 王業中興似漢劉況今經濟有伊周遠方玉帛觀光日盛代衣冠復古秋魂夢漸踈楓葉密衰羸只愛草廬幽先生年少才名大莫學閑人物外遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻贈朴宜中壯元
+  author: 柳淑
+  language: lzh
+  text: 王業中興似漢劉。況今經濟有伊周。遠方玉帛觀光日。盛代衣冠復古秋。魂夢漸踈楓葉密。衰羸只愛草廬幽。先生年少才名大。莫學閑人物外遊。
+korean:
+  title: 장원한 문생 박의중에게 주며
+  author: 유숙
+  language: kor
+  text: |-
+    왕업이 중흥하여 동한 유씨 같은데
+    나라 정사 다스릴 이 이윤ㆍ주공 있어라
+    먼 나라가 옥백으로 조공을 드리고
+    성대의 의관이 옛 제도로 돌아왔네
+    몽혼은 신나무 잎 우거진 데로
+    쇠한 몸은 다만 그윽한 초당을 사랑하네
+    그대 나이 젊고 재명이 성하니
+    한가한 사람들처럼 물외에 놀지 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동한(東漢) 유씨(劉氏) : '
+    value: 광무제(光武帝) 유수(劉秀). 왕망(王莽)의 찬탈(簒奪)로 망한 한(漢)을 그가 중흥시켰다.
+  - key: '[주-D002] 몽혼(夢魂)은 …… 우거진 데로 : '
+    value: 두보(杜甫)의 이백을 꿈꾼시[夢李白] 에, “혼이 오니 신나무 숲이 퍼렇고, 혼이 가니 관새가 시커멓구나.[魂來楓林靑]”란 글귀가 있는데, 혹시 그런 뜻으로 쓴 것이 아닌가 한다.
+english:
+  title: 'Matching Rhymes: A Gift for Pak Ui-jung, the Top Graduate'
+  author: Yu Suk
+  language: eng
+  text: |-
+    The kingdom's fortune blooms anew, like Liu of the Eastern Han,
+    And now we have wise ministers—an Yi and Duke of Zhou reborn.
+    Distant lands bring jade and silk in tribute on auspicious days,
+    The grand age restores ancient robes and caps to their former grace.
+    My wandering soul seeks the depths where crimson maples grow so thick,
+    My weary frame finds solace only in that humble, quiet retreat.
+    Young sir, your talents shine and your name rings through the realm—
+    Do not, I beg, like idle folk, chase phantoms beyond the world.
+  footnotes:
+  - key: ''
+    value: Liu of the Eastern Han refers to Emperor Guangwu, who restored the Han dynasty after it fell to the usurper Wang Mang.
+  - key: ''
+    value: The image of the soul amid maple forests echoes Du Fu's poem 'Dreaming of Li Bai,' where the departing soul finds itself in a forest of crimson maples, suggesting a connection between spiritual wandering and poetic melancholy.

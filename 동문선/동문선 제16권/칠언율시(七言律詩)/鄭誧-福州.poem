@@ -1,0 +1,46 @@
+canonical:
+  title: 福州
+  author: 鄭誧
+  language: lzh
+  text: 旅舘荒凉一事無小窓終日學僧趺流光冉冉欺遊子世故紛紛困腐儒誰見仙人曾化鶴自知老馬反爲駒從君結屋淸江上晚歲鷗盟豈可渝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 福州
+  author: 鄭誧
+  language: lzh
+  text: 旅舘荒凉一事無。小窓終日學僧趺。流光冉冉欺遊子。世故紛紛困腐儒。誰見仙人曾化鶴。自知老馬反爲駒。從君結屋淸江上。晚歲鷗盟豈可渝。
+korean:
+  title: 복주
+  author: 정포
+  language: kor
+  text: |-
+    쓸쓸한 여관에 할 일이 통 없어
+    창 앞에서 온종일 중처럼 앉아 있네
+    총총히 가는 세월은 노니는 나그넬 속이고
+    분분한 세상 일은 썩은 선비 곤하게 하네
+    신선이 학되는 것을 누가 보았나
+    늙은 말이 되려 망아지 된줄 스스로 아네
+    그대를 좇아 강변에 집을 짓고 살려네
+    만년의 갈매기 맹세 내 어찌 저버리리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 갈매기 맹세[鷗盟] : '
+    value: 강호(江湖)에 같이 놀자고 갈매기와 맹세한 것.
+english:
+  title: Fuzhou
+  author: Jeong Po
+  language: eng
+  text: |-
+    The traveler's inn lies desolate—there is nothing to do.
+    By the small window all day long, I sit as still as a monk.
+    Time slips away swiftly, mocking the wanderer,
+    While the world's tangled affairs weigh down this worn scholar.
+
+    Who has ever seen an immortal transform into a crane?
+    Yet I know myself—an aging horse becoming a colt again.
+    Following you, I will build a house upon the clear river,
+    And in my twilight years, can I betray my covenant with the gulls?
+  footnotes:
+  - key: ''
+    value: The 'covenant with the gulls' (鷗盟) refers to a pledge to live in harmony with nature by the rivers and lakes, free from worldly concerns.

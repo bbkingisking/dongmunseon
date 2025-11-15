@@ -1,0 +1,55 @@
+canonical:
+  title: 御苑仙桃
+  author: 崔惟善
+  language: lzh
+  text: 御苑桃新種移從閬苑仙結根丹地上分影紫庭前細葉看如畫繁英望欲燃品高鷄省樹香按獸爐煙天近知春茂晨淸帶露鮮是應王母獻聖壽益千年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 御苑仙桃
+  author: 崔惟善
+  language: lzh
+  text: 御苑桃新種。移從閬苑仙。結根丹地上。分影紫庭前。細葉看如畫。繁英望欲燃。品高鷄省樹。香按獸爐煙。天近知春茂。晨淸帶露鮮。是應王母獻。聖壽益千年。
+korean:
+  title: 어원선도
+  author: 최유선
+  language: kor
+  text: |-
+    어원에 새로 심은 복숭아나무
+    낭원(신선이 사는 동산) 신선에게서 옮겨 왔다네
+    붉은 땅[궁중의 뜰] 위에 뿌리를 박고
+    자주빛 뜰 앞에서 그림자 나누네
+    가는 잎은 그림과 같고
+    숱한 꽃은 불이 붙는 듯
+    계성(중서성(中書省)) 나무 중에서 품질이 높고
+    향기는 수로의 향 연기를 띠었구나
+    하늘(임금)이 가까우니 봄 일찍 무성하고
+    새벽이 맑으니 이슬 머금어 고와라
+    이 복숭아 서왕모가 드린 것이니
+    성수가 천 년을 더하리로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: The Immortal Peach of the Royal Garden
+  author: Choi Yu-seon
+  language: eng
+  text: |-
+    A peach tree newly planted in the royal garden—
+    transferred here from the Celestial Orchard where immortals dwell.
+    Its roots dig deep into the crimson earth of the palace,
+    its shadow spreads across the purple courtyard.
+
+    Delicate leaves unfold like brushstrokes on silk,
+    thousands of blossoms blaze as if set aflame.
+    Highest among the trees of the imperial chancellery,
+    its fragrance carries the incense of heaven's altar.
+
+    With the throne so near, spring blooms early,
+    and in the clear dawn, pearls of dew crown each flower.
+    This peach is surely the gift of the Queen Mother of the West,
+    and by its virtue, the sovereign's reign shall stretch ten thousand years.
+  footnotes:
+  - key: ''
+    value: The Queen Mother of the West (王母) is a legendary figure in Chinese mythology, traditionally associated with immortality and divine gifts.
+  - key: ''
+    value: The 'peach of immortality' is a classical symbol of longevity and eternal youth in East Asian tradition.

@@ -1,0 +1,47 @@
+canonical:
+  title: 皇都
+  author: 鄭可臣
+  language: lzh
+  text: 略無才德副民瞻底事奔馳突不黔坐卧何曾安寢餗居諸只任換冷炎鬢絲入鏡簪嫌重詩草盈囊筆退尖常憶雪齋時對榻靜聞風響動虛簷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 皇都
+  author: 鄭可臣
+  language: lzh
+  text: 略無才德副民瞻。底事奔馳突不黔。坐卧何曾安寢餗。居諸只任換冷炎。鬢絲入鏡簪嫌重。詩草盈囊筆退尖。常憶雪齋時對榻。靜聞風響動虛簷。
+korean:
+  title: 황도
+  author: 정가신
+  language: kor
+  text: |-
+    백성들 우러러볼 만한 아무런 재덕도 없이
+    왜 이리 분주하여 구들이 검을 틈도 없나
+    앉으나 누우나 침식이 편안할 때 없고
+    날 가고 달이 가니, 추위 더위 바뀌는 대로
+    거울에 비친 흰 머리에 잠이 무거워지고
+    주머니엔 가득한 시초, 붓이 몽땅 닳아졌네
+    늘 회상되는 건 눈 올 때 서재에 서로 탑을 대하여
+    천하 끝 바람 소리를 고요하게 듣던 일
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0710&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 왜 이리 …… 검을 틈도 없나 : '
+    value: 항상 돌아다니기 때문에 방고래가 연기로 검어질 틈이 없다는 말이다.
+english:
+  title: The Imperial Capital
+  author: Jung Ga-sin
+  language: eng
+  text: |-
+    Without talent or virtue to command the people's respect,
+    Why do I rush about so, never letting the hearth grow dark with smoke?
+    Sitting or lying, I find no moment of peaceful rest,
+    As days pass and moons turn, cold gives way to heat.
+
+    White hairs catch in the mirror—the hairpin grows too heavy,
+    Poems fill my pocket, my brush worn down to nothing.
+    Yet I long for those days at the Snow Studio,
+    When we sat across from each other in silence,
+    Listening to the wind move through the empty eaves.
+  footnotes:
+  - key: ''
+    value: The 'hearth growing dark with smoke' is a metaphor for having no time to stay home—constant travel and activity prevent even the dust from settling on the cooking stones.

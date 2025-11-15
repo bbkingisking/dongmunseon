@@ -1,0 +1,37 @@
+canonical:
+  title: 鄭中丞謫居東萊對月撫琴
+  author: 韓脩
+  language: lzh
+  text: 半輪江月上瑤琴一曲新聲古意深豈謂如今有鍾子只應彈盡伯牙心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鄭中丞謫居東萊對月撫琴
+  author: 韓脩
+  language: lzh
+  text: 半輪江月上瑤琴。一曲新聲古意深。豈謂如今有鍾子。只應彈盡伯牙心。
+korean:
+  title: 정중승이 동래에 적거하면서 달을 대해 거문고 어루만졌다 하기에
+  author: 한수
+  language: kor
+  text: |-
+    반 바퀴의 강달이 구슬 거문고에 오르니
+    한 곡조 새 소리에 옛 뜻이 깊었어라
+    어찌 지금에도 종자기 있다 하랴마는
+    백아의 마음을 한껏 타는 것이리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1020&viewSync=OT
+  footnotes: []
+english:
+  title: On Seeing Minister Zheng, Banished to Donglae, Playing the Zither by Moonlight
+  author: Han Soo
+  language: eng
+  text: |-
+    Half the moon rises over the river onto the jade zither,
+    One melody, fresh yet ancient in its depths of meaning.
+    Though we say the age of Zhong Ziqi has passed,
+    Still, his fingers touch the very heart of Bo Ya's song.
+  footnotes:
+  - key: ''
+    value: Zhong Ziqi and Bo Ya were legendary friends in ancient Chinese tradition—Zhong possessed such understanding that he could comprehend Bo Ya's every musical intention, and when Zhong died, Bo Ya broke his zither, never to play again. Their friendship became the symbol of perfect musical and spiritual communion.
+  - key: ''
+    value: The 'jade zither' (瑤琴) refers to a fine guqin or similar stringed instrument, with 'jade' suggesting its preciousness and refinement.

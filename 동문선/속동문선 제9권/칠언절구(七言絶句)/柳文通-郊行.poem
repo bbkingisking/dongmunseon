@@ -1,0 +1,39 @@
+canonical:
+  title: 郊行
+  author: 柳文通
+  language: lzh
+  text: 偸閑信馬過長堤兩岸春深草色齊江雨不知衣濕盡隔林茅店午時鷄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 郊行
+  author: 柳文通
+  language: lzh
+  text: 偸閑信馬過長堤。兩岸春深草色齊。江雨不知衣濕盡。隔林茅店午時鷄。
+korean:
+  title: 교행
+  author: 유문통
+  language: kor
+  text: |-
+    한가한 틈을 타서 말을 타고 긴 뚝을 지내나니
+    양쪽 언덕에 봄은 깊어 푸른 풀이 가지런하다
+    강 비에 옷이 다 젖는 줄을 알지 못하는데
+    숲 넘어 주막집에 낮닭이 운다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0690&viewSync=OT
+  footnotes: []
+english:
+  title: A Journey Beyond the City
+  author: Yu Munong
+  language: eng
+  text: |-
+    Stealing away through the idle hours, I ride my horse along the long embankment.
+    On both banks, spring runs deep—the grass grows verdant and even.
+    In the river rain, I do not notice my robes soaked through,
+    While from beyond the woods, a rooster crows at noon from a wayside inn.
+  footnotes:
+  - key: ''
+    value: The 'idle hours' (한가한 틈) suggest a stolen moment of freedom from official duties or social obligations, a common theme in classical East Asian poetry.
+  - key: ''
+    value: The description of grass growing 'even' (가지런하다) on both banks emphasizes the ordered beauty of spring and nature's harmony.
+  - key: ''
+    value: The rooster crowing at noon is unusual, as roosters typically crow at dawn; this detail suggests the poet's complete immersion in the journey and loss of ordinary time.

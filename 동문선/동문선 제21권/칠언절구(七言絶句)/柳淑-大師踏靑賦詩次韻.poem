@@ -1,0 +1,37 @@
+canonical:
+  title: 大師踏靑賦詩次韻
+  author: 柳淑
+  language: lzh
+  text: 儒釋相從自古傳身閑况有好林泉良辰一醉吾何厭百歲還同下瀨船
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大師踏靑賦詩次韻
+  author: 柳淑
+  language: lzh
+  text: 儒釋相從自古傳。身閑况有好林泉。良辰一醉吾何厭。百歲還同下瀨船。
+korean:
+  title: 대사가 답청일에 시를 지었기에 차운하여
+  author: 유숙
+  language: kor
+  text: |-
+    유와 석이 서로 예부터 전해 오네
+    몸도 한가한데 하물며 좋은 숲과 샘물이 있음에랴
+    가절에 한 번 취하는 것 내 어찌 싫어하리
+    백 년이 여울에 내리는 배와 같거니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0930&viewSync=OT
+  footnotes: []
+english:
+  title: Rhyming with a Poem the Abbot Composed on an Outing to Appreciate the Spring
+  author: Yuk Sook
+  language: eng
+  text: |-
+    Confucian and Buddhist paths have flowed together since ancient days.
+    With leisure in my body, what fortune to have fair forests and springs!
+    To be drunk once on this perfect moment—how could I ever tire of this?
+    A hundred years drift like a boat descending the rapids.
+  footnotes:
+  - key: ''
+    value: The 'abbot' (대사, dae-sa) refers to a Buddhist monk of high rank. The poem is written in response to another poem the abbot composed during a spring outing (답청, dap-cheong—literally 'treading green,' a traditional springtime excursion through nature)
+  - key: ''
+    value: The final image of the boat on the rapids suggests both the swift passage of time and a paradoxical acceptance of life's transience through surrender to its natural flow

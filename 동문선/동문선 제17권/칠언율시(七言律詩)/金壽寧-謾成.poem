@@ -1,0 +1,45 @@
+canonical:
+  title: 謾成
+  author: 金壽寧
+  language: lzh
+  text: 蓬轉東西滿面塵白雲高處望鄕頻未成報國寧辭勩不早歸田正坐貧三徑尙深移竹興靑門多謝種苽人世間事了終須退藜杖相尋綠野春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謾成
+  author: 金壽寧
+  language: lzh
+  text: 蓬轉東西滿面塵。白雲高處望鄕頻。未成報國寧辭勩。不早歸田正坐貧。三徑尙深移竹興。靑門多謝種苽人。世間事了終須退。藜杖相尋綠野春。
+korean:
+  title: 생각나는 대로
+  author: 김수령
+  language: kor
+  text: |-
+    동ㆍ서로 떠다니는 몸 얼굴에 가득한 먼지
+    흰 구름 높은 데선 고향만 바라보네
+    나라 은혜 못 갚았으니 수고를 사양하리
+    전원에 일찍 못 감은 가난의 탓이로세
+    삼경(은자의 집)엔 아직도 대 옮길 흥이 깊은데
+    청문에 외 심는 사람 감사하네
+    세상일을 마치고는 물러가리니
+    봄날에 청려장 짚고 녹야의 봄을 찾으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0930&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청문(靑門) : '
+    value: 소평(召平)이 진(秦)나라 때에는 동릉후(東陵侯)로 봉하여졌다가 진나라가 망한 뒤에는 청문(靑門)에서 외를 심으며 생활하였다.
+english:
+  title: Casual Thoughts
+  author: Kim Su-ryeong
+  language: eng
+  text: |
+    Drifting east and west, my face covered with dust,
+    From the white clouds' height, I gaze toward home again.
+    Unwilling to shirk labor, having failed to repay the nation's grace,
+    Yet poverty keeps me from early return to the fields.
+    In the recluse's garden, the urge to transplant bamboo still runs deep,
+    I am grateful to those who sow melons at the Blue Gate.
+    When worldly affairs are finished, one must withdraw—
+    In the spring meadow, staff in hand, I shall seek the green fields of spring.
+  footnotes:
+  - key: ''
+    value: The 'Blue Gate' alludes to Zhao Ping, who was enfeoffed as Duke of Dongling under the Qin dynasty but after its fall lived by growing melons at the Blue Gate—a classical symbol of virtuous retreat from service.

@@ -1,0 +1,45 @@
+canonical:
+  title: 鄭直齋
+  author: 南兢
+  language: lzh
+  text: 今歲東君入醉鄕不知鱗序去堂堂蝶癯幾怨三春闊鶯噎猶驚四月忙瑞雪妬梨封淡白薰風護柳染新黃金神准備東籬菊莫負陶家九日觴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鄭直齋
+  author: 南兢
+  language: lzh
+  text: 今歲東君入醉鄕。不知鱗序去堂堂。蝶癯幾怨三春闊。鶯噎猶驚四月忙。瑞雪妬梨封淡白。薰風護柳染新黃。金神准備東籬菊。莫負陶家九日觴。
+korean:
+  title: 3월 어느 날 정직재
+  author: 남긍
+  language: kor
+  text: |-
+    금년엔 봄 신이 술에 흠뻑 취하여서
+    차츰 바뀌어야할 철이 훌쩍 가려하네
+    봄이 가리라고 여윈 나비가 원망하더니
+    4월이 바삐 온다 목쉰 꾀꼬리 놀라네
+    봄 눈이 배꽃을 시기하듯 하얗게 꽃송이 덮더니
+    훈풍이 버들을 두호하여 새로이 노랗게 물들였네
+    벌써 가을 신이 울타리 국화를 준비하니
+    도령 집 9일 술잔을 저버리지 마세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0240&viewSync=OT
+  footnotes: []
+english:
+  title: On the Ninth Day at Jeong Jikjae's Cottage
+  author: Nam Gyeong
+  language: eng
+  text: |-
+    This year the Lord of Spring has drowned himself in wine,
+    And the turning seasons slip away without notice.
+    The thin butterfly mourns—spring's breadth grows narrow—
+    While the hoarse nightingale startles at April's haste.
+    Rival snows blanket the pear blossoms in white,
+    As balmy winds caress the willows with new gold.
+    Already the God of Autumn prepares the chrysanthemums by the fence;
+    Do not forsake the ninth-day cup at Tao Yuanming's gate.
+  footnotes:
+  - key: ''
+    value: The 'ninth day' (重陽) refers to the Double Ninth Festival in autumn, traditionally celebrated with chrysanthemums and wine. This alludes to Tao Yuanming (陶淵明), the celebrated recluse poet of ancient China who was devoted to this festival.
+  - key: ''
+    value: The poem contrasts spring's drunken negligence with autumn's swift preparation, suggesting themes of fleeting time and the need to cherish moments of communion with friends.

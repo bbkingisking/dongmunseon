@@ -1,0 +1,49 @@
+canonical:
+  title: 過龍潭寺
+  author: 李奎報
+  language: lzh
+  text: 水氣淒涼襲短衫淸江一帶碧於藍柳餘陶令門前五山勝禺強海上三天水相連迷俯仰雲煙始捲占東南孤舟暫繫平沙岸時有胡僧出小菴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過龍潭寺
+  author: 李奎報
+  language: lzh
+  text: 水氣淒涼襲短衫。淸江一帶碧於藍。柳餘陶令門前五。山勝禺強海上三。天水相連迷俯仰。雲煙始捲占東南。孤舟暫繫平沙岸。時有胡僧出小菴。
+korean:
+  title: 과 용담사
+  author: 이규보
+  language: kor
+  text: |-
+    물 기운이 서늘히 짧은 적삼에 배어 드니
+    한 줄기 맑은 강물이 쪽빛보다 더 푸르러라
+    버들은 도령 문 앞의 다섯보다 더 있고
+    산은 우강 바다 위의 셋보다 더 낫구나
+    하늘과 물이 맞닿아 아래위가 어느 것인지
+    구름과 놀이 비로소 걷혀 동남쪽이 드러났네
+    외로운 배를 잠깐 모래 언덕에 매어놓으니
+    이따금 작은 암자에 나드는 중이 보이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 도령(陶令) : '
+    value: 도잠(陶潛)이 팽택령(彭澤令)을 지냈으므로 그를 도령(陶令)이라 별칭하였다. 그가 문 앞에 다섯 그루 버들을 심어 놓고 자칭 오류(五柳) 선생이라 하였다.
+  - key: '[주-D002] 우강(禺強) : '
+    value: 우강이란 신(神)이 바다 위의 세 산을 옮겼다 한다.
+english:
+  title: Passing Dragon Pool Temple
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    The water's chill seeps through my thin jacket,
+    A single stretch of clear river flows greener than indigo itself.
+    Willows line the magistrate's gate—more than five saplings stand,
+    Mountains surpass what gods moved from the sea—more than three peaks rise.
+    Sky and water merge, confusing heaven from earth below,
+    Clouds and mist finally drift, revealing the southeast sky.
+    I moor my solitary boat upon the sandy shore,
+    And from time to time, a foreign monk emerges from his small hermitage.
+  footnotes:
+  - key: ''
+    value: The 'magistrate' refers to Tao Qian (陶潛), known as Governor of Pengze, who planted five willows before his gate and called himself 'Master Five Willows'—a symbol of rustic simplicity and withdrawal from worldly affairs.
+  - key: ''
+    value: The reference to 'what gods moved from the sea' alludes to Yu the Strong (禺強), a divine being said to have relocated three sacred mountains across the ocean, used here as a poetic measure of comparison.

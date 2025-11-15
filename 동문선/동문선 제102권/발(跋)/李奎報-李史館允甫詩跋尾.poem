@@ -1,0 +1,31 @@
+canonical:
+  title: 李史館允甫詩跋尾
+  author: 李奎報
+  language: lzh
+  text: 予友李史舘允甫以甞所著詩賦雜著五十餘篇袖而來示之予讀旣將還之曰彬彬乎文彩之備也詩挾風人之體賦含騷客之懷其若無膓公子傳等嘲戲之作若與退之所著毛穎下邳相較吾未知孰先孰後也子不爾則吾何以與之友也予不知子則子已迴首背馳雖一日十過吾門終不一枉顧也雖然寧不與子交其文可蓋耶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李史館允甫詩跋尾
+  author: 李奎報
+  language: lzh
+  text: 予友李史舘允甫。以甞所著詩賦雜著五十餘篇。袖而來示之。予讀旣。將還之曰。彬彬乎文彩之備也。詩挾風人之體。賦含騷客之懷。其若無膓公子傳等嘲戲之作。若與退之所著毛穎下邳相較。吾未知孰先孰後也。子不爾則吾何以與之友也。予不知子。則子已迴首背馳。雖一日十過吾門。終不一枉顧也。雖然。寧不與子交。其文可蓋耶。
+korean:
+  title: 이사관 윤보 시발미
+  author: 이규보
+  language: kor
+  text: 나의 벗 이사관 윤보가 일찍이 저술한 시(詩)ㆍ부(賦)와 잡저(雜著) 50여 편을 소매 속에 넣어 가지고 와서 보였다. 내가 다 읽고 나서 곧 돌려보내려 할 때 말하기를, “빈빈(彬彬)하도다. 문채(文彩)의 갖춤이여, 시는 풍인(風人 시인)의 체격에 맞고, 부는 소인(騷人 시인)의 회포를 머금었으며, 그 〈무장공자전(無腸公子傳)〉 등의 조희(嘲戲 시인)의 작품 같은 것은 만약 퇴지(退之 당나라 한유(韓愈))의 저작인 〈모영(毛頴)〉ㆍ〈하비(下邳)〉와 서로 비교한다 해도 나는 누가 앞서고 누가 뒤질 것을 알지 못하겠노라. 자네가 그렇지 못하다면 내 어찌 함께 벗을 하였을 것이며, 또 내가 자네를 몰라본다면 자네는 이미 머리를 돌리고, 등을 지며, 비록 하루에 열 번 내 집문을 지나더라도 끝내 한번도 돌아보지 않았을 것이다. 그러나 자네와 더불어 사귀지 않았을지라도 그 문장이야 어찌 덮어 두겠는가.” 하였다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1050_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Postscript to the Poems of Yi Sa-gwan Yun-bo
+  author: Yi Kyu-bo
+  language: eng
+  text: 'My friend Yi Sa-gwan Yun-bo came bearing in his sleeve more than fifty pieces of verse, rhapsodies, and miscellaneous writings he had composed. After I had read through them all, I was about to return them when I said: "How refined and luminous! What completeness of literary grace! Your poems carry the bearing of the ancients'' verse; your rhapsodies hold the sentiments of Qu Yuan''s tradition. Even those playful, bantering pieces like ''The Gutless Duke''—if we were to compare them with Han Yu''s ''Brush Hairs'' and ''Xiapi,'' I confess I cannot judge which comes first and which comes after. If you were not as you are, how could we be friends? And if I did not know you as I do, you would already have turned your face away, your back to me; though you passed by my gate ten times in a single day, you would never once have deigned to look. And yet, whether our friendship be sealed or not, how could your writings ever be obscured?"'
+  footnotes:
+  - key: ''
+    value: Yi Sa-gwan (李史館) was the official title; Yun-bo (允甫) was his courtesy name.
+  - key: ''
+    value: Han Yu (韓愈, 768-824), known as Tuizhi (退之), was a celebrated Tang dynasty writer and philosopher whose works were greatly admired in Korea.
+  - key: ''
+    value: The reference to 'Brush Hairs' and 'Xiapi' are titles of Han Yu's allegorical prose pieces, famous examples of refined literary composition.

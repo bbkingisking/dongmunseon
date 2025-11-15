@@ -1,0 +1,65 @@
+canonical:
+  title: 次裴祕書山茶花韻
+  author: 李詹
+  language: lzh
+  text: 憶昔探勝蓬萊東山茶花開海雲紅珊瑚枝橫錦繡宮仲冬坐我春風中屈指歲月苦忩忩旌旗雜沓到處同仙凡路隔信不通自開自落隨江風邇來眼亂桃花叢句法已類山東農盆城城南忽相逢向也所見空不空花前置酒留雙松且問誰是主人翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次裴祕書山茶花韻
+  author: 李詹
+  language: lzh
+  text: 憶昔探勝蓬萊東。山茶花開海雲紅。珊瑚枝橫錦繡宮。仲冬坐我春風中。屈指歲月苦忩忩。旌旗雜沓到處同。仙凡路隔信不通。自開自落隨江風。邇來眼亂桃花叢。句法已類山東農。盆城城南忽相逢。向也所見空不空。花前置酒留雙松。且問誰是主人翁。
+korean:
+  title: 배 비서의 산다화 시를 차운하여
+  author: 이첨
+  language: kor
+  text: |-
+    옛날 내가 봉래 동쪽에 탐승 갔을 때
+    산다화(동백꽃)가 피어 바닷구름이 붉더이다
+    금수궁에 산호 가지가 비꼈는 듯
+    동짓달 추운 겨울에 봄바람에 앉았더니
+    그 뒤 총총히 세월이 흐르는 동안
+    가는 곳마다 보이는 건 전쟁의 깃발뿐
+    신선 고장과 속세가 기별조차 안 통하니
+    그 꽃들 강 바람에 절로절로 홀로 지리
+    요즘은 복사꽃 떨기에 눈이 현란해
+    내 시법은 이미 산동의 농사꾼과 비슷하리
+    분성(김해(金海)) 성남에 문득 너를 만나니
+    전에 보았던 것이 공이던가 공이 아니었던가
+    꽃 앞에 술 차리고 쌍송(작자의 호)을 머물게 하니
+    묻노라 그 누가 주인인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Secretary Pae's Poem on Mountain Camellia Flowers
+  author: Lee Cham
+  language: eng
+  text: |-
+    I remember wandering east of Penglai in days long past,
+    when mountain camellia bloomed and sea-clouds turned red.
+    Coral branches bent like embroidered palace screens—
+    and there, in winter's coldest depths, I sat enveloped in spring wind.
+
+    Yet years have rushed by in sudden succession,
+    and everywhere I turn, only banners of war appear.
+    The realm of immortals and the world of men have grown estranged,
+    no word can pass between them anymore.
+    Those flowers open and fall, drift and scatter on the river wind.
+
+    Now my gaze grows dazzled by the profusion of peach blossoms,
+    and my poetry has come to resemble a Shandong farmer's speech.
+    Suddenly we meet again south of Buncheon's walls—
+    tell me, was what I saw before empty, or was it real?
+
+    Before the flowers I pour wine and bid my Ssangsong soul to linger.
+    So I ask: who is the true master of this moment?
+  footnotes:
+  - key: ''
+    value: 'Penglai (蓬萊): A legendary island of immortals in Chinese mythology, representing a lost paradise.'
+  - key: ''
+    value: The poem is written in response to a work by Secretary Pae (裴祕書), following the tradition of 차운 (response poetry) where poets compose using the same rhyme scheme.
+  - key: ''
+    value: 'Ssangsong (雙松): Likely a reference to the author''s pen name or spiritual identity, meaning ''twin pines.'''
+  - key: ''
+    value: The shift from mountain camellia to peach blossoms mirrors the poet's journey from an idealized past to a troubled present, with war's turmoil intruding upon nature's cycle.

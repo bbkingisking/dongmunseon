@@ -1,0 +1,48 @@
+canonical:
+  title: 病中有感
+  author: 林椿
+  language: lzh
+  text: 年年虛過試圍開臨老猶堪矍鑠哉科第由來收俊士公卿誰肯薦非才長鯨欲奮波濤渴病鶴思飛羽翼摧舊有江東隱居地自憐頭白始歸來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病中有感
+  author: 林椿
+  language: lzh
+  text: 年年虛過試圍開。臨老猶堪矍鑠哉。科第由來收俊士。公卿誰肯薦非才。長鯨欲奮波濤渴。病鶴思飛羽翼摧。舊有江東隱居地。自憐頭白始歸來。
+korean:
+  title: 병중 유감
+  author: 임춘
+  language: kor
+  text: |-
+    해마다 과시 때를 헛되이 지내오누나
+    늙어도 몸은 아직 정정하네
+    과거란 워낙 준재만을 뽑는다지
+    공경이 뉘라 비재를 천거하리
+    큰 고래가 날치자니 물결이 말랐구나
+    병든 학은 날려 해도 날개가 부러졌네
+    강동의 숨어살던 땅 전부터 있으니
+    머리 희어 비로소 돌아갈 내 신세 가련하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0190&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections During Illness
+  author: Lim Chun
+  language: eng
+  text: |-
+    Year after year I have squandered the seasons of the civil service exams,
+    yet in my twilight years my body still holds vigor.
+    The examinations have always favored only the talented—
+    who among the great ministers would recommend the mediocre?
+
+    The great whale strains to leap, but the waves have run dry.
+    The ailing crane yearns to soar, yet its wings are broken.
+
+    I have long possessed a place of retreat in the eastern rivers,
+    and now, with whitened hair, I return at last—
+    how pitiable is this fate of mine.
+  footnotes:
+  - key: ''
+    value: The 'great whale' and 'ailing crane' are metaphors for the poet's own unfulfilled ambitions and physical decline
+  - key: ''
+    value: The reference to 'eastern rivers' evokes the classical ideal of hermitic withdrawal from public life

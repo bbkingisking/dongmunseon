@@ -1,0 +1,48 @@
+canonical:
+  title: 崔學士
+  author: 釋天因
+  language: lzh
+  text: 玉笋春來已出門碧幢紅旆又南廵一謙四益雖常理半歲三遷復幾人盡道文章爲國手誰知道德蘊天眞秋初我欲尋前約且待頭流月半輪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 崔學士
+  author: 釋天因
+  language: lzh
+  text: 玉笋春來已出門。碧幢紅旆又南廵。一謙四益雖常理。半歲三遷復幾人。盡道文章爲國手。誰知道德蘊天眞。秋初我欲尋前約。且待頭流月半輪。
+korean:
+  title: 시로써 편지를 대신하여 최 학사
+  author: 석천인
+  language: kor
+  text: |-
+    과거에 장원하고 봄에 벌써 문을 나서
+    푸른 당, 붉은 기로 남녘에 갔다는 소식
+    한 겸에 네 익은 상리라고 하지만
+    반 년에 세 번 승차는 몇 사람이 있을꼬
+    모두들 말하기를 그 문장이 국수라고
+    뉘라 알리, 그 도덕이 천진에서 나온 줄을
+    내야 첫 가을에 앞서 언약 지키고자
+    두류산 반달 뜨기를 기다리고 있습네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한 겸(謙)에 네 익(益) : '
+    value: 주역(周易) 겸괘(謙卦)에, “천도(天道)ㆍ지도(地道)ㆍ귀신(鬼神)ㆍ인도(人道)가 모두 겸손한 사람을 익(益)하게 하여 준다.” 하였다.
+english:
+  title: To Scholar Choi—in Verse
+  author: Seok Cheon-in
+  language: eng
+  text: |-
+    The jade sprout of spring has already crossed the threshold.
+    Beneath banners green and flags of crimson, word comes of southern travels.
+    Though humility brings fourfold increase—the eternal principle—
+    How many in half a year receive three promotions?
+
+    All speak of his writings as the finest in the realm.
+    Yet who perceives that his virtue springs from Heaven's truth?
+    As autumn approaches, I wish to honor our old promise,
+    And wait for the moon to rise halfway over Duryusan's peak.
+  footnotes:
+  - key: ''
+    value: The 'fourfold increase' (四益) refers to the I Ching's teaching that Heaven, Earth, spirits, and the human way all bestow benefits upon the humble.
+  - key: ''
+    value: Duryusan (頭流山) is a mountain in Korea, likely a meeting place referenced in their prior agreement.

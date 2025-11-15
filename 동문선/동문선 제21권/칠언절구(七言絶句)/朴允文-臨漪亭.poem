@@ -1,0 +1,35 @@
+canonical:
+  title: 臨漪亭
+  author: 朴允文
+  language: lzh
+  text: 浩浩東溟入眼前蒼蒼老樹幾經年此亭佳致誰能畫夕照西山橫斷烟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 臨漪亭
+  author: 朴允文
+  language: lzh
+  text: 浩浩東溟入眼前。蒼蒼老樹幾經年。此亭佳致誰能畫。夕照西山橫斷烟。
+korean:
+  title: 임의정
+  author: 박윤문
+  language: kor
+  text: |-
+    넓고 넓은 동쪽 바다 눈 앞에 드는데
+    푸르고 푸른 늙은 나무는 몇 해나 지났는고
+    이 정자의 아름다운 경치 뉘 능히 그리랴
+    해 떨어지는 서산에 연기 가로 비꼈네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0700&viewSync=OT
+  footnotes: []
+english:
+  title: At the Riverside Pavilion
+  author: Park Yun-mun
+  language: eng
+  text: |-
+    The vast Eastern Sea spreads before my eyes,
+    And ancient trees, verdant still, mark countless years gone by.
+    Who could paint the beauty of this pavilion's scene—
+    Where setting sun gilds western mountains wrapped in drifting smoke?
+  footnotes:
+  - key: ''
+    value: The 'Riverside Pavilion' (臨漪亭) takes its name from its proximity to water, with 漪 referring to ripples on a water's surface

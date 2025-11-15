@@ -1,0 +1,49 @@
+canonical:
+  title: 近古
+  author: 徐居正
+  language: lzh
+  text: 大雨尙可言燥者蒙其利大旱尙可言濕者受其賜大風不可言百物盡憔悴如何一年內三災同荐至三嘆復三嘆是用詩以誌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 近古
+  author: 徐居正
+  language: lzh
+  text: 大雨尙可言。燥者蒙其利。大旱尙可言。濕者受其賜。大風不可言。百物盡憔悴。如何一年內。三災同荐至。三嘆復三嘆。是用詩以誌。
+korean:
+  title: 7월 19일 밤에 날씨가 흐리기 시작하더니만 삼경에 비가 조금 오고 사경서부터 큰 바람이 불어 오경에야 그쳤는데, 나무가 다 뽑히고 집들이 모두 무너져 서울안에 날린 기와가 산더미처럼 쌓이고 온갖 풀과 곡식이 태반이나 말라지고 쓰러져 풍재의 변이 근고
+  author: 서거정
+  language: kor
+  text: |-
+    큰 비는 오히려 견딜 만하네
+    건조한 땅은 그 이를 입으니
+    큰 가물은 오히려 견딜 만하네
+    습한 땅은 그 은덕을 받으니
+    큰 바람은 과연 말할 수 없네
+    백물이 모두 시들어지네
+    어찌타 1년 동안에
+    세 가지 재변이 겹쳐 오는고
+    세 번이나 탄식, 또 탄식하고
+    이에 시로써 기록하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Recent Calamities
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Heavy rains, after all, are bearable—
+    the parched earth drinks in their blessing.
+    Great drought, after all, is bearable—
+    the wetlands receive their gift.
+    But fierce winds? These cannot be spoken of.
+    All things wither and fade away.
+    How can it be that in a single year
+    three calamities converge at once?
+    Thrice I sigh, and sigh again,
+    and so commit this sorrow to verse.
+  footnotes:
+  - key: ''
+    value: The three calamities mentioned are heavy rain, drought, and violent winds—natural disasters that struck the capital during the summer of 1473.
+  - key: ''
+    value: The poem's structure moves from the tolerable to the intolerable, mirroring how each disaster, while destructive in isolation, becomes overwhelming when combined.

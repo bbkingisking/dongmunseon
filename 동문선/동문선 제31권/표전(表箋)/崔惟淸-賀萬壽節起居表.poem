@@ -1,0 +1,33 @@
+canonical:
+  title: 賀萬壽節起居表
+  author: 崔惟淸
+  language: lzh
+  text: 望中天之日久冒照臨綴下國之旒每懷歸附
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀萬壽節起居表
+  author: 崔惟淸
+  language: lzh
+  text: 望中天之日。久冒照臨。綴下國之旒。每懷歸附。
+korean:
+  title: 만수절에 기거를 하례하는 표
+  author: 최유청
+  language: kor
+  text: 중천의 해를 바라보니 오래 조림(照臨)을 받자온지라, 하국(下國)의 철류(綴旒)가 되려고 매양 귀부(歸附)할 뜻을 품나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하국(下國)의 철류(綴旒) : '
+    value: 《시경》에, “소구(小球)ㆍ대구(大球)를 받아서 하국의 철류가 된다.” 하였는데, 이것은 천자에게 두 가지 옥을 받아서 제후(諸侯)의 표장(表章)이 된다는 뜻이다.
+english:
+  title: Congratulatory Memorial on the Longevity Festival Celebration
+  author: Choi Yu-cheong
+  language: eng
+  text: |-
+    Gazing upon the sun at heaven's zenith,
+    Long have I basked in its illuminating grace.
+    As a pendant jewel adorning the realm below,
+    My heart ever yearns to offer loyal submission.
+  footnotes:
+  - key: ''
+    value: The 'pendant jewels' (綴旒) reference alludes to the Shijing (Book of Poetry), signifying the regalia of a feudal lord who receives jade insignia from the Son of Heaven as symbols of his authority and allegiance.

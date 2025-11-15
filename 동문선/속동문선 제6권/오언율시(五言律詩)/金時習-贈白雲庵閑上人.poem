@@ -1,0 +1,49 @@
+canonical:
+  title: 贈白雲庵閑上人
+  author: 金時習
+  language: lzh
+  text: 林泉養性靈得妙不看經勝景山雲護天音野鶴聽會三硏白業抱一守黃庭洞府烟蘿繞柴扉設不扃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈白雲庵閑上人
+  author: 金時習
+  language: lzh
+  text: 林泉養性靈。得妙不看經。勝景山雲護。天音野鶴聽。會三硏白業。抱一守黃庭。洞府烟蘿繞。柴扉設不扃。
+korean:
+  title: 증백 운암 한상인
+  author: 김시습
+  language: kor
+  text: |-
+    숲과 샘물에 성령을 길러
+    묘를 얻었으매 경전은 보지 않네
+    뛰어난 경치는 산구름이 감싸주고
+    하늘 소리는 들의 학이 듣는다
+    세 가지 모아 백업을 갈며[硏]
+    하나를 안고 황정을 지킨다
+    연기와 담쟁이덩굴 골짝을 둘러 쌌거니
+    사립문 만들어 놓고 걸지 않는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백업(白業) : '
+    value: 불교에서 착한 일하여 업보(業報) 받는 것을 백업이라 한다.
+english:
+  title: Gift for the Idle Monk of White Cloud Hermitage
+  author: Kim Si習
+  language: eng
+  text: |-
+    In forest springs, the spirit is nurtured and grows—
+    Having found the subtle way, why read the scriptures?
+    Magnificent vistas are wrapped by mountain clouds,
+    The voice of heaven echoes in the wild cranes' song.
+    Gathering three, grinding white karma into dust,
+    Embracing one, guarding the Yellow Court within.
+    Cave dwellings swathed in mist and creeping vines—
+    The brushwood gate stands open, never barred.
+  footnotes:
+  - key: ''
+    value: 'White karma (白業): In Buddhist thought, the karmic fruits yielded by virtuous deeds and good actions.'
+  - key: ''
+    value: 'Yellow Court (黃庭): A Daoist alchemical term referring to the spiritual center within the body, the seat of inner cultivation.'
+  - key: ''
+    value: 'Three...one: References to Buddhist and Daoist meditation practices—the harmony of body, mind, and spirit unified in singular awareness.'

@@ -1,0 +1,47 @@
+canonical:
+  title: 投某官
+  author: 盧永綏
+  language: lzh
+  text: 宦海風波惡窮鱗去路停老妻容寂寞稚子淚飄零衰鬢千年鶴殘生十月螢辱知恩不薄阮眼一回靑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 投某官
+  author: 盧永綏
+  language: lzh
+  text: 宦海風波惡。窮鱗去路停。老妻容寂寞。稚子淚飄零。衰鬢千年鶴。殘生十月螢。辱知恩不薄。阮眼一回靑。
+korean:
+  title: 투모관
+  author: 노영수
+  language: kor
+  text: |-
+    벼슬 길[宦海]에 풍파가 사나와서
+    궁한 고기 갈 길이 막혔고
+    늙은 처는 얼굴이 쓸쓸
+    어린애들은 눈물만 뚝뚝
+    허연 살쩍은 천 년 학의 모습
+    가련한 생애는 시월의 반딧불
+    고마운 당신 은혜 엷지 않으니
+    가다가 완적의 눈이 한 번 푸르러지네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Presenting My Petition to an Official
+  author: Noh Young-soo
+  language: eng
+  text: |-
+    The official path churns with treacherous waves—
+    A struggling fish finds the road ahead blocked.
+    My aging wife's face grows hollow with longing,
+    My young children weep tears that fall like rain.
+    My graying hair resembles a thousand-year crane,
+    My remaining days flicker like October fireflies.
+    Your kindness, though remembered, weighs heavily upon me—
+    Once more my eyes cloud with sorrow's green hue.
+  footnotes:
+  - key: ''
+    value: The 'official path' (宦海, hwanhae) literally means 'bureaucratic sea,' a traditional metaphor for the dangers and difficulties of pursuing an official career.
+  - key: ''
+    value: The image of the 'struggling fish' reflects the poet's sense of being trapped and unable to advance despite his efforts.
+  - key: ''
+    value: The reference to Wan Jue's eyes turning blue alludes to a Tang dynasty poet who shed tears of sorrow, here used to express the speaker's overwhelming despair and resignation.

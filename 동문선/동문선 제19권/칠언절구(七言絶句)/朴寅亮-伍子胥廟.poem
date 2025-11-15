@@ -1,0 +1,41 @@
+canonical:
+  title: 伍子胥廟
+  author: 朴寅亮
+  language: lzh
+  text: 掛眼東門憤未消碧江千古起波濤今人不識前賢志但問潮頭幾尺高
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 伍子胥廟
+  author: 朴寅亮
+  language: lzh
+  text: 掛眼東門憤未消。碧江千古起波濤。今人不識前賢志。但問潮頭幾尺高。
+korean:
+  title: 오자서 묘
+  author: 박인량
+  language: kor
+  text: |-
+    동문에 눈을 뽑아 걸어둔 채 분이 사라지지 않아
+    천고의 푸른 강물이 파도를 일으키네
+    이제 사람이 옛 어진 이의 뜻을 알지 못하여
+    다만 묻기를 조수 머리가 몇 자나 높았는고 하더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0150&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동문에 …… 사라지지 않아 : '
+    value: 춘추(春秋) 시대 오(吳)나라 오자서(伍子胥)가 참소를 입어 죽음을 당하면서, “내가 죽은 후에 눈을 빼어서 성의 동문에 걸어 두라. 마침내 월(越)나라가 오(吳)나라 멸하는 것을 보리라.” 하였다.
+  - key: '[주-D002] 조수 : '
+    value: 절강(浙江)에 조수(潮水)가 특별히 맹렬한데, 사람들이 말하기를, “오자서의 분기(憤氣)가 그렇게 한다.”고 한다.
+english:
+  title: At the Temple of Wu Zixu
+  author: Park In-ryang
+  language: eng
+  text: |-
+    His eyes still hang from the eastern gate, his fury unabated through the ages.
+    The jade river rises up in ancient waves, ceaseless and wild.
+    Yet modern people have forgotten the will of the sage before them—
+    They only ask how many feet the tide climbs high.
+  footnotes:
+  - key: ''
+    value: Wu Zixu was a minister of the ancient state of Wu during the Spring and Autumn period. Falsely accused and sentenced to death, he commanded that his eyes be removed and hung from the eastern gate of the city, so that he might witness the eventual fall of Wu to its rival state of Yue.
+  - key: ''
+    value: The tidal waters of the Zhe River are known for their exceptional violence. Legend attributes this ferocity to the lingering fury of Wu Zixu.

@@ -1,0 +1,72 @@
+canonical:
+  title: 朗州
+  author: 釋眞靜
+  language: lzh
+  text: 仁政溫於有脚春專城來鎭朗州人誰知卧閣神明化兼得空門氣味新投社佳篇如串玉絶塵淸句可書紳幅巾何日參南遠忙得程之作上賓先儒雖藉桂林春眞樂好從方外人應愧利名牽濁惡故將寂滅洗精神歸心佛隴聞梁肅訪道天台見李紳太守風流超古轍不妨來往學玄賓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 朗州
+  author: 釋眞靜
+  language: lzh
+  text: 仁政溫於有脚春。專城來鎭朗州人。誰知卧閣神明化。兼得空門氣味新。投社佳篇如串玉。絶塵淸句可書紳。幅巾何日參南遠。忙得程之作上賓。先儒雖藉桂林春。眞樂好從方外人。應愧利名牽濁惡。故將寂滅洗精神。歸心佛隴聞梁肅。訪道天台見李紳。太守風流超古轍。不妨來往學玄賓。
+korean:
+  title: 낭주
+  author: 석진정
+  language: kor
+  text: |-
+    다리 있는 봄보다 더 따스한 어진 정사로
+    성주로 와서 낭주 사람을 다스리네
+    문 안에 누운 신명한 정화가
+    공문의 기미를 겸하여 얻었네
+    연사에 부친 시편은 옥을 꿴 듯한 가작
+    진세를 떠난 맑은 구는 큰 띠에 쓸[자장이 공자의 교훈을 잊지 않으려고 큰 띠에 썼었다] 만하이
+    내 어느 날 폭건으로 남방의 혜원을 참알하여
+    정지처럼 영접 받아 상빈이 될까
+    선유들이 과거에 급제하여 출신했지만
+    참다운 즐거움은 방외(세속 밖) 사람을 좇아 노는 것이었네
+    필시 명리가 맘 흐림을 싫어해서
+    적멸로 정신을 씻으려는 때문이다
+    양숙은 불롱에게 마음을 돌렸고
+    이신은 천태에 도를 찾았네
+    태수님 풍류가 옛사람보다 뛰어났으니
+    오가며 선을 배움도 괜찮으리로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 다리[脚] 있는 봄 : '
+    value: 당나라 송경(宋璟)이 간 곳마다 착한 정치로 백성에게 은혜를 베풀므로 사람들이 ‘다리 있는 봄[有脚陽春]’이라 불렀다.
+  - key: '[주-D002] 문 안에 …… 정화(政化) : '
+    value: 한(漢)나라 급암(汲黯)이 동해 태수(東海太守)가 되어 문 안에 누워 있어도 3년 동안에 동해가 다스려졌다.
+  - key: '[주-D003] 정지(程之) : '
+    value: 혜원(惠遠)의 백련사(白蓮社)에 동참(同參)한 사람에 유종지(劉種之)가 있다.
+english:
+  title: Langzhou
+  author: Shi Zhenjing
+  language: eng
+  text: |-
+    Benevolent rule brings warmth deeper than spring's own feet,
+    A governor arrives to shepherd Langzhou's people.
+    Within his chamber lies a transformation both celestial and just,
+    Combining the fragrance of emptiness with worldly affairs.
+
+    Poems sent to gatherings string like perfect pearls,
+    Clean verses distant from dust deserve to grace the belt of scholars.
+    When shall I, with my simple cap, journey south to glimpse
+    The White Lotus retreat, received as honored guest?
+
+    Ancient worthies rose through examinations' glory,
+    Yet true joy follows those who dwell beyond the world.
+    Perhaps they turned away from fame's corrupting pull,
+    Using stillness and silence to wash the soul anew.
+
+    Yang Xu gave his heart to the Buddha's mountain,
+    Li Shen sought the Way upon Heaven's terrace.
+    This magistrate's refinement surpasses those of old,
+    So why not visit and learn the path of the immortals?
+  footnotes:
+  - key: ''
+    value: The 'feet of spring' alludes to the benevolent governor Song Jing of Tang, whose wise rule was so warm and universal that people called him 'spring with feet.'
+  - key: ''
+    value: The image of one who governs while resting in his chamber references Qu An of Han, whose three years as magistrate transformed his entire province through virtue alone.
+  - key: ''
+    value: The White Lotus retreat references the Buddhist community founded by Huiyuan, a place of spiritual gathering beyond worldly concerns.

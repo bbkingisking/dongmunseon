@@ -1,0 +1,47 @@
+canonical:
+  title: 延壽
+  author: 偰長壽
+  language: lzh
+  text: 三年費我鶺鴒思一日那堪十二時形影自憐孤且弱光陰還覺老將衰紫荊花樹歡娛阻靑草池塘夢寐隨邂逅相逢悲喜處春風尊酒漢江湄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 延壽
+  author: 偰長壽
+  language: lzh
+  text: 三年費我鶺鴒思。一日那堪十二時。形影自憐孤且弱。光陰還覺老將衰。紫荊花樹歡娛阻。靑草池塘夢寐隨。邂逅相逢悲喜處。春風尊酒漢江湄。
+korean:
+  title: 아우 연수
+  author: 설장수
+  language: kor
+  text: |-
+    삼 년 동안 동생 생각 얼마나 했나
+    하루에도 열두 때 견디기 어려웠네
+    몸과 그림자만 마주 보니 외롭기도 하였지
+    빨리 가는 세월에 늙기도 많이 했네
+    자형꽃같이 즐김을 같이 하지 못하고
+    푸른 풀 연못에 꿈만이 오갔지
+    뜻밖에 만나니 슬프고도 기쁘이
+    이 봄날 한강 가에서 술이나 흠뻑 마시세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 자형(紫荊) 꽃 : '
+    value: 자형화(紫荊花)는 곧 상체화(常棣花)인데, 꽃이 서로 뭉쳐 피므로 형제에게 비유된다.
+english:
+  title: For My Younger Brother Yeonsu
+  author: Seol Jangsu
+  language: eng
+  text: |
+    Three years—how long I have yearned for you.
+    Each day, each of its twelve hours, unbearable.
+    My body and shadow alone face one another in loneliness,
+    And with the swift passage of time, I have aged more than I wished.
+
+    The lilac blooms—we cannot share their joy together,
+    Only dreams drift across the green pool and its grass.
+    Then by chance we meet again—
+    Sorrow and joy entwined, on the Han River's spring bank,
+    Let us drink deep of wine.
+  footnotes:
+  - key: ''
+    value: The lilac flower (紫荊花) is also known as the common dittany, which blooms in clusters and has traditionally symbolized fraternal bonds in East Asian poetry.

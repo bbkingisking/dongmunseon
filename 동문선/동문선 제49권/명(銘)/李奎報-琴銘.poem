@@ -1,0 +1,29 @@
+canonical:
+  title: 琴銘
+  author: 李奎報
+  language: lzh
+  text: 我琴無調孰商孰宮琴是何物聲從何冲其泠泠溜溜者傳聲於石瀨乎其瑟瑟飀飀者借韻於松風乎若以泠泠者付乎瀨瑟瑟者還于松則其復寥乎寂乎反於大空者乎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 琴銘
+  author: 李奎報
+  language: lzh
+  text: 我琴無調。孰商孰宮。琴是何物。聲從何冲。其泠泠溜溜者。傳聲於石瀨乎。其瑟瑟飀飀者。借韻於松風乎。若以泠泠者付乎瀨。瑟瑟者還于松。則其復寥乎寂乎。反於大空者乎。
+korean:
+  title: 금 명
+  author: 이규보
+  language: kor
+  text: 나의 거문고는 곡조가 없다. 무엇이 상(商) 소린지 무엇이 궁(宮) 소린지, 거문고는 대체 무슨 물건이며 소리는 얼마나 온화하냐. 차갑게 졸졸하는 것은 돌 사이 여울[瀨]에서 소리를 가져온 것인가. 우우 솔솔 하는 것은 소나무 바람에서 소리를 빌려온 것인가. 만일 졸졸 하는 것은 여울로 돌려 보내고 솔솔하는 것은 소나무에 돌려 보낸다면 다시 고요하여 저 허공(虛空)으로 환원(還元)될 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상(商) …… 궁(宮) : '
+    value: 중국 음악의 오음(五音)이 궁(宮) 상(商) 각(角) 치(徵) 우(羽)이다.
+english:
+  title: Inscription on a Qin
+  author: Lee Kyu-bo
+  language: eng
+  text: My qin has no fixed tune. What is the shang note, what is the gong? What manner of thing is this instrument, and whence comes its voice? Those crystalline, trickling tones—do they borrow their sound from the rapids between stones? Those whispering, rustling notes—do they steal their music from the wind through pines? Yet if we return the trickling sounds to the rapids, the rustling notes to the pines, what remains? Only silence. Only the great emptiness to which all returns.
+  footnotes:
+  - key: ''
+    value: The five notes of Chinese music are gong (궁), shang (상), jiao (각), zhi (치), and yu (우). The poem alludes to this classical framework while questioning whether any fixed musical system can contain the instrument's true voice.

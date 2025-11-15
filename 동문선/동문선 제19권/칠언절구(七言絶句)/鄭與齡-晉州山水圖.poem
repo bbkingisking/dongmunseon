@@ -1,0 +1,39 @@
+canonical:
+  title: 晉州山水圖
+  author: 鄭與齡
+  language: lzh
+  text: 數點靑山枕碧湖公言此是晉陽圖水邊草屋知多少中有吾廬畫也無
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 晉州山水圖
+  author: 鄭與齡
+  language: lzh
+  text: 數點靑山枕碧湖。公言此是晉陽圖。水邊草屋知多少。中有吾廬畫也無。
+korean:
+  title: 진주 산수도
+  author: 정여령
+  language: kor
+  text: |-
+    두어 점 청산이 푸른 호수를 베개했구나
+    공이 이르기를 이것이 진양의 그림이라네
+    물가에 초가집 얼마인가
+    그중에 내 집도 있으련만 그려졌는지 안 그려졌는지
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001]  : '
+    value: 작자가 진주(晉州) 사람인데, 이지저(李之氐)의 집에 갔더니 마침 주인이 진주 산수도(晉州山水圖)를 내보이며, “진주는 자네의 고향이니 시(詩) 한 수를 쓰라.” 하므로 즉석에서 부른 것이다.
+english:
+  title: A Painting of Jinzhou Landscape
+  author: Jeong Yeoryeong
+  language: eng
+  text: |-
+    A few blue peaks cradle the emerald lake,
+    And my friend declares: "This is Jinyang's painting."
+    How many grass-thatched cottages line the water's edge?
+    But tell me—is my own humble home sketched there, or left undrawn?
+  footnotes:
+  - key: ''
+    value: Jinzhou (晉州) was the author's native place. The poem was composed impromptu when the author visited a friend who showed him this landscape painting and requested a poem, noting that Jinzhou was the author's hometown.
+  - key: ''
+    value: The name 'Jinyang' (晉陽) refers to an ancient name for the Jinzhou region.

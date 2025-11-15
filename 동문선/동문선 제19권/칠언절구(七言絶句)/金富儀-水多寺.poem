@@ -1,0 +1,42 @@
+canonical:
+  title: 水多寺
+  author: 金富儀
+  language: lzh
+  text: 經旬雨雪且狂風獨坐無聊小閤中賴有白衣觀自在一回瞻禮萬緣空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 水多寺
+  author: 金富儀
+  language: lzh
+  text: 經旬雨雪且狂風。獨坐無聊小閤中。賴有白衣觀自在。一回瞻禮萬緣空。
+korean:
+  title: 수다사
+  author: 김부의
+  language: kor
+  text: |-
+    열흘남아 눈비에 광풍 일터인데
+    홀로 무료히 소합에 앉았어라
+    백의 관자재 보살님을 믿어
+    한 번 우러러 절하니 일만 인연이 공하여 지네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0330&viewSync=OT
+  footnotes: []
+english:
+  title: Sudasa Temple
+  author: Kim Bu-ui
+  language: eng
+  text: |-
+    For ten days the rain and snow have raged,
+    wild winds sweeping without mercy.
+    Alone I sit in my small chamber,
+    weary and restless.
+
+    Yet I find solace in the white-robed Avalokiteshvara,
+    the Bodhisattva of Compassion.
+    With a single reverent bow,
+    ten thousand bonds dissolve into emptiness.
+  footnotes:
+  - key: ''
+    value: Avalokiteshvara (觀自在) is the Bodhisattva of Compassion in Mahayana Buddhism, often depicted in white robes. The name literally means 'One who perceives the sounds of the world.'
+  - key: ''
+    value: The 'ten thousand bonds' (일만 인연) refers to the countless karmic connections and worldly attachments that bind sentient beings to suffering in Buddhist philosophy.

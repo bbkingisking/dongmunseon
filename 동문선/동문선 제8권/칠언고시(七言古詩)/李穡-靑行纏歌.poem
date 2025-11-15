@@ -1,0 +1,57 @@
+canonical:
+  title: 靑行纏歌
+  author: 李穡
+  language: lzh
+  text: 我有長脛黑無肉閣得瘦軀如病鶴少年才名動九重力士脫靴寧少却直將布襪踏御筵把筆題詩天子樂誰知尙有靑行纏雲崖石澗工夤緣樹梢飛猱共超忽杮栗漫山霜滿天靑行纏扶我兩脚自有日欲歸未歸今幾年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靑行纏歌
+  author: 李穡
+  language: lzh
+  text: 我有長脛黑無肉。閣得瘦軀如病鶴。少年才名動九重。力士脫靴寧少却。直將布襪踏御筵。把筆題詩天子樂。誰知尙有靑行纏。雲崖石澗工夤緣。樹梢飛猱共超忽。杮栗漫山霜滿天。靑行纏扶我兩脚自有日。欲歸未歸今幾年。
+korean:
+  title: 청행전가
+  author: 이색
+  language: kor
+  text: |-
+    시커먼 내 정강이 살이 없어서
+    빼빼 마르고 여윈 몸 병든 학이나
+    소년에 재명이 구중(구중궁궐 九重宮闕) 움직여
+    역사가 신 벗겨도 꿈쩍 안 했고
+    베버선 신은 채로 어연을 밟고
+    붓 들어 시를 쓰니 천자도 빙글
+    푸른 행전 아직도 그대로 있어
+    구름 벼랑 돌시내를 멋대로 다니네
+    나무 끝에 잔나비처럼 빨리 다닐 제
+    감ㆍ밤은 산에 가득 서리는 하늘에 가득
+    푸른 행전아, 나의 두 다리 붙들어 줄 날이 따로 있으니
+    고향으로 돌아가려다 못 돌아간 지 몇 해 째인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 역사(力士)가 신 벗겨도 : '
+    value: 당 헌종(唐玄宗) 때의 내시(內侍)  고역사(高力士). 이백(李白)이 현종에게 불려 들어갔을 때에 술이 취하여 고역사에게 신을 벗기게 한 일이 있다.
+english:
+  title: Song of the Blue Leg Wrappings
+  author: Lee Saek
+  language: eng
+  text: |-
+    My shins are dark and scrawny, stripped of all flesh,
+    A withered frame like a sickly crane.
+    In my youth, my talents stirred the imperial court,
+    And when the palace guards removed their shoes, I didn't flinch.
+    In cloth-wrapped feet I trod upon the royal mat,
+    Brush in hand, composing verses that made the Son of Heaven smile.
+
+    Yet these blue leg wrappings remain with me still,
+    Climbing freely along cloud-cliff and rocky stream,
+    Leaping from tree to tree like a nimble gibbon,
+    While persimmons and chestnuts fill the frost-laden mountains.
+
+    Blue leg wrappings, you who steady my weary legs—
+    Your day of purpose will surely come.
+    How many years now have I wished to return home and failed?
+    How many winters have passed in this wandering?
+  footnotes:
+  - key: ''
+    value: The reference to guards removing their shoes alludes to the Tang poet Li Bai, who when summoned to court by Emperor Xuanzong, was so intoxicated that he had the court official Gao Lishi remove his boots—a transgression that eventually led to his exile. Lee Saek uses this reference to recall his own youthful brilliance at court.

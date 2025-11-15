@@ -1,0 +1,50 @@
+canonical:
+  title: 苦雨
+  author: 金敦時
+  language: lzh
+  text: 苦雨來隨舶䑲風雷車雲棧勢何雄川塗汎濫輪蹄絶里巷蕭條井竈空欲學琴高騎赤鯉還思無社問山藭萬民共失三農望竚待煕朝夑理功
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 苦雨
+  author: 金敦時
+  language: lzh
+  text: 苦雨來隨舶䑲風。雷車雲棧勢何雄。川塗汎濫輪蹄絶。里巷蕭條井竈空。欲學琴高騎赤鯉。還思無社問山藭。萬民共失三農望。竚待煕朝夑理功。
+korean:
+  title: 고우
+  author: 김돈시
+  language: kor
+  text: |-
+    장마비가 바닷바람 따라 휘몰아치니
+    뇌성 수레 구름 사닥다리 어찌 그리 웅장한고
+    개천 길은 물이 넘쳐 수레도 말도 못 다니고
+    마을은 폐허인 듯 우물과 부엌이 다 비었네
+    금고를 배워 붉은 잉어나 타고 놀까
+    무사가 산궁을 묻던 것이 생각나네
+    만 백성들 모두 농사의 희망을 잃었으니
+    성조께서 섭리의 공을 어서 베풀어주소서
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0700&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금고(琴高) : '
+    value: 주말(周末) 조(趙)나라 사람. 거문고를 잘 탔으며, 송강왕(宋康王)의 사인(舍人)으로 탁군(涿君)과 기주(豈州) 사이를 헤엄쳐 돌아다니다가 제자들과 약속하기를 탁수(涿水)에 들어가 용의 새끼를 잡아가지고 아무날 돌아오겠다 하더니, 그날 제자들이 물가에서 기다리니 과연 잉어를 타고 나왔다. 한 달을 머물고 다시 물로 돌아갔다. 《列仙傳》
+  - key: '[주-D002] 섭리(燮理) : '
+    value: 한(漢)나라 진평(陳平)의 말에, “재상(宰相)은 천자(天子)를 보좌하여 음양(陰陽)을 섭리(燮理 조화(調和))하는 직책을 가졌다.” 하였다.
+english:
+  title: Bitter Rain
+  author: Kim Dun-si
+  language: eng
+  text: |-
+    Bitter rain sweeps in with the ocean wind,
+    Thunder's chariot and clouded stairs loom so grandly.
+    Rivers overflow, carts and horses cannot pass,
+    Villages lie desolate—wells and hearths all emptied.
+
+    I think of mounting a crimson carp like Qin Gao,
+    Remembering when the lord of Wu sought the mountain sage.
+    All ten thousand people have lost hope in the harvest,
+    Awaiting the benevolent king to bring order and blessing.
+  footnotes:
+  - key: ''
+    value: 'Qin Gao (琴高): A legendary immortal from the late Zhou dynasty known for his mastery of the zither. According to tradition, he would ride a crimson carp through rivers, vanishing and reappearing at will—here invoked as an image of escape from earthly troubles.'
+  - key: ''
+    value: The poem's final couplet appeals to the sage ruler to exercise his harmonizing power over heaven and earth, a responsibility traditionally associated with virtuous governance in East Asian political philosophy.

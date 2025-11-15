@@ -1,0 +1,46 @@
+canonical:
+  title: 寄密城李使君
+  author: 韓脩
+  language: lzh
+  text: 極目望南州西風意轉悠相違纔數月不見抵三秋葉脫山新瘦沙寒水急流故人何處笛長嘯坐江樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄密城李使君
+  author: 韓脩
+  language: lzh
+  text: 極目望南州。西風意轉悠。相違纔數月。不見抵三秋。葉脫山新瘦。沙寒水急流。故人何處笛。長嘯坐江樓。
+korean:
+  title: 기 밀성 이 사군
+  author: 한수
+  language: kor
+  text: |-
+    멀리 남쪽 고을을 바라보니
+    서녘바람에 생각이 더욱 아득하네
+    서로 이별한 지 겨우 두어 달이건만
+    보지 못 한 것이 삼추 같네
+    나뭇잎이 다 지니 산이 새로 파리해지고
+    모래는 찬데 물은 급히 흐르네
+    자네는 어디서 피리 불며
+    긴 파람 강다락에 앉아 있는고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: Letter to Administrator Yi of Mil Fortress
+  author: Han Su
+  language: eng
+  text: |-
+    Gazing far toward the southern province,
+    Western winds stir my thoughts into distant reverie.
+    Though we parted only months ago,
+    The time without you stretches like three full autumns.
+
+    Leaves fallen, the mountains grow lean and bare,
+    Sand turns cold as waters rush their course.
+    Where does my old friend sit now,
+    Piping long whistles on some river tower?
+  footnotes:
+  - key: ''
+    value: The 'three autumns' (三秋) is a classical expression meaning that a short time feels impossibly long when separated from someone dear.
+  - key: ''
+    value: Administrator Yi (李使君) was likely a friend or colleague of Han Su serving in the Mil Fortress region, and this poem conveys the ache of separation despite only a brief parting.

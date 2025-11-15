@@ -1,0 +1,46 @@
+canonical:
+  title: 偶題
+  author: 鄭夢周
+  language: lzh
+  text: 今日知何日春風動客衣人遊千里遠鴈過故山飛許國寸心苦感時雙淚揮登樓莫回首芳草正菲菲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偶題
+  author: 鄭夢周
+  language: lzh
+  text: 今日知何日。春風動客衣。人遊千里遠。鴈過故山飛。許國寸心苦。感時雙淚揮。登樓莫回首。芳草正菲菲。
+korean:
+  title: 우제
+  author: 정몽주
+  language: kor
+  text: |-
+    오늘이 무슨 날인고
+    봄바람이 객의 옷을 날리네
+    사람은 천 리에 놀아 멀어졌고
+    기러기는 고국의 산을 지나 나네
+    나라에 바친 촌심은 괴로운데
+    시절을 느끼어 두 줄기 눈물을 뿌리네
+    누에 올라 머리를 돌리지 말지라
+    꽃다운 풀이 바로 우거지고 우거졌네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0340&viewSync=OT
+  footnotes: []
+english:
+  title: A Casual Verse
+  author: Jeong Mong-ju
+  language: eng
+  text: |-
+    What day is this that dawns before me?
+    Spring wind stirs the traveler's robe.
+    A man wanders a thousand leagues away,
+    while wild geese pass over the mountains of home.
+
+    My heart's devotion to my country aches—
+    feeling the weight of this season, tears fall in streams.
+    Climb the tower, but do not look back:
+    the fragrant grasses grow thick and ever thicker.
+  footnotes:
+  - key: ''
+    value: The poem explores themes of exile, homesickness, and political loyalty—concerns particularly acute for Korean intellectuals of the Goryeo-Joseon transition period in which Jeong Mong-ju lived.
+  - key: ''
+    value: The injunction against looking back suggests both the impossibility of return and the necessity of accepting one's separation from home and homeland.

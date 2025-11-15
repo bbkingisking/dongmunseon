@@ -1,0 +1,49 @@
+canonical:
+  title: 碧松亭
+  author: 權採
+  language: lzh
+  text: 碧松亭下華山陲雲淡風輕日正遲宛似羲之脩禊處還如點也詠歸時斜陽影裏傳觴急長笛聲中舞袖垂嗟我不才參席末斯文高會共論詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 碧松亭
+  author: 權採
+  language: lzh
+  text: 碧松亭下華山陲。雲淡風輕日正遲。宛似羲之脩禊處。還如點也詠歸時。斜陽影裏傳觴急。長笛聲中舞袖垂。嗟我不才參席末。斯文高會共論詩。
+korean:
+  title: 벽송정
+  author: 권채
+  language: kor
+  text: |-
+    벽송정 아래 삼각산 밑에
+    맑은 구름 가벼운 바람 해도 더디게 가네
+    왕희지 계를 닦던 곳과 똑같은 모임
+    증점이 읊고 돌아오던 바로 그때
+    석양 그림자 속에 술잔 돌리기 급하고
+    긴 젓대소리에 춤추는 소매가 너울너울
+    나는 글재주도 없이 자리 끝에 참여하여
+    선배들 높은 모임에 함께 시를 논하누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0810&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 벽송정(碧松亭) : '
+    value: 서울 성균관(成均館) 북쪽에 있었던 정자. 소나무가 울창했다.
+english:
+  title: The Pavilion of Jade Pines
+  author: Gwon Chae
+  language: eng
+  text: |-
+    Beneath the Jade Pine Pavilion, at the foot of Three Corners Mountain,
+    Clear clouds drift, soft winds blow—yet the sun moves slow.
+    Like the refined gathering where Xizhi once purified himself,
+    Recalling the moment when Zengzi sang of homecoming.
+    In the slanting light of dusk, cups are passed in haste,
+    While long flute notes accompany the flowing sleeves of dancers.
+    I, lacking all talent, take my place at the table's end,
+    Yet join these worthy masters in discourse upon poetry.
+  footnotes:
+  - key: ''
+    value: Xizhi (王羲之) refers to Wang Xizhi, the renowned fourth-century calligrapher, whose purification gathering (修禊) on the spring equinox became a celebrated literary event in Chinese tradition.
+  - key: ''
+    value: Zengzi (點) is a reference to Zengcan, one of Confucius's principal disciples, known for his virtue. The allusion draws on the Analects passage where he sings of returning home.
+  - key: ''
+    value: The Jade Pine Pavilion was a famous pavilion north of the Sungkyunkwan in Seoul, known for its dense pine groves and as a gathering place for scholars.

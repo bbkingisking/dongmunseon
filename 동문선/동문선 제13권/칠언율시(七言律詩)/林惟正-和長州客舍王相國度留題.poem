@@ -1,0 +1,49 @@
+canonical:
+  title: 和長州客舍王相國度留題
+  author: 林惟正
+  language: lzh
+  text: 三月芳菲欲暮天純仁 閑來蓬島會神仙禹偁 隔軒松籟寒逾咽肩吾 附郭山光峭若懸范高夫 幸有淸樽堪酩酊荆公 能令佳客少留連永叔 到頭傳寫新詩句齊己篋裏新詩僅百篇孫何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和長州客舍王相國度留題
+  author: 林惟正
+  language: lzh
+  text: |-
+    三月芳菲欲暮天。純仁。 閑來蓬島會神仙。禹偁。 隔軒松籟寒逾咽。肩吾。 附郭山光峭若懸。范高夫。 幸有淸樽堪酩酊。荆公。 能令佳客少留連。永叔。 到頭傳寫新詩句。齊己。
+    篋裏新詩僅百篇。孫何。
+korean:
+  title: 장수 객사에서 상국 왕도의 유제에 화답하며
+  author: 임유정
+  language: kor
+  text: |-
+    3월 꽃 피는 봄날 저문 날씨에 순인(純仁)
+    봉래도에 한가히 와 신선들을 만났네 우칭(禹儞)
+    난간 건너 솔바람은 차도 더욱 목메고 견오(肩五)
+    성에 붙은 산빛은 천야만야 매단 듯 범고부(范高夫)
+    요행 술 있으니 곤드레 취하여 형공(荊公)
+    제법 좋은 손들이 조금 더 머무누나 영숙(永叔)
+    가는 곳마다 새 시귀를 쓰니 제기(齊己)
+    새 시가 광주리 속에 백 편이 넘었구나 손하(孫何)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0690&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to a Poem Left by Minister Wang at the Guest House in Jangsu
+  author: Lim Yujung
+  language: eng
+  text: |-
+    March blooms fade as twilight descends—
+    I wander freely to Penglai Isle and meet the immortals.
+    Beyond the railing, pine winds grow chill, the throat of the world constricts—
+    Mountain light clinging to the town walls hangs sheer as silk.
+    Fortunate to have clear wine enough to lose myself in revelry—
+    Such worthy guests linger a while longer.
+    Wherever we go, new verses spring forth—
+    In my basket lie more than a hundred fresh poems.
+  footnotes:
+  - key: ''
+    value: This poem is composed in the style of a 'harmonizing response' (화답/和答), where the poet responds to a poem by Minister Wang using a parallel structure. Each couplet is attributed to different literati, suggesting a collaborative or allusive composition.
+  - key: ''
+    value: Penglai Isle (蓬萊島) is a legendary island of immortals in East Asian mythology, here used metaphorically for a place of refined gathering and inspiration.
+  - key: ''
+    value: The accumulation of 'more than a hundred poems' emphasizes the poetic productivity and creative energy of the gathering.

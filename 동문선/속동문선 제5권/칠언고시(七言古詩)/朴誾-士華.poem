@@ -1,0 +1,84 @@
+canonical:
+  title: 士華
+  author: 朴誾
+  language: lzh
+  text: 君才在古亦無偶佳賦人人誦王粲生能富貴死泯沒雖有萬鍾吾不換歲晩被劾坐詩慵榮辱紛紛豈容惋知心獨許容齋翁醉來倡答成楚亂容齋自是天上人俗士齷齪那可伴文章高分與生俱勁氣猶能金石貫錭鎪萬象不少暇造物反爲子所翫我識二豪亦天幸論道如今百歲半相知貴在意氣合縱時不逮應恕懦尙恨簪紳各纏拘涉世茫洋迷畔岸昨日偶逢南山下袖出新詩共驚歎歸卧翠軒更一吟明月寂寂生几案
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 士華
+  author: 朴誾
+  language: lzh
+  text: 君才在古亦無偶。佳賦人人誦王粲。生能富貴死泯沒。雖有萬鍾吾不換。歲晩被劾坐詩慵。榮辱紛紛豈容惋。知心獨許容齋翁。醉來倡答成楚亂。容齋自是天上人。俗士齷齪那可伴。文章高分與生俱。勁氣猶能金石貫。錭鎪萬象不少暇。造物反爲子所翫。我識二豪亦天幸。論道如今百歲半。相知貴在意氣合。縱時不逮應恕懦。尙恨簪紳各纏拘。涉世茫洋迷畔岸。昨日偶逢南山下。袖出新詩共驚歎。歸卧翠軒更一吟。明月寂寂生几案。
+korean:
+  title: 사화
+  author: 박은
+  language: kor
+  text: |-
+    옛날에도 짝이 없는 그대의 재주
+    왕찬 같은 걸작부[佳賦]를 모두 외우네
+    생전에 부귀해도 죽어 이름 없으면
+    만종의 녹이라도 난 원치 않네
+    만년에 시 때문에 탄핵 있으니
+    분분한 영욕을 내 관심하리
+    지심의 벗은 오직 용재옹
+    취하여 주고받는 시가 다 초사
+    용재는 원래 하늘의 신선
+    악착한 속사들이 어찌 벗하리
+    문장이 천재와 노력 겸하여
+    굳센 기운이 금석도 뚫을 만하네
+    만상을 아로새겨 틈도 안 주니
+    조물이 도리어 자네 놀음감
+    두 호걸을 내가 안 것 또한 천행
+    서로 도를 논하기가 지금 반백년
+    친구의 귀함이 의기 맞는 것
+    내가 때로 못 미치나 게으름의 탓
+    아직도 한하기는 벼슬에 얽매어
+    아득한 세상 길에 갈 바를 모르는 것
+    어제 남산 밑서 우연히 만나
+    소매에서 꺼내는 시 경탄했더니
+    돌아와 취헌에서 되 읊어 보니
+    밝은 달이 적적히 책상에 비치드먼
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: On Master Sa-hwa
+  author: Park Eun
+  language: eng
+  text: |-
+    Your talent finds no equal even in ancient times,
+    Your fine verses rival those of Wang Can, learned by all.
+    Though riches may grace a living man,
+    In death without name—ten thousand bushels I would not trade for.
+
+    In your later years, impeachment came for your poetry's sake,
+    Honor and shame swirl—why should I be moved?
+    Your true friend is only the Yongjai elder,
+    Drunk, we exchange verses that rival the Songs of Chu.
+
+    Yongjai is himself a celestial immortal,
+    How could the grasping common folk be his companion?
+    Your essays blend genius with tireless craft,
+    Your vigorous spirit pierces even bronze and stone.
+
+    Carving ten thousand forms without pause,
+    Creation itself becomes your plaything.
+    That I know two such masters is fortune's grace,
+    We discuss the Way—now half a century since.
+
+    True friendship lies in harmony of spirit;
+    Though time may lag behind, forgive my sluggish nature.
+    Yet I lament how office binds us still,
+    Adrift in the vast world, losing our way.
+
+    Yesterday, by chance beneath South Mountain,
+    You drew new verses from your sleeve—we marveled together.
+    Returning to my emerald study, I read them again,
+    The bright moon settles softly on my desk.
+  footnotes:
+  - key: ''
+    value: 'Wang Can (王粲, 177-217): A celebrated poet of the Three Kingdoms period, known for his exceptional literary talent.'
+  - key: ''
+    value: 'Yongjai (容齋): Likely refers to Hong Sun-hap (홍순합), a contemporary scholar and poet esteemed for his literary and moral character.'
+  - key: ''
+    value: 'The Songs of Chu (楚亂): A reference to the Chu Ci (楚辭), the classical collection of southern Chinese poetry known for its passionate and ornate style.'

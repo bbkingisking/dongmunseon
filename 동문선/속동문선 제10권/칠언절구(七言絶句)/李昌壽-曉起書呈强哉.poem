@@ -1,0 +1,39 @@
+canonical:
+  title: 曉起書呈强哉
+  author: 李昌壽
+  language: lzh
+  text: 睡起窓扉手自推樹頭殘月尙俳佪春天漸曙林鴉散卧看靑山入戶來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 曉起書呈强哉
+  author: 李昌壽
+  language: lzh
+  text: 睡起窓扉手自推。樹頭殘月尙俳佪。春天漸曙林鴉散。卧看靑山入戶來。
+korean:
+  title: 효기 서정 강재
+  author: 이창수
+  language: kor
+  text: |-
+    자다 일어나 창문을 손수 밀쳤더니
+    나무 끝에 남은 달이 오히려 배회하네
+    봄 하늘이 점차 새고 숲까지 흩어질 제
+    누워보니 푸른 메가 지게 속에 들어오네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0590&viewSync=OT
+  footnotes: []
+english:
+  title: 'Morning Rising: A Letter to Kangzai'
+  author: Lee Chang-soo
+  language: eng
+  text: |-
+    I awake and push open the window with my own hands.
+    On the treetop, the lingering moon still lingers and wanders.
+    As spring's sky gradually brightens and the forest crows scatter,
+    Lying still, I watch the blue mountains enter through my door.
+  footnotes:
+  - key: ''
+    value: Kangzai (强哉) likely refers to the recipient of this poem, possibly a friend or fellow scholar. The title suggests this is a morning composition sent to that person.
+  - key: ''
+    value: The 'lingering moon' reflects the transition between night and dawn, a liminal moment favored in classical poetry.
+  - key: ''
+    value: The final image of mountains entering the room through an open door suggests both literal perspective and metaphorical openness—the boundary between inner and outer dissolving in the morning light.

@@ -1,0 +1,45 @@
+canonical:
+  title: 金陵懷古
+  author: 辛裔
+  language: lzh
+  text: 秋風忽上鳳凰臺一水三山活畫開欲賦六朝興廢事愧無當日謫仙才
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金陵懷古
+  author: 辛裔
+  language: lzh
+  text: 秋風忽上鳳凰臺。一水三山活畫開。欲賦六朝興廢事。愧無當日謫仙才。
+korean:
+  title: 금릉회고
+  author: 신예
+  language: kor
+  text: |-
+    가을바람에 갑자기 봉황대에 오르노니
+    일수ㆍ삼산은 산 그림을 펼쳐 있네
+    육조의 흥하고 망한 일을 시 짓자 하지만
+    그 당시의 적선의 재주 없음을 부끄러워하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 봉황대(鳳凰臺) : '
+    value: 이백(李白)이 금릉(金陵)  봉황대(鳳凰臺)에 올라서 지은 시에, ‘삼산은 반이나 푸른 하늘 밖에 떨어졌고, 두 물은 백로주(白鷺洲)를 가운데로 나누었다[三山半落靑天外 二水中分白鷺洲].’는 구절이 있다.
+  - key: '[주-D002] 육조(六朝)의 …… 망한 일 : '
+    value: 금릉에서 지은 이백은 시에, ‘육대 흥하고 망한 나라에 〈술〉 석 잔으로 너를 위해 노래한다[六代興亡國 三盃爲爾歌].’는 구절이 있다.
+  - key: '[주-D003] 적선(謫仙) : '
+    value: 적선(謫仙)은 이백을 말한 것인데, 하지장(賀知章)이 처음 이백을 보고, “자네는 천상에서 인간으로 귀양온 신선일세.” 하였으므로 그렇게 불려진 것이다.
+english:
+  title: Reflections on the Ancient Capital at Jinling
+  author: Shin Ye
+  language: eng
+  text: |-
+    Autumn wind suddenly carries me to Phoenix Tower,
+    Where a single river and three mountains unfold like living paintings.
+    I wish to compose verses on the rise and fall of the Six Dynasties,
+    Yet I blush, lacking the talent of that exiled immortal of old.
+  footnotes:
+  - key: ''
+    value: 'Phoenix Tower (鳳凰臺): A reference to Li Bai''s celebrated poem composed at this location in Jinling, which describes ''three mountains half fallen beyond the blue sky, two waters divided by White Egret Isle.'''
+  - key: ''
+    value: 'The Six Dynasties (六朝): Li Bai himself wrote of toasting ''three cups to the rise and fall of six dynasties'' in his Jinling poem.'
+  - key: ''
+    value: 'Exiled Immortal (謫仙): A poetic epithet for Li Bai, bestowed by the scholar He Zhizhang upon their first meeting, suggesting Li Bai was a celestial being banished to the mortal realm.'

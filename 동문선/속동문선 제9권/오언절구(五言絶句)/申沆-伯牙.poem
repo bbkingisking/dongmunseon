@@ -1,0 +1,35 @@
+canonical:
+  title: 伯牙
+  author: 申沆
+  language: lzh
+  text: 我自彈吾琴不須求賞音鍾期亦何物強辨絃上心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 伯牙
+  author: 申沆
+  language: lzh
+  text: 我自彈吾琴。不須求賞音。鍾期亦何物。強辨絃上心。
+korean:
+  title: 백아
+  author: 신항
+  language: kor
+  text: |-
+    내 스스로 내 거문고를 타노니
+    이 소리 알아줄 이 구하지 않는다
+    종기라는 그 어떤 인물인가
+    억지로 줄 위의 마음을 지껄이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: Bak-a
+  author: Shin Hang
+  language: eng
+  text: |-
+    I play my own zither,
+    not seeking ears to praise its sound.
+    What is this Zhong Qi to me?
+    Why force the heart upon the strings to speak?
+  footnotes:
+  - key: ''
+    value: Zhong Qi (鍾期) was a legendary figure in ancient Chinese tradition, known as the ultimate listener who understood the music of the great musician Bak-a (伯牙). This poem subverts that famous tale of musical understanding, suggesting that true artistry needs no witness.

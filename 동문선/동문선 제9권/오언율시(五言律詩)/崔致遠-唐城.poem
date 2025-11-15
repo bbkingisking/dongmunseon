@@ -1,0 +1,46 @@
+canonical:
+  title: 唐城
+  author: 崔致遠
+  language: lzh
+  text: 人事盛還衰浮生實可悲誰知天上曲來向海邊吹水殿看花處風欞對月時攀髥今已矣與爾淚雙垂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 唐城
+  author: 崔致遠
+  language: lzh
+  text: 人事盛還衰。浮生實可悲。誰知天上曲。來向海邊吹。水殿看花處。風欞對月時。攀髥今已矣。與爾淚雙垂。
+korean:
+  title: 당성
+  author: 최치원
+  language: kor
+  text: |-
+    인사란 성했다가 쇠하는 것이
+    부생이 참으로 서럽지 않은가
+    글쎄, 저 천상의 곡을
+    뉘 알았으리, 이 해변에 와 불 줄이야
+    물가 궁전에서 꽃을 보며 아뢰었었지
+    서늘한 난간에서 달을 대해 불기도 했고
+    선왕을 이제 뵈올 수 없으니
+    이 몸도 그대 더불어 눈물 줄줄 흘리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Tang Castle
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Human affairs rise in glory, then fade to dust—
+    How can this fleeting life not pierce the heart?
+    Who could have known that Heaven's melody
+    Would drift to this sea-shore and cry?
+
+    By water palaces I watched the flowers bloom,
+    Before cool railings I faced the moon's glow.
+    Those days of attending the former king are gone—
+    Now both you and I weep tears without end.
+  footnotes:
+  - key: ''
+    value: Tang Castle likely refers to a palace or fortress associated with the Tang Dynasty, serving as a meditation on imperial glory and its inevitable decline. Choi Chi-won was a Silla scholar-official (9th century) deeply influenced by Chinese culture.
+  - key: ''
+    value: The 'former king' alludes to a deceased ruler, suggesting the poet's lament over lost service and faded majesty.

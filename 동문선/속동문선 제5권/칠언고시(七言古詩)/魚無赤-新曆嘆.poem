@@ -1,0 +1,69 @@
+canonical:
+  title: 新曆嘆
+  author: 魚無赤
+  language: lzh
+  text: 我願三萬六千日判作人間兩朝夕春花一吐千年紅秋月一照千年白堯舜至今顔尙韶周孔至今頭尙黑朝聞吁咈土堦上暮見絃誦杏壇側一年黃河水再淸三歲蟠桃子屢熟太山肴核銅柱筯滄海盃樽斗杓勺聊與萬民同醉眠嗚嗚共唱康衢曲却勸紫皇詔太史萬萬年來一改曆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新曆嘆
+  author: 魚無赤
+  language: lzh
+  text: 我願三萬六千日。判作人間兩朝夕。春花一吐千年紅。秋月一照千年白。堯舜至今顔尙韶。周孔至今頭尙黑。朝聞吁咈土堦上。暮見絃誦杏壇側。一年黃河水再淸。三歲蟠桃子屢熟。太山肴核銅柱筯。滄海盃樽斗杓勺。聊與萬民同醉眠。嗚嗚共唱康衢曲。却勸紫皇詔太史。萬萬年來一改曆。
+korean:
+  title: 신력탄
+  author: 어무적
+  language: kor
+  text: |-
+    내가 바라노니 삼만 육천 날을
+    인간의 조석으로 갈라 만들기를
+    봄꽃이 천년 만에 한 번 붉어지고
+    가을달이 천년 만에 한 번 희어지고
+    요순이 지금토록 소년의 얼굴
+    주공이 지금토록 새까만 머리
+    아침에 토계에서 우불하는 소리
+    저녁엔 행단에서 현송하는 풍경
+    황하수가 일 년에 두 번을 맑고
+    반도가 삼년마다 자주 무르익고
+    태산의 안주에, 구리기둥 젓가락에
+    창해의 술잔, 북두 구기로
+    만민과 함께 취하여 자면서
+    “어와, 어와” 강구곡을 함께 부르고저
+    옥황께 권하여서 태사에게 명하여
+    만만 년에 한 번씩 책력을 고쳤으면
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0640&viewSync=OT
+  footnotes: []
+english:
+  title: Lament on the New Calendar
+  author: Eo Mu-jeok
+  language: eng
+  text: |-
+    I wish for thirty-six thousand days
+    Divided into the seasons of human life—
+    Spring flowers blooming red once every thousand years,
+    Autumn moons shining white once every thousand years.
+    Yao and Shun keep their youthful faces even now,
+    Confucius and the Duke of Zhou still have jet-black hair.
+    In the morning, sighs echo from the stone steps,
+    In the evening, the sound of chanting drifts from the scholar's grove.
+    The Yellow River runs clear twice in a year,
+    The peaches of immortality ripen again every three years.
+    With copper-handled chopsticks for Mount Tai's feast,
+    With ladles and cups from the vast sea's bounty,
+    I would sleep drunk alongside all the people,
+    Singing together, "Ah, ah!" the song of the peaceful roads.
+    Yet I would persuade the Jade Emperor to command the Grand Historian:
+    Let the calendar be reformed but once in ten thousand ages.
+  footnotes:
+  - key: ''
+    value: The thirty-six thousand days represents a complete cosmic cycle or ideal epoch.
+  - key: ''
+    value: Yao and Shun were legendary sage-kings of ancient China; the Duke of Zhou was Confucius's revered ancestor.
+  - key: ''
+    value: The stone steps and scholar's grove reference Confucian learning and virtue.
+  - key: ''
+    value: Mount Tai symbolizes abundance and cosmic significance in Chinese tradition.
+  - key: ''
+    value: The 'song of the peaceful roads' (康衢曲) references an ancient song expressing harmony and contentment among the people.
+  - key: ''
+    value: The 'Jade Emperor' and 'Grand Historian' represent celestial and earthly authority over time itself.

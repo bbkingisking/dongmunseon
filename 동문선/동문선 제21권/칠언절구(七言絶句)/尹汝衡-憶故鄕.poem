@@ -1,0 +1,37 @@
+canonical:
+  title: 憶故鄕
+  author: 尹汝衡
+  language: lzh
+  text: 水畔梅花雪裏開夜深明月上樓臺此間着我詩應妙閑跨驢兒歸去來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 憶故鄕
+  author: 尹汝衡
+  language: lzh
+  text: 水畔梅花雪裏開。夜深明月上樓臺。此間着我詩應妙。閑跨驢兒歸去來。
+korean:
+  title: 억고향
+  author: 윤여형
+  language: kor
+  text: |-
+    물가의 매화꽃은 눈 속에 피었는데
+    밤은 깊고 밝은 달은 누대에 떠오르네
+    이 속에서 내 시를 지으면 응당 묘하리라
+    한가로이 나귀 타고 돌아가련다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0420&viewSync=OT
+  footnotes: []
+english:
+  title: Remembering My Native Home
+  author: Yun Yeo-hyung
+  language: eng
+  text: |-
+    By the water's edge, plum blossoms bloom through the snow.
+    Deep in the night, the bright moon rises over the tower.
+    Here my verses should compose themselves with wonder—
+    I shall ride my donkey back home, carefree and alone.
+  footnotes:
+  - key: ''
+    value: The plum blossom (梅花) is a traditional symbol of resilience and virtue in East Asian poetry, often associated with contemplation and return. The juxtaposition of snow and blossoms emphasizes both hardship and perseverance.
+  - key: ''
+    value: The moon appearing over the tower creates an intimate nocturnal setting, a common backdrop for poetic inspiration in classical poetry.

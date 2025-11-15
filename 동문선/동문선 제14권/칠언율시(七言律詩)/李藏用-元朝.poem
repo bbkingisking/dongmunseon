@@ -1,0 +1,51 @@
+canonical:
+  title: 元朝
+  author: 李藏用
+  language: lzh
+  text: 噵宣皇澤及遐隅膚寸毫端億兆蘇聖主虛襟儒老遇朝賢拱袂壯元呼神淸雅稱千莖雪文妙爭傳萬斛珠曾仰芳猷今幸覯兾憐卑趣亦同塗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 元朝
+  author: 李藏用
+  language: lzh
+  text: 噵宣皇澤及遐隅。膚寸毫端億兆蘇。聖主虛襟儒老遇。朝賢拱袂壯元呼。神淸雅稱千莖雪。文妙爭傳萬斛珠。曾仰芳猷今幸覯。兾憐卑趣亦同塗。
+korean:
+  title: 원조
+  author: 이장용
+  language: kor
+  text: |-
+    황제의 은택을 받들어 펴서 먼 곳까지 미치오니
+    사신(使臣)의 조그만 붓끝에 만백성이 되살아나네
+    우리 성주 허심으로 유로를 대접하시고
+    조정의 현신들 공손히 장원이라 부르네
+    맑은 정신은 천 줄기 눈 같은 백발과 맞추었고
+    묘한 글은 만 괵 구슬을 다투어 전하네
+    일찍이 성화를 우러렀으나 이제 요행 뵙게 되었으니
+    낮은 인품 가엾게 여겨 함께 데려가 주시길
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: A New Era
+  author: Lee Jang-yong
+  language: eng
+  text: |-
+    The Emperor's grace unfolds, reaching to the farthest corners—
+    From the envoy's finest brush, ten thousand souls are reborn.
+    Our sage lord receives the scholars of old with open heart,
+    While courtly worthies bow and cry out, "Long live the Yuan!"
+
+    Clear spirit matches a thousand stalks of snow-white hair,
+    Wondrous words compete to pass on ten thousand pearls.
+
+    Long have I revered your virtuous deeds from afar,
+    Now, by fortune's grace, I stand before your face.
+    I beg you, view this humble heart with compassion too—
+    Let it follow the same path as all those greater souls.
+  footnotes:
+  - key: ''
+    value: The poem celebrates the new reign (元朝 refers to a new dynasty or era of rule) and the emperor's benevolent governance.
+  - key: ''
+    value: The reference to the "envoy's brush" (使臣) suggests the poet may be writing in an official or ceremonial capacity, witnessing or participating in imperial proceedings.
+  - key: ''
+    value: The imagery of "snow-white hair" and "pearls" are traditional poetic symbols for wisdom and precious virtue in East Asian literary tradition.

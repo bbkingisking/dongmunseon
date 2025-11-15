@@ -1,0 +1,60 @@
+canonical:
+  title: 靈通寺僧貯山泉封寄見戱
+  author: 朴公襲
+  language: lzh
+  text: 有客來相過囊空欠一錢本求廬阜酒謾得惠山泉虎伏林中石蛇懸壁上弦屠門猶大嚼何况對尊前
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靈通寺僧貯山泉封寄見戱
+  author: 朴公襲
+  language: lzh
+  text: 有客來相過。囊空欠一錢。本求廬阜酒。謾得惠山泉。虎伏林中石。蛇懸壁上弦。屠門猶大嚼。何况對尊前。
+korean:
+  title: 영통사의 중이 산중의 샘물을 병에 담아 봉하여 희롱으로 보내었기에
+  author: 박공습
+  language: kor
+  text: |-
+    손님이 모처럼 찾아왔는데
+    주머니 비어 돈 한 푼도 없기에
+    여부의 술이 정말 아쉬었더니
+    혜산의 샘물만 숫제 보내주다니
+    범이 엎드린 건 수풀 속의 돌
+    뱀이 걸렸는가, 벽 위의 활
+    고깃집 문에서도 크게 입노릇하거든
+    하물며 큼직한 병을 맞대하여 앉았노니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여부(盧阜) : '
+    value: 여산(盧山)을 말한다. 동진(東晋) 때 혜원(惠遠)이 여산에서 연사(蓮社)를 결성(結成)하여 도연명(陶淵明)에게 입사(入社)를 청하니, 연명이 말하기를, “술마시기를 허락하면 들어가겠다.” 하였다.
+  - key: '[주-D002] 혜산(惠山)의 샘물 : '
+    value: 혜산(惠山)은 중국에 있는 산. 그 산 밑에 세 못[池]이 있는데, 맑고 맛이 좋다. 부근의 주민들이 그 샘물로 술을 빚어 혜천주(慧泉酒)라 이르는데, 맛이 청렬 (淸冽)하다.
+  - key: '[주-D003] 범이 …… 수풀 속의 돌 : '
+    value: “한(漢)나라 이광(李廣)이 사냥 나갔다가 풀 속의 돌을 보고 범인 줄 알고 쏘았더니 살이 박히기에 가서 보니 돌이었다. 《漢書 李廣傳》
+  - key: '[주-D004] 뱀이 …… 활 : '
+    value: 술을 마시다가 벽 위에 걸린 활이 잔에 비친 것을 뱀으로 알고 병이 났다는 고사(古事). 《晋書 樂廣傳》
+  - key: '[주-D005] 고깃집 …… 입노릇 : '
+    value: 사람들이 장안이 즐겁다는 말을 들으면 문에 나가서 서쪽을 향해 웃고, 고기 맛이 좋다 하면 고깃집 문간을 대하여 씹는다. 《桓潭新論》
+english:
+  title: A Monk of Yeongtong Temple Sends Mountain Spring Water Sealed in a Jar as a Jest
+  author: Park Gong-seup
+  language: eng
+  text: |-
+    A guest has come to visit at last,
+    yet my purse hangs empty, not a coin to spare.
+    I longed for Lushan's wine so fine,
+    yet here arrives Huishan's spring instead.
+
+    A tiger lies coiled on stone in the grove—
+    or is it a serpent strung like a bow on the wall?
+    Even at the butcher's gate men gape and chew,
+    so what marvel to sit before such bounty?
+  footnotes:
+  - key: ''
+    value: 'Lushan (盧山): A mountain in China where the Buddhist monk Huiyuan established the Lotus Society during the Eastern Jin dynasty. The poet Tao Yuanming famously agreed to join only on the condition that wine-drinking would be permitted.'
+  - key: ''
+    value: 'Huishan spring: A mountain spring in China renowned for its pure, crystalline water. The local people brew it into Huiquan wine (慧泉酒), celebrated for its refreshing clarity.'
+  - key: ''
+    value: 'The tiger on stone: An allusion to General Li Guang of the Han dynasty, who mistook a stone in the grass for a tiger and shot an arrow so forcefully that it became embedded in the stone.'
+  - key: ''
+    value: 'The serpent as a bow: A reference to a famous tale in which a bow hanging on a wall was reflected in a wine cup, causing a guest to mistake it for a serpent and fall ill from fright.'

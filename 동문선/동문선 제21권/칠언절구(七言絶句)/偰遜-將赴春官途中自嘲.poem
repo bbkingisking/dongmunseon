@@ -1,0 +1,48 @@
+canonical:
+  title: 將赴春官途中自嘲
+  author: 偰遜
+  language: lzh
+  text: 蕭條霜雪滿脩途慘惔風雲屬老儒杜甫常懷憂國志賈生重上治安書扁舟短棹江南客歲暮天寒愁殺人好去明年謁天子宮華分得殿頭春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 將赴春官途中自嘲
+  author: 偰遜
+  language: lzh
+  text: 蕭條霜雪滿脩途。慘惔風雲屬老儒。杜甫常懷憂國志。賈生重上治安書。扁舟短棹江南客。歲暮天寒愁殺人。好去明年謁天子。宮華分得殿頭春。
+korean:
+  title: 장부춘관도중자조
+  author: 설손
+  language: kor
+  text: |-
+    쓸쓸한 서리와 눈이 긴긴 길에 가득하여
+    스산한 바람과 구름은 늙은 선비에 속하였네
+    두보는 항상 나라 걱정하는 마음을 품었었고
+    가생은 치안서 거듭 올렸도다
+    조각배 짧은 돛대로 강남의 손이거니
+    해 저물고 하늘이 차 사람의 애 끊는다
+    가기 좋아하여 명년에는 천자를 뵈오리니
+    궁중의 봄꽃을 나누어 얻으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두보(杜甫) : '
+    value: 난세를 만나서 시(詩)에 우국(憂國)하는 글이 많다.
+english:
+  title: Self-Mockery on the Way to the Ministry of Spring Rites
+  author: Seol Son
+  language: eng
+  text: |-
+    Desolate frost and snow fill the long road ahead,
+    Chill winds and clouds attend the aging scholar.
+    Du Fu forever carried concern for his nation,
+    Jia Yi once more submitted his treatise on governance.
+
+    I am but a river merchant with a small boat and humble sail,
+    As the year dies and heaven grows cold, sorrow pierces the heart.
+    Yet I go forth gladly to await an audience with the Son of Heaven—
+    Maybe I too shall gain a share of the spring blossoms in the palace.
+  footnotes:
+  - key: ''
+    value: Du Fu, the Tang poet, was known for his verse lamenting the fate of the nation amid turbulent times. Jia Yi, the Han statesman, submitted his famous 'Treatise on Safety and Stability.' The poem alludes to these historical figures of conscience and ambition as the poet embarks on his own journey to court.
+  - key: ''
+    value: The 'spring blossoms in the palace' symbolizes imperial favor and a share in government service.

@@ -1,0 +1,97 @@
+canonical:
+  title: 流水辭
+  author: 李穡
+  language: lzh
+  text: 水之趨兮惟下日百折兮不舍不入于海兮何科之停盈必進兮誰稅其駕彼行潦之靡不源兮尙逞威於大雨之炎夏也勢暫似兮旋踵猶足夸於鄙者也吾寧不食於井之渫兮大虛日星之倒寫也矧雜穢之不幷兮夫何滌而何瀉也毋航斷港兮恐其窒也毋踵弱水兮恐其溺也迺從而亂之曰性一兮淑慝之胡形才一兮取舍之是嬰澗泉之幽幽江海之冥冥我歌其中兮鬢毛之星星千載有人兮有耳其聆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 流水辭
+  author: 李穡
+  language: lzh
+  text: 水之趨兮惟下。日百折兮不舍。不入于海兮何科之停。盈必進兮誰稅其駕。彼行潦之靡不源兮。尙逞威於大雨之炎夏也。勢暫似兮旋踵。猶足夸於鄙者也。吾寧不食於井之渫兮。大虛日星之倒寫也。矧雜穢之不幷兮。夫何滌而何瀉也。毋航斷港兮恐其窒也。毋踵弱水兮恐其溺也。迺從而亂之曰。性一兮淑慝之胡形。才一兮取舍之是嬰。澗泉之幽幽。江海之冥冥。我歌其中兮。鬢毛之星星。千載有人兮。有耳其聆。
+korean:
+  title: 유수사
+  author: 이색
+  language: kor
+  text: |-
+    물은 오직 아래로만 흘러
+    백 번 꺾여도 그냥 내리네
+    바다에 들지 않곤 어느 웅덩이엔들 멈추리
+    웅덩이를 채우고는 나아가니
+    누가 그 멍에를 풀어 쉬게 할꼬
+    길가 구덩이에 고인 물도 근원이 없지 아니하여
+    한 여름 비에 위력을 뽐내나니
+    금방 말라질 듯하다가 곧 이어지니
+    어리석은 자에 자랑할 만하네
+    우물을 쳐 깨끗이 한 물을 내 어이 먹지 않으랴
+    하늘의 해와 별이 거꾸로 비쳤구나
+    더러운 잡물이 안 섞인 물을
+    왜 쳐 내며 왜 쏟아버릴꼬
+    막다른 항구에 항행치 마소
+    막힐까 두려워하네
+    약수를 밟지 마소
+    빠질까 두렵네
+    이에 종장(終章)으로 이르노니
+    천성이 하나인데 선ㆍ악이 어찌나 상대되나
+    재주는 하나인데 취하고 버림에 걸리누나
+    시냇물 샘물은 졸졸
+    강과 바다는 출렁출렁
+    내 그 가운데 노래하니
+    귀밑 털 희끗희끗
+    천 년 뒤에 오는 사람
+    귀 있거든 들으소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0040_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 웅덩이를 …… 나아가니 : '
+    value: 물은 웅덩이에 찬 뒤에 나아간다[盈科而後進]. 과(科)는 구덩이[坎]의 뜻. 《맹자》
+  - key: '[주-D002] 누가 …… 할꼬 : '
+    value: 달리는 말의 멍에를 풀어 쉬게 함. “사물이 극하면 쇠하나니, 나는 멍에를 풀 바를 모르노라[物極則衰 吾未知所稅駕也].” 《사기》
+  - key: '[주-D003] 우물을 …… 물[井渫] : '
+    value: 우물이 이미 준설(浚渫)됨. 스스로 몸가짐을 깨끗이 함의 비유. 설(渫)은 더럽고 흐린 것을 쳐 버려 깨끗이 함이다. 《주역》 정괘(井卦)에 “깨끗한 우물 물 먹지 않으니 마음 슬프다[井渫不食 爲我心惻].” 하였다.
+  - key: '[주-D004] 약수(弱水) : '
+    value: 부력(浮力)이 약하여 새 털도 가라앉는다 한다.
+english:
+  title: On Flowing Water
+  author: Lee Saek
+  language: eng
+  text: |-
+    Water seeks only downward,
+    Bent a hundred times yet never ceasing its descent.
+    Without reaching the sea, what depression would hold it?
+    It fills each hollow, then presses on—
+    Who could loosen the reins that bind such persistence?
+
+    Even the roadside puddle traces back to some source,
+    Flaunting its power in the torrents of summer rain.
+    Yet its glory withers and vanishes in moments,
+    Barely worthy of boasting to the ignorant.
+
+    Why should I not drink from a well that has been cleansed?
+    There the sun and stars are mirrored upside down.
+    Why would one silt and discard such purity,
+    Uncontaminated by the world's refuse?
+
+    Do not chart your course through the broken harbor—
+    Fear it will clog and trap you.
+    Do not tread the weakened waters—
+    Fear you will sink and drown.
+
+    And so I sing in the final verse:
+    Nature is one, yet goodness and evil take form—how?
+    Talent is one, yet grasping and release entangle it—why?
+
+    The mountain spring murmurs soft and low,
+    The rivers and seas roll on in silence.
+    I sing my song among them,
+    My temples graying like stars.
+
+    In a thousand years, should one come after,
+    Let him listen with ears that hear.
+  footnotes:
+  - key: ''
+    value: The phrase 'fills each hollow, then presses on' alludes to Mencius's teaching that water must fill each depression before advancing further—a metaphor for moral development.
+  - key: ''
+    value: The image of the well that has been cleansed invokes the I Ching's Well hexagram, suggesting self-cultivation and clarity of purpose.
+  - key: ''
+    value: The 'weakened waters' refer to legendary waters of such low density that even feathers sink—a paradox representing spiritual danger disguised as apparent weakness.

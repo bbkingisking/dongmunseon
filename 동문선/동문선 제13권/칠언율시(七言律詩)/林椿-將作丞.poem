@@ -1,0 +1,51 @@
+canonical:
+  title: 將作丞
+  author: 林椿
+  language: lzh
+  text: 蟬貂七葉盛西都光祿宜爲烈丈夫映世片心淸似水致君忠膽大於軀驥馳挾路爭駑馬虎出空山舞孽狐正是風流今頓盡幾令多士涕冰鬚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 將作丞
+  author: 林椿
+  language: lzh
+  text: 蟬貂七葉盛西都。光祿宜爲烈丈夫。映世片心淸似水。致君忠膽大於軀。驥馳挾路爭駑馬。虎出空山舞孽狐。正是風流今頓盡。幾令多士涕冰鬚。
+korean:
+  title: 김열보를 애도하다[悼金閱甫] 열보가 벼슬이 장작 승
+  author: 임춘
+  language: kor
+  text: |-
+    일곱 대 선초 가문이 서도에 번영했는데
+    광록은 과연 열장부
+    세상을 비추는 한 조각 맘은 맑은 물 같았고
+    임금 위하는 충성된 담은 몸보다도 컸었지
+    준마가 좁은 길에 달리면 노마가 가래기도 하고
+    범이 산에서 떠나면 요사스러운 여우가 춤추것다
+    그대의 그 풍류 이제 그만 없어지니
+    천하의 몇몇 선비들 눈물이 수염을 얼우는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 일곱 대(代) …… 번영했는데 : '
+    value: 서한(西漢) 때에 장안세(長安世)의 집이 칠대(七代)로 선초(蟬貂)를 다는 귀족(貴族)이었다.
+english:
+  title: In Mourning for Kim Yeol-bo, Chamberlain of the Imperial Works
+  author: Im Chun
+  language: eng
+  text: |-
+    Seven generations of noble house bloomed in the western capital,
+    And the Minister of State was surely a man of valor.
+    A heart reflecting the world, pure as running water,
+    With loyalty to his lord greater than his mortal frame.
+
+    When the swift steed gallops through narrow paths,
+    Even the sluggish horse struggles to keep pace.
+    When the tiger leaves the mountain's solitude,
+    The fox may dance where it once cowered.
+
+    Now that grace and elegance have faded from this world,
+    How many scholars weep until their beards turn frost.
+  footnotes:
+  - key: ''
+    value: The opening alludes to the seven generations of the Chang'an house during the Western Han, whose members successively held the prestigious rank indicated by the cicada and marten insignia—symbols of high nobility.
+  - key: ''
+    value: The swift steed and tiger are metaphors for the deceased's exceptional talent and virtue; the sluggish horse and fox represent lesser figures who now rise in his absence.

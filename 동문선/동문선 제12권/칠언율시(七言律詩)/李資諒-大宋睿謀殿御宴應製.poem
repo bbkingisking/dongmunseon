@@ -1,0 +1,54 @@
+canonical:
+  title: 大宋睿謀殿御宴應製
+  author: 李資諒
+  language: lzh
+  text: 鹿鳴嘉宴會賢良仙樂洋洋出洞房天上賜花頭上艷盤中宣橘袖中香黃河再報千年瑞綠醑輕浮萬壽觴今日陪臣參盛際願歌天保永無忘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大宋睿謀殿御宴應製
+  author: 李資諒
+  language: lzh
+  text: 鹿鳴嘉宴會賢良。仙樂洋洋出洞房。天上賜花頭上艷。盤中宣橘袖中香。黃河再報千年瑞。綠醑輕浮萬壽觴。今日陪臣參盛際。願歌天保永無忘。
+korean:
+  title: 대송 예모전 어연에서 조에 응하여 지음
+  author: 이자량
+  language: kor
+  text: |-
+    녹명을 노래하는 잔치에 현량들 모였는데
+    지화자 선악이 골방에서 나오네
+    하늘 위(황제)에서 주신 꽃은 머리 위에 빛나고
+    소반 가운데 내리신 귤은 소매 속에 감추니 향기롭네
+    황하가 다시 맑으니 천 년의 상서
+    푸른 술 떠 있네 만수를 비옵는 잔에
+    오늘 배신이 태평성대를 만나오니
+    원컨대 천보를 읊어 길이 잊지 않기를
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 녹명(鹿鳴) : '
+    value: 《시경》의 편이름인데, 신하와 아름다운 손을 모아 잔치하는 노래이다.
+  - key: '[주-D002] 황하(黃河)가 …… 상서(祥瑞) : '
+    value: 황하수(黃河水)가 누렇고 탁한데, 천 년(千年)만에 한 번씩 맑으면 반드시 성군(聖君)이 나서 태평성대(太平聖代)가 온다는 말이 있다.
+  - key: '[주-D003] 천보(天保) : '
+    value: 《시경》의 편이름인데, 신하가 임금을 축수(祝壽)하는 내용이다.
+english:
+  title: Composed in Response to an Imperial Banquet at the Ruismartial Hall of Great Song
+  author: Lee Ja-ryang
+  language: eng
+  text: |-
+    At the banquet of the Deer Call, worthy men gather near,
+    Celestial music echoes forth from the inner chamber clear.
+    Flowers gifted from on high adorn the royal brow,
+    Mandarin oranges on the table scent the sleeves we bow.
+
+    The Yellow River runs pure again—a thousand years of grace,
+    Green wine floats high in vessels raised to honor's place.
+    Today, though lowly minister, I witness glory's height,
+    And sing the Song of Heaven's Blessing, eternal in its light.
+  footnotes:
+  - key: ''
+    value: The Deer Call (鹿鳴) is a poem from the Book of Songs celebrating gatherings of worthy officials and auspicious occasions.
+  - key: ''
+    value: In Chinese tradition, the Yellow River runs clear only once in a thousand years, signifying the arrival of a sage ruler and an era of great peace.
+  - key: ''
+    value: The Song of Heaven's Blessing (天保) is another poem from the Book of Songs, wherein ministers offer felicitations and blessings upon their sovereign.

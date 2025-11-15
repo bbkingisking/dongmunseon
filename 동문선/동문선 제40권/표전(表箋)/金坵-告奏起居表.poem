@@ -1,0 +1,33 @@
+canonical:
+  title: 告奏起居表
+  author: 金坵
+  language: lzh
+  text: 濟濟萬方之生齒無遠不宗煕煕千載之息肩自今爲始適當華節之旋返倍貢葵心之向傾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 告奏起居表
+  author: 金坵
+  language: lzh
+  text: 濟濟萬方之生齒。無遠不宗。煕煕千載之息肩。自今爲始。適當華節之旋返。倍貢葵心之向傾。
+korean:
+  title: 알리고 안부하는 글
+  author: 김구
+  language: kor
+  text: 하고 많은 만방의 생명이 멀어도 우러르지 않는 자 없고, 평화로운 천년의 식견(息肩)은 이제부터 시작됩니다. 마침 화사(華使)의 돌아감을 당하여, 더욱 해를 향하는 규심(葵心)을 바칩니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0430_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 식견(息肩) : '
+    value: 짐을 내려놓고 어깨를 쉼. 《좌전》 양공(襄公) 2년에, “자사(子駟)가 진(晉)나라에서 식견(息肩)하기를 청하였다.” 하였다.
+  - key: '[주-D002] 규심(葵心) : '
+    value: 규(葵)는 해바라기를 말한 것이다. 해바라기의 성질이 태양을 향하여 기울어지므로 신하가 임금에게 심력(心力)을 기울여 충신하는 데 비유하여 쓴다.
+english:
+  title: Memorial of Tidings and Respects
+  author: Kim Gu
+  language: eng
+  text: Vast multitudes across the realm—none so distant that they do not revere. Peaceful repose of a thousand ages now begins from this moment. As the envoy from the civilized court returns, I offer anew the sunflower's heart, forever turned toward its radiant source.
+  footnotes:
+  - key: ''
+    value: The 'envoy from the civilized court' (華使) refers to the Chinese diplomatic mission; this reflects the tributary relationship of the period.
+  - key: ''
+    value: The 'sunflower's heart' is a classical metaphor for the loyal subject's devotion to the ruler, just as the sunflower perpetually turns toward the sun.

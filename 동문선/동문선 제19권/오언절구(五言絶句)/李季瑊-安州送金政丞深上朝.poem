@@ -1,0 +1,37 @@
+canonical:
+  title: 安州送金政丞深上朝
+  author: 李季瑊
+  language: lzh
+  text: 朔雪滿平野凍雲低古關聊將一盃酒出郭送征鞍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 安州送金政丞深上朝
+  author: 李季瑊
+  language: lzh
+  text: 朔雪滿平野。凍雲低古關。聊將一盃酒。出郭送征鞍。
+korean:
+  title: 안주에서 정승 김심이 중국에 사신 감을 전송하며
+  author: 이계감
+  language: kor
+  text: |-
+    차가운 눈은 평야에 가득하고
+    언 구름은 옛 관문 위에 낮다
+    애오라지 한 잔의 술로
+    성곽을 나가 먼 길 행차를 보내노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0400&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell to Minister Kim Sim at Anjou, Sent on His Mission to the Capital
+  author: Lee Gyejeam
+  language: eng
+  text: |-
+    Snow fills the northern plain so cold,
+    Frozen clouds hang low above the ancient gate.
+    With nothing but a cup of wine in hand,
+    I venture beyond the walls to bid farewell to his distant journey.
+  footnotes:
+  - key: ''
+    value: The 'ancient gate' refers to a frontier pass, symbolizing the boundary between home and the unknown path ahead.
+  - key: ''
+    value: The single cup of wine represents the humble but sincere gesture of farewell, a common motif in East Asian poetry for seeing off travelers or officials on important missions.

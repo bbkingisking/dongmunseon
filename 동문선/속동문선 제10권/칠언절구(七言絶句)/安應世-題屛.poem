@@ -1,0 +1,37 @@
+canonical:
+  title: 題屛
+  author: 安應世
+  language: lzh
+  text: 征鴈來時歲事闌一天秋影可江干世間奔走人空老湖海衡門我獨關
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題屛
+  author: 安應世
+  language: lzh
+  text: 征鴈來時歲事闌。一天秋影可江干。世間奔走人空老。湖海衡門我獨關。
+korean:
+  title: 제병
+  author: 안응세
+  language: kor
+  text: |-
+    기러기 돌아올 제 이해는 늦어가고
+    하늘 가득 가을 그림자 강가에 내 왔노라
+    세간에 분주타가 부질없이 늙었기로
+    호해 위 싸리문을 내 홀로 닫았다오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0330&viewSync=OT
+  footnotes: []
+english:
+  title: On a Folding Screen
+  author: An Eung-se
+  language: eng
+  text: |-
+    When the wild geese return, the year draws to a close.
+    A sky full of autumn shadows descends upon the river's edge.
+    In this world, men rush about and grow old for nothing—
+    So I have locked shut the brushwood gate by the lake, alone.
+  footnotes:
+  - key: ''
+    value: The 'brushwood gate' (衡門) is a traditional image of reclusive simplicity and withdrawal from worldly affairs.
+  - key: ''
+    value: The folding screen (屛) was a common artistic medium for Korean literati to inscribe poetry, often depicting landscapes or seasons.

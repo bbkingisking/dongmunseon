@@ -1,0 +1,74 @@
+canonical:
+  title: 胡若海照磨
+  author: 李存吾
+  language: lzh
+  text: 南省郞官聘我邦風儀瀟洒已心降主人寵迫彤弓一門客知深白璧雙禹貢山川猶戰伐箕封民俗自淳厖秋風不識留君意直送飛艎到浙江遠遊看盡好山川却掛雲帆思渺然觀禮曾聞吳季札乘査還憶漢張騫扶桑出日明台嶺渤海洪濤接越天一笑相逢何處是更期天下會同年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 胡若海照磨
+  author: 李存吾
+  language: lzh
+  text: 南省郞官聘我邦。風儀瀟洒已心降。主人寵迫彤弓一。門客知深白璧雙。禹貢山川猶戰伐。箕封民俗自淳厖。秋風不識留君意。直送飛艎到浙江。遠遊看盡好山川。却掛雲帆思渺然。觀禮曾聞吳季札。乘査還憶漢張騫。扶桑出日明台嶺。渤海洪濤接越天。一笑相逢何處是。更期天下會同年。
+korean:
+  title: 태주로 돌아가는 호약해 조마
+  author: 이존오
+  language: kor
+  text: |-
+    남성의 낭관이 이 나라에 사자로 오니
+    그 말쑥한 풍채와 거동 누구나 다 탄복하네
+    임금의 극진한 총애는 붉은 활 하나를 내렸고
+    문객의 알뜰한 지우는 흰 구슬 한 쌍
+    우공 산천은 전쟁이 한창인데
+    기역의 풍속은 자래로 순박하네
+    가을 바람이 석별의 뜻을 몰라주어
+    탄 배를 곧 바로 불어 절강까지 보내누나
+    멀리 놀아 좋은 산천을 다 보고서
+    돌아갈 배 타고 앉으니 생각도 아득하리
+    예를 보니 옛날 오의 계찰이요
+    떼를 타니 한대의 장건인가
+    부상에 솟는 해는 태령을 비추고
+    발해의 큰 물결은 월나라 하늘에 닿았구나
+    어디서 우리 다시 웃으며 만나리
+    온 천하 회동하는 해 그 때를 기다리세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 붉은 활[彤弓] : '
+    value: 동궁(彤弓)은 붉은 활인데, 주(周)나라 때에 제후(諸侯)가 전공(戰功)이 있으면, 천자(天子)가 동궁을 주는 것이다.
+  - key: '[주-D002] 흰 구슬[白璧]한 쌍 : '
+    value: 전국(戰國) 때에 우경(虞卿)이 조왕(趙王)을 보았더니 한 번 보자 조왕이 백벽(白璧) 한 쌍을 주었다.
+  - key: '[주-D003] 오(吳)의 계찰(季扎) : '
+    value: 춘추(春秋)때 오(吳)의 왕자 계찰이 어진 이름이 있어 여러 나라를 역방했으며, 노(魯)를 방문하여 주(周)의 예악(禮樂)을 보고 열국(列國)의 치란(治亂)  흥쇠(興衰)를 알았다.
+english:
+  title: Farewell to Ho Yak-hae, Returning to Taeju
+  author: Lee Joon-oh
+  language: eng
+  text: |-
+    An emissary from the Southern Court comes to our realm,
+    His elegant bearing and graceful presence command all hearts.
+    The sovereign's favor bestows upon him the crimson bow,
+    While courtiers offer white jade—tokens of their regard.
+
+    The lands of Yu's tribute still echo with war's tumult,
+    Yet Ki's people remain simple in their ancient ways.
+    Autumn winds care not for parting's bitter ache,
+    As your vessel speeds onward toward the Zhe River's distant shore.
+
+    After wandering far through mountains and rivers bright,
+    You sit aboard your returning ship, thoughts growing vast and vague.
+    You have walked where Wu's noble Ji-zha once journeyed,
+    And now you ride where Han's great Zhang Qian once traveled.
+
+    The sun rises from Fusang to illuminate Tai Peak,
+    While the great waves of Bohai touch the sky of Yue.
+    Where shall we meet again and laugh together?
+    I await the day when all under heaven gathers as one.
+  footnotes:
+  - key: ''
+    value: The crimson bow (彤弓) was a gift bestowed by Zhou sovereigns upon feudal lords for meritorious service.
+  - key: ''
+    value: White jade (白璧) was a treasured gift given to distinguish guests and honored visitors.
+  - key: ''
+    value: Ji-zha of Wu was a noble prince of the Spring and Autumn period known for his travels through various kingdoms to study their governance and observe the rituals and music of Zhou.
+  - key: ''
+    value: Zhang Qian was the celebrated Han Dynasty envoy and explorer known for his pioneering journeys westward.

@@ -1,0 +1,47 @@
+canonical:
+  title: 兜率院樓
+  author: 金富軾
+  language: lzh
+  text: 末俗區區不自閑仲宣樓上獨開顔路隨地勢相高下人向官橋自往還雨後春容粧樹木朝來爽氣襲江山野田農叟不須避我欲和光混世間
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 兜率院樓
+  author: 金富軾
+  language: lzh
+  text: 末俗區區不自閑。仲宣樓上獨開顔。路隨地勢相高下。人向官橋自往還。雨後春容粧樹木。朝來爽氣襲江山。野田農叟不須避。我欲和光混世間。
+korean:
+  title: 도솔원루
+  author: 김부식
+  language: kor
+  text: |-
+    말속이 구구하게 모두 부산한데
+    나 혼자 중선 다락에 올라 얼굴을 펴네
+    길은 지세를 따라 높으락 낮으락
+    사람은 궁다리를 향하여 오락 가락한다
+    비온 뒤에 봄은 나무들을 단장하여
+    아침 날 상쾌한 기운이 강산을 엄습하네
+    산야의 늙은 농부 나를 굳이 피하지 마소
+    이 나도 화광하여 세상에 섞여 살려네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화광(和光) : '
+    value: 《노자(老子)》에, “그 빛을 혼동하게 하며 그 먼지를 같이한다[和光同塵].”는 말이 있는데, 세상과 화합하여 다른 체하지 않음을 뜻한다.
+english:
+  title: The Tower of Tusita Garden
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The vulgar world rushes about in endless turmoil,
+    Yet I climb alone to Zhongxuan's tower and find peace.
+    The path winds high and low, following the land's contours,
+    While people come and go across the palace bridge.
+    After the rain, spring adorns the trees with fresh color,
+    And morning's crisp breath sweeps across the mountains.
+    Old farmer in the fields, do not step aside for me—
+    I too would blend my light with the dust of this world.
+  footnotes:
+  - key: ''
+    value: Zhongxuan refers to a poet's tower from antiquity, representing a place of literary reflection and withdrawal. Kim Bu-sik uses this allusion to frame his own moment of contemplation.
+  - key: ''
+    value: The final couplet echoes the Daodejing's teaching to 'harmonize one's light and share in the dust'—expressing the poet's resolution to engage with the world rather than remain aloof, finding dignity in humble participation alongside all people.

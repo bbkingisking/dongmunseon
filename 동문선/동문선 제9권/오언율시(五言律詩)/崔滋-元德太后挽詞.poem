@@ -1,0 +1,50 @@
+canonical:
+  title: 元德太后挽詞
+  author: 崔滋
+  language: lzh
+  text: 乾極曾容配坤儀正體元枕前朝聖主帳底見曾孫陰慘俄沉月星悲便沒軒三韓千古淚七十九年恩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 元德太后挽詞
+  author: 崔滋
+  language: lzh
+  text: 乾極曾容配。坤儀正體元。枕前朝聖主。帳底見曾孫。陰慘俄沉月。星悲便沒軒。三韓千古淚。七十九年恩。
+korean:
+  title: 원덕후 만사
+  author: 최자
+  language: kor
+  text: |-
+    임금님께 알맞으셨던 배필
+    왕비로서 의젓하셨던 법도
+    베개 앞에 성주께서 조회하셨고
+    장막 아래 증손을 보셨도다
+    처참하게도 갑자기 달이(왕비를 달에 비함) 잠기니
+    별[星]도 구슬퍼 사라지네
+    삼한 백성 천고의 눈물
+    지극한 칠십구 년의 깊은 은혜시여
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 원덕태후(元德太后) : '
+    value: 고려 강종(康宗)의 비 유씨(柳氏). 고종(高宗)의 어머니. 고종 26년에 훙(薨)했다.
+english:
+  title: Elegy for the Empress Dowager of Original Virtue
+  author: Choi Ja
+  language: eng
+  text: |-
+    A consort worthy of the Son of Heaven,
+    A queen embodying proper majesty—
+    Before her pillow, the sacred sovereign paid court,
+    Behind her curtains, she beheld her great-grandchild.
+
+    Suddenly the moon dims in somber shadow,
+    And the stars fade, grieving into darkness.
+    Three Kingdoms weep through endless ages,
+    For seventy-nine years of grace bestowed.
+  footnotes:
+  - key: ''
+    value: The Empress Dowager of Original Virtue was Lady Yoo, consort of King Kangcong of Koryŏ and mother of King Kojong. She passed away in the 26th year of King Kojong's reign.
+  - key: ''
+    value: The moon traditionally symbolizes the queen or empress in Classical Chinese and Korean poetry.
+  - key: ''
+    value: Three Kingdoms (Samhan) refers to the Korean peninsula and its people.

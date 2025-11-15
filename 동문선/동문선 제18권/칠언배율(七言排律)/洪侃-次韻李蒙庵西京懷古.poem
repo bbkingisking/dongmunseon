@@ -1,0 +1,71 @@
+canonical:
+  title: 次韻李蒙庵西京懷古
+  author: 洪侃
+  language: lzh
+  text: 鏡裏山光菡萏斜古人長使後人嗟始封箕子名空在遠徙秦人迹轉賖鳷鵲觀傾松櫟暗鳳皇臺沒草萊多時時峽雨飛成雹歲歲江槎卧放花𧣇觫拖春耕野燒鉤輈隔葉和村笳隱儒能說紅綾餤桑女猶傳玉樹歌城郭鶴身來又去古今蝸角靜還嘩興亡衮衮何時盡欵乃聲中水自波
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻李蒙庵西京懷古
+  author: 洪侃
+  language: lzh
+  text: 鏡裏山光菡萏斜。古人長使後人嗟。始封箕子名空在。遠徙秦人迹轉賖。鳷鵲觀傾松櫟暗。鳳皇臺沒草萊多。時時峽雨飛成雹。歲歲江槎卧放花。𧣇觫拖春耕野燒。鉤輈隔葉和村笳。隱儒能說紅綾餤。桑女猶傳玉樹歌。城郭鶴身來又去。古今蝸角靜還嘩。興亡衮衮何時盡。欵乃聲中水自波。
+korean:
+  title: 이몽암의 서경회고에 차운하여
+  author: 홍간
+  language: kor
+  text: |-
+    거울 속 산빛은 연꽃이 비낀 듯한데
+    옛사람을 생각하니 뒷사람 구슬프네
+    처음 봉한 기자는 이름만 남아있고
+    멀리 옮겨온 진인은 사적이 아득한데
+    지작관이 기울어 소나무만 컴컴하고
+    봉황대가 무너져 풀만이 더북더북
+    이따금 산협에 비가 날아 우박이 되고
+    해마다 강 뗏목이 누운 채 꽃피우네
+    봄을 끌며 벌판에 밭가는 소들
+    잎 사이로 마을 피리 화답하는 뻐꾹새
+    숨은 선비가 제법 홍릉담을 말하기도
+    뽕따는 여인은 아직도 옥수가를 전하누나
+    성곽엔 학된 몸이 왔다가 또 가고
+    고금은 달팽이 뿔 고요하다가 떠들썩
+    연이은 흥망은 어느 때나 그치리
+    어여차 배젓는 소리에 강물이 물결치네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 멀리 …… 아득한데 : '
+    value: 중국 사서(史書)엔 진(秦)의 도망한 백성이 한(韓)으로 왔다고 잘못 적혀 있다.
+  - key: '[주-D002] 홍릉담(紅綾餤) : '
+    value: 당(唐)나라 희종(僖宗)이 바야흐로 떡을 먹다가 그때 진사(進士)들이 곡강(曲江)에서 문희연(聞喜宴 과거 급제를 자축하는 잔치)을 한다는 말을 듣고 어주(御廚)에 명하여 사람 수효대로 각기 홍릉병담(紅綾餠餤)을 하사했다.
+  - key: '[주-D003] 옥수가(玉樹歌) : '
+    value: 진 후주(陳後主)가 즐겨 부르다가 나라를 망친 옥수후정화곡(玉樹後庭花曲). 여기서는 망하여 없어진 고구려의 노래를 말한 것이다.
+  - key: '[주-D004] 성곽엔 학(鶴)된 몸 : '
+    value: 정령위(丁令威)가 천 년 만에 학이 되어 요동(遼東)  성곽(城郭)에 돌아와 앉은 고사.
+english:
+  title: In Response to Lee Mong-am's Reflections on the Western Capital
+  author: Hong Kan
+  language: eng
+  text: |-
+    In the mirror, mountain light slants like lotus petals—
+    Thinking of ancients, we weep for those who follow.
+    Ki Tzu, first enfeoffed, leaves only his name behind,
+    While distant Qin refugees fade into obscurity.
+    The Magpie Tower leans, pines alone stand dark,
+    The Phoenix Terrace crumbles, wild grass spreads thick.
+    Now and then mountain rains scatter into hail,
+    Year after year river rafts drift among blossoms.
+    Oxen, dragging spring, till the smoking fields—
+    Through the leaves a cuckoo echoes village pipes.
+    Hidden scholars still speak of silken pastries,
+    Mulberry maidens yet sing of jade trees.
+    In the city walls, cranes come and go,
+    Ages past and present stir the snail's horn.
+    When will the endless rise and fall of kingdoms cease?
+    With the song of oars, the river trembles into waves.
+  footnotes:
+  - key: ''
+    value: Ki Tzu (箕子) was an ancient sage enfeoffed with a kingdom whose rule passed into legend.
+  - key: ''
+    value: The Magpie Tower and Phoenix Terrace are ruins of once-great structures in the former capital.
+  - key: ''
+    value: This poem reflects on the transience of dynasties and civilizations, using imagery of decay and natural cycles to contemplate historical change.

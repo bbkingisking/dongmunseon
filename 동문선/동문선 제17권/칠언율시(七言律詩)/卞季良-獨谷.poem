@@ -1,0 +1,52 @@
+canonical:
+  title: 獨谷
+  author: 卞季良
+  language: lzh
+  text: 冶隱先生歸弊廬雲情自與世情踈門垂彭澤五株柳架有盧同千卷書早把利名同草芥好將心事付樵漁一區古國山溪勝或棹孤舟或命車
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獨谷
+  author: 卞季良
+  language: lzh
+  text: 冶隱先生歸弊廬。雲情自與世情踈。門垂彭澤五株柳。架有盧同千卷書。早把利名同草芥。好將心事付樵漁。一區古國山溪勝。或棹孤舟或命車。
+korean:
+  title: 독곡
+  author: 변계량
+  language: kor
+  text: |-
+    야은 선생이 옛집에 돌아가니
+    구름 정은 세상 정과 멀어졌네
+    문에 드리운 건 팽택의 다섯 그루 버들
+    시렁에는 노동의 천 권 책이 얹혀있네
+    진작 이명일랑 초개처럼 보고서
+    즐겁게 심사를 어초에 붙이었네
+    한편으로 옛 나라 계산 좋은 경치에
+    쪽배를 타기도 하고 달구지를 타고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0510&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 문에 …… 버들 : '
+    value: 진(晉)나라 도잠(陶潛)이 문 앞에 다섯 그루 버들을 심고 살면서 호를 오류선생(五柳先生)이라 했다.
+  - key: '[주-D002] 쪽배를 …… 타고 : '
+    value: 전구(全句)가 도연명(陶淵明)의 귀거래사의 귀절. “혹명건거(或命巾車), 혹도고주(或棹孤舟).”의 ‘건거(巾車)’는 씌우개 있는 수레이나, 농촌의 달구지로 번역한다.
+english:
+  title: Lone Valley
+  author: Byeon Gye-ryang
+  language: eng
+  text: |-
+    The Master of Yeop Recluse returns to his humble cottage,
+    And cloudlike feelings grow distant from worldly concerns.
+    At his gate hang five willows of Peng Ze,
+    While shelves bear a thousand scrolls like Lu Tong's library.
+
+    Long ago he cast aside fame and profit like grass and hay,
+    And gladly entrusted his heart to the fisherman and woodcutter.
+    In that ancient land where mountains and streams converge in beauty,
+    He poles his lonely boat or rides in a rustic cart.
+  footnotes:
+  - key: ''
+    value: The five willows reference Tao Qian of the Jin Dynasty, who planted five willows before his gate and took the sobriquet 'Master of the Five Willows,' symbolizing a life of refined simplicity and withdrawal from official service.
+  - key: ''
+    value: The final couplet echoes Tao Yuanming's 'Returning Home,' capturing the freedom of life in nature through wandering by water and by land.
+  - key: ''
+    value: The poem celebrates retreat from worldly ambition, drawing on the classical Chinese ideal of the recluse scholar who finds true fulfillment in natural beauty and intellectual pursuits.

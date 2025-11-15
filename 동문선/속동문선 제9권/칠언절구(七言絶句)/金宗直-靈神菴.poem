@@ -1,0 +1,42 @@
+canonical:
+  title: 靈神菴
+  author: 金宗直
+  language: lzh
+  text: 箭筈車箱散策回老禪方丈石門開明朝更踏紅塵路須喚山都沽酒來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靈神菴
+  author: 金宗直
+  language: lzh
+  text: 箭筈車箱散策回。老禪方丈石門開。明朝更踏紅塵路。須喚山都沽酒來。
+korean:
+  title: 영신암
+  author: 김종직
+  language: kor
+  text: |-
+    전괄과 거상으로 산책하다 돌아오니
+    방장의 늙은 중은 돌문을 열어 준다
+    내일 아침에는 다시 홍진의 길을 밟으리니
+    모름지기 산도를 불러 술을 사오게 하라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0510&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 전괄(箭筈) : '
+    value: 화살의 머리로서 활줄이 닿는 곳을 말하는데, 여기서 한 말은 미상이다.
+  - key: '[주-D002] 산도(山都) : '
+    value: 유인원(類人猿)의 일종이다.
+english:
+  title: The Spirit Hermitage
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    I return from wandering through the valleys,
+    the arrow-notches and cart-wheels scattered behind.
+    The old abbot opens the stone gate of his cell.
+    Tomorrow I'll walk again on the dusty roads of the world.
+    So summon the mountain ape to bring us wine.
+  footnotes:
+  - key: ''
+    value: The 'arrow-notches and cart-wheels' likely refer to the Buddhist pilgrim's journey through natural landscape, though their precise symbolic meaning remains elusive.
+  - key: ''
+    value: The 'mountain ape' (山都) is a playful reference to a legendary creature, used here perhaps as a metaphor for the untamed spirit of nature that brings wine—suggesting the poet's ironic acceptance of returning to worldly life.

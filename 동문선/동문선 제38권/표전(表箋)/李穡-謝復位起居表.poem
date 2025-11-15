@@ -1,0 +1,34 @@
+canonical:
+  title: 謝復位起居表
+  author: 李穡
+  language: lzh
+  text: 山川阻隔常馳捧日之心雨露霑濡彌切齊天之祝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝復位起居表
+  author: 李穡
+  language: lzh
+  text: 山川阻隔。常馳捧日之心。雨露霑濡。彌切齊天之祝。
+korean:
+  title: 복위 기거를 사례하는 글
+  author: 이색
+  language: kor
+  text: 산천이 막히었으매 항상 해를 받드는 마음이 달리었고, 비ㆍ이슬같이 적셔 주시니 더욱 하늘과 같이 오래 계시라는 축수를 간절히 드립니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0410_010_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 해를 …… 달리었고 : '
+    value: 송나라 한기(韓琦)가 꿈에 해를 받들기를 세 번 하였더니, 뒤에 인종(仁宗)ㆍ영종(英宗)ㆍ신종(神宗) 세 임금을 섬겨서 위국충헌왕(魏國忠獻王)에 봉해 버렸다.
+english:
+  title: Respectful Expression of Gratitude for the Restoration to Office and Peaceful Living
+  author: Lee Saek
+  language: eng
+  text: |-
+    Mountains and rivers keep us apart,
+    yet my heart forever holds aloft the sun of your presence.
+    As rain and dew nourish the earth,
+    so too do I earnestly offer blessings
+    that you endure long as heaven itself.
+  footnotes:
+  - key: ''
+    value: The image of 'bearing the sun' references the Song statesman Han Qi, who dreamed three times of holding the sun aloft—a prophetic vision, for he would go on to serve three sovereigns and be enfeoffed as the Marquis of Wei.

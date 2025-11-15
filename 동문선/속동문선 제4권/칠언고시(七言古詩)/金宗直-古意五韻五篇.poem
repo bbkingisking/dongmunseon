@@ -1,0 +1,87 @@
+canonical:
+  title: 古意五韻五篇
+  author: 金宗直
+  language: lzh
+  text: 美人熒熒隔秋水連空萑葦無涯涘雄虺短狐潛復起商旅輟檝舟航斷欲往從之思𡾰嵼美人楚楚居巖嶅通天箭筈豺虎嘷擇肉吮血饒腥臊牽蘿補茅春復秋欲往從之思悠悠金甌玉盌世所珍百行一缺祗自塵於戱此意難重陳山有蘭兮隰有蘩我思美人未敢言羲和曖曖迫崦嵫玉軑雲旗何處之攀援桂枝渴且飢我有佩璲不可問水遙遙兮山隱隱前修事業有竹帛大雅風俗誰能識杜陵八哀堪太息我生生長析木津云誰之思西方美人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 古意五韻五篇
+  author: 金宗直
+  language: lzh
+  text: 美人熒熒隔秋水。連空萑葦無涯涘。雄虺短狐潛復起。商旅輟檝舟航斷。欲往從之思𡾰嵼。美人楚楚居巖嶅。通天箭筈豺虎嘷。擇肉吮血饒腥臊。牽蘿補茅春復秋。欲往從之思悠悠。金甌玉盌世所珍。百行一缺祗自塵。於戱此意難重陳。山有蘭兮隰有蘩。我思美人未敢言。羲和曖曖迫崦嵫。玉軑雲旗何處之。攀援桂枝渴且飢。我有佩璲不可問。水遙遙兮山隱隱。前修事業有竹帛。大雅風俗誰能識。杜陵八哀堪太息。我生生長析木津。云誰之思西方美人。
+korean:
+  title: 고의오운 오편
+  author: 김종직
+  language: kor
+  text: |-
+    가을 물 건너편에 아름아름 보이는 임
+    갈 수풀 하늘에 닿아 그지없고
+    숫 독사, 잔 여우들 숨었다 일어나니
+    상려들도 돛 거두어 배 끊이었네
+    가서 좇으려 하나, 생각만 첩첩
+    바윗 골에 초초히 사는 저 임
+    빗발 같은 후살에도 승냥이ㆍ범 울부짖으며
+    고기 골라 피를 빨며 누린 것을 다 잡아먹네
+    칙넝쿨로 이엉 이으며 봄ㆍ가을을 지내네
+    가서 좇으려 하나 생각만 길고기네
+    금병에 옥사발을 세상에서 진중해도
+    백행에 하나가 결하면 절로 더러워질 뿐
+    아, 이 뜻을 거듭 말하기 어려워라
+    산에는 난초 있고 진펄에 쑥 있나니
+    내가 임을 생각하나 감히 말 못하네
+    해가 뉘엿뉘엿 서산에 지려 할 때
+    옥 수레와 구름 깃발 어드메로 가는고
+    계수 가지를 붙들려니 목마르고 배고프네
+    내가 가진 패옥 어메다가 부칠고
+    물은 멀고 산은 은은하고
+    전현의 사업이 죽백에 남았으나
+    대아의 풍속을 뉘라서 능히 알리
+    두통의 ‘팔애’ 시가 한숨 쉴만 하구나
+    나는 나서 석목진에서 자란 몸
+    누구를 생각하는고 서방의 미인
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 칡넝쿨로 이엉 이으며 : '
+    value: 두보(杜甫)가 빈 골짜기에 있는 가인(佳人)을 읊은 시에서 나돈 말이다.
+english:
+  title: 'Five Rhymes on an Ancient Theme: Five Poems'
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Across the autumn waters gleams a distant beauty,
+    Reed marshes stretch boundless to the very sky.
+    Wild vipers and small foxes hide and rise again—
+    Even merchants furl their sails, their boats cut off.
+    I wish to follow, yet my longing only deepens.
+
+    That beauty dwells alone in rocky fastness,
+    Where arrows fall like rain and tigers roar with jackals,
+    They choose their prey, drink blood, devour all savor.
+    With vines they mend their thatch through spring and autumn—
+    I wish to follow, yet my thoughts stretch long and endless.
+
+    Golden vessels, jade bowls—the world holds them precious,
+    Yet one flaw in a hundred virtues leaves all tarnished.
+    Ah, how hard to speak this meaning once again!
+
+    Mountains hold their orchids, marshes hold their mugwort,
+    I think upon my beloved, yet dare not speak.
+    The sun grows dim, descending toward the western ridge—
+    Where do the jade carriages with clouded banners go?
+    I reach for cinnamon branches, parched and hungry.
+    My precious jade ornament—where shall I leave it?
+
+    The waters stretch so far, the mountains fade in mist,
+    Yet former sages' deeds remain inscribed on bamboo and silk.
+    Who can still recognize the great and noble ways?
+    The Eight Laments of Du Fu—they stir only sighs.
+    I was born and raised where the stars mark the river,
+    Whose beauty in the west does my heart pursue?
+  footnotes:
+  - key: ''
+    value: The image of mending thatch with vines through the seasons echoes Du Fu's poem on a beautiful woman in a remote valley, suggesting themes of seclusion and noble obscurity.
+  - key: ''
+    value: The 'Eight Laments' refers to Du Fu's famous poem suite mourning lost loved ones and the passage of time.
+  - key: ''
+    value: References to the 'western beauty' and celestial markers ('stars mark the river') invoke classical Chinese poetic traditions of longing and separation.

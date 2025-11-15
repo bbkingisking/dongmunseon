@@ -1,0 +1,68 @@
+canonical:
+  title: 仰釜日晷銘
+  author: 金墩
+  language: lzh
+  text: 凡所設施莫大時也夜有更漏晝難知也鑄銅爲器形似釜也徑設圓距子對午也窽隨拗回點芥然也畫度於內半周天也圖畫神身爲愚氓也刻分昭昭透日明也置于路旁觀者聚也自今伊始民知作也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仰釜日晷銘
+  author: 金墩
+  language: lzh
+  text: 凡所設施。莫大時也。夜有更漏。晝難知也。鑄銅爲器。形似釜也。徑設圓距。子對午也。窽隨拗回。點芥然也。畫度於內。半周天也。圖畫神身。爲愚氓也。刻分昭昭。透日明也。置于路旁。觀者聚也。自今伊始。民知作也。
+korean:
+  title: 앙부일구 명
+  author: 김돈
+  language: kor
+  text: |-
+    무엇을 하든간에
+    때를 아는 것보다 중한 것이 없겠거늘
+    밤에는 경루가 있지만
+    낮에는 알 길이 없더니
+    구리를 부어 기구를 만드니
+    형체는 가마솥과 같고
+    반경에 원거를 설치하여
+    남과 북이 마주하게 하였다
+    구멍이 꺾임을 따라도는 것은
+    점을 찍어서 그러하다
+    내면에는 도수를 그어
+    주천의 반이 되고
+    귀신의 몸을 그리기는
+    어리석은 백성 때문이요
+    각과 분이 또렷한 것은
+    햇볕이 통하기 때문이요
+    길가에 두는 것은
+    구경꾼이 모이는 때문이니
+    이로 비롯하여
+    백성이 작흥할 것을 알게 되리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on the Angbu Sundial
+  author: Kim Don
+  language: eng
+  text: |-
+    In all our undertakings,
+    Nothing surpasses the knowledge of time.
+    At night, the water clock marks the hours,
+    But the day keeps its secrets.
+    So I cast copper into a vessel,
+    Its form like a cauldron,
+    With a gnomon pointing true,
+    North meeting South face to face.
+    The shadow traces its hidden path,
+    Each point marked with care—
+    Inside, the degrees are drawn,
+    Half the turning wheel of heaven.
+    The divine figure carved within
+    Serves those simple folk
+    Who cannot read the sky.
+    The marks grow clear and bright
+    Where sunlight breaks through,
+    Placed by the roadside
+    Where crowds might gather and see.
+    From this beginning,
+    Our people shall know when to rise and work.
+  footnotes:
+  - key: ''
+    value: The Angbu Sundial (앙부일구) was an important astronomical instrument created during the Joseon dynasty to help common people tell time during daylight hours. The 'water clock' (경루) refers to the clepsydra, used for measuring time at night. The 'divine figure' likely refers to astronomical or mythological imagery that would have decorated the instrument.

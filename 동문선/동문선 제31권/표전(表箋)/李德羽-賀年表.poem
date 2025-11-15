@@ -1,0 +1,49 @@
+canonical:
+  title: 賀年表
+  author: 李德羽
+  language: lzh
+  text: 玉衡改度肇啓於三元木鐸振文克鍾於百福中賀 皇帝凝猷蕩蕩體道恢恢制世御民底四方之悅服順時設敎保萬物之休和適屬王正益新聖德臣職縻桑域未參日視之朝心湊蓂階第祝天長之壽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀年表
+  author: 李德羽
+  language: lzh
+  text: 玉衡改度。肇啓於三元。木鐸振文。克鍾於百福。中賀。 皇帝凝猷蕩蕩。體道恢恢。制世御民。底四方之悅服。順時設敎。保萬物之休和。適屬王正。益新聖德。臣職縻桑域。未參日視之朝。心湊蓂階。第祝天長之壽。
+korean:
+  title: 새해를 하례하는 표
+  author: 이덕우
+  language: kor
+  text: 옥형(玉衡)이 도수(度數)를 고치매 첫봄이 돌아왔고, 목탁(木鐸)이 문(文)을 떨치니 백복(百福)을 기르나이다. 중하(中賀) 황제께서 법을 정하심이 공평하시고 도를 몸받음이 넉넉하시어 세상을 통치하고 백성을 다스리시니, 사방이 모두 열복(悅服)하기에 이르렀고 때를 따라 교화(敎化)를 베푸시니 만물이 보장코 평화를 누리게 되었습니다. 그리고 마침 정월을 맞으니 성덕(聖德)이 더욱 새로우시리이다. 신의 직분이 상역(桑域)에 매어 날마다의 조회에 참예치 못하오나, 마음은 명계(蓂階)로 쏠려 다만 하늘같이 기옵신 성수(聖壽)를 축원하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0340&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial Celebrating the New Year
+  author: Lee Duk-wu
+  language: eng
+  text: |-
+    As the celestial measure shifts and the first spring arrives anew,
+    The wooden bell rings forth its message, gathering every blessing.
+
+    Your Majesty, in this New Year's greeting:
+    Your wisdom flows serene and boundless,
+    Your virtue encompasses all under heaven.
+    In governing the world and nurturing the people,
+    The four quarters bow in willing submission.
+    Following the seasons, you dispense instruction,
+    And ten thousand things find peace and harmony.
+
+    With this auspicious moment of the first month,
+    Your sacred virtue shines ever brighter.
+    Though your servant's duties bind me to distant fields,
+    Unable to attend the daily court,
+    My heart turns ever toward the steps of heaven,
+    Holding but one prayer:
+    That your celestial years extend long as the heavens themselves.
+  footnotes:
+  - key: ''
+    value: The 'wooden bell' (木鐸) was an ancient Chinese instrument used to herald important proclamations and teachings.
+  - key: ''
+    value: The 'celestial measure' (玉衡) refers to the Jade Transversal star, one of the stars in the Big Dipper, symbolizing the regulation of the seasons and cosmic order.
+  - key: ''
+    value: The 'steps of heaven' (蓂階) is a poetic reference to the royal court, suggesting both its celestial authority and its distance from the author.

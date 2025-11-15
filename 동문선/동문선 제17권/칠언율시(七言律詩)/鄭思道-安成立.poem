@@ -1,0 +1,46 @@
+canonical:
+  title: 安成立
+  author: 鄭思道
+  language: lzh
+  text: 秋雨淒淒久未晴煙林寂寞斷人行愁添巷柳空濛色睡破茅簷點滴聲獨自思家嫌地遠敢能披霧覩天明漫漫寒夜知何刻喜有隣雞不廢鳴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 安成立
+  author: 鄭思道
+  language: lzh
+  text: 秋雨淒淒久未晴。煙林寂寞斷人行。愁添巷柳空濛色。睡破茅簷點滴聲。獨自思家嫌地遠。敢能披霧覩天明。漫漫寒夜知何刻。喜有隣雞不廢鳴。
+korean:
+  title: 병중에 안성립
+  author: 정사도
+  language: kor
+  text: |-
+    가을비가 구슬피 오래 개지 않으니
+    적막한 숲속에 인적이 끊이었네
+    마을 버들 뽀얀 빛에 시름이 더해지고
+    처마 끝 낙수소리에 잠이 깨누나
+    홀로 집을 생각하는 먼 곳에 와 있는 몸
+    언제나 안개 걷히고 환한 하늘을 볼까
+    길고 긴 추운 밤 지금이 몇시 쯤인고
+    이웃에 닭이 있어 울어주니 고맙기도 하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Seeking Comfort While Ill
+  author: Jung Sa-do
+  language: eng
+  text: |-
+    Autumn rain falls desolate, endless and refusing to clear.
+    In the desolate woods, the paths lie abandoned.
+    Sorrow deepens in the pale haze clinging to the willows.
+    Droplets from the eaves shatter my sleep.
+
+    Alone, thinking of home from this distant place,
+    When will the mist lift to show me the bright sky?
+    This long, cold night—what hour is it now?
+    Yet I am grateful: a neighbor's rooster still crows.
+  footnotes:
+  - key: ''
+    value: The title suggests the poet is composing this work while recovering from illness, adding poignancy to the themes of isolation and longing for home.
+  - key: ''
+    value: The rooster's crow, traditionally a sign marking time and the approach of dawn, becomes a source of comfort and connection to the wider world in the poet's solitude.

@@ -1,0 +1,51 @@
+canonical:
+  title: 擇之
+  author: 朴誾
+  language: lzh
+  text: 詩情往往猶能爾酒興時時未要禁晩向此中聊可托曾於世事已無心靑臨書帙山長近寒擁柴荊雪政深誰識微醺發淸咏北風吹日欲西沉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 擇之
+  author: 朴誾
+  language: lzh
+  text: 詩情往往猶能爾。酒興時時未要禁。晩向此中聊可托。曾於世事已無心。靑臨書帙山長近。寒擁柴荊雪政深。誰識微醺發淸咏。北風吹日欲西沉。
+korean:
+  title: 근래에 절대로 문자를 짓지 않은데, 책상 위에 택지
+  author: 박은
+  language: kor
+  text: |-
+    시의 정도 아직은 가끔 능히 함직하고
+    술의 흥취도 때때로 반드시 금할 것은 없다
+    늙어서 이 두 가지에 애오라지 의탁할 만하거니
+    어느새 세상 일에 이미 마음 없어졌네
+    푸른 빛이 서질에 다달으매 산이 항상 가까웠고
+    추위가 사립문에 돌렸으매 눈이 진정 깊으다
+    누가 알리 얼근히 취해 맑은 시를 읊는 줄을
+    북쪽 바람이 해를 불어 서쪽에 잠기게 하려 한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0590&viewSync=OT
+  footnotes: []
+english:
+  title: A Choice
+  author: Park Eun
+  language: eng
+  text: |-
+    The poet's heart still stirs from time to time,
+    And wine's delight knows no forbidden hour.
+    In age, these two alone remain my refuge—
+    For worldly cares have long since lost their power.
+
+    Green shadows deepen on the book-strewn desk,
+    The mountain stands forever at my door.
+    Frost gathers thick around my thatched retreat,
+    And snow falls deeper than the year before.
+
+    Who knows that mild intoxication brings
+    The clearest verses to my trembling tongue?
+    The north wind drives the sun toward the west,
+    As daylight fades and evening bells are rung.
+  footnotes:
+  - key: ''
+    value: The title '择之' (A Choice) refers to the poet's deliberate selection of poetry and wine as solace in his later years, having withdrawn from worldly affairs.
+  - key: ''
+    value: The poem employs the classical theme of the scholar-recluse, balancing detachment from society with engagement in refined pursuits.

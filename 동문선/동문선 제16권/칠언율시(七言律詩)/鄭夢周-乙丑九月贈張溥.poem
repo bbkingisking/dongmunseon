@@ -1,0 +1,49 @@
+canonical:
+  title: 乙丑九月贈張溥
+  author: 鄭夢周
+  language: lzh
+  text: 大明聲敎曁東溟蕃國年年貢帝庭天子遠頒新寵典使臣來續舊圖經雞林樹葉心同赤龍首山光眼共靑華夏卽今歸混一臨分不用涕頻零
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 乙丑九月贈張溥
+  author: 鄭夢周
+  language: lzh
+  text: 大明聲敎曁東溟。蕃國年年貢帝庭。天子遠頒新寵典。使臣來續舊圖經。雞林樹葉心同赤。龍首山光眼共靑。華夏卽今歸混一。臨分不用涕頻零。
+korean:
+  title: 을축 구월 증 장부
+  author: 정몽주
+  language: kor
+  text: |-
+    대명의 문화가 동해에까지 미쳐서
+    번국이 해마다 조공을 바치네
+    천자께서 멀리 새 은총을 나누시니
+    사신이 와서 옛 도경을 잇네
+    계림의 나뭇잎은 마음과 같이 붉고
+    용수산 빛은 눈과 함께 푸르도다
+    천하가 지금 한 집으로 되었으니
+    우리들 작별하면서 눈물 흘리지 마옵세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0810&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사신(使臣)이 와서 …… 잇네[續] : '
+    value: 송나라 서긍(徐兢)이 고려에 사신(使臣)으로 와서 고려의 풍속과 제도를 기록하고 그림까지 그려 붙이고 《고려도경(高麗圖經)》이라 이름하였다. 책은 지금까지 전하나 그림은 없어졌다.
+english:
+  title: Sent to Zhang Pu in the Ninth Month of Yichou
+  author: Jung Mong-ju
+  language: eng
+  text: |-
+    The great Ming's culture reaches beyond the Eastern Sea,
+    And tributary nations send their gifts year after year to the imperial court.
+    The Son of Heaven, from distant heights, bestows his new favor,
+    And emissaries come to continue the old records of our realm.
+    The leaves of Gyerim's trees turn crimson like our hearts,
+    Yongsu Mountain's light shines blue as our eyes perceive it.
+    Now all under heaven has become one harmonious house—
+    As we part ways, let us shed no tears.
+  footnotes:
+  - key: ''
+    value: Gyerim (계림) is an ancient name for the Korean peninsula, particularly associated with the Silla kingdom.
+  - key: ''
+    value: The 'old records of our realm' refers to the Goryeo Tujing (高麗圖經), a comprehensive illustrated account of Korean customs and institutions compiled by the Song envoy Xu Jing.
+  - key: ''
+    value: This poem was written during the reign of King Gongmin of Goryeo, when Goryeo had become a tributary state of the Yuan Dynasty and was shifting toward the Ming Dynasty's influence.

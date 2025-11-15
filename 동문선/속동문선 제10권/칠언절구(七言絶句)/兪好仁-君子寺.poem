@@ -1,0 +1,37 @@
+canonical:
+  title: 君子寺
+  author: 兪好仁
+  language: lzh
+  text: 烟樹平沉雨意遲晩來看竹坐移時老禪碧眼渾如舊更檢前年此日詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 君子寺
+  author: 兪好仁
+  language: lzh
+  text: 烟樹平沉雨意遲。晩來看竹坐移時。老禪碧眼渾如舊。更檢前年此日詩。
+korean:
+  title: 군자사
+  author: 유호인
+  language: kor
+  text: |-
+    내 낀 숲은 어두울 제 비 내릴 뜻이 더디어라
+    늦게 와서 대를 보려 오랫동안 앉았었소
+    늙은 선사 푸른 눈이 예와 다름 없어
+    지난 해 읊은 시를 다시금 읽어보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Gunja Temple
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    Mist settles on the trees as rain delays its coming.
+    Late in the day, I sit long among the bamboo.
+    The old master's jade eyes remain unchanged,
+    As I read again the verses from this day last year.
+  footnotes:
+  - key: ''
+    value: Gunja Temple (君子寺) is a Buddhist temple, with 'gunja' literally meaning 'gentleman' or 'superior person,' suggesting a place of cultivation and refinement.
+  - key: ''
+    value: The 'jade eyes' (碧眼) refer to the piercing spiritual insight traditionally associated with Buddhist masters, here implying the continuity of enlightened perception across time.

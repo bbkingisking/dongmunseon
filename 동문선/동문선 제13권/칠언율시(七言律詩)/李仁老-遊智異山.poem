@@ -1,0 +1,52 @@
+canonical:
+  title: 遊智異山
+  author: 李仁老
+  language: lzh
+  text: 頭流山逈暮雲低萬壑千巖似會稽策杖欲尋靑鶴洞隔林空聽白猿啼樓臺縹渺三山遠苔蘚依俙四字題始問仙源何處是落花流水使人迷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊智異山
+  author: 李仁老
+  language: lzh
+  text: 頭流山逈暮雲低。萬壑千巖似會稽。策杖欲尋靑鶴洞。隔林空聽白猿啼。樓臺縹渺三山遠。苔蘚依俙四字題。始問仙源何處是。落花流水使人迷。
+korean:
+  title: 유 지리산
+  author: 이인로
+  language: kor
+  text: |-
+    두류산(지리산의 별칭)이 깊어 저녁구름 나직한데
+    만학 천암이 회계와 비슷해라
+    막대를 짚고 청학동(지리산에 있는 선경)을 찾으려는데
+    건너편 수풀에 흰 납의 울음이 들리네
+    누대는 아득한데 삼산(신선이 산다는 삼신산)은 멀고
+    이끼낀 넉자 글씨 아직도 희미하네
+    도원이 어디냐 물어 보렸더니
+    낙화만 흘러 내리어 어딘지 모르겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Wandering Mount Jiri
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Mount Duryu rises deep as evening clouds descend so low,
+    Ten thousand valleys, thousand crags—like會계's peaks they show.
+    I lean upon my staff to seek the Grotto of the Azure Crane,
+    But hear instead across the woods the white gibbon's refrain.
+
+    Towers shimmer distantly while the Three Isles fade from sight,
+    Moss-covered characters still gleam with that ancient light.
+    I ask where lies the Peach Blossom Spring, that realm supreme—
+    Yet falling flowers drift downstream, dissolving all my dream.
+  footnotes:
+  - key: ''
+    value: Mount Duryu (頭流山) is an alternative name for Mount Jiri, one of Korea's sacred mountains.
+  - key: ''
+    value: Mount會계 refers to Mount Kuaiji in China, famous for its profound valleys and peaks, evoked here as a comparison.
+  - key: ''
+    value: The Grotto of the Azure Crane (靑鶴洞) is a legendary sacred site said to exist within Mount Jiri.
+  - key: ''
+    value: The Three Isles (三山) alludes to the mythical islands of the immortals in Chinese Daoist tradition.
+  - key: ''
+    value: The Peach Blossom Spring (桃源) references Tao Yuanming's famous allegory of an earthly paradise, suggesting the poet's quest for an idealized realm beyond the material world.

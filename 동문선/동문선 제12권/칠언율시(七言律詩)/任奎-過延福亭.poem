@@ -1,0 +1,58 @@
+canonical:
+  title: 過延福亭
+  author: 任奎
+  language: lzh
+  text: 誰勸君臣入酒鄕不知禍自在蕭墻酣歌不闋瓊樓上腥血交流輦道傍煬帝汴河秋冷落明皇蜀道雨凄凉當時此恨無人識滿目溪山泪數行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過延福亭
+  author: 任奎
+  language: lzh
+  text: 誰勸君臣入酒鄕。不知禍自在蕭墻。酣歌不闋瓊樓上。腥血交流輦道傍。煬帝汴河秋冷落。明皇蜀道雨凄凉。當時此恨無人識。滿目溪山泪數行。
+korean:
+  title: 과 연복정
+  author: 임규
+  language: kor
+  text: |-
+    누가 군신을 권하여 취향으로 인도했던고
+    화가 절로 소장에 있는 줄을 몰랐구나
+    옥루 위의 거나한 노래가 그치지 않는데
+    연도 옆에 끔찍한 피 가로 세로 흘렀어라
+    수양제 변하에서 가을 바람 싸늘했고
+    당명황 촉도에서 궂은 비가 처량했지
+    당시의 그 한을 아는 사람 누구인고
+    산이랑 시내를 바라며 눈물 겨워하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0880&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 연복정(延福亭) : '
+    value: 옛터가 개성 동대문 밖 산대(山臺) 바위 밑에 있음. 고려 의종(毅宗)이 이 정자를 짓고, 기화이초(奇花異草)를 심으며 뚝을 쌓아 호수를 만들고 밤낮 배를 띄우며 놀다가 마침내 위사(衛士)들의 원망을 사서 정중부(鄭仲夫)의 난을 만났다.
+  - key: '[주-D002] 소장(蕭墻) : '
+    value: 소(蕭)는 숙(肅)의 뜻이고, 장(墻)은 병풍이라 하였는데, 화가 밖에서가 아니요, 안에서 일어남을 소장의 화라 이른다.
+  - key: '[주-D003] 수양제(隋煬帝) …… 싸늘했고 : '
+    value: 수 양제가 주색(酒色)에 빠져 강도(江都)에 순항하여 유련(留連)하다가 변하(汴河)에서 우문화급(宇文化及)에게 시해(弑害)되었다.
+  - key: '[주-D004] 당명황(唐明皇) …… 처량했지 : '
+    value: 명황(明皇:玄宗)이 안녹산(安祿山)의 반란으로 촉(蜀)에 파천(播遷)하다가 마외파(馬嵬坡)에서 양귀비(楊貴妃)를 사사(賜死)한 뒤 몹시 상심했다. 백거이(白居易)의 장한가(長恨歌)에서 “행궁에서 달을 보니 마음 상하는 빛, 밤비에 방울소리 들으면 애끓는 소리.”라 하였다.
+english:
+  title: Passing by the Pavilion of Extended Blessing
+  author: Im Gyou
+  language: eng
+  text: |-
+    Who persuaded ruler and subject to venture into wine's domain?
+    Unaware that ruin brewed within their own walls.
+    While drunken songs still echoed from towers of jade,
+    Fresh blood flowed across the royal processional way.
+
+    The Sui Emperor's canal runs cold beneath autumn skies—
+    The Tang's bright sovereign wept on Shu's rain-soaked roads.
+    Who remembers now the sorrow of those ancient days?
+    I gaze upon the mountains and streams, my tears falling like rain.
+  footnotes:
+  - key: ''
+    value: The Pavilion of Extended Blessing once stood where King Uijong of Goryeo built it to indulge in exotic flowers and pleasures, floating on artificial lakes day and night—until his excess bred discontent among his guards, leading to rebellion.
+  - key: ''
+    value: The phrase 'within their own walls' refers to the principle that disaster comes not from without, but from inner corruption and excess.
+  - key: ''
+    value: 'The Sui Emperor''s fate: indulging in wine and women at Bianjing, he was ultimately assassinated by his own officials.'
+  - key: ''
+    value: 'The Tang Emperor''s lament: Emperor Xuanzong fled to Shu during the An Lushan Rebellion, where he was forced to order the death of his beloved Yang Guifei—a tragedy immortalized in Bai Juyi''s ''Song of Everlasting Sorrow.'''

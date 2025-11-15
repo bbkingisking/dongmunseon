@@ -1,0 +1,37 @@
+canonical:
+  title: 放鴈
+  author: 權思復
+  language: lzh
+  text: 雲漢猶堪任意飛稻田胡自蹈危機從今去向冥冥外只要全身勿要肥
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 放鴈
+  author: 權思復
+  language: lzh
+  text: 雲漢猶堪任意飛。稻田胡自蹈危機。從今去向冥冥外。只要全身勿要肥。
+korean:
+  title: 방안
+  author: 권사복
+  language: kor
+  text: |-
+    높은 하늘에 오히려 마음대로 날으면서
+    어찌하여 벼밭의 위험함을 스스로 밟는가
+    지금부터는 저 아득한 밖으로 가서
+    다만 몸 하나만 보전하고 살찌기를 구하지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1150&viewSync=OT
+  footnotes: []
+english:
+  title: Releasing the Geese
+  author: Kwon Sa-bok
+  language: eng
+  text: |-
+    The vast sky still permits you to soar as you please—
+    why then do you tread the perils of the rice fields?
+    From this day forth, fly toward that distant boundless realm.
+    Seek only to preserve your life; abandon the pursuit of fatness.
+  footnotes:
+  - key: ''
+    value: The poem appears to be an allegory addressing the reader to abandon worldly pursuits and dangers in favor of spiritual freedom and survival.
+  - key: ''
+    value: The contrast between 'fatness' (accumulation of wealth or status) and mere survival suggests a Buddhist or Taoist influence encouraging renunciation of material excess.

@@ -1,0 +1,48 @@
+canonical:
+  title: 次和州本營詩韻
+  author: 安軸
+  language: lzh
+  text: 萬疊山圍四望中東溟隔岸水浮空龍爭古壘黃榆月鴉噪遺墟老樹風懷土重遷憐噍類棄城謀變說姦雄當時誰握籌邊策惆悵無人衣一戎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次和州本營詩韻
+  author: 安軸
+  language: lzh
+  text: 萬疊山圍四望中。東溟隔岸水浮空。龍爭古壘黃榆月。鴉噪遺墟老樹風。懷土重遷憐噍類。棄城謀變說姦雄。當時誰握籌邊策。惆悵無人衣一戎。
+korean:
+  title: 화주 본영에서 시를 차운하며
+  author: 안축
+  language: kor
+  text: |-
+    만 겹 산과 산이 사방으로 둘렀는데
+    건너편에 동해물이 하늘에 닿아 있네
+    용처럼 싸우던 옛성에 달이 뜨고
+    까마귀 우짖는 유허 늙은 나무에 바람 이네
+    옛땅 그리워 지키던 백성들 가엾고야
+    성을 버리고 모반한 간웅 지금도 말하네
+    당시 변경의 방책을 그 누가 쥐었던고
+    슬프다, 융의(군복) 하나 입은 자가 없었구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화주(和州) : '
+    value: 영흥(永興)의 고려 초 이래의 이름. 현종(顯宗) 9년 화주 방어사(防禦使) 본영을 두었고, 고종(高宗) 때 이곳을 지키던 장수가 반란하여 원(元)나라에 붙었는데, 공민왕(恭愍王) 5년에 군사를 보내어 수복하였다.
+english:
+  title: Matching Rhymes to a Poem on Hwazhou's Command Post
+  author: An Chuk
+  language: eng
+  text: |-
+    Ten thousand layered mountains encircle the four horizons—
+    Across the water, the Eastern Sea rises to touch the sky.
+    On the ancient fortress where dragons once clashed, the moon ascends;
+    In the ruined remains, crows cry out through the old trees' wind.
+
+    I grieve for the people who cherished this land they could not keep,
+    Yet still we speak of traitors who abandoned the city for rebellion.
+    Who in those days held the strategy to defend the frontier?
+    Alas, not a single soul remained clothed in loyalty's armor.
+  footnotes:
+  - key: ''
+    value: 'Hwazhou (和州): The historical name of Younghung from early Goryeo times. During the Mongol period, a military commander defected to Yuan rule. King Gongmin recovered the city in 1356.'
+  - key: ''
+    value: The poem's melancholy reflects on a moment of strategic failure and lost resolve in defending a strategic border garrison.

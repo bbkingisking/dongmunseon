@@ -1,0 +1,54 @@
+canonical:
+  title: 東山
+  author: 李穡
+  language: lzh
+  text: 東山高頂立移時思入鴻濛自不知飛鳥片雲俱縹渺連岡斷壠自逶迤秋風杜老破茅屋落日山公倒接籬畎畝忘君非我志更將餘力念安危
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東山
+  author: 李穡
+  language: lzh
+  text: 東山高頂立移時。思入鴻濛自不知。飛鳥片雲俱縹渺。連岡斷壠自逶迤。秋風杜老破茅屋。落日山公倒接籬。畎畝忘君非我志。更將餘力念安危。
+korean:
+  title: 동산
+  author: 이색
+  language: kor
+  text: |-
+    동산 높은 꼭대기에 한참 서 있으나
+    나도 몰래 생각이 아득한 데로 들어가누나
+    나는 새, 조각 구름은 모두 어디로 가는지
+    이은 산 끊어진 언덕은 제대로 구불구불
+    가을 바람에 두로는 초가가 부서졌고
+    지는 해에 산공은 두건을 거꾸로 썼네
+    초야에서 임금 잊음이 내 뜻이 아니거니
+    남은 힘 다시 가지고 나라 안위를 생각하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 가을 바람에 …… 부서졌고 : '
+    value: 두보(杜甫). 그의 시에, “초가집이 가을 바람에 부서짐을 탄식한다.[茅屋爲秋風的破嘆]”가 있다.
+  - key: '[주-D002] 지는 해[日]에 …… 거꾸로 썼네 : '
+    value: 진(晋) 산간(山簡)이다. 형주(荊州)에 있을 때에 습지(習池)에 가 놀다가 술이 취하여 돌아 올 때에는 백접리(白接籬)를 거꾸로 쓰고 돌아왔다.
+english:
+  title: Eastern Mountain
+  author: Lee Suk
+  language: eng
+  text: |-
+    I stand upon the eastern mountain's height,
+    Yet lose myself in reverie's boundless flight.
+    The soaring birds and scattered clouds both fade—
+    Where do they drift? I cannot say.
+    The ridges rise and valleys bend their way,
+    While autumn wind tears through the hermit's thatch,
+    And setting sun finds one who wears his hat
+    Backward, drunk on wine and wandering thought.
+
+    But heed me well: to shun the king's command
+    Was never my desire nor design.
+    With strength remaining in these weary limbs,
+    I shall return to guard the realm's repose.
+  footnotes:
+  - key: ''
+    value: The autumn wind destroying the thatched roof alludes to Du Fu's famous lament on thatched cottages torn apart by autumn winds, evoking the poet's empathy for the common people's suffering.
+  - key: ''
+    value: The figure wearing his hat backward in the setting sun refers to Shan Jian of the Jin dynasty, known for his drunken wanderings by the Xi Pool, who famously returned wearing his white hat inverted—a symbol of carefree abandon and temporary escape from worldly concerns.

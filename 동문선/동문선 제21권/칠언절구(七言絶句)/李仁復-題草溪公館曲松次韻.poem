@@ -1,0 +1,37 @@
+canonical:
+  title: 題草溪公館曲松次韻
+  author: 李仁復
+  language: lzh
+  text: 公館無人對病翁老松猶喜送淸風此身雖屈心難屈吾儻何須問直躬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題草溪公館曲松次韻
+  author: 李仁復
+  language: lzh
+  text: 公館無人對病翁。老松猶喜送淸風。此身雖屈心難屈。吾儻何須問直躬。
+korean:
+  title: 제초계공관곡송차운
+  author: 이인복
+  language: kor
+  text: |-
+    공관에 병든 늙은이와 마주 대할 사람 없는데
+    늙은 솔이 오히려 맑은 바람을 보내 주니 기쁘다
+    이 몸은 비록 굽었으나 마음만은 굽히기 어렵거니
+    우리에게는 마을에 직궁을 물을 필요가 없다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 직궁(直窮) : '
+    value: 《논어》에, 어느 사람이 공자에게 말하기를 “우리 마을에 직궁(直窮 몸을 곧게 가진다는 뜻)하는 자가 있는데, 그 아버지가 양(羊)을 훔쳤는데 아들이 증거를 섰다.” 하였다. 여기서는 다만 몸이 곧다는 의미로 인용한 것이다.
+english:
+  title: 'On the Curved Pine at Chogye Manor: Matching Rhymes'
+  author: Lee In-bok
+  language: eng
+  text: |-
+    In the empty manor, no one stands beside the ailing old man,
+    yet the ancient pine delights to send its clean wind through.
+    Though this body bends, the heart resists bending—
+    why should we seek the upright virtue of the village sage?
+  footnotes:
+  - key: ''
+    value: The final line alludes to the Analects, where a man is praised for his rectitude even as his father steals. The poet suggests that inner integrity matters more than external righteousness.

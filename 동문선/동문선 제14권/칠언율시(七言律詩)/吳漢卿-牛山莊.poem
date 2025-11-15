@@ -1,0 +1,48 @@
+canonical:
+  title: 牛山莊
+  author: 吳漢卿
+  language: lzh
+  text: 退老年來卧碧山已於人世斷追攀光陰早付形骸外存歿猶驚俯仰閒纔報安公拋世去又言洪相褁屍還東韓耆舊今誰在却念蒼生淚滴顔
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 牛山莊
+  author: 吳漢卿
+  language: lzh
+  text: 退老年來卧碧山。已於人世斷追攀。光陰早付形骸外。存歿猶驚俯仰閒。纔報安公拋世去。又言洪相褁屍還。東韓耆舊今誰在。却念蒼生淚滴顔。
+korean:
+  title: 우산장
+  author: 오한경
+  language: kor
+  text: |-
+    퇴로한 지 몇 해 동안 산중에 누웠으니
+    이미 세상과는 교유를 끊었네
+    세월은 진작부터 형해 밖에 부쳤으나
+    잠깐 사이에 생사의 소식은 놀라워라
+    저번 기별에 안공이 세상 떠나갔다더니
+    또 들으니 홍상이 송장 싸서 타고 돌아왔다네
+    동한의 기구가 지금 누가 있는고
+    창생을 생각하고 눈물겨워하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0780&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 송장 싸서[裹屍] : '
+    value: 한(漢)나라 마원(馬援)의 말에, “대장부는 마땅히 전장에서 죽어서 말[馬]가죽에 송장을 싸 가지고 돌아와야 한다.” 하였다.
+english:
+  title: Niu Mountain Retreat
+  author: Wu Hanqing
+  language: eng
+  text: |-
+    In my twilight years, I have withdrawn to rest upon the green mountain.
+    All ties with the world have long been severed.
+    Time itself slipped away beyond the body's reach—
+    yet in a moment, news of life and death still startles me.
+
+    First came word that An Gong had departed from this world,
+    then I heard Hong the Minister returned, his body wrapped for the journey home.
+    Of all the elder worthies of the Eastern Han, who now remains?
+    Thinking of the common folk, tears well unbidden on my face.
+  footnotes:
+  - key: ''
+    value: An Gong and Hong the Minister are allusions to virtuous officials whose sudden deaths troubled the poet's heart during his retreat.
+  - key: ''
+    value: The reference to returning with one's body wrapped invokes Ma Yuan's famous saying that a great man should die on the battlefield and be brought home wrapped in his horse's hide—a metaphor for dying in service.

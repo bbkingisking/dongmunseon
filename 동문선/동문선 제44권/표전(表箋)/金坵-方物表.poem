@@ -1,0 +1,35 @@
+canonical:
+  title: 方物表
+  author: 金坵
+  language: lzh
+  text: 造天雖遠槎靈猶上於銀河因地所生芹賤可登於玉俎前件物等産從外圉用寡內庭尙期有效於塵禩庸許無淹於鑒納
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 方物表
+  author: 金坵
+  language: lzh
+  text: 造天雖遠。槎靈猶上於銀河。因地所生。芹賤可登於玉俎。前件物等。産從外圉。用寡內庭。尙期有效於塵禩。庸許無淹於鑒納。
+korean:
+  title: 방물표
+  author: 김구
+  language: kor
+  text: 하늘에 가기가 비록 멀다 하지만 신령한 배[槎靈]는 오히려 은하수에 오르고, 그 지방에서 나는 것을 택하매 천한 미나리[芹賤]도 옥소반에 놓일 수 있사옵니다. 지난번의 각종 물산은 외지로부터 생산되 것이어서, 내정(內庭)에 쓰임은 적을 것이오나, 오히려 한 티끌이라도 보탬이 될 것을 기대하오니, 지체됨이 없이 받아 주시기 바라옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0280&viewSync=OT
+  footnotes: []
+english:
+  title: Tribute of Local Goods
+  author: Kim Gu
+  language: eng
+  text: |-
+    Though heaven lies distant, still the spirit-vessel ascends to the Milky Way.
+    From the earth's own bounty, even humble watercress may grace the jade table.
+    These humble products come from distant lands,
+    Yet serve but little in the inner court.
+    Still I dare hope they bring some benefit, however slight as dust,
+    And trust they will not be delayed in your gracious reception.
+  footnotes:
+  - key: ''
+    value: The 'spirit-vessel' (槎靈) alludes to a legendary raft that could sail to the heavens, suggesting that even humble offerings may reach the highest places.
+  - key: ''
+    value: This poem is a presentation of local tribute goods, likely addressed to a royal or high official, with the author expressing both humility about the modest nature of the offerings and hope for their acceptance.

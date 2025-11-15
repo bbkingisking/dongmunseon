@@ -1,0 +1,45 @@
+canonical:
+  title: 蟻庵
+  author: 尹澤
+  language: lzh
+  text: 朝日東䆫明夕陽西䆫白中卧一老人晝靜門無客足以送餘生何須鍊精魄但慮酒有無誰寬復誰隘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蟻庵
+  author: 尹澤
+  language: lzh
+  text: 朝日東䆫明。夕陽西䆫白。中卧一老人。晝靜門無客。足以送餘生。何須鍊精魄。但慮酒有無。誰寬復誰隘。
+korean:
+  title: 의암
+  author: 윤택
+  language: kor
+  text: |-
+    아침 해엔 동창이 밝아지더니
+    저녁 별엔 서창이 희어졌구나
+    그 속에 한 노인 누워 있노니
+    낮은 고요하고 문에는 손이 없다
+    이만하면 여생을 보낼 수 있거니
+    구태여 정백은 수련해 무엇하리
+    다만 술이 있나 없나가 걱정일 뿐
+    그 누가 너그럽고 누가 좁은가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0450&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 의암(蟻庵) : '
+    value: 필자인 윤택의 호.
+english:
+  title: The Ant's Hermitage
+  author: Yun Taek
+  language: eng
+  text: |-
+    Morning sun through the eastern window—bright.
+    Evening stars through the western window—pale.
+    Within, an old man lies at rest.
+    By day, silence; no visitors come to the door.
+    This is enough to pass my remaining years.
+    Why toil to refine the spirit's essence?
+    My only concern: will the wine jug be full or empty?
+    Who judges generosity? Who judges constraint?
+  footnotes:
+  - key: ''
+    value: The Ant's Hermitage (蟻庵) is the author's pen name, evoking the humble dwelling of one who, like an ant, asks little of life.

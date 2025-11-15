@@ -1,0 +1,50 @@
+canonical:
+  title: 詠張翰歸江東
+  author: 崔淑精
+  language: lzh
+  text: 擧面西風驀地飛江東蓴美又鱸肥十年洛下終誰賴一棹吳中獨自歸此日只言求適意異時方見早知機憑君欲吊華亭鶴底事悠悠未拂衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詠張翰歸江東
+  author: 崔淑精
+  language: lzh
+  text: 擧面西風驀地飛。江東蓴美又鱸肥。十年洛下終誰賴。一棹吳中獨自歸。此日只言求適意。異時方見早知機。憑君欲吊華亭鶴。底事悠悠未拂衣。
+korean:
+  title: 영 장한 귀 강동
+  author: 최숙정
+  language: kor
+  text: |-
+    낯을 드니 서쪽 바람 갑자기 날거니
+    강동에는 순채가 맛나고 농어는 살찌리라
+    10년 동안 낙하에서 누구를 힘입었던가
+    조각배 저어 오중으로 혼자 돌아가누나
+    오늘에는 다만 마음의 맞음을 구한다고 말하지만
+    다른 날에야 비로소 일찍 기미 안 것을 보리라
+    그대를 빙자해 화정의 학을 조상하려 하나니
+    무슨 일로 유유히 옷을 떨치지 못하는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영 장한 귀 강동(詠張翰歸江東) : '
+    value: 장한(張翰)은 진(晉)나라 사람인데, 벼슬하는 중에 나라의 정치해 가는 꼴이 멀지 않아서 난리가 날 것 같으므로, 고향인 강동으로 갈 생각이 많았었는데, 마침 가을이 되어서 고향의 농어회와 순채의 아름다운 맛을 생각하고 그만 벼슬을 버리고 돌아갔다 한다.
+  - key: '[주-D002] 화정(華亭)의 …… 하나니 : '
+    value: 화정은 상해(上海)의 옛 이름이다. 진(晉)나라 때에 육기(陸機)라는 사람이 서울에 와서 버슬하다가 생명을 잃게 되었는데 죽을 때에, “아, 고향 화정의 학 우는 소리를 어찌 다시 들을 수 있겠는가.” 하고 탄식하였다 한다.
+english:
+  title: In Praise of Zhang Han's Return to Jiangdong
+  author: Choe Suk-jeong
+  language: eng
+  text: |-
+    I lift my face—the western wind suddenly sweeps past.
+    In Jiangdong the water shield blooms tender, the perch grows plump.
+    Ten years beneath the capital—whom did I truly serve?
+    A single oar carries me back through Wu, returning alone.
+
+    Today I speak only of seeking what suits my heart,
+    Yet in time I shall see I understood the signs long before.
+    Through you I mourn the crane of Huating's distant shore—
+    Why then do I linger still, unable to shake the dust from my robes?
+  footnotes:
+  - key: ''
+    value: Zhang Han was a Jin dynasty official who, seeing turmoil approaching his nation, longed to return home to Jiangdong. When autumn arrived and he remembered the exquisite taste of his homeland's perch and water shield, he abandoned his office and departed.
+  - key: ''
+    value: 'Huating (near ancient Shanghai) evokes Lu Ji, a Jin official who came to the capital only to meet his end. On his deathbed, he lamented: ''How can I ever hear again the cry of Huating''s crane?'' The poem thus reflects on paths not taken and the pull of home.'

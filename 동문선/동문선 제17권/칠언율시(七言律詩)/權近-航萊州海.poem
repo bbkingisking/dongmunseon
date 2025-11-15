@@ -1,0 +1,48 @@
+canonical:
+  title: 航萊州海
+  author: 權近
+  language: lzh
+  text: 十丈風帆萬斛船雲開蒼海渺無邊星垂雪浪相涵映水拍銀河共接連可向半洋悲壯士不須三島問群仙舟中偃仰堪乘興自是浮槎便上天
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 航萊州海
+  author: 權近
+  language: lzh
+  text: 十丈風帆萬斛船。雲開蒼海渺無邊。星垂雪浪相涵映。水拍銀河共接連。可向半洋悲壯士。不須三島問群仙。舟中偃仰堪乘興。自是浮槎便上天。
+korean:
+  title: 항래 주해
+  author: 권근
+  language: kor
+  text: |-
+    열 길 돛대에 만곡들이 배
+    구름 활짝 열리니 창해 아득 가이 없네
+    별이 물결에 드리워 서로 비치고
+    물이 은하에 부딪쳐 맞붙어 이었구나
+    가다가 대양 반쯤에서 장사를 슬퍼하리
+    멀리 삼도에서 신선들을 물어 무엇하리
+    배안에서 흥겨워 누운 채 우러러보니
+    두둥실 띄운 이 떼 하늘까지 가는 듯
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: Sailing to Laizhou Sea
+  author: Kwon Geun
+  language: eng
+  text: |-
+    Ten-fathom masts on a ship that holds ten thousand measures—
+    Clouds part to reveal the vast azure sea without horizon.
+    Stars hang low, mirroring the snow-white waves,
+    Water crashes against the Milky Way, their banks converging.
+
+    Midway across the ocean, one might grieve for fallen warriors,
+    Yet why seek immortals on distant fairy isles?
+    Reclining in the cabin, riding the wave of delight,
+    This humble vessel seems to drift upward toward heaven itself.
+  footnotes:
+  - key: ''
+    value: The 'Milky Way' (銀河) creates a poetic collapse between earthly sea and celestial river, a common device in Chinese poetry suggesting the transcendence of ordinary bounds.
+  - key: ''
+    value: The reference to 'three islands' (三島) alludes to legendary islands of immortals in East Asian mythology, which the poet dismisses in favor of finding wonder in the present moment.
+  - key: ''
+    value: The floating raft imagery evokes the legend of a man who rode a raft to heaven, suggesting spiritual ascension through natural transport rather than supernatural seeking.

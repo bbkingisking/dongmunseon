@@ -1,0 +1,85 @@
+canonical:
+  title: 崔太尉雙明亭
+  author: 李仁老
+  language: lzh
+  text: 謂公巢許寓城郭謂公夔龍愛林壑千金買斷數畝陰碧瓦朱欄開小閣淸風泠泠午枕涼蒼雪陣陣空庭落求閑得閑識閑味舊遊不夢翻階藥群花落盡一株松白雲深處靑田鶴回首區區夢幻塲千里追奔兩蝸角醉吟先生醉龍門八節灘流手自鑿六一居士居穎川著書詫琴自書樂豈如庭院得蓬瀛不煩鸞鶴遊寥廓雙明亭上望遙岑寸碧依然如有約
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 崔太尉雙明亭
+  author: 李仁老
+  language: lzh
+  text: 謂公巢許寓城郭。謂公夔龍愛林壑。千金買斷數畝陰。碧瓦朱欄開小閣。淸風泠泠午枕涼。蒼雪陣陣空庭落。求閑得閑識閑味。舊遊不夢翻階藥。群花落盡一株松。白雲深處靑田鶴。回首區區夢幻塲。千里追奔兩蝸角。醉吟先生醉龍門。八節灘流手自鑿。六一居士居穎川。著書詫琴自書樂。豈如庭院得蓬瀛。不煩鸞鶴遊寥廓。雙明亭上望遙岑。寸碧依然如有約。
+korean:
+  title: 최태위 쌍명정
+  author: 이인로
+  language: kor
+  text: |-
+    공을 바로 소ㆍ허라 하자니 성곽에 살고 있었고
+    공을 기룡(현달하고 어진 재상)이라 하자니 숲과 골짝을 사랑하누나
+    천 금으로 몇 이랑의 땅을 사서
+    푸른 기와 붉은 난간의 작은 누각 이루었네
+    맑은 바람이 차거우매 한낮의 베개가 시원한데
+    푸른 구름은 계속하여 빈 뜰에 떨어진다
+    한가함을 구하여 한가함을 얻으니 한가한 맛을 알아
+    뜰에 나부끼는 작약의 옛 꿈을 꾸지 않는다
+    온갖 꽃은 다 떨어졌는데 한 그루 소나무요
+    흰 구름 깊은 곳에 청전(학이 나는 땅)의 학일러라
+    머리를 돌리매 갖가지 꿈과 허깨비 마당인데
+    천지를 쫓아 다니나 달팽이의 두 뿔사이더라
+    취음 선생이 용문에서 취하여
+    팔절탄 흐르는 물을 손수 팠었다
+    육일거사는 영천에 살면서
+    글을 짓고 거문고를 타면서 스스로 즐겼네
+    그러나 어찌 이 정원에서 봉영을 얻어
+    난새와 학을 탈 것 없이 허공에 노니는 것만이야 하랴
+    쌍명정 위에서 먼 멧부리 바라보니
+    의연한 한 점 푸른 빛은 언약 있는 것 같구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소(巢)ㆍ허(許) : '
+    value: 각주 ‘소보(巢父)와 허유(許由)’ 참조.
+  - key: '[주-D002] 뜰에 …… 작약 : '
+    value: 사현휘(謝玄暉)가 중서성(中書省)에 입직(入直)하여 지은 시에, “붉은 작약은 뜰에 펄럭인다[紅藥當階飜].”라는 구(句)가 있다.
+  - key: '[주-D003] 취음 선생(醉吟先生)이 …… 팠었다 : '
+    value: 용문(龍門) 팔절탄(八節灘)에 험한 돌이 있어 배가 많이 파선되므로, 취음선생(醉吟先生) 백락천(白樂天)이 그것을 파서 험한 것을 제거하였다.
+  - key: '[주-D004] 육일거사(六一居士) : '
+    value: 육일거사는 구양수(歐陽修)의 호(號)인데, 거문고ㆍ책 등 다섯 가지에 자기 몸을 합하여 육일(六一)이라 칭하였다.
+  - key: '[주-D005] 봉영(蓬瀛) : '
+    value: 봉래산(蓬萊山) 영주산(瀛洲山)을 말하는데 여기 신선이 산다고 한다.
+english:
+  title: Choe Tae-wi's Twin Brightness Pavilion
+  author: Lee In-ro
+  language: eng
+  text: |-
+    Some call you Chao and Hsu, content within city walls,
+    Yet you are like Qi and Long, lovers of forest and ravine.
+    With a thousand gold you purchased acres of shade,
+    And raised a small pavilion with blue-tiled eaves and crimson rails.
+    Cool breezes refresh the noonday pillow with their chill,
+    While azure snow drifts through the empty courtyard.
+    Seeking leisure, you have found it—tasted its true flavor—
+    No longer dreaming of peonies that once adorned these steps.
+    All flowers have fallen; one pine remains,
+    And in the depths of white clouds, the crane of jade fields takes flight.
+    Turning back, how fleeting this stage of dreams and illusions—
+    Chasing across a thousand miles, yet caught between a snail's two horns.
+    The Drunken Poet grew drunk at Dragon Gate,
+    His own hands carving the dangerous Eight Rapids' flow.
+    The Six-in-One Recluse dwelt in Ying Stream,
+    Composing books and playing the zither for his own delight.
+    Yet how can such pleasures compare to what you possess?
+    No need for phoenix or crane to wander the boundless void.
+    From the Twin Brightness Pavilion gazing at distant peaks,
+    That single touch of green endures like a sworn covenant.
+  footnotes:
+  - key: ''
+    value: Chao Fu and Xu You were legendary hermits who refused worldly appointments, embodying the ideal of withdrawal from society.
+  - key: ''
+    value: The reference to peonies alludes to Xie Xuanhui's poem on court life, suggesting the speaker has transcended such transient attachments.
+  - key: ''
+    value: Bai Juyi, known as the Drunken Poet, labored to clear dangerous rapids at Dragon Gate, transforming hardship into service.
+  - key: ''
+    value: Ouyang Xiu, the Six-in-One Recluse, found completeness through five pursuits (qin, books, ink, brush, and landscape) plus his own spirit.
+  - key: ''
+    value: Penglai and Yingzhou are legendary isles of immortals; the poem suggests that true paradise exists in one's own garden.

@@ -1,0 +1,46 @@
+canonical:
+  title: 次結城客觀韻
+  author: 權軫
+  language: lzh
+  text: 石堡橫空半孤村傍海前古來征戰地今見大平煙往事浮雲外流年客鬢邊長安知幾許極目意茫然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次結城客觀韻
+  author: 權軫
+  language: lzh
+  text: 石堡橫空半。孤村傍海前。古來征戰地。今見大平煙。往事浮雲外。流年客鬢邊。長安知幾許。極目意茫然。
+korean:
+  title: 차 결성 객관 운
+  author: 권진
+  language: kor
+  text: |-
+    돌 방축은 반 공중에 비껴있고
+    외로운 마을은 바다 앞에 가까이 있네
+    옛날 전쟁터에서
+    지금은 태평세상 연기를 보겠네
+    지나간 일은 뜬 구름 밖이요
+    흐르는 세월은 손의 귀밑 가로다
+    장안이 여기서 몇 리나 될까
+    멀리 바라보니 마음만 아득하다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1060&viewSync=OT
+  footnotes: []
+english:
+  title: Following the Rhyme of a Traveler's View at Gyeongseong
+  author: Kwon Jin
+  language: eng
+  text: |-
+    Stone fortifications stretch across the void, half-suspended in air.
+    A lonely village nestles before the sea.
+    Once a theater of ancient battles,
+    Now I witness the smoke of great peace.
+
+    Past events drift beyond the floating clouds,
+    While flowing years settle upon my temple's edge.
+    How many leagues from Chang'an is this place?
+    Gazing into the distance, my heart dissolves into vastness.
+  footnotes:
+  - key: ''
+    value: Chang'an, the ancient Chinese capital, symbolizes the center of civilization and authority—here used metaphorically to question one's distance from power and stability.
+  - key: ''
+    value: The imagery of 'floating clouds' and 'flowing years' reflects traditional Buddhist and Daoist themes of impermanence prevalent in East Asian poetry.

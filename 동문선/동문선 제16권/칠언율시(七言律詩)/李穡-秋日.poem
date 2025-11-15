@@ -1,0 +1,43 @@
+canonical:
+  title: 秋日
+  author: 李穡
+  language: lzh
+  text: 曉上高樓獨自憑白雲靑嶂共層層一庭雨過苔逾長萬里天晴日又昇膽氣崢嶸身老大顔容枯槁鬢鬅鬙乾坤幾度秋風起回首江東憶季鷹
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋日
+  author: 李穡
+  language: lzh
+  text: 曉上高樓獨自憑。白雲靑嶂共層層。一庭雨過苔逾長。萬里天晴日又昇。膽氣崢嶸身老大。顔容枯槁鬢鬅鬙。乾坤幾度秋風起。回首江東憶季鷹。
+korean:
+  title: 추일
+  author: 이색
+  language: kor
+  text: |-
+    새벽에 다락에 올라 혼자 기대어 바라보니
+    흰 구름 푸른 산이 모두 층층 쌓였구나
+    뜰에 비 지나자 이끼는 더욱 자라고
+    만리에 하늘이 개어 해가 또 솟아오르네
+    담기는 우쭐해도 몸은 다 늙어서
+    얼굴은 메마르고 귀밑머리 더부룩
+    천지간에 몇 번이나 가을바람 일었는고
+    강동을 바라보며 장계응[진 장한의 자]을 생각하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0760&viewSync=OT
+  footnotes: []
+english:
+  title: Autumn Day
+  author: Lee Saek
+  language: eng
+  text: |-
+    At dawn I climb the high tower, leaning alone at the railing.
+    White clouds and green peaks layer upon layer in the distance.
+    After rain passes through the courtyard, moss grows ever thicker.
+    Across ten thousand miles the sky clears, and the sun rises again.
+    My spirit may yet soar proud, but my body has grown old,
+    My face withered and drawn, my temples tangled and gray.
+    How many times has autumn wind swept through heaven and earth?
+    Gazing toward the eastern river, I recall Ji Ying and his distant longings.
+  footnotes:
+  - key: ''
+    value: Ji Ying (季鷹) was a historical figure known for his nostalgia and longing for his homeland. The reference evokes themes of exile, remembrance, and the melancholy of separation from one's native place.

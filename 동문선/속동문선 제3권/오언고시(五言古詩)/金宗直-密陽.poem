@@ -1,0 +1,123 @@
+canonical:
+  title: 密陽
+  author: 金宗直
+  language: lzh
+  text: 月影故丈室白塔猶亭亭眷焉涉其址山腹披榛荊谿谷苦傾側何曾一畝平回首羊羔垣人烟隔林坰灑灑夕陽麗淡淡江水淸旁舍有脩竹西崦多黃精宜着東坡老誅茅寄餘齡地主首不頷誰爲馬正卿置之更探歷羸馬凌兢鳴又林子我之徒師嚴而道尊敎授林乾 柳子作一家吾孫卽若孫公之壻父柳承湜 孫子眞拂士呼我爲恩門生員孫孝祖 相將歷嶇嶔遂至三家村朴子頗醇愨傫然看弟昆秀才朴處義昆季 殺雞且釃酒班荊坐樹根渚鷗不驚避江水可俯捫請我開一廛欲割芋栗園雖無會心處厚意難具論
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 密陽
+  author: 金宗直
+  language: lzh
+  text: 月影故丈室。白塔猶亭亭。眷焉涉其址。山腹披榛荊。谿谷苦傾側。何曾一畝平。回首羊羔垣。人烟隔林坰。灑灑夕陽麗。淡淡江水淸。旁舍有脩竹。西崦多黃精。宜着東坡老。誅茅寄餘齡。地主首不頷。誰爲馬正卿。置之更探歷。羸馬凌兢鳴。又林子我之徒。師嚴而道尊。敎授林乾。 柳子作一家。吾孫卽若孫。公之壻父柳承湜。 孫子眞拂士。呼我爲恩門。生員孫孝祖。 相將歷嶇嶔。遂至三家村。朴子頗醇愨。傫然看弟昆。秀才朴處義昆季。 殺雞且釃酒。班荊坐樹根。渚鷗不驚避。江水可俯捫。請我開一廛。欲割芋栗園。雖無會心處。厚意難具論。
+korean:
+  title: 12월 초4일에 밀양
+  author: 김종직
+  language: kor
+  text: |-
+    월영은 옛날의 장실
+    백탑이 아직도 우뚝 섰네
+    기대를 품고 그 터를 찾아가
+    산복에 가시 덤불을 헤쳤더니
+    계곡이 하도 기울어
+    어디 한 이랑인들 평탄한 곳 있는가
+    양장을 돌아보매 인가는 저 멀리 수풀 건너
+    산뜻한 저녁 햇빛이 곱디곱고
+    담담한 강물이 맑기도 하네
+    그 곁 집에 긴 대가 있고
+    서산에는 황정이 많다 하니
+    동파로가 와서 살 만한 곳
+    풀 베 내고 집지어
+    여생을 붙이렸더니
+    지주가 끝내 허락하지 않으니
+    그 누가 마정경이 될꼬
+    두어라, 다시 찾아보자
+    여윈 말이 터덕터덕 걸으며 우네
+    우(又)
+    임군은 나의 제자
+    스승이 엄해야 도가 높것다 교수임건
+    유군은 나와 사돈간
+    내 손자가 곧 네 손자 공의 사위의 아버지 유승식
+    손군은 참으로 바른 선비
+    나를 불러 은문이라 하네 생원 손효조
+    서로 붙들고 험한 길을 지나
+    드디어 삼가촌에 이르니
+    무척 순실한 박군이
+    아우를 데리고 나와 맞아서 수재 박처의 형제
+    닭을 잡고 술을 길러서
+    풀밭에 자리 깔고 앉히네
+    물가의 갈매기가 놀다 피하지 않고
+    강물은 구부리면 손 닿을 수 있네
+    날더러 집을 여러 지으라고
+    밤나무 동산을 베어 주겠다니
+    비록 마음에 드는 땅은 아니나
+    그 후의를 이루 다하기 어렵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장실(丈室) : '
+    value: 《유마경(維摩經)》에 의하면, 유마거사(維摩居士)의 거처하는 방이 사방 열 발[丈]이므로 도인(道人)의 방을 장실(丈室)이라 한다.
+  - key: '[주-D002] 동파로(東坡老) : '
+    value: 소동파(蘇東坡)가 귀양가서 동파(東坡)에 조그만 집을 짓고 살았다.
+  - key: '[주-D003] 지주(地主) : '
+    value: 본 고을 원을 지주(地主)라 한다.
+  - key: '[주-D004] 나를 불러 …… 하네 : '
+    value: 여기서 말한 손군이 진사(進士)할 때에 작자가 시관(試官)이었던 모양이다.
+  - key: '[주-D001] 野 : '
+    value: 墅
+english:
+  title: Miryang
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    The moonlit chamber stands as it did in ancient days,
+    The white pagoda still rises solitary and tall.
+    With longing I wandered to that sacred ground,
+    Hacking through brambles on the mountainside.
+    The valleys tilt so sharply everywhere—
+    Where can one find even a single furrow of level earth?
+    Turning back, I glimpse the sheepfold wall,
+    Where human smoke disperses beyond the distant woods.
+    The evening sunlight falls soft and fair,
+    The river water flows clear and pale.
+    Beside the cottage grows bamboo tall and straight,
+    On the western slope grows much of the healing root.
+    A perfect place for old Su Dongpo to dwell—
+    I could clear the land and build a home,
+    Attach my remaining years to this quiet ground.
+    But the magistrate would not grant permission.
+    Who then could play the role of Ma Zhengqing?
+    Let it rest. I shall search further still.
+    My weary horse stumbles on with mournful cries.
+
+    Again—
+    Young Lin is my own disciple;
+    The teacher's strictness raises the Way's esteem.
+    Professor Lin Gan shares my teachings.
+    Young Liu is bound to me by marriage ties—
+    My grandson becomes your grandson too.
+    Your father-in-law, Liu Seung-sik.
+    Young Sun embodies the true scholar's heart;
+    He calls me his benefactor and guide.
+    Candidate Sun Hyo-jo.
+    We journeyed together through the rough terrain,
+    Until we reached Three Family Village at last.
+    Park the younger is honest and sincere,
+    He came out with his brother to greet me.
+    Scholar Park Cheo-ui and his kinsmen.
+    We killed a chicken and strained fresh wine,
+    Spread grass and sat beneath the tree.
+    The river gulls did not flee from us,
+    The river water so clear we could touch it with bent hand.
+    They urged me to build a cottage there,
+    Offered to clear the chestnut grove for me.
+    Though not entirely to my heart's desire,
+    Such kindness cannot be measured in mere words.
+  footnotes:
+  - key: ''
+    value: 'The moonlit chamber (月影故丈室): An allusion to the dwelling of Vimalakirti in Buddhist scripture, symbolizing a sage''s modest retreat.'
+  - key: ''
+    value: 'Old Su Dongpo (東坡老): Reference to the Song poet Su Shi, who famously lived in exile on the Eastern Slope and found contentment in rural simplicity.'
+  - key: ''
+    value: 'Ma Zhengqing (馬正卿): Likely refers to a historical figure who achieved what the poet seeks—permission and peace to settle.'
+  - key: ''
+    value: The poem appears to be written about a visit to Miryang with several scholarly friends and their associates, celebrating both the landscape and the fellowship of learned men.

@@ -1,0 +1,63 @@
+canonical:
+  title: 近峯銘
+  author: 權近
+  language: lzh
+  text: 適遐自邇升高自卑萬里之往一擧足時愼勿却步求至於斯我取而名欲以近思有老禪者同我襟期峯巒繞屋亘古在玆跬步可至夫何遠而睫在眼前知耶不知
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 近峯銘
+  author: 權近
+  language: lzh
+  text: 適遐自邇。升高自卑。萬里之往。一擧足時。愼勿却步。求至於斯。我取而名。欲以近思。有老禪者。同我襟期。峯巒繞屋。亘古在玆。跬步可至。夫何遠而。睫在眼前。知耶不知。
+korean:
+  title: 근봉 명
+  author: 권근
+  language: kor
+  text: |-
+    먼 데를 가자면 가까운 데부터 하고
+    높은 데 오르자면 낮은 데부터 하고
+    만리를 가자고 해도 한 발자국으로 시작되니
+    행여나 돌아서지 말고
+    가는 데까지 가보게나
+    내 이로써 이름한 뜻은
+    모든 것을 가깝게 여기자는 걸세
+    한 늙은 선사가 있어
+    생각이 나와 같으니
+    산 봉우리 집을 둘러
+    언제도 여기 있으니
+    한 걸음에 갈 터인데
+    무엇이 멀다 하리
+    눈썹이 눈 앞에 있는걸
+    아는가 모르는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on Near Peak
+  author: Gwon Geun
+  language: eng
+  text: |-
+    To reach what is distant, begin with what is near.
+    To climb what is high, start from what is low.
+    Though the journey spans ten thousand miles,
+    it begins with a single step.
+    So take care not to turn back—
+    go as far as your path leads.
+
+    I have named this place with purpose:
+    to teach that all things should be held as near.
+
+    There is an old master of the Way
+    whose thoughts align with mine.
+    Mountain peaks encircle this dwelling,
+    enduring here since ancient times.
+    One stride would carry you there—
+    what then makes distance?
+
+    The eyebrow rests before the eye.
+    Do you perceive it, or do you not?
+  footnotes:
+  - key: ''
+    value: The 'master of the Way' likely refers to Buddhist monks or Daoist hermits, reflecting the author's spiritual inclinations
+  - key: ''
+    value: The final image of the eyebrow before the eye is a Zen-like riddle suggesting that the closest, most obvious truths often go unrecognized

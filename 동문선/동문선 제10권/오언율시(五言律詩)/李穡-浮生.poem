@@ -1,0 +1,51 @@
+canonical:
+  title: 浮生
+  author: 李穡
+  language: lzh
+  text: 浮生安足恃老病競侵尋日月環雙鬂乾坤矢一心袖風晴倚杖衣露夜鳴琴萬慮自此靜渺然天地深
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 浮生
+  author: 李穡
+  language: lzh
+  text: 浮生安足恃。老病競侵尋。日月環雙鬂。乾坤矢一心。袖風晴倚杖。衣露夜鳴琴。萬慮自此靜。渺然天地深。
+korean:
+  title: 부생
+  author: 이색
+  language: kor
+  text: |-
+    부생을 어이 믿으리오
+    늙고 병드는 것이 다투어 침노하네
+    해와 달은 두 귀 밑에 고리요
+    건곤은 한 심에 화살이로다
+    바람이 소매에 드는데 갠 날 지팡이에 기대고
+    이슬에 옷 젖는데 밤에 거문고 울리네
+    만 생각이 이로부터 고요해지니
+    까마득하게 하늘 땅이 깊네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Fleeting Life
+  author: Lee Saek
+  language: eng
+  text: |-
+    How can I trust in this fleeting life?
+    Old age and sickness vie to wear me down.
+    The sun and moon are rings beneath my ears,
+    The cosmos, an arrow through my heart.
+
+    Wind enters my sleeves on the clear day—
+    I lean upon my staff;
+    Dew soaks my robes in the night—
+    I coax the lute to sing.
+
+    A thousand worries settle into silence,
+    And heaven and earth stretch fathomless before me.
+  footnotes:
+  - key: ''
+    value: The 'rings beneath my ears' and 'arrow through my heart' are metaphors for the relentless passage of time and the inexorable advance of age and mortality.
+  - key: ''
+    value: The imagery of wind, dew, staff, and lute suggests the poet's acceptance of natural processes and his turn toward music and contemplation as sources of solace.
+  - key: ''
+    value: The closing couplet reflects a Buddhist or Daoist sensibility—that in surrendering to the vastness of the cosmos, the mind finds peace.

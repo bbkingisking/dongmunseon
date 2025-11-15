@@ -1,0 +1,48 @@
+canonical:
+  title: 九日次淸淵詩韻
+  author: 釋禪坦
+  language: lzh
+  text: 一曲高歌金縷衣黃花無處不扶歸江湖日月琴尊好溪寺樓臺人馬稀萬壑雨驚紅樹遍四山朝見白雲飛倚欄滿目悲秋意木落年年心事違
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九日次淸淵詩韻
+  author: 釋禪坦
+  language: lzh
+  text: 一曲高歌金縷衣。黃花無處不扶歸。江湖日月琴尊好。溪寺樓臺人馬稀。萬壑雨驚紅樹遍。四山朝見白雲飛。倚欄滿目悲秋意。木落年年心事違。
+korean:
+  title: 9월 9일에 청연의 시를 차운하여
+  author: 석선탄
+  language: kor
+  text: |-
+    금루의 한 곡을 소리질러 노래하며
+    국화에 간 곳마다 술취해서 돌아가네
+    강호에 보내는 세월은 술과 거문고 좋건만
+    시냇절 누대엔 인마가 드물구나
+    만 골짜기 비 자라자 단풍이 한창이요
+    사면 산봉 아침에 흰 구름 날아가네
+    난간에 기대니 눈에 가득 슬픈 가을빛
+    해마다 낙엽 질 때엔 뜻과 일이 틀리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0630&viewSync=OT
+  footnotes: []
+english:
+  title: 'Ninth Day: Matching the Rhymes of Cheong-yeon''s Poem'
+  author: Seok Seon-tan
+  language: eng
+  text: |-
+    A song rings out in golden-threaded robes—
+    wherever chrysanthemums bloom, I return intoxicated.
+    On rivers and lakes, the months drift in wine and zither's song,
+    yet few are the travelers on the temple's tower stairs.
+
+    Ten thousand ravines fill with rain, crimson leaves spread everywhere,
+    while from all four peaks white clouds fly forth at dawn.
+    Leaning against the rail, my eyes fill with autumn's sorrow—
+    each year when leaves fall, my heart and all my plans grow distant.
+  footnotes:
+  - key: ''
+    value: The 'golden-threaded robes' reference evokes a classical celebration of the ninth day, a traditional festival time in East Asian poetry.
+  - key: ''
+    value: The monastery setting grounds this meditation in the speaker's Buddhist monastic life.
+  - key: ''
+    value: The final couplet reflects the Buddhist theme of impermanence—how external time (falling leaves) never aligns with our inner intentions.

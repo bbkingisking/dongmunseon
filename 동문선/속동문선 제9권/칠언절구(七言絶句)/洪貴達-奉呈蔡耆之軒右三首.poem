@@ -1,0 +1,55 @@
+canonical:
+  title: 奉呈蔡耆之軒右三首
+  author: 洪貴達
+  language: lzh
+  text: 中郞文雅擅當時酒後鳴絃復詠詩碧漢又招仙鶴下高標瘦影兩相宜吾家地燥未池塘尙有茅亭六月凉日晩朝回山影冷松風散髮卧匡床日日難堪趁早朝垂垂雙鬢雪飄飄正緣官府程書苦辜負親朋折簡邀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉呈蔡耆之軒右三首
+  author: 洪貴達
+  language: lzh
+  text: 中郞文雅擅當時。酒後鳴絃復詠詩。碧漢又招仙鶴下。高標瘦影兩相宜。吾家地燥未池塘。尙有茅亭六月凉。日晩朝回山影冷。松風散髮卧匡床。日日難堪趁早朝。垂垂雙鬢雪飄飄。正緣官府程書苦。辜負親朋折簡邀。
+korean:
+  title: 봉정 채기지헌우 삼수
+  author: 홍귀달
+  language: kor
+  text: |-
+    중랑의 문아는 그 때에 날리었나니
+    취한 뒤에는 거문고 타고 다시 시를 읊는다
+    푸른 은하수에서 또 선학을 불러 내려오매
+    높은 격조와 여윈 그림자 둘이 서로 걸맞다
+    우리 집은 땅이 메말라 연못은 못 팠지만
+    아직도 띠풀 정자가 있어 6월이 시원하다
+    해가 저물거나 아침이 돌아오면 산 그림자가 찬데
+    소나무 바람에 머리털을 흩날리며 큰 상에 누워 있다
+    날마다 이른 조회에 나아가기가 견디기 어려웠고
+    드리워진 두 귓머리에 눈빛이 나부낀다
+    그것은 관부에서 정서 쓰는 괴로움 때문인데
+    친한 벗들이 절간으로 청하는대로 저버렸네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0710&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중랑(中郞) : '
+    value: 한나라 말년의 사람 채옹(蔡邕)이라는 사람의 벼슬이 중랑장(中郞將)이므로 그렇게 말한다. 여기에는 이 시를 주어서 받은 사람이 체씨이므로 한 말이다.
+english:
+  title: Three Poems Respectfully Presented to Cai Kinji of the Xuanyou Pavilion
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    The gentleman's refined talents graced that age,
+    After wine, he plays the zither and recites his verse.
+    From the blue river of stars, he summons cranes to descend—
+    His lofty bearing and slender shadow match perfectly.
+
+    Our home's soil lies parched, no pond we could construct,
+    Yet still remains the thatched pavilion, cool in the sixth month.
+    When evening falls or dawn returns, the mountain's shadow chills,
+    And pine wind scatters through my hair as I recline upon the bed.
+
+    Day after day, the early court summons prove unbearable,
+    While frost gathers like snow upon my drooping temples.
+    It is the office's grinding burden that weighs upon me—
+    I have forsaken the warm invitations of cherished friends.
+  footnotes:
+  - key: ''
+    value: The gentleman (中郞) refers to the recipient, implying he holds the rank of Zhonglang-jiang (Colonel), following the example of Cai Yong from the late Han dynasty.

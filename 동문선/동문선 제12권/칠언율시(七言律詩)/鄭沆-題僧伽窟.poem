@@ -1,0 +1,50 @@
+canonical:
+  title: 題僧伽窟
+  author: 鄭沆
+  language: lzh
+  text: 崎嶇石棧躡雲行華構隣天若化城秋露輕霏千里爽夕陽遙浸一江明漾空嵐細連香穗啼谷禽閑遞磬聲可羡高僧心上事世途名利揔忘情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題僧伽窟
+  author: 鄭沆
+  language: lzh
+  text: 崎嶇石棧躡雲行。華構隣天若化城。秋露輕霏千里爽。夕陽遙浸一江明。漾空嵐細連香穗。啼谷禽閑遞磬聲。可羡高僧心上事。世途名利揔忘情。
+korean:
+  title: 제 승가굴
+  author: 정항
+  language: kor
+  text: |-
+    험준한 돌길에 구름을 밟고 올라오니
+    화려한 구조가 하늘에 닿아 화성과 같아라
+    가을 이슬이 보슬보슬 천 리가 상쾌하고
+    저녁 해는 멀리 한 강에 잠겼구나
+    공중에 일렁거리는 이내는 향연을 연이었고
+    골짝에 우는 한가한 새는 풍경소리와 섞갈리네
+    부럽구나 도가 높은 저 승의 마음
+    세상 길 명리를 온통 다 있었거니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0820&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 승가굴(僧伽窟) : '
+    value: 서울 삼각산에 있는데, 신라 중 수태(秀台)가 바위를 뚫고 굴을 만들었다.
+  - key: '[주-D002] 화성(化城) : '
+    value: 부처가 신통(神通)으로 빈 들에다 성(城)을 나타내는 것이다.
+english:
+  title: On the Sangha Cave
+  author: Jung Hang
+  language: eng
+  text: |-
+    Up jagged stone steps I climb, treading upon clouds,
+    Where ornate structures touch the heavens like a phantom city.
+    Autumn dew falls soft, perfuming a thousand leagues,
+    While the evening sun sinks deep into a distant river.
+
+    Mist dances in the void, weaving fragrant threads,
+    And birds cry in the ravine, their voices merged with temple bells.
+    How I envy that high monk's heart,
+    Who has cast away the world's glory and gain, forgetting all desire.
+  footnotes:
+  - key: ''
+    value: The Sangha Cave (僧伽窟) is located on Samgak Mountain in Seoul. It was carved from stone by the Silla monk Sutae (秀台).
+  - key: ''
+    value: The 'phantom city' (化城) refers to a miraculous illusion created by Buddhist supernatural powers—a vision of an empty realm transformed into a bustling city, symbolizing the illusory nature of worldly concerns.

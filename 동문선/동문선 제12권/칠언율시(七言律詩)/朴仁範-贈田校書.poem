@@ -1,0 +1,48 @@
+canonical:
+  title: 贈田校書
+  author: 朴仁範
+  language: lzh
+  text: 芸閣仙郞幕府賓鶴心松操古詩人淸如水鏡常無累馨比蘭蓀自有春日夕笙歌雖滿耳平生書劒不離身應憐苦戍成何事許借餘波救涸鱗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈田校書
+  author: 朴仁範
+  language: lzh
+  text: 芸閣仙郞幕府賓。鶴心松操古詩人。淸如水鏡常無累。馨比蘭蓀自有春。日夕笙歌雖滿耳。平生書劒不離身。應憐苦戍成何事。許借餘波救涸鱗。
+korean:
+  title: 증 전교서
+  author: 박인범
+  language: kor
+  text: |-
+    운각(비서각)의 선랑, 막부의 손
+    학의 마음 송백 같은 지조 옛 시인의 풍
+    맑기는 거울처럼 티끌 없는 것
+    향기롭기는 난초처럼 절로 봄일세
+    밤낮으로 들리느니 갖은 풍악 소리지만
+    평생에 몸에 지닌 건 창과 검이어라
+    괴로운 수자리에 이룬 것 없는 이 신세
+    마른 고기를 구하소 남는 물결로
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 마른[涸轍] 고기 : '
+    value: 《장자》에 “내가 어제 오는데 중도에서 부르는 자가 있어서 돌아보니 수레 가운데에 붕어가 있어 말하되, ‘말되[斗升]의 물로 나를 좀 살려 주시겠소.’하였다. 내가 대답하되, ‘그러게. 내가 이제 남으로 오월(吳越)의 왕을 찾아가 달래어 서강(西江)의 물을 튕겨다가 자네를 살려주리.’하였다. 붕어가, ‘그렇게 말한다면, 나를 차라리 마른 고기 가게에서나 찾게 될 것이오.’ 하였다.”라 하였다.
+english:
+  title: A Gift for Tian, Collator of Texts
+  author: Park In-beom
+  language: eng
+  text: |-
+    A sage scribe in the Library of Arts, a guest in the halls of office—
+    The heart of a scholar, steadfast as ancient pines and cranes,
+    Clear as still water in a mirror, forever unstained by dust,
+    Fragrant as orchids and sweet flag, bearing spring within.
+
+    Though day and night the sounds of strings and pipes fill the ears,
+    Life-long the sword and lance remain bound to the body.
+    What becomes of bitter garrison duty, what is ever achieved?
+    I beg you—spare a wave from your abundance to save this withered fish.
+  footnotes:
+  - key: ''
+    value: 'The final image alludes to Zhuangzi''s parable of the dried fish: a carp trapped in a cart begs for just a dipper of water to survive, but the well-meaning passerby promises to redirect a great river—by which time the fish will have already become dried meat in a shop. The poem uses this paradox to express how grand promises are useless to one in immediate, urgent need.'
+  - key: ''
+    value: The contrast between the refinement of the recipient (clear as water, fragrant as orchids) and the harsh reality of military service (sword and lance) suggests irony—a cultivated person trapped in unforgiving duty, hoping for compassionate intervention.

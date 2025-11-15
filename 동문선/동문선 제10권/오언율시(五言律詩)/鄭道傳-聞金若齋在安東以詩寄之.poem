@@ -1,0 +1,64 @@
+canonical:
+  title: 聞金若齋在安東以詩寄之
+  author: 鄭道傳
+  language: lzh
+  text: 滄海三年別平原一笑同風塵將歲晚天地盡途窮苦句難成讀深情默自通襄陽有山簡共醉習池中贈君詩語苦臨別不堪吟書劒遠遊客乾坤歲暮心路長黃葉下鄕近白雲深獨立離亭畔秋天易夕陰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 聞金若齋在安東以詩寄之
+  author: 鄭道傳
+  language: lzh
+  text: 滄海三年別。平原一笑同。風塵將歲晚。天地盡途窮。苦句難成讀。深情默自通。襄陽有山簡。共醉習池中。贈君詩語苦。臨別不堪吟。書劒遠遊客。乾坤歲暮心。路長黃葉下。鄕近白雲深。獨立離亭畔。秋天易夕陰。
+korean:
+  title: 김약재가 안동에 있음을 듣고 시를 부치며
+  author: 정도전
+  language: kor
+  text: |-
+    창해에 삼 년 동안 떨어져 있었고
+    평원에서 한 번 같이 웃어보았네
+    풍진 속에 장차 세월은 늦어가고
+    천지간에 간 곳마다 길이 다 되었네
+    괴로운 글귀는 읽기 어렵고
+    깊은 정은 말하지 않아도 절로 통하네
+    양양에도 산간이 있어
+    함께 습지에서 취하네
+    자네에게 주는 시 사연이 괴로워
+    이별에 다다라 차마 읊기가 어렵네
+    글과 칼 멀리 노는 손이요
+    건곤에는 한 해가 저물어가는 마음이네
+    길은 먼데 누른 잎이 지고
+    고향 가까이에 흰 구름이 깊네
+    이정 가에 혼자 섰으니
+    가을 하늘에 저녁 그늘이 쉬이 내리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 천지간에 간 곳마다 길이 다 되었네 : '
+    value: 완적(阮籍)이 술이 취하여 길 뚫린 대로 따라갔다가, 길이 다 되면 통곡(痛哭)하고 돌아왔다.
+english:
+  title: Sending a Poem to Kim Yakjae Upon Hearing He Is in Andong
+  author: Jeong Dojeon
+  language: eng
+  text: |-
+    Three years apart across the vast sea,
+    Once we laughed together on the plain.
+    Wind and dust draw the year to its close,
+    And everywhere beneath heaven the roads end.
+
+    Bitter verses are hard to read aloud,
+    Yet deep feeling needs no words to pass between us.
+    Even Shanyang had its mountain sage—
+    Let us grow drunk together by the pool.
+
+    The poems I send you carry sorrow,
+    As parting comes, I cannot bear to speak them.
+    You are a wanderer bearing books and sword,
+    Your heart heavy with the year's decline.
+
+    The road stretches long as yellow leaves fall,
+    Home draws near yet white clouds lie deep.
+    I stand alone by the pavilion gate,
+    And autumn's shadow descends with evening's ease.
+  footnotes:
+  - key: ''
+    value: The reference to 'everywhere the roads end' alludes to Ruan Ji (阮籍), a Daoist sage who would journey while drunk wherever the path led, and when reaching a dead end, would weep bitterly and return home. This suggests both the aimlessness of journey and the melancholy of life's limits.

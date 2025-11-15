@@ -1,0 +1,37 @@
+canonical:
+  title: 鄭書記
+  author: 崔惟淸
+  language: lzh
+  text: 黃花紅葉又今年老興滔滔對綺筵飮罷狂歌倚殘月十生襟抱更超然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鄭書記
+  author: 崔惟淸
+  language: lzh
+  text: 黃花紅葉又今年。老興滔滔對綺筵。飮罷狂歌倚殘月。十生襟抱更超然。
+korean:
+  title: 9일에 정서기
+  author: 최유청
+  language: kor
+  text: |-
+    누른 꽃 붉은 잎 또 한 해로구나
+    도도한 늙은 흥 기연을 대했어라
+    다 마시고 미친 노래 새벽 달에 기대니
+    반생의 심정 더욱 초연하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0390&viewSync=OT
+  footnotes: []
+english:
+  title: To Secretary Jung on the Ninth Day
+  author: Choe Yujeong
+  language: eng
+  text: |-
+    Yellow flowers, crimson leaves—another year has passed.
+    My aged spirit, surging like a tide, meets the beauty of this feast.
+    After drinking, I sing wildly, leaning against the fading moon.
+    Half a lifetime's heart grows ever more transcendent.
+  footnotes:
+  - key: ''
+    value: The 'Ninth Day' refers to the Double Ninth Festival (重陽節), celebrated on the ninth day of the ninth lunar month, traditionally associated with autumn contemplation and longevity.
+  - key: ''
+    value: The 'fading moon' suggests dawn, when the speaker, drunk and exhilarated, achieves a state of transcendence beyond worldly concerns.

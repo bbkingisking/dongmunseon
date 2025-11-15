@@ -1,0 +1,51 @@
+canonical:
+  title: 自正月步還老僧數輩送余過西溪余顧笑曰此無乃虎溪乎有禪上人者笑答曰貧道非惠遠是何言耶遂吟韻一絶
+  author: 成仲淹
+  language: lzh
+  text: 窮年抱病卧荒村此日芒鞋興復新天地無心容我輩江山有眼識詩人蹉跎已作明時棄索寞還從異類親共渡西溪成一笑擬從香社謝紅塵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自正月步還老僧數輩送余過西溪余顧笑曰此無乃虎溪乎有禪上人者笑答曰貧道非惠遠是何言耶遂吟韻一絶
+  author: 成仲淹
+  language: lzh
+  text: 窮年抱病卧荒村。此日芒鞋興復新。天地無心容我輩。江山有眼識詩人。蹉跎已作明時棄。索寞還從異類親。共渡西溪成一笑。擬從香社謝紅塵。
+korean:
+  title: 정월에 걸어 돌아오는데 노승 두어 명이 송별하려 서계를 지나자, 내가 돌아보며 말하기를,“이것이 호계가 아닌가.” 하니, 선상이라는 사람이 웃으며 대답하기를,“저 같은 이는 혜원도 아닌데 무슨 말씀이십니까.” 하여 이 시 한절을 읊었다.
+  author: 성중엄
+  language: kor
+  text: |-
+    한 해가 다하도록 병을 안고 쓸쓸한 촌에 누웠었거니
+    오늘에 짚신 신고 걸어보는 흥취가 더욱 새롭네
+    천지는 마음이 없이 우리들을 용납하는데
+    강산은 눈이 있어 시인을 알아 주는구나
+    발을 헛디뎌 이미 태평한 세상의 버림을 받았거니
+    적막하여 도리어 다른 무리를 쫓아 친하네
+    함께 서계를 건너다가 한 번 웃음 웃나니
+    향사를 본받아 홍진을 거절할까 하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0760&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 다른 무리 : '
+    value: 유학(儒學)하는 사람과 다른 도를 배우는 중들을 말한 것이다.
+  - key: '[주-D002] 함께 서계(西溪)를 …… 웃나니 : '
+    value: 진(晋)나라의 높은 중 혜원(惠遠)이 여산(盧山)  동림사(東林寺)에 있으면서 손을 전송할 때에 호계(虎溪)라는 시내를 넘어가지 않았는데, 하루는 도연명(陶淵明)과 육수정(陸修靜)을 전송하다가 모르는 사이에 시내를 지내고는 세 사람이 함께 한 번 웃었다.
+  - key: '[주-D003] 향사(香社) : '
+    value: 혜원이 여산에서 제자들과 이름있는 선비들과 결사(結社)하여 수도(修道)하였는데, 여기서는 그것을 말한 것이다. 향을 태우고 수도하는 결사라는 뜻이다.
+english:
+  title: 'Crossing West Stream in Early Spring: A Verse on Monks Sending Me Off'
+  author: Seongjung Eom
+  language: eng
+  text: |-
+    All year I lay sick in this desolate village, cradled by disease,
+    But today in straw sandals my heart springs fresh with wandering joy.
+    Though Heaven and Earth show no preference, yet bear me still,
+    The mountains and rivers have eyes—they know the poet's worth.
+    My feet have stumbled; the age of peace has cast me off,
+    In solitude I find kinship now with monks and other wanderers.
+    We cross West Stream together and cannot help but laugh—
+    Following the example of that sacred gathering, I bid farewell to the red dust.
+  footnotes:
+  - key: ''
+    value: 'The ''crossing of West Stream'' alludes to a famous Buddhist legend: Hui-yuan, a sage monk of old, made a vow never to cross Tiger Stream near his temple. One day, while seeing off the poet Tao Yuanming and the Daoist Lu Xiujing, he unknowingly crossed the stream in conversation. Upon realizing this, all three burst into laughter—the perfect expression of enlightenment transcending rigid rules.'
+  - key: ''
+    value: The 'sacred gathering' (香社) refers to the community of monks and scholars that assembled around Hui-yuan to pursue spiritual practice together, suggesting the poet's hope to abandon worldly concerns and join such a fellowship.

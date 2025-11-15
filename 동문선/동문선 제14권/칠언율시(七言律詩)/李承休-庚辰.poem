@@ -1,0 +1,48 @@
+canonical:
+  title: 庚辰
+  author: 李承休
+  language: lzh
+  text: 元侯浪出未曾聞何况經年病杜門扶腋見臨隣里怪到頭傳說士林喧豈唯頑品擡新價當有來賢尙直言見廢此身飜可賀値公親唁枉高軒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 庚辰
+  author: 李承休
+  language: lzh
+  text: 元侯浪出未曾聞。何况經年病杜門。扶腋見臨隣里怪。到頭傳說士林喧。豈唯頑品擡新價。當有來賢尙直言。見廢此身飜可賀。値公親唁枉高軒。
+korean:
+  title: 경진
+  author: 이승휴
+  language: kor
+  text: |-
+    일국의 으뜸 재상이 함부로 출입함은 처음이라
+    하물며 1년 남짓 병으로 문 밖 출입 않으시다가
+    부액하고 오니 이웃 사람들 놀라고
+    이내 소문이 나서 사림이 소란하네
+    완고한 이 물건이 새 값 오를 뿐 아니라
+    장차 올 어진 분들 곧은 말을 숭상하리
+    버려진 이 몸이 오히려 치하될 만함은
+    공이 친히 오셔 위문하기 때문이리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0750&viewSync=OT
+  footnotes: []
+english:
+  title: Gyeongsin
+  author: Lee Seung-hyu
+  language: eng
+  text: |-
+    A premier minister stepping out so freely—unheard of before.
+    What of one withdrawn by illness beyond a year's door,
+    Supported by attendants, emerging now—neighbors gape in wonder,
+    And soon the scholars' circles stir with buzzing thunder.
+
+    Not only does this worn vessel rise in esteem anew,
+    But virtuous ones to come will honor straightforward virtue too.
+    That this abandoned form should merit celebration—
+    Is it not the Minister's own visitation?
+  footnotes:
+  - key: ''
+    value: The poem celebrates the recipient's return to public life after a prolonged illness, marked by the Minister's personal visit of condolence.
+  - key: ''
+    value: The contrast between the speaker's self-deprecation ('this worn vessel,' 'abandoned form') and the honor shown through the Minister's attention underscores both humility and vindication.
+  - key: ''
+    value: '''Gyeongsin'' likely refers to a year designation in the traditional East Asian sexagenary cycle.'

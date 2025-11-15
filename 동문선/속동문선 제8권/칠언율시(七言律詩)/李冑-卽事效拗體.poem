@@ -1,0 +1,49 @@
+canonical:
+  title: 卽事效拗體
+  author: 李冑
+  language: lzh
+  text: 天開寶刹三兩間白業胡僧門不關石塔百層半空入鐵崖萬丈千古頑寒潮曉落出塩井黑霧晩消多海山遊目天涯雲更遠北書不至吾得還
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 卽事效拗體
+  author: 李冑
+  language: lzh
+  text: 天開寶刹三兩間。白業胡僧門不關。石塔百層半空入。鐵崖萬丈千古頑。寒潮曉落出塩井。黑霧晩消多海山。遊目天涯雲更遠。北書不至吾得還。
+korean:
+  title: 즉사 효요체
+  author: 이주
+  language: kor
+  text: |-
+    하늘이 두세 간의 보찰을 열었는데
+    청정한 업을 닦는 호승이 문을 걸지 않았네
+    백 층의 석탑은 반공에 들었고
+    만장의 철애는 천고에 꿋꿋하구나
+    찬 조수는 새벽에 떨어져 염정이 나오고
+    검은 안개가 늦게 사라지매 바닷가의 산이 많구나
+    눈을 하늘 가로 보내매 구름이 더욱 먼데
+    북쪽 편지 오지 않거니 내가 돌아갈 수 있으랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 요체(拗體) : '
+    value: 요(拗)는 비뚤어지고 꼬부라진 것인데, 시(詩)에 요체(拗體)란 것은 음운(音韻)이 보통의 시와 다른 것이다. 예를 들면 우리나라 시인으로는 정지상(鄭知常)의 작품이 10의 6,7은 요체에 속하는데, 녹양폐호팔구옥 명월권렴삼사인(綠揚閉戶八九屋 明月捲簾三四人) 등의 글귀가 그런 것이다.
+  - key: '[주-D002] 호승(胡僧) : '
+    value: 서역(西域)에서 온 중을 말한다.
+english:
+  title: 'On Witnessing Things: In the Awkward Style'
+  author: Lee Ju
+  language: eng
+  text: |-
+    Heaven opens a temple of jewels in two or three bays,
+    Yet the foreign monk who tends pure karma leaves its gate unbarred.
+    A stone pagoda of hundred layers rises into half the sky,
+    An iron cliff of ten thousand fathoms stands obstinate through ages.
+    Cold tides fall at dawn, exposing salt wells,
+    Black fog withdraws at dusk, revealing countless peaks by the sea.
+    Casting my gaze toward heaven's far edge, clouds stretch ever distant—
+    With no letter from the North arriving, how can I return?
+  footnotes:
+  - key: ''
+    value: The 'Awkward Style' (拗體) refers to poetry that deviates from conventional phonetic patterns and prosody, creating an irregular or deliberately jarring rhythm.
+  - key: ''
+    value: The foreign monk (胡僧) refers to a Buddhist priest from the Western Regions, evoking the arrival of Buddhism in East Asia.

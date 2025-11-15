@@ -1,0 +1,64 @@
+canonical:
+  title: 題公州錦江樓
+  author: 鄭道傳
+  language: lzh
+  text: 君不見賈傅投書湘水流翰林醉賦黃鶴樓生前轗軻無足憂逸意凜凜橫千秋又不見病夫三年滯炎州歸來又到錦江頭但見江水去悠悠那知歲月亦不留此身已與秋雲浮功名富貴復何求感今思古一長吁歌聲激冽風颼颼忽有飛來雙白鷗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題公州錦江樓
+  author: 鄭道傳
+  language: lzh
+  text: 君不見賈傅投書湘水流。翰林醉賦黃鶴樓。生前轗軻無足憂。逸意凜凜橫千秋。又不見病夫三年滯炎州。歸來又到錦江頭。但見江水去悠悠。那知歲月亦不留。此身已與秋雲浮。功名富貴復何求。感今思古一長吁。歌聲激冽風颼颼。忽有飛來雙白鷗。
+korean:
+  title: 제 공주 금강루
+  author: 정도전
+  language: kor
+  text: |-
+    그대는 못 보았나 가 태부가 상수에 글을 던지고
+    이 한림이 취하여 황학루에서 시구 남긴 것을
+    생전의 불우쯤 걱정도 않고
+    호기가 늠름히 천추에 비꼈네
+    또 보지 못했나, 병든 몸 3년 동안 염주 남방에 묶여 있다가
+    돌아와 또 금강 가에 이른 것을
+    강물이 자꾸 가는 것만 보았지
+    세월이 아니 머무르는 것 어이 알았으리
+    이 몸은 이미 둥실 뜬 가을 구름
+    공명부귀를 어찌 다시 구하리
+    고금을 생각하여 한 번 긴 한숨 쉬니
+    노랫소리 사무쳐서 바람도 우수수 부는데
+    때마침 흰 갈매기 두 마리 훨훨 날아 오는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 가 태부(賈太傅) : '
+    value: 한(漢) 가의(賈誼). 문제(文帝) 때 중용(重用)되었다가 대신들의 질투 때문에 장사왕(長沙王) 태부(太傅)로 좌천(左遷)되어, 남으로 가 상수(湘水)를 건너다가 거기에 빠져 죽은 초(楚)의 충신 굴원(屈原)을 조상하는 부(賦)를 지어 상수에 던졌다.
+  - key: '[주-D002] 황학루(黃鶴樓) : '
+    value: 당(唐) 이백(李白)이 한림학사(翰林學士)로 있다가 남방으로 쫓겨가던 도중 황학루에 올랐던 일이 있다.
+english:
+  title: Written at Geumgang Tower in Gongju
+  author: Jung Do-jeon
+  language: eng
+  text: |-
+    Have you not heard how Jia Fu cast his words upon the Xiang waters' flow?
+    How a drunken Han Lin scholar left verses at Yellow Crane Tower?
+    In life, misfortune need not trouble the unbound spirit—
+    its noble aspiration stands firm across a thousand autumns.
+
+    Nor have you seen how a sick man, bound three years in southern exile,
+    returned at last to the banks of Geumgang's shore?
+    All he witnessed was the water's ceaseless going,
+    yet who could have known that the years themselves do not remain?
+
+    This body now drifts like an autumn cloud,
+    and what more could one seek of fame and fortune?
+    Beholding past and present, I exhale one long sigh—
+    my song cuts sharp as the wind blows desolate.
+
+    Then suddenly, two white gulls come flying toward me.
+  footnotes:
+  - key: ''
+    value: Jia Fu (賈傅) refers to Jia Yi of the Han dynasty, a talented minister who was exiled as tutor to the King of Changsha due to court jealousy. He famously cast a memorial into the Xiang River honoring the ancient poet Qu Yuan, the patriotic minister of Chu.
+  - key: ''
+    value: The Yellow Crane Tower (黃鶴樓) is associated with Li Bai, who served as a Han Lin scholar before being exiled southward. He is said to have ascended this famous tower and left verses there.
+  - key: ''
+    value: The poem draws parallels between these classical poets and scholars who experienced misfortune and exile, suggesting that spiritual refinement transcends material loss and political displacement.

@@ -1,0 +1,51 @@
+canonical:
+  title: 分行驛寄忠州刺使
+  author: 鄭知常
+  language: lzh
+  text: 暮經靈鷲峯前路朝到分行樓上吟花接蜂鬚紅半吐柳藏鶯翼綠初深一軒春色無窮興千里皇華欲去心回首中原人不見白雲低地樹森森
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 分行驛寄忠州刺使
+  author: 鄭知常
+  language: lzh
+  text: 暮經靈鷲峯前路。朝到分行樓上吟。花接蜂鬚紅半吐。柳藏鶯翼綠初深。一軒春色無窮興。千里皇華欲去心。回首中原人不見。白雲低地樹森森。
+korean:
+  title: 분행역기 충주자사
+  author: 정지상
+  language: kor
+  text: |-
+    엊저녁 지난 길은 영취산(충남 서천(舒川)에 있다) 앞이라던가
+    아침에 와 읊는 이곳은 분행역 누상
+    꽃은 벌의 수염을 맞아 반쯤 방긋이 피어나고
+    버들은 꾀꼬리 날개를 감춰 갓 푸른 빛 짙어가네
+    동헌에 봄이 한창 끝없는 흥취였네
+    사절로 나간 몸 바쁜 맘 어이하리
+    중원 멀리 바라보니 사람은 안 보이고
+    흰 구름 자욱하고 나무만 가물가물
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0750&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 분행역(分行驛) : '
+    value: 경기도과천(果川)양재역(良才驛)에 속한 역. 《여지승람》
+english:
+  title: 'At Bunaeng Station: Dispatched to the Prefect of Chungju'
+  author: Jeong Jisang
+  language: eng
+  text: |-
+    Last evening's road passed before Lingju Peak,
+    This morning I arrived at the tower of Bunaeng Station to compose.
+    Flowers meet the bee's whiskers, blushing half-open,
+    Willows conceal the oriole's wings, their green deepening fresh.
+    One hall holds spring's endless delight,
+    Thousand miles away, the imperial envoy's heart grows restless.
+    Looking back toward the central plains, no people appear—
+    White clouds hang low, trees stand dark and dense.
+  footnotes:
+  - key: ''
+    value: Bunaeng Station (分行驛) was a post station under Yangje Station in Gwacheon, Gyeonggi Province.
+  - key: ''
+    value: Lingju Peak (靈鷲峯) is located in Seocheon, South Chungcheong Province.
+  - key: ''
+    value: The 'imperial envoy' (皇華) is a classical reference to one on an official diplomatic mission.
+  - key: ''
+    value: The poem employs sensory imagery of spring to contrast the speaker's official duties with the natural world left behind.

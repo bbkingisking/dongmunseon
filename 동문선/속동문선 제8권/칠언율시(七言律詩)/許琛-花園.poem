@@ -1,0 +1,57 @@
+canonical:
+  title: 花園
+  author: 許琛
+  language: lzh
+  text: 血射無成便自嗔到頭兵氣繞鉤陳聚車未必能遮道橫槊空勞枉殺人運去君臣同掩涕惡浮天地不容身蒼皇一罷繁華夢廢苑殘花寂寞春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 花園
+  author: 許琛
+  language: lzh
+  text: 血射無成便自嗔。到頭兵氣繞鉤陳。聚車未必能遮道。橫槊空勞枉殺人。運去君臣同掩涕。惡浮天地不容身。蒼皇一罷繁華夢。廢苑殘花寂寞春。
+korean:
+  title: 화원
+  author: 허침
+  language: kor
+  text: |-
+    피를 쏘아 이룸이 없어 곧 스스로 성내니
+    마침내 군사 기운이 구진을 둘러싸네
+    수레를 모은다고 반드시 길을 막을 수 없는 것이요
+    창을 비껴 들고는 공연히 억울하게 사람을 죽이기에 수고롭다
+    운수가 가매 임금과 신하는 다같이 눈물을 가리우고
+    죄악이 넘치매 천지에 용납할 곳 없었네
+    창황이 번화한 꿈을 한 번 마치었거니
+    거칠은 동산의 쇠잔한 꽃에 봄이 적막하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화원(花園) : '
+    value: 고려 최영(崔瑩)이 송도(松都)의 화원(花園)에서 이성계(李成桂)에게 잡혔으므로 이 시는 그 사실을 읊은 것이다.
+  - key: '[주-D002] 피를 쏘아 : '
+    value: 은(殷)나라 임금 무을(武乙)이 가죽 주머니에 피를 담아서 나무에 걸어 두고 활로 쏘아 터뜨리고는, “내가 하늘과 싸워서 이겼다.”한 일이 있는데, 여기서는 최영이 명(明)나라를 토벌하려던 것을 하늘을 쏘는 것과 같다고 말한 것이다.
+  - key: '[주-D003] 구진(鉤陳) : '
+    value: 별[星] 이름인데, 장군(將軍)과 삼공(三公)을 맡은 별이다.
+  - key: '[주-D004] 수레를 모은다고 …… 없는 것이요 : '
+    value: 이성계가 군사를 돌려서 개성으로 쳐들어 오는데 최영이 수레를 모아서 시가(市街)의 길을 막았다.
+  - key: '[주-D005] 창을 비껴 …… 수고롭다 : '
+    value: 최영이 쫓겨서 화원으로 들어오면서 성이 북받쳐서 문 지키는 군사를 창으로 찔러 죽였다.
+english:
+  title: The Flower Garden
+  author: Heo Chim
+  language: eng
+  text: |-
+    Blood shot at heaven yields nothing but rage.
+    At last the war-god's breath encircles the stars.
+    Gathered carts cannot block the path—
+    spears wielded in anger kill the innocent in vain.
+
+    When fortune turns, lord and servant weep together.
+    When evil floods the earth, heaven finds no room to shelter it.
+
+    Hurried, the dream of splendor ends at last.
+    In the desolate garden, spring blooms with loneliness.
+  footnotes:
+  - key: ''
+    value: This poem commemorates the capture of the military general Choe Young by General Yi Seong-gye in Songdo's Flower Garden—a pivotal moment marking the fall of Goryeo and the rise of Joseon.
+  - key: ''
+    value: The reference to shooting blood evokes the mythological act of shooting at heaven itself, suggesting Choe Young's defiant but ultimately futile resistance against the mandate of heaven.

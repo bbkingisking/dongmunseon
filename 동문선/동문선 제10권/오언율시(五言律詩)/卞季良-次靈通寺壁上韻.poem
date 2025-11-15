@@ -1,0 +1,50 @@
+canonical:
+  title: 次靈通寺壁上韻
+  author: 卞季良
+  language: lzh
+  text: 地僻塵機息樓高暑氣微鳥隨鳴磬下僧趁暮鍾歸移石雲生袖看松露滴衣秋霜山菓熟更此扣岩扉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次靈通寺壁上韻
+  author: 卞季良
+  language: lzh
+  text: 地僻塵機息。樓高暑氣微。鳥隨鳴磬下。僧趁暮鍾歸。移石雲生袖。看松露滴衣。秋霜山菓熟。更此扣岩扉。
+korean:
+  title: 차 영통사 벽상 운
+  author: 변계량
+  language: kor
+  text: |-
+    땅이 궁벽하매 티끌 마음 쉬어지고
+    다락이 높으매 더운 기가 가시네
+    새는 밥 때의 울리는 경쇠소리를 따라 내리고
+    중은 저녁종에 맞추어 돌아 온다
+    돌을 옮겨 앉으니 구름은 소매에서 일어나고
+    솔을 우러러보니 옷자락에 이슬이 드네
+    가을서리에 산과일이 익을 무렵
+    다시 이 바윗문을 두드리리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0870&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem Following the Rhyme Inscribed on the Wall of Yeongtongsa Temple
+  author: Byeon Gyeyang
+  language: eng
+  text: |-
+    The remote earth stills the mind's dust,
+    The high tower disperses the heat's weight.
+    Birds descend following the rung bell's cry,
+    Monks return when evening bells sound.
+
+    Moving stone—clouds rise from my sleeve,
+    Gazing at pines—dew falls upon my robe.
+    When autumn frost ripens the mountain's fruit,
+    I shall knock again upon this rocky door.
+  footnotes:
+  - key: ''
+    value: Yeongtongsa (靈通寺) is a Buddhist temple, likely located in a remote, mountainous region of Korea.
+  - key: ''
+    value: The poem employs the classical Korean poetic form of rhyming verse (韻), creating a meditative atmosphere characteristic of Silla Unified Period Buddhist poetry.
+  - key: ''
+    value: The imagery of birds and monks responding to temple bells reflects the ordered rhythm of monastic life, contrasting with the speaker's spiritual solitude.
+  - key: ''
+    value: The final couplet suggests the speaker's intention to return, marking the poem as both a momentary visit and a promise of future contemplation.

@@ -1,0 +1,50 @@
+canonical:
+  title: 己亥年紅賊
+  author: 金九容
+  language: lzh
+  text: 慷慨豪談笑幽齋淸夜深悲風嘶朽木苦月上踈林撫劒三長嘆停杯一浩吟鴨江豺虎滿何似健兒心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 己亥年紅賊
+  author: 金九容
+  language: lzh
+  text: 慷慨豪談笑。幽齋淸夜深。悲風嘶朽木。苦月上踈林。撫劒三長嘆。停杯一浩吟。鴨江豺虎滿。何似健兒心。
+korean:
+  title: 기해년 홍적
+  author: 김구용
+  language: kor
+  text: |-
+    강개하여 호탕하게 담소하니
+    그윽한 서재에 맑은 밤이 깊어가네
+    슬픈 바람은 썩은 나무에 울고
+    괴로운 달을 성긴 수풀에 오르네
+    칼을 만지며 세 번 길게 탄식하고
+    술잔을 멈추며 한 번 크게 읊어보네
+    압강에 도적들이 가득 찼으니
+    건아의 마음이 어떠한고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0190&viewSync=OT
+  footnotes: []
+english:
+  title: 'The Year of己亥: The Red Bandits'
+  author: Kim Gu-yong
+  language: eng
+  text: |-
+    With fervent heart I speak bold words and laugh,
+    In my quiet study, the clear night deepens.
+    Sad winds cry through the rotting wood,
+    A bitter moon climbs the sparse grove.
+
+    I touch my sword and sigh three times long,
+    I pause my cup and chant out once with force.
+    The Ak River swarms with thieves and tigers—
+    What kind of spirit does a true man possess?
+  footnotes:
+  - key: ''
+    value: The 'Year of己亥' (1659) refers to a tumultuous period in Korean history marked by political upheaval and banditry.
+  - key: ''
+    value: The 'red bandits' (홍적) likely refers to the rebel forces or bandits active during this turbulent time.
+  - key: ''
+    value: The 'Ak River' (압강) is a historical waterway, here symbolizing the region threatened by lawlessness.
+  - key: ''
+    value: The final couplet poses a philosophical question about moral character and courage in the face of societal chaos.

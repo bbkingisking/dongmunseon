@@ -1,0 +1,48 @@
+canonical:
+  title: 朴元凱
+  author: 蔡寶文
+  language: lzh
+  text: 此地來遊十餘歲今秋又作鴈南飛簾旌暮捲江山是鏡匣朝開齒髮非庭靜白沙留月色園深綠竹醉春輝腰黃眼赤新榮重來去誰云一布衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 朴元凱
+  author: 蔡寶文
+  language: lzh
+  text: 此地來遊十餘歲。今秋又作鴈南飛。簾旌暮捲江山是。鏡匣朝開齒髮非。庭靜白沙留月色。園深綠竹醉春輝。腰黃眼赤新榮重。來去誰云一布衣。
+korean:
+  title: 나주 공관에 쓰다[題羅州館] 을유년에 유학차 이 고을에 이르니, 서기 박원개
+  author: 채보문
+  language: kor
+  text: |-
+    이 땅에 와서 논 지 십여 년 만에
+    올 가을에 또 기러기처럼 남으로 왔네
+    저녁에 발 걷으니 강산은 그대로인데
+    아침에 거울을 여니 귀밑털이 변했구나
+    고요한 뜰의 흰 모래에 달빛이 머물렀고
+    깊은 정원의 푸른 대는 봄빛에 취하였네
+    허리의 누른 띠 새 영화가 중하니
+    뉘라서 나를 옛날의 그 포의라 하느뇨
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Written at the Naju Pavilion
+  author: Chae Bo-mun
+  language: eng
+  text: |-
+    Ten years have passed since I first came to wander this land,
+    Yet autumn brings me south again, like geese in flight.
+    At dusk the river and mountains remain as they were,
+    But morning's mirror shows me—my temples have turned gray.
+
+    White sand in the quiet courtyard holds the moonlight,
+    Green bamboo in the deep garden dreams in spring's radiance.
+    The yellow sash at my waist speaks of new honors,
+    Who would now call me a simple man in plain robes?
+  footnotes:
+  - key: ''
+    value: The poem references Park Won-gae (朴元凱), likely the person the author is visiting or writing about at the Naju Pavilion.
+  - key: ''
+    value: The 'yellow sash' represents official rank and newfound status, contrasting with the 'plain robes' of humble origins.
+  - key: ''
+    value: The poem captures the tension between temporal change (personal aging, career advancement) and the timeless beauty of nature.

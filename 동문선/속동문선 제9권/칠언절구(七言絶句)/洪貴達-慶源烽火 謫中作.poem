@@ -1,0 +1,37 @@
+canonical:
+  title: 慶源烽火 謫中作
+  author: 洪貴達
+  language: lzh
+  text: 邊日西斜已夕烽此時城闕動昏鍾我身恨不如烽火飛到南山屋上峯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 慶源烽火 謫中作
+  author: 洪貴達
+  language: lzh
+  text: 邊日西斜已夕烽。此時城闕動昏鍾。我身恨不如烽火。飛到南山屋上峯。
+korean:
+  title: 경원 봉화 적중작
+  author: 홍귀달
+  language: kor
+  text: |-
+    변경의 해가 서쪽으로 기울자 저녁 봉화 오르고
+    이때에 성궐에는 저녁 종이 울린다
+    내 몸이 저 봉화보다 못한 것을 한하노니
+    날아서 남산 옥상의 봉우리로 가는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0720&viewSync=OT
+  footnotes: []
+english:
+  title: 'Beacon Fire at Gyeongwon: Written in Exile'
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    As the sun tilts westward at the frontier, the evening beacon rises.
+    At this hour, the palace bells toll in the gathering dusk.
+    I lament that my body is less fortunate than that beacon fire—
+    I cannot fly to the summit of the mountain beyond the southern tower.
+  footnotes:
+  - key: ''
+    value: The beacon fire serves as a metaphor for the poet's longing for freedom and swift communication—the beacon can travel where the exiled poet cannot.
+  - key: ''
+    value: The poem was composed during the author's exile, a period of political disgrace in traditional Korean society.

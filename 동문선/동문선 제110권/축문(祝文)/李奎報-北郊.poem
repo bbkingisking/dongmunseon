@@ -1,0 +1,31 @@
+canonical:
+  title: 北郊
+  author: 李奎報
+  language: lzh
+  text: 地財方長天澤久愆况當南火之辰遭此亢旱玆致北郊之告禱于明神惟兾靈威僉加聦享以一雨霈然之賜慰三農仰止之心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 北郊
+  author: 李奎報
+  language: lzh
+  text: 地財方長。天澤久愆。况當南火之辰。遭此亢旱。玆致北郊之告。禱于明神。惟兾靈威。僉加聦享。以一雨霈然之賜。慰三農仰止之心。
+korean:
+  title: 북교
+  author: 이규보
+  language: kor
+  text: 땅의 생산물이 이제 한창 성장할 때에 오래도록 하늘의 은택이 결핍하였습니다. 하물며, 이 뜨거운 한여름에 이러한 극도의 가뭄을 만난 일이겠습니까. 이에 북교(北郊)에 고유(告由)하여 영명하신 신에게 기도하오니, 오직 바라건대, 신령의 위엄으로 총명하시게 흠향하시고, 한번 쏟듯이 비를 내리시어, 모든 농사가 하늘만 쳐다보는 마음을 달래어 주옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Prayer at the Northern Suburbs
+  author: Lee Gyubo
+  language: eng
+  text: The earth's bounty was flourishing, yet heaven's blessings have long been withheld. And now, in this scorching summer's height, we face a drought most severe. Thus I make this proclamation at the Northern Suburbs, offering prayer to the luminous gods. I humbly beseech that through divine majesty and celestial wisdom, a single torrential rain might descend—that the farmers' upturned faces, forever gazing skyward in supplication, might finally know relief.
+  footnotes:
+  - key: ''
+    value: The Northern Suburbs (北郊) was a traditional ritual site where Korean rulers and officials performed sacrifices and prayers for rain during droughts.
+  - key: ''
+    value: The reference to 'South Fire's season' (南火之辰) indicates the hottest months of summer in classical Chinese seasonal cycles.
+  - key: ''
+    value: The 'three farmers' (三農) represents the agricultural people and their livelihood, central to the prosperity of the kingdom.

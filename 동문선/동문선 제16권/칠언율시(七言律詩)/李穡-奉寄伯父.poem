@@ -1,0 +1,47 @@
+canonical:
+  title: 奉寄伯父
+  author: 李穡
+  language: lzh
+  text: 西風昨夜入庭柯回首思親可若何藍浦蓴絲飛醉席鎭江秋色滿漁蓑弟兄無故懽情足父老相從樂事多獨恨遠遊心况惡黃塵眯目語音訛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉寄伯父
+  author: 李穡
+  language: lzh
+  text: 西風昨夜入庭柯。回首思親可若何。藍浦蓴絲飛醉席。鎭江秋色滿漁蓑。弟兄無故懽情足。父老相從樂事多。獨恨遠遊心况惡。黃塵眯目語音訛。
+korean:
+  title: 봉기 백부
+  author: 이색
+  language: kor
+  text: |-
+    서풍이 어젯밤에 뜰 앞 나무에 들어오니
+    머리 돌려 어버이 생각 그 어떠하오리까
+    남포의 순나물이 술자리에 올랐겠고
+    진강의 가을빛은 어부 도롱이에 가득했으리
+    형제들 무고하니 기쁜 정 족하리이다
+    부로가 서로 주고받던 즐거운 일 하 많으리
+    멀리 다니는 회포도 언짢으니
+    먼지에 눈이 흐리고 말소리도 변했네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0610&viewSync=OT
+  footnotes: []
+english:
+  title: To My Paternal Uncle
+  author: Lee Saek
+  language: eng
+  text: |-
+    The west wind enters the courtyard trees on this autumn night—
+    I turn my head to think of my parents: what can I do?
+    The water shield of the southern river rises to the feast,
+    While autumn colors of the Zhenjiang waters fill the fisherman's robe.
+    Brothers without discord find joy enough in kinship,
+    And fathers and elders have many pleasures in their gatherings.
+    Only this troubles me—the sorrow of distant wandering:
+    Dust dims my eyes, and my voice has grown strange.
+  footnotes:
+  - key: ''
+    value: Zhenjiang (鎭江) is a historical place in China known for its autumn scenery, used here to evoke the speaker's longing for home and loved ones.
+  - key: ''
+    value: The 'fisherman's robe' (蓑) is a traditional garment, but here represents the simple life of those who remain at home while the speaker travels abroad.
+  - key: ''
+    value: The poem subtly contrasts the warmth of family gatherings at home with the speaker's isolation and alienation in distant lands, where even his voice has become unrecognizable.

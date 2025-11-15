@@ -1,0 +1,37 @@
+canonical:
+  title: 從毅陵宴杏園
+  author: 尹澤
+  language: lzh
+  text: 雨灑紅簾酒滿尊檀槽一曲感皇恩城南春色皆圍遶應爲東君在此園
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 從毅陵宴杏園
+  author: 尹澤
+  language: lzh
+  text: 雨灑紅簾酒滿尊。檀槽一曲感皇恩。城南春色皆圍遶。應爲東君在此園。
+korean:
+  title: 종의릉연행원
+  author: 윤택
+  language: kor
+  text: |-
+    비는 붉은 주렴에 뿌리고 술은 두루미에 찼는데
+    단조(비파(琵琶)) 한 곡조에 임의 은혜 느껴지네
+    성 남쪽의 봄빛이 다 둘러쌌거니
+    아마 동군이 이 동산에 있기 때문이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동군(東君) : '
+    value: 동군(東君)은 봄을 맡은 신(神)을 일컫는데, 여기서는 임금이 동군(東君)이란 뜻이다.
+english:
+  title: Banquet at the Apricot Garden with Lord Uiryeong
+  author: Yun Taek
+  language: eng
+  text: |-
+    Rain falls upon the crimson curtains as wine fills the goblet to the brim.
+    A single melody from the lute stirs within me the gratitude for Your Majesty's grace.
+    The spring colors south of the city surround us on every side—
+    Surely it is because the Lord of Spring himself dwells in this garden.
+  footnotes:
+  - key: ''
+    value: The 'Lord of Spring' (東君) is a classical reference to the deity governing spring, here used as a honorific for the reigning monarch, suggesting the ruler brings prosperity and renewal as spring itself does.

@@ -1,0 +1,50 @@
+canonical:
+  title: 在燕京將還贈書狀
+  author: 洪貴達
+  language: lzh
+  text: 明朝擬向海東天鶴野龍灣興杳然千里暮雲隨去馬一江秋色載歸船錦囊貯句多君富玉署登名愧我先更辦蜀牋三萬幅付君揮灑紀行篇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 在燕京將還贈書狀
+  author: 洪貴達
+  language: lzh
+  text: 明朝擬向海東天。鶴野龍灣興杳然。千里暮雲隨去馬。一江秋色載歸船。錦囊貯句多君富。玉署登名愧我先。更辦蜀牋三萬幅。付君揮灑紀行篇。
+korean:
+  title: 재연경 장환 증서장
+  author: 홍귀달
+  language: kor
+  text: |-
+    내일 아침이면 해동의 하늘을 향하게 되리니
+    학야와 용만의 흥이 아득하여라
+    천리의 저믄 구름은 가는 발을 따르고
+    한 강의 가을 빛은 돌아가는 배에 실리리라
+    비단 주머니에 쌓은 글귀는 그대가 많은데
+    옥서에 오른 이름은 내가 먼저인 것이 부끄럽다
+    다시 촉전의 3만 폭을 마련하여
+    그대에게 붙여 기행편을 휘쇄하게 하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 촉전(蜀牋) : '
+    value: 당나라 시대에 설도(薛濤)라는 기생이 좋은 종이를 새로 고안하였으므로, 그것을 설도전(薛濤牋)이라 하고, 또 그가 살았던 곳의 이름을 따라 촉전이라고도 한다
+english:
+  title: Parting Gift of Books in Yanjing Before Returning to the East
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    Tomorrow morning I shall turn my face toward the sky of the Eastern Sea,
+    Where the cranes' wilderness and dragons' bays fade into distant mist.
+    Thousands of miles of evening clouds follow the hoofbeats of my departure,
+    While autumn's gleam upon the river sails with me homeward.
+
+    Your silken pouch overflows with verses rich and manifold,
+    Yet my name inscribed in the Jade Archive came before yours—a shame to bear.
+    Let me prepare thirty thousand sheets of finest Shu paper,
+    That you might inscribe upon them tales of your traveling journey.
+  footnotes:
+  - key: ''
+    value: The 'Jade Archive' (玉署) refers to official court records and honorable positions.
+  - key: ''
+    value: Shu paper (蜀牋) references the celebrated papers of ancient Shu, traditionally associated with the refined works of literati.
+  - key: ''
+    value: The poem is addressed to a fellow scholar departing from Yanjing (Beijing), expressing both admiration and gracious humility through the offering of fine paper for the friend's literary compositions.

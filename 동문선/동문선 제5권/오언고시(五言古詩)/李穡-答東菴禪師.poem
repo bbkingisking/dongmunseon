@@ -1,0 +1,99 @@
+canonical:
+  title: 答東菴禪師
+  author: 李穡
+  language: lzh
+  text: 今夕是何夕白酒傾金壺蒲萄結層陰淸風生座隅東菴三韓秀巉巉玉蘇屠游戲於斯文疊璧聯雙珠愧我辱酬唱芝蘭雜軒于張羅獵佳句儼開左右孟疇昔先人在契深三笑圖春風與秋月詩酒爲摴蒱超然名敎外肯復論肥癯鶴去雲獨留傷心人世殊豚犬亦何幸藤蔓纏葫蘆巵酒不敢辭詩令不敢逋醉吟視萬古擾擾同一途
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 答東菴禪師
+  author: 李穡
+  language: lzh
+  text: 今夕是何夕。白酒傾金壺。蒲萄結層陰。淸風生座隅。東菴三韓秀。巉巉玉蘇屠。游戲於斯文。疊璧聯雙珠。愧我辱酬唱。芝蘭雜軒于。張羅獵佳句。儼開左右孟。疇昔先人在。契深三笑圖。春風與秋月。詩酒爲摴蒱。超然名敎外。肯復論肥癯。鶴去雲獨留。傷心人世殊。豚犬亦何幸。藤蔓纏葫蘆。巵酒不敢辭。詩令不敢逋。醉吟視萬古。擾擾同一途。
+korean:
+  title: 답 동암선사
+  author: 이색
+  language: kor
+  text: |-
+    오늘 저녁이 무슨 저녁인가
+    금병의 흰 술을 기울인다
+    포도는 겹겹이 그늘 맺었는데
+    맑은 바람은 자리 한 구석에서 난다
+    동암은 우리 삼한의 수재
+    높고 높은 옥으로 된 소도(마을 앞에 세운 둘기둥)이다
+    아, 사문에 유희하여
+    첩벽이 쌍주를 이었다
+    부끄럽다 내가 수창을 욕되게 하니
+    지초와 난초가 헌우(취초(臭草))에 섞인 듯
+    그물을 벌려 아름다운 글귀를 사냥하는데
+    엄연히 좌우ㆍ우우(모두 사냥하는 진(陣)의 이름)를 열어 놓았네
+    전날 선인이 생존하였을 때에
+    그 교분은 삼소도보다 깊었었거니
+    봄바람과 가을 달에
+    시와 술로 내기했네
+    명교(유교(儒敎)) 밖에 초연하였으니
+    살찌고 여윔을 어찌 의논하랴
+    학은 가고 구름만 머물렀으니
+    인간 세상의 변천을 슬퍼하노라
+    돈견인 내가 무슨 다행으로
+    등 덩굴이 박 덩굴에 얽히었도다
+    잔술을 감히 사양하지 못하고
+    시령을 감히 벗어나지 못하네
+    취하여 읊조리며 만고를 훑어보니
+    부산하고 시끄럽긴 한 길이로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 첩벽(疊璧)이 쌍주(雙珠)를 이었다 : '
+    value: 문장이 구슬을 중첩으로 꿰어 놓은 듯하다는 말이다.
+  - key: '[주-D002] 삼소도(三笑圖) : '
+    value: 혜원(慧遠)이 여산(驪山)동림사(東林寺)에 있었는데, 도연명(陶淵明)과 육수정(陸修靜)이 찾아 왔다가 돌아갈 때, 혜원이 전송하매, 평일에는 손님 전송에 호계(虎溪)를 넘지 않았는데 이 날은 세 사람이 이야기하다가 어느덧 호계를 지나 왔으므로 모두 웃었다. 후세의 사람들이 삼소도(三笑圖)를 그려서 전하였다.
+  - key: '[주-D003] 돈견(豚犬) : '
+    value: 자기 아들을 남에게 말할 때 낮추어 ‘돈견’이라 하는데, 그 유래를 보면, 오대(五代) 때에 양주(梁主) 주온(朱溫)이 진주(晋主) 이극용(李克用)의 죽음을 틈타서 진나라를 치다가 극용의 아들에게 크게 패하자, “자식을 낳으려거든 이아자(李亞子 이극용의 아들 이존욱(李存勖)을 말함) 같은 이를 낳아야 한다. 내 아들은 돼지나 개이다.” 하여, 후세에서 자기 아들을 겸사(謙辭)로 말할 때에는 ‘돈견’이라 한다.
+  - key: '[주-D004] 시령(詩令) : '
+    value: 시인들이 모여서 시를 짓는데, 시를 꼭 지어야 한다든지, 시간을 정한다든지, 어떤 조건을 정하여 어기면 벌을 받는 것을 말한다.
+  - key: '[주-D001] 孟 : '
+    value: 盂
+english:
+  title: Reply to Zen Master Dongam
+  author: Lee Saeк
+  language: eng
+  text: |-
+    What evening is this evening?
+    I pour white wine from a golden vessel.
+    Grape vines weave their layered shade,
+    While cool wind stirs in the corner of our seat.
+
+    Dongam—sage of our Three Kingdoms,
+    Towering like jade pillars at the gateway—
+    We play with words and letters here,
+    Stacking pearls like polished jade.
+
+    Shamed am I to answer your song,
+    Where fragrant orchids mix with common weeds,
+    Casting nets to hunt fine verses,
+    Opening ranks left and right.
+
+    When the ancients lived before,
+    Our bond ran deeper than the laughing stream—
+    That moment when the sage forgot to stop,
+    And crossed the tiger's crossing with his friends.
+
+    Spring wind and autumn moon
+    Became the stakes of our poetry and wine.
+    Free from all the rules of men,
+    Why speak of fat or lean?
+
+    The crane has flown, clouds remain,
+    And I grieve how the human world transforms.
+    Even a simple fool like me
+    Finds his vines entangled with another's gourd.
+
+    I cannot refuse the offered cup,
+    Nor escape the poet's forfeit game.
+    Drunk, I hum and trace ten thousand ages—
+    All turmoil and noise upon one endless path.
+  footnotes:
+  - key: ''
+    value: 'The Three Laughs: A reference to a famous Buddhist tale of Huiyuan, the Daoist Lu Xiujing, and the poet Tao Yuanming meeting at a temple. Legend says they laughed together when they realized they had walked beyond the Tiger Stream, which the master had sworn never to cross.'
+  - key: ''
+    value: The poem employs the conceit of comparing well-crafted verses to pearls strung together, emphasizing the artistry of poetic composition.

@@ -1,0 +1,31 @@
+canonical:
+  title: 題眞贊後
+  author: 鄭道傳
+  language: lzh
+  text: 右眞贊二篇陽村權可遠所作也不揚之貌奚足以辱先生之筆哉而其言有過當者予甚愧焉然從游旣久則相觀亦深矣其有不可誣者乎崔氏眞贊乃畫外傳神也於是誌之以示子孫耳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題眞贊後
+  author: 鄭道傳
+  language: lzh
+  text: 右眞贊二篇。陽村權可遠所作也。不揚之貌。奚足以辱先生之筆哉。而其言有過當者。予甚愧焉。然從游旣久。則相觀亦深矣。其有不可誣者乎。崔氏眞贊。乃畫外傳神也。於是誌之以示子孫耳。
+korean:
+  title: 제 진찬 후
+  author: 정도전
+  language: kor
+  text: 위의 〈진찬〉 두 편은 양촌(陽村) 권가원(權可遠)이 지은 것이다. 족히 찬양할 것이 못 되는 모습으로 어찌 선생의 붓을 욕되게 하리요만, 그 말이 도에 지나침이 있어 내 심히 부끄러워한다. 그러나 종유한 것이 이미 오래 되었으므로 서로 관찰한 것도 또한 깊을 것이니, 그 속일 수 없는 것이 있더란 말인가. 최(崔)씨의 〈진찬〉은 곧 그림 밖에서 정신을 얻은 것이다. 이에 이를 기록하여 자손들에게 보이는 바이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1060_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: Postscript to Eulogies of Portraits
+  author: Jeong Do-jeon
+  language: eng
+  text: The two eulogies above were composed by Gwon Ka-won of Yangchon. Though the subject lacks sufficient merit to honor the brush of such a master, I confess I am deeply ashamed that his words exceed what is fitting. Yet since we have studied together for so long, our mutual observation has grown equally deep—can there not be truth in what escapes refutation? The eulogy by Master Choi captures the spirit that transcends the painted form itself. Therefore I record this to show to my descendants.
+  footnotes:
+  - key: ''
+    value: Yangchon (陽村) refers to Gwon Ka-won, whose courtesy name was Yangchon.
+  - key: ''
+    value: The 'two eulogies' were prose tributes written to accompany portraits, a common literary genre in classical East Asia.
+  - key: ''
+    value: The reference to 'painting beyond the painting' (畫外傳神) is a classical aesthetic principle suggesting that true artistic merit lies in capturing essence rather than mere appearance.

@@ -1,0 +1,54 @@
+canonical:
+  title: 曉雨
+  author: 李穡
+  language: lzh
+  text: 淸晨小雨洒茅簷客興悠然白柄鎞江上平田煙漠漠山崖細逕草纖纖載花侯館初開塢沽酒詩家欲典衫最是病夫謀口腹海天歸思滿歸帆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 曉雨
+  author: 李穡
+  language: lzh
+  text: 淸晨小雨洒茅簷。客興悠然白柄鎞。江上平田煙漠漠。山崖細逕草纖纖。載花侯館初開塢。沽酒詩家欲典衫。最是病夫謀口腹。海天歸思滿歸帆。
+korean:
+  title: 요우
+  author: 이색
+  language: kor
+  text: |-
+    첫새벽에 보슬비가 초가 처마에 내리니
+    나그네 생각이 흰 자루 보습으로 쏠리네
+    강변 펀펀한 밭엔 아지랑이 아른아른
+    산비탈 좁은 길엔 풀이 뾰죽뾰죽
+    꽃을 실어다 나르는 집에선 처음 화원을 열고
+    시인은 술 사기에 옷을 전당잡히려 하네
+    나는 병든 몸 구복만을 꾀하노니
+    바다에 둥실 돛 달고 고향 돌아갈 생각 뿐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0680&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 흰 자루 보습 : '
+    value: 두보의 시에 “장참장참백목참(長鑱長鑱白木鑱)”이란 구절이 있다.
+english:
+  title: Morning Rain
+  author: Lee Saek
+  language: eng
+  text: |-
+    At early dawn the drizzle falls
+    On thatched eaves where it gently calls.
+    A traveler's thoughts turn inward there,
+    To white-handled spade and garden care.
+
+    Across the river, misty fields appear,
+    Where heat-shimmer wavers far and near.
+    On mountain slopes the narrow paths wind through,
+    With grasses thin and pointed as they grew.
+
+    At the house that bears the flowers away,
+    New gardens open to the light of day.
+    The poet pawn his robes to buy some wine—
+    While I, this frail one, seek but bread and brine.
+
+    My only thought, as white sails catch the breeze,
+    Is homeward sailing on the distant seas.
+  footnotes:
+  - key: ''
+    value: The image of the white-handled spade is an allusion to Du Fu's poetry, evoking the life of humble labor and agricultural toil.

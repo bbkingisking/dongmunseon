@@ -1,0 +1,39 @@
+canonical:
+  title: 又
+  author: 吳延寵
+  language: lzh
+  text: 疆畛云殊雖限居於千里聖神有作欣同遇於一時封章洎達於嚴宸行李想由於化邑爰附與書之問覬增視履之祥
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 又
+  author: 吳延寵
+  language: lzh
+  text: 疆畛云殊。雖限居於千里。聖神有作。欣同遇於一時。封章洎達於嚴宸。行李想由於化邑。爰附與書之問。覬增視履之祥。
+korean:
+  title: 우
+  author: 오연총
+  language: kor
+  text: 경계가 달라서 비록 거주지가 천 리에 한정되었으나, 성신(聖神)이 작흥(作興)하여 한 때에 같이 만나게 된 것이 기쁩니다. 봉장(封章)을 대궐에 바치게 됨에 행리(行李)가 귀지(貴地)를 경유할 듯하여 드디어 문안의 서신을 드리며 기체가 평안하시기를 빕니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Again
+  author: Wu Yeon-chong
+  language: eng
+  text: |-
+    Though boundaries divide us and our homes are separated by a thousand li,
+    when the sage and divine work their will,
+    we rejoice to meet in a single moment.
+
+    As sealed memorials reach the imperial gates,
+    the messenger's path winds through those honored lands.
+    Thus I send this letter of inquiry,
+    hoping to bring tidings of your peaceful days.
+  footnotes:
+  - key: ''
+    value: The 'sage and divine' (聖神) likely refers to the ruler whose will brings separated officials or scholars together despite distance.
+  - key: ''
+    value: The 'sealed memorials' (封章) represent official documents being presented to the court, suggesting the speaker's journey or communication is official in nature.
+  - key: ''
+    value: 'The poem employs a common trope of Korean Neo-Confucian verse: expressing joy at unexpected communion across physical separation through providential or political circumstance.'

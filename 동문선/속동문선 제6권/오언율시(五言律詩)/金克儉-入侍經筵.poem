@@ -1,0 +1,48 @@
+canonical:
+  title: 入侍經筵
+  author: 金克儉
+  language: lzh
+  text: 肅肅金門闢丁丁玉漏殘淸霜飛劒佩破月照鵷鸞對仗言猶切封章墨未乾休言雙鬢白猶自片心丹
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 入侍經筵
+  author: 金克儉
+  language: lzh
+  text: 肅肅金門闢。丁丁玉漏殘。淸霜飛劒佩。破月照鵷鸞。對仗言猶切。封章墨未乾。休言雙鬢白。猶自片心丹。
+korean:
+  title: 입시 경연
+  author: 김극검
+  language: kor
+  text: |-
+    숙숙히 금문(임금 있는 대궐문) 여니
+    정정히 옥루(밤시간 알리는 물시계)가 쇠잔하다
+    맑은 서리는 검패(대관들이 차고 있는 것)를 날리고
+    부서진 달은 원란(여러 벼슬하는 사람들)을 비춘다
+    의장을 대하매 말이 아직 간절하고
+    장(임금에게 올리는 글)을 봉하매 먹이 아직 안 말랐다
+    두 살쩍이 희었다고 말하지 말라
+    한 조각 마음은 아직도 붉었나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0280&viewSync=OT
+  footnotes: []
+english:
+  title: Attending the Royal Lecture
+  author: Kim Geuk-geom
+  language: eng
+  text: |-
+    Solemnly the golden gates swing open.
+    Tick-tock—the jade water-clock grows faint.
+    Clear frost scatters the sword-adorned belt.
+    A shattered moon illuminates the gathered officials.
+
+    Facing the throne, my words still burn with urgency.
+    Sealing the memorial, the ink remains wet.
+    Do not speak of my whitened temples—
+    for still, one corner of my heart glows red.
+  footnotes:
+  - key: ''
+    value: The 'jade water-clock' refers to the clepsydra used in the palace to mark the hours of night—here suggesting the late hour of this audience and the speaker's dedication.
+  - key: ''
+    value: The 'sword-adorned belt' and 'gathered officials' evoke the formal court setting and the speaker's rank among the nobility.
+  - key: ''
+    value: 'The final couplet employs a common poetic conceit: despite outward signs of age, the speaker''s inner resolve and loyalty remain undiminished.'

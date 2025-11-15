@@ -1,0 +1,52 @@
+canonical:
+  title: 鳳州龍湫
+  author: 李齊賢
+  language: lzh
+  text: 山前翠石雙扉啓石底澄潭萬丈深明浸日光紛閃閃冷涵林影淨沉沉斯民政要滋湯旱彼相誰堪作說霖出沒魚兒休察見龍應先遣試人心
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鳳州龍湫
+  author: 李齊賢
+  language: lzh
+  text: 山前翠石雙扉啓。石底澄潭萬丈深。明浸日光紛閃閃。冷涵林影淨沉沉。斯民政要滋湯旱。彼相誰堪作說霖。出沒魚兒休察見。龍應先遣試人心。
+korean:
+  title: 봉주 용추
+  author: 이제현
+  language: kor
+  text: |-
+    산 앞에 푸르른 두 돌문[석문]이 열렸는데
+    돌 밑에 맑은 소가 만 길이나 깊구나
+    햇빛을 밝게 받아 눈부시게 반짝반짝
+    서늘한 숲그림자 잠겨 침침하여라
+    이 백성들 탕 임금 때 가뭄에 비를 바라거니
+    어느 정승이 부열의 장마를 내릴 만한가
+    나드는 작은 고기들아 살펴보지 말아라
+    아마도 용이 널 보내 인심 시험하는 듯하니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 탕(湯) 임금 때 가뭄 : '
+    value: 은(殷)의 시조 탕(湯) 임금 때 7년 동안 큰 가뭄이 있었다.
+  - key: '[주-D002] 부열(傅說)의 장마 : '
+    value: 은(殷) 고종(高宗)이 현상(賢相) 부열을 얻어 나라가 잘 다스려졌다. 고종이 부열에게 명하는 사(辭)에 “만일 해가 너무 가물거든, 너를 써 장마비를 지으리라[若歲大旱 用汝作霖雨].” 하였다. 《書傳 說命》
+english:
+  title: Dragon Pool at Fengzhou
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    Before the mountain, two emerald stone gates swing wide,
+    Beneath the stone, a clear pool plunges ten thousand fathoms deep.
+    Bright sunlight floods it, scattering in dazzling shimmer,
+    Cool forest shadows pool within, stillness upon stillness.
+
+    Our people long for rain as in Tang's drought of old,
+    Yet who among the ministers can bring forth storms like Fu Yue?
+    Small fish that dart and vanish—do not pause to watch,
+    For the dragon sends you forth to test the hearts of men.
+  footnotes:
+  - key: ''
+    value: Tang refers to the founding emperor of the Shang Dynasty, whose reign was marked by a seven-year drought—a classical reference to times of great need.
+  - key: ''
+    value: Fu Yue was a legendary wise minister of the Shang emperor Gao Zong. According to tradition, the emperor declared he would use Fu Yue's counsel to bring rain during droughts, comparing his wisdom to life-giving storms.
+  - key: ''
+    value: The poem plays on the image of fish in the dragon pool as messengers, suggesting that even ordinary creatures serve the dragon's inscrutable purposes of testing human virtue and character.

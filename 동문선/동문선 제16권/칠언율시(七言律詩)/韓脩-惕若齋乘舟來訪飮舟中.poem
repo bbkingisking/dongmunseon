@@ -1,0 +1,46 @@
+canonical:
+  title: 惕若齋乘舟來訪飮舟中
+  author: 韓脩
+  language: lzh
+  text: 驪江煙雨泛扁舟隨意隨流或泝流千點岡巒同暗淡兩邊花木各淸幽魚因知樂潛相趁鳥識忘機近尙浮不有詩仙居此地豈能爲此畫中遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 惕若齋乘舟來訪飮舟中
+  author: 韓脩
+  language: lzh
+  text: 驪江煙雨泛扁舟。隨意隨流或泝流。千點岡巒同暗淡。兩邊花木各淸幽。魚因知樂潛相趁。鳥識忘機近尙浮。不有詩仙居此地。豈能爲此畫中遊。
+korean:
+  title: 척약재 승주래방 음 주중
+  author: 한수
+  language: kor
+  text: |-
+    여강 안개 비에 조각 배를 띄우고
+    뜻대로 물따라 내려가기도 거슬러 올라가기도
+    천 점 봉우리는 모두 다 수묵 빛
+    양 옆 꽃나무들 각기 맑고 그윽하구나
+    고기들도 낙을 알아 물에 잠겨 서로 따르고
+    새는 저 안 잡을 줄 알고 가까히 가도 그대로 있네
+    이 고장에 살고 있는 시선 곧 아니면
+    이 멋진 그림속 놀음 어찌 하여 보리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고기들도 낙(樂)을 알아 : '
+    value: 장자(莊子)가 혜자(惠子)와 함께 호량(濠梁)에서 고기[魚]의 노는 것을 구경하다가. “고기들이 즐겁겠구나.” 하니, 혜자는, “자네는 고기가 아닌데 어찌 고기의 즐거운 줄을 아는가.” 하였다. 장자는, “자네는 내가 아니면서 어찌 내가 고기의 즐거움을 알지 못할 줄을 아는가.” 하였다.
+english:
+  title: Visiting by Boat to Tiruoktjae, Drinking Aboard the Vessel
+  author: Han Su
+  language: eng
+  text: |-
+    On the Yegang River, mist and rain drift with the small boat,
+    Following the current's whim, now drifting downstream, now pushing against the flow.
+    A thousand peaks dissolve in ink-wash tones,
+    Flowers and trees on either bank, each in their own quiet grace.
+
+    The fish, knowing joy, gather in the depths to follow,
+    The birds, wise to the art of letting go, drift near without fear.
+    Without a poet-immortal dwelling in this place,
+    How could one ever wander through a painting such as this?
+  footnotes:
+  - key: ''
+    value: The reference to fish knowing joy alludes to Zhuangzi's famous dialogue with Huizi at Haoling Bridge, where Zhuangzi observes the fish's delight in the water, suggesting a philosophical harmony between observer and observed when free from the constraints of artifice.

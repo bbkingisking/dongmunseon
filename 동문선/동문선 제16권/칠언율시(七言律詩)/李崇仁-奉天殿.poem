@@ -1,0 +1,46 @@
+canonical:
+  title: 奉天殿
+  author: 李崇仁
+  language: lzh
+  text: 煌煌蠟燭照彤墻宮漏聲催動曙光彩仗分開庭上下赭袍高拱殿中央梯航玉帛通蠻貊禮樂衣冠邁漢唐朝罷更叨霑錫宴東風吹暖泛椒觴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉天殿
+  author: 李崇仁
+  language: lzh
+  text: 煌煌蠟燭照彤墻。宮漏聲催動曙光。彩仗分開庭上下。赭袍高拱殿中央。梯航玉帛通蠻貊。禮樂衣冠邁漢唐。朝罷更叨霑錫宴。東風吹暖泛椒觴。
+korean:
+  title: 설날 봉천전
+  author: 이숭인
+  language: kor
+  text: |-
+    촛불이 휘황하게 붉은 담을 비추는데
+    궁중의 누수 소리 새벽빛을 재촉하네
+    채장이 뜰 아래 위에 나뉘어 늘어서고
+    용포는 대궐 한가운데 드높이 앉으셨네
+    멀리 바쳐온 옥백은 남만북적 통하였고
+    예악이며 의관은 한당 보다도 뛰어나네
+    조회 뒤에 다시 잔치를 내리시오니
+    동풍이 분지술잔에 따스하게 불어오네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0970&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 분지술잔[椒觴] : '
+    value: 설날에 임금과 어버이께 세배 드릴 때 분지술[椒酒]을 나눈다. 분지는 옥형성(玉衡星)의 정(精)이므로 몸을 가볍게 하고 늙음을 안 탄다고 한다.
+english:
+  title: The Hall of Heavenly Blessings
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    Bright candles shine upon the crimson walls,
+    While palace water clocks urge forth the dawn.
+    TheProcessional banners part above and below the courtyard,
+    As robes of office sit high and majestic in the hall.
+
+    Jade and silk tributes from distant lands flow in,
+    Rituals and music surpass even the splendor of Han and Tang.
+    After court dismisses, the feast is granted anew—
+    Spring winds blow warm through the sacred wine cups.
+  footnotes:
+  - key: ''
+    value: The 'sacred wine cups' refer to the ceremonial spiced wine traditionally shared during New Year celebrations, believed to bring vitality and longevity to the recipient.

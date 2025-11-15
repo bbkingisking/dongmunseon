@@ -1,0 +1,47 @@
+canonical:
+  title: 珍島江亭次高按部韻
+  author: 金莘尹
+  language: lzh
+  text: 杳杳情難極盤桓漾小船雨來雲沒島風動水浮天愧匪餐霞客今爲犯斗仙不知何郡國鳥外碧生煙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 珍島江亭次高按部韻
+  author: 金莘尹
+  language: lzh
+  text: 杳杳情難極。盤桓漾小船。雨來雲沒島。風動水浮天。愧匪餐霞客。今爲犯斗仙。不知何郡國。鳥外碧生煙。
+korean:
+  title: 진도 강정에서 고안부의 시를 차운하여
+  author: 김신윤
+  language: kor
+  text: |-
+    아득한 내 마음 그지 없는데
+    조그만 배를 일렁이며 배회하네
+    비가 오니 구름에 섬을 삼키고
+    바람이 이니 물이 하늘에 뜨는구나
+    안개 먹고 사는 사람도 아닌 몸이
+    두우성(斗牛星) 범하는 신선이 되었다니
+    저기는 무슨 나라, 어느 고을인고
+    물새가 나[飛]는 저 끝에 파란 연기 보이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두우성(斗牛星) 범하는 : '
+    value: 한(漢)나라 장건(張鶱)이 대하(大夏)에 사자로 갈 때, 떼[槎]를 타고 하(河)의 근원까지 갔는데, 전설에 그가 은하수에 올라 직녀(織女)를 만나서 지기석(支機石)을 받아 엄군평(嚴君平)에게 보였더니, 그가 말하되, “아무날 객성(客星)이 두우성(斗牛星)을 범하더니 그대가 은하에 올랐었군.” 했다 한다.
+english:
+  title: Rhyming with Go An-bu's Poem at the Riverside Pavilion on Jindo
+  author: Kim Sin-yun
+  language: eng
+  text: |-
+    My heart stretches on and on, boundless—
+    I drift with the small boat, wavering upon the water.
+    When rain comes, clouds swallow the island,
+    When wind blows, the water rises to meet the sky.
+    I am no immortal who dines on rosy clouds,
+    Yet somehow I have become a celestial spirit trespassing upon the heavens.
+    What province is this? What county lies before me?
+    Beyond the flying birds, blue mist rises at the world's edge.
+  footnotes:
+  - key: ''
+    value: The phrase 'celestial spirit trespassing upon the heavens' alludes to the legend of Zhang Qian of the Han Dynasty, who traveled by raft to the source of the river and ascended to the Milky Way, where he met the Weaver Girl. Upon his return, the scholar Yan Junping noted that a guest star had indeed violated the stars of the Dipper and Ox during that time.
+  - key: ''
+    value: The mention of 'immortals who dine on rosy clouds' (xianxia ke) refers to a Daoist trope of transcendent beings sustained by the essence of clouds rather than earthly food.

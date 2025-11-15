@@ -1,0 +1,48 @@
+canonical:
+  title: 途中
+  author: 成任
+  language: lzh
+  text: 重巒疊嶂畫堪傳絶谷飛來百道泉紅葉巧粧霜後峽白雲深鎖洞中天奇觀多處頻遊目短句吟時每聳肩不管世人頻過此山僧擁衲日閑眠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 途中
+  author: 成任
+  language: lzh
+  text: 重巒疊嶂畫堪傳。絶谷飛來百道泉。紅葉巧粧霜後峽。白雲深鎖洞中天。奇觀多處頻遊目。短句吟時每聳肩。不管世人頻過此。山僧擁衲日閑眠。
+korean:
+  title: 도중
+  author: 성임
+  language: kor
+  text: |-
+    겹친 멧부리와 첩첩한 봉우리는 그림으로나 전할까
+    절벽이 날아오매 길마다 샘물이다
+    붉은 잎으로 곱게 단장한 서리 온 뒤 골짝인데
+    흰 구름으로 깊이 잠가 둔 동중의 하늘일네
+    기이한 경치가 많은 곳에는 자주 눈을 놀리고
+    짧은 글귀를 읊을 때에는 매양 어깨를 솟구친다
+    세상사람이 자주 여기 지나는 것을 상관하지 않고
+    산승은 누더기를 끼고 앉아 날마다 한가히 존다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road
+  author: Sung Im
+  language: eng
+  text: |-
+    Layered peaks and cascading ridges—fit only for a painter's brush.
+    From sheer cliffs pour a hundred streams in every direction.
+    Crimson leaves adorn the gorge after frost arrives,
+    White clouds lock away the sky deep within the cave.
+
+    Among such wonders, my eyes wander often,
+    And when I compose brief verses, my shoulders rise with awe.
+    Indifferent to the world's constant passage through here,
+    The mountain monk sits wrapped in his tattered robe, idle and at peace each day.
+  footnotes:
+  - key: ''
+    value: The poem contrasts the poet's aesthetic appreciation and spiritual absorption in nature with the indifference of ordinary travelers passing through the same landscape.
+  - key: ''
+    value: The mountain monk mentioned in the final couplet may represent the poet's own aspirational state or a figure embodying spiritual detachment from worldly concerns.
+  - key: ''
+    value: The physical responses described—wandering eyes and rising shoulders—convey the body's involuntary reaction to encountering the sublime in nature.

@@ -1,0 +1,86 @@
+canonical:
+  title: 楊花渡
+  author: 魚世謙
+  language: lzh
+  text: 東來紫氣連江渚神京咫尺迷處所楊花飛盡柳絲垂煙波雨艇漁人去日脚漏雲紅纚纚潮奔岸卷失平楚打浪踏歌渡頭兒緣岸曬網沙戶女碧窓朱檻是誰家臨江隱映奇章墅來牛去馬幾時了檣帆簇簇紛商旅日落烟沉望不極一聲欸乃在何許遙看南紀國天府運漕年年交海嶼橫江萬艘㘅首尾蒿師歌舞龍應語經緯神都億萬載朝宗浩浩誰能禦忝將節鉞此經過舟楫才慚濟川侶願傾此水作膏澤霑濡億兆皆安處
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 楊花渡
+  author: 魚世謙
+  language: lzh
+  text: 東來紫氣連江渚。神京咫尺迷處所。楊花飛盡柳絲垂。煙波雨艇漁人去。日脚漏雲紅纚纚。潮奔岸卷失平楚。打浪踏歌渡頭兒。緣岸曬網沙戶女。碧窓朱檻是誰家。臨江隱映奇章墅。來牛去馬幾時了。檣帆簇簇紛商旅。日落烟沉望不極。一聲欸乃在何許。遙看南紀國天府。運漕年年交海嶼。橫江萬艘㘅首尾。蒿師歌舞龍應語。經緯神都億萬載。朝宗浩浩誰能禦。忝將節鉞此經過。舟楫才慚濟川侶。願傾此水作膏澤。霑濡億兆皆安處。
+korean:
+  title: 양화도
+  author: 어세겸
+  language: kor
+  text: |-
+    동쪽서 오는 자주빛 서기가 강가에 이었는데
+    지척 신경이 아득할사 어드멘고
+    버들꽃 다 날리고 버들가지 줄줄이 늘어졌는데
+    연파 위에 가랑비, 어부의 배가 가는구나
+    구름 사이로 햇빛이 불긋불긋
+    밀물이 닥쳐와 기슭이 잠겨지는데
+    노 저으며 노래 부르는 나루의 사공
+    언덕엔 그물 말리는 어부의 딸
+    푸른 창, 주홍 난간은 누구의 집인고
+    강변의 별장이 보이락말락
+    오는 소, 가는 말이 그칠 적 없고
+    총총히 늘어선 돛은 장사꾼들 배
+    해 지자 안개가 자욱, 멀리 아득히
+    어기어차 뱃소리 어드메선고
+    멀리 뵈는 남쪽강은 나라의 창고
+    해마다 조운이 바다로 오네
+    강을 가로지른 만척선이 꼬리를 물었으니
+    사공의 노래와 춤에 용이 응당 말하리
+    억만년토록 신도를 보우하소서
+    호호한 조종을 뉘 능히 막으리
+    내가 절월 가지고 예를 지나느라니
+    주집의 재주는 내 건너는 짝들에게 부끄럽네
+    바라건대, 이 물을 기울여 고택을 만들어
+    억조를 적시워 다 편안히 살게 하고저
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 조종(朝宗) : '
+    value: 강수(江水)와 한수(漢水)가 바다에로 조종(朝宗)한다는 옛말이 있다. 이것은 모든 물이 바다로 행하는 것과 같이 모든 속국들이 천자(天子)에게 조화하러 모인다는 비유다.
+  - key: '[주-D002] 주집(舟楫)의 …… 부끄럽네 : '
+    value: 은(殷)나라 고종(高宗)이 부열(傅說)을 정승으로 삼으면, “큰 내를 건넌다면 너로써 배와 돛대를 삼으리라.” 하였다.
+english:
+  title: The Yang Flower Ferry
+  author: Eo Se-gyeom
+  language: eng
+  text: |-
+    Purple mist from the east trails along the river banks,
+    The divine capital lies so close, yet where is it hidden?
+    Yang flowers drift to the end, willow branches hang limp—
+    On misty waters, gentle rain, a fisherman's boat departs.
+
+    Sunlight breaks through clouds in crimson threads,
+    The tide surges and swallows the shore's edge,
+    While boatmen row and sing at the ferry crossing,
+    And fisher-girls spread their nets upon the banks.
+
+    Green windows, scarlet railings—whose mansion is this?
+    A riverside villa, glimpsed then lost in the haze.
+    Cattle come, horses go, an endless procession,
+    Sails cluster thickly with merchants' vessels.
+
+    As the sun sets and mist grows thick, the gaze cannot reach beyond,
+    Where does that haunting boat-song echo from?
+    Far off gleams the southern river, the nation's granary,
+    Year after year the tribute boats sail to the sea.
+
+    A thousand vessels cross the river, stern following stern—
+    The boatmen's songs and dances, surely the dragons respond!
+    For millions of ages, may the sacred city be blessed,
+    Who can turn back the flowing waters that seek the sea?
+
+    Though I bear my seal of office and pass through these lands,
+    My skill in navigation shames the companions who share my journey.
+    I wish to bend these waters and make them fertile fields,
+    That their blessing might drench all creatures and grant them peace.
+  footnotes:
+  - key: ''
+    value: '朝宗 (zhāo zōng): The rivers flowing toward the sea mirror the tributary states gathering before the Son of Heaven—a classical metaphor for universal order flowing toward its sovereign source.'
+  - key: ''
+    value: '舟楫: Reference to the story of the Shang dynasty''s High Ancestor, who upon elevating the wise minister Fu Shuo declared, ''In crossing great rivers, I shall take you as my boat and sail''—expressing how a capable minister is indispensable to the ruler''s navigation of state affairs.'

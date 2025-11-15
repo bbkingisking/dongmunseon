@@ -1,0 +1,51 @@
+canonical:
+  title: 上馮員外
+  author: 朴仁範
+  language: lzh
+  text: 陸家詞賦掩群英却咲虛傳榜上名志操應將寒竹茂心源不讓玉壺淸遠隨旌旆來防虜未逐鸞鴻去住城蓮幕鄧林容待物翩翩窮鳥自哀鳴
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上馮員外
+  author: 朴仁範
+  language: lzh
+  text: 陸家詞賦掩群英。却咲虛傳榜上名。志操應將寒竹茂。心源不讓玉壺淸。遠隨旌旆來防虜。未逐鸞鴻去住城。蓮幕鄧林容待物。翩翩窮鳥自哀鳴。
+korean:
+  title: 상풍원외
+  author: 박인범
+  language: kor
+  text: |-
+    육가 사부가 뭇 영재를 가리는데
+    헛되이 전하는 과거 이름 우스워라
+    지조가 곧기는 차가운 대가 무성하듯
+    맘씨는 옥병의 맑은 얼음 못지않네
+    군마 따라 멀리 되놈을 막으러 와
+    난새 좇아 아직 서울로 못 가네
+    연화막(막부(幕府)의 미칭(美稱)) 등림에 수용되길 기다려
+    궁한 새 팔짝거리며 제 슬피 울음 우네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 육가(陸家) : '
+    value: 진(晉)나라 때 육기(陸機) 형제가 문장으로 유명하였는데, 〈변망론(辯亡論)〉 〈문부(文賦)〉등 명작을 지었으며, 아우의 〈구름〉이라는 글도 유명하였으므로, 세칭 이륙(二陸)이라 하였다.
+  - key: '[주-D002] 등림(鄧林) : '
+    value: 《회남자(淮南子)》에, “과보가 막대를 버린 것이 등림이 되었다 [夸父棄其策是爲鄧林].”라는 말이 있다. 과보는 신수(神獸)인데, 하수(河水)를 마시고도 부족하여 서해(西海)를 마시려고 가다가 중로에서 목이 말라 죽었다. 그가 막대기를 심은 것이 살아나 큰 수풀이 되었는데, 전설에 나오는 아름답고 무성한 수풀이다.
+english:
+  title: To Feng, the Supernumerary Official
+  author: Park In-beom
+  language: eng
+  text: |-
+    The Lu family's prose and verse outshine all talents gathered,
+    Yet empty names whispered on the examination roll—how it mocks!
+    Their resolve straight as winter bamboo in its verdant strength,
+    Their hearts pure as jade vessels holding untouched ice.
+    They ride far with the standards to hold back the northern foe,
+    Yet cannot follow the crane and phoenix back to the capital.
+    At the Lotus Tent of Deng Forest they wait to be received,
+    While struggling birds flutter and cry out their lonely lament.
+  footnotes:
+  - key: ''
+    value: The Lu family refers to the renowned brothers Lu Ji and Lu Yun of the Jin dynasty, famous for their literary works including the 'Discourse on Ruination' and the 'Ode to Literature.' Their excellence became proverbial as 'the Two Lus.'
+  - key: ''
+    value: Deng Forest is a legendary paradise from the Huainanzi, said to have grown from the staff abandoned by Kuafu, a mythical creature who died of thirst pursuing the setting sun. It represents a beautiful and flourishing refuge.
+  - key: ''
+    value: The 'Lotus Tent' is an elegant name for a military governor's residence, evoking both beauty and authority.

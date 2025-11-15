@@ -1,0 +1,45 @@
+canonical:
+  title: 次正使董公泛大同江韻
+  author: 申從濩
+  language: lzh
+  text: 平蕪淡淡接烟津鏡面澄澄絶點塵酒影暖涵金沆瀣山光晴浸玉嶙峋四千里路將歸客九十韶光欲暮春別後相思眇空𤄃天涯莫惜寄書頻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次正使董公泛大同江韻
+  author: 申從濩
+  language: lzh
+  text: 平蕪淡淡接烟津。鏡面澄澄絶點塵。酒影暖涵金沆瀣。山光晴浸玉嶙峋。四千里路將歸客。九十韶光欲暮春。別後相思眇空𤄃。天涯莫惜寄書頻。
+korean:
+  title: 차 정사동공 범대동강운
+  author: 신종호
+  language: kor
+  text: |-
+    펀펀한 들은 뿌옇게 연기 낀 나루에 닿았는데
+    거울 면처럼 맑고 맑아 한 점 티끌이 없다
+    술 그림자는 따뜻해 금빛항해를 담았고
+    산 빛은 맑게 개어 옥같은 봉우리가 강물에 잠기었다
+    장차 사천 리 길을 돌아갈 손인데
+    구십 일의 아름다운 경치 저물려는 봄이로다
+    이별한 뒤에 서로 생각하면 아득한 허공이 넓으리니
+    하늘 가에서 자주 편지 보내기 아끼지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 항해(沆瀣) : '
+    value: 밤의 맑은 이슬로 신선이 마신다고 한다.
+english:
+  title: Following the Rhyme of Minister Dong's Excursion on the Daedong River
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    Vast and gentle meadows fade into the misty river crossing.
+    The water's surface gleams like a mirror, pristine without a speck of dust.
+    Wine's reflection warms, holding within it golden celestial dew.
+    Mountain light, clear and bright, immerses the jade-like peaks in the current.
+    Four thousand leagues of road—the departing guest shall return.
+    Ninety springs of beauty fade as spring draws to its twilight.
+    After parting, when longing arises, the vast emptiness expands,
+    So from heaven's edge, spare no effort to send letters frequently.
+  footnotes:
+  - key: ''
+    value: 'Golden celestial dew (金沆瀣): A refined allusion to the pure dew of night that celestial beings are said to drink, symbolizing the purity and ethereality of the moment.'

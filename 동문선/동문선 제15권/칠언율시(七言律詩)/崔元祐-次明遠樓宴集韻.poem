@@ -1,0 +1,45 @@
+canonical:
+  title: 次明遠樓宴集韻
+  author: 崔元祐
+  language: lzh
+  text: 登臨日日却忘回傍眼奇觀次第開何處遙岑雲外出有時飛雨野邊來晚凉倚柱風生帽夜靜吹簫月滿杯流水亦知人着愛樓前直到故徘徊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次明遠樓宴集韻
+  author: 崔元祐
+  language: lzh
+  text: 登臨日日却忘回。傍眼奇觀次第開。何處遙岑雲外出。有時飛雨野邊來。晚凉倚柱風生帽。夜靜吹簫月滿杯。流水亦知人着愛。樓前直到故徘徊。
+korean:
+  title: 차 명원루 연집운
+  author: 최원우
+  language: kor
+  text: |-
+    날마다 올라와 놀아 돌아가길 잊노니
+    눈앞에 기관이 차례로 열려지네
+    구름 밖에 나오는 건 어느 먼 산인고
+    들에 이따금 몰려오는 소낙비
+    저녁녘에 기둥에 기대니 바람이 모자에 서늘
+    고요한 밤 퉁소를 부니 달이 잔에 가득하고야
+    흐르는 물도 사람의 애착을 아는 듯
+    다락 앞 곧장 와서는 짐짓 감도는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0820&viewSync=OT
+  footnotes: []
+english:
+  title: Rhyming with a Poem at the Banquet on Bright Distant Tower
+  author: Choi Won-u
+  language: eng
+  text: |-
+    Day after day I climb and linger, forgetting the way back down.
+    Before my eyes, wonders unfold in succession.
+    Which distant peak is that emerging beyond the clouds?
+    Now and then a summer shower drifts across the fields.
+    In the cool of evening, leaning on the pillar, wind brushes my hat.
+    In the quiet night, playing my flute, the moon fills my cup.
+    Even the flowing water seems to know what it means to cherish—
+    It comes before the tower again and again, lingering as if by choice.
+  footnotes:
+  - key: ''
+    value: The 'Bright Distant Tower' (明遠樓) refers to a famous pavilion, likely a gathering place for literati in medieval Korea.
+  - key: ''
+    value: The poem uses the flowing water as a metaphor for the speaker's own reluctance to depart, and for the natural world's understanding of human longing.

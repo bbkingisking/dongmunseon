@@ -1,0 +1,61 @@
+canonical:
+  title: 奉呈廉相國
+  author: 權思復
+  language: lzh
+  text: 形如枯木鬢如霜屢荷君恩老益狂喜舞不知曾破瓮醉吟猶訝誤飜觴欲參楚客三千履已括坤文六四囊夙夜論思身未暇豈期呼我對碁房
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉呈廉相國
+  author: 權思復
+  language: lzh
+  text: 形如枯木鬢如霜。屢荷君恩老益狂。喜舞不知曾破瓮。醉吟猶訝誤飜觴。欲參楚客三千履。已括坤文六四囊。夙夜論思身未暇。豈期呼我對碁房。
+korean:
+  title: 봉정 염상국
+  author: 권사복
+  language: kor
+  text: |-
+    고목 같은 몸에 서리같은 귓머리
+    임금 은혜를 자주 입어 늙어 더욱 미쳤네
+    기뻐 춤추면 전에 독 깼던 일 통 모르고
+    취해 읊노라고 잘못 술잔을 뒤엎을까 염려되네
+    초나라 3천 문객의 신에 참예코자
+    곤괘 64효사의 주머니를 매었사와
+    밤낮으로 나랏일 생각에 겨를이 없으실 터
+    날 불러 바둑 두자니 천만 뜻밖이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 기뻐 춤추면 …… 통 모르고 : '
+    value: 옛날 어느 사람이 밤에 자리에 누워서, “조그만 그릇을 가지고 장사를 하여 차차 항아리를 마련하고 더 보태어 큰 독[甕]을 사겠다. 그리하여 차차 부자[富]가 되겠다.”고 공상(空想)을 실컷 하다가 기뻐서 일어나 춤을 추던 끝에 옆에 있는 술독을 깨뜨렸다 한다.
+  - key: '[주-D002] 술잔을 뒤엎을까 : '
+    value: 추양(鄒陽)의 주부(酒賦)에, “술을 실컷 먹고 미쳐서 사발을 쏟고 잔을 뒤엎는다.” 하였다.
+  - key: '[주-D003] 초(楚)나라 …… 신[履] : '
+    value: 춘추 때 초(楚) 춘신군(春申君) 문객 3천인 중에 상객(上客)은 모두 구슬 신[珠履]을 신었다.
+  - key: '[주-D004] 곤(坤)괘 64효사(爻辭)의 주머니 : '
+    value: 《주역》 곤(坤)괘 64효사(爻辭)에, “주머니를 맴이니, 허물도 없고 명예도 없으리라.[六四 括囊 牙咎牙譽]” 하였고 소(疏)에, “그 아는 것을 감추고 쓰지 않음이니, 그런고로 가로되 ‘주머니를 맺는다’ 함이다.” 하였다. 또 ‘말이 없음’을 괄각(括覺)이라 하였다.
+english:
+  title: Presented to Minister Yeom
+  author: Gwon Sa-bok
+  language: eng
+  text: |-
+    My frame withered like ancient wood, my temples frosted with age.
+    Repeated kindness from my lord has made me wild in my years.
+    When joy moves me to dance, I forget the day I shattered the jar.
+    Drunk, I worry—will I topple the wine cup in my singing?
+
+    I wish to join the three thousand guests of Lord Chunshin,
+    Their pearl-embroidered robes a mark of honor I coveted.
+    Yet I have sealed my lips as the sixty-four lines counsel—
+    Uttering nothing, seeking nothing, holding all within.
+
+    Day and night you bear the weight of the realm's affairs,
+    Too consumed with governance to have a moment's rest.
+    How unexpected then, that you would call on me—
+    To sit across the board and play a game of stones.
+  footnotes:
+  - key: ''
+    value: The reference to the shattered jar alludes to a merchant who dreamed of growing wealthy, dancing with joy at his prospects, only to break a wine jar in his excitement—a cautionary tale about distraction and loss.
+  - key: ''
+    value: The 'pearl-embroidered robes' refers to the three thousand retainers of Lord Chunshin of Chu during the Spring and Autumn period, whose upper guests wore shoes adorned with pearls as a mark of distinction.
+  - key: ''
+    value: The 'sixty-four lines' refers to the sixty-four hexagrams of the I Ching (Book of Changes), specifically the counsel to 'seal the bag'—to keep one's knowledge hidden, speak nothing, seek nothing—thus avoiding both blame and fame.

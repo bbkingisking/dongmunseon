@@ -1,0 +1,44 @@
+canonical:
+  title: 曉意
+  author: 金時習
+  language: lzh
+  text: 昨夜山中雨今聞石上泉䆫明天欲曙鳥聒客猶眠室小虗生白雲收月在天廚人具炊黍報我嫰茶煎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 曉意
+  author: 金時習
+  language: lzh
+  text: 昨夜山中雨。今聞石上泉。䆫明天欲曙。鳥聒客猶眠。室小虗生白。雲收月在天。廚人具炊黍。報我嫰茶煎。
+korean:
+  title: 효의
+  author: 김시습
+  language: kor
+  text: |-
+    어젯밤 이 산중에 비가 오더니
+    이 아침에 돌 위의 샘물 소리 듣겠구나
+    창이 밝으매 먼동이 트려 하고
+    새는 요란해도 손은 아직 잠잔다
+    방이 작으매 햇빛이 빛을 내고
+    구름 걷히자 달이 하늘에 있다
+    주방 사람은 기장밥 지어놓고
+    어린 차를 달였다고 내게 알린다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0370&viewSync=OT
+  footnotes: []
+english:
+  title: Early Dawn
+  author: Kim Si습
+  language: eng
+  text: |-
+    Rain fell in the mountains last night.
+    This morning I hear the spring water singing over stones.
+    The window brightens—dawn threatens to break.
+    Birds clamor, yet the guest still sleeps.
+
+    The room is small, and sunlight grows luminous.
+    Clouds scatter; the moon lingers in heaven.
+    The kitchen master has prepared millet—
+    he brings word that tender tea has been steeped.
+  footnotes:
+  - key: ''
+    value: The poem captures a moment of awakening, both literal and spiritual, as the speaker transitions from sleep to consciousness, paralleling nature's own transition from night to dawn.

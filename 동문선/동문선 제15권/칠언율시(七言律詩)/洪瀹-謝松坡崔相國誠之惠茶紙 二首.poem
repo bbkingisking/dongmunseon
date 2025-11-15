@@ -1,0 +1,74 @@
+canonical:
+  title: 謝松坡崔相國誠之惠茶紙 二首
+  author: 洪瀹
+  language: lzh
+  text: 惠賜重重意轉深酪奴側理勝䕦金龍團鳳餠堪同調毛穎烏圭豈異心陽羨遺風淸可掬蘭亭故事杳難尋玉川已遠右軍死何處如今覓賞音骨肉猶難契分深感公恩愛重千金文詞自有韓歐學信義誰知管鮑心侍從開平書可紀陪遊眞定夢相尋吾生過荷吹噓力只愧無由報德音
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝松坡崔相國誠之惠茶紙 二首
+  author: 洪瀹
+  language: lzh
+  text: 惠賜重重意轉深。酪奴側理勝䕦金。龍團鳳餠堪同調。毛穎烏圭豈異心。陽羨遺風淸可掬。蘭亭故事杳難尋。玉川已遠右軍死。何處如今覓賞音。骨肉猶難契分深。感公恩愛重千金。文詞自有韓歐學。信義誰知管鮑心。侍從開平書可紀。陪遊眞定夢相尋。吾生過荷吹噓力。只愧無由報德音。
+korean:
+  title: 송파 최정승 성지가 차와 종이를 선사함을 사례하며 2수
+  author: 홍약
+  language: kor
+  text: |-
+    주신 선물 겹겹이 뜻이 더욱 깊으니
+    낙노(차(茶))와 측리(종이(紙))가 금 한 상자보다 낫삽네
+    용단(차 이름)과 봉병이 맛이 같고
+    모영(붓)과 오규(먹)가 어찌 딴 마음이리
+    양선(차의 명산지)의 유풍은 맑아 움켜 쥘만하고
+    난정의 고사는 아득한 옛일일세
+    옥천이 이미 멀고 우군(왕희지)이 죽었으니
+    지금 어느 곳에서 이 풍류를 알쏘냐
+    골육도 이렇듯 깊은 정의가 어려우리
+    느껴워라, 은애가 천금보다 중하여라
+    문사는 한구(한유와 구양수)의 학을 가졌고
+    신의는 관포(관중과 포숙)의 마음을 누가 알리
+    개평에 시종한 것 사책에 적을 만하고
+    진정을 모시고 놀던 일 꿈에도 서로 찾네
+    못난 이 몸이 지나치게 밀어줌을 입었으니
+    은공 어이 갚으리, 부끄럽기만 하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 난정(蘭亭) : '
+    value: 동진(東晉)의 왕희지(王羲之)가 3월 3일에 벗들과 더불어 난정(蘭亭)에서 모여놀고 각각 시(詩)를 짓고 자신이 서문(序文)을 지어 그의 득의한 글씨를 서수필(鼠鬚筆)로 고치 종이[繭紙]에 쓴 것이 유명한 난정첩이다.
+  - key: '[주-D002] 옥천(玉川) : '
+    value: 당대(唐代)의 시인 노동(盧同)의 호. 그는 차[茶] 품평을 잘했으며 그의 다가(茶歌)가 유명함.
+  - key: '[주-D003] 개평(開平) : '
+    value: 개평부(開平府)는 원(元)나라의 지명인데 치(治)로 개평부를 둠. 최성지가 충선왕(忠宣王)을 모시고 그곳에 갔었다.
+english:
+  title: Thanking Commissioner Choi Sungji for the Gift of Tea and Paper - Two Poems
+  author: Hong Yak
+  language: eng
+  text: |-
+    Your gifts arrive in layers, each layer deepening in meaning—
+    Tea and fine paper surpass a box of gold.
+    Like Dragon Cakes and Phoenix Pastries in perfect harmony,
+    Brush and ink share one undivided heart.
+    The ancient grace of Yangxian tea flows clear enough to grasp—
+    Yet the legend of Lanting fades into distant memory.
+    Yuanchuan is long gone, and Wang Xizhi has passed away:
+    Where now can one find such a kindred spirit of refinement?
+
+    Even kinship struggles to achieve such depth of bond.
+    I marvel at your affection, weightier than a thousand pieces of gold.
+    Your literary grace flows from the school of Han and Qu,
+    But who truly knows the faithfulness of Guan and Bao?
+    Your service in Kaiping merits recording in the annals,
+    And in dreams I wander again those days at Zhendu.
+    I, unworthy as I am, have received such lavish favor—
+    How can I repay such kindness? I can only bow in shame.
+  footnotes:
+  - key: ''
+    value: Yuanchuan (玉川) refers to Lu Tong of the Tang Dynasty, a master of tea appreciation and author of the famous 'Song of Tea.'
+  - key: ''
+    value: Lanting (蘭亭) is the legendary gathering where Wang Xizhi, the greatest calligrapher of the Eastern Jin, composed with friends and inscribed his work in immortal characters.
+  - key: ''
+    value: Kaiping (開平) was where Commissioner Choi served under King Chungsuk of Goryeo during the Yuan period.
+  - key: ''
+    value: Dragon Cakes and Phoenix Pastries are luxury tea varieties; the poem compares their harmony to the unity of brush and ink.
+  - key: ''
+    value: Guan and Bao represent the archetypal faithful friends whose loyalty was beyond question.

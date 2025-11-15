@@ -1,0 +1,50 @@
+canonical:
+  title: 仁王挽詞
+  author: 金閎
+  language: lzh
+  text: 玄默躬行漢太宗群臣奏議每從容宮懸筍簴凝塵蝕圜土基扃宿莾封粟腐太倉寬口算貨通互市罷邊烽覇陵不許金銀飾却憶當時德儉恭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仁王挽詞
+  author: 金閎
+  language: lzh
+  text: 玄默躬行漢太宗。群臣奏議每從容。宮懸筍簴凝塵蝕。圜土基扃宿莾封。粟腐太倉寬口算。貨通互市罷邊烽。覇陵不許金銀飾。却憶當時德儉恭。
+korean:
+  title: 인왕 만사
+  author: 김굉
+  language: kor
+  text: |-
+    말없는 가운데 몸소 행하심이 한 태종(한 문제(漢文帝))과 같으시어
+    뭇 신하들 늘 조용히 말씀 아뢰었더니
+    궁에 달린 경과 북엔 먼지 수북 쌓였고
+    옥과 옥문 앞엔 우거진 풀이 봉했더니
+    국고에 쌀이 썩어 구산(가혹(苛酷)한 세금(稅金)의 일종)을 너그러히 하였고
+    저자에 물화가 통하여 변방 봉화 싹 없더니
+    패릉의 능은 금은으로 못 꾸밀 것
+    임께선 검과 공으로 한 평생을 사셨네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0920&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 패릉(覇陵) : '
+    value: 한(漢)나라 문제의 능(陵)인데, 문제의 유언(遺言)으로 패릉(覇陵)의 장사를 검소(儉素)하게 하라 하였다.
+english:
+  title: Elegy for the Benevolent King
+  author: Kim Hong
+  language: eng
+  text: |-
+    In silent virtue, you walked the path of Han Wendi,
+    While ministers spoke softly, their counsel ever measured.
+    The palace bells and drums grew thick with dust untouched,
+    And jade gates stood sealed beneath the wild grasses.
+
+    In the granaries, grain turned to rot from abundance,
+    Yet taxes were lightened with a generous hand.
+    In the markets, trade flowed freely, the beacon fires of war extinguished,
+    While Pa Ling's tomb, though grand, needed no gold or silver.
+
+    You, my lord, walked a lifetime clothed in frugality and reverence.
+  footnotes:
+  - key: ''
+    value: Han Wendi (文帝), also known as Han Taizong, was celebrated in classical Chinese history as a model of virtuous, ascetic governance and economical administration.
+  - key: ''
+    value: Pa Ling (覇陵) was the tomb of Han Wendi, established according to his final wish that his burial be kept simple and austere, reflecting his commitment to frugality even in death.

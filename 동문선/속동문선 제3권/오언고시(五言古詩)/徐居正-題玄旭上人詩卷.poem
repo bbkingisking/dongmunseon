@@ -1,0 +1,50 @@
+canonical:
+  title: 題玄旭上人詩卷
+  author: 徐居正
+  language: lzh
+  text: 我嘗坐東窓旭日來照之明光不容瞥忽此西飛暉窓明復窓暗不知誰所爲師看變化相種種亦如斯明暗當復還汝問汝祖師
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題玄旭上人詩卷
+  author: 徐居正
+  language: lzh
+  text: 我嘗坐東窓。旭日來照之。明光不容瞥。忽此西飛暉。窓明復窓暗。不知誰所爲。師看變化相。種種亦如斯。明暗當復還。汝問汝祖師。
+korean:
+  title: 제현욱 상인 시권
+  author: 서거정
+  language: kor
+  text: |-
+    내 일찍 동창밑에 앉았노라니
+    아침 해가 와서 비치더니만
+    그 밝은 빛이 잠깐 동안 뿐
+    문득 해 기울어 어두어지네
+    창이 밝아지고 어둬지는 것
+    이것이 과연 누구 소위인가
+    스님은 보소, 변화를
+    종종상도 또한 이와 같으니
+    명암은 마땅히 되돌아오는 것
+    조사에게 물어 보라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 종종상(種種相) : '
+    value: 불교에서 쓰는 말인데 세상의 온갖 가지가지의 사물(事物)을 말한다.
+english:
+  title: On the Poetry Scroll of Monk Hyeonuk
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    I once sat by the eastern window
+    when the morning sun came to illuminate it—
+    that brilliant light lingering but a moment
+    before suddenly the sun tilted and shadows fell.
+    The window brightened, then darkened again.
+    Truly, whose doing is this?
+
+    Venerable monk, observe this transformation:
+    all the myriad forms of this world follow the same path.
+    Light and shadow must return again—
+    ask your ancestor about this truth.
+  footnotes:
+  - key: ''
+    value: 'Myriad forms (種種相): A Buddhist term referring to all the various phenomena and things in this world, emphasizing their impermanent and changing nature.'

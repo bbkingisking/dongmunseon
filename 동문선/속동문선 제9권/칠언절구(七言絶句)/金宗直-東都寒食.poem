@@ -1,0 +1,37 @@
+canonical:
+  title: 東都寒食
+  author: 金宗直
+  language: lzh
+  text: 馬隷牛醫有子孫竹枝處處紙錢飜羅王陵墓無蒭狗只見春蕪覆燒痕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 東都寒食
+  author: 金宗直
+  language: lzh
+  text: 馬隷牛醫有子孫。竹枝處處紙錢飜。羅王陵墓無蒭狗。只見春蕪覆燒痕。
+korean:
+  title: 동도 한식
+  author: 김종직
+  language: kor
+  text: |-
+    마부와 소 의원도 자손 있어서
+    곳곳의 댓가지에 종이돈이 펄렁이건만
+    신라왕 능묘에는 추구는 없고
+    다만 봄 풀 한 번 태운 흔적만 보인다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 추구(芻狗) : '
+    value: 풀로써 개의 모양을 만들어 제사에 쓰는 것이라 한다. 전일 융성하던 제왕의 능에도 세상이 변천하면 그런 것 하나 없다는 뜻이다.
+english:
+  title: Cold Food Festival at the Eastern Capital
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    Even the groom and the veterinarian have descendants,
+    Whose paper money flutters on bamboo branches everywhere.
+    Yet at the tomb of the Silla king, no grass dogs remain—
+    Only the faded scars of spring grass, once set aflame.
+  footnotes:
+  - key: ''
+    value: The 'grass dogs' (芻狗) refer to effigies made of straw and used in ritual sacrifices. Their absence at the royal tomb suggests how, as time passes and the world changes, even the grandest dynasties lose the ceremonial reverence they once commanded.

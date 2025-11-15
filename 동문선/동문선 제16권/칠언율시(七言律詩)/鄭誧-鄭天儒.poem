@@ -1,0 +1,50 @@
+canonical:
+  title: 鄭天儒
+  author: 鄭誧
+  language: lzh
+  text: 蕭條門巷少來人盡日床龜獨自親䆫下藥爐勤着火案頭書帙漫生塵誰憐壯歲常多病尙戀微官只爲貧尊酒龍山負高會西風回首一悲辛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鄭天儒
+  author: 鄭誧
+  language: lzh
+  text: 蕭條門巷少來人。盡日床龜獨自親。䆫下藥爐勤着火。案頭書帙漫生塵。誰憐壯歲常多病。尙戀微官只爲貧。尊酒龍山負高會。西風回首一悲辛。
+korean:
+  title: 병중에 정천유
+  author: 정포
+  language: kor
+  text: |-
+    쓸쓸한 문전에 오는 사람 적으니
+    온 종일 상에 누워 무료히 지내네
+    창 밑 약탕관에 부지런히 불피우고
+    책상 위의 책들은 온통 먼지투성이
+    한창 때 다병함을 뉘라서 동정하리
+    하찮은 벼슬을 가난 때문에 못 내리네
+    용산의 한 통 술 좋은 놀이를 저버리니
+    추풍에 고개 돌리매 마음 다시 슬프네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상[床龜] : '
+    value: 옛날 남방에 노인이 거북을 가지고 평상 다리[牀足]를 받쳤더니, 20년이 지난 뒤에 노인이 죽고 평상을 옮기니 거북이 아직 살아 있었다. 《史記》
+  - key: '[주-D002] 용산(龍山) : '
+    value: 진(晋)나라 환온(桓溫)이 9월 9일에 여러 명사(名士)들과 더불어 용산에 올라 놀았다.
+english:
+  title: While Ill, to Jeong Cheon-yu
+  author: Jeong Po
+  language: eng
+  text: |-
+    The gate stands desolate, few visitors ever call,
+    I lie upon my bed the whole day through, consumed by idleness.
+    Beneath the window, the medicinal brazier keeps its fire burning bright,
+    While books upon my desk grow thick with dust, neglected and forgotten.
+
+    Who will take pity on a youth in vigorous years, yet cursed with constant illness?
+    Still I cling to this meager post—not for ambition, but for want.
+    I have surrendered the wine-soaked revels on Dragon Mountain's height,
+    And turning back my gaze upon the autumn wind, my heart fills once again with sorrow.
+  footnotes:
+  - key: ''
+    value: 'The bed reference alludes to a story from the Records of the Grand Historian: an elderly man in ancient times used a turtle to support the legs of his platform bed. Twenty years later, when the man died and the bed was moved, the turtle was still alive—suggesting the bed became a refuge of constancy and endurance.'
+  - key: ''
+    value: Dragon Mountain was where the famous official Huan Wen of the Jin dynasty gathered with renowned scholars on the ninth day of the ninth month for celebration and revelry—a reference to the refined pleasures now foregone due to illness and poverty.

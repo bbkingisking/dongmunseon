@@ -1,0 +1,37 @@
+canonical:
+  title: 㪷
+  author: 成俔
+  language: lzh
+  text: 累一黍而萬鍾之所由始增一分而萬姓之所由悴惟愼圭撮勿與民爭利
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 㪷
+  author: 成俔
+  language: lzh
+  text: 累一黍而萬鍾之所由始。增一分而萬姓之所由悴。惟愼圭撮。勿與民爭利。
+korean:
+  title: 두
+  author: 성현
+  language: kor
+  text: |-
+    기장 한 알을 보탬으로써 만종도 시작 되고
+    한 푼을 더함으로써 백성이 곤하나니
+    규촬을 신중히 하고
+    백성과 이권을 다투지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1470_040_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Measure
+  author: Sung Hyun
+  language: eng
+  text: |-
+    A single grain of millet added builds toward ten thousand measures.
+    One more portion taken leaves the people exhausted.
+    Be cautious with what you measure and collect—
+    do not contend with your people for profit.
+  footnotes:
+  - key: ''
+    value: The poem employs the image of grain measurement as a metaphor for taxation and administrative collection from the people.
+  - key: ''
+    value: 規撮 (gyukchwal) refers to the careful measurement and collection of taxes, traditionally symbolizing administrative responsibility.

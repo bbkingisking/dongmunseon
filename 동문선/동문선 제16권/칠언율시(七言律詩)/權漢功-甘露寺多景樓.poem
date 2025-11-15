@@ -1,0 +1,49 @@
+canonical:
+  title: 甘露寺多景樓
+  author: 權漢功
+  language: lzh
+  text: 北固登臨望閏州一尊難洗古今愁浪奔江勢猶含怒國破山顔尙帶羞淮海風烟連古壘金焦鍾鼓殷岑樓憑誰與問興亡事唯有沙鷗近葉舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 甘露寺多景樓
+  author: 權漢功
+  language: lzh
+  text: 北固登臨望閏州。一尊難洗古今愁。浪奔江勢猶含怒。國破山顔尙帶羞。淮海風烟連古壘。金焦鍾鼓殷岑樓。憑誰與問興亡事。唯有沙鷗近葉舟。
+korean:
+  title: 감로사 다경루
+  author: 권한공
+  language: kor
+  text: |-
+    북고산에 올라 윤주를 바라보니
+    한 병 술로 고금의 시름 씻기 어렵네
+    물결이 내달으니 강은 아직 성난 듯
+    나라가 망했으니 산은 지금도 부끄러워하누나
+    회해의 풍연은 옛 성터에 이었고
+    금초사의 종소리는 높은 다락에 들려오네
+    지난 날의 흥망을 뉘더러 물어볼꼬
+    모래의 갈매기들만 배 가까이 오는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 감로사(甘露寺) : '
+    value: 현 강소성(江蘇省) 진강현(鎭江縣) 북고산(北固山) 위에 있음. 삼국 오(吳) 때 창건.
+english:
+  title: The Many-Splendored Tower at Ganlu Temple
+  author: Kwon Han-gong
+  language: eng
+  text: |-
+    Climbing Northern Fortress, I gaze toward Runzhou,
+    One cup of wine cannot wash away the sorrows of ages.
+    Waves rush headlong; the river still bears its rage,
+    The nation fallen; the mountain wears its shame.
+    Across the Huai and sea, wind and mist cling to ancient walls,
+    Bells and drums from Golden and Focal peaks echo in the tall tower.
+    To whom shall I pose my questions of rise and ruin?
+    Only sand-gulls draw near to my solitary boat.
+  footnotes:
+  - key: ''
+    value: 'Ganlu Temple: Located atop Northern Fortress Mountain in present-day Zhenjiang, Jiangsu Province. Founded during the Wu Dynasty of the Three Kingdoms period.'
+  - key: ''
+    value: 'Runzhou: A region in the Yangtze River valley, historically significant for its strategic position and cultural heritage.'
+  - key: ''
+    value: 'Golden and Focal peaks (金焦): Reference to distinctive peaks visible from the temple, traditionally associated with Buddhist sites.'

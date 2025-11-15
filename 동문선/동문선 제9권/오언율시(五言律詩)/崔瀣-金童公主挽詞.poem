@@ -1,0 +1,50 @@
+canonical:
+  title: 金童公主挽詞
+  author: 崔瀣
+  language: lzh
+  text: 玉牒流光美璿源發派長選歸宜世戚占夢協男祥月已雲端隱舟難壑底藏西門迎送地行路涕滂滂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金童公主挽詞
+  author: 崔瀣
+  language: lzh
+  text: 玉牒流光美。璿源發派長。選歸宜世戚。占夢協男祥。月已雲端隱。舟難壑底藏。西門迎送地。行路涕滂滂。
+korean:
+  title: 금동공주 만사
+  author: 최해
+  language: kor
+  text: |-
+    옥첩에 아름다운 이름 남기셨고
+    선원에서 계통이 길게 내려왔네
+    뽑혀[選] 시집오시니 대대 척리[世戚]로 의좋으시고
+    꿈을 점치시니 아들 낳으실 상서
+    달은 이미 구름 끝에 숨었으나
+    배[舟]를 구렁 속에 감추기 어렵사외
+    임을 맞던 서문에서 또 임을 보내오니
+    길 가는 남녀 노소들 모두 눈물이로고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0780&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금동공주(金童公主) : '
+    value: 충숙왕(忠肅王)의 비(妃)이며, 원(元)나라 순종(順宗)의 아들 위왕(魏王) 심양왕(瀋陽王)아목가(阿木哥)의 딸이다. 충숙왕 11년에 원나라에서 혼인, 다음 해(1325년) 본국 용산(龍山)  행궁(行宮)에서 아들을 낳고 18세로 곧 승하(昇遐)하였다.
+  - key: '[주-D002] 배[舟]를 …… 감추기 : '
+    value: 배를 구렁에 감추고, 산을 못에 감추면 든든하다 이를 것이다. 그러나 밤중에 힘센 자가 지고 달아난다. 《莊子 大宗師》 차마 옥체(玉體)를 묻기 어려움을 뜻한다.
+english:
+  title: Elegy for the Princess of Gold Child
+  author: Choe Hae
+  language: eng
+  text: |-
+    Her name shines forever in the jade records,
+    A lineage flows long from the celestial source.
+    Chosen to wed, she joined the royal kinship,
+    And dreams foretold the blessing of a son.
+
+    The moon already hides beyond the clouds,
+    Yet the boat cannot be hidden in the ravine.
+    At the Western Gate where we received her,
+    Now we bid her farewell—all who pass weep without end.
+  footnotes:
+  - key: ''
+    value: The Princess of Gold Child was the wife of King Ch'ungsk (忠肅王) of Koryŏ. She was the daughter of the Wei Prince Shenyang Wang (瀋陽王), son of the Yuan Emperor Shun (順宗). She married into Koryŏ in the eleventh year of King Ch'ungsk's reign, bore a son at the Dragon Mountain Palace the following year (1325), and died at the age of eighteen.
+  - key: ''
+    value: The image of hiding the boat in the ravine alludes to the impossibility of preserving her precious form, drawing on a passage from Zhuangzi. Though one might hide a boat in a gorge or a mountain in a lake for safety, a strong person can still seize and flee with them at night—so too is it impossible to preserve what is destined to pass.

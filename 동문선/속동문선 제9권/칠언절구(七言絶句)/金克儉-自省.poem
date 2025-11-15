@@ -1,0 +1,37 @@
+canonical:
+  title: 自省
+  author: 金克儉
+  language: lzh
+  text: 年來身脫簿書叢觀了塵緣一切空心地惺惺猶未信朝朝喚問主人翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自省
+  author: 金克儉
+  language: lzh
+  text: 年來身脫簿書叢。觀了塵緣一切空。心地惺惺猶未信。朝朝喚問主人翁。
+korean:
+  title: 자성
+  author: 김극검
+  language: kor
+  text: |-
+    근년에 와서 장부 무더기에서 몸이 벗어나
+    티끌 인연은 일체가 공한 것을 보아 알았다
+    마음이 성성하지만 그래도 믿지 못해
+    아침마다 주인옹을 불러 물어보노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0600&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Examination
+  author: Kim Geuk-geom
+  language: eng
+  text: |-
+    In recent years, my body has escaped the tangle of ledgers and accounts.
+    I have come to see that all worldly ties are emptiness.
+    Yet though my mind grows clear, I cannot fully believe.
+    Each dawn I call upon the Master within and ask.
+  footnotes:
+  - key: ''
+    value: The 'Master' (주인옹, Master One) refers to the true self or Buddha-nature within, a common theme in Korean Seon (Zen) Buddhist poetry.
+  - key: ''
+    value: The poem's progression moves from external liberation (escape from bureaucratic duties) to internal realization, yet acknowledges the difficulty of complete spiritual conviction.

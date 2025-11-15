@@ -1,0 +1,49 @@
+canonical:
+  title: 出鎭龍灣次示門生
+  author: 金緣
+  language: lzh
+  text: 十年臺閣掌絲綸此日飜爲閫外臣諫苑未能陳讜議塞垣聊欲掃胡塵鬢毛早白緣憂國涕淚難禁爲戀親多謝孔門諸子弟百壺淸酒送行人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 出鎭龍灣次示門生
+  author: 金緣
+  language: lzh
+  text: 十年臺閣掌絲綸。此日飜爲閫外臣。諫苑未能陳讜議。塞垣聊欲掃胡塵。鬢毛早白緣憂國。涕淚難禁爲戀親。多謝孔門諸子弟。百壺淸酒送行人。
+korean:
+  title: 용만에 진수하러 나가면서 문생들에게 보이다
+  author: 김연
+  language: kor
+  text: |-
+    십 년 동안 대각에서 사륜을 관장하다가
+    오늘에 문득 곤외의 신하가 되었네
+    간원(간원(諫院))에서 있으면 충직한 의논을 드리지 못했고
+    변새에 나가서 오랑캐의 먼지나 쓸려 하네
+    머리털 일찍 흰 것은 나라 근심 까닭이요
+    눈물을 금하지 못함은 어버이 생각 때문일세
+    고마워라 공문(공자(孔子)의 문정(門庭))의 여러 제자들
+    백 병 맑은 술로 가는 사람 전송하네그려
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: 'Departing for Yongwan: A Message to My Students'
+  author: Kim Yeon
+  language: eng
+  text: |-
+    For ten years I held the seal of office in the capital halls,
+    yet today I become a frontier magistrate instead.
+    In the Remonstrance Ministry I could not voice my honest counsel,
+    so now at the border I can only sweep away barbarian dust.
+    My hair turned white early from worry for the state,
+    and tears flow unbidden when I think of my parents.
+    I am grateful to you, my students, followers of the sage,
+    who send me off with a hundred vessels of clear wine.
+  footnotes:
+  - key: ''
+    value: The 'seal of silk threads' (絲綸) refers to imperial edicts and high court office.
+  - key: ''
+    value: The 'Remonstrance Ministry' (諫院) was an official body responsible for criticizing government policies.
+  - key: ''
+    value: The shift from 'capital halls' to 'frontier magistrate' represents a demotion or reassignment away from the capital.
+  - key: ''
+    value: '''Followers of the sage'' alludes to Confucius and his disciples, suggesting the author''s students are virtuous scholars.'

@@ -1,0 +1,37 @@
+canonical:
+  title: 山陽與鄕友話別
+  author: 崔致遠
+  language: lzh
+  text: 相逢暫樂楚山春又欲分離淚滿巾莫怪臨風偏悵望異鄕難遇故鄕人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山陽與鄕友話別
+  author: 崔致遠
+  language: lzh
+  text: 相逢暫樂楚山春。又欲分離淚滿巾。莫怪臨風偏悵望。異鄕難遇故鄕人。
+korean:
+  title: 산양 땅에서 고향 친구와 작별하며
+  author: 최치원
+  language: kor
+  text: |-
+    서로 만나 잠시 초산의 봄을 즐겼더니
+    다시 헤어지려니 눈물이 수건에 가득하네
+    바람 앞에 슬피 바람 봄을 괴이히 여기지 말라
+    타향에서 고향사람 만나기 참 어려운 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Parting from a Friend from Home in Sanyang
+  author: Choe Chi-won
+  language: eng
+  text: |-
+    We met by chance and briefly savored spring in these distant hills,
+    Yet now we part, and tears soak through my kerchief.
+    Do not think it strange that I stand sorrowful before the wind—
+    To meet a soul from home while far away is a rare and precious thing.
+  footnotes:
+  - key: ''
+    value: Sanyang (山陽) refers to the region in Tang China where the poet likely encountered this fellow traveler from the Korean peninsula.
+  - key: ''
+    value: The image of tears soaking the kerchief serves as both a literal expression of grief and a classical symbol of the sorrow of separation and exile.

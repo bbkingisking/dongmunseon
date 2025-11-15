@@ -1,0 +1,35 @@
+canonical:
+  title: 書齋
+  author: 金克己
+  language: lzh
+  text: 殘花滿眼嬾擡頭客思悲於落木秋安得倒江供日飮爛隨蜂鳥闘喧啾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書齋
+  author: 金克己
+  language: lzh
+  text: 殘花滿眼嬾擡頭。客思悲於落木秋。安得倒江供日飮。爛隨蜂鳥闘喧啾。
+korean:
+  title: 서재
+  author: 김극기
+  language: kor
+  text: |-
+    남은 꽃 눈에 가득 게으르게 고갤 드니
+    손의 마음 슬프기가 잎 지는 가을보다 더하이
+    어쩌면 강물 기울여 〈술로 변하여〉 나날이 마시고
+    취하여 벌과 새를 따라 떠들고 지저귐을 다투어 볼꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0790&viewSync=OT
+  footnotes: []
+english:
+  title: The Study
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Withered petals fill my eyes—too weary to lift my head.
+    A traveler's heart grieves deeper than autumn's falling leaves.
+    If only I could turn the river into wine to drink each day,
+    Then drunk, I'd join the bees and birds in their raucous clamor and song.
+  footnotes:
+  - key: ''
+    value: The 'river turned to wine' alludes to themes of escapism and abandonment of worldly concerns through intoxication, a common trope in East Asian poetry.

@@ -1,0 +1,45 @@
+canonical:
+  title: 安處士墨竹贊
+  author: 李奎報
+  language: lzh
+  text: 弃庵居士於竹通仙一掃其眞暗契自然手爲心使甞以心傳心指手應物何逃焉竹故見之莫藏其天一節一葉盡呈其全人與筆逝邈若千年尺紈遺迹價抵萬錢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 安處士墨竹贊
+  author: 李奎報
+  language: lzh
+  text: 弃庵居士。於竹通仙。一掃其眞。暗契自然。手爲心使。甞以心傳。心指手應。物何逃焉。竹故見之。莫藏其天。一節一葉。盡呈其全。人與筆逝。邈若千年。尺紈遺迹。價抵萬錢。
+korean:
+  title: 안처사 묵죽 찬
+  author: 이규보
+  language: kor
+  text: 기암거사(弃庵居士)는 대[竹]에 있어서 절정에 달하였다. 한 번 그 실물을 그리면 은연중 자연과 합치된다. 손은 마음의 심부름꾼이니 언제나 마음으로 전하여 준다. 마음이 시키고 손이 움직이면 물건은 여기에서 벗어나지 못한다. 대를 일부러 보고 있으니 천연스러운 그 본색 숨긴 것이 없도다. 마디 하나 잎 하나, 완전한 그 모습 다 나타났다. 사람과 솜씨가 모두 가버리고 아득히 천 년이나 된 듯하여라. 집 한쪽에 남긴 유적 값은 만냥과 맞먹으리라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of Master An's Ink Bamboo
+  author: Lee Kyubo
+  language: eng
+  text: |-
+    The hermit of the abandoned grove has touched perfection through bamboo,
+    Transcending the very form itself with a single brushstroke.
+    In silence, his hand communes with the way of nature.
+
+    The hand obeys the heart's command,
+    The heart transmits what words cannot say.
+    When mind directs and brush responds,
+    No thing escapes its rightful place.
+
+    Beholding the bamboo, he conceals nothing of its essence—
+    Each node, each leaf reveals its whole.
+    The man, the brush, both fade away,
+    Leaving traces that seem a thousand years old.
+
+    On silk left hanging in his corner room,
+    A treasure worth ten thousand coins.
+  footnotes:
+  - key: ''
+    value: '''The hermit of the abandoned grove'' refers to the subject, Master An (安處士), who was known for his scholarly retreat from the world. ''Qian'' (弃) means to abandon, and ''an'' (庵) refers to a hermitage or retreat.'
+  - key: ''
+    value: The poem emphasizes the Zen Buddhist concept of transcendence through art—the artist's ego dissolves, and the work achieves timeless authenticity through the perfect unity of mind, hand, and subject.

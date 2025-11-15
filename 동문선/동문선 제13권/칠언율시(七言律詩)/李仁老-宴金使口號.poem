@@ -1,0 +1,53 @@
+canonical:
+  title: 宴金使口號
+  author: 李仁老
+  language: lzh
+  text: 流虹瑞節綺筵開共喜仙槎海上回萬仞雲峯鼇戴出一封泥詔鳳㗸來香煙暗鏁芙蓉帳春色濃凝琥珀杯醉擁笙歌乘月去路人爭看玉山頹
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宴金使口號
+  author: 李仁老
+  language: lzh
+  text: 流虹瑞節綺筵開。共喜仙槎海上回。萬仞雲峯鼇戴出。一封泥詔鳳㗸來。香煙暗鏁芙蓉帳。春色濃凝琥珀杯。醉擁笙歌乘月去。路人爭看玉山頹。
+korean:
+  title: 금사를 맞는 연회에서의 즉흥시
+  author: 이인로
+  language: kor
+  text: |-
+    유홍절 기쁜 날에 화려한 이 잔치
+    얼씨구 신선의 떼배가 바닷길로 오셨네
+    만 길 구름 봉우리는 자라가 이고 나오는데
+    한 봉 조서를 봉이 머금고 날아왔네
+    향연이 자욱하여 부용장을 가리우고
+    봄빛이 푸짐하게 호박잔에 엉기누나
+    취하여 악대를 끼고 달빛에 돌아오니
+    길 사람 다투어 보는구나 옥산이 무너짐을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 신선의 떼배[仙槎]가 …… 오셨네 : '
+    value: 바닷가에 해마다 8월이면 어디선지 떼배가 왔다 갔다는 말도 있고, 한(漢)나라 장건(張騫)이 떼배를 타고 은하수(銀河水)에 갔다가 왔다는 말도 있다. 그러므로 바다에 배타고 가는 사신(使臣)의 배를 거기에 비한다.
+  - key: '[주-D002] 한 봉(封) …… 날아왔네 : '
+    value: 천자(天子)의 조칙(詔勅)을 자이(紫泥)로 봉한다.
+  - key: '[주-D003] 옥산(玉山)이 무너짐을 : '
+    value: 진(晋)나라 혜강(嵇康)의 인품이 외로운 소나무가 우뚝 선 듯하고, 그가 취하면 건들건들 옥산이 무너지려 함 같았다.
+english:
+  title: Impromptu Verse at a Banquet for the Gold Envoy
+  author: Lee In-ro
+  language: eng
+  text: |-
+    The auspicious rainbow marks the festive day, the ornate banquet opens wide,
+    Together we rejoice—the fairy vessel returns across the sea's vast tide.
+    Ten thousand spans of clouded peaks emerge, borne upon the dragon's back,
+    A sealed imperial decree arrives, cradled in the phoenix's beak.
+    Fragrant incense coils and shrouds the lotus-silk curtains in its veil,
+    Spring's richness pools and thickens in the amber cup without fail.
+    Intoxicated, we bear the pipes and strings, departing in moonlight's glow,
+    While passersby all pause and stare to see the Jade Mountain's noble show.
+  footnotes:
+  - key: ''
+    value: The 'fairy vessel' (仙槎) alludes to the mythical ship that sails the celestial waters, here representing the envoy's journey across the sea as a voyage of cosmic significance.
+  - key: ''
+    value: The 'sealed imperial decree' refers to imperial edicts sealed with purple clay and presented by the emperor's emissary, marking the solemnity of official communication.
+  - key: ''
+    value: The 'Jade Mountain' in the final line evokes the otherworldly beauty and dignity of an intoxicated sage—an allusion to the refined demeanor of the ancient worthy when drunk, suggesting the envoy's noble bearing despite merriment.

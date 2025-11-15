@@ -1,0 +1,54 @@
+canonical:
+  title: 七月二十九日誕辰賀禮後作
+  author: 徐居正
+  language: lzh
+  text: 誕辰陳賀紫宸朝稽顙瑤墀拜赭袍金甕初開千日酒玉盤齊獻萬年桃奇逢幸際雲龍會霈澤深涵雨露饒醉飽小臣賡大雅更伸華祝頌唐堯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 七月二十九日誕辰賀禮後作
+  author: 徐居正
+  language: lzh
+  text: 誕辰陳賀紫宸朝。稽顙瑤墀拜赭袍。金甕初開千日酒。玉盤齊獻萬年桃。奇逢幸際雲龍會。霈澤深涵雨露饒。醉飽小臣賡大雅。更伸華祝頌唐堯。
+korean:
+  title: 7월 29일 탄신 하례후작
+  author: 서거정
+  language: kor
+  text: |-
+    탄신이라 자신궁(임금 계신 궁)에 하례하는 아침
+    옥 섬돌에 이마를 조아려 붉은 곤룡포에 절하였네
+    금옹에는 처음으로 천일주를 열었고
+    옥반에는 나란히 만년도를 바치도다
+    행복한 때를 기이하게 만났으매 구름(신하)과 용 임금이 모이었고
+    쏟는 은택에 깊이 젖으매 비와 이슬이 넉넉하여라
+    취하고 배부른 소신이 대아를 이어
+    다시 화축을 펴 당요를 노래하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화축(華祝)을 …… 노래하네 : '
+    value: 옛날 요(堯)임금 때에 화(華)의 제후[封人]되는 사람이 요 임금에게 세 가지로 축복한 일이 있었는데, 수(壽)와 부(富)와 다남자(多男子)라는 것이다.
+english:
+  title: Written After Receiving Birthday Congratulations on the Twenty-Ninth Day of the Seventh Month
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    On this birthday morn, we offer homage at the Purple Palace,
+    Bowing our foreheads to the jade steps, prostrate before the crimson dragon robe.
+    From golden vessels we open wine kept a thousand days,
+    On jade platters we present peaches of ten thousand years.
+
+    What fortune to meet this rare occasion—clouds and dragon converge,
+    And the falling grace soaks deep, as rain and dew pour forth abundantly.
+    This humble servant, drunk and full, continues the great song,
+    And once more unfolds auspicious blessings, singing praises of Yao the sage.
+  footnotes:
+  - key: ''
+    value: 'Purple Palace (紫宸): The imperial palace where the ruler resides, the seat of imperial authority.'
+  - key: ''
+    value: 'Dragon robe (곤룡포): The formal court robes of high officials, symbolizing their rank and service to the throne.'
+  - key: ''
+    value: 'Wine kept a thousand days (千日酒) and peaches of ten thousand years (萬年桃): Symbolic offerings representing longevity and eternal prosperity.'
+  - key: ''
+    value: 'Clouds and dragon (雲龍): Metaphorical imagery representing the harmony between officials (clouds) and the ruler (dragon).'
+  - key: ''
+    value: 'Yao the sage (唐堯): Reference to the legendary sage-king Yao of antiquity, considered the ideal of virtuous rulership; the blessings mentioned echo the three blessings (longevity, wealth, and many sons) traditionally bestowed upon such exemplary rulers.'

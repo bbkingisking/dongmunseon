@@ -1,0 +1,35 @@
+canonical:
+  title: 正旦賀狀
+  author: 李奎報
+  language: lzh
+  text: 天經左轉朔統右行想蘭阪之迓祥酌椒觴而薦壽恭惟令公殿下貴聯天族望重國維蓄思沉深早壓象船之智率身儉約不娛鴈沼之遊茂對端辰誕膺純祐某等恪守黃堂之寄阻陪靑邸之遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 正旦賀狀
+  author: 李奎報
+  language: lzh
+  text: 天經左轉。朔統右行。想蘭阪之迓祥。酌椒觴而薦壽。恭惟令公殿下。貴聯天族。望重國維。蓄思沉深。早壓象船之智。率身儉約。不娛鴈沼之遊。茂對端辰。誕膺純祐。某等恪守黃堂之寄。阻陪靑邸之遊。
+korean:
+  title: 정단 하장
+  author: 이규보
+  language: kor
+  text: 천경(天經)이 왼편으로 굽고, 삭통(朔統)이 바른편으로 행하니, 아마도 난판(蘭阪)은 상서를 맞아들여, 초주(椒酒)를 수작하며 축수할 것입니다. 삼가 생각건대, 영공전하(令公殿下)께서는 귀함은 왕의 친족이요, 물망은 나라의 벼리로서, 생각을 침착하게 짜내어 일찍이 상선(象船)의 지혜를 압도하였고, 몸을 검소하게 가져 안소(雁沼)의 놀이를 즐기지 않았던 것입니다. 이 단신(端辰 원단(元旦)과 같은 말이다)을 당하여, 크게 오롯한 복을 누리소서. 모(某) 등은 황당(黃堂)의 기탁(寄托)을 각별히 지키기에 청저(靑邸)의 놀이를 모실 길 없습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정단 하장(正旦賀狀) : '
+    value: “연창후(延昌侯)에게 올리는 하장”이라는 원주가 있다.
+  - key: '[주-D002] 안소(雁沼) : '
+    value: 《맹자(孟子)》 양혜왕편(梁惠王篇)에, 맹자가 양혜왕을 보니 왕은 못가[沼上]에 서서 홍안(鴻雁)과 미록(麋鹿)을 돌아보며 하는 말이, “어진 이도 이런 것을 즐기는 일이 있습니까.” 하였다. 그래서 안소라 쓴 것이다.
+english:
+  title: A Congratulatory Memorial on New Year's Day
+  author: Lee Gyubo
+  language: eng
+  text: Heaven's path curves leftward, the calendar's course runs right—surely the Orchid Slope receives auspicious omens, as we raise cups of pepper wine to offer blessings. I humbly reflect that Your Excellency, the Esteemed Prince, stands connected to the royal house by blood, and holds the nation's trust as a guiding star. Your thoughts run deep and measured, having long surpassed the wisdom of the elephant-bearing vessels; your conduct remains frugal and temperate, never indulging in the pleasures of the wildfowl marshes. On this auspicious dawn, may you receive boundless and perfect fortune. We humble servants, bound by the duties of our station within the Yellow Hall, cannot join you in the celebrations at the Green Manor.
+  footnotes:
+  - key: ''
+    value: The 'Orchid Slope' and 'pepper wine' are traditional New Year's imagery for welcoming good fortune and offering longevity wishes.
+  - key: ''
+    value: The reference to 'elephant-bearing vessels' alludes to exceptional wisdom and capability in governance.
+  - key: ''
+    value: The 'wildfowl marshes' reference derives from the Mencius, symbolizing the shallow pleasures a virtuous person should transcend.

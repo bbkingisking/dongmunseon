@@ -1,0 +1,48 @@
+canonical:
+  title: 新到乾川諸公來訪次韻
+  author: 李邦直
+  language: lzh
+  text: 滿院和氣凝晴空池塘春草樓臺風小桃猶未放新紅早梅先發荒園中荒園中高軒過㗸盃共醉新豐酒拍手齊唱襄陽歌樂哉此樂樂復樂有酒不飮當如何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新到乾川諸公來訪次韻
+  author: 李邦直
+  language: lzh
+  text: 滿院和氣凝晴空。池塘春草樓臺風。小桃猶未放新紅。早梅先發荒園中。荒園中高軒過。㗸盃共醉新豐酒。拍手齊唱襄陽歌。樂哉此樂樂復樂。有酒不飮當如何。
+korean:
+  title: 새로 건천에 도착하니 제공이 내방하매 차운하여
+  author: 이방직
+  language: kor
+  text: |-
+    원에 가득한 화기는 푸른 하늘에 어리었는데
+    지당의 봄풀이며 누대의 바람이라
+    작은 복숭아는 아직 붉기도 전에
+    이른 매화가 먼저 스산한 동산 속에 피다
+    스산한 동산 속에, 높은 행차 지는데
+    잔 들어 한 가지 신풍주에 취해서
+    손뼉치며 나란히 양양가를 부르다
+    즐겁도다 이 즐거움 즐겁고 또 즐거워라
+    술 있는데 마시잖고 어이하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0520&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 손뼉치며 …… 부르다 : '
+    value: 이백의 시에, “양양의 아이들이 손뼉치며 거리를 질러막고 백동(白銅 노래 이름)을 부른다.”는 귀절이 있다.
+english:
+  title: Rhyming Poem Upon the Arrival of Various Gentlemen at Ganchen
+  author: Lee Bang-jik
+  language: eng
+  text: |-
+    Harmony fills the courtyard, condensing into clear sky,
+    Spring grass by the pond, wind through the pavilion tower.
+    The small peach blossoms have not yet opened their crimson hue,
+    When early plum blooms first appear in the desolate garden.
+
+    In that desolate garden, beneath the lofty passage,
+    We raise our cups and together grow drunk on Xinfeng wine,
+    Clapping our hands in unison, singing the song of Xiangyang.
+    What joy! This joy, joyous and ever more joyous!
+    With wine before us, how could we not drink?
+  footnotes:
+  - key: ''
+    value: The 'song of Xiangyang' references a poem by Li Bai, where children clap their hands across the streets singing of white copper—here invoked to capture a moment of communal merriment and carefree celebration.

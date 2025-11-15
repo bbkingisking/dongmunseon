@@ -1,0 +1,48 @@
+canonical:
+  title: 還朝路上望三角山
+  author: 李存吾
+  language: lzh
+  text: 三朶奇峯逈接天虛無元氣積雲煙仰看廉利攙長劒橫似參差聳碧蓮數載讀書蕭寺裏二年留滯漢江邊孰云造物無情者今日相看兩慘然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 還朝路上望三角山
+  author: 李存吾
+  language: lzh
+  text: 三朶奇峯逈接天。虛無元氣積雲煙。仰看廉利攙長劒。橫似參差聳碧蓮。數載讀書蕭寺裏。二年留滯漢江邊。孰云造物無情者。今日相看兩慘然。
+korean:
+  title: 환조로상 망 삼각산
+  author: 이존오
+  language: kor
+  text: |-
+    세 떨기 기묘한 봉이 멀리 하늘에 닿았으니
+    신비한 조화 구름과 이내가 쌓이었네
+    우러러보면 날카로운 긴 검을 찌른 듯
+    가로 보면 올망졸망 푸른 연꽃 솟은 양
+    몇 해 동안 저 산 절에서 글을 읽었지
+    두 해를 한강가에 묵어 지냈었네
+    산천이 무정타 그 누가 일렀던고
+    오늘에 맞 바라보니 가슴 뭉클하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Gazing at Samgak Mountain on the Road Back to Court
+  author: Lee Joong-oh
+  language: eng
+  text: |-
+    Three peaks of wonder pierce the distant sky,
+    Where mystery and primal breath condense as clouds and mist.
+    Gaze upward—sharp blades of swords thrust forth,
+    Yet sideways they appear as blue lotus blooms in disarray.
+
+    Years I spent reading books within that mountain temple,
+    Two more dawdling by the Han River's edge.
+    Who says the world lacks feeling, stripped of care?
+    Today, beholding you again, my heart trembles with tears.
+  footnotes:
+  - key: ''
+    value: Samgak Mountain (三角山), located in present-day Seoul, was a significant landmark and place of spiritual retreat in medieval Korea.
+  - key: ''
+    value: The dual imagery of swords and lotus flowers reflects the mountain's sharp, dramatic peaks while evoking Buddhist symbolism of spiritual transformation.
+  - key: ''
+    value: The poem contrasts the speaker's past period of scholarly retreat with the present moment of departure, suggesting a poignant farewell to a formative chapter of life.

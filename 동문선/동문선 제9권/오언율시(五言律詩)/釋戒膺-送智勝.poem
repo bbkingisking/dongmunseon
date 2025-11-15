@@ -1,0 +1,45 @@
+canonical:
+  title: 送智勝
+  author: 釋戒膺
+  language: lzh
+  text: 好學今應少忘形古亦稀顧予何所有而子乃來依窮谷三冬共春風一日歸去留俱世外不用淚霑衣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送智勝
+  author: 釋戒膺
+  language: lzh
+  text: 好學今應少。忘形古亦稀。顧予何所有。而子乃來依。窮谷三冬共。春風一日歸。去留俱世外。不用淚霑衣。
+korean:
+  title: 송지승
+  author: 석계응
+  language: kor
+  text: |-
+    배우기 좋아하는 이 지금 몇이나 되는가
+    망형이란 옛날에도 드문 일
+    대체 내가 그 무엇을 가졌길래
+    숫제 자네가 와서 의지했단 말인가
+    궁벽한 골짝에서 삼동을 같이 하고
+    봄바람 부는 오늘에 그만 돌아가네 그려
+    가거나 머무르거나 모두 세상 밖이어니
+    구태여 섭섭한 눈물 옷 적시리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 망형(忘形) : '
+    value: 나이의 노소(老少)가 틀리는 것을 잊고 서로 벗으로 사귀는 것을 망형(忘形)이라 한다.
+english:
+  title: Seeing Off Jiseung
+  author: Seok Gyeung
+  language: eng
+  text: |-
+    How rare in these times to find one devoted to learning—
+    even in ancient days, forgetting form was scarce.
+    What little have I that deserves
+    your coming here to rely upon me?
+    Through three winters in this remote valley we have dwelt together,
+    and on this spring day, the wind calls you home.
+    Whether going or staying, both lie beyond the world—
+    why wet your sleeves with tears of parting?
+  footnotes:
+  - key: ''
+    value: '''Forgetting form'' (忘形) refers to transcending the differences of age and circumstance to relate to one another as true companions.'

@@ -1,0 +1,48 @@
+canonical:
+  title: 次密陽嶺南樓韻
+  author: 金久冏
+  language: lzh
+  text: 承綸來自九重天有嶺南樓忽在前碧瓦玲瓏晴日表朱欄照耀彩霞邊寒聲滿座江噴雪翠色凝簾竹嚲煙勝槩遙聞年已久登臨更踏雨雲筵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次密陽嶺南樓韻
+  author: 金久冏
+  language: lzh
+  text: 承綸來自九重天。有嶺南樓忽在前。碧瓦玲瓏晴日表。朱欄照耀彩霞邊。寒聲滿座江噴雪。翠色凝簾竹嚲煙。勝槩遙聞年已久。登臨更踏雨雲筵。
+korean:
+  title: 차 밀양 영남루 운
+  author: 김구경
+  language: kor
+  text: |-
+    구중 궁궐에서 어명 받잡고 왔던 차
+    문득 보니 앞에 우뚝 선 영남루
+    갠 날 햇살에 푸른 기와가 영롱하고
+    채색 노을가에 붉은 난간이 번쩍이네
+    자리에 가득 써늘한 소리는 강이 눈을 뿜고
+    발에 엉긴 푸른 빛은 대가 연기에 휘늘어졌네
+    이 좋은 경개를 몇 해째 들었더니
+    올라와 보니 더구나 화려한 연회 자리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0680&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Rhyme Scheme of Yeongnam Tower at Miryang
+  author: Kim Gu-gyeong
+  language: eng
+  text: |-
+    I came bearing imperial decree from the nine-tiered palace.
+    Suddenly before me rose the Yeongnam Tower, towering high.
+    Beneath the clear day's sunlight, jade-green tiles gleam and shimmer,
+    While crimson railings glow where rainbow clouds drift by.
+
+    Cold sounds fill the chamber—the river spews forth snow,
+    As verdant hues cling to the blinds where bamboo bends in mist.
+    Long have I heard tales of this magnificent vista,
+    Yet climbing now, I find the splendid gathering surpasses all.
+  footnotes:
+  - key: ''
+    value: 'Yeongnam Tower (영남루): A historic pavilion in Miryang, a city in southeastern Korea, known for its scenic overlook of the Nakdong River.'
+  - key: ''
+    value: The poem's opening references the poet's official journey from the royal court, establishing the context of this journey to the provinces.
+  - key: ''
+    value: The juxtaposition of the imperial decree with natural beauty suggests the poet's experience of bridging court and landscape.

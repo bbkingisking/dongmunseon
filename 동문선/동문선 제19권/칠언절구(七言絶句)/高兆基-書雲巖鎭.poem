@@ -1,0 +1,37 @@
+canonical:
+  title: 書雲巖鎭
+  author: 高兆基
+  language: lzh
+  text: 風入湖山萬竅號宿雲歸盡塞天高蒼鷹直上百千尺那箇纖塵點羽毛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書雲巖鎭
+  author: 高兆基
+  language: lzh
+  text: 風入湖山萬竅號。宿雲歸盡塞天高。蒼鷹直上百千尺。那箇纖塵點羽毛。
+korean:
+  title: 서 운암진
+  author: 고조기
+  language: kor
+  text: |-
+    바람이 호산에 드니 일만 구멍이 부르짖누나
+    잔 구름 다 돌아가니 변방의 하늘이 높도다
+    푸른 매 치솟아 백 천척을 올랐거니
+    가는 티끌인들 깃털에 묻을 줄이 있으랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 일만 구멍 : '
+    value: 《장자》에 바람이 일어나면 일만 구멍[萬竅]이 성내어 부르짖는다는 말이 보인다.
+english:
+  title: Written at Cloud Cliff Garrison
+  author: Ko Jo-gi
+  language: eng
+  text: |-
+    Wind enters the lake and mountain, ten thousand hollows cry out.
+    The lingering clouds all depart, the frontier sky grows high.
+    The blue hawk soars straight up a hundred thousand feet—
+    How could mere dust specks ever cling to its feathers?
+  footnotes:
+  - key: ''
+    value: The 'ten thousand hollows' alludes to the Zhuangzi, where wind stirring ten thousand cavities produces a great chorus—here representing the awakening of nature itself.

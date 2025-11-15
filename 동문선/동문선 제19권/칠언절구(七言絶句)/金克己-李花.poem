@@ -1,0 +1,45 @@
+canonical:
+  title: 李花
+  author: 金克己
+  language: lzh
+  text: 淒風冷雨濕枯根一樹狂花獨放春無奈異香來聚窟漢宮重見李夫人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李花
+  author: 金克己
+  language: lzh
+  text: 淒風冷雨濕枯根。一樹狂花獨放春。無奈異香來聚窟。漢宮重見李夫人。
+korean:
+  title: 이화
+  author: 김극기
+  language: kor
+  text: |-
+    처량한 바람 찬 비가 마른 뿌리를 적시는데
+    한 그루 미친 꽃이 홀로 봄을 펼치네
+    기이한 향기 취굴주(聚窟洲)에서 오니
+    한나라 궁중에 다시 이부인 보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이화(李花) : '
+    value: “이는 가을날 오얏꽃을 읊은 것이다.”라는 제주(題註)가 있다.
+  - key: '[주-D002] 취굴주(聚窟洲) : '
+    value: 신선이 사는 십주(十洲)의 하나이며, 거기서 반혼향(返魂香)이 나는데 그 향내가 풍기는 곳에는 죽은 사람이 다시 살아난다는 것이다.
+  - key: '[주-D003] 이부인(李夫人) : '
+    value: 한 무제(漢武帝)가 사랑하는 이부인(李夫人)을 잃은 뒤에 몹시 그리워하다가 이소군(李少君)의 방술로 이부인의 혼을 불러와서 얼굴을 잠깐 다시 보게 되었다. 이 시의 뜻은 봄에 없어졌던 오얏꽃이 가을에 다시 살아 왔다는 것을 말한다.
+english:
+  title: Pear Blossoms
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The desolate wind and cold rain drench the withered roots,
+    Yet one wild tree spreads its blossoms to spring alone.
+    When strange fragrance drifts from the Realm of Gathered Caverns,
+    The Han palace sees Lady Li return once more.
+  footnotes:
+  - key: ''
+    value: The pear blossoms here symbolize resurrection and remembrance—blossoms that vanished in spring reappearing in autumn.
+  - key: ''
+    value: The Realm of Gathered Caverns refers to a legendary paradise where the miraculous Resurrection Incense grows, whose fragrance can restore the dead to life.
+  - key: ''
+    value: Lady Li alludes to the beloved concubine of Emperor Wu of Han, whose spirit was summoned through mystical arts after her death, allowing the emperor a brief glimpse of her again—here used as a metaphor for the return of the blossoms.

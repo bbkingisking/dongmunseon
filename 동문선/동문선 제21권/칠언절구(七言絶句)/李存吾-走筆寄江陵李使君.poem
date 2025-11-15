@@ -1,0 +1,41 @@
+canonical:
+  title: 走筆寄江陵李使君
+  author: 李存吾
+  language: lzh
+  text: 海闊天高一郡平州城人道是逢瀛霓旌羽盖寒松月想像風流太守行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 走筆寄江陵李使君
+  author: 李存吾
+  language: lzh
+  text: 海闊天高一郡平。州城人道是逢瀛。霓旌羽盖寒松月。想像風流太守行。
+korean:
+  title: 붓을 들어 빨리 써서 강릉 이사에게 부침
+  author: 이존오
+  language: kor
+  text: |-
+    바다는 넓고 하늘은 높은데 한 고을이 펀펀하니
+    사람들은 이 고을 성을 봉영이라 이른다
+    신선의 무지개 깃발과 깃일산 놀던 한송정의 달
+    풍류 태수의 노는 것이 상상되네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0660&viewSync=OT
+  footnotes: []
+english:
+  title: A Hasty Brush to the Governor of Gangreung
+  author: Lee Joon-o
+  language: eng
+  text: |-
+    The sea spreads wide, the sky stretches high—one prefecture lies serene and level.
+    The townspeople call this city the Blessed Land of Immortals.
+    Rainbow banners and feathered canopies dance beneath the moon at Cold Pine Pavilion.
+    I imagine the graceful wanderings of our cultivated governor.
+  footnotes:
+  - key: ''
+    value: Gangreung (江陵) is located in present-day Gangwon Province, Korea
+  - key: ''
+    value: The 'Blessed Land of Immortals' (逢瀛) alludes to mythical utopias in classical Chinese literature, suggesting the governor has brought prosperity and peace to the region
+  - key: ''
+    value: Cold Pine Pavilion (한松) evokes a place of refined aesthetic appreciation
+  - key: ''
+    value: The 'cultivated governor' (風流太守) refers to the recipient, Li, suggesting he embodies both administrative excellence and artistic refinement

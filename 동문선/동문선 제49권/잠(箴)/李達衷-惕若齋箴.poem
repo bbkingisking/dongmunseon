@@ -1,0 +1,43 @@
+canonical:
+  title: 惕若齋箴
+  author: 李達衷
+  language: lzh
+  text: 毋不敬毋自欺馭朽索攀枯枝進知退安思危厲無咎念在玆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 惕若齋箴
+  author: 李達衷
+  language: lzh
+  text: 毋不敬。毋自欺。馭朽索。攀枯枝。進知退。安思危。厲無咎。念在玆。
+korean:
+  title: 척약재 잠
+  author: 이달충
+  language: kor
+  text: 공경하지 아니함이 없어야 하고 스스로를 속임이 없어야 한다. 썩은 새끼[索]로 말(馬)을 다루 듯 조심하고 마른 나무가지에 매달리듯 조심하라. 나아갈 때에 물러설 줄을 알아야 하고 편할 때에 위태로움을 생각하면 불편한 일이 있어도 재앙되지는 않는 것이니 생각이 늘 이에 있으라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_030_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 썩은 새끼[索] …… 조심하고 : '
+    value: “썩은 새끼를 가지고 여섯 마리 말을 다루듯 위태롭고 조심 된다.”는 말이 있다.
+  - key: '[주-D002] 마른 나뭇가지에 매달리듯 : '
+    value: 동진(東晉)의 명사(名士)들이 모여서 위태로운 제목으로 하여 각각 시를 짓는데, 그 중 한 사람은 “백살 된 노인이 높은 나무의 마른 가지에 매달려 있다.” 하였다.
+english:
+  title: Inscription for the Chamber of Reverent Vigilance
+  author: Lee Dahl-choong
+  language: eng
+  text: |-
+    Let reverence be ceaseless.
+    Let no deception cloud the self.
+    Handle affairs as one guides horses with a fraying rope—
+    With care that trembles at each step.
+    Cling to what is withering as to a dry branch—
+    Precarious, yet holding fast.
+    Know when to advance and when to withdraw.
+    In comfort, contemplate danger.
+    Though hardship may come, calamity need not follow,
+    If the mind dwells forever here.
+  footnotes:
+  - key: ''
+    value: The image of guiding horses with a rotting rope suggests the utmost carefulness, as one handles something fragile and liable to break at any moment.
+  - key: ''
+    value: The dry branch imagery recalls a dialogue among the renowned scholars of Eastern Jin, where one spoke of an aged man clinging to the withered branch of a tall tree—a metaphor for maintaining one's composure amid precarious circumstances.

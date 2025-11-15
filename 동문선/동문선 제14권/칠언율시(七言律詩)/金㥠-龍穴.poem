@@ -1,0 +1,48 @@
+canonical:
+  title: 龍穴
+  author: 金㥠
+  language: lzh
+  text: 膝下甞聞桂苑春老禪同是牓中人臥龍一穴法雷殷鳴鶴半天詩月新道富生涯餘杖履社高投契遍簪紳朗州幸有通家好茶席猶堪備惡賓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 龍穴
+  author: 金㥠
+  language: lzh
+  text: 膝下甞聞桂苑春。老禪同是牓中人。臥龍一穴法雷殷。鳴鶴半天詩月新。道富生涯餘杖履。社高投契遍簪紳。朗州幸有通家好。茶席猶堪備惡賓。
+korean:
+  title: 용혈
+  author: 김서
+  language: kor
+  text: |-
+    아버지께 일찍이 등과 때 일 듣자오니
+    스님께서 그때 같은 방에 드셨다고
+    용이 산에 누우니 법 우레가 우렁차고
+    학이 하늘에 치솟으니 시의 달이 산뜻해라
+    가멸은 도의 남은 생애는 지팡이와 신뿐이요
+    높은 사의 벌인 계는 잠신을 망라했네
+    낭주에 요행 통가호가 있으니
+    다석에 제발 악빈을 마다 말고 맞아 주소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: The Dragon's Lair
+  author: Kim Seo
+  language: eng
+  text: |-
+    From my father's lips in youth I heard tales of the examination hall spring,
+    Where you and the venerable monk shared the same chamber then.
+    The dragon coiled in mountain sleeps as dharma thunder rolls and rings,
+    The crane soars through heaven's height where poetry's moon shines clear and new.
+
+    Gatama's remnant years of the Way need but staff and simple shoe,
+    The society's lofty bonds, once forged, encompass all the nobles' circle.
+    In Langzhou, fortune smiles—we have the kinship of old friends,
+    At the tea table, I beg you, do not refuse this humble guest.
+  footnotes:
+  - key: ''
+    value: Gatama (迦末) refers to Buddhist renunciation and the simple life of a monk or ascetic
+  - key: ''
+    value: Langzhou (朗州) was a historical Chinese place name, likely used here metaphorically to represent the poet's locality
+  - key: ''
+    value: The dragon and crane are traditional symbols of wisdom and transcendence in East Asian poetry

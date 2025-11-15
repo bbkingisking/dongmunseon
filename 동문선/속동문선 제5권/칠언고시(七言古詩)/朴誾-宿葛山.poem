@@ -1,0 +1,47 @@
+canonical:
+  title: 宿葛山
+  author: 朴誾
+  language: lzh
+  text: 昨夜踏月懶翁塔今日避雨葛山口西江落景亂金箭東岳怒雲騈蒼狗鸕鷀窺魚立漁磯人語舟行忽驚飛雙雙自入烟霧裏我不如君早見幾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿葛山
+  author: 朴誾
+  language: lzh
+  text: 昨夜踏月懶翁塔。今日避雨葛山口。西江落景亂金箭。東岳怒雲騈蒼狗。鸕鷀窺魚立漁磯。人語舟行忽驚飛。雙雙自入烟霧裏。我不如君早見幾。
+korean:
+  title: 숙갈산
+  author: 박은
+  language: kor
+  text: |-
+    어젯밤엔 나옹탑(懶翁塔)에서 달을 밟았더니
+    오늘은 갈산 어귀에서 비를 피하는구나
+    서강의 낙조가 금 화살을 쏘는 듯
+    동악의 먹구름은 개 두 마리 누운 듯
+    더펄새는 고기를 엿보며 낚시터에 섰더니
+    사람들 지껄이고 배가 가니 문득 놀라 날아가네
+    쌍쌍이 날아 안개 속으로 들어가니
+    나는 얼른 기미 보기를 너만큼 못하는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0570&viewSync=OT
+  footnotes: []
+english:
+  title: Overnight at Galsan
+  author: Park Eun
+  language: eng
+  text: |-
+    Last night I walked upon the moon at Naong Tower,
+    Today I shelter from the rain at Galsan's mouth.
+    The falling light of the western river shoots like golden arrows,
+    The angry clouds of the eastern peaks lie down like twin hounds.
+    Cormorants stand at the fishing rocks, peering for their prey,
+    But human voices and the boat's passing startle them into flight.
+    In pairs they vanish into the mists,
+    While I, alas, have not your keen eye to see them go.
+  footnotes:
+  - key: ''
+    value: 'Naong Tower (懶翁塔): A Buddhist temple or pagoda associated with the lazy monk, suggesting a previous night''s spiritual wandering.'
+  - key: ''
+    value: The golden arrows and twin hounds are vivid natural imagery comparing the sunset and clouds to weapons and animals—a technique characteristic of classical Korean-Chinese poetry.
+  - key: ''
+    value: The cormorants represent a moment of natural grace that slips away, mirroring the speaker's reflective mood and inability to fully grasp fleeting beauty.

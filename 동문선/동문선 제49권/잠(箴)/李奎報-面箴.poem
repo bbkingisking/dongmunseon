@@ -1,0 +1,43 @@
+canonical:
+  title: 面箴
+  author: 李奎報
+  language: lzh
+  text: 有愧于心汝必先恥色赬若朱泚滴如水對人莫檯斜回低避以心之爲迺移於爾凡百君子行義且𥫃能肆于中毋使汝愧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 面箴
+  author: 李奎報
+  language: lzh
+  text: 有愧于心。汝必先恥。色赬若朱。泚滴如水。對人莫檯。斜回低避。以心之爲。迺移於爾。凡百君子。行義且𥫃。能肆于中。毋使汝愧。
+korean:
+  title: 면잠
+  author: 이규보
+  language: kor
+  text: 마음에 부끄러움이 있으면 네[面]가 반드시 먼저 부끄러워 한다. 낯빛은 붉어 주홍같고 땀[汗]은 떨어지기를 물 쏟아지듯 한다. 사람을 대하면 머리를 들 수가 없고 살며시 숙이고 피하게 된다. 자기 마음에서 한 것으로 너[面]에게 옮게 된다. 모든 군자(君子)는 의(義)를 행하고 위의[儀]를 가져야 된다. 능히 마음이 활발하면 너[面]에게 부끄러움이 없게 되리라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_030_0010&viewSync=OT
+  footnotes: []
+english:
+  title: A Mirror for the Face
+  author: Lee Gyeong-bo
+  language: eng
+  text: |-
+    When shame dwells in the heart,
+    Your face must blush first.
+    The complexion flushes crimson as vermillion,
+    Sweat drips like water poured forth.
+
+    Before others you cannot lift your head,
+    But lower it softly and turn away.
+    What the heart harbors within
+    Transfers itself to your countenance.
+
+    All gentlemen of virtue
+    Must walk the path of righteousness and bearing.
+    When the spirit within burns bright and vital,
+    Your face shall know no shame.
+  footnotes:
+  - key: ''
+    value: 面 (myeon/face) is personified here as a subject that responds to and reflects the condition of the heart—a poetic device emphasizing the inseparability of inner character and outer appearance in Korean literati philosophy.
+  - key: ''
+    value: The poem uses physiological responses—blushing, sweating, lowering the gaze—as both markers of shame and reminders that virtue consists in aligning one's inner and outer conduct.

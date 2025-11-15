@@ -1,0 +1,71 @@
+canonical:
+  title: 寗戚飯牛
+  author: 姜希孟
+  language: lzh
+  text: 人生一藝當有施鋒穎自脫囊中錐君胡自晦隱商賈遁世無悶無人知齊門寄宿牛口下夜半鼓角歌正悲一聲悽斷來入耳威公適與心相宜命載後車良以勤擢置客卿良以奇唐虞已遠不可回且於當日奚所爲嗚呼齊邦伯佐稱管鮑聖門猶云功烈卑生逢堯舜定何如空有白石南山詞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寗戚飯牛
+  author: 姜希孟
+  language: lzh
+  text: 人生一藝當有施。鋒穎自脫囊中錐。君胡自晦隱商賈。遁世無悶無人知。齊門寄宿牛口下。夜半鼓角歌正悲。一聲悽斷來入耳。威公適與心相宜。命載後車良以勤。擢置客卿良以奇。唐虞已遠不可回。且於當日奚所爲。嗚呼齊邦伯佐稱管鮑。聖門猶云功烈卑。生逢堯舜定何如。空有白石南山詞。
+korean:
+  title: 영척 반우
+  author: 강희맹
+  language: kor
+  text: |-
+    인생이 한 가지 재주 있으면 베풀 때가 있나니
+    주머니 속의 송곳이 끝이 나오게 마련인데
+    그대는 어찌 스스로 장사꾼들 사이에 숨어
+    아무도 모르게 세상을 등지고 살았는가
+    제문에 기숙하여 소를 먹이며
+    밤중에 뿔을 치며 슬픈 노래 불렀네
+    그 소리 처량하게 들리자
+    환공이 마침 마음에 들어
+    후거에 실으라 명하니 은근도 할사
+    객경에 올려 앉으니 기특도 해라
+    당우(요순)는 머나먼 옛날 돌이킬 수 없거니
+    당일에야 숫제 무엇을 할꼬
+    아 제나라의 패좌는 관포를 일컬어도
+    성문에선 오히려 그 공이 낮다 했네
+    요순 때를 만났으면 어떠할 뻔했는고
+    부질없이 백석ㆍ남산의 노래만 남겼구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영척반우(寗戚飯牛) : '
+    value: 영척(寗戚)이 남의 집에서 소를 먹여 주며 생활하다가 제환공(齊桓公)이 나오는 것을 보고 소의 뿔을 두드리며 노래 부르기를, “남산에 흰 돌이 있어 요순(堯舜)을 만나지 못했구나.” 하니 환공이 듣고 그를 데리고 가서 정승을 삼았다.
+  - key: '[주-D002] 제(齊)나라의 …… 일컬어도 : '
+    value: 관중(管仲)과 포숙아(鮑叔牙)가 환공을 보좌하여 패업(霸業)을 성취하였다.
+english:
+  title: Ning Qi Tending Oxen
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    A man with one true skill shall find his moment.
+    The awl packed deep within the pouch must break through.
+    Yet you chose to hide yourself among merchants and tradesmen,
+    Shrouding your gifts where no soul could perceive them.
+
+    At the gates of Qi you lodged, tending oxen for your bread,
+    And in the depths of night you struck the horn with sorrowful song.
+
+    That mournful cry—piercing, trembling through the air—
+    Happened to stir the Duke of Qi's heart.
+    He commanded you placed upon his carriage behind,
+    Raised you high in honor for your remarkable gift.
+
+    Yet Yao and Shun are long departed, lost beyond recall.
+    What more was there to do in that single day?
+
+    Alas, though Qi's great ministers were Guan Zhong and Bao Shuya,
+    Even the Sage's school deemed their deeds not wholly worthy.
+    Had you been born to meet the age of Yao and Shun—
+    Instead, all that remains are songs of white stone on southern hills.
+  footnotes:
+  - key: ''
+    value: 'Ning Qi: A legendary figure who, while tending oxen, struck the ox-horn and sang a song lamenting that he had not been born in the age of the sage-kings Yao and Shun. Duke Huan of Qi heard his song and elevated him to high office.'
+  - key: ''
+    value: 'Guan Zhong and Bao Shuya: Famous ministers of Duke Huan of Qi who achieved great works in securing his hegemony.'
+  - key: ''
+    value: 'The white stone on southern hills: An allusion to Ning Qi''s lament in his song, expressing regret at missing the golden age of sage rule.'

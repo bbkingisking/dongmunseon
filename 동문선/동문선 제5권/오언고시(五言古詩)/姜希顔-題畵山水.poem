@@ -1,0 +1,68 @@
+canonical:
+  title: 題畵山水
+  author: 姜希顔
+  language: lzh
+  text: 仙山欝岧嶢雲氣連蓬瀛茅亭隱巖下綠竹繞簷楹高人奏綠綺細和松風淸彈成太古曲超然悟長生峯巒高崒嵂飛泉瀉天渠噴薄千萬丈可望不可居騎驢者誰子咫尺行趑趄長嘯一回首天地眞籧篨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題畵山水
+  author: 姜希顔
+  language: lzh
+  text: 仙山欝岧嶢。雲氣連蓬瀛。茅亭隱巖下。綠竹繞簷楹。高人奏綠綺。細和松風淸。彈成太古曲。超然悟長生。峯巒高崒嵂。飛泉瀉天渠。噴薄千萬丈。可望不可居。騎驢者誰子。咫尺行趑趄。長嘯一回首。天地眞籧篨。
+korean:
+  title: 제화 산수
+  author: 강희안
+  language: kor
+  text: |-
+    신선의 산이 울창하고 높으니
+    구름 기운이 봉래와 영주에 연하였도다
+    띠 정자는 바위 밑에 숨어 있고
+    푸른 대는 처마에 돌려 있다
+    고상한 사람이 녹기금을 타니
+    가늘게 솔바람과 어울려 맑도다
+    태고의 곡조를 타니
+    초연히 장생법을 깨달았도다
+    산봉우리가 높고 급하니
+    폭포수가 은하수처럼 쏟아진다
+    천 만 길을 뿜어 쏟으니
+    바라보기는 하여도 가서 살 수는 없다
+    나귀 탄 저 사람이 누구인지
+    지척에서 머뭇거린다
+    긴 휘파람에 한 번 머리를 돌이키니
+    천지는 참으로 여관집이로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0550&viewSync=OT
+  footnotes: []
+english:
+  title: Inscribed on a Landscape Painting
+  author: Kang Hui-an
+  language: eng
+  text: |-
+    The immortal mountain rises dense and towering,
+    Its clouded breath connecting Penglai and Yingzhou.
+    A thatched pavilion hides beneath the rocks,
+    Green bamboo circles the eaves and pillars.
+
+    A refined scholar plays the green-stringed lute,
+    Its delicate notes harmonizing with the clear pine wind.
+    When the ancient melody is complete,
+    One awakens suddenly to the way of eternal life.
+
+    Mountain peaks stand sharp and precipitous,
+    Waterfalls pour forth like the celestial river.
+    Spraying and surging ten thousand lengths high,
+    Yet we can only gaze—never dwell there.
+
+    Who is that wanderer upon the donkey?
+    Even at arm's length, he hesitates and stumbles.
+    At one long whistle, turning his head about,
+    He finds heaven and earth are but a roadside inn.
+  footnotes:
+  - key: ''
+    value: Penglai and Yingzhou are legendary paradises in Chinese mythology, often depicted in landscape paintings as islands of immortals.
+  - key: ''
+    value: The green-stringed lute (Luqi) is a classical Chinese instrument associated with refinement and spiritual cultivation.
+  - key: ''
+    value: The 'ancient melody' suggests music predating civilization itself, connecting the player to primordial harmony.
+  - key: ''
+    value: The final image transforms the mystical landscape into something ordinary—suggesting that enlightenment reveals the illusory nature of spiritual seeking.

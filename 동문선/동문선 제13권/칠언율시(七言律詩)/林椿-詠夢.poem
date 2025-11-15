@@ -1,0 +1,45 @@
+canonical:
+  title: 詠夢
+  author: 林椿
+  language: lzh
+  text: 踈慵多是泥春天頻到香閨玉枕前詩榻夜凉風斷續倡樓日晏酒拘牽一塲曾把浮生比千里長將別恨傳更爲等閑拋世慮近來還繞故山川
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詠夢
+  author: 林椿
+  language: lzh
+  text: 踈慵多是泥春天。頻到香閨玉枕前。詩榻夜凉風斷續。倡樓日晏酒拘牽。一塲曾把浮生比。千里長將別恨傳。更爲等閑拋世慮。近來還繞故山川。
+korean:
+  title: 꿈을 읊다
+  author: 임춘
+  language: kor
+  text: |-
+    게으른 이 몸 흔히 봄날에 취하는데
+    꿈이 자주 규방의 베갯맡을 찾아가누나
+    시 짓는 자리 서늘한 밤 이따금 바람 불 때
+    노래하는 누각에 해 저물어 술이 거나했을 적
+    깨고 나면 한바탕 바로 인생에 비할까
+    멀리 천리 밖에 이별의 한도 전하누나
+    세상 일 던져 두고 시름을 잊었으니
+    이즘에 늘 감도는 곳은 내 고향 산천
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0100&viewSync=OT
+  footnotes: []
+english:
+  title: On a Dream
+  author: Im Chun
+  language: eng
+  text: |-
+    Lazy and drowsy, I surrender to the spring day,
+    And dreams drift often to the maiden's chamber, to her pillow.
+    On the poet's mat, when cool night wind comes and goes,
+    In the singing tower as daylight fades and wine grows thin—
+    Awake, I compare it all to the floating life in one brief moment,
+    And a thousand miles away, longing for the distant beloved spreads.
+    Having cast aside the world's concerns and forgotten its sorrows,
+    What haunts me now is only the memory of my native hills and streams.
+  footnotes:
+  - key: ''
+    value: The poem plays on the ambiguity of dreaming as both escape from and reflection of waking life, a common theme in East Asian poetry
+  - key: ''
+    value: The contrast between the pleasure of dreams (the chamber, wine, poetry) and the melancholy of waking consciousness shapes the poem's emotional arc

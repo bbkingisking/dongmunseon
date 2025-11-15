@@ -1,0 +1,41 @@
+canonical:
+  title: 望三角山
+  author: 吳洵
+  language: lzh
+  text: 聳空三朶碧芙蓉縹緲煙霞幾萬重却憶當年倚樓處日沉蕭寺數聲鍾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 望三角山
+  author: 吳洵
+  language: lzh
+  text: 聳空三朶碧芙蓉。縹緲煙霞幾萬重。却憶當年倚樓處。日沉蕭寺數聲鍾。
+korean:
+  title: 망삼각산
+  author: 오순
+  language: kor
+  text: |-
+    허공에 우뚝 솟은 세 송이 푸른 부용
+    아득한 연기와 안개는 몇만 첩인가
+    문득 생각하나니 지난 그 때에 다락에 기댔을 때
+    소사의 두어 번 종소리에 해가 졌었느니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소사(蕭寺) : '
+    value: 양무제(梁武帝)가 절을 많이 지었는데, 그의 성이 소씨(蕭氏)이므로 절을 소사(蕭寺)라 하였다.
+english:
+  title: Gazing at Samgak Mountain
+  author: Oh Sun
+  language: eng
+  text: |-
+    Three peaks of jade lotus bloom, piercing the empty sky,
+    Layered mists and morning clouds—how many thousand folds?
+    Now I recall those days when I leaned from the tower,
+    As the sun descended with the temple bell's faint chime.
+  footnotes:
+  - key: ''
+    value: Samgak Mountain (三角山) is a real geographical location that would have been visible from where the poet stood. The 'three peaks' mirrors the mountain's distinctive triple summit.
+  - key: ''
+    value: The 'jade lotus' is a poetic image of pristine beauty, common in East Asian verse for describing mountains of spiritual significance.
+  - key: ''
+    value: The temple bell ringing at sunset creates a temporal marker—a moment of transition between day and night, life and reflection, linking the vivid present observation to cherished memory.

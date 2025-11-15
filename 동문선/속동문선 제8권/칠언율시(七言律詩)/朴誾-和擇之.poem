@@ -1,0 +1,47 @@
+canonical:
+  title: 和擇之
+  author: 朴誾
+  language: lzh
+  text: 江山在眼情俱往香火關門歲欲窮自笑如今無一興更憐有約不相同空尊何可對新雪病騎轉愁當暮風終日寂寥長抱膝和君詩罷覺忩忩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和擇之
+  author: 朴誾
+  language: lzh
+  text: 江山在眼情俱往。香火關門歲欲窮。自笑如今無一興。更憐有約不相同。空尊何可對新雪。病騎轉愁當暮風。終日寂寥長抱膝。和君詩罷覺忩忩。
+korean:
+  title: 화택지
+  author: 박은
+  language: kor
+  text: |-
+    강과 산이 눈에 보이는 듯 정이 그리로 가거니
+    향 피우고 문 잠그고 있는 동안 한 해가 저물려 한다
+    스스로 웃나니 지금 같아서는 한 가지 흥도 없는데
+    약속 있어도 같이하지 못하는 것을 가엾이 여기노라
+    빈 술항아리로 어떻게 새 눈을 대하겠는가
+    병든 말은 더욱 시름하며 저믄 바람 앞에 서네
+    한 종일 쓸쓸히 무릎을 안고 앉아 있다가
+    그대에게 화답하는 시를 마치다니 총총함을 깨닫는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0620&viewSync=OT
+  footnotes: []
+english:
+  title: Response to Taek-ji
+  author: Park Eun
+  language: eng
+  text: |-
+    The rivers and mountains linger in my sight, yet my heart has drifted elsewhere.
+    Incense curls while the door stays locked—another year slips away.
+    I laugh at myself: in these days, what spark of joy remains?
+    Even promises cannot bridge the distance between us.
+    How shall an empty cup greet the freshly fallen snow?
+    My ailing horse grows anxious before the approaching dusk.
+    All day I sit in solitude, my arms clasped around my knees,
+    Until, composing this response to you, I feel the stirring of my scattered thoughts.
+  footnotes:
+  - key: ''
+    value: This poem is written as a response (화답, hwadap) to another poet named Taek-ji, a literary convention in classical East Asian poetry where poets would answer each other's verses.
+  - key: ''
+    value: The 'empty cup' and 'fresh snow' evoke the classical theme of unfulfilled longing and the passage of seasons, suggesting both physical separation and emotional estrangement.
+  - key: ''
+    value: The closing image of 'scattered thoughts' (총총함) suggests a paradoxical moment where the act of poetic composition itself momentarily dispels the numbness of solitude.

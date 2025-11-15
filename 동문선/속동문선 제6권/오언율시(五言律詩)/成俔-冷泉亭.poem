@@ -1,0 +1,49 @@
+canonical:
+  title: 冷泉亭
+  author: 成俔
+  language: lzh
+  text: 一派飛泉脉來從翠竇深涓涓初落澗㶁㶁細通林凈瀉巖頭練寒鳴石上琴炎時來憇此凉氣滌塵襟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冷泉亭
+  author: 成俔
+  language: lzh
+  text: 一派飛泉脉。來從翠竇深。涓涓初落澗。㶁㶁細通林。凈瀉巖頭練。寒鳴石上琴。炎時來憇此。凉氣滌塵襟。
+korean:
+  title: 냉천정
+  author: 성현
+  language: kor
+  text: |-
+    한 갈래의 나는 샘물 줄기가
+    푸른 구멍 깊은 데서 흘러 나온다
+    처음에는 조금씩 산골에 떨어지더니
+    나중에는 콸콸콸 숲 속으로 흐른다
+    깨끗이 쏟아지매 바위 머리 흰 갑이요
+    차게 울어대매 돌 위의 거문고다
+    더울 때 와서 여기 쉬나니
+    시원한 기운 티끌 옷깃 씻는다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: The Cold Spring Pavilion
+  author: Sung Hyun
+  language: eng
+  text: |-
+    A single stream of flying water flows
+    From deep within the emerald cavern's mouth.
+    At first it falls in gentle drops,
+    Then rushes onward through the forest with a roar.
+
+    Clear torrents cascade down the rocky head—
+    White silk upon the stone.
+    Cold currents sing their melody—
+    A zither played upon the rock.
+
+    When summer's heat grows fierce, I come to rest,
+    And cool breezes wash the dust from my weary heart.
+  footnotes:
+  - key: ''
+    value: The 'white silk' refers to the appearance of water cascading over rocks, a common poetic image in Chinese and Korean verse.
+  - key: ''
+    value: The 'zither' (琴) is a metaphorical rendering of the sound water makes flowing over stones, comparing natural sounds to musical instruments.

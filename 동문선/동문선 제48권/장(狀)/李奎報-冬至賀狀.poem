@@ -1,0 +1,58 @@
+canonical:
+  title: 冬至賀狀
+  author: 李奎報
+  language: lzh
+  text: 吹葭導協候陽律於黃鍾獻襪踐長陳縟儀於朱邸恭惟令公殿下金英敷秀璿派分流遵法奉藩優躡沛王之善修學好古雅師河獻之賢適臨日至之辰茂集朋來之吉某等伏限分符之守阻趨飛蓋之遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冬至賀狀
+  author: 李奎報
+  language: lzh
+  text: 吹葭導協。候陽律於黃鍾。獻襪踐長。陳縟儀於朱邸。恭惟令公殿下。金英敷秀。璿派分流。遵法奉藩。優躡沛王之善。修學好古。雅師河獻之賢。適臨日至之辰。茂集朋來之吉。某等伏限分符之守。阻趨飛蓋之遊。
+korean:
+  title: 동지 하장
+  author: 이규보
+  language: kor
+  text: 황종(黃鍾)의 양률(陽律)에 가회(葭灰)가 떠오르니, 주문(朱門)에는 버선 올리는[獻襪] 의식이 거행됩니다. 삼가 생각건대, 영공(令公) 전하께서는 금영(金榮)이 빼어나신 선파(璿派)의 분류(分流)로서 법에 따라 번직(藩職)을 받드심에 넉넉히 패왕(沛王)의 뒤를 따랐으며, 학문을 닦고 옛것을 좋아하여 본래 하간헌왕(河間獻王)의 어진 것을 배우셨으니, 마침 동지(冬至)를 당하여 붕래(朋來)의 길조가 모일 것입니다. 모 등(某等)은 지키는 곳이 제한되어 몸소 가 뵙지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동지 하장(冬至賀狀) : '
+    value: “연창후(延昌侯)에게 올리는 하장”이라는 원주가 있다.
+  - key: '[주-D002] 황종(黃鍾) : '
+    value: 상고 시대의 소리를 구별하는 기구이다. 황제(黃帝) 때에 영륜(伶倫)이 해곡(嶰谷)의 대[竹]를 베어 열 두 개의 대통을 만들어 십이율(十二律)을 정하였는데, 양관(陽管)을 여섯, 음관(陰管)을 여섯으로 하여 열두 달을 안배하였다. 그중 황종(黃鍾)은 양관(陽管)의 으뜸으로 11월에 해당한다.
+  - key: '[주-D003] 가회(葭灰) : '
+    value: 가부(葭莩)의 재를 말하는데 가부는 갈대 속의 엷은 막(膜)을 이룬 것이다. 옛날에 가부의 재를 율관(律管)에 넣어 기후(氣候)를 짐작하였는데, 이를테면 동지(冬至) 절서에 율(律)이 황종(黃鍾)의 궁(宮)에 해당하면, 황종관(黃鍾管) 속에 들어 있는 가회(葭灰)가 남아 움직인다.
+  - key: '[주-D004] 버선 …… 의식 : '
+    value: 옛날에는 동짓날이 되면 버선을 만들어서 시부모에게 올렸다.
+  - key: '[주-D005] 하간헌왕(河間獻王)의 …… 배우셨으니 : '
+    value: 한(漢)나라 경제(景帝)의 아들 유덕(劉德)인데 하간왕(河間王)으로 봉했다. 학문을 닦되 옛것을 좋아하여 선진(先秦)의 구서(舊書)를 많이 얻었고, 유술(儒術)에 종사하여 산동(山東)의 여러 유생(儒生)들과 종유하였다. 시호는 헌(獻)이라 하였다.
+  - key: '[주-D006] 붕래(朋來)의 길조 : '
+    value: 《주역(周易)》 복(復)괘에, “벗이 오니 허물이 없다[朋來無咎].” 하였다. 동지(冬至)가 복괘(復卦)에 해당하므로 쓴 것이다.
+english:
+  title: A Congratulatory Message on the Winter Solstice
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    As the bamboo ash stirs within the yellow bell's measure,
+    and the ceremonial socks are presented at the crimson gates,
+    I humbly reflect upon Your Excellency, the esteemed Lord:
+    Your golden brilliance shines forth from the celestial lineage,
+    following the virtuous path of duty with noble grace,
+    surpassing even the wisdom of the Prince of Pei.
+    In your devotion to learning and love of antiquity,
+    you embody the scholar-virtue of the Han king renowned for wisdom.
+    As the solstice arrives at its appointed hour,
+    the auspicious gathering of friends draws near.
+    Though I remain bound by my distant post,
+    unable to fly forth in your noble presence,
+    I send this reverent salutation across the miles.
+  footnotes:
+  - key: ''
+    value: The 'yellow bell' refers to the first of the twelve ceremonial pitches, symbolizing the winter solstice and the renewal of yang energy.
+  - key: ''
+    value: The presentation of socks was an ancient custom performed on the winter solstice as a gesture of filial respect.
+  - key: ''
+    value: The 'Prince of Pei' and the 'Han king renowned for wisdom' are classical exemplars of virtue and scholarly dedication.
+  - key: ''
+    value: The 'auspicious gathering of friends' alludes to the I Ching's hexagram of Return, whose season coincides with the winter solstice.

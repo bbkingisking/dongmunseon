@@ -1,0 +1,64 @@
+canonical:
+  title: 次鏡捕臺韻
+  author: 白文寶
+  language: lzh
+  text: 何人詩接謝宣城自覺高遊不世情美酒若空甁屢卧澄江如練句還成得兼康樂登山興未必知章騎馬行月白鑑湖餘一曲休官明日負休明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次鏡捕臺韻
+  author: 白文寶
+  language: lzh
+  text: 何人詩接謝宣城。自覺高遊不世情。美酒若空甁屢卧。澄江如練句還成。得兼康樂登山興。未必知章騎馬行。月白鑑湖餘一曲。休官明日負休明。
+korean:
+  title: 차 경포대 운
+  author: 백문보
+  language: kor
+  text: |-
+    그 누구의 시가 사선성을 이을까
+    내 고상한 놀이도 속정을 벗어났네
+    좋은 술은 공과 같아 병이 연해 눕는군
+    맑은 강이 비단 같으니 글귀 얼른 이뤄지네
+    강락의 등산 흥치를 겸하여 얻었구나
+    지장처럼 말 타지 않아도 좋으리
+    달 밝은 감호 한 굽이 남았으니
+    내일은 벼슬 버리고 성대를 하직하오리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사선성(謝宣城) : '
+    value: 남제(南齊)  사조(謝眺), 자 현휘(玄暉). 선성(宣城) 태수(太守)를 지냈으므로, 사선생이라 일컬었다. 글이 맑고도 화려하며 시(詩)에 능했다.
+  - key: '[주-D002] 좋은 술은 공(空)과 같아 : '
+    value: 불경(佛經)에, “병에다 허공을 담아 가지고 남에게 선사한다.”는 말이 있는데, 아마도 그 말을 인용하여, 술병이 자주 비어 넘어지는 것을 말함인 듯하다.
+  - key: '[주-D003] 맑은 강이 비단 같으니 : '
+    value: “맑은 강이 조촐하기 비단같다[登江爭如練].”는 절창구가 있다.
+  - key: '[주-D004] 강락(康樂) : '
+    value: 남조(南朝) 송(宋) 시인 사영운(謝靈運). 강락공(康樂公)을 봉했음. 서화(書畵)ㆍ시문(詩文)에 능했으며 등산을 좋아했다.
+  - key: '[주-D005] 지장(知章) : '
+    value: 당(唐) 하지장(賀知章). 두보(杜甫)가 노래한 음중팔선(飮中八仙) 중의 첫째 사람. “지장은 말 타기를 배 타듯 하여, 눈이 아찔 우물에 떨어져도 물 속에서 그대로 시를 지었다.”는 고사가 있다.
+  - key: '[주-D006] 닭 밝은 …… 남았으니 : '
+    value: 하지장(賀知章)이 늙어서 벼슬을 버리고 고향인 회계(會稽)로 돌아가는데 임금이 회계에 있는 감호(鑑湖)의 한 굽이[一曲]를 주었다. 경포와 감호는 한자(漢字)로 서로 비슷하다. 월백(月白)은, “한송정 달 밝은 밤에 경포대 물결 잘 제.”라는 우리나라 노래를 취한 것이요, 감호일곡(鑑湖一曲)은 하지장(賀知章)의 고사를 인용하였다.
+english:
+  title: Responding to the Rhymes of Gyeongpodae
+  author: Baek Munbo
+  language: eng
+  text: |-
+    Whose verse can match the brilliance of Xie Xuancheng?
+    My lofty wanderings transcend the mundane world.
+    Fine wine empties like the void—bottles tumble as I lie sprawled.
+    The lucid river shines like silk, and verses flow unbidden.
+
+    I've grasped the mountain-climbing passion of Kangnak's leisure,
+    Yet need not ride like Zhizhang, staggering through the night.
+    One curve of moonlit Mirror Lake remains—
+    Tomorrow I'll cast off office and bid farewell to glory.
+  footnotes:
+  - key: ''
+    value: 'Xie Xuancheng (謝宣城): The renowned Southern Qi poet Xie Tiao (謝眺), known for his luminous and ornate verse, who served as prefect of Xuancheng.'
+  - key: ''
+    value: 'Fine wine emptying like the void: An allusion to Buddhist scripture comparing the infinite capacity of emptiness, here depicting bottles perpetually drained and overturned.'
+  - key: ''
+    value: 'Kangnak (康樂): Xie Lingyun (謝靈運) of the Song dynasty, an accomplished poet and painter renowned for his love of mountain wandering.'
+  - key: ''
+    value: 'Zhizhang (知章): The Tang poet He Zhizhang (賀知章), celebrated as the first of Du Fu''s ''Eight Immortals of Wine,'' famous for composing verses even while intoxicated and falling into wells.'
+  - key: ''
+    value: 'Mirror Lake (鑑湖): When He Zhizhang retired in old age to his native Kuaiji region, the Emperor granted him one curve of Mirror Lake as a retreat—here echoing the poet''s own anticipated retirement.'

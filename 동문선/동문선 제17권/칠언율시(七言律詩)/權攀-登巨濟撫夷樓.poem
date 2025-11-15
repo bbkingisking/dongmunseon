@@ -1,0 +1,47 @@
+canonical:
+  title: 登巨濟撫夷樓
+  author: 權攀
+  language: lzh
+  text: 聖聖相承鎭四溟戎夷賓服自來庭戈鋋不用封疆靜戰伐無聲海岳寧千尋浩浩鯨濤白一點茫茫馬島靑幸是大平無一事元戎閑卧亞夫營
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登巨濟撫夷樓
+  author: 權攀
+  language: lzh
+  text: 聖聖相承鎭四溟。戎夷賓服自來庭。戈鋋不用封疆靜。戰伐無聲海岳寧。千尋浩浩鯨濤白。一點茫茫馬島靑。幸是大平無一事。元戎閑卧亞夫營。
+korean:
+  title: 등 거제 무이루
+  author: 권반
+  language: kor
+  text: |-
+    어진 성군이 이으시와 사해를 진정하시니
+    오랑캐랑 왜랑들 절로 와서 복종하네
+    창ㆍ칼을 아니 쓰니 국경이 조용하고
+    싸우는 소리 없으니 강산이 편안하구나
+    넓기도 넓은지고 천 길 물결 희게 솟고
+    망망한 가운데 대마도인 듯 푸르네
+    다행히 천하가 태평 아무 일도 없으니
+    원수가 아부영 안에 한가로이 누웠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0910&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 아부영(亞夫營) : '
+    value: 한 문제(漢文帝) 때에 흉노(凶奴)가 침범하므로 세 장군을 보내어 방어하게 하였다. 다른 장군은 극문(棘門)과 패상(㶚上)에 병영(兵營)을 쳤고, 주아부(周亞夫)는 세류(細柳)에 병영을 쳤다. 문제(文帝)가 친히 군사들을 위로하러 갔는데, 아부(亞夫)의 영문(營門)에 이르러 전구(前驅)가 먼저 가서, “천자(天子)께서 곧 오시니 병영의 문을 열라.” 하니 문을 지키는 군사가 말하기를, “군중(軍中)에서는 장군의 영(令)만 듣지 천자의 명령은 듣지 않는다.” 하였다. 조금 후에 천자가 이르러 장군에게 전달한 뒤에야 영문을 열고 영접하는데, 군령이 매우 엄숙하였다. 문제(文帝)는 나오면서 감탄하기를, “패상(㶚上)과 극문(棘門)의 병영은 여기에 비하면 아이의 장난과 같다. 아부(亞夫)는 참다운 장군이다.” 하였다. 여기서는 병영을 아부영(亞夫營)에 비한 것이다.
+english:
+  title: Ascending the Geolje Wilyeo Tower
+  author: Kwon Pan
+  language: eng
+  text: |-
+    Sage rulers succeed one another, bringing peace to the four seas,
+    Barbarians and strangers willingly come to bow at court.
+    Without spear or blade, the borders rest in quiet,
+    Without the sound of battle, mountains and rivers know tranquility.
+    A thousand fathoms deep, the whale-waves rise up white,
+    In the misty expanse, Tsushima gleams in jade.
+    Fortunate that the realm enjoys such perfect peace,
+    The general sleeps idle in Zhou Yafu's camp.
+  footnotes:
+  - key: ''
+    value: 'Tsushima (馬島): An island off the coast of Korea, visible from the tower, symbolizing the outer reaches of the civilized realm.'
+  - key: ''
+    value: 'Zhou Yafu''s camp (亞夫營): A reference to the famous Han general Zhou Yafu, whose military discipline was so strict that even the emperor could not enter his camp without permission. This allusion suggests a well-ordered and peaceful realm where even the emperor''s will bows to proper military protocol—paradoxically representing the highest form of peace through perfect order.'

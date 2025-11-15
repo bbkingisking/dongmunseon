@@ -1,0 +1,37 @@
+canonical:
+  title: 皇慶癸丑酒酣得四書于大同江軒窓
+  author: 權漢功
+  language: lzh
+  text: 磯邊綠樹春陰薄江上靑山暮色多宛在水中迷遠近夕陽何處竹枝歌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 皇慶癸丑酒酣得四書于大同江軒窓
+  author: 權漢功
+  language: lzh
+  text: 磯邊綠樹春陰薄。江上靑山暮色多。宛在水中迷遠近。夕陽何處竹枝歌。
+korean:
+  title: 황경계축주감득사서우대동강헌창
+  author: 권한공
+  language: kor
+  text: |-
+    여울 가의 푸른 나무는 봄그늘이 엷은데
+    강 위의 푸른 산은 저문 빛이 많구나
+    〈그 사람은〉 완연히 물 가운데 있는 듯 원근이 아득하나니
+    해질 녘 어디에서 죽지가를 부르는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0850&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 죽지가(竹枝歌) : '
+    value: 촉중(蜀中)의 민요(民謠)로 지방의 풍물(風物)을 읊은 것인데, 유우석(劉禹錫)이 지은 〈죽지사(竹枝詞)〉가 있다.
+english:
+  title: At Imperial Celebration Year Guichou, Tipsy by Wine, I Obtained the Four Books at a Window Overlooking the Dae Dong River
+  author: Gwon Han-gong
+  language: eng
+  text: |-
+    By the rocky shore, green trees cast their thin spring shadows,
+    On the river, blue mountains gather in the deepening dusk.
+    There, as if floating in water itself, far and near blend into haze—
+    Where, as the sun sets, does someone sing the bamboo branch song?
+  footnotes:
+  - key: ''
+    value: The 'bamboo branch song' (竹枝歌) refers to folk songs from Shu (ancient Sichuan), celebrating local scenery and customs. The form was famously revived by the Tang poet Liu Yuxi in his 'Bamboo Branch Lyrics.'

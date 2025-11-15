@@ -1,0 +1,56 @@
+canonical:
+  title: 次柳子厚別舍弟宗一韻
+  author: 李冑
+  language: lzh
+  text: 百年雙鬢已紛然地角從來此一邊閩越古邦人盡蜥桂江腥雨日如年山回劒戟秋連海舟落湘吳水擊天此去莫更思乃伯放臣骸骨足蠻烟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次柳子厚別舍弟宗一韻
+  author: 李冑
+  language: lzh
+  text: 百年雙鬢已紛然。地角從來此一邊。閩越古邦人盡蜥。桂江腥雨日如年。山回劒戟秋連海。舟落湘吳水擊天。此去莫更思乃伯。放臣骸骨足蠻烟。
+korean:
+  title: 차 유자후 별 사제 종일운
+  author: 이주
+  language: kor
+  text: |-
+    백 년의 두 살쩍은 이미 희끗희끗한데
+    지각은 원래부터 이 한쪽 귀퉁이다
+    민월의 옛 나라에는 사람들이 다 도마뱀이요
+    계강의 비린내 나는 비에는 하루가 일 년 같으이
+    산은 검극이 둘려 돌면 가을은 바다에 이어졌고
+    배가 상오에 떨어지매 물은 하늘을 치네
+    지금 가는 이 형을 다시는 생각하지 말라
+    쫓겨난 신하의 해골은 오랑캐 연기가 족하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 차 유자후 별 사제 종일운(次柳子厚別舍弟宗一韻) : '
+    value: 당나라 문인(文人)  유자후(柳子厚 종원〈宗元〉)가 남방으로 귀양갈 때에, 그의 동생 종일(宗一)과 작별한 율시(律詩)가 유명하여 지금까지 전하므로, 작자가 유종원의 처지를 묘사하여 그 시의 운(韻)을 그대로 화답한 것이다.
+  - key: '[주-D002] 지각(地角) : '
+    value: 가장 먼 곳은 하늘의 가요, 땅의 모퉁이[天之涯之地角]라 한다.
+  - key: '[주-D003] 민월(閩越)의 …… 계강(桂江) : '
+    value: 민월(閩越)이니, 계강(桂江)이니 하는 것은 모두 유종원이 귀양간 곳의 지명이다.
+  - key: '[주-D004] 산은 …… 이어졌고 : '
+    value: 유자후가 귀양가 있으면서 지은 시에, “바닷가 뾰족한 산이 칼날 같아 가을이 오면 곳곳에 시름하는 창자를 베누나.” 한 글귀가 있다.
+english:
+  title: In Response to Liu Zihou's Farewell to His Brother Zongyi, Using the Same Rhyme
+  author: Lee Ju
+  language: eng
+  text: |-
+    A hundred years—twin temples already silver-streaked.
+    The earth's corner lies as it always has, on this remote edge.
+    In ancient Min-Yue, the people have all become lizards.
+    On the Gui River, the fetid rains make one day stretch like a year.
+
+    Mountains wheel round sword-like ridges where autumn meets the sea.
+    A boat falls to Xiang-Wu as waters strike at heaven itself.
+    Go now—do not think again of your elder brother.
+    Let the exile's bones be enough; the barbarian mists suffice.
+  footnotes:
+  - key: ''
+    value: This poem responds to the famous farewell poem written by the Tang literatus Liu Zongyuan when he was exiled southward, separated from his brother Zongyi. The author adopts Liu's circumstances and answers using the same rhyme scheme.
+  - key: ''
+    value: Min-Yue and the Gui River were both places where Liu Zongyuan was exiled—desolate lands in the far south, depicted here as regions so remote and alien they seem to transform people into something inhuman.
+  - key: ''
+    value: Liu Zongyuan's own poems from exile contain the image of sharp mountain peaks like blades and the sorrows of autumn—evoked here to honor his suffering in that distant place.

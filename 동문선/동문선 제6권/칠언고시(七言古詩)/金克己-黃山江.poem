@@ -1,0 +1,46 @@
+canonical:
+  title: 黃山江
+  author: 金克己
+  language: lzh
+  text: 起餐傳舍曉度江江水渺漫天蒼茫黑風四起立白浪舟與黃山爭低昂津人似我履平地一棹漁歌聲短長十生九死到前岸槐柳陰中村徑荒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 黃山江
+  author: 金克己
+  language: lzh
+  text: 起餐傳舍曉度江。江水渺漫天蒼茫。黑風四起立白浪。舟與黃山爭低昂。津人似我履平地。一棹漁歌聲短長。十生九死到前岸。槐柳陰中村徑荒。
+korean:
+  title: 황산강
+  author: 김극기
+  language: kor
+  text: |-
+    여관에서 새벽 밥 먹고 강을 건너니
+    강물은 아득히 멀고 하늘은 검푸르다
+    검은 바람은 사방에서 일어 흰 물결 일으키니
+    배는 황산과 서로 다투어 낮고 높네
+    나루터 사람도 나와 같이 평지를 밟는데
+    외로운 고기잡이 배 노래는 짧았다 길었다 한다
+    아홉 번 죽었다 열 번 살아나 언덕에 이르니
+    느티나무와 버드나무 그늘 속에 촌 길이 거치네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: The Yellow Mountain River
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    At dawn I break my fast at an inn, then cross the river.
+    The waters stretch endless, the sky hangs dark and vast.
+    Black winds rise from all directions, churning white waves—
+    our boat contends with Yellow Mountain, dipping and climbing.
+
+    The ferry folk walk steady ground like me,
+    while a lone fisherman's song drifts short and long.
+    Nine times nearly drowned, the tenth time crawling to shore,
+    I find the village path half-hidden in the shade of elms and willows.
+  footnotes:
+  - key: ''
+    value: The 'nine deaths and ten lives' is a classical Chinese idiom expressing miraculous survival through extreme peril.
+  - key: ''
+    value: Yellow Mountain likely refers to a specific geographical landmark on the river crossing, which poses particular danger to boats.

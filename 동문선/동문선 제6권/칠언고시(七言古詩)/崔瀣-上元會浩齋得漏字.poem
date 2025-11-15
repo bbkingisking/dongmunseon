@@ -1,0 +1,53 @@
+canonical:
+  title: 上元會浩齋得漏字
+  author: 崔瀣
+  language: lzh
+  text: 我衣縕袍人輕裘人居華屋我圭竇天翁賦與本不齊我不人嫌人我詬今夕何夕是元宵筵秩侯家隨客後人閒萬事何足論身健且向尊前闘君乎添酒復回燈轟飮直到傳曉漏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上元會浩齋得漏字
+  author: 崔瀣
+  language: lzh
+  text: 我衣縕袍人輕裘。人居華屋我圭竇。天翁賦與本不齊。我不人嫌人我詬。今夕何夕是元宵。筵秩侯家隨客後。人閒萬事何足論。身健且向尊前闘。君乎添酒復回燈。轟飮直到傳曉漏。
+korean:
+  title: 상원회 호재에서 누 자를 얻어서
+  author: 최해
+  language: kor
+  text: |-
+    내가 베옷 입을 때 남들은 갖옷 입고
+    남이 화려한 집에 살 때 나는 오두막집에 살았다
+    하늘이 정해 준 것은 원래 가지런하지 않아
+    나는 사람을 꺼리지 않는데 사람들은 나를 비웃는다
+    이 밤이 어떤 밤인가 바로 정월 보름인데
+    후가의 빛난 자리에 손님 뒤를 따르네
+    인간 만사를 말하여 무엇하리
+    몸이 건강하니 우선 술두루미 앞에서 다투라
+    그대여 술을 보태고 또 등불을 돌려라
+    새벽 파루 울릴 때가지 한껏 마시고 말리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0560&viewSync=OT
+  footnotes: []
+english:
+  title: At the Hojae Gathering on the Lantern Festival, I Received the Character 'Leak'
+  author: Choi Hae
+  language: eng
+  text: |-
+    When I wore hemp robes, others donned fine furs.
+    When others dwelt in glorious halls, I lived in a humble hut.
+    Heaven's gifts were never meant to be equal—
+    I harbor no grudge against others, yet they mock me still.
+
+    What night is this? The night of the first full moon!
+    At the noble house's splendid feast, I follow the guests behind.
+    Why speak of the ten thousand affairs of mankind?
+    My body is strong—let me contend before the wine cup!
+
+    Friend, pour again and turn the lamp once more.
+    Let us drink with abandon until the dawn bells sound.
+  footnotes:
+  - key: ''
+    value: The 'Lantern Festival' (元宵/정월 보름) refers to the celebration of the first full moon of the lunar year, traditionally a time of festivities and gathering.
+  - key: ''
+    value: The character 'leak' (漏) likely refers to the water clock (漏刻) used to mark time, suggesting the poem was written during an evening gathering where such timekeeping devices were present.
+  - key: ''
+    value: The poem contrasts the speaker's humble circumstances with others' wealth, yet celebrates finding joy and fellowship despite such disparities.

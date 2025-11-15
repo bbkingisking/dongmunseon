@@ -1,0 +1,48 @@
+canonical:
+  title: 禪興路上
+  author: 權遇
+  language: lzh
+  text: 不向禪興路于今四五年尋芳新草木訪迹舊山川斷壠犂耕雨荒園鳥語煙繁華皆已去滿目揔蕭然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 禪興路上
+  author: 權遇
+  language: lzh
+  text: 不向禪興路。于今四五年。尋芳新草木。訪迹舊山川。斷壠犂耕雨。荒園鳥語煙。繁華皆已去。滿目揔蕭然。
+korean:
+  title: 선흥로상
+  author: 권우
+  language: kor
+  text: |-
+    선흥 길을 와보지 못한 지
+    어느덧 사오 년이 되었네
+    꽃다운 것을 찾으니 새 초목이요
+    자취를 물으매 옛 산천일세
+    끊어진 이랑에서는 소가 빗속에 갈고
+    거친 뜰에서는 새가 연기 속에 우짖네
+    번화한 것은 이미다 가고
+    눈에 가득한 것은 모두 쓸쓸하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0970&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road to Seonheung
+  author: Gwon U
+  language: eng
+  text: |-
+    Four or five years have slipped away
+    since I last traveled the road to Seonheung.
+
+    Where once I sought fragrant blossoms,
+    now only new grasses and saplings remain.
+    Where once I traced the old paths,
+    only ancient mountains and streams endure.
+
+    In the broken fields, oxen plow through rain,
+    In the overgrown gardens, birds cry through the mist.
+
+    All the bustling crowds have departed,
+    and my eyes behold only desolation.
+  footnotes:
+  - key: ''
+    value: Seonheung (선흥) appears to be a place name, likely referring to a specific location the poet once frequented but has not visited for years.

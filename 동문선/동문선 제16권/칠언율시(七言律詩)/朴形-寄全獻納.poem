@@ -1,0 +1,50 @@
+canonical:
+  title: 寄全獻納
+  author: 朴形
+  language: lzh
+  text: 掖垣詩酒記同遊分袂如今歲五周賤子空馳塵土老先生深愛水雲留匡時策短慚無効傲世情高肯有求竹邑苪城元接境君恩粗報欲歸休
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄全獻納
+  author: 朴形
+  language: lzh
+  text: 掖垣詩酒記同遊。分袂如今歲五周。賤子空馳塵土老。先生深愛水雲留。匡時策短慚無効。傲世情高肯有求。竹邑苪城元接境。君恩粗報欲歸休。
+korean:
+  title: 기전 헌납
+  author: 박형
+  language: kor
+  text: |-
+    액원에서 시와 술로 함께 노닐었더니
+    소매 나누고 헤어진 지 이제 다섯 돌
+    못난 나는 헛되이 진토에 달리다 늙고
+    선생은 깊이 운수를 사랑해 머무르네
+    시국을 바로잡을 계획은 효과 없어 부끄럽고
+    세상을 깔보는 회포 무슨 요구를 가지리
+    죽읍과 예성이 본디 접경이니
+    군은을 여간 갚삽고 돌아가 쉴까 하옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0570&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 苪 : '
+    value: 芮
+english:
+  title: A Letter to Chon Heonnam
+  author: Park Hyung
+  language: eng
+  text: |-
+    In the Yeolgwon we shared poetry and wine,
+    Now five years have passed since we parted ways.
+    I, unworthy, race through dust and age in vain,
+    While you, my teacher, love the waters and clouds, lingering there.
+
+    My modest plans to set the times aright bear no fruit—how shameful—
+    Your lofty heart, scorning the world, seeks nothing more.
+    Yet Jukup and Yaesung border each other from the start;
+    I wish to repay your kindness and return to rest.
+  footnotes:
+  - key: ''
+    value: 'Yeolgwon (掖垣): The royal court or palace grounds, a place of scholarly discourse in the capital.'
+  - key: ''
+    value: The five years mark a significant passage of time and distance between the two friends.
+  - key: ''
+    value: Jukup and Yaesung are likely place names representing the regions where the two correspondents dwell, suggesting they are neighbors despite their separation.

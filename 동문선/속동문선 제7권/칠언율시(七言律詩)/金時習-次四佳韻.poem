@@ -1,0 +1,47 @@
+canonical:
+  title: 次四佳韻
+  author: 金時習
+  language: lzh
+  text: 床前詩筆懶全提信步東園薦草鞋蜂唼花鬚香惹徑麝眠春塢綠沿溪壠頭枸杞千莖長巖畔人蔘五葉齊禪院荒凉塵事少畫棟唯有燕沾泥
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次四佳韻
+  author: 金時習
+  language: lzh
+  text: 床前詩筆懶全提。信步東園薦草鞋。蜂唼花鬚香惹徑。麝眠春塢綠沿溪。壠頭枸杞千莖長。巖畔人蔘五葉齊。禪院荒凉塵事少。畫棟唯有燕沾泥。
+korean:
+  title: 차 사가운
+  author: 김시습
+  language: kor
+  text: |-
+    책상 앞의 시필을 귀찮지만 다 마치고
+    동쪽 동산 거닐매 짚신이 좋아라
+    벌이 꽃술을 빨아 향기가 길에서 일고
+    사향노루 봄 언덕에서 조는데 푸른 빛은 시내를 따른다
+    밭두덕 머리의 구기는 천 줄기 길었고
+    바위 곁의 인삼은 다섯 잎이 가지런하구나
+    선원은 쓸쓸하여 속세 일이 적은데
+    화동에는 제비만이 진흙을 쌓네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0860&viewSync=OT
+  footnotes: []
+english:
+  title: Following the Four Lovely Rhymes
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    My brush lies lazy on the desk, poems unfinished.
+    I wander through the eastern garden in straw sandals.
+    Bees sip the flower's stamen, their fragrance drifting down the path.
+    Musk deer drowse on the spring hillside, their green shadows trailing the stream.
+    On the ridge tops, a thousand stalks of goji stretch long.
+    Beside the rocks, ginseng leaves gather in perfect fives.
+    The Buddhist temple stands desolate, worldly cares grow thin.
+    Only swallows gather clay beneath the painted eaves.
+  footnotes:
+  - key: ''
+    value: The 'four lovely rhymes' (四佳韻) refers to a poetic form or constraint, likely involving four parallel couplets with specific rhyme schemes.
+  - key: ''
+    value: The progression from literary pursuits abandoned to natural observation reflects a common Daoist-influenced theme in Korean literati poetry—the retreat from society's demands into contemplative communion with nature.
+  - key: ''
+    value: Goji (枸杞) and ginseng (人蔘) were prized medicinal herbs in classical East Asian culture, suggesting both the garden's richness and the poet's knowledge of natural philosophy.

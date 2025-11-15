@@ -1,0 +1,47 @@
+canonical:
+  title: 和
+  author: 宋國瞻
+  language: lzh
+  text: 以仁爲脊義爲鋒此是將軍新巨闕一揮向海鯨鯢奔再擧向陸犀象蹶况彼馬山窮猘兒制之可以隨鞭末朝涉五江暮獻捷喜氣萬斛春光發
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和
+  author: 宋國瞻
+  language: lzh
+  text: 以仁爲脊義爲鋒。此是將軍新巨闕。一揮向海鯨鯢奔。再擧向陸犀象蹶。况彼馬山窮猘兒。制之可以隨鞭末。朝涉五江暮獻捷。喜氣萬斛春光發。
+korean:
+  title: 화
+  author: 송국첨
+  language: kor
+  text: |-
+    인으로 칼등 삼고 의리로 칼날 삼으니
+    이것이 장군의 새로운 거궐(보검(寶劍))이었다
+    한 번 휘둘러 바다로 향하면 고래가 내닫는 듯
+    두 번 들어 육지로 향하면 물소와 코끼리가 엎어지네
+    하물며 저 마산의 궁한 미치광이들 쯤이야
+    없애려 하였으면 채찍 끝의 가루가 되었을 것이다
+    아침에 다섯 강을 건너 저녁에 승리를 알려
+    기쁜 기색은 가득한 봄 빛 발하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0270&viewSync=OT
+  footnotes: []
+english:
+  title: In Harmony
+  author: Song Guk-cheom
+  language: eng
+  text: |-
+    With benevolence as the sword's spine and righteousness as its edge,
+    Behold the general's magnificent blade, newly forged.
+    One sweep toward the sea—whales and leviathans scatter in flight.
+    Another thrust toward land—rhinoceros and elephant fall.
+    What then of those wretched madmen in Ma Mountain's depths?
+    They would crumble to dust beneath the whip's slender end.
+    Crossing five rivers at dawn, announcing victory at dusk,
+    The joy radiates forth—spring's resplendent light bursts into bloom.
+  footnotes:
+  - key: ''
+    value: The 'sword' is a metaphorical representation of the general's virtue and military prowess, combining moral and martial excellence.
+  - key: ''
+    value: The crossing of 'five rivers' and announcement of victory suggests swift military campaigns and triumphs.
+  - key: ''
+    value: Ma Mountain likely refers to a region inhabited by rebels or troublemakers that the general subdues.

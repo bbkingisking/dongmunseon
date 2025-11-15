@@ -1,0 +1,50 @@
+canonical:
+  title: 和舍弟苦雨詩
+  author: 金敦中
+  language: lzh
+  text: 連旬密雨駕盲風百谷狂噴氣勢雄誰借天瓢傾倒盡却疑蛟室捲來空居貧豈免薪爲桂禦濕還思麥與藭早晚蒼空收毒霧便將餘澤及農功
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和舍弟苦雨詩
+  author: 金敦中
+  language: lzh
+  text: 連旬密雨駕盲風。百谷狂噴氣勢雄。誰借天瓢傾倒盡。却疑蛟室捲來空。居貧豈免薪爲桂。禦濕還思麥與藭。早晚蒼空收毒霧。便將餘澤及農功。
+korean:
+  title: 화 사제 고우시
+  author: 김돈중
+  language: kor
+  text: |-
+    열흘도 넘는 장마비가 미친 바람을 타고와
+    온갖 골짝이 물을 뿜어 기세가 웅장했네
+    하늘의 물바가질 누가 모두 쏟아냈나
+    용의 집을 온통 휘말아 텅 비게 만든 듯
+    가난한 살림에 섶이 계수보다 더 귀한데
+    습기를 막으려니 보리와 궁궁이가 생각나네
+    얼마 안 지나 창공이 독한 안개를 거두어
+    곧 남은 혜택으로써 풍년 들게 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0690&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 섶[薪]이 계수(桂樹)보다 더 귀한데 : '
+    value: 소진(蘇秦)이 초왕(楚王)에게 하는 말에, “나라의 쌀이 옥보다 귀하고, 섶[薪]이 계수보다 귀하다.” 한 말이 있다.
+  - key: '[주-D002] 보리[麥]와 궁궁이[藭] : '
+    value: 《춘추》에 있는 말인데, “무사(無社)란 사람이 우물[井]에 숨어서 은어(隱語)로 보리[麥]과 궁(藭)을 필요로 한다.”고 말한 일이 있다.
+english:
+  title: In Response to My Brother's Poem on the Bitter Rains
+  author: Kim Dun-jung
+  language: eng
+  text: |-
+    For weeks the relentless rains ride the mad wind's back,
+    Each valley spouts its waters with towering force.
+    Who turned the heavens' gourd to spill its all?
+    As if the dragon's chamber were swept completely bare.
+
+    In our poor household, kindling grows more precious than cinnamon,
+    And dampness makes us long for barley and healing herbs.
+    When at last the blue sky clears away its poisonous mist,
+    Then these remaining blessings shall bring the harvest's fullness.
+  footnotes:
+  - key: ''
+    value: 'The image of kindling becoming more precious than cinnamon refers to Su Qin''s words to the King of Chu: ''In a nation, rice becomes more precious than jade, and kindling more precious than cinnamon''—suggesting extreme scarcity brought by the rains.'
+  - key: ''
+    value: Barley and the healing herb are referenced as necessities that become precious during times of hardship and dampness, drawing on classical allusions to concealed blessings.

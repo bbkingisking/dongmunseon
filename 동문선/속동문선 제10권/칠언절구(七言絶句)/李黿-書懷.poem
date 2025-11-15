@@ -1,0 +1,37 @@
+canonical:
+  title: 書懷
+  author: 李黿
+  language: lzh
+  text: 永夜秋蛩閙草根愁來雙鬢白侵巾殘生自有悲愁意不是虫聲易感人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書懷
+  author: 李黿
+  language: lzh
+  text: 永夜秋蛩閙草根。愁來雙鬢白侵巾。殘生自有悲愁意。不是虫聲易感人。
+korean:
+  title: 서회
+  author: 이원
+  language: kor
+  text: |-
+    긴 밤 가을 귀뚜리 풀뿌리에 들레이고
+    시름이 오자 두 귀밑에 흰 것이 침노하네
+    이 여생에 시름 본래부터 있었거니
+    벌레 우는 그 소리에 새삼 느낀 것 아니로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0420&viewSync=OT
+  footnotes: []
+english:
+  title: Writing of My Heart
+  author: Lee Won
+  language: eng
+  text: |-
+    The long night: autumn crickets clamor through the grass roots.
+    When sorrow comes, white streaks creep across my temples.
+    In this remaining life, grief has always dwelt within—
+    it is not the insect's cry that moves me anew.
+  footnotes:
+  - key: ''
+    value: The cricket's song is a traditional symbol in East Asian poetry for autumn's melancholy and the passage of time.
+  - key: ''
+    value: The white hair at the temples represents both literal aging and the emotional toll of sorrow accumulated over a lifetime.

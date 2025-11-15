@@ -1,0 +1,55 @@
+canonical:
+  title: 幽居
+  author: 釋圓鑑
+  language: lzh
+  text: 棲息紛華外優游紫翠間松廊春更靜竹戶晝猶關簷短先邀月墻低不礙山雨餘溪水急風定嶺雲閑谷密鹿攸伏林稠禽自還翛然度晨暝聊以養踈頑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 幽居
+  author: 釋圓鑑
+  language: lzh
+  text: 棲息紛華外。優游紫翠間。松廊春更靜。竹戶晝猶關。簷短先邀月。墻低不礙山。雨餘溪水急。風定嶺雲閑。谷密鹿攸伏。林稠禽自還。翛然度晨暝。聊以養踈頑。
+korean:
+  title: 유거
+  author: 석원감
+  language: kor
+  text: |-
+    일체의 번화 밖에서
+    붉고 푸른 숲에 멋대로 노네
+    솔 행랑은 봄날에 더 고요하고
+    대문은 낮에도 늘 잠그는데
+    추녀 끝이 짧으니 달 먼저 맞고
+    담장 키가 낮으니 산 안 가리네
+    비 온 뒤에 시냇물은 급히 흐르고
+    바람 자니 고갯구름 한가하구나
+    사슴이 엎드렸네 깊은 골짝에
+    새가 절로 돌아오는 빽빽한 숲에
+    새벽 저녁 한가히 날 보내노니
+    게으르고 완한 버릇 기르기 알맞네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: Secluded Dwelling
+  author: Seok Won-gam
+  language: eng
+  text: |-
+    I make my nest beyond the dust of worldly cares,
+    wandering freely through crimson forests and jade-green groves.
+    The pine-lined corridor grows ever quieter with spring,
+    while the bamboo gate stays closed even in daylight.
+    With eaves cut short, the moon arrives unobstructed,
+    and the low wall cannot hide the distant mountains.
+    After rain, the creek rushes urgent with new life,
+    yet when wind ceases, the ridge clouds drift in leisured peace.
+    Deep in the ravine, deer crouch in stillness,
+    and birds return of their own will to the dense woods.
+    Thus I pass from dawn to dusk in unhurried ease,
+    cultivating the simple freedom of an ungoverned heart.
+  footnotes:
+  - key: ''
+    value: This poem is attributed to Seok Won-gam (釋圓鑑), a Buddhist monk-poet of medieval Korea, suggesting this dwelling may be a temple hermitage or monastic retreat.
+  - key: ''
+    value: The 'low wall' and 'short eaves' are not defects but deliberate choices that keep the dwelling open to nature's presence—moon, mountains, clouds, and wildlife.
+  - key: ''
+    value: The closing reference to 'an ungoverned heart' (疏頑) reflects Buddhist ideals of simplicity and detachment from worldly concerns.

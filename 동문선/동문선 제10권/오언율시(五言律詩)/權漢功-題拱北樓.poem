@@ -1,0 +1,48 @@
+canonical:
+  title: 題拱北樓
+  author: 權漢功
+  language: lzh
+  text: 拱北樓新構庚申十月初詩從權贊善功自尹尙書古道依紅樹淸池倒碧虛留連日將暮山色正愁予
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題拱北樓
+  author: 權漢功
+  language: lzh
+  text: 拱北樓新構。庚申十月初。詩從權贊善。功自尹尙書。古道依紅樹。淸池倒碧虛。留連日將暮。山色正愁予。
+korean:
+  title: 제 공북루
+  author: 권한공
+  language: kor
+  text: |-
+    공북루를 새로 세우니
+    경신 시월 초이네
+    시는 권찬선으로부터요
+    공은 윤상서에게서 비롯하였네
+    옛길에는 단풍나무가 우거지고
+    맑은 못에는 파란 하늘이 거꾸러졌네
+    머뭇거리며 높아 해는 저물어 오니
+    산빛이 정녕 내 시름을 자아내네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: Inscribed on Gongbuk Tower
+  author: Kwon Han-gong
+  language: eng
+  text: |-
+    A new tower rises at Gongbuk,
+    In the tenth month of the Gyeongsin year.
+    The poem comes from Kwon the Censor,
+    The work springs from Yun the Minister.
+
+    Along the ancient path, red maples flourish,
+    In the clear pond, azure sky hangs inverted.
+    Hesitating as daylight wanes above,
+    The mountain's hue stirs this sorrow in my heart.
+  footnotes:
+  - key: ''
+    value: 'Gongbuk Tower: Located in Seoul, this tower faces north (gong means to bow or face, buk means north), suggesting reverence toward the Chinese court during the Joseon dynasty.'
+  - key: ''
+    value: 'Kwon the Censor and Yun the Minister: These likely refer to the officials involved in the tower''s construction, with the poet playfully attributing the composition to his colleague Kwon while crediting the structural work to Minister Yun.'
+  - key: ''
+    value: 'Gyeongsin year: Refers to 1680 in the traditional East Asian sexagenary cycle.'

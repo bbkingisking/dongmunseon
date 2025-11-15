@@ -1,0 +1,27 @@
+canonical:
+  title: 韓山伯淸心堂銘
+  author: 李詹
+  language: lzh
+  text: 我觀虛空或陰或淸人有知覺乃昏乃明咄彼物欲如雲之生猛省克去存乎其誠群邪以敗萬善以生我愛斯人無忝厥名
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 韓山伯淸心堂銘
+  author: 李詹
+  language: lzh
+  text: 我觀虛空。或陰或淸。人有知覺。乃昏乃明。咄彼物欲。如雲之生。猛省克去。存乎其誠。群邪以敗。萬善以生。我愛斯人。無忝厥名。
+korean:
+  title: 한산백 청심당 명
+  author: 이첨
+  language: kor
+  text: 내가 허공을 보니 어느 때는 그늘이 끼이기도 하고 어느 때는 맑기도 하다. 사람의 가진 지각(知覺)은 어둔 때도 있고 밝은 때도 있다. 저 물욕이란 것이 하늘에 구름 생기듯 하니 깊이 살펴서 능히 쫓아버리기는 정성에 있다. 온갖 사특한 것은 없어지고 온갖 착함이 나게 된다. 내가 이러한 사람을 사랑하노니 그 이름에 더럽힘이 없을지어다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0420&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription for Han Sanbaek's Hall of Pure Heart
+  author: Lee Chaem
+  language: eng
+  text: I observe the vast sky—now shadowed, now clear. So too the human spirit knows both darkness and light. Yet earthly desires arise like clouds forming in heaven. Through deep reflection and resolute discipline, we find the path in sincerity alone. Then all that is crooked falls away, and all virtue blooms. Such a person I cherish, whose name remains untarnished by the world.
+  footnotes:
+  - key: ''
+    value: Han Sanbaek (韓山伯) was likely a contemporary figure for whom this inscription was composed. The 'Hall of Pure Heart' (清心堂) represents a space dedicated to spiritual cultivation and moral refinement.

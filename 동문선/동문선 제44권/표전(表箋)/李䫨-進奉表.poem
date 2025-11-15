@@ -1,0 +1,42 @@
+canonical:
+  title: 進奉表
+  author: 李䫨
+  language: lzh
+  text: 魯史記言所尙羞汙之信姬書載美雅稱執壤之儀敢罄精虔輒修微貢中謝 恭惟太皇太后陛下慈和毓粹淑哲凝姿德配虞嬪早騰芳於彤管功高文母永流化於緜區凡云同軌之邦盡展奉琛之禮臣僻居靑徼生遇明時仰皓月之麗天逾增企慕效纖塵之裨岳庶達勤誠遂馳專介之行聊致遠方之産願矜至懇曲示兼容
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 進奉表
+  author: 李䫨
+  language: lzh
+  text: 魯史記言。所尙羞汙之信。姬書載美。雅稱執壤之儀。敢罄精虔。輒修微貢。中謝。 恭惟太皇太后陛下。慈和毓粹。淑哲凝姿。德配虞嬪。早騰芳於彤管。功高文母。永流化於緜區。凡云同軌之邦。盡展奉琛之禮。臣僻居靑徼。生遇明時。仰皓月之麗天。逾增企慕。效纖塵之裨岳。庶達勤誠。遂馳專介之行。聊致遠方之産。願矜至懇。曲示兼容。
+korean:
+  title: 진봉표
+  author: 이오
+  language: kor
+  text: |-
+    노사(魯史)는 말을 기록함에 있어 숭상하는 바는 수한(羞汗)의 신(信)이옵고, 주서(周書)에 아름다움을 실으면서 본시 집양(執壤)의 의식을 칭찬하였기로, 감히 정성을 기울여서 선뜻 조공을 바치옵니다. 중사(中謝)
+    삼가 생각하옵건대, 태황태후 폐하께서는 인자와 화평으로 정신을 기르시고 어질고 슬기로움이 모습에 나타났사오며, 덕은 우빈(虞嬪)과 짝하여 진작 꽃다움을 동관(彤管)에 드날렸고, 공은 문모(文母)보다 높아 길이 덕화를 면구(緜區)에 입히시니, 무릇 궤도를 같이하는 나라면 모두 봉침(奉琛 조공하는 것)의 예를 드리고 있사옵니다.신은 동쪽 나라에 동떨어져 있사오나, 밝은 때를 만나서 하얀 달이 하늘에 걸린 것을 우러러보매 더욱 사모함이 간절하옵고, 가는 티끌이 산을 메우는 데 도움됨을 본받아 끊임없는 성의를 바치려 하옵니다. 그래서 마침내 사신을 빨리 보내어 먼 지방의 물산을 올리는 것이오니, 바라옵건대, 지극한 정성을 어여삐 여기시어 널리 관용을 보여 주소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우빈(虞嬪) : '
+    value: 요(堯)의 두 딸이며 순(舜)의 후비(后妃)이다. 《서경》 〈요전(堯典)〉에, “두 딸을 위예(潙汭)에 내려보내 우순(虞舜)의 빈(嬪)이 되게 하였다.” 하였다.
+  - key: '[주-D002] 문모(文母) : '
+    value: 주(周)나라 문왕의 어머니 태임(太妊)을 말한 것이다.
+  - key: '[주-D003] 면구(緜區) : '
+    value: 온 누리.
+english:
+  title: Memorial of Tribute
+  author: Lee O
+  language: eng
+  text: |-
+    The Histories of Lu record that what is prized is the integrity of the humble. The chronicles of Zhou celebrate virtue, and have long commended the ritual propriety of those who bow before the earth. Thus do I venture forth with sincere devotion, humbly presenting this modest tribute.
+
+    I reverently contemplate: The Grand Empress Dowager, whose grace and harmony nurture all excellence, whose wisdom and virtue shine forth in her bearing—her virtue rivals that of the daughters of Yao, whose beauty has long illuminated the silken records of court, and whose achievements surpass even the Mother of Kings, spreading civilizing influence across all the realm. All lands that share in common order present their tributes and precious gifts before her.
+
+    Though I dwell in the remote eastern borders, I am blessed to live in this enlightened age. Gazing upward at the radiant moon suspended in heaven, my admiration grows ever more fervent. Like the finest dust that aids in building mountains, I offer my unwavering sincerity. Thus I now dispatch this envoy to present the humble products of our distant lands, hoping that you will graciously receive this utmost devotion and extend your boundless magnanimity.
+  footnotes:
+  - key: ''
+    value: The daughters of Yao (legendary sage-king) who became consorts of Shun, exemplifying virtue and proper conduct
+  - key: ''
+    value: The Mother of Kings refers to the mother of the Duke of Zhou, celebrated as an ideal of virtuous influence

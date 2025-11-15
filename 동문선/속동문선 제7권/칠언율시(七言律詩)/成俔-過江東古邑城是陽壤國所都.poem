@@ -1,0 +1,46 @@
+canonical:
+  title: 過江東古邑城是陽壤國所都
+  author: 成俔
+  language: lzh
+  text: 陽壤遺墟草樹平數家籬落掩柴荊山川自是興王地城堞空餘建國名此日繁華皆寂寞當時蠻觸幾紛爭年年進士峯頭月桂影無心照水明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過江東古邑城是陽壤國所都
+  author: 成俔
+  language: lzh
+  text: 陽壤遺墟草樹平。數家籬落掩柴荊。山川自是興王地。城堞空餘建國名。此日繁華皆寂寞。當時蠻觸幾紛爭。年年進士峯頭月。桂影無心照水明。
+korean:
+  title: 과 강동고읍성 시 양양국 소도
+  author: 성현
+  language: kor
+  text: |-
+    양양의 남은 터에 풀과 나무가 편편한데
+    두어 집의 울타리가 잡목에 가리웠다
+    산천은 여기가 왕업을 일으킨 땅이었는데
+    성첩은 하염없이 나라 세운 이름만 남기었다
+    오늘에는 그 번화가 모두 적막하거니
+    그때에는 만촉이 얼마나 싸웠던가
+    해마다 진사봉의 꼭대기 달의
+    계수나무 그림자는 무심히 물을 비쳐 밝더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 그때에는 …… 싸웠던가 : '
+    value: 달팽이 뿔에 만(蠻)국과 촉(觸)국 두 나라가 있다는 말이다.
+english:
+  title: Passing the Ancient City of Gangdong, Once the Capital of Yangyang Kingdom
+  author: Seong Hyeon
+  language: eng
+  text: |-
+    The ruins of Yangyang lie flat with grass and trees,
+    A few scattered houses veiled behind brambled fences.
+    These mountains and streams once cradled the rise of kingdoms—
+    Yet the ramparts hold only the hollow name of a nation.
+
+    Today all that flourished here has turned to silence,
+    While then, how fiercely the petty kingdoms clashed and warred.
+    Year after year, upon Jinsa Peak the moon ascends,
+    And the cassia's shadow, indifferent, brightens the waters below.
+  footnotes:
+  - key: ''
+    value: The reference to 'petty kingdoms clashed' alludes to the ancient saying of two kingdoms, Man and Chuk, existing upon a snail's horn—symbolizing the insignificance of earthly power and territorial disputes.

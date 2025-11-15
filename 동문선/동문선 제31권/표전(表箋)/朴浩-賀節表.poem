@@ -1,0 +1,40 @@
+canonical:
+  title: 賀節表
+  author: 朴浩
+  language: lzh
+  text: 臣某等言伏遇今月二日俯届城平節者電斗開祥曾標於彌月露囊獻慶方屬於昌辰擧溥率以通歡奉延洪之會運臣其等誠忻誠蹈頓首頓首伏惟聖上日躋淵德天縱巍文統三極以道和理符於箕範緫五常而設敎俗變於魯邦洎龍感之嘉期卜魚須之盛宴衢尊賜飫洽賓國之群情隣寶聘儀致旅庭之百品禮繁塗會敬拂冞稱臣等叨被都兪謬分閫制懷金著表緬阻於雄躔拂石▣祥但祈於鴻業
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀節表
+  author: 朴浩
+  language: lzh
+  text: 臣某等言。伏遇今月二日。俯届城平節者。電斗開祥。曾標於彌月。露囊獻慶。方屬於昌辰。擧溥率以通歡。奉延洪之會運。臣其等誠忻誠蹈。頓首頓首。伏惟聖上。日躋淵德。天縱巍文。統三極以道和。理符於箕範。緫五常而設敎。俗變於魯邦。洎龍感之嘉期。卜魚須之盛宴。衢尊賜飫。洽賓國之群情。隣寶聘儀。致旅庭之百品。禮繁塗會。敬拂冞稱。臣等叨被都兪。謬分閫制。懷金著表。緬阻於雄躔。拂石▣祥。但祈於鴻業。
+korean:
+  title: 하절표
+  author: 박호
+  language: kor
+  text: 신 모 등은 아뢰나이다.이달 2일에 엎드려 성평절(城平節)을 맞이하였나이다.번개가 북두(北斗)를 둘러 일찍 탄강(誕降)의 조짐을 미리 보여주었고, 이슬주머니[露囊]로 경사를 올리니 바야흐로 때는 가신(佳辰)이라, 만천하의 신민(臣民)이 모두 기뻐 가없는 성수(聖壽)를 받들어 비오며, 신 모 등은 진실로 기쁘고 기뻐서 춤추며 머리를 조아리고 조아리나이다.엎드려 생각건대, 성상(聖上)께서 날로 쌓으신 깊은 덕(德)과 하늘이 주신 높은 문덕(文德)으로, 삼극(三極)을 통일하여 화(和)로 인도하시니 정치가 기자(箕子)의 홍범(洪範)에 들어맞고, 오상(五常)을 모아 교화를 베푸시니 풍속이 노(魯)나라로 변하였나이다. 이제 성탄(聖誕)의 가절에 즈음하여 고관(高官)들의 성연(盛宴)을 차리시오니, 강구(康衢)의 술단지[樽]에 푸짐한 주식(酒食)을 내려 빈국(貧國 손으로 온 속국들)의 군정(群情)을 흡족하게 하고, 인국(隣國)이 보배로 예물을 드리니, 공물(貢物)이 백가지 품목에 이르고, 예식이 도산(塗山)의 모임보다 더 성대하여 공경이 미칭(罙稱)을 떨치리이다. 신등은 외람되게도 중신(重臣)으로서 군직(軍職)에 재임하여, 금(金)을 품고 표(表)를 지어 성연에 참가하지 못하오나, 돌을 떨쳐 상서가 □□하여 다만 홍업(鴻業)이 무강하심을 비나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0260&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 풍속이 …… 변하였나이다 : '
+    value: 공자(孔子)의 말에, “제(齊)가 한번 변하면 노(魯)에 이르고, 노(魯)가 한번 변하면 도(道)에 이르리라.” 하였다.
+  - key: '[주-D001] 其 : '
+    value: 某
+english:
+  title: Memorial Celebrating the Seasonal Observance
+  author: Park Ho
+  language: eng
+  text: |-
+    Your servant and others humbly present this memorial. On the second day of this month, we have the honor to observe the Festival of the Peaceful City. The lightning dances around the Northern Dipper, revealing portents of the celestial birth long foretold, while the dew-offerings ascend in celebration—truly a blessed occasion. All the people under heaven rejoice without measure in honoring the Sacred Longevity, and we, your servants, thrill with genuine joy, dancing and bowing our heads repeatedly in reverence.
+
+    We humbly reflect that Your Majesty, day by day ascending in profound virtue, and endowed by Heaven with sublime cultural refinement, unifies the Three Realms through harmony and order, aligning governance with the great principles of the Sage-King. By gathering the Five Constancies and spreading their transformative influence, the customs of the land have been ennobled as those of the ancient kingdom of Lu. Now, on this blessed anniversary, the court prepares a magnificent feast. From the cups in the public squares, abundant wine and sustenance flow forth, fully satisfying the hearts of tributary peoples who have come from afar. The neighboring states offer precious tribute in ceremonial gifts, bringing hundreds of kinds of precious goods, and the rituals exceed even those of the ancient assembly at Dushan—a display of reverence beyond measure.
+
+    Though we humble servants, unworthy though we are, have been entrusted with high office and military responsibility, and though we cannot attend this grand celebration in person, we nonetheless cast aside all impediment and humbly entreat that the Celestial Work may endure in eternal strength.
+  footnotes:
+  - key: ''
+    value: The Festival of the Peaceful City (城平節) refers to the sovereign's birthday or a significant court celebration.
+  - key: ''
+    value: The reference to the customs becoming like those of ancient Lu alludes to Confucian ideals of moral transformation through virtuous governance.
+  - key: ''
+    value: The assembly at Dushan (塗山之會) was a legendary gathering of ancient sage-kings, representing the highest ideal of peaceful rule.

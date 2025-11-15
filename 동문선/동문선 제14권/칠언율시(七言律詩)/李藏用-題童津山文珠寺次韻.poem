@@ -1,0 +1,45 @@
+canonical:
+  title: 題童津山文珠寺次韻
+  author: 李藏用
+  language: lzh
+  text: 無限江山爛熳看倦遊襟抱反悽酸飜落照金猶閃鴉點平林墨未乾杖底片雲舒萬里檻中明月入千灘綺街衮衮馳名客爭識蒲團睡味殘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題童津山文珠寺次韻
+  author: 李藏用
+  language: lzh
+  text: 無限江山爛熳看。倦遊襟抱反悽酸。飜落照金猶閃。鴉點平林墨未乾。杖底片雲舒萬里。檻中明月入千灘。綺街衮衮馳名客。爭識蒲團睡味殘。
+korean:
+  title: 제 동진산 문주사 차운
+  author: 이장용
+  language: kor
+  text: |-
+    그지없는 강산을 싫도록 보고 나니
+    놀기에 지친 회포가 도리어 서글프네
+    지는 햇빛에 나는 물새는 금빛이 번득이고
+    숲에 앉은 까마귀는 먹점이 안 말랐구나
+    지팡이 끝에 조각구름이 만 리나 뻗쳐 있고
+    난간에 비친 밝은 달은 일천 강으로 들어가네
+    번화한 거리에 우글거리는 이름 날리는 이들
+    포단의 이 단잠맛을 제 어이 알까 보냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0340&viewSync=OT
+  footnotes: []
+english:
+  title: On Mungjusa Temple at Dongjinsan Mountain, Following the Rhyme Scheme
+  author: Lee Chang-yong
+  language: eng
+  text: |-
+    I have gazed upon boundless rivers and mountains till sight grows weary,
+    and the weariness of wandering turns my heart to melancholy.
+    Falling sunlight catches the flying water birds in gold,
+    while crows perched in the woods leave their ink-marks still wet.
+    At the tip of my staff, a wisp of cloud stretches ten thousand miles,
+    and the bright moon in the railing's reflection enters a thousand streams.
+    In the bustling streets, the celebrated ones jostle and hurry—
+    yet how could they know the lingering sweetness of sleep on the meditation mat?
+  footnotes:
+  - key: ''
+    value: The poem follows a rhyme scheme established by an earlier poem on the same subject, a common practice in Classical Chinese and Korean poetry circles.
+  - key: ''
+    value: The 'meditation mat' (포단) refers to the Buddhist practice of sitting in contemplation, suggesting a contrast between worldly ambition and spiritual peace.

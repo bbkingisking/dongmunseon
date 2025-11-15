@@ -1,0 +1,64 @@
+canonical:
+  title: 閑吟二首
+  author: 姜希孟
+  language: lzh
+  text: 長閑不是藝能多壯志其如老去何卄載功名添鬢雪五更風雨落燈花阻隨鵷鷺趨文陛甘與沙鷗占碧波到得晩來棲息定楊花江水鏡新磨飄泊衿陽日月多故人消息問如何短籬殘菊寒無艶冷瓦繁霜眩有花山擁舊廬浮黛色月窺前嶺湧金波人閒肯綮終難解從此鉛刀不用磨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閑吟二首
+  author: 姜希孟
+  language: lzh
+  text: 長閑不是藝能多。壯志其如老去何。卄載功名添鬢雪。五更風雨落燈花。阻隨鵷鷺趨文陛。甘與沙鷗占碧波。到得晩來棲息定。楊花江水鏡新磨。飄泊衿陽日月多。故人消息問如何。短籬殘菊寒無艶。冷瓦繁霜眩有花。山擁舊廬浮黛色。月窺前嶺湧金波。人閒肯綮終難解。從此鉛刀不用磨。
+korean:
+  title: 한음 이수
+  author: 강희맹
+  language: kor
+  text: |-
+    오래 한가함은 예능이 많기 때문이 아니다
+    웅장하던 그 뜻도 늙어감을 어이하랴
+    스무 해의 공명은 흰 살쩍만 보태었는데
+    오경의 바람과 비는 등불 심지를 떨어뜨린다
+    완로(벼슬아치)를 믿고 따라 문폐로 나아가다가
+    즐겨 사구와 더불어 벽파를 차지했다
+    늘그막에 와서 깃들일 곳을 정하게 되었나니
+    양화진의 강물은 거울을 새로 간 것 같다
+    금양(시흥(始興) 땅)에 떠돌아다닌 지 해와 달이 많았는데
+    묻노니, 고인의 소식은 지금에 어떠한가
+    짧은 울타리에 쇠잔한 국화는 차가워서 고운 빛 없고
+    찬 기와의 많은 서리는 꽃이 눈부신다
+    산이 옛 집을 끼었으매 검푸른 빛을 띄우고
+    달이 앞 재를 엿보매 금물결을 솟구친다
+    인간의 긍경(맺힌 곳)을 끝내 풀기 어렵나니
+    지금부터는 납칼을 갈 일이 없구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0520&viewSync=OT
+  footnotes: []
+english:
+  title: Two Verses on Idle Leisure
+  author: Kang Hi-maeng
+  language: eng
+  text: |-
+    Long leisure comes not from many skills possessed,
+    Yet what becomes of lofty aims as age draws near?
+    Twenty years of seeking rank have only brought
+    White frost upon my temples; dawn wind scatters lamp flames.
+
+    Once I followed office-seekers to the palace gate,
+    Gladly taking my place with gulls upon the blue waters.
+    Now in my declining years I've chosen my resting place—
+    The river at Yanghwajin shines like a mirror freshly ground.
+
+    Many moons and years have passed in wandering far,
+    I ask now: what word comes of old friends?
+    In the short fence, withered chrysanthemums lack their beauty in the cold,
+    Frost gathers thick on tiles, yet still its flowers dazzle.
+
+    Mountains embrace my old home, wreathed in deepest green,
+    The moon peers through the pass and stirs its waves of gold.
+    The knots that bind us human hearts—these cannot be untied.
+    So now my dull blade needs no further grinding.
+  footnotes:
+  - key: ''
+    value: Yanghwajin refers to the Yanghwajin area near Seoul, known for its scenic riverside views and historical significance during the Joseon period.
+  - key: ''
+    value: The imagery of 'dull blade' and 'grinding' is a metaphor for efforts at self-improvement and advancement in the world—suggesting the speaker has abandoned such ambitions.

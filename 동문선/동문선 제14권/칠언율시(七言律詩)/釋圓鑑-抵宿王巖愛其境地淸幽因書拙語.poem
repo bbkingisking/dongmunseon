@@ -1,0 +1,52 @@
+canonical:
+  title: 抵宿王巖愛其境地淸幽因書拙語
+  author: 釋圓鑑
+  language: lzh
+  text: 避喧求靜到王巖滿眼幽奇未易談石上松孤類巢許門前柳老似彭聃千重嶽色深還淺一派泉流冷且甘二八應眞曾駐錫暫來聊喜得同龕
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 抵宿王巖愛其境地淸幽因書拙語
+  author: 釋圓鑑
+  language: lzh
+  text: 避喧求靜到王巖。滿眼幽奇未易談。石上松孤類巢許。門前柳老似彭聃。千重嶽色深還淺。一派泉流冷且甘。二八應眞曾駐錫。暫來聊喜得同龕。
+korean:
+  title: 왕바위에 이르러 자며 그 경지가 맑고 그윽함을 사랑하여 서투른 몇 마디를 쓰다
+  author: 석원감
+  language: kor
+  text: |-
+    떠드는 것을 피하고 고요를 구해 왕바위에 이르니
+    눈에 가득 그윽한 경치를 말로 하기 어렵네
+    돌 위에 우뚝 선 솔은 소부ㆍ허유 기상이요
+    문 앞 늙은 버들은 팽조ㆍ노담 비슷하네
+    겹겹 두른 산빛은 깊은 채 얕아 뵈고
+    한 가닥 흐르는 샘은 차고도 맛이 다네
+    열여섯 응진(불교에서 나한(羅漢)을 말함)이 여기 머물러 있으니
+    잠시 와서 같은 감실에 묵어감이 기쁘구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 소부(巢父)ㆍ허유(許由) : '
+    value: 옛날 요(堯) 때의 고사(高士). 벼슬을 하지 아니한 숨은 선비였다.
+  - key: '[주-D002] 팽조(彭祖)ㆍ노담(老聃) : '
+    value: 옛날에 매우 오래 산 사람인데, 노담은 곧 노자(老子)이다.
+english:
+  title: 'Arriving at Wang Rock: Moved by the Clarity and Serenity of Its Realm, I Write These Humble Words'
+  author: Seok Won-gam
+  language: eng
+  text: |-
+    Fleeing the clamor, seeking stillness, I arrive at Wang Rock.
+    The eye beholds such mystery—hard to capture in mere words.
+    A lone pine on the stone carries the spirit of Chao Fu and Hsu Yu,
+    While the ancient willow at the gate resembles Peng Tsu and Lao Tzu.
+
+    The layered mountains shift between depth and shallowness,
+    A single spring flows pure and cold, its taste exquisite.
+    Sixteen arhats have made their dwelling here—
+    I come but briefly, yet rejoice to share this sacred chamber.
+  footnotes:
+  - key: ''
+    value: Chao Fu and Hsu Yu were legendary hermit-sages of antiquity who refused office under Emperor Yao, representing the ideal of transcendence through withdrawal from worldly affairs.
+  - key: ''
+    value: Peng Tsu and Lao Tzu (Lao Dan) were renowned figures believed to have achieved extraordinary longevity through spiritual cultivation, symbolizing endurance and timeless wisdom.
+  - key: ''
+    value: The sixteen arhats (응진) are enlightened disciples in Buddhist tradition, suggesting this mountain sanctuary as a place of spiritual practice and refuge.

@@ -1,0 +1,47 @@
+canonical:
+  title: 暮春書事示李注簿
+  author: 林惟正
+  language: lzh
+  text: 池南池北草如茵陳純益 瑟瑟淸波見戲鱗舜欽 明月有期生薄暮▣▣▣ 落花和淚送殘春陳純益 不寒不熱好時節樂天 半醉半醒無事人簡夫 幸有南隣隱君子永叔 因時數面亦成親楊時可
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 暮春書事示李注簿
+  author: 林惟正
+  language: lzh
+  text: 池南池北草如茵。陳純益。 瑟瑟淸波見戲鱗。舜欽。 明月有期生薄暮。▣▣▣。 落花和淚送殘春。陳純益。 不寒不熱好時節。樂天。 半醉半醒無事人。簡夫。 幸有南隣隱君子。永叔。 因時數面亦成親。楊時可。
+korean:
+  title: 늦봄에 심사를 써서 이주부에게 보이며
+  author: 임유정
+  language: kor
+  text: |-
+    연못 앞뒤에 자리처럼 깔린 풀 진순익(陳純益)
+    살랑살랑 맑은 물결에 뛰노는 고기들 순흠(舜欽)
+    밝은 달은 기약이 있어 어스름께 돋아오고 결(缺)
+    지는 꽃은 눈물과 함께 가는 봄을 전송하네 진순익
+    춥지도 덥지도 않은 좋으나좋은 시절에 낙천(樂天)
+    반쯤 거나한 반쯤 깬 일없는 사람 간부(簡夫)
+    남쪽 이웃에 숨어서 사는 선비 있어 영숙(永叔)
+    이따금 마주 대하여 친한 벗도 되누나 양시가(楊時可)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0630&viewSync=OT
+  footnotes: []
+english:
+  title: On Late Spring - A Note on Things Written and Shown to Official Yi
+  author: Lim Yu-jeong
+  language: eng
+  text: |-
+    South and north of the pond, grass spreads like a cushion.
+    Across the rippling clear waters, small fish dart and play.
+    The bright moon has its appointed time, rising in the gathering dusk.
+    Falling blossoms, mingled with tears, bid farewell to the waning spring.
+    Neither cold nor hot—what a perfect season this is!
+    Half-drunk, half-awake, the man of leisure knows no worry.
+    There is a hidden scholar dwelling south of here,
+    And in our chance meetings, we have become true friends.
+  footnotes:
+  - key: ''
+    value: This poem is composed of quoted lines, with attributions to various literary figures. Each couplet or phrase credits different poets and writers, creating a collaborative work that weaves together their voices.
+  - key: ''
+    value: The references include Tang poet Bai Juyi (樂天), Song literati Om Sukkyeong (舜欽), Ou Yangxiu (永叔), and other classical scholars, reflecting the author's engagement with both Chinese and Korean literary traditions.
+  - key: ''
+    value: The work addresses Official Li (李注簿), likely a government functionary, using seasonal imagery and philosophical leisure as themes for contemplation.

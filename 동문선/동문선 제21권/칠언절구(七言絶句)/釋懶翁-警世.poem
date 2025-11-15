@@ -1,0 +1,46 @@
+canonical:
+  title: 警世
+  author: 釋懶翁
+  language: lzh
+  text: 昨是新春今是秋年年日月似溪流貪名愛利區區者未滿心懷空白頭終朝役役走紅塵頭白焉知老此身名利禍門爲猛火古今燒殺幾千人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 警世
+  author: 釋懶翁
+  language: lzh
+  text: 昨是新春今是秋。年年日月似溪流。貪名愛利區區者。未滿心懷空白頭。終朝役役走紅塵。頭白焉知老此身。名利禍門爲猛火。古今燒殺幾千人。
+korean:
+  title: 경세
+  author: 석나옹
+  language: kor
+  text: |-
+    어제는 바로 새 봄이더니 오늘은 가을일세
+    해마다 해와 달은 흐르는 시내 같네
+    이름을 탐하고 이익을 사랑하는 구차스러운 사람들아
+    뜻을 미처 채우기도 전에 속절없이 머리 희네
+    아침 내내 허덕이며 홍진에 달렸으니
+    어찌 머리 희어 이 몸이 늙은 줄을 깨닫겠나
+    이름과 이익은 재화의 문이라 사나운 불길 되어
+    고금에 몇천 사람이나 태워 죽였던가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1230&viewSync=OT
+  footnotes: []
+english:
+  title: A Warning to the World
+  author: Seok Naaong
+  language: eng
+  text: |-
+    Yesterday was spring's bright dawn, today has turned to autumn's face.
+    Year after year, sun and moon flow like a mountain stream.
+    You who greedily chase after fame and profit—such petty ambition!
+    Your hearts remain unfulfilled as your hair turns white in vain.
+
+    All day long you toil in the dusty world of red,
+    Yet fail to notice how your head grows white, how this body ages.
+    Fame and profit are the gateway to calamity, a raging fire—
+    How many thousands through the ages have been consumed by its flames?
+  footnotes:
+  - key: ''
+    value: 홍진 (red dust) is a Buddhist term for the turbulent world of desire and attachment
+  - key: ''
+    value: The poem's structure alternates between personal observation and universal moral warning, a common form in Korean Buddhist verse

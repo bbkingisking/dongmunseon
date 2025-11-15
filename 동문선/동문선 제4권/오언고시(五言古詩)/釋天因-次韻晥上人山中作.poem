@@ -1,0 +1,68 @@
+canonical:
+  title: 次韻晥上人山中作
+  author: 釋天因
+  language: lzh
+  text: 君從山中來勝境閱多少自言所歷多象外極高妙初經月南洞千嶂洗秋雨樓臺出其下金碧照巖宇行行轉淸曠襟抱豁披露巉巖上絶頂下瞰衆衆步留詩謝禪翁恨不相從早淸風響萬壑千偈猶未了
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻晥上人山中作
+  author: 釋天因
+  language: lzh
+  text: 君從山中來。勝境閱多少。自言所歷多。象外極高妙。初經月南洞。千嶂洗秋雨。樓臺出其下。金碧照巖宇。行行轉淸曠。襟抱豁披露。巉巖上絶頂。下瞰衆衆步。留詩謝禪翁。恨不相從早。淸風響萬壑。千偈猶未了。
+korean:
+  title: 완상인의 산중지역에 답하여
+  author: 석천인
+  language: kor
+  text: |-
+    그대는 산중에서 왔거니
+    스스로 말하기를 좋은 산수 많이 거쳤으리라
+    거친 곳이 많은데
+    세상밖은 지극히 높고 기묘하더라
+    처음에는 월남골 지났는데
+    천 봉우리가 가을비에 씻기었고
+    누각과 대사는 그 밑에 솟아
+    단청이 바위골을 비추었더라
+    가고 갈수록 맑고 시원하여라
+    가슴은 활짝 트여졌네
+    높은 바위의 꼭대기에 올라
+    내려다 보면 여러 중들 거닐었네
+    시를 지어 두어 선옹께 부치노니
+    일찍 못 사귄 것 한스러워라
+    맑은 바람이 만 골짜기 울리니
+    게송도 오히려 못 미치리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Master Wan's Mountain Verses
+  author: Seokcheonin
+  language: eng
+  text: |-
+    You have journeyed from the mountains—
+    how many sublime vistas have you witnessed?
+    You speak of paths well traveled,
+    yet the realm beyond form remains infinitely high and wondrous.
+
+    First you passed through Moon-South Valley,
+    where a thousand peaks were washed by autumn rain.
+    Pagodas and pavilions rose below,
+    their gilded tiles reflecting in the rocky canyons.
+
+    With each step forward, clearer and more open the vista became,
+    your heart laid bare and unbound.
+    Climbing to the summit of jagged stone,
+    you gazed down upon monks wandering in the distance.
+
+    I offer you these verses, humble offering to the venerable sage—
+    regret that we did not befriend each other sooner.
+    Clear wind echoes through ten thousand gorges,
+    yet even sacred verses cannot capture it all.
+  footnotes:
+  - key: ''
+    value: Seokcheonin (釋天因) was a Buddhist monk-poet of the Joseon period
+  - key: ''
+    value: This poem responds to verses written by Master Wan (晥上人), another Buddhist monk, about his mountain retreat
+  - key: ''
+    value: The 'realm beyond form' (象外) is a Chan Buddhist concept referring to truth transcending conceptual distinctions
+  - key: ''
+    value: '''Sacred verses'' (千偈) refers to Buddhist gathas or hymns, suggesting that even spiritual language falls short of capturing the ineffable beauty of nature'

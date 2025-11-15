@@ -1,0 +1,45 @@
+canonical:
+  title: 二妃廟
+  author: 李承召
+  language: lzh
+  text: 此去蒼梧里幾千何爲野廟在河堧英靈肯戀三叉水虛閣空熏一炷烟何物鬼神憑土偶枉敎行旅捨金錢誰知水府冥冥事獨立西風一悵然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 二妃廟
+  author: 李承召
+  language: lzh
+  text: 此去蒼梧里幾千。何爲野廟在河堧。英靈肯戀三叉水。虛閣空熏一炷烟。何物鬼神憑土偶。枉敎行旅捨金錢。誰知水府冥冥事。獨立西風一悵然。
+korean:
+  title: 이비묘
+  author: 이승소
+  language: kor
+  text: |-
+    여기서 창오까지 몇 천리인데
+    어찌하여 들사당은 물가에 있는가
+    영령이 어찌 삼차수를 못 잊는가
+    빈 집에는 속절없이 한 심지의 향을 피우네
+    어떤 물건의 귀신이 토우(흙으로 만든 우상)에 붙어
+    억지로 나그네에게 돈을 던지게 하는가
+    수부(용궁)의 명명한 일을 누가 하는가
+    홀로 서쪽 바람에 서서 한 번 슬퍼하노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이비묘(二妃廟) : '
+    value: 옛날 순(舜)임금이 강남 지방을 순시하다가 호남(湖南) 지방 소상강(瀟湘江)가에 있는 창오산(蒼梧山)에서 죽었는데, 그 소식을 들은 그의 두 왕비는 그가 죽은데까지 쫓아갔으나, 그의 죽은 곳을 찾지 못하고 역시 그 지방에서 죽고 말았다. 그래서 그들을 열녀라 하여 소상강가에다가 사당을 지어놓고 제사 지내었는데, 그 사당을 황릉묘(黃陵廟)라고 한다. 그런데 여기 북경(北京)에서도 동북방인 삼차하(三叉河)에도 그의 사당이 있어서 여기에서 이 시를 지은 것이다.
+english:
+  title: The Temple of the Two Consorts
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    How many thousand miles to distant Cangwu from here?
+    Why does this shrine stand forsaken by the riverbank?
+    Can their noble spirits truly linger by these three-forked waters?
+    In the empty hall, incense smoke curls from a single stick in vain.
+    What phantom dwells within this earthen idol,
+    Decrying wanderers to abandon their coin?
+    Who fathoms the dim secrets of the dragon's realm?
+    I stand alone in the west wind, touched by sorrow.
+  footnotes:
+  - key: ''
+    value: The Two Consorts refers to the wives of the legendary sage-king Shun, who followed their husband's spirit to the Xiang River region after his death, only to perish there themselves. Though their primary temple stands at the Xiang River's Yellow Mound (Huangling), this poem contemplates a shrine erected in their name at the Three-Forked River near Beijing, prompting the poet's meditation on faith, distance, and the nature of spiritual devotion.

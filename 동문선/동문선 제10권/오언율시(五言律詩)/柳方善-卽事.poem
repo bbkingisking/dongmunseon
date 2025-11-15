@@ -1,0 +1,49 @@
+canonical:
+  title: 卽事
+  author: 柳方善
+  language: lzh
+  text: 愛靜麾塵客忘機狎水鷗詩從三上覓理向一中求屋破茅茨古山深樹木稠江魚秋正美有意買漁舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 卽事
+  author: 柳方善
+  language: lzh
+  text: 愛靜麾塵客。忘機狎水鷗。詩從三上覓。理向一中求。屋破茅茨古。山深樹木稠。江魚秋正美。有意買漁舟。
+korean:
+  title: 즉사
+  author: 유방선
+  language: kor
+  text: |-
+    고요함을 좋아하여 주미를 휘두르는 사람
+    기심을 잊고 해오리와 친하네
+    시는 삼상으로 좇아 얻고
+    이치는 일 가운데를 향하여 구하네
+    집은 헐어서 모자가 낡았고
+    산이 깊으매 나무들은 빽빽하네
+    가을에 강고기 맛이 좋아
+    낚시배를 살 생각 있어지네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0920&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주미(麈尾)를 휘두르는 : '
+    value: 고라니[麈] 꼬리는 먼지를 잘 제거하는 것인데, 그것을 자루[柄]에다 꽂아서 먼지를 터는 것이므로, 진(晉)나라의 명사(名士)들이 청담(淸談)을 할 때에 반드시 손에 주미를 쥐고 이리저리 흔들면서 이야기하였다. 주미의 자루를 백옥(白玉)으로 하였다.
+  - key: '[주-D002] 삼상(三上) : '
+    value: 구양수(歐陽修)가, “시를 지을 때는 대개 베개 위ㆍ뒷간ㆍ말 위에서 생각한다.” 하였다.
+english:
+  title: On Present Things
+  author: Yoo Bang-seon
+  language: eng
+  text: |-
+    I cherish stillness, waving away the dust of worldly concerns,
+    Forget cunning designs, grow intimate with gulls upon the water.
+    Poetry I seek in moments of leisure and reflection,
+    Truth I pursue within the simplicity of a single heart.
+    My cottage broken, its thatched roof grown ancient,
+    The mountains deep, their trees gathered thick and close.
+    In autumn the river fish taste sweetest—
+    So comes the thought: perhaps I'll buy a fishing boat.
+  footnotes:
+  - key: ''
+    value: The whisk (麈尾) was an ornament carried by learned gentlemen of the Jin Dynasty during refined conversation, originally used to dust away mundane concerns—here symbolizing the poet's desire to sweep aside worldly distractions.
+  - key: ''
+    value: 'The ''three places'' (三上) refers to Ouyang Xiu''s observation that poetry often emerges from three moments: lying in bed, using the privy, and riding on horseback—times when the mind wanders freely.'

@@ -1,0 +1,45 @@
+canonical:
+  title: 獨坐
+  author: 徐居正
+  language: lzh
+  text: 獨坐無來客空庭雨氣昏魚搖荷葉動鵲踏樹梢翻琴潤絃猶響爐寒火尙存泥途妨出入終日可關門
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獨坐
+  author: 徐居正
+  language: lzh
+  text: 獨坐無來客。空庭雨氣昏。魚搖荷葉動。鵲踏樹梢翻。琴潤絃猶響。爐寒火尙存。泥途妨出入。終日可關門。
+korean:
+  title: 독좌
+  author: 서거정
+  language: kor
+  text: |-
+    찾는 손님 없이 홀로 앉아 있노니
+    빈 뜰엔 빗기운이 어둑어둑
+    고기가 흔들어 연잎이 움직이고
+    까치가 밟아 나무 끝이 너풀거리도다
+    거문고 그쳐도 줄에 아직 소리 있고
+    화로는 찬데 불은 상기 남아 있네
+    진흙길이 출입을 방해하거니
+    오늘 하룰랑 문 닫아 두자
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0020&viewSync=OT
+  footnotes: []
+english:
+  title: Sitting Alone
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Alone I sit, with no visitors to call,
+    The empty courtyard dims in misty rain.
+    A fish stirs, and the lotus leaves dance,
+    A magpie hops, and the treetops sway.
+    The zither rests, yet echoes linger in its strings,
+    The brazier cools, yet embers still glow.
+    Muddy paths block all coming and going—
+    So let me close the gate for this whole day.
+  footnotes:
+  - key: ''
+    value: The zither (거문고) is a traditional Korean stringed instrument, central to the literati's artistic pursuits during the Joseon period.
+  - key: ''
+    value: The imagery of lotus, magpie, and brazier reflects the Chan Buddhist and Daoist influences common in East Asian literati poetry, suggesting a meditative solitude.

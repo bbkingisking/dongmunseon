@@ -1,0 +1,36 @@
+canonical:
+  title: 蜜蜂贊
+  author: 李奎報
+  language: lzh
+  text: 採花作蜜惟飴之似與油作對其用不匱人不廉取罄倒乃已汝若不死人欲奚旣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蜜蜂贊
+  author: 李奎報
+  language: lzh
+  text: 採花作蜜。惟飴之似。與油作對。其用不匱。人不廉取。罄倒乃已。汝若不死。人欲奚旣。
+korean:
+  title: 밀봉찬
+  author: 이규보
+  language: kor
+  text: 꽃을 따서 만드는 꿀 엿과 같구나. 기름과 마찬가지로 그 용도(用途) 한이 없다. 사람은 염치 없이 다 긁어 내니, 네게 죽지 않는 한, 사람의 욕심은 그칠 줄 모르리라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the Honeybee
+  author: Lee Gyeou-bo
+  language: eng
+  text: |-
+    From flowers gathered, honey is made—
+    sweet as malt, golden and thick.
+    Like oil, it serves without end,
+    yet boundless in its uses.
+
+    But men, shameless in their hunger,
+    scrape and drain until nothing remains.
+    If you were not to die,
+    their greed would never cease.
+  footnotes:
+  - key: ''
+    value: This is a satirical work that uses the honeybee as an allegory for the common people, critiquing human greed and lack of restraint.

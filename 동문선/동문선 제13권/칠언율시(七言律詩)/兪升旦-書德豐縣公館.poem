@@ -1,0 +1,52 @@
+canonical:
+  title: 書德豐縣公館
+  author: 兪升旦
+  language: lzh
+  text: 頃刻征鞍不蹔停自緣王命有嚴程侵宵燈火扶頭起盡日風塵眯眼行到處民廬皆剝落有時僧院過豐盈邇來積弊俱爬去一段唯餘塔廟營所經州縣大抵屋破籬穿往往有蒼然巨厦皆是僧居不能不慨然詩中及之
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書德豐縣公館
+  author: 兪升旦
+  language: lzh
+  text: 頃刻征鞍不蹔停。自緣王命有嚴程。侵宵燈火扶頭起。盡日風塵眯眼行。到處民廬皆剝落。有時僧院過豐盈。邇來積弊俱爬去。一段唯餘塔廟營。所經州縣。大抵屋破籬穿。往往有蒼然巨厦。皆是僧居。不能不慨然。詩中及之。
+korean:
+  title: 덕풍현 공관에 쓰다
+  author: 유승단
+  language: kor
+  text: |-
+    가는 말을 잠시도 멈추지 못하노니
+    왕명을 받아 행정이 엄한 때문
+    한밤중 등잔밑에 머리 붙들고 일어나고
+    온종일 먼지가 눈에 티를 들였네
+    가는 곳마다 민가는 모두 퇴락했는데
+    이따금 사원만이 지나치게 풍성하더군
+    요즘 쌓인 폐단을 다 없앴다지만
+    아직도 남은 건 탑묘를 자꾸 경영하는 일
+    지나는 고을마다 대개 집이 쓰러지고, 울타리가 뚫어졌는데, 이따금 우뚝 솟은 큰 집은 모두 중의 거처라, 감개롭지 않을 수 없기로 시가 그것에 미쳤노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: Written at the Public Residence of Daepoong County
+  author: Yu Seungdan
+  language: eng
+  text: |-
+    The traveling horse cannot pause for even a moment—
+    bound by the king's command with its rigid schedule.
+    At midnight I rise, head propped against the lamplight,
+    all day long the dust clouds sting my weary eyes.
+
+    Everywhere the common homes have crumbled to ruin,
+    yet the temples alone pass by in excessive wealth.
+    Though they say the accumulated decay has been swept away,
+    what remains is still the endless building of pagodas and shrines.
+
+    In every county I traverse, most houses are broken and fences torn through,
+    yet here and there a towering great mansion stands—all of them dwellings of monks.
+    How can one not feel a heaviness in the heart?
+    This is what my poem touches upon.
+  footnotes:
+  - key: ''
+    value: Yu Seungdan served as a traveling official or inspector sent on royal business, hence the rigid schedule and constant movement referenced in the opening lines.
+  - key: ''
+    value: The contrast between the decay of common people's homes and the flourishing of Buddhist temples reflects the author's critique of religious institutions' economic privilege during this period.

@@ -1,0 +1,37 @@
+canonical:
+  title: 四皓圍碁
+  author: 徐居正
+  language: lzh
+  text: 於世於名已兩逃閑圍一局子頻敲此中妙手無人識會有安劉一著高
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 四皓圍碁
+  author: 徐居正
+  language: lzh
+  text: 於世於名已兩逃。閑圍一局子頻敲。此中妙手無人識。會有安劉一著高。
+korean:
+  title: 사호 위기
+  author: 서거정
+  language: kor
+  text: |-
+    세상과 이름 모두 다 버리고서
+    한가히 두는 바둑 한 판에 돌을 자주 두드린다
+    그 가운데 묘한 솜씨 아무도 모르는데
+    마땅히 안유의 높은 한 수 있으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0040&viewSync=OT
+  footnotes: []
+english:
+  title: The Four Immortals at the Go Board
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Having fled from the world and worldly fame,
+    I play a quiet game of go, tapping stones again and again.
+    The subtle skill within escapes all eyes—
+    Yet surely there lies wisdom worthy of the ancients.
+  footnotes:
+  - key: ''
+    value: The 'Four Immortals' (四皓) were legendary recluses who refused to serve in government, symbolizing retreat from the world. The game of go serves as a metaphor for the poet's withdrawal from public life and pursuit of inner cultivation.
+  - key: ''
+    value: The reference to 'An and Liu' alludes to sage advisors known for their transcendent understanding, suggesting that true mastery reveals itself in the most unassuming forms.

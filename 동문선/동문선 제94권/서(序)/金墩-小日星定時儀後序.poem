@@ -1,0 +1,38 @@
+canonical:
+  title: 小日星定時儀後序
+  author: 金墩
+  language: lzh
+  text: 前造日星定時儀太重不便於軍行故更造小定時儀其制與前儀大同小異去定極環蓋欲輕便也先以漏水得初年冬至晨前夜半候北極第二星所在以誌輪邊其畫最長向北更畫三畫以漸而短其間皆距四分度之一初年冬至初日晨前夜半以周天環之初度當輪邊之長畫次年當次畫又次年又當次畫又次年當最短之畫每年一移至第五年還復於初冬至初日以星晷環之晨前子正當周天環之初度一日子正當一度二日二度三日三度每歲皆然無有餘分此小異於前儀也日晷之用與前儀同
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 小日星定時儀後序
+  author: 金墩
+  language: lzh
+  text: 前造日星定時儀太重。不便於軍行。故更造小定時儀。其制與前儀大同小異。去定極環。蓋欲輕便也。先以漏水。得初年冬至晨前夜半。候北極第二星所在。以誌輪邊。其畫最長。向北更畫三畫。以漸而短。其間皆距四分度之一。初年冬至初日晨前夜半。以周天環之初度。當輪邊之長畫。次年當次畫。又次年又當次畫。又次年當最短之畫。每年一移至第五年。還復於初。冬至初日。以星晷環之晨前子正。當周天環之初度。一日子正當一度。二日二度。三日三度。每歲皆然。無有餘分。此小異於前儀也。日晷之用。與前儀同。
+korean:
+  title: 소일성정시의후서
+  author: 김돈
+  language: kor
+  text: 전에 만든 일성정시의(日星定時儀)가 너무 무거워서 군용(軍用)에 불편하므로 다시 소정시의(小定時儀)를 만들었으니, 그 제도는 전에 만든 것과 대개 같고 조금 다를 뿐이다. 정극환(定極環)을 빼버린 것은 가볍게 하자는 것이다. 우선 누수(漏水)로 첫해 동지 새벽 전 한밤중을 찾아서 북극 제이성(北極第二星)이 어디 있는가를 보아 바퀴 주위에 기록하되 그 획이 가장 길고, 북쪽을 향해서 다시 세 획을 긋되 점점 짧게 하고, 그 사이는 모두 4분도(四分度)의 1이 떨어지게 하며, 첫해 동지 첫날 새벽 전 한밤중을 주천환(周天環)의 초도(初度)로써 바퀴 주위의 장획(長畫)에 당하게 하고, 다음 해에는 다음 획에 당하게 하고, 또 그 다음 해에는 또 그 다음 획에 당하게 하고, 또 그 다음 해에는 가장 짧은 획에 당하게 하여 매년에 한 번씩 옮기고 제 5년에 이르면 다시 처음으로 돌아온다. 동지 첫날은 성구환(星晷環)의 새벽 전 자정으로 주천환(周天環)의 초도(初度)에 당하게 하여 1일 자정은 1도(一度)에 당하고 2일은 2도, 3일은 3도로 하니, 해마다 모두 그러하여 여분이 없으니, 이것만이 전에 만든 것과 조금 다르다. 일구(日晷)의 운용은 이전 것과 마찬가지다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0970_010_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Postface to the Small Celestial Chronometer
+  author: Kim Don
+  language: eng
+  text: |-
+    The earlier celestial chronometer proved too cumbersome for military campaigns, so I have now fashioned a smaller version. In design, it differs little from the original—the main change being the removal of the polar-fixing ring to reduce its weight.
+
+    Using water-clock measurement, I first marked upon the wheel's rim the location of the second polar star at the winter solstice's dawn watch of the first year, inscribing the longest line pointing northward. Then I drew three additional lines progressing northward, each growing progressively shorter, spaced at intervals of one quarter-degree.
+
+    On the winter solstice's first day at the dawn watch of that inaugural year, the initial degree of the celestial circle aligns with the wheel's longest line. In the following year, it aligns with the next line; in the third year, with the next; in the fourth year, with the shortest line. With each year advancing by one position, by the fifth year it returns to its beginning.
+
+    On the winter solstice's first day, the dawn watch marks the initial degree of the celestial circle. Each successive day corresponds to each successive degree—the first day to one degree, the second to two degrees, the third to three degrees—so it continues throughout the year with perfect correspondence and no remainder. Herein lies the subtle difference from the earlier instrument. The operation of the sun-shadow ring remains the same as before.
+  footnotes:
+  - key: ''
+    value: The 'water-clock' (漏水) refers to a clepsydra, used here as a precise timekeeping device for calibration.
+  - key: ''
+    value: The 'second polar star' (北極第二星) likely refers to one of the stars in Ursa Minor used for determining true north.
+  - key: ''
+    value: The 'quarter-degree' intervals (四分度之一) represent divisions in the astronomical measurement system used in East Asian astronomy.

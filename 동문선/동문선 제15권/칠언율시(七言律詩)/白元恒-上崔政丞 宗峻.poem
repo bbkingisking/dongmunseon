@@ -1,0 +1,47 @@
+canonical:
+  title: 上崔政丞 宗峻
+  author: 白元恒
+  language: lzh
+  text: 蟬冠駞劒押朝班德齒爭高仰莫攀際會千年忠貫日功名四代望如山琴書素蓄無餘玩几杖曾辭尙未閑明主乞言偏注意天留一鑑照人閒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上崔政丞 宗峻
+  author: 白元恒
+  language: lzh
+  text: 蟬冠駞劒押朝班。德齒爭高仰莫攀。際會千年忠貫日。功名四代望如山。琴書素蓄無餘玩。几杖曾辭尙未閑。明主乞言偏注意。天留一鑑照人閒。
+korean:
+  title: 상 최정승 종준
+  author: 백원항
+  language: kor
+  text: |-
+    선관ㆍ타검으로 조반 머리에 서 계시니
+    높은 덕과 나이가 우러를수록 더욱 높네
+    천 년만의 제회에 충성이 해를 꿰고
+    4대의 큰 공업, 명망이 산과 같네
+    금서만을 가지며 다른 완호 없었고
+    궤장을 사양하여 아직도 바쁘신 몸
+    임금님 신하에게 의견을 물으실 제 특히 공에게 귀기울이니
+    한 거울을 하늘이 두사 모든 인간 비추리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0140&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 선관(蟬冠) : '
+    value: 관(冠)에다 대모(玳瑁)로 매미 형상을 만들어 꽂은 것인데, 삼공(三公)과 친왕(親王)이 조회(朝會) 때에 쓰는 것이다.
+english:
+  title: To Prime Minister Choi Jong-jun
+  author: Baek Won-hang
+  language: eng
+  text: |-
+    In cicada crown and jeweled sword, you stand foremost in the morning court,
+    Your virtue and years tower higher still—none dare climb so steep.
+    In this thousand-year fortune, loyalty runs through the sun itself,
+    Four generations of great merit—your name reaches mountains high.
+    Zither and books alone have filled your store, no idle pleasures claimed,
+    Even when offered the walking stick, you would not rest your weary frame.
+    When the wise ruler seeks counsel, his ear turns specially toward you—
+    Heaven has placed one mirror here to reflect all humankind.
+  footnotes:
+  - key: ''
+    value: 'Cicada crown: An ornamental headdress adorned with a cicada-shaped design, worn by the highest officials and princes at court audiences.'
+  - key: ''
+    value: 'Walking stick offered: A reference to honorable retirement, which the subject declined in continued service.'

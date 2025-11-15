@@ -1,0 +1,46 @@
+canonical:
+  title: 題徐剛中北征錄後
+  author: 姜希孟
+  language: lzh
+  text: 澆音哇咈亂人聽到得君詩眼忽明金椀蔗漿隨嗜好玉壺寒露洗膻腥看來頓覺沉痾愈妙處渾疑道骨成愧我平生無好語細吟終日卧風欞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題徐剛中北征錄後
+  author: 姜希孟
+  language: lzh
+  text: 澆音哇咈亂人聽。到得君詩眼忽明。金椀蔗漿隨嗜好。玉壺寒露洗膻腥。看來頓覺沉痾愈。妙處渾疑道骨成。愧我平生無好語。細吟終日卧風欞。
+korean:
+  title: 제 서강중 북정록후
+  author: 강희맹
+  language: kor
+  text: |-
+    야박한 소리가 시끄러이 사람의 귀를 어지럽게 하더니
+    그대의 시를 얻게 되매 내 눈이 갑자기 밝아지네
+    금사발의 사탕물은 즐기는 성미를 따르고
+    옥항아리의 찬 이슬은 누린내와 비린내를 씻는다
+    보아 오면 갑자기 중한 병 나음을 깨닫고
+    묘한 곳은 모두 도의 뼈를 이루었는가 의심된다
+    부끄러워라, 나는 평생에 좋은 말이 없었거니
+    고요히 읊조리며 날이 맞도록 풍령에 누워 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금사발의 …… 씻는다 : '
+    value: 이 시 두 구는 모두 강중(剛中 서거정(徐居正))의 문장과 시를 칭찬한 말이다.
+english:
+  title: On Reading Seo Gang-jung's Record of the Northern Expedition
+  author: Kang Hee-maeng
+  language: eng
+  text: |-
+    Harsh sounds clatter and confuse the ear,
+    Yet your poems come, and suddenly my eyes grow clear.
+    Golden bowl of sugared water suits the taste,
+    Jade pitcher's cold dew washes away all taint and haste.
+
+    Seeing this, I feel at once my heavy sickness ease,
+    And wonder if this subtle art has touched the bone of Tao's peace.
+    Shamed am I, whose life has held no worthy words to show—
+    I hum in quiet all day long, resting where the breezes blow.
+  footnotes:
+  - key: ''
+    value: The golden bowl and jade pitcher are metaphors praising Seo Gang-jung's prose and poetry for their refinement and purifying effect on the reader.

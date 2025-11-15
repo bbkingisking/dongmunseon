@@ -1,0 +1,90 @@
+canonical:
+  title: 飮酒一首同白和父禹德麟作
+  author: 李穀
+  language: lzh
+  text: 物情好惡淡且濃俱出造化爐中鎔阮孚好履和嶠錢達人聞之面發紅吾徒所好異於此長向花前月下逢白氏好飮不停手禹君五斗方盪胷李生平生不入務擧眼厭見金樽空忘形爾汝外天地麴生於我良有功君不聞千鍾與百觚古來痛飮皆英雄但可陶陶齊得喪安用惺惺較異同人事古多違羿彀或未中擧觴崔宗之投轄陳孟公應笑盧同七椀茶誤疑兩腋生淸風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 飮酒一首同白和父禹德麟作
+  author: 李穀
+  language: lzh
+  text: 物情好惡淡且濃。俱出造化爐中鎔。阮孚好履和嶠錢。達人聞之面發紅。吾徒所好異於此。長向花前月下逢。白氏好飮不停手。禹君五斗方盪胷。李生平生不入務。擧眼厭見金樽空。忘形爾汝外天地。麴生於我良有功。君不聞千鍾與百觚。古來痛飮皆英雄。但可陶陶齊得喪。安用惺惺較異同。人事古多違。羿彀或未中。擧觴崔宗之。投轄陳孟公。應笑盧同七椀茶。誤疑兩腋生淸風。
+korean:
+  title: 백화부ㆍ우덕린과 함께 지은 「음주」 한 수
+  author: 이곡
+  language: kor
+  text: |-
+    좋아하는 것, 싫어하는 것, 사람에 따라 옅기도 짙기도 하니
+    이것이 다 조화로 속에서 용화되어 나오는 것
+    완부의 나막신[屐], 화교의 돈[和嶠錢癖]은
+    달인이 들으면 낯을 붉히리
+    우리들의 좋아하는 것 이네들과 달라
+    항상 꽃 앞 달 아래서 만나노라
+    백씨는 손을 멈추지 않고 마시며
+    우군은 닷 말쯤 마셔야 가슴이 트인다네
+    이생은 평생에 일은 모르고
+    눈을 뜨면 술병 빈 것 보기 싫어한다
+    연치도 치지 않고서 서로 너나하며 친히 사귀어 천지를 초탈하니
+    국생(술)이 우리에게 참으로 공이 있구나
+    그대도 들었으리 천종과 백고를
+    옛부터 크게 마시는 이는 다 영웅이라
+    다만 취한 즐거움으로 득실[得喪]을 일시할 일이지
+    어찌 냉랭해 가지고서 이동을 계교할 것인가
+    인사는 본디 어긋남이 많아
+    예(활을 잘 쐈다)의 활도 혹 맞지 못할 때 있었네
+    잔 드는 최종지
+    수레 바퀴 뽑는 진맹공
+    아마 웃었으리라, 노동(당나라 시인)의 일곱 잔 차에
+    두 겨드랑에 청풍 난다는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 완부(阮孚)의 …… 돈[和嶠錢癖] : '
+    value: 진(晋)나라 때에 완부(阮孚)는 나막신[屐]에 대한 습벽[癖]이 있어 늘 나막신에 밀[蠟] 칠을 하였고, 화교(和嶠)는 명사(名士)이면서도 돈을 좋아하는 습벽이 있어 항상 손으로 돈을 헤아리고 있었다.
+  - key: '[주-D002] 천종(千鍾)과 백고(百觚) : '
+    value: 요(堯)는 술 천종(千鍾)을 마셨고, 공자는 백고(百觚)를 마셨다 한다.
+  - key: '[주-D003] 잔 드는 최종지(崔宗之) : '
+    value: 두보(杜甫)의 〈음중팔선가(飮中八仙歌)〉에, “최종지(崔宗之)는 미소년(美少年)이라, 술잔 들면 푸른 하늘 바라본다.”는 구절이 있다.
+  - key: '[주-D004] 수레 …… 진맹공(陳孟公) : '
+    value: 한(漢)나라 진맹공(陳孟公)이 손님을 좋아하여 여러 손님들과 술을 마실 때에는, 손님들이 중간에 빠져나가지 못하도록 손님이 타고 갈 수레의 두 바퀴에 꿰어져 있는 쇠[轄]를 뽑아서 우물 속에 집어넣었다.
+english:
+  title: 'Drinking Wine: A Poem Composed with Baekbae and Yu Deok-rin'
+  author: Lee Gok
+  language: eng
+  text: |-
+    What men love and hate varies in intensity from soul to soul,
+    all emerging from the furnace of Heaven's transformations.
+    When sages hear of Ruan Fu's obsession with wooden clogs,
+    or He Xiao's weakness for coins, their faces flush with shame.
+
+    Yet we scholars seek something else entirely—
+    we gather beneath flowers and under moonlight.
+    Baekbae drinks without pause, his cup never resting,
+    while Yu requires five measures before his breast opens wide.
+    As for me, I've never troubled myself with worldly affairs—
+    I turn my eyes away, unable to bear the sight of an empty wine vessel.
+
+    We forget ourselves and all formality between us,
+    transcending heaven and earth in our communion.
+    True, the spirit deserves credit for bringing us here.
+    Have you not heard of the thousand measures drunk by ancient Yao,
+    or the hundred goblets emptied by the sage?
+    Since ancient times, those who drink greatly have been heroes.
+    Let us simply drown our cares in wine's euphoria,
+    why worry over distinctions when the heart is content?
+
+    Human affairs have always been uncertain—
+    even the great archer Yi sometimes missed his mark.
+    Cui Zongzhi raises his cup to the heavens,
+    Chen Mengong pulls the linchpin from his carriage wheel.
+    Let them smile at Lu Tong and his seven bowls of tea,
+    at his fancy of cool breezes rising from his armpits.
+  footnotes:
+  - key: ''
+    value: Ruan Fu was known for his obsession with lacquered wooden clogs; He Xiao, despite his noble status, was addicted to counting coins with his hands—both excessive attachments that wise men find shameful.
+  - key: ''
+    value: In ancient tradition, the sage-kings Yao drank a thousand measures and Confucius drank a hundred goblets of wine.
+  - key: ''
+    value: Cui Zongzhi is celebrated in Du Fu's 'Song of the Eight Immortals of Wine' as one who gazes at the azure sky while holding his cup.
+  - key: ''
+    value: Chen Mengong of the Han dynasty would remove the linchpin (轄) from his guests' carriage wheels and throw it into a well to prevent them from leaving prematurely.

@@ -1,0 +1,49 @@
+canonical:
+  title: 次成川樓船詩
+  author: 朴元亨
+  language: lzh
+  text: 江上群峯劒㨾尖峯前江水正挼藍鸚洲芳草嫌風亞滕閣長天對鏡涵春老柳堤添綠線雨晴山市蔟靑嵐使君舟楫終收用政化如今見二南
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次成川樓船詩
+  author: 朴元亨
+  language: lzh
+  text: 江上群峯劒㨾尖。峯前江水正挼藍。鸚洲芳草嫌風亞。滕閣長天對鏡涵。春老柳堤添綠線。雨晴山市蔟靑嵐。使君舟楫終收用。政化如今見二南。
+korean:
+  title: 차 성천루 선시
+  author: 박원형
+  language: kor
+  text: |-
+    강 건너 뭇 봉오리 칼처럼 뾰족하고
+    봉 앞의 강물은 쪽 푼 듯 푸르구나
+    앵무주의 꽃다운 풀은 바람에 쓰러졌고
+    등왕각의 긴 하늘은 거울 속에 잠겼네
+    늦봄의 버들엔 파란 가지 더하였고
+    비 갠 산성엔 푸른 이내 뭉쳤네
+    사군의 배가 마침내 크게 쓰이리니
+    지금 베푼 정화가 이남 못지않구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0900&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 등왕각(滕王閣)의 긴 하늘 : '
+    value: 왕발(王勃)의 〈등왕각서(滕王閣序)〉에, “가을 물은 긴 하늘과 한 빛이로다[秋水共長天一色].”란 말이 있다.
+  - key: '[주-D002] 이남(二南) : '
+    value: 《시경(詩經)》의 〈주남(周南)〉ㆍ〈소남(召南)〉 두 편. 주(周)의 문왕(文王)과 소공(召公)의 교화로 백성이 잘 다스려져 읊어진 시들.
+english:
+  title: Following a Poem on Sungcheon Tower Boat
+  author: Park Won-hyung
+  language: eng
+  text: |-
+    Across the river, clustered peaks rise sharp as swords,
+    Before them the river flows, deep indigo as dye.
+    On Parrot Islet the fragrant grasses bow beneath the wind,
+    While Tengwang Pavilion's vast sky mirrors itself within.
+    Late spring adorns the willow banks with deeper green,
+    Where clearing rain gathers blue mist over the mountain town.
+    The magistrate's vessel finds its proper use at last—
+    Today his governance shines bright as the Two South canticles of old.
+  footnotes:
+  - key: ''
+    value: 'Tengwang Pavilion refers to the famous pavilion celebrated in Wang Bo''s preface, which contains the celebrated line: ''The autumn waters and the long sky share one color.'' This allusion suggests the magistrate''s authority harmonizing naturally with the landscape.'
+  - key: ''
+    value: The Two South canticles refer to the Zhou Nan and Shao Nan sections of the Classic of Poetry, which celebrate the enlightened governance of the Duke of Zhou and the Duke of Shao, whose transformative influence brought order to the people. The poem uses this classical reference to praise the magistrate's virtuous administration.

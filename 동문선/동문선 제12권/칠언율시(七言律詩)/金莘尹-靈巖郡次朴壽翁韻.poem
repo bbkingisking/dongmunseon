@@ -1,0 +1,47 @@
+canonical:
+  title: 靈巖郡次朴壽翁韻
+  author: 金莘尹
+  language: lzh
+  text: 地接滄溟壯觀多巋然喬嶽聳天涯松篁交影六七里雞犬相聞數百家不分每揮憂國淚且堪留賞滿庭花論情未已天垂日更約登樓待月華
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靈巖郡次朴壽翁韻
+  author: 金莘尹
+  language: lzh
+  text: 地接滄溟壯觀多。巋然喬嶽聳天涯。松篁交影六七里。雞犬相聞數百家。不分每揮憂國淚。且堪留賞滿庭花。論情未已天垂日。更約登樓待月華。
+korean:
+  title: 영암군에서 박수옹의 시를 차우하며
+  author: 김신윤
+  language: kor
+  text: |-
+    땅이 창파에 맞닿아 장관이 많은데
+    드높은 산봉이 하늘가에 솟았구나
+    솔과 대 그림자 뒤섞인 곳이 육칠 리
+    닭의 울음 개짖는 소리가 몇 백 집에 마주 들리네
+    나라를 근심하니 분한 눈물 뿌릴 수밖에
+    잠깐 머물러 뜰가득 꽃이나 완상할까
+    정을 다 말하기 전에 해가 이미 저물어가니
+    뒷날에 달이 밝거든 다시 다락에 오르세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0910&viewSync=OT
+  footnotes: []
+english:
+  title: Rhyming with Pak Suwong's Poem at Youngam County
+  author: Kim Shinyun
+  language: eng
+  text: |-
+    Where earth meets the azure sea, splendid vistas abound,
+    And lofty peaks rise towering toward the sky's edge.
+    Through six or seven leagues, pine and bamboo weave their shadows,
+    The crow of roosters and bark of dogs echo across a hundred homes.
+    My heart aches for the nation—I cannot help but shed tears of sorrow.
+    Yet here I linger, admiring the flowers that fill the courtyard.
+    Before I have finished speaking, the sun already sinks low,
+    So let us meet again upon the tower when the moon shines bright.
+  footnotes:
+  - key: ''
+    value: This poem is written in response to a work by Pak Suwong (박수옹), a convention in Korean classical poetry where poets would compose verses following the rhyme scheme and themes of another's work.
+  - key: ''
+    value: Youngam County (영암군) refers to a region in present-day South Korea, known for its natural beauty and historical significance.
+  - key: ''
+    value: The alternation between lamenting national concerns and appreciating natural beauty reflects a common tension in Korean literati poetry between political responsibility and aesthetic contemplation.

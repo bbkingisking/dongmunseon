@@ -1,0 +1,58 @@
+canonical:
+  title: 敬和王后挽詞
+  author: 金富軾
+  language: lzh
+  text: 翩翩丹旐立宮墻臣妾哀號淚滿裳大姒嗣音家道正莊姜無子國人傷龍輴啓路雲煙慘馬鬣因山樹木蒼惆悵仙蹤何處問黃泉碧落兩茫茫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 敬和王后挽詞
+  author: 金富軾
+  language: lzh
+  text: 翩翩丹旐立宮墻。臣妾哀號淚滿裳。大姒嗣音家道正。莊姜無子國人傷。龍輴啓路雲煙慘。馬鬣因山樹木蒼。惆悵仙蹤何處問。黃泉碧落兩茫茫。
+korean:
+  title: 경화왕후 만사
+  author: 김부식
+  language: kor
+  text: |-
+    펄렁펄렁 붉은 명정이 궁 담에 서니
+    신첩들이 울부짖어 눈물이 옷을 적시네
+    태사가 덕을 이어 가도가 발랐으나
+    장강이 아들 없음을 나라사람들 서러워하네
+    용 수레 나가는 길에 구름도 처참하고
+    말 갈기 인산에 나무들도 처량해라
+    슬프다 신선의 종적을 어디에 물어보리
+    황천에나 하늘에나 둘 다 망망하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 신첩(臣妾) : '
+    value: 월왕(越王)구천(句踐)이 오(吳)나라에 애걸하는 말에, “남자는 신하가 되고, 여자는 첩(妾)이 되겠습니다.” 하였다.
+  - key: '[주-D002] 태사(太姒) : '
+    value: 주문왕(周文王)의 정비(正妃)인데, 어진 후비(后妃)로 이름이 있다. 덕을 이었다는 것은 역시 어진 후비로 그의 시어머니인 태임(太妊)의 덕을 이었다는 것인데, 《시경》에 있는 말이다.
+  - key: '[주-D003] 장강(莊姜) : '
+    value: 춘추 때 위 장공(衛莊公)의 비(妃)인데, 어질고 덕이 있었으나 아들이 없었다.
+  - key: '[주-D004] 말 갈기[馬鬣] : '
+    value: 분묘(墳墓)의 모양을 마엽(馬鬣)처럼 하고, 혹은 도끼[斧]처럼 혹은 당(堂)처럼 한다는 것이다.
+  - key: '[주-D005] 황천에나 …… 망망하여라 : '
+    value: 당나라 백락천(白樂天)의 〈장한가(長恨歌)〉에, “양귀비(楊貴妃)의 혼령이 있는 곳을 두루 찾을 때에 위로는 푸른 창공, 아래로는 황천(黃泉), 두 곳이 망망(茫茫)하여 다 볼 수 없다[上窮碧落下黃泉 雨處茫茫皆不見].”란 구절이 있다.
+english:
+  title: Elegy for Queen Gyeonghwa
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The crimson funeral banner flutters at the palace wall,
+    Servants and concubines weep, their tears soak their robes.
+    Tai Si inherited virtue and kept the family way true,
+    Yet Zhuang Jiang, childless, grieves the hearts of all the realm.
+
+    The dragon carriage departs through clouds of sorrow,
+    Horse-maned tombs rise where ancient trees grow dark.
+    Alas, where shall I seek the traces of the immortal?
+    Both the yellow springs below and jade heavens above stretch endless and dim.
+  footnotes:
+  - key: ''
+    value: Tai Si was the virtuous consort of King Wen of Zhou, renowned for inheriting the moral legacy of her mother-in-law, Tai Ren—a reference to the Book of Poetry.
+  - key: ''
+    value: Zhuang Jiang was the noble and virtuous consort of Duke Zhuang of Wei during the Spring and Autumn period, beloved despite being without children.
+  - key: ''
+    value: The closing couplet echoes Bai Juyi's 'Song of Everlasting Sorrow,' which searches for Yang Guifei's spirit between heaven and underworld, finding both realms shrouded in mystery.

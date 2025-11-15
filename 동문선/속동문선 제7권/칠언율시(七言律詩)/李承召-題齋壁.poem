@@ -1,0 +1,48 @@
+canonical:
+  title: 題齋壁
+  author: 李承召
+  language: lzh
+  text: 茅屋三間架采椽題詩滿壁頗淸姸花檻捲簾迎素月盆池貯水納靑天世間名利徒爲爾醉裏情懷便卛然擬逐陶朱乘一舸五湖烟雨送殘年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題齋壁
+  author: 李承召
+  language: lzh
+  text: 茅屋三間架采椽。題詩滿壁頗淸姸。花檻捲簾迎素月。盆池貯水納靑天。世間名利徒爲爾。醉裏情懷便卛然。擬逐陶朱乘一舸。五湖烟雨送殘年。
+korean:
+  title: 제재벽
+  author: 이승소
+  language: kor
+  text: |-
+    초가 삼 간에 채색 서까래 걸쳤는데
+    시를 지어 벽을 채우매 자못 맑고 고와라
+    꽃난간의 발을 걷어 흰 달을 맞이하고
+    작은 못에 물을 대어 푸른 하늘을 들인다
+    세간의 이름과 이익은 한갓 그런 것이어니
+    취한 속의 정회는 갑자기 허술하다
+    도주를 시늉내어 따라 조각배 타고
+    오호의 연기와 비 속에서 남은 생을 보내리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 도주(陶朱) : '
+    value: 춘추 시대에 월(越)나라가 거의 망하게 되었던 것을 범려(范蠡)라는 사람이 힘과 충성을 다하여 강국을 만들고, 원수인 오(吳)나라를 정복한 뒤에 자기는 조그만 배 하나를 타고 강과 호수로 떠나가서, 도주공(陶朱公)이라 이름을 고치고 목축업에 전심하여 다시 큰 부호가 되었다.
+english:
+  title: Inscribed on the Study Wall
+  author: Lee Seungso
+  language: eng
+  text: |-
+    A humble cottage of three rooms, with painted rafters overhead,
+    Poems inscribed to fill the walls—how clear and lovely they shine.
+    I roll back the blinds of the flower-framed window to welcome the white moon,
+    And fill a small pond with water to reflect the azure sky.
+
+    The world's pursuits of fame and fortune are but fleeting things,
+    Yet when drunk, my restless heart grows suddenly light.
+    I shall follow the path of Tao Zhu, boarding a small boat,
+    And drift through the mists and rains of the Five Lakes to spend my remaining years.
+  footnotes:
+  - key: ''
+    value: Tao Zhu refers to Fan Li of ancient times, who helped the kingdom of Yue rise to power and defeat their enemy Wu, then withdrew from the world. He renamed himself 'Lord of Tao Zhu' and devoted himself to simple living and virtue, becoming wealthy again through honest means. His story embodies the ideal of the virtuous hermit who abandons worldly ambition.
+  - key: ''
+    value: The Five Lakes (Wu Hu) traditionally refers to a region of lakes and rivers in what is now southern China, symbolic of a place of retreat and solitude.

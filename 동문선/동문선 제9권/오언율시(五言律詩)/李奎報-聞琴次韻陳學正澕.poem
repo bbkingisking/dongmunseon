@@ -1,0 +1,46 @@
+canonical:
+  title: 聞琴次韻陳學正澕
+  author: 李奎報
+  language: lzh
+  text: 人琴幸暗合絃手穩相迎寓古心逾淡通仙骨欲輕淸於巖溜落幽到谷風生聽罷月微側泠然洗我情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 聞琴次韻陳學正澕
+  author: 李奎報
+  language: lzh
+  text: 人琴幸暗合。絃手穩相迎。寓古心逾淡。通仙骨欲輕。淸於巖溜落。幽到谷風生。聽罷月微側。泠然洗我情。
+korean:
+  title: 거문고를 듣고 학정 진화의 시에 차운하여
+  author: 이규보
+  language: kor
+  text: |-
+    사람과 거문고가 다행으로 은근히 맞았으니
+    손과 줄이 척척 서로 어울리누나
+    옛 뜻을 풍기니 마음 더욱 맑아지고
+    신선과 통하는 듯, 뼈가 홀짝 가벼워지네
+    맑기는 바위에 샘물이 떨어지는 것보다도
+    깊숙하긴 골짝에 바람이 생기는 듯
+    듣고 나니 달이 적이 기울었는데
+    써늘하게 맑아지는 내 심정(心情)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0600&viewSync=OT
+  footnotes: []
+english:
+  title: 'Hearing the Guqin: Harmonizing with Scholar Chen Hwa''s Verse'
+  author: Lee Gyeongbo
+  language: eng
+  text: |-
+    Human heart and guqin strings—by fortune they blend in subtle accord,
+    Finger and fiber meet each other with perfect ease.
+    The ancient spirit breathes forth; my mind grows ever clearer,
+    Communing with immortals, my very bones turn light.
+
+    Clearer than spring water falling on distant rocks,
+    Deeper than wind stirring in the hidden valley below.
+    When the music fades, the moon has tilted in its course,
+    And my spirit, washed and crystalline, emerges anew.
+  footnotes:
+  - key: ''
+    value: The guqin (거문고 in Korean) is an ancient stringed instrument with profound spiritual and philosophical significance in East Asian culture, often associated with refinement, immortality, and communion with nature.
+  - key: ''
+    value: The poem employs the regulated verse form with rhyming couplets, responding to Scholar Chen Hwa's original composition—a common practice among literati of the Goryeo period.

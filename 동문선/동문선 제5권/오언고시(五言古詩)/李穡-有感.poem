@@ -1,0 +1,55 @@
+canonical:
+  title: 有感
+  author: 李穡
+  language: lzh
+  text: 天地帝洪爐鼓鑄一何勞理以爲之主氣以分其曹少或似麟角多奚翅牛毛仁義是膏粱禮法爲笏袍粲然被天下吾生安所逃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 有感
+  author: 李穡
+  language: lzh
+  text: 天地帝洪爐。鼓鑄一何勞。理以爲之主。氣以分其曹。少或似麟角。多奚翅牛毛。仁義是膏粱。禮法爲笏袍。粲然被天下。吾生安所逃。
+korean:
+  title: 유감
+  author: 이색
+  language: kor
+  text: |-
+    천지가 홍로를 주재하니
+    만물을 만들어 내기에 얼마나 수고 하였으리
+    이로 주장을 삼고
+    기로 종류를 나누었네
+    적은 것은 혹 기린 뿔 같기도 하거니
+    많은 것은 어찌 쇠털 같을 뿐이랴
+    인의는 고량같이 여기고
+    예법으로는 홀과 도포를 삼누나
+    찬연히 천하에 입혔으니
+    우리 인생이 어디로 도망하랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections
+  author: Lee Saek
+  language: eng
+  text: |-
+    Heaven and earth—the great furnace of creation,
+    How laborious the casting of all things!
+    Principle presides as master,
+    Qi divides them into their kinds.
+
+    The rare are scarce as a unicorn's horn,
+    The common—are they not countless as ox hairs?
+    Humaneness and righteousness become our daily bread,
+    Rites and laws our robes of office.
+
+    Resplendent, they shine across the world—
+    Where then can our brief lives escape?
+  footnotes:
+  - key: ''
+    value: The 'great furnace' (洪爐) is a metaphor for the creative force of the cosmos, suggesting the primal chaos from which all forms emerge.
+  - key: ''
+    value: 'In Neo-Confucian philosophy, ''Principle'' (理) and ''Qi'' (氣) are the fundamental complementary forces: Principle is the ordering cosmic pattern, while Qi is the vital material force through which it manifests.'
+  - key: ''
+    value: The contrast between the rare (unicorn's horn) and the common (ox hairs) reflects on how virtue and its absence are distributed unequally among people.
+  - key: ''
+    value: Humaneness, righteousness, rites, and laws represent the cardinal virtues of Confucian ethics—the spiritual and moral sustenance that should guide human life.

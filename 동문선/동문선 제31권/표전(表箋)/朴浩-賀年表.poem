@@ -1,0 +1,38 @@
+canonical:
+  title: 賀年表
+  author: 朴浩
+  language: lzh
+  text: 七政周躔雅諧於元曆四時成歲甫届於初辰迎首祚之通眞浹臚言之獻慶中賀 伏惟聖上垂衣致理端扆凝休荒服之濱茂寧於禹畫巖廊之上常洽於舜遊屬人統之協期與天經而介祉臣等出司宮鑰阻聽京鍾望觚鳳之雙軒雖遙就覲奉角龜之千載第切祝延
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀年表
+  author: 朴浩
+  language: lzh
+  text: 七政周躔。雅諧於元曆。四時成歲。甫届於初辰。迎首祚之通眞。浹臚言之獻慶。中賀。 伏惟。聖上垂衣致理。端扆凝休。荒服之濱。茂寧於禹畫。巖廊之上。常洽於舜遊。屬人統之協期。與天經而介祉。臣等出司宮鑰。阻聽京鍾。望觚鳳之雙軒。雖遙就覲。奉角龜之千載。第切祝延。
+korean:
+  title: 신년을 하례하는 표
+  author: 박호
+  language: kor
+  text: 칠정(七政)이 제자리에 돌아와 새 역서(曆書)에 들어맞고 사시(四時)가 해[歲]를 이루어 이제 첫 철을 맞으니, 첫 복의 참됨을 맞이함에 당하여 군신(群臣)들의 경하(慶賀)가 마땅합니다. 중하(中賀) 엎드려 생각하니, 성상(聖上)께서 옷을 드리운 채 정치를 이루시고 옥좌(玉座)에 단정히 앉아 복을 받으시어, 머나먼 변방(邊邦)까지 우(禹)의 경내(境內)가 모두 펴안하고 조정의 위에서는 항상 순(舜) 임금을 모셔 흡족하니, 인통(人統)에 때 맞추어 천복(天福)이 그지없이 내리나이다. 신등이 외방(外方)에서 국경의 열쇠를 맡고 서울의 종소리를 듣지 못하여, 봉궐(鳳闕)의 쌍헌(雙軒)을 바라보며 들어가 조회(朝會)하지는 못하나 거북의 천년수(千年壽)를 받들어 간절히 축원하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우(禹)의 경내(境內) : '
+    value: 우(禹)가 홍수(洪水)를 다스려 국토를 안정시켰다 하여 중국을 ‘우의 경내’라 한다.
+  - key: '[주-D002] 인통(人統) : '
+    value: 자월(子月 동짓달)로 새해를 삼는 주(周)는 천통(天統)이요, 축월(丑月 섣달)로 새해를 삼는 은(殷)은 지통(地統)이요, 인월(寅月 정월)로 새해를 삼는 하(夏)는 인통(人統)이라 한다.
+english:
+  title: New Year's Congratulatory Memorial
+  author: Park Ho
+  language: eng
+  text: |-
+    The seven celestial bodies return to their proper stations, harmonizing with the new calendar's reckoning. The four seasons complete the year, now arriving at the first month. In welcoming the true fortune of the beginning, all officials rightfully offer their congratulations.
+
+    With deepest reverence, we observe: Your Majesty, with robes hanging loosely, brings order to the realm, seated upon the jade throne in serene majesty. From the distant borderlands to the imperial domain, all lands within Yu's territory flourish in peace and harmony. Within the palace halls above, the spirit of sage-ruler Shun ever graces this age. As the human order aligns with heaven's appointed time, boundless celestial blessing flows upon us.
+
+    We servants, stationed in distant provinces and charged with frontier duties, hear not the bells of the capital. Though our eyes gaze toward the twin eaves of the phoenix palace, and we cannot personally ascend for audience, we reverently invoke the thousand-year longevity of the celestial tortoise, offering our fervent prayers for your enduring reign.
+  footnotes:
+  - key: ''
+    value: Yu the Great, legendary founder of the Xia Dynasty, was celebrated for controlling the great flood and bringing stability to the realm; thus 'Yu's territory' became a classical reference to the civilized domain.
+  - key: ''
+    value: The 'human order' (人統) refers to beginning the year in the first lunar month, following the example of the Xia Dynasty—in contrast to the 'celestial order' of the Zhou (starting in the eleventh month) and the 'earthly order' of the Shang (starting in the twelfth month).

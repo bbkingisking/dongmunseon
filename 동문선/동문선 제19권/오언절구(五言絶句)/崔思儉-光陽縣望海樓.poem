@@ -1,0 +1,37 @@
+canonical:
+  title: 光陽縣望海樓
+  author: 崔思儉
+  language: lzh
+  text: 天遠雲帆小風輕麥浪飜公餘一登眺稽首感君恩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 光陽縣望海樓
+  author: 崔思儉
+  language: lzh
+  text: 天遠雲帆小。風輕麥浪飜。公餘一登眺。稽首感君恩。
+korean:
+  title: 광양현 망해루
+  author: 최사검
+  language: kor
+  text: |-
+    하늘이 머니 구름 돛폭은 작고
+    바람이 가벼우니 보리 물결이 번뜩인다
+    공사의 여가에 한 번 다락에 올라
+    느껴워라 임금 은혜 머리를 조아리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0390&viewSync=OT
+  footnotes: []
+english:
+  title: Looking to the Sea from the Tower at Gwangyang County
+  author: Choi Sa-geom
+  language: eng
+  text: |-
+    The heavens stretch distant, and the clouded sails grow small.
+    The wind blows gentle, and the barley waves shimmer.
+    In the leisure hours of office, I climb this tower once,
+    And bowing my head, I feel the boundless grace of my sovereign.
+  footnotes:
+  - key: ''
+    value: The tower overlooks both agricultural lands and the sea, representing the poet's dual awareness of both his earthly duties and his gratitude to the throne.
+  - key: ''
+    value: The image of small sails and rippling barley fields suggests a landscape of commerce and sustenance, through which the poet perceives the order and benevolence of royal rule.

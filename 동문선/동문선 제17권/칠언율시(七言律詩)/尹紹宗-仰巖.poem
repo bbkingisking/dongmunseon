@@ -1,0 +1,53 @@
+canonical:
+  title: 仰巖
+  author: 尹紹宗
+  language: lzh
+  text: 錦城城在海南邊大姒家邦五百年一葦甄王歸命路萬旟顯廟誓師天興龍寺外浮佳氣開界院前生白煙聖祖樓船迎此地東征今日思悠然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仰巖
+  author: 尹紹宗
+  language: lzh
+  text: 錦城城在海南邊。大姒家邦五百年。一葦甄王歸命路。萬旟顯廟誓師天。興龍寺外浮佳氣。開界院前生白煙。聖祖樓船迎此地。東征今日思悠然。
+korean:
+  title: 앙암
+  author: 윤소종
+  language: kor
+  text: |-
+    금성(나주)의 성이 남쪽 해변가에 있는데
+    오백 년 전에 국모가 예서 났네
+    한 척 배 타고 견훤이 이 길로 귀순해 왔고
+    만 깃발로 현묘께서 예서 출진 맹세했네
+    흥룡사 밖에 서기 아직 떠있고
+    개계원 앞에 흰 연기가 나는구나
+    성조(고려 태조)의 누선들 예서 맞았으니
+    동쪽으로 왜를 치는 오늘날 생각 그지 없어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 앙암(仰巖) : '
+    value: 나주(羅州) 금강(錦江) 남쪽 언덕에 있다.
+  - key: '[주-D002] 오백년 ……예서 났네 : '
+    value: 고려 태조의 장화왕후(莊和王后) 오씨(吳氏)는 목포(木浦)에서 났다. 태조가 수군(水軍)을 거느리고 나주로 출진하던 중 목포에 대었다가 후가 빨래하는 것을 보고 불러 관계하여 아들을 낳으니 그가 혜종(惠宗)이다. 뒤에 그 땅에 용흥사(龍興寺)를 지었다.
+english:
+  title: Yanggam
+  author: Yoon Sojong
+  language: eng
+  text: |-
+    Jincity stands on the southern shore, by the sea,
+    Where five hundred years past, a nation's mother was born.
+    By a single reed boat, Gyeonhwon came, surrendering his path,
+    And ten thousand banners—the Hyeonmyo sworn their oath to heaven here.
+    Beyond the Heungnyong Temple, auspicious mist still lingers,
+    White smoke rises before the Gaegye院's gates.
+    When the Sacred Founder's fleet came to meet this place,
+    Today, sailing east to strike the foe, my thoughts drift long and deep.
+  footnotes:
+  - key: ''
+    value: Yanggam is a rocky outcrop on the south bank of the Geumgang River near Naju.
+  - key: ''
+    value: The reference to 'a nation's mother' alludes to Queen Wu, mother of King Hyejong, who was born in this region and later recognized by the Goryeo founder.
+  - key: ''
+    value: The 'single reed boat' refers to Gyeonhwon's submission to Goryeo after the fall of Later Baekje.
+  - key: ''
+    value: The 'Sacred Founder' refers to Wang Geon, the founder of Goryeo, whose fleet gathered strength at this strategic location.

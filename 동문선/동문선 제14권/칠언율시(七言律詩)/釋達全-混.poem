@@ -1,0 +1,47 @@
+canonical:
+  title: 混
+  author: 釋達全
+  language: lzh
+  text: 花山往事有誰知今古興亡似弈碁玉輦行街渾作畝珠簾深巷半成池斬新楊柳幾多屋依舊杏花三兩枝細數盈虛春夢裏只堪大笑不堪悲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 混
+  author: 釋達全
+  language: lzh
+  text: 花山往事有誰知。今古興亡似弈碁。玉輦行街渾作畝。珠簾深巷半成池。斬新楊柳幾多屋。依舊杏花三兩枝。細數盈虛春夢裏。只堪大笑不堪悲。
+korean:
+  title: 이 정언 혼
+  author: 석달전
+  language: kor
+  text: |-
+    화산의 지난 일을 뉘라서 알리
+    고금의 흥망이 번복하기 바둑판 같아라
+    옥연이 다니던 길은 모두 밭이랑 되고
+    주렴을 늘였던 거리가 반쯤 연못이 되었네
+    새로 심은 버드나무 몇몇 집인고
+    의구하게 살구꽃이 두세 가지 피었구나
+    영허를 생각하니 한바탕 봄꿈이라
+    허허 크게 웃어나 볼까, 슬퍼해서 뭣하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0860&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화산(花山) : '
+    value: 고종(高宗) 때 옮겨 도읍했던 강도(江都)의 주산(主山).
+english:
+  title: Dissolution
+  author: Seok Dal-jeon
+  language: eng
+  text: |-
+    Who remembers the old days of Flower Mountain?
+    The rise and fall of ages tumbles like chess stones.
+    The jade palanquin's roads have all turned to fields,
+    And pearl-curtained streets have halfway become pools.
+
+    New willows planted here—how many roofs they shade,
+    Yet apricot blossoms bloom as they always did, just two or three branches.
+
+    Counting gain and loss in spring's dreaming,
+    Why grieve? Better to laugh, and laugh deeply.
+  footnotes:
+  - key: ''
+    value: Flower Mountain (花山) was the principal peak of Ganghwa Island (江都), the capital to which the Goryeo court relocated during the Mongol invasions.

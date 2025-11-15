@@ -1,0 +1,47 @@
+canonical:
+  title: 珍島江亭
+  author: 高兆基
+  language: lzh
+  text: 行盡林中路時回浦口船水環千里地山礙一涯天白日孤査客靑雲上界仙歸來多感物醉墨灑江煙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 珍島江亭
+  author: 高兆基
+  language: lzh
+  text: 行盡林中路。時回浦口船。水環千里地。山礙一涯天。白日孤査客。靑雲上界仙。歸來多感物。醉墨灑江煙。
+korean:
+  title: 진도 강정
+  author: 고조기
+  language: kor
+  text: |-
+    숲속의 길을 모조리 밟아 와서
+    때로 포구의 배를 돌려 타네
+    천 리 땅에 물이 삥 둘러 있고
+    하늘 끝을 산이 꽉 막은 곳
+    대낮에 외로운 떼[槎]를 탄 나그네는
+    청운에 올랐던 천상의 신선이었네
+    돌아오니 좋은 경(景)에 느낌이 하도 많아
+    취하여 시를 읊어서 강바람에 뿌리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: The Pavilion on the River of Jindo
+  author: Ko Jo-gi
+  language: eng
+  text: |-
+    I have walked every path through the forest,
+    Now I turn my boat at the harbor mouth.
+    Water rings the thousand-li expanse of earth,
+    Mountains block the far edge of heaven.
+    By daylight, a solitary wanderer on a wooden raft—
+    Once a celestial immortal riding the azure clouds.
+    Returning, my heart overflows with feeling for all things,
+    Drunk, I scatter my verses into the river wind.
+  footnotes:
+  - key: ''
+    value: The 'wooden raft' (槎) is a classical allusion to a legendary figure who journeyed beyond the mundane world, suggesting the poet's transcendent experience.
+  - key: ''
+    value: The contrast between the earthly wanderer and the celestial immortal reflects the poet's inner transformation through communion with nature.
+  - key: ''
+    value: Scattering verses 'into the river wind' evokes the Daoist ideal of returning one's creations to nature, suggesting a release from ego.

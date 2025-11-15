@@ -1,0 +1,33 @@
+canonical:
+  title: 又起居表
+  author: 崔惟淸
+  language: lzh
+  text: 賜履地偏靡有造趨之便擧頭日近每勞瞻仰之懷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 又起居表
+  author: 崔惟淸
+  language: lzh
+  text: 賜履地偏。靡有造趨之便。擧頭日近。每勞瞻仰之懷。
+korean:
+  title: 우 기거 표
+  author: 최유청
+  language: kor
+  text: 밟으라고[履] 주신 땅[封地]이 한쪽에 궁벽하게 있어 어전(御前)에 배알(拜謁)할 편(便)이 없사오나, 머리를 들면 해가 가까우니 우러러 바라다보는 회포가 간절하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 머리를 …… 가까우니 : '
+    value: 옆에 갈 수는 없어도 우러러볼 수 있는 것이 해다. 여기서는 황제에 비유하였다.
+english:
+  title: Another Memorial on Conduct and Residence
+  author: Choe Yuchung
+  language: eng
+  text: |-
+    The fief you granted me lies remote and sequestered,
+    Leaving me no ready path to approach your presence.
+    Yet when I lift my head, the sun hangs near,
+    And my yearning gaze reaches ever upward.
+  footnotes:
+  - key: ''
+    value: The sun here symbolizes the Emperor; though distance prevents physical proximity to the throne, one can always look heavenward in reverence.

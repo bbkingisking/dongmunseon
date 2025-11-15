@@ -1,0 +1,50 @@
+canonical:
+  title: 春晩
+  author: 李穡
+  language: lzh
+  text: 春晚南城遍綠蕪寂寥庭宇鳥相呼天陰欲雨連山暗花落猶風掃地無放膽幾年揮筆札乞身何日向江湖古來豪傑能輕世自笑區區一腐儒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春晩
+  author: 李穡
+  language: lzh
+  text: 春晚南城遍綠蕪。寂寥庭宇鳥相呼。天陰欲雨連山暗。花落猶風掃地無。放膽幾年揮筆札。乞身何日向江湖。古來豪傑能輕世。自笑區區一腐儒。
+korean:
+  title: 춘만
+  author: 이색
+  language: kor
+  text: |-
+    늦은 봄 성남에 풀이 우거졌는데
+    적적한 뜰엔 새가 서로 부르네
+    하늘이 비를 내리려니 산조차 침침하고
+    꽃이 떨어지자 바람이 모두 쓸어 가누나
+    호기 부리며 몇 해나 붓을 휘둘렀던고
+    몸을 빼쳐 어느 날 강호에 돌아가리
+    예로부터 호걸은 세상을 능히 깔보거늘
+    우습다 나는 구구한 썩은 선비 아닌가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0740&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 脕 : '
+    value: 晚
+english:
+  title: Spring's End
+  author: Lee Sek
+  language: eng
+  text: |-
+    Late spring brings wild grass over the southern walls,
+    In the desolate courtyard, birds call to one another.
+    The sky darkens with coming rain, mountains fade to shadow,
+    Flowers scatter—the wind sweeps them all away.
+
+    For years I wielded my brush with bold ambition,
+    When will the day come to withdraw to river and lake?
+    Since ancient times, great spirits have scorned the world,
+    Yet here I stand, laughing at myself—just a crumbling scholar.
+  footnotes:
+  - key: ''
+    value: The 'southern walls' (南城) reference the walls of a city or town, suggesting the speaker's current position in society or office.
+  - key: ''
+    value: '''River and lake'' (江湖) is a classical Chinese expression representing withdrawal from official life and society, a retreat into nature and solitude.'
+  - key: ''
+    value: The final couplet contrasts the heroic figures of old who could transcend worldly concerns with the speaker's own modest, compromised position as an aging scholar still bound by convention.

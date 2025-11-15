@@ -1,0 +1,46 @@
+canonical:
+  title: 燈夕
+  author: 金富軾
+  language: lzh
+  text: 城闕深嚴更漏長燈山火樹粲交光綺羅縹緲春風細金碧鮮明曉月涼華盖正高天北極玉爐相對殿中央君王恭默踈聲色弟子休誇百寶粧
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 燈夕
+  author: 金富軾
+  language: lzh
+  text: 城闕深嚴更漏長。燈山火樹粲交光。綺羅縹緲春風細。金碧鮮明曉月涼。華盖正高天北極。玉爐相對殿中央。君王恭默踈聲色。弟子休誇百寶粧。
+korean:
+  title: 등석
+  author: 김부식
+  language: kor
+  text: |-
+    성과 궁궐이 깊고 엄한데 경루가 길다
+    등불 산과 불나무가 어울려 찬란해라
+    가는 봄바람에 능라의상이 너훌너훌
+    서늘한 새벽달 아래 금빛ㆍ푸른빛 선연해라
+    어좌는 하늘 북극에 드높이 마련되고
+    옥로는 대궐 중앙에 마주 대해 놓여 있네
+    임금님 공묵하사 성색을 안 즐기시니
+    이원의 제자들아 백보장을 자랑 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이원(梨園)의 제자(弟子)들 : '
+    value: 이원제자((梨園弟子)ㆍ악공(樂工)ㆍ여기(女妓)들. 이원은 당현종(唐玄宗)이 영인(伶人)들을 모아 음악을 교수하던 곳이다.
+english:
+  title: The Evening of Lanterns
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The city walls stand deep and solemn as the night-watch drum sounds long.
+    Lantern mountains and fire-trees blaze in splendid, mingled light.
+    Gauze and silk drift gossamer-thin in the spring breeze's grace,
+    While beneath the cool dawn moon, gold and jade gleam crystalline and bright.
+
+    The canopy rises high, centered on heaven's northern pole,
+    As jade braziers face each other in the palace's heart.
+    The sovereign, dignified and still, shuns excess of song and sight—
+    So disciples of the Pear Garden, boast not of your hundred treasures' art.
+  footnotes:
+  - key: ''
+    value: The Pear Garden (梨園) was the imperial music academy of the Tang Dynasty where musicians and court entertainers were trained. Here they represent those who might be tempted to display their refined skills and luxurious adornments.

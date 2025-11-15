@@ -1,0 +1,102 @@
+canonical:
+  title: 羅州守
+  author: 金富軾
+  language: lzh
+  text: 今日朝廷寂異聞李公聲價獨超倫倦遊平昔諳時態力學多年識道眞皎皎胷襟蟠古劒凌凌風節拔霜筠雲閒羽翮橫千丈天上官班接七人未報國恩期粉骨敢將私計避嬰鱗嚴如夏日摧姦議輕却秋毫許國身巨室縮藏空睥睨懦夫感激立忠純一言已破邦家弊大用方宜社稷珍誰謂便辭靑瑣闥飜然出牧錦城民無功在位寧爲退不義多財豈似貧襦袴疲氓誠小幸牋毫餘事與誰陳宸心委任維無外文石何人蹈後塵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 羅州守
+  author: 金富軾
+  language: lzh
+  text: 今日朝廷寂異聞。李公聲價獨超倫。倦遊平昔諳時態。力學多年識道眞。皎皎胷襟蟠古劒。凌凌風節拔霜筠。雲閒羽翮橫千丈。天上官班接七人。未報國恩期粉骨。敢將私計避嬰鱗。嚴如夏日摧姦議。輕却秋毫許國身。巨室縮藏空睥睨。懦夫感激立忠純。一言已破邦家弊。大用方宜社稷珍。誰謂便辭靑瑣闥。飜然出牧錦城民。無功在位寧爲退。不義多財豈似貧。襦袴疲氓誠小幸。牋毫餘事與誰陳。宸心委任維無外。文石何人蹈後塵。
+korean:
+  title: 나주 수
+  author: 김부식
+  language: kor
+  text: |-
+    오늘날 조정에 이문이 적은 터에
+    이공의 성가가 누구보다도 뛰어나네
+    젊어 사방을 돌아다녀 세태를 알았고
+    여러 해 학문을 힘써 참된 도를 알았으니
+    맑디 맑은 가슴속엔 고검이 서렸는 듯
+    늠름한 절개는 서릿대가 쭉 뻗은 듯
+    구름 사이로 솟은 날개는 천 길이나 솟았고
+    조정의 벼슬자리는 칠인에 잇대어 있네
+    나라 은혜 갚고자 분골을 기약하니
+    몸만 위한 생각으로 역린을 피하오리
+    여름 해처럼 엄하게 간사한 의론을 꺾었고
+    추호만큼 가벼이 나라에 허한 몸
+    귀족들이 기가 질려 눈만 흘길 뿐
+    나부들도 감격하여 충절을 세우려네
+    국가의 폐단을 한 말로 깨쳤으니
+    사직의 보배로 크게 쓰임 마땅커늘
+    어쩌다가 문득 청쇄문을 하직하고
+    밖으로 나가 금성(나주(羅州)) 백성 다스리나
+    공 없이 위에 있는 이 차라리 물러날 것을
+    불의로 재물 많음 가난함만 못하네
+    피곤한 백성들 바지 있는 것 진실로 조그만 다행일세
+    여사인 문장은 누구와 함께 이야기할 것인가
+    임금님이 신임함은 내외직 구별 없으니
+    문석(文石)의 높았던 뜰에 어느 누가 뒤 이을 것인가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 칠인(七人) : '
+    value: 《효경(孝經)》에, “천자(天子)에게는 다투어 간하는 신하가 일곱이 있어야 한다.” 하였다. 여기서는 간원(諫院)을 말한 것이다.
+  - key: '[주-D002] 역린(逆鱗) : '
+    value: 용의 목 아래 직경 한 자나 되는 거슬 비늘이 있어 다치면 반드시 사람을 죽이는데, 임금도 거슬 비늘이 있으니 달래는 자가 임금의 거슬 비늘을 다치지 않으면 다행이다고 한다.
+  - key: '[주-D003] 여름 해처럼 엄하게 : '
+    value: 진(晉)나라 대부 조순(趙盾)이 엄하므로, 사람들이 “조순은 여름의 해이다. 여름 해는 두렵다.” 하였다.
+  - key: '[주-D004] 청쇄문(靑瑣門) : '
+    value: 한(漢)나라 궁궐의 문에 푸른 칠을 하였으므로, 일반적으로 궁문(宮門)을 지칭한다.
+  - key: '[주-D005] 피곤한 백성들 바지[袴] 있는 것 : '
+    value: 한나라 염범(廉範)이 촉군 태수(蜀郡太守)로 있을 때에 도시에, 집들이 서로 다닥다닥 붙었기 때문에 화재가 자주 나므로, 전의 태수는 영을 내려 밤에 불을 켜지 못하게 하였으므로 여자들이 밤에 길쌈을 하지 못하여 매우 불편하게 여겼다. 염범이 와서는 다만 방화(防火)할 물만 준비하게 하고 불켜는 것을 허락하였더니 백성들이 기뻐하여 노래를 부르기를, “전에는 홋옷도 없더니 지금은 바지가 다섯 개 씩이나 되네.” 하였다.
+  - key: '[주-D006] 여사(餘事) : '
+    value: 정치하는 여가에 글을 하므로 여사(餘事)라 하였다.
+  - key: '[주-D007] 문석(文石) : '
+    value: 한(漢)나라 매복(梅福)의 상소에, “원컨대 한 번 문석의 계단을 올라 생각한 바를 다 말하겠습니다.” 하였는데, 이는 궁궐을 뜻하는 말이다. 《漢書》
+english:
+  title: On the Governor of Naju
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    In these times when the court hears so little truth,
+    Li Gong's reputation stands alone, surpassing all.
+    He wandered far in youth and learned the ways of the world,
+    Studied hard for years to grasp the true path.
+
+    His heart shines bright as polished ancient steel,
+    His integrity stands firm as frost-bent bamboo.
+    His wings rise through the clouds a thousand lengths skyward,
+    His rank among the court joins the seven remonstrators.
+
+    He seeks to repay the nation with his very bones,
+    Never letting private gain sway him from duty's call.
+    Strict as the summer sun, he breaks through crooked counsel,
+    Light as autumn's smallest whisper, he holds nothing back for the realm.
+
+    Great families shrink in shame, their eyes cast down,
+    The timid find courage and stand firm in loyalty.
+    One word from him exposes the state's corruption,
+    Now he deserves great service to the throne and land.
+
+    Yet he suddenly left the palace gates behind
+    And went forth to govern the people of Naju.
+    Those without merit should step down from high office,
+    Whoever gains wealth through wrong is poorer than the poor.
+
+    That common folk now have clothes upon their backs—
+    This small blessing, with whom shall I discuss?
+    The Emperor's trust knows no distinction between court and field,
+    Who shall tread the path where the great Mei Fu once stood?
+  footnotes:
+  - key: ''
+    value: The 'seven remonstrators' refers to the Remonstrance Bureau (諫院), based on the Classic of Filial Piety which states the Son of Heaven should have seven ministers who dare to remonstrate.
+  - key: ''
+    value: The 'reverse scale' alludes to a dragon's vulnerable scale that, if touched, brings death. Here it represents the ruler's sensitivities that a loyal minister must navigate carefully.
+  - key: ''
+    value: 'The comparison to ''the summer sun'' references the stern integrity of Zhao Dun of the Jin dynasty, of whom it was said: ''Zhao Dun is like the summer sun—fearsome and bright.'''
+  - key: ''
+    value: Naju (羅州) is referred to poetically as Brocade City (錦城) in the original.
+  - key: ''
+    value: The reference to 'Wenshi' (文石) invokes the memory of Mei Fu of Han, who sought a chance to ascend the palace steps and speak truth to power—here suggesting that great administrators leave a legacy worthy of succession.

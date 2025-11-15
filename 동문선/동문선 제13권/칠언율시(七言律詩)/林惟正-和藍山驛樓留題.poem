@@ -1,0 +1,45 @@
+canonical:
+  title: 和藍山驛樓留題
+  author: 林惟正
+  language: lzh
+  text: 古驛登臨足勝遊舜欽 林泉乘興訪淸幽韓維 萬家煙樹千重綠齊己 千簇雲山萬壑流周貫 午夜溪聲來枕上揚蟠 百年心事到心頭樂天 曉來爲報樓西月錢起 且爲詩人更小留李紳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和藍山驛樓留題
+  author: 林惟正
+  language: lzh
+  text: 古驛登臨足勝遊。舜欽。 林泉乘興訪淸幽。韓維。 萬家煙樹千重綠。齊己。 千簇雲山萬壑流。周貫。 午夜溪聲來枕上。揚蟠。 百年心事到心頭。樂天。 曉來爲報樓西月。錢起。 且爲詩人更小留。李紳。
+korean:
+  title: 남산역루에서 유제에 화답하며
+  author: 임유정
+  language: kor
+  text: |-
+    낡은 역에 올라오니 흐뭇한 멋진 놀이 순흠(舜欽)
+    임천에 흥을 타서 그윽한 곳 찾아왔네 한유(韓維)
+    집집의 연기낀 나무는 천 겹으로 푸르구나 제기(齊己)
+    올망졸망 구름 낀 산엔 골짜기마다 흐르는 물 주관(周貫)
+    한밤중 시냇물소리가 베개맡에 들려 오니 양반(揚蟠)
+    한평생 지낸 심사가 마음에 떠오르는구나 낙천(樂天)
+    새벽녘 누각 서쪽 달에게 이르노니 전기(錢起)
+    잠깐 더 시인을 위해 머무른들 어떠리 이신(李紳)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0570&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem Left at Lanshan Relay Station Tower, in Response to Others
+  author: Lim Yu-jeong
+  language: eng
+  text: |-
+    Climbing the ancient relay station, what splendid pleasure greets the eye.
+    Following my heart through groves and waters, I seek the quiet, hidden place.
+    From every house the smoke-wreathed trees stretch forth in thousand-layered green.
+    Through misty mountains and clouded peaks, a thousand valleys flow with streams.
+    At the depth of night, the sound of the creek reaches my pillow,
+    And all the cares of my hundred years rise up to fill my heart.
+    At dawn I speak to the moon hanging west of this tower:
+    Why not linger a moment longer for the sake of poetry?
+  footnotes:
+  - key: ''
+    value: This is a collaborative poem (唱和詩), where each line was written by a different poet in response to previous verses. The names in parentheses indicate the original authors of each couplet being echoed.
+  - key: ''
+    value: Lanshan (藍山) Relay Station was a famous historical waystation where poets would gather and leave commemorative verses.

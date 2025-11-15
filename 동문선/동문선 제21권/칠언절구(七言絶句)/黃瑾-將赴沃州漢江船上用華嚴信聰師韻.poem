@@ -1,0 +1,43 @@
+canonical:
+  title: 將赴沃州漢江船上用華嚴信聰師韻
+  author: 黃瑾
+  language: lzh
+  text: 欲知民水載君舟要盡忠誠誠逸遊諫苑未能呈藥石長沙見謫不須愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 將赴沃州漢江船上用華嚴信聰師韻
+  author: 黃瑾
+  language: lzh
+  text: 欲知民水載君舟。要盡忠誠誠逸遊。諫苑未能呈藥石。長沙見謫不須愁。
+korean:
+  title: 장부옥주한강선상용화엄신총사운
+  author: 황근
+  language: kor
+  text: |-
+    백성의 물이 임금의 배를 띄우는 법을 알려고 하면
+    반드시 충성을 다하여 높이 하는 것을 간할 것이거늘
+    간원에서 능히 약석을 드리지 못하였으니
+    장사로 귀양가는 것 불평할 것이 없다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백성의 물 : '
+    value: 옛 글에, ‘백성은 물과 같고 임금은 배와 같은데, 물은 배를 띄우기도 하는 동시에 배를 엎기도 한다.’는 말이 있다.
+  - key: '[주-D002] 장사(長沙) : '
+    value: 한(漢)나라 가의(賈誼)가 장사(長沙)에 좌천되어 갔으므로 귀양살이를 장사라 한다.
+english:
+  title: On the Han River Boat Heading to Okju, Using the Rhymes of Master Sinchong of Hwaeom
+  author: Hwang Geun
+  language: eng
+  text: |-
+    To understand how the people's waters bear the ruler's boat,
+    One must exhaust all loyalty and speak truth to power's ear.
+    Yet from the remonstrance garden I could not offer medicine and stone,
+    So to Changsha's exile I go without complaint.
+  footnotes:
+  - key: ''
+    value: 'The ''people''s waters'' alludes to an ancient maxim: ''The people are like water and the ruler like a boat; water both sustains the boat and can overturn it.'' This poem reflects on the mutual dependence between ruler and ruled.'
+  - key: ''
+    value: Changsha refers to the historical exile of Jia Yi during the Han Dynasty. The reference transforms personal banishment into a noble precedent.
+  - key: ''
+    value: The poet laments his inability to offer 'medicine and stone'—a metaphor for honest counsel and moral correction—suggesting his remonstrance went unheeded at court.

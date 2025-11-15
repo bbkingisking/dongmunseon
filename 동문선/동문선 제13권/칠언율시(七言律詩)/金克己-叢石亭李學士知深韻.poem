@@ -1,0 +1,53 @@
+canonical:
+  title: 叢石亭李學士知深韻
+  author: 金克己
+  language: lzh
+  text: 東遊大壑訪鴻濛萬象奔趨一望中石束鸞笙臨碧海松飛孔蓋向靑空大聲拂耳鯨牙浪寒氣侵膚鶴羽風恐我前身非俗士眞遊亦與四仙同
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 叢石亭李學士知深韻
+  author: 金克己
+  language: lzh
+  text: 東遊大壑訪鴻濛。萬象奔趨一望中。石束鸞笙臨碧海。松飛孔蓋向靑空。大聲拂耳鯨牙浪。寒氣侵膚鶴羽風。恐我前身非俗士。眞遊亦與四仙同。
+korean:
+  title: 총석정에서 이학사 지심의 운
+  author: 김극기
+  language: kor
+  text: |-
+    동으로 바다에 놀아 홍몽 세계를 찾으니
+    한 번 전망에 만상이 모두 달려오네
+    난새 피리를 돌로 묶어 창해에 임한 듯
+    솔은 공자의 일산을 날려 푸른 공중을 향하였네
+    큰 소리가 귀 울리니 고래 이빨의 물결이요
+    찬 기운이 살 스치니 학의 날개의 바람일세
+    아마도 내 전신이 속사는 아니었던 듯
+    신선으로 놀기가 사선과도 같아라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0450&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 난새[鸞] 피리를 …… 임한 듯 : '
+    value: 총석정의 돌이 난봉(鸞鳳)의 곡조를 부는 신선의 피리를 모아 묶어 놓은 것 같다는 뜻이다.
+  - key: '[주-D002] 솔은 공자(孔子)의 …… 향하였네 : '
+    value: 공자가 길에서 정자(程子)를 만나 일산을 비스듬이 기울이고 이야기한 일이 있다. 여기서는 솔이 일산과 같다는 말이다.
+  - key: '[주-D003] 사선(四仙) : '
+    value: 총석정은 통천(通川)에 있다. 전설에 신라의 술랑(述郞)ㆍ남랑(南郞)ㆍ영랑(永郞)ㆍ안상(安詳)이 여기에서 유상(游賞)하였다 하여 사선봉(四仙峯)이라 한다.
+english:
+  title: 'At Chongseok Pavilion: In the Rhyme of Scholar Lee Jisim'
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Eastward I wander through the great gorge, seeking the realm of primordial chaos.
+    In one sweeping gaze, ten thousand phenomena rush toward me.
+    Stones bind the phoenix-pipes against the azure sea,
+    While pines fly like parasols of the sage toward the blue void.
+    A great roar fills my ears—the waves of whale-tooth whitecaps,
+    And piercing cold brushes my skin—the wind of crane-wings.
+    I fear my former self was never merely mortal,
+    For to roam as a divine being here is to walk with the Four Immortals.
+  footnotes:
+  - key: ''
+    value: The stones of Chongseok Pavilion are said to resemble sacred pipes gathered and bound by celestial immortals, producing the melodies of phoenix and crane.
+  - key: ''
+    value: The pines are compared to the tilted parasol of Confucius—imagery suggesting timeless wisdom made manifest in nature.
+  - key: ''
+    value: The Four Immortals refers to the legendary Silla monks Sulrang, Namrang, Yeongrang, and Ansang, said to have gathered at this very place for divine revels.

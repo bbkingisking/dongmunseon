@@ -1,0 +1,37 @@
+canonical:
+  title: 晩山圖
+  author: 徐居正
+  language: lzh
+  text: 嵳峩古樹與雲參石老岩奇水滿潭更欲乘鸞吹鐵笛夜深明月過江南
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 晩山圖
+  author: 徐居正
+  language: lzh
+  text: 嵳峩古樹與雲參。石老岩奇水滿潭。更欲乘鸞吹鐵笛。夜深明月過江南。
+korean:
+  title: 만산도
+  author: 서거정
+  language: kor
+  text: |-
+    높고 높은 늙은 나무가 구름에 닿았는데
+    들은 늙고 바위는 기이하고 물은 못에 가득하다
+    다시 난새를 타려고 날라리를 불면서
+    깊은 밤 밝은 달에 강남을 지나간다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0120&viewSync=OT
+  footnotes: []
+english:
+  title: Painting of Evening Mountains
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Lofty ancient trees brush against the clouds,
+    Rocks grow old, cliffs turn strange, waters fill the pond.
+    I long to ride the celestial bird, blowing the iron flute,
+    And pass through Gangnam beneath the bright moon of deep night.
+  footnotes:
+  - key: ''
+    value: The 'iron flute' (iron whistle) is a mystical instrument associated with immortals and celestial beings in Chinese and Korean poetry, suggesting transcendence beyond the mortal realm.
+  - key: ''
+    value: Gangnam (江南), literally 'south of the river,' traditionally refers to the fertile lands south of the Yangtze River in Chinese poetry, but here evokes a distant, ethereal land the speaker wishes to traverse.

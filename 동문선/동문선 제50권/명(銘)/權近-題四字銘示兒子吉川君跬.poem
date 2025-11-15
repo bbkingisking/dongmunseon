@@ -1,0 +1,64 @@
+canonical:
+  title: 題四字銘示兒子吉川君跬
+  author: 權近
+  language: lzh
+  text: 公公則不私心淸無慾事出至當是謂正直勤勤則不怠孜孜罔愆職無廢弛是謂忠賢寬寬則不苛事皆仁厚君子之德慶流于後信信則不妄持之以誠堅守其意毋自變更
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題四字銘示兒子吉川君跬
+  author: 權近
+  language: lzh
+  text: 公公則不私。心淸無慾。事出至當。是謂正直。勤勤則不怠。孜孜罔愆。職無廢弛。是謂忠賢。寬寬則不苛。事皆仁厚。君子之德。慶流于後。信信則不妄。持之以誠。堅守其意。毋自變更。
+korean:
+  title: 사자명을 써서 아들 길천 군규에게 보임
+  author: 권근
+  language: kor
+  text: |-
+    공(公)공정하면 사사롭지 않다
+    마음이 맑아 욕심 없고
+    행사는 지당하게 된다
+    이것을 정직이라 하느니라
+    근(勤)근하면 게으르지 않다
+    부지런히 하여 허물짓지 않으면
+    직무를 폐기할 까닭도 없다
+    이것을 충현이라 하느니라
+    관(寬)너그러우면 가혹함이 없어
+    일마다 인후할 것이다
+    군자의 덕이니
+    경사가 훗날까지 미치느니라
+    신(信)미덥게 하면 허망하지 않나니
+    가지기를 지성으로 하라
+    그 뜻을 굳게 지켜
+    스스로 변경하지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_010_0080&viewSync=OT
+  footnotes: []
+english:
+  title: Four-Character Teachings Inscribed and Presented to My Son, the Lord of Gilcheon
+  author: Gwon Geun
+  language: eng
+  text: |-
+    Impartiality—when the heart is just, it harbors no selfish desire.
+    The mind grows clear, free from craving,
+    and all deeds flow from rightness itself.
+    This is what we call Integrity.
+
+    Diligence—when effort is constant, laziness finds no purchase.
+    With earnest application, faults are prevented,
+    and duties never fall to ruin.
+    This is what we call Loyalty and Virtue.
+
+    Generosity—when the heart is broad, harshness dissolves.
+    All affairs become touched by benevolence,
+    becoming the virtue of the noble man,
+    and blessings flow down through generations yet unborn.
+
+    Trustworthiness—when faith is true, falsehood cannot take hold.
+    Hold fast to sincerity,
+    keep steadfast your purpose,
+    and never alter your path by your own hand.
+  footnotes:
+  - key: ''
+    value: 'This work is structured as a moral primer, each quatrain beginning with a single Chinese character (公勤寬信) representing core Confucian virtues: Impartiality, Diligence, Generosity, and Trustworthiness.'
+  - key: ''
+    value: Gwon Geun (1352-1409) was a prominent Neo-Confucian scholar and official of the Joseon Dynasty, known for his philosophical writings and moral instruction to his descendants.

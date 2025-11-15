@@ -1,0 +1,58 @@
+canonical:
+  title: 韓相國文俊挽詞
+  author: 李仁老
+  language: lzh
+  text: 靑雲振翮早飛英白髮歸休也稱情再向池邊看浴鳳三回谷口放遷鶯雖無膝下王文度尙有林間阮始平憶昨笙歌侵夜散那知春夢曉來驚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 韓相國文俊挽詞
+  author: 李仁老
+  language: lzh
+  text: 靑雲振翮早飛英。白髮歸休也稱情。再向池邊看浴鳳。三回谷口放遷鶯。雖無膝下王文度。尙有林間阮始平。憶昨笙歌侵夜散。那知春夢曉來驚。
+korean:
+  title: 한상국문준 만사
+  author: 이인로
+  language: kor
+  text: |-
+    청운에 날개를 떨쳐 일찍 날리다가
+    늘그막에 돌아가 쉬니 당신 마음도 흐뭇했네
+    두 번 못가에 목욕하는 봉을 보았고
+    세 번이나 골짜기서 읆는 꾀꼬리를 놓았네
+    슬하에 왕문도는 없으나
+    죽림에 오히려 완시평은 있네
+    바로 어제 생가로 밤깊어 헤어졌더니
+    새벽에 금시 봄꿈에 놀라 깰 줄이야
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두 번 …… 봉 : '
+    value: 두 번 한림(翰林)으로 재직했음을 뜻한다.
+  - key: '[주-D002] 세 번이나 …… 놓았네 : '
+    value: 세 번 과거의 시관(試官)으로 급제자들을 뽑았음을 뜻한다.
+  - key: '[주-D003] 슬하(膝下)에 왕문도(王文度) : '
+    value: 왕문도는 진(晋)나라 왕탄지(王坦之)의 자(字)이다. 그의 아버지 왕술(王術)이 아들을 사랑하여 아들이 자란 뒤에도 무릎 위에 앉게 하였다.
+  - key: '[주-D004] 죽림(竹林)에 …… 있네 : '
+    value: 진(晋)나라 완함(阮咸). 그의 끝 벼슬이 시평태수(始平太守 죽림칠현(竹林七賢)의 하나.) 숙부 적(籍)과 이름을 가지런히 하였다. 여기서는 어진 조카가 있다는 뜻이다.
+english:
+  title: Elegy for Prime Minister Mun Joon of Han
+  author: Lee In-ro
+  language: eng
+  text: |-
+    On azure clouds he beat his wings and soared on high,
+    Yet in his twilight rest, his heart found peace—how right.
+    Twice did he bathe the phoenix by the garden pool,
+    Thrice set the orioles free from valley's gentle call.
+
+    No son sits cradled on his lap like Wang's of old,
+    Yet in the bamboo grove, wise Ruan's heir remains.
+    Yesternight we parted deep in music's reveling song,
+    Only to wake at dawn, startled from spring's fleeting dream.
+  footnotes:
+  - key: ''
+    value: The phoenix bathing twice refers to his two appointments as a scholar-official, a position of great honor.
+  - key: ''
+    value: The orioles set free thrice alludes to his three times selecting successful examination candidates as chief examiner—a duty of high trust and influence.
+  - key: ''
+    value: The reference to Wang Wend'o evokes a father's deep love for his son; the poem subtly suggests Minister Mun lacked such filial devotion, yet found wisdom in those around him.
+  - key: ''
+    value: Ruan Shiping, of the Seven Sages of the Bamboo Grove, represents cultivated virtue and worthy successors—suggesting Minister Mun's legacy lives on through talented disciples.

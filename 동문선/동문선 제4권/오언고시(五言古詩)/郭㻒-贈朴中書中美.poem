@@ -1,0 +1,57 @@
+canonical:
+  title: 贈朴中書中美
+  author: 郭㻒
+  language: lzh
+  text: 憶昔夢大槐門多車馬賓揮之竟不去伺候何逡廵自從賦歸來東閣凝素塵朴侯不遺舊至今來頻頻靑靑松栢秋馥馥芝蘭春美矣君子哉淸風驚俗倫
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈朴中書中美
+  author: 郭㻒
+  language: lzh
+  text: 憶昔夢大槐。門多車馬賓。揮之竟不去。伺候何逡廵。自從賦歸來。東閣凝素塵。朴侯不遺舊。至今來頻頻。靑靑松栢秋。馥馥芝蘭春。美矣君子哉。淸風驚俗倫。
+korean:
+  title: 중서 박중미에게
+  author: 곽균
+  language: kor
+  text: |-
+    옛날 큰 회나무 꿈 꿀 때
+    문앞에는 수레 말 탄 손이 많았네
+    아무리 뿌리쳐도 끝내 가지 않고
+    문안하려고 어이 그리 머뭇거리던고
+    귀거래사 시 지은 뒤로
+    동각에는 뽀얀 먼지 덮이었네
+    박후는 구정을 버리지 않고
+    지금도 자주 찾아오나니
+    소나무 잣나무는 가을에 청청하고
+    지초와 난초는 봄에 향기로워라
+    아름답구나 그대는 군자로세
+    맑은 바람은 속된 무리 깨쳐 주네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 큰 회나무 꿈 : '
+    value: 당나라 소설 《남가기(南柯記)》에서 나온 말인데, 낮잠을 자다가 꾼 꿈에, 대괴국(大槐國)에 가서 남가태수(南柯太守)로 영화를 누리다가 깨어서 살펴본즉, 뜰 앞에 있는 큰 괴목(槐木)이 대괴국이었고, 남가군(南柯郡)은 그 괴목의 남쪽 가지였다.
+english:
+  title: Gift Poem for Park Joong-mi, Ministry of Personnel
+  author: Gwak Gyun
+  language: eng
+  text: |-
+    I recall when I dreamed of a great parasol tree—
+    The gate was crowded with carriages and horses, visitors thronging.
+    No matter how I turned them away, still they lingered,
+    Reluctant to depart, hesitating at the threshold.
+    Since I composed my "Return" poem and withdrew,
+    White dust settles thick upon my eastern study.
+    Yet Park, faithful friend, does not forget the old days—
+    Still he comes to call, again and again.
+    The pine and cypress stand green through autumn's chill,
+    The orchids and zhilan perfume spring's awakening.
+    What beauty in a man of noble virtue!
+    A clear wind sweeps across the mundane masses below.
+  footnotes:
+  - key: ''
+    value: The "great parasol tree dream" alludes to the Tang tale of the South Branch, wherein a dreamer finds glory and office only to wake and discover it was all a vision within the branches of a single tree—a metaphor for the fleeting nature of worldly fortune and the wisdom of retreat.
+  - key: ''
+    value: '"Return" poem (歸去來) references Tao Yuanming''s famous poem on retiring from public life, suggesting the speaker''s own withdrawal from active service.'
+  - key: ''
+    value: The imagery of pine, cypress, orchids, and zhilan evokes constancy, integrity, and moral refinement—traditional symbols of the virtuous gentleman.

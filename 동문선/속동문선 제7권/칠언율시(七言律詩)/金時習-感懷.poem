@@ -1,0 +1,49 @@
+canonical:
+  title: 感懷
+  author: 金時習
+  language: lzh
+  text: 四十三年事已非此身全與壯心違神魚九變騰千里大鳥三年欲一蜚洗耳更尋東澗水療飢薄采北山薇從今陟覺歸歟處雪竹霜筠老可依
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 感懷
+  author: 金時習
+  language: lzh
+  text: 四十三年事已非。此身全與壯心違。神魚九變騰千里。大鳥三年欲一蜚。洗耳更尋東澗水。療飢薄采北山薇。從今陟覺歸歟處。雪竹霜筠老可依。
+korean:
+  title: 감회
+  author: 김시습
+  language: kor
+  text: |-
+    43년의 일이 이미 다 글렀나니
+    이 몸은 전혀 컸던 뜻과 어긋났네
+    신어는 아홉 번 변해 천 리를 나는데
+    큰 새는 3년에 한 번 날려 한다
+    귀를 씻으려 다시 동쪽 개울 물을 찾고
+    주림을 달래려 북쪽 산의 고사리를 캐었네
+    지금부터 돌아갈 곳을 비로소 깨달았나니
+    눈 속의 대나무와 서릿발의 죽순은 늙어서 의지할 만하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0870&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 큰 새는 …… 한다 : '
+    value: 춘추 시대 초(楚)나라의 장왕이 왕이 된 지 3년이 되어도 아무런 정치도 하지 아니 하므로 그 신하가 왕에게, “어느 곳에 큰 새가 있는데 3년 동안을 날지 아니하니 어찌된 것인지 모르겠습니다.” 하니, 왕이 대답하기를, “3년을 날지 않았어도 날면 하늘에 닿도록 크게 날 것이니, 좀 기다려 보아라.” 하고, 다시 정치를 잘하여 나라를 훌륭하게 만들었다.
+english:
+  title: Reflections on the Heart
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    Forty-three years have passed, and all things have changed.
+    This body has drifted far from the ambitions of my youth.
+    The sacred fish transforms nine times, soaring a thousand leagues,
+    While the great bird waits three years before it spreads its wings to fly.
+    I wash my ears again, seeking the waters of the eastern stream,
+    And gather fiddlehead ferns from northern hills to ease my hunger.
+    At last I understand where I must return,
+    And find refuge in the snow-laden bamboo and frost-touched shoots of my twilight years.
+  footnotes:
+  - key: ''
+    value: The allusion to the great bird waiting three years refers to a Chu dynasty king who refrained from governance for three years, then rose to great achievement—a metaphor for potential realized through patience and proper timing.
+  - key: ''
+    value: The imagery of washing ears and gathering ferns evokes the Daoist sage who withdraws from the world to seek spiritual purity and sustenance from nature.
+  - key: ''
+    value: The closing image of snow-laden bamboo and frost-touched shoots suggests finding peace and acceptance in old age, where one becomes resilient and rooted like enduring plants.

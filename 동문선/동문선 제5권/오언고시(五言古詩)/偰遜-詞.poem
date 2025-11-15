@@ -1,0 +1,116 @@
+canonical:
+  title: 詞
+  author: 偰遜
+  language: lzh
+  text: 皎皎天上月照此秋夜長悲風西北來蟋蟀鳴我床君子遠行役賤妾守空房空房不足恨感子寒無裳皎皎天上月休照玉門關金戈相磨戛中夜絺綌寒良人昔告別豈謂歸路難徘徊一西望令我摧心肝天上月皎皎中宵入羅帷白露裛淸碪音響有餘悲敢辭今夕勞游子何時歸沈憂不能寐焉得凌雲飛擣擣閨中練裁縫如霜雪緘題寄邊庭中有淚成血婦人得所歸終始惟一節云胡妾薄命與君長相別嗈嗈雲閒鴈飛鳴亦何哀豈無一書札欲寄復徘徊願言各努力賤妾不足懷君亮執精忠妾當死中閨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詞
+  author: 偰遜
+  language: lzh
+  text: 皎皎天上月。照此秋夜長。悲風西北來。蟋蟀鳴我床。君子遠行役。賤妾守空房。空房不足恨。感子寒無裳。皎皎天上月。休照玉門關。金戈相磨戛。中夜絺綌寒。良人昔告別。豈謂歸路難。徘徊一西望。令我摧心肝。天上月皎皎。中宵入羅帷。白露裛淸碪。音響有餘悲。敢辭今夕勞。游子何時歸。沈憂不能寐。焉得凌雲飛。擣擣閨中練。裁縫如霜雪。緘題寄邊庭。中有淚成血。婦人得所歸。終始惟一節。云胡妾薄命。與君長相別。嗈嗈雲閒鴈。飛鳴亦何哀。豈無一書札。欲寄復徘徊。願言各努力。賤妾不足懷。君亮執精忠。妾當死中閨。
+korean:
+  title: 수자리 사는 사람의 아내가 옷을 다듬는 사
+  author: 설손
+  language: kor
+  text: |-
+    희고도 밝은 달이
+    기나긴 가을 밤을 비쳐주나니
+    슬픈 바람은 서북에서 불어 오고
+    귀뚜리는 내 평상에서 운다
+    그대는 멀리 수자리에 나갔는데
+    천한 첩은 빈 방을 홀로 지킨다
+    빈 방이야 한할 것 무엇이랴만
+    추워도 님이 없는 그대가 걱정일세
+    희고도 밝은 하늘의 달아
+    부디 옥문관에 비치지 말라
+    쇠창이 서로 부딪쳐 비벼대리니
+    이 밤중에 아직도 입고 있는 여름옷 얼마나 추울까
+    임이 전날 작별 고할 때
+    어찌 돌아오기 어려울 줄 알았으랴
+    배회하며 서쪽을 바라보나니
+    이내 간장 터질 듯하네
+    하늘의 달이 희고도 밝아
+    한밤에 비단 휘장으로 들어오네
+    흰 이슬은 맑은 다듬잇돌에 젖는데
+    방망이 소리에는 슬픔이 함빡
+    어이 오늘 밤 수고를 사양하랴
+    먼 곳에 있는 사람 어느 때 돌아오리
+    시름에 젖어 잠 못 이루니
+    어찌면 구름 헤쳐 날아 갈까
+    옷감 다듬고 또 다듬어
+    서리나 눈처럼 만들었나니
+    싸고 또 싸서 변방에 부치오니
+    그 속에 눈물은 피가 되었네
+    여자는 한 번 시집을 가면
+    언제나 오직 한 절개
+    첩은 어이 이렇게 박명하여
+    그대와 서로 길이 이별해 있는고
+    기럭기럭 구름 속에 우는 기러기
+    나르며 우는 소리 어찌 그리 슬픈고
+    편지 한 장 없으니
+    부치려다 다시 주저한다
+    원컨대 각각 노력하소
+    천첩일랑은 생각할 것 없소
+    그대 진실로 충성을 다한다면
+    첩은 마땅히 규방에서 죽으리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옥문관(玉門關) : '
+    value: 서역(西域)과의 경계에 있는 관문인데, 수졸(戍卒)들이 여기로 끌려가서 수자리한다.
+english:
+  title: A Wife Mending Clothes While Her Husband Stands Guard at the Border
+  author: Seol Son
+  language: eng
+  text: |-
+    Bright and clear, the moon above
+    illuminates this long autumn night.
+    A mournful wind blows from the northwest,
+    and crickets sing upon my bed.
+
+    You have gone far to keep the garrison,
+    while this humble wife guards an empty room.
+    The empty room itself brings no complaint,
+    yet my heart aches—you, unclothed in the cold.
+
+    Bright and clear, O moon in heaven,
+    do not shine upon the Jade Gate Pass!
+    The clash of arms rings out in battle,
+    and still at midnight the summer clothes hang thin.
+    When you bade farewell that day,
+    how could I have known the return would be so hard?
+    I gaze westward in anguish,
+    and feel my very heart torn asunder.
+
+    The moon above shines clear and bright,
+    stealing through the silk curtains at night.
+    White dew clings to the laundering stone,
+    and each beat of the mallet carries sorrow.
+    How could I refuse this night's labor?
+    When will you, distant wanderer, come home?
+    Weighed down by worry, I cannot sleep—
+    oh, to sprout wings and fly through the clouds!
+
+    I beat and beat the fabric smooth,
+    making it white as frost and snow.
+    I seal it tight and send it to the borderlands,
+    and my tears within turn into blood.
+    When a woman takes a husband,
+    she pledges one unwavering devotion.
+    Yet how cursed is my fate,
+    to be parted from you for all these years?
+
+    The geese cry out among the clouds,
+    their flight and call—such sorrow!
+    Not one letter has arrived,
+    and I hesitate to send my words.
+    I only pray we both hold fast:
+    do not think of me, a humble wife.
+    If you, my lord, keep true to honor,
+    I shall remain faithful unto death within these chambers.
+  footnotes:
+  - key: ''
+    value: The Jade Gate Pass (玉門關) was the frontier gateway to the Western Regions, where soldiers were posted for garrison duty.
+  - key: ''
+    value: The mallet and stone mentioned are traditional tools for fulling and finishing cloth, a common task for women whose husbands were away at the borders.

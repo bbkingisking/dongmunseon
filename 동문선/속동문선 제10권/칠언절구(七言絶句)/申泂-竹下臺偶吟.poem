@@ -1,0 +1,35 @@
+canonical:
+  title: 竹下臺偶吟
+  author: 申泂
+  language: lzh
+  text: 桃花欲謝奈花開故故淸香竹下臺對樹忍看春晼晩隔簾還見鷰歸來
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 竹下臺偶吟
+  author: 申泂
+  language: lzh
+  text: 桃花欲謝奈花開。故故淸香竹下臺。對樹忍看春晼晩。隔簾還見鷰歸來。
+korean:
+  title: 죽하대 우음
+  author: 신형
+  language: kor
+  text: |-
+    복숭아꽃 지려 하고 벚꽃은 피었는데
+    대 아래 돈대 위에 맑은 향내 짐짓 풍기어라
+    숲과 마주앉아 늦은 봄빛 차마 보랴
+    주렴 밖을 보노라니 옛 제비 돌아오네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0190&viewSync=OT
+  footnotes: []
+english:
+  title: Impromptu Verses Beneath the Bamboo Pavilion
+  author: Shin Hyung
+  language: eng
+  text: |-
+    The peach blossoms fade, yet the cherry blooms unfold—
+    on the terrace beneath the bamboo, pristine fragrance drifts.
+    Facing the trees, I cannot bear to watch spring's twilight,
+    but through the curtain's veil, the swallows return.
+  footnotes:
+  - key: ''
+    value: The juxtaposition of fading peach blossoms and blooming cherry flowers suggests the bittersweet passage of spring and the transience of beauty. The swallows' return in the final line may symbolize renewal or the cyclical nature of life, contrasting with the speaker's melancholic reluctance to witness spring's decline.

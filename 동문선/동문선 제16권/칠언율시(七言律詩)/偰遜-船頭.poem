@@ -1,0 +1,46 @@
+canonical:
+  title: 船頭
+  author: 偰遜
+  language: lzh
+  text: 船頭潺潺逬水聲篷上淅淅晚風生靑山如龍入雲去白浪捲花飛雪明日落平疇群鴈集天涯倦客一身輕故鄕歲晏不歸去拔劒長吟無限情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 船頭
+  author: 偰遜
+  language: lzh
+  text: 船頭潺潺逬水聲。篷上淅淅晚風生。靑山如龍入雲去。白浪捲花飛雪明。日落平疇群鴈集。天涯倦客一身輕。故鄕歲晏不歸去。拔劒長吟無限情。
+korean:
+  title: 선두
+  author: 설손
+  language: kor
+  text: |-
+    뱃머리에 물 소리 찰싹찰싹
+    대 뜸에 우수수 늦바람이 불어오네
+    청산은 용처럼 구름 속으로 들어가고
+    흰 물결은 꽃을 말아 눈송이를 날리누나
+    해 진 벌판에 기러기 떼는 모여드는데
+    하늘 가 지친 나그네는 한 몸이 가볍네
+    해가 저물어도 고향엔 못 돌아가니
+    검 잡고 길이 읊으매 그지없는 내 정한
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0520&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 흰 물결은 꽃 : '
+    value: 물결이 솟구쳐 흰 꽃처럼 되는 것을 낭화(浪花)라 한다.
+english:
+  title: At the Bow
+  author: Seol Son
+  language: eng
+  text: |-
+    At the bow, the water murmurs—splashing, splashing.
+    Above the sail, the evening breeze whispers and stirs.
+    The blue mountains rise like dragons into the clouds and vanish,
+    White waves roll up flowers and scatter snowflakes bright.
+
+    As the sun sets over the plain, flocks of geese gather and descend,
+    Yet this weary traveler at heaven's edge grows light of spirit.
+    The year fades, but I cannot return to my homeland—
+    So I grasp my sword and sing endless verses of longing.
+  footnotes:
+  - key: ''
+    value: The 'flowers' in 'white waves roll up flowers' refers to the white foam of crashing waves, a phenomenon known in Chinese poetry as langhua (浪花), literally 'wave-flowers.'

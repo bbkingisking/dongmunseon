@@ -1,0 +1,45 @@
+canonical:
+  title: 洪武丁巳奉使日本作
+  author: 鄭夢周
+  language: lzh
+  text: 水國春光動天涯客未行草連千里綠月共兩鄕明遊說黃金盡思歸白髮生男兒四方志不獨爲功名
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 洪武丁巳奉使日本作
+  author: 鄭夢周
+  language: lzh
+  text: 水國春光動。天涯客未行。草連千里綠。月共兩鄕明。遊說黃金盡。思歸白髮生。男兒四方志。不獨爲功名。
+korean:
+  title: 홍무 정사년에 일본으로 사신가서 지음
+  author: 정몽주
+  language: kor
+  text: |-
+    물나라에 봄빛은 움직이는데
+    하늘가에 손은 돌아가지 못하네
+    풀은 천리를 연해 푸르렀고
+    달은 두 나라에 함께 비치리
+    유세하노라 황금은 다되었고
+    가고픈 마음으로 백발이 나네
+    남아 사방의 뜻은
+    한갓 공명을 위한 것만은 아닐세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0330&viewSync=OT
+  footnotes: []
+english:
+  title: Written During a Mission to Japan in the Dingsi Year of the Hongwu Era
+  author: Jeong Mongju
+  language: eng
+  text: |-
+    Spring's light stirs across the water kingdom,
+    yet the traveler on the horizon's edge cannot return home.
+    Grass stretches green for a thousand leagues,
+    while the moon shines equally on two lands.
+
+    I have spent myself in persuasion and diplomacy—
+    the gold of words now exhausted—
+    and with longing to return, white hairs have sprouted.
+    But the ambitions of a man who roams the four directions
+    are not merely for glory and fame.
+  footnotes:
+  - key: ''
+    value: The poem was written during Jeong Mongju's diplomatic mission to Japan during the Hongwu reign of the Ming Dynasty. 'Water kingdom' (물나라) refers to Japan across the sea. The contrast between the two lands under the same moon reflects the poet's sense of separation and shared humanity despite political distance.

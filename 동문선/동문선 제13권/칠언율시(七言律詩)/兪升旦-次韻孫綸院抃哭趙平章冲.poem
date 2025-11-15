@@ -1,0 +1,47 @@
+canonical:
+  title: 次韻孫綸院抃哭趙平章冲
+  author: 兪升旦
+  language: lzh
+  text: 已將偉績揭旗常更把剛膓慠雪霜一代黑頭名宰相當年綠髮少賢良橫流鎭俗如山嶽儉歲傾人似稻粱社稷安危方繫望乘雲何忽去堂堂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻孫綸院抃哭趙平章冲
+  author: 兪升旦
+  language: lzh
+  text: 已將偉績揭旗常。更把剛膓慠雪霜。一代黑頭名宰相。當年綠髮少賢良。橫流鎭俗如山嶽。儉歲傾人似稻粱。社稷安危方繫望。乘雲何忽去堂堂。
+korean:
+  title: 평장 조충을 곡한 윤원 손변의 운에 화답하며
+  author: 유승단
+  language: kor
+  text: |-
+    이미 위대한 공적을 기상에 드날렸고
+    다시 곧은 절조는 눈ㆍ서리를 깔보았네
+    지금은 일대의 유명한 검은 머리 재상
+    그 때엔 젊어서부터 푸른털 소년
+    시속을 진정시킴은 산악과 같고
+    흉년에 쌀ㆍ기장 마냥 사람들을 도왔네
+    나라의 안위가 그대에게 달렸거늘
+    어쩌다 구름을 타고 훌쩍 가고 마는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: 'In Response to Sun Byeon''s Rhymes: A Lament for Minister Zhao Chong'
+  author: Yu Seung-dan
+  language: eng
+  text: |-
+    Your great deeds already wave from the banners of fame,
+    Your steadfast integrity scorns the snow and frost.
+    Now in this age, a renowned minister with black hair,
+    In youth you were a talented boy with green locks.
+    You calmed the common people like mountains standing firm,
+    In lean years you sustained them like rice and millet.
+    The fate of our nation rested upon your shoulders—
+    Why then did you suddenly depart on clouds of heaven?
+  footnotes:
+  - key: ''
+    value: Black hair and green locks are poetic references to youth and vigor; their contrast marks the passage of time and the minister's service from youth to maturity.
+  - key: ''
+    value: Mountains and millet are traditional metaphors for stability and sustenance, qualities the minister provided to the realm.
+  - key: ''
+    value: The sudden departure on clouds is an allusion to death, expressed through the classical poetic image of ascension to the heavens.

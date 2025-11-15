@@ -1,0 +1,45 @@
+canonical:
+  title: 書窓
+  author: 魚世謙
+  language: lzh
+  text: 得句偶書䆫紙破詩亦破好詩人必傳惡詩人必唾人傳破何傷人唾破亦可一笑騎馬歸千載詩知我
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書窓
+  author: 魚世謙
+  language: lzh
+  text: 得句偶書䆫。紙破詩亦破。好詩人必傳。惡詩人必唾。人傳破何傷。人唾破亦可。一笑騎馬歸。千載詩知我。
+korean:
+  title: 서창
+  author: 어세겸
+  language: kor
+  text: |-
+    시귀를 얻어서 서창에 쓰니
+    종이가 찢어지면 시도 또한 찟어지리
+    좋은 시는 사람들이 꼭 전할 것이요
+    나쁜 시는 사람들이 꼭 침뱉을 것
+    사람들이 전한다면 찢어진들 어떠하리
+    사람들이 침뱉는다면 찢어져도 좋으리라
+    한 번 웃고 말 타고 돌아오나니
+    천년 뒤 시만이 나를 알리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: Study Window
+  author: Eo Segyeom
+  language: eng
+  text: |-
+    I caught a verse and wrote it in my study window—
+    when paper tears, the poem tears too.
+    Good poetry people will surely pass on,
+    bad poetry people will surely spit upon.
+    If people transmit it, what harm is a tear?
+    If people spit on it, a tear is welcome.
+    I laugh once, mount my horse, and ride home—
+    a thousand years hence, only poetry will know me.
+  footnotes:
+  - key: ''
+    value: The 'study window' (書窓) serves as both the literal place of composition and a metaphor for the poet's modest circumstances and humble artistic practice.
+  - key: ''
+    value: The tension between the poem's material fragility and its potential spiritual permanence reflects classical Chinese and Korean poetic philosophy about art's enduring value beyond physical form.

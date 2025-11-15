@@ -1,0 +1,43 @@
+canonical:
+  title: 題浩然字說後
+  author: 李穡
+  language: lzh
+  text: 虛無汗漫惟道之誕褊心鑿智惟道之否一心之微聖賢是希曰求其正惟去其非廓尒四達用之不竭塞乎天地入乎毫髮而况彝倫孰梗于馴處之泰然克全其天惟廣李氏慷慨君子字曰浩然敢述厥旨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題浩然字說後
+  author: 李穡
+  language: lzh
+  text: 虛無汗漫。惟道之誕。褊心鑿智。惟道之否。一心之微。聖賢是希。曰求其正。惟去其非。廓尒四達。用之不竭。塞乎天地。入乎毫髮。而况彝倫。孰梗于馴。處之泰然。克全其天。惟廣李氏。慷慨君子。字曰浩然。敢述厥旨。
+korean:
+  title: 제 호연자설 후
+  author: 이색
+  language: kor
+  text: 허무(虛無)와 한만(汗漫)은 오직 도(道)의 허탄해짐을 가져오고, 편협한 마음과 천착한 지혜는 오직 도의 비색을 가져온다. 한 마음의 은미함은 성현이 이를 희구(希求)하였다는데, 그 바른 것을 구하려면 오직 그 그른 것을 버려야 한다. 넓게 사방에 통달하면서도 다하지 않고 천지에 충만하여 호발에도 침투한다. 하물며 인륜의 상도를 좇는 것을 누가 막으랴. 태연히 처하면 능히 그 천성을 온전히 할 것이다. 광주(廣州)의 이(李)씨는 강개한 군자이다. 자를 호연이라 하였기에 감히 그 취지를 기술한다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1050_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: On the Meaning of the Name Horan
+  author: Lee Saek
+  language: eng
+  text: |-
+    Emptiness and vastness bring forth the dissolution of the Way,
+    While narrow hearts and forced wisdom bring forth its negation.
+    In the subtlety of a single heart lies what sages and worthies long to attain—
+    To seek what is right, one must simply cast away what is wrong.
+    Expanding to all four directions, it flows without end,
+    Filling heaven and earth, penetrating even the finest hair.
+    How much more, then, should one not heed the proper order of human relations?
+    In tranquil composure, one preserves the wholeness of one's nature.
+    This gentleman of the Li clan from Gwangju,
+    Brave and magnanimous of spirit,
+    Bears the name Horan.
+    I dare set down its meaning.
+  footnotes:
+  - key: ''
+    value: Haran (浩然) traditionally refers to vastness and expansiveness of spirit, often associated with Mencius's concept of the 'vast, flowing qi' that sustains virtue.
+  - key: ''
+    value: The 'proper order of human relations' (yilun/이륜) refers to the Confucian concept of fundamental human relationships and their proper conduct.
+  - key: ''
+    value: Gwangju (廣州) was an important administrative region in medieval Korea.

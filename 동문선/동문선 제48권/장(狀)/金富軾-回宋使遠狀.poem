@@ -1,0 +1,38 @@
+canonical:
+  title: 回宋使遠狀
+  author: 金富軾
+  language: lzh
+  text: 揭節出疆有光華之可望揚舲涉海仗忠信以無虞方塡舘以攀迎遽貽書而爲禮永言感極豈易指陳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 回宋使遠狀
+  author: 金富軾
+  language: lzh
+  text: 揭節出疆。有光華之可望。揚舲涉海。仗忠信以無虞。方塡舘以攀迎。遽貽書而爲禮。永言感極。豈易指陳。
+korean:
+  title: 회 송사원 장
+  author: 김부식
+  language: kor
+  text: 부절(符節)을 들고 국문을 나옴에 광화(光華)를 바라볼 수 있고, 배를 타고 바다를 건넜지만 충신(忠信)을 힘입어 염려가 없었습니다. 바야흐로 사관(舍館)에 가득히 모여 환영하고 있을 터인데 문득 서신을 주시어 예로 삼으시니, 길이 감사함을 어찌 다 말하리까.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: A Message Sent to the Song Envoy upon His Departure
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    With tablet in hand, I depart beyond the borders,
+    where radiance gleams upon the horizon.
+    Our ship cuts through the sea's expanse,
+    yet trust and virtue guide us safely through.
+
+    While the halls fill with those who gather to receive,
+    you suddenly send your words—a gift of courtesy.
+    Such gratitude fills the heart—
+    how could mere speech ever capture it?
+  footnotes:
+  - key: ''
+    value: The 'tablet' (符節) refers to official credentials carried by diplomatic envoys
+  - key: ''
+    value: The reference to 'salt and courtesy' (禮) indicates the formal protocols of diplomatic exchange between Goryeo and Song China

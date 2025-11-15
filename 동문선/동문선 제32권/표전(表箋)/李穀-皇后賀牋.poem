@@ -1,0 +1,46 @@
+canonical:
+  title: 皇后賀牋
+  author: 李穀
+  language: lzh
+  text: 寵配至尊夙著乾坤之序光膺盛典益隆宮壼之儀朝野交歡神人胥悅云云德全純懿性禀柔嘉主饋在中克正長秋之位推仁逮下方歌樛木之詩爰擧彝章俯頒渙號云云叨司徽掖幸際明時昵趨文石之班曷勝蹈舞遠播關雎之化共荷生成
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 皇后賀牋
+  author: 李穀
+  language: lzh
+  text: 寵配至尊。夙著乾坤之序。光膺盛典。益隆宮壼之儀。朝野交歡。神人胥悅。云云。德全純懿。性禀柔嘉。主饋在中。克正長秋之位。推仁逮下。方歌樛木之詩。爰擧彝章。俯頒渙號。云云。叨司徽掖。幸際明時。昵趨文石之班。曷勝蹈舞。遠播關雎之化。共荷生成。
+korean:
+  title: 황후 하전
+  author: 이곡
+  language: kor
+  text: 은총으로 지존(至尊)을 짝하시어 진작 건곤(乾坤)의 질서를 드러내시고, 영광으로 성전(盛典)을 받으시어 더욱 궁곤(宮壼)의 의례(儀禮)를 높이시니, 조야(朝野)가 모두 즐거워하고 신인(神人)이 서로 기뻐하나이다. 운운. 덕(德)은 순의(純懿)로 온전하시고 성품은 유가(柔嘉)를 타고나시어, 공궤(供饋)의 주무(主務)로 중궁(中宮)에 계시면서 장추(長秋)의 위(位)를 버젓이 바로하시고, 인(仁)을 아래로 밀어 바야흐로 규목(樛木)의 시(詩)를 노래하게 되었으므로 이제 정식으로 책문(冊文)을 내려 위호(位號)를 반포하였나이다. 운운. 신(臣)이 외람되게 액정(掖庭)의 구실을 맡아 다행히 명시(明時)를 만나, 근시(近侍)로 문석(文石)의 반열(班列)에 추창하오니, 기뻐 춤추는 마음을 어찌 이기오리이까. 멀리 관저(關雎)의 교화(敎化)를 뿌리심으로 함께 생성(生成)의 은(恩)을 받고자 하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장추(長秋)의 위(位) : '
+    value: 황후(皇后)가 거처하는 궁 이름. 황후를 말한다. 《後漢書》
+  - key: '[주-D002] 규목(樛木)의 시(詩) : '
+    value: 주(周)나라 문왕(文王)의 후궁(後宮)들이 후비(后妃)의 덕을 찬양한 시(詩). 《詩經 周南》
+  - key: '[주-D003] 문석(文石) : '
+    value: 보석의 이름인데, 천자(天子)의 전계(殿階)의 돌을 뜻한다. 《漢書》
+  - key: '[주-D004] 관저(關雎)의 교화(敎化) : '
+    value: 주(周)나라 문왕(文王)과 그 비(妃)의 화락(和樂)을 찬양한 시(詩). 《詩經 周南》
+english:
+  title: Congratulatory Memorial to the Empress
+  author: Lee Gok
+  language: eng
+  text: |-
+    By gracious fortune matched with the Supreme One, she has long manifested the order of Heaven and Earth. Honored by the grand ceremony, she further elevates the rites of the inner palace. All within the realm rejoice, and gods and men delight together.
+
+    Her virtue stands complete in purity and kindness; her nature embodies gentleness and grace. As mistress of the household within the inner chambers, she rightfully upholds the position of the Empress. Her benevolence extends downward, inspiring verses of praise like the songs of the Twisted Wood. Now we formally bestow upon her the imperial proclamation and rank.
+
+    Your humble servant, unworthy to serve in the imperial harem, has fortunately lived in this enlightened age. Honored to stand among the attendants of the jade palace, how can I contain my joy and gratitude? May the transformative influence of the Oriole's Song spread far and wide, that all may share in the blessings of creation and harmony.
+  footnotes:
+  - key: ''
+    value: The 'position of the Empress' refers to the Changqiu Palace, the residence of the Empress in the Han Dynasty court.
+  - key: ''
+    value: The 'songs of the Twisted Wood' refers to poems from the Book of Poetry in which the royal consorts praised the virtue of the primary consort.
+  - key: ''
+    value: The 'jade palace' alludes to the precious stone steps of the imperial throne hall.
+  - key: ''
+    value: The 'Oriole's Song' refers to a poem in the Book of Poetry celebrating the harmony and virtue of King Wen of Zhou and his consort.

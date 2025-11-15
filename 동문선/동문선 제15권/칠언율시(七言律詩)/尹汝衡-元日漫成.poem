@@ -1,0 +1,48 @@
+canonical:
+  title: 元日漫成
+  author: 尹汝衡
+  language: lzh
+  text: 去歲正朝是洛陽今年元日又南荒馮驩彈鋏長爲客王粲登樓苦憶鄕風軟柳條纔弄色日姸梅萼不勝香鬢絲不管新春事萬里天涯一鏡霜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 元日漫成
+  author: 尹汝衡
+  language: lzh
+  text: 去歲正朝是洛陽。今年元日又南荒。馮驩彈鋏長爲客。王粲登樓苦憶鄕。風軟柳條纔弄色。日姸梅萼不勝香。鬢絲不管新春事。萬里天涯一鏡霜。
+korean:
+  title: 설날에 즉흥으로
+  author: 윤여형
+  language: kor
+  text: |-
+    작년 설날은 서울서 맞았더니
+    올해 원조는 남방 시골이로세
+    탄협하는 풍환은 늘 나그네 신세
+    다락에 오른 왕찬은 하도 고향을 그리워했네
+    연한 바람에 버들가지는 겨우 빛을 하늘거리고
+    따스한 햇살에 매화꽃은 향기를 못 가누네
+    새 봄이 와도 머리털은 아는 체 만 체
+    하늘 가 만리 타향에 거울 가득 서리로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0800&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 왕찬(王粲) : '
+    value: 자(字) 중선(仲宣), 한말(漢末)의 문인(文人). 난을 피하여 형주(荊州)에 있으면서 고토(故土)를 그리워하여 유명한 〈등루부(登樓賦)〉를 지었다.
+english:
+  title: New Year's Day, Composed Extemporaneously
+  author: Yun Yeohyung
+  language: eng
+  text: |-
+    Last year's New Year dawned in the capital,
+    But this year's first day finds me in southern wilds.
+    Like Feng Huan flicking his sword in endless wandering,
+    Like Wang Can ascending the tower, yearning for home—
+
+    Soft winds coax the willow branches into tender green,
+    Warm sunlight releases the fragrance of plum blossoms unstoppable.
+    Yet my graying hair heeds not the coming of spring;
+    Ten thousand leagues away, my mirror reflects only frost.
+  footnotes:
+  - key: ''
+    value: Wang Can (王粲, 177-217) was a celebrated poet of the late Han Dynasty. Fleeing chaos and turmoil, he settled in Jingzhou, where his longing for his homeland inspired his famous 'Rhapsody on Ascending the Tower' (登樓賦).
+  - key: ''
+    value: Feng Huan was a wanderer of antiquity known for his restless travels as a guest in foreign lands.

@@ -1,0 +1,53 @@
+canonical:
+  title: 次永明樓韻
+  author: 趙簡
+  language: lzh
+  text: 大平車盖欲東還金碧重輝錦繡山穿月棹聲連榻上掛空燈影落波閒銀灘釣叟魚同樂翠嶂禪僧鶴共閑對此若論多少景南賓八咏揔無顔
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次永明樓韻
+  author: 趙簡
+  language: lzh
+  text: 大平車盖欲東還。金碧重輝錦繡山。穿月棹聲連榻上。掛空燈影落波閒。銀灘釣叟魚同樂。翠嶂禪僧鶴共閑。對此若論多少景。南賓八咏揔無顔。
+korean:
+  title: 차 영명루 운
+  author: 조간
+  language: kor
+  text: |-
+    태평의 임금님 수레 환경하려 하옵시니
+    금수산에 금벽이 또다시 빛나누나
+    달을 뚫는 돛대 소리 탑 위에 들려오고
+    공중에 걸린 등불빛은 물결새에 떨어지네
+    백은탄의 낚시질 늙은인 고기와 함께 즐기고
+    푸른 메의 선승은 학과 얼려 한가해라
+    이 좋은 경상을 어느 곳에 비할 거냐
+    저 남빈의 팔영 경치가 모두 무색하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0830&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금벽(金碧) : '
+    value: 금칠한 푸른 빛깔인데, 누각의 단청을 말한다.
+  - key: '[주-D002] 달을 뚫는 돛대 : '
+    value: “돛대는 물 속의 달을 뚫는다[棹穿波中月].” 하였는데, 이것은 옛사람의 시(詩)의 한 구절이다.
+  - key: '[주-D003] 남빈(南賓)의 팔영(八詠) : '
+    value: 남조(南朝)의 심약(沈約)이 누각에 올라서 여덟 가지 경치를 읊은 팔영(八詠)이 있다.
+english:
+  title: In Response to the Rhymes of Eternal Ming Tower
+  author: Cho Gan
+  language: eng
+  text: |-
+    In times of peace the royal carriage turns to journey home,
+    Gold and jade renew their brilliance on the brocaded mountain.
+    The oar's sound pierces moonlight, echoing above the tower,
+    While lantern-light suspended in the void falls gently on the waves.
+    Upon the silver shoals the fisherman's delight mingles with his catch,
+    Among the verdant cliffs the Buddhist monk finds leisure with the cranes.
+    Comparing all the beauty that before us spreads—
+    Even the Eight Vistas of the southern realm fade pale.
+  footnotes:
+  - key: ''
+    value: Gold and jade refer to the painted decorative patterns (dancheong) adorning the tower's eaves
+  - key: ''
+    value: The image of the oar piercing the moon reflects a classical poetic motif comparing the boat's passage through moonlit water
+  - key: ''
+    value: The Eight Vistas reference the famous eight scenic views celebrated by the poet Shen Yue of the Southern Dynasties from a pavilion tower

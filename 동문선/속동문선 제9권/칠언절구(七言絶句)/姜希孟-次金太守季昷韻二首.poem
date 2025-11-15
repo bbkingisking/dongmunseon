@@ -1,0 +1,50 @@
+canonical:
+  title: 次金太守季昷韻二首
+  author: 姜希孟
+  language: lzh
+  text: 長安渺渺幾關津門掩脩篁一老身古篆香燒殘午夢一庭微雨少來人金鞍騕褭玉飜蹄帝里烟花鶯亂啼醉後春風曾一夢白頭閑卧椹灘西
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次金太守季昷韻二首
+  author: 姜希孟
+  language: lzh
+  text: 長安渺渺幾關津。門掩脩篁一老身。古篆香燒殘午夢。一庭微雨少來人。金鞍騕褭玉飜蹄。帝里烟花鶯亂啼。醉後春風曾一夢。白頭閑卧椹灘西。
+korean:
+  title: 차 김태수 계온운 이수
+  author: 강희맹
+  language: kor
+  text: |-
+    장안은 아득한데 몇 관문과 나루인고
+    문을 가린 긴 대는 한 늙은 몸일러라
+    고전에 향을 사르고 낮 꿈이 쇠잔한데
+    한 뜰의 가랑비 오는 사람이 적다
+    금안장 얹은 요뇨의 발굽은 옥을 뒤치는데
+    제리의 연기와 꽃에 꾀꼬리 어지러이 운다
+    취한 뒤의 봄바람은 한바탕 지난 꿈이거니
+    흰 머리로 한가히 침탄 서쪽에 누워 있다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0310&viewSync=OT
+  footnotes: []
+english:
+  title: Two Poems Following the Rhymes of Kim Tae-su, the Prefect
+  author: Kang Hi-maeng
+  language: eng
+  text: |-
+    Chang'an lies distant—how many gates and river crossings stand between?
+    Behind closed doors, the long bamboo grove shelters one aging frame.
+    Incense burns before old texts as the noon dream crumbles to dust,
+    and across the courtyard, sparse rain falls where few visitors come.
+
+    Golden saddle on the prancing horse—each hoof strikes jade sparks,
+    while in the imperial city flowers bloom and orioles sing in confusion.
+    The spring wind after drunkenness—merely a dream that has passed,
+    and I lie at ease on the western bank, white-haired and grown old.
+  footnotes:
+  - key: ''
+    value: The poem is structured as two quatrains, each developing themes of retreat from official life and the passage of time.
+  - key: ''
+    value: Chang'an (long an) refers to the ancient imperial capital, symbolizing the bustling world of power and ambition the poet has left behind.
+  - key: ''
+    value: The contrast between the first poem's quiet hermitage and the second's vivid memories of court life emphasizes the bittersweet nature of withdrawal.
+  - key: ''
+    value: The 'white hair' and 'western bank' (often associated with old age and the end of life in Classical Chinese poetry) suggest the poet contemplates mortality.

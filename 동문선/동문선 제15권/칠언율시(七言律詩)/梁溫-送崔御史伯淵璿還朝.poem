@@ -1,0 +1,48 @@
+canonical:
+  title: 送崔御史伯淵璿還朝
+  author: 梁溫
+  language: lzh
+  text: 東韓文物未陵遅御史魁梧邁等夷凜凜淸威峩豸日融融和氣弄烏時忠臣孝子佳名籍舊德耆年壽骨奇下客無由參慶席向風高咏採蘭詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送崔御史伯淵璿還朝
+  author: 梁溫
+  language: lzh
+  text: 東韓文物未陵遅。御史魁梧邁等夷。凜凜淸威峩豸日。融融和氣弄烏時。忠臣孝子佳名籍。舊德耆年壽骨奇。下客無由參慶席。向風高咏採蘭詩。
+korean:
+  title: 환조하는 최어사 백연 선을 보내며
+  author: 양온
+  language: kor
+  text: |-
+    동한의 문물이 아직 쇠퇴하지 않았으니
+    어사의 당당한 모습 뭇사람과 다르구나
+    늠름한 위엄은 치관(어사가 쓰는 관)을 높이 쓴 날
+    훈훈한 화기는 까마귀(어사부)를 희롱하는 때
+    충신과 효자를 겸했네, 훌륭한 그 골격
+    덕과 나이 높으시니 특이한 그 골격
+    하객이 경석에 참예할 길 없사와
+    풍편에 채란 옛시를 높이 읊어 보내네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 채란(采蘭) 옛시 : '
+    value: 부모를 효도로 봉양하는 일을 읊은 시이다. 속석(束晳)의 남해(南陔)시에, “저 남쪽 언덕에 올라 그 난초를 뜯네.[循彼南陔 言采其蘭]” 하였다.
+english:
+  title: Seeing Off Imperial Censor Choi Bakyeon on His Return to Court
+  author: Yang On
+  language: eng
+  text: |-
+    The culture of Eastern Han has not yet declined,
+    The Imperial Censor stands tall, surpassing common men.
+    His solemn authority gleams upon the insignia cap,
+    His harmonious presence plays among the emblems of office.
+
+    United in loyalty and filial devotion, a name of excellence,
+    Elderly in virtue and years, with a frame most rare.
+    I cannot join the banquet hall as a humble guest,
+    Yet send this lofty song of orchid-gathering in the wind.
+  footnotes:
+  - key: ''
+    value: The 'orchid-gathering song' refers to verses celebrating filial devotion to one's parents, evoking the classical poem where one ascends the southern slopes to gather orchids as an expression of dutiful care.
+  - key: ''
+    value: The 'insignia cap' (치관) and 'emblems of office' (어사부) are symbols of the censor's authority and dignity.

@@ -1,0 +1,49 @@
+canonical:
+  title: 竹筧
+  author: 金時習
+  language: lzh
+  text: 刳竹引寒泉琅琅終夜鳴轉來深澗涸分出小槽平細聲和夢咽淸韻入茶煎不費垂寒綆銀床百尺牽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 竹筧
+  author: 金時習
+  language: lzh
+  text: 刳竹引寒泉。琅琅終夜鳴。轉來深澗涸。分出小槽平。細聲和夢咽。淸韻入茶煎。不費垂寒綆。銀床百尺牽。
+korean:
+  title: 죽견
+  author: 김시습
+  language: kor
+  text: |-
+    대를 쪼개 찬 샘물 끌어 왔나니
+    한 밤내 졸졸졸 우는 그 소리
+    자꾸 오면 산골의 깊숙한 물도 마르리
+    갈라내어 조그만 수조가 찰랑인다
+    가느다란 그 소리는 꿈속처럼 흐느끼고
+    맑은 그 운치는 창에 들어 달리운다
+    찬 두레박 긴줄 내려서
+    은상에 앉아 백 척 끌어 무엇하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0400&viewSync=OT
+  footnotes: []
+english:
+  title: Bamboo Conduit
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    I split bamboo to guide the cold spring waters,
+    And through the night they sing their gentle song—
+    Trillings that never cease, a liquid murmur.
+
+    When they flow here, even the deep ravine runs dry,
+    Yet from their course a small basin brims and glistens.
+    Their delicate voice trembles like a dream's soft sobbing,
+    Their crystalline tone steeps the tea with subtle grace.
+
+    Why lower the long rope of the frozen well?
+    Why sit upon the silver bed and haul a hundred feet?
+    No labor in this art—the bamboo brings what I desire.
+  footnotes:
+  - key: ''
+    value: The 'silver bed' (銀床) likely refers to an elevated pavilion or platform, emphasizing the speaker's leisure and the effortless nature of obtaining water through the bamboo conduit.
+  - key: ''
+    value: The image of the 'frozen well rope' (寒綆) contrasts the traditional, laborious method of drawing water with the passive, natural flow achieved through the bamboo system.

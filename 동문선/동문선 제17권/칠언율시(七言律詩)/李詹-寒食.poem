@@ -1,0 +1,46 @@
+canonical:
+  title: 寒食
+  author: 李詹
+  language: lzh
+  text: 今年寒食滯京華節序如流苦憶家楊柳愁邊初弄線荼蘼雨後欲生花尋春院落多遊騎上墓郊原集亂鴉物色漸新人漸老慕眞何處鍊丹砂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寒食
+  author: 李詹
+  language: lzh
+  text: 今年寒食滯京華。節序如流苦憶家。楊柳愁邊初弄線。荼蘼雨後欲生花。尋春院落多遊騎。上墓郊原集亂鴉。物色漸新人漸老。慕眞何處鍊丹砂。
+korean:
+  title: 한식
+  author: 이첨
+  language: kor
+  text: |-
+    금년 한식을 서울서 묵느라니
+    철이 쉽게 갈수록 집 생각이 간절하이
+    버들은 시름 옆에서 가지를 하늘거리고
+    다미는 비 온 뒤에 꽃이 피려는구나
+    봄을 찾아 동산엔 말 탄 이들 오가고
+    성묘 가는 들판엔 떼 가마귀 모였네
+    물색은 새롭건만 몸은 차차 늙어가니
+    어드메 신선따라 단사를 만들꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0440&viewSync=OT
+  footnotes: []
+english:
+  title: Cold Food Festival
+  author: Lee Cham
+  language: eng
+  text: |-
+    This year the Cold Food Festival finds me stranded in the capital.
+    As seasons slip away like water, longing for home grows sharp.
+    The willows trail their sorrows, swaying branches in the spring air,
+    While silk trees dream of blooming after the rain has passed.
+
+    Throughout the gardens, riders search for spring on horseback,
+    And crows gather thick upon the fields where tombs receive their visitors.
+    The world renews itself with each new color,
+    Yet I grow old. Where shall I find the elixir to transform myself?
+  footnotes:
+  - key: ''
+    value: The Cold Food Festival (寒食/한식) is observed two days before Qingming, traditionally a day for ancestral worship and tomb-visiting in East Asian cultures.
+  - key: ''
+    value: The 'elixir' (丹砂/단사) references the Daoist pursuit of immortality and spiritual transformation, suggesting the speaker's desire to transcend the constraints of aging and time.

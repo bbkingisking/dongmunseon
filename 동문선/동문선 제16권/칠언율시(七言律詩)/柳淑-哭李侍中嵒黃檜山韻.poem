@@ -1,0 +1,47 @@
+canonical:
+  title: 哭李侍中嵒黃檜山韻
+  author: 柳淑
+  language: lzh
+  text: 淸高嗜好異時人種竹移梅手自親再整朝綱方有望忽歸仙府問何因風摧玉樹悲涼日雨打瓊花寂寞春一路泥丸先後耳不須哀痛肺生塵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 哭李侍中嵒黃檜山韻
+  author: 柳淑
+  language: lzh
+  text: 淸高嗜好異時人。種竹移梅手自親。再整朝綱方有望。忽歸仙府問何因。風摧玉樹悲涼日。雨打瓊花寂寞春。一路泥丸先後耳。不須哀痛肺生塵。
+korean:
+  title: 곡 이시중암 황회산운
+  author: 유숙
+  language: kor
+  text: |-
+    맑고 높은 취미가 세속 사람들과 달라서
+    손수 대를 심고 매화도 옮기셨네
+    다시 조정의 기강을 바로잡기 바랐더니
+    문득 신선의 고장으로 가다니 웬 말이뇨
+    옥수를 바람이 꺾으니 구슬픈 날이요
+    구슬꽃을 비가 때리니 적막한 봄이로다
+    앞ㆍ뒤만이 다를 뿐 인생이 끝에는 진흙덩이라
+    구태여 애통하여서 폐에 먼지 나게 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: Elegy for Minister of Court Lee Yamm at Yellow Hinoki Mountain
+  author: Yu Suk
+  language: eng
+  text: |-
+    His pure and lofty tastes set him apart from common men—
+    with his own hands he planted bamboo and transplanted plum.
+    We hoped he would restore the court's decorum once again,
+    yet suddenly he departed to the realm of immortals. Why?
+
+    The wind has snapped the jade tree on this desolate day,
+    the rain beats on precious blossoms in the lonely spring.
+    Before and after differ only in their season—
+    all returns to mud in the end.
+    Why grieve until your lungs fill up with dust?
+  footnotes:
+  - key: ''
+    value: The 'jade tree' and 'precious blossoms' are metaphors for the deceased's virtue and character, employing nature imagery common in elegiac poetry.
+  - key: ''
+    value: The final image of 'mud' reflects Buddhist and Daoist philosophical views on the impermanence of life, suggesting that excessive mourning contradicts the natural cycle of existence.

@@ -1,0 +1,45 @@
+canonical:
+  title: 祈晴祝
+  author: 鄭誧
+  language: lzh
+  text: 大田多稼方有望於秋成三日爲霖恐或貽於物害爰瀝由中之𢢽敢希憫下之仁惟天之明從民所欲雲陰解駁開霽色於須臾歲事登穰沸懽聲於遠邇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 祈晴祝
+  author: 鄭誧
+  language: lzh
+  text: 大田多稼。方有望於秋成。三日爲霖。恐或貽於物害。爰瀝由中之𢢽。敢希憫下之仁。惟天之明。從民所欲。雲陰解駁。開霽色於須臾。歲事登穰。沸懽聲於遠邇。
+korean:
+  title: 비 개기를 비는 제사의 축문
+  author: 정포
+  language: kor
+  text: 큰 들에 곡식이 많아서 바야흐로 가을의 성숙을 기다리고 있는데, 3일을 연속하여 장마비가 내리니, 혹 농작물에 해를 끼칠까 두렵습니다. 이에 마음속에서 나오는 간절한 정성을 피력하여, 감히 아랫 백성을 불쌍히 여기시는 어진 은택을 바랍니다. 하늘의 밝으심은 백성들의 하고자 하는 것에 좇는 것이니, 구름과 그늘진 날씨를 풀어 버리시고 잠깐 사이에 흐림을 걷어 주시어, 연사는 풍년이 들고 즐거워하는 환성은 사방에서 물끓듯 일어나게 하소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0100&viewSync=OT
+  footnotes: []
+english:
+  title: Prayer for Clear Skies
+  author: Jung Po
+  language: eng
+  text: |-
+    The great fields bear abundant grain, awaiting autumn's ripening promise.
+    Yet three days of downpour descend—
+    I fear the crops may suffer harm.
+
+    With earnest heart I pour forth this plea,
+    daring to seek the merciful grace
+    of Heaven's benevolent care for the humble folk below.
+
+    Heaven's brightness follows the people's desire—
+    I beseech you: disperse the clouds and shadow,
+    clear the gloom in a single moment.
+    Let the year bring forth abundance and prosperity,
+    and may joyous voices rise like boiling waters
+    from all the lands near and far.
+  footnotes:
+  - key: ''
+    value: This is a prayer-blessing (祝文) presented to Heaven during a rain ceremony, requesting clear skies to protect ripening crops from excessive moisture damage.
+  - key: ''
+    value: The phrase 'three days' (三日) refers to a continuous period of heavy rain during the critical growing season.
+  - key: ''
+    value: The imagery of 'boiling waters' (沸) for celebration suggests an intensity of joy and communal festivity throughout the realm.

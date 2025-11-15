@@ -1,0 +1,46 @@
+canonical:
+  title: 向日菴卽事
+  author: 洪貴達
+  language: lzh
+  text: 明窓仍白日溫堗又重緜斫桂炊香飯開雲汲冷泉軒高臨大壑僧老說諸天一磬中堂了昏昏客欲眠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 向日菴卽事
+  author: 洪貴達
+  language: lzh
+  text: 明窓仍白日。溫堗又重緜。斫桂炊香飯。開雲汲冷泉。軒高臨大壑。僧老說諸天。一磬中堂了。昏昏客欲眠。
+korean:
+  title: 향일암 즉사
+  author: 홍귀달
+  language: kor
+  text: |-
+    창이 밝기는 날 새었기 때문이요
+    온돌에다 또 두터운 솜옷이다
+    계수나무 쪼개어 향기로 밥을 짓고
+    구름 헤치고 찬 샘물 길어 온다
+    헌험이 높아 큰 골짝에 다달았고
+    중이 긁으매 하늘 일들 말한다
+    경쇠 한 소리 중당에서 그치니
+    나그네는 흔흔하게 졸음이 온다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0440&viewSync=OT
+  footnotes: []
+english:
+  title: Immediate Impressions at Hyangilam Hermitage
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    The window glows—another day has broken through.
+    The heated floor and quilted robes lie thick and warm.
+    I split the cinnamon wood to perfume cooking rice,
+    Part the clouds to draw up water, cold and clear.
+
+    The hermitage rises high above the vast ravine;
+    An old monk speaks of heaven's secrets as I listen.
+    One stroke of the bell rings out within the hall,
+    And I, a wanderer, drift slowly into sleep.
+  footnotes:
+  - key: ''
+    value: Hyangilam (向日菴) was a hermitage in Korea known for its mountain setting and contemplative atmosphere
+  - key: ''
+    value: The cinnamon wood (桂) reference alludes to both the literal burning of aromatic wood and classical poetic imagery of refinement and transcendence

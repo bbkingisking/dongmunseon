@@ -1,0 +1,39 @@
+canonical:
+  title: 次韻金太守詠田家
+  author: 姜希孟
+  language: lzh
+  text: 流水涓涓泥沒蹄暖烟桑柘鵓鳩啼阿翁解事阿童健刳竹通泉過岸西
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻金太守詠田家
+  author: 姜希孟
+  language: lzh
+  text: 流水涓涓泥沒蹄。暖烟桑柘鵓鳩啼。阿翁解事阿童健。刳竹通泉過岸西。
+korean:
+  title: 차운 김태수 영전가
+  author: 강희맹
+  language: kor
+  text: |-
+    졸졸 물이 흘러 진흙에 말 발굽이 빠지는데
+    따뜻한 연기의 뽕나무 석류나무에는 비둘기가 운다
+    늙은이는 일을 알고 아이는 건장하여
+    대홈통에 샘물을 끌어 언덕 서쪽을 지나간다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0320&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to Magistrate Kim's Verses on Rustic Life
+  author: Kang Hi-maeng
+  language: eng
+  text: |-
+    Trickling water flows where hoofprints sink in mud,
+    Warm mist rises from the mulberry and pomegranate—
+    A pigeon calls among the branches.
+    The old man knows his craft, the boy stands strong,
+    Channeling spring through hollowed bamboo
+    That carries life across the western slope.
+  footnotes:
+  - key: ''
+    value: This poem is composed in response to verses by Magistrate Kim on pastoral life, following the classical Korean literary practice of 'harmonizing rhymes' (차운). The imagery celebrates the interdependence of age and youth, nature and human labor in agricultural society.
+  - key: ''
+    value: The 'hollowed bamboo' conduit represents both practical irrigation and the transmission of knowledge and tradition from elder to younger generation.

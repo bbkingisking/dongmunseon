@@ -1,0 +1,35 @@
+canonical:
+  title: 山中雨
+  author: 偰遜
+  language: lzh
+  text: 一夜山中雨風吹屋上茆不知溪水長祗覺釣船高
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山中雨
+  author: 偰遜
+  language: lzh
+  text: 一夜山中雨。風吹屋上茆。不知溪水長。祗覺釣船高。
+korean:
+  title: 산중우
+  author: 설손
+  language: kor
+  text: |-
+    하룻밤 산중의 비에
+    바람이 지붕의 떼를 걷어 갔네
+    개울물이 불은 것은 알지 못하고
+    다만 낚싯배가 높아진 줄 깨닫네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: Rain in the Mountains
+  author: Seol Sun
+  language: eng
+  text: |-
+    One night, rain falls in the mountains.
+    Wind sweeps away the thatch upon the roof.
+    I cannot tell how much the creek has swollen—
+    Only that my fishing boat has risen higher.
+  footnotes:
+  - key: ''
+    value: 'The poet observes the mountain rain''s effects indirectly: the displacement of his boat serves as the measure of the rising waters, a subtle commentary on the limits of direct perception and the poet''s humble engagement with nature.'

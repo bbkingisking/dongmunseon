@@ -1,0 +1,60 @@
+canonical:
+  title: 閑題
+  author: 徐居正
+  language: lzh
+  text: 當頭世事緫茫然小醉多時慣作眠妄說壺公能縮地可憐杞國謾憂天機關病後都消盡膏火人間亦苦煎已信此心無物我誰知一味卽癯禪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閑題
+  author: 徐居正
+  language: lzh
+  text: 當頭世事緫茫然。小醉多時慣作眠。妄說壺公能縮地。可憐杞國謾憂天。機關病後都消盡。膏火人間亦苦煎。已信此心無物我。誰知一味卽癯禪。
+korean:
+  title: 한제
+  author: 서거정
+  language: kor
+  text: |-
+    필경에 세상일은 모두 망연하거니
+    조금 취하면 언제나 잠자기에 길들었다
+    호공은 망령되이 축지법 한다 말하고
+    기국 사람은 가련하게도 하늘을 걱정한다
+    기관은 앓는 뒤에 모두 다 녹았는데
+    고화는 또 사람들을 괴로이 볶아댄다
+    이 마음에는 너와 내가 없다고 이미 믿었거니
+    누가 알리 이 한 맛이 곧 구선인 줄을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 호공(壺公) : '
+    value: 옛날에 호장공(胡長公)이라는 사람은 축지법을 잘했다고 한다.
+  - key: '[주-D002] 기국(杞國) …… 걱정한다 : '
+    value: 옛날 기(杞)나라 사람은 하늘이 무너지면 치어 죽을까보아서, 항상 손을 들고 다녔다고 한다.
+  - key: '[주-D003] 기관(機關) : '
+    value: 세상에 대해서 이렇게 해볼까 저렇게 해볼까 하는 마음을 기관이라 한다.
+  - key: '[주-D004] 고화(膏火) : '
+    value: 밤에는 기름불로 밝은 것을 얻고 낮에는 불 같은 햇빛으로 밝게 되므로, 기름과 불이라 하여 주야(晝夜)를 말하는 것이다.
+  - key: '[주-D005] 구선(癯禪) : '
+    value: 내 마음속에 너도 없고 나도 없는 것을 깨닫는 것이 겨우 가냘픈 선(禪)이라는 말이다.
+english:
+  title: Idle Reflections
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Before my eyes, the world's affairs blur into confusion.
+    A little drunk, I've grown accustomed to sleep.
+    They say old Hupo could fold distance beneath his feet—
+    yet the people of Qi Country pitiably worry the sky might fall.
+
+    After illness, all my scheming machinations have dissolved.
+    Day and night still scorch the living like flames.
+    I've come to believe this heart contains no self, no other—
+    who could know that this very taste is the thin gruel of Chan?
+  footnotes:
+  - key: ''
+    value: Hupo refers to the ancient sage Hu Changong, said to possess the magical ability to compress distance through cultivation.
+  - key: ''
+    value: The people of Qi Country is an allusion to those who fret about hypothetical disasters, from the old tale of Qi citizens who feared the sky might collapse.
+  - key: ''
+    value: The 'machinations' refer to the mind's constant scheming about worldly affairs—a fundamental impediment to spiritual repose.
+  - key: ''
+    value: The 'thin gruel of Chan' refers to attaining the Buddhist understanding that the distinctions between self and other are ultimately illusions.

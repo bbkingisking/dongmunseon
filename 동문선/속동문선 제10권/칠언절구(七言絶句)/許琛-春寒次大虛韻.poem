@@ -1,0 +1,37 @@
+canonical:
+  title: 春寒次大虛韻
+  author: 許琛
+  language: lzh
+  text: 銅壺滴瀝佛燈殘萬壑松濤夜色寒喚起十年塵土夢擁爐新試小龍團
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春寒次大虛韻
+  author: 許琛
+  language: lzh
+  text: 銅壺滴瀝佛燈殘。萬壑松濤夜色寒。喚起十年塵土夢。擁爐新試小龍團。
+korean:
+  title: 춘한 차 대허운
+  author: 허침
+  language: kor
+  text: |-
+    구리병에 물은 떨고 부처 등불 꺼지고는
+    만학 솔 물결에 밤빛은 차가워라
+    티끌 흙 십년 꿈을 깨워서 일으키어
+    새삼스레 화로 끼고 소룡단(좋은 차의 이름)을 시험하오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0130&viewSync=OT
+  footnotes: []
+english:
+  title: 'Spring Chill: Following the Rhymes of Daeheo'
+  author: Heo Chim
+  language: eng
+  text: |-
+    In the copper vessel, water drips and the Buddha lamp gutters low.
+    Across ten thousand valleys, pine winds whisper—the night grows cold.
+    I awaken from a decade of dusty dreams,
+    And by the glowing brazier, I steep the finest dragon pearls anew.
+  footnotes:
+  - key: ''
+    value: The 'dragon pearls' (소룡단, xiaolongzhu) refers to a premium rolled tea, whose name evokes both precious jade and the dragon motifs of imperial luxury.
+  - key: ''
+    value: The Buddha lamp suggests a Buddhist temple setting, lending a contemplative, spiritual dimension to the poem's meditation on time and memory.

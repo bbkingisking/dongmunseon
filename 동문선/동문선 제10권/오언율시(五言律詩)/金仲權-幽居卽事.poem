@@ -1,0 +1,46 @@
+canonical:
+  title: 幽居卽事
+  author: 金仲權
+  language: lzh
+  text: 家貧營産少草色滿庭除妻病惟須藥兒癡懶讀書菊從晴後種苽向晚來鋤漸覺幽居好門無長者車
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 幽居卽事
+  author: 金仲權
+  language: lzh
+  text: 家貧營産少。草色滿庭除。妻病惟須藥。兒癡懶讀書。菊從晴後種。苽向晚來鋤。漸覺幽居好。門無長者車。
+korean:
+  title: 유거즉사
+  author: 김중권
+  language: kor
+  text: |-
+    집이 가난하여 살림살이 적으니
+    풀빛만 뜰에 가득하네
+    아내가 병들어 오직 약이 필요하고
+    아이는 어리석어 글읽기에 게으르네
+    국화는 비갠 뒤에 옮기고
+    오이밭은 저녁때 쯤에 매네
+    차츰 유거의 맛을 알겠노니
+    문에 장자의 수레가 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 문에 장자(長者)의 수레가 없네 : '
+    value: 한(漢)나라 진평(陳平)이 젊을 때에 가난하게 살았는데, 부인(富人) 장부(張負)가 그를 범상치 않게 보고 그를 따라가 본즉, 오막살이에 떨어진 자리로 문을 달았으나, 문밖에 장자(長者)들이 찾아 왔던 수레바퀴 자국이 많았다. 장부는 진평에게 손녀를 아내 삼아 주었다. 여기서는 그와 반대로 손의 내왕을 끊었다는 뜻이다.
+english:
+  title: 'Life in Seclusion: Immediate Impressions'
+  author: Kim Jung-gwon
+  language: eng
+  text: |-
+    My household is poor, my means meager—
+    only grass fills the courtyard's expanse.
+    My wife lies ill, needing medicine alone,
+    my child is slow-witted, lazy with books.
+
+    The chrysanthemums I transplanted after the rain cleared,
+    the cucumber patch I hoe as evening falls.
+    Gradually I taste the sweetness of this solitary life—
+    no carriages of the great arrive at my gate.
+  footnotes:
+  - key: ''
+    value: 'The final line alludes to a tale from the Han dynasty: the statesman Chen Ping, though poor in his youth, was recognized by the wealthy Zhang Fu for his exceptional character. When Zhang observed Chen''s humble dwelling, he noticed many wheel-ruts of noble visitors'' carriages before the gate—a sign of Chen''s virtue and promise. Zhang later gave Chen his granddaughter in marriage. Here, the poet inverts the image: instead of carriages arriving at the gate of the deserving poor man, none arrive—signifying his complete withdrawal from worldly advancement and the society of the great.'

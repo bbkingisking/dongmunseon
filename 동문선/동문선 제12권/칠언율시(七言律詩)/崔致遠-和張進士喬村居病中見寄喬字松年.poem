@@ -1,0 +1,50 @@
+canonical:
+  title: 和張進士喬村居病中見寄喬字松年
+  author: 崔致遠
+  language: lzh
+  text: 一種詩名四海傳浪仙爭得似松年不唯騷雅標新格能把行藏繼古賢藜杖夜携孤嶠月葦簾朝捲遠村煙病來吟寄漳濱句因付漁翁入郭船
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和張進士喬村居病中見寄喬字松年
+  author: 崔致遠
+  language: lzh
+  text: 一種詩名四海傳。浪仙爭得似松年。不唯騷雅標新格。能把行藏繼古賢。藜杖夜携孤嶠月。葦簾朝捲遠村煙。病來吟寄漳濱句。因付漁翁入郭船。
+korean:
+  title: 장진사 교가 마을에 살면서 병중에 부친 시를 화답한다. 교의 자는 송년
+  author: 최치원
+  language: kor
+  text: |-
+    시의 명성 사해에 떨치니
+    낭선이 송년과 어떠한가
+    소아(시(詩))가 신격을 드러내어
+    능소 행장(출처(出處))을 갖고 옛 어진이를 이었도다
+    교교한 달 아래 명아주 지팡이 짚고
+    갈대 주렴에는 먼 마을 연기 걷히며
+    병이 들자 장빈 글귀를 읊어
+    성에 들어가는 어옹의 뱃편에 부치노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 낭선(浪仙) : '
+    value: 당(唐)나라의 시인 가도(賈島)의 자이다. 그가 고고(孤高)한 시풍으로 이름을 떨쳤다.
+  - key: '[주-D002] 장빈(漳濱) : '
+    value: 후한(後漢)의 시인 유정(劉楨)이 장빈(漳濱)에 병들어 누워서 지은 시(詩)가 있으므로 그것을 장빈(漳濱)이라 한다.
+english:
+  title: In Response to a Poem Sent by Scholar Zhang from Qiao Village During His Illness
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    His poetic name echoes across the four seas—
+    How does the Wandering Immortal compare to Pine-Year?
+    Not only does he illuminate new elegance in the Classics,
+    But carries forth the legacy of ancient worthies in his conduct.
+
+    With his cane of wormwood beneath the solitary moon at night,
+    The reed screen rolls back the distant village smoke at dawn.
+    Since illness came, he sends his verses from the Zhangbin shore—
+    Placed upon the fisherman's boat entering the walled city.
+  footnotes:
+  - key: ''
+    value: The 'Wandering Immortal' refers to the Tang poet Jia Dao, known for his lofty and austere poetic style.
+  - key: ''
+    value: The 'Zhangbin verses' alludes to the Later Han poet Liu Zhen, who composed poems while ill by the Zhangbin river, making this phrase evoke both illness and poetic refinement.

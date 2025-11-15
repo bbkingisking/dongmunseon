@@ -1,0 +1,47 @@
+canonical:
+  title: 寄鄭進士
+  author: 權興
+  language: lzh
+  text: 老子惜離居何時復起予冬裘慈母線日課故人書獨處情懷惡相望信字踈錦還知不遠榮彩耀鄕閭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄鄭進士
+  author: 權興
+  language: lzh
+  text: 老子惜離居。何時復起予。冬裘慈母線。日課故人書。獨處情懷惡。相望信字踈。錦還知不遠。榮彩耀鄕閭。
+korean:
+  title: 기 정 진사
+  author: 권흥
+  language: kor
+  text: |-
+    늙은이가 떨어져 사는 것을 아까워 하는데
+    어느 때나 그대가 와서 다시 나를 흥기시킬 건가
+    겨울옷은 자애로운 어머니가 꿰맨 실이요
+    일과는 옛사람의 글일세
+    혼자 있으매 정회가 좋지 못하고
+    서로 생각하는데 편지는 드무네
+    금의환향이 머지않아
+    영광으로 고장을 빛내리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 나를 흥기(興起) : '
+    value: 공자가 복상(卜商)과 시(詩)를 말하다가 기뻐하여 말하기를, “나를 흥기시키는 이는 상(商)이므로, 같이 시를 말할 만하구나.” 하였다.
+english:
+  title: To Scholar Jeong
+  author: Gwon Heung
+  language: eng
+  text: |-
+    An old man grieves at distance and separation—
+    When will you come to stir my spirit once again?
+    My winter coat is stitched with a mother's loving thread,
+    Each day's work is reading the words of ancient sages.
+    Alone, my heart grows heavy and restless,
+    Though we think of each other, letters come sparse.
+    Yet golden robes returning home are not far off—
+    You shall shine with honor upon our native land.
+  footnotes:
+  - key: ''
+    value: The phrase 'stir my spirit' alludes to Confucius, who said of his disciple Zixia (Shang), 'He stirs my spirit, therefore we may discuss poetry together.' The poet suggests that the addressee, like Zixia, inspires intellectual and spiritual awakening.
+  - key: ''
+    value: '''Golden robes returning home'' is a classical Chinese idiom (锦衣还乡) expressing the wish for a worthy person to return to their homeland with honors and success.'

@@ -1,0 +1,55 @@
+canonical:
+  title: 金使左光祿得家書有生子之喜詩以爲賀
+  author: 崔詵
+  language: lzh
+  text: 北信初傳驛路中侯家已驗夢維態充閭佳慶還應盛容盖高門轉更崇駿足遠期登驥坂桂枝新得長蟾宮微官他日朝天去揮麈淸談奉阿戎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金使左光祿得家書有生子之喜詩以爲賀
+  author: 崔詵
+  language: lzh
+  text: 北信初傳驛路中。侯家已驗夢維態。充閭佳慶還應盛。容盖高門轉更崇。駿足遠期登驥坂。桂枝新得長蟾宮。微官他日朝天去。揮麈淸談奉阿戎。
+korean:
+  title: 금나라 사신 좌광록이 집의 편지를 받았는데, 아들을 얻은 기쁨이 있다 하는지라 시로써 하례하며
+  author: 최선
+  language: kor
+  text: |-
+    북녘서 온 글월을 역로에서 받으니
+    뒤댁에서 곰 꿈(아들 낳을 꿈)이 맞았다는 소식
+    거리를 채울 좋은 경사 더욱 성하리
+    거개를 용납할 높은 문이 더 높여야 하리
+    준마의 발이 쾌히 달릴 것을 멀리 기대하고
+    계수 가지가 새로 월궁에 자라나리
+    미관인 내가 후일 천조에 가게 되면
+    아융과 청담 함께 하오리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0790&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 좌광록(左光祿) : '
+    value: 벼슬 이름. 성은 왕씨(王氏)이고, 이름은 미상이다.
+  - key: '[주-D002] 거리를 채울 좋은 경사 : '
+    value: 진(晉)나라 가규(賈逵)가 아들을 낳고, 이 아이는 장차 귀하게 되어 거마(車馬)가 문앞에 충만한 경사가 있을 것이라 하여 이름을 충(充)이라 짓고, 자(字)를 공려(公閭)라 지었다.
+  - key: '[주-D003] 거개(車蓋)를 용납할 높은 문 : '
+    value: 한(漢)나라 우공(于公)이 옥(獄)을 다스리는데, 음덕(陰德)을 많이 쌓고, 집을 지으면 대문을 높고 크게 만들면서, “내 자손중에 반드시 귀한 자가 날 것이니 사마(駟馬)와 높은 일산[蓋]이 출입할 만큼 문을 크게 한다.” 하더니, 뒤에 과연 우정국(于定國)이 나서 벼슬이 정위(廷尉)에까지 이르렀다.
+  - key: '[주-D004] 아융(阿戎) : '
+    value: 진(晉)나라 왕융(王戎)은 왕혼(王渾)의 아들이다. 완적(阮籍)이 왕융보다 20세가 많은데도 융(戎)과 벗이 되었는데, 완적이 매양 그 집에 가서는 그의 아버지 혼(渾)에게는 잠깐 들렀다가 융의 방에 가서는 오래 이야기하고 나와서 혼(渾)에게 이르기를, “자네와 이야기하는 것이 아융(阿戎)과 이야기함만 못하네.” 하였다.
+english:
+  title: Congratulatory Poem for the Left Commandant of the Jin Embassy upon Receiving News of the Birth of a Son
+  author: Choe Seon
+  language: eng
+  text: |-
+    A letter from the north arrives along the relay roads,
+    And word reaches us: the dream within the household has come true.
+    Blessings to fill the streets multiply ever more,
+    As high gates must rise still higher to receive such fortune.
+    Swift steeds gallop forward to distant hope,
+    While cinnamon branches newly flourish in the moon's palace.
+    When I, a minor official, journey to court in days ahead,
+    I shall share in clear discourse with one as cherished as A-Jung.
+  footnotes:
+  - key: ''
+    value: The reference to 'dream within the household' alludes to the auspicious dream of bearing a son, traditionally a sign of great fortune.
+  - key: ''
+    value: The imagery of 'blessings filling the streets' and 'gates rising higher' draws from classical tales of how noble descendants bring increasing prosperity and prominence to a family.
+  - key: ''
+    value: A-Jung refers to Wang Rong of the Jin dynasty, known for his exceptional wisdom and virtue. Ruan Ji, though twenty years his senior, valued conversation with A-Jung above all others—here used as an ideal of intellectual companionship and worth.

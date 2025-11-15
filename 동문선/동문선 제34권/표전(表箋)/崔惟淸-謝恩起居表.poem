@@ -1,0 +1,31 @@
+canonical:
+  title: 謝恩起居表
+  author: 崔惟淸
+  language: lzh
+  text: 曾覩龍顔倍切尋常之懇每承鳳詔如親咫尺之威遐祝之勤大明是照
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝恩起居表
+  author: 崔惟淸
+  language: lzh
+  text: 曾覩龍顔。倍切尋常之懇。每承鳳詔。如親咫尺之威。遐祝之勤。大明是照。
+korean:
+  title: 사은기거표
+  author: 최유청
+  language: kor
+  text: 일찍이 용안(龍顔)을 뵈었사오니 심상한 그리움보다 갑절이나 간절하오며, 봉조(鳳詔)를 받자올 때마다 지척(咫尺)에서 위엄을 친히 모시듯이 멀리 만세를 축수하는 이 정성을 높은 해가 비추어 주실 줄 믿사옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0370_010_0070&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial of Gratitude for Imperial Favor
+  author: Choi Yu-cheong
+  language: eng
+  text: Having once beheld the Dragon Countenance of Your Majesty, my longing grows manifold deeper than ordinary affection. Each time I receive the Phoenix Edict, it is as though I stand in the very presence of celestial authority. I humbly trust that the Radiant Sun itself shall illuminate this distant servant's earnest prayers for ten thousand years of imperial grace.
+  footnotes:
+  - key: ''
+    value: Dragon Countenance and Phoenix Edict are classical metaphors for the emperor's presence and imperial edicts respectively.
+  - key: ''
+    value: The phrase 'ten thousand years' expresses wishes for the emperor's eternal reign and prosperity.
+  - key: ''
+    value: This memorial employs the formal register of court petitions, combining expressions of personal devotion with cosmic imagery to honor imperial benevolence.

@@ -1,0 +1,38 @@
+canonical:
+  title: 謝酒食表
+  author: 金富軾
+  language: lzh
+  text: 右臣某言今月十一日夜直次入內侍某官某奉傳旨特賜臣酒食者祗承寵渥伏切震惶中謝 器淺斗筲榮參槐鼎若酒惟麴曾無殷相之謀不畋胡貆但被魏人之刺常愧君恩之難報又叨臺餽之有加伏遇云云薰然慈仁好是正直愛勞臣則推食以接韓信尊高士則設醴以待穆生兼容不才致此奇遇旣醉旣飽豈不感於爲光如山如陵切自期於歸美
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝酒食表
+  author: 金富軾
+  language: lzh
+  text: 右臣某言。今月十一日夜。直次入內侍某官某奉傳旨。特賜臣酒食者。祗承寵渥。伏切震惶。中謝。 器淺斗筲。榮參槐鼎。若酒惟麴。曾無殷相之謀。不畋胡貆。但被魏人之刺。常愧君恩之難報。又叨臺餽之有加。伏遇云云。薰然慈仁。好是正直。愛勞臣則推食以接韓信。尊高士則設醴以待穆生。兼容不才。致此奇遇。旣醉旣飽。豈不感於爲光。如山如陵。切自期於歸美。
+korean:
+  title: 사 주식 표
+  author: 김부식
+  language: kor
+  text: 신 모는 아뢰옵나이다.이달 11일에 밤에 숙직으로 들어간 내시(內侍) 모관 모가 전지(傳旨)를 받들어 특히 신에게 주식(酒食)을 내리셨으므로, 삼가 은택을 받듦에 엎드려 황송하옵니다. 중사(中謝) 그릇이 두소(斗筲)같이 얕음으로써 찬란하게 괴정(槐鼎)에 참예했사오니 술과 누룩[麴]은 일찍이 은(殷)나라 정승의 꾀가 없는데 사냥하지 않고 어찌 갖옷을 입겠습니까. 다만 위(魏)나라 사람의 풍자[刺]함을 입었습니다. 그래서 항상 임금의 은혜를 갚기 어려움을 부끄러워하였는데 또 외람되게 대(臺)에서 먹이는 것이 더함을 받고 엎드려 이러저러한 은총을 입었사오니, 이것은 대개 전하께서 훈훈한 어지심으로 바로 정직함을 좋아하셔서입니다. 공로 있는 신하를 사랑하심은 밥을 미루어 한신(韓信)을 대접함과 같음이요, 높은 선비를 존경하심은 단술을 베풀어 목생(穆生)을 대접함과 같은 것입니다. 이 부재(不才)를 사랑하시어 이런 기특한 대우를 입사오니, 이미 취하고 이미 배부름에 어찌 이 영광에 감격되지 않사오리이까. 산과 같이 언덕과 같이 오래 사시기를 간절히 축원하옵고 아름다움을 돌리옵기를 스스로 기약하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0380_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 밥을 …… 같음이요 : '
+    value: 한(漢)나라 한신(韓信)이 대장으로 큰 공을 이루어 제왕(齊王)에 봉하였는데, 항우(項羽)가 사람을 시켜 한왕(漢王)을 배반하고 중립(中立)하기를 권하였다. 한신은, “한왕이 자기의 밥을 미루어 나를 먹이고 옷을 벗어 나를 입혔으니 은혜를 배반할 수 없다.” 하였다.
+  - key: '[주-D002] 단술을 …… 같은 것 : '
+    value: 한(漢)나라 초원왕(楚元王)이 목생(穆生)을 우대하여 목생이 술을 먹지 못하므로 연회 때에는 단술을 따로 마련하였다.
+english:
+  title: Memorial of Thanks for Imperial Wine and Feast
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Your servant humbly reports: On the eleventh night of this month, the eunuch on night duty delivered the imperial decree, and Your Majesty graciously bestowed upon me wine and sustenance. I receive this favor with trembling reverence.
+
+    In deeper gratitude: My vessel is but shallow as a bushel measure, yet I have been honored to stand among the great vessels of state. As for wine and grain, I possess none of the schemes of ancient ministers. I have never hunted the forbidden game, yet still bear the critique of those who observe. Thus I am ever ashamed that the royal kindness is difficult to repay, and now, undeserving as I am, I receive this additional bounty from the palace.
+
+    This generosity flows from Your Majesty's benevolent heart and love of righteousness. When you favor diligent servants, you push forward your own meal to feast them, as with Han Xin of old. When you honor noble scholars, you set forth sweet wine to receive them, as with Mu Sheng. Though I am but mediocre talent, I have been granted this extraordinary favor. Now satiated and content, how can my heart not overflow with gratitude? Like the mountains enduring, like the hills eternal, I earnestly pray for your longevity and vow to return this honor with virtue.
+  footnotes:
+  - key: ''
+    value: 'Han Xin was a celebrated general of the Han dynasty who received the rank of King of Qi. When tempted to betray his lord, he refused, saying: ''The Han king shared his food with me and clothed me from his own garments—I cannot repay such kindness with betrayal.'''
+  - key: ''
+    value: Mu Sheng was a respected scholar during the Han dynasty whom the King of Chu so honored that, knowing Mu Sheng abstained from ordinary wine, the king prepared special sweet wine for him at every feast.

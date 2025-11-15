@@ -1,0 +1,29 @@
+canonical:
+  title: 物狀
+  author: 李元膺
+  language: lzh
+  text: 嘉生用阜皆自財成明信可羞敢輸微薄前件物等品從下錯物乏多儀類食芹以獻尊誠慚不腆謂納汙而爲大仰冀有容
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 李元膺
+  language: lzh
+  text: 嘉生用阜。皆自財成。明信可羞。敢輸微薄。前件物等。品從下錯。物乏多儀。類食芹以獻尊。誠慚不腆。謂納汙而爲大。仰冀有容。
+korean:
+  title: 물장
+  author: 이원응
+  language: kor
+  text: 아름다운 물산을 두터이 함은 육성하여 이룸으로부터요, 밝고 신실[明信]하면 임금께 올림이 가하기에 감히 미박(薇薄)한 물품을 올리나이다.앞의 물건들은 품질도 하착(下錯)이요, 모양도 보잘것 없어 마치 미나리를 먹다가 임금께 올림과 같아서 진실로 변변치 못함을 부끄럽게 여깁니다. 하오나, 구정물까지도 받아들여 큰 바다를 이루듯이 용납해 주시기를 우러러 바라나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: Presentation of Humble Offerings
+  author: Lee Won-eung
+  language: eng
+  text: The flourishing of fair tribute springs from cultivation and completion. Where clarity and sincerity dwell, the court receives what is offered—thus I dare present these meager goods. The items before you are of humble grade, their forms unprepossessing; like one who gathers watercress to lay before the throne, I am truly ashamed of their modest worth. Yet I humbly beseech that you receive even the waters of gutters as streams flowing toward the great ocean, encompassing all with boundless grace.
+  footnotes:
+  - key: ''
+    value: The watercress metaphor refers to a common classical trope about presenting insignificant offerings with utmost sincerity and respect.
+  - key: ''
+    value: The image of gutters forming an ocean alludes to the Confucian ideal of a sage ruler whose virtue accepts all things, however humble, transforming them into something greater.

@@ -1,0 +1,47 @@
+canonical:
+  title: 壬寅淸州作
+  author: 元松壽
+  language: lzh
+  text: 去歲鸞輿出鳳城雲離雨散淚盈盈誰知今日猶存喘却想當時似隔生頭白忽驚聞老大眼明深喜見昇平作詩不是眞乘興聊記臨津路上行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 壬寅淸州作
+  author: 元松壽
+  language: lzh
+  text: 去歲鸞輿出鳳城。雲離雨散淚盈盈。誰知今日猶存喘。却想當時似隔生。頭白忽驚聞老大。眼明深喜見昇平。作詩不是眞乘興。聊記臨津路上行。
+korean:
+  title: 임인 청주작
+  author: 원송수
+  language: kor
+  text: |-
+    작년에 어가가 서울 떠날 때에
+    구름 갈리 듯 비 흩어지 듯 눈물만 흘렸더니
+    오늘까지 살아있을 줄 뉘 알았으리
+    당시를 생각하니 전생일 같구나
+    늙었단 말 들으니 머리 센 것 새삼 놀랍고
+    태평을 다시 보니 눈이 환히 기쁘네
+    내 짓는 시 흥이 나서 짓는 것 아니고
+    임진강 건너오던 일 적어 두려 함이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 작년에 …… 때에 : '
+    value: 공민왕(恭愍王)이 홍건적(紅巾賊)의 침입을 피해 송도를 떠나 복주(福州)로 향하던 때.
+english:
+  title: Written in Cheongju in the Year of Imyin
+  author: Won Song-su
+  language: eng
+  text: |-
+    Last year the royal carriage departed from the capital.
+    Clouds scattered, rain dispersed, yet tears flowed without end.
+    Who could have known we would survive until today?
+    Recalling that time, it feels like another lifetime ago.
+    My hair turned white—I'm startled anew to hear it said.
+    My eyes grow bright with joy to witness peace restored.
+    This poem I write is not born of sudden inspiration,
+    But merely a record of our crossing at the Imjin River.
+  footnotes:
+  - key: ''
+    value: The royal carriage's departure refers to King Gongmin's flight from Seoul to escape the invasion of the Red Turban rebels.
+  - key: ''
+    value: The Imjin River crossing represents the difficult journey of the court's exile and their hope for return to peace.

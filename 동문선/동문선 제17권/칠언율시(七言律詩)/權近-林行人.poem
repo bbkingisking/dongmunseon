@@ -1,0 +1,60 @@
+canonical:
+  title: 林行人
+  author: 權近
+  language: lzh
+  text: 銅柱扶桑四海遙盛時聲敎煥文昭裕孫成德湯傳甲協帝重華舜繼堯曆改月正尊大統天開星象供中霄臨分贈別無長策莫謂吾謀似繞朝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 林行人
+  author: 權近
+  language: lzh
+  text: 銅柱扶桑四海遙。盛時聲敎煥文昭。裕孫成德湯傳甲。協帝重華舜繼堯。曆改月正尊大統。天開星象供中霄。臨分贈別無長策。莫謂吾謀似繞朝。
+korean:
+  title: 사절로 왔다가 돌아가는 임행인
+  author: 권근
+  language: kor
+  text: |-
+    구리 기둥과 부상, 사해가 멀어도
+    성대에 성교하니 문명이 찬란하네
+    후손이 덕을 이뤄 탕이 태갑에 전하고
+    임금 도와 거듭 빛나 순이 요를 이은 일
+    책력에 정월을 고침은 대통을 높임
+    하늘은 성상을 열어 중천에 이바지하네
+    작별할 때 주는 말씀 별다른 것 없사오니
+    내 꾀가 요조같다고 행여 이르지 마옵소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 행인(行人) : '
+    value: 외교(外交)를 맡은 관명(官名)이다.
+  - key: '[주-D002] 구리 기둥 : '
+    value: 한(漢)나라 마원(馬援)이 교지(交趾)를 정복하고 구리기둥을 세워 한(漢)의 경계를 표시하였다.
+  - key: '[주-D003] 임금 도와 거듭 빛나 : '
+    value: 순(舜) 임금을 찬미하는 말인데, 소(疏)엔, “순(舜)이 요(堯)를 이어 그 문덕(文德)을 거듭 빛낸다.” 했다.
+  - key: '[주-D004] 책력에 정월을 고침은 : '
+    value: 하(夏)ㆍ은(殷)ㆍ주(周) 3대 이래 왕조가 바뀔 때마다 역서(曆書)의 정월이 달라졌다.
+  - key: '[주-D005] 요조(繞朝) : '
+    value: 춘추(春秋) 시대 때에 진(晉)나라 사회(士會)가 망명하여 진(秦)나라에 가서 벼슬을 하고 있었는데, 그 뒤 진(晉)나라에서 다시 사회(士會)를 불러 쓰려다가 싸움이 나서 두 나라 군수가 하수(河水) 양쪽에서 대진하게 되었다. 강화(講和)의 대표로 사회를 보내라고 청하니, 진(秦)나라 요조(繞朝)라는 사람이, “사회가 가면 오지 않을 것이니 보내서는 안된다.”고 하였으나 진(秦)나라에서는 마침내 사회를 보내기로 하였다. 출발할 때에 요조(繞朝)가 사회에게 채찍을 주면서, “자네는 진(秦)나라에 사람이 없다 하지 말라. 내 꾀를 쓰지 않았을 뿐이다.” 하였다.
+english:
+  title: To a Departing Envoy
+  author: Gwon Geun
+  language: eng
+  text: |-
+    Though copper pillars and Fusang lie distant, and the four seas stretch far,
+    In splendid times your court's teachings shine with brilliant cultural light.
+    Successors perfected virtue as Tang passed the throne to his heir,
+    As sage rulers together brightened what Shun inherited from Yao.
+
+    Calendars reformed, the first month honored, the great succession confirmed,
+    Heaven opens its stars to grace the midnight sky.
+    At parting, I offer no elaborate strategy or cunning plan—
+    Do not mistake my counsel for the schemes of those who merely talk.
+  footnotes:
+  - key: ''
+    value: The copper pillars reference the boundary markers that Han dynasty general Ma Yuan erected in Jiaozhou, symbolizing the reach of imperial authority.
+  - key: ''
+    value: The succession of virtuous rulers—Tang to his heir, Shun inheriting from Yao—invokes the classical Chinese ideal of sage-kings passing enlightened rule to worthy successors.
+  - key: ''
+    value: The calendar reform alludes to how successive dynasties changed the official calendar to mark their legitimacy and cosmic authority.
+  - key: ''
+    value: 'The final couplet contains a subtle warning: the poet advises the envoy not to rely on clever scheming (referencing the historical figure Raochao), but instead to trust in straightforward virtue and honest counsel.'

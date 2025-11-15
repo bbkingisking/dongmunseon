@@ -1,0 +1,46 @@
+canonical:
+  title: 對馬島舟中夜坐二首
+  author: 金訢
+  language: lzh
+  text: 一天秋色海迢迢萬里歸心逐去潮半夜西風吹客老韶顔明目定全消獨揭孤篷枕不安西風一夕晩潮寒海天秋色尋無處却向潘郞鬢上看
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 對馬島舟中夜坐二首
+  author: 金訢
+  language: lzh
+  text: 一天秋色海迢迢。萬里歸心逐去潮。半夜西風吹客老。韶顔明目定全消。獨揭孤篷枕不安。西風一夕晩潮寒。海天秋色尋無處。却向潘郞鬢上看。
+korean:
+  title: 대마도 주중 야좌 이수
+  author: 김흔
+  language: kor
+  text: |-
+    온 하늘에는 가을 빛이요 바다는 멀고 먼데
+    만리에 돌아가는 마음이 가는 조수 좇는다
+    밤중의 서쪽 바람 불어 손을 늙게 하거니
+    빛나는 얼굴과 밝은 눈이 완전히 사라지리
+    혼자 외로운 뜸을 걸고 배개가 편치 않은데
+    서쪽 바람 하루 저녁에 저문 조수가 차다
+    바다 하늘의 가을 빛은 찾아도 간곳이 없어
+    도리어 반랑을 향해 살쩍을 바라본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0880&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 반랑(潘郞) : '
+    value: 진(晉)나라의 반악(潘岳)이라는 사람은 인물 잘 생기기로 유명한 시인이었다. 그는 32세에 머리털이 세기 시작하였다. 그래서 지금도 32세를 2 모지년(二毛之年) 즉 두 가지 털이 되는 나이라고 한다.
+english:
+  title: 'Two Poems: Night Sitting Alone on a Boat at Tsushima Island'
+  author: Kim Heun
+  language: eng
+  text: |-
+    Across the whole sky, autumn's hue; the sea stretches far and wide.
+    Ten thousand miles from home, my heart pursues the ebbing tide.
+    At midnight the west wind blows and ages this traveler's hand—
+    Radiant face and bright eyes fade like morning's fading land.
+
+    Alone I raise the lonely sail, my pillow brings no rest.
+    The west wind through the evening chill cuts bitter from the west.
+    The autumn colors of sea and sky—where have they gone to hide?
+    Instead I see them mirrored in Panlang's graying hair-line tide.
+  footnotes:
+  - key: ''
+    value: Panlang (潘郞) refers to Pan Yue of the Jin Dynasty, a renowned poet celebrated for his exceptional beauty. He famously began to gray at thirty-two, leading to the poetic expression 'two-colored hair' (二毛之年) to describe that age. The poem plays on this cultural reference, suggesting that beauty itself cannot escape time's passage.

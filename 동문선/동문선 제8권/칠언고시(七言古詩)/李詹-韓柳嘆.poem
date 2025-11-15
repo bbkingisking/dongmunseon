@@ -1,0 +1,90 @@
+canonical:
+  title: 韓柳嘆
+  author: 李詹
+  language: lzh
+  text: 君不見韓退之文章可起八代衰又不見柳子厚天脫馽覊高步驟元和年閒共南流韓爲潮州柳柳州虺蛇爭結鱷如舟叵堪瘴癘恒愁憂居然長股薦蝦蟆對案欲啖還咨嗟惡溪黃霧冉溪沙思君不復更思家承恩一朝得生還天宮再拜見龍顔逆鱗附勢罪有間誰怜夢奠埋南蠻兩賢窮達關天時世上小兒宜不知古人今人同一規安用炎荒留滯爲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 韓柳嘆
+  author: 李詹
+  language: lzh
+  text: 君不見韓退之。文章可起八代衰。又不見柳子厚。天脫馽覊高步驟。元和年閒共南流。韓爲潮州柳柳州。虺蛇爭結鱷如舟。叵堪瘴癘恒愁憂。居然長股薦蝦蟆。對案欲啖還咨嗟。惡溪黃霧冉溪沙。思君不復更思家。承恩一朝得生還。天宮再拜見龍顔。逆鱗附勢罪有間。誰怜夢奠埋南蠻。兩賢窮達關天時。世上小兒宜不知。古人今人同一規。安用炎荒留滯爲。
+korean:
+  title: 한유탄
+  author: 이첨
+  language: kor
+  text: |-
+    그대는 못 보았나, 한퇴지의 문장이 팔대의 쇠한 기둥 떨쳐 일으켰던 것을
+    또 못 보았나, 유자후는 하늘이 굴레를 벗겨 마음대로 뛴 것을
+    원화 연간에 함께 남으로 귀양갔으니
+    한은 조주로, 유는 유주로
+    구렁이가 득실거리고 악어는 배만한데
+    장기, 여역 중에서 걱정 근심 하도 해라
+    두꺼비는 긴 다리를 밥상에 놓고서
+    먹으려다 못 먹고 기나긴 한숨
+    악계(조주(潮州)에 있다)의 누른 안개, 염계(유주(柳州)에 있다)의 모래에서
+    임금만 생각하고 집 생각은 안 하였네
+    일조에 은혜 받아 살아 돌아가서
+    대궐에 재배하고 용안을 뵈었네
+    역린과 부세는 죄가 차이 있었으니
+    몽전하여 남만에 묻힌 것 누가 가엾이 여기랴
+    두 분의 궁달은 천운에 관계된 것
+    세상의 어린애들 모름이 마땅하구나
+    옛사람 지금 사람 모두 다 같은 일
+    내 어이 남쪽 먼 곳에 오래 묵어 살 것가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 한유(韓柳) : '
+    value: 한유(韓愈)와 유종원(柳宗元)을 말한다.
+  - key: '[주-D002] 한퇴지(韓退之)의 …… 것을 : '
+    value: 소동파(蘇東坡)가 지은 〈한문공묘비(韓文公廟碑)〉에, “문장이 8대의 쇠퇴한 것을 일으켰다[文起八代之衰].”는 구절이 있는데, 8대는 후한(後漢) 위(魏) 육조(六朝)의 변려문(騈儷文) 시대를 말하며, 한퇴지(韓退之)가 그것을 개혁하고 고문(古文)을 창도(倡導)하였다.
+  - key: '[주-D003] 유자후(柳子厚)는 …… 것을 : '
+    value: 유자후(柳子厚)가 죽은 뒤에 한퇴지가 제문을 지었는데, “하늘이 굴레를 벗겼다[天脫馽霸].”는 말이 있다.
+  - key: '[주-D004] 원화(元和) : '
+    value: 당(唐) 헌종(憲宗)의 연호. 806~820년.
+  - key: '[주-D005] 구렁이가 득실거리고 : '
+    value: 유자후가 영주 자사(永州刺史)로 있을 때에 독사(毒蛇)가 많으므로 〈포사자설(捕蛇者說)〉을 지었다.
+  - key: '[주-D006] 악어(鰐魚) : '
+    value: 한퇴지가 조주 자사(潮州刺史)로 있을 때에 악어(鰐魚)가 해를 끼치므로 〈제악어문(祭鰐魚文)〉을 지었다.
+  - key: '[주-D007] 역린(逆鱗) : '
+    value: 임금에게 직간(直諫)하다가 노염을 사는 것. 즉 용(龍)의 턱 밑에 거슬려 난 비늘을 건드리면 성을 낸다는 데서 온 말인데, 한퇴지(韓退之)가 〈불골표(佛骨表)〉를 올려 임금의 뜻을 거스른 것을 말한다.
+  - key: '[주-D008] 부세(附勢) : '
+    value: 유자후가 처음에 왕비(王伾)와 왕숙문(王叔文)의 세력에 붙었다가 그들이 패하자 유자후가 귀양간 것을 말한다.
+english:
+  title: A Lament for Han Yu and Liu Zongyuan
+  author: Lee Cham
+  language: eng
+  text: |-
+    Have you not seen Han Tui-zhi, whose essays lifted the decline of eight ages?
+    Have you not seen Liu Zi-hou, whom Heaven freed from bridle to roam at will?
+
+    In the Yuan-he years they journeyed south together in exile—
+    Han to Chaozhou, Liu to Liuzhou.
+    In waters where serpents writhe and crocodiles loam large as boats,
+    Amid plague-winds and miasmal heat, what endless sorrow they bore!
+
+    Toads with long legs rest upon their tables,
+    Yet they pause mid-meal, sighing without end.
+    Through Ac Creek's yellow mist, through Cold Stream's sandy veil,
+    They thought only of their lord, forgot their homes.
+
+    One day, restored by imperial grace, they returned alive,
+    Bowing twice before the Dragon Face in the palace hall.
+    Yet touching the Dragon's reverse scales brought sin's own measure,
+    And serving power's faction sealed their fate—
+    Who now mourns their dreams, buried in the southern wilds?
+
+    Two worthies' fortunes rest upon Heaven's time.
+    The common folk below need not comprehend.
+    Ancient and modern alike follow one path—
+    Why should any linger long in distant, burning lands?
+  footnotes:
+  - key: ''
+    value: Han Yu (韓愈) and Liu Zongyuan (柳宗元) were both exiled to the south during the Yuan-he era (806-820) of the Tang Dynasty. Han was appointed to Chaozhou and Liu to Liuzhou.
+  - key: ''
+    value: Han Yu is traditionally credited with reviving Classical Chinese prose and ending the dominance of ornate parallel prose that had prevailed through six dynasties.
+  - key: ''
+    value: Liu Zongyuan's famous essay 'Record of the Snake Catcher' describes the venomous snakes of his region; Han Yu famously wrote a ritual exorcism text against crocodiles that plagued Chaozhou.
+  - key: ''
+    value: Han Yu's remonstrance against the veneration of the Buddha's relics (the 'Memorial on the Buddha-bone') brought him imperial disfavor, while Liu Zongyuan's association with the Wang Shuwen faction led to his exile.

@@ -1,0 +1,35 @@
+canonical:
+  title: 次安謹齋題竹院
+  author: 安震
+  language: lzh
+  text: 西堂多後學風味亦依前挽袖爭添酒何輸昔少年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次安謹齋題竹院
+  author: 安震
+  language: lzh
+  text: 西堂多後學。風味亦依前。挽袖爭添酒。何輸昔少年。
+korean:
+  title: 안근재의 죽원에 제한 시에 차운하여
+  author: 안진
+  language: kor
+  text: |-
+    서당에 후학이 많아
+    풍미 또한 예전과 같다
+    소매를 이끌어 술 권하기를 다투니
+    어찌 옛 소년에게 질소냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0310&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to An Geun-jae's Poem on the Bamboo Courtyard
+  author: An Jin
+  language: eng
+  text: |-
+    The western hall fills with eager students,
+    the spirit and flavor unchanged from before.
+    We tug at our sleeves, competing to pour the wine—
+    how do we yield to the vigor of youth long past?
+  footnotes:
+  - key: ''
+    value: The 'western hall' (西堂) refers to a study or scholarly retreat, suggesting a place of learning and gathering. 'Bamboo courtyard' (竹院) traditionally symbolizes scholarly refinement and virtuousness in East Asian poetry.

@@ -1,0 +1,47 @@
+canonical:
+  title: 進退格
+  author: 林椿
+  language: lzh
+  text: 十年流落負生涯觸處那堪感物華秋月春風詩准備旅愁覊思酒消磨縱無功業傳千古還有文章自一家盛世偸閑殊不惡從敎身世轉蹉𧿶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 進退格
+  author: 林椿
+  language: lzh
+  text: 十年流落負生涯。觸處那堪感物華。秋月春風詩准備。旅愁覊思酒消磨。縱無功業傳千古。還有文章自一家。盛世偸閑殊不惡。從敎身世轉蹉𧿶。
+korean:
+  title: 친구에게 부치며[寄友人] 진퇴격
+  author: 임춘
+  language: kor
+  text: |-
+    10년 동안 떠돌면서 생애를 저버린 몸
+    간 곳마다 차마 어찌 경치를 대하리
+    봄바람 가을달에 시는 준비되었고
+    나그네 시름 유랑의 회포는 술로 활활
+    천추에 전할 만한 공업은 없을망정
+    문장은 일가를 이루었구나
+    성세에 한가함도 과히 언짢지 않은 일
+    내 신세 하불우해도 그대로 맡겨두리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: On Advancing and Retreating
+  author: Im Chun
+  language: eng
+  text: |-
+    Ten years adrift, I have squandered my life's course.
+    Wherever I go, how can I bear to face the beauty of things?
+    Spring breeze and autumn moon—poetry awaits me still;
+    A wanderer's sorrow, exile's longing—wine dissolves them all.
+    Though no great deeds shall pass down through the ages,
+    Yet my writings have established their own tradition.
+    In this prosperous age, to steal a moment's ease is no disgrace;
+    Let my fate turn as it will—I accept what comes.
+  footnotes:
+  - key: ''
+    value: The title 'On Advancing and Retreating' reflects the tension between the poet's ambitions and his acceptance of reclusive life.
+  - key: ''
+    value: The poem was addressed to a friend, capturing a moment of candid reflection on the poet's wandering life and literary accomplishments.
+  - key: ''
+    value: The couplet about 'spring breeze and autumn moon' and 'wine' references classical poetic tropes of solace found in nature and drink when burdened by worldly sorrows.

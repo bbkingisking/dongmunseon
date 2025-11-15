@@ -1,0 +1,43 @@
+canonical:
+  title: 謝賜音註資治通鑑表
+  author: 無名氏
+  language: lzh
+  text: 聖明御極運啓隆平海甸霑恩情深感佩撫躬罔措銘骨何忘竊念敝封僻處荒徼故載籍之罕見乃孤陋而寡聞莫究道義之源實維墻面詎知安危之轍祗自棘心冒陳敷奏之煩敢望允兪之亟今値賤介之返特頒秘府之藏惟胡氏音註之精微炳如指掌集史家訓解而纖悉誠宜服膺且刓缺之諸書許刊補而續賜殊私至此前昔所稀玆盖伏遇化洽同文仁敦率育稽虞典之敷敎樂周詩之作人遂令孱資叨荷異寵臣謹當手披目覩博觀百代之編日升月恒恭申萬年之祝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝賜音註資治通鑑表
+  author: 無名氏
+  language: lzh
+  text: 聖明御極。運啓隆平。海甸霑恩。情深感佩。撫躬罔措。銘骨何忘。竊念敝封。僻處荒徼。故載籍之罕見。乃孤陋而寡聞。莫究道義之源。實維墻面。詎知安危之轍。祗自棘心。冒陳敷奏之煩。敢望允兪之亟。今値賤介之返。特頒秘府之藏。惟胡氏音註之精微。炳如指掌。集史家訓解而纖悉。誠宜服膺。且刓缺之諸書。許刊補而續賜。殊私至此。前昔所稀。玆盖伏遇化洽同文。仁敦率育。稽虞典之敷敎。樂周詩之作人。遂令孱資。叨荷異寵。臣謹當手披目覩。博觀百代之編。日升月恒。恭申萬年之祝。
+korean:
+  title: 음주 자치통감의 하사를 사례하는 글
+  author: 무명씨
+  language: kor
+  text: 성명(聖明)께서 즉위하시니 운수가 태평을 열었고, 바다 나라까지 은택에 젖으니 감격하는 마음이 깊어서, 제 몸을 돌아보아 둘 곳을 모르며 뼈에 새기어 어찌 잊으오리까.그윽이 생각하오니, 우리 강토는 궁벽하게 변방에 있기 때문에 서적을 드물게 보아 고루하여 들은 것이 적으므로, 도의(道義)의 근원을 궁구하지 못하매 실로 낯을 담장에 댄 것과 같았으며, 어찌 안위(安危)의 전철(前轍)을 알겠습니까. 다만 스스로 마음에 가시[棘]가 났습니다. 염치를 무릅쓰고 아뢰기를 자주하였사오나 어찌 윤허함이 빠르기를 바랐겠습니까. 지금 천한 사신이 돌아오자 특히 비부(秘府)의 간직하였던 것을 반포해 주셨습니다. 오직 호씨음주(胡氏音註)의 정미함은 환하기가 손바닥을 가리키는 것 같아서, 사가(史家)의 훈해(訓解)를 모아 자세히 하였으니, 진실로 마땅히 읽을 만하며 또 결락(缺落)되어 있는 모든 책도 보완(補完)하는 대로 잇따라 주실 것을 허락하시니, 특수한 은혜가 이에까지 이름은 옛적에도 드문 바입니다. 이것은 대개 황제께서 교화가 동문(同文)에 흡족하고, 인(仁)함은 천하를 모두 기르는데 돈독하여, 우전(虞典)의 가르침을 펴는 것을 상고하고, 주시(周詩)의 인재 만드는 것을 즐겨하여서, 드디어 미미한 자질로 하여금 특이한 사랑을 외람히 입게 하심을 엎드려 만나게 된 것입니다. 신은 삼가 마땅히 손으로 펴고 눈으로 보아, 백대(百代)의 책을 널리 보고, 해가 떠오르듯 달이 장구한 것과 같이 만년의 수를 공경히 빌겠습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0410_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동문(同文) : '
+    value: 서동문(書同文)이란 말이 있는데, 천하를 통일하여 문자를 통일하게 한다는 것이다. 《中庸》
+  - key: '[주-D002] 우전(虞典)의 가르침 : '
+    value: 순(舜)이 설(契)에게, “오교(五敎)를 펴라.” 하였는데, 오교는 맹자(孟子)의 해설에 의하면 부자유친(父子有親) 등의 오륜(五倫)이라 한다.
+  - key: '[주-D003] 주시(周詩)의 …… 것 : '
+    value: 《시경》에, “어찌 사람을 만들지 아니하랴.[胡不作人]” 한 구절이 있다.
+english:
+  title: Memorial of Gratitude for the Bestowed Annotated Edition of the Comprehensive Mirror for Aid in Governance
+  language: eng
+  text: |-
+    When the Sage-Emperor ascends the throne, fortune opens the way to tranquility and peace. Even the distant lands grow moist with imperial grace, and my heart swells with gratitude so profound that I know not where to place myself—this debt is carved upon my very bones, never to be forgotten.
+
+    In quiet reflection, I consider that our realm lies remote in the wilderness of the frontier, where records are seldom seen and learning runs shallow. Ignorant and narrow in understanding, I have failed to plumb the sources of righteousness and propriety—truly I stand with face pressed against the wall. How could I ever comprehend the lessons of safety and peril? My heart remains only wounded by this want of knowledge.
+
+    Bold in my unworthiness, I have presumed to submit my thoughts, though I dared not hope for swift approval. Yet now, as this humble servant returns, His Majesty has specially bestowed upon us the treasures long kept in the imperial archives. The subtle refinements of Hu Shi's annotations shine forth as clearly as lines marked upon the palm, while the accumulated wisdom of the historians becomes precise and detailed—truly worthy of study. Furthermore, the fragmented texts that lay incomplete shall be restored and continuously provided, a generosity so extraordinary that even antiquity knew it not.
+
+    This flows from the Emperor's delight in unified learning among all peoples, and his virtue in nurturing all under heaven with unwavering compassion. He follows the teachings of the Sage Kings and delights in creating worthy ministers. Thus have I, with meager talent, come to receive this unusual favor. I shall reverently unfold these pages before my eyes, surveying the wisdom of a hundred ages, and like the rising sun and the constant moon, I shall offer daily prayers for ten thousand years of imperial blessings.
+  footnotes:
+  - key: ''
+    value: The phrase 'unified learning among all peoples' refers to the classical ideal of achieving cultural and written unity across the realm.
+  - key: ''
+    value: The 'teachings of the Sage Kings' alludes to the Five Relationships—the fundamental principles of human conduct in classical Chinese philosophy.
+  - key: ''
+    value: The work is a memorial expressing gratitude for receiving an annotated edition of the Comprehensive Mirror for Aid in Governance (Zizhi Tongjian), presented as a gift from the imperial court.

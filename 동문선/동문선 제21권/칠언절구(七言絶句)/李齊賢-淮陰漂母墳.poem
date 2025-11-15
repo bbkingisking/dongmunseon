@@ -1,0 +1,68 @@
+canonical:
+  title: 淮陰漂母墳
+  author: 李齊賢
+  language: lzh
+  text: 重士憐窮義自深豈將一飯望千金歸來却責南昌長未必王孫識母心婦人猶解識英雄一見殷勤慰困窮自棄爪牙資敵國項王無賴目重瞳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淮陰漂母墳
+  author: 李齊賢
+  language: lzh
+  text: 重士憐窮義自深。豈將一飯望千金。歸來却責南昌長。未必王孫識母心。婦人猶解識英雄。一見殷勤慰困窮。自棄爪牙資敵國。項王無賴目重瞳。
+korean:
+  title: 회음표모분
+  author: 이제현
+  language: kor
+  text: |-
+    선비를 중히 여기고 궁한 것을 가엾이 여기매 의가 스스로 깊었거늘
+    어찌 한 그릇 밥으로 천금을 바랐겠는가
+    돌아와서는 도리어 남창장을 꾸짖었으니
+    왕손이 반드시 표모의 마음은 알지 못하였도다
+    부인은 그래도 영웅을 알아
+    한 번 보자 은근히 곤궁을 위로했다
+    스스로 조아를 내버려 적국에 주었거니
+    항왕은 쓸데없이 두 눈동자 가졌었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 회음표모분(淮陰漂母墳) : '
+    value: 한신(韓信)이 젊었을 때 집이 가난하여 굶고서 회음성(淮陰城) 밑에서 고기를 낚고 있었는데, 빨래하는 부인[漂母]이 그를 동정(同情)하여 여러 날 밥을 먹였다. 한신이 감사하여, “내가 성공하면 부인에게 후히 갚겠습니다.” 하니, 부인이, “내가 왕손(王孫 한신에게 대한 존칭)을 동정한 것이지, 어찌 뒷날의 갚음을 받기를 바란 것입니까.” 하였다. 그 뒤에 한신이 초왕(楚王)이 되어서 빨래하던 부인을 찾아서 금 천 근을 주었다.
+  - key: '[주-D002] 남창장(南昌長) : '
+    value: 한신이 남창정장(南昌亭長)의 집에서 밥을 얻어 먹었는데, 정장의 아내가 귀찮게 생각하여 밥을 일찍 지어 먹고는 한신이 가면 밥이 없다고 거절하였다. 뒤에 한신이 초왕(楚王)이 되어 남창정장을 불러서, “자네는 소인(小人)이라 은혜를 끝까지 베풀지 못하였다.”고 책하고 백 금(百金)을 주었다.
+  - key: '[주-D003] 조아(爪牙) : '
+    value: 맹수(猛獸)의 어금니와 발톱을 말하는데, 훌륭한 장수는 임금의 조아가 된다는 것이다.
+  - key: '[주-D004] 항왕(項王)은 …… 눈동자 : '
+    value: 항우(項羽)의 눈에 동자(瞳子)가 둘씩이라 한다. 항우가 눈에 동자가 둘씩이나 가졌으면서 한신과 같은 훌륭한 장수를 몰라보고 버려서, 자기의 적(敵)인 한왕(漢王)에게 가도록 하였다는 말이다.
+english:
+  title: The Tomb of the Washerwoman of Huai'yin
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    A noble heart honors the poor and cherishes righteousness—
+    where compassion springs eternal and true.
+    Did she then expect a thousand pieces of gold
+    for one bowl of rice offered in kindness?
+
+    When he returned, he reproached the magistrate of Nanchang instead—
+    never knowing if the prince truly understood
+    his humble savior's heart.
+
+    Yet this woman recognized a hero's worth;
+    she saw him but once, and with tender care
+    soothed his desperate poverty.
+    He, who cast away his fangs and claws
+    to serve the enemy kingdom,
+    would have made the Western King
+    the mightier force.
+
+    But the Tyrant of Chu, blessed with eyes
+    of double pupils—what folly!
+    He failed to see true greatness,
+    and let it slip away.
+  footnotes:
+  - key: ''
+    value: 'This poem commemorates Han Xin (韓信), the celebrated general of the Han dynasty. The poem references two episodes of gratitude: the washerwoman who fed the starving young Han Xin at Huai''yin, asking nothing in return, and the magistrate of Nanchang, whose wife later regretted her meanness when Han Xin became a king.'
+  - key: ''
+    value: The 'fangs and claws' (爪牙) is a metaphor for a general as the sovereign's instrument of power—Han Xin became precisely this, but for the Han rather than the Chu.
+  - key: ''
+    value: Xiang Yu (項羽), the Tyrant of Chu, was legendary for having double pupils in each eye. The irony is that despite this mark of distinction, he failed to recognize or retain Han Xin's genius, allowing him to defect to the Han—thereby ensuring his own defeat.

@@ -1,0 +1,58 @@
+canonical:
+  title: 飮酒
+  author: 李婷
+  language: lzh
+  text: 嵇康好養生養生非享年値亂被殺戮令名終不傳人生一世耳壽非金石堅所以貴我身豈不在眼前生者不再樂歲月如流川願言日飮酒不思愚與賢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 飮酒
+  author: 李婷
+  language: lzh
+  text: 嵇康好養生。養生非享年。値亂被殺戮。令名終不傳。人生一世耳。壽非金石堅。所以貴我身。豈不在眼前。生者不再樂。歲月如流川。願言日飮酒。不思愚與賢。
+korean:
+  title: 음주
+  author: 이정
+  language: kor
+  text: |-
+    혜강은 양생을 좋아했지만
+    양생이 어디 장수더라고
+    난을 만나 살육을 당하였으니
+    좋은 이름 끝내 못 전하였네
+    사람이 한 세상 사는 동안에
+    목숨이 금석같이 굳지 못하니
+    그러므로 내 몸을 귀히 여김이
+    바로 목전에 있지 않을까
+    생이란 것은 두 번은 못 즐기나니
+    세월은 흐르는 냇물 같은 것
+    두어라, 날마다 술이나 먹자
+    현우는 생각해서 그 무엇하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 혜강(嵇康) …… 당하였으니 : '
+    value: 진(晋)나라 해강이 양생론(養生論)을 지었다가 뒤에 남의 모함을 입어 죽음을 당하였다.
+english:
+  title: Drinking Wine
+  author: Lee Jeong
+  language: eng
+  text: |-
+    Xikang loved the art of nurturing life,
+    Yet nurturing life does not lengthen years—
+    Caught in chaos, he fell to the blade,
+    And his good name could not endure.
+
+    In this single lifetime we are given,
+    Our days are not hard as stone or metal.
+    What makes us treasure our own flesh
+    Is not something distant, but right before our eyes.
+    Life cannot be savored twice;
+    The years flow like a running stream.
+
+    So let us cast off all such cares—
+    Each day I shall drink wine,
+    And give no thought to wisdom or to folly.
+  footnotes:
+  - key: ''
+    value: Xikang (嵇康, 224–262 CE) was a renowned philosopher of the Jin Dynasty who wrote the treatise 'On Nourishing Life' (養生論), advocating for natural living and longevity. However, he later fell victim to slander and was executed, dying young despite his philosophy on extending life.
+  - key: ''
+    value: This poem reflects a Daoist and hedonistic response to the uncertainty of fate—if even the sage cannot escape death through careful living, perhaps the wisest course is to embrace life's pleasures in the present moment.

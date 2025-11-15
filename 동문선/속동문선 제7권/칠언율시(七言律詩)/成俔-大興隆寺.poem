@@ -1,0 +1,47 @@
+canonical:
+  title: 大興隆寺
+  author: 成俔
+  language: lzh
+  text: 御溝流水綠溶溶信馬西街到梵宮四面金鈴鳴落日千尋寶塔出層空袈裟院院翻經偈香火人人拜大雄坐久自憐禪榻靜鬢絲輕颺落花風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大興隆寺
+  author: 成俔
+  language: lzh
+  text: 御溝流水綠溶溶。信馬西街到梵宮。四面金鈴鳴落日。千尋寶塔出層空。袈裟院院翻經偈。香火人人拜大雄。坐久自憐禪榻靜。鬢絲輕颺落花風。
+korean:
+  title: 대흥륭사
+  author: 성현
+  language: kor
+  text: |-
+    어구에서 흐르는 물이 용용히 푸른데
+    말을 타고 서쪽 거리로 나가 범궁에 이르렀다
+    사면의 금방울은 떨어지는 해에 울고
+    천길 되는 보배 탑은 높은 하늘에 솟아 있다
+    가사는 절집마다 경게를 뒤적이고
+    향불은 사람마다 대웅전에 예배하다
+    오래 앉아 스스로 선탑의 고요함을 사랑할 제
+    흰 살쩍이 떨어지는 꽃 바람에 가벼이 나부낀다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1150&viewSync=OT
+  footnotes: []
+english:
+  title: The Temple of Great Prosperity
+  author: Seong Hyeon
+  language: eng
+  text: |-
+    The water of the imperial canal flows, dissolving into endless green,
+    Following my horse down the western avenue, I arrive at the Buddha's palace.
+    On all sides, golden bells cry out in the falling sun,
+    The thousand-fathom jeweled pagoda rises into the layered sky.
+    In every hall, monks turn the pages of sacred sutras,
+    Everywhere, worshippers bow in reverence before the great sage.
+    Sitting long, I come to love the stillness of the meditation seat,
+    And my white temples flutter lightly in the wind of falling blossoms.
+  footnotes:
+  - key: ''
+    value: The imperial canal (御溝) references the sacred geography of the temple district, suggesting a journey from the secular to the sacred.
+  - key: ''
+    value: The 'great sage' (大雄) is a traditional epithet for Buddha.
+  - key: ''
+    value: The 'thousand-fathom pagoda' is hyperbolic language for a magnificent, towering structure that seems to pierce the heavens.

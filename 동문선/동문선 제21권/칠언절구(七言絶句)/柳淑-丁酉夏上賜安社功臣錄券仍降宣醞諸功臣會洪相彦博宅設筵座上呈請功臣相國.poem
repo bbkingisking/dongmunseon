@@ -1,0 +1,37 @@
+canonical:
+  title: 丁酉夏上賜安社功臣錄券仍降宣醞諸功臣會洪相彦博宅設筵座上呈請功臣相國
+  author: 柳淑
+  language: lzh
+  text: 雨餘庭院樹陰凉宣醞盈盈白玉觴再拜功臣諸將相願同終始郭汾陽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 丁酉夏上賜安社功臣錄券仍降宣醞諸功臣會洪相彦博宅設筵座上呈請功臣相國
+  author: 柳淑
+  language: lzh
+  text: 雨餘庭院樹陰凉。宣醞盈盈白玉觴。再拜功臣諸將相。願同終始郭汾陽。
+korean:
+  title: 정유 여름에 주상께서 안사공신록권을 내리시고 이내 궁중의 술을 내리시므로 모든 공신이 홍상 언박의 집에서 잔치를 열었다. 좌상에서 여러 공신과 상국에게 올림
+  author: 유숙
+  language: kor
+  text: |-
+    비 온 뒤의 뜰 안에 나무 그늘 시원한데
+    내리신 술 흰 옥잔에 넘쳐 흐른다
+    공신들과 여러 장수와 정승에게 두 번 절 하노니
+    원컨대 그 언제나 곽분양 같아지이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0920&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 곽분양(郭汾陽) : '
+    value: 당(唐)나라 곽자의(郭子儀)를 분양왕(汾陽王)에 봉하였는데, 충성과 공(功)을 끝까지 보존하여 오래 살고 복많기로 유명하였다.
+english:
+  title: Presented at a Banquet Held at the Residence of Minister Hong, Where the Sovereign Bestowed Records of Merit on Ansa Merit-Subjects and Court Wine, Attended by Various Meritorious Officials and the Prime Minister
+  author: Yu Suk
+  language: eng
+  text: |-
+    After the rain, the courtyard trees cast their cooling shade,
+    The sovereign's wine overflows the white jade cup.
+    I bow twice before the merits of generals, ministers, and lords,
+    Praying we might all endure like Guo Fen-yang of old.
+  footnotes:
+  - key: ''
+    value: Guo Fen-yang refers to Guo Ziyi of the Tang Dynasty, who was enfeoffed as Prince of Fen-yang. He was renowned for preserving his loyalty and merit throughout his life, living long with abundant blessings.

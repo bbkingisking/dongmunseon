@@ -1,0 +1,47 @@
+canonical:
+  title: 九日謾成
+  author: 李崇仁
+  language: lzh
+  text: 登臨處處好山川只恨無人送酒錢藍澗一詩今膾炙龍山當日卽神仙天邊白鴈秋聲遠籬下黃花晚色鮮想得故園諸子弟尊前笑我未歸田
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九日謾成
+  author: 李崇仁
+  language: lzh
+  text: 登臨處處好山川。只恨無人送酒錢。藍澗一詩今膾炙。龍山當日卽神仙。天邊白鴈秋聲遠。籬下黃花晚色鮮。想得故園諸子弟。尊前笑我未歸田。
+korean:
+  title: 구일 만성
+  author: 이숭인
+  language: kor
+  text: |-
+    나다니니 곳곳이 좋은 산천이네만
+    술값 보내주는 사람 없음이 한이로군
+    남수 천간 한 구는 지금에도 회자된 시
+    용산 모임 그 날은 모두 다 신선이었네
+    하늘 가의 흰 기러기는 가을 소리 멀디멀고
+    울 밑의 누른 꽃은 늦은 빛깔 산뜻해라
+    생각하니 고원의 여러 자제들 잔 들며
+    전원에 못 돌아가는 나를 모두 웃으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0950&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 남수(藍水), 천간(千澗) 한 구(句) : '
+    value: 두보(杜甫)의 시 ‘9일 남전(藍田) 최씨장(崔氏莊)’의 셋째 연(聯), “남수는 멀리 천 시내를 쫓아 떨어지고.[藍水遠從千澗落]” 하였다.
+english:
+  title: Improvisation on the Ninth Day
+  author: Lee Soong-in
+  language: eng
+  text: |-
+    Wandering here and there, what splendid mountains and streams!
+    Yet my sorrow is that no one sends wine money my way.
+    A line from the Blue Waters—now it echoes through the ages.
+    That gathering at Dragon Mountain—all were immortals that day.
+    White geese beyond heaven carry autumn's distant cry,
+    While yellow flowers below the fence glow fresh in evening light.
+    I think of all the young gentlemen back in my old garden,
+    Raising their cups, laughing at me—still unable to return to my fields.
+  footnotes:
+  - key: ''
+    value: The 'Blue Waters' reference alludes to Du Fu's famous poem on the Ninth Day, celebrating the beauty of mountains and flowing waters—a classical meditation on exile and longing for home.
+  - key: ''
+    value: Dragon Mountain was a celebrated site for scholarly gatherings in Korean literary tradition, often associated with transcendent moments of poetry and friendship.

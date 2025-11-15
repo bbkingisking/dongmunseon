@@ -1,0 +1,49 @@
+canonical:
+  title: 過高靈
+  author: 洪彦忠
+  language: lzh
+  text: 百年城社消磨後一片江山戰伐餘蝸角兩雄誰勝負兎謀三窟竟空虛秋風野水閑浮鴨過客詩篇獨跨驢安得一尊澆往事醉憑天地作籧廬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過高靈
+  author: 洪彦忠
+  language: lzh
+  text: 百年城社消磨後。一片江山戰伐餘。蝸角兩雄誰勝負。兎謀三窟竟空虛。秋風野水閑浮鴨。過客詩篇獨跨驢。安得一尊澆往事。醉憑天地作籧廬。
+korean:
+  title: 과고령
+  author: 홍언충
+  language: kor
+  text: |-
+    백년의 성과 사직은 허물어진 뒤요
+    한 조각 강산은 전쟁한 나머지일세
+    와각의 두 영웅이 누가 이기고 졌는가
+    토끼가 세 굴 만든 것도 마침내 헛되었구나
+    가을 바람 들판 물에는 한가히 오리가 떴고
+    지나가는 나그네는 시를 읊으며 홀로 나귀를 탔구려
+    어떻게 하면 한 항아리 술을 얻어 지난 일 씻고
+    취해서 천지에 기대어 거려[여관]로 삼을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 와각(蝸角)의 …… 이기고 졌는가 : '
+    value: 《장자》에 나온 말인데, “달팽이[蝸]의 왼쪽 뿔에는 만(蠻)이라는 나라가 있고, 오른쪽 뿔에는 촉(觸)이라는 나라가 있는데, 두 나라가 전쟁을 하여 죽은 자들이 백만명이나 났다.” 하였다. 이것은 세상을 풍자한 말이다.
+  - key: '[주-D002] 토끼[兎謀]가 세 굴(窟) 만든 것 : '
+    value: 토끼는 교활하여 굴을 셋을 만들어 놓고 요리조리 피하면서 몸의 안전을 도모한다는 말이 있다.
+english:
+  title: Passing Goling
+  author: Hong Eon-jung
+  language: eng
+  text: |-
+    A hundred years of walls and altars crumbled into dust,
+    What remains of mountains and rivers bears the scars of war.
+    Which victor claims the snail's horn kingdoms, conquered and lost?
+    The rabbit's three warrens—all that scheming came to naught.
+    Autumn wind stirs the marshes where idle ducks drift by,
+    A wanderer hums verses, riding his solitary donkey.
+    If only I could find a cup to wash away the past,
+    Drunk, I'd lean on heaven and earth, making them my inn.
+  footnotes:
+  - key: ''
+    value: The 'snail's horn kingdoms' refers to a parable from the Zhuangzi about two insignificant realms at war on a snail's horns, leaving millions dead—a satirical commentary on worldly conflicts.
+  - key: ''
+    value: The 'rabbit's three warrens' alludes to the clever rabbit's stratagem of digging multiple burrows for escape, here suggesting that even cunning cannot guarantee safety or permanence.

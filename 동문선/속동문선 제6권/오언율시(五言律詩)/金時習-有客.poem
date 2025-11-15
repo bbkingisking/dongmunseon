@@ -1,0 +1,48 @@
+canonical:
+  title: 有客
+  author: 金時習
+  language: lzh
+  text: 有客淸平寺春山任意遊鳥啼孤塔靜花落小溪流佳菜知時秀香菌過雨柔吟行入仙洞消我百年愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 有客
+  author: 金時習
+  language: lzh
+  text: 有客淸平寺。春山任意遊。鳥啼孤塔靜。花落小溪流。佳菜知時秀。香菌過雨柔。吟行入仙洞。消我百年愁。
+korean:
+  title: 유객
+  author: 김시습
+  language: kor
+  text: |-
+    어떤 손이 청평사에 왔나니
+    봄철의 산을 뜻에 맡겨 노닐었다
+    고요한 외로움 탑에 새가 우는데
+    흐르는 실개울에 꽃은 지나니
+    맛난 나물은 때를 알아 자라나고
+    향기로운 버섯은 비를 지나 부드럽다
+    시를 읊조리며 신선골을 드나니
+    백 년의 내 시름을 녹여 주고녀
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0340&viewSync=OT
+  footnotes: []
+english:
+  title: A Guest
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    A guest arrives at Cheongpyeong Temple.
+    Wandering freely through the spring mountains,
+    birds sing in the solitary pagoda's silence.
+    Flowers drift down the small stream's flow.
+
+    Seasonal greens know their time to flourish,
+    fragrant mushrooms soften after rain.
+    Chanting verses, I wander into hermit's caves—
+    melting away a hundred years of sorrow.
+  footnotes:
+  - key: ''
+    value: Cheongpyeong Temple (청평사) is a historical Buddhist temple known for its natural beauty and spiritual significance in Korean culture.
+  - key: ''
+    value: The 'hermit's caves' (선경) evoke the classical Daoist and Buddhist imagery of spiritual retreat and transcendence from worldly concerns.
+  - key: ''
+    value: The 'hundred years of sorrow' is a conventional poetic expression for the accumulated sorrows of human life.

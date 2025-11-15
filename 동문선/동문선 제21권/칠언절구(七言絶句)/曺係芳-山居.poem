@@ -1,0 +1,37 @@
+canonical:
+  title: 山居
+  author: 曺係芳
+  language: lzh
+  text: 扣門俗客直須麾莫使山家奇事知屋角梨花開滿樹子䂓來叫月明時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 山居
+  author: 曺係芳
+  language: lzh
+  text: 扣門俗客直須麾。莫使山家奇事知。屋角梨花開滿樹。子䂓來叫月明時。
+korean:
+  title: 산거
+  author: 조계방
+  language: kor
+  text: |-
+    문을 두드리는 세속 손님은 모름지기 거절하여
+    이 산집의 기이한 일을 알게 하지 말라
+    집 모퉁이 배꽃은 나무에 가득 피었는데
+    두견새는 달 밝을 때 와서 부르짖나니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0560&viewSync=OT
+  footnotes: []
+english:
+  title: Mountain Dwelling
+  author: Cho Gyebang
+  language: eng
+  text: |-
+    Turn away the worldly visitor who knocks upon your door—
+    let not the mysteries of this mountain home be known.
+    Pear blossoms burst full upon the eaves,
+    while the cuckoo calls at the moon's bright hour.
+  footnotes:
+  - key: ''
+    value: The cuckoo (두견새) is a traditional symbol in East Asian poetry of longing, melancholy, and the voice of nature itself.
+  - key: ''
+    value: The mountain dwelling represents a retreat from worldly concerns and social pretense, a common theme in Korean and Chinese hermit poetry.

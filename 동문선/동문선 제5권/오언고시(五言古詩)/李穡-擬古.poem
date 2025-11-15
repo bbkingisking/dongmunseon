@@ -1,0 +1,98 @@
+canonical:
+  title: 擬古
+  author: 李穡
+  language: lzh
+  text: 古人貴從道今人重趨時庖羲畫大易文王初系辭周孔迭有術君子當念玆變動如流水天理分毫釐差之信千里守經無自危古人學有法今人學無師自得信天挺爲善當孜孜自我志吾道外患何曾移朝夕惕以守庶不磷而緇霜露日惻惻甚矣吾之衰古人重知命順受天地心天地我所出父母恩愛深禮以定制度智以酌古今隨時蹈大道敞豁仍沉潛今人反自小鄙哉牛馬襟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 擬古
+  author: 李穡
+  language: lzh
+  text: 古人貴從道。今人重趨時。庖羲畫大易。文王初系辭。周孔迭有術。君子當念玆。變動如流水。天理分毫釐。差之信千里。守經無自危。古人學有法。今人學無師。自得信天挺。爲善當孜孜。自我志吾道。外患何曾移。朝夕惕以守。庶不磷而緇。霜露日惻惻。甚矣吾之衰。古人重知命。順受天地心。天地我所出。父母恩愛深。禮以定制度。智以酌古今。隨時蹈大道。敞豁仍沉潛。今人反自小。鄙哉牛馬襟。
+korean:
+  title: 의고
+  author: 이색
+  language: kor
+  text: |-
+    옛날 사람들은 도 좇는 것을 귀하게 여기더니
+    지금 사람들은 시세 좇는 것을 중히 여긴다
+    복희씨가 대역을 긋고
+    문왕이 처음으로 괘사를 매었으며
+    주공과 공자가 번갈아 법을 말하였으니
+    군자는 마땅히 이것을 생각할지어다
+    변동하는 것은 흐르는 물과 같은 것
+    천리가 호리로 나뉜다
+    호리의 차이에 천 리로 틀리나니
+    경을 지켜 스스로 위태하지 말지어다
+    옛날 사람은 배우는 것에 법이 있더니
+    지금 사람은 배우는 데 스승이 없구나
+    저절로 아는 것은 참으로 하늘에서 낸 사람이거니
+    착한 일 하기를 마땅히 부지런히 해야 하리
+    내가 우리 도에 뜻을 둔 뒤로
+    바깥 근심이 어찌 나를 흔들 수 있으랴
+    아침 저녁으로 공경하여 지키면
+    갈리거나 물들지 않으리라
+    상로가 날로 처량하거니
+    심하도다, 나의 노쇠함이여
+    옛날 사람들은 명을 아는 것을 중히 여기어
+    천지의 마음을 순하게 받들었네
+    천지는 내가 나온 바요
+    부모는 은혜와 사랑이 깊어라
+    예로 제도를 정하고
+    지혜로 고금을 헤아리는 것
+    때에 따라 큰 도를 밟아서
+    개활하고 또 침잠하여야 하리
+    지금 사람은 도리어 자기를 작게 여기니
+    더럽구나, 소나 말에 옷 입힌 격이로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주공(周公)과 공자(孔子)가 번갈아 법을 말하였으니 : '
+    value: 《주역》의 상(象)은 주공(周公)이 짓고, 계사(繫辭)는 공자(孔子)가 지었다고 한다.
+english:
+  title: In Imitation of the Ancients
+  author: Lee Saek
+  language: eng
+  text: |-
+    The ancients prized following the Way,
+    yet men of this age chase after fortune's tide.
+    Fu Xi drew the Great Change,
+    King Wen first wove the commentaries—
+    the Duke of Zhou and Confucius spoke their methods in turn.
+    Let the gentleman reflect upon this.
+
+    All change flows like water,
+    heaven's principle divides into hairbreadths,
+    and hairbreadths become a thousand miles astray.
+    Guard the classics, do not stumble of your own accord.
+
+    The ancients had method in their learning,
+    yet men of this age learn without a master.
+    What comes of itself is truly heaven-born—
+    yet one must labor earnestly at goodness.
+    Since I set my heart upon our Way,
+    how could external troubles shake me?
+    Morning and evening, reverent and watchful,
+    I shall not be worn away or stained.
+
+    Frost and dew each day grow desolate—
+    oh, how my aging weighs upon me.
+
+    The ancients honored understanding fate,
+    and so received heaven and earth's heart.
+    Heaven and earth are whence I came,
+    and my parents' grace runs deep as love.
+    Let ritual establish order,
+    let wisdom balance ancient and modern—
+    walking the Great Way with each season,
+    remaining open yet still profound.
+
+    But men of this age make themselves small,
+    debase themselves like oxen dressed in finery.
+  footnotes:
+  - key: ''
+    value: The 'Great Change' (大易) refers to the I Ching. Fu Xi is credited with creating its eight trigrams, while King Wen and his son the Duke of Zhou developed its system of commentaries. Confucius later added further interpretation.
+  - key: ''
+    value: The 'Way' (道) here refers to the moral and philosophical path taught in classical Chinese thought—the proper course of human conduct aligned with cosmic principle.
+  - key: ''
+    value: '''A thousand miles astray'' derives from the old maxim that small errors in measurement lead to great errors in practice—a warning about the consequences of straying from principle.'

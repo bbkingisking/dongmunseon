@@ -1,0 +1,47 @@
+canonical:
+  title: 寓舍書懷
+  author: 洪彦忠
+  language: lzh
+  text: 憶昨來途正風雪長安城中花已落病卧兩街門巷深車馬何曾扣寂寞篋中篇章尋舊草夢裏江山許幽討時能往來同此懷世上無如東里老
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寓舍書懷
+  author: 洪彦忠
+  language: lzh
+  text: 憶昨來途正風雪。長安城中花已落。病卧兩街門巷深。車馬何曾扣寂寞。篋中篇章尋舊草。夢裏江山許幽討。時能往來同此懷。世上無如東里老。
+korean:
+  title: 우사 서회
+  author: 홍언충
+  language: kor
+  text: |-
+    엊그제 오는 길엔 풍설이 한창이러니
+    장안 성중엔 꽃이 벌써 떨어지네
+    병으로 누웠느라니 양가 뒷골목에
+    어느 거마가 적막한 나를 찾아 주리
+    함 속 시문에서 구고를 뒤져 보고
+    꿈속에서 강산을 그윽이 찾아보네
+    이따금 왕래하며 회포를 같이하는 이
+    세상에 동리 늙은이만한 이 없네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections at My Lodging
+  author: Hong Eon-jung
+  language: eng
+  text: |-
+    I remember the journey here—snow and wind swirled thick,
+    yet in Chang'an's walls, the flowers had already fallen.
+    Laid low by illness in the back lanes of the city,
+    what carriage wheels would trouble themselves with my solitude?
+
+    In my chest I search through old poems and manuscripts,
+    while in dreams I wander through mountains and streams.
+    There are rare few who share this melancholy with me,
+    walking back and forth, conversing in kindred spirit—
+    no one in this world equals the old man of the East.
+  footnotes:
+  - key: ''
+    value: Chang'an refers to the ancient capital, here representing any great city center
+  - key: ''
+    value: The 'old man of the East' (東里老) is a poetic reference to a recluse or sage who lived apart from worldly affairs

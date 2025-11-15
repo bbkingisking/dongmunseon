@@ -1,0 +1,48 @@
+canonical:
+  title: 次三陟竹西樓韻
+  author: 鄭樞
+  language: lzh
+  text: 竹西簷影漾淸流潭上山光可小樓佳節遠遊多感慨斜陽欲去更遅留曾聞有客騎黃鶴今恨無人狎白鷗挾岸桃花春又老角聲吹徹古眞州
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次三陟竹西樓韻
+  author: 鄭樞
+  language: lzh
+  text: 竹西簷影漾淸流。潭上山光可小樓。佳節遠遊多感慨。斜陽欲去更遅留。曾聞有客騎黃鶴。今恨無人狎白鷗。挾岸桃花春又老。角聲吹徹古眞州。
+korean:
+  title: 차 삼척 죽서루 운
+  author: 정추
+  language: kor
+  text: |-
+    죽서루 처마 그림자 맑은 내에 일렁이는데
+    연못 위의 산빛이 작은 다락에 어울리는구나
+    명절에 멀리 와 노니 하도 감개로워
+    석양에 떠나려다가 다시금 머무르네
+    일찍이 어떤 손이 황학을 탔다던가
+    지금엔 아무도 백구와 놀지 않네
+    언덕의 복사꽃 봄도 또 저물었는데
+    뚜뚜뚜 옛 진주[삼척의 옛 이름]에 울려 퍼지는 각 소리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 뚜뚜뚜 …… 각(角) 소리 : '
+    value: 이 시는 본서(本書)와 《여지승람》에 실린 것이 조금 다른 글자들이 있다. 본서의 ‘可小樓騎黃鶴 挾岸桃花 角聲吹徹古眞州’가 《여지승람》에는, ‘滿小樓 槌黃鶴 來岸紅霞角聲吹欲裂眞州’로 되어 있다.
+english:
+  title: In Response to the Rhymes of Bamboo Western Pavilion at Samcheok
+  author: Jeong Chu
+  language: eng
+  text: |-
+    Shadows of the bamboo eaves ripple across the clear stream,
+    While mountain light upon the pond graces the modest tower.
+    On this festival day, far from home, I'm seized by tender thoughts—
+    The setting sun tempts me to leave, yet lingers still, and I remain.
+
+    Once a traveler rode the yellow crane through heaven's gate,
+    Yet now no soul befriends the white gull on these waters.
+    Along the shore the peach blossoms fade—spring too must pass—
+    As the horn's notes pierce the air, calling through ancient Jinzhou.
+  footnotes:
+  - key: ''
+    value: The 'yellow crane' and 'white gull' are classical allusions to spiritual transcendence and reclusive freedom, evoking the desire to escape worldly constraints.
+  - key: ''
+    value: Jinzhou is an ancient name for Samcheok, connecting the present moment to the long history of the place.

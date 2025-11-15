@@ -1,0 +1,49 @@
+canonical:
+  title: 哭崔承制宗藩
+  author: 崔滋
+  language: lzh
+  text: 紫樞雖作黑頭公猶恨官班未極崇名重三韓何足譽步高千載固難蹤手中丹桂還歸月腹裏靑松不耐冬德宿文星渾四散問誰今復一時鍾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 哭崔承制宗藩
+  author: 崔滋
+  language: lzh
+  text: 紫樞雖作黑頭公。猶恨官班未極崇。名重三韓何足譽。步高千載固難蹤。手中丹桂還歸月。腹裏靑松不耐冬。德宿文星渾四散。問誰今復一時鍾。
+korean:
+  title: 곡 최승제 종번
+  author: 최자
+  language: kor
+  text: |-
+    추밀원에 검은 머리 재상이 되었으나
+    벼슬이 한껏 높지 못했음이 한이어라
+    삼한의 무거운 이름쯤 무슨 명예 되오리
+    천고의 높은 걸음새 따르기 어려워라
+    손에 꺾은 붉은 계수는 달로 도로 돌아갔고
+    뱃속의 푸른 솔도 겨울을 견디지 못하누나
+    덕성과 문성이 둘 다 흩어졌으니
+    두 별을 함께 타고날 사람 다시 누구랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Elegy for Choe Sung-je, the Esteemed Minister
+  author: Choe Ja
+  language: eng
+  text: |-
+    Though he rose to minister with raven hair in the Purple Secretariat,
+    Yet grieved that his rank never reached the highest pinnacle.
+    What fame can the weighty name of Samhan bestow?
+    His towering steps through ages—how difficult to follow.
+    The red cinnamon plucked in his hand returns to the moon,
+    The green pine in his breast cannot endure the winter.
+    Virtue's star and letters' star have both scattered and dissolved—
+    Who now will ride together on those twin constellations?
+  footnotes:
+  - key: ''
+    value: The Purple Secretariat (紫樞) refers to the highest governmental office, while 'raven hair' is a classical expression for youth and vitality, suggesting his rise to power in his prime.
+  - key: ''
+    value: Samhan (三韓) refers to the Three Kingdoms period of Korean history, invoking the weight of historical legacy.
+  - key: ''
+    value: The cinnamon and pine are traditional symbols of virtue and steadfastness in Chinese poetry; their inability to endure suggests the fragility of human achievement.
+  - key: ''
+    value: The final image of twin stars references Confucian ideals of virtue and literary accomplishment, suggesting the departure of an exemplary figure.

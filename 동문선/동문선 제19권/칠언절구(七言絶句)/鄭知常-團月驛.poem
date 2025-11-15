@@ -1,0 +1,41 @@
+canonical:
+  title: 團月驛
+  author: 鄭知常
+  language: lzh
+  text: 飮闌欹枕畫屛低夢覺前村第一雞却憶夜深雲雨散碧空孤月小樓西
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 團月驛
+  author: 鄭知常
+  language: lzh
+  text: 飮闌欹枕畫屛低。夢覺前村第一雞。却憶夜深雲雨散。碧空孤月小樓西。
+korean:
+  title: 단월역
+  author: 정지상
+  language: kor
+  text: |-
+    취토록 마시고 베개에 기대니 그림 병풍이 낮구나
+    꿈을 깨자 앞 마을에 첫 닭이 우네
+    문득 생각노니 밤 깊어 운우(雲雨)가 흩어진 뒤
+    벽공에 외로운 달이 작은 누각 서쪽에 걸렸던 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 운우(雲雨) : '
+    value: 초 회왕(楚懷王)이 꿈에 무산(巫山)의 신녀(神女)를 만나 환락(歡樂)을 하였는데, 헤어질 때에 신녀가 말하기를, “나는 양대(陽臺) 밑에서 아침에는 구름이 되고, 저녁에는 비가 되겠소.” 하였는데, 뒤에 사람들이 이것을 인용하여 남녀간의 환락(歡樂)을 운우(雲雨)라 한다.
+english:
+  title: At the Teamwol Relay Station
+  author: Jung Jisung
+  language: eng
+  text: |-
+    Wine finished, I lean back against my pillow,
+    the painted screen hangs low.
+    Waking from my dream, the first rooster crows
+    in the village ahead.
+
+    Then I recall: when night deepened and the clouds and rain dispersed,
+    a solitary moon rose in the clear expanse—
+    small and lonely, hanging west of the tower.
+  footnotes:
+  - key: ''
+    value: The phrase 'clouds and rain' carries a classical allusion to passionate encounters between lovers, drawing from the ancient Chinese myth of the goddess of Wu Mountain. Here it suggests both the literal weather and the memory of intimate moments that have now passed.

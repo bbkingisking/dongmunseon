@@ -1,0 +1,79 @@
+canonical:
+  title: 中秋歌
+  author: 鄭道傳
+  language: lzh
+  text: 去年中秋翫月時歌舞縱謔開華筵高堂簾捲夜如晝淸光凝座羅神仙醉中呼月作金盆玉壺美酒詩百篇今年遠謫會津縣竹籬茅屋荒山前秋風颼颼動林莽物像蕭條何悄然是時對月倍怊悵迴首舊遊散如煙此身由來非異身今年明月似前年自是人情有異感造物賦與原非偏爲問明月之所照幾人歡樂幾人悲明年見月又何處歡歟悲歟未可知明月無言夜將半獨立蒼茫歌怨詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中秋歌
+  author: 鄭道傳
+  language: lzh
+  text: 去年中秋翫月時。歌舞縱謔開華筵。高堂簾捲夜如晝。淸光凝座羅神仙。醉中呼月作金盆。玉壺美酒詩百篇。今年遠謫會津縣。竹籬茅屋荒山前。秋風颼颼動林莽。物像蕭條何悄然。是時對月倍怊悵。迴首舊遊散如煙。此身由來非異身。今年明月似前年。自是人情有異感。造物賦與原非偏。爲問明月之所照。幾人歡樂幾人悲。明年見月又何處。歡歟悲歟未可知。明月無言夜將半。獨立蒼茫歌怨詩。
+korean:
+  title: 중추가
+  author: 정도전
+  language: kor
+  text: |-
+    작년 추석 달 구경할 때에는
+    화려한 자리에 가무와 농담
+    높은 마루에 발 걷자 밤이 낮 같은데
+    환한 자리에 신선들이 둘러 앉았네
+    취중에 달을 불러 “어와, 금동이야”
+    옥호ㆍ미주에 시 백 편을 지었더니
+    금년엔 멀리 회진(나주(羅州) 서쪽 15리)골에 귀양와서
+    초가집, 대 울타리, 거친 산 앞에
+    가을 바람 우수수 수풀을 흔들고
+    쓸쓸한 물상들 어찌 이다지 초연한고
+    이 밤에 달을 보니 더욱 서글퍼라
+    생각해 보니 예 놀던 친구들 연기처럼 흩어졌네
+    이 몸도 작년과 다른 몸이 아니겠고
+    밝은 달 올해도 다름없건만
+    사람의 정은 때에 따라 달리 느껴지는 것
+    조물이 준 것이야 편벽된 것 아니련만
+    묻노라, 밝은 달아, 네가 비치는 곳에
+    몇 사람이 즐기고 몇 사람이 슬퍼하는가
+    명년은 또 어디서 달을 보게 되려나
+    기쁨일지 슬픔일지 모르겠구나
+    밝은 달은 말이 없고 한밤중 되려는데
+    내 홀로 아득히 서서 원망 시를 노래하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0270&viewSync=OT
+  footnotes: []
+english:
+  title: Song of Mid-Autumn
+  author: Jeong Do-jeon
+  language: eng
+  text: |-
+    Last year when we gazed upon the autumn moon,
+    Laughter and dancing filled the grand pavilion.
+    The high chambers glowed as bright as day,
+    And celestial beings gathered in that radiance.
+    Drunk, I called to the moon: 'Golden vessel, descend!'
+    By jade flagon and fine wine, we composed a hundred poems.
+
+    This year, exiled to distant Hoejin's vale,
+    I dwell before rough mountains in a humble thatched house.
+    Autumn winds whisper through the withered groves—
+    How desolate, how still the world has become.
+    Tonight, beholding the moon, my heart grows heavy.
+    I turn to memories of old pleasures, scattered now like smoke.
+
+    Yet this body remains the same as before,
+    And the bright moon shines as it did last year.
+    It is only the human heart that transforms with circumstance—
+    Not heaven's design, which shows no partiality.
+    I ask you, luminous moon, as you illuminate this earth:
+    How many rejoice beneath your light? How many weep?
+
+    Next year, where shall I gaze upon you?
+    In joy or sorrow? The future remains hidden.
+    The bright moon speaks not; midnight approaches.
+    Alone I stand in the vast darkness,
+    Singing verses of my lament.
+  footnotes:
+  - key: ''
+    value: Hoejin (會津) refers to the poet's place of exile, located in what is now Naju in Jeolla Province
+  - key: ''
+    value: This poem was written during Jeong Do-jeon's exile, reflecting on the contrast between his circumstances the previous year and his present isolation
+  - key: ''
+    value: The 'hundred poems' references the classical tradition of composing poetry during autumn moon-viewing gatherings among the literati

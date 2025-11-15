@@ -1,0 +1,64 @@
+canonical:
+  title: 二陵早發
+  author: 李齊賢
+  language: lzh
+  text: 予之將如成都也內翰松雪趙公子昂以古調一篇相送有勿云錦城樂早歸乃良圖之句十月北歸雪後二陵道中忽憶其詩作此寄呈夢破郵亭耿曉燈欲乘鞍馬覺凌兢雲迷柱史燒丹竈雪壓文王避雨陵觸事誰知胷磈磊吟詩只得髮鬅鬙塵巾折角裘穿縫羞向龍門見李膺
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 二陵早發
+  author: 李齊賢
+  language: lzh
+  text: 予之將如成都也。內翰松雪趙公子昂以古調一篇相送。有勿云錦城樂早歸乃良圖之句。十月北歸。雪後二陵道中。忽憶其詩。作此寄呈。夢破郵亭耿曉燈。欲乘鞍馬覺凌兢。雲迷柱史燒丹竈。雪壓文王避雨陵。觸事誰知胷磈磊。吟詩只得髮鬅鬙。塵巾折角裘穿縫。羞向龍門見李膺。
+korean:
+  title: 이릉조발
+  author: 이제현
+  language: kor
+  text: |-
+    내가 성도(成都)로 가려 할 때에, 내한(內翰)  송설(松雪) 조자앙(趙子昂) 공이 고조(古調) 한 편을 보내었는데, “금성이 즐겁다 이르지 마소, 일찍 돌아옴이 좋은 계책일 것을[勿云錦城樂 早歸乃良圖].“이란 시구가 있었다. 10월에 북으로 돌아갈 제 눈온 뒤, 이릉 도중에서 문득 그 시를 기억하여 이를 지어 부쳐드렸다.
+    역정에 꿈이 깨니 새벽 등이 가물가물
+    말 안장 타려 하니 추위가 스산하네
+    노자가 단을 사르던터에 구름만 뭉게뭉게
+    문왕이 비를 피한 능에 눈이 펑펑 내리네
+    세사에 부닥치니 혼자 가슴에 덩이 생기고
+    시 읊으매 머리털만 자꾸 헝클어질 뿐
+    두건의 뿔 꺾이고 갖옷 해졌으니
+    이 꼴로 용문에 가서 이응 어이 뵈올꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0440&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 단(丹)을 사르던 : '
+    value: 신선되는 단약(丹藥)을 연(煉)하여 만드는 것이다.
+  - key: '[주-D002] 문왕(文王)이 비를 피한 능(陵) : '
+    value: 효(崤) 지방에 두 능[二陵]이 있는데 북릉(北陵)은 주문왕(周文王)이 바람과 비를 피하던 곳이다.
+  - key: '[주-D003] 가슴에 덩이 생기고 : '
+    value: 진(晉)나라 완적(阮籍)이 말하기를, “가슴에 생긴 불평 덩이가 있어서 술을 부어야 한다.” 하였다.
+  - key: '[주-D004] 이응(李膺) : '
+    value: 후한(後漢)  환제(桓帝) 때 사람. 자(字) 원례(元禮). 성행(性行)이 고상하고 풍골이 준수하여 태학(太學) 중에서, “천하의 모범 인물은 이원례”라는 말이 있었고, 선비로서 그에게 접대를 받으면 “용문에 올랐다[登龍門].”고 말했다. 조자앙(趙子昂)이 당시 원조의 명사였고 작자가 그를 좇아 놀았으므로, 조자앙을 이응에게 비긴 것이다.
+english:
+  title: Early Departure at the Two Tombs
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    When I was preparing to journey to Chengdu, the esteemed Zhao Mengfu, Inner Attendant of the Secretariat and master of the ancient style, sent me a poem with these lines: "Do not say Brocade City brings delight—returning early is the wisest course."
+
+    In the tenth month, on my way north through the Two Tombs after the snow, I suddenly recalled his verse and composed this in response:
+
+    My dream shatters at the wayside inn beneath the pallid dawn lamp,
+    As I reach for saddle and stirrup, the bitter cold grips my bones.
+    Clouds veil the cauldron where the immortal once refined his elixir,
+    Snow weighs heavy on the tomb where the sage-king sought shelter from rain.
+    When I encounter the world's sorrows, my breast swells with unexpressed grief,
+    Yet when I chant my verses, only my tangled hair rebels.
+    My cap's corners bent and broken, my winter robes worn through at every seam—
+    How could I dare show this ragged form before the great Li Ying at Dragon Gate?
+  footnotes:
+  - key: ''
+    value: The poem was sent by Zhao Mengfu (1254–1322), a celebrated Yuan dynasty calligrapher and painter, known for mastery of classical poetic forms.
+  - key: ''
+    value: The Two Tombs (二陵) refers to tombs in the Xiao region; the Northern Tomb is traditionally associated with King Wen of Zhou seeking shelter from wind and rain.
+  - key: ''
+    value: The cauldron where the immortal refined elixir alludes to Daoist alchemical pursuits and represents unfulfilled spiritual aspirations.
+  - key: ''
+    value: Li Ying was a celebrated moral exemplar of the Later Han dynasty; meeting him became synonymous with achieving recognition—'ascending Dragon Gate' meant gaining the approval of a great mentor.
+  - key: ''
+    value: The poem captures the poet's melancholy upon returning north in winter after his sojourn in Chengdu, contrasting Zhao Mengfu's earlier encouragement to return early with his present disheveled and sorrowful state.

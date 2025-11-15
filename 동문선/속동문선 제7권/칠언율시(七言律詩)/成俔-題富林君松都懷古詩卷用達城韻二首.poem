@@ -1,0 +1,72 @@
+canonical:
+  title: 題富林君松都懷古詩卷用達城韻二首
+  author: 成俔
+  language: lzh
+  text: 銅鏡生文鐵運終康安宮闕倚雲空街中車轂紛相擊殿上羅紈競闘紅郛郭緣山金作固閭閻撲地螘爲封自從嬴呂相承後江水西流不復東當時冠盖盡嚴終觸興吟詩萬籟空甲第連雲依紫翠驊騮嘶日踏嬌紅幾人紛擾簪纓貴千載凄涼斧屋封怊悵遺魂無處酹樵歌交錯子城東
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題富林君松都懷古詩卷用達城韻二首
+  author: 成俔
+  language: lzh
+  text: 銅鏡生文鐵運終。康安宮闕倚雲空。街中車轂紛相擊。殿上羅紈競闘紅。郛郭緣山金作固。閭閻撲地螘爲封。自從嬴呂相承後。江水西流不復東。當時冠盖盡嚴終。觸興吟詩萬籟空。甲第連雲依紫翠。驊騮嘶日踏嬌紅。幾人紛擾簪纓貴。千載凄涼斧屋封。怊悵遺魂無處酹。樵歌交錯子城東。
+korean:
+  title: 제 부림군 송도회고 시권 용 달성 운 이수
+  author: 성현
+  language: kor
+  text: |-
+    구리 거울에 무늬가 생기면 쇠의 운수 끝나니
+    강안의 궁궐이 구름 따라서 비었다
+    거리의 수레바퀴 시끄러이 서로 부딪치고
+    궁전 위의 비단 입은 이 다투어 붉음을 자랑했다
+    산을 의지한 성곽은 쇠인 듯 든든한데
+    땅에 가득한 여염집 개미둑인 양 땅에 붙어 있다
+    영려가 서로 이어받은 뒤부터는
+    강물은 서쪽으로 흐르고 다시는 동쪽으로 흐르지 않았다
+    그때의 관개(선비와 벼슬하는 사람)는 끝내 모두 엄숙했나니
+    흥에 바쳐 시를 읊으매 모든 소리 비어 있다
+    갑제(좋은 집)는 구름에 이어 자취에 의지했고
+    화류(좋은 말)는 낮에 울면서 교홍(아름다눈 꽃)을 밟았었다
+    몇 사람이나 잠영의 귀함으로 시끄러웠던가
+    부옥의 봉은 천년에 처량하다
+    슬프다 남은 혼에 잔부을 곳 없으니
+    초부의 노래소리 자성 동쪽에 엉클어졌다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영려(嬴呂) : '
+    value: 진(秦)나라 왕의 성은 영(嬴)씨였다. 그런데 진시황(秦始皇)은 그 영씨가 아니요 여불위(呂不韋)라는 사람의 자식이라 하였었다. 여기 그 말은 고려 왕씨의 나라에 신돈(辛旽)의 아들인 우왕(禑王)이 계승하였다는 것을 말한 것이다.
+  - key: '[주-D002] 강물은 …… 않았다 : '
+    value: 중국 사람들은 강물은 반드시 동으로 흐르는 것이라고 믿었다. 그것은 중국의 지리적 조건이 그러하였다. 그래서 아무데로 구부러져도 반드시 동으로 간다[百折必東] 하였다. 그러나 고려가 한 번 망한 뒤에는 다시 일어나지 못하였으니, 반드시 동으로 흐른다는 말이 헛말이라는 말이다.
+  - key: '[주-D003] 부옥(斧屋)의 봉(封) : '
+    value: 《예기》에 장사 지낼 때에 무덤을 만드는 데에 있어서 공자의 말을 인용하여, “나는 봉분(封墳)을 당(堂)과 같이 하는 이를 보았고, 하옥(夏屋 문간의 행랑인데 넓으면서 낮은 집)을 덮은 것같이 하는 이를 보았으며, 도끼의 형상과 같이 하는 것도 보았다.” 하였다. 부옥봉(斧屋封)은 무덤을 말한 것이다.
+english:
+  title: Two Poems on Contemplating the Past at Song-do, Using the Dalsong Rhyme, Inscribed on a Poetry Scroll for Lord Burim
+  author: Sung Hyun
+  language: eng
+  text: |-
+    When copper mirrors tarnish, iron's fortune ends.
+    The Kangahn palace stands empty beneath clouds.
+    Cart wheels thunder and clash along the streets,
+    While silken robes at court compete in crimson pride.
+
+    City walls lean on mountains, firm as iron still,
+    Yet common dwellings cling to earth like anthills sprawl.
+    Since Ying and Lü passed the throne between them,
+    The river flows forever westward, never east again.
+
+    Those men of office then—did they end in dignity?
+    When inspiration struck, their verses echoed through the void.
+    Palaces of jade rose high in purple-clouded grace,
+    And noble steeds whinnied by day, trampling flowers bright.
+
+    How many then were stirred by honors, rank, and pride?
+    Yet thousand years have sealed those burial mounds in sorrow.
+    Oh, for the lingering spirits with no place to pour libations,
+    Where woodcutter's songs tangle in the east of ancient walls.
+  footnotes:
+  - key: ''
+    value: 'Ying and Lü: An allusion to the founding of Goryeo. Just as Emperor Qin''s throne was said to pass from the Ying clan to Lü Buwei''s line, the poet references how King Wang''s Goryeo dynasty was succeeded by Wuwang, son of the powerful eunuch Sindok—a succession viewed as illegitimate, marking the beginning of the dynasty''s decline.'
+  - key: ''
+    value: 'The river flows westward, never east again: Chinese tradition held that all waters must flow eastward; ''bent a hundred times, it still goes east.'' This reversal symbolizes that Goryeo, once fallen, can never rise again—the natural order itself has been inverted.'
+  - key: ''
+    value: 'Burial mounds sealed in sorrow: The imagery of ancient tombs, comparing them to the ''axe-shaped mounds'' described in classical texts, emphasizes the desolation of forgotten history and the tragic passing of the glorious past.'

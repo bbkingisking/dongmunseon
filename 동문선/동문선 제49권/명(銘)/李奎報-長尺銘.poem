@@ -1,0 +1,39 @@
+canonical:
+  title: 長尺銘
+  author: 李奎報
+  language: lzh
+  text: 爾名長尺幾許長蠖吾指而量則纔尺有咫名長實短得無慙頰爾主人隴西子
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長尺銘
+  author: 李奎報
+  language: lzh
+  text: 爾名長尺幾許長。蠖吾指而量則纔尺有咫。名長實短。得無慙頰。爾主人隴西子。
+korean:
+  title: 장척 명
+  author: 이규보
+  language: kor
+  text: 네 이름이 장척이라니 얼마쯤 길어서일까 내 손가락을 구부려 계산해 보면 겨우 한 자 몇 치 쯤 된다. 이름만 길다 하였지 실상은 짧으니 어쩌면 낯이 부끄럽지 않느냐. 너의 주인은 농서자(隴西子)다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장척 : '
+    value: 글 읽는 사람이 대나무를 만든 치수 없는 자[尺] 같은 것을 책속에 넣어서 읽을 곳을 표시하는 것을 장척(長尺)이라 하는데, 아마 여기서 말한 것도 그것이 아닌가 한다.
+  - key: '[주-D002] 농서자(隴西子) : '
+    value: 농서(隴西)는 작자 이규보(李奎報)의 본관이므로 이렇게 자칭(自稱)한 것이다.
+english:
+  title: An Inscription on the Long Measure
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    You bear the name "Long Measure"—but how long are you truly?
+    When I bend my fingers to calculate your length,
+    You measure barely a foot and a few inches.
+    Your name speaks of length, yet your substance falls short.
+    How can your face not blush with shame?
+    Your master is he of Longxi.
+  footnotes:
+  - key: ''
+    value: The "Long Measure" (長尺) refers to a bamboo ruler or bookmark used by scholars to mark their place while reading.
+  - key: ''
+    value: Longxi (隴西) was Lee Gyubo's ancestral home, so this reference is the author identifying himself.

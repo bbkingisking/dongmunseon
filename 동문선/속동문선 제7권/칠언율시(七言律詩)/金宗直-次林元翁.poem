@@ -1,0 +1,54 @@
+canonical:
+  title: 次林元翁
+  author: 金宗直
+  language: lzh
+  text: 年來兩鬢失靑春豈意金華着此身草草圖書眞竊吹栖栖鄒魯竟迷津未將蓑笠緣南畒却整簪纓向北辰和靖家風君不墜溪山隨處作閑人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次林元翁
+  author: 金宗直
+  language: lzh
+  text: 年來兩鬢失靑春。豈意金華着此身。草草圖書眞竊吹。栖栖鄒魯竟迷津。未將蓑笠緣南畒。却整簪纓向北辰。和靖家風君不墜。溪山隨處作閑人。
+korean:
+  title: 차 임원옹
+  author: 김종직
+  language: kor
+  text: |-
+    연래에 두 살쩍이 청춘을 잃었는데
+    어찌 뜻했으리 이 몸에 금화 입을 줄을
+    초초한 도서는 진실로 가만히 부추긴 것이요
+    서서한 추로도 마침내 나무에서 헤매었네
+    도롱이와 삿갓을 가지고 남쪽 밭 의지 못하고
+    문득 잠영을 정제하고 북신을 향하노라
+    화정의 가풍을 그대가 떨어뜨리지 않았거니
+    물이나 산이나 가는 곳마다 한가한 사람되리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0750&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금화(金華) : '
+    value: 벼슬하는 사람의 찬란한 관복(官服)을 말한다.
+  - key: '[주-D002] 서서(栖栖)한 …… 헤매었네 : '
+    value: 추로(鄒魯)는 공자와 맹자를 말하는 것이니, 추(鄒)는 맹자의 고국이요 노(魯)는 공자의 고국이다. 서서라는 말은 서성댄다는 말인데, 그렇게 서성대고 쫓아다녀도 옳게 길을 찾지 못하고 말았다는 말이다.
+  - key: '[주-D003] 화정(和靖) : '
+    value: 송나라 사람 임포(林逋)의 시호이다. 그는 항주(抗州) 서호(西湖)에 살면서 벼슬하지 아니하고 인생을 보낸 것으로 유명하였다.
+english:
+  title: In Response to Master Lin Yuanweng
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    The years have stolen the verdant spring from both my temples.
+    Who could have foreseen this golden robe adorning this frame?
+    Those scrolls and books—mere whispers that urge me gently on,
+    Yet wandering through the paths of Zou and Lu, I've lost my way.
+
+    I could not grasp the straw cloak and simple hat by southern fields,
+    Instead I straightened my cap and sash to face the Northern Star.
+    But you, Master, have not abandoned the ways of Hezhou's legacy—
+    Wherever waters flow and mountains stand, you remain a man of leisure.
+  footnotes:
+  - key: ''
+    value: Lin Bu (林逋, 967-1028), a Song Dynasty scholar known as 'Hezhou the Recluse,' famously chose a life of solitary virtue on West Lake near Hangzhou rather than pursuing official office. His unwavering commitment to integrity and simplicity made him an exemplar of the reclusive scholar-official ideal.
+  - key: ''
+    value: Zou and Lu refer to the homelands of Mencius and Confucius respectively—invoked here to represent the pursuit of sage-like wisdom through classical learning.
+  - key: ''
+    value: The 'golden robe' symbolizes official rank and the temptations of political service.

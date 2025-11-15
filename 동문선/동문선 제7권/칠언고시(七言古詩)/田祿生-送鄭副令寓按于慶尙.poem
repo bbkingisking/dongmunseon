@@ -1,0 +1,59 @@
+canonical:
+  title: 送鄭副令寓按于慶尙
+  author: 田祿生
+  language: lzh
+  text: 君看種樹橐駞傳移之官理可養人解道安民在無事牧隱詩語醇且眞古人今人意不遠盖傷世法多立新况今時勢如理絲欲速還自成紛繽願言爲事務從簡勿使一毫加諸民鄭君共稱慷慨士世微鄭君吾誰親傷心豈獨惜離別南望不覽沾衣巾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送鄭副令寓按于慶尙
+  author: 田祿生
+  language: lzh
+  text: 君看種樹橐駞傳。移之官理可養人。解道安民在無事。牧隱詩語醇且眞。古人今人意不遠。盖傷世法多立新。况今時勢如理絲。欲速還自成紛繽。願言爲事務從簡。勿使一毫加諸民。鄭君共稱慷慨士。世微鄭君吾誰親。傷心豈獨惜離別。南望不覽沾衣巾。
+korean:
+  title: 경상 안찰로 가는 정부령 우를 전송하며
+  author: 전녹생
+  language: kor
+  text: |-
+    그대 보았지, 종수탁타전의 나무 심는 법에
+    정치에 옮기면 백성 기를 수 있다는 말을
+    백성을 편안히 하려면 일을 꾸미지 말아야 한다는
+    목은의 시어도 순진한 말이다
+    옛 사람, 지금 사람 뜻은 서로 같으니
+    세상 법령 새로 많이 만들어지는 것 탄식한 것이다
+    하물며 지금 시세는 실가리기와 같아서
+    빨리 서둘수록 도리어 헝클어지기만 하나니
+    원커니 그대는 일을 간소하기에 힘써서
+    털끝만큼이라도 백성에게 부담은 주지 말아라
+    남들은 정군을 강개한 선비라 일컫는다
+    세상에 정군 아닌들 내 누구와 친할꼬
+    상심함이 어찌 이별을 애처로와서 뿐이랴
+    남쪽을 바라보니 나도 모르게 옷깃이 젖어간다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 종수탁타전(種樹槖駝傳) : '
+    value: 유자후(柳子厚)가 지은 〈종수탁타전(種樹槖駝傳)〉에, “곽탁타라는 사람이 나무를 잘 가꿔 그 이치를 물으니 답하기를, ‘나는 나무를 옮겨 심을 때에 뿌리를 펴고 본 땅의 흙을 가져오고 깊지도 얕지도 않게 적당하게 심어놓은 뒤에는 손대지 않아서 식물의 천성(天性)을 그대로 보존시킨다. 다른 사람들은 이와 반대이므로 옮겨 심은 나무가 잘 살고 번성하지 못하는데, 이 이치를 정치에 옮긴다면 관리가 백성을 사랑하는 척 하면서 자주 나와 간섭하니 백성이 관리의 명령을 전하고 접대하기에도 바쁜데 어느 겨를에 농사짓고 일하겠는가’ 하였다.”는 기록이 있다.
+english:
+  title: Farewell to Jeong, the Vice Inspector Heading to Gyeongsang
+  author: Jeon Nok-saeng
+  language: eng
+  text: |-
+    Have you read of the art of planting trees in that old tale?
+    When grafted onto governance, it nourishes the people well.
+    To settle the folk, one must refrain from meddling—
+    this too is what the sage's verse tells, sincere and plain.
+    Ancient hearts and modern hearts desire the same,
+    yet the world sighs as fresh edicts endlessly multiply.
+    More so now, when affairs tangle like tangled silk—
+    the more you rush, the more the threads become disordered.
+    I wish you would make your governance spare and simple,
+    and lay not even the weight of a hair upon the people.
+    All speak of you as a generous, noble soul.
+    In this diminished age, without you, who would I hold dear?
+    Yet my sorrow runs deeper than the pain of parting.
+    Looking southward, unaware, my sleeves grow damp with tears.
+  footnotes:
+  - key: ''
+    value: 'The reference to tree-planting draws from Liu Zongyuan''s classical essay ''The Tree-Planter Guo'', which uses the metaphor of skillful tree cultivation—allowing natural growth without excessive interference—to illustrate the ideal principle of governance: a wise administrator should refrain from unnecessary meddling so the people may flourish naturally.'
+  - key: ''
+    value: The 'sage's verse' alludes to Mo Nyou (牧隱), a Neo-Confucian thinker whose poetry emphasized that effective governance requires inaction and restraint rather than constant intervention.

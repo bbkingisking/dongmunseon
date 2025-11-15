@@ -1,0 +1,37 @@
+canonical:
+  title: 漢浦弄月
+  author: 李穡
+  language: lzh
+  text: 日落沙逾白雲移水更淸高人弄明月只欠紫鸞笙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漢浦弄月
+  author: 李穡
+  language: lzh
+  text: 日落沙逾白。雲移水更淸。高人弄明月。只欠紫鸞笙。
+korean:
+  title: 한포 농월
+  author: 이색
+  language: kor
+  text: |-
+    해가 지니 모래가 더욱 희고
+    구름이 옮겨지니 물이 다시 맑아라
+    고상한 사람이 밝은 달을 희롱하니
+    다만 자란생(紫鸞笙) 없음이 흠이로구려
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 자란생(紫鸞笙) : '
+    value: 신선이 부는 피리인데, 진자앙(陳子昻)과 이백(李白)의 시(詩)에 있다.
+english:
+  title: Moonplay at Hanpo
+  author: Lee Sek
+  language: eng
+  text: |-
+    As the sun descends, the sand grows ever whiter.
+    Clouds drift and scatter—the waters clearer still.
+    The refined soul toys with the bright moon,
+    Only lacking the Jade Phoenix pipes to make it perfect.
+  footnotes:
+  - key: ''
+    value: The 'Jade Phoenix pipes' (紫鸞笙) are legendary instruments of immortals, referenced in poems by Chen Ziang and Li Bai, evoking the poet's sense that even in this moment of natural perfection, something transcendent remains just beyond reach.

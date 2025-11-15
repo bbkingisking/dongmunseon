@@ -1,0 +1,38 @@
+canonical:
+  title: 蠶贊
+  author: 李奎報
+  language: lzh
+  text: 沃若桑葉成爾之身能生白纊其燠如春折膠之寒不能凍人嗟尒之功神之又神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 蠶贊
+  author: 李奎報
+  language: lzh
+  text: 沃若桑葉。成爾之身。能生白纊。其燠如春。折膠之寒。不能凍人。嗟尒之功。神之又神。
+korean:
+  title: 잠찬
+  author: 이규보
+  language: kor
+  text: 번들번들한 뽕잎으로 네 몸이 되어 흰 솜을 뽑아 내니 따스함이 봄 같아라. 아교(阿膠)가 꺾어지는 된 추위에도 사람이 얼지 않게 되었으니, 아, 너의 솜씨 신기하고도 신기할사.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of the Silkworm
+  author: Lee Gyeou-bo
+  language: eng
+  text: |-
+    On glossy mulberry leaves you feed,
+    Your body spun to silk so white.
+    From your form, fine down takes seed—
+    A warmth as gentle as spring light.
+
+    When winter's grasp turns glue to break,
+    When frost would freeze the very soul,
+    Your gift keeps warmth for mankind's sake.
+    Oh marvel of your sacred role!
+    Your craft surpasses all design—
+    Twice blessed, twice holy, twice divine.
+  footnotes:
+  - key: ''
+    value: The 'glue that breaks in cold' (阿膠, Ejiao) refers to donkey-hide gelatin, which becomes brittle in extreme cold—a metaphor for the silkworm's ability to provide warmth that transcends even the harshest winters.

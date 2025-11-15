@@ -1,0 +1,45 @@
+canonical:
+  title: 長源亭
+  author: 鄭知常
+  language: lzh
+  text: 岧嶢雙闕枕江濱淸夜都無一點塵風送客帆雲片片露凝宮瓦玉鱗鱗綠楊閉戶八九屋明月捲簾三兩人縹緲蓬萊在何處夢闌黃鳥囀靑春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長源亭
+  author: 鄭知常
+  language: lzh
+  text: 岧嶢雙闕枕江濱。淸夜都無一點塵。風送客帆雲片片。露凝宮瓦玉鱗鱗。綠楊閉戶八九屋。明月捲簾三兩人。縹緲蓬萊在何處。夢闌黃鳥囀靑春。
+korean:
+  title: 장원정
+  author: 정지상
+  language: kor
+  text: |-
+    우뚝 솟은 쌍궐이 강가를 베고 있네
+    맑은 밤에 티끌 한점 안 이누나
+    바람 풍긴 배돛은 구름인양 조각 조각
+    이슬 엉긴 궁 기와는 옥 비늘인가
+    푸른 버들 속 문닫는 팔구 집
+    밝은 달에 발 걷은 두서너 사람
+    아득한 신선 고장 어느 곳에 있다던고
+    꿈 깨니 한창 봄 꾀꼬리 우네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0730&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장원정(長源亭) : '
+    value: 고려 문종(文宗) 10년(1056)에 창건한 이궁(離宮). 현 개풍군(開豊郡)광덕면(光德面)유정동(柳井洞)영좌산(領座山) 남록(南麓)에 유지(遺址)가 있음. 고려 역대의 왕이 자주 그곳에 유행(遊幸)하였다.
+english:
+  title: Changyuan Pavilion
+  author: Jeong Ji-sang
+  language: eng
+  text: |-
+    Towering twin gates rest upon the river's edge,
+    On this clear night, not a speck of dust remains.
+    Wind carries the traveler's sail—cloud fragments drifting—
+    Dew crystallizes on the palace tiles like jade scales.
+    Green willows frame the shuttered doors of eight, nine houses,
+    Bright moonlight rolls back the curtains for a few wanderers.
+    Where lies that distant paradise of immortals?
+    Waking from dreams, a yellow warbler sings spring's return.
+  footnotes:
+  - key: ''
+    value: Changyuan Pavilion was a royal retreat established in 1056 during King Munjong's reign of Goryeo, located on the southern slope of Yeongzwasan mountain in what is now Gwangdeok-myeon, Gaepung County. It served as a favored destination for Goryeo royalty throughout the dynasty.

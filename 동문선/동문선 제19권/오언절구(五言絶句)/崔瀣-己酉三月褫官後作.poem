@@ -1,0 +1,43 @@
+canonical:
+  title: 己酉三月褫官後作
+  author: 崔瀣
+  language: lzh
+  text: 塞翁雖失馬莊叟詎知魚倚伏人如問當須質子虛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 己酉三月褫官後作
+  author: 崔瀣
+  language: lzh
+  text: 塞翁雖失馬。莊叟詎知魚。倚伏人如問。當須質子虛。
+korean:
+  title: 기유 삼월 체관 후작
+  author: 최해
+  language: kor
+  text: |-
+    새옹이 비록 말을 잃었으나
+    장수(莊叟)가 어찌 물고기를 알리요
+    만일 묻는 사람이 있거든
+    마땅히 자허(子虛)에게 물으라 하라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 장수(莊叟)가 …… 알리오 : '
+    value: 장자(莊子)가 혜자(惠子)와 함께 호량(濠梁)에서 고기가 노는 것을 보다가 말하기를, “피라미[鯈魚]가 조용히 나와 노니 이것은 고기의 낙(樂)이로다.” 하니, 혜자가 말하기를, “자네가 고기가 아닌데 어찌 고기의 낙을 아는가.” 하였다. 장자는, “자네는 내가 아닌데 내가 고기의 낙을 아는지 모르는지를 어찌 아는가.” 하였다. 《莊子》
+  - key: '[주-D002] 자허(子虛) : '
+    value: 가공의 인물이다. 사마상여(司馬相如)의 〈자허부(子虛賦)〉는 자허와 망시공(亡是公)과 오유선생(烏有先生) 세 사람의 문답으로 되었는데, “헛 것[子虛]이 이런 것이 없다[亡是公]. 어디 있었으냐[烏有].”라는 뜻이다.
+english:
+  title: Written After Dismissal from Office in the Third Month of the Jieyou Year
+  author: Choe Hae
+  language: eng
+  text: |-
+    Though the Old Man of the Frontier lost his horse,
+    How could Zhuangzi understand the fish?
+    If those who ask should seek an answer,
+    Then send them to inquire of Master Void.
+  footnotes:
+  - key: ''
+    value: 'The ''Old Man of the Frontier'' refers to a famous paradox from Chinese philosophy: a man''s horse escaped into barbarian lands. When neighbors offered sympathy, he replied, ''How do you know this is not fortune?'' Later, the horse returned with fine stallions. When they offered congratulations, he said, ''How do you know this is not misfortune?'' The saying means that apparent gains and losses are difficult to judge.'
+  - key: ''
+    value: Zhuangzi and the fish alludes to a debate between Zhuangzi and his friend Huizi on the Hao bridge. Seeing fish dart about, Zhuangzi said, 'See how the minnows dart about—this is the joy of fish.' Huizi challenged, 'You are not a fish; how do you know the joy of fish?' Zhuangzi replied, 'You are not me; how do you know I cannot know the joy of fish?'
+  - key: ''
+    value: Master Void (Zixu) is a fictitious character from Sima Xiangru's 'Rhapsody of Master Void,' representing emptiness and the unknowable—suggesting that ultimate truth may only be found in what cannot be grasped.

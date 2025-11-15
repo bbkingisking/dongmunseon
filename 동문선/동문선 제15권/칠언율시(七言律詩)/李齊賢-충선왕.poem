@@ -1,0 +1,50 @@
+canonical:
+  title: 충선왕
+  author: 李齊賢
+  language: lzh
+  text: 主恩曾未答丘山萬里驅馳敢道難彈劒不爲兒女別引杯聊盡故人歡五雲迴首籠金闕片月多情照玉關唯念慈親鬢如雪數行淸淚洒征鞍
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 충선왕
+  author: 李齊賢
+  language: lzh
+  text: 主恩曾未答丘山。萬里驅馳敢道難。彈劒不爲兒女別。引杯聊盡故人歡。五雲迴首籠金闕。片月多情照玉關。唯念慈親鬢如雪。數行淸淚洒征鞍。
+korean:
+  title: 지치계해년 4월 20일 〈당시 서번에 계시는 임금
+  author: 이제현
+  language: kor
+  text: |-
+    태산 같은 임의 은혜 보답하지 못했으니
+    만 리를 달리는 것 어이 어렵다 하오리
+    검을 퉁겨본다, 어찌 아녀와 이별을 하랴
+    잔을 들어서 친구의 정을 실컷 받으려네
+    돌아보면 오색 구름 금궐을 덮어 있고
+    다정한 조각달은 옥관을 비치리라
+    오직 맘에 걸리기는 백발이 눈과 같은 어머님
+    두어 줄 맑은 눈물이 안장 위에 떨어지네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0510&viewSync=OT
+  footnotes: []
+english:
+  title: To His Majesty in the Western Pavilion, the Fourth Month of Gyeongja Year
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    Your kindness, vast as Mount Tai, remains unanswered—
+    How dare I call a thousand leagues a hardship?
+    I strike the blade, but not to part from lovers' arms,
+    Raising the cup instead to drown in friendship's warmth.
+
+    Turning back, five-colored clouds enfold the golden palace,
+    While a tender moon illuminates the jade gate.
+    Yet my heart clings only to her—my mother's silver hair,
+    As clear tears fall like rain upon my saddle.
+  footnotes:
+  - key: ''
+    value: Mount Tai (泰山) represents immeasurable grace and obligation in classical Chinese poetry
+  - key: ''
+    value: The 'blade' and 'cup' are classical contrasts between military duty and human emotion
+  - key: ''
+    value: The 'golden palace' and 'jade gate' reference the imperial capital and the northern frontier where the poet serves
+  - key: ''
+    value: '''Five-colored clouds'' symbolize celestial blessing and imperial favor in traditional imagery'

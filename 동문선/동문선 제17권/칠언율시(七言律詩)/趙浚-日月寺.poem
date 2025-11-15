@@ -1,0 +1,50 @@
+canonical:
+  title: 日月寺
+  author: 趙浚
+  language: lzh
+  text: 平生踈蕩愛淸幽遠上寒山古寺秋一望前朝仍抆淚都忘萬事獨登樓崧巒凍雨寒聲急紫洞歸雲翠色浮安用栖栖居寵利飄然欲與赤松遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 日月寺
+  author: 趙浚
+  language: lzh
+  text: 平生踈蕩愛淸幽。遠上寒山古寺秋。一望前朝仍抆淚。都忘萬事獨登樓。崧巒凍雨寒聲急。紫洞歸雲翠色浮。安用栖栖居寵利。飄然欲與赤松遊。
+korean:
+  title: 일월사
+  author: 조준
+  language: kor
+  text: |-
+    평생 놀이를 즐기고 말쑥한 경치 사랑하여
+    가을에 멀리 싸늘한 산, 옛 절에 올라왔네
+    전조를 생각하고 눈물을 닦나니
+    만사를 모두 잊고 홀로 다락에 오르네
+    송악산 겨울 비는 찬 소리도 급한지고
+    자하동 가는 구름은 푸른 빛이 떠있구나
+    내 구구히 명리에 살아 무엇하리오
+    표연히 다 떨쳐버리고 적송자와 놀리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0250&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 표연히 …… 놀리라 : '
+    value: 적송자는 신선인데 한(漢)나라 장량(張良)이, “인간 일을 버리고 적송자를 좇아 놀고자 한다.” 하였다. 《漢書 張良傳》
+english:
+  title: The Temple of Sun and Moon
+  author: Cho Jun
+  language: eng
+  text: |-
+    All my life I have loved wandering freely through pristine places,
+    And now in autumn I climb to this ancient temple on the cold mountain far away.
+    Thinking of former dynasties, I wipe away my tears—
+    Forgetting all worldly cares, I ascend alone to the tower.
+
+    The winter rains on Mount Song freeze the air with urgent sound,
+    While clouds returning to Purple Grotto float in emerald hues.
+    What use is it to busily scramble for fame and fortune?
+    Let me cast it all aside and wander freely with the immortal Red Pine.
+  footnotes:
+  - key: ''
+    value: Red Pine (赤松子) is a legendary Daoist immortal. Zhang Liang of the Han Dynasty famously expressed his desire to abandon human affairs and follow Red Pine in wandering—an allusion to the pursuit of spiritual transcendence over worldly ambition.
+  - key: ''
+    value: The 'tower' likely refers to a high platform or vantage point within the temple complex.
+  - key: ''
+    value: Mount Song (嵩山) is one of China's sacred mountains, associated with Daoism and Buddhist monasteries.

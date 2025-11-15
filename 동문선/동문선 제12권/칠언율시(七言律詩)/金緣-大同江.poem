@@ -1,0 +1,48 @@
+canonical:
+  title: 大同江
+  author: 金緣
+  language: lzh
+  text: 雲捲長空水暎天大同樓上敞華筵淸和日色篩帘幕旖旎香煙泛管絃一帶長江澄似鏡兩行垂柳遠如煙行看乙密臺前景自驗十年表未然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大同江
+  author: 金緣
+  language: lzh
+  text: 雲捲長空水暎天。大同樓上敞華筵。淸和日色篩帘幕。旖旎香煙泛管絃。一帶長江澄似鏡。兩行垂柳遠如煙。行看乙密臺前景。自驗十年表未然。
+korean:
+  title: 대동강
+  author: 김연
+  language: kor
+  text: |-
+    긴 하늘에 구름 걷히고 물이 하늘을 비쳤는데
+    대동루 위에 벌어진 화려한 잔치
+    청화한 햇빛은 장막 틈으로 새어 들고
+    나부끼는 향연은 관현에 뜨네
+    한 줄기 긴 강은 맑아 바로 거울인데
+    두 줄 수양버들은 멀리 완연 연기로고
+    을밀대 앞의 경치를
+    십 년 본 것을 징험하여 장래에 표지해 두네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: The Daedong River
+  author: Kim Yeon
+  language: eng
+  text: |-
+    Clouds part from the endless sky as water mirrors heaven.
+    Atop the Daedong Tower, a splendid feast unfolds.
+    Clear sunlight filters through the hanging curtains,
+    And fragrant mist drifts upon the strings and pipes.
+
+    One long river runs crystal clear as a mirror,
+    While two rows of weeping willows fade into distant mist.
+    Beholding the landscape before Eulmilar Tower,
+    I mark what ten years of witnessing foretells of things to come.
+  footnotes:
+  - key: ''
+    value: 'Daedong Tower (대동루): A historical pavilion overlooking the Daedong River in Pyongyang, North Korea, known as a site of cultural refinement and entertainment.'
+  - key: ''
+    value: 'Eulmilar Tower (을밀대): Another historical structure in Pyongyang, significant in Korean cultural heritage.'
+  - key: ''
+    value: The poem employs the mirror metaphor to suggest both reflection and prophecy—the river reflects the present moment while the speaker's observations reflect upon the future.

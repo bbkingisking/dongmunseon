@@ -1,0 +1,50 @@
+canonical:
+  title: 過鴨綠江
+  author: 姜希孟
+  language: lzh
+  text: 畫船簫鼓壓滄波齊榜中流取次過鐵騎如雲連野靜霓旌蔽日簇江多水今華界橫羅帶山入胡天點翠螺駟馬長卿今諭蜀新詩還看妙陰何
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過鴨綠江
+  author: 姜希孟
+  language: lzh
+  text: 畫船簫鼓壓滄波。齊榜中流取次過。鐵騎如雲連野靜。霓旌蔽日簇江多。水今華界橫羅帶。山入胡天點翠螺。駟馬長卿今諭蜀。新詩還看妙陰何。
+korean:
+  title: 과 압록강
+  author: 강희맹
+  language: kor
+  text: |-
+    화선의 퉁소와 북소리는 창파를 누르는데
+    중류에서 돛대를 나란히 하여 차례로 지나간다
+    철갑 입은 기병은 구름처럼 고요히 들에 연달았고
+    무지개 같은 깃발은 해를 덮어 강에 빽빽이 모여 있다
+    물은 지금 화계인데 비단 띠를 비끼 맨 듯
+    산은 오랑캐 하늘에 들아가 푸른 소라 점 찍었다
+    사마로 장경은 지금 촉나라를 달래는데
+    새 시를 다시 보면 음하보다 묘하던가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사마(駟馬)로 …… 달래는데 : '
+    value: 사마상여(司馬相如)라는 사람의 자(字)이다. 그는 촉(蜀) 땅 사람으로 중앙에 벼슬하였는데, 촉 지방이 반역하련다는 풍문이 있으므로, 황제의 명을 받아서 망동하지 말라는 뜻의 유초부로(渝蜀父老)라는 것을 지어서 미연에 방지하게 하였다.
+  - key: '[주-D002] 음하(陰何) : '
+    value: 옛날 남북조 시대에, 진(陳)의 시인인 음갱(陰鏗)과 양(梁)의 시인인 하손(何遜)을 말한다.
+english:
+  title: Crossing the Yalu River
+  author: Kang Hee-meng
+  language: eng
+  text: |-
+    Painted boats with pipes and drums press down the blue waves,
+    Oars aligned mid-stream, we pass in orderly procession.
+    Iron-clad cavalry spreads like clouds across the silent fields,
+    Rainbow banners veil the sun, clustering thick upon the river.
+
+    The waters now mark the border, sewn like silken ribbons,
+    The mountains enter barbarian skies, dotted with emerald spirals.
+    Sima the envoy brings harmony to Shu in our present age—
+    Read these new verses: are they not finer than Yin and He?
+  footnotes:
+  - key: ''
+    value: Sima refers to Sima Xiangru, the famous Han dynasty diplomat and poet who was sent to pacify the people of Shu through his eloquent writings when rebellion threatened the region.
+  - key: ''
+    value: Yin and He reference the renowned poets Yin Keng of Chen and He Xun of Liang from the Northern and Southern Dynasties, representing the classical standard of poetic excellence.

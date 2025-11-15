@@ -1,0 +1,39 @@
+canonical:
+  title: 題聖居山元通庵窓壁
+  author: 南孝溫
+  language: lzh
+  text: 東日出杲杲木落神靈雨開窓萬慮淸病骨欲生羽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題聖居山元通庵窓壁
+  author: 南孝溫
+  language: lzh
+  text: 東日出杲杲。木落神靈雨。開窓萬慮淸。病骨欲生羽。
+korean:
+  title: 제 성거산 원통암 창벽
+  author: 남효온
+  language: kor
+  text: |-
+    동쪽에서 해가 떠 환히 밝은데
+    신령한 비에 나뭇잎 떨어진다
+    창을 열매 모든 생각 맑아지나니
+    병든 몸에서 날개가 생기려 한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: Written on the Window Wall of Wongtong Hermitage on Seongeo Mountain
+  author: Nam Hyoong-on
+  language: eng
+  text: |-
+    In the east the sun rises, bright and radiant,
+    As sacred rain strips the leaves from every tree.
+    Opening the window, ten thousand cares dissolve,
+    And from this ailing frame, wings seem to sprout.
+  footnotes:
+  - key: ''
+    value: Seongeo Mountain (聖居山) is a sacred site in Korean Buddhist tradition, home to several important temples and hermitages.
+  - key: ''
+    value: The hermitage setting and imagery of spiritual awakening suggest this poem was likely written during a period of retreat or illness, common themes in East Asian literati culture.
+  - key: ''
+    value: The progression from natural observation to spiritual transformation reflects the classical Buddhist and Daoist theme of enlightenment through nature's manifestation.

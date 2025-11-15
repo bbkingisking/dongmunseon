@@ -1,0 +1,54 @@
+canonical:
+  title: 李中樞
+  author: 偰循
+  language: lzh
+  text: 共羨高門積慶長斑衣皓首奉萱堂怡愉志篤晨昏念烜赫恩承雨露香映日玉杯浮㶑灧過雲金縷雜峩洋會須續製唐雞曲萬古三韓樂府藏
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 李中樞
+  author: 偰循
+  language: lzh
+  text: 共羨高門積慶長。斑衣皓首奉萱堂。怡愉志篤晨昏念。烜赫恩承雨露香。映日玉杯浮㶑灧。過雲金縷雜峩洋。會須續製唐雞曲。萬古三韓樂府藏。
+korean:
+  title: 이중추
+  author: 설순
+  language: kor
+  text: |-
+    높은 댁의 오랜 적경을 모두 부러워 하노니
+    알락 옷, 흰 머리로 자당을 받드누나
+    부드러운 얼굴로 조석 효도를 극진히 하고
+    빛나는 임금 은혜는 우로의 향기를 받자왔네
+    해를 비춘 옥잔의 술은 두둥실 철철 넘고
+    지나는 구름 멈춰 금루(노래 곡명) 노래가 아양곡을 섞는구나
+    이 자리에 마땅히 당계곡을 이어 지어
+    만고의 삼한 악부도 두고두고 전해야 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0590&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 지나는 구름 멈춰[過雲] 금루(金縷 노래 곡명(曲名)) : '
+    value: 옛날 진청(秦靑)이 노래를 잘 불러, 그 소리가 가는 구름을 멈추게 하였다.
+  - key: '[주-D002] 아양곡(峨洋曲) : '
+    value: 춘추(春秋) 시대 때 거문고의 명수 백아(伯牙)가 지음(知音)  종자기(鍾子期) 앞에서 뜯은 곡. 백아가 거문고를 뜯고 자기가 듣는데, 백아의 뜻이 태산에 있으면 자기는 하는 말 “높디 높구나[峩峩].”라 하였고, 뜻이 흐르는 물에 있으면, “출렁출렁 하는구나[洋洋].” 하였다.
+  - key: '[주-D003] 당계곡(唐鷄曲) : '
+    value: 고려가요 중의 효자 문충(文忠)이 지은 유명한 목계가(木鷄歌), 곧 오관산곡(五冠山曲). ‘오관산’은 효자 문충이 지은 것이다. 충이 오관산 밑에 살았는데, 어머니를 지극히 효성스럽게 섬겼다. 그가 서울에서 벼슬살이를 하게 되었는데, 오관산과 서울과의 거리가 30리나 먼길이었는데도 어머니를 봉양코자 아침에 나갔다가 저물면 돌아오며 정성(定省)이 조금도 쇠하지 않았다. 그 어머니가 늙어감을 탄식하여 이 노래를 지었다. 이제현(李齊賢)이 한시로 번역하되, “나무조각으로 조그마한 수탉을 만들어서 젓가락으로 집어다 벽의 홰에 앉혔네. 이 새가 꼬끼오 울어 때를 알릴 때, 어머님 얼굴에 주름살이 하나 더 생기누나.” 하였다. 《高麗惡史 樂志》
+english:
+  title: In Praise of Minister Yi Jung-chu
+  author: Seol Sun
+  language: eng
+  text: |-
+    All envy the long blessings accumulated in that noble house,
+    Where patched robes and hair white as frost serve the mother's chamber.
+    With gentle countenance, filial duty grows deeper with each dawn and dusk,
+    And the bright sovereign's grace falls like rain and dew, fragrant.
+
+    Jade cups catching sunlight overflow with wine,
+    While passing clouds yield to golden melodies mixed with harmonies of understanding.
+    Now let us compose anew the chicken song of old Tang,
+    So that through ten thousand ages, the music of Three Koreas echoes eternal in the archives.
+  footnotes:
+  - key: ''
+    value: The 'golden melodies' alludes to the legend of Qin Qing, whose beautiful singing could halt passing clouds in their motion.
+  - key: ''
+    value: The 'harmonies of understanding' (peaks and flowing waters) refers to the famous guqin piece where Zhong Ziqi perfectly understood the musician Bo Ya's intentions—when Bo Ya's thoughts turned to the high peaks, Ziqi heard 'soaring heights,' and when turned to flowing waters, he perceived 'waves upon waves.'
+  - key: ''
+    value: The 'chicken song of old Tang' is the renowned Goryeo filial piety song by the worthy son Mun Chung, also known as the Five Crown Mountain Song. The song laments that while Mun Chung, living at the foot of Five Crown Mountain, would rush from the capital each evening to attend his aging mother without fail, her face grew ever more lined with age—expressed through the image of a small wooden rooster carved from wood, placed on a wall perch to crow and mark the passing hours.

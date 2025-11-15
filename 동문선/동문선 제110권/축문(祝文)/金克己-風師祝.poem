@@ -1,0 +1,42 @@
+canonical:
+  title: 風師祝
+  author: 金克己
+  language: lzh
+  text: 北斗迴春方届發生之節南箕布氣載揚條達之風祗率彝儀聿修祀典庶無愆於五日終有稔於三秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 風師祝
+  author: 金克己
+  language: lzh
+  text: 北斗迴春。方届發生之節。南箕布氣。載揚條達之風。祗率彝儀。聿修祀典。庶無愆於五日。終有稔於三秋。
+korean:
+  title: 풍사 축문
+  author: 김극기
+  language: kor
+  text: 북두(北斗)의 방향이 봄을 향해 돌아왔으니, 바야흐로 발생하는 절후가 되었고, 남기(南箕)가 기운을 펴니, 이에 화창한 바람이 일어납니다. 삼가 떳떳한 의식에 좇아 제사의 예전을 수행하오니, 바라건대, 풍사(風師)는 5일을 허물 없이 화순하게 넘기어, 마침내 삼추(三秋)의 풍년이 있게 하옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Prayer to the Wind Master
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The Big Dipper turns toward spring,
+    As we arrive at the season of all things' awakening.
+    The South Wind Basket spreads its breath,
+    And propitious breezes arise.
+
+    Reverent in sacred ceremony,
+    We faithfully perform the rites of old,
+    Praying that five days pass without blemish,
+    That autumn's harvest may finally overflow with plenty.
+  footnotes:
+  - key: ''
+    value: The Big Dipper's position was used in traditional East Asian cosmology to mark the seasons; its northward turn symbolized the spring equinox and renewal.
+  - key: ''
+    value: The South Wind Basket (南箕) refers to a constellation associated with wind in traditional astronomy.
+  - key: ''
+    value: The 'five days' likely refers to a specific period in the lunar calendar significant to agricultural festivals.
+  - key: ''
+    value: The 'three autumns' is a poetic expression for the autumn harvest season.

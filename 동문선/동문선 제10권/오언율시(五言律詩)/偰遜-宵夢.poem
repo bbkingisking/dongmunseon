@@ -1,0 +1,46 @@
+canonical:
+  title: 宵夢
+  author: 偰遜
+  language: lzh
+  text: 龍蛇猶格闘豺虎尙縱橫不見風塵息胡爲江漢行有身眞大累無地托餘生寂寞中宵夢凄涼去國情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宵夢
+  author: 偰遜
+  language: lzh
+  text: 龍蛇猶格闘。豺虎尙縱橫。不見風塵息。胡爲江漢行。有身眞大累。無地托餘生。寂寞中宵夢。凄涼去國情。
+korean:
+  title: 소몽
+  author: 설손
+  language: kor
+  text: |-
+    용사는 오히려 격투를 하고
+    호표는 아직도 날뛰네
+    풍진이 그치는 것을 보지 못하는데
+    어찌 한가히 강호로 갈까
+    몸 있음이 참으로 큰 짐이어서
+    여생을 붙일 땅이 없네
+    적막한 밤중 꿈
+    처량하게 나라를 떠나는 마음이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0210&viewSync=OT
+  footnotes: []
+english:
+  title: Night Dream
+  author: Seol Son
+  language: eng
+  text: |-
+    Dragons and serpents still grapple in combat,
+    Jackals and tigers yet rampage unchecked.
+    I see no end to the dust and turmoil of the world—
+    How can I wander freely by river and lake?
+
+    To possess a body is truly a heavy burden,
+    There is no refuge where I can lay down my remaining years.
+    In the desolate depths of this midnight dream,
+    My heart grows sorrowful, longing for the land I left behind.
+  footnotes:
+  - key: ''
+    value: The 'dragons and serpents' and 'jackals and tigers' represent the warring factions and chaos of the political world.
+  - key: ''
+    value: The poem reflects the poet's sense of alienation and exile, suggesting a withdrawal from the turbulent affairs of state into solitary contemplation.

@@ -1,0 +1,48 @@
+canonical:
+  title: 病中書懷
+  author: 鄭希良
+  language: lzh
+  text: 落日關山瘴霧橫角聲凄冷動邊城將軍翠幕開淸宴覊客西風對短檠詩句却因愁裏得旅情多是病中生明時魑魅憎相伴悶默空齋獨自驚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病中書懷
+  author: 鄭希良
+  language: lzh
+  text: 落日關山瘴霧橫。角聲凄冷動邊城。將軍翠幕開淸宴。覊客西風對短檠。詩句却因愁裏得。旅情多是病中生。明時魑魅憎相伴。悶默空齋獨自驚。
+korean:
+  title: 병중 서회
+  author: 정희량
+  language: kor
+  text: |-
+    지는 해 관산에 장기 안개가 비끼었는데
+    슬프고 찬 피리소리는 변방 성을 움직이네
+    장군은 푸른 장막에서 맑은 잔치를 베풀고
+    나그네는 서쪽 바람에 짧은 등잔 걸이를 마주했네
+    시의 글귀는 도리어 시름 속을 인해 얻고
+    나그네 정은 병중에서 많이 생기는것
+    밝은 날에 이매와 짝하는 것을 미워하나니
+    빈 서재에 민망히 홀로 앉아 스스로 놀라네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0450&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections Written During Illness
+  author: Jeong Hee-ryang
+  language: eng
+  text: |-
+    The sun descends beyond the mountain pass, miasmic fog spreads thick.
+    A mournful flute's cry stirs the frontier garrison.
+    The general unfolds his emerald tent for a luminous feast,
+    While I, a wanderer, face the western wind by my dim lamp.
+
+    Poetic lines are born, strange to say, from sorrow's depth.
+    A traveler's yearning swells most keenly in sickness.
+    In daylight, demons flock to mock and keep me company—
+    In this empty study, I sit alone, startled by my own silence.
+  footnotes:
+  - key: ''
+    value: The flute (角) evokes the traditional military instrument of the frontier, lending both historical resonance and melancholic atmosphere.
+  - key: ''
+    value: The contrast between the general's festive gathering and the speaker's solitary vigil reflects the poet's sense of exclusion and alienation.
+  - key: ''
+    value: 魑魅 (demons/goblins) may be read both literally and as a metaphor for the disturbing thoughts and anxieties that plague the sickbed.

@@ -1,0 +1,36 @@
+canonical:
+  title: 宗室傳序
+  author: 李齊賢
+  language: lzh
+  text: 國家之制宗室稱諸王猶漢諸劉唐諸李謂同姓耳非爵也親而尊者爵爲公其次爲侯踈者爲伯幼者爲司徒司空內足以贏其生外足以尊其勢不使之莅官臨民祖宗所以保親戚也金寬毅王代宗錄任景肅瓊源錄宗女與宗子並列討其世譜棼然莫之辨也小白君齊而姑姊妹不嫁稠父娶吳而謂之吳孟子爲不足譏歟表而出之又豈春秋諱魯之法乎宗女雖親且貴婦人外父母家可略也已
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宗室傳序
+  author: 李齊賢
+  language: lzh
+  text: 國家之制。宗室稱諸王。猶漢諸劉唐諸李。謂同姓耳。非爵也。親而尊者爵爲公。其次爲侯。踈者爲伯。幼者爲司徒司空。內足以贏其生。外足以尊其勢。不使之莅官臨民。祖宗所以保親戚也。金寬毅王代宗錄。任景肅瓊源錄。宗女與宗子並列。討其世譜。棼然莫之辨也。小白君齊而姑姊妹不嫁。稠父娶吳而謂之吳孟子。爲不足譏歟。表而出之。又豈春秋諱魯之法乎。宗女雖親且貴。婦人外父母家。可略也已。
+korean:
+  title: 종실전서
+  author: 이제현
+  language: kor
+  text: 국가의 제도에 종실(宗室)은 제왕(諸王)이라 칭하여, 한(漢)나라의 여러 유(劉)씨와 당(唐)나라의 여러 이(李)씨에게 하였던 것과 같다. 그것은 동성(同姓)을 말한 것이요, 작(爵)은 아니다. 가깝고 높은 이는 작을 내려 공(公)으로 삼고, 그 다음은 후(侯)로 삼으며, 먼 이는 백(伯)으로 삼고, 어린이는 사도(司徒)ㆍ사공(司空)으로 삼아서, 안으로는 그 생활을 윤택하게 하고, 밖으로는 그 기세를 높일 수 있게 한다. 그러나 그로 하여금 관(官)에 나아가고 백성을 다스리게 하지는 않는다. 이것이 조종(祖宗)이 친척을 안보하는 방법이다.김관의(金寬毅)의 《왕대종록(王代宗錄)》과 임경숙(任景肅)의 《경원록(瓊源錄)》은 종녀(宗女)나 종자(宗子)가 병렬되어 그 세보(世譜)를 들춰보아도 산란하여 분별하기 어렵다. 소백(小白)이 제(齊)나라에 군림하자 고자매(姑姉妹)가 출가하지 못했고, 조보(稠父)가 오(吳)나라에 장가들어 오맹자(吳孟子)라 이르는 것도 기롱할 것이 못 된단 말인가. 표나게 드러나는 것이 또 어찌《춘추(春秋)》의 노(魯)나라를 기휘(忌諱)한 법이 되랴. 그런즉 종녀(宗女)는 비록 친(親)이요, 또 귀하지만 부인이요, 외부모의 집이니 생략해야만 할 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0880_010_0020&viewSync=OT
+  footnotes: []
+english:
+  title: Preface to the Record of the Royal Clan
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    In the state's system, members of the royal clan are called princes, just as the various Liu of the Han and the various Li of the Tang were named for their shared surname—not for rank itself. Those near in kinship and high in station receive rank as Duke; the next tier becomes Marquis; the distant become Earl; and the young are given offices like Minister of Instruction or Minister of Works. Thus they are sustained in their livelihood within, while their prestige is elevated without. Yet they are not permitted to hold office or govern the people. This is how the ancestors preserved the bonds of kinship.
+
+    But in the Royal Genealogy of Kim Kwan-ui and the Genealogical Record of Im Gyeong-suk, both royal daughters and royal sons are listed side by side, and when one examines their lineages, they become so tangled that they cannot be properly distinguished. When the Duke of Qi held sway, his unmarried sisters remained at home; when Zoufu married into Wu and was called the Mother of Wu, was this not something to be scorned? To display such matters openly—is this not following the Spring and Autumn's practice of concealing the affairs of Lu? Thus, though royal daughters are both near and noble in station, they are women whose place lies in their husband's family. Such matters may rightfully be omitted.
+  footnotes:
+  - key: ''
+    value: 'The text references historical precedents: the Han dynasty''s Liu clan and Tang dynasty''s Li clan as examples of how surnames identified kinship groups rather than rank.'
+  - key: ''
+    value: Kim Kwan-ui's 'Royal Genealogy' and Im Gyeong-suk's 'Genealogical Record' were important sources on royal lineages in medieval Korea.
+  - key: ''
+    value: The reference to Qi and the unmarried sisters alludes to historical examples of women whose status prevented normal marriage customs.
+  - key: ''
+    value: The 'Spring and Autumn' reference is to the Spring and Autumn Annals, the classical text known for its use of deliberate omission and concealment of certain matters as a form of moral judgment.

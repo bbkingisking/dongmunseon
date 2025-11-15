@@ -1,0 +1,37 @@
+canonical:
+  title: 漁艇
+  author: 偰長壽
+  language: lzh
+  text: 撤網群魚急回舟一棹輕却從紅蓼岸齊唱竹枝聲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漁艇
+  author: 偰長壽
+  language: lzh
+  text: 撤網群魚急。回舟一棹輕。却從紅蓼岸。齊唱竹枝聲。
+korean:
+  title: 어정
+  author: 설장수
+  language: kor
+  text: |-
+    그물을 펼치니 고기떼가 급하고
+    배를 돌리매 한 돛대가 가볍다
+    문득 붉은 여뀌풀 우거진 언덕을 좇아
+    죽지가(竹枝歌) 부는 소리 들리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0600&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 죽지가(竹枝歌) : '
+    value: 죽지사(竹枝詞). 중국 파동(巴東)의 민요(民謠)이다.
+english:
+  title: Fishing Boat
+  author: Seol Jang-su
+  language: eng
+  text: |-
+    The net spreads wide, and fish dart in urgent throng.
+    One oar turns the boat—how light it glides along.
+    Following the banks where red bistro plants grow thick,
+    The bamboo songs rise up, their ancient, haunting lick.
+  footnotes:
+  - key: ''
+    value: The 'bamboo songs' (竹枝歌) are folk melodies from Badong in ancient China, here evoking the timeless traditions of river workers and fishermen.

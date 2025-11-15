@@ -1,0 +1,72 @@
+canonical:
+  title: 剛中
+  author: 洪逸童
+  language: lzh
+  text: 金多令人貴無詩令人俗石頑固不害桂香終見伐絲染不須悲歧多何必泣竹看君子操松愛歲寒骨匏飮信可樂蝸室聊自適土床冬暖足蓽牖夏散髮革帶任男頑藍衣置妾惡草木與同腐一生何役役
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 剛中
+  author: 洪逸童
+  language: lzh
+  text: 金多令人貴。無詩令人俗。石頑固不害。桂香終見伐。絲染不須悲。歧多何必泣。竹看君子操。松愛歲寒骨。匏飮信可樂。蝸室聊自適。土床冬暖足。蓽牖夏散髮。革帶任男頑。藍衣置妾惡。草木與同腐。一生何役役。
+korean:
+  title: 팔음체를 모방하여 강중
+  author: 홍일동
+  language: kor
+  text: |-
+    금이 많으면 사람을 귀하게 만들고
+    시가 없으면 사람을 속되게 만든다
+    돌은 완하여 해를 입지 않지마는
+    계수나무는 향기로우므로 마침내 베임을 당한다
+    실이 물든다고 슬퍼할 것 없고
+    갈림길 많다고 울 것은 무엇인가
+    대에서는 군자의 지조를 볼 수 있고
+    솔은 추운 때의 골격이 사랑스럽다
+    바가지로 마시는 것이 참으로 즐겁고
+    달팽이 집이 그런대로 편안하다
+    토상에는 겨울에 발을 덥히고
+    싸리짝 창문에는 여름에 머리를 흐트린다
+    가죽띠는 아들의 완한 대로 맡기고
+    남색 옷은 첩이 싫어하는 그대로 둔다
+    초목과 함께 썩고 마는 것을
+    일생이 어찌 그리 분주한고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 팔음체(八音體) : '
+    value: 동양의 악기(樂器)인 금(金)ㆍ석(石)ㆍ사(絲)ㆍ죽(竹)ㆍ포(匏)ㆍ토(土)ㆍ혁(革)ㆍ목(木)을 팔음이라 한다. 이 시는 십육 구(句)로서 팔음의 여덟 글자를 순서대로 배열한 것이다.
+  - key: '[주-D002] 실이 물든다고 슬퍼할 것 없고 : '
+    value: 묵자(墨子)는 흰 실을 물들이는 것을 보고 울었다. 그것은 푸르게도 붉게도 될 수 있는데, 한 번 물들면 다시 희게 될 수 없다는 말이다.
+  - key: '[주-D003] 가죽띠 : '
+    value: 어린 아이에게 처음 옷을 입힐 때에, 아들은 가죽띠를 매고, 여자는 실띠를 맨다.
+english:
+  title: Strength Within
+  author: Hong Yil-dong
+  language: eng
+  text: |-
+    Gold abundant makes men noble,
+    Poetry absent leaves men coarse.
+    Stone unmoved cannot be harmed,
+    Yet cinnamon fragrant meets the axe.
+
+    Dyed silk—weep not for its color,
+    Many paths—why shed tears?
+    Bamboo reveals the noble's resolve,
+    Pine holds dear the bones of winter.
+
+    To drink from gourd-cup brings true joy,
+    Snail-shell dwelling offers its ease.
+    Earth-bed warms the feet in frost,
+    Rush-window lets summer hair flow free.
+
+    Leather belt—let sons bend as they will,
+    Indigo robe—keep it as concubines despise.
+    Rotting together with grass and wood,
+    Why rush so through this one brief life?
+  footnotes:
+  - key: ''
+    value: 'This poem uses the Eight Sounds structure (Eight Instruments), an ancient musical classification system: metal, stone, silk, bamboo, gourd, earth, leather, and wood. Each couplet sequentially introduces one of these eight categories, creating a meditation on simplicity and virtue.'
+  - key: ''
+    value: The reference to dyed silk alludes to the Mohist philosopher Mozi, who wept upon seeing white silk dyed—for once colored, it can never return to white. Here it represents the irreversibility of certain choices.
+  - key: ''
+    value: The leather belt (for sons) and silk ribbon (for daughters) were traditional bindings given to infants at birth, symbolizing their assigned roles and destinies.

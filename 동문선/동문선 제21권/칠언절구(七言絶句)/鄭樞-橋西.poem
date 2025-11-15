@@ -1,0 +1,37 @@
+canonical:
+  title: 橋西
+  author: 鄭樞
+  language: lzh
+  text: 橋西楊柳盡飛花信馬尋春到日斜滿地竹陰門半掩隔溪亭館是誰家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 橋西
+  author: 鄭樞
+  language: lzh
+  text: 橋西楊柳盡飛花。信馬尋春到日斜。滿地竹陰門半掩。隔溪亭館是誰家。
+korean:
+  title: 교서
+  author: 정추
+  language: kor
+  text: |-
+    다리 서쪽의 버들은 모두 꽃을 날리는데
+    말 가는 대로 봄을 찾다가 해질녘이 되었네
+    땅에는 대 그림자 가득하고 문은 반쯤 닫혔는데
+    시내 건너 저 정관은 누구 집인고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1100&viewSync=OT
+  footnotes: []
+english:
+  title: West of the Bridge
+  author: Jung Chu
+  language: eng
+  text: |-
+    West of the bridge, the willows scatter all their blossoms.
+    Following my horse at will, I sought the spring until day's end.
+    The ground lies thick with bamboo shadows, the gate half-closed—
+    Whose pavilion is that across the stream?
+  footnotes:
+  - key: ''
+    value: The poem employs a journey motif common in East Asian poetry, where wandering becomes a meditation on transience and solitude.
+  - key: ''
+    value: The half-closed gate suggests both invitation and withdrawal, a threshold between the speaker's world and an unknowable other.

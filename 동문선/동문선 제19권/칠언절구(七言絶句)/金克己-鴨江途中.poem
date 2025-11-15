@@ -1,0 +1,37 @@
+canonical:
+  title: 鴨江途中
+  author: 金克己
+  language: lzh
+  text: 徂年旅客兩依依信馬行吟背落暉戍鼓一聲來遠路行行征鴈帖雲飛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鴨江途中
+  author: 金克己
+  language: lzh
+  text: 徂年旅客兩依依。信馬行吟背落暉。戍鼓一聲來遠路。行行征鴈帖雲飛。
+korean:
+  title: 압강 도중
+  author: 김극기
+  language: kor
+  text: |-
+    가는 세월, 나그네 둘 다 의의하여라
+    말 타고 읊조리니 저녁 볕이 등에 지누나
+    한 소리 수자리 북에 먼 길을 내가 왔네
+    가고 가는 기러기는 구름에 붙어 나는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0730&viewSync=OT
+  footnotes: []
+english:
+  title: Along the Duck River
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The passing years, both the traveler and time grow wistful—
+    Riding my horse, I chant verses as the evening sun slips behind me.
+    One beat of the garrison drum echoes from the distant path I've traveled,
+    And the wild geese drift onward, clinging to the clouds as they fly.
+  footnotes:
+  - key: ''
+    value: The Duck River (압강/鴨江) refers to a river in Korea, marking a significant waypoint on the speaker's journey. The garrison drum signals the separation between settled lands and the wilderness ahead.
+  - key: ''
+    value: The image of geese drifting with clouds suggests both the freedom of nature and the speaker's own displacement as a traveler—a common motif in East Asian poetry representing transience and longing.

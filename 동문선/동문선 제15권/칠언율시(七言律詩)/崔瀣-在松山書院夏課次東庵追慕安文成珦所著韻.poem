@@ -1,0 +1,52 @@
+canonical:
+  title: 在松山書院夏課次東庵追慕安文成珦所著韻
+  author: 崔瀣
+  language: lzh
+  text: 時當去聖欲從誰盡棄常經競好奇不是賢侯生命世寧敎胄子復尊師抽錢慮遠資無極函丈功深進有爲配祀宣尼有公論請先鎞石勒斯詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 在松山書院夏課次東庵追慕安文成珦所著韻
+  author: 崔瀣
+  language: lzh
+  text: 時當去聖欲從誰。盡棄常經競好奇。不是賢侯生命世。寧敎胄子復尊師。抽錢慮遠資無極。函丈功深進有爲。配祀宣尼有公論。請先鎞石勒斯詩。
+korean:
+  title: 송산서원에서 하과를 하다가 동암의 안문성공 향을 추모하여 지은 시에 차운하며
+  author: 최해
+  language: kor
+  text: |-
+    성인이 멀어진 이 시대에 누구를 좇으려는가
+    모두 떳떳한 것 버리고 기이함만 찾는구나
+    어진 그 분이 나서 세상 인도 안 했다면
+    어찌 주자를 시켜 스승 높일 줄 알았으리
+    돈을 내어 장래 계획 끝이 없었네
+    함장의 깊은 공은 유위한 후배를 낳게 했도다
+    공자께 배향하자는 공론이 있는 이때
+    비석을 먼저 깎아서 이 시를 새기시오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 하과(夏課) : '
+    value: 옛날에 공부하는데 가을과 겨울에는 글을 읽고, 여름에는 글짓기를 일과(日課)로 하였다.
+  - key: '[주-D002] 어찌 주자(冑子)를 …… 알 았으리 : '
+    value: 주자(冑子)는 맏아들을 말한다. 태학(太學)은 귀족(貴族)의 맏아들과 선거(選擧)되어 온 선비를 교육하는 곳이다. 안 문성공(安文成公)이 태학(太學)을 다시 일으켰으므로 이렇게 칭하였다.
+  - key: '[주-D003] 함장(函丈) : '
+    value: 스승이 제자 가르치는 자리를 말한다. 함(函)은 용납한다는 뜻이니 스승과 제자의 앉은 자리의 거리가 한 발쯤 된다는 말이다.
+english:
+  title: Matching Rhymes with a Poem of Remembrance for An Munseong-gong at Summer Study at Songsan Academy
+  author: Choe Hae
+  language: eng
+  text: |-
+    In this age when the sage grows distant, whom shall we follow?
+    All cast aside what is right, competing only for the strange.
+    Had not that virtuous lord stepped forth to guide the world,
+    How could the foremost scholars ever have learned to honor their masters?
+
+    With silver drawn forth, his plans stretched boundless into the future.
+    The profound work of the teacher's seat produced noble disciples.
+    In this time when all voices speak of honoring him beside Confucius,
+    Let us first carve the stone and inscribe these words upon it.
+  footnotes:
+  - key: ''
+    value: An Munseong-gong refers to a revered historical figure who revitalized the national academy and helped restore proper education and respect for teachers.
+  - key: ''
+    value: The 'teacher's seat' (函丈) refers to the sacred space of instruction where master and disciple sit, separated by a measured distance—symbolizing both the hierarchy and intimacy of true teaching.

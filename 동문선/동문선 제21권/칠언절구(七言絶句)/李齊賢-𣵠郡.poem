@@ -1,0 +1,39 @@
+canonical:
+  title: 𣵠郡
+  author: 李齊賢
+  language: lzh
+  text: 美壤每每接大行東秦右臂北燕吭劉郞却愛蠶叢國故里虛生羽葆桑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 𣵠郡
+  author: 李齊賢
+  language: lzh
+  text: 美壤每每接大行。東秦右臂北燕吭。劉郞却愛蠶叢國。故里虛生羽葆桑。
+korean:
+  title: 탁군
+  author: 이제현
+  language: kor
+  text: |-
+    아름다운 땅은 늘 태행에 닿아 있어
+    동쪽은 진나라의 오른 팔이요 북쪽은 연나라의 목
+    유랑은 도리어 잠총국(옛날의 촉(蜀)나라)을 사랑하여
+    그 고장에 우보의 뽕나무가 헛되이 났었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우보(羽葆)의 뽕나무 : '
+    value: 유비(劉備)가 탁군(𣵠郡)에서 궁하게 살았는데, 그집 문 앞에 뽕나무가 우보(羽葆 임금의 수레에 덮는 일산)의 모양과 같으니 사람들이 모두 이상히 여겼다. 유비가 어릴 적에 아이들과 놀면서, “내가 장래 이런 일산으로 덮는 수레를 탈 것이다.” 하더니, 뒤에 과연 촉(蜀)나라를 점령하여 황제가 되었다. 이 시의 뜻은 유비가 중원(中原)을 찾지 못하고 촉나라에서 나오지 못한 것을 한탄한 것이다.
+english:
+  title: Tuo Commandery
+  author: Lee Jae-hyun
+  language: eng
+  text: |-
+    Fair lands forever border on the Great Range—
+    To the east, Qin's right arm; to the north, Yan's throat.
+    Yet Liu, seeking his destiny, cherished instead the realm of Silkworm Thongs,
+    And in that distant home, the parasol mulberry bloomed in vain.
+  footnotes:
+  - key: ''
+    value: Liu Bei, the founder of Shu, lived in poverty in Tuo Commandery. A mulberry tree before his house grew in the shape of a feathered parasol (yu-bo), the ceremonial canopy of emperors. As a child, Liu Bei played beneath it and declared he would one day ride in such a carriage. Though he eventually conquered Shu and became emperor, the poem laments that he never claimed the Central Plains, remaining forever bound to the southwestern kingdom.
+  - key: ''
+    value: The 'Great Range' (Taihang) and the geographical references situate Tuo Commandery between the major powers of antiquity, emphasizing Liu Bei's position at the periphery of empire rather than its center.

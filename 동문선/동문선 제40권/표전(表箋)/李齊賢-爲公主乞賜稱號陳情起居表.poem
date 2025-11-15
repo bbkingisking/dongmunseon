@@ -1,0 +1,37 @@
+canonical:
+  title: 爲公主乞賜稱號陳情起居表
+  author: 李齊賢
+  language: lzh
+  text: 守封靑社阻承晉接之日三貢祝丹霄常効嵩呼之歲萬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 爲公主乞賜稱號陳情起居表
+  author: 李齊賢
+  language: lzh
+  text: 守封靑社。阻承晉接之日三。貢祝丹霄。常効嵩呼之歲萬。
+korean:
+  title: 공주를 위한 칭호를 내려주기 바라며 진정 기거하는 글
+  author: 이제현
+  language: kor
+  text: 청사(靑社)의 봉한 땅을 지키오매 진접(晉接)의 하루 동안 세 번 뵈올 길은 막혔으나, 대궐에 축원을 바치매 항상 숭호(嵩呼)의 만세 부른 일을 본받습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0430_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청사(靑社) : '
+    value: 오색(五色) 가운데 청색이 동쪽 방위에 해당하므로 동방을 청사(靑社)라 쓴 것이다.
+  - key: '[주-D002] 진접(晉接) : '
+    value: 임금에게 나아가 뵘. 《주역》 진(晉)에, “말을 많이 내려주고 하루에 세 번씩 접견한다[用錫馬蕃庶日三接].” 하였다.
+  - key: '[주-D003] 숭호(嵩呼) : '
+    value: 산호(山呼)와 같은 말로 임금을 축수하는 데 쓰는 말이다. 《한서(漢書)》 무제기(武帝記)에, “무제가 숭산(嵩山)에 오를 때 사당으로부터 이졸(吏卒)들이 모두 만세 삼창을 소리 높여 지르는 소리를 들었다[武帝登嵩山 從祀吏卒皆聞三次高呼萬歲之聲].” 하였다.
+english:
+  title: Memorial Requesting a Title Be Granted to the Princess
+  author: Lee Je-hyeon
+  language: eng
+  text: Guarding the green lands of the eastern realm, I am thrice denied the audience with the sovereign each day; yet in offering prayers to the palace, I forever echo the ten-thousand cheers that once rang from sacred peaks.
+  footnotes:
+  - key: ''
+    value: The 'green lands' (靑社) refer to the eastern territories, as green corresponds to the east among the five cardinal colors.
+  - key: ''
+    value: The 'thrice daily audience' (晉接) derives from the Book of Changes, which describes the sovereign receiving ministers three times daily.
+  - key: ''
+    value: The 'sacred cheers' (嵩呼) refers to the ceremonial acclamation used to honor the ruler, originating from the account of the Han Emperor ascending Mount Song, where officers and soldiers cried out 'ten thousand years' in joyous celebration.

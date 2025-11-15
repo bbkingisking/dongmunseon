@@ -1,0 +1,48 @@
+canonical:
+  title: 芸齋李政堂彦冲夫人挽章
+  author: 李仁復
+  language: lzh
+  text: 奕世家聲著䟽封婦德崇康寧垂八秩柔順得三從絳帳空留月丹旌遠逐風升堂記疇昔有淚忽霑胷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 芸齋李政堂彦冲夫人挽章
+  author: 李仁復
+  language: lzh
+  text: 奕世家聲著。䟽封婦德崇。康寧垂八秩。柔順得三從。絳帳空留月。丹旌遠逐風。升堂記疇昔。有淚忽霑胷。
+korean:
+  title: 운재 정당 언충 이부인 만장
+  author: 이인복
+  language: kor
+  text: |-
+    대를 가성이 드날리고 봉작을 받았으매
+    부덕이 높았네
+    강녕하기 거의 팔순이요
+    유순하여 삼종의 도를 따르셨네
+    비단 장막에는 속절없이 달만이 머물고
+    붉은 명정은 멀리 바람에 나부끼네
+    그 옛적 내가 당에 올라 뵈온 일 있거니
+    눈물이 문득 가슴을 적시네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 당(堂)에 올라 뵈온 일 : '
+    value: 벗을 친하게 사귀면 당(堂)에 올라 친구의 어머니에게 절하고 뵙는다.
+english:
+  title: Elegy for the Wife of Lord Yi Eon-chung, the Venerable Madam of Yungjae
+  author: Lee In-bok
+  language: eng
+  text: |-
+    Through generations her house's honor shines,
+    Raised to noble rank, her virtue sublime.
+    Eighty winters blessed with peace and health,
+    Gentle and obedient, she followed the three duties well.
+
+    In the crimson chamber, only moonlight remains,
+    The red banner of mourning drifts far on the wind.
+    I recall ascending her hall in days gone by,
+    And tears now suddenly soak my breast.
+  footnotes:
+  - key: ''
+    value: 'The ''three duties'' (三從) refer to the Confucian ideal of a woman''s obedience: to her father before marriage, to her husband during marriage, and to her son in widowhood.'
+  - key: ''
+    value: Ascending the hall (升堂) to pay respects to a friend's mother was a mark of close friendship and honor in classical East Asian society.

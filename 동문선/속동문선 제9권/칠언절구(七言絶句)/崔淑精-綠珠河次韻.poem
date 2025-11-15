@@ -1,0 +1,35 @@
+canonical:
+  title: 綠珠河次韻
+  author: 崔淑精
+  language: lzh
+  text: 客中情况淡於秋驅馬悠悠過瑞州極目三韓飛鳥外春江不解洗離愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 綠珠河次韻
+  author: 崔淑精
+  language: lzh
+  text: 客中情况淡於秋。驅馬悠悠過瑞州。極目三韓飛鳥外。春江不解洗離愁。
+korean:
+  title: 녹주하 차운
+  author: 최숙정
+  language: kor
+  text: |-
+    나그네의 정황이 가을보다 맑은데
+    말을 몰아 유유히 서주를 지나간다
+    끝까지 보이는 삼한땅 나는 새 밖이라
+    봄 강물도 떠난 시름을 씻을 줄을 모른다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0750&viewSync=OT
+  footnotes: []
+english:
+  title: Responding to Green Pearl River
+  author: Choe Suk-jeong
+  language: eng
+  text: |-
+    A traveler's heart grows clearer than autumn itself,
+    As I urge my horse through Rui Prefecture, drifting on.
+    Beyond the birds that soar over the Three Han lands,
+    Even spring's waters cannot wash away this sorrow of parting.
+  footnotes:
+  - key: ''
+    value: The 'Three Han lands' refers to the Korean peninsula, a poetic allusion to the historical Three Kingdoms of Korea. This poem employs the technique of 'responding in rhyme' (차운), a literary tradition where poets compose new works using the rhyme scheme of an existing poem.

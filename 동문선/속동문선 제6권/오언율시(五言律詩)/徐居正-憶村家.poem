@@ -1,0 +1,48 @@
+canonical:
+  title: 憶村家
+  author: 徐居正
+  language: lzh
+  text: 梅迎今日雨麥送故園秋最識還家好那堪作宦愁江山雙蠟屐天地一漁舟歸去知何日吾能昨夢遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 憶村家
+  author: 徐居正
+  language: lzh
+  text: 梅迎今日雨。麥送故園秋。最識還家好。那堪作宦愁。江山雙蠟屐。天地一漁舟。歸去知何日。吾能昨夢遊。
+korean:
+  title: 억촌가
+  author: 서거정
+  language: kor
+  text: |-
+    매실은 오늘의 비를 맞이하는데
+    보리는 고향의 가을을 보내오네
+    돌아가기 좋음을 잘 알거니
+    어찌 벼슬 시름을 견딜 것인가
+    강산은 한 쌍의 밀납신이요
+    천지는 하나의 고기잡이 배일세
+    언제나 고향에 돌아가려나
+    나는 어젯밤 꿈속에서 놀았노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0080&viewSync=OT
+  footnotes: []
+english:
+  title: Remembrance of a Village Home
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The plum blossoms greet today's rain,
+    While barley waves send autumn from my native place.
+    I know well how sweet it is to return home—
+    How can I bear the sorrows of official life?
+
+    The rivers and mountains: a pair of waxen boots,
+    Heaven and earth: a lone fishing boat.
+    When shall I journey back?
+    I spent last night wandering through my dreams.
+  footnotes:
+  - key: ''
+    value: The plum and barley are seasonal markers that evoke the passing of time and the rhythm of rural life, contrasting with the speaker's present duties.
+  - key: ''
+    value: Waxen boots and a fishing boat are metaphors for the simple, unburdened existence the poet longs for in his retirement.
+  - key: ''
+    value: The final couplet shifts from interrogation to intimate reflection, as the speaker acknowledges that his return exists only in the realm of dreams.

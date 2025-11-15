@@ -1,0 +1,57 @@
+canonical:
+  title: 自敍
+  author: 釋圓鑑
+  language: lzh
+  text: 光陰忽已邁老病鎭相依脚跛筇全力身羸帶减圍飽閑仍得懶飱道不成肥日晏方麤糲春深尙衲衣居貧禪侶少城遠俗緣稀獨有孤雲伴時從簷下歸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自敍
+  author: 釋圓鑑
+  language: lzh
+  text: 光陰忽已邁。老病鎭相依。脚跛筇全力。身羸帶减圍。飽閑仍得懶。飱道不成肥。日晏方麤糲。春深尙衲衣。居貧禪侶少。城遠俗緣稀。獨有孤雲伴。時從簷下歸。
+korean:
+  title: 회포를 쓰다
+  author: 석원감
+  language: kor
+  text: |-
+    세월이란 참으로 빨리 가는 것
+    늙음과 병이 항상 서로 따르누나
+    절룩이는 다리엔 지팡이 힘만 믿고
+    여윈 몸에 허리띠 줄어드네
+    너무 한가하니 게으를 밖에
+    도를 먹고 사는 몸 살찌지 않네
+    해 늦게야 비로소 꽁보리 조반
+    봄은 다 갔으나 아직도 묵은 누비옷
+    살림이 가난하니 선 동무 적고
+    성시가 거리 머니 속연도 드물어
+    짝이라곤 오직 외로운 구름
+    때로 와 처마 끝으로 돌아가누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: A Self-Portrait
+  author: Seok Won-gam
+  language: eng
+  text: |-
+    Time slips away with such haste—
+    old age and sickness are constant companions.
+    My crooked leg leans upon its staff,
+    my withered frame grows smaller still.
+
+    Too much leisure breeds only idleness;
+    the monk's simple meal brings no weight to these bones.
+    As day fades, I eat my rough barley gruel,
+    spring has passed and I still wear my patched robe.
+
+    Poverty keeps my brothers few,
+    the city's distance thins the worldly ties.
+    My sole companion is a solitary cloud
+    that drifts now and then beneath my eaves to rest.
+  footnotes:
+  - key: ''
+    value: The speaker is a Buddhist monk reflecting on aging and the austere life of monastic practice
+  - key: ''
+    value: The 'patched robe' (누비옷) symbolizes the humble Buddhist garment, worn thin by time
+  - key: ''
+    value: The cloud serves as a metaphor for impermanence and the monk's detachment from worldly concerns

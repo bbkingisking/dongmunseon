@@ -1,0 +1,41 @@
+canonical:
+  title: 卽事
+  author: 李奎報
+  language: lzh
+  text: 靜戶風開幔明䆫日弄塵屋烏啼孝子簷鷰舞佳人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 卽事
+  author: 李奎報
+  language: lzh
+  text: 靜戶風開幔。明䆫日弄塵。屋烏啼孝子。簷鷰舞佳人。
+korean:
+  title: 즉사
+  author: 이규보
+  language: kor
+  text: |-
+    고요한 문에 바람이 장막을 열고
+    밝은 창에 햇살이 티끌을 희롱하네
+    지붕의 까마귀는 효자가 울고
+    처마 끝의 제비는 가인이 춤추네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0270&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 지붕의 까마귀는 효자 : '
+    value: 까마귀 새끼가 자라면 먹을 것을 물어다가 도로 제 어미를 먹이므로, 반포(反哺)라 하여 효조(孝鳥)라 칭한다.
+  - key: '[주-D002] 처마 …… 춤추네 : '
+    value: 한 성제(漢成帝)의 후(后)인 조비연(趙飛燕)이 몸이 가벼워서 손바닥 위에서 춤을 추었다.
+english:
+  title: Immediate Scene
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    Through the quiet door the wind parts the hanging curtain,
+    In the bright window sunlight plays with floating dust.
+    Upon the roof the raven cries—a dutiful son—
+    Beneath the eaves the swallow dances—a maiden fair.
+  footnotes:
+  - key: ''
+    value: The raven is considered a 'filial bird' in Chinese tradition, as young ravens feed their parents once grown, a practice known as 'reverse nurturing.'
+  - key: ''
+    value: The reference alludes to Zhao Feiyan, consort of Emperor Cheng of Han, legendary for her lightness of step and grace in dancing upon the palm of a hand.

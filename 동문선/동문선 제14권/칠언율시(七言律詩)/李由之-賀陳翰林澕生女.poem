@@ -1,0 +1,47 @@
+canonical:
+  title: 賀陳翰林澕生女
+  author: 李由之
+  language: lzh
+  text: 素娥新琢月爲神抱送風流學士門四擁錦屛交繡帳幾回香水浴金盆雲生楚岫俄字葉玉出藍田別有根餘慶定知從此始瓊林珠樹散無垠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀陳翰林澕生女
+  author: 李由之
+  language: lzh
+  text: 素娥新琢月爲神。抱送風流學士門。四擁錦屛交繡帳。幾回香水浴金盆。雲生楚岫俄字葉。玉出藍田別有根。餘慶定知從此始。瓊林珠樹散無垠。
+korean:
+  title: 하진 한림 화생녀
+  author: 이유지
+  language: kor
+  text: |-
+    월궁 항아가 달을 쪼아 신 만들어
+    풍류 학사의 집으로 안아 보내었네
+    사변에 두른 비단 병풍과 수놓은 장막
+    몇 번이나 향수로 금동이에 멱감았나
+    초나라 메에 나는 구름은 문득 잎처럼 퍼졌구나
+    남전(옥(玉)의 명산지)에 생겨난 옥은 따로 뿌리가 있것다
+    여경은 이로부터 꼭 시작되리니
+    옥 수풀, 구슬 나무가 끝없이 퍼져 가리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Congratulations on the Birth of a Daughter to Minister Chen of the Hanlin Academy
+  author: Lee Yu-ji
+  language: eng
+  text: |-
+    Chang'e herself has carved the moon to fashion a spirit—
+    and sent it cradled to a cultured scholar's gate.
+    Silk screens embroidered, damask curtains layered round,
+    how many times has she been bathed in fragrant waters from a golden basin?
+    Clouds rising from the peaks of Chu scatter like leaves in an instant,
+    yet jade born in Lantian springs has roots that run far deeper.
+    From this moment onward, blessing and abundance shall surely flow,
+    as groves of jade and pearl trees spread across the endless sky.
+  footnotes:
+  - key: ''
+    value: 'Chang''e (素娥): The moon goddess in Chinese mythology, here invoked to suggest the child''s celestial beauty and purity.'
+  - key: ''
+    value: 'Chu peaks and Lantian: References to legendary places of natural beauty and jade production, elevating the metaphor of the newborn''s worth.'
+  - key: ''
+    value: '余慶: A Confucian concept referring to inherited virtue and blessings that accumulate through generations, suggesting the child will bring lasting fortune to the family.'

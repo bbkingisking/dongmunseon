@@ -1,0 +1,45 @@
+canonical:
+  title: 夜來被酒獨臥風雨中思轉無聊補外之計尤耿耿往來於懷所謂發於夢寐者寧非然耶近日與君不見殊久世事益可笑也燈下醉書誾白擇之
+  author: 朴誾
+  language: lzh
+  text: 我不如陶令無心任去留浮沉隨俗化用舍與人謀殘夢驚千里孤懷繞百憂何當遂吾願醉卧菊花秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜來被酒獨臥風雨中思轉無聊補外之計尤耿耿往來於懷所謂發於夢寐者寧非然耶近日與君不見殊久世事益可笑也燈下醉書誾白擇之
+  author: 朴誾
+  language: lzh
+  text: 我不如陶令。無心任去留。浮沉隨俗化。用舍與人謀。殘夢驚千里。孤懷繞百憂。何當遂吾願。醉卧菊花秋。
+korean:
+  title: 지나간 밤의 술로 인하여 바람 불고 비오는 중에 홀로 누웠으니, 생각이 도리어 하염없이 되어진다. 외군으로 보직되어 나가고 싶은 생각이 더욱 마음속에 이니, 이른바 꿈에나 깨어서나 생각된다는 것이 어찌 그렇지 아니하랴. 근일 그대와 만나지 못한 지 꽤 오래 되었는데, 세상일은 더욱 가소롭다. 등불 아래서 취중에 쓰노라. 은은 택지에 올린다
+  author: 박은
+  language: kor
+  text: |-
+    나는 저 도령(도연명)처럼
+    무심히 거류에 맡기지 못하나니
+    떴다 잠겼다 세속 따라 변하고
+    썼다 버렸다 사람들과 꾀한다
+    쇠잔한 꿈은 천리 밖에 놀라고
+    외로운 회포는 온갖 근심을 싼다
+    어떻게 하면 내 소원을 이루랴
+    취하여 국화 핀 가을에 누워 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0900&viewSync=OT
+  footnotes: []
+english:
+  title: 'Written in Drunkenness by Lamplight: A Night of Wine and Rain, Solitary Thoughts'
+  author: Park Eun
+  language: eng
+  text: |-
+    I am not Tao Yuanming—
+    I cannot yield my heart to come and go as fate decrees.
+    I rise and sink with worldly ways,
+    my use and disuse determined by others' schemes.
+    Fragmented dreams startle across a thousand miles,
+    my lonely heart encompasses endless sorrows.
+    When shall I achieve my true desire—
+    to lie drunk among chrysanthemums in autumn's bloom?
+  footnotes:
+  - key: ''
+    value: Tao Yuanming (陶淵明, 365-427), the celebrated Eastern Jin poet known for his reclusion, his love of chrysanthemums, and his poem 'Returning to the Fields'—represents here the ideal of freedom from worldly entanglement and political striving.
+  - key: ''
+    value: The chrysanthemum, associated with Tao Yuanming's hermitic ideals and also symbolizing steadfast integrity in East Asian poetry, anchors the speaker's yearning for a life of detached contentment.

@@ -1,0 +1,38 @@
+canonical:
+  title: 忌名說
+  author: 李奎報
+  language: lzh
+  text: 李子問吳德全曰三韓自古以文鳴於世者多矣鮮有牛童走卒之及知其名者獨先生之名雖至婦女兒童無有不知者何哉先生笑曰吾甞作老書生餬口四方無所不至故人多知者而連擧春官不捷則人皆指以爲今年某又不第矣以此熟人之耳目耳非必以才也且無實而享虛名猶無功而食千鍾之祿吾以是窮困若此平生所忌者名也其貶損如此或以公爲恃才傲物此其不知先生者也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 忌名說
+  author: 李奎報
+  language: lzh
+  text: 李子問吳德全曰。三韓自古。以文鳴於世者。多矣。鮮有牛童走卒之及知其名者。獨先生之名。雖至婦女兒童。無有不知者。何哉。先生笑曰。吾甞作老書生。餬口四方。無所不至。故人多知者。而連擧春官不捷。則人皆指以爲今年某又不第矣。以此熟人之耳目耳。非必以才也。且無實而享虛名。猶無功而食千鍾之祿。吾以是窮困若此。平生所忌者名也。其貶損如此。或以公爲恃才傲物。此其不知先生者也。
+korean:
+  title: 기명설
+  author: 이규보
+  language: kor
+  text: 이자(이자)가 오덕전(吳德全)에게 묻기를, “우리나라에서 예로부터 문장으로 세상에 울린 사람이 많으나, 소 먹이는 아이나 심부름꾼까지 그 이름을 아는 사람은 적었는데, 다만 선생의 이름은 비록 부인이나 아이들까지라도 모르는 사람이 없으니 어찌하여 그러한가.” 하니, 선생은 웃으며 말하기를, “내가 일찍 나이가 많은 서생(書生)이 되어 사방에 다니며 객지생활을 하느라고 가지않은 곳이 없었기 때문에 아는 사람이 많았고, 연달아 과거에 응시하였으나 합격되지 못했는데, 그럴 적마다 사람들은, ‘금년에도 아무개가 또 합격되지 못하였다.’ 하여, 이 때문에 남의 귀와 눈에 익숙하게 된 것뿐이요, 재주가 있어서 그런 것이 아니다. 또한 실속없이 헛된 명성만 누리는 것은 공로가 없이 높은 봉급을 먹는 것이나 마찬가지다. 나는 이런 까닭으로 이렇게 곤궁하게 지내는 것이다. 평생에 가장 싫어하는 것이 이름이다.” 하였다. 그는 스스로 이렇게 겸손한 태도를 가졌으니, 어떤 사람이 공을 “재주만 믿고 남에게 거만하다.” 하는 이가 있다면, 이것은 선생을 모르는 사람이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0990_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오덕전(吳德全) : '
+    value: 오세재(吳世才)의 자(字)가 덕전이다. 고려 명종 때의 문인 이인로(李仁老) 등과 함께 칠현(七賢)의 한 사람. 과거에 급제하였으나 벼슬은 얻지 못하였다. 이규보(李奎報)와는 특별히 친하였다.
+english:
+  title: On the Disdain of Reputation
+  author: Lee Gyu-bo
+  language: eng
+  text: |-
+    Lee Ja asked Wu Deok-jeon, "Since ancient times, many in our Three Kingdoms have made their names known through their writings. Yet few common folk—not even the stable boy or the servant—know their names. But with you, sir, even women and children know your name. How is this so?"
+
+    The master smiled and replied, "I once lived as an aging scholar, wandering from place to place to make my livelihood, going everywhere under heaven. Thus many came to know me. Year after year I sat for the civil examination, yet I did not pass. Each time, people would say, 'There goes So-and-so, failed again this year.' In this way, my name became worn into people's ears and eyes—nothing more. It was not through any talent of mine. Besides, to enjoy empty fame without substance is like receiving a thousand measures of grain for work never done. And this is why I remain in such poverty to this day. In all my years, there is nothing I have despised more than reputation."
+
+    He held such humble convictions. Should anyone think him merely proud and arrogant in his talent, they simply do not know the man.
+  footnotes:
+  - key: ''
+    value: Wu Deok-jeon (吳德全) was the courtesy name of Wu Se-jae, a scholar of the Goryeo period and one of the Seven Sages, contemporary with Yi In-no. Though he passed the civil examination, he never secured an official position. He shared a particularly close friendship with Lee Gyu-bo.
+  - key: ''
+    value: 'The ''Three Kingdoms'' (三韓) refers to the traditional three kingdoms of Korea: Goguryeo, Baekje, and Silla.'
+  - key: ''
+    value: The civil examination (과거) was the primary means of entering government service in medieval Korea and China, requiring mastery of Confucian texts and classical literature.

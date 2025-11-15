@@ -1,0 +1,43 @@
+canonical:
+  title: 自警
+  author: 李昌壽
+  language: lzh
+  text: 蕪穢靈臺不自鋤辛勤空誦五車書百年奔走迷南北誰信人間有廣居
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 自警
+  author: 李昌壽
+  language: lzh
+  text: 蕪穢靈臺不自鋤。辛勤空誦五車書。百年奔走迷南北。誰信人間有廣居。
+korean:
+  title: 자경
+  author: 이창수
+  language: kor
+  text: |-
+    영대 거치른 것 스스로 김매지 않고서
+    부질없이 괴로이도 오거서만 외웠노라
+    백년을 분주해도 남북이 희미하니
+    뉘라서 이 세간에 넓은 곳이 있다 하오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0600&viewSync=OT
+  footnotes: []
+english:
+  title: Self-Admonition
+  author: Lee Chang-soo
+  language: eng
+  text: |-
+    The temple of my spirit grows rank with weeds,
+    yet I do not lift a hand to tend it.
+    I toil and suffer to memorize ten thousand books,
+    yet gain nothing but exhaustion.
+    A hundred years I rush between north and south,
+    the path ahead blurs into mist.
+    Who in this world believes there is a spacious home,
+    a place where the weary soul can rest?
+  footnotes:
+  - key: ''
+    value: The 'temple of the spirit' (靈臺) refers to the mind or soul in classical Chinese philosophy, drawing from the concept of inner spiritual cultivation.
+  - key: ''
+    value: The 'five carts of books' (五車書) is a classical allusion to vast learning and erudition, suggesting the speaker has devoted themselves to scholarly pursuits.
+  - key: ''
+    value: The 'broad dwelling' (廣居) alludes to Mencius, referring to righteousness and virtue as the true foundation of peace and rest.

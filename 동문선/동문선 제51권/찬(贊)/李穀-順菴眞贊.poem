@@ -1,0 +1,40 @@
+canonical:
+  title: 順菴眞贊
+  author: 李穀
+  language: lzh
+  text: 彼閑道人絶學無爲此大福田稱三藏師錦袍茜帽安用緇衣不行其恠不違于時皇王之眷佛祖之依視貌則然知心者誰嘻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 順菴眞贊
+  author: 李穀
+  language: lzh
+  text: 彼閑道人。絶學無爲。此大福田。稱三藏師。錦袍茜帽。安用緇衣。不行其恠。不違于時。皇王之眷。佛祖之依。視貌則然。知心者誰。嘻。
+korean:
+  title: 순암 진찬
+  author: 이곡
+  language: kor
+  text: 저 한도인(閑道人)은 공부도 아니하며, 하는 일도 없다. 이것은 큰 복전(福田)이니, 삼장사(三藏師)라 하는 것이다. 비단 도포에 분홍색 모자, 어찌 먹물 옷을 입을 필요 있는가. 괴상한 행동도 하지 않으며 시대에도 위배되게 하지 않는다. 황제와 임금이 돌보아주시며 부처님도 여기에 귀의하도다. 외모를 보면 그렇건마는 마음을 아는 사람 누구이더냐. 아.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: A True Eulogy for Sunam
+  author: Lee Gok
+  language: eng
+  text: |-
+    That idle sage transcends all learning, engages in no action—
+    this is the great field of merit, worthy of being called a Master of the Triple Basket.
+    Why don the robes of indigo when silk brocade and crimson cap suffice?
+    No strange conduct mars his bearing, yet he violates nothing of the age.
+    Empire and throne regard him with favor; Buddha and patriarch find refuge in him.
+    To the eye, appearances speak thus—but who truly knows his heart?
+    Ah!
+  footnotes:
+  - key: ''
+    value: The 'idle sage' (閑道人) refers to one who has renounced worldly pursuits and devoted himself to spiritual cultivation.
+  - key: ''
+    value: 'The ''Triple Basket'' (三藏) refers to the three divisions of Buddhist scripture: sutras, vinaya, and abhidharma. A master of these is a highly respected Buddhist teacher.'
+  - key: ''
+    value: The contrast between 'silk brocade and crimson cap' and 'robes of indigo' juxtaposes lay elegant dress with monastic garb, questioning the necessity of external signs of religious commitment.
+  - key: ''
+    value: The poem celebrates a figure who transcends conventional distinctions while remaining harmonious with the world, embodying both spiritual attainment and social propriety.

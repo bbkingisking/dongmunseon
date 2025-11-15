@@ -1,0 +1,48 @@
+canonical:
+  title: 喜僧惠文得寺
+  author: 李仁老
+  language: lzh
+  text: 文也禪林秀知名二十春久聞詩揔好爭及貌彌眞旣住靑蓮宇應分白㲲巾通宵喜不寐亦有玉堂人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 喜僧惠文得寺
+  author: 李仁老
+  language: lzh
+  text: 文也禪林秀。知名二十春。久聞詩揔好。爭及貌彌眞。旣住靑蓮宇。應分白㲲巾。通宵喜不寐。亦有玉堂人。
+korean:
+  title: 희승 혜문 득사
+  author: 이인로
+  language: kor
+  text: |-
+    혜문은 선림에 빼어난 이
+    이름난 지 20년이나
+    시 잘한다 들은 지 오래더니
+    얼굴이 시보다 참다와라
+    이제 이미 청련(절을 연궁(蓮宮)이라 한다.) 절의 주지가 되었으니
+    응당 내게 백첩건(무명으로 만든 두건)을 나눠주리
+    밤새껏 기뻐 잠 못 이루는
+    옥당의 한 사람 있음 부디 잊지 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0340&viewSync=OT
+  footnotes: []
+english:
+  title: Celebrating Monk Hyemuun's Appointment as Temple Abbot
+  author: Lee Inro
+  language: eng
+  text: |-
+    Huiwen shines among the Buddhist sangha,
+    his name renowned these twenty springs.
+    Long have I heard of his mastery of verse,
+    yet his countenance surpasses even his poetry's truth.
+
+    Now installed as abbot of the Blue Lotus temple,
+    he shall surely share with me a fine linen cap.
+    Sleepless through the night with joy,
+    do not forget this one who dwells in the Jade Hall.
+  footnotes:
+  - key: ''
+    value: The 'Blue Lotus temple' (靑蓮宇) refers to a Buddhist monastery; Lotus imagery is traditional in Buddhist symbolism.
+  - key: ''
+    value: The 'fine linen cap' (白㲲巾) represents both a monastic ceremonial garment and a token of friendship and remembrance.
+  - key: ''
+    value: The 'Jade Hall' (玉堂) likely refers to the writer's position at court, suggesting he is a scholar-official maintaining friendship with this accomplished monk.

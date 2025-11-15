@@ -1,0 +1,53 @@
+canonical:
+  title: 大都旅舍偶題
+  author: 鄭誧
+  language: lzh
+  text: 病起馮顚雪欲侵拋書兀坐意殊深流光冉冉不我與舊事茫茫何處尋故國江山千里夢宦途塵土十年心相如政有長門賦一字須知直萬金
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 大都旅舍偶題
+  author: 鄭誧
+  language: lzh
+  text: 病起馮顚雪欲侵。拋書兀坐意殊深。流光冉冉不我與。舊事茫茫何處尋。故國江山千里夢。宦途塵土十年心。相如政有長門賦。一字須知直萬金。
+korean:
+  title: 대도여사 우제
+  author: 정포
+  language: kor
+  text: |-
+    병에서 일어나니 풍당의 머리에 눈이 침노하네
+    책 던지고 오똑 앉았으니 뜻이 자못 깊어라
+    무정한 세월은 날 버리고 가는구나
+    아득한 옛 일을 어느 곳에 찾으리
+    고국의 강산은 천리 밖의 꿈이라
+    벼슬 길 먼지 속에서 10년을 지내는 맘
+    내사 상여처럼 장문부 가렸노니
+    이 보게 한 자의 값이 천금인 줄 아옵소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0170&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대도(大都) : '
+    value: 원도(元都) 연경(燕京)
+  - key: '[주-D002] 풍당(馮唐)의 머리 : '
+    value: 한(漢)나라 풍당(馮唐)이 늙어서 흰 머리가 되도록 낮은 벼슬인 낭관(郞官)으로 있었다.
+  - key: '[주-D003] 내사 상여(相如) : '
+    value: 한(漢)나라의 문인(文人)  사마상여(司馬相如). 진황후(陳皇后)가 무제(武帝)의 사랑을 잃어 장문궁(長文宮)에 별거할 제 그에게 황금 백 근을 바치고 글을 비[乞]니 그가 장문부(長文賦)를 지어 주었다.
+english:
+  title: Occasional Verse at an Inn in the Great Capital
+  author: Jeong Po
+  language: eng
+  text: |
+    Rising from illness, snow creeps upon Feng Tang's graying head.
+    I cast my book aside and sit in silence—my thoughts run deep.
+    Time flows past, indifferent, abandoning me.
+    Where can I find those distant memories of old?
+    My homeland's rivers and mountains are but dreams beyond a thousand li.
+    Ten years I have spent in the dust of official service.
+    Like Sima Xiangru, I too have the "Long Door Rhapsody"—
+    yet know that a single word's value is worth ten thousand in gold.
+  footnotes:
+  - key: ''
+    value: The Great Capital refers to Khanbaliq (the Yuan capital, present-day Beijing), the setting of this poem.
+  - key: ''
+    value: Feng Tang, a Han Dynasty official, remained a minor court attendant throughout his life despite his talents, growing old with white hair—an allusion to being passed over or overlooked in service.
+  - key: ''
+    value: Sima Xiangru was a celebrated Han Dynasty writer. When the Empress Chen fell from imperial favor and was confined to the Long Door Palace, she offered gold to Xiangru in exchange for a composition to win back the Emperor's affection. His resulting rhapsody was considered of immeasurable worth.

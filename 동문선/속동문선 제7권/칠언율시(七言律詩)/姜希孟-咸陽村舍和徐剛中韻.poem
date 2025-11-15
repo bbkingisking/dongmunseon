@@ -1,0 +1,53 @@
+canonical:
+  title: 咸陽村舍和徐剛中韻
+  author: 姜希孟
+  language: lzh
+  text: 廣文到處寒無氈白髮照鏡悲暮年元亮初開宅三徑許行願受氓一廛半生知足樂復樂萬事到頭然不然斥鷃鵾鵬等遊戲靑山萬壑埋蒼烟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 咸陽村舍和徐剛中韻
+  author: 姜希孟
+  language: lzh
+  text: 廣文到處寒無氈。白髮照鏡悲暮年。元亮初開宅三徑。許行願受氓一廛。半生知足樂復樂。萬事到頭然不然。斥鷃鵾鵬等遊戲。靑山萬壑埋蒼烟。
+korean:
+  title: 함양촌사 화 서강중 운
+  author: 강희맹
+  language: kor
+  text: |-
+    광문은 가는 곳마다 추워도 담요가 없었나니
+    흰 털을 거울에 비추어 늘그막을 슬퍼했다
+    원량(도연명)은 처음으로 세 길이 있는 집을 지었고
+    허행은 백성의 한 구역을 받기를 원하였다
+    평생에 만족할 줄을 알매 즐겁고 또 즐거운데
+    만사는 마침내 그렇고도 그렇지 않은 것이다
+    척안과 곤붕이 다 같이 유희하거니
+    푸른 산과 일만 골짝이 푸른 여기에 묻히었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0530&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 광문(廣文)은 …… 없었나니 : '
+    value: 당나라 정건(鄭虔)은 시(詩)ㆍ서(書)ㆍ화(畵)에 삼절(三絶)이라는 명사였으므로, 국가에서 광문관(廣文館)이라는 관청을 신설하고 정건을 광문학사에 임명하였으나, 봉급이 얼마 되지 않아서 생활이 매우 곤궁하였다. 그래서 두자미(杜子美)의 시에, “광문학사는 추워도 담요 하나도 없다.”[廣文學士寒無氈]는 말이 있다.
+  - key: '[주-D002] 허행(許行)은 …… 원하였다 : '
+    value: 《맹자》에 있는 말인데, 등(藤)이라는 나라에서 맹자의 권고를 듣고 정전법(井田法)을 실시하였는데, 신농씨(神農氏)를 말하는 허행(許行)이 등나라에 와서 토지 한 구역을 얻어서 농사지었다고 하였다.
+  - key: '[주-D003] 척안(斥鷃)과 곤붕(鯤鵬) : '
+    value: 척안은 아주 작은 새이고, 곤붕은 매우 큰 새이다. 이 세상에서 같이 살고 같이 즐긴다는 말이다.
+english:
+  title: 'Xiangyang Village Dwelling: In Harmony with Xu Gangzhong''s Rhyme'
+  author: Kiang Hee-maeng
+  language: eng
+  text: |-
+    The Broad Text Scholar, wherever he goes, lacks a blanket against the cold.
+    He gazes at white hair in the mirror and grieves the twilight of his years.
+    Yuan Liang first built a house with three winding paths,
+    While Xu Xing desired only a single plot to till among the common folk.
+    Half a lifetime spent knowing contentment brings joy upon joy—
+    Yet all things in the end are both thus and not thus.
+    The tiny quail and the vast Kun-Peng play together equally,
+    And ten thousand valleys of green mountains lie buried in verdant mist.
+  footnotes:
+  - key: ''
+    value: 'The Broad Text Scholar refers to the impoverished Tang poet-official Zheng Qian, celebrated for mastery of poetry, calligraphy, and painting, yet rewarded with meager salary. Du Fu memorialized his hardship in verse: ''The Broad Text Scholar has no blanket against the cold.'''
+  - key: ''
+    value: Yuan Liang is Tao Yuanming, who famously withdrew from office and cultivated a retreat with 'three winding paths.' Xu Xing represents the humble farmer-philosopher, seeking only honest labor and simple sustenance.
+  - key: ''
+    value: The quail and Kun-Peng symbolize creatures of vastly different scale—the insignificant and the immense—yet here they dwell and delight together, suggesting the leveling of all distinctions in the natural world.

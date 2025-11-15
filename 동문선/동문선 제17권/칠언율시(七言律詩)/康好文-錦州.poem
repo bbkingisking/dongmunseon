@@ -1,0 +1,49 @@
+canonical:
+  title: 錦州
+  author: 康好文
+  language: lzh
+  text: 錦溪形勝似朱陳地僻天深俗亦醇十里絃歌武城宰一區煙火葛天民蒼苔到處經過少紅杏開時勸課頻幸有貧居在楸邑南遊觀政不違春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 錦州
+  author: 康好文
+  language: lzh
+  text: 錦溪形勝似朱陳。地僻天深俗亦醇。十里絃歌武城宰。一區煙火葛天民。蒼苔到處經過少。紅杏開時勸課頻。幸有貧居在楸邑。南遊觀政不違春。
+korean:
+  title: 금주
+  author: 강호문
+  language: kor
+  text: |-
+    금계의 풍물이 주진촌과 비슷
+    궁벽진 깊숙한 곳에 풍속도 순박하네
+    10리의 현가소리는 무성의 원님
+    한 갈피 굴뚝 연기는 태고 적 백성들
+    곳곳마다 푸른 이끼 지나는 이가 적고
+    붉은 살구꽃 필 무렵 농사 권장 자주 하네
+    요행 내 가난한 집이 추읍에 있으니
+    그대 정사보러 남으로 놀러 갈 때 봄 안 어기리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 주진촌(朱陳村) : '
+    value: 당(唐)나라 백락천(白樂天)의 주진촌(朱陳村)에 대한 시(詩)가 있는데, 그 마을에는 주(朱)ㆍ진(陳) 두 성이 살며 무릉도원(武陵桃源)처럼 깊숙하고 평화로운 마을이었다.
+  - key: '[주-D002] 10리의 …… 원님 : '
+    value: 공자의 제자 자유(子游)가 무성(武城) 원[宰]이 되었는데 공자가 무성에 가서 현가(絃歌) 소리를 듣고 기뻐하였다.
+english:
+  title: Jinzhou
+  author: Kang Hao-mun
+  language: eng
+  text: |-
+    The streams of Jinzhou hold beauty like the villages of Zhu and Chen—
+    In this secluded depth, even the customs grow pure and gentle.
+    Ten li away, the sound of stringed songs marks the magistrate of Wucheng,
+    Where wisps of smoke drift from hearths of ancient, simple folk.
+    Blue moss spreads everywhere, few travelers pass this way,
+    Yet when crimson apricots bloom, the magistrate urges crops with care.
+    Fortunate am I to keep my humble dwelling in this distant place—
+    When you journey south on official inspection, do not let spring slip away.
+  footnotes:
+  - key: ''
+    value: The villages of Zhu and Chen were legendary communities from Tang poet Bai Juyi's work, known as places of deep peace and harmony, akin to the mythical Peach Blossom Spring.
+  - key: ''
+    value: The reference to stringed songs at Wucheng evokes Confucius, who rejoiced upon hearing music when his disciple Ziyou served as magistrate there—suggesting good governance bringing cultural refinement to even remote places.

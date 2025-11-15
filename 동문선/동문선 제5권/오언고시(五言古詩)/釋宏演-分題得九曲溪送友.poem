@@ -1,0 +1,55 @@
+canonical:
+  title: 分題得九曲溪送友
+  author: 釋宏演
+  language: lzh
+  text: 溪花處處發溪水曲曲淸花發惜年華水淸宜濯纓睠言詩書地悠悠櫂歌聲千年武夷詩懷哉考亭名高蹈繼前轍寧負平生盟歲晚此翺翔梅竹冰雪明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 分題得九曲溪送友
+  author: 釋宏演
+  language: lzh
+  text: 溪花處處發。溪水曲曲淸。花發惜年華。水淸宜濯纓。睠言詩書地。悠悠櫂歌聲。千年武夷詩。懷哉考亭名。高蹈繼前轍。寧負平生盟。歲晚此翺翔。梅竹冰雪明。
+korean:
+  title: ‘구곡계’의 제목을 얻어 벗을 보내며
+  author: 석굉연
+  language: kor
+  text: |-
+    시내 꽃은 곳곳에 피고
+    시내 물은 굽이굽이 맑도다
+    꽃이 피니 세월 가는 것이 아깝고
+    물이 맑으니 갓끈 빨기에 마땅하도다
+    시서를 강론하던 땅에
+    유유히 돛대 노랫소리가 들리는 듯
+    천 년의 무이시는
+    고정(주자 (朱子))의 이름이 그리워라
+    고도하여 전철을 계승할 것이니
+    어찌 평생의 맹세를 저버리랴
+    해 늦게 방황하니
+    매화와 대에 얼음과 눈이 밝도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0220&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off a Friend with a Poem on the Nine Bends of the Stream
+  author: Seok Hongryeon
+  language: eng
+  text: |-
+    Stream flowers bloom abundantly everywhere,
+    Stream water winds clear through every turn.
+    As flowers open, I grieve the passing years,
+    As waters clear, they call for washing the silk cord of my cap.
+    In lands where poetry and books were once debated,
+    I hear the oars singing, drifting on and on.
+    A thousand years have passed since the Wuyi poems—
+    How I long for the name of Kaoting, the sage.
+    Walking high, I follow in the footsteps of old masters,
+    How could I betray the vows of a lifetime?
+    As the year grows late, I wander here,
+    Where plum blossoms and bamboo gleam bright with ice and snow.
+  footnotes:
+  - key: ''
+    value: Kaoting refers to Zhu Xi (朱子), the great Song Dynasty neo-Confucian philosopher who lived in the Wuyi Mountains and conducted his philosophical teachings there. The Nine Bends (Jiuqu/구곡) of the stream are associated with this sacred landscape.
+  - key: ''
+    value: The 'silk cord' (纓) of the scholar's cap is a symbol of the scholar's dignity and moral integrity in classical Chinese culture.
+  - key: ''
+    value: The poem employs the imagery of the changing seasons and the enduring natural landscape to reflect on the continuity of scholarly and moral traditions across centuries.

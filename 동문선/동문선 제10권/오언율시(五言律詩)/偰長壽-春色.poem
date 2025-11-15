@@ -1,0 +1,48 @@
+canonical:
+  title: 春色
+  author: 偰長壽
+  language: lzh
+  text: 春色可天地江淮猶甲兵謾依詩歲月不羨世功名白眼如無見靑山似有情濁醪聊適意時復喚兒傾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春色
+  author: 偰長壽
+  language: lzh
+  text: 春色可天地。江淮猶甲兵。謾依詩歲月。不羨世功名。白眼如無見。靑山似有情。濁醪聊適意。時復喚兒傾。
+korean:
+  title: 춘색
+  author: 설장수
+  language: kor
+  text: |-
+    천지에 봄빛은 그럴 듯한데
+    강회에는 아직 전쟁일세
+    부질없이 시로 세월을 보내고
+    세상의 공명은 부러워하지 않네
+    흰 눈에는 보이는 것이 없는 듯한데
+    푸른 산은 정이 있는 듯도 하다
+    애오라지 탁주에 뜻을 부쳐
+    때때로 아이 불러 잔을 기울이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0730&viewSync=OT
+  footnotes: []
+english:
+  title: Spring Colors
+  author: Seol Jang-su
+  language: eng
+  text: |-
+    Spring colors grace all heaven and earth,
+    Yet war still grips the Yangtze and Huai.
+    I waste my days composing idle verse,
+    No longer coveting worldly fame.
+
+    My whitened eyes see nothing worth the sight,
+    Yet green mountains seem to hold me dear.
+    I pour my heart into this clouded wine,
+    And call my boy again to fill the cup.
+  footnotes:
+  - key: ''
+    value: The Yangtze and Huai rivers mark the boundary between the Jin and later dynasties during the period of division—a reference to the ongoing conflict and division of the realm.
+  - key: ''
+    value: The 'whitened eyes' suggest both age and the poet's deliberate withdrawal from worldly affairs—a turning of the gaze inward and away from the tumultuous world.
+  - key: ''
+    value: The clouded wine (탁주) represents simple, rustic life and acceptance of humble circumstances over the pursuit of official position or recognition.

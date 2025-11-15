@@ -1,0 +1,52 @@
+canonical:
+  title: 征西軍幕有感
+  author: 金富軾
+  language: lzh
+  text: 山西留滯思愔愔不覺東風散老陰倦客拂衣江岸靜行人催渡野洲深鶯溪里巷三更夢鳳闕樓臺一片心峴首風流吾敢望閑吟時復遣幽襟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 征西軍幕有感
+  author: 金富軾
+  language: lzh
+  text: 山西留滯思愔愔。不覺東風散老陰。倦客拂衣江岸靜。行人催渡野洲深。鶯溪里巷三更夢。鳳闕樓臺一片心。峴首風流吾敢望。閑吟時復遣幽襟。
+korean:
+  title: 정서군막 유감
+  author: 김부식
+  language: kor
+  text: |-
+    관서에 체류하니 마음이 시름인데
+    어느덧 봄바람이 지는 꽃을 흩는구나
+    지친 나그네가 옷 털며 고요한 강기슭으로
+    행인은 바삐 건너누나 깊은 벌판 물을
+    삼경에 꿈은 앵계의 마을인데
+    한 조각 붉은 마음은 봉궐의 누대로다
+    현산의 풍류야 내 감히 바라랴만
+    이따금 시를 읊어서 회포를 푸노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정서군막(征西軍幕) : '
+    value: 묘청(妙淸) 토평(討平).
+  - key: '[주-D002] 현산(峴山) : '
+    value: 지금 호북성양양현(襄陽縣) 남쪽에 있는 산인데, 진(晉)나라 양호(羊祜)가 오(吳)나라의 접경인 양양을 진수(鎭守)할 때 이 산에 올라 놀았는데, 그가 죽자 사람들이 그 자리에 비를 세우니 보는 자가 모두 슬프게 울어 타루비(墮淚碑)라 하였다.
+english:
+  title: Reflections at the Western Expeditionary Command Post
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Detained in the western mountains, my heart grows heavy with sorrow,
+    When suddenly the spring wind scatters the fading blooms.
+    The weary traveler brushes his robes by the quiet river bank,
+    While hurried wayfarers cross toward the deep marshlands.
+
+    In the dreams of the third watch, I wander through oriole valleys and streets,
+    Yet my whole heart yearns for the towers of the palace.
+    The grace of Mount Hyeon—how dare I aspire to such—
+    Yet now and then I recite verses to ease my melancholy.
+  footnotes:
+  - key: ''
+    value: This poem was written during Kim Bu-sik's service in the western military command, likely during the campaign against the rebel Myochung in 1135.
+  - key: ''
+    value: Mount Hyeon (峴山) is a legendary site associated with the Jin general Yang Hu, whose great virtue moved all who passed by to tears. The reference invokes both noble virtue and the melancholy of separation.
+  - key: ''
+    value: The 'palace towers' (鳳闕) represent the distant capital and the poet's loyalty to the court, contrasting with his current isolation in the western frontier.

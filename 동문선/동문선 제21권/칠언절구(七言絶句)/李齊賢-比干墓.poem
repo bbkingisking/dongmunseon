@@ -1,0 +1,69 @@
+canonical:
+  title: 比干墓
+  author: 李齊賢
+  language: lzh
+  text: 墓在衛州北十許里盖周武王所封而唐太宗貞觀中道過其地自爲文以祭其石刻剝落亦可識一二焉夫二君之眷眷于異代之臣者豈非哀其忠愍其死乎而武王忽伯夷於勝殷之後太宗疑魏徵於征遼之日者何耶因作此詩亦春秋責備賢者之義也周王封墓禮殷臣爲惜忠言見殺身何事華陽歸馬後蒲輪不謝採薇人從來忿欲蔽良知日暮令人有逆施哿矣親祠比干墓胡然却仆魏徵碑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 比干墓
+  author: 李齊賢
+  language: lzh
+  text: 墓在衛州北十許里。盖周武王所封。而唐太宗貞觀中。道過其地。自爲文以祭。其石刻剝落。亦可識一二焉。夫二君之眷眷于異代之臣者。豈非哀其忠愍其死乎。而武王忽伯夷於勝殷之後。太宗疑魏徵於征遼之日者何耶。因作此詩。亦春秋責備賢者之義也。周王封墓禮殷臣。爲惜忠言見殺身。何事華陽歸馬後。蒲輪不謝採薇人。從來忿欲蔽良知。日暮令人有逆施。哿矣親祠比干墓。胡然却仆魏徵碑。
+korean:
+  title: 비간묘
+  author: 이제현
+  language: kor
+  text: |-
+    비간의 무덤은 위주(衛州)의 북 쪽10리쯤에 있으니, 대개 주(周)나라의 무왕(武王)이 봉축(封築)한 것이다. 당 태종(唐太宗)이 정관(貞觀) 때에 그 땅을 지나다가 스스로 글을 지어 그 묘에 제사 지냈다. 그 석각(石刻)이 벗겨지고 떨어졌으나 한두 군데는 알아볼 수 있었다. 대개 두 임금이 다른 대(代)의 신하를 그리워한 것이 어찌 그 충(忠)을 슬퍼하고 그 죽음을 가엾이 여긴 것이 아니겠는가. 그런데, 무왕이 은(殷)나라를 이긴 뒤에 백이(伯夷)를 소홀히 한 것과, 태종이 요(遼)를 치는 날 위징(魏徵)을 의심한 것은 무슨 까닭인가. 그 때문에 이 시(詩)를 지은 것은 춘추(春秋)의 어진 이에게 책비(責備)하는 뜻에서이다.
+    주왕이 무덤을 봉축하여 은나라 신하를 예한 것은
+    충성된 말 하다가 몸을 죽인 것을 아까워하였기 때문이거니
+    무슨 일로 화양에 말을 돌려 보낸 뒤에도
+    부들바퀴로 고사리 캐던 사람에게 청하지 않았던가
+    원래 분함과 욕심은 사람의 양지를 가리는 것이라
+    날이 저물어 사람으로 하여금 역시를 하게 한다
+    비간의 무덤에 몸소 제사 지낸 것은 좋았는데
+    어찌하여 위징의 비는 넘어뜨리었던가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 비간묘(比干墓) : '
+    value: 비간(比干)은 상(商)나라의 충신이다. 상나라 임금 주(紂)가 음란함과 포학(暴虐)함이 극도에 달하였므로 비간이 바른 말로 간(諫)하였더니, 주가 노하여, “성인(聖人)의 심장을 한 번 시험해 보리라.” 하고, 비간을 죽여서 배를 갈라 보았다. 주 무왕(周武王)이 주를 쳐 죽인 뒤에 비간의 무덤을 찾아 봉축(封築)하여 표창하였다.
+  - key: '[주-D002] 무왕 : '
+    value: 주 무왕(周武王)이 주(紂)를 칠 때에 백이(伯夷)가 말리기를, “신하가 임금을 쳐서는 안 되오.” 하였다.
+  - key: '[주-D003] 위징(魏徵) : '
+    value: 당 태종(唐太宗)의 신하로 곧은 말로 자주 간(諫)하여 태종이 매우 중하게 여겼는데, 위징이 죽은 뒤에 태종이 친필로 비문(碑文)을 써서 주었다가 뒤에 참소하는 말을 듣고 위징의 비(碑)를 넘어뜨리었다. 뒤에 고구려(高句麗)를 치러 갔다가 크게 패하여 돌아오는 길에 뉘우치고 탄식하기를, “위징이 만일 살아 있었더라면 나로 하여금 이번 걸음이 없게 하였을 것이다.” 하였다.
+  - key: '[주-D004] 책비(責備) : '
+    value: 춘추(春秋)의 필법(筆法)에 어진 사람에게 책비(責備)하였는데, 책비란 것은 구비(具備)하기를 책(責)하는 것이다. 그것은 보통 사람에 대하여는 여간한 허물을 용서하거나 비판하지 않지만, 어진 사람에게 있어서는 조그만 허물이라도 비판하여 이런 어진 사람이 왜 이런 허물을 지었는가 하고 애석히 여기는 뜻으로 책망한다는 말이다
+  - key: '[주-D005] 화양(華陽)에 …… 뒤에도 : '
+    value: 무왕(武王)이 주(紂)를 치는 전쟁을 끝낸 뒤에 다시는 전쟁을 하지 않겠다는 뜻으로, 말[馬]을 화산(華山)에 돌려 보내고 군수 물자를 나르던 소는 도림(桃林)의 들에 놓았다 한다.
+  - key: '[주-D006] 부들바퀴[蒲輪] : '
+    value: 어진 사람을 청하여 올 때에는 수레를 보내면서 수레바퀴를 부들풀[蒲]로 쌌는데, 그것은 수레바퀴가 터덜거리지 않도록 하는 것이다.
+  - key: '[주-D007] 고사리 캐던 : '
+    value: 무왕(武王)이 주(紂)를 치자, 백이(伯夷)는 주(周)나라의 불의(不義)한 곡식을 먹지 아니하겠다 하고, 수양산(首陽山)에 들어가서 고사리를 캐어 먹다가 굶어서 죽었다.
+  - key: '[주-D008] 날이 저물어 …… 역시(逆施) : '
+    value: 전국(戰國) 때의 오자서(伍子胥)가 초(楚)나라를 쳐서 초평왕(楚平王)의 무덤을 파내 송장을 매질하여 아버지의 원수를 갚으니, 그의 친구 신포서(申包胥)가 사람을 시켜 말을 전하기를, “너무 심하지 아니한가.” 하니, 오자서가 답하기를, “해는 저물고 길은 머니 거꾸로 행하고 역(逆)으로 하노라.” 하였는데, 이것은 당태종이 늙은 욕심에 안 낼 생각을 내어 고구려를 쳤다는 말이다.
+english:
+  title: The Tomb of Bi Gan
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The tomb lies some ten leagues north of Wei prefecture, erected by the martial king of Zhou in ages past. When Tang Taizong passed through those lands in the Zhenguan era, he himself composed words to make offering at that sacred ground. Though the stone inscriptions have weathered and crumbled, a character or two could yet be discerned. Thus did two sovereigns reach across the centuries to honor a minister of old—was this not their sorrow at his loyalty, their pity at his death? Yet why did the Martial King overlook Bo Yi after his triumph over Shang? Why did Taizong doubt Wei Zheng on the day he marched toward Liao? For this reason I have written this poem, in the manner of Spring and Autumn, to hold the virtuous to account.
+
+    The Martial King built a shrine to honor Shang's loyal servant—
+    he mourned the one whose honest words brought death upon his frame.
+    Yet why, when horses were released to Mount Hua's distant slopes,
+    was no fine carriage sent to call one who gathered ferns to eat?
+
+    From the beginning, anger and desire cloud the knowing heart;
+    as twilight falls, men turn to deeds that bring ruin in their wake.
+    He offered sacrifice at Bi Gan's tomb with his own hands—
+    yet how could he then topple the stone that marks Wei Zheng's name?
+  footnotes:
+  - key: ''
+    value: Bi Gan was a loyal minister of the Shang dynasty who remonstrated with the corrupt king Zhou. Zhou, enraged, had him executed, saying he would 'test the heart of a sage.' After Zhou Wu Wang conquered Shang, he honored Bi Gan by building this tomb.
+  - key: ''
+    value: Bo Yi opposed Zhou Wu Wang's campaign against Shang as a violation of the duty of a minister to his lord, and thus refused to serve the new dynasty. He retreated to Mount Shouyang where he ate ferns and eventually starved.
+  - key: ''
+    value: Wei Zheng was a trusted minister of Tang Taizong known for his forthright remonstrances. Though Taizong honored him greatly in life and inscribed his own epitaph after Wei Zheng's death, he later toppled the stone in a moment of anger when hearing slander against him. Taizong came to regret this deeply after his later military failures.
+  - key: ''
+    value: The poem critiques the virtue of sovereigns not through direct blame, but through the Spring and Autumn method of holding the virtuous to a higher standard—pointing out the contradiction between their reverence for past loyalty and their treatment of present virtue.

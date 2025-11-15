@@ -1,0 +1,41 @@
+canonical:
+  title: 西都口號
+  author: 李之氐
+  language: lzh
+  text: 大同江水瑠璃碧長樂宮花錦繡紅玉輦一遊非好事大平風月與民同
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西都口號
+  author: 李之氐
+  language: lzh
+  text: 大同江水瑠璃碧。長樂宮花錦繡紅。玉輦一遊非好事。大平風月與民同。
+korean:
+  title: 서도 구호
+  author: 이지저
+  language: kor
+  text: |-
+    대동강 물은 유리같이 푸르고
+    장락궁 꽃은 비단같이 붉도다
+    옥련(임금의 수레) 한 번 놂이 일 좋아함이 아닐세
+    태평 풍월을 백성과 함께 하고저라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0560&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 구호(口號) : '
+    value: 시를 짓는데 즉석에서 입으로 부르는 것이다.
+english:
+  title: A Verse on the Western Capital
+  author: Lee Ji-jeo
+  language: eng
+  text: |-
+    The waters of the Daedong River gleam like jade, their green so pure.
+    The flowers of Jangnak Palace blaze like brocade in crimson hue.
+    Yet the royal carriage's journey is no mere delight—
+    I wish the peace and moonlight of this age to be shared with all the people.
+  footnotes:
+  - key: ''
+    value: 'Daedong River: A river flowing through Pyongyang, the western capital of Korea.'
+  - key: ''
+    value: 'Jangnak Palace: A royal palace symbolizing the splendor of the capital.'
+  - key: ''
+    value: The poem contrasts the beauty of nature and imperial grandeur with a deeper concern for the common welfare, suggesting that true governance lies not in royal pleasure but in shared prosperity.

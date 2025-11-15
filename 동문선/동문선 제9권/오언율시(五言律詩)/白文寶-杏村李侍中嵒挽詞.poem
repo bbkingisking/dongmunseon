@@ -1,0 +1,45 @@
+canonical:
+  title: 杏村李侍中嵒挽詞
+  author: 白文寶
+  language: lzh
+  text: 泉裝何遽爾吾謂老彌强玉樹添風彩銀鉤照日光淸新庾開府終始郭汾陽偶會還如昨投壺意自長
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 杏村李侍中嵒挽詞
+  author: 白文寶
+  language: lzh
+  text: 泉裝何遽爾。吾謂老彌强。玉樹添風彩。銀鉤照日光。淸新庾開府。終始郭汾陽。偶會還如昨。投壺意自長。
+korean:
+  title: 행촌 이시중 암 만사
+  author: 백문보
+  language: kor
+  text: |-
+    저승 행차가 어찌 이리 갑작스레
+    늙어 더욱 정정타고 내 노상 일렀더니
+    옥수보다 아름다운 풍채
+    은 갈고리가 일월에 빛나더니
+    시풍의 청신함은 바로 유개부(庾開府 남북조 때의 시인)
+    부귀로 시종하긴 옛날 곽분양(당나라의 명신)
+    바로 어제 같은 우연한 그 모임에
+    투호랑 함께 즐기며 마음 흐뭇했더니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0940&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 은(銀) 갈고리 : '
+    value: 진(晋)날 색정(索靖)이 초서(草書)를 잘 썼는데, 자기의 서체(書體)를 ‘은 갈고리 전갈 꼬리[銀鉤蠆尾]’라고 하였다.
+english:
+  title: Elegy for Yi Si-jung of Haengchon
+  author: Baek Mun-bo
+  language: eng
+  text: |-
+    Why does the carriage to the underworld come so suddenly?
+    I who spoke often of old age growing stronger—
+    A figure more graceful than jade trees swaying in the wind,
+    Calligraphy like silver hooks gleaming under sun and moon.
+    The clarity and freshness of his verse recalls Yü Kai-fu,
+    Whose fortune and virtue endured like Guo Fen-yang of old.
+    That chance meeting, as if but yesterday,
+    Where we played pitch-pot together, our hearts content.
+  footnotes:
+  - key: ''
+    value: 'Silver hooks: a classical reference to elegant calligraphy, comparing fine brushwork to the shimmering curves of silver'

@@ -1,0 +1,47 @@
+canonical:
+  title: 七夕
+  author: 李齊賢
+  language: lzh
+  text: 脉脉相望邂逅難天敎此夕一團欒鵲橋已恨秋波遠鴛枕那堪夜漏殘人世可能無聚散神仙也自有悲歡猶勝羿婦偸靈藥萬古羇棲守廣寒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 七夕
+  author: 李齊賢
+  language: lzh
+  text: 脉脉相望邂逅難。天敎此夕一團欒。鵲橋已恨秋波遠。鴛枕那堪夜漏殘。人世可能無聚散。神仙也自有悲歡。猶勝羿婦偸靈藥。萬古羇棲守廣寒。
+korean:
+  title: 칠석
+  author: 이제현
+  language: kor
+  text: |-
+    빤히 바라보아도 만나보긴 어려운 터
+    하늘이 오늘 저녁엔 단란 한 번 허하네
+    오작교는 은하수 멂을 한했었지만
+    원앙 베개엔 밤 누수 다해감을 어이 견디리
+    인간에야 어이 모였다 헤어짐 없으랴마는
+    신선도 역시 슬픔과 기쁨이 있는 것을
+    예의 아내 영약을 훔쳐 마시고
+    만고에 홀로 광한전 지킴보다야 낫지
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0600&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 예(羿)의 아내 …… 훔쳐 마시고 : '
+    value: 하우(夏禹) 때 유궁후(有窮后) 예(羿)가 불사약(不死藥)을 얻어다 감춰 둔 것을 그 아내가 훔쳐 먹고 신선이 되어 월궁(月宮)에 도망가 항아(姮娥)가 되어 홀어미로 광한전에 거처한다는 전설.
+english:
+  title: The Seventh Night
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    Though we gaze across the distance, meeting remains impossible—
+    Tonight heaven grants us a single moment of togetherness.
+    The magpie bridge laments the Milky Way's remoteness,
+    Yet the mandarin duck pillow cannot bear the night's slow passage.
+    In this world, how could gathering not bring parting?
+    Even immortals know both sorrow and joy.
+    Better this than the wife of Yi, who stole the elixir
+    And dwells alone through ages in the jade palace's cold keep.
+  footnotes:
+  - key: ''
+    value: The 'wife of Yi' refers to the legendary Chang'e (Heng'e), who according to Chinese mythology stole an immortality elixir from her husband the archer Yi and fled to the moon, where she became the lonely moon goddess dwelling in the Palace of Eternal Cold.
+  - key: ''
+    value: The magpie bridge alludes to the legend of the Weaver and Cowherd, separated celestial lovers who meet only once a year on the seventh day of the seventh lunar month, when magpies form a bridge across the Milky Way.

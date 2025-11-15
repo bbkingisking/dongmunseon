@@ -1,0 +1,41 @@
+canonical:
+  title: 御殿春帖子
+  author: 趙準
+  language: lzh
+  text: 金闕韶光早銅壺曉漏遲五雲含瑞氣先繞萬年枝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 御殿春帖子
+  author: 趙準
+  language: lzh
+  text: 金闕韶光早。銅壺曉漏遲。五雲含瑞氣。先繞萬年枝。
+korean:
+  title: 어전 춘첩자
+  author: 조준
+  language: kor
+  text: |-
+    금궐에 봄빛이 이르니
+    동호(銅壺)에 효루가 더디어라
+    오색 구름이 서기를 머금어
+    먼저 만년지(萬年枝)를 둘렀네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동호(銅壺) : '
+    value: 누수(漏水)를 만들 때에 밑에 물 담는 것을 호(壺)라 하는데, 구리쇠로 만들었다.
+  - key: '[주-D002] 만년지(萬年枝) : '
+    value: 송나라 휘종(徽宗)이, ‘만년지 위에 태평작[萬年枝上太平雀]’이란 제목으로 선비들에게 시험을 보이니 합격한 자가 없었다. 어느 사람이 비밀리에 내시(內侍)에서 물었더니 곧 “동청수(冬靑樹)이다.”라고 하였다. 축수(祝壽)하는 의미로 시에 쓴 것이다.
+english:
+  title: Spring Verses for the Palace Hall
+  author: Cho Jun
+  language: eng
+  text: |-
+    Spring's radiance reaches the golden palace early,
+    yet the bronze water-clock drips slow at dawn.
+    Five-colored clouds gather their auspicious mist—
+    first they encircle the branches of ten thousand years.
+  footnotes:
+  - key: ''
+    value: The 'bronze water-clock' (銅壺) refers to the vessel beneath a clepsydra that collects the dripping water used to measure time in the palace.
+  - key: ''
+    value: The 'branches of ten thousand years' alludes to a celebrated poetic puzzle posed by Song Emperor Huizong, wherein scholars were asked to compose verses on the theme 'auspicious birds upon the eternally-blessed bough.' The answer, revealed in secret, was the winter-green tree—a symbol of longevity and perpetual blessing that became a conventional motif in poems celebrating imperial rule.

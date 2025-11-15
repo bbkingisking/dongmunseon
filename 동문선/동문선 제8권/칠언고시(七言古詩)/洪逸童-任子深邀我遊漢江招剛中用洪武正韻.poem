@@ -1,0 +1,72 @@
+canonical:
+  title: 任子深邀我遊漢江招剛中用洪武正韻
+  author: 洪逸童
+  language: lzh
+  text: 勸君以蘇長公赤壁之遊請君以王右軍蘭亭之會期君以李謫仙園中之宴共君以歐太守亭上之醉駟馬高車不足榮列鼎方丈不足貴世閒萬事幾時了不如逢塲須盡歡勝遊難得幽絶處古人臨水又登山尊中有美酒座上無惡客與君連袂到江頭一洗塵襟浮太白
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 任子深邀我遊漢江招剛中用洪武正韻
+  author: 洪逸童
+  language: lzh
+  text: 勸君以蘇長公赤壁之遊。請君以王右軍蘭亭之會。期君以李謫仙園中之宴。共君以歐太守亭上之醉。駟馬高車不足榮。列鼎方丈不足貴。世閒萬事幾時了。不如逢塲須盡歡。勝遊難得幽絶處。古人臨水又登山。尊中有美酒。座上無惡客。與君連袂到江頭。一洗塵襟浮太白。
+korean:
+  title: 임자심이 나를 한강 놀이에 초대하기에 강중을 초청하고, 홍무정 운을 쓰며
+  author: 홍일동
+  language: kor
+  text: |-
+    그대에게 소동파의 적벽강 놀이로 권하네
+    그대에게 왕우군의 난정 모임으로 청하네
+    그대와 약속하세, 이 적선의 도리원 잔치를
+    그대여, 함께 취해 보세, 구양 태수의 취옹정 위에서처럼
+    사마 높은 수레가 영화가 아니고
+    열정에 방장도 귀한 것 아니어서
+    세상 만사 어느 때나 끝날 것인가
+    만날 적마다 실컷 즐김이 제일인 것을
+    멋진 놀이에 멋진 곳 얻기 어려워
+    옛사람도 물에 가고 산에 놀았지
+    맛 좋은 술이 술통에 있고
+    멋 적은 손은 좌중에 없네
+    우리 함께 손 잡고 강변에 나가
+    큰 술잔 들어 속진을 씻어 버리세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0580&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 임자심(任子深) : '
+    value: 자심은 임원준(任元濬 1423~1500)의 자(字).
+  - key: '[주-D002] 적벽강(赤壁江) : '
+    value: 소동파(蘇東坡)가 칠월(七月) 16일에 적벽강(赤壁江)에 놀면서 〈적벽부(赤壁賦)〉를 지었다.
+  - key: '[주-D003] 난정(蘭亭) : '
+    value: 왕희지(王羲之)가 3월 3일에 회계(會稽)의 난정(蘭亭)에서 놀면서〈蘭亭序〉를 지었다.
+  - key: '[주-D004] 도리원(桃李園) : '
+    value: 이태백(李太白)이 봄밤에 도리원(桃李園)에 놀면서 〈춘야연도리원서(春夜宴桃李園序)〉를 지었다.
+  - key: '[주-D005] 취옹정(醉翁亭) : '
+    value: 송나라 구양수(歐陽修)가 저주(滁州)에 태수(太守)로 갔을 때 취옹정(醉翁亭)에 놀면서 〈취옹정기(醉翁亭記)〉를 지었다.
+  - key: '[주-D006] 열정(列鼎)에 방장(方丈) : '
+    value: 《맹자》에 식전방장(食前方丈)이란 말이 있는데, 부귀(富貴)한 사람이 음식을 호화롭게 먹을 적에 식탁(食卓)이 사방으로 십 척(十尺)이 되도록 벌이는 것이다.
+english:
+  title: Invited by Ren Zishen to a Journey on the Han River, with Kang Zhongzhao Attending, Composed in the Hong Wu Rhyme System
+  author: Hong Ildong
+  language: eng
+  text: |-
+    I urge you with Su Dongpo's journey to Red Cliff,
+    I invite you with Wang Xizhi's gathering at Orchid Pavilion,
+    I pledge with you Li Taibai's feast in the Peach and Plum Garden,
+    With you I share the drunkenness at Governor Ouyang's pavilion.
+
+    Four steeds and lofty carriages cannot bring true glory,
+    Dished feasts spread wide cannot bring true honor—
+    When shall the ten thousand affairs of this world ever end?
+    Nay, when we meet, we must drink to the fullest!
+
+    Fine journeys to pristine places are hard to find,
+    Yet ancients sought them by water and climbed mountains.
+    In the vessel rests wine of exquisite taste,
+    At the table sits no ignoble guest.
+
+    Let us clasp hands together to the riverside,
+    And wash away the dust of our hearts with a grand cup.
+  footnotes:
+  - key: ''
+    value: Su Dongpo composed his famous 'Ode to Red Cliff' during a moonlit journey on the river; Wang Xizhi gathered with literati at Orchid Pavilion for the spring purification festival; Li Taibai (Li Bai) held a spring night celebration in a garden of peach and plum blossoms; and Ouyang Xiu, as magistrate of Chuzhou, frequented the Pavilion of the Drunken Sage—all celebrated moments in Chinese literary history that the poet invokes as models for this gathering.
+  - key: ''
+    value: '''Lofty carriages and feasts spread wide'' refers to luxurious displays of wealth and status, which the poet dismisses as hollow compared to the true pleasure of gathered companions and free-flowing drink.'

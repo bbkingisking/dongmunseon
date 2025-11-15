@@ -1,0 +1,47 @@
+canonical:
+  title: 漢陽村莊
+  author: 韓宗愈
+  language: lzh
+  text: 十里平湖細雨過一聲長笛隔蘆花直將金鼎調羹手還把漁竿下晚沙單衫短帽繞池塘隔岸垂楊送晚凉散步歸來山月上杖頭猶襲露荷香
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漢陽村莊
+  author: 韓宗愈
+  language: lzh
+  text: 十里平湖細雨過。一聲長笛隔蘆花。直將金鼎調羹手。還把漁竿下晚沙。單衫短帽繞池塘。隔岸垂楊送晚凉。散步歸來山月上。杖頭猶襲露荷香。
+korean:
+  title: 한양촌장
+  author: 한종유
+  language: kor
+  text: |-
+    십 리 펀펀한 호수에 부슬비 지나가고
+    긴 피리 한 소리는 갈대꽃을 격하였다
+    곧 금솥에 국 끓이는 솜씨 가지고
+    낚싯대 들고 저문 모래밭으로 내려가노라
+    홑적삼 짧은 모자로 연못 언덕을 돌다가
+    언덕너머 늘어진 버들 밑에서 저녁 서늘함을 보낸다
+    흐트러진 걸음으로 돌아오매 산달이 오르나니
+    지팡이 끝에는 아직 이슬 맞은 연꽃의 향기 감돈다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0320&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금솥[金鼎]에 …… 솜씨 : '
+    value: 은(殷)나라 고종(高宗)이 부열(傅說)을 정승으로 임명하면서, “국을 끓이면 너를 소금과 매실[鹽梅]로 삼아 국맛을 조화(調和)시키겠다.” 하였다. 이 말은 정승으로 나라를 다스리는 솜씨란 뜻이다.
+english:
+  title: Hanyang Village
+  author: Han Jong-yu
+  language: eng
+  text: |-
+    Fine rain passes over ten miles of still water.
+    A long flute's note cuts through the reed flowers.
+    With the hand that seasons the golden cauldron,
+    I descend to the evening sand with fishing rod in hand.
+
+    In light silk and short hat I circle the pond's edge,
+    Beyond the bank, the drooping willow brings evening's coolness.
+
+    Returning from my wandering steps, the mountain moon rises,
+    On my staff's tip still clings the fragrance of dew-kissed lotus.
+  footnotes:
+  - key: ''
+    value: The 'golden cauldron' alludes to an ancient Chinese tale where a king appointed a sage as prime minister with words comparing his governing ability to the art of seasoning a dish—the metaphor suggests mastery in statecraft and world affairs.

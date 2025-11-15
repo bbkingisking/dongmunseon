@@ -1,0 +1,37 @@
+canonical:
+  title: 九曜堂
+  author: 李齊賢
+  language: lzh
+  text: 溪水潺潺石逕斜寂寥誰似道人家庭前臥樹春無葉盡日山蜂咽草花
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九曜堂
+  author: 李齊賢
+  language: lzh
+  text: 溪水潺潺石逕斜。寂寥誰似道人家。庭前臥樹春無葉。盡日山蜂咽草花。
+korean:
+  title: 구요당
+  author: 이제현
+  language: kor
+  text: |-
+    시냇물은 잔잔하고 돌길은 비꼈는데
+    도인의 집처럼 고요한 데 없으리라
+    뜰 앞에 누운 나무 봄인데도 잎이 없고
+    온종일 산벌들은 풀꽃을 뜯어 삼키네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: The Nine Luminaries Hall
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    The stream murmurs softly, the stone path winds in shadow.
+    Where in this world is solitude like a hermit's dwelling?
+    Before the courtyard, a fallen tree lies bare in spring—
+    All day long, mountain bees feed greedily on wildflowers.
+  footnotes:
+  - key: ''
+    value: The Nine Luminaries Hall (九曜堂) refers to the nine celestial bodies in classical astronomy. Lee Je-hyeon likely named his retreat after this astronomical concept, suggesting a place of contemplation aligned with cosmic order.
+  - key: ''
+    value: The fallen tree bearing no leaves despite the spring season suggests either age, decay, or the selective stillness of the hermit's retreat—a space beyond the ordinary cycles of nature.

@@ -1,0 +1,49 @@
+canonical:
+  title: 門生
+  author: 金坵
+  language: lzh
+  text: 令公桃李四番榮鶯谷當年薦壽觥座主座看邀座主門生門見領門生三韓慶閥喧騶哄一代詞林揔俊英更有罕聞奇事在失來鞓帶得來呈
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 門生
+  author: 金坵
+  language: lzh
+  text: 令公桃李四番榮。鶯谷當年薦壽觥。座主座看邀座主。門生門見領門生。三韓慶閥喧騶哄。一代詞林揔俊英。更有罕聞奇事在。失來鞓帶得來呈。
+korean:
+  title: 평장의 문생
+  author: 김구
+  language: kor
+  text: |-
+    영공의 도리들이 네 번이나 번영하여
+    당년에 골 안에서 나온 꾀꼬리들이 헌수배를 드렸네
+    좌주가 자리에 좌주를 맞고
+    문생의 문하에 문생을 거느렸네
+    삼한의 좋은 문벌 가마가 떠들썩하고
+    일대의 문인 모두 준영일세
+    게다가 다시 또 희한하고 기특한 일은
+    잃었던 홍정(고관(高官)에게 내리는 띠) 띠 되찾아서 드리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0640&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 영공(令公)의 도리(桃李) : '
+    value: 당나라 적인걸(狄人傑)이 인재를 추천하여 벼슬에 오른 문생들이 많았는데, 당시의 사람들이, “천하(天下)의 도리(桃李)가 모두 공(公)의 문하(門下)에 있다.” 하였으니, 여기서는 과거에 시관(試官)이 되어 선비를 많이 뽑아 벼슬길에 보낸 것이 네 번이나 된다는 말이다.
+english:
+  title: A Student's Tribute
+  author: Kim Gu
+  language: eng
+  text: |-
+    Your peach and plum trees have bloomed in splendor four times over,
+    And from the valley came the nightingales you raised to offer toasts of longevity.
+    The patron sits to greet a patron,
+    The student in your school now shelters students of his own.
+    Three Kingdoms' noble lineage sounds its proud procession,
+    This age gathers all its finest literary minds.
+    Yet stranger still, this marvel worth remarking—
+    The crimson belt once lost has been restored and now presented here.
+  footnotes:
+  - key: ''
+    value: The peach and plum trees refer to successful disciples. In Tang China, the official Di Renjie recommended so many talented candidates to office that people said, 'All the peach and plum trees of the world belong to the Duke's household.' Here, the subject served four times as an examiner, sending numerous scholars into official service.
+  - key: ''
+    value: The nightingales from the valley evoke disciples who have risen to prominence through their patron's sponsorship.
+  - key: ''
+    value: The crimson belt (hongjeong) was a symbol of high office bestowed by the throne—its recovery and presentation represents the restoration of honor or rank.

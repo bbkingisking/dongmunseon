@@ -1,0 +1,48 @@
+canonical:
+  title: 漢陽途中
+  author: 李集
+  language: lzh
+  text: 病餘身已老客裏歲將窮瘦馬鳴斜日羸僮背朔風臨津冰合凍華岳雪連空回首松山下君門縹緲中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漢陽途中
+  author: 李集
+  language: lzh
+  text: 病餘身已老。客裏歲將窮。瘦馬鳴斜日。羸僮背朔風。臨津冰合凍。華岳雪連空。回首松山下。君門縹緲中。
+korean:
+  title: 한양 도중
+  author: 이집
+  language: kor
+  text: |-
+    병든 나머지 몸이 벌써 늙었구나
+    나그네 길에서 해가 장차 다하려네
+    파리한 말은 사양에 울고
+    약한 종은 북풍을 등지고 가네
+    임진강에는 얼음이 얼었고
+    북악에는 눈이 공중으로 연이었네
+    머리를 돌려 송산을 바라보니
+    자네 집이 아득한 가운데 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0650&viewSync=OT
+  footnotes: []
+english:
+  title: On the Road to Hanyang
+  author: Lee Jip
+  language: eng
+  text: |-
+    My body, worn by illness, has already grown old.
+    As a wanderer, the year draws to its close.
+    My gaunt horse cries out in the slanting sun.
+    My weary servant turns his back to the northern wind.
+
+    At the Imjin River, ice locks the waters fast.
+    On Bukak Mountain, snow stretches endlessly toward the sky.
+    Turning back to gaze below Songsan,
+    Your home lies distant, veiled in mist.
+  footnotes:
+  - key: ''
+    value: Hanyang refers to the old name for Seoul, the seat of royal government during the Joseon Dynasty.
+  - key: ''
+    value: The Imjin River and Bukak Mountain are geographical landmarks marking the journey's approach to the capital.
+  - key: ''
+    value: The final couplet expresses the longing for home and the imperial court, with '君門' (your gate/your house) referring both to a beloved's dwelling and symbolically to the royal presence.

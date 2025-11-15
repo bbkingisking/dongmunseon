@@ -1,0 +1,55 @@
+canonical:
+  title: 宿嚴川寺
+  author: 兪好仁
+  language: lzh
+  text: 屈指藏脩二十年靑山依舊在尊前對牀黃面皆新識隔檻踈篁只宿緣曉月濛濛覊枕外茶烟裊裊鬢絲邊承恩玉署慚非分桑下重來意惘然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宿嚴川寺
+  author: 兪好仁
+  language: lzh
+  text: 屈指藏脩二十年。靑山依舊在尊前。對牀黃面皆新識。隔檻踈篁只宿緣。曉月濛濛覊枕外。茶烟裊裊鬢絲邊。承恩玉署慚非分。桑下重來意惘然。
+korean:
+  title: 숙 엄천사
+  author: 유호인
+  language: kor
+  text: |-
+    손을 꼽으매 공부한 지 20년인데
+    푸른 산은 옛 그대로 술항아리 앞에 있다
+    평상을 마주하면 누른 얼굴은 모두 새로 아는 이인데
+    난간 넘어 성긴 대는 다만 묵은 인연일네
+    새벽 달은 몽몽히 나그네 베개 밖이요
+    차 대리는 연기는 요뇨히 흰 살쩍을 감돈다
+    옥당에 은혜를 입어 분수 아닌 것이 부끄러운데
+    뽕나무 밑에 다시 오매 뜻이 망연하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 공부[藏脩] : '
+    value: 조용한 곳에서 포부를 감추고, 공부를 닦는다는 말인데《예기(禮記)》에서 나온 말이다.
+  - key: '[주-D002] 누른 얼굴은 : '
+    value: 누른 얼굴은 궁한 선비의 꼴이다.
+  - key: '[주-D003] 옥당(玉堂) : '
+    value: 홍문관(弘文館)을 화려한 벼슬이란 뜻으로 옥당(玉堂)이라 한다.
+  - key: '[주-D004] 뽕나무 밑에 다시 오매 : '
+    value: 옛말에, “중[浮屠]은 한 뽕나무 밑에서 세 번 다시 자지않는다.”한다. 그것은 정이 들어 애착이 생길까 두려워하기 때문이다.
+english:
+  title: Lodging at Gyeongcheon Temple
+  author: Yu Ho-in
+  language: eng
+  text: |-
+    Twenty years I count on my fingers, withdrawn in study and solitude,
+    Yet the green mountains remain unchanged before the wine cup.
+    Facing the sleeping platform, all those withered faces are strangers now,
+    Beyond the railing, sparse bamboo holds only the karma of old acquaintance.
+    The dawn moon glimmers beyond this wanderer's pillow,
+    Tea smoke curls gently around the edges of graying hair.
+    Shamed by the honor bestowed in the Hall of Jade—undeserved grace—
+    Returning beneath the mulberry tree, my heart dissolves into silence.
+  footnotes:
+  - key: ''
+    value: The 'Hall of Jade' (玉堂) refers to the Hongmungwan (弘文館), Korea's prestigious scholarly institution.
+  - key: ''
+    value: The 'withered faces' evoke the image of impoverished scholars, suggesting the passage of time and changing circumstances.
+  - key: ''
+    value: The mulberry tree alludes to a Buddhist saying that monks do not sleep three times under the same tree, fearing attachment would grow.

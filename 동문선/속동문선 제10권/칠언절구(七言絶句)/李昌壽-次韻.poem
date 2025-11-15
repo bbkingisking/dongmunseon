@@ -1,0 +1,37 @@
+canonical:
+  title: 次韻
+  author: 李昌壽
+  language: lzh
+  text: 積翠西南不盡山夕陽啼鳥竹林間偶傾春酒二三酌一任東風料峭寒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻
+  author: 李昌壽
+  language: lzh
+  text: 積翠西南不盡山。夕陽啼鳥竹林間。偶傾春酒二三酌。一任東風料峭寒。
+korean:
+  title: 차운
+  author: 이창수
+  language: kor
+  text: |-
+    서남에 쌓인 푸른 빛 한없는 메인데
+    석양 대숲 사이에 새 우는 소리
+    봄술 두세 잔을 우연히 기울일 제
+    동녘 바람 차가움은 제대로 맡겨두리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0580&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 終南守 : '
+    value: 저본에는 없다. 저본의 원목차에 근거하여 보충하였다.
+english:
+  title: Matching Rhymes
+  author: Lee Chang-su
+  language: eng
+  text: |-
+    Endless verdant mountains pile up toward the southwest.
+    In the dusk, birdsong echoes through the bamboo grove.
+    By chance I tilt back spring wine, cup after cup—
+    Let the eastern wind's sharp chill have its way.
+  footnotes:
+  - key: ''
+    value: This poem follows the rhyme scheme of another work, a common poetic practice in classical Chinese and Korean poetry where a poet would 'match rhymes' (차운/次韻) with an earlier composition.

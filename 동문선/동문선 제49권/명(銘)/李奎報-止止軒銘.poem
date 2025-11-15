@@ -1,0 +1,31 @@
+canonical:
+  title: 止止軒銘
+  author: 李奎報
+  language: lzh
+  text: 子欲觀我觀我所止止止而其不動乎然則猶未止不動之謂靜靜則有動意動靜不見然後曰止止止以名軒軒亦不可視
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 止止軒銘
+  author: 李奎報
+  language: lzh
+  text: 子欲觀我。觀我所止。止止而其不動乎。然則猶未止。不動之謂靜。靜則有動意。動靜不見。然後曰止。止止以名軒。軒亦不可視。
+korean:
+  title: 지지헌 명
+  author: 이규보
+  language: kor
+  text: 자네가 나를 보려거던 나의 그치는[止] 바를 보라. 그칠 때에 그쳐서 움직여지지 않는 것인가. 그렇다면 오히려 그치지 못한 것이다. 움직이지 않는 것을 고요하다 하는 것인데 고요하다면 벌써 움직일 뜻이 있는 것이니, 움직이고 고요함이 보이지 아니하여야 겨우 그쳤다 할 수 있는 것이다. 지지(止止)라고 헌(軒)을 이름 하였으니 헌도 또한 보이지 않는 것이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0040&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 지지헌 명(止止軒銘) : '
+    value: 여기서 지(止)란 말은 동(動)에 상대되는 정지(靜止)라는 뜻이다.
+english:
+  title: Inscription on the Hall of Perfect Rest
+  author: Lee Kyubo
+  language: eng
+  text: 'If you wish to perceive me, then perceive that which I have ceased. When ceasing ceases and nothing stirs—is that truly stillness? No, that is not yet cessation. For non-movement is called quietude, yet quietude already harbors the seed of motion. Only when motion and stillness themselves vanish from sight can we say at last: here is true rest. Thus I named this hall Zhizhi—Double Rest—for the hall itself too cannot be seen.'
+  footnotes:
+  - key: ''
+    value: Zhizhi (止止, 'Double Rest') refers to cessation so complete that even the concept of cessation dissolves; it transcends the duality of movement and stillness.
+  - key: ''
+    value: This inscription embodies Buddhist and Daoist philosophy central to Korean literati thought, exploring the paradox that true stillness cannot be perceived or named.

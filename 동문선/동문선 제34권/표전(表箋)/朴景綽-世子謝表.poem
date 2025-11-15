@@ -1,0 +1,46 @@
+canonical:
+  title: 世子謝表
+  author: 朴景綽
+  language: lzh
+  text: 詔旨丁寧冊辭彪炳抃舞拜命震惶失圖中謝 竊以封立之恩古今所尙印章所以示信車服所以旌庸倘屬譾材是爲虛器如臣者世家末息聖代微臣跡阻山川每傾瞻於帝闕忠懸日月願思補於皇家然委質以末由第靜言而自詭今伏遇寬仁率下聲敎覃遐眷小邦而施及瑣軀推大賚而特馳華使賜之衮冕備擧禮儀敷以土田與縻好爵仰惟異數敻出常倫不衷之災懼看於麟史彼己之刺恐起於風人肇處靡遑報酬何所謹當緇衣有作勉成父子之功白水不渝誓賽乾坤之造
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 世子謝表
+  author: 朴景綽
+  language: lzh
+  text: 詔旨丁寧。冊辭彪炳。抃舞拜命。震惶失圖。中謝。 竊以封立之恩。古今所尙。印章所以示信。車服所以旌庸。倘屬譾材。是爲虛器。如臣者世家末息。聖代微臣。跡阻山川。每傾瞻於帝闕。忠懸日月。願思補於皇家。然委質以末由。第靜言而自詭。今伏遇寬仁率下。聲敎覃遐。眷小邦而施及瑣軀。推大賚而特馳華使。賜之衮冕。備擧禮儀。敷以土田。與縻好爵。仰惟異數。敻出常倫。不衷之災。懼看於麟史。彼己之刺。恐起於風人。肇處靡遑。報酬何所。謹當緇衣有作。勉成父子之功。白水不渝。誓賽乾坤之造。
+korean:
+  title: 세자 사 표
+  author: 박경작
+  language: kor
+  text: |-
+    조서의 뜻이 정녕(丁寧)하고 책봉(冊封)의 글이 빛나고 화려하오니, 춤추며 어명(御命)을 받듦에 황공하여 몸둘 바를 모르겠나이다. 중사(中謝)
+    그윽이 생각하옵건대, 봉립(封立)의 은(恩)은 고금(古今)의 숭상하는 바로서, 인장(印章)은 신(信)을 보이는 것이요, 거복(車服)은 공을 나타냄인데 만일 부재(不材)한 자에게 이를 준다면 그것은 허기(虛器)가 될 것이옵나이다. 신과 같은 자는 세가(世家)의 말식(末息)이요, 성대(聖代)의 미신(微臣)으로서, 산천의 길이 막혔음에 매양 제궐(帝闕)만을 멀리 바라보옵고, 해와 달에 충성을 달리어 황실(皇室)에 도움이 되고자 생각하오나, 위질(委質)할 길이 트이지 못하여 고요히 생각하고 스스로 부끄러웠나이다.이제 황제께옵서 너그럽고 어지심으로 아래를 거느리시고 교화(敎化)가 먼 곳에 미치어 소국(小國)을 권념(眷念)하여 이 보잘것없는 몸에 미치고, 크나큰 하사(下賜)로써 특히 황사(皇使)를 보내시어 곤면(袞冕)을 주셔서 예의(禮儀)를 갖추어 거행하고, 토지(土地)를 봉하여 좋은 벼슬을 주어 붙드시오니, 우러러 생각하오매 그 특이한 은전(恩典)이 훨씬 상례(常例)를 초월하옵나이다. 신분에 맞지 않은 옷을 입은 재앙은 춘추(春秋)를 보기가 두렵삽고, 저 녀석[彼己]이란 풍자(諷刺)가 시인(詩人)의 입에서 나올까 두렵사오니, 적당히 처신(處身)하옵기 겨를이 없사온대 무엇으로 이 은혜를 갚사오리이까.삼가 마땅히 검은 옷[緇衣]의 시를 짓게 되어, 부자(父子)가 공을 힘써 이룰 것이오며 백수(白水)가 변하지 않 듯 맹세하고 건곤(乾坤)의 은덕을 보답하오리다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0370_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 신분에 …… 두렵삽고 : '
+    value: “옷이 적당한 것이 아니면[不衷]반드시 재앙이 생긴다.” 하였다. 《左傳》
+  - key: '[주-D002] 저 녀석 …… 풍자(諷刺) : '
+    value: 《시경》분저여(汾沮洳)편에, “저 사람이여[彼己之子] 공족(公族) 같지 않구나.” 하였다. 그것은 옷차림이 적당하지 못함을 풍자한 것이다.
+  - key: '[주-D003] 검은 옷의 시 : '
+    value: 정 환공(鄭桓公)이 주(周)나라 천자의 조정에 사도(司徒)가 되어 직무에 충실하니 정나라 사람들이 검은 옷[緇衣]의 시(詩)를 지어 칭송하였다.
+english:
+  title: A Memorial of Gratitude for the Investiture as Crown Prince
+  author: Park Gyeong-chok
+  language: eng
+  text: |-
+    Your majesty's edict comes forth with utmost sincerity, and the proclamation of investiture shines with radiance most splendid. I bow and receive this command with such awe that my mind scatters like leaves before wind.
+
+    In humble reflection, I consider that the grace of investiture has been honored through all ages. The seal embodies trustworthiness, and fine vestments proclaim merit—yet bestow these upon one unworthy, and they become hollow vessels of shame. A man such as I am, descended from an ancient house now faded, stand as a humble servant in this enlightened age. Though mountains and rivers bar my path, I gaze ever toward the imperial palace. My loyalty hangs suspended between sun and moon, forever yearning to serve the imperial house, yet lacking any means to manifest this devotion. Thus I have dwelt in silent contemplation, ashamed of my own insufficiency.
+
+    Yet now your majesty, vast in benevolence and wise in governance, extends education to distant lands and casts your gaze upon our humble realm. You dispatch your imperial messenger bearing the robes of state and the crown, conducting the ceremonies with full propriety. You grant me lands and noble station, binding me to your favor. Such extraordinary grace far transcends all precedent! Yet I tremble—will not ill-fitting garments bring calamity upon my house? Will not the poets' mockery arise? Scarcely have I time to conduct myself with proper measure, much less to repay such kindness.
+
+    Therefore I shall labor in service like those who sing in dark garments of loyalty, striving so that father and son alike fulfill their sacred duties. As white waters flow unchanged, so do I swear to repay the boundless benevolence of heaven and earth.
+  footnotes:
+  - key: ''
+    value: 'The reference to ''ill-fitting garments'' invokes a classical warning from the Spring and Autumn Annals: improper vestments necessarily bring disaster.'
+  - key: ''
+    value: The 'poets' mockery' alludes to a poem in the Classic of Poetry that satirizes one unfit for his station through his improper dress.
+  - key: ''
+    value: The image of 'singing in dark garments' references the virtuous minister who so faithfully served his lord that his people composed songs of praise to honor his dedication.

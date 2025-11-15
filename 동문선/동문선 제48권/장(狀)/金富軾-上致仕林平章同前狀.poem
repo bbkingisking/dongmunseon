@@ -1,0 +1,38 @@
+canonical:
+  title: 上致仕林平章同前狀
+  author: 金富軾
+  language: lzh
+  text: 純陰氣休方喜一陽之復君子道泰合膺萬福之來恭惟致仕相公儉節淸風耆謀舊德盡瘁以仕匪躬之節逾堅告老而歸知足之情可尙茂對履長之旦更延難老之祺某等僻守江湖阻登門舘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上致仕林平章同前狀
+  author: 金富軾
+  language: lzh
+  text: 純陰氣休。方喜一陽之復。君子道泰。合膺萬福之來。恭惟致仕相公。儉節淸風。耆謀舊德。盡瘁以仕。匪躬之節逾堅。告老而歸。知足之情可尙。茂對履長之旦。更延難老之祺。某等僻守江湖。阻登門舘。
+korean:
+  title: 상 치사 임평장 동전 장
+  author: 김부식
+  language: kor
+  text: 순음(純陰)의 기운이 휴식되니 바야흐로 일앙(一陽)이 회복된 것을 기뻐하고, 군자의 도가 통태(通泰)하니 들어오는 만복을 받으시기 합당합니다. 삼가 생각건대, 치사 상공(致仕相公)은 청풍(淸風) 같은 검절(儉節)에다가 노성(老成)의 경륜으로서, 노고를 다해 봉사하시니 비궁(匪躬)의 절개가 더욱 굳건하였고, 늙음을 핑계삼아 물러나시니 만족을 아는 처사라 존숭할 만합니다. 이장(履長)의 날을 당하여 더욱 난로(難老)의 복을 누리소서. 모 등은 궁벽한 강호(江湖)를 지킴에 문관(門館)에 오를 길이 없습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 비궁(匪躬) : '
+    value: 자기 몸이 아니고 이미 임금에게 바쳤다는 뜻이다. 《주역(周易)》 건(騫)괘에, “임금의 신하가 억세고 부지런한 것은 자기 몸이 아닌 까닭이다[王臣騫騫匪躬之故].” 하였다.
+  - key: '[주-D002] 이장(履長) : '
+    value: 장지(長至)는 동지(冬至)라는 말이다. 어람(御覽)에, “동지가 되면 해가 극남(極南)으로 오기 때문에 그림자가 극히 길다.” 하였고, 최호(崔浩)의 여의(女儀)에, “근고(近古)의 부인들이 항상 동짓날을 당하면 신발과 버선을 만들어 시아버지에게 올리는데, 이는 장지(長至)를 밟게 하는 뜻이다.” 하였다.
+english:
+  title: Petition Presented on Behalf of Minister Lin Upon His Retirement
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The pure yin energy rests, and now we rejoice as the single yang returns to restore the world. The way of the gentleman opens to abundance, and it is fitting that ten thousand blessings arrive at your threshold.
+
+    With reverence I consider how you, O Minister Emeritus, embody the cleansing wind of frugal restraint and possess the seasoned wisdom of age. Having exhausted yourself in service to your sovereign, your selfless devotion grows ever more steadfast; having retired to embrace contentment, your discernment merits our highest esteem. May you now, treading the lengthening light of winter's turning, continue to enjoy the rare fortune of ageless grace.
+
+    Yet we, dwelling in obscure seclusion by river and lake, remain unable to ascend to your noble halls.
+  footnotes:
+  - key: ''
+    value: The phrase 'selfless devotion' (匪躬) carries the meaning of one who has surrendered their very body to the service of the throne, drawing from the I Ching.
+  - key: ''
+    value: The 'lengthening light of winter's turning' (履長) refers to the winter solstice, when the sun reaches its southernmost point and casts the longest shadows—a moment symbolizing renewal and the extension of daylight to come.

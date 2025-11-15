@@ -1,0 +1,35 @@
+canonical:
+  title: 書館壁上
+  author: 柳洵
+  language: lzh
+  text: 踏盡膠膠擾擾機夢中飛步入經帷隨年白髮徒千丈難作淸朝補衮絲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書館壁上
+  author: 柳洵
+  language: lzh
+  text: 踏盡膠膠擾擾機。夢中飛步入經帷。隨年白髮徒千丈。難作淸朝補衮絲。
+korean:
+  title: 서 관벽상
+  author: 유순
+  language: kor
+  text: |-
+    어지러운 풍진 세게 밟아 거의 다하고는
+    꿈속에 나는 걸음 글집으로 들어갔소
+    해를 따른 백발은 부질없이 천길이라
+    맑은 조정의 임 옷 깁는 실은 못 된다오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0540&viewSync=OT
+  footnotes: []
+english:
+  title: Written on the Library Wall
+  author: Yu Sun
+  language: eng
+  text: |-
+    I have trampled through the dusty tumult of this turbulent world,
+    Until in dreams my feet take flight and enter the halls of books.
+    With each passing year my hair turns white—a thousand fathoms of it—
+    Yet I can never become the thread that mends the robes of court.
+  footnotes:
+  - key: ''
+    value: The 'thread that mends the robes of court' refers to serving the king with distinction and loyalty, a traditional metaphor for official service and contribution to the state. The poet expresses how his withdrawal into study, though enriching to the spirit, cannot fulfill the duty of direct service.

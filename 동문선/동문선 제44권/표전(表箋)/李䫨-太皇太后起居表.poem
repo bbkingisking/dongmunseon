@@ -1,0 +1,27 @@
+canonical:
+  title: 太皇太后起居表
+  author: 李䫨
+  language: lzh
+  text: 䟽居東鄙莫隨鏘濟之班懇仰內朝徒詠柔明之德
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 太皇太后起居表
+  author: 李䫨
+  language: lzh
+  text: 䟽居東鄙。莫隨鏘濟之班。懇仰內朝。徒詠柔明之德。
+korean:
+  title: 태황태후 기거 표
+  author: 이오
+  language: kor
+  text: 동비(東鄙)에 떨어져 살고 있으니 모시는 반열을 따르기 어렵사오나, 내조(內朝)를 정성껏 우러르니 한갓 유명(柔明)의 덕을 읊을 뿐이옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0120&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial on the Conduct of the Grand Empress Dowager
+  author: Lee O
+  language: eng
+  text: Dwelling in the eastern borderlands, I cannot join the ranks of those who serve at court. Yet with earnest reverence, I gaze toward the inner palace, and can only sing the praises of her gentle and luminous virtue.
+  footnotes:
+  - key: ''
+    value: The 'eastern borderlands' refers to the author's remote posting, emphasizing his distance from the capital and the court. The 'inner palace' (內朝) refers to the seat of the Grand Empress Dowager's authority. 'Gentle and luminous virtue' (柔明之德) is a classical phrase describing the feminine ideal of wisdom and benevolence.

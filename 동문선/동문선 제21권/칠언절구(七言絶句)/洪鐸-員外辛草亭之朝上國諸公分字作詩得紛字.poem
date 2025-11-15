@@ -1,0 +1,37 @@
+canonical:
+  title: 員外辛草亭之朝上國諸公分字作詩得紛字
+  author: 洪鐸
+  language: lzh
+  text: 忠臣間世遇明君承命朝天路入雲想得九重前席語夜深金殿月紛紛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 員外辛草亭之朝上國諸公分字作詩得紛字
+  author: 洪鐸
+  language: lzh
+  text: 忠臣間世遇明君。承命朝天路入雲。想得九重前席語。夜深金殿月紛紛。
+korean:
+  title: 원외 신초정이 상국에 조회하러 갈 제 제공이 분운하여 시를 짓는데 〈나도〉 분자를 얻었으므로
+  author: 홍탁
+  language: kor
+  text: |-
+    세상에도 드물게 충신이 밝은 임금을 만나
+    명을 받들고 하늘에 조회하러 길이 구름 속으로 들어간다
+    〈임금과 신하〉 생각하노니 구중 앞 자리에서 말할 때에
+    밤음 깊어 금전에 달이 어른거리리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0730&viewSync=OT
+  footnotes: []
+english:
+  title: On the Occasion of an Official's Journey to Pay Respects at Court, When the Distinguished Gentlemen Divided Characters for Poetry, I Received the Character 'Profuse'
+  author: Hong Tak
+  language: eng
+  text: |-
+    Rarely in this world does a loyal minister meet an enlightened lord—
+    Receiving his command, the path to court ascends into clouds.
+    I envision the discourse before the Nine Thrones,
+    Where moonlight flickers profusely through the golden palace at midnight.
+  footnotes:
+  - key: ''
+    value: The 'Nine Thrones' (九重) refers to the innermost chambers of the imperial palace, symbolizing the emperor's presence.
+  - key: ''
+    value: The poem was composed as part of a literary game where each participant received a character to incorporate into their work; Hong Tak received the character 'profuse' (紛).

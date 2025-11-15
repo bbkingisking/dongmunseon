@@ -1,0 +1,61 @@
+canonical:
+  title: 與諸敎官分詠西漢名賢得張良
+  author: 崔瀣
+  language: lzh
+  text: 誤擊秦皇匿下邳布衣奚望帝王師請看功業無千古只爲遭逢在一時兵法早從黃石受仙風晚與赤松期韓彭見躓蕭猶縶須信初終計自奇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 與諸敎官分詠西漢名賢得張良
+  author: 崔瀣
+  language: lzh
+  text: 誤擊秦皇匿下邳。布衣奚望帝王師。請看功業無千古。只爲遭逢在一時。兵法早從黃石受。仙風晚與赤松期。韓彭見躓蕭猶縶。須信初終計自奇。
+korean:
+  title: 여러 교관들과 서한의 명현들을 나누어 읊는 중에 장량을 뽑아 얻었으매
+  author: 최해
+  language: kor
+  text: |-
+    진시황을 빗맞히고 하비에 숨었을 때
+    포의가 어찌 제왕 스승 되길 바랐으리
+    보시오, 천추에 다시 없는 그 공업이
+    다만 한때 명주를 만난 때문이라오
+    병법은 일찍 황석공에게 받았고
+    선풍은 늦게 적송자와 놀려 했네
+    한신ㆍ팽월 넘어지고 소하도 묶였으니
+    처음부터 끝까지 지모 기특한 줄 알리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진시황을 …… 숨었을 때 : '
+    value: 장량(張良)은 그의 조부와 아버지가 한(韓)나라 정승으로 있었는데 진시황(秦始皇)이 한(韓)을 멸망시키자 장량이 원수를 갚으려고 만금(萬金)을 아끼지 않고 역사(力士)를 구하여 진시황이 박량사중(博浪沙中)에 놀러 갔을 때에 역사를 시켜 철퇴로 진시황을 습격하였다가 맞히지 못하고 그릇 다음 수레를 맞혔다. 장량은 망명하여 하비(下邳)에 숨었다.
+  - key: '[주-D002] 포의(布衣)가 …… 스승 : '
+    value: 장량(張良)이 공을 이룬 뒤에 말하기를, “포의(布衣)로서 제왕의 스승이 되었으니 소원에 만족하다.” 하였다.
+  - key: '[주-D003] 한신(韓信) …… 묶였으니 : '
+    value: 한 고조(漢高祖)는 천하를 통일한 뒤에 공신(功臣)인 한신(韓信)과 팽월(彭越)을 반역죄로 몰아서 죽이고 승상(丞相)  소하(蕭何)도 조그만 혐의로 옥에 가둔 일이 있었다.
+  - key: '[주-D004] 처음부터 …… 기특한 줄 : '
+    value: 장량(張良)은 부귀(富貴)를 버리고 신선이 되겠다고 벽곡(辟穀)을 하였다. 그리하여 그는 한신이나 소하처럼 화(禍)와 욕을 당하지 않았으니 처음부터 끝까지 지모(智謀)가 훌륭하였다고 칭찬한 것이다.
+english:
+  title: 'On Zhang Liang: A Poem Shared Among the Teaching Officials, Dividing the Worthy Men of the Western Han'
+  author: Choi Hae
+  language: eng
+  text: |-
+    He struck at the Qin Emperor and missed, then hid in Xiapi's shade.
+    In rough cloth, how could he dream to be the king's own sage?
+    Yet see—those deeds that echo through ten thousand ages,
+    Came merely from meeting fortune in a single span of time.
+
+    The art of war he learned early from the Yellow Stone Master;
+    The wind of immortals he chased late with Red Pine's art.
+    Though Han Xin stumbled and Peng Yue was bound in chains,
+    Xiao He too knew the cage—yet Zhang Liang's wisdom proved most strange.
+
+    From first to last, his cunning never brought him low;
+    He freed himself where others fell, and thus escaped all woe.
+  footnotes:
+  - key: ''
+    value: Zhang Liang's assassination attempt on the First Emperor of Qin failed when he struck the wrong carriage. After this failed attempt, he fled and hid in Xiapi.
+  - key: ''
+    value: 'Zhang Liang later said of himself: ''As a man of humble cloth, I became the teacher of emperors—my wishes are fulfilled.'' This line reflects on the unlikely ascension of one of common station to the highest advisory role.'
+  - key: ''
+    value: Han Xin and Peng Yue, great generals under the Han, were later executed on charges of treason. Xiao He, the Chancellor, was also imprisoned on suspicion. Zhang Liang alone escaped such fates.
+  - key: ''
+    value: The 'Yellow Stone Master' refers to Huang Shigong, from whom Zhang Liang received instruction in military strategy. Zhang Liang later abandoned worldly affairs to practice immortality techniques, ultimately escaping the tragic fates of his contemporaries through wisdom and timely withdrawal from power.

@@ -1,0 +1,46 @@
+canonical:
+  title: 寄姪彦冲
+  author: 李混
+  language: lzh
+  text: 汝翁雖早逝汝叔今幸存恩愛何曾異親踈且勿論立揚期顯達敦信護家門所冀全忠孝佳聲揭後昆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄姪彦冲
+  author: 李混
+  language: lzh
+  text: 汝翁雖早逝。汝叔今幸存。恩愛何曾異。親踈且勿論。立揚期顯達。敦信護家門。所冀全忠孝。佳聲揭後昆。
+korean:
+  title: 기 질 언충
+  author: 이혼
+  language: kor
+  text: |-
+    네 아버진 일찍 세상 떠났으나
+    다행히 네 삼촌이 지금 살아 있다
+    사랑이야 조금이나 다를소냐
+    촌수를 치지 말라
+    입신양명 꼭 현달하고
+    돈목과 신실로 가문을 지켜 다오
+    바라노니 충효를 온전히 하여
+    훌륭한 명성으로써 후손 모범 되기를
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0720&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to My Nephew Yeon-Chung
+  author: Lee Hoon
+  language: eng
+  text: |-
+    Your father, though he departed this world early,
+    Your uncle, fortunately, still remains.
+    What difference could love and care make?
+    Do not measure kinship by blood alone.
+
+    Strive for advancement and renown,
+    Guard the family gate with sincerity and trust.
+    My only hope is that you perfect loyalty and filial piety,
+    So your noble name may light the way for all who come after.
+  footnotes:
+  - key: ''
+    value: 立揚 (ipyang/rising and flourishing) and 顯達 (hyeondal/prominence and achievement) together express the classical Confucian ideal of social advancement through virtue.
+  - key: ''
+    value: The final couplet emphasizes the Confucian virtues of 忠孝 (loyalty and filial piety), which were considered the foundation of both personal character and family honor in East Asian culture.

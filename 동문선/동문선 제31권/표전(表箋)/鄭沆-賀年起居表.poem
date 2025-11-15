@@ -1,0 +1,29 @@
+canonical:
+  title: 賀年起居表
+  author: 鄭沆
+  language: lzh
+  text: 守土箕封寔賴榮懷之慶懸心魏闕第增嚮戀之勤
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賀年起居表
+  author: 鄭沆
+  language: lzh
+  text: 守土箕封。寔賴榮懷之慶。懸心魏闕。第增嚮戀之勤。
+korean:
+  title: 새해의 기거를 하례하는 표
+  author: 정항
+  language: kor
+  text: 기봉(箕封)의 땅을 지킴은 실로 영광스럽게 품어주시는 덕택이오니, 위궐(魏闕)로 향하는 연모(戀慕)의 정성을 더할 뿐이로소이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0350&viewSync=OT
+  footnotes: []
+english:
+  title: A Memorial Presenting New Year's Respects
+  author: Jung Hang
+  language: eng
+  text: That I maintain my post as a provincial governor flows from Your Majesty's gracious favor toward me. My heart, ever drawn toward the capital, can only deepen in devoted longing for the throne.
+  footnotes:
+  - key: ''
+    value: '箕封 (Qi Feng): A reference to a provincial post or territory, drawn from classical precedent of worthy officials governing distant lands.'
+  - key: ''
+    value: '魏闕 (Wei Que): The palace gates of the capital, symbolizing the seat of royal authority and the writer''s loyalty to the throne.'

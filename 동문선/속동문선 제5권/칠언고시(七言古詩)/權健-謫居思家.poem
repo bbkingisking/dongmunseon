@@ -1,0 +1,52 @@
+canonical:
+  title: 謫居思家
+  author: 權健
+  language: lzh
+  text: 擧案當日敬如賓黔婁自合忘其貧悔殺伯宗昧所戒不把牛衣藏一身遙憐驥子學語時懷祖膝上成短詩只應今夜長安月獨向閨中空自悲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謫居思家
+  author: 權健
+  language: lzh
+  text: 擧案當日敬如賓。黔婁自合忘其貧。悔殺伯宗昧所戒。不把牛衣藏一身。遙憐驥子學語時。懷祖膝上成短詩。只應今夜長安月。獨向閨中空自悲。
+korean:
+  title: 귀양가서 집을 생각하며
+  author: 권건
+  language: kor
+  text: |
+    내 아내 밥상 들 제 손님처럼 공경했으니
+    금루가 절로 가난을 잊었을 수밖에
+    백종이 평소의 경계를 잊어버려
+    쇠덕석으로 한 몸 가리지 못한 것 후회하누나
+    애처로워라, 손자 녀석 말 배울 때에
+    할아버지 무릎에서 단시 짓던 일
+    아마도 오늘 밤 장안의 달은
+    규중만 비추어서 부질없이 슬프게 하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금루(黔婁) : '
+    value: 춘추(春秋) 때 제(齊)나라의 고사(高士). 매우 가난했으나 고절(高節)을 지켰다. 《高士傳》
+english:
+  title: 'Exile: Thoughts of Home'
+  author: Gwon Geon
+  language: eng
+  text: |-
+    When my wife lifted the serving bowl, I honored her as I would a guest—
+    and thus did Jinlou forget his poverty as naturally as breath.
+    I regret now that I lack the virtue of Bozong,
+    who kept his dignity wrapped even in ox-hair cloth.
+
+    How I pity my grandson, learning to speak,
+    composing short verses upon his grandfather's knee—
+    those days now distant as stars.
+    Tonight, the moon above Chang'an
+    shines only through the inner chamber,
+    leaving my wife to weep without purpose.
+  footnotes:
+  - key: ''
+    value: 'Jinlou (黔婁): A virtuous sage of ancient Qi during the Spring and Autumn period, remembered for maintaining noble principles despite extreme poverty.'
+  - key: ''
+    value: 'Bozong: A figure from classical Chinese literature known for his steadfast moral character even in adversity.'
+  - key: ''
+    value: 'Chang''an: The ancient capital of China, representing the seat of power and civilization from which the exiled poet is separated.'

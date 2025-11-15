@@ -1,0 +1,48 @@
+canonical:
+  title: 韓相國江居
+  author: 李仁老
+  language: lzh
+  text: 鑿破雲根構小樓江山無限入簾鉤謝公不惜千金費范相應將一舸遊二水溶溶分燕尾三山杳杳隔鼇頭他年若許陪鳩杖共向滄洲狎白鷗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 韓相國江居
+  author: 李仁老
+  language: lzh
+  text: 鑿破雲根構小樓。江山無限入簾鉤。謝公不惜千金費。范相應將一舸遊。二水溶溶分燕尾。三山杳杳隔鼇頭。他年若許陪鳩杖。共向滄洲狎白鷗。
+korean:
+  title: 한상국의 강변 별장
+  author: 이인로
+  language: kor
+  text: |-
+    바위를 뚫어내고 작은 다락을 얽었는데
+    무한한 강산이 발갈퀴에 들어오누나
+    사공은 천금 비용을 아끼지 않았네
+    범상이 응당 쪽배 타고 노닐리로다
+    두 물이 금실금실 제비꼬리로 갈라졌고
+    세 산이 가물가물 자라머리를 격하였네
+    지팡이 뒤에 따르기를 일후에 허하시면
+    함께 바다로 가서 갈매기와 친하오리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0270&viewSync=OT
+  footnotes: []
+english:
+  title: The River Residence of Minister Han
+  author: Lee Inro
+  language: eng
+  text: |-
+    Carved through stone, a modest tower rises high,
+    Infinite landscapes drawn through window-frames.
+    Xie Gong spared no gold for this retreat,
+    Fan Rang shall sail these waters light of heart.
+
+    Two rivers shimmer, splitting like a swallow's tail,
+    Three mountains shimmer, parting at the crane's crown.
+    Should fortune grant me years to lean upon a staff,
+    I'll wander these blue waters, befriend the gulls with you.
+  footnotes:
+  - key: ''
+    value: Xie Gong and Fan Rang are classical references to famous patrons of elegant retreats and hermit sages in Chinese history.
+  - key: ''
+    value: The 'swallow's tail' and 'crane's crown' are classical poetic descriptions of water and mountain formations.
+  - key: ''
+    value: The final couplet expresses the poet's hope to spend his later years in peaceful communion with nature at this riverside dwelling.

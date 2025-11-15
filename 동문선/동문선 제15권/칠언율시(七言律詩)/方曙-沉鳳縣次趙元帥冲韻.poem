@@ -1,0 +1,47 @@
+canonical:
+  title: 沉鳳縣次趙元帥冲韻
+  author: 方曙
+  language: lzh
+  text: 石棧高高信轡行溪巒盡處有殘城柘閒煙羃蝸廬小木末天低鳥道橫滿壑煙霞成畫態一區風月動詩情我來數日留孤館水色山光入夢淸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 沉鳳縣次趙元帥冲韻
+  author: 方曙
+  language: lzh
+  text: 石棧高高信轡行。溪巒盡處有殘城。柘閒煙羃蝸廬小。木末天低鳥道橫。滿壑煙霞成畫態。一區風月動詩情。我來數日留孤館。水色山光入夢淸。
+korean:
+  title: 침봉현에서 조충 원수의 시에 차운하여
+  author: 방서
+  language: kor
+  text: |-
+    높디높은 돌 잔도를 고삐 늦추고 가노라니
+    시내와 봉이 다한 곳에 성터가 남아있네
+    뽕나무 사이 자욱한 내 속에 달팽이 같은 오막집들
+    나무 끝 나직한 하늘에 새길이 비꼈구나
+    골에 가득한 이내는 그림폭을 대하는 듯
+    한 구역 풍월은 시정을 자아내네
+    내 며칠 동안 외로운 관에 묵느라니
+    산빛과 물빛이 꿈에 들어 산뜻하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: Responding to Zhao the Commander's Rhymes at Chenfeng County
+  author: Fang Shu
+  language: eng
+  text: |-
+    High, high rises the stone plank road—I slacken rein and drift along.
+    Where stream and ridge cease, ancient walls remain.
+    Through mulberry groves, mist coils thick around snail-shell hovels small,
+    While bird-paths crisscross where the treetops touch the lowering sky.
+    The gorge brimmed full with clouds and haze transforms to painted scroll,
+    One corner blessed by wind and moon awakens poet's heart.
+    These days I linger in this lonely hall,
+    And mountain light and water's gleam seep clean into my dreams.
+  footnotes:
+  - key: ''
+    value: The poem is written in response to (次韻) another poem by Zhao, a military commander, following the same rhyme scheme as the original work.
+  - key: ''
+    value: Stone plank roads (棧) were ancient pathways carved into cliff faces, particularly common in mountainous regions of China.
+  - key: ''
+    value: The imagery of ruins and natural scenery suggests the speaker's meditation on transience and the passage of time.

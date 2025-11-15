@@ -1,0 +1,47 @@
+canonical:
+  title: 過棧道
+  author: 金時習
+  language: lzh
+  text: 山勢縈回水自斜炊烟起處有人家風前燕子簸微淥雨後鳧雛踏細沙列岫遠遮千里眼斷橋遙傍一川花早知行旅情無奈爭似優游度歲華
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過棧道
+  author: 金時習
+  language: lzh
+  text: 山勢縈回水自斜。炊烟起處有人家。風前燕子簸微淥。雨後鳧雛踏細沙。列岫遠遮千里眼。斷橋遙傍一川花。早知行旅情無奈。爭似優游度歲華。
+korean:
+  title: 과 잔도
+  author: 김시습
+  language: kor
+  text: |-
+    산 형세는 빙돌고 물은 가로 질렀는데
+    밥하는 연기 이는 곳에 사람 사는 집이 있더라
+    바람 앞의 제비는 보슬비를 키질하는데
+    비온 뒤의 오리새끼는 가는 모래밭을 밟는다
+    벌레 있는 산봉우리는 멀리 천리의 눈을 막고
+    끊어진 다리는 멀리 한 시냇가의 꽃 곁에 있구나
+    나그네의 정을 어찌할 수 없음을 일찍 알았거니
+    어찌 하는 일 없이 세월을 보내는 것 만이야 하랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0920&viewSync=OT
+  footnotes: []
+english:
+  title: Crossing the Plank Road
+  author: Kim Siseup
+  language: eng
+  text: |-
+    Mountains curve and wind back; waters slip askew.
+    Where cooking smoke rises, there dwells a home.
+    Before the wind, swallows winnow the fine mist—
+    After rain, duckling chicks tread the delicate sand.
+
+    Distant peaks with their ridges block the thousand-mile view.
+    A broken bridge leans beside the flowers of one ravine.
+
+    Long have I known the traveler's heart cannot be soothed,
+    So why not simply spend the years in leisured ease?
+  footnotes:
+  - key: ''
+    value: The 'plank road' likely refers to a precarious mountain passage, symbolizing life's difficult journey
+  - key: ''
+    value: The contrast between the vivid natural details of the first quatrain and the philosophical resignation of the final couplet reflects the poet's meditation on acceptance versus struggle

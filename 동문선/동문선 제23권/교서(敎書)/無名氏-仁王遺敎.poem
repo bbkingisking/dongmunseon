@@ -1,0 +1,39 @@
+canonical:
+  title: 仁王遺敎
+  author: 無名氏
+  language: lzh
+  text: 敎內外文武百僚等朕荷皇天之眷命承祖宗之遺休撫有三韓二十五載今者憂勤積久疾恙累旬有加無瘳遂至大漸王太子 毅王諱 忠孝之美天資夙成德業之豊人望攸屬可卽王位尊王妣爲太后喪服以日易月山陵制度務從儉約於戱有生必死聖智所同文虎百僚同心協德輔我元子永康王家咨爾在庭當體予意主者施行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仁王遺敎
+  author: 無名氏
+  language: lzh
+  text: 敎內外文武百僚等。朕荷皇天之眷命。承祖宗之遺休。撫有三韓。二十五載。今者憂勤積久。疾恙累旬。有加無瘳。遂至大漸。王太子 毅王諱。 忠孝之美。天資夙成。德業之豊。人望攸屬。可卽王位。尊王妣爲太后。喪服以日易月。山陵制度。務從儉約。於戱。有生必死。聖智所同。文虎百僚。同心協德。輔我元子。永康王家。咨爾在庭。當體予意。主者施行。
+korean:
+  title: 인왕 유교
+  author: 무명씨
+  language: kor
+  text: 내외 문무 백관 등에게 교(敎)한다.짐이 하늘의 돌보심을 받아 조종의 남긴 기업을 이어서 삼한을 다스린 지가 25년이 되었다. 이제 근심하고 근로한 것이 오래 쌓여서 병이 든 지 수십 일이 되었다. 더함은 있고 차도는 없어서 드디어 위독한 지경에 이르렀다. 왕태자 의왕(毅王)의 휘(諱) 는 충효(忠孝)의 아름다움은 하늘로부터 타고 났고, 덕업의 풍부함은 인망(人望)이 쏠리는 바이니, 왕위에 오르는 것이 마땅하다.왕비를 높이어 태후로 삼고, 상복은 날짜로써 달을 바꾸고, 산릉 제도는 힘써 검약한 것을 따르라. 아아, 삶이 있으면 반드시 죽는 것은 성인과 지혜 있는 이도 같은 것이니, 문무 백관은 마음을 같이하고 덕을 합하여 우리 원자(元子)를 도와서 길이 왕실을 편안하게 할지어다. 슬프다, 뜰에 있는 신하들은 마땅히 내 뜻을 알아서 주장하는 자가 시행하라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0260_020_0080&viewSync=OT
+  footnotes: []
+english:
+  title: The Dying King's Legacy
+  language: eng
+  text: |-
+    To all civil and military officials, inner and outer court:
+
+    I have been blessed by Heaven's favor and have inherited the great works of my ancestors. For twenty-five years I have governed the Three Hans. Yet now, worn by ceaseless care and labor, illness has seized me these many days. No remedy brings relief—I have fallen into the shadow of death.
+
+    My heir, the Crown Prince Uiwang, embodies the virtue of filial devotion, a gift from Heaven itself. His moral character commands the hearts of all people. Therefore, let him ascend to the throne. Elevate the Queen to the rank of Grand Empress. Let the period of mourning be shortened—count days as months. In all funeral rites and tombs, observe frugality.
+
+    Hear me: life brings death to all alike—this truth binds sage and fool as one. All you officials, civil and military, must unite your hearts and combine your virtue. Support my son, the Crown Prince, that he may preserve and secure the royal house for ten thousand generations.
+
+    I speak to those gathered here: let each of you understand my wishes and carry out these commands faithfully.
+  footnotes:
+  - key: ''
+    value: The 'Three Hans' (三韓) refers to the traditional territories of the Korean peninsula—Goguryeo, Baekje, and Silla—here used poetically to represent the unified kingdom.
+  - key: ''
+    value: This appears to be a death edict or testamentary proclamation, a literary form common in East Asian royal courts during moments of succession.
+  - key: ''
+    value: The compression of mourning time—'count days as months'—reflects both Buddhist influence and practical governance concerns during a vulnerable transition period.

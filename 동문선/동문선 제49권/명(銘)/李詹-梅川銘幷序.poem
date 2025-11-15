@@ -1,0 +1,42 @@
+canonical:
+  title: 梅川銘幷序
+  author: 李詹
+  language: lzh
+  text: 河浩甫所居里曰梅川因以爲號請銘於余者數矣謹爲之銘銘曰有粲者梅有水縈迴塵坱伊阻天心所肧玉牎皓月雪梅陽春誰如其仁我懷斯人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 梅川銘幷序
+  author: 李詹
+  language: lzh
+  text: 河浩甫所居里曰梅川。因以爲號。請銘於余者數矣。謹爲之銘。銘曰。有粲者梅。有水縈迴。塵坱伊阻。天心所肧。玉牎皓月。雪梅陽春。誰如其仁。我懷斯人。
+korean:
+  title: 매천명 병서
+  author: 이첨
+  language: kor
+  text: 하호보(河浩甫)가 사는 동리 이름이 매천이므로 그것으로 호(號)를 하고 명(銘)을 나에게 청하기를 여러 번 있었다. 삼가 명을 지었으니 명(銘)에 이르기를,어여쁘다 저 매화나무여, 흐르는 물이 둘러 있어 먼지 티끌이 멀어졌으려니와 천연(天然)으로 꽃망울 맺었구나. 옥창(玉窓)에 흰 달이요. 눈속 매화 봄이로다. 누가 그 인과 같으랴. 나는 이런 사람을 그리워 하노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0390&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on Maechen with Preface
+  author: Lee Cham
+  language: eng
+  text: |-
+    The hamlet where Ha Ho-bo makes his dwelling is called Maechen. He has taken this as his pen name. He has requested an inscription from me many times. I have respectfully composed this inscription:
+
+    The inscription says:
+    How fair, that plum tree there,
+    With waters winding round its roots.
+    Though dust and grime are kept at bay,
+    Nature's own buds form in silence.
+    Through jade-framed windows, moonlight falls so white,
+    Snow-laden plums herald the spring.
+    Who could match such virtue?
+    I long for one with such a heart.
+  footnotes:
+  - key: ''
+    value: Maechen (梅川) literally means 'Plum Stream,' combining the characters for plum and water.
+  - key: ''
+    value: The plum tree (mei) serves as a traditional symbol of integrity and refinement in East Asian poetry, often representing the scholar-gentleman.
+  - key: ''
+    value: The 'jade-framed windows' evoke the refined domestic space and cultivated aesthetic sensibility of the subject.

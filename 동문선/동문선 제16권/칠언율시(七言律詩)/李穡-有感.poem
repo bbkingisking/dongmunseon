@@ -1,0 +1,51 @@
+canonical:
+  title: 有感
+  author: 李穡
+  language: lzh
+  text: 先生未必是淸流白髮蕭然獨倚樓晉相自尊寧仕宋韓仇已報可封留赤松欝欝寒雲晚碧柳依依細雨秋畢竟安心無寸地每從天際望歸舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 有感
+  author: 李穡
+  language: lzh
+  text: 先生未必是淸流。白髮蕭然獨倚樓。晉相自尊寧仕宋。韓仇已報可封留。赤松欝欝寒雲晚。碧柳依依細雨秋。畢竟安心無寸地。每從天際望歸舟。
+korean:
+  title: 유감
+  author: 이색
+  language: kor
+  text: |-
+    선생이 반드시 청류도 아니거니
+    백발로 쓸쓸히 혼자 다락에 올랐네
+    진나라 재상 자존하거니 어이 송에 벼슬하리
+    한의 원수를 갚았으니 유에 봉하리로다
+    빽빽한 소나무 저녁 무렵에 찬 구름
+    하늘하늘 푸른 버들에 가을날 가랑비
+    필경 이 마음 편안할 곳 없으니
+    하늘 가 돌아가는 배만 바라보고 섰노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0720&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진(晋)나라 재상 …… 벼슬하리 : '
+    value: 도연명(陶淵明)은 진(晋)나라 재상 도간(陶侃)의 자손으로서 진(晋)을 빼앗은 송(宋)에 몸을 굽히기를 부끄러워하였다.
+  - key: '[주-D002] 한(韓)의 원수를 …… 봉(封)하리로다 : '
+    value: 장량(張良)은 본시 한(韓)의 세족(世族)으로 나라의 원수를 갚으려 진(秦)에 대항하여 일어났다가 한 고조(漢高祖)를 만나 진을 멸하고 나중에 유후(留侯)로 봉해졌다.
+english:
+  title: A Reflection
+  author: Lee Saek
+  language: eng
+  text: |-
+    I am no purveyor of pristine virtue—
+    white-haired and forlorn, I climb alone to the tower.
+    A Jin minister guards his name; why would I serve the Song?
+    For Han's old wound avenged, I might receive a fief.
+    Pine groves dense and dark beneath the evening cold,
+    willows swaying soft as autumn rain falls thin.
+    Yet in the end, my heart finds no resting place—
+    I stand only watching for a boat returning from heaven's edge.
+  footnotes:
+  - key: ''
+    value: The poem alludes to Tao Yuanming, a descendant of the Jin minister Tao Kan, who refused to serve the usurping Song dynasty out of loyalty to Jin.
+  - key: ''
+    value: The reference to 'Han's wound avenged' invokes Zhang Liang, who opposed the Qin on behalf of the Han and was later enfeoffed as Marquis of Liu after Han's triumph.
+  - key: ''
+    value: The 'boat returning from heaven's edge' suggests both a longing for spiritual return and perhaps the author's yearning for a righteous path amid political compromise.

@@ -1,0 +1,37 @@
+canonical:
+  title: 題
+  author: 姜希顔
+  language: lzh
+  text: 白放天寒暮黃肥雨細時看兄一生事太早亦遲遲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題
+  author: 姜希顔
+  language: lzh
+  text: 白放天寒暮。黃肥雨細時。看兄一生事。太早亦遲遲。
+korean:
+  title: 매화를 읊어 서강중의 사가정에 제
+  author: 강희안
+  language: kor
+  text: |-
+    하늘 차고 저물 때에 흰 매화 터지고
+    가랑비 뿌릴 때 누른 매실 살찌네
+    형의 일생 일을 내가 보노니
+    너무 이르고 또한 더디고 더디어라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0660&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 형 : '
+    value: 시인(詩人)들이 매화를 매형(梅兄)이라고 쓰는데, 이것은 황정견(黃庭堅)의 〈수선화(水仙花)〉 시(詩)에, “산반화는 아우요, 매화는 형이다[山礬是弟 梅是兄].”한 데서 나온 것이다.
+english:
+  title: On the Plum Blossoms
+  author: Kang Hee-ahn
+  language: eng
+  text: |-
+    White blossoms burst when heaven turns cold at dusk,
+    Yellow fruits grow plump as fine rain gently falls.
+    Watching my elder brother's journey through this life—
+    Sometimes too swift, sometimes too slow, endlessly slow.
+  footnotes:
+  - key: ''
+    value: The plum blossom is addressed as 'elder brother' following the classical conceit that the plum is the elder sibling among flowers, while other blossoms are younger. This usage derives from Huang Tingjian's poem on the narcissus, which established this poetic kinship.

@@ -1,0 +1,54 @@
+canonical:
+  title: 寶石亭
+  author: 李仁老
+  language: lzh
+  text: 石虎宮中荊棘生銅馳陌上無人行危亭寶石半零落殘月依依照古城當時絲管盡悽咽泛泛金觴隨曲折中流空惜魏山河醉鄕不管陳日月
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寶石亭
+  author: 李仁老
+  language: lzh
+  text: 石虎宮中荊棘生。銅馳陌上無人行。危亭寶石半零落。殘月依依照古城。當時絲管盡悽咽。泛泛金觴隨曲折。中流空惜魏山河。醉鄕不管陳日月。
+korean:
+  title: 보석정
+  author: 이인로
+  language: kor
+  text: |-
+    석호 궁전 안에 가시가 나고
+    강타 언덕 위에는 다니는 사람이 없었다
+    우뚝히 선 보석정이 반이나 허물어졌는데
+    희미한 남은 달이 묵은 성에 걸려 있다
+    그 당시에 풍악들은 모두 슬피 목메는데
+    띄우는 금 술잔은 곡수(유상곡수(流觴曲水)) 따라 흩렀거니
+    중류에는 속절없이 위나라의 산하가 아까운데
+    술에 취한 천지에는 진나라 일월이 관계 없었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 석호(石虎) …… 나고 : '
+    value: 남북조(南北朝) 시대에 후조(後趙) 임금 석호(石虎)가 궁전에서 큰 잔치를 베풀었는데 중[僧] 불도증(佛圖證)이 읊조리기를, “전(殿)이여, 전이여, 가시[棘]가 숲을 이루어 장차 사람의 옷을 찢으리로다.” 하므로 석호가 사람을 시켜 궁전의 돌 밑을 파보니 가시가 나 있었다. 석호의 수양손(收養孫) 염민(冉閔)의 아명(兒名)이 극노(棘奴)인데, 후일에 석호의 자손이 모두 염민의 손에 죽음을 당하였다.
+  - key: '[주-D002] 중류(中流)에는 …… 아까운데 : '
+    value: 전국 시대에 위 무후(魏武侯)가 하수(河水)에서 배를 타고 내려 가다가 중류(中流)에서 좌우의 산천을 돌아 보고, “산천이 장(壯)하구나 이것은 위국(魏國)의 보배로다.” 하니, 오기(吳起)가 대답하기를, “〈국가가 오래 가는 것은〉 덕(德)에 있는 것이요, 산천에 있는 것이 아닙니다.” 하였다.
+  - key: '[주-D003] 술에 …… 없었다 : '
+    value: 진(陳)나라 후주(後主)가 주색(酒色)에 빠져서 밤낮으로 음탕하게 놀기만 하다가 나라를 망쳤다.
+english:
+  title: The Jeweled Pavilion
+  author: Lee In-ro
+  language: eng
+  text: |-
+    In Stone Tiger's palace, thorns now grow,
+    Along the bronze-lined paths, no footsteps go.
+    The jeweled tower stands in ruin, half-decayed,
+    A pale moon lingers where the ancient city fades.
+
+    Once there were songs and music, all now cry,
+    Gold cups floated down the winding waterway.
+    In the river's heart, an empire's strength grows dear,
+    Yet drunken heavens heed no dawn or year.
+  footnotes:
+  - key: ''
+    value: Stone Tiger's palace refers to the court of the Later Zhao ruler Shi Hu, where thorns were prophetically discovered underground, foreshadowing the fall of his dynasty to Ran Min.
+  - key: ''
+    value: The winding waterway alludes to the ancient ritual of 'floating cups along curved channels,' a refined entertainment at court banquets.
+  - key: ''
+    value: The final couplet evokes both the Wei lord who valued his mountains and rivers, and the Late Chen emperor who lost his realm to wine and pleasure.

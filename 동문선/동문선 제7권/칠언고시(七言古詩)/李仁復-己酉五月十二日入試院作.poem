@@ -1,0 +1,48 @@
+canonical:
+  title: 己酉五月十二日入試院作
+  author: 李仁復
+  language: lzh
+  text: 高堂下瞰淵魚行白袍滿前吟嘯聲筆床硯枯日影橫閉戶絶餉防漏透恐渠苦心成大瘦大官無羊唯腐豆御史監試來乘騘問誰冬烘一禿翁得酒更慚雙頰紅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 己酉五月十二日入試院作
+  author: 李仁復
+  language: lzh
+  text: 高堂下瞰淵魚行。白袍滿前吟嘯聲。筆床硯枯日影橫。閉戶絶餉防漏透。恐渠苦心成大瘦。大官無羊唯腐豆。御史監試來乘騘。問誰冬烘一禿翁。得酒更慚雙頰紅。
+korean:
+  title: 기유년 5월 12일 시원에 들어가 동파 운을 쓰면서
+  author: 이인복
+  language: kor
+  text: |-
+    높은 당 위에서 굽어보니 연못의 고기처럼 줄지어 섰네
+    흰 도포[과거보는 선비의 옷]가 앞에 그득한데 읊는 소리 휘파람 소리
+    붓꽂이에 벼루는 마르고 해 그림자는 비꼈다
+    문 닫고 바깥 음식 막는 것은 누설을 막아서지만
+    저의 고심 이러다간 너무 여윌까 걱정이다
+    태관(나라에 음식을 공급하는 관청)에 양육 없고 오직 두부 반찬이다
+    어사가 감시하려 총마 타고 오더니
+    흐리멍텅한 한 늙은 첨지에게 누구냐고 물으니
+    술을 얻어 마신 차에 더 부끄러워 두 볼이 벌개진다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0100_010_0230&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 기유년 …… 짓다 : '
+    value: 이때 시관(試官)은 작자며 이 시는 3운이 1절이다.
+english:
+  title: Composed at the Examination Hall on the Twelfth Day of the Fifth Month in the Year of己酉
+  author: Lee In-bok
+  language: eng
+  text: |-
+    From the high pavilion I gaze down—candidates lined like fish in a pond,
+    White robes crowding before me, their recitations and whistling voices.
+    Brushes stand in their holders, the inkstone dries as shadows lengthen.
+    We seal the gates, cut off outside provisions to prevent leaks,
+    Yet I fear this cruel fast will waste him away to nothing.
+    The royal kitchens offer no mutton, only fermented beans for sustenance.
+    Here comes the censor on horseback to oversee our ordeal—
+    Asking of some dull old scribe, "Who is this?"
+    When given wine to drink, his shame deepens all the more,
+    And his cheeks burn red with embarrassment.
+  footnotes:
+  - key: ''
+    value: The author served as examiner (試官) during this examination. This poem follows a three-rhyme structure per stanza, typical of regulated verse composition.

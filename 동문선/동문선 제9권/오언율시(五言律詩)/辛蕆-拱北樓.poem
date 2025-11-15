@@ -1,0 +1,47 @@
+canonical:
+  title: 拱北樓
+  author: 辛蕆
+  language: lzh
+  text: 井邑山川好居民尙太初坐賓前內翰牧伯舊中書松櫟千峯秀桑麻四野虛倚欄吟未已林鳥苦催予
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 拱北樓
+  author: 辛蕆
+  language: lzh
+  text: 井邑山川好。居民尙太初。坐賓前內翰。牧伯舊中書。松櫟千峯秀。桑麻四野虛。倚欄吟未已。林鳥苦催予。
+korean:
+  title: 공북루
+  author: 신천
+  language: kor
+  text: |-
+    고을과 산천이 좋은데
+    주민들 아직도 태고의 풍속
+    좌상의 손님들은 전의 내한
+    목사님은 옛날 중서성 고관
+    소나무 떡갈나무 빼어난 천봉
+    뽕이랑 삼[麻]이랑 헌칠한 벌판
+    난간에 의지하여 시 읊으려니
+    수풀에 새들이 "짹짹" 어서 지으라고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0860&viewSync=OT
+  footnotes: []
+english:
+  title: The Tower of Reverent North
+  author: Shin Cheon
+  language: eng
+  text: |-
+    The county and its mountains are fair,
+    The people still hold to ancient ways.
+    The Left Minister's guests sit within,
+    The magistrate, once a court official of old.
+    Pine and oak crown a thousand peaks in beauty,
+    While mulberry and hemp stretch across empty fields.
+    Leaning on the railing, I compose my verse,
+    But the birds in the woods cry out—make haste, they urge.
+  footnotes:
+  - key: ''
+    value: The 'Left Minister' (좌상) and references to 'Inner Scribe' (내한) and 'Ministry of Personnel' (중서성) reflect the administrative hierarchy of classical Korean governance, suggesting the tower overlooks a place of some political significance.
+  - key: ''
+    value: The juxtaposition of 'ancient ways' persisting among common people with the presence of high officials suggests a tension between timeless rural life and the ephemeral passage of authority.
+  - key: ''
+    value: The birds' urgent cries at the poem's end transform a moment of poetic inspiration into something almost comedic—nature itself demanding the poet's attention rather than affording him leisurely contemplation.

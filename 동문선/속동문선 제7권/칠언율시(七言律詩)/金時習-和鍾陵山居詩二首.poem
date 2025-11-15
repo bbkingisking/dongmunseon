@@ -1,0 +1,66 @@
+canonical:
+  title: 和鍾陵山居詩二首
+  author: 金時習
+  language: lzh
+  text: 四美年年到處兼溪光山色映蓬簾藥園鹿戲何曾慍茶竈菌生亦不嫌萬事省來貧是樂一身閑了老非厭笑看塵世悠悠者無太麤踈便太纖人間變態薄於紗端合歸來卧碧霞老境病蟬藏翳葉人生秋蝶寄浮槎風前細細飛松子雲外毿毿落桂花莫道道人嚥沆瀣岩邊春雨種胡麻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和鍾陵山居詩二首
+  author: 金時習
+  language: lzh
+  text: 四美年年到處兼。溪光山色映蓬簾。藥園鹿戲何曾慍。茶竈菌生亦不嫌。萬事省來貧是樂。一身閑了老非厭。笑看塵世悠悠者。無太麤踈便太纖。人間變態薄於紗。端合歸來卧碧霞。老境病蟬藏翳葉。人生秋蝶寄浮槎。風前細細飛松子。雲外毿毿落桂花。莫道道人嚥沆瀣。岩邊春雨種胡麻。
+korean:
+  title: 화 종릉산거 시 이수
+  author: 김시습
+  language: kor
+  text: |-
+    해마다 사미를 도처에서 겸했거니
+    개울빛과 산빛이 쑥대 발에 비치네
+    약초밭에 사슴이 장난친다고 성낼 것 있나
+    차 달이는 부엌에 버섯이 나도 싫어하지 않는다
+    만사를 자세히 보면 가난도 바로 즐거움이요
+    한 몸이 한가하면 늙음도 싫어할 것 이니어니
+    웃으며 티끌 세상의 유유함을 보나니
+    너무 굵지 않으면 곧 너무 가늘더라
+    인간의 변하는 꼴은 비단보다 얇거니
+    끝내 돌아와 푸른 놀 속에 눕는 것이 옳도다
+    늙은 경우는 병든 매미라 어둑한 잎에 숨어야 하고
+    인생은 가을 나비라 뜬 떼배에 붙여야 하네
+    바람 앞에는 추룩추룩 솔방울이 날고
+    구름 밖에는 뚝뚝 계수꽃이 떨어진다
+    도인은 항해를 먹는다고 말하지 말라
+    바위 곁의 봄비에 깨를 심느니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0840&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 사미(四美) : '
+    value: 좋은 때[良辰], 아름다운 경치[美景], 마음에 유쾌한 것[賞心], 즐거운 일[案事]을 사미라 한다.
+english:
+  title: Two Poems in Response to a Mountain Dwelling at Jongneung
+  author: Kim Si習
+  language: eng
+  text: |-
+    The four beauties arrive each year at every turn,
+    Creek light and mountain hue reflect on my rustic curtain.
+    Why scold the deer at play in the medicinal garden?
+    Mushrooms rising by the tea-fire—I harbor no disdain.
+    When all things are examined closely, poverty itself becomes joy;
+    When this body finds leisure, old age holds nothing to despise.
+    I laugh watching the fleeting world drift on,
+    Yet find that not too coarse becomes too fine.
+
+    Human form transforms, thinner than silk itself—
+    At last I return to rest in the green mist.
+    Old age: a cicada grown sick, hiding in shadowed leaves;
+    Life: an autumn butterfly, clinging to a drifting raft.
+    Before the wind, pine seeds fall one by one,
+    Beyond the clouds, cinnamon flowers drop ceaselessly.
+    Say not that the Way-seeker drinks only the morning dew—
+    By the stone, in spring rain, I plant sesame seeds.
+  footnotes:
+  - key: ''
+    value: The 'four beauties' (四美) refers to the propitious time, beautiful scenery, delighted heart, and joyful affairs—the ideal conditions for a contemplative life.
+  - key: ''
+    value: The imagery of the cicada and butterfly reflects the Buddhist-influenced philosophical melancholy common in late Goryeo and early Joseon literati circles.
+  - key: ''
+    value: The final image of planting sesame by the stone suggests that even the spiritual recluse remains engaged with the natural world and its sustenance.

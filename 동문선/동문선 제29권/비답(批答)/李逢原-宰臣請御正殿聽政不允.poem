@@ -1,0 +1,33 @@
+canonical:
+  title: 宰臣請御正殿聽政不允
+  author: 李逢原
+  language: lzh
+  text: 敎某等省所上表請御正殿聽政事具悉昔者高宗宅憂亮陰三祀旣免喪其惟不言三年之喪先王制禮之中天下之通制也夫以日易月爲人子者所不忍也而近世行之猶可痛焉者耳朕惟萬事之統不可不勉雖在亮陰之中時或聽之在於朕心竊自傷悼况乃臨御正殿視聽如常非朕所以孝親之至誠而其與免喪不言之意顧如何哉所請宜不允
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宰臣請御正殿聽政不允
+  author: 李逢原
+  language: lzh
+  text: 敎某等。省所上表請御正殿聽政事具悉。昔者高宗。宅憂亮陰三祀。旣免喪。其惟不言。三年之喪。先王制禮之中。天下之通制也。夫以日易月。爲人子者。所不忍也。而近世行之。猶可痛焉者耳。朕惟萬事之統。不可不勉。雖在亮陰之中。時或聽之。在於朕心。竊自傷悼。况乃臨御正殿。視聽如常。非朕所以孝親之至誠。而其與免喪不言之意。顧如何哉。所請宜不允。
+korean:
+  title: 재신청어 정전청정 불윤
+  author: 이봉원
+  language: kor
+  text: 모(某) 등에게 교(敎)하노라. 올린 바의 표(表)를 살펴보고서 정전(正殿)에 앉아서 정사하기를 청한 것은 잘 알아들었다. 옛날 고종(高宗)이 상을 당해서 삼년간 양음(亮陰)하였으며, 이미 상을 벗고도 말을 하지 아니하였다. 3년상이란 선왕이 예(禮)를 중도(中道)로 제정한 것으로, 천하에 통행하는 제도다. 대개 날 수로써 달 수를 계산하는 것은 자식된 자로서는 차마 하지 못할 것인데, 근세에는 모두들 그렇게 하니 가히 통탄스러운 일이다. 짐이 생각하건대, 온갖 정무를 통섭하지 아니할 수 없으므로 비록 양음중에 처했어도 때로는 혹 일을 보아야 하나, 짐이 마음에 있어서는 몹시 상심스럽다. 그런데 하물며 정전에 임어하여 시청(視聽)을 평상시와 같이 하는 것은, 어버이에게 효도하는 짐의 지성이 아닐 뿐 아니라, 상(喪)을 벗고도 말하지 않은 고종의 뜻과 비교해서 어떻다 하겠는가. 청한 바는 마땅히 윤허하지 아니하겠노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0320_020_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 고종(高宗)이 …… 양음(亮陰)하였으며 : '
+    value: 옛날 임금이 삼년 거상(居喪)하는 동안에는 말하지 않고[諒陰] 정사는 대신에게 맡긴다는 것인데, 은(殷)나라 고종(高宗)이 그러하였다 한다. 《서경(書經)》
+  - key: '[주-D002] 3년상이란 …… 제도다 : '
+    value: 3년을 넘으면 너무 길고 3년이 못 되면 너무 짧다. 그러므로 3년상이 중도(中道)가 되는 것이다.
+english:
+  title: The Edict Declining the Ministers' Request to Govern from the Main Hall During Mourning
+  author: Lee Bong-won
+  language: eng
+  text: I make this edict to you all. I have fully received your memorial requesting that I take the throne in the main hall to conduct affairs of state. In ancient times, the High Ancestor endured three years of mourning silence, and even after the period of mourning ended, he spoke no word. The three-year mourning is the middle way prescribed by the former kings in their rites—the universal law observed throughout the realm. For one to reckon the months by counting days betrays the heart that a son must keep. Though this practice has become common in recent times, it remains a cause for lament. I reflect that the governance of all matters cannot be left unattended, and thus even during mourning silence, there are times I must attend to affairs. Yet my heart grieves deeply. How much more so would it be to ascend the main hall and conduct my vision and hearing as in ordinary times? This would not manifest the utmost sincerity of my filial piety toward my parents. Moreover, how could it accord with the spirit of the High Ancestor, who spoke not even after mourning's end? Therefore, your request must be denied.
+  footnotes:
+  - key: ''
+    value: 'Liang Yin (諒陰): the practice of a ruler observing three years of complete mourning silence while delegating all state affairs to ministers, as exemplified by the High Ancestor according to the Book of Documents.'
+  - key: ''
+    value: The three-year mourning represents the 'middle way' (中道)—not so brief as to seem disrespectful, nor so prolonged as to burden the realm.

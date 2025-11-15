@@ -1,0 +1,50 @@
+canonical:
+  title: 書懷
+  author: 張天翼
+  language: lzh
+  text: 八旬雙鶴老家鄕五馬歸寧興更長壽酒獻來霞液溢班衣舞處錦筵香身閑正好醉花塢世治何妨卧草堂欲向淸江垂直釣白頭他日遇文王
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書懷
+  author: 張天翼
+  language: lzh
+  text: 八旬雙鶴老家鄕。五馬歸寧興更長。壽酒獻來霞液溢。班衣舞處錦筵香。身閑正好醉花塢。世治何妨卧草堂。欲向淸江垂直釣。白頭他日遇文王。
+korean:
+  title: 서회
+  author: 장천익
+  language: kor
+  text: |-
+    늙으신 팔순 양친께서 고향에
+    오마(태수(太守))로 뵈오러 오니 흐뭇하구나
+    수주를 드리니 하액이 넘치는 듯
+    반의로 춤추는 곳에 비단 자리 향기롭네
+    한가한 몸이 꽃밭에서 취함도 좋으리라
+    태평한 세상에 초당에 누운들 어떠리
+    맑은 강에 나가 곧은 낚시 드리우려 하노니
+    후일에 머리 세어서 문왕을 만나고저
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0790&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections Written from the Heart
+  author: Zhang Tianyi
+  language: eng
+  text: |-
+    At eighty years old, my parents return to their native home,
+    And my joy at their homecoming grows ever deeper.
+    When I present the wine for their long life,
+    The nectar seems to overflow like rosy clouds.
+    In their silk-robed dance, the banquet hall grows fragrant,
+    My idle body finds bliss drunk among the flowers,
+    What harm in resting in a simple grass pavilion
+    When the world itself is at peace?
+    I long to cast my line straight into the clear river,
+    And one day, when my hair has turned white,
+    I hope to meet King Wen in that distant shore.
+  footnotes:
+  - key: ''
+    value: The Five Horses (五馬) refers to the traditional rank of provincial governor; the poet's parents have returned home in honored retirement.
+  - key: ''
+    value: Ban Yi (班衣) refers to the robes of an official in retirement, worn during celebrations.
+  - key: ''
+    value: King Wen (文王) is an allusion to virtuous sage-rulers of antiquity, representing an ideal of peaceful governance the poet wishes to witness.

@@ -1,0 +1,56 @@
+canonical:
+  title: 次姜晉山邀津寬住持專上人詩
+  author: 李承召
+  language: lzh
+  text: 雲山昔日飽淸遊失脚紅塵三十秋無一可時常自可有三休處不曾休堪誇齒老身猶健更覺心閑境轉幽漫欲市朝成大隱故山猿鶴定相羞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次姜晉山邀津寬住持專上人詩
+  author: 李承召
+  language: lzh
+  text: 雲山昔日飽淸遊。失脚紅塵三十秋。無一可時常自可。有三休處不曾休。堪誇齒老身猶健。更覺心閑境轉幽。漫欲市朝成大隱。故山猿鶴定相羞。
+korean:
+  title: 차 강진산요 진관 주지 전상인시
+  author: 이승소
+  language: kor
+  text: |-
+    옛날 구름산에서 한껏 맑은 놀이했더니
+    홍진을 헛디디어 30년이다
+    하나도 옳은 것 없을 때에도 늘 스스로 옳다 하고
+    세 가지 쉴 곳 있는 데도 일찍 쉬지 못했다
+    나이는 늙었어도 건강한 몸이 자랑거리요
+    마음이 한가하면 경계가 그득해진다는 것을 새삼스레 깨달았다
+    부질없이 저자와 조정에서 대은되려 하였거니
+    고향 산의 원숭이와 학이 정히 부끄러워하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대은(大隱) : '
+    value: 옛날에 학문과 재주가 있으면서 세상에 나와서 벼슬길을 구하지 않는 사람을 은사(隱士)라고 하였다. 그런데 그들은 대개 산림(山林) 깊숙한 곳에 살았었다. 그러나 그 중에 특별한 인물은 하급 관료로 자진하여 일생을 보내기도 하였으니, 그것을 조은(朝隱) 혹은 관은(官隱)이라고 하였다. 또 어떤 인물은 저자에 들어가서 조그만 장사로 일생을 보내기도 하였는데, 그것을 시은(市隱)이라 하였다. 그래서 큰 은사는 조정과 저자에 숨고 [大隱隱朝市] 작은 은사는 산이나 수풀에 숨는다[小隱隱陵藪]는 말이 있었다.
+english:
+  title: In Response to Master Janggyeon of Gangjin Mountain, Abbot Jinguan and Senior Monk Jeon
+  author: Lee Seung-so
+  language: eng
+  text: |-
+    Once I wandered freely through clouded mountains,
+    Clear and unburdened in spirit.
+    But stumbling in the red dust of the world,
+    Thirty years have passed.
+
+    When nothing seemed right, I told myself it was right,
+    Though three refuges lay open, I never truly rested.
+    Now my teeth are worn, yet my body still stands strong—
+    A thing to take pride in.
+    When the mind finds stillness, the world grows deep and quiet.
+
+    Foolishly I sought to be great and hidden,
+    Working in the marketplace and serving in the court.
+    But the monkeys and cranes of my native mountains
+    Must surely laugh at such pretense.
+  footnotes:
+  - key: ''
+    value: 'The poem references the philosophical distinction between different types of hermits: those who withdraw completely to mountains (Small Hermits), and those who hide themselves within society—whether in government service (Official Hermits) or in the marketplace (Market Hermits)—representing a ''Great Hermitage'' hidden in plain sight.'
+  - key: ''
+    value: The 'three refuges' likely refers to the Buddhist triple gem (Buddha, Dharma, Sangha) or possibly three paths to spiritual cultivation.
+  - key: ''
+    value: The monkeys and cranes are classical symbols of the unspoiled natural world, contrasting with the speaker's engagement in worldly affairs.

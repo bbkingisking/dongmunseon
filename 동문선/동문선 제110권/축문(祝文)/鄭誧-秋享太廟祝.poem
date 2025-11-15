@@ -1,0 +1,39 @@
+canonical:
+  title: 秋享太廟祝
+  author: 鄭誧
+  language: lzh
+  text: 牲牢孔碩黍稷惟馨修祀以時載屬收成之節致愨卽著如聞歎息之聲惟兾正聦答以肹蠁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋享太廟祝
+  author: 鄭誧
+  language: lzh
+  text: 牲牢孔碩。黍稷惟馨。修祀以時。載屬收成之節。致愨卽著。如聞歎息之聲。惟兾正聦。答以肹蠁。
+korean:
+  title: 태묘의 추향대제 축문
+  author: 정포
+  language: kor
+  text: 생뢰(牲牢)가 매우 크고, 기장과 피[黍稷]가 향기롭습니다. 때를 따라 제사를 거행하노니, 이제 추수와 성숙의 계절이 되었습니다. 바친 정성이 곧 드러나서 조종의 신령이 흠향하시는 소리가 들리는 것 같습니다. 오직 바라옵건대, 바르신 총명이 감통(感通)하여 응답하소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0090&viewSync=OT
+  footnotes: []
+english:
+  title: Invocation for the Autumn Sacrifice at the Royal Ancestral Temple
+  author: Jung Po
+  language: eng
+  text: |-
+    The sacrificial beasts are exceeding large,
+    The millet and grain emit their fragrance.
+    We perform the rites in season's turn,
+    Now arrived at autumn's harvest time.
+
+    Our reverent offerings shine forth at once,
+    As if we hear the ancestors' pleased sigh.
+    Only do we humbly beseech—
+    Let your radiant wisdom respond,
+    That sacred communion may be fulfilled.
+  footnotes:
+  - key: ''
+    value: This is a祝文 (zhuwen), a formal invocation recited during sacrificial rites to communicate the worshippers' intentions to ancestral spirits.
+  - key: ''
+    value: The 'beasts' and 'millet and grain' refer to the traditional animal and plant offerings central to Korean ancestral veneration ceremonies.

@@ -1,0 +1,49 @@
+canonical:
+  title: 過淸虜鎭
+  author: 金希磾
+  language: lzh
+  text: 將軍杖鉞未雪恥將何面目朝天闕一奮靑蛇指馬山胡軍勢欲皆顚蹶虎賁騰拏涉五江城郭爛爲煨燼末臨杯已暢丈夫心反面無由愧汗發
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 過淸虜鎭
+  author: 金希磾
+  language: lzh
+  text: 將軍杖鉞未雪恥。將何面目朝天闕。一奮靑蛇指馬山。胡軍勢欲皆顚蹶。虎賁騰拏涉五江。城郭爛爲煨燼末。臨杯已暢丈夫心。反面無由愧汗發。
+korean:
+  title: 과 청로진
+  author: 김희제
+  language: kor
+  text: |-
+    장군은 도끼를 짚고도 부끄러움을 씻지 못했거니
+    장차 무슨 면목으로 천궐에 조회하랴
+    한 번 푸른 뱀(칼)을 휘둘러 마산을 가리키매
+    오랑캐의 군사 세력은 모두 거꾸러지려 하였다
+    호분(용사(勇士))이 날고 뛰어 다섯 강을 건너매
+    성곽은 모두 타서 잿가루가 되었다
+    잔을 들어 대장부의 마음은 이미 풀었지만
+    돌아갈 면목 없으매 부끄러워 땀흐르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Passing Through the Qing Captive Fort
+  author: Kim Hui-je
+  language: eng
+  text: |-
+    The general grasps his axe, yet shame remains unwashed—
+    With what face shall he present himself at Heaven's gate?
+    One stroke of the green serpent pointed toward Ma Mountain,
+    And the barbarian hordes seemed ready to collapse.
+    Tiger-warriors soared and leaped across five rivers,
+    Walls and bastions all reduced to ash and embers.
+    Raising the cup, a man's heart finds release—
+    But turning back with no face to show, sweat falls in shame.
+  footnotes:
+  - key: ''
+    value: 'Ma Mountain (마산): A reference to a battlefield or strategic location symbolizing military engagement.'
+  - key: ''
+    value: 'Green serpent (푸른 뱀): A poetic metaphor for the general''s sword or blade.'
+  - key: ''
+    value: 'Tiger-warriors (호분): Elite soldiers or cavalry known for their courage and prowess.'
+  - key: ''
+    value: 'Five rivers: Likely a reference to major river crossings during military campaigns, symbolizing the vastness of conquered territory.'

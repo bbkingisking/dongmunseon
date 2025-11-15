@@ -1,0 +1,48 @@
+canonical:
+  title: 淸州拱北樓
+  author: 柳淑
+  language: lzh
+  text: 北樓陪賞日東國中興初勝事將傳示新詩強自書旌旄森滿路衮黻逈臨虛此地雖云樂松山苦傒予
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 淸州拱北樓
+  author: 柳淑
+  language: lzh
+  text: 北樓陪賞日。東國中興初。勝事將傳示。新詩強自書。旌旄森滿路。衮黻逈臨虛。此地雖云樂。松山苦傒予。
+korean:
+  title: 청주 공북루
+  author: 유숙
+  language: kor
+  text: |-
+    북루에서 모시고 노는 날
+    동국 중흥의 처음이네
+    장한 일을 장차 후세에 전하려고
+    새 시를 굳이 스스로 쓰네
+    깃발은 길 그득히 늘어섰고
+    곤룡포는 높이 공중에 임하셨네
+    이 땅이 비록 즐겁다고는 하나
+    송악산이 우리를 고대하고 있네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: At the Gongbuk Pavilion in Cheongju
+  author: Yu Suk
+  language: eng
+  text: |-
+    Ascending the northern tower on this day of revelry,
+    We witness the dawn of Dongkuk's restoration.
+    Great deeds shall be passed down to ages yet unborn—
+    I am compelled to inscribe these verses anew.
+
+    Banners and flags rise thick along the road,
+    While robes of state hover high in the void.
+    Though this place claims joy enough,
+    Songak Mountain calls to us still, waiting.
+  footnotes:
+  - key: ''
+    value: Dongkuk (東國) refers to Korea, literally meaning 'Eastern Country.'
+  - key: ''
+    value: Songak Mountain (松山) alludes to Gaeseong, the capital of Goryeo, suggesting nostalgia or reflection on Korea's historical continuity.
+  - key: ''
+    value: The contrast between the celebration at Gongbuk Pavilion and the distant call of Songak Mountain reflects the poet's meditation on transience and duty.

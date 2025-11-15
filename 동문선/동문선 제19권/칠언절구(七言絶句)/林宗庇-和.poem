@@ -1,0 +1,41 @@
+canonical:
+  title: 和
+  author: 林宗庇
+  language: lzh
+  text: 宸極恩波暖似春鴈行繼作玉堂人閑從院吏徵前事演誥花牋墨尙新
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和
+  author: 林宗庇
+  language: lzh
+  text: 宸極恩波暖似春。鴈行繼作玉堂人。閑從院吏徵前事。演誥花牋墨尙新。
+korean:
+  title: 화
+  author: 임종비
+  language: kor
+  text: |-
+    임금님 은혜는 따뜻하기 봄 같으니
+    형제가 이어서 옥당의 사람이 되었네
+    조용히 원리에게 전일 일을 물으니
+    제고(制誥) 지은 종이에 먹 빛이 아직 새로워라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0620&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화(和) : '
+    value: 이 시(詩)는 임종비(林宗庇)의 아우가 위에 있는 그 형의 시를 차운(次韻)한 것인데, 본문에는 작자의 이름이 빠졌다.
+  - key: '[주-D002] 제고(制誥) 지은 …… 새로워라 : '
+    value: 임종비(林宗庇)가 한림(翰林)의 전임자이므로, 전일 재직(在職)할 때에 임금을 대신하여 제고(制誥)를 기초(起草)한 고본(稿本)이 아직 있다는 말이다.
+english:
+  title: In Response
+  author: Lim Jong-bi
+  language: eng
+  text: |-
+    The Emperor's grace flows warm as spring itself,
+    Brothers follow in succession to the Jade Hall's ranks.
+    Quietly I inquire of the院吏 about days long past—
+    Upon the paper where decrees were drafted, the ink still glistens fresh.
+  footnotes:
+  - key: ''
+    value: This poem is a responsive verse (次韻) composed by Lim Jong-bi's younger brother in response to his older brother's poem, though the younger brother's name has been omitted from the text.
+  - key: ''
+    value: The 'Jade Hall' (玉堂) refers to the Hanlin Academy, where both brothers served. The reference to drafts of imperial decrees (制誥) still bearing fresh ink alludes to the previous work done by Lim Jong-bi during his tenure as a Hanlin scholar.

@@ -1,0 +1,35 @@
+canonical:
+  title: 墨竹
+  author: 鄭敍
+  language: lzh
+  text: 閑餘弄筆硯寫作一竿竹時於壁上看幽姿故不俗
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 墨竹
+  author: 鄭敍
+  language: lzh
+  text: 閑餘弄筆硯。寫作一竿竹。時於壁上看。幽姿故不俗。
+korean:
+  title: 묵죽
+  author: 정서
+  language: kor
+  text: |-
+    한가한 나머지 붓과 벼루를 희롱하여
+    한 줄기 대를 그리었네
+    벽에 붙여 놓고 이따금 보노니
+    그윽한 자태가 짐짓 속되지 않네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: Ink Bamboo
+  author: Jung Seo
+  language: eng
+  text: |-
+    In idle hours, I play with brush and inkstone,
+    Painting a single stalk of bamboo.
+    Hanging it upon my wall, I gaze at it now and then—
+    Its quiet elegance remains untouched by the mundane.
+  footnotes:
+  - key: ''
+    value: The 'ink bamboo' (墨竹) is a traditional subject in East Asian painting, prized for its spiritual refinement and the artist's mastery of brush technique.

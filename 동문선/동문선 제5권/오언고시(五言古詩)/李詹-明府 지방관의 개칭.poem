@@ -1,0 +1,50 @@
+canonical:
+  title: 明府 지방관의 개칭
+  author: 李詹
+  language: lzh
+  text: 自我謫河東今經二端午鄕愁角黍長世味菖蒲苦五馬出重城一樽遊極浦相望咫尺閒深室氣如縷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 明府 지방관의 개칭
+  author: 李詹
+  language: lzh
+  text: 自我謫河東。今經二端午。鄕愁角黍長。世味菖蒲苦。五馬出重城。一樽遊極浦。相望咫尺閒。深室氣如縷。
+korean:
+  title: 단오날에 통판 명부
+  author: 이첨
+  language: kor
+  text: |-
+    내가 하동에 귀양 온 뒤로
+    이제 두 번 단오를 지낸다
+    고향 생각은 각서 같이 길고
+    세상 맛은 창포 같이 쓰도다
+    오마(태수(太守))가 거듭 성에 나와
+    한 병 술로 극포에 논다
+    서로 바라보는 지척 사이에
+    깊은 방안에서 기운이 실날 같도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0500&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 각서(角黍) : '
+    value: 중국 남방의 풍속에는 단오일(端午日)에 각서(角黍)를 만드는데, 고엽(菰葉)에다 찹쌀을 싸서 익힌다. 또 오색(五色)실을 길게 이어 감아서 장명루(長命縷)라 하고 서로 선사한다.
+  - key: '[주-D002] 창포(菖蒲) : '
+    value: 단오일에 창포가루를 술에 타 마신다.
+english:
+  title: On the Fifth Day of the Fifth Month, to the Administrator
+  author: Lee Jam
+  language: eng
+  text: |-
+    Since I was banished to the Eastern River,
+    I have now witnessed two Dragon Boat Festivals.
+    My longing for home stretches long as glutinous rice cakes,
+    While the flavors of this world turn bitter as iris root.
+
+    Five horses of authority emerge from the layered walls,
+    And with a single jar of wine we wander to the river's edge.
+    Even in the brief distance between our gazes,
+    In the quiet chamber, sorrow drifts like gossamer threads.
+  footnotes:
+  - key: ''
+    value: The glutinous rice cakes (角黍) are traditional Dragon Boat Festival treats wrapped in reed leaves, symbolizing longing and the passage of time.
+  - key: ''
+    value: Iris root (菖蒲) was traditionally steeped in wine during the Dragon Boat Festival, carrying medicinal and ceremonial significance.

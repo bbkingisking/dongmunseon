@@ -1,0 +1,53 @@
+canonical:
+  title: 送尹樂正莘傑北上
+  author: 崔瀣
+  language: lzh
+  text: 人生一世間有命懸在天窮達各其分惟道貴如絃奈何枉尋者悠悠動百千先生中有恃物莫外相牽願言一終始名節兩俱全
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送尹樂正莘傑北上
+  author: 崔瀣
+  language: lzh
+  text: 人生一世間。有命懸在天。窮達各其分。惟道貴如絃。奈何枉尋者。悠悠動百千。先生中有恃。物莫外相牽。願言一終始。名節兩俱全。
+korean:
+  title: 북으로 가는 악정 윤신걸을 보내면서
+  author: 최해
+  language: kor
+  text: |-
+    인생의 한평생
+    명은 하늘에 달리어 있네
+    궁하고 달하기는 오직 그 분이거니
+    오직 도가 줄과 같이 곧은 것이 귀하네
+    어떻게 심에 굽히는 사람
+    어름어름 백도 되고 천도 되나
+    선생은 마음 속에 믿는 것 있으니
+    그 어떤 바깥 물도 흔들지 못하나니
+    원하건대 끝과 처음 한결같음을
+    이름과 절개 다 함께 완전하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 심(尋)에 굽히는 사람 : '
+    value: 진대(陳代)가 맹자(孟子)에게 말하기를, “한 자[尺]를 굽혀서 심(尋)을 곧게 할 수 있다면 하여야 한다는 말이 있는데, 당신은 왜 몸을 굽혀서 제후(諸侯)를 보지 않습니까.” 하니, 맹자가 답하기를, “내가 몸을 굽혀서 제후를 본다면, 그것은 심(尋)을 굽혀서 자[尺]를 곧게 하는 것이니, 그짓을 한다는 말인가.” 하였다. 심은 10척(尺)으로 여기서는 자기의 몸을 굽혀서 부귀(富貴)를 따르는 사람들을 말한다.
+english:
+  title: Seeing Off Yin Lexzheng Shen Jie on His Journey North
+  author: Choi Hae
+  language: eng
+  text: |-
+    A lifetime passes in this world—
+    our fate hangs suspended from heaven.
+    Poverty and fortune, each has its own measure;
+    only the Way holds value like a taut string.
+
+    How can those who bend their principles
+    waver between a hundred paths and a thousand?
+    But you, Master, hold something firm within—
+    no external force can shake what you cherish.
+
+    May you journey with unchanging resolve,
+    your name and integrity both preserved whole.
+  footnotes:
+  - key: ''
+    value: The 'taut string' (絃) refers to moral rectitude and principle, contrasting with those who compromise their integrity for gain.
+  - key: ''
+    value: The reference to 'bending' alludes to the Mencius, where the sage refuses to compromise his principles even for wealth and status—to do so would be like bending the greater measure to straighten the lesser.

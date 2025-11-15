@@ -1,0 +1,47 @@
+canonical:
+  title: 長夏
+  author: 徐居正
+  language: lzh
+  text: 長夏深園瓦屋低官閑心跡似幽棲客稀門巷堪羅雀兒戲庭除政闘鷄永日鳴琴尋舊譜小窓分紙寫新題綠陰驀地門長掩留與嬌鶯自在啼
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 長夏
+  author: 徐居正
+  language: lzh
+  text: 長夏深園瓦屋低。官閑心跡似幽棲。客稀門巷堪羅雀。兒戲庭除政闘鷄。永日鳴琴尋舊譜。小窓分紙寫新題。綠陰驀地門長掩。留與嬌鶯自在啼。
+korean:
+  title: 장하
+  author: 서거정
+  language: kor
+  text: |-
+    긴 여름 깊은 동산에 기왓집이 나직한데
+    한가한 마음은 그윽한 곳에 사는 것 같다
+    문 밖에 손이 드물어 새를 그물칠 만하고
+    뜰 앞의 아이들 장난은 닭싸움에 한창이다
+    긴 날에 거문고 울리다 옛 곡보 찾아 보고
+    작은 창에 종이 찢어 새로운 시를 쓴다
+    녹음은 갑자기 짙어 문을 가리우나니
+    예쁜 꾀꼬리 붙들어 두어 마음대로 울게 한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Long Summer
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    In the deep garden of long summer, the tile-roofed house stands low,
+    My idle heart feels like dwelling in some hidden retreat.
+    Few visitors pass the gate—sparse enough to set traps for sparrows,
+    While children in the courtyard are busy with their cockfight games.
+    Throughout the long day I pluck the qin, searching for old melodies,
+    At the small window I tear paper to compose new verses.
+    Suddenly the green shade grows thick, concealing the gate,
+    And I let the lovely oriole sing freely, held by my affection.
+  footnotes:
+  - key: ''
+    value: The qin (琴) is the seven-stringed zither, a classical Chinese instrument associated with scholars and refinement.
+  - key: ''
+    value: The image of setting traps for sparrows at a sparse gate evokes the classical ideal of withdrawal from worldly affairs.
+  - key: ''
+    value: The contrast between old melodies and new verses reflects the poet's balance between tradition and contemporary creation.

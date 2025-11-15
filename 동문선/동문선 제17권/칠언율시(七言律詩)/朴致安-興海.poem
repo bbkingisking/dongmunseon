@@ -1,0 +1,50 @@
+canonical:
+  title: 興海
+  author: 朴致安
+  language: lzh
+  text: 七寶房中歌舞時那知白髮老荒陲無金可買長門賦有夢空傳錦字詩珠淚幾霑吳練袖薰香猶濕越羅衣夜深窓月絃聲苦只恨平生無子期
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 興海
+  author: 朴致安
+  language: lzh
+  text: 七寶房中歌舞時。那知白髮老荒陲。無金可買長門賦。有夢空傳錦字詩。珠淚幾霑吳練袖。薰香猶濕越羅衣。夜深窓月絃聲苦。只恨平生無子期。
+korean:
+  title: 흥해
+  author: 박치안
+  language: kor
+  text: |-
+    옛날 칠보 방안에서 노래하고 춤출 때
+    어이 알았으리 이 벽지에 와 늙을 줄을
+    돈 없으니 장문부 살 길이 없고
+    꿈에나 금자시를 헛되게 전하누나
+    눈물은 몇번이나 비단 소매를 적시었소
+    훈향은 아직도 비단 치마에 배어있네
+    깊은 밤 창달 아래 애를 끊는 그 가락
+    평생에 자기 없음을 한하는 듯하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금자시(錦字詩) : '
+    value: 전진(前秦)의 두도(竇滔)가 양양(襄陽)을 진수(鎭守)할 때 총희(寵姬) 조양대(趙陽臺)를 데리고 부임하여 그 처 소씨(蘇氏)와 소식을 끊어버렸다. 이에 소씨가 한스러워하고 슬퍼하여 비단에 회문시(廻文詩)를 짜넣어 두도에게 부치니, 도가 그 비단 글자를 보고 감복하여 수레를 갖추어 소씨를 맞아왔다. 《侍兒小名錄》
+  - key: '[주-D002] 자기(子期) : '
+    value: 종자기(鍾子期). 백아(伯牙)의 지음(知音). 자기가 죽자 백아가 거문고 줄을 끊고 다시는 거문고를 타지 않았다.
+english:
+  title: Heungae
+  author: Park Chi-an
+  language: eng
+  text: |
+    Once in jeweled chambers I danced and sang with grace,
+    Now how could I have known old age would find me here, in this remote place?
+    Without the gold to purchase the Changmen Fu's refrain,
+    I send through empty dreams the brocade verses—all in vain.
+
+    Pearl tears have dampened silk sleeves countless times,
+    Fragrant incense still lingers on damask, marking the passage of times.
+    Deep in the night, beneath the window's moon, the strings cry out their pain—
+    I grieve that all my life I've had no one to know my refrain.
+  footnotes:
+  - key: ''
+    value: The 'brocade verses' (錦字詩) refers to a legendary tale in which Su Hui, wife of the official Du Tao, wove an intricate palindromic poem into brocade silk and sent it to her estranged husband, moving him so deeply that he brought her back to his side.
+  - key: ''
+    value: Ziqui (子期) was the legendary music companion of the master musician Boya. When Ziqui died, Boya broke his lute strings and never played again, becoming the symbol of an irreplaceable soulmate or kindred spirit.

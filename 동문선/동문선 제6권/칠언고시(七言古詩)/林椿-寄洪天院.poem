@@ -1,0 +1,84 @@
+canonical:
+  title: 寄洪天院
+  author: 林椿
+  language: lzh
+  text: 東野居貧家具少自笑借車無可載杜陵身窮更遭亂未免負薪常自採我今無田食破硯平生唯以筆爲耒自古吾曹例困厄天公此意眞難會五鼎一簞未足校富死貧生何者快作書乞飯維摩詰不厭空門淸淨債先生有意能活我千金何必河監貸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄洪天院
+  author: 林椿
+  language: lzh
+  text: 東野居貧家具少。自笑借車無可載。杜陵身窮更遭亂。未免負薪常自採。我今無田食破硯。平生唯以筆爲耒。自古吾曹例困厄。天公此意眞難會。五鼎一簞未足校。富死貧生何者快。作書乞飯維摩詰。不厭空門淸淨債。先生有意能活我。千金何必河監貸。
+korean:
+  title: 기 홍천원
+  author: 임춘
+  language: kor
+  text: |-
+    동야가 가난하게 살매 가구가 적어
+    수레를 빌었으나 실을 것 없으매 스스로 웃었다
+    두릉은 몸이 궁한데 또 난리를 만나
+    섶을 지고 황정 캐는 신세를 못 면하였다
+    나는 지금 밭은 없고 부숴진 벼루를 먹나니
+    한평생 붓으로 살아 왔구나
+    옛날부터 우리들이 으레 곤액당하니
+    하늘의 이 뜻은 진정 알기 어려워라
+    다섯 솥 음식과 한 바구니 밥은 비교할 것 못 된다
+    부자로 죽는 것과 가난하게 사는 것, 어느 것이 유쾌한가
+    편지 써서 유마힐에게 밥을 비나니
+    공문의 깨끗한 빚을 싫어하지 않도다
+    선생은 생각이 있으면 나를 살릴 것이니
+    어찌 꼭 하감후에게 천 금을 빌리랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동야(東野)가 …… 적어 : '
+    value: 당나라 시인(詩人)  맹동야(孟東野)의 이거(移居)하는 시에, “수레를 빌어 가구(家具)를 실으니 가구가 수레보다 적구나.” 하였다.
+  - key: '[주-D002] 섶을 …… 캐는 신세 : '
+    value: 두보(杜甫)의 시에, “자신이 나무를 지고 황정(黃精)을 캔다.”는 말이 있다. 황정은 약초 이름.
+  - key: '[주-D003] 부숴진 …… 먹나니 : '
+    value: 벼루[硯]에 글을 써서 먹고 산다는 뜻이다.
+  - key: '[주-D004] 다섯 솥[五鼎] : '
+    value: 오정(五鼎)은 부귀(富貴)한 생활이란 말인데, 사(士)는 제사에 삼정(三鼎)으로 하고, 대부(大夫)는 오정(五鼎)으로 한다.
+  - key: '[주-D005] 한 바구니 밥 : '
+    value: 《논어》에, “회(回 안회(顔回))는 한 대바구니 밥과 한 바가지 물을 마시는 생활로서 누추한 거리에 산다.” 하였다.
+  - key: '[주-D006] 유마힐(維摩詰)에게 …… 비나니 : '
+    value: 불교(佛敎)의 《유마힐경(維摩詰經)》에, “유마힐 거사(居士)에게 향적세계(香積世界)에서 밥을 보내 왔다.”는 말이 있다.
+  - key: '[주-D007] 하감후(河監侯)에게 …… 빌리랴 : '
+    value: 장자(莊子)가 하감후(河監侯)에게 양식을 꾸어 주기를 청하니, 하감후가 말하기를, “내가 장차 읍(邑)의 금(金)을 얻어서 자네에게 꾸어 주리라.” 하였다.
+english:
+  title: A Letter to the Abbot Hong
+  author: Im Chun
+  language: eng
+  text: |-
+    East Field lives in poverty, his household sparse—
+    he joked when borrowing a cart with nothing to haul.
+    Du Ling, body worn thin, then caught in rebellion's snare—
+    forced to cut kindling and dig roots to survive.
+
+    I own no fields, I eat by selling my broken inkstone.
+    A lifetime spent wielding the brush as my plow.
+    Since ancient days, we scholars know only hardship—
+    Heaven's design remains forever beyond understanding.
+
+    The five-cauldron feast and the single bowl—
+    which brings more joy, dying rich or living poor?
+    I write letters begging rice from Vimalakirti,
+    and harbor no resentment toward the debts of emptiness.
+
+    If you, Master, have the will to sustain me,
+    why must I borrow a thousand gold coins from the river lord?
+  footnotes:
+  - key: ''
+    value: 'Meng Dongye (唐代 poet): In his poem on moving, he wrote of borrowing a cart to load his few possessions—having less furniture than cart space.'
+  - key: ''
+    value: 'Du Fu (杜甫): Referenced gathering medicinal roots and cutting wood for survival, as detailed in his poetry.'
+  - key: ''
+    value: The metaphor of the broken inkstone represents living by one's writing and scholarship.
+  - key: ''
+    value: 'Five-cauldron feast (五鼎): Symbolizes the lavish meals of the wealthy and noble.'
+  - key: ''
+    value: 'Single bowl (一簞): References Yan Hui from the Analects, who lived in poverty with simple rice and water, yet remained unburdened.'
+  - key: ''
+    value: 'Vimalakirti (維摩詰): A Buddhist layman known for miraculous compassion; an allusion to seeking spiritual and material sustenance through correspondence.'
+  - key: ''
+    value: 'River lord (河監侯): Reference to Zhuangzi''s parable of asking the river lord for a loan of grain—a critique of those who defer generosity with false promises.'

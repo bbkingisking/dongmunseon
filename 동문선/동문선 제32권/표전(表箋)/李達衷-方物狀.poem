@@ -1,0 +1,29 @@
+canonical:
+  title: 方物狀
+  author: 李達衷
+  language: lzh
+  text: 乾坤之大無不包容霜露所霑各勤職貢云云名般至小制造非工庶幾表此下情豈敢登於內帑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 方物狀
+  author: 李達衷
+  language: lzh
+  text: 乾坤之大。無不包容。霜露所霑。各勤職貢。云云。名般至小。制造非工。庶幾表此下情。豈敢登於內帑。
+korean:
+  title: 방물장
+  author: 이달충
+  language: kor
+  text: 건곤(乾坤)의 크기로 포용(包容)치 않음이 없고, 상로(霜露)의 적신 바가 각각 직공(職貢)을 드리옵나이다. 운운. 가지 수가 지극히 적고 만듦새도 서투르오니, 다만 이 하정(下情)을 표하옴일 뿐입니다. 어찌 감히 내탕(內帑)에 오르오리이까.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Catalogue of Local Tributes
+  author: Lee Dalchung
+  language: eng
+  text: Heaven and earth, vast as they are, leave nothing unembracèd. What the frost and dew have touched, each region faithfully presents as tribute. Thus it is said. Though my selection is meager and my craftsmanship crude, I merely seek to express the humble sentiments of those below. How could I dare presume these offerings worthy of the imperial treasury?
+  footnotes:
+  - key: ''
+    value: '職貢 (duty-tribute): refers to the traditional system of regional tribute presented to the court'
+  - key: ''
+    value: '內帑 (inner treasury): the imperial treasury, suggesting deference to the emperor''s judgment'

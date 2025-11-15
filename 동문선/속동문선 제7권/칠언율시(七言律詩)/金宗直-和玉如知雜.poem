@@ -1,0 +1,52 @@
+canonical:
+  title: 和玉如知雜
+  author: 金宗直
+  language: lzh
+  text: 謾把篷廬土木形道山曾躡鳳凰翎文章敢擬三千牘歲月頻驚十五蓂故國龍鍾空製錦殘編狼藉又飛螢裁詩爲問金蘭友白虎談經肯數丁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和玉如知雜
+  author: 金宗直
+  language: lzh
+  text: 謾把篷廬土木形。道山曾躡鳳凰翎。文章敢擬三千牘。歲月頻驚十五蓂。故國龍鍾空製錦。殘編狼藉又飛螢。裁詩爲問金蘭友。白虎談經肯數丁。
+korean:
+  title: 화 옥 여지잡
+  author: 김종직
+  language: kor
+  text: |-
+    부질없이 풀집의 토목 같은 형상으로
+    도산에서 일찍 봉황의 날개를 밟았다
+    문장으로는 감히 3천의 편지에 비기랴
+    세월에서는 자주 15의 달력풀에 놀란다
+    고국이 구지레한데 부질없이 비단옷을 짓고
+    잔편은 흩어졌는데 또 반딧불을 날린다
+    시를 지을 때는 금란의 벗을 묻고
+    백호전에서 말할 때는 나도 정씨 다음 차례는 갈 것이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0680&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 백호전(白虎殿)에서 …… 것이다 : '
+    value: 한나라 때에 백호전에서 불경을 강론하는데, 정봉(丁封)이라는 사람도 참례하였으므로 이런 말을 한 것이다.
+english:
+  title: In Response to Jade and Miscellaneous Matters
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    In vain I shape my humble dwelling like timber and clay,
+    Yet once I tread upon the phoenix wings at Dosan's way.
+    My writings dare not match three thousand scrolls in pride,
+    As years surprise me with the calendar wheel's turning tide.
+
+    The homeland grows frail while I weave brocade in vain,
+    Scattered manuscripts flutter—fireflies dance again.
+    When I compose my verse, I question my gold-true friend:
+    In white tiger halls of discourse, may I speak where we descend?
+  footnotes:
+  - key: ''
+    value: Dosan refers to a place of spiritual cultivation or learning
+  - key: ''
+    value: The 'three thousand scrolls' alludes to extensive literary knowledge
+  - key: ''
+    value: The 'calendar wheel' (fifteen markers) represents the passage of time
+  - key: ''
+    value: The 'white tiger hall' references scholarly gatherings; the speaker modestly positions themselves among worthy companions

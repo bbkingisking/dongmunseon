@@ -1,0 +1,50 @@
+canonical:
+  title: 竹軒金政丞贊
+  author: 李齊賢
+  language: lzh
+  text: 湛乎其矑竦乎其眉高顴瘦面赬唇雪髭斯以狀貌求竹軒也國耳忘私信而不欺耿介愷悌一乎壯衰斯以志節論竹軒也冥得喪齊彭殤神游八極之外徜徉無何之鄕斯其爲竹軒也有可以髣髴於丹靑形容於文章者耶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 竹軒金政丞贊
+  author: 李齊賢
+  language: lzh
+  text: 湛乎其矑。竦乎其眉。高顴瘦面。赬唇雪髭。斯以狀貌。求竹軒也。國耳忘私。信而不欺。耿介愷悌。一乎壯衰。斯以志節。論竹軒也。冥得喪齊彭殤。神游八極之外。徜徉無何之鄕。斯其爲竹軒也。有可以髣髴於丹靑。形容於文章者耶。
+korean:
+  title: 죽헌 김정승 찬
+  author: 이제현
+  language: kor
+  text: 맑은 그 눈, 치솟은 그 눈썹, 높은 광대뼈, 수척한 얼굴, 입술은 붉고, 수염은 희다. 이것은 외모로 보는 죽헌(竹軒)이다. 나라를 위하여 개인을 잊었고, 믿음을 지키어 속이지 않았다. 단단하고 곧았으며 자상하신품, 젊을 때부터 늙을 때까지 한결같았다. 이것은 의지와 절조로 죽헌을 논하는 것이다. 잘되고 못 되는 것 아랑곳 없고 일찍 죽으나 장수하는 것을 마찬가지로 보았다. 정신은 우주 밖에 놀았고 아무 것도 없는 자연의 세계에 소요하는 것, 이것이 바로 죽헌이었다. 이것을 그림으로 어떻게 표현하며 문장으로 어떻게 나타낼 수 있으리오.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0090&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of Jukheone Kim Jeong-seung
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    Clear are those eyes, raised those brows,
+    high the cheekbones, gaunt the face,
+    red the lips, white the beard—
+    thus we see Jukheone in appearance.
+
+    For the nation he forgot himself,
+    trustworthy, never deceiving,
+    steadfast and upright in spirit, gentle in heart,
+    unchanging from youth through old age—
+    thus we know Jukheone by his virtue and integrity.
+
+    Indifferent to fortune and misfortune alike,
+    regarding early death the same as long life,
+    his spirit wandered beyond the eight limits of heaven,
+    roaming freely in that realm of nothingness—
+    this is what Jukheone truly was.
+
+    Can brush and ink capture such a man?
+    Can words and writing ever do him justice?
+  footnotes:
+  - key: ''
+    value: Jukheone (竹軒, 'Bamboo Studio') was a pen name of Kim Jeong-seung, a prominent Goryeo statesman and scholar.
+  - key: ''
+    value: The reference to 'Peng and Shang' alludes to the Daoist parable comparing the cosmic tree Peng with the tiny tree Shang, suggesting transcendence of conventional value judgments.
+  - key: ''
+    value: The 'eight limits of heaven' (八極) refers to the farthest reaches of the universe in classical cosmology.

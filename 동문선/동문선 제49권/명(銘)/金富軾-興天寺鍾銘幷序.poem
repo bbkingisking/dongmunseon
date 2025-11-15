@@ -1,0 +1,41 @@
+canonical:
+  title: 興天寺鍾銘幷序
+  author: 金富軾
+  language: lzh
+  text: 興天寺鍾薄且弇其聲不妙近聞主公重鑄居士金某爲之銘曰迴祿扇火飛廉掀風唯金從革出此景鍾置之寂默叩則雍容無聲之聲遍滿虛空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 興天寺鍾銘幷序
+  author: 金富軾
+  language: lzh
+  text: 興天寺鍾薄且弇。其聲不妙。近聞主公重鑄。居士金某爲之銘曰。迴祿扇火。飛廉掀風。唯金從革。出此景鍾。置之寂默。叩則雍容。無聲之聲。遍滿虛空。
+korean:
+  title: 흥천사종 명 병서
+  author: 김부식
+  language: kor
+  text: 흥천사(興天寺) 종(鍾)이 엷어지고 달아서 그 소리가 좋지 못했다. 근자에 들으니 주공(主公)이 다시 만들었다 한다. 거사(居士) 김모(金某)가 명(銘)을 짓는다.불귀신이 불을 부채질하고 바람귀신이 바람을 불게 하여 쇠를 녹여서 이 큰 종(鍾)이 나왔네. 가만 두면 고요하며 침묵하고 두드리면 맑은 소리가 나온다. 소리 없는 소리가 허공에 두루 가득차네.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 거사(居士) : '
+    value: 중이 아닌 불교의 남자 신도를 말한 것이다.
+english:
+  title: Inscription on the Bell of Heungcheonsa Temple, with Preface
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    The bell of Heungcheonsa Temple had grown thin and warped, its voice no longer pure. Recently I heard that the master has had it recast anew. The layman Kim composed this inscription:
+
+    The fire god fans the flames,
+    The wind spirit stirs the gale—
+    Through metal's transformation alone
+    This great bell is born.
+
+    When left in stillness and silence,
+    It rests in quietude;
+    Yet when struck, it rings with clarity.
+    A sound without sound,
+    It fills all the void of heaven and earth.
+  footnotes:
+  - key: ''
+    value: The 'layman' (居士) refers to a devoted Buddhist lay follower, not a monk.

@@ -1,0 +1,27 @@
+canonical:
+  title: 樽 銘
+  author: 李奎報
+  language: lzh
+  text: 移爾所蓄納人之腹汝盈而能損故不溢人滿而不省故易仆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 樽 銘
+  author: 李奎報
+  language: lzh
+  text: 移爾所蓄。納人之腹。汝盈而能損故不溢。人滿而不省故易仆。
+korean:
+  title: 준명
+  author: 이규보
+  language: kor
+  text: 너의 저축한 것을 옮겨다 사람의 뱃속에 들여넣는다. 너는 가득차가지고는 능히 덜어내는 까닭으로 넘치지 않는데 사람은 가득차도 반성할 줄을 모름으로 해서 엎어지기가 쉽게 된다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_040_0090&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on a Wine Vessel
+  author: Lee Gyeong-bo
+  language: eng
+  text: You transfer what you have stored and pour it into the belly of man. Because you, when full, know to empty yourself, you never overflow. But man, though sated, fails to reflect—and so he easily topples.
+  footnotes:
+  - key: ''
+    value: This piece is a philosophical meditation on the virtue of restraint, using a wine vessel as a metaphor for human nature and self-discipline.

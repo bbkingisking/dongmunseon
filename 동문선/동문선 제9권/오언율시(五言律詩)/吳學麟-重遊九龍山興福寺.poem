@@ -1,0 +1,47 @@
+canonical:
+  title: 重遊九龍山興福寺
+  author: 吳學麟
+  language: lzh
+  text: 日改物亦改事移人又移鶴添新歲子松老去年枝院院古非古僧僧知不知悠然登水閣重驗舊題詩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 重遊九龍山興福寺
+  author: 吳學麟
+  language: lzh
+  text: 日改物亦改。事移人又移。鶴添新歲子。松老去年枝。院院古非古。僧僧知不知。悠然登水閣。重驗舊題詩。
+korean:
+  title: 구룡산 흥복사에 거듭 놀면서
+  author: 오학린
+  language: kor
+  text: |-
+    날[日]이 달라지니 물색도 달라지고
+    일이 옮겨지니 사람도 옮겨지누나
+    학은 새해의 새끼를 더하였고
+    작년 솔가지가 벌써 늙었네
+    원들은 낡았느냐 낡지 않았느냐
+    중들은 알 듯도 하고 모를 듯도 하고
+    유연히 수각에 올라가서
+    예전에 썼던 내 시를 다시 찾아보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0050&viewSync=OT
+  footnotes: []
+english:
+  title: Revisiting Guryong Mountain and Heungbok Temple
+  author: Wu Xuelin
+  language: eng
+  text: |-
+    Days change and the world's hues shift with them,
+    Affairs transform and people drift away.
+    The crane has fledged new chicks this passing year,
+    While last year's pine boughs now grow old and frail.
+
+    Do the temple halls remain themselves or not?
+    Do the monks remember, or have they forgotten?
+
+    Yet I climb the water pavilion, my spirit at ease,
+    And find again the poem I wrote in days of old.
+  footnotes:
+  - key: ''
+    value: The crane and pine are traditional symbols of longevity and steadfastness in East Asian poetry, here used to mark the passage of time and change despite their enduring nature.
+  - key: ''
+    value: The poem reflects on revisiting a sacred place, exploring how time transforms both the external world and our understanding of it, while seeking continuity through the traces of one's own past.

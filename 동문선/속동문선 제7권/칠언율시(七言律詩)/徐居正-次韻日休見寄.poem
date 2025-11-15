@@ -1,0 +1,57 @@
+canonical:
+  title: 次韻日休見寄
+  author: 徐居正
+  language: lzh
+  text: 平生性癖愛吾廬閉閤焚香淨掃除陶令但知樽有酒馮郞空嘆出無車病餘身世渾成夢老去文章欲著書名利到頭徒自苦會須歸問鹿門居
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次韻日休見寄
+  author: 徐居正
+  language: lzh
+  text: 平生性癖愛吾廬。閉閤焚香淨掃除。陶令但知樽有酒。馮郞空嘆出無車。病餘身世渾成夢。老去文章欲著書。名利到頭徒自苦。會須歸問鹿門居。
+korean:
+  title: 차운 일휴 견기
+  author: 서거정
+  language: kor
+  text: |-
+    평생의 내 성벽은 내 집 사랑하는 것이라
+    샛문 닫고 향 사르고 깨끗이 소제한다
+    도령은 다만 항아리에 술 있는 줄만 알았고
+    풍랑은 한갓 문을 나가 수레 없는 것 한탄하였네
+    앓고 난 뒤의 신세는 모두 꿈이 되었는데
+    늙어가매 문장은 책을 지으려 한다
+    이름과 이익은 결국 스스로 괴로울 뿐
+    모름지기 돌아가 녹문에 살 것을 물어보자
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 풍랑(馮郞) : '
+    value: 예전 제나라의 정승인 맹상군(孟嘗君)이라는 사람이 손[客]을 좋아하여 집에서 먹고 자는 손이 3천여 명이었다. 그때에 풍완(馮湲)이라는 사람이 와서 손노릇하는데 저녁에 가위[鋏]를 두드리며, “나가는데 수레가 없다.” 하고, 노래하여서 수레를 주었다. 그 후에 맹상군이 나라에서 정승이 면직되었을 적에 풍완의 힘으로 복직된 일이 있다.
+  - key: '[주-D002] 녹문(鹿門) : '
+    value: 예전 한(漢)나라 말년에 방덕공(龐德公)이란 사람이 녹문에 은거(隱居)하여 아무리 벼슬하라고 권고하여도 이내 나오지 않아서 참으로 은사(隱士)라고 말하였다.
+english:
+  title: In Response to a Letter from Ilhyu
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    All my life, my nature has cherished one thing—
+    to love my humble dwelling.
+    I close the gate and burn incense,
+    sweeping clean what lies within.
+
+    Tao Yuanming knew only that his jar held wine;
+    Feng Wan could only lament having no carriage when he left his door.
+
+    Since my illness, the world has become a dream,
+    and age draws me toward writing a book.
+    Yet fame and fortune lead only to self-torment.
+
+    I must return and ask the hermits of Deer Gate—
+    what is the secret to their peace?
+  footnotes:
+  - key: ''
+    value: 'Tao Yuanming (陶令): The famous recluse poet of the Jin dynasty, known for his contentment with simple living and his love of wine.'
+  - key: ''
+    value: 'Feng Wan (馮湲): A historical figure known for his resourcefulness—though without a carriage, his clever song earned him one from his patron, the Lord of Mengshang.'
+  - key: ''
+    value: 'Deer Gate (鹿門): A mountain retreat where the sage Pang Degong withdrew from the world during the late Han dynasty, never to be persuaded to take office.'

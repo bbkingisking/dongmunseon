@@ -1,0 +1,42 @@
+canonical:
+  title: 武科及第謝恩榮宴箋
+  author: 李詹
+  language: lzh
+  text: 自今以始親收武藝之科申命用休特賜恩榮之宴輿情悅懌士氣作興恭惟聖敬日躋聦明時乂講眞氏之衍義三綱八條得所施覽孫子之兵書六韜七略取其用雖致隆平之治常存戡定之心臣等學不業儒才踈執射式謌且舞欣逢希代之縟儀俾熾而昌切祝齊天之聖壽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 武科及第謝恩榮宴箋
+  author: 李詹
+  language: lzh
+  text: 自今以始。親收武藝之科。申命用休。特賜恩榮之宴。輿情悅懌。士氣作興。恭惟聖敬日躋。聦明時乂。講眞氏之衍義。三綱八條得所施。覽孫子之兵書。六韜七略取其用。雖致隆平之治。常存戡定之心。臣等學不業儒。才踈執射。式謌且舞。欣逢希代之縟儀。俾熾而昌。切祝齊天之聖壽。
+korean:
+  title: 무과 급제하고 은영연에 사례하는 글
+  author: 이첨
+  language: kor
+  text: 지금부터 시작하여 친히 무과의 급제를 뽑으시고, 겹쳐서 아름다운 명으로 특히 은영(恩榮)의 잔치를 주시니, 여론이 기뻐하고 사기가 진작됩니다.공손히 생각하옵건대 전하께서 성경의 공부가 날로 진보되고[聖敬日躋] 총명이 때로 밝아서[聰明時乂]서산진씨(西山眞氏)의 대학연의(大學衍義)를 강(講)하시니, 삼강팔조(三綱八條)가 시행할 바를 얻고 손자(孫子)의 병서(兵書)를 열람하니, 육도칠략(六韜七略)에 그 사용할 것을 취하여서 비록 태평의 다스림을 이루었으면서도 항상 난(亂)을 평정할 마음을 두었습니다.신의 무리들은, 학문은 유학(儒學)을 전공하지 못했고 재주는 활쏘는 데에 서투나, 세상에 드문 성전(盛典)을 만났음을 노래하고 춤추며 기뻐하고 치성하며, 임금의 수(壽)가 하늘과 같기를 간절히 비나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0410_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 성경의 …… 밝아서[聰明時乂] : '
+    value: 《시경》에 탕(湯) 임금의 덕을 칭찬한 말이다.
+  - key: '[주-D002] 대학연의(大學衍義) : '
+    value: 송나라 진서산(眞西山)이 지은 《대학연의》는, 대학(大學)에다 역사적 사실을 첨부하여 시행할 방법을 밝힌 글이다.
+  - key: '[주-D003] 육도칠략(六韜七略) : '
+    value: 육도(六韜)는 태공(太公)이 지은 병서(兵書)인데, 용도(龍韜)ㆍ무도(武韜) 등 여섯 가지 편명(篇名)이 있고, 한(漢)나라 유흠(劉欽)이 모든 서적을 간추려서 칠략(七略)을 만들었는데, 육예략(六藝略)ㆍ병서략(兵書略) 등 일곱 가지가 있다.
+english:
+  title: A Letter of Gratitude for Advancement in the Military Examination and Royal Honors at the Celebration Feast
+  author: Lee Cham
+  language: eng
+  text: |-
+    From this day forward, the throne itself examines the martial arts examination, and through accumulated grace bestows the honor of the celebration feast. The people rejoice and the spirit of our warriors rises renewed.
+
+    Humbly I reflect that Your Majesty's sacred learning advances daily, and your wisdom illuminates in all seasons. You lecture upon the Extended Meanings of the Great Learning, and the Three Bonds and Eight Conditions find their proper application. You peruse the Art of War and extract the teachings of the Six Secrets and Seven Strategies for their use. Though you have achieved the governance of peace and harmony, you ever maintain the vigilance to quell disorder.
+
+    We soldiers are unlearned in the scholarly ways, our talents but modest in the bow and arrow. Yet we sing and dance in celebration of this rare and glorious ceremony. We burn with fervent devotion and humbly pray that Your Majesty's life extends as vast as the heavens themselves.
+  footnotes:
+  - key: ''
+    value: The phrase 'sacred learning advances daily, wisdom illuminates in all seasons' echoes from the Book of Poetry, praising the virtue of King Tang.
+  - key: ''
+    value: The Extended Meanings of the Great Learning, compiled by Zhen Dexiu of the Song dynasty, connects the principles of the Great Learning to historical precedents and their practical application.
+  - key: ''
+    value: 'The Six Secrets and Seven Strategies refer to classical military texts: the Six Secrets attributed to the Duke of Zhou, and the Seven Summaries compiled during the Han dynasty, which catalogued all classical learning including works on military arts.'

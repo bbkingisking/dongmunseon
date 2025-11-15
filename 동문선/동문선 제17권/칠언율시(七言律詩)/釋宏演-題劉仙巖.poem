@@ -1,0 +1,72 @@
+canonical:
+  title: 題劉仙巖
+  author: 釋宏演
+  language: lzh
+  text: 山遶孤村小逕隈遠林暑薄訪蓬萊鶴飛雲洞知仙起童掃玄關待客來泉至石渠鳴暗玉火存丹竈活寒灰忽聞鐵笛空中響十里松花一夜開避暑看山上石臺紫霞宮殿一時開松陰圍座靑凝嶂槲葉連山翠作堆童子雲中採藥去高人竹外抱琴來汲泉旋煮山中茗不用蒲萄浸酒杯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題劉仙巖
+  author: 釋宏演
+  language: lzh
+  text: 山遶孤村小逕隈。遠林暑薄訪蓬萊。鶴飛雲洞知仙起。童掃玄關待客來。泉至石渠鳴暗玉。火存丹竈活寒灰。忽聞鐵笛空中響。十里松花一夜開。避暑看山上石臺。紫霞宮殿一時開。松陰圍座靑凝嶂。槲葉連山翠作堆。童子雲中採藥去。高人竹外抱琴來。汲泉旋煮山中茗。不用蒲萄浸酒杯。
+korean:
+  title: 제 유선암
+  author: 석굉연
+  language: kor
+  text: |-
+    산이 뺑 둘린 외로운 마을의 작은 길 옆
+    먼 숲에 더위도 가셨는데 봉래를 찾아왔네
+    신선이 온 줄 알고 학은 구름 낀 골에 날고
+    손님을 접대하려 동자는 현관을 쓰는구나
+    샘물은 돌시내에 와서 슬그머니 옥을 울리고
+    불이 단조에 남아 식었던 재 되살아나네
+    문득 들리는 공중의 철적소리
+    10리의 솔나무꽃 하루밤에 피어나누나
+    더위를 피하고 산도 볼 겸 석대에 올라오니
+    신선의 궁전이 일시에 활짝 열렸네
+    솔그늘이 자리를 둘러 푸른 기운 뫼에 어리었고
+    떡갈잎이 산을 이어 파란 빛 더미로 쌓았네
+    동자는 구름속에 약 캐러 가고
+    고인은 대밭에서 거문고 안고 오누나
+    이윽고 샘물 길어다 산중의 차를 다리니
+    그까짓 포도주잔 무엇에 쓰리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 현관(玄關) : '
+    value: 현묘(玄妙)한 도(道)의 문을 말하고, 또 도를 닦는 집의 문을 지칭하기도 한다. 당시(唐詩)에, “수풀 밑에 현관(玄關)을 닫았네.” 하였는데 이는 절[寺]을 말한 것이다.
+  - key: '[주-D002] 단조(丹竈) : '
+    value: 신선되는 단약(丹藥)을 만드는 아궁이.
+  - key: '[주-D003] 공중의 철적소리 : '
+    value: 철적(鐵笛)은 신선이 분다고 알려져 있다.
+english:
+  title: On Liu Immortal's Rocks
+  author: Monk Hongyen
+  language: eng
+  text: |-
+    Mountains embrace the lonely village, winding past narrow paths.
+    Through distant forests where summer heat has fled, I seek the Isle of Paradise.
+    A crane knows the immortal has come, soaring through clouded ravines;
+    A young attendant sweeps the mystic gate, awaiting the guest's arrival.
+
+    Spring water reaches the stone stream, murmuring jade in secret;
+    Fire lingers in the cinnabar furnace, reviving cold ash to life again.
+    Suddenly—the iron flute sings through the void!
+    Ten leagues of pine blossom burst open in a single night.
+
+    Escaping the heat, I climb to the stone terrace to see the mountain;
+    The purple-robed palace of immortals opens all at once.
+    Pine shadows circle where I sit, green mist clinging to distant peaks;
+    Oak leaves stretch across the ridge, layered emerald-deep.
+
+    The boy disappears gathering herbs among the clouds;
+    The sage returns, cradling his zither from beyond the bamboo grove.
+    I draw spring water and brew the mountain's tea in haste—
+    What need have I for grape wine filling an ordinary cup?
+  footnotes:
+  - key: ''
+    value: The 'mystic gate' (玄關) refers to the threshold of Daoist cultivation and spiritual mystery.
+  - key: ''
+    value: The 'cinnabar furnace' (丹竈) is where immortal elixir is traditionally refined.
+  - key: ''
+    value: The iron flute is said to be played by immortals, signaling their presence.

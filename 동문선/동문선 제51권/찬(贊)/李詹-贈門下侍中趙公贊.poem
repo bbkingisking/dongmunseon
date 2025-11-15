@@ -1,0 +1,40 @@
+canonical:
+  title: 贈門下侍中趙公贊
+  author: 李詹
+  language: lzh
+  text: 嶷然操履之端卓爾立心之高式祖訓而承帝之寵受虎符而幹父之勞嗚呼民方有望乃何天靳其壽是旣位不稱德宜其克昌厥後
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 贈門下侍中趙公贊
+  author: 李詹
+  language: lzh
+  text: 嶷然操履之端。卓爾立心之高。式祖訓而承帝之寵。受虎符而幹父之勞。嗚呼民方有望。乃何天靳其壽。是旣位不稱德。宜其克昌厥後。
+korean:
+  title: 증 문하시중 조공 찬
+  author: 이첨
+  language: kor
+  text: 의젓한 행실의 단아함이여, 확고한 목표의 높음이여, 할아버지의 교훈을 계승하여 황제의 사랑을 받았으며 병부를 잡고 아버지의 노고를 대신하였다. 아아, 백성의 기대 바야흐로 높았거늘 어찌하여 하늘은 그의 수명을 짧히었는가. 이미 벼슬이 그의 덕에 미치지 못하였으니, 마땅히 그의 자손이 창성하리로다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0310&viewSync=OT
+  footnotes: []
+english:
+  title: A Tribute to Minister Zhao Gong
+  author: Lee Cham
+  language: eng
+  text: |-
+    Dignified and refined, such virtue in conduct,
+    Lofty and resolute, such heights of noble purpose—
+    He inherited his grandfather's wisdom,
+    Received the Emperor's favor,
+    Grasped the seal of office,
+    And bore his father's burden.
+
+    Alas, when the people's hopes ran highest,
+    Why did Heaven stint his years?
+    Though his rank could never match his merit,
+    Surely his descendants shall flourish in his stead.
+  footnotes:
+  - key: ''
+    value: The 'tiger seal' (虎符) traditionally symbolized military or administrative authority in ancient China.
+  - key: ''
+    value: This poem appears to be a commemorative piece honoring an official of high moral character who died prematurely, expressing confidence that his lineage would be vindicated through future generations' success.

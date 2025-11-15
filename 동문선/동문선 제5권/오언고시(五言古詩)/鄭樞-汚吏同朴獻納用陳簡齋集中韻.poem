@@ -1,0 +1,55 @@
+canonical:
+  title: 汚吏同朴獻納用陳簡齋集中韻
+  author: 鄭樞
+  language: lzh
+  text: 城中烏亂啼城下汚吏集府牒暮夜下豈辭行露濕窮民相歌哭子夜誅求急舊時千丁縣今朝十室邑君閽虎豹守此言無自入白駒在空谷何以得維縶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 汚吏同朴獻納用陳簡齋集中韻
+  author: 鄭樞
+  language: lzh
+  text: 城中烏亂啼。城下汚吏集。府牒暮夜下。豈辭行露濕。窮民相歌哭。子夜誅求急。舊時千丁縣。今朝十室邑。君閽虎豹守。此言無自入。白駒在空谷。何以得維縶。
+korean:
+  title: 오리-박헌납과 함께 《진간재집》안에 있는 운을 쓰다
+  author: 정추
+  language: kor
+  text: |-
+    성 안에는 까마귀 어지럽게 울고
+    성 밑에는 오리들이 모여 있다
+    관부의 통첩이 어둔 밤에 내리니
+    어찌 갈 길에 이슬 젖는 것을 말하랴
+    궁한 백성들은 서로 부르짖고 우는데
+    밤중에 토색하기를 급하게 한다
+    옛날에는 천 명의 장정이 살던 고을이
+    오늘 아침에는 열 집이 안 되는구나
+    궁궐문에 호랑이와 표범이 지키니
+    이런 말이 어떻게 들어갈 수 있겠는가
+    흰 망아지 빈 골짝에 있으니
+    어떻게 붙잡아 맬 수 있을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0070&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 흰 망아지 빈 골짝에 있으니 어떻게 붙잡아 맬 수 있을까 : '
+    value: 《시경》의 백구편(白駒篇)에 있는데, 어떻게 하면 흰 망아지를 붙잡아 매어 숨어 살려는 어진 사람을 벼슬하게 할 수 있을까 하는 뜻이다.
+english:
+  title: 'On Corrupt Officials and Park the Privy Councillor: Using the Rhymes from Master Chen Jianzhai''s Collection'
+  author: Jung Chu
+  language: eng
+  text: |-
+    Within the city walls, crows cry out in wild disorder.
+    Beneath the gates, corrupt officials gather.
+    Official summons descend through the dark night—
+    shall we complain of dew-dampened robes on our way?
+
+    The impoverished people cry and lament together,
+    while midnight brings urgent extortions.
+    Once this county held a thousand able men;
+    this morning, not even ten households remain.
+
+    Tigers and leopards guard the palace gates—
+    how could such words ever enter there?
+    A white colt grazes in an empty valley.
+    How could one ever lead it back with rope?
+  footnotes:
+  - key: ''
+    value: The final couplet alludes to the 'White Colt' poem from the Classic of Poetry, invoking the ideal of a virtuous person hidden away—a subtle plea that such integrity might be brought into service despite the corruption that bars the way.

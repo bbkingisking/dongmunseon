@@ -1,0 +1,46 @@
+canonical:
+  title: 鴨江春望
+  author: 鄭希良
+  language: lzh
+  text: 邊城事事動傷神海上狂歌異隱淪春不見花猶見雪地無來鴈况來人輕陰漠漠雨連曉細草萋萋風滿津惆悵芳時長作客可堪垂淚更沾巾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鴨江春望
+  author: 鄭希良
+  language: lzh
+  text: 邊城事事動傷神。海上狂歌異隱淪。春不見花猶見雪。地無來鴈况來人。輕陰漠漠雨連曉。細草萋萋風滿津。惆悵芳時長作客。可堪垂淚更沾巾。
+korean:
+  title: 압강 춘망
+  author: 정희량
+  language: kor
+  text: |-
+    변방 성의 일마다 마음을 상하게 하는데
+    바다 위의 미친 노래는 은륜과는 다르네
+    봄에도 꽃은 보지 못하고 아직도 눈을 보고
+    땅에는 오는 기러기도 없거니 하물며 사람이랴
+    엷은 그늘이 막막한데 비는 새벽까지 연달았고
+    가는 풀이 처처한데 바람이 나루터에 찼구나
+    슬프다 꽃다운 때에 항상 나그네 되었거니
+    흐르는 눈물이 수건 적심 어이 견디랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 은륜(隱淪) : '
+    value: 세상을 피하여 은둔(隱遁) 생활을 하는 것이다.
+english:
+  title: Spring Prospects at Duck River
+  author: Jeong Hee-ryang
+  language: eng
+  text: |-
+    Every affair in this frontier town pierces my heart.
+    On the sea, wild songs echo—unlike those who fled the world.
+    In spring I see no blossoms, only snow that lingers still.
+    No geese return to this land—how then could people come?
+
+    Faint shadows brood and mist trails into dawn's pale light,
+    While tender grasses thicken where the wind sweeps through the ford.
+    I grieve to be forever wandering in the fairest season,
+    My tears flow endless—how can one scarf bear their weight?
+  footnotes:
+  - key: ''
+    value: '隱淪 (yǐn lún): A reference to those who withdraw from the world to live in seclusion, abandoning social life for solitude.'

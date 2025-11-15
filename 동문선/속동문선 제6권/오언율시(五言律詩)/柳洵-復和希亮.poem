@@ -1,0 +1,49 @@
+canonical:
+  title: 復和希亮
+  author: 柳洵
+  language: lzh
+  text: 高懸徐孺榻却掃敬通門多病慙全俸長貧學晩飧夜深單被冷秋動百虫喧感激心中事寧能對俗論
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 復和希亮
+  author: 柳洵
+  language: lzh
+  text: 高懸徐孺榻。却掃敬通門。多病慙全俸。長貧學晩飧。夜深單被冷。秋動百虫喧。感激心中事。寧能對俗論。
+korean:
+  title: 부화 희량
+  author: 유순
+  language: kor
+  text: |-
+    서유의 탑을 높이 달고
+    이내 경통의 문을 쓸었[掃]도다
+    병이 많으매 모든 봉양이 부끄럽고
+    항상 가난하매 늦게 먹기[晩飱] 배우노라
+    밤이 깊어지매 홑이불이 차가웁고
+    가을이 움직이매 뭇 벌레가 시끄럽도다
+    감격스러운 마음속의 일이여
+    어찌 속인 만나 의논할 수 있으랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_1030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 서유(徐孺)의 탑(榻)을 높이 달고 : '
+    value: 한(漢)나라 진번(陳蕃)이란 사람이 예장(豫章)태수로 가서 그 지방의 명사인 서유(徐孺)라는 사람을 잘 대접하여 서유에게만 앉게 하는 걸상이 있었다. 그래서 서유가 돌아가면 그 걸상은 높은 곳에 달아매었다 한다.
+  - key: '[주-D002] 이내 경통(敬通)의 문을 쓸었[掃]도다 : '
+    value: 한(漢)나라 풍연(馮衍)이라는 사람의 자가 경통(敬通)이다. 그는 훌륭한 재주를 가지고도 세상에 출세를 못하고 집에서 문을 닫고 들어 앉았을 뿐이었다.
+english:
+  title: Reconciliation with Heerang
+  author: Yu Sun
+  language: eng
+  text: |-
+    High hung the cushion where Xu Ru once sat,
+    And I have swept clean the gate of Jing Tong.
+    Multiple ailments shame me for my stipend,
+    Lifelong poverty teaches me to dine late.
+    When night deepens, my thin quilt grows cold,
+    As autumn stirs, a hundred insects cry out.
+    The stirrings in my heart, so deeply felt—
+    How could these ever be shared with common folk?
+  footnotes:
+  - key: ''
+    value: 'Xu Ru''s cushion: In the Han dynasty, the governor Chen Fan showed such respect to the local notable Xu Ru that he reserved a special seat for him alone. After Xu Ru''s death, this seat was hung high in honor of his memory—a symbol of noble integrity and worthy solitude.'
+  - key: ''
+    value: 'The gate of Jing Tong: Feng Yan, whose courtesy name was Jing Tong, was a gifted man of the Han dynasty who refused to serve in the world, choosing instead to close his gate and live in seclusion—representing principled withdrawal from public life.'

@@ -1,0 +1,68 @@
+canonical:
+  title: 落梅後又用前韻四首
+  author: 金訢
+  language: lzh
+  text: 春事還隨畫角殘攀條不覺屢盤桓北枝容有餘芳在爲報吟人洗眼看抵死淸香尙不衰飄零猶守舊心期瘦於飯顆相逢日淸似西山獨餓時落蘂催人鬢自殘杖藜搔首爲盤桓一年芳信無多子火急相邀秉燭看惆悵瓊姿乃爾衰可堪一別隔年期玉堂幸有和羹手佇見枝頭着子時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 落梅後又用前韻四首
+  author: 金訢
+  language: lzh
+  text: 春事還隨畫角殘。攀條不覺屢盤桓。北枝容有餘芳在。爲報吟人洗眼看。抵死淸香尙不衰。飄零猶守舊心期。瘦於飯顆相逢日。淸似西山獨餓時。落蘂催人鬢自殘。杖藜搔首爲盤桓。一年芳信無多子。火急相邀秉燭看。惆悵瓊姿乃爾衰。可堪一別隔年期。玉堂幸有和羹手。佇見枝頭着子時。
+korean:
+  title: 낙매후 우용전운 사수
+  author: 김흠
+  language: kor
+  text: |
+    봄 일은 다시 나팔소리 따라 쇠잔하거니
+    가지를 더위잡고 여러 번 머뭇거렸음을 깨닫지 못했네
+    북쪽 가지에 혹 남은 꽃이 있는가
+    읊조리는 사람에게 알리기 위해 눈을 씻고 왔노라
+    죽게 되어도 맑은 향기는 상긔 아니 쇠하였고
+    떨어져 나부끼면서도 옛 마음 지키기를 기약한다
+    여의기는 반과산에서 서로 만난 날 같고
+    맑기는 서산에서 혼자 굶주릴 때와 같어라
+    떨어지는 꽃술이 사람을 재촉해 살쩍이 쇠잔한데
+    청려장 짚으면서 머리 긁고 머뭇거린다
+    1년에 꽃다운 소식이 그리 많지 않거니
+    빨리 서로 맞아 촛불을 들고 보자
+    슬프다 구슬 같은 자태가 이처럼 쇠잔하였네
+    한 번 이별하면 1년 지나는 기약을 견디어야 하지
+    옥당에 다행히 국맛을 고루는 솜씨 있으면
+    가지 끝에 열매 맺을 때를 멈춰 서서 바라보리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0910&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 여의기는……같고 : '
+    value: 이태백이 두자미에게 지어준 시에, “반과산 위에서 두보를 만나니 머리에는 삿갓을 썼는데 해는 한낮이었다. 전에 이별한 뒤 너무나 파리했기에 물었더니 모두가 시 짓는 괴로움으로 하여서라 한다.”[飯顆山頭達社甫 頭戴若笠日卓年 借問別來太庾生 總爲從作詩若]
+  - key: '[주-D002] 국맛을……있으면 : '
+    value: 매화나무 열매는 신 것이다. 그래서 예전에는 그것을 조미료로 썼던 것이니, 염(鹽)과 매(梅)를 같이 말하였었다. 여기에 옥당에서 국맛을 고른다는 말은 나라의 정치를 요리한다는 뜻이다. 요리한다는 말이 같으므로 하여 그렇게 말하는 것이다.
+english:
+  title: Four Poems on Fallen Plums, Using the Same Rhymes as Before
+  author: Kim Heum
+  language: eng
+  text: |-
+    Spring's affairs fade away with the bugle's call.
+    I linger on the branches, unaware of my hesitation.
+    Perhaps some fragrance lingers on the northern bough—
+    I wash my eyes and come to report it to the poet.
+
+    Even unto death, the pure scent does not decay.
+    Scattered and drifting, it keeps faith with its old heart.
+    Thin as rice-grains meeting on the mountain,
+    Clear as solitude starving on the western peak.
+
+    Falling stamens urge the man—his temples grow sparse.
+    Leaning on my cane, I scratch my head and linger.
+    In a year, how few are the tidings of beauty!
+    Let us hurry to meet and hold the candle high.
+
+    How sorrowful that such jade-like beauty must fade.
+    How can one bear the year-long parting that follows?
+    If the jade hall still holds one who seasons the broth,
+    I shall wait and watch for the day fruit crowns the bough.
+  footnotes:
+  - key: ''
+    value: The image of meeting on Fan-grain Mountain alludes to Li Bai's poem about encountering Du Fu—both worn thin by the suffering of poetry-making, suggesting how hardship and dedication wear away at one's vitality.
+  - key: ''
+    value: The reference to 'seasoning the broth' in the jade hall (the imperial court) is a metaphor for political governance. The plum fruit's use as a condiment allows this double meaning, suggesting the poet hopes those in power will nurture the plum's eventual fruit—both literally and as a symbol of future flourishing.

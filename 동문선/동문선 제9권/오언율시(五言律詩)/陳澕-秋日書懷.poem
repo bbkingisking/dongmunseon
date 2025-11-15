@@ -1,0 +1,46 @@
+canonical:
+  title: 秋日書懷
+  author: 陳澕
+  language: lzh
+  text: 富貴也悲秋孤吟况弊裘閱多人寵辱問幾日歸休落葉埋金井踈砧響石樓聊將倦遊興欹枕夢滄洲
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋日書懷
+  author: 陳澕
+  language: lzh
+  text: 富貴也悲秋。孤吟况弊裘。閱多人寵辱。問幾日歸休。落葉埋金井。踈砧響石樓。聊將倦遊興。欹枕夢滄洲。
+korean:
+  title: 추일 서회
+  author: 진화
+  language: kor
+  text: |-
+    부귀한 사람도 가을을 슬퍼하거든
+    해어진 갖옷으로 혼자 읊는 사람이야
+    숱한 사람들의 영욕을 보았거니
+    어느 날에사 돌아가 쉬려는가
+    떨어지는 오동잎이 쇠난간의 우물을 메우고
+    성긴 다듬이 소리가 돌다락을 울리누나
+    애오라지 권유(객지에 다니기 지쳤다는 뜻)의 흥으로
+    베개를 의지하여서 먼 바다를 꿈꾸네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 해어진 갖옷 : '
+    value: 전국(戰國)시대에 소진(蘇秦)이 처음에 집을 떠난 지 수 년에 출세를 못하여 입고 나갔던 갖옷이 해어졌었다.
+english:
+  title: Autumn Sentiments
+  author: Jin Hwa
+  language: eng
+  text: |-
+    Even the rich and noble grieve when autumn comes.
+    So how much more I, in my tattered robe, singing alone?
+    I have witnessed the rise and fall of countless men,
+    yet when will the day come for me to return home and rest?
+
+    Falling parasol leaves clog the golden well,
+    the sparse sound of the fulling block echoes from the stone tower.
+    With nothing but weariness from years of wandering,
+    I rest my head upon my pillow and dream of distant seas.
+  footnotes:
+  - key: ''
+    value: The 'tattered robe' alludes to Su Qin of the Warring States period, who left home to seek advancement but years passed in poverty, his clothes worn to rags, before his eventual success. The poet uses this image to express the frustration of unfulfilled ambitions during travels.

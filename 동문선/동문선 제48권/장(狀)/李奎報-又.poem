@@ -1,0 +1,43 @@
+canonical:
+  title: 又
+  author: 李奎報
+  language: lzh
+  text: 雄筩換舊驗陽律之方調雌閣迓新擁天休之滋至恭惟某官貴傳門戟名在帝甁學業專家胷中有國子監英精下世天上無太白星蔚爲石畫之臣大合巖瞻之望首春啓始齯齒無疆某等顧迫戴星之勞阻申披霧之喜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 又
+  author: 李奎報
+  language: lzh
+  text: 雄筩換舊。驗陽律之方調。雌閣迓新。擁天休之滋至。恭惟某官。貴傳門戟。名在帝甁。學業專家。胷中有國子監。英精下世。天上無太白星。蔚爲石畫之臣。大合巖瞻之望。首春啓始。齯齒無疆。某等顧迫戴星之勞。阻申披霧之喜。
+korean:
+  title: 우
+  author: 이규보
+  language: kor
+  text: 웅통(雄筩 율(律)의 양관(陽管))이 새로 바뀌어 양률(陽律)이 바야흐로 고루어짐을 징험하고, 자각(雌閣)이 새해를 맞으니 상서가 더욱 밀려듭니다. 삼가 생각건대, 모관(某官)은 귀(貴)로는 문극(門戟)을 내리 전하고, 이름은 제병(帝甁)에 올랐으며, 학업을 전문하여 가슴속에는 국자감(國子監)이 들어 있고, 영정(英精)은 인간에 내리어 천상에는 태백성(太白星)이 없으며, 훌륭히 석획(石劃)의 신하가 될 뿐 아니라, 큰산을 우러러보는 것같이 크게 합당합니다. 첫봄이 열리기 시작함에 한량 없는 수명을 누리소서. 모(某) 등은 대성(戴星)의 수고로움이 있어, 피무(披霧)의 기쁨을 얻지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우(又) : '
+    value: “최 참정(崔參政)을 찬(讚)함.”이라는 원주가 있다.
+  - key: '[주-D002] 태백성(太白星) : '
+    value: 금성(金星)을 계명성(啓明星)이라고도 하고 장경성(長庚星)이라고도 한다. 당(唐)나라 시인(詩人)이백(李白)의 어머니가 이백을 낳을 때에 꿈에 장경성(長庚星)을 삼켰었다. 그래서 이백이 세상에 있는 동안에는 천상의 태백성이 광채가 없었다 한다.
+  - key: '[주-D003] 석획(石劃) : '
+    value: 석(石)은 크다는 뜻이요, 획(劃)은 계책을 말한 것이다. 《한서(漢書)》 흉노전(匈奴傳)에, “한 나라 때에 기이한 선비와, 석획(石劃)의 신하가 매우 많았다.” 하였다.
+  - key: '[주-D004] 대성(戴星) : '
+    value: 별을 머리에 얹고 밤길을 걷는다는 뜻이다.
+  - key: '[주-D005] 피무(披霧) : '
+    value: 운무(雲霧)를 헤치고 청천(靑天)을 본다는 뜻이다. 위관(衛瓘)이 상서령(尙書令)이 되었을 적에 악광(樂廣)이 조정의 명사들과 이야기하는 것을 보고 기특히 여겨 말하기를, “이 사람은 사람 중의 수경(水鏡)이라 만나보면 운무를 헤치고 청천을 본 것 같다.” 하였다. 《世說》
+english:
+  title: Another Tribute
+  author: Lee Gyu-bo
+  language: eng
+  text: 'The masculine pipe renews with the old—verifying that the yang tones now accord in harmony. The feminine chamber greets the new year—welcoming heaven''s blessings in abundance. Consider now this official: by rank, he inherits the gate-guard''s noble station; by name, he enters the imperial register. Devoted to learning, he carries the State Academy within his breast. Possessed of transcendent brilliance descended to our world—the Morning Star grows dim in heaven''s vault. He stands as a counselor of great vision and strategy, worthy of the highest regard, as mountains command our reverent gaze. As spring''s beginning unfolds, may he enjoy years beyond measure. Yet we, bearing stars upon our heads through arduous night, remain unable to pierce the mist and glimpse the clear blue above.'
+  footnotes:
+  - key: ''
+    value: This piece is a panegyric composed for Minister Choe, celebrating his appointment or promotion.
+  - key: ''
+    value: The Morning Star reference alludes to the poet Li Bai of Tang dynasty—it is said that when Li Bai was born, his mother dreamed of swallowing the Evening Star, and during his lifetime, that star lost its brilliance in heaven.
+  - key: ''
+    value: The phrase 'counselor of great vision' draws from Han dynasty records praising officials of extraordinary strategic wisdom.
+  - key: ''
+    value: The closing image of 'bearing stars' refers to working through the night; 'piercing the mist' means achieving clarity and understanding through one's labors.

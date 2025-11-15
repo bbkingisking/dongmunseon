@@ -1,0 +1,35 @@
+canonical:
+  title: 偶題
+  author: 柳方善
+  language: lzh
+  text: 結茅仍補屋種竹故爲籬多少山中味年年獨自知
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偶題
+  author: 柳方善
+  language: lzh
+  text: 結茅仍補屋。種竹故爲籬。多少山中味。年年獨自知。
+korean:
+  title: 우제
+  author: 유방선
+  language: kor
+  text: |-
+    띠풀을 엮어 지붕을 깁고
+    대를 심어 울타리로 삼네
+    과히 없지 않은 산중에 사는 맛을
+    해마다 혼자서 깨쳐 가네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0620&viewSync=OT
+  footnotes: []
+english:
+  title: A Casual Poem
+  author: Yu Bang-seon
+  language: eng
+  text: |-
+    I thatch the roof with woven reeds,
+    Plant bamboo for my garden fence.
+    The mountain's subtle flavors—
+    Year after year, I taste them alone.
+  footnotes:
+  - key: ''
+    value: The poem captures the solitary joy of rural retreat, where the speaker finds meaning in humble tasks and intimate communion with nature.

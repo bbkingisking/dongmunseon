@@ -1,0 +1,45 @@
+canonical:
+  title: 再請不允
+  author: 金富佾
+  language: lzh
+  text: 上天降禍先帝升遐惟予冲人嬛嬛在疾號天叩地無所迨及而羣公卿士咸欲臨正朝聽庶政其可安乎固不忍也傳曰三年不言何必高宗古之人皆然此朕之所庶幾也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 再請不允
+  author: 金富佾
+  language: lzh
+  text: 上天降禍。先帝升遐。惟予冲人。嬛嬛在疾。號天叩地。無所迨及。而羣公卿士。咸欲臨正朝聽庶政。其可安乎。固不忍也。傳曰三年不言。何必高宗。古之人皆然。此朕之所庶幾也。
+korean:
+  title: 재청 불윤
+  author: 김부일
+  language: kor
+  text: 하늘이 재앙을 내리시어 선제(先帝)께서 승하하셨다. 어린 내가 외롭게 상중에 있으면서, 하늘에 울부짖고 땅을 쳐도 미칠 바 없다. 그런데 여러 신료들은 모두 다 나를 보고 정전(正殿)에 임하여 정사를 살피라 하니, 내 마음이 편안하겠는가. 진정 차마 할 수 없는 것이다. 《논어(論語)》에, ‘3년 동안 말하지 아니함이 어찌 반드시 고종(高宗)뿐이랴. 옛날 사람은 다 그러했다.’ 일렀으니, 이것이 바로 짐이 하려고 하는 바이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0320_020_0030&viewSync=OT
+  footnotes: []
+english:
+  title: A Second Request Denied
+  author: Kim Bu-il
+  language: eng
+  text: |-
+    Heaven has sent down calamity—my predecessor has ascended beyond.
+    I, a child alone, remain in mourning's grip.
+    I cry out to the heavens, beat the earth,
+    yet reach nothing, touch nothing.
+
+    And yet the ministers and lords all urge me:
+    "Come to the throne, oversee the affairs of state."
+    How can my heart find peace in this?
+    I cannot bear it. I simply cannot.
+
+    The Analects teach: 'Three years of silence—
+    was this only High King Gaozong's path?
+    All the ancients walked this way.'
+    This is what I seek to do.
+  footnotes:
+  - key: ''
+    value: The speaker is a young ruler in deep mourning for his predecessor and seeking exemption from state duties during the mourning period.
+  - key: ''
+    value: The reference to High King Gaozong and the three-year silence alludes to the Confucian tradition of extended mourning and withdrawal from public affairs after the death of a parent or predecessor.
+  - key: ''
+    value: The title suggests this is a second memorial or petition requesting permission to continue mourning rather than assume full official duties.

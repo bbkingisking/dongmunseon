@@ -1,0 +1,45 @@
+canonical:
+  title: 寄慵齋居士
+  author: 鄭希良
+  language: lzh
+  text: 客魂銷盡瘦崢嶸咄咄長齋默自驚片月照心臨古國殘星隨夢落邊城故人字𨁯千金重老子聲名一髮輕莫話陳雷生死地從今粗亦識時情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄慵齋居士
+  author: 鄭希良
+  language: lzh
+  text: 客魂銷盡瘦崢嶸。咄咄長齋默自驚。片月照心臨古國。殘星隨夢落邊城。故人字𨁯千金重。老子聲名一髮輕。莫話陳雷生死地。從今粗亦識時情。
+korean:
+  title: 기 용재거사
+  author: 정희량
+  language: kor
+  text: |-
+    나그네 혼이 녹아 다하고 여위어 앙상한데
+    돌돌하며 홀로 앉아 스스로 놀라네
+    조각달은 마음을 비추어 옛 나라에 다다랐고
+    쇠잔한 별은 꿈을 따라 변방 성에 떨어지네
+    옛 친구의 필적은 천금처럼 중한데
+    늙은이의 명성은 한 오리 털처럼 가볍구나
+    진뢰의 교분을 이야기하지 말라
+    지금부터는 조금이나마 세상 인정을 알게 되었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 진뢰(陳雷) : '
+    value: 한(漢)나라 진중(陳重)이 한 고을에 하는 뇌의(雷義)와 친하게 지내었는데, 뇌의가 무재(茂才)에 천거되자 진중에게 양여(讓與)하니, 자사(刺史)가 듣지 아니 하였다. 뇌의는 진중을 위하여 거짓 미쳐 도망해 숨었다.
+english:
+  title: A Letter to the Recluse of the Hall of Laziness
+  author: Jung Hui-ryang
+  language: eng
+  text: |-
+    My wanderer's soul has withered away to nothing,
+    Gaunt and skeletal, I sit alone in silence and startle myself.
+    A sliver of moon illuminates my heart, reaching toward ancient kingdoms,
+    Fading stars follow my dreams down to the frontier walls.
+    My old friend's calligraphy weighs heavy as a thousand pieces of gold,
+    Yet an old man's name floats light as a single feather.
+    Do not speak of bonds that transcend life and death—
+    From this day forward, at last I understand the world's true feelings.
+  footnotes:
+  - key: ''
+    value: The reference to Chen Lei (陳雷) in the original alludes to a famous friendship in Han Dynasty history where Chen Zhong and Lei Yi exemplified such deep loyalty that Lei Yi feigned madness and fled when his friend could not accompany him to official promotion, refusing the honor that would separate them.

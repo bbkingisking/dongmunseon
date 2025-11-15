@@ -1,0 +1,53 @@
+canonical:
+  title: 謾興
+  author: 李仁老
+  language: lzh
+  text: 境僻人誰到春深酒半酣花光迷杜曲竹影似城南長嘯愁無四行歌樂有三靜中滋味在豈是世人諳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謾興
+  author: 李仁老
+  language: lzh
+  text: 境僻人誰到。春深酒半酣。花光迷杜曲。竹影似城南。長嘯愁無四。行歌樂有三。靜中滋味在。豈是世人諳。
+korean:
+  title: 흥 나는 대로
+  author: 이인로
+  language: kor
+  text: |-
+    궁벽진 곳에 어느 누가 올 것인가
+    봄이 한창인데 술이 거나했네
+    꽃빛은 두곡(당나라 때 두씨(杜氏)가 대대로 살던 곳으로 꽃이 많다)인가 싶고
+    대 그림자는 성남과 비슷하구나
+    휘파람 길게 부니 네 시름[四愁] 다 없고
+    다니며 노래 부르니 즐거움[三樂] 잦았네
+    고요한 가운데 재미 있으니
+    세상의 어느 누가 이 맘을 알쏘냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0330&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 대그림자는 …… 비슷하구나 : '
+    value: 당나라 한유(韓愈)와 맹교(孟郊)가 성남(城南)에서 연구(聯句)를 짓는데, 첫 머리에, “대 그림자는 육(六)이 반짝.”이란 구(句)가 있다.
+  - key: '[주-D002] 네 시름[四愁] : '
+    value: 후한(後漢)  장형(張衡)이 사수시(四愁詩)를 지었다.
+  - key: '[주-D003] 즐거움[三樂] : '
+    value: 공자가 태산(泰山)에서 본 영계기(榮啓期)가 말한 세 가지 자기의 즐거움이니, 사람된 즐거움, 사내로 태어난 즐거움, 나이가 95세나 된 즐거움으로 그가 녹비[鹿皮] 갖옷에 새끼[索] 띠를 띠고 다니면서 노래를 불렀다. 《家語 六本》
+english:
+  title: Indulgence
+  author: Lee Inro
+  language: eng
+  text: |-
+    Who would venture to this remote place?
+    Spring deepens and wine warms my lips.
+    The flowers seem to bloom from Du Valley—
+    the bamboo shadows mirror those of Southern City.
+    A long whistle sweeps away all four sorrows,
+    and wandering song brings three joys to life.
+    In this quietude lies the true flavor—
+    yet who in the world could ever comprehend it?
+  footnotes:
+  - key: ''
+    value: 'Four Sorrows: A reference to Zhang Heng''s famous poem of the same name, evoking melancholy overcome through solitude and nature.'
+  - key: ''
+    value: 'Three Joys: Echoing Confucius''s encounter with Rong Qiqi on Mount Tai—the joy of being human, of manhood, and of reaching great age.'
+  - key: ''
+    value: 'Southern City: An allusion to the classical poets Han Yu and Meng Jiao, who composed linked verses in this location, famously opening with ''bamboo shadows flicker like six.'''

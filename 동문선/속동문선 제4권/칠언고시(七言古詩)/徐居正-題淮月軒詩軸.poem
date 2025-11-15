@@ -1,0 +1,61 @@
+canonical:
+  title: 題淮月軒詩軸
+  author: 徐居正
+  language: lzh
+  text: 月在天上水在地中間九萬八千里月胡爲乎在水中我自不知其所以月亦分身千百億有水於是亦有月淮之水淸且漣漪月來印之光更白由來萬殊本一理一月分千理自爾師乎去讀月印千江曲道本不一亦不二
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題淮月軒詩軸
+  author: 徐居正
+  language: lzh
+  text: 月在天上水在地。中間九萬八千里。月胡爲乎在水中。我自不知其所以。月亦分身千百億。有水於是亦有月。淮之水淸且漣漪。月來印之光更白。由來萬殊本一理。一月分千理自爾。師乎去讀月印千江曲。道本不一亦不二。
+korean:
+  title: 제 회월헌 시축
+  author: 서거정
+  language: kor
+  text: |-
+    달은 하늘 위에 물은 땅에
+    그 중간의 거리가 9만 8천 리
+    달이 어찌하여 물 속에 있나
+    내가 그 까닭을 모르네마는
+    달도 또한 몸을 천 백 억에 나누니
+    물이 여기 있으면 또한 달 있네
+    회의 물이 맑고 또 잔잔한데
+    달이 와서 인치니 빛이 더 희네
+    원래 만수가 본디 한 이치
+    한 달이 천으로 나뉨이 당연한 이치
+    스님이여 가서 월인천강곡을 읽어보소
+    도가 본디 하나도 아니요 둘도 아니로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0060&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 달도 또한 …… 나누니 : '
+    value: 부처[佛]가 천백억(千百億)의 화신(化身)을 나타내므로 달을 거기에 비유한 것이다.
+english:
+  title: On a Painting of the Moon Pavilion
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    The moon dwells in heaven, the water rests on earth,
+    Between them stretch ninety-eight thousand li.
+    Yet how does the moon come to dwell in the water?
+    I confess I cannot fathom the reason—
+
+    The moon too divides its form into billion manifestations,
+    Wherever water flows, there the moon appears.
+    The Huai's waters run clear and ripple gently,
+    The moon descends to mark them, its light grows even brighter.
+
+    Since ancient times, the ten thousand things share one principle,
+    One moon divided into a thousand—this too follows naturally.
+    Venerable Master, go and read the "Moon Reflecting in a Thousand Rivers,"
+    The Way knows neither unity nor duality.
+  footnotes:
+  - key: ''
+    value: The moon dividing into countless manifestations is a metaphor for the Buddha's manifestation in infinite forms (thousand and hundred billion bodies in Buddhist cosmology).
+  - key: ''
+    value: The "Huai" refers to the Huai River, a major river in eastern China, here used to represent all waters.
+  - key: ''
+    value: '"Moon Reflecting in a Thousand Rivers" (月印千江曲) refers to a Buddhist poetic concept illustrating how one universal principle manifests in infinite particular forms.'
+  - key: ''
+    value: The final couplet reflects Buddhist philosophy on the nature of ultimate reality, transcending both monism and dualism.

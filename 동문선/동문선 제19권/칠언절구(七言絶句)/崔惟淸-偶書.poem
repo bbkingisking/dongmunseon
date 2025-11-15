@@ -1,0 +1,37 @@
+canonical:
+  title: 偶書
+  author: 崔惟淸
+  language: lzh
+  text: 老閱詩書手不停可憐事業竟何成西窓風雪寒蕭索獨對殘燈笑一生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偶書
+  author: 崔惟淸
+  language: lzh
+  text: 老閱詩書手不停。可憐事業竟何成。西窓風雪寒蕭索。獨對殘燈笑一生。
+korean:
+  title: 우서
+  author: 최유청
+  language: kor
+  text: |-
+    늘그막에 시서를 뒤적거려 손이 쉬지 않노니
+    슬프다, 사업은 마침내 이룰 것이 무엇이뇨
+    서창의 풍설은 차고도 쓸쓸한데
+    홀로 잔등을 대하여 일생을 웃네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0420&viewSync=OT
+  footnotes: []
+english:
+  title: A Casual Writing
+  author: Choe Yuchung
+  language: eng
+  text: |-
+    In old age I turn the pages of poetry and books, my hands never still.
+    Alas, what has all this striving amounted to in the end?
+    West of the window, snow and wind cut cold and desolate.
+    Alone before a flickering lamp, I laugh at this life of mine.
+  footnotes:
+  - key: ''
+    value: The 'west window' recalls a tradition in Chinese poetry of solitary contemplation and scholarly retreat.
+  - key: ''
+    value: The image of the 'flickering lamp' evokes both the fragility of life and the persistent pursuit of learning that defines the speaker's existence.

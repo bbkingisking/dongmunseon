@@ -1,0 +1,77 @@
+canonical:
+  title: 中秋翫月上黨樓上
+  author: 李穡
+  language: lzh
+  text: 去年翫月東樓下柳林缺處金波瀉今年翫月西樓上薄雲弄影時滉漾主人豪氣盖一時飮不盡器還能詩潾我老病每相邀歌呼不覺朱顔凋去年今年一瞬息樽前劇談忘得失紛紛世間足榮辱吾髮白兮難再黑對月不飮吾則癡我思古人誰我師千鍾爲堯百斛孔匪棘其欲維其時我今不飮月應笑月且少留吾一嘯嘯如鸞鳳兮來天風願言駕此遊彼蓬萊中
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 中秋翫月上黨樓上
+  author: 李穡
+  language: lzh
+  text: 去年翫月東樓下。柳林缺處金波瀉。今年翫月西樓上。薄雲弄影時滉漾。主人豪氣盖一時。飮不盡器還能詩。潾我老病每相邀。歌呼不覺朱顔凋。去年今年一瞬息。樽前劇談忘得失。紛紛世間足榮辱。吾髮白兮難再黑。對月不飮吾則癡。我思古人誰我師。千鍾爲堯百斛孔。匪棘其欲維其時。我今不飮月應笑。月且少留吾一嘯。嘯如鸞鳳兮來天風。願言駕此遊彼蓬萊中。
+korean:
+  title: 중추에 상당루 위에서 달을 구경하며
+  author: 이색
+  language: kor
+  text: |-
+    작년의 달 구경은 동루 아래서
+    버들숲 사이로 금물결(달빛) 출렁이더니
+    금년의 달 구경은 서루 위에서
+    엷은 구름이 달빛을 희롱하여 늠실거리누나
+    주인의 호기가 당대를 덮어
+    술도 무진무진, 시에도 능하네
+    늙고 병든 나를 동정해 매양 불러 주어
+    노래하고 떠드니 늙은 줄도 모르겠네
+    작년 금년이 눈 깜짝할 사이
+    잔 들고 호담하니 세상 만사를 잊겠네
+    어지러운 세간에 영욕이 많은데
+    희어진 내 머리 어이 다시 검게 되리
+    달 아래서 안 마시면 내야말로 천치려니
+    생각하니 옛사람 중 내 스승이 누군고
+    요 임금은 천 잔, 공자는 백 곡
+    마시고 싶은 욕심 아니 막고 때맞추어 마셨네
+    내 지금 안 마시면 달이 응당 웃으리
+    달이여, 잠깐 머무르소, 내 한 번 휘파람 불리
+    내 휘파람 난봉 같아 하늘 바람이 불어 오니
+    그 바람 두둥실 타고 훨훨 봉래 선경에 가 놀고저
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 내 …… 같아 : '
+    value: 진(晉)나라 완적(阮籍)이 소문산(蘇門山)에서 손등(孫登)을 만났는데, 손등은 완적 묻는 말에 답이 없었다. 완적이 길게 휘파람을 불고 물러오며 산 중턱에 이르자 난봉(鸞鳳)의 울음 소리 같은 것이 골짜기를 울렸는데, 그것은 손등의 휘파람 소리였다.
+english:
+  title: Mid-Autumn Moon Viewing from Sangdang Tower
+  author: Lee Saek
+  language: eng
+  text: |-
+    Last year I watched the moon below the eastern tower,
+    Where silver light spilled through the willow groves.
+    This year I view it from the western tower,
+    As gossamer clouds play with lunar shadows, wavering.
+
+    Our host's bold spirit commands the age—
+    His wine flows endless, his verses flow free.
+    He pities this old and ailing frame,
+    Calling me often to sing and laugh till youth seems restored.
+
+    Last year, this year—a mere blink of an eye—
+    At the wine cup we speak freely, forgetting all worldly cares.
+    In this tumultuous world of glory and shame,
+    How can my graying hair ever turn black again?
+
+    Without wine beneath the moon, I would be mad.
+    I wonder: who among the ancients was my teacher?
+    Yao drank a thousand cups, Confucius a hundred measures,
+    Not restraining desire, but drinking in their proper season.
+
+    If I do not drink now, surely the moon will mock me.
+    Stay awhile longer, moon—let me play one whistle note.
+    Let my whistle sound like phoenix song, summoning heaven's wind,
+    That I might ride it swiftly to the blessed isles of Penglai.
+  footnotes:
+  - key: ''
+    value: 'Sangdang Tower (上黨樓): A tower in present-day Changzhi, Shanxi Province, known for moon viewing.'
+  - key: ''
+    value: 'The reference to the whistle like phoenix song alludes to a famous anecdote: when the Jin dynasty poet Ruan Ji encountered the sage Sun Deng on Sumen Mountain, Sun remained silent. Ruan Ji played a long whistle and departed; at the mountainside, a sound like phoenix cries echoed through the valley—it was Sun Deng answering with his own whistle. The poet thereby expresses a longing for transcendent communication and escape from worldly concerns.'
+  - key: ''
+    value: 'Penglai (蓬萊): A legendary island paradise in Chinese mythology, home to immortals and the blessed.'

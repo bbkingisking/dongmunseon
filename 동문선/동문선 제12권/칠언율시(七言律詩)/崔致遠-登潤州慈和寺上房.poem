@@ -1,0 +1,53 @@
+canonical:
+  title: 登潤州慈和寺上房
+  author: 崔致遠
+  language: lzh
+  text: 登臨蹔隔路歧塵吟想興亡恨益新畫角聲中朝暮浪靑山影裏古今人霜摧玉樹花無主風暖金陵草自春賴有謝家餘境在長敎詩客爽精神
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登潤州慈和寺上房
+  author: 崔致遠
+  language: lzh
+  text: 登臨蹔隔路歧塵。吟想興亡恨益新。畫角聲中朝暮浪。靑山影裏古今人。霜摧玉樹花無主。風暖金陵草自春。賴有謝家餘境在。長敎詩客爽精神。
+korean:
+  title: 등 윤주 자화사 상방
+  author: 최치원
+  language: kor
+  text: |-
+    산에 올라오니 갈래길 먼지 잠시 멀어졌으나
+    흥망을 되씹으니 한이 더욱 새로워라
+    화각 소리 가운데 아침저녁 물결인데
+    푸른 산 그림자 속엔 고금 인물 몇몇인고
+    옥수에 서리 치니 꽃은 임자도 없구나
+    금릉(지금 남경 강녕현(江寧縣) 땅) 따스한 바람에 풀은 절로 봄이로고
+    사가의 남은 경지 남아 있어
+    시객의 정신 길이 상쾌하게 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0010&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 윤주(潤州) : '
+    value: 지금 강소성(江蘇省)진강현(鎭江縣) 수당(隋唐) 때 이렇게 불리었다. 동쪽에 윤포(潤浦)가 있다.
+  - key: '[주-D002] 사가(謝家)의 남은 경지 : '
+    value: 사씨(謝氏)는 진대(晉代)의 명문으로 사조(謝眺) 등 시인이 배출되었다. 아마 그 근처에 유적(遺蹟)이 있는 것 같다.
+english:
+  title: Ascending to the Upper Room of Cihe Temple in Runzhou
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Climbing high, the dust of forking paths recedes for a moment,
+    Yet pondering rise and fall, my regret grows ever fresh.
+    Midst the call of painted horns, morning and evening waves roll on—
+    Within the shadows of green mountains, how many ancients and moderns dwell?
+    Frost withers the jade trees; the blossoms have lost their master.
+    Warm winds embrace Jinling; the grass springs forth on its own.
+    Thank heaven the remnants of the Xie clan's gardens still remain,
+    To forever quicken the spirit and refresh the poet's soul.
+  footnotes:
+  - key: ''
+    value: Runzhou refers to present-day Zhenjiang in Jiangsu Province, as it was known during the Sui and Tang dynasties.
+  - key: ''
+    value: The Xie clan were renowned scholars and poets of the Jin dynasty, including the celebrated poet Xie Tiao. Their legacy may still be traced in the landscape of this region.
+  - key: ''
+    value: The jade trees withered by frost and the masterless blossoms suggest the passage of time and the transience of beauty.
+  - key: ''
+    value: Jinling is an ancient name for the region, referring to the area of present-day Nanjing.

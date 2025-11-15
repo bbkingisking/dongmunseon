@@ -1,0 +1,69 @@
+canonical:
+  title: 致仕
+  author: 吳漢卿
+  language: lzh
+  text: 丈夫出處豈循常時復虬蟠又鳳翔忽見甘棠生綠野安知丹桂長黃堂懸車再駕游龍壯閉閤重開賀燕忙愼勿怱怱促飛馹明朝還恐上巖廊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 致仕
+  author: 吳漢卿
+  language: lzh
+  text: 丈夫出處豈循常。時復虬蟠又鳳翔。忽見甘棠生綠野。安知丹桂長黃堂。懸車再駕游龍壯。閉閤重開賀燕忙。愼勿怱怱促飛馹。明朝還恐上巖廊。
+korean:
+  title: 치사
+  author: 오한경
+  language: kor
+  text: |-
+    장부의 출처가 상례만 따를 건가
+    때로는 용처럼 서렸다가 봉처럼 날기도
+    저 보아, 감당이 문득 녹야에 났네그려
+    어찌 알리, 단계가 황당에 자랄 지를
+    달아맨 수레를 다시 타니 노는 용이 장할씨고
+    닫은 합을 되 여니 치하하는 제비들 바쁘네
+    제발 총총히 역마를 달리지 마소
+    내일 아침 다시 묘당에 오를 지 모르는데
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0790&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 치사(致仕)를 회수(回收) : '
+    value: 높은 벼슬하는 이가 늙어서 퇴직하는 것을 치사(致仕)한다 하는데, 조정에서 그 사람을 다시 쓰려면 치사를 회수한 뒤에 다시 관직에 임명한다.
+  - key: '[주-D002] 용처럼…… 날기도 : '
+    value: 용처럼 물 속에 서려 있는 것은 숨어 사는 것이요, 봉처럼 나는 것은 세상에 나오는 것이다.
+  - key: '[주-D003] 녹야(綠野) : '
+    value: 당나라 배도(裴度)가 정승이 되어 공을 이룬 뒤에 녹야당(綠野堂)을 짓고 경치를 아름답게 꾸며 친구와 함께 술 마시고 시를 지으며 놀았다.
+  - key: '[주-D004] 달아맨 수레 : '
+    value: 재상이 늙어 퇴직한 뒤에는 수레를 달아매 놓고 다시 출입하지 아니한다는 뜻이다.
+  - key: '[주-D005] 노는 용(龍) : '
+    value: 좋은 수레가 호기 있게 구르는 것을 넘노는 용에 비한다.
+  - key: '[주-D006] 닫은 합(閤)을 되 여니 : '
+    value: 합(閤)은 정승의 문인데, 한(漢)나라 공손홍(公孫弘)이 동합(東閤)을 열고 선비들을 맞아들였다.
+  - key: '[주-D007] 치하하는 제비 : '
+    value: 경사 있는 집에 제비가 날아드는 것을 치하하는 손님에 비한다.
+english:
+  title: Retirement from Office
+  author: Oh Han-gyeong
+  language: eng
+  text: |-
+    A man's rise and fall need not follow common paths—
+    sometimes he coils like a dragon in the depths,
+    then soars like a phoenix through the sky.
+
+    Behold, the sweetwood tree blooms suddenly in the green fields,
+    yet how can one know if the cinnamon will grow in the hall?
+
+    The carriage, once unhitched, rolls forth again in splendid play,
+    the closed gates reopen as joyful visitors rush about.
+
+    I beg you, do not hurry the swift courier horses,
+    for tomorrow at dawn, the office doors may call once more.
+  footnotes:
+  - key: ''
+    value: Retirement from office (致仕) could be reversed by the court if the retired official was needed again, allowing for a return to service.
+  - key: ''
+    value: The dragon coiling in water represents withdrawal from the world; the phoenix in flight represents engagement in it.
+  - key: ''
+    value: Reference to the famous Green Field Hall (綠野堂) built by the Tang statesman Pei Du after his successful retirement, where he entertained friends with wine and poetry.
+  - key: ''
+    value: The unhitched carriage refers to the traditional practice of retired ministers withdrawing completely from public life.
+  - key: ''
+    value: 'The reopened gates allude to historical precedent: the Eastern Gate (東閤) opened by Han-dynasty official Gongsun Hong to receive scholars and visitors.'

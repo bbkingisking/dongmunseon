@@ -1,0 +1,36 @@
+canonical:
+  title: 冊公主
+  author: 盧旦
+  language: lzh
+  text: 敎延德宮第二女汝璿源毓粹韡㠋聯芳婉淑整儀幼彰於麗軌柔貞鍾美宜示於寵華是崇名稱乃優錫予今遣使某官某副某官某等持節備禮冊爾爲公主幷賜某物等具如別錄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冊公主
+  author: 盧旦
+  language: lzh
+  text: 敎延德宮第二女。汝璿源毓粹。韡㠋聯芳。婉淑整儀。幼彰於麗軌。柔貞鍾美。宜示於寵華。是崇名稱。乃優錫予。今遣使某官某，副某官某等。持節備禮。冊爾爲公主。幷賜某物等。具如別錄。
+korean:
+  title: 책공주
+  author: 노단
+  language: kor
+  text: 연덕궁(延德宮) 둘째 딸에게 교하노라. 너는 선원(璿源)의 순수한 혈통으로, 위악(韡萼)의 꽃다움이 서로 연하였다. 곱고도 현숙함으로 몸가짐을 정제하였으니 어려서부터 어진 행실이 드러났고, 부드럽고 정숙하여 아름다움을 독차지하였으니 마땅히 은총과 영화로 표시하여야 하겠다. 이에 명칭을 높이고 주는 것을 넉넉히 한다. 이제 사신 모관(某官) 모(某)와 부사(副使) 모관 모 등을 보내어 절(節)을 가지고 가서 예를 갖추어 너를 책봉하여 공주를 삼게 하고, 아울러 아무 물건들을 별록과 같이 준다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0310_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: Decree Ennobling a Princess
+  author: No Dan
+  language: eng
+  text: |-
+    We hereby proclaim to the second daughter of Yoenduk Palace:
+
+    You descend from pure and noble lineage, your virtue blooming like precious flowers intertwined. With grace and wisdom refined in your bearing, you have shown filial devotion from childhood; gentle and steadfast in character, you embody all that is beautiful and worthy. Thus it is fitting that we honor your name and bestow upon you our imperial favor and glory.
+
+    Therefore, we raise your station and grant our generous blessings. We hereby dispatch our emissaries, [Official Name and Title], with [Deputy Official Name and Title] as assistant, bearing the seal and solemn ceremony, to proclaim your investiture as Princess. Along with this honor, we bestow upon you the articles as recorded in the accompanying register.
+  footnotes:
+  - key: ''
+    value: Yoenduk Palace (延德宮) refers to the residence where the recipient of this decree resided.
+  - key: ''
+    value: The 'seal' (節) mentioned here is a ceremonial insignia of office granted during official investiture ceremonies.
+  - key: ''
+    value: This is a formal proclamation document, likely issued by a royal court for the ceremonial elevation of a royal princess, combining official decree language with classical poetic sensibilities.

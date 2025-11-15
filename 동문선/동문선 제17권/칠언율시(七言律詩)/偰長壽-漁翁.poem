@@ -1,0 +1,52 @@
+canonical:
+  title: 漁翁
+  author: 偰長壽
+  language: lzh
+  text: 不爲浮名役役忙生涯追逐水雲鄕平湖春暖煙千里古岸秋高月一航紫陌紅塵無夢寐綠蓑靑蒻共行藏一聲欵乃歌中趣那羨人閒有玉堂
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 漁翁
+  author: 偰長壽
+  language: lzh
+  text: 不爲浮名役役忙。生涯追逐水雲鄕。平湖春暖煙千里。古岸秋高月一航。紫陌紅塵無夢寐。綠蓑靑蒻共行藏。一聲欵乃歌中趣。那羨人閒有玉堂。
+korean:
+  title: 어옹
+  author: 설장수
+  language: kor
+  text: |-
+    뜬 이름에 매어 구질구질 바쁘지 않고
+    생애를 찾아 물 구름 고장에 오락가락
+    따뜻한 봄 질펀한 호수에 안개가 천 리
+    가을 경치 한창인데 달 아래 외로운 배
+    자맥ㆍ홍진에는 꿈조차 없고
+    푸른 도롱이 부들삿갓으로 평생을 짝하누나
+    어여차 한 마디 노래 속의 그 멋이
+    인간의 높은 벼슬을 부러워나 할소냐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0330&viewSync=OT
+  footnotes: []
+english:
+  title: The Fisherman
+  author: Seol Jang-su
+  language: eng
+  text: |-
+    I do not toil in the name of empty fame,
+    Drifting through my years on waters and clouds.
+    Warm spring spreads mist a thousand li
+    Across the placid lake—autumn's splendor high,
+    The moon my lonely sail.
+
+    I have no dreams in the red dust of the world,
+    No sleep in its purple byways.
+    Green hemp cloak and cattail hat—
+    These are my companions through all my days.
+    One note of the oar song rings true,
+    Its melody richer than any palace hall.
+    Why should I envy the honor of men?
+  footnotes:
+  - key: ''
+    value: The 'oar song' (欵乃歌) is a traditional fisherman's work song, symbolizing the simple authenticity of the fisherman's life.
+  - key: ''
+    value: The imagery of 'waters and clouds' represents a life of freedom and wandering, detached from worldly concerns.
+  - key: ''
+    value: The 'purple byways and red dust' are classical references to the corrupted affairs of the secular world and human ambition.

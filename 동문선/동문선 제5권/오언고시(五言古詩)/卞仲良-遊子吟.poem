@@ -1,0 +1,42 @@
+canonical:
+  title: 遊子吟
+  author: 卞仲良
+  language: lzh
+  text: 遊子久未返弊盡慈母衣故山苦遼邈何時賦言歸人生不滿百惜此西日暉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊子吟
+  author: 卞仲良
+  language: lzh
+  text: 遊子久未返。弊盡慈母衣。故山苦遼邈。何時賦言歸。人生不滿百。惜此西日暉。
+korean:
+  title: 유자음
+  author: 변중량
+  language: kor
+  text: |-
+    객지에 떠다니는 자식 오래 돌아가지 못하나니
+    어머니 주신 옷을 다 해뜨렸도다
+    고향이 아득하고 멀어라
+    어느 때에나 돌아갈꼬
+    인생이 백 년이 되지 못하니
+    서쪽으로 넘어가는 햇빛을 아끼노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 유자음(遊子吟) : '
+    value: 당나라 맹교(孟郊)의 유자음을 저자가 차운한 것이다.
+english:
+  title: A Wanderer's Lament
+  author: Byun Joong-ryang
+  language: eng
+  text: |-
+    The wanderer far from home has not returned for long,
+    The garments his mother gave him are worn through.
+    The old mountains recede into distant haze—
+    When will the day come to speak of going back?
+
+    A human life does not reach a hundred years.
+    I cherish the light of the sun as it descends in the west.
+  footnotes:
+  - key: ''
+    value: This poem echoes Meng Jiao's classical work 'A Wanderer's Lament' from the Tang dynasty, rendered here in the author's own response to that timeless theme.

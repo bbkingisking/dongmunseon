@@ -1,0 +1,37 @@
+canonical:
+  title: 永同縣中
+  author: 權敏手
+  language: lzh
+  text: 欲雨未雨江霧濕半開未開野花寒春城二月三盃酒判得南來萬事閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 永同縣中
+  author: 權敏手
+  language: lzh
+  text: 欲雨未雨江霧濕。半開未開野花寒。春城二月三盃酒。判得南來萬事閑。
+korean:
+  title: 영동 현중
+  author: 권민수
+  language: kor
+  text: |-
+    비 내리려다 말고 강안개만 젖었는데
+    반쯤 피다만 들꽃은 차가워라
+    봄 성 2월에 석잔 술로써
+    남으로 온 여러 일을 판정하여 한가하도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0570&viewSync=OT
+  footnotes: []
+english:
+  title: In Yeongdong County
+  author: Gwon Min-soo
+  language: eng
+  text: |-
+    Rain threatens but does not fall—only river mist dampens the air.
+    Wild flowers half-bloom, shivering in the cold.
+    In the spring city, two months of wine—three cups—
+    And I settle all the affairs that followed me south into leisure.
+  footnotes:
+  - key: ''
+    value: '''Spring city'' refers to the capital or a major city during the spring season'
+  - key: ''
+    value: The 'three cups' may reference both literal wine drinking and the traditional poetic motif of wine as a means to transcend worldly concerns

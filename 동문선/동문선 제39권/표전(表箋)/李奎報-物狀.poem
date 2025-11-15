@@ -1,0 +1,29 @@
+canonical:
+  title: 物狀
+  author: 李奎報
+  language: lzh
+  text: 芹暄之賤非所奉於至尊山海之寬亦兼容於微薄前件物等殘邦薄産遠道輕賫不堪赬面之慙祗表丹心之懇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 李奎報
+  language: lzh
+  text: 芹暄之賤。非所奉於至尊。山海之寬。亦兼容於微薄。前件物等。殘邦薄産。遠道輕賫。不堪赬面之慙。祗表丹心之懇。
+korean:
+  title: 물 장
+  author: 이규보
+  language: kor
+  text: 보잘것없는 미나리와 등을 쬐는 햇살 은 지존(至尊)께 받들 바가 아니나, 산과 바다 같은 너그러움으로 미박(微薄)한 것도 겸하여 용납하실 줄 입니다.앞의 물품들은 쇠잔한 본국의 소산을 먼 길에 약간 가져가는 것인 바, 얼굴이 붉어지는 부끄러움을 가누지 못하며 다만 단심(丹心)의 정성을 표할 뿐이로소이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0420_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 보잘것없는 …… 햇살 : '
+    value: 옛날에 어느 농부가 미나리를 먹어보고 맛이 좋다 하여 임금에게 바치려 하였고, 또 가난한 백성이 삼동 추위에 떨다가 햇빛을 등에 쪼여 보고는, “이 좋은 방법을 임금에게 바치겠다.” 하였다 한다. 《列子 楊朱》
+english:
+  title: Presentation of Humble Gifts
+  author: Lee Gyubo
+  language: eng
+  text: 'Celery and humble shoots—these are not worthy offerings for the highest throne. Yet the vastness of mountains and seas embraces even the meager and slight. These items before you are the sparse harvest of a declining realm, carried afar with but trifling burden. I cannot hide the crimson flush of shame upon my face, yet I offer only this: the steadfast scarlet heart of sincere devotion.'
+  footnotes:
+  - key: ''
+    value: 'This work alludes to classical Chinese tales of humble offerings: a farmer who discovered the excellence of wild celery and wished to present it to his ruler, and a poor man who, shivering through winter, discovered the warmth of sunlight upon his back and sought to present this gift to his lord. These stories illustrate how even the most modest offerings, given with sincere intent, possess their own nobility.'

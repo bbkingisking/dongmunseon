@@ -1,0 +1,48 @@
+canonical:
+  title: 送柳思庵
+  author: 李仁復
+  language: lzh
+  text: 人間膏火自相煎明哲如公史可傳已向危時安社稷更從平地作神仙五湖夢斷烟波綠三徑秋深野菊鮮媿我未能投紱去邇來雙鬂雪飄然
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送柳思庵
+  author: 李仁復
+  language: lzh
+  text: 人間膏火自相煎。明哲如公史可傳。已向危時安社稷。更從平地作神仙。五湖夢斷烟波綠。三徑秋深野菊鮮。媿我未能投紱去。邇來雙鬂雪飄然。
+korean:
+  title: 송유사암
+  author: 이인복
+  language: kor
+  text: |-
+    인간엔 기름불 스스로 끓이거늘
+    그대 같은 명철 한 분은 역사에 전할 만하외다
+    위태로운 시국에 사직을 편안히 하고
+    평지에서 그대로 신선이 되는구나
+    반드시 오호의 푸른 물결 꿈이 벌써 끊어졌고
+    삼경 깊은 가을에 들국화 곱게 피리
+    나는 부끄럽네, 벼슬 버리고 못 가는데
+    요사이 두 귀밑머리에 눈이 나부끼니
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0770&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell to Liu Si'an
+  author: Lee In-bok
+  language: eng
+  text: |-
+    In this world, men are fuel that consumes itself in flame—
+    Yet one of your brilliance deserves a place in history's page.
+    You have steadied the realm in its hour of peril,
+    And from level ground have become as immortal sage.
+
+    The dreams of Five Lakes fade where green waters flow,
+    In autumn's depth the wild chrysanthemums bloom fair.
+    I am ashamed—I lack the courage to lay down my post and go,
+    While snow now falls like frost upon my darkening hair.
+  footnotes:
+  - key: ''
+    value: 'Five Lakes (五湖): A classical allusion to withdrawal from worldly affairs; reference to the Eastern Wu period or the legendary retreat of virtuous recluses.'
+  - key: ''
+    value: 'Three Paths (三徑): An allusion to Tao Yuanming''s famous retreat to a garden with three winding paths, symbolizing the hermit''s simple life and separation from official duties.'
+  - key: ''
+    value: The poem contrasts the addressee's noble withdrawal from service with the speaker's own inability to do the same, creating a poignant tension between admiration and self-reproach.

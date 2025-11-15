@@ -1,0 +1,29 @@
+canonical:
+  title: 入金進奉起居表
+  author: 金富軾
+  language: lzh
+  text: 平壤封疆恪守朱蒙之故國塗山玉帛未參夏禹之諸侯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 入金進奉起居表
+  author: 金富軾
+  language: lzh
+  text: 平壤封疆。恪守朱蒙之故國。塗山玉帛。未參夏禹之諸侯。
+korean:
+  title: 입금 진봉 기거 표
+  author: 김부식
+  language: kor
+  text: 평양(平壤)의 봉지(封地)에 있어 정성껏 주몽(朱蒙)의 고국을 지키자니, 도산(塗山)의 옥백(玉帛)에 하우(夏禹)의 제후(諸侯)로 참예하지 못하옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 옥백(玉帛) : '
+    value: 하우씨(夏禹氏)가 도산(塗山)에서 제후(諸侯)들과 회맹(會盟)하였는데 옥백(玉帛)을 들고 조회 온 나라가 만에 달했다.
+english:
+  title: Memorial Presented Upon Receiving Imperial Appointment
+  author: Kim Bu-sik
+  language: eng
+  text: Within the borders of Pyongyang, I dutifully guard the ancient kingdom left by Jumong. Yet at the Tushan gathering of jade and silk, I cannot stand among the princes summoned by Yu the Great.
+  footnotes:
+  - key: ''
+    value: Tushan gathering refers to the legendary assembly where Yu the Great met with countless tributary princes bearing gifts of jade and silk—a symbolic representation of universal imperial authority and submission.

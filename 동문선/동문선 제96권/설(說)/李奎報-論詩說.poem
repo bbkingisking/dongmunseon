@@ -1,0 +1,44 @@
+canonical:
+  title: 論詩說
+  author: 李奎報
+  language: lzh
+  text: 予自讀梅聖兪詩私心竊薄之未識古人所以號詩翁者及今閱之外若薾弱中含骨鯁眞詩中之精雋也知梅詩然後可謂知詩者也但古人以謝公詩池塘生春草爲警策予未識佳處徐凝瀑布詩一條界破靑山色則予擬其佳句然東坡以爲惡詩由此觀之予輩之爲詩其不及古人遠矣又陶潛詩恬淡和靜如淸廟之瑟朱絃踈越一唱三嘆予欲効其體終不得其髣髴尤可笑已
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 論詩說
+  author: 李奎報
+  language: lzh
+  text: 予自讀梅聖兪詩。私心竊薄之。未識古人所以號詩翁者。及今閱之。外若薾弱。中含骨鯁。眞詩中之精雋也。知梅詩然後可謂知詩者也。但古人以謝公詩。池塘生春草。爲警策。予未識佳處。徐凝瀑布詩。一條界破靑山色。則予擬其佳句。然東坡以爲惡詩。由此觀之。予輩之爲詩。其不及古人遠矣。又陶潛詩恬淡和靜。如淸廟之瑟。朱絃踈越。一唱三嘆。予欲効其體。終不得其髣髴。尤可笑已。
+korean:
+  title: 논시설
+  author: 이규보
+  language: kor
+  text: 나는 혼자서 매성유(梅聖兪)의 시를 읽고 마음속을 대수롭게 여기지 아니하여 옛 사람이 그를 시옹(詩翁)이라는 칭호를 붙여준 이유를 알지 못했었는데, 지금에 이르러 그것을 보니 겉으로는 약한 듯하나 속으로는 단단한 힘이 있어서 정말 시 가운데 우수한 것이었다. 매성유의 시를 안 뒤에라야 시를 아는 사람이라고 할 수 있다. 다만 옛 사람이 사공(謝公)의 시 가운데 “못둑에 봄풀이 돋아난다.”라고 한 부분을 용하다고 하였으나 나는 좋은 점을 아직 알 수 없다. 서웅(徐凝)의 〈폭포(瀑布)〉시에, “한 가닥이 푸른 산빛을 갈라서 쪼개놓았다.”라고 한 부분을 나는 매우 좋은 글귀라고 생각하는데, 그러나 동파(東坡)는 못쓸 시라고 하였다. 이렇게 본다면 우리들의 시는 고인의 시에 훨씬 못 미친다. 또한 도잠(陶潛)의 시는 담박하며 화평하고 고요하여 마치 청묘(淸廟)의 악곡을 연주하는 거문고가 붉은 줄이 듬성듬성하면서 청아한 것과 같아서, 한 번 부르고 세 번씩 감탄하게 된다. 나는 그 체를 본받으려 하나 마침내 비슷하게도 할 수 없으니 더욱 우스운 노릇이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0990_010_0090&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 매성유(梅聖兪) : '
+    value: 송(宋)나라 때 시인 매요신(梅堯臣)의 자(字).
+  - key: '[주-D002] 사공(謝公)의 시 : '
+    value: 남조(南朝) 때 송(宋)나라의 시인 사영운(謝靈運)이 꿈에 그의 족제(族弟)인 혜련(惠連)을 만나서 지었다는 시 《남사 사혜련전(南史 謝惠連傳)》
+  - key: '[주-D003] 청묘(淸廟) : '
+    value: 주(周)나라의 종묘(宗廟)에서 제사 지낼 때에 연주하던 악장(樂章). 《시경 주송 청묘(詩經周頌淸廟)》
+english:
+  title: On Poetry
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    When I first read the poems of Mei Shengyu alone, I thought little of them in my heart and could not understand why the ancients called him the Poetry Sage. But now that I have examined them closely, though they appear delicate on the surface, they contain within them a strength of substance—truly the finest essence of poetry. Only after knowing Mei's poetry can one be said to truly know poetry.
+
+    Yet there is something I do not comprehend. The ancients praised a line from Xie Gong's work—"Spring grass springs forth by the pond"—as remarkable, yet I cannot discern its beauty. In Xu Ning's poem on a waterfall, the line "One thread cleaves and parts the green mountain's hue" strikes me as exquisite. Yet Su Dongpo deemed it a failed work. From this I perceive that we moderns fall far short of the ancients in the craft of verse.
+
+    Furthermore, Tao Qian's poetry is serene and tranquil, like the timeless strains of the temple zither—its vermillion strings stretched sparsely, each note resonant with grace, drawing forth sighs of wonder with every utterance. I have sought to capture this style, yet I forever fall short of even its shadow. How utterly laughable this is.
+  footnotes:
+  - key: ''
+    value: Mei Shengyu (梅聖兪) is the courtesy name of Mei Yaochen (梅堯臣), a renowned Song Dynasty poet.
+  - key: ''
+    value: The line 'Spring grass springs forth by the pond' is attributed to Xie Lingyun (謝靈運), a Southern Dynasties poet, said to have been composed in a dream.
+  - key: ''
+    value: Tao Qian (陶潛), also known as Tao Yuanming, was a Jin Dynasty poet celebrated for his naturalistic and reclusive verse.
+  - key: ''
+    value: Su Dongpo (東坡) is Su Shi, a Song Dynasty poet and polymath whose aesthetic judgments were highly influential.

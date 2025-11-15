@@ -1,0 +1,68 @@
+canonical:
+  title: 賞春亭玉蘂花
+  author: 陳澕
+  language: lzh
+  text: 禁籞春光雨後多遊絲不動柳陰斜閑携綠髮金閨客吟對紅墻玉蘂花幾片因風隨鳳輦數枝和雪上烏紗酒闌緩步西淸月更覺濃香繞鬂華懶隨桃李闘嬌饒素艷閑愁鎖寂寥虢國夫人嫌粉黛漢皐仙子佩瓊瑤半墻踈影風前亞掠鼻淸香雨後飄十二玉欄春欲暮急須摹取上鮫綃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 賞春亭玉蘂花
+  author: 陳澕
+  language: lzh
+  text: 禁籞春光雨後多。遊絲不動柳陰斜。閑携綠髮金閨客。吟對紅墻玉蘂花。幾片因風隨鳳輦。數枝和雪上烏紗。酒闌緩步西淸月。更覺濃香繞鬂華。懶隨桃李闘嬌饒。素艷閑愁鎖寂寥。虢國夫人嫌粉黛。漢皐仙子佩瓊瑤。半墻踈影風前亞。掠鼻淸香雨後飄。十二玉欄春欲暮。急須摹取上鮫綃。
+korean:
+  title: 상춘정 옥예화
+  author: 진화
+  language: kor
+  text: |-
+    금원(궁궐)의 봄빛이 비 온 뒤에 한창인데
+    아지랑이도 안 날리고 버들 그늘 비꼈구나
+    푸른 머리 금규객(한원(翰苑)의 문신(文臣))과 한가로이 짝을 지어
+    붉은 담의 옥예화를 읊으며 대하였네
+    몇 조각이 바람에 불려 봉연을 따르는고
+    두어 가지가 눈송인 양 오사모에 오르누나
+    술에 거나하여 서청전 달 아래 거니느라니
+    다시금 짙은 향내가 귀밑을 감도네
+    복숭아ㆍ오얏꽃 따라 고움 다투기 싫어서
+    소박한 맵시로 적막히 시름을 띠고 있네
+    괵국부인은 워낙 분대를 싫어하지
+    한고의 선녀가 옥을 차고 거니는 듯
+    담 옆의 생긴 그림자는 바람에 한들한들
+    코를 찌르는 밝은 향내가 비 온 뒤에 나풀나풀
+    옥 난간 열두 굽이에 봄이 늦으려 하니
+    화공아, 어서 그려라 교초(교인(鮫人)이 짠 집) 위에
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 괵국부인(虢國夫人) : '
+    value: 당(唐)나라 양귀비(楊貴妃)의 언니인데, 얼굴이 고와서 분(粉)을 바르지 않았다.
+  - key: '[주-D002] 한고(漢皐)의 …… 옥을 차고 : '
+    value: “정교보(鄭交甫)가 남으로 놀새 저 한고대(漢皐臺) 밑에 올라 두 여자를 만나니 옥을 차고 있었다. 교보가 눈짓하여 정을 돋우니, 두 여자가 찬 것을 풀어 주었다.” 《漢詩外傳》 한고(漢皐)는 산 이름. 호북성(胡北省) 서북.
+english:
+  title: Jade Blossoms at the Spring-Viewing Pavilion
+  author: Chen Hwa
+  language: eng
+  text: |-
+    The palace gardens burst with spring light after the rain,
+    where even the floating mist holds still beneath the willow shade.
+    I wander at leisure with courtly companions of refined bearing,
+    composing verses before the vermillion wall's precious jade blooms.
+
+    A few petals scatter on the wind, following the imperial palanquin,
+    while several sprigs rest like falling snow upon official hats.
+    Half-intoxicated, I stroll beneath the western moon's pure light—
+    and feel again the heavy fragrance drifting through my hair.
+
+    These flowers disdain to rival peach and plum in gaudy charm,
+    preferring their pale splendor, serene in solitary grace.
+    Varugupta's lady needed no powder to enhance her face;
+    like the immortal of Han Gao, adorned in jade alone.
+
+    Half the wall casts delicate shadows, trembling in the breeze,
+    while their bright perfume wafts and flutters after rain.
+    Spring fades upon the jade-railed terrace's twelve curves—
+    painter, make haste to capture this on the finest silk.
+  footnotes:
+  - key: ''
+    value: 'Varugupta''s lady (虢國夫人): A historical allusion to the Tang dynasty court beauty, sister of Yang Guifei, known for her natural complexion that needed no cosmetics.'
+  - key: ''
+    value: 'The immortal of Han Gao (漢皐): A legendary figure said to have encountered celestial maidens adorned with jade, evoking transcendent beauty beyond mortal artifice.'

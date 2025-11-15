@@ -1,0 +1,44 @@
+canonical:
+  title: 送士美省親南州
+  author: 權敏手
+  language: lzh
+  text: 送君今日出城闉脫得紛紛擾擾身試覓江樓最高處仍留夏日遠行人世間得失無窮事堂上晨昏有幾春我亦思歸未歸去不堪淸夢往來頻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送士美省親南州
+  author: 權敏手
+  language: lzh
+  text: 送君今日出城闉。脫得紛紛擾擾身。試覓江樓最高處。仍留夏日遠行人。世間得失無窮事。堂上晨昏有幾春。我亦思歸未歸去。不堪淸夢往來頻。
+korean:
+  title: 송 사미성 친남주
+  author: 권민수
+  language: kor
+  text: |-
+    오늘 그대를 보내어 성문을 나가나니
+    어지럽고 시끄러운 것을 벗어난 몸이로세
+    시험삼아 강가 누대의 가장 높은 곳을 찾다가
+    이내 여름 날의 멀리 가는 사람이 머무르게 되리라
+    이 세상의 얻고 잃은 끝이 없는데
+    당상의 혼정신성은 몇 봄이나 있으랴
+    나도 돌아가고자 하나 아직 돌아가지 못해
+    맑은 꿈이 자주 오가는 것을 견디지 못하겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0800&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off Sa-mi on His Journey Home to the Southern State
+  author: Gwon Min-su
+  language: eng
+  text: |-
+    Today I watch you depart beyond the city gates,
+    Your form freed from the tumult and confusion of the world.
+    I seek out the highest pavilion by the river,
+    And there I linger—a traveler in the summer heat.
+
+    The gains and losses of this world know no end,
+    Yet how many springs remain in the halls at home?
+    I too wish to return, yet cannot go,
+    And cannot bear the frequent visits of my clearest dreams.
+  footnotes:
+  - key: ''
+    value: Sa-mi (士美) appears to be the courtesy name of the traveler being seen off. The poem reflects both the speaker's farewell to a departing friend and a deeper longing for home and rest that remains unfulfilled.

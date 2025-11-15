@@ -1,0 +1,39 @@
+canonical:
+  title: 登智異山
+  author: 金富儀
+  language: lzh
+  text: 歷險疑登大華峯歸途還怯夕陽紅偶因王事遊方外還愧當年楊次公
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登智異山
+  author: 金富儀
+  language: lzh
+  text: 歷險疑登大華峯。歸途還怯夕陽紅。偶因王事遊方外。還愧當年楊次公。
+korean:
+  title: 등 지리산
+  author: 김부의
+  language: kor
+  text: |-
+    험한 것 겪으면서 태화봉 오르려 했더니
+    돌아올 길 붉은 저녁 볕 도리어 겁났네
+    우연히 나랏일로 방외에 노니
+    도리어 부끄럽고나 당년의 양차공이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0300&viewSync=OT
+  footnotes: []
+english:
+  title: Ascending Jirisan
+  author: Kim Bu-ui
+  language: eng
+  text: |-
+    Through perils I sought to scale the heights of Taehwa Peak,
+    Yet on the return path, the crimson sunset made me hesitate.
+    By chance, royal duties drew me to wander beyond the world,
+    And I find myself ashamed, remembering Yang Cigung of old.
+  footnotes:
+  - key: ''
+    value: Taehwa Peak (태화봉) is a reference to a high mountain, here representing lofty aspiration.
+  - key: ''
+    value: The 'crimson sunset' suggests both the beauty and melancholy of returning from one's spiritual journey.
+  - key: ''
+    value: Yang Cigung (양차공) was a recluse known for his withdrawal from worldly affairs, serving as a contrast to the poet's inability to fully escape the duties of service.

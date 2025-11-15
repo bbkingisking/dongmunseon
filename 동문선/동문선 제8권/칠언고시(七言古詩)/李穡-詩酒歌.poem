@@ -1,0 +1,72 @@
+canonical:
+  title: 詩酒歌
+  author: 李穡
+  language: lzh
+  text: 酒不可一日無詩不可一日輟仁人義士心膽苦欲寫未寫絶未絶湘魂沉沉水無波蜀魄磔磔山有月手引深杯蒼海翻口吟長句飛電决盡將磊落付雲虛不向須臾辨生滅人閒詩酒功第一多少危時保明哲酒有狂詩有魔禮法不敢煩麾呵身逃名網卽樂土江山風月俱婆娑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 詩酒歌
+  author: 李穡
+  language: lzh
+  text: 酒不可一日無。詩不可一日輟。仁人義士心膽苦。欲寫未寫絶未絶。湘魂沉沉水無波。蜀魄磔磔山有月。手引深杯蒼海翻。口吟長句飛電决。盡將磊落付雲虛。不向須臾辨生滅。人閒詩酒功第一。多少危時保明哲。酒有狂詩有魔。禮法不敢煩麾呵。身逃名網卽樂土。江山風月俱婆娑。
+korean:
+  title: 시주가
+  author: 이색
+  language: kor
+  text: |-
+    술은 하루도 없지 못할 것
+    시는 하루도 쉬지 못할 것
+    인인ㆍ의사들 마음이 괴로워
+    시를 쓸 듯 쓰지 못할 듯, 술을 끊을 듯 끊지 못할 듯
+    상수에는 혼이 잠겨 물결조차 일지 않고
+    촉백이 울 제 산에는 달이 있어
+    손에 깊은 잔 드니 창해가 뒤집히고
+    입으로 긴 구 읊으니 번개가 번쩍하네
+    뇌락한 모든 회포를 저 구름에 부치고
+    잠시 동안 나고 없어짐쯤 상관하지 않네
+    인간에 시와 술이 그 공이 첫째로세
+    위태로운 시대에 명철 치고 술로 몸 보전한 이 그 얼마인가
+    술에는 광이, 시에는 마 있으니
+    예법이 제 어찌 감히 귀찮게 간섭하리
+    이 그물 벗어나면 그게 곧 낙토려니
+    강산 풍월과 함께 놀아나리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 상수(湘水)에는 혼이 잠겨 : '
+    value: 충신 굴원(屈原)이 상수(湘水)에 몸을 던져 죽었는데, 억울한 혼이 잠겼다.
+  - key: '[주-D002] 촉백(蜀魄) : '
+    value: 두견(杜鵑)새다. 옛날에, “촉주(蜀主) 두우(杜宇)가 제 신하에게 전위(傳位)하고 물러나 죽어 두견새가 되었다.” 하는데, 나라 잃은 원한으로 피 흘리며 운다. 그러므로 두견새를 촉나라 넋[蜀魄]이라 한다.
+  - key: '[주-D003] 위태로운 …… 얼마인가 : '
+    value: 《시경》에, “명철(明哲)하여 그 몸을 보전한다.”는 글귀가 있는데, 위태로운 난세에 난 명사(名士) 중에 술에 빠진 것처럼 핑계하여 보신술(保身術)을 삼은 이가 많았다.
+english:
+  title: Poetry, Wine, and Song
+  author: Lee Saek
+  language: eng
+  text: |-
+    Wine cannot be absent a single day.
+    Poetry cannot cease a single day.
+    The righteous and the virtuous suffer in their hearts—
+    Desiring to write, yet unable; seeking to stop, yet endless.
+
+    In the Xiang waters dwells a mournful soul, still as windless waves.
+    When the Shu bird cries out, the moon hangs high upon the mountain.
+    A deep cup in hand turns the azure sea upside down.
+    Long verses from my lips flash like sudden lightning.
+
+    I release all my tangled sorrows to the empty clouds,
+    Indifferent to the fleeting rise and fall of existence.
+    Among mankind, poetry and wine rank first in merit—
+    How many in perilous times have they preserved in clarity?
+
+    Wine holds its wild passion, poetry its intoxication.
+    How dare propriety presume to govern them?
+    Escape the net of reputation, and behold—that is paradise.
+    I shall wander with rivers and mountains, moon and wind.
+  footnotes:
+  - key: ''
+    value: 'The Xiang waters: An allusion to Qu Yuan, the loyal minister who drowned himself in the Xiang River, his grieving spirit forever dwelling in those waters.'
+  - key: ''
+    value: 'The Shu bird: The cuckoo, said to be the transformed spirit of a former Shu king, weeping in sorrow for his lost realm.'
+  - key: ''
+    value: 'A reference to the Shijing: ''The wise preserve themselves''—a practice adopted by many scholars in times of turmoil, who feigned drunkenness as a means of survival.'

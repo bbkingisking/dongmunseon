@@ -1,0 +1,37 @@
+canonical:
+  title: 風月樓
+  author: 盧公弼
+  language: lzh
+  text: 薔薇花發續殘春風月樓高絶點塵爛醉欲歸歸不得滿池明月更留人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 風月樓
+  author: 盧公弼
+  language: lzh
+  text: 薔薇花發續殘春。風月樓高絶點塵。爛醉欲歸歸不得。滿池明月更留人。
+korean:
+  title: 풍월루
+  author: 노공필
+  language: kor
+  text: |-
+    장미꽃 피어남은 봄을 이을 듯이
+    풍월루 높이 솟아 한 점 티끌 없어라
+    몹시 취해 돌아오려 해도 아니 됨은
+    밝은 달 못에 가득 다시 나를 붙든다네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0530&viewSync=OT
+  footnotes: []
+english:
+  title: The Tower of Wind and Moon
+  author: Ro Gong-pil
+  language: eng
+  text: |-
+    Roses bloom to continue the fading spring,
+    The Tower of Wind and Moon rises high, untouched by dust.
+    Drunk, I wish to depart but cannot tear myself away—
+    The bright moon fills the pond and holds me still.
+  footnotes:
+  - key: ''
+    value: The 'Tower of Wind and Moon' is a pavilion that epitomizes aesthetic refinement and contemplative beauty in East Asian poetry, often representing a liminal space between the mundane and the transcendent.
+  - key: ''
+    value: The imagery of roses extending spring suggests the speaker's desire to prolong a fleeting moment of beauty and intoxication.

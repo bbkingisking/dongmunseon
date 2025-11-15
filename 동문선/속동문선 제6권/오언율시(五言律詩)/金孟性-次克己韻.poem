@@ -1,0 +1,46 @@
+canonical:
+  title: 次克己韻
+  author: 金孟性
+  language: lzh
+  text: 咫尺同千里離憂各飽更何時看舊面把酒瀉幽情遶屋馬山近循除水鳴春風相憶處一枕夢還驚
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次克己韻
+  author: 金孟性
+  language: lzh
+  text: 咫尺同千里。離憂各飽更。何時看舊面。把酒瀉幽情。遶屋馬山近。循除水鳴。春風相憶處。一枕夢還驚。
+korean:
+  title: 차 극기운
+  author: 김맹성
+  language: kor
+  text: |-
+    지척이 마치 천리 같거니
+    이별한 시름은 각기 못내 지루하다
+    언제나 옛 얼굴 다시 보려나
+    술잔을 들고 그윽한 정 쏟는다
+    집을 둘러싼 마산은 가까운데
+    섬돌을 돌아 뇌수가 운다
+    봄바람에 서로 생각하는 곳에
+    한 베개의 꿈이 놀라 깨었다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0630&viewSync=OT
+  footnotes: []
+english:
+  title: Following the Rhyme of 'Overcoming the Self'
+  author: Kim Maeng-seong
+  language: eng
+  text: |-
+    A span of inches stretches like a thousand leagues—
+    separation's sorrow weighs equally on us both, endless and heavy.
+    When will I see that familiar face again?
+    I raise my cup and pour out my deepest yearning.
+
+    Ma Mountain encircles the house, drawing near,
+    while water sings its way around the garden stones.
+    In the spring wind where we remember each other,
+    I wake startled from a single pillow's dream.
+  footnotes:
+  - key: ''
+    value: This poem appears to follow the rhyme scheme of another work titled 'Overcoming the Self' (克己), a common practice in classical Korean and Chinese poetry circles where poets would compose works matching the rhymes of an earlier poem.
+  - key: ''
+    value: Ma Mountain (馬山) likely refers to a specific geographical landmark visible from the poet's residence, serving as both a physical and emotional anchor in the poem.

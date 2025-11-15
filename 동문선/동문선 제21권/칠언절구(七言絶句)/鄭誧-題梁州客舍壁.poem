@@ -1,0 +1,37 @@
+canonical:
+  title: 題梁州客舍壁
+  author: 鄭誧
+  language: lzh
+  text: 五更燈影照殘粧欲話別離先斷膓落月半庭推戶出杏花踈影滿衣裳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題梁州客舍壁
+  author: 鄭誧
+  language: lzh
+  text: 五更燈影照殘粧。欲話別離先斷膓。落月半庭推戶出。杏花踈影滿衣裳。
+korean:
+  title: 제양주객사벽
+  author: 정포
+  language: kor
+  text: |-
+    오경의 등불 그림자 일그러진 단장을 비출 때
+    이별을 이야기하려니 먼저 창자가 끊어지네
+    반 뜰의 지는 달빛에 문을 밀고 나가 보니
+    살구꽃 성긴 그림자 가득히 옷에 차네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0800&viewSync=OT
+  footnotes: []
+english:
+  title: Written on the Wall of a Traveler's Lodge in Liangzhou
+  author: Jung Po
+  language: eng
+  text: |-
+    At the fifth watch, lamplight casts shadows on a beauty's disheveled face.
+    Wishing to speak of parting, my heart breaks before words can form.
+    Through the half-lit courtyard, I push open the door and step out—
+    Sparse apricot blossoms' shadows scatter across my robe.
+  footnotes:
+  - key: ''
+    value: The 'fifth watch' refers to the period just before dawn, evoking the melancholy of an imminent departure.
+  - key: ''
+    value: The poem plays on the tension between the desire to speak and the overwhelming emotion that prevents it—a common motif in classical poetry about separation and longing.

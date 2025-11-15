@@ -1,0 +1,93 @@
+canonical:
+  title: 春日昭陽江行
+  author: 李先齊
+  language: lzh
+  text: 沃野漫漫橫素煙中有鳳山撑蒼天昭陽江水流山北光海州治依山前山西水南是濊墟風淳俗美示蒲鞭向時豪華隨世盡樓觀有基臨淸川宋公經營不日成心匠與此同豁然簷牙高啄鳳岡阿鳳去山空松彈絃登臨一望萬景奔物像依然似去年我來又見發春梅東西役役每勞懷光陰冉冉不我延花飛悄悄粘蒼苔花粘蒼苔可奈何倚柱空吟首不迴今年春旱又倍前渴飮茶湯代酒盃苗不入土昭雲章藹藹南畝飛黃埃降香精禱象天庥田畯欣欣治汙萊來牟更明稼生穡肯使此樓終寂寞秋來把酒邀明月莫爲虛作關東客
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春日昭陽江行
+  author: 李先齊
+  language: lzh
+  text: 沃野漫漫橫素煙。中有鳳山撑蒼天。昭陽江水流山北。光海州治依山前。山西水南是濊墟。風淳俗美示蒲鞭。向時豪華隨世盡。樓觀有基臨淸川。宋公經營不日成。心匠與此同豁然。簷牙高啄鳳岡阿。鳳去山空松彈絃。登臨一望萬景奔。物像依然似去年。我來又見發春梅。東西役役每勞懷。光陰冉冉不我延。花飛悄悄粘蒼苔。花粘蒼苔可奈何。倚柱空吟首不迴。今年春旱又倍前。渴飮茶湯代酒盃。苗不入土昭雲章。藹藹南畝飛黃埃。降香精禱象天庥。田畯欣欣治汙萊。來牟更明稼生穡。肯使此樓終寂寞。秋來把酒邀明月。莫爲虛作關東客。
+korean:
+  title: 춘일 소양강행
+  author: 이선제
+  language: kor
+  text: |-
+    넓은 옥토 벌에 흰 연기 비꼈는데
+    한가운데 봉산(춘천(春川)의 진산(鎭山))이 하늘을 버티고 솟았네
+    소양강 물이 산북으로 흐르고
+    광해주치(춘천(春川)의 신라 때 이름)는 산 앞을 의지했는데
+    산 서쪽은 물, 남쪽은 예의 옛터
+    풍속이 순미하여 형벌에 부들 채찍
+    옛날의 호화는 시대를 따라 없어지고
+    맑은 강가에 누각 터만 있는 것을
+    송공이 경영하여 며칠 만에 낙성하니
+    마음의 계획이 이 정자같이 넓을씨고
+    추녀 끝이 봉강 기슭에 우뚝 솟았는데
+    봉은 가고 산은 비고 솔바람이 솔솔
+    올라 한 번 바라보니 달려오는 온갖 경치
+    물색은 의연히 거년과 비슷하네
+    내가 오자 또 봄 매화꽃 피니
+    동서로 분주한 몸 매양 마음 괴롭네
+    세월은 흘러흘러 나 때문에 안 늦추고
+    낙화는 살포시 푸른 이끼에 붙는구나
+    꽃이 이끼에 붙으니 어이할꺼나
+    기둥에 기댄 채 시만 읊고 머리 안 돌리네
+    금년엔 봄 가뭄이 전보다 배나 심해
+    목 말라도 술 대신 차나 마시는데
+    모도 못 심은 채 구름이 활짝 걷어
+    논에 펄펄 먼지가 날리던 차
+    나라에서 향을 내려 기우제를 지내니
+    땀 흘리며 김 매는 것을 권농이 기뻐하네
+    밀 보리가 되살아나고 심은 것에 싹이 나니
+    북루가 어이 끝내 적막할 것인가
+    가을에는 술잔 들고 밝은 달을 맞이하여
+    헛되이 관동의 손이 안 되기를
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0480&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 부들 채찍[蒲鞭] : '
+    value: 한(漢)나라 유관(劉寬)이 백성을 다스리면서 아전이나 백성이 허물이 있으면, 다만 아프지 않은 부들 채찍[蒲鞭]을 써 벌하여 욕을 보일 따름이었다.
+english:
+  title: Spring Journey Along the Soyang River
+  author: Lee Seonje
+  language: eng
+  text: |-
+    Across the fertile plain spreads white mist like silk,
+    and there Phoenix Mountain rises, propping up the azure sky.
+    The Soyang River flows northward from the mountain,
+    while Gwanghae, the old seat of government, nestles against the ridge.
+    West of the mountain, south of its waters, lie the ruins of Yae—
+    a land of gentle customs, ruled with the soft reed-whip of benevolence.
+    The extravagance of old has faded with the ages,
+    leaving only foundations where pavilions once stood by the clear stream.
+    Yet Song Kong, in his devotion, raised it anew in mere days,
+    and his architect's vision opened wide as this very pavilion.
+    The roof-edge juts sharp against Phoenix Peak's flank,
+    and now that the phoenix has departed, the empty mountain sings in pine-wind.
+    I climb and gaze—ten thousand scenes come rushing down,
+    their forms unchanging, as they were last year.
+    But I return to find spring plum blossoms blooming again,
+    and my restless heart grows weary with endless journeying east and west.
+    Time flows on, indifferent to my plea,
+    and fallen petals cling softly to moss turning green.
+    Flower-fallen, moss-clung—what can one do?
+    I lean upon the pillar, murmuring verse, unable to turn my head away.
+    This year the spring drought comes doubly harsh,
+    so I drink tea instead of wine to wet my lips.
+    Seeds lie unsown as clouds break and scatter,
+    and yellow dust swirls across the waiting fields.
+    But the capital sends incense for rain-prayers,
+    and farmers smile, pulling weeds with renewed hope.
+    Wheat and barley stir back to life, new sprouts breaking through—
+    shall this pavilion truly remain in silence forever?
+    When autumn comes, I'll raise my cup to greet the bright moon,
+    and never become merely a wanderer in this eastern land.
+  footnotes:
+  - key: ''
+    value: The 'soft reed-whip' (蒲鞭) references the benevolent governance of Liu Kuan of the Han Dynasty, who used a non-painful reed whip to maintain order while showing compassion.
+  - key: ''
+    value: Phoenix Mountain (봉산) is the guardian peak of Chuncheon; the Soyang River is a major tributary in this region.
+  - key: ''
+    value: Song Kong likely refers to a contemporary official or scholar who commissioned the renovation of this pavilion.

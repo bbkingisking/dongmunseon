@@ -1,0 +1,83 @@
+canonical:
+  title: 奉呈鄭三峯
+  author: 卞季良
+  language: lzh
+  text: 天挺人中傑髫年志四方雪螢窮聖學風虎佐興王偉量吞江海全材作棟樑一身周禮樂餘事漢文章號令傾軍府經綸冠廟堂溫溫瞻麗日凜凜望秋霜功誓山河大名垂竹帛光鹽梅聞傅說帷幄見張良勤儉書之訓盈謙易所詳願言崇令德終始似汾陽
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉呈鄭三峯
+  author: 卞季良
+  language: lzh
+  text: 天挺人中傑。髫年志四方。雪螢窮聖學。風虎佐興王。偉量吞江海。全材作棟樑。一身周禮樂。餘事漢文章。號令傾軍府。經綸冠廟堂。溫溫瞻麗日。凜凜望秋霜。功誓山河大。名垂竹帛光。鹽梅聞傅說。帷幄見張良。勤儉書之訓。盈謙易所詳。願言崇令德。終始似汾陽。
+korean:
+  title: 봉정 정삼봉
+  author: 변계량
+  language: kor
+  text: |-
+    진정 하늘이 내신 인중 호걸
+    일찍 어려서부터 사방에 뜻 두었네
+    설형의 공으로써 성학 연구하고
+    풍호의 운으로 흥왕을 도와
+    강해를 삼킬 만한 도량
+    나라의 동량될 만한 완전한 인물
+    바로 온 몸이 주대의 예악
+    다음으로 여기가 한나라 문장
+    호령은 군부를 총지휘하며
+    경륜은 묘당의 수석으로서
+    따스한 얼굴은 햇빛을 우러른 듯
+    늠름한 기상은 가을 서리인듯
+    공은 산하를 두어 맹세하고
+    이름을 나기게 하니 죽백이 빛나네
+    염매는 바로 옛날 부열과 같고
+    유악에 이제 다시 장양을 보네
+    근검은 상서의 가르침대로
+    영겸은 주역에 자세히 일렀네
+    원컨대 높은 덕을 더욱더 쌓아
+    시종 곽분양처럼 복을 누리오
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0410&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 풍호(風虎) : '
+    value: 《주역》에, “구름은 용을 따르고, 바람은 범을 따른다.”는 말이 있는데, 이 말은 어진 신하가 어진 임금을 따르는 데에 비유된다.
+  - key: '[주-D002] 공(功)은 …… 맹세하고 : '
+    value: 한(漢)나라에서 처음 천하를 통일하여 공신(功臣)을 봉(封)할 때에 맹세한 말. “황하(黃河)가 띠[帶]만큼 되고, 태산이 숫돌[礪]만큼 될 때까지 나라를 길이 보전하자.” 하였다.
+  - key: '[주-D003] 죽백(竹帛) : '
+    value: 옛날에는 종이가 없어 대쪽과 비단에 글을 썼는데, 죽백(竹帛)은 역사를 기록한 책을 말한다.
+  - key: '[주-D004] 유악(帷幄) : '
+    value: 한(漢)나라 장량(張良)이 고조(高祖)의 모사(謀士)로서 종용한 주획(籌畫)에 능하여, 장막[帷幄] 가운데서 계획을 결정하였다.
+  - key: '[주-D005] 영겸(盈謙) : '
+    value: 《주역》 겸괘(謙卦)에, “천도(天道)는 영(盈)한 것을 손(損)하고 겸(謙)한 것을 익(益)하게 하여 주며, 귀신(鬼神)은 영(盈)한 것을 해(害)하고 겸(謙)한 것은 복을 주며, 인도(人道)는 영(盈)한 것을 미워하며, 겸(謙)한 것을 좋아한다.” 하였다.
+english:
+  title: Presented to Jeong Sam-bong
+  author: Byeon Gye-ryang
+  language: eng
+  text: |-
+    Heaven has fashioned you, a paragon among men,
+    Your ambitions have ranged across the four quarters since youth.
+    With the diligence of snow and firefly, you mastered the sacred learning,
+    With the grace of wind and tiger, you aided the founding king.
+    Your magnanimity could swallow rivers and seas,
+    Your complete talents would serve as the beams of a nation.
+    Your very being embodies the rites and music of the Zhou,
+    Your lesser pursuits shine with the eloquence of Han.
+    Your commands move through military halls and councils,
+    Your statecraft crowns the temples and courts.
+    Warm as your countenance, like one gazing at the sun,
+    Piercing as your bearing, like autumn frost itself.
+    Your deeds are sworn mighty as mountains and rivers,
+    Your name inscribed in history's pages, radiant and bright.
+    Like the salt and plum of old Fuksetsu before you,
+    Now I see in you a new Zhang Liang behind the tent of counsel.
+    Industry and frugality follow the sage's teachings,
+    Fullness and humility are detailed in the Changes.
+    May you ever cultivate virtue most sublime,
+    And like Guo Fenyang, receive blessings without end.
+  footnotes:
+  - key: ''
+    value: 'Wind and tiger: A reference from the Book of Changes—''clouds follow the dragon, wind follows the tiger''—traditionally understood as an allegory for how worthy ministers follow virtuous rulers.'
+  - key: ''
+    value: 'Deeds sworn mighty as mountains and rivers: An allusion to the oath sworn when the Han dynasty first unified the realm and enfeoffed its meritorious ministers—''Let this endure till the Yellow River becomes as narrow as a belt and Mount Tai as small as a whetstone.'''
+  - key: ''
+    value: 'Zhang Liang behind the tent of counsel: Zhang Liang was Liu Bang''s strategic advisor during the Han founding, renowned for devising plans within the strategist''s tent.'
+  - key: ''
+    value: 'Fullness and humility in the Changes: A reference to the Hexagram of Humility in the Book of Changes, which teaches that Heaven diminishes what is full and increases what is humble, and that both spirits and human nature favor the humble.'

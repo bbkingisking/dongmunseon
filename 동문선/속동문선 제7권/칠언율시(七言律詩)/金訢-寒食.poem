@@ -1,0 +1,48 @@
+canonical:
+  title: 寒食
+  author: 金訢
+  language: lzh
+  text: 寒食無家心事違物華猶是鄕國非百五日前春欲暮三千里外人未歸夢裏松楸空縹緲愁中桃李正芳菲鞦韆蹴踘都不管自咏新詩送落暉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寒食
+  author: 金訢
+  language: lzh
+  text: 寒食無家心事違。物華猶是鄕國非。百五日前春欲暮。三千里外人未歸。夢裏松楸空縹緲。愁中桃李正芳菲。鞦韆蹴踘都不管。自咏新詩送落暉。
+korean:
+  title: 한식
+  author: 김흔
+  language: kor
+  text: |-
+    한식에 집이 없어 마음과 일이 어긋나는데
+    풍경은 그래도 그러하지만 고향이 아니다
+    백 닷새 전의 봄은 저물려 하고
+    삼천 리 밖에서 사람은 돌아가지 못했다
+    꿈속의 송추(조상의 산소)는 속절없이 아득한데
+    시름 속의 도리만이 한창 꽃답다
+    그네 뛰기와 제기 차기는 전연 관계 없거니
+    스스로 새 시를 읊조리며 지는 해를 보낸다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_1240&viewSync=OT
+  footnotes: []
+english:
+  title: Cold Food Festival
+  author: Kim Heun
+  language: eng
+  text: |-
+    At Cold Food Festival, homeless and adrift,
+    my heart and circumstances drift apart.
+    The world's beauty remains, yet it is not my home—
+    three thousand miles away, still I have not returned.
+
+    In dreams the ancestral graves grow distant and dim,
+    while in my sorrow the peach and plum blossoms bloom in full glory.
+    Swings and kickball—I care for them not at all.
+    Instead I compose new verses to bid farewell to the setting sun.
+  footnotes:
+  - key: ''
+    value: The Cold Food Festival (Hansi) falls 105 days after the winter solstice, traditionally a time when families return home to tend ancestral graves. The poet's absence from this observance deepens the poem's melancholy.
+  - key: ''
+    value: The 'ancestral graves' (松楸) reference the Confucian duty of filial piety and ancestral veneration central to East Asian culture.
+  - key: ''
+    value: The poem contrasts the carefree pastimes of spring (swings and kickball) with the poet's solitary contemplation, suggesting a withdrawal into artistic expression as solace for displacement.

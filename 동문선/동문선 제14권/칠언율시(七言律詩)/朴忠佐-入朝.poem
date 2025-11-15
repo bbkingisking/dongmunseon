@@ -1,0 +1,50 @@
+canonical:
+  title: 入朝
+  author: 朴忠佐
+  language: lzh
+  text: 家世東韓第一人冰壺秋月絶纖塵論才猶歉侯蕃相承寵當爲帝室臣華表柱頭殘照遠屛風山下晚花新紫庭稽首呈金鏡萬國衣冠識鳳麟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 入朝
+  author: 朴忠佐
+  language: lzh
+  text: 家世東韓第一人。冰壺秋月絶纖塵。論才猶歉侯蕃相。承寵當爲帝室臣。華表柱頭殘照遠。屛風山下晚花新。紫庭稽首呈金鏡。萬國衣冠識鳳麟。
+korean:
+  title: 천수절을 축하하러 원나라에 입조
+  author: 박충좌
+  language: kor
+  text: |-
+    동한 첫째 가는 문벌의 사람
+    옥병의 얼음, 가을 달 같은 해맑은 인품
+    재주를 논하자면 번국의 정승으로는 아깝지
+    총애를 받자와 제실의 신하됨이 마땅하네
+    화표 기둥 머리에 저녁 해가 멀리 지고
+    병풍산 밑에 국화꽃도 새로 피리
+    천자님 뜰에 조아려 금경을 받칠 때
+    만국의 모인 의관들 봉과 기린 알아보리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0950&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화표(華表) 기둥 : '
+    value: 한대(漢代)의 도사 정령위(丁令威)가 도(道)를 얻어 학(鶴)이 되어 요동(遼東)에 돌아와서 화표(華表) 기둥에 앉아 있었다는 고사.
+  - key: '[주-D002] 금경(金鏡) : '
+    value: 당나라 때에 황제(皇帝)의 생일에는 신하들이 거울[鏡]을 바쳐서 축하하는데, 현종(玄宗)의 생일에 하지장(賀知章)은 천추금경록(千秋金鏡錄)이란 글을 지어 바치었다. 그 책은 국가의 흥망(興亡)에 거울이 될 만한 사적을 적은 것이었다.
+english:
+  title: Upon Entering the Court
+  author: Park Chung-jwa
+  language: eng
+  text: |-
+    A man of the first and finest lineage of Eastern Han,
+    Clear as ice in jade, serene as autumn's moon.
+    Though his talents might shame even the minister of Fan,
+    To serve the imperial household is his rightful calling.
+
+    The distant glow of evening rests upon the Huabiao pillar,
+    While new flowers bloom beneath the Pingfeng mountains.
+    As he bows in the purple court to present the golden mirror,
+    The assembled nations recognize the phoenix and the qilin.
+  footnotes:
+  - key: ''
+    value: The Huabiao pillar evokes the legend of Ding Lingwei, a Daoist sage who transformed into a crane and perched upon such a pillar upon returning to his homeland—a symbol of spiritual transcendence and return.
+  - key: ''
+    value: The golden mirror references the Tang tradition where ministers presented mirrors on the emperor's birthday as symbols of governance; these mirrors were meant to reflect the nation's fortunes and serve as guides for the realm.

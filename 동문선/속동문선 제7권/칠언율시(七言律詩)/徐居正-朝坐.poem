@@ -1,0 +1,43 @@
+canonical:
+  title: 朝坐
+  author: 徐居正
+  language: lzh
+  text: 小窓扶坐倚烏床瘦骨如峯鬢似霜多病已曾甞藥遍怯涼猶復攬衣忙蕪菁細切靑蔬軟薏苡新炊白粥香萬事不如眠食穩何須苦覓養生方
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 朝坐
+  author: 徐居正
+  language: lzh
+  text: 小窓扶坐倚烏床。瘦骨如峯鬢似霜。多病已曾甞藥遍。怯涼猶復攬衣忙。蕪菁細切靑蔬軟。薏苡新炊白粥香。萬事不如眠食穩。何須苦覓養生方。
+korean:
+  title: 조좌
+  author: 서거정
+  language: kor
+  text: |-
+    작은 창을 붙들고 앉아 오상을 기대었나니
+    여윈 뼈는 봉우리 같고 살쩍은 서리 같아라
+    병이 많으매 이미 일찍 여러 가지 약 먹었고
+    추위를 겁내어 아직 옷 끌어 당기기 바쁘도다
+    무우를 가늘게 썰매 푸른 나물이 연하고
+    율무를 새로 끓이매 흰 죽이 향기로워라
+    만사는 잠자고 먹는 것의 안온함만 못하거니
+    어찌 구태어 괴로이 양생하는 방법을 찾을건가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Morning Sitting
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    At the small window I settle myself, leaning back on a blackwood chair.
+    My gaunt frame stands like a mountain peak, my temples white as frost.
+    I have already tasted medicines countless times, ravaged by illness,
+    Yet still I shiver with the cold, forever adjusting my robes.
+    Turnips sliced fine and tender greens lie soft upon my plate,
+    Freshly cooked barley porridge rises fragrant and pale.
+    All the world's ten thousand cares pale before sound sleep and simple food—
+    Why then exhaust myself seeking the secret methods of longevity?
+  footnotes:
+  - key: ''
+    value: The "blackwood chair" (烏床) refers to a dark wood furniture, likely paulownia or similar material, symbolizing the poet's humble, austere dwelling. The poem captures a moment of morning rest and reflection, emphasizing contentment with simplicity over anxious pursuit of health regimens.

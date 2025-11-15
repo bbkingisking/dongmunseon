@@ -1,0 +1,45 @@
+canonical:
+  title: 有所思
+  author: 吳璲
+  language: lzh
+  text: 玉人逢時花正開玉人別後花如掃花開花落無了期使我朱顔日成耄顔色難從鏡裏回春風還向花枝到安得相逢勿寂寞與子花前長醉倒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 有所思
+  author: 吳璲
+  language: lzh
+  text: 玉人逢時花正開。玉人別後花如掃。花開花落無了期。使我朱顔日成耄。顔色難從鏡裏回。春風還向花枝到。安得相逢勿寂寞。與子花前長醉倒。
+korean:
+  title: 유소사
+  author: 오수
+  language: kor
+  text: |-
+    옥인을 만날 때는 꽃이 한창 피었더니
+    옥인과 이별한 뒤 쓸은 듯 꽃이 없다
+    꽃은 피었다 졌다 마칠 때가 없으나
+    내 젊은 얼굴은 날로 늙어만 간다
+    얼굴빛은 거울 속에서 돌아오기 어렵건만
+    봄바람은 꽃가지 향해 다시 돌아오도다
+    어떻게 하면 서로 만나 떠나지 않고
+    그대와 꽃 앞에 길이 취해 넘어지랴
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0540&viewSync=OT
+  footnotes: []
+english:
+  title: A Yearning Thought
+  author: Oh Su
+  language: eng
+  text: |-
+    When I beheld the jade-like one, the flowers bloomed in fullness.
+    After parting from that jade-like one, the flowers lay swept away.
+    Flowers open and close in endless cycles,
+    yet my rosy cheeks grow old with each passing day.
+    My complexion cannot return from the mirror's depths,
+    yet spring wind finds its way back to the flowering branches.
+    How can we meet again and never part?
+    Let us fall drunk together before the blossoms, for all time.
+  footnotes:
+  - key: ''
+    value: The 'jade-like one' (玉人) is a classical poetic epithet for a beloved person, suggesting both beauty and preciousness.
+  - key: ''
+    value: The contrast between the cyclical renewal of flowers and the irreversible aging of human beauty forms the poem's central meditation on time and loss.

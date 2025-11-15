@@ -1,0 +1,97 @@
+canonical:
+  title: 醉中歌
+  author: 李穡
+  language: lzh
+  text: 先生有手探月窟先生有足趍天闕先生自是天帝子意態乃與塵凡絶遠尋妙道出羲皇瞠手灝灝幷噩噩旁求精義並思軻中庸一篇眞足樂有時覂駕獨超群莊騷班馬如飛蚊先生獨笑齒久冷孔門諸子屯如雲雖然陋巷有眞樂擧世誰復希淸芬吾今老矣尙矍鑠高山仰止奚云云先生且歌醉中歌天地浩蕩無偏頗頭上日月如飛梭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 醉中歌
+  author: 李穡
+  language: lzh
+  text: 先生有手探月窟。先生有足趍天闕。先生自是天帝子。意態乃與塵凡絶。遠尋妙道出羲皇。瞠手灝灝幷噩噩。旁求精義並思軻。中庸一篇眞足樂。有時覂駕獨超群。莊騷班馬如飛蚊。先生獨笑齒久冷。孔門諸子屯如雲。雖然陋巷有眞樂。擧世誰復希淸芬。吾今老矣尙矍鑠。高山仰止奚云云。先生且歌醉中歌。天地浩蕩無偏頗。頭上日月如飛梭。
+korean:
+  title: 취중가
+  author: 이색
+  language: kor
+  text: |-
+    선생 손은 월굴을 더듬고
+    선생의 발은 천궐(천자의 궁궐)엘 갔었네
+    선생은 워낙 천제의 아이라
+    의태가 범부와는 아주 다르네
+    멀리 묘한 도를 닦아 희황 위로 나가고
+    넓디넓은 상서며 엄숙한 주서에 눈을 돌렸네
+    또한 《자사》, 《맹자》에도 정통하여서
+    《중용》 한 편을 참으로 즐겼다
+    때로는 말을 달려 혼자 뛰어가매
+    장소와 반마가 모두 모기떼인 듯
+    선생은 혼자 웃어 이가 시리다
+    공문의 제자들은 구름떼 같네
+    누항에 참다운 낙이 있으나
+    그 맑은 향기를 온 세상에 누가 따르리
+    내 지금 늙었으나 아직도 정정해
+    높은 산 우러름을 더 말할 것 있나
+    선생은 취중 노래만 자꾸 부르네
+    천지가 호탕하여 편파 없는데
+    머리 위 저 해와 달은 나는 북처럼 오가는구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0050&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 월굴(月窟) : '
+    value: 소강절(邵康節)의 시(詩)에, “건괘(乾卦)가 손괘(巽卦)를 만나면 월굴(月窟)이요, 곤괘(坤卦)가 진괘(震卦)를 만나면 천근(天根)이다.” 하였고, 주자(朱子) 〈소강절찬(邵康節贊)〉에, “손으로 월굴을 더듬고 발은 천근을 밟았도다.[手探月窟 足躡天根]” 하였는데, 그것은 주역(周易)의 이치를 알았다는 뜻이다.
+  - key: '[주-D002] 희황(羲皇) : '
+    value: 태호복희씨(太昊伏羲氏). 그가 팔괘(八卦)를 지었다 하니 《역(易)》의 시조이다.
+  - key: '[주-D003] 넓디넓은 …… 돌렸네 : '
+    value: “상서는 호호하며 주서는 악악하니라[商書灝灝甬 周書噩噩甬].”《法言》호호(灝灝)는 넓고 휑한 모양, 악악(噩噩)은 엄숙한 모양을 말한다.
+  - key: '[주-D004] 장소(莊騷) : '
+    value: 《장자(莊子)》와 굴원(屈原)의 《이소(離騷)》.
+  - key: '[주-D005] 반마(班馬) : '
+    value: 《한서》의 작자 반고(班固)와 《사기》의 작자 사마천(司馬遷)은 명문 사가들이다.
+  - key: '[주-D006] 이가 시리다 : '
+    value: 웃어서 입을 벌리고 있으므로 이가 시리다는 뜻이다.
+  - key: '[주-D007] 누항(陋巷) : '
+    value: 공자의 높은 제자 안회(顔回)가 밥 한 대그릇과 한 표주박의 물로 누추한 마을[陋巷 자기가 사는 동네 겸칭]에 살아도 그 즐거움은 그치지 않았다.
+  - key: '[주-D008] 높은 산 우러름 : '
+    value: 높은 덕을 앙모함인데 《시경》에, “높은 산을랑 우러러볼지요, 환한 길을랑 가리로다[高山仰止 景行行止].” 하였다.
+english:
+  title: A Song Sung in Drunkenness
+  author: Lee Saeuk
+  language: eng
+  text: |-
+    Your master's hands grope the caverns of the moon,
+    His feet have trod the halls of Heaven's throne.
+    Truly he is a child of the Celestial Lord—
+    His bearing utterly transcends the dust of common men.
+
+    Far he has ventured on the subtle Way, ascending beyond Fu Xi,
+    His gaze swept wide across the vast expanses of ancient texts,
+    Whose breadth stretches boundless, whose gravity strikes deep.
+    He mastered too the Sage and Mencius both,
+    And found in the Doctrine of the Mean a true delight.
+
+    Sometimes his horse races forth, soaring beyond the crowd,
+    While Zhuangzi and the Elegies, Ban Gu and Sima Qian,
+    Flit past like mosquitoes before him.
+    Yet your master laughs alone, teeth aching from the grin,
+    As the disciples of Confucius cluster thick as clouds.
+
+    Though in a modest lane there dwells a genuine joy,
+    Who in this world still seeks the fragrance of the pure?
+    I myself am old now, yet my vigor does not fade—
+    What more need I say of gazing up at the mountain high?
+
+    Your master sings only his drunken song:
+    Heaven and earth sprawl boundless, showing no partiality.
+    Above my head the sun and moon dart back and forth like shuttles.
+  footnotes:
+  - key: ''
+    value: The image of hands exploring the 'moon's caverns' and feet treading the 'heaven's root' derives from commentary on the I Ching, suggesting mastery of its principles and cosmic understanding.
+  - key: ''
+    value: Fu Xi (羲皇), the legendary creator of the Eight Trigrams, represents the origin of the I Ching and ancient wisdom.
+  - key: ''
+    value: The 'Doctrine of the Mean' (中庸) is one of the Four Books of Confucianism, here representing the heights of philosophical joy.
+  - key: ''
+    value: Zhuangzi and the Elegies of Qu Yuan represent the pinnacle of philosophical and literary achievement; Ban Gu and Sima Qian were the great historians—all reduced to insignificance before the master's greatness.
+  - key: ''
+    value: The reference to the modest lane alludes to Yan Hui, Confucius's most devoted disciple, who found joy in poverty and virtue—suggesting that true happiness transcends worldly circumstance.
+  - key: ''
+    value: The final image of sun and moon shuttling overhead captures the drunken perspective where celestial bodies seem to dance, embodying both cosmic indifference and the poet's transcendent state of mind.

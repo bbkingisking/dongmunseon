@@ -1,0 +1,55 @@
+canonical:
+  title: 牛逸
+  author: 金克己
+  language: lzh
+  text: 爲君叩角相桓公胡事奔忙逐下風元放恐敎安樹上賈耽空遣覓巢中迷途乍似亡羊子信命還同失馬翁何苦臨風偏帳望楚人已得楚人弓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 牛逸
+  author: 金克己
+  language: lzh
+  text: 爲君叩角相桓公。胡事奔忙逐下風。元放恐敎安樹上。賈耽空遣覓巢中。迷途乍似亡羊子。信命還同失馬翁。何苦臨風偏帳望。楚人已得楚人弓。
+korean:
+  title: 소를 잃고
+  author: 김극기
+  language: kor
+  text: |-
+    너의 뿔을 치다가 환공의 재상도 되었거니
+    네 어이 부산하게 바람을 쫓아갔나
+    원방은 아마 너를 나무위에 놓았겠지
+    가담은 사람 보내어 깃속에 찾았으리
+    길 몰라 못 찾기는 양 잃음 같고
+    명만 믿고 앉았으니 말 잃은 새옹
+    섭섭케 생각하여 무엇하리
+    초인이 초인의 활을 얻었을걸
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 너의 뿔을 …… 되었거니 : '
+    value: 춘추(春秋)시대에 역척(寗戚)이 곤궁하여 남의 소를 먹이면서 소의 뿔을 두드리며, 노래를 지어 불렀더니 제환공(齊桓公)이 듣고 그가 어진 사람인줄 알고 불러 보고 정승을 삼았다.
+  - key: '[주-D002] 원방(元放)은 …… 놓았겠지 : '
+    value: 원방(元放)은 좌가(左慈)의 자(字)인데, 술법이 있어서 소[牛]를 나무 가지 위에 올라가게 한 일이 있다.
+  - key: '[주-D003] 가담(賈耽)은 …… 찾았으리 : '
+    value: 가담(賈耽)은 당나라 재상으로 술법과 점치는 것으로 일화(逸話)가 혹 있는데 여기서도 그것을 인용(引用)하였다.
+  - key: '[주-D004] 초인(楚人)이 …… 얻었을걸 : '
+    value: 초공왕이 나가 놀다가 활을 잃었다. 좌우가 찾아보기를 청하니, 왕이 “그만두라. 초인(楚人)이 잃은 활을 초인이 얻었으리니 또 찾아 무엇하리오.” 하였다.
+english:
+  title: The Lost Ox
+  author: Kim Geuk-gi
+  language: eng
+  text: |
+    Once you struck your horns and even became chancellor to Duke Huan—
+    Why then did you rush madly, chasing after the wind?
+    Yuan Fang perhaps left you perched upon a tree,
+    While Jia Dan sent men searching through the branches.
+    Lost and wandering, you are like the boy who lost his sheep,
+    Yet trusting only in fate, you resemble the old man who lost his horse.
+    What use is it to stand brooding in the wind?
+    A man of Chu has found the bow of Chu.
+  footnotes:
+  - key: ''
+    value: The opening alludes to Ning Qi of the Spring and Autumn period, who while herding another's ox, drummed upon its horns and sang. The Duke of Qi, hearing him, recognized his virtue and made him chancellor.
+  - key: ''
+    value: Yuan Fang (left name Zuo Ci) was said to possess magical arts, and could cause an ox to ascend into the branches of a tree.
+  - key: ''
+    value: 'The reference to the man of Chu and his bow reflects the Chu king''s philosophy of acceptance: when his bow was lost, he declared ''A man of Chu lost it, and a man of Chu found it—why search further?''—teaching that all things follow their natural course.'

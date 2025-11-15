@@ -1,0 +1,46 @@
+canonical:
+  title: 偰天壽:天民
+  author: 金臺卿
+  language: lzh
+  text: 奉使朝天去颯然天地秋承恩雖可賀送別得無愁祖席三竿日風帆一葉舟江南佳麗地莫倚仲宣樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偰天壽:天民
+  author: 金臺卿
+  language: lzh
+  text: 奉使朝天去。颯然天地秋。承恩雖可賀。送別得無愁。祖席三竿日。風帆一葉舟。江南佳麗地。莫倚仲宣樓。
+korean:
+  title: 강남으로 봉사하는 원외 설천수
+  author: 김대경
+  language: kor
+  text: |-
+    사명을 받들고 상국에 조회가니
+    때는 천지에 우수수 가을 바람
+    은총을 입었음을 하례할 만하나
+    이별에 당하여서 시름이 없을 것인가
+    송별 자리에 해는 세 홰[三竿]나 올랐는데
+    배에는 바람 돛대 달았구나
+    강남은 워낙 아름다운 곳
+    가거든 중선다락에 오르지 마소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0990&viewSync=OT
+  footnotes: []
+english:
+  title: 'To Seol Cheonsu: Envoy to the South'
+  author: Kim Dae-gyeong
+  language: eng
+  text: |-
+    Bearing my mission to pay court to heaven,
+    Autumn wind sweeps across earth and sky.
+    Though I receive honors worthy of praise,
+    Parting brings a sorrow I cannot deny.
+
+    At the farewell feast, the sun climbs three poles high,
+    While wind fills the sail of my single-leaf boat.
+    Jiangnan spreads its beauty far and wide—
+    Yet do not linger in Zhongxuan's tower.
+  footnotes:
+  - key: ''
+    value: The 'three poles' (三竿) refers to the sun's position in mid-morning, a common way to tell time in classical Chinese poetry.
+  - key: ''
+    value: Zhongxuan Tower (仲宣樓) alludes to a famous tower associated with longing and melancholy in Chinese literary tradition, suggesting the poet warns against dwelling too long in places that inspire homesickness.

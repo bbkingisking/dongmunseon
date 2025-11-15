@@ -1,0 +1,50 @@
+canonical:
+  title: 無題
+  author: 許琛
+  language: lzh
+  text: 芙蓉池館畫橋邊一隔音塵兩渺然荷淚已傾仍雨浥藕心雖斷亦絲連蕉裳細濺金盆水羅袖輕熏寶篆烟數寸柔膓千萬緖莫敎容易减華年
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無題
+  author: 許琛
+  language: lzh
+  text: 芙蓉池館畫橋邊。一隔音塵兩渺然。荷淚已傾仍雨浥。藕心雖斷亦絲連。蕉裳細濺金盆水。羅袖輕熏寶篆烟。數寸柔膓千萬緖。莫敎容易减華年。
+korean:
+  title: 무제
+  author: 허침
+  language: kor
+  text: |-
+    부용지관이 있는 그림 다리 가에서
+    한 번 소식이 막히매 둘 다 아득하구나
+    연꽃의 눈물은 이미 기울었는데 이내 비에 젖고
+    연줄기 심은 끊기었으나 다시 실이 잇네
+    파초 치마에는 금분의 물이 고이 뿌려지고
+    비단 소매에는 보전의 연기가 가벼이 풍겨지네
+    두어 치 되는 부드러운 창자에 찬만 갈래 정서이거니
+    부디 쉽사리 젊음을 감화하지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0180&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 파초 치마에는 : '
+    value: 파초 잎이 치마처럼 넓다는 뜻이다.
+  - key: '[주-D002] 보전(寶篆) : '
+    value: 전(篆)은 피우는 향(香)을 말한 것이다.
+english:
+  title: Untitled
+  author: Heo Chim
+  language: eng
+  text: |-
+    By the painted bridge near the lotus pavilion,
+    where one barrier of silence divides us into distant mists.
+    The lotus's tears have already fallen, then kissed by rain,
+    and though the rhizome is severed, silk threads still bind.
+
+    On the plantain-leaf skirt, water from the golden basin scatters,
+    and on the silk sleeve, fragrant smoke drifts and perfumes.
+    These few inches of tender heartstrings hold ten thousand tangled threads—
+    do not let them fade away so easily with the passing years.
+  footnotes:
+  - key: ''
+    value: The 'plantain-leaf skirt' is a poetic image comparing the broad leaves of the plantain plant to a woman's garment.
+  - key: ''
+    value: The 'fragrant smoke' refers to precious incense burning, creating an atmosphere of luxury and memory.

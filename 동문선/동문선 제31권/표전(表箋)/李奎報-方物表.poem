@@ -1,0 +1,31 @@
+canonical:
+  title: 方物表
+  author: 李奎報
+  language: lzh
+  text: 云云節届商飈適我西成之慶心同沔水方修上奉之誠前件物等塉地而生拙工所製非敢望登於內帑但期庸展於中悰
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 方物表
+  author: 李奎報
+  language: lzh
+  text: 云云。節届商飈。適我西成之慶。心同沔水。方修上奉之誠。前件物等。塉地而生。拙工所製。非敢望登於內帑。但期庸展於中悰。
+korean:
+  title: 방물표
+  author: 이규보
+  language: kor
+  text: 운운.금풍(金風)이 불어오는 철에 마침 서성(西成 농사의 수확)의 경사가 있사옵기, 면수(沔水)와 같은 마음으로 상봉(上奉)의 정성을 표하나이다. 앞의 물건들은 척토(瘠土)의 산물이요, 졸공(拙工)의 제품이기에 감히 내탕(內帑)에 오르기를 바라지 못하나, 다만 성심(聖心)으로 가납(嘉納)해 주시기를 바라나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0630&viewSync=OT
+  footnotes: []
+english:
+  title: Tribute of Local Goods
+  author: Lee Gyubo
+  language: eng
+  text: As autumn winds arrive and bring the blessing of a bountiful harvest, my heart flows like the Mian Waters in expressing devotion to Your Majesty. The items before you are but the humble fruits of barren soil, wrought by clumsy hands. I dare not hope they will grace your imperial treasury, yet I humbly pray they might find favor in your gracious heart.
+  footnotes:
+  - key: ''
+    value: The 'Mian Waters' is a classical allusion symbolizing the flow of sincere devotion and loyalty.
+  - key: ''
+    value: This is a formal presentation document accompanying a tribute of local goods to the ruler, written in the typical self-deprecating courtly style of the period.
+  - key: ''
+    value: The barren soil and humble craftsmanship are conventional expressions of modesty in tributary offerings.

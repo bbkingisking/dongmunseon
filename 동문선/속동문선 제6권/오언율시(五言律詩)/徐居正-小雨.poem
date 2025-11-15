@@ -1,0 +1,46 @@
+canonical:
+  title: 小雨
+  author: 徐居正
+  language: lzh
+  text: 小雨鏖殘暑凉飊動古枝破䆫時見月老壁半題詩逆旅少親舊人生多別離如何連曉夢未有不歸時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 小雨
+  author: 徐居正
+  language: lzh
+  text: 小雨鏖殘暑。凉飊動古枝。破䆫時見月。老壁半題詩。逆旅少親舊。人生多別離。如何連曉夢。未有不歸時。
+korean:
+  title: 소우
+  author: 서거정
+  language: kor
+  text: |-
+    조금 온 비가 남은 더위 씻어가니
+    시원한 바람이 묵은 가지 흔드는 구나
+    부숴진 창으로 가끔 달을 보고
+    낡은 벽에는 반이나 시 적혔네
+    나그네 길에는 친한 벗이 적은데
+    사람 살이에는 이별이 많구나
+    어찌하여 한 밤내 꿈속에서
+    〈고향으로〉돌아가지 않는 때가 없는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0030&viewSync=OT
+  footnotes: []
+english:
+  title: Light Rain
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    A light rain washes away the lingering heat,
+    As cool winds stir the ancient branches.
+    Through the broken window, the moon appears,
+    On the weathered wall, half a poem is inscribed.
+
+    On the traveler's road, few companions remain,
+    In human life, parting is the common thread.
+    Why is it that through all the night's dreams,
+    I always journey homeward without end?
+  footnotes:
+  - key: ''
+    value: The 'half a poem' on the wall suggests the incompleteness of journeys and lives cut short by departure.
+  - key: ''
+    value: The progression from natural imagery (rain, wind, moon) to human longing reflects the poet's meditation on transience and homesickness during exile or travel.

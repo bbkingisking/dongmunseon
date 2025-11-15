@@ -1,0 +1,60 @@
+canonical:
+  title: 送別副使王公
+  author: 申從濩
+  language: lzh
+  text: 早向靑霄穩着鞭一時才器絶無前草成方朔三千牘書破羲之九萬牋龍氣衝星雷煥劒虹光貫月米家船今年過海詩成集留與人閒萬口傳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送別副使王公
+  author: 申從濩
+  language: lzh
+  text: 早向靑霄穩着鞭。一時才器絶無前。草成方朔三千牘。書破羲之九萬牋。龍氣衝星雷煥劒。虹光貫月米家船。今年過海詩成集。留與人閒萬口傳。
+korean:
+  title: 송별 부사왕공
+  author: 신종호
+  language: kor
+  text: |-
+    일찍이 푸른 하늘을 향해 안온이 출세했으매
+    한때의 재주와 기국이 아주 앞설 리 없었네
+    방삭의 삼천독을 다 초해 이루었고
+    희지의 구만 전을 모두 내 주었네
+    용의 기운이 별을 찌르매 뇌환의 칼이요
+    무지개 빛이 달을 꿰뚫으매 미가의 배네
+    금년에 바다를 건너와 시가 집을 이루었으니
+    인간에 남겨 두어 만 입에 전하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 안온이 출세했으매[穏著鞭] : '
+    value: 착편(著鞭)은 말에 채찍질을 하는 것인데 출발을 의미한다.
+  - key: '[주-D002] 방삭(方朔)의 삼천독(三千牘) : '
+    value: 한(漢)나라 동방삭(東方朔)이 처음 장안(長安)에 들어가 임금에게 글을 올릴 때 3천주독(三千奏牘)을 썼으므로, 두 사람이 함께 겨우 들고 들어갔다. 임금이 두 달 만에야 겨우 다 읽었다.
+  - key: '[주-D003] 희지(羲之)의 …… 주었네 : '
+    value: 진(晋)나라 왕희지(王羲之)가 회계내사(會稽內史)가 되었을 적에, 사안(謝安)이 가서 종이를 달라고 청하였더니, 고(庫)에 전지(牋紙)가 9만(萬) 장이 있었는데 모두 내 주었다.
+  - key: '[주-D004] 뇌환(雷煥)의 칼이요 : '
+    value: 진(晋)나라 장화(張華)가 천문(天文)을 본즉 두성(斗星)ㆍ우성(牛星) 사이에 자기(紫氣)가 뻐치었으므로, 천문 잘 보는 뇌환(雷煥)을 불러 함께 자다가 같이 누에 올라서 천문을 보고, 두우(斗牛) 사이에 자기(紫氣)가 삐친 징조를 물으니 뇌환이 말하기를, “보검(寶劍)의 정기(精氣)가 위로 하늘에 뻐친 것이요.” 하였다. “그러면 어느 지방이겠는가.” 하니, “예장(豫章) 풍성(豊城)에 있소.” 하였다. 장화는 뇌환을 풍성령(豊城令)으로 보내었더니, 뇌환이 풍성의 옥터[獄基]를 파서 과연 보검 한 쌍을 찾아 내었다.
+  - key: '[주-D005] 미가(米家)의 배네 : '
+    value: 송나라 미원장(米元章)이 이름난 서화(書畵)를 많이 모았는데, 그것을 배에다 싣고 강으로 가니 밤에 광채가 뻗치었는데, 사람들이 미가홍월선(米家虹月船)이라 칭하였다.
+english:
+  title: Farewell to Vice Envoy Wang
+  author: Shin Jong-ho
+  language: eng
+  text: |-
+    Early you rode forth toward the azure sky with steady rein,
+    Your talents and virtue surpassing all before, without peer.
+    You wrote three thousand scrolls like Fang Shuo of old,
+    And gave away nine myriad sheets like Wang Xizhi's store.
+
+    Dragons' breath pierces the stars—Lei Huan's celebrated sword,
+    Rainbow light penetrates the moon—Mi Fu's legendary boat.
+    This year, crossing the sea, your poems are gathered whole,
+    Left here to be spoken of by ten thousand mouths of men.
+  footnotes:
+  - key: ''
+    value: Fang Shuo was a Han dynasty scholar famous for his prolific writings; this alludes to the subject's scholarly productivity.
+  - key: ''
+    value: Wang Xizhi, the great calligrapher of the Jin dynasty, famously gave away ninety thousand sheets of fine paper from the official stores, a gesture symbolizing generosity and abundance.
+  - key: ''
+    value: Lei Huan discovered precious swords whose spiritual essence appeared as purple vapor between the constellations, representing the manifestation of hidden treasures.
+  - key: ''
+    value: Mi Fu's collection of famous paintings and calligraphy, transported by boat, was said to glow with rainbow light at night—a poetic image representing cultural treasure and refinement.

@@ -1,0 +1,84 @@
+canonical:
+  title: 落花岩
+  author: 金訢
+  language: lzh
+  text: 扶餘王氣日衰替月滿當虧枉黷筮鼓角聲殷炭峴動樓船影壓白江蔽藥石忠言口初苦宴安鴆毒臍終噬三千歌舞委沙塵紅殘玉碎隨水逝虞姬可奈泣項王玉奴何曾負齊帝凌波羅襪渺何許只今雲雨棲岩際香魂一去不復返長使遊人空洒涕江水衮衮日夜流岩石兀兀千尺銳此恨與之無盡期留與千年監後世莫遣江水如帶石若礪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 落花岩
+  author: 金訢
+  language: lzh
+  text: 扶餘王氣日衰替。月滿當虧枉黷筮。鼓角聲殷炭峴動。樓船影壓白江蔽。藥石忠言口初苦。宴安鴆毒臍終噬。三千歌舞委沙塵。紅殘玉碎隨水逝。虞姬可奈泣項王。玉奴何曾負齊帝。凌波羅襪渺何許。只今雲雨棲岩際。香魂一去不復返。長使遊人空洒涕。江水衮衮日夜流。岩石兀兀千尺銳。此恨與之無盡期。留與千年監後世。莫遣江水如帶石若礪。
+korean:
+  title: 낙화암
+  author: 김흔
+  language: kor
+  text: |-
+    부여의 왕기가 날로 쇠미해지니
+    달도 차면 기우는 것 애꿎은 점장이만 죽였구나
+    은은한 고각 소리 탄현을 뒤흔들고
+    누선 그림자가 백마강을 덮었네
+    약석 같은 충신의 말이 처음은 입에 써서
+    호강만 누리더니 끝내는 후회막급
+    삼천 궁녀들이 모래에 몸을 맡겨
+    꽃 지고 옥 부서지듯 물 따라 가버렸네
+    “우여, 우여, 어찌하리.” 항왕이 울었고
+    옥노가 언제 제나라 임금을 저버렸던고
+    물결에 던진 나말 아득히 어디멘고
+    지금토록 구름과 비가 바위 가에 머무르네
+    향혼이 한 번 가고 다시 안 돌아오니
+    예 와 노니는 사람 길이 눈물 뿌리네
+    강물은 이엄이엄 밤낮으로 흐르고
+    바위는 우뚝우뚝 백 길이나 뾰죽하건만
+    이 한은 강과 바위와 함께 그칠 때가 없으니
+    천년토록 길이 후세를 징계하리
+    제발 강물이 띠처럼 줄고 바위가 숫돌처럼 닳지 말게 하소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1410_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 달도 …… 죽였구나 : '
+    value: 백제(百濟)  의자왕(義慈王) 때에 땅에서 거북[龜] 한 마리를 파 냈는데, 거북 등에, “백제는 동월륜(同月輪)이요, 신라는 신월(新月)이다.”고 씌여 있었다. 임금이 점쟁이에게 물으니, “동월륜은 만(滿)이니 즉 시들어진다”고 풀어 임금이 노하여 점쟁이를 죽였다. 《三國史》
+  - key: '[주-D002] 약석(藥石) 같은 충신 : '
+    value: 좌평(佐平)  성충(成忠)이 옥사(獄死) 전에 소(疏)를 올렸으나 의자왕이 무시했다가 도성(都城)이 함락될 때에야 비로소 후회하였다. 《三國史》
+  - key: '[주-D003] 우(虞)여 …… 어찌하리 : '
+    value: 우(虞)는 항우(項羽)의 애희(愛姬) 우희(虞姬)인데, 항우가 애희와 마지막으로 이별하며 부른 노래이다.
+  - key: '[주-D004] 옥노(玉奴) : '
+    value: 옥노는 남재(南齋) 동혼후(東昏侯)의 비(妃) 반씨(潘氏)의 소자(小子)이다. 그녀에게 혹하여 나라가 망했으나 그녀는 순절(殉節)했다.
+english:
+  title: Falling Flower Rock
+  author: Kim Heun
+  language: eng
+  text: |-
+    The kingdom of Baekje fades with each passing day,
+    Yet the soothsayer who read the moon's waning paid with his life.
+    Drums and horns echo, shaking Tanhyeon's slopes,
+    While warships' shadows darken the waters of the Baengma.
+
+    Bitter medicine, the loyal minister's words at first taste—
+    But pleasure's poison, once swallowed, brings only regret.
+    Three thousand court dancers surrendered to sand,
+    Flowers fallen, jade shattered, swept away by the stream.
+
+    Uya weeps beside her king as he falls,
+    Yet the noble concubine never betrayed her emperor's grace.
+    Where did those silk-clad feet sink beneath the waves?
+    Still, clouds and rain linger at the cliff's edge.
+
+    Once the fragrant spirit departs, it returns no more,
+    And wanderers weep forever by these shores.
+    The river rolls on, day and night without pause,
+    The stone stands sharp, a hundred feet high and keen.
+
+    This sorrow knows no ending with river and rock,
+    A lesson carved for a thousand years to come.
+    May the waters shrink like a ribbon, the stone wear smooth like a whetstone—
+    Lest this anguish endure beyond all measure.
+  footnotes:
+  - key: ''
+    value: Falling Flower Rock is a legendary site at the Baengma River (白馬江) in ancient Baekje, associated with the tragic final days of the kingdom during the reign of King Uija (義慈王). According to legend, court ladies threw themselves into the river rather than be captured by invading Silla forces.
+  - key: ''
+    value: The soothsayer reference alludes to a prophecy inscribed on a tortoise shell during King Uija's reign, foretelling Baekje's decline. When the king's fortune-teller explained that 'full moon' meant decline, the angry king had him executed—only to see the prophecy fulfilled.
+  - key: ''
+    value: The 'loyal minister' (藥石) refers to Seongchung (成忠), a Baekje official whose wise counsel was ignored until it was too late to save the kingdom.
+  - key: ''
+    value: Uya (虞姬) was the beloved concubine of the warlord Xiang Yu (項羽) in ancient China; their tragic separation became legendary. The 'noble concubine' (玉奴) refers to Pan Shi (潘氏), whose beauty and influence led to the fall of the Eastern Hun court, though she died with honor.

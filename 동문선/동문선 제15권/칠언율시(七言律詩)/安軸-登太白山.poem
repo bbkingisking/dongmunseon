@@ -1,0 +1,45 @@
+canonical:
+  title: 登太白山
+  author: 安軸
+  language: lzh
+  text: 直過長空入紫煙始知登了最高巓一丸白日低頭上四面群山落眼前身逐飛雲疑駕鶴路懸危磴似梯天雨餘萬壑奔流漲愁度縈回五十川
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 登太白山
+  author: 安軸
+  language: lzh
+  text: 直過長空入紫煙。始知登了最高巓。一丸白日低頭上。四面群山落眼前。身逐飛雲疑駕鶴。路懸危磴似梯天。雨餘萬壑奔流漲。愁度縈回五十川。
+korean:
+  title: 등 태백산
+  author: 안축
+  language: kor
+  text: |-
+    장공을 바로 지나 자연 속에 들어서
+    그제야 알고 보니 절정에 올랐구나
+    한 덩이 흰 해는 머리 위에 나직하고
+    사면의 뭇 산들은 눈앞에 떨어지네
+    몸이 구름 쫓아가니 내가 학을 탄 것인가
+    길이 벼랑에 걸렸으니 하늘에 사닥다리인 듯
+    비 와서 만 골짜기 물이 휘몰려 넘치니
+    오십 천 구비진 물을 어이 건너 갈거나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0280&viewSync=OT
+  footnotes: []
+english:
+  title: Ascending Taebaek Mountain
+  author: An Chuk
+  language: eng
+  text: |-
+    Through the long sky I pass directly into purple mist,
+    Only then do I know I've reached the highest peak.
+    A single white sun hangs low above my head,
+    And all the mountains round about fall beneath my gaze.
+    My body follows fleeting clouds—am I riding a crane?
+    The path clings to sheer cliffs like stairs ascending heaven.
+    After rain, ten thousand gorges surge with rushing water,
+    How shall I cross these fifty winding streams ahead?
+  footnotes:
+  - key: ''
+    value: The 'white sun' (白日) refers to the sun at high altitude, appearing diminished from the perspective of the mountain's peak. This paradoxical image—the sun appearing 'low' when viewed from above—captures the vertiginous perspective of extreme elevation.
+  - key: ''
+    value: The reference to 'riding a crane' (駕鶴) evokes the classical Daoist image of transcendence and immortality, suggesting the spiritual elevation achieved through climbing the sacred mountain.

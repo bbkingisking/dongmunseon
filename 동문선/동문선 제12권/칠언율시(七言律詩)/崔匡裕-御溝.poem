@@ -1,0 +1,46 @@
+canonical:
+  title: 御溝
+  author: 崔匡裕
+  language: lzh
+  text: 長鋪白練靜無風澄景涵暉皎鏡同堤柳雨餘光暎綠墻花春半影含紅曉和殘月流城外夜帶殘鍾出禁中人若有心上星漢乘査未必此難通
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 御溝
+  author: 崔匡裕
+  language: lzh
+  text: 長鋪白練靜無風。澄景涵暉皎鏡同。堤柳雨餘光暎綠。墻花春半影含紅。曉和殘月流城外。夜帶殘鍾出禁中。人若有心上星漢。乘査未必此難通。
+korean:
+  title: 어구
+  author: 최광유
+  language: kor
+  text: |-
+    흰 비단을 깔아놓은 듯 바람 없이 잔잔한데
+    맑은 경에 해 비치니 희디흰 거울인 듯
+    비 개자 언덕의 버들은 파랗게 비치고
+    담꽃 빛은 봄이 한창 벌겋게 스며드네
+    새벽엔 지새는 달과 함께 성 밖으로 흘러가고
+    밤중엔 쇠잔한 종소리 띠고 금중에서 나오누나
+    누가 만일 저 하늘 은하수에 오를 생각 있으면
+    떼 타고 이리 통하면 되지나 않을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 떼[槎] 타고 : '
+    value: 한(漢)나라 장건(張騫)이 떼를 타고 은하(銀河)에 갔었다는 전설이 있다.
+english:
+  title: The Imperial Canal
+  author: Choi Gwang-yuk
+  language: eng
+  text: |-
+    White silk spread out, still without a whisper of wind—
+    Clear waters reflect the sun like a polished mirror gleaming.
+    After rain, the willows on the embankment shimmer green,
+    Wall-flowers in spring's bloom blush with crimson light.
+
+    At dawn the waning moon flows out beyond the city walls,
+    At night the temple bells' faint voice emerges from the forbidden grounds.
+    If one possessed a heart to ascend to the Milky Way above,
+    Would not a raft make passage here not impossible to cross?
+  footnotes:
+  - key: ''
+    value: The imagery of rafting across the Milky Way alludes to the legend of Zhang Qian of the Han dynasty, who supposedly traveled on a raft to the celestial river, suggesting that what seems impassable to ordinary mortals might yield to determined effort.

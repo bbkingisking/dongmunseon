@@ -1,0 +1,52 @@
+canonical:
+  title: 竹冊文
+  author: 鄭義
+  language: lzh
+  text: 王若曰朕靈承景命嗣守鴻圖遺大投艱實荷祖宗之業積善餘慶亦由母黨之賢今則殷祀廟祧妥安考妣推厖恩而及遠須異數以厚親肆揚寵命之優用示褒嘉之渥某本惟甲族生有賢才鳳凰于飛允矣哲人之配螽斯之羽宜其衆子之興果符沙麓之嘉祥誕育河洲之淑德屢顯玉衣之異終升金屋之華念受慈恩獲叨寶位天下之養恨不逮於生前渭陽之思顧難忘於沒後况晉人立議杜襃比於大上皇魏志所傳明帝重其外祖母在昔如此于今可輕敢備縟儀以將厚意非予心之特至爲公義之攸宜於戲德必有酬故每加於恩典滿而不溢宜長享於榮名厥惟敬哉副我眷注云云
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 竹冊文
+  author: 鄭義
+  language: lzh
+  text: 王若曰。朕靈承景命。嗣守鴻圖。遺大投艱。實荷祖宗之業。積善餘慶。亦由母黨之賢。今則殷祀廟祧。妥安考妣。推厖恩而及遠。須異數以厚親。肆揚寵命之優。用示褒嘉之渥。某本惟甲族。生有賢才。鳳凰于飛。允矣哲人之配。螽斯之羽。宜其衆子之興。果符沙麓之嘉祥。誕育河洲之淑德。屢顯玉衣之異。終升金屋之華。念受慈恩。獲叨寶位。天下之養。恨不逮於生前。渭陽之思。顧難忘於沒後。况晉人立議杜襃。比於大上皇。魏志所傳明帝。重其外祖母。在昔如此。于今可輕。敢備縟儀。以將厚意。非予心之特至。爲公義之攸宜。於戲。德必有酬。故每加於恩典。滿而不溢。宜長享於榮名。厥惟敬哉。副我眷注云云。
+korean:
+  title: 죽책문
+  author: 정의
+  language: kor
+  text: 왕은 이르노라. 짐은 천명을 받아 왕위를 이어 지킨다. 크고 어려운 책임을 떠맡은 것은 실로 조종의 업을 떠맡은 것이고, 선대의 적선(積善)으로 후손에 경사가 있음은 역시 외가의 어짊을 말미암은 것이다. 이제 종묘에 큰 제사를 드려서 고비(考妣)를 봉안하였으니, 그 은전을 옆에까지 추급(推及)시킬 제 특별한 대우로 친척에게 후하게 할 것이다. 이에 총명(寵命)을 내려서 흐뭇한 포상을 더하는 바이다.모(某)는 본디 갑족(甲族)으로서, 나면서부터 현재(賢才)가 있었다. 봉황(鳳凰)의 낢이여, 진정 철인(哲人)의 배필이며, 종사(螽斯 메뚜기)의 날개여, 마땅히 여러 아들이 남이로다. 이에 과연 사록(沙麓)의 상서에 부합되어, 관저(關雎)의 숙덕(淑德)을 낳았다. 여러 번 옥의(玉衣)의 이상한 꿈이 나타나더니, 마침내 금옥(金屋)의 화려한 데 올랐었다. 자애로운 은혜를 받아서 외람히 보위에 오른 것을 생각하니, 국모(國母)로서의 봉양이 생전에 미치지 못한 것이 한스러우며, 위양(渭陽)의 생각은 오히려 돌아간 뒤에도 잊기 어렵다. 하물며 진인(晉人)의 의논에는 두포(杜褒)를 태상황에 견주었으며, 위지(魏志)에는 명제(明帝)가 그 외조모를 중히 여겼다고 전하는 데이겠는가. 옛적에도 이러하였거니와 지금인들 어찌 가볍게 하겠는가. 감히 풍성한 의식을 갖추어서 후한 뜻을 표시한다. 내 마음이 특히 극진한 것이 아니라, 공의(公義)가 그래야 마땅하기 때문이다. 아, 덕에는 반드시 갚음이 있으므로 매양 은전을 더하는 것이다. 가득해도 넘지 말아서 마땅히 길이 영명(榮名)을 누리라. 조심해서 나의 기대에 부응하라. 운운.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0320_010_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 봉황(鳳凰)의 …… 배필이며 : '
+    value: 춘추(春秋)시대의 진경중(陳敬仲)이 결혼하는 점괘에, “봉황이 나는 것이여, 자손이 잘되리라.” 하더니, 과연 그 자손이 제(齊)나라 임금이 되었다.
+  - key: '[주-D002] 종사(螽斯)의 …… 남이로다 : '
+    value: 《시경》에 “종사의 날개여, 자손이 많도다.”라는 구절이 있다.
+  - key: '[주-D003] 사록(沙麓)의 …… 낳았다 : '
+    value: 춘추 시대에 사록(沙麓)이 무너졌는데 진(晉)나라 태사(太史)가 점을 치기를, “이 뒤 6백 4십 5년 만에 그 땅에 성녀(聖女)가 나리라.” 하였더니, 과연 뒤에 한(漢)나라 원제(元帝)의 황후 왕씨가 그 땅에서 났다.
+  - key: '[주-D004] 옥의(玉衣)의 이상한 꿈 : '
+    value: 위(魏)나라 견황후(甄皇后)가 어릴 적에 잘 때면 반드시 어떤 사람이 옥의(玉衣)를 덮어 주는 듯하였다.
+  - key: '[주-D005] 금옥(金屋)의 화려한 데 : '
+    value: 한 무제(漢武帝)가 어릴 때에 그의 고종누이 아교(阿嬌)와 궁중에서 서로 즐겁게 노는데 그의 고모가 묻기를, “장래에 아교와 짝이 되면 어떻겠는가.” 하니, 무제는 “금옥(金屋)에 감추어 두겠다.” 하였다. 그가 후일의 진황후(陳皇后)다.
+  - key: '[주-D006] 위양(渭陽)의 생각 : '
+    value: 진(秦)나라 강공(康公)이 어머니가 돌아간 뒤에 그의 외숙(外叔)을 위양(渭陽)에서 송별하였다. 《시경》에 〈위양(渭陽)〉편이 있다.
+english:
+  title: Royal Decree on the Bamboo Tablets
+  author: Jung Ui
+  language: eng
+  text: |-
+    The King speaks thus: I, having received the mandate of Heaven, inherit and preserve the great throne. In bearing this weight of responsibility, I uphold the legacy of my ancestors, and in the fortune that virtue accumulated brings forth, I recognize the wisdom of my mother's family. Now that I have performed the great sacrifices at the ancestral temple and enshrined my departed parents, I extend this beneficence beyond the immediate to those distant, bestowing special honors upon my relatives. Thus do I proclaim these marks of favor and bestow this radiance of praise.
+
+    She whose lineage traces to noble houses was blessed from birth with wisdom and virtue. Like the phoenix in flight—truly the consort worthy of a sage! Like the locust's wing—surely through her many sons shall flourish! Indeed, her birth fulfilled the auspicious omens of Sarok, and she bore the refined virtue of Guanse. Multiple times did visions of jade garments appear, until at last she ascended to the glory of the golden chamber. Receiving motherly grace, I came unworthily to the throne. The nation's care for her in life fell short of what was deserved, and the tender longing of Weiyang remains unforgotten even after her passing. Consider how the ancients honored Du Bao as equal to the Grand Emperor, and how the histories tell that the Ming Emperor revered his maternal grandmother. If such was their way in ages past, how should we diminish it now? I prepare these solemn rites to manifest my sincere regard. This springs not merely from my own heart, but from what justice demands. Alas, virtue must ever receive its due reward, so I add to these honors. Full yet not overflowing—may she long enjoy this glory and renown. With reverence, fulfill my hopes.
+  footnotes:
+  - key: ''
+    value: The phoenix in flight and locust's wing are classical allusions to propitious births and numerous virtuous descendants, drawn from the Shijing.
+  - key: ''
+    value: Sarok refers to an ancient omen prophesying that a sage woman would be born in that land—fulfilled by the Han Emperor Yuan's consort.
+  - key: ''
+    value: The jade garments recall the dream-visions that graced the Empress Zhen in her childhood.
+  - key: ''
+    value: The golden chamber refers to the Han Emperor Wu's promise to treasure his beloved in chambers of gold and jade.
+  - key: ''
+    value: Weiyang evokes the tender parting by the Wei River, commemorating filial devotion to one's mother's family.
+  - key: ''
+    value: The references to Du Bao and the Ming Emperor establish historical precedent for honoring the maternal grandmother with imperial dignity.

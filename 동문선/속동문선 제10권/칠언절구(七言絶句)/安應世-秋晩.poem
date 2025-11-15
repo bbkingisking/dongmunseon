@@ -1,0 +1,39 @@
+canonical:
+  title: 秋晩
+  author: 安應世
+  language: lzh
+  text: 黃菊開殘故國花寒衣未到客思家邊城落日連衰草啼殺秋風一樹鴉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 秋晩
+  author: 安應世
+  language: lzh
+  text: 黃菊開殘故國花。寒衣未到客思家。邊城落日連衰草。啼殺秋風一樹鴉。
+korean:
+  title: 추만
+  author: 안응세
+  language: kor
+  text: |-
+    고국에 누른 국화꽃 피어 이미 지고
+    솜옷이 이르지 않아 집 생각이 간절하이
+    변성에 떨어지는 해에 풀빛이 변해질 제
+    가을 바람 숲속에는 까마귀 울어 쉬지 않네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0340&viewSync=OT
+  footnotes: []
+english:
+  title: Late Autumn
+  author: An Eung-se
+  language: eng
+  text: |-
+    In my homeland, golden chrysanthemums bloom and fall away.
+    Winter clothes have not yet arrived—my heart aches for home.
+    At the border fortress, the setting sun fades into withered grass,
+    And ceaseless cries of autumn wind—a murder of crows through the trees.
+  footnotes:
+  - key: ''
+    value: The chrysanthemum, a symbol of endurance and homeland, is juxtaposed with its inevitable decline, mirroring the speaker's separation from home.
+  - key: ''
+    value: The delayed winter clothes serve as a concrete reminder of distance and neglect, amplifying the exile's longing.
+  - key: ''
+    value: The 'border fortress' suggests the speaker is stationed far from home, likely a military or administrative posting in a frontier region.

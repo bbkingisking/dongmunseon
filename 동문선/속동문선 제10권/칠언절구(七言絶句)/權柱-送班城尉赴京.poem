@@ -1,0 +1,39 @@
+canonical:
+  title: 送班城尉赴京
+  author: 權柱
+  language: lzh
+  text: 萬里風雲入壯懷送君西去上金臺離亭草草征衫動擊劒高歌酒一杯
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送班城尉赴京
+  author: 權柱
+  language: lzh
+  text: 萬里風雲入壯懷。送君西去上金臺。離亭草草征衫動。擊劒高歌酒一杯。
+korean:
+  title: 송 반성위 부경
+  author: 권주
+  language: kor
+  text: |-
+    만리에 저 풍운이 장회에 들어올 제
+    임을 보내 서로 향해 금대에 오르려니
+    역마을 초초히도 임의 옷에 스쳐
+    칼 치며 우렁찬 노래 술이 한 잔
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0320&viewSync=OT
+  footnotes: []
+english:
+  title: Sending Off the Commandant of Banseong to the Capital
+  author: Kwon Ju
+  language: eng
+  text: |-
+    Ten thousand miles of wind and cloud stir within my noble heart.
+    I send you westward to ascend the golden terrace.
+    At the parting pavilion, the post-horse hurries—your traveling robe trembles.
+    I strike my sword and sing out bold—with one cup of wine.
+  footnotes:
+  - key: ''
+    value: The 'golden terrace' (金臺) likely refers to the capital, or more specifically, an official seat of power or honor.
+  - key: ''
+    value: The striking of the sword while singing is a classical gesture of farewell and camaraderie among literati, expressing both the solemnity and the warm bonds of friendship.
+  - key: ''
+    value: The juxtaposition of hurried departure with the speaker's unhurried gesture of drinking and singing creates the poem's central tension—the mingling of melancholy parting with resolve and dignity.

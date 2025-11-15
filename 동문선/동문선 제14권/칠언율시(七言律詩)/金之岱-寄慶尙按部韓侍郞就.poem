@@ -1,0 +1,48 @@
+canonical:
+  title: 寄慶尙按部韓侍郞就
+  author: 金之岱
+  language: lzh
+  text: 柳色初黃出鳳城嶺南仍過一陽生尋僧不害穿山翠携妓何妨踏月明昨夜依俙相見面前山重阻若爲情簿書餘暇休忘我我亦當年按轡行
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寄慶尙按部韓侍郞就
+  author: 金之岱
+  language: lzh
+  text: 柳色初黃出鳳城。嶺南仍過一陽生。尋僧不害穿山翠。携妓何妨踏月明。昨夜依俙相見面。前山重阻若爲情。簿書餘暇休忘我。我亦當年按轡行。
+korean:
+  title: 기 경상 안부 한시랑 취
+  author: 김지대
+  language: kor
+  text: |-
+    버들가지 누른 빛 띠자 서울을 떠나서
+    영남에서 동지를 지내네
+    중을 찾아 푸른 산을 뚫어도 가고
+    기생 데리고 밝은 달을 밟기도 했겠지
+    어젯밤 꿈속엔 바로 얼굴 대했건만
+    앞에 산이 겹겹 막혔으니, 이 정을 어이하리
+    부서에 틈 있거든 부디 나를 잊지 마소
+    나 역시 당년에 안찰사 지내었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0320&viewSync=OT
+  footnotes: []
+english:
+  title: A Letter to Councillor Han, Inspector of Gyeongsang Province
+  author: Kim Ji-dae
+  language: eng
+  text: |-
+    The willows turn yellow as I depart the capital.
+    In the southern ridge, I pass through the winter solstice.
+    I wandered through emerald mountains seeking monks—
+    why not lead courtesans beneath the bright moon?
+
+    Last night in dreams, your face appeared before me clear.
+    Yet mountains rise in layers before us—what can feeling do?
+    When duty's ledgers grant you respite, do not forget me.
+    I too once rode as inspector through those lands.
+  footnotes:
+  - key: ''
+    value: The poem is addressed to Han, who served as an inspector (按部) of Gyeongsang Province. The speaker has left the capital as winter approaches.
+  - key: ''
+    value: The mountains 'rising in layers' represent both literal geographical distance and emotional separation between the two correspondents.
+  - key: ''
+    value: The speaker recalls holding the same official position as the recipient, suggesting a shared experience of administrative travel and duty.

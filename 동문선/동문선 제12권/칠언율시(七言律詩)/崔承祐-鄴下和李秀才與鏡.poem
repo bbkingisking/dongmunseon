@@ -1,0 +1,55 @@
+canonical:
+  title: 鄴下和李秀才與鏡
+  author: 崔承祐
+  language: lzh
+  text: 漢南才子洛川神每筭相稱有幾人波剪臉光爭乃溢山橫眉黛可曾勻紛紛舞袖飄衣擧裊裊歌筵送酒頻只恐明年正月半暗敎金鏡問亡陳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鄴下和李秀才與鏡
+  author: 崔承祐
+  language: lzh
+  text: 漢南才子洛川神。每筭相稱有幾人。波剪臉光爭乃溢。山橫眉黛可曾勻。紛紛舞袖飄衣擧。裊裊歌筵送酒頻。只恐明年正月半。暗敎金鏡問亡陳。
+korean:
+  title: 업하에서 수재가 거울을 주는 것을 화답하여
+  author: 최승우
+  language: kor
+  text: |-
+    한남의 재자 낙천의 신녀
+    재자ㆍ가인은 서로 맞는 이 몇 사람이나 있을꼬
+    두 볼의 고은 빛은 물결 넘치는 듯
+    팔자로 비낀 눈썹은 먼 산처럼 아름다워라
+    너울너울 춤추는 소매는 옷을 들어 펄럭이고
+    가늘고 긴 노래소리 술을 자주 보내 주네
+    다만 두렵기는 명년 정월 대보름날 가만히 거울 가지고서
+    진나라 망한 것 묻지 않을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0390&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 업하(鄴下) : '
+    value: 삼국 때 조조(曹操)의 도읍. 지금 하남성 임장현(臨漳縣). 서쪽에 고성(故城)이 있다.
+  - key: '[주-D002] 한남(漢南)의 재자(才子) : '
+    value: 조식(曹植)을 말하는데 그가 업하(鄴下)에 있었다.
+  - key: '[주-D003] 낙천(洛川)의 신녀(神女) : '
+    value: 낙수의 신은 복비(宓妃)인데, 위(魏)나라 조조의 아들 조식이 낙수를 건너면서 미인 견씨(甄氏)를 사념(思念)하여 복비를 빗대어 〈낙신부(洛神賦)〉를 지었다.
+  - key: '[주-D004] 다만 두렵기는 …… 묻지 않을까 : '
+    value: 남북조(南北朝) 때에 진(陳)나라 후주(後主)가 정치를 어지럽혀 북조(北朝)인 수(隋)나라가 엿보고 있었다. 낙창공주(樂昌公主)의 남편 서덕언(徐德言)이 나라가 망할 것을 알고 공주에게, “나라가 망하면 당신은 귀인의 집에 들어갈 것이나 나는 어떻게 될지 모르니, 거울 반쪽씩 가졌다가 매년 정월 보름에 수도(首都)의 시장(市場)에 반쪽 거울을 내어다 팔아서 서로 맞추어 인연이 끊어지지 않았으면 서로 만납시다.” 하더니, 과연 진나라는 망하고, 공주는 양소(楊素)의 집에 들어가 이듬해 정월 보름에 서덕언이 반쪽 거울을 가지고 시장에 갔더니, 공주 역시 종을 시켜 반쪽 거울을 찾고 있으므로, 공주의 거울에다 시(詩)를 써서 보냈다. 그것을 잡고 우는 것을 양소가 보고 그 애처로운 사정을 들어 서덕언을 불러 공주와 만나게 하고 돌려보냈다.
+english:
+  title: A Response to Scholar Lee's Gift of a Mirror at Yeop
+  author: Choe Seung-u
+  language: eng
+  text: |-
+    The talented son of Han flows like the divine spirit of Luo—
+    How rare a pair of gifted man and beauty so matched!
+    Your radiant cheeks shimmer like waves that overflow,
+    Your arching brows sweep dark as distant mountains.
+    Your sleeves dance and flutter, lifting silk upon the breeze,
+    Your slender voice carries forth as wine is poured again.
+    Yet I fear when the fifteenth moon of next year rises,
+    That mirror might whisper of a fallen dynasty.
+  footnotes:
+  - key: ''
+    value: Yeop (鄴下) was the capital of Cao Cao during the Three Kingdoms period, referring to the setting of this poem.
+  - key: ''
+    value: The 'talented son of Han' alludes to Cao Zhi, whose 'Rhapsody on the Goddess of the Luo River' celebrates an idealized encounter with transcendent beauty.
+  - key: ''
+    value: 'The poem''s closing image invokes the tragic legend of the broken mirror: when the Chen dynasty fell, a separated couple used mirror halves to find each other, searching by the market on the Lantern Festival. Here, the mirror becomes a symbol of both love''s reunion and dynasty''s ruin.'

@@ -1,0 +1,50 @@
+canonical:
+  title: 遊禪月寺
+  author: 李藏用
+  language: lzh
+  text: 山寺春遊一杖輕道情詩思覺雙淸桃花休道未徹在飯顆從敎大瘦生今日鬢絲憐節物他年汗竹笑功名悠悠世上無窮事付與閑窓睡到明
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊禪月寺
+  author: 李藏用
+  language: lzh
+  text: 山寺春遊一杖輕。道情詩思覺雙淸。桃花休道未徹在。飯顆從敎大瘦生。今日鬢絲憐節物。他年汗竹笑功名。悠悠世上無窮事。付與閑窓睡到明。
+korean:
+  title: 유 선월사
+  author: 이장용
+  language: kor
+  text: |-
+    산사 봄놀이에 가벼운 한 지팡이
+    도정과 시사가 함께 맑아지네
+    복사꽃을 보고서도 도 깨치지 못했다 하지 마소
+    반과에서는 너무나 여윈들 그 어떠하리
+    오늘날 흰 머리로는 철마다 변하는 풍경 가엾다마는
+    일후 청사엔 공명이 우습구나
+    무궁한 세상의 일 생각하여 무엇하리
+    한창에 날이 밝도록 실컷 잠이나 자리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0360&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 복사꽃을 …… 하지 마소 : '
+    value: 옛날 선사(禪師)가 도화(桃花)를 보고 도를 깨달아서, “복사꽃을 한 번 본 뒤로 지금까지 믿어 의심치 아니한다[自從一見桃花後 直到如今信不疑].” 하는 시를 지었다.
+  - key: '[주-D002] 반과(飯顆) : '
+    value: 이백(李白)이 반과산(飯顆山)에서 두보(杜甫)를 만나 희롱삼아 지은 시에, “반과산 앞에서 두보를 만나니, 머리엔 벙거지 쓰고 해는 한낮이로구나. 묻노니 어찌하여 저리 너무 여위었노, 전부터 시 짓기 괴로워서 그리 된 게지[飯顆山前逢杜甫 頭戴笠子日亭午 借問爲何太瘦生 爲被從前作詩苦].” 하였다.
+english:
+  title: A Visit to Seonwol Temple in Spring
+  author: Lee Jang-yong
+  language: eng
+  text: |-
+    A spring pilgrimage to the mountain temple, leaning on a staff so light.
+    Spirit and verse alike grow clear together.
+    Do not say the peach blossoms failed to grant me insight—
+    even ascetic poverty from poetry's rigor wrings the body thin.
+
+    Today my white hair mourns each passing season's charm,
+    yet I laugh at glory that will come another day.
+    Why ponder the endless affairs of this world?
+    Let me sleep until dawn breaks at the idle window.
+  footnotes:
+  - key: ''
+    value: The peach blossom is a classical symbol of enlightenment in Chan Buddhism, referring to a famous verse where seeing peach blossoms became the moment of awakening.
+  - key: ''
+    value: The reference to becoming 'ascetic poverty from poetry's rigor' alludes to a playful poem by Li Bai about meeting Du Fu, where he jests that Du Fu had grown thin from the hardship of composing verse.

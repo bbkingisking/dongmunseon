@@ -1,0 +1,66 @@
+canonical:
+  title: 獨秀銘
+  author: 權近
+  language: lzh
+  text: 天有五行萬物化生得其秀者有人之名㟝嶁之小峯巒亭亭霜雪之慘松栢靑靑此物之秀惟人最靈我欲獨秀我德我明其功何自曰心之誠首出庶物天下斯平
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 獨秀銘
+  author: 權近
+  language: lzh
+  text: 天有五行。萬物化生。得其秀者。有人之名。㟝嶁之小。峯巒亭亭。霜雪之慘。松栢靑靑。此物之秀。惟人最靈。我欲獨秀。我德我明。其功何自。曰心之誠。首出庶物。天下斯平。
+korean:
+  title: 독수 명
+  author: 권근
+  language: kor
+  text: |-
+    하늘에 오행이 있어
+    만물이 화생하나니
+    그 속에서 빼어난 것을
+    사람이라 칭한다네
+    배루는 조그마한데
+    봉만은 우뚝하고
+    눈 서리 모진 추위에
+    송백은 청청하다
+    이는 물의 빼어난 것
+    사람만이 가장 신령하이
+    내 호올로 빼어나려고
+    내 덕을 내가 밝히네
+    어디메서 시작되나
+    마음의 정성이로세
+    맨 먼저 모든 물이 나와
+    천하가 태평하다네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: The Inscription on Standing Alone in Excellence
+  author: Kwon Geun
+  language: eng
+  text: |-
+    Heaven contains the five elements,
+    From which the ten thousand things arise.
+    Among them, what stands supreme
+    Bears the name of man.
+
+    The hills are small and scattered,
+    Yet peaks rise solitary and tall;
+    Through winter's bitter frost and snow,
+    Pine and cypress remain verdant green.
+
+    This is the excellence of things—
+    But man alone possesses the highest spirit.
+    I wish to stand alone in excellence,
+    So I illuminate my virtue and clarity.
+
+    Whence does such achievement come?
+    From the sincerity of the heart.
+    When the heart leads all beings forth,
+    Then peace reigns throughout the realm.
+  footnotes:
+  - key: ''
+    value: 'The ''five elements'' (五行) refer to the fundamental forces in Chinese cosmology: wood, fire, earth, metal, and water.'
+  - key: ''
+    value: The imagery of pine and cypress remaining green through harsh winter symbolizes moral constancy and integrity.
+  - key: ''
+    value: This work reflects Neo-Confucian ideals, particularly the emphasis on the cultivation of virtue and inner sincerity as the foundation for social harmony.

@@ -1,0 +1,46 @@
+canonical:
+  title: 暎湖樓
+  author: 禹倬
+  language: lzh
+  text: 嶺南游蕩閱年多最愛湖山景氣加芳草渡頭分客路綠楊堤畔有農家風恬鏡面橫煙黛歲久墻頭長土花雨歇四郊歌擊壤坐看林杪漲寒槎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 暎湖樓
+  author: 禹倬
+  language: lzh
+  text: 嶺南游蕩閱年多。最愛湖山景氣加。芳草渡頭分客路。綠楊堤畔有農家。風恬鏡面橫煙黛。歲久墻頭長土花。雨歇四郊歌擊壤。坐看林杪漲寒槎。
+korean:
+  title: 영호루
+  author: 우탁
+  language: kor
+  text: |-
+    영남에 여러 해 동안 두루두루 놀았으나
+    이 호산의 경치를 내 가장 사랑하네
+    풀 우거진 나루터에 나그네의 길이 나누어지고
+    수양버들 푸른 뚝 가에 농가가 있네
+    거울에 바람자니 물 연기눈썹 비끼었고
+    오랜 세월 담 머리에는 흙꽃이 자랐구나
+    비 갠 뒤 온 벌판에 격양가 부르는 소리
+    앉아서 저 수풀 끝에 밀려 있는 떼 보노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0080&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 격양가(擊壤歌) : '
+    value: 요(堯) 임금이 천하를 다스린 지 50년 만에 민정을 살펴 보려고 미복(微服)으로 큰 거리에 나가 보았더니 한 노인이 배불리 먹고 흙덩이를 치며 노래[擊壤歌]하기를, “해뜨면 일하고 해지면 쉬며, 농사지어 밥먹고 우물파서 마시니, 임금이 나한테 무슨 은덕이냐.” 하였다. 태평시대를 잘 형용한 말이다.
+english:
+  title: Yinghu Tower
+  author: U Tak
+  language: eng
+  text: |-
+    Through years of wandering the southern mountains,
+    I have come to love this lakeside landscape most of all.
+    At the grassy ford, travelers' paths diverge,
+    While farmers' cottages nestle by the verdant willowed banks.
+
+    The wind-stilled water mirrors dark as eyebrows traced with smoke,
+    And through long seasons, wild flowers bloom upon the weathered walls.
+    When rain clears from the fields, songs of contentment rise—
+    I sit and watch the clustering trees where drifting logs collect.
+  footnotes:
+  - key: ''
+    value: The 'songs of contentment' (擊壤歌) reference an ancient legend of Yao's reign, when an old man, satisfied and at peace, sang while tilling the earth—a symbol of a sage ruler's benevolent governance and the people's simple happiness.

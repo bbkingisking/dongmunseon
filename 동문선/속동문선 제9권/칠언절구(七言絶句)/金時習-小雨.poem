@@ -1,0 +1,37 @@
+canonical:
+  title: 小雨
+  author: 金時習
+  language: lzh
+  text: 天街小雨洒紛紛半作靑烟半作雲獨掩柴關人正靜一聲泥滑隔山聞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 小雨
+  author: 金時習
+  language: lzh
+  text: 天街小雨洒紛紛。半作靑烟半作雲。獨掩柴關人正靜。一聲泥滑隔山聞。
+korean:
+  title: 소우
+  author: 김시습
+  language: kor
+  text: |-
+    서울 거리에 보슬비가 어지러이 뿌리나니
+    반은 푸른 연기 되고 반은 구름이 된다
+    혼자 사립문 닫고 있으매 사람은 진정 고요한데
+    한 소리 이활이 산 넘어서 들리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0630&viewSync=OT
+  footnotes: []
+english:
+  title: Fine Rain
+  author: Kim Siseup
+  language: eng
+  text: |-
+    Fine rain scatters and drifts across the streets of Seoul,
+    Half becoming wisps of azure smoke, half turning to cloud.
+    Alone behind my brushwood gate, all falls silent—
+    One slip of mud's whisper carries over the mountains.
+  footnotes:
+  - key: ''
+    value: The 'brushwood gate' (사립문) suggests a humble, secluded dwelling, emphasizing the speaker's solitude and retreat from the world.
+  - key: ''
+    value: The final line captures how even the smallest sound—a footstep in mud—becomes magnified in the stillness, traveling across the landscape as if transformed by the rain.

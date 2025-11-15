@@ -1,0 +1,49 @@
+canonical:
+  title: 放言
+  author: 金終弼
+  language: lzh
+  text: 丘壑棲遲乏善名唯堪慵拙養殘生藜羹不羨千鍾饗肉食終危五鼎烹雕俎加肩非彘願廟巾笥骨豈龜榮焚香默坐蒲團上此理知誰可聽瑩
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 放言
+  author: 金終弼
+  language: lzh
+  text: 丘壑棲遲乏善名。唯堪慵拙養殘生。藜羹不羨千鍾饗。肉食終危五鼎烹。雕俎加肩非彘願。廟巾笥骨豈龜榮。焚香默坐蒲團上。此理知誰可聽瑩。
+korean:
+  title: 방언
+  author: 김종필
+  language: kor
+  text: |-
+    산수에서 숨어 살자니 좋은 이름이 없었거니
+    다만 게으름과 옹졸함으로 남은 생을 기리리라
+    명아주의 국은 천종 녹 부러워하지 않고
+    고기 먹는 것은 마침내 오정의 삶음이 위태롭구나
+    아름다운 도마에 한 다리를 얹은 것은 돼지의 원이 아니거니
+    묘건에 뼈 간직하는 것이 어찌 거북의 영광이랴
+    항을 사르고 잠자코 방석 위에 앉았노니
+    이 이치는 누가 놀랍게 들어주리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0700&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오정(五鼎)의 삶음이 : '
+    value: 한(漢)나라 주보언(主父偃)이 일찍이 말하기를, “남자가 살아서 오정(五鼎)으로 먹지 못하면 죽을 때에 오정(五鼎)을 삶기겠다.” 하였다. 높은 벼슬한 사람은 오정으로 먹는 것이요, 솥에 삶는 것은 사형(死刑)이다.
+  - key: '[주-D002] 묘건(廟巾)에 …… 영광이랴 : '
+    value: 중국 고대에는 국가에서 큰일이 있으면 거북껍질로서 점을 쳐 보는데, 그것은 거북을 잡아서 죽여 껍질을 비단수건에 고이 싸서 종묘(宗廟)에 감추어 두었다가 점칠 일이 있으면 꺼내는 것이다. 《장자》에, “거북이 죽어서 비단수건에 싸서 종묘에 있는 것보다는 살아서 진흙속에 꼬리를 끌겠다.” 한 말이 있다.
+english:
+  title: Unguarded Thoughts
+  author: Kim Jong-pil
+  language: eng
+  text: |-
+    Hidden in mountains and valleys, I have won no noble name—
+    only idleness and clumsiness to sustain what life remains.
+    I covet not a thousand bells of feast, nor amaranth broth,
+    for flesh-eating leads at last to the cauldrons of the condemned.
+    The butcher's block—no pig would choose such fate,
+    nor is the tortoise honored, wrapped in silk within the shrine.
+    I burn incense and sit silent on my woven mat.
+    Who will truly hear the wisdom in these words?
+  footnotes:
+  - key: ''
+    value: The 'five cauldrons' refer to both the high official's lavish feast and, ominously, the execution cauldron—a warning that the glutton's fate may be sealed by his own appetites.
+  - key: ''
+    value: According to Zhuangzi, the tortoise would rather drag its tail through mud while alive than be honored dead, enshrined in silk within the ancestral temple—a meditation on the price of worldly distinction.

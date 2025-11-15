@@ -1,0 +1,31 @@
+canonical:
+  title: 跋羅興儒賀詩卷
+  author: 李穡
+  language: lzh
+  text: 迂叟老而見遇常自比太公望其所負不淺矣及讌賀客則以王毛仲自居又何其卑也是知迂叟胷次磊落軒輊出語驚人其得奇遇非幸也亦宜也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 跋羅興儒賀詩卷
+  author: 李穡
+  language: lzh
+  text: 迂叟老而見遇。常自比太公望。其所負不淺矣。及讌賀客。則以王毛仲自居。又何其卑也。是知迂叟胷次磊落軒輊。出語驚人。其得奇遇。非幸也。亦宜也。
+korean:
+  title: 발 나흥유 하 시권
+  author: 이색
+  language: kor
+  text: 우수(迂叟)가 노년에 지우(知遇)를 만나고는 항상 스스로 태공망(太公望)에 비유하였으니, 그 자부하는 바가 얕지 않아, 하객(賀客)들과 연회하는데 미쳐서는 왕모중(王毛仲)으로 자처하였으니, 또 어찌 그다지도 비유하더란 말인가. 이는 우수의 가슴속이 평탄 명백하고, 경중(輕重)하는 바 없어, 말을 토하매 사람을 놀라게 하고 그가 기이한 지우를 얻은 것이 요행이 아니요, 역시 당연한 것이었다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1050_010_0240&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 왕모중(王毛仲) : '
+    value: 당나라 현종(玄宗) 때의 미천한 출신으로 말(馬)을 잘 길러서 황제의 은총을 받아 부귀가 혁혁하였던 사람.
+english:
+  title: Colophon on the Poetry Scroll Presented in Congratulations to Naxing Ruxian
+  author: Lee Saek
+  language: eng
+  text: Unseo in his declining years found patronage, and would often compare himself to Jiang Ziya. His self-regard ran deep indeed. Yet when feasting with those who came to offer congratulations, he would place himself in the humble position of Wang Maozong. How strange such self-appraisal! This reveals the vastness of Unseo's spirit—unflinching and without pretense. His words startled those who heard them. That he received such extraordinary patronage was no mere fortune; it was altogether fitting and deserved.
+  footnotes:
+  - key: ''
+    value: 'Jiang Ziya (太公望): A legendary advisor to the Duke of Zhou in ancient China, famous for his wisdom and strategic brilliance despite his humble origins.'
+  - key: ''
+    value: 'Wang Maozong (王毛仲): A figure from the Tang dynasty under Emperor Xuanzong who rose from humble circumstances to great prominence by skillfully raising horses and earning imperial favor.'

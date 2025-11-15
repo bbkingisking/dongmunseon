@@ -1,0 +1,53 @@
+canonical:
+  title: 姜日用
+  author: 權踶
+  language: lzh
+  text: 沉痾數月殆將蘇行步欹斜信杖扶眼底鴉花隨物象耳邊蛙樂雜笙竽玉堂群彦褰高鳳金匱千秋繼董狐待制三年慚不分傍人應咲畫葫蘆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 姜日用
+  author: 權踶
+  language: lzh
+  text: 沉痾數月殆將蘇。行步欹斜信杖扶。眼底鴉花隨物象。耳邊蛙樂雜笙竽。玉堂群彦褰高鳳。金匱千秋繼董狐。待制三年慚不分。傍人應咲畫葫蘆。
+korean:
+  title: 강일용
+  author: 권제
+  language: kor
+  text: |-
+    몇달 앓던 몸이 겨우 되살아나서
+    걸음 아직 비틀비틀 지팽이 붙들고 다니네
+    눈에는 까마귀와 꽃이 물색을 따르고
+    귓가엔 개구리 노래가 피리소리와 섞이네
+    옥당(중서성, 봉황지라고도 한다.)의 여러분들은 봉처럼 솟아 날고
+    금궤(귀중한 국가의 문서를 넣는 궤.) 천추에 동호를 잇네
+    3년 동안 대제로 제 구실을 못했으니
+    아마도 호로를 그린 것 사람들이 웃으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0200_010_0760&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동호(董狐) : '
+    value: 춘추 때 진(晉)나라의 사관(史官)으로 직필(直筆)로 유명하다.
+  - key: '[주-D002] 호로(葫蘆)를 그린 것 : '
+    value: 모방해 본뜬다는 말. 송(宋)나라 도곡(陶糓)의 문한(文翰)이 당대의 으뜸이었는데, 어떤 사람이 그를 철거하니 태조가 웃어 이르되, “듣건대 한림의 제서(制書) 초학이 다 전의 사람들의 옛 초본을 검사하여 사구(詞句)만 바꾼 것이라 하니, 이는 소위 본[樣]대로 호로박을 그린 것이다.” 하니 도곡이 시를 짓되, “우스워라, 한림 도학사는 해마다 본[樣]대로 호로박만 그리누나.” 하였다.
+english:
+  title: For Jiang Riyong
+  author: Kwon Je
+  language: eng
+  text: |-
+    After months of illness, my body barely stirs to life,
+    my steps still stumble—I lean upon my walking stick.
+    In my eyes, crows and flowers follow the shapes of things,
+    in my ears, the frogs' song mingles with the pipes' refrain.
+    The talented men of the Jade Hall rise like phoenixes,
+    the golden records of a thousand autumns continue the work of the historian.
+    Three years as Vice Director, yet I have failed in duty—
+    I fear the people mock me for drawing gourds by copy alone.
+  footnotes:
+  - key: ''
+    value: The Jade Hall (玉堂) refers to the Central Secretariat (中書省), where the empire's most talented scholars gathered.
+  - key: ''
+    value: The golden records (金匱) are the imperial archives where important state documents are preserved.
+  - key: ''
+    value: The historian (董狐) alludes to the ancient Spring and Autumn chronicler known for his unflinching truthfulness in recording history.
+  - key: ''
+    value: Drawing gourds by copy is an idiom meaning to work without originality, merely imitating predecessors.

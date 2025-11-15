@@ -1,0 +1,85 @@
+canonical:
+  title: 謾興四首
+  author: 金時習
+  language: lzh
+  text: 美人望望隔秋水松桂禀異難爲情我有一匹好東絹願紓情懷題姓名秋月團團秋露凝明河皎潔風稜稜布衾踈冷不成夢時有草虫來撲燈山人招我歸來篇筍已成林栗如拳滿庭風雨養莓苔秋露濕緩梧桐絃頭邊歲月一鳥過人生百歲能幾何騰騰兀兀是誰過自繩自縛如蠶蛾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謾興四首
+  author: 金時習
+  language: lzh
+  text: 美人望望隔秋水。松桂禀異難爲情。我有一匹好東絹。願紓情懷題姓名。秋月團團秋露凝。明河皎潔風稜稜。布衾踈冷不成夢。時有草虫來撲燈。山人招我歸來篇。筍已成林栗如拳。滿庭風雨養莓苔。秋露濕緩梧桐絃。頭邊歲月一鳥過。人生百歲能幾何。騰騰兀兀是誰過。自繩自縛如蠶蛾。
+korean:
+  title: 만흥 사수
+  author: 김시습
+  language: kor
+  text: |-
+    가을 물 건너편에 바라뵈는 저 임
+    송계가 천품 달라 정을 풀기 어렵네
+    내가 가진 동견 좋은 한 필에
+    내 성명을 적어서 정회를 풀려하네
+    가을 달 둥굴둥굴 가을 이슬 엉겼는데
+    은하수가 산뜻하고 바람이 설렁설렁
+    베 이불이 선선하여 잠 못 이루노라니
+    이따금 메뚜기가 와서 등을 치는구나
+    산인이 나를 불러 돌아오라는 글
+    죽순이 숲을 이루고 밤이 주먹만 하다고
+    뜰에 찬 풍우에 이끼가 길어나고
+    가을 이슬에 거문고 줄이 젖어 늘어진다고
+    머리 가에 세월이 새마냥 지나가니
+    인생 백년이 대관절 얼마인고
+    취생몽사 누구의 허물인고
+    자승자박 누에 나방과 같은 신세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0660&viewSync=OT
+  footnotes: []
+english:
+  title: Four Poems of Idle Fancy
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    I
+    Across the autumn waters, she appears—my beloved,
+    Pines and cinnamon trees share a different nature;
+    How can the heart find ease?
+    I have a fine bolt of eastern silk,
+    And wish to write my name upon it,
+    That my longing might find some release.
+
+    II
+    The autumn moon hangs full and round,
+    Autumn dew gathers and congeals.
+    The Milky Way gleams pristine,
+    And wind stirs with a whistling chill.
+    My hemp coverlet lies thin and cold—
+    Sleep will not come.
+    From time to time a cricket strikes against the lamp.
+
+    III
+    A mountain hermit calls to me:
+    "Return, come read my words."
+    Bamboo shoots have grown into a forest now,
+    Chestnuts hang heavy as fists.
+    The courtyard fills with wind and rain,
+    And moss grows thick and long.
+    Autumn dew has dampened the qin's strings,
+    And they hang slack and limp.
+
+    IV
+    Beside my pillow, time flies past like a bird.
+    A hundred years of human life—
+    How much, in truth, remains?
+    Dreaming in the dust, rising to delusion—
+    Whose fault is this?
+    Bound by our own hands, bound by our own words,
+    We become like silkworms, like moths—
+    Caught in our own making.
+  footnotes:
+  - key: ''
+    value: The 'eastern silk' (東絹) likely refers to Korean silk, valued as a precious commodity. The speaker wishes to declare his feelings through this fine material.
+  - key: ''
+    value: The 'mountain hermit' represents a reclusive figure, possibly the poet himself in another guise, inviting retreat from worldly concerns.
+  - key: ''
+    value: The qin (琴) is the traditional Chinese zither, here a symbol of refined sensibility dampened by the sorrows of autumn and time.
+  - key: ''
+    value: The final couplet employs Buddhist-influenced imagery of self-entrapment, comparing human self-delusion to the silk-spinning insect caught in its own creation.

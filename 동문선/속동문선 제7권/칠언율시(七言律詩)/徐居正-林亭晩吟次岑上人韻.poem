@@ -1,0 +1,47 @@
+canonical:
+  title: 林亭晩吟次岑上人韻
+  author: 徐居正
+  language: lzh
+  text: 城市那無隱者家林亭幽絶隔塵譁年年爲種幾多樹續續自開無數花白蟻戰酣山雨至黃蜂衙罷溪日斜移時軟共高僧話石鼎松聲送煮茶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 林亭晩吟次岑上人韻
+  author: 徐居正
+  language: lzh
+  text: 城市那無隱者家。林亭幽絶隔塵譁。年年爲種幾多樹。續續自開無數花。白蟻戰酣山雨至。黃蜂衙罷溪日斜。移時軟共高僧話。石鼎松聲送煮茶。
+korean:
+  title: 임정만음 차 잠상인 운
+  author: 서거정
+  language: kor
+  text: |-
+    성시라 어찌 은자의 집이 없으랴
+    임정이 아주 깊숙하여 세상의 시끄러움을 멀리했나니
+    해마다 얼마나 많은 나무를 심어
+    계속해서 스스로 무수한 꽃이 피네
+    흰 개미가 한창 싸우매 산의 비가 내리고
+    누른 벌이 일을 마치매 시내의 해가 넘는다
+    다른 날에 조용히 고승과 이야기할 때에는
+    돌솥의 소나무 소리가 달인 차를 보내리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0230&viewSync=OT
+  footnotes: []
+english:
+  title: Evening Song at the Forest Pavilion, Following the Rhyme of Zen Master Cham
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    In the city, where might the hermit find his home?
+    The forest pavilion stands deep and serene, far removed from worldly clamor.
+    Year after year, how many trees we plant,
+    Continually they open into countless flowers of their own.
+    When white ants surge in battle, mountain rain descends,
+    When golden bees finish their work, the stream catches the fading sun.
+    Other times, in quiet discourse with the high monk,
+    The pine-stone kettle's voice escorts the brewed tea forth.
+  footnotes:
+  - key: ''
+    value: Zen Master Cham (잠상인) was likely a contemporary Buddhist priest; this poem responds to one of his, following a poetic convention of matching rhyme schemes.
+  - key: ''
+    value: The white ants and golden bees are natural observations that mark the passage of time and seasons in the pavilion's retreat.
+  - key: ''
+    value: The 'pine-stone kettle' (석정 송성) refers to the sound of water heating in a stone vessel, mingling with the whisper of pines—a moment of aesthetic refinement in tea ceremony.

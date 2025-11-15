@@ -1,0 +1,43 @@
+canonical:
+  title: 金司空眞贊
+  author: 李穡
+  language: lzh
+  text: 美質足以追祖風雅量足以鎭浮俗高懷謝傅之東山遠暎陳侯之冠玉或一飮千鍾而不爲困或危坐竟日而靡有爭盖醴泉朱草慶雲景星固世之罕有亦可以爲人瑞而表大平者耶
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金司空眞贊
+  author: 李穡
+  language: lzh
+  text: 美質足以追祖風。雅量足以鎭浮俗。高懷謝傅之東山。遠暎陳侯之冠玉。或一飮千鍾而不爲困。或危坐竟日而靡有爭。盖醴泉朱草。慶雲景星。固世之罕有。亦可以爲人瑞而表大平者耶。
+korean:
+  title: 김사공 진찬
+  author: 이색
+  language: kor
+  text: 아름다운 자질(資質), 할아버지의 풍도를 따를 만하였고 넓은 아량은 경박한 세속을 진압할 만하였다. 사안(謝安)이 동산(東山)에 놀던 풍류를 사모하였고, 진평(陳平)의 관옥(冠玉) 같은 얼굴이 멀리 빛났다. 어떤 때는 하루 1천 잔을 마셔도 시달리지 아니하며 어떤 때는 종일토록 꿇어앉아 있으며 다투는 바가 없었다. 단물이 솟는 샘, 신령한 붉은 풀, 서기 어린 구름, 상서로운 별, 이것이 모두 세상에 드문 것이지만 공은 또한 상서로운 인간으로서 세상이 태평함을 나타낼 인물인 듯하도다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0540_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: In Praise of Minister Kim
+  author: Lee Saek
+  language: eng
+  text: |-
+    His noble character echoes the virtues of his ancestors,
+    His magnanimous spirit subdues the frivolous ways of the world.
+    He admires the refined leisure of Xie An upon Eastern Mountain,
+    His countenance shines with the lustrous beauty of Chen Ping.
+
+    At times he drinks a thousand cups without faltering,
+    At times he sits in dignified silence throughout the day without dispute.
+    Sweet springs and auspicious grasses,
+    Auspicious clouds and fortunate stars—
+    Though such wonders are rare in this world,
+    Yet Minister Kim stands as a human treasure,
+    A sign that the age has entered into great peace.
+  footnotes:
+  - key: ''
+    value: Xie An (謝安) was a celebrated official and aesthete of the Eastern Jin who famously withdrew to Eastern Mountain (東山) for leisure and refined pursuits, becoming an ideal of cultured retirement.
+  - key: ''
+    value: Chen Ping (陳平) was a renowned strategist and statesman of the Han dynasty, celebrated for his exceptional wisdom and composure.
+  - key: ''
+    value: The imagery of sweet springs, auspicious grasses, auspicious clouds, and fortunate stars draws from classical Chinese auspicious portents believed to appear during eras of peace and virtuous rule.

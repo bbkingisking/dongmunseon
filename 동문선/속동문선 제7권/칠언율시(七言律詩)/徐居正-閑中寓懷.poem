@@ -1,0 +1,45 @@
+canonical:
+  title: 閑中寓懷
+  author: 徐居正
+  language: lzh
+  text: 一身多病且衰遲物議紛紜百不知白髮悠悠長袖手靑山默默獨支頤書籤筆架閑相伴藥鼎茶甌老更宜晴日小䆫酣打睡忽驚喜鵲語簷枝
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 閑中寓懷
+  author: 徐居正
+  language: lzh
+  text: 一身多病且衰遲。物議紛紜百不知。白髮悠悠長袖手。靑山默默獨支頤。書籤筆架閑相伴。藥鼎茶甌老更宜。晴日小䆫酣打睡。忽驚喜鵲語簷枝。
+korean:
+  title: 한중 우회
+  author: 서거정
+  language: kor
+  text: |-
+    한 몸에 병이 나고 노쇠했거니
+    시끄러운 세상 물의 전연 모른다
+    백발이라 유유히 항상 팔짱을 끼고
+    푸른 산이 묵묵한데 혼자 턱을 괸다
+    책장과 붓통은 한가히 서로 짝하고
+    약솥과 찻병은 늙으매 더욱 좋다
+    맑은 날 작은 창에 잠이 무르녹았나니
+    처마 끝의 반가운 까치 소리에 갑자기 놀라 깬다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 㝢 : '
+    value: 寓
+english:
+  title: Musings in Leisure
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    My body bears many ailments, worn down by age.
+    The cacophony of the world's gossip—I know nothing of it.
+    With white hair, I drift through days with folded arms,
+    while the blue mountains stand silent, and I rest my chin upon my hand.
+    Bookmarks and brush holders keep me company in idleness,
+    and the medicine pot and tea cup grow dearer with my years.
+    On clear days, I sink into sweet slumber by my small window,
+    when suddenly the call of magpies on the eaves startles me awake.
+  footnotes:
+  - key: ''
+    value: The magpie (까치, xǐ) traditionally symbolizes joy and good fortune in East Asian poetry, making its sudden cry a moment of unexpected delight breaking the poet's solitude.

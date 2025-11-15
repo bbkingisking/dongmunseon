@@ -1,0 +1,50 @@
+canonical:
+  title: 仍弗驛
+  author: 金克己
+  language: lzh
+  text: 悠悠山下路信轡詠涼天水有含芒蟹林無翳葉蟬溪聲淸似雨野氣淡如煙入夜投孤店村夫尙未眠
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 仍弗驛
+  author: 金克己
+  language: lzh
+  text: 悠悠山下路。信轡詠涼天。水有含芒蟹。林無翳葉蟬。溪聲淸似雨。野氣淡如煙。入夜投孤店。村夫尙未眠。
+korean:
+  title: 잉불역
+  author: 김극기
+  language: kor
+  text: |-
+    기나긴 산밑에
+    말 가는 대로 가며 서늘한 날씨에 시를 읊네
+    물에는 꺼끄러기[芒] 물고 있는 게가 있고
+    숲속엔 잎에 가리운 매미가 없구나
+    시냇물 소리는 맑아서 빗소리 같고
+    들 기운은 담담하기 연기 같구나
+    밤 되자 외로운 주막에 들어가니
+    촌 사람 아직도 잠 안 들어 있구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0350&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 잉불역(仍弗驛) : '
+    value: 경주(慶州) 남방 55리 느보[仍甫] 역을 말한다.
+  - key: '[주-D002] 꺼끄러기[芒] : '
+    value: 팔월(八月)이 되면 게[蟹]의 뱃속에 꺼끄러기[稻芒]가 있는데, 길이가 한 치나 된다. 동쪽으로 향하여 해신(海神)에게 바치는데, 그것을 미치지 않으면 먹지 못한다. 《酉陽雜俎》
+english:
+  title: Yangeul Station
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Along the winding path beneath the mountains,
+    I let my horse wander free, composing verses in the cool autumn air.
+    In the waters, crabs bear their precious cargo of grain-like offerings,
+    While in the leafy woods, no cicadas sing their summer song.
+
+    The stream's voice runs clear as falling rain,
+    The field's breath drifts soft as smoke.
+    As night descends, I find shelter in a lone wayside inn,
+    Where the village keeper still has not closed his eyes.
+  footnotes:
+  - key: ''
+    value: Yangeul Station (仍弗驛) refers to a historical posting station located about 55 li south of Gyeongju, near the ancient station of Yeongbo (仍甫).
+  - key: ''
+    value: 'The ''grain-like offerings'' carried by crabs is a seasonal phenomenon: in the eighth lunar month, crabs possess bristle-like structures in their bodies, each about an inch long, which they are said to offer eastward to the Sea God. According to tradition, crabs that fail to make this offering cannot be consumed.'

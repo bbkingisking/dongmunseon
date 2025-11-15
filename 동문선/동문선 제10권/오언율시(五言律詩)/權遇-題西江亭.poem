@@ -1,0 +1,45 @@
+canonical:
+  title: 題西江亭
+  author: 權遇
+  language: lzh
+  text: 愛此江亭好登臨久不回商帆投岸落漁艇逐潮來極浦寒煙積遙山返照開機心消已盡魚鳥莫相猜
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題西江亭
+  author: 權遇
+  language: lzh
+  text: 愛此江亭好。登臨久不回。商帆投岸落。漁艇逐潮來。極浦寒煙積。遙山返照開。機心消已盡。魚鳥莫相猜。
+korean:
+  title: 제 서강정
+  author: 권우
+  language: kor
+  text: |-
+    이 강정 좋은 것을 사랑하여
+    올라서 오래도록 돌아가지 않네
+    장사돛대는 언덕에 떨어지고
+    고기잡이배는 조수를 쫓아오네
+    먼 물가로 찬 연기는 쌓이고
+    먼 산에 저녁노을이 트이네
+    기심이 이미 다 삭았으니
+    어조야 서로 의심하지 말라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0980&viewSync=OT
+  footnotes: []
+english:
+  title: Inscribed on the Western River Pavilion
+  author: Kwon U
+  language: eng
+  text: |-
+    I have grown to love this river pavilion so.
+    Climbed high, I linger and cannot turn back.
+    Merchant sails descend and rest upon the shore,
+    While fishing boats rise with the turning tide.
+    At the far reaches, cold mist gathers thick,
+    And distant mountains glow with evening's flame.
+    My calculating heart has fully dissolved—
+    Fish and birds, suspect me not.
+  footnotes:
+  - key: ''
+    value: The 'calculating heart' (機心) refers to worldly ambitions and the machinations of the human mind—a Buddhist and Taoist concept of the burden one must shed to achieve spiritual tranquility.
+  - key: ''
+    value: The final couplet addresses the creatures of nature, suggesting the speaker has transcended the human condition of suspicion and competition, now at peace with the natural world.

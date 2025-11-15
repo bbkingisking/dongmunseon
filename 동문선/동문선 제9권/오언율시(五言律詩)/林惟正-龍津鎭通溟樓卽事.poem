@@ -1,0 +1,58 @@
+canonical:
+  title: 龍津鎭通溟樓卽事
+  author: 林惟正
+  language: lzh
+  text: 奔雲低帶雨王承可 遠水倒垂天李搆 綠樹村邊合王維孤城柳外圓唐庚 碧空猶未鴈宋白 遠木欲鳴蟬陸龜蒙豈不感時節韓愈 臨風一慨然子瞻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 龍津鎭通溟樓卽事
+  author: 林惟正
+  language: lzh
+  text: |-
+    奔雲低帶雨。王承可。 遠水倒垂天。李搆。 綠樹村邊合。王維。
+    孤城柳外圓。唐庚。 碧空猶未鴈。宋白。 遠木欲鳴蟬。陸龜蒙。
+    豈不感時節。韓愈。 臨風一慨然。子瞻。
+korean:
+  title: 용진진 통명루 즉사
+  author: 임유정
+  language: kor
+  text: |-
+    달려오는 구름이 나직히 비를 띠고 왕승가(王承可)
+    먼 강물은 하늘에서 거꾸로 드리운 듯 이구(李搆)
+    푸른 나무들은 마을 가에 어울렸고 왕유(王維)
+    외로운 성은 버들 저편에 둥그랗네 당경(唐庚)
+    공중엔 아직 기러기 안 나는데 송백(宋白)
+    먼 나무엔 매미가 아직 우누나 육귀몽(陸龜蒙)
+    가는 철을 어찌 아니 느끼리 한유(韓愈)
+    "휘유우" 바람 앞에서 한 번 탄식하누나 자첨(子瞻)
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: Composed While Visiting the Tongmyeong Tower at Yongjin Station
+  author: Lim Yu-jeong
+  language: eng
+  text: |-
+    Rushing clouds drift low, bearing rain—
+    remembering Wang Chengke's brush.
+    Distant waters hang inverted from the sky—
+    as Li Gou once painted them.
+    Green trees embrace the village edge—
+    Wang Wei's own vision made real.
+    A lonely fortress rounds beyond the willows—
+    Tang Geng's solitary gaze.
+    The void remains—no geese yet fly—
+    as Song Bai observed.
+    In distant trees, cicadas still sing on—
+    Lu Guimeng's autumn music.
+    How can one not feel the turn of seasons?
+    Han Yu's eternal question.
+    Before the wind, a single sigh escapes—
+    Zi Zhan's moment of reflection.
+  footnotes:
+  - key: ''
+    value: This poem is composed entirely of couplets attributed to famous Chinese poets and painters, woven together to create a new work that observes a scene at Yongjin Station. The names in parentheses refer to the classical sources being alluded to or quoted.
+  - key: ''
+    value: The tower's name, Tongmyeong (通明), suggests clarity and illumination, contrasting with the muted, contemplative mood of the poem.
+  - key: ''
+    value: The phrase 'Composed While Visiting' (即事) indicates this is an occasional poem written in response to the immediate experience of the place.

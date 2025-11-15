@@ -1,0 +1,48 @@
+canonical:
+  title: 送朴部令宜中覲母金堤
+  author: 李仁復
+  language: lzh
+  text: 籍甚芹宮客飄然桂榜魁斯文今未喪吾子故多才祖席西風急歸鞍後騎催嗟余獨何事欲去更徘徊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送朴部令宜中覲母金堤
+  author: 李仁復
+  language: lzh
+  text: 籍甚芹宮客。飄然桂榜魁。斯文今未喪。吾子故多才。祖席西風急。歸鞍後騎催。嗟余獨何事。欲去更徘徊。
+korean:
+  title: 김제로 어머니를 뵈러 가는 박부령 의중을 보내며
+  author: 이인복
+  language: kor
+  text: |-
+    명성이 자자한 근궁의 손이여
+    드높은 계방의 장원일세
+    사문이 아직 상실되지 않았구나
+    자네에겐 재주가 많으이
+    전별하는 자리에는 서녘바람이 급하고
+    가는 안마는 후기가 재촉하네
+    애달파라 나 혼자 무슨 일로
+    가고자 하다가 다시 머뭇거리는고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0080&viewSync=OT
+  footnotes: []
+english:
+  title: Seeing Off Park Bu-ryeong, the Vice-Governor, to Geumje to Visit His Mother
+  author: Lee In-bok
+  language: eng
+  text: |-
+    Your name shines bright, a guest of the Royal Academy—
+    You soared to first place on the golden register of scholars.
+    The Way of Letters has not yet perished in this age,
+    And you, my friend, possess abundant talent.
+
+    At the farewell gathering, the west wind blows sharp and swift,
+    While the returning horse is urged onward by those who follow.
+    Alas, what business keeps me here alone?
+    I wish to go, yet linger still, turning back in hesitation.
+  footnotes:
+  - key: ''
+    value: The 'golden register of scholars' refers to the highest honor achieved in the civil service examinations, indicating Park's exceptional scholarly achievement.
+  - key: ''
+    value: The 'Way of Letters' (sámun/文) represents Confucian learning and cultural refinement, suggesting a lamentation on the state of scholarship in the author's time.
+  - key: ''
+    value: The 'west wind' carries traditional connotations of farewell and melancholy in East Asian poetry.

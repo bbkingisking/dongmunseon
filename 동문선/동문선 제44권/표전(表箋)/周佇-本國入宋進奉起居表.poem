@@ -1,0 +1,36 @@
+canonical:
+  title: 本國入宋進奉起居表
+  author: 周佇
+  language: lzh
+  text: 臣諱言節氣伏惟皇帝陛下道法二儀明齊兩曜盖世之功高三代動天之德振九紘近悅遠來聖化已覃於四海節移律換皇齡定保於千秋凡居覆載之中盡禱延洪之業中謝 臣身拘兔域路隔鯨波遙瞻祝壽之山空知目斷仰望朝宗之水不覺魂飛臣伏限所守不獲躬詣闕庭無任瞻天戀聖激切屛營之至
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 本國入宋進奉起居表
+  author: 周佇
+  language: lzh
+  text: 臣諱言節氣。伏惟皇帝陛下。道法二儀。明齊兩曜。盖世之功高三代。動天之德振九紘。近悅遠來。聖化已覃於四海。節移律換。皇齡定保於千秋。凡居覆載之中。盡禱延洪之業。中謝。 臣身拘兔域。路隔鯨波。遙瞻祝壽之山。空知目斷。仰望朝宗之水。不覺魂飛。臣伏限所守。不獲躬詣闕庭。無任瞻天戀聖激切屛營之至。
+korean:
+  title: 본국 입송 진봉 기거 표
+  author: 주저
+  language: kor
+  text: |-
+    신 아무는 아뢰옵니다. 엎드려 생각하옵건대, 황제 폐하께오서 도(道)는 이의(二儀 일월(日月))를 법받으시고 밝음을 양요(兩曜 구주(九州))와 나란히 하시며, 세상을 뒤덮은 공은 삼대(三代)보다 드높으시고 하늘을 감동하는 덕은 구굉(九紘 천지(天地))에 떨쳤사오며, 근방(近方)은 기뻐하고 원방(遠方)은 찾아오매 성화(聖化)는 이미 사해(四海)에 미쳤사오며, 절서(節序)는 옮기고 세율(歲律)은 바뀌매 황령(皇齡)은 진정 천추를 보전하실 것이오니, 무릇 부재(覆載 천지(天地)) 안에 있는 자는, 모두 연홍(延洪 연장하고 넓어진다는 뜻)의 업을 빌고 있사옵니다. 중사(中謝)
+    신은 몸이 토역(兎域)에 얽매이고 길은 경파(鯨波)에 가로막혔사오매, 멀리 축수(祝壽)의 산을 쳐다보니 속절없이 안력(眼力)이 미치지 못하고, 우러러 조종(朝宗)의 물[水]을 바라보니 넋이 날아갈 듯하옵니다. 신은 지킨 바에 국한되어 몸소 궐정(闕庭)에 나아가지 못하오니, 하늘을 우러르고 성안을 그리며 감격하고 황송한 마음을 이길 길 없사옵니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0470_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 토역(兎域) : '
+    value: 동방(東方).
+english:
+  title: Official Memorial of Tribute Presented to Song
+  author: Zhou Zhu
+  language: eng
+  text: |-
+    Your humble servant respectfully submits this memorial. I contemplate with reverence that Your Imperial Majesty embodies the Way of heaven and earth, your brilliance matching the celestial lights. Your virtue surpasses the achievements of ancient sage-kings, and your benevolence stirs the very heavens across the nine directions. The near rejoice and the distant come forth; your sacred transformation has already extended throughout the four seas. As seasons turn and the celestial calendar shifts, your imperial years shall surely be preserved for ten thousand autumns. All who dwell within heaven's canopy and earth's foundation offer prayers for the continuation and expansion of your blessed reign.
+
+    Yet this humble servant remains bound to the eastern realm, with vast waters barring the journey. Though I gaze afar toward the mountain blessed by wishes for your longevity, my sight cannot reach so far. I raise my eyes to behold the waters where tributary states gather, and my spirit seems to soar. But confined to my appointed domain, I cannot journey in person to the imperial court. My reverence for heaven and longing for Your Majesty burn so intensely that I cannot contain this overwhelming emotion and gratitude.
+  footnotes:
+  - key: ''
+    value: 兎域 (eastern realm) refers to Korea, positioned in the east from the perspective of the Chinese empire.
+  - key: ''
+    value: This is a formal tributary memorial addressed to the Song emperor, following the conventions of official court documentation of the period.

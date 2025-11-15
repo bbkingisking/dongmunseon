@@ -1,0 +1,44 @@
+canonical:
+  title: 書懷
+  author: 成石珚
+  language: lzh
+  text: 骨肉分離日空城獨自行淚邊黃鳥近愁裏白髭生老已催年至名猶與利爭誰知天有眼一一見人情
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書懷
+  author: 成石珚
+  language: lzh
+  text: 骨肉分離日。空城獨自行。淚邊黃鳥近。愁裏白髭生。老已催年至。名猶與利爭。誰知天有眼。一一見人情。
+korean:
+  title: 서회
+  author: 성석연
+  language: kor
+  text: |-
+    골육이 나뉘는 날에
+    빈 성으로 혼자 가네
+    눈물 가에는 누른 꾀꼬리가 가까이 오고
+    시름 속에 흰 털이 나네
+    늙음은 이미 해를 재촉해 찾아오는데
+    이름은 오히려 이욕과 서로 다투네
+    뉘 알리 하늘에도 눈이 있어
+    일일이 인정을 살피는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0810&viewSync=OT
+  footnotes: []
+english:
+  title: Reflections on My Heart
+  author: Sung Seok-yeon
+  language: eng
+  text: |-
+    On the day when flesh and blood must part,
+    I walk alone through an empty city.
+    Near my tears, the yellow warbler draws close,
+    And within my sorrow, white hairs spring forth.
+
+    Old age already hastens the year to its end,
+    Yet my name still contends with worldly gain.
+    Who knows that Heaven has watchful eyes—
+    That it sees, one by one, the true hearts of men.
+  footnotes:
+  - key: ''
+    value: The poem reflects on aging, separation from loved ones, and the contrast between ambition and the inevitable approach of death. The speaker questions whether Heaven truly observes human nature and moral character.

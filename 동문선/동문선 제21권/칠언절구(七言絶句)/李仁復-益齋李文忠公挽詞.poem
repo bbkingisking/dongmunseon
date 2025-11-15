@@ -1,0 +1,61 @@
+canonical:
+  title: 益齋李文忠公挽詞
+  author: 李仁復
+  language: lzh
+  text: 宣祖崇儒要贊襄故留元老相今王十分潤色重興盛身退年高道更光夷險忠誠竟不渝曾隨永廟入燕都同車只有吾文烈行到重泉得見無近世文章與世衰公將大手獨持危剗除舊習開來學須信東方有退之
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 益齋李文忠公挽詞
+  author: 李仁復
+  language: lzh
+  text: 宣祖崇儒要贊襄。故留元老相今王。十分潤色重興盛。身退年高道更光。夷險忠誠竟不渝。曾隨永廟入燕都。同車只有吾文烈。行到重泉得見無。近世文章與世衰。公將大手獨持危。剗除舊習開來學。須信東方有退之。
+korean:
+  title: 익재이문충공만사
+  author: 이인복
+  language: kor
+  text: |-
+    선조가 선비를 높이어 보필을 구하여
+    하늘이 짐짓 원로를 남겨 지금 임금 밑에 정승을 시켰다
+    중흥의 성대를 한껏 빛내었으매
+    몸이 물러나고 나이 많을수록 도가 더욱 빛났다
+    평탄하나 험하나 그 충성은 끝내 변하지 않아
+    일찍이 영묘를 따라 연도에 들어갔다
+    동행한 이는 오직 우리 문열이 있었거니
+    지금 중천에 이르러 서로 만나 보는가
+    근세의 문장이 세상과 함께 쇠해갈 때에
+    공이 오직 큰 솜씨로 혼자 버티었었다
+    쇠퇴한 문장의 묵은 습관을 깎아 없애고 장래의 학자들에게 길을 열었으니
+    동방에 퇴지 있음을 진실로 믿겠도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중흥(中興)의 …… 빛내었으매 : '
+    value: 익재의 문장이 중흥(中興)의 태평 시대를 빛나게 하였다는 뜻이다.
+  - key: '[주-D002] 문열(文烈) : '
+    value: 작자 이인복의 할아버지 이조년(李兆年)의 시호(諡號)가 문열(文烈)이다.
+  - key: '[주-D003] 퇴지(退之) : '
+    value: 당나라 한유(韓愈)의 자(字)가 퇴지(退之)인데, 육조(六朝) 시대의 부화(浮華)한 문장의 구습(舊習)을 일소(一掃)하고 고문(古文)을 창도하였다. 익재의 문장도 역시 그러하였다.
+english:
+  title: Elegy for Lord Yi Mun-chung of Ikjae
+  author: Lee In-bok
+  language: eng
+  text: |-
+    King Seonjo revered the scholars and sought their support,
+    Heaven kept an elder statesman to serve the present throne.
+    He adorned the flourishing renaissance with full splendor,
+    And as his body withdrew, his years increased, his way shone brighter.
+    Through calm and through tempest, his loyalty never wavered,
+    Once he followed the Eternal Temple into the capital of Yan.
+    Only one companion rode with him—our own Mun-yeol,
+    Now reaching the depths below, do they meet once more?
+
+    In these latter days when letters fade with the world,
+    The Master alone held back the tide with his mighty hand.
+    He swept away the worn habits of declining style,
+    And opened the path for scholars yet to come.
+    Truly, the East has its own Han Yu.
+  footnotes:
+  - key: ''
+    value: Mun-yeol (文烈) was the posthumous name of Yi Jao-nyeon (李兆年), the author's grandfather.
+  - key: ''
+    value: Han Yu (韓愈), known by his courtesy name Tui-ji (退之), was a Tang dynasty master who reformed Chinese prose by clearing away the ornate conventions of the Six Dynasties and establishing the ancient prose style. Yi's literary achievements paralleled this renewal in the Eastern lands.

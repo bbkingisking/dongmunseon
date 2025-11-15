@@ -1,0 +1,49 @@
+canonical:
+  title: 崔尙書命樂府送耆老會侑歡
+  author: 李仁老
+  language: lzh
+  text: 白髮相懽笑語開只餘風月侑金盃却愁軒騎忩忩散故遣笙歌得得來醉倒始知天幕闊歸時爭見玉山頹夜闌草屋眠初覺正似瑤臺曉夢回
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 崔尙書命樂府送耆老會侑歡
+  author: 李仁老
+  language: lzh
+  text: 白髮相懽笑語開。只餘風月侑金盃。却愁軒騎忩忩散。故遣笙歌得得來。醉倒始知天幕闊。歸時爭見玉山頹。夜闌草屋眠初覺。正似瑤臺曉夢回。
+korean:
+  title: 최상서가 악사들을 기로회에 보내어 놀이를 돕기에
+  author: 이인로
+  language: kor
+  text: |-
+    백발들 모여 즐기며 담소하는 자리에
+    청풍과 명월만이 금잔을 권하였네
+    수레와 말탄 손들 총총히 헤질까봐
+    피리랑 노래랑 일부러 덩실덩실 보냈군
+    곤드레 취해 넘어지니 하늘 막이 넓은 줄 알았지
+    비틀거리며 돌아갈 제 옥산이 다투어 무너졌네
+    밤 깊어 초옥에서 자다가 깨니
+    요대(신선이 사는 곳)의 새벽 꿈결이 아치 깬 것 같데나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0280&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 곤드레 취해 …… 넓은 줄 알았지 : '
+    value: 유령(劉伶)이 술에 취하여 방안에서 발가벗고 있으니, 친구가 보고 책하였다. 유령은 답하기를, “나는 하늘을 막(幕)으로 삼고, 가옥(家屋)으로 옷을 삼는다. 자네는 왜 남의 의복 속에 들어와서 잔소리를 하는가.” 하였다.
+english:
+  title: Music and Entertainment Sent by Councillor Choi to the Elder's Gathering
+  author: Lee In-ro
+  language: eng
+  text: |-
+    White-haired elders gather, their laughter and voices blend.
+    Only wind and moonlight urge the golden cups to their lips.
+    Fearing the carriages and horses will scatter too soon,
+    he sends musicians with pipes and songs, dancing their way.
+    Drunk and tumbling down, I discover how vast the heaven's canopy spreads.
+    Reeling homeward, I watch Jade Mountain crumble in the distance.
+    Late in the night, waking from sleep in my thatched cottage,
+    it feels like awakening from a dream in the Palace of Immortals at dawn.
+  footnotes:
+  - key: ''
+    value: The reference to being drunk under heaven's vault alludes to Liu Ling, a famous drunken sage of ancient China, who claimed the sky as his roof and his home as his clothing—a poetic expression of freedom and transcendence through intoxication.
+  - key: ''
+    value: Jade Mountain (玉山) is a poetic reference to the appearance of an intoxicated person, invoking both natural beauty and the dignity of age.
+  - key: ''
+    value: The Palace of Immortals (瑤臺) represents a realm beyond the mundane, suggesting the gathering of elders has briefly elevated participants to a celestial realm.

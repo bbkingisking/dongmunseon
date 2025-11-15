@@ -1,0 +1,71 @@
+canonical:
+  title: 怨詩
+  author: 成侃
+  language: lzh
+  text: 蓐食向東阡暮返荒村哭衣裂露兩肘缾空無儲粟稚子牽衣啼安得饘與粥里胥來索錢老妻遭縛束踰墻陟崢嶸十日竄荊棘潛身草閒行日落山谷黑魑魅憑岸嘯凄風振林木凜然魂魄褫一步三四息嗟嗟黠吏徒誅求一何速公門非不仁汝輩心甚毒
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 怨詩
+  author: 成侃
+  language: lzh
+  text: 蓐食向東阡。暮返荒村哭。衣裂露兩肘。缾空無儲粟。稚子牽衣啼。安得饘與粥。里胥來索錢。老妻遭縛束。踰墻陟崢嶸。十日竄荊棘。潛身草閒行。日落山谷黑。魑魅憑岸嘯。凄風振林木。凜然魂魄褫。一步三四息。嗟嗟黠吏徒。誅求一何速。公門非不仁。汝輩心甚毒。
+korean:
+  title: 원시
+  author: 성간
+  language: kor
+  text: |-
+    새벽밥 먹고 동쪽 언덕에 갔다가
+    저물게는 쓸쓸한 마을에 돌아와 운다
+    옷은 찢어져 두 팔뚝이 드러나고
+    병은 비어 쌓인 곡식이 없다
+    어진 자식이 옷을 끌어당기며 우니
+    어찌 하면 밥과 죽을 얻을까
+    아전들이 와서 돈을 토색하여
+    늙은 아내가 묶임을 당했다
+    담을 넘고 높은 데 기어올라
+    열흘 동안 가시밭 속에 숨었었다
+    몸을 숨겨 풀 속으로 다니니
+    해는 떨어지고 산골은 컴컴하다
+    도깨비는 언덕에서 휘파람 불고
+    처량한 바람은 숲 사이에서 분다
+    벌벌 떨리고 혼백이 흩어지니
+    한 걸음에 세 번 네 번 숨을 쉰다
+    슬프다, 저 간악한 아전들
+    토색질이 어찌 그리 빠른고
+    관청은 어질지 않은 것 아니지만
+    너희들의 마음이 심히 독하도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0540&viewSync=OT
+  footnotes: []
+english:
+  title: A Lament
+  author: Sung Kan
+  language: eng
+  text: |-
+    At dawn I ate my meager meal and climbed the eastern ridge,
+    At dusk I returned to the desolate village and wept.
+    My clothes are torn, my elbows bare to the wind,
+    My jar stands empty—no grain stored within.
+    My youngest child tugs at my rags and cries,
+    'Father, when will we have rice and gruel again?'
+    The magistrate's men came demanding taxes,
+    And bound my aged wife with cruel rope.
+    I fled over the wall to the towering heights,
+    Hiding ten days among the thorns and brambles.
+    Crouched in the grass, I crept through shadows,
+    As the sun sank and the valley grew dark.
+    Spirits whistled from the riverbank,
+    And bitter winds shook through the forest.
+    My soul trembled and nearly fled my body,
+    Each step I took, I gasped three, four times for breath.
+    Alas, these crooked clerks and their schemes!
+    How swiftly they squeeze the blood from the poor!
+    The magistrate himself may not be unkind,
+    But you—your hearts are black as pitch.
+  footnotes:
+  - key: ''
+    value: The poem depicts the plight of a peasant under oppressive tax collection during the Joseon period, where local officials often exceeded their authority in extracting payments from the desperate poor.
+  - key: ''
+    value: '''Spirits'' (魑魅) refers to malevolent supernatural beings of traditional East Asian folklore, here representing the terror and despair of the speaker''s flight.'
+  - key: ''
+    value: The final couplet distinguishes between the nominal authority (the magistrate) and those who enact cruelty—a critique of bureaucratic corruption rather than the system itself.

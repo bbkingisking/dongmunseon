@@ -1,0 +1,62 @@
+canonical:
+  title: 癸丑十一月十四日霧
+  author: 李崇仁
+  language: lzh
+  text: 久恠冬寒薄今驚曉霧新轉頭迷去路擧目失比隣似雨難生物如塵只汚人五侯封旣遠三里術何神爕理知誰責薰蒸入鼻辛吾身要自愛且飮一杯醇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 癸丑十一月十四日霧
+  author: 李崇仁
+  language: lzh
+  text: 久恠冬寒薄。今驚曉霧新。轉頭迷去路。擧目失比隣。似雨難生物。如塵只汚人。五侯封旣遠。三里術何神。爕理知誰責。薰蒸入鼻辛。吾身要自愛。且飮一杯醇。
+korean:
+  title: 계축년 11월 14일 안개가 끼다
+  author: 이숭인
+  language: kor
+  text: |-
+    겨울 날씨 푸근한 것 괴상쩍더니
+    새벽 안개 이렇게 몹시 끼었네
+    머리 드니 갈 길이 통 안 보이고
+    눈을 드니 이웃집도 어디 있는지
+    가랑비 비슷하나 초목에 이익 없는 것
+    먼지와 같아서 사람 더럽힐 뿐
+    오후를 봉한 탓은 옛날 일
+    삼리무를 만드는 재주 신기할씨고
+    음양을 섭리함이 뉘 책임인고
+    찌는 듯한 냄새에 코 답답하네
+    내 몸을 아껴야 하리니
+    그저 술 한 잔을 거나히 드세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0340&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오후(五侯)를 봉(封) : '
+    value: 후한(後漢)왕씨(王氏)가 오후(五侯)를 모두 봉하니, 그날에 누른 안개가 사면에 온종일 꽉 끼었다.
+  - key: '[주-D002] 삼리무(三里霧) : '
+    value: 후한(後漢)장해(張楷)가 도술(道術)을 좋아하여 5리 안개를 만들고, 같은 때의 관서(關西) 사람 배우(裴優)가 또한 3리 안개를 만들었다. 《後漢書》
+english:
+  title: Fog on the Fourteenth Day of the Eleventh Month in the Year Guichou
+  author: Lee Sung-in
+  language: eng
+  text: |-
+    I wondered at winter's gentleness,
+    Now I'm startled by this morning's thick fog.
+    Turning my head, the path ahead vanishes,
+    Opening my eyes, even my neighbor's house is lost.
+
+    Like rain that cannot nurture the green shoots,
+    Like dust that only soils all it touches—
+    Those five marquises were enfeoffed in ancient days,
+    Yet what divine craft conjured three li of mist?
+
+    Who bears responsibility for heaven's governance?
+    Who commands the steaming and the cooling?
+    This acrid vapor stings my nose,
+    Yet my body must be cherished still.
+
+    So let me simply sip a cup of wine,
+    And let the fog do what it will.
+  footnotes:
+  - key: ''
+    value: 'Five Marquises: A reference to the Later Han dynasty, when the Wang family was granted five marquisates, and a thick yellow fog covered the land all day.'
+  - key: ''
+    value: 'Three li of mist: The Daoist sage Zhang Kai was said to have conjured a five-li fog, while his contemporary Pei You created a three-li fog—legendary feats of mystical arts recorded in the History of the Later Han.'

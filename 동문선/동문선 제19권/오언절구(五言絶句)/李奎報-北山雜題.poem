@@ -1,0 +1,64 @@
+canonical:
+  title: 北山雜題
+  author: 李奎報
+  language: lzh
+  text: 欲試山人心入門先醉奰了不見喜慍始覺眞高士高巓不敢上不是憚躋攀恐將山中眼乍復望人寰山花發幽谷欲報山中春何曾管開落多是定中人山人不浪出古徑蒼苔沒應恐紅塵人欺我綠蘿月
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 北山雜題
+  author: 李奎報
+  language: lzh
+  text: 欲試山人心。入門先醉奰。了不見喜慍。始覺眞高士。高巓不敢上。不是憚躋攀。恐將山中眼。乍復望人寰。山花發幽谷。欲報山中春。何曾管開落。多是定中人。山人不浪出。古徑蒼苔沒。應恐紅塵人。欺我綠蘿月。
+korean:
+  title: 북산 잡제
+  author: 이규보
+  language: kor
+  text: |-
+    산에 사는 이 마음을 시험코자 하여
+    문에 들어 먼저 주정해 보네
+    기뻐하고 불평함을 나타내지 않으면
+    비로소 알았네 참으로 고사임을
+    높은 산꼭대기를 감히 오르지 않는 것은
+    오르기 고된 것을 꺼리는 게 아니라
+    산중의 눈에 잠깐 다시
+    인환이 바라보일까 두려워함일세
+    산꽃이 깊은 골짜기에 피어
+    산중의 봄을 알리려 하네만
+    피고 지는 것을 누가 일찍이 주관하랴
+    사람은 정 가운데 들 때가 많은 것을
+    산에 사는 사람이 함부로 나들이 않으니
+    옛 길이 사뭇 푸른 이끼에 파묻혔네
+    응당 겁내리라 티끌 세상 사람을
+    나의 녹라월을 침벌할세라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0250&viewSync=OT
+  footnotes: []
+english:
+  title: Miscellaneous Verses on North Mountain
+  author: Lee Gyeong-bo
+  language: eng
+  text: |-
+    To test the heart of a mountain hermit,
+    I entered the gate and pretended to be drunk—
+    No trace of joy or anger showed,
+    Then I knew him truly a man of noble spirit.
+
+    Why do I not dare climb the highest peak?
+    Not from fear of the arduous ascent,
+    But lest my eyes, grown accustomed to the mountain,
+    Should glimpse again the world of men.
+
+    Mountain flowers bloom in hidden valleys,
+    Wishing to announce the spring within these heights,
+    Yet who truly governs their blooming and falling?
+    Most who dwell here are those deep in meditation.
+
+    The mountain hermit ventures forth but rarely—
+    The ancient path is buried beneath verdant moss.
+    He rightly fears the dusty world of men
+    Might profane the moonlight on his green vines.
+  footnotes:
+  - key: ''
+    value: '녹라월 (green vine moonlight): A poetic image representing the purity and seclusion of mountain life, where the hermit witnesses the moon illuminated by verdant vegetation rather than the artificiality of human civilization.'
+  - key: ''
+    value: '정 (meditation/stillness): Refers to a meditative state valued in both Buddhist and Daoist traditions, suggesting spiritual cultivation through withdrawal from worldly affairs.'

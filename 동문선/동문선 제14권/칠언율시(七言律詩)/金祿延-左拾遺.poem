@@ -1,0 +1,50 @@
+canonical:
+  title: 左拾遺
+  author: 金祿延
+  language: lzh
+  text: 塵勞眼底事紛然汨沒虛消耳順年吟藥不須膓吐錦念經惟兾舌生蓮羡君白業花曾秀愧我玄門果未圓只爲掛名香社裏強將荒句續嘉篇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 左拾遺
+  author: 金祿延
+  language: lzh
+  text: 塵勞眼底事紛然。汨沒虛消耳順年。吟藥不須膓吐錦。念經惟兾舌生蓮。羡君白業花曾秀。愧我玄門果未圓。只爲掛名香社裏。強將荒句續嘉篇。
+korean:
+  title: 좌습유
+  author: 김녹연
+  language: kor
+  text: |-
+    눈앞의 티끌 세상 만사가 어지러워서
+    헛되이 골몰한 지 어언 60년
+    약 만드는 창자에서 비단[문장(文章)] 토해 무엇하리
+    경 읽어 혀에 연꽃 피기 바라네
+    부러워라, 그대 백업(불전어(佛典語)인데, 선업(善業)을 말한다)은 꽃이 진작 폈다지
+    부끄러운 내 현문(현묘한 문(門)인데, 불가(佛家)  도가(道家)이다)은 열매 아직 안 익었네
+    보잘것 없는 이름이 향사에 걸렸길래
+    억지로 졸한 시로 가작들을 잇네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경(經) 읽어 …… 피기 바라네 : '
+    value: 구마라십(鳩摩羅什)이 평생에 설법(說法)을 잘하였는데, 죽은 뒤에 혀[舌]가 연꽃으로 화(化)하였다 한다.
+english:
+  title: Left Censor
+  author: Kim Nok-yeon
+  language: eng
+  text: |-
+    Before my eyes, the dusty world swirls in confusion—
+    Sixty years lost in this hollow, fleeting existence.
+    What use to cough up brocade from a medicine-maker's belly?
+    I only hope that reading sutras will bloom lotus flowers on my tongue.
+
+    I envy your white karma—your flower has long since blossomed.
+    I am ashamed: my mystic gate bears no fruit yet.
+    Merely because my unworthy name hangs in the fragrant society,
+    I strain to stitch crude verses into noble verses.
+  footnotes:
+  - key: ''
+    value: The reference to lotus flowers blooming on the tongue alludes to the Buddhist monk Kumarajiva, whose tongue was said to have transformed into a lotus flower after his death, a reward for his lifetime of eloquent teaching of the dharma.
+  - key: ''
+    value: White karma (白業) refers to virtuous deeds and good karma in Buddhist terminology.
+  - key: ''
+    value: The mystic gate (玄門) encompasses both Buddhist and Daoist paths, representing esoteric spiritual cultivation.

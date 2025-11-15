@@ -1,0 +1,53 @@
+canonical:
+  title: 諸葛孔明祠堂
+  author: 李齊賢
+  language: lzh
+  text: 群雄蠭起事紛拏獨把經綸卧草廬許國義高三顧後出師謨遠七擒餘木牛流馬誰能了羽扇綸巾我自如千載忠誠懸日月迴頭魏晉但丘墟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 諸葛孔明祠堂
+  author: 李齊賢
+  language: lzh
+  text: 群雄蠭起事紛拏。獨把經綸卧草廬。許國義高三顧後。出師謨遠七擒餘。木牛流馬誰能了。羽扇綸巾我自如。千載忠誠懸日月。迴頭魏晉但丘墟。
+korean:
+  title: 제갈공명 사당
+  author: 이제현
+  language: kor
+  text: |-
+    뭇 영웅들 봉기하여 천하의 일 어수선한데
+    홀로 경륜 안고 초려에 누웠었네
+    삼고를 받고 난 뒤 나라에 몸을 바쳤고
+    칠금 뒤에 출사의 꾀가 원대했네
+    목우 유마의 재주를 그 누가 알리
+    윤건과 우선으로 나는 자약하였네
+    천고의 그 충성 해와 달처럼 걸렸으니
+    그까짓 위와 진이야 지금 모두 폐허뿐
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 칠금(七擒) : '
+    value: 제갈량이 위(魏)를 치고자 출사하기 전에 뒷 염려를 없애기 위하여 먼저 남만(南蠻 지금 雲南省)을 쳐 그 왕 맹확(孟穫)을 사로잡았다가 그가 열복(悅服)할 때까지 도로 놓아주기를 무릇 일곱 번 했으니, 이른바 칠종칠금(七縱七擒)이다.
+  - key: '[주-D002] 목우유마(木牛流馬) : '
+    value: 제갈량이 위(魏)와 싸울 때 험준한 산길에 군량을 운반하기 위하여 썼다는 나무 소와 딸딸이말. 그 제작법(촌법)이 그의 집(集)에 자세히 적혀 있으나, 그 작용은 미상.
+  - key: '[주-D003] 윤건(輪巾)과 우선(羽扇) : '
+    value: 제갈량이 평소에 군중에서 항상 애용하던 흰 새털 부채[白羽扇]와 실로 짠 두건(頭巾).
+english:
+  title: At the Shrine of Zhuge Kongming
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    When warlords rose like swarms and the realm fell into chaos,
+    He alone lay in his thatched cottage, cradling the art of statecraft.
+    After three visits proved his worth, he pledged himself to the state,
+    And after seven captives freed, his stratagems stretched far and wide.
+    Who could fathom his wooden oxen and flowing horses?
+    With feathered fan and silk-bound head, he moved as one with destiny.
+    For a thousand ages his loyalty hangs suspended like sun and moon,
+    Yet Wei and Jin, those dynasties, are now but empty ruins.
+  footnotes:
+  - key: ''
+    value: The 'seven captives freed' refers to Zhuge Liang's seven-fold capture and release of Meng Huo, the southern barbarian king, to secure the south before campaigning against Wei.
+  - key: ''
+    value: The 'wooden oxen and flowing horses' were ingenious wooden transports Zhuge Liang designed to carry supplies through treacherous mountain passes during his campaigns.
+  - key: ''
+    value: The 'feathered fan and silk-bound head' were Zhuge Liang's distinctive appearance—he habitually carried a white feather fan and wore a silk headwrap, becoming his iconic image throughout history.

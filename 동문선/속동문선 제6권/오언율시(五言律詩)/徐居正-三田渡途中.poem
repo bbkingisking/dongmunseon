@@ -1,0 +1,46 @@
+canonical:
+  title: 三田渡途中
+  author: 徐居正
+  language: lzh
+  text: 羸馬三田渡西風吹帽斜澄江涵去鴈落日送還鴉古樹明黃葉孤村見白沙靑山將盡處遙認是吾家
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 三田渡途中
+  author: 徐居正
+  language: lzh
+  text: 羸馬三田渡。西風吹帽斜。澄江涵去鴈。落日送還鴉。古樹明黃葉。孤村見白沙。靑山將盡處。遙認是吾家。
+korean:
+  title: 삼전도 도중
+  author: 서거정
+  language: kor
+  text: |-
+    여윈 말 타고 삼전도로 가노니
+    서쪽 바람이 불어 모자[帽]가 기울었네
+    맑은 강은 떠나는 기러기를 담았고
+    지는 해는 돌아가는 까마귀를 보내도다
+    묵은 나무에는 단풍잎이 밝았는데
+    외로운 마을에는 백사장이 보이누나
+    저기 푸른 산이 끝나려 하는 곳에
+    우리 집이 저것인 줄 멀리서 알겠네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: On the Way Through Samjeondo
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Riding a weary horse toward Samjeondo,
+    the west wind tilts my hat askew.
+    The clear river holds the departing geese,
+    the setting sun escorts the returning crows.
+
+    On ancient trees, autumn leaves gleam bright,
+    in a lonely village, white sand appears.
+    Where the blue mountains begin to fade,
+    far off, I recognize—that is my home.
+  footnotes:
+  - key: ''
+    value: Samjeondo (三田渡) is a historical site in Korea, located near present-day Seoul on the Han River. The title suggests a journey through this place.
+  - key: ''
+    value: The poem employs the traditional poetic device of using natural imagery—geese, crows, autumn leaves, and sand—to create a mood of melancholy return and nostalgic recognition.

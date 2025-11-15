@@ -1,0 +1,40 @@
+canonical:
+  title: 春興
+  author: 鄭夢周
+  language: lzh
+  text: 春雨細不滴夜中微有聲雪盡南溪漲草芽多少生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 春興
+  author: 鄭夢周
+  language: lzh
+  text: 春雨細不滴。夜中微有聲。雪盡南溪漲。草芽多少生。
+korean:
+  title: 춘흥
+  author: 정몽주
+  language: kor
+  text: |-
+    봄비가 가늘어 방울도 듣지 않더니
+    밤중에 약간 소리가 나는 듯했네
+    눈 녹아 남쪽 개울에 물이 불었거니
+    풀싹은 이미 얼마나 돋았는고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0540&viewSync=OT
+  footnotes: []
+english:
+  title: Spring Sentiments
+  author: Jeong Mong-ju
+  language: eng
+  text: |-
+    The spring rain falls so fine
+    no drops can be heard—
+    yet in the night's stillness
+    a whisper of sound emerges.
+
+    Snow melts into the southern stream,
+    swelling its banks.
+    How many grass shoots
+    have already broken through the earth?
+  footnotes:
+  - key: ''
+    value: The poem captures the subtle awakening of spring, where transformation occurs so gradually it escapes notice until suddenly, all at once, spring has arrived.

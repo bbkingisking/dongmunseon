@@ -1,0 +1,50 @@
+canonical:
+  title: 與友人遊昭格署洞
+  author: 南孝溫
+  language: lzh
+  text: 幽洞雲生處溪流日夕舂花明山路熟人斷石門重鳥度靑蓮嶂龍頹韋偃松從來爲眼癖不計費扶筇
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 與友人遊昭格署洞
+  author: 南孝溫
+  language: lzh
+  text: 幽洞雲生處。溪流日夕舂。花明山路熟。人斷石門重。鳥度靑蓮嶂。龍頹韋偃松。從來爲眼癖。不計費扶筇。
+korean:
+  title: 여 우인 유 소격서동
+  author: 남효은
+  language: kor
+  text: |-
+    깊숙한 골짜기의 구름이 나는 곳에
+    시내는 흘러 밤낮으로 찧는다
+    꽃이 밝으매 산길이 익숙하고
+    사람이 끊겼으매 돌문이 무거워라
+    푸른 연 산봉우리 새는 지나 날고
+    비스듬한 소나무 용이 누웠다
+    일찍부터 구경하는 버릇으로
+    지팡이 짚는 수고 생각하지 않았다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0670&viewSync=OT
+  footnotes: []
+english:
+  title: Traveling to Seogyeokse-dong with a Friend
+  author: Nam Hyo-on
+  language: eng
+  text: |-
+    Where clouds are born in the deep ravine,
+    the stream flows, pounding day and night.
+    With flowers bright, the mountain path grows familiar,
+    and with people gone, the stone gate grows heavy.
+
+    Birds traverse the blue lotus peaks,
+    while dragons rest on slanting pines.
+    From long ago, this habit of gazing—
+    I never counted the toil of leaning on my staff.
+  footnotes:
+  - key: ''
+    value: Seogyeokse-dong (昭格署洞) is located in the Gwangneung area of Seoul, historically known for its natural beauty and literary associations.
+  - key: ''
+    value: The stone gate (石門) refers to a notable geographical feature of the cave system, marking a threshold between the human world and nature's sanctuary.
+  - key: ''
+    value: The 'blue lotus peaks' and 'slanting pines' are poetic evocations of the landscape's features, blending Buddhist imagery with natural description—typical of Korean literati poetry.
+  - key: ''
+    value: 'The final couplet reflects a common theme in Classical Chinese and Korean poetry: the scholarly wanderer''s indifference to physical hardship in pursuit of spiritual communion with nature.'

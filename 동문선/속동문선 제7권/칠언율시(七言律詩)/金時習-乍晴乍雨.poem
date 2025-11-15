@@ -1,0 +1,48 @@
+canonical:
+  title: 乍晴乍雨
+  author: 金時習
+  language: lzh
+  text: 乍晴還雨雨還晴天道猶然况世情譽我便應還毁我逃名却自爲求名花開花謝春何管雲去雲來山不爭寄語世人須記認取歡無處得平生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 乍晴乍雨
+  author: 金時習
+  language: lzh
+  text: 乍晴還雨雨還晴。天道猶然况世情。譽我便應還毁我。逃名却自爲求名。花開花謝春何管。雲去雲來山不爭。寄語世人須記認。取歡無處得平生。
+korean:
+  title: 사청 사우
+  author: 김시습
+  language: kor
+  text: |-
+    잠깐 개었다 다시 비오다, 비오다 또 개누나
+    천도도 그러하거니 하물며 세상의 인정이겠는가
+    나를 칭찬하는가 하면 어느새 나를 헐뜯고
+    이름을 피하는가 하면 문득 이름 구한다
+    꽃이 피고 꽃이 지는 걸 봄이 어찌 관장하리
+    구름이 가고 구름이 와도 산은 다투지 않는다
+    세상 사람들에게 말하노니 모쪼록 기억하라
+    즐거움을 취할 곳은 평생토록 없다는 것을
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0910&viewSync=OT
+  footnotes: []
+english:
+  title: Sometimes Clearing, Sometimes Raining
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    Now it clears, then rain returns; rain falls, then clear skies come again.
+    Heaven's way is thus—how much more the ways of men's hearts?
+
+    They praise me, and soon enough they tear me down.
+    I flee from fame, yet find myself pursuing it.
+
+    Flowers bloom and flowers fade—can spring command their course?
+    Clouds depart and clouds return—the mountain does not quarrel.
+
+    I tell the people of this world: remember well—
+    There is no place in all your days to find lasting joy.
+  footnotes:
+  - key: ''
+    value: Kim Si-seup (1435-1493) was a poet, writer, and Buddhist monk of the Joseon dynasty, known for his philosophical and often melancholic reflections on human nature and the impermanence of worldly pursuits.
+  - key: ''
+    value: The poem employs natural phenomena—changing weather, blooming flowers, drifting clouds—as metaphors for the transience of human reputation and desire, a common theme in East Asian Buddhist-influenced poetry.

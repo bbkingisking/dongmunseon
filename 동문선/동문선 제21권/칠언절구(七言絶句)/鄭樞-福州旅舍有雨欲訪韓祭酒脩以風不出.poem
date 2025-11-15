@@ -1,0 +1,35 @@
+canonical:
+  title: 福州旅舍有雨欲訪韓祭酒脩以風不出
+  author: 鄭樞
+  language: lzh
+  text: 細雨如絲颺晚空杏花消息滿樓風紫門盡日無車馬黃卷慵拈睡正濃
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 福州旅舍有雨欲訪韓祭酒脩以風不出
+  author: 鄭樞
+  language: lzh
+  text: 細雨如絲颺晚空。杏花消息滿樓風。紫門盡日無車馬。黃卷慵拈睡正濃。
+korean:
+  title: 복주여사에서 비가 오는데 좨수 한수를 찾으려다가 바람 때문에 나가지 못하고
+  author: 정추
+  language: kor
+  text: |-
+    실 같은 보슬비는 저녁 하늘에 흩날리는데
+    살구꽃 소식 다락에 가득 찬 바람이로세
+    한종일 사립문에 〈방문하는〉 수레와 말이 없어
+    게을리 책을 뒤지다 잠이 한창 무르익네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_1090&viewSync=OT
+  footnotes: []
+english:
+  title: At a Lodging in Fuzhou, as Rain Falls, I Wish to Visit Sacrifice Officer Han Shuoxiu but Cannot Go Out Due to Wind
+  author: Jeong Chu
+  language: eng
+  text: |-
+    Fine rain like silk threads scatters through the evening sky.
+    Apricot blossoms' fragrance fills the tower on the wind.
+    At the purple gate, all day—no carriages, no horses.
+    I lazily turn the pages of books as sleep grows deep.
+  footnotes:
+  - key: ''
+    value: The 'purple gate' refers to the lodging, with 'purple' suggesting a place of some refinement. The 'books' likely refer to Buddhist or scholarly texts, suggesting the speaker's leisured intellectual pursuits. The poem captures the mood of enforced solitude and gentle melancholy during spring rain.

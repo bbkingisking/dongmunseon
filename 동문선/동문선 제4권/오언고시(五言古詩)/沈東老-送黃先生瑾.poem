@@ -1,0 +1,68 @@
+canonical:
+  title: 送黃先生瑾
+  author: 沈東老
+  language: lzh
+  text: 海中明月珠其價難比數此豈老蚌生是實驪龍吐世俗得失閒衆狙紛喜怒反以魚目美爭相充府庫至寶終不棄時來必遭遇我曾被汲引金坡忝攀附斥鷃徒區區鸞鵠肯相顧且作送行詩繾綣倒情素
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送黃先生瑾
+  author: 沈東老
+  language: lzh
+  text: 海中明月珠。其價難比數。此豈老蚌生。是實驪龍吐。世俗得失閒。衆狙紛喜怒。反以魚目美。爭相充府庫。至寶終不棄。時來必遭遇。我曾被汲引。金坡忝攀附。斥鷃徒區區。鸞鵠肯相顧。且作送行詩。繾綣倒情素。
+korean:
+  title: 황근 선생을 보내며
+  author: 심동로
+  language: kor
+  text: |-
+    바닷속의 명월주는
+    그 값이 헤아릴 수도 없어
+    이 어찌 늙은 조개 속에서 나온 것이랴
+    용의 토한 것이지
+    세속 사람들 얻고 잃는 사이에
+    뭇 원숭이 기뻐하고 노하는 것 같도다
+    고기 눈을 아름다운 구슬이라 해
+    서로 다투어 부고에 채우는구나
+    값 없는 보화 끝내 버리지 못 하나니
+    때가 오면 반드시 알아 주리라
+    내 일찍이 추천을 받아
+    난파(한림원(翰林院))에서 붙어 있었네
+    뱁새는 보잘 것 없거니
+    난새와 곡새가 어찌 돌아나 보리
+    우선 이 전별하는 시를 지어서
+    은근히 소박한 정을 쏟아 놓노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0480&viewSync=OT
+  footnotes: []
+english:
+  title: Farewell Poem for Master Huang Jin
+  author: Shim Dong-ro
+  language: eng
+  text: |-
+    The luminous pearl from the ocean depths—
+    its value beyond all reckoning.
+    Not born from some aged shell,
+    but spilled from the dragon's mouth.
+
+    Among the gains and losses of this world,
+    the monkeys leap in joy and rage.
+    They mistake fish eyes for beauty,
+    fighting to fill their treasuries with glass.
+
+    Yet true treasure is never discarded;
+    when time comes, it finds recognition.
+    Once I too received advancement,
+    clinging to fortune at the Golden Slope.
+
+    But I am but a quail in my smallness—
+    how could the phoenix and crane deign to turn their heads?
+    So I compose this farewell verse,
+    pouring out my humble heart with all sincerity.
+  footnotes:
+  - key: ''
+    value: The 'luminous pearl' (明月珠) is a traditional symbol of hidden talent and virtue waiting to be discovered.
+  - key: ''
+    value: The contrast between the dragon's pearl and fish eyes represents the distinction between true worth and false value in the eyes of society.
+  - key: ''
+    value: The 'Golden Slope' (金坡) likely refers to the Hanlin Academy (翰林院), a prestigious institution for scholars.
+  - key: ''
+    value: The quail, phoenix, and crane are classical references to relative status and merit—the speaker humbly acknowledges his own limitations while expressing hope for his friend's future success.

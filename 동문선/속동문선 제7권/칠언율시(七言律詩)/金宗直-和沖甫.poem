@@ -1,0 +1,54 @@
+canonical:
+  title: 和沖甫
+  author: 金宗直
+  language: lzh
+  text: 滿壁圖書室轉幽羲農遠矣謾淸愁一天星象纔名斗九畹蘭馨或間蕕黃卷聖賢君且對蒼洲烟月我將浮北辰賴有堯垂拱嘉與烝黎罷噢咻
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 和沖甫
+  author: 金宗直
+  language: lzh
+  text: 滿壁圖書室轉幽。羲農遠矣謾淸愁。一天星象纔名斗。九畹蘭馨或間蕕。黃卷聖賢君且對。蒼洲烟月我將浮。北辰賴有堯垂拱。嘉與烝黎罷噢咻。
+korean:
+  title: 화충보
+  author: 김종직
+  language: kor
+  text: |-
+    벽에 가득한 책에 방은 더욱 그윽한데
+    희농은 멀었거니 부질없는 시름이다
+    온 하늘의 별 모양에 두가 처음이라 이름했고
+    아홉 두락의 난초 향기에 간혹 유(냄새가 약한 풀)가 섞이었다
+    누른 책의 성현을 그대는 우선 마주하라
+    푸른 섬의 연기와 달에 나는 장차 뜨리라
+    북신에 진실로 요의 다스림 있으면
+    즐거이 뭇 백성과 더불어 우휴(가엾이 여겨 내는 소리) 그만두리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0720&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 희농(羲農) : '
+    value: 중국 전설시대에 처음으로 짐승을 기르기 시작한 사람을 복희(伏羲)라 하였고, 처음으로 농사 짓기 시작한 사람을 신농(神農)이라 이름하였는데, 여기 그 두 사람을 합해서 말한 것이다.
+  - key: '[주-D002] 온 …… 이름했고 : '
+    value: 두(斗)는 북두칠성을 말하는 것이다. 예전부터 북두칠성은 별 중의 왕좌에 있다고 말하여 왔다. 그러므로 여기에 두(斗)는 처음(첫째)이라고 이름지었다는 말이다.
+  - key: '[주-D003] 북신(北辰) : '
+    value: 여기에도 북두칠성을 말하는 것인데, 북두성이 하늘의 왕좌이므로 세상의 제왕도 북두성에 비유하고, 임금 있는 곳을 북두성 있는 곳이라 한다.
+english:
+  title: In Response to Chung-bo
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    My chamber grows ever deeper in shadow, walls lined thick with books.
+    Fu Xi and Shen Nong are distant now—why nurse this useless sorrow?
+    The stars of heaven first received the name of the Dipper,
+    while in nine furrows of orchid fragrance, the lesser plants sometimes mingle.
+
+    Yellow volumes of the sages await your study first;
+    I shall drift toward the azure isles where mist embraces the moon.
+    If the North Star still holds true to Yao's serene governance,
+    then with all the common people, I shall lay down my sorrows.
+  footnotes:
+  - key: ''
+    value: 'Fu Xi and Shen Nong: Legendary sage-rulers of ancient China, the first to domesticate animals and practice agriculture respectively. Their names evoke the golden age of wise rule.'
+  - key: ''
+    value: 'The Dipper (北斗): The Big Dipper constellation, traditionally regarded as the throne of heaven and a symbol of imperial authority.'
+  - key: ''
+    value: 'The North Star: Here used as a metaphor for the ruler, suggesting that just governance by the throne brings peace to the realm.'

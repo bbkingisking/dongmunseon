@@ -1,0 +1,47 @@
+canonical:
+  title: 夜坐
+  author: 金克己
+  language: lzh
+  text: 紙帳沉沉夜氣淸圖書萬卷一燈明噓噓石硯寒雲色颯颯銅㼛驟雨聲薄祿微官貧始重浮名末利醉還輕通宵塞鴈空南去恨不歸家問死生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜坐
+  author: 金克己
+  language: lzh
+  text: 紙帳沉沉夜氣淸。圖書萬卷一燈明。噓噓石硯寒雲色。颯颯銅㼛驟雨聲。薄祿微官貧始重。浮名末利醉還輕。通宵塞鴈空南去。恨不歸家問死生。
+korean:
+  title: 야좌
+  author: 김극기
+  language: kor
+  text: |-
+    종이 장막이 침침하고 밤 기운은 맑은데
+    만 권 도서에 한 등불이 밝구나
+    돌 벼루를 호호 부니 찬 구름이 일어나듯
+    구리 병엔 와르르 소나기가 오는 소리
+    녹이 박힌 작은 벼슬도 가난하니 소중컷다
+    뜬 이름과 털끝 이야 술취하니 그까짓 것
+    밤새도록 철 기러기가 남으로 가는 소리
+    나는 왜 집 못 돌아가 사생도 모르는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0420&viewSync=OT
+  footnotes: []
+english:
+  title: Night Sitting
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    Paper curtains hang heavy as night air grows crisp and clear.
+    Ten thousand volumes of books glow beneath a single lamp.
+    When I brush my stone inkstone, cold clouds seem to rise—
+    Bronze vessel echoes with the sudden patter of rain.
+    Meager stipend, humble rank—poverty makes them precious now.
+    Floating fame and fleeting gain fade to nothing when drunk.
+    All night the sound of wild geese heading south fills the air.
+    Why can I not return home? Even death remains unknown.
+  footnotes:
+  - key: ''
+    value: The stone inkstone and bronze vessel are traditional tools of the scholar, suggesting the speaker's life devoted to study and writing.
+  - key: ''
+    value: The southbound geese are a classical symbol of separation, longing, and the passage of time in East Asian poetry.
+  - key: ''
+    value: The contrast between the speaker's inner world of books and learning versus the fleeting nature of worldly status reflects Neo-Confucian values of the period.

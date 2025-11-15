@@ -1,0 +1,77 @@
+canonical:
+  title: 金周鼎
+  author: 郭預
+  language: lzh
+  text: 秉鈞登左揆杖鉞鎭東維入幕多鵷鷺連營擁虎貔鼓樓晨氣壯角壘夜聲悲籌策尋黃石詩書討絳帷鎌倉走琛幣玉塞卷旌旗仗靜雕鷹叫畝稀駿馬覊軍情堅有倚地面淨無疵莫理平吳艦宜沉上峴碑掛高秋後鑑分迫月中枝將相兼宗伯天敎少暇時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 金周鼎
+  author: 郭預
+  language: lzh
+  text: 秉鈞登左揆。杖鉞鎭東維。入幕多鵷鷺。連營擁虎貔。鼓樓晨氣壯。角壘夜聲悲。籌策尋黃石。詩書討絳帷。鎌倉走琛幣。玉塞卷旌旗。仗靜雕鷹叫。畝稀駿馬覊。軍情堅有倚。地面淨無疵。莫理平吳艦。宜沉上峴碑。掛高秋後鑑。分迫月中枝。將相兼宗伯。天敎少暇時。
+korean:
+  title: 진변 김주정
+  author: 곽예
+  language: kor
+  text: |-
+    국정을 맡아서 좌상이 되고
+    군사를 거느리고 동변 지키네
+    막중에 들어온 이 문사가 많고
+    영을 잇달아 옹위한 무장 용사들
+    다락에 북소리 둥둥, 웅장한 새벽
+    성에서 부는 피리, 애절한 밤중
+    황석공(병법가)을 찾아서 계책을 묻네
+    붉은 장막 내리고 시서를 토론
+    겸창(일본 지명)에서 공물 바치게 하고
+    옥새에는 깃발을 말아 치웠네
+    의장이 조용하니 매가 부르짖고
+    밭이랑엔 뜨음하게 말을 매었네
+    군정이 든든하여 믿을 만하고
+    지면은 깨끗하여 흠할 곳 없네
+    오나라 평정하는 배 고치지 마소
+    현산에 올랐던 〈기념의〉 비를 물에 넣으소
+    가을 뒤엔 거울도 높이 걸어야 하고
+    달 가운데 계수 가지 나누기가 임박했네
+    장상으로 종백을 겸하온 몸이
+    여가 없도록 하늘이 시키시네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 붉은 장막 : '
+    value: 후한(後漢)의 명유(名儒) 마융(馬融)이 늘 높은 마루에 앉아 붉은 사장막[絳紗帳]을 내리고 생도들을 교수했는데, 뒤에 여악(女樂)들이 늘어섰었음을 말하는데, 여기서는 글 가르치는 장막 뒤에 군사가 늘었다는 뜻으로 썼다.
+  - key: '[주-D002] 현산(峴山)에 …… 비(碑) : '
+    value: 진(晋)나라 두예(杜預)가 후세에 이름을 남기기를 좋아하여 비석(碑石) 둘을 만들어서 공적(功績)을 새겨, 하나는 현산(峴山) 위에 세우고 하나는 만산(萬山) 아래 못물 속에 넣으면서, “후에 산이 못이 되고 못이 산이 될는지 모르므로, 비석을 이렇게 돌을 준비한 것이다.” 하였다.
+  - key: '[주-D003] 종백(宗伯) : '
+    value: 예부 시랑을 말하는데 여기서는 고시관(高試官).
+english:
+  title: On Kim Ju's Tripod
+  author: Gwak Ye
+  language: eng
+  text: |-
+    Grasping the scales of state, you ascend as Prime Minister,
+    Wielding authority, you guard the eastern frontier.
+    Your tent fills with civil scholars and gentlemen,
+    Your camps bristle with valiant commanders and warriors.
+    At dawn the drum tower sounds, majestic and strong,
+    At night the fortress pipes cry out, tender and mournful.
+    You seek the wisdom of the ancient strategists,
+    Behind the crimson curtain, you debate the classics and histories.
+    From distant lands tribute flows to your coffers,
+    The imperial seals are wrapped, the banners furled away.
+    When your procession rests silent, the hunting eagles cry,
+    On the barren fields, noble steeds stand tethered.
+    Your military order stands firm and trustworthy,
+    The realm beneath your rule lies spotless and serene.
+    Do not refurbish the ships that conquered Wu,
+    Instead, cast the monument into the waters of Hyeonsan.
+    Hang high the mirror after autumn's end,
+    Soon you must divide the laurel branch beneath the moon.
+    Bearing both general's rank and court priest's office,
+    Heaven grants you no leisure from your duties.
+  footnotes:
+  - key: ''
+    value: The 'crimson curtain' alludes to the teaching methods of Ma Rong, a celebrated Han scholar who lectured behind scarlet drapes. Here it suggests that scholarly counsel accompanies military strategy.
+  - key: ''
+    value: The Hyeonsan monument references Du Yu of the Jin dynasty, who carved his achievements in stone and cast one tablet into the waters, knowing that the boundaries between mountain and water may shift with time—a meditation on legacy and impermanence.
+  - key: ''
+    value: The 'mirror after autumn' and 'laurel branch beneath the moon' contain references to traditional symbols of clarity and immortal rank, hinting at posthumous honor and celestial recognition.

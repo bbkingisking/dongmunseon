@@ -1,0 +1,47 @@
+canonical:
+  title: 福州暎湖樓
+  author: 蔡洪哲
+  language: lzh
+  text: 海山當日往來多物外精神到此加初謂夢遊雲雨峽漸疑身入畫圖家南江秋夜千峯月北里春風萬樹花雖是無情閑道者登臨不得似枯槎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 福州暎湖樓
+  author: 蔡洪哲
+  language: lzh
+  text: 海山當日往來多。物外精神到此加。初謂夢遊雲雨峽。漸疑身入畫圖家。南江秋夜千峯月。北里春風萬樹花。雖是無情閑道者。登臨不得似枯槎。
+korean:
+  title: 복주 영호루
+  author: 채홍철
+  language: kor
+  text: |-
+    평생 바다와 산에 많이 다녀 보았어도
+    물외의 정신이 예 오니 더해지네
+    처음엔 꿈에 운우협에 노는가 했더니
+    차차 몸이 그림 속에 드는가 싶네
+    남강 가을 밤엔 천봉 달이요
+    북리 봄바람엔 만 나무에 꽃이로세
+    제 아무리 무정하고 한가한 도인이라도
+    예 와선 마음이 마른 등걸처럼 되진 못하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0880&viewSync=OT
+  footnotes: []
+english:
+  title: The Yinghu Pavilion in Fuzhou
+  author: Cai Hongzhe
+  language: eng
+  text: |-
+    Though in life I've wandered far through seas and mountains,
+    Here the spirit transcends the world—and deepens still.
+    At first I thought I dreamed through clouds and rain-wreathed gorges,
+    Then gradually felt my body enter into painted silk.
+    Autumn nights on the southern river bring ten thousand peaks of moonlight,
+    Spring winds in the northern quarter scatter flowers across all the trees.
+    But even the most detached wanderer, free from worldly care,
+    Cannot here remain unmoved—like driftwood carved clean of feeling.
+  footnotes:
+  - key: ''
+    value: Yinghu Pavilion (映湖樓) is a pavilion in Fuzhou overlooking Yinghu Lake, known for its scenic beauty.
+  - key: ''
+    value: The 'clouds and rain-wreathed gorges' (云雨峡) alludes to a classical Chinese myth of divine lovers meeting in mountain realms.
+  - key: ''
+    value: 'The contrast between the detached ''dry driftwood'' (枯槎) of the final lines and the pavilion''s overwhelming beauty creates the poem''s paradox: even those who have transcended worldly attachment cannot help but be moved.'

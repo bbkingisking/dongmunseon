@@ -1,0 +1,45 @@
+canonical:
+  title: 芍藥
+  author: 趙通
+  language: lzh
+  text: 誰噵花無主龍顔日賜親也應迎早夏獨自殿餘春午睡風吹覺晨粧雨洗新宮娥莫相妬雖似竟非眞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 芍藥
+  author: 趙通
+  language: lzh
+  text: 誰噵花無主。龍顔日賜親。也應迎早夏。獨自殿餘春。午睡風吹覺。晨粧雨洗新。宮娥莫相妬。雖似竟非眞。
+korean:
+  title: 작약
+  author: 조통
+  language: kor
+  text: |-
+    꽃이 주인 없다고 누가 이르는고
+    용안이 날마다 친히 와 보아주시거늘
+    철 따라 첫 여름을 맞으면서
+    저 홀로 남은 봄을 치다꺼리하는 듯
+    바람이 불어서 낮잠을 깨우는 양
+    새벽 단장을 비가 씻어 새롭다
+    궁녀들 혹시나 시샘하지 마소
+    예쁠사 비슷하여도 필경 참은 아닌 걸
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0140&viewSync=OT
+  footnotes: []
+english:
+  title: Peonies
+  author: Zhao Tong
+  language: eng
+  text: |-
+    Who says the flower has no master?
+    The Dragon's countenance visits with favor each day.
+    As early summer arrives in its season,
+    It lingers alone, reluctant to let spring depart.
+    The wind blows and awakens me from my noon repose,
+    While morning's toilet is refreshed anew by rain.
+    Let not the palace maidens harbor jealousy—
+    Though beautiful, they merely resemble; they are not the true thing.
+  footnotes:
+  - key: ''
+    value: The 'Dragon's countenance' (龍顔) refers to the emperor's gaze and imperial favor. This poem uses the peony as a metaphor for someone or something precious that receives direct imperial attention.
+  - key: ''
+    value: The poem's closing couplet suggests the flowers in the palace garden are admirable but ultimately artificial or secondary compared to something genuine—possibly alluding to natural beauty or authentic virtue.

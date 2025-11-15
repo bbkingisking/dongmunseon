@@ -1,0 +1,53 @@
+canonical:
+  title: 次郭諫議韻送崔德成持平分司舊京
+  author: 李岡
+  language: lzh
+  text: 北闕彤雲遠南州白日遅仲宣初作賦賈傅獨傷時洛曲一杯酒陽關三疊詩相逢何日是漂泊負前期
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次郭諫議韻送崔德成持平分司舊京
+  author: 李岡
+  language: lzh
+  text: 北闕彤雲遠。南州白日遅。仲宣初作賦。賈傅獨傷時。洛曲一杯酒。陽關三疊詩。相逢何日是。漂泊負前期。
+korean:
+  title: 옛 서울 분사로 가는 지평 최덕성을 보내고, 곽간의의 시를 차운하여
+  author: 이강
+  language: kor
+  text: |-
+    북궐에는 붉은 구름이 멀고
+    남주엔 백일이 더디리
+    중선이 처음 부를 짓고
+    가 태부는 홀로 시사를 상심했지
+    낙곡에서 나누는 한 잔 술
+    양관의 세 첩
+    어느 날 우리 다시 만나리
+    떠도는 이 몸이라서 앞 기약 아득하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0980&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중선(仲宣) : '
+    value: 한(漢)나라 왕찬(王粲)의 자이고, 그가 형주(荊州)에 있으면서 고향을 그리워 하는 〈등루부(登樓賦)〉를 지었다.
+  - key: '[주-D002] 가 태부(賈太傅) : '
+    value: 한 문제(漢文帝) 때 사람 가의(賈誼), 좌천(左遷)되어 장사왕(長沙王)의 태부(太傅)가 되어 가면서 상수(湘水)에 빠져 죽은 굴원(屈原)을 조상하는 글을 지어 자신의 불우(不遇)한 것을 슬퍼하였다.
+  - key: '[주-D003] 양관(陽關)의 세 첩(疊) : '
+    value: 당나라 왕유(王維)의 〈양관곡(陽關曲)〉이란 시(詩)를 창(唱)할 때에는 삼첩(三疊)으로 부른다. “읍경진(浥輕塵), 읍경진(浥輕塵), 조우읍경진(朝雨浥輕塵), 조우읍경진(朝雨浥輕塵), 조우읍경진(朝雨浥輕塵), 위성조우읍경진(渭城朝雨浥輕塵).” 이런 식으로 4구(句)를 창하는 것이다.
+english:
+  title: 'Rhyming with Counselor Gwok''s Poem: Bidding Farewell to Choi Deok-seong as He Departs to Serve in the Old Capital'
+  author: Lee Gang
+  language: eng
+  text: |-
+    Far away, the red clouds drift from the Northern Palace,
+    While in the Southern State, the sun moves slow.
+    Zhongxuan first composed his mournful verse,
+    And Jia the Grand Tutor grieved alone for the times.
+    One cup of wine shared in Luoyang's valley,
+    Three refrains of the Yang Pass song.
+    What day shall we meet again?
+    A wanderer adrift, I cannot keep our former promise.
+  footnotes:
+  - key: ''
+    value: Zhongxuan (仲宣) refers to Wang Can of the Han Dynasty, who wrote 'Climbing the Tower' while exiled in Jingzhou, expressing longing for his homeland.
+  - key: ''
+    value: Jia the Grand Tutor (賈太傅) is Jia Yi of the Han Dynasty, who was demoted and became tutor to the King of Changsha. He mourned Qu Yuan's death in the Xiang River and lamented his own misfortune.
+  - key: ''
+    value: The three refrains of the Yang Pass song (陽關三疊) refers to Wang Wei's celebrated Tang Dynasty poem 'Yang Pass Song,' traditionally sung in three repetitions as a farewell piece.

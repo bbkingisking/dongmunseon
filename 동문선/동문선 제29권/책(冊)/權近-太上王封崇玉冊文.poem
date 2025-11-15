@@ -1,0 +1,42 @@
+canonical:
+  title: 太上王封崇玉冊文
+  author: 權近
+  language: lzh
+  text: 應千齡而作之君肇開景運以一國而傳之子宜極尊稱玆率典章庶申誠孝恭惟勇智天錫聖敬日躋武烈偉於濟時寬仁溥於育物斯迫輿情之推戴以建王業之興隆方百度之維新遽萬機之是倦庸釋大位傳付眇躬遂黽勉以恭承每祇勤而惕勵欲彰盛德之至惟在徽號之崇率籲臣僚擧行冊禮伏惟廓包容之度推覆育之恩體一大之曰天勿嫌強名之道莅萬姓而爲父永享多壽之期
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 太上王封崇玉冊文
+  author: 權近
+  language: lzh
+  text: 應千齡而作之君。肇開景運。以一國而傳之子。宜極尊稱。玆率典章。庶申誠孝。恭惟勇智天錫。聖敬日躋。武烈偉於濟時。寬仁溥於育物。斯迫輿情之推戴。以建王業之興隆。方百度之維新。遽萬機之是倦。庸釋大位。傳付眇躬。遂黽勉以恭承。每祇勤而惕勵。欲彰盛德之至。惟在徽號之崇。率籲臣僚。擧行冊禮。伏惟廓包容之度。推覆育之恩。體一大之曰天。勿嫌強名之道。莅萬姓而爲父。永享多壽之期。
+korean:
+  title: 태상왕 봉숭 옥책문
+  author: 권근
+  language: kor
+  text: 천년 만에 한 번 오는 운에 응해 임금이 되셔서 비로소 큰 운을 트셨고, 한 나라로써 아들에게 전하셨으니 높은 칭호를 다하는 것이 마땅할 것입니다. 이에 전례에 따라서 효성을 펼까 하옵나이다. 공손히 생각하옵건대, 용기와 슬기로움은 하늘의 주심이요, 밝음과 공경은 날로 높아지셨습니다. 무공(武功)은 시대를 구제하신 데서 위대하였고, 너그러운 사랑은 만물을 기르는 데에서 넓으셨습니다. 백성들의 추대에 못 이기시어 왕업의 융성함을 세우셨습니다. 바야흐로 모든 제도가 새로워지는 즈음에 갑자기 정치에 권태를 느끼시어 대위(大位)를 조그마한 이 몸에 전하시었습니다. 이에 드디어 억지로 삼가 받잡고, 매양 공경하고 부지런히 노력하였습니다. 성덕의 지극하심을 드러내고자 하면 휘호(徽號)를 높이는 데 있으므로, 신료들에게 호소해서 책례(冊禮)를 거행하옵니다. 그러니 포용하는 도량을 넓히시고, 천지 같은 은혜를 미루셔서, 일대(一大)의 하늘을 본뜨시어 억지로 이름하여 도(道)라 하는 것을 사양마시옵고, 만성(萬姓)의 아버지가 되시어 길이 장수의 기한을 누리옵소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0320_010_0120&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 일대(一大)의 하늘 : '
+    value: 천자(天字)의 뜻은 일대(一大)인데, 유일하게 크다는 뜻으로 자형(字形)을 만들었다 한다.
+  - key: '[주-D002] 억지로 …… 하는 것 : '
+    value: 《노자(老子)》에 이르기를, “우주(宇宙)의 본체(本體)를 말로 표현할 수 없지마는 억지로 이름을 붙여서 도(道)라 하였다.” 하였다. 여기서는 태상(太上)이란 칭호에 대한 말이다.
+  - key: '[주-D001] 王 : '
+    value: 玉
+english:
+  title: Edict of Jade for the Investiture of the Retired King
+  author: Kwon Geun
+  language: eng
+  text: |-
+    Once in a thousand years comes the fortune to become sovereign and begin a great destiny. Through one kingdom passed to his son, the highest titles are fitting to bestow. By ancient precedent we thus make manifest sincere filial devotion.
+
+    In reverent contemplation: courage and wisdom are Heaven's gift; brightness and respect ascend with each passing day. His martial valor shines in rescuing the age; his boundless compassion flows in nurturing all things. Unable to resist the people's devotion, he established the flourishing of the royal way. Just as all institutions renew themselves, he suddenly wearied of governance and transmitted the great throne to this humble one. Thus have I received it with anxious care, maintaining respect and diligent effort. To illuminate the supreme virtue that has manifested, we must elevate the honorific title—therefore we petition the ministers and hold the investiture ceremony.
+
+    We humbly beseech that you expand the measure of your embrace, extend the grace of heaven and earth, embody the supreme vastness of sky, and do not refuse the naming of that which cannot be named—become the father to all people and enjoy forever the blessings of long life.
+  footnotes:
+  - key: ''
+    value: The title 'Edict of Jade' (玉冊文) refers to the formal proclamation inscribed on jade tablets used in investiture ceremonies.
+  - key: ''
+    value: The 'great throne' (大位) refers to the position of absolute ruler being transferred to the new sovereign.
+  - key: ''
+    value: The reference to naming 'that which cannot be named' alludes to the Daodejing, where the infinite cannot be fully captured in words but is called 'the Way' (道) for convenience.

@@ -1,0 +1,81 @@
+canonical:
+  title: 題韓仲質文學竹所
+  author: 柳思訥
+  language: lzh
+  text: 愛物多成癖幽人所其竹居諸對此君可使食無肉與可付之墨精神脫塵俗子瞻詠於詩珠璣光潤玉七賢醉蘭亭千載誰繼躅二妃泣湘梧萬竿血染觸飛泉灑松頂蒼筠蔭茆屋撫琴坐中堂彈成大古曲有客抱琴來溪橋自相矚相對兩相忘千秋一碁局
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題韓仲質文學竹所
+  author: 柳思訥
+  language: lzh
+  text: 愛物多成癖。幽人所其竹。居諸對此君。可使食無肉。與可付之墨。精神脫塵俗。子瞻詠於詩。珠璣光潤玉。七賢醉蘭亭。千載誰繼躅。二妃泣湘梧。萬竿血染觸。飛泉灑松頂。蒼筠蔭茆屋。撫琴坐中堂。彈成大古曲。有客抱琴來。溪橋自相矚。相對兩相忘。千秋一碁局。
+korean:
+  title: 한중질 문학 죽소에
+  author: 유사눌
+  language: kor
+  text: |-
+    물건을 사랑하는 이 많으면 벽이 되는데
+    숨어사는 사람이 대로써 거처를 삼는다
+    언제나 차군을 대하면
+    먹는 데 고기 없어도 좋다
+    여가(한나라 화가(畵家) 문여가(文與可))가 먹에 붙이니
+    정신이 진속을 벗어나고
+    자첨이 시에 읊으니
+    구슬(시(詩)의 아름다움에 비함)이 윤택한 옥 같이 빛나고
+    죽림(竹林)의 칠현이 난정에서 취하니
+    천재에 누가 자취를 이었는가
+    이비가 상오에서 우니
+    대 줄기마다 피로 물들였다
+    폭포수의 안개는 솔 이마에 뿌리고
+    푸른 대는 띠집을 덮었다
+    거문고를 어루만지며 중당에 앉아
+    태고의 곡조를 탄다
+    손에 거문고를 안고 와서
+    시내 다리에서 서로 마주 본다
+    마주 대하자 서로 잊으니
+    천추가 한 바둑판이다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 언제나 차군(此君)을 대하면 먹는 데 고기 없어도 좋다 : '
+    value: 소식(蘇軾)의 시에, “밥 먹을 때에 고기가 없을지언정 거처하는 곳에 대[竹]가 없을 수 없다.” 하였다.
+  - key: '[주-D002] 이비(二妃)가 상오(湘梧)에서 우니 : '
+    value: 순(舜)이 남순(南巡)하다가 창오산(蒼梧山)에서 죽으니, 그의 이비(二妃)인 아황(娥皇)ㆍ여영(女英)이 소상강(瀟湘江) 가에서 슬피 울어, 눈물이 대숲에 뿌려져서 반죽(班竹)이 되었다.
+english:
+  title: On Han Joong-jil's Bamboo Study
+  author: Yu Sa-neul
+  language: eng
+  text: |-
+    Love of things breeds obsession,
+    yet the recluse makes dwelling in bamboo.
+    Whenever face to face with this noble plant,
+    one needs no meat upon the table.
+
+    Wen Yu-ko surrendered it to ink—
+    the spirit escapes the dust of the world.
+    Zi Zhan sang it in verse—
+    pearls and gems gleam like polished jade.
+
+    The Seven Sages grew drunk at the Orchid Pavilion;
+    a thousand years—who follows their traces?
+    The Two Consorts wept by the Xiang waters,
+    staining every stalk with tears of blood.
+
+    Mist from the waterfall sprinkles the pine's crown,
+    green bamboo shadows the thatched roof.
+    I finger the zither, sitting in the central hall,
+    playing melodies ancient as the world itself.
+
+    A guest arrives, bearing his zither,
+    and at the streamside bridge we regard each other.
+    Face to face, we both forget ourselves—
+    and a thousand autumns become a single game of go.
+  footnotes:
+  - key: ''
+    value: 'This reference alludes to Su Shi''s famous couplet: ''One may dine without meat, but one''s dwelling cannot be without bamboo.'''
+  - key: ''
+    value: The 'Two Consorts' refers to the legend of the two wives of the sage-king Shun. When Shun died at Cangwu Mountain during his southern tour, his consorts Ehuang and Nuying wept on the banks of the Xiao-Xiang River, their tears falling upon the bamboo grove and creating the spotted bamboo (or 'speckled bamboo') that became a symbol of faithful sorrow.
+  - key: ''
+    value: The 'Seven Sages' alludes to the Seven Sages of the Bamboo Grove, legendary Daoist figures known for their disregard of convention and love of wine.
+  - key: ''
+    value: The reference to Zi Zhan (Su Shi) and his poetic compositions about bamboo emphasizes the subject's elevation in Chinese literati culture.

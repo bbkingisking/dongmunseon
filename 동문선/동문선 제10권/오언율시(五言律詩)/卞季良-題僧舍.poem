@@ -1,0 +1,47 @@
+canonical:
+  title: 題僧舍
+  author: 卞季良
+  language: lzh
+  text: 俗客來參佛高僧坐誦經晝燈熏古壁老檜響空庭塔立三層白山回四面靑禪窓更無事終日倚風欞
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題僧舍
+  author: 卞季良
+  language: lzh
+  text: 俗客來參佛。高僧坐誦經。晝燈熏古壁。老檜響空庭。塔立三層白。山回四面靑。禪窓更無事。終日倚風欞。
+korean:
+  title: 제 승사
+  author: 변계량
+  language: kor
+  text: |-
+    속세의 손은 와서 부처님을 뵙는데
+    높은 스님이 앉아 경을 외우네
+    낮 등잔불이 옛 벽을 그슬리고
+    늙은 전나무는 빈 뜰에서 소리를 하네
+    탑은 솟아 세 층이 희고
+    산은 둘러 사면으로 푸르르네
+    선방에 다시 일이 없으니
+    종일토록 바람 난간에 기대었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0850&viewSync=OT
+  footnotes: []
+english:
+  title: Inscribed on a Monk's Dwelling
+  author: Byeon Gyeryangb
+  language: eng
+  text: |-
+    Worldly visitors come to pay homage to the Buddha,
+    while the venerable monk sits chanting sutras.
+    Daylight lamps darken the ancient walls with their smoke,
+    and the gnarled cypress echoes through the empty courtyard.
+    The pagoda rises in three white tiers,
+    the mountains encircle in layers of green on all sides.
+    In the meditation hall, there is nothing left to do—
+    all day long I lean against the wind-swept railing.
+  footnotes:
+  - key: ''
+    value: The cypress (檜) is a traditional symbol of longevity and resilience in East Asian poetry.
+  - key: ''
+    value: The three-tiered pagoda is a common architectural feature in Buddhist temples, representing the three realms or aspects of Buddhist cosmology.
+  - key: ''
+    value: The final couplet suggests a state of spiritual emptiness and peace, where the speaker finds contentment in simple observation and receptiveness.

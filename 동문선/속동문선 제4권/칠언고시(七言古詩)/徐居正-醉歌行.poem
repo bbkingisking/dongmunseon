@@ -1,0 +1,81 @@
+canonical:
+  title: 醉歌行
+  author: 徐居正
+  language: lzh
+  text: 鳧何苦短鶴何長蚿何有餘夔不足物理由來自不齊天工天工多戲劇折長補短我無術損之益之我無策夷齊餓夭兮盜跖壽富秦隋暴興兮鄒魯窮阨仁未必壽德未位淫未必禍善未福老蒼默默懸在上我胡爲乎徒惻惻劉伯倫賀季眞古來賢達推第一但愛醇醪不離口世間萬事皆外物功名富貴皆筌蹄生死醉鄕能事畢君不見四佳老人性本愚是非善惡都不別有酒則飮無則沽日醉嗚嗚雙耳熱兩鬢胡爲白如雪
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 醉歌行
+  author: 徐居正
+  language: lzh
+  text: 鳧何苦短鶴何長。蚿何有餘夔不足。物理由來自不齊。天工天工多戲劇。折長補短我無術。損之益之我無策。夷齊餓夭兮盜跖壽富。秦隋暴興兮鄒魯窮阨。仁未必壽德未位。淫未必禍善未福。老蒼默默懸在上。我胡爲乎徒惻惻。劉伯倫賀季眞。古來賢達推第一。但愛醇醪不離口。世間萬事皆外物。功名富貴皆筌蹄。生死醉鄕能事畢。君不見四佳老人性本愚。是非善惡都不別。有酒則飮無則沽。日醉嗚嗚雙耳熱。兩鬢胡爲白如雪。
+korean:
+  title: 취가행
+  author: 서거정
+  language: kor
+  text: |-
+    오리 다린 왜 짧으며 학은 왜 긴지
+    노래기 발은 왜 너무 많고 기발은 왜 부족한지
+    물건의 이치가 워낙 가지런치 못하니
+    조물주여, 조물주여, 장난이 심하네
+    내게는 긴 것 잘라 짧은데 보충할 재주가 없고
+    내게는 덜고 더할 방책도 없구나
+    백이ㆍ숙제는 굶어 요사하고 도척은 오래 살고 부하고
+    진ㆍ수는 갑자기 흥하고 추ㆍ노는 궁해 빠졌고
+    어진 자가 반드시 오래 살지 못하고 덕 있는 자가 위를 얻지 못하고
+    악한 자가 앙화 받지 않고 선한 자가 복받지 못하되
+    늙은 창천은 묵묵히 위에 달려있으니
+    내 어이 한갓 구슬퍼하리
+    유백륜ㆍ하계진(하지장)은
+    예로부터 현달의 첫째로 치는데
+    다만 술을 사랑하여 입에서 떼지 않고
+    인간의 만사를 다 외물로 여겼네
+    공명과 부귀가 모두 다 전제뿐
+    취향에 나고 죽으면 할일 마치리
+    그대는 못 보았나. 사가노인이 성품이 본시 어리석어서
+    시비와 선악을 도무지 구별치 못함을
+    술 있으면 마시고 없으면 사다가
+    날마다 취하여 웅얼거리니 두 귀가 화끈화끈 뜨거운데
+    어찌타 두 귀밑머리 눈 같이 희어졌는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1400_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오리 다린 …… 왜 긴지 : '
+    value: 《장자》에, “학의다리는 길고 오리의 다리는 짧은데, 긴 것을 끊어도 안되고 짧은 것을 이어도 안된다.” 하였다.
+english:
+  title: A Drunkard's Song
+  author: Seo Geo-jeong
+  language: eng
+  text: |-
+    Why is the duck's leg short, the crane's long?
+    Why does the centipede have too many feet, the one-legged creature too few?
+    The nature of things was never meant to be even—
+    Heaven's Maker, Heaven's Maker plays tricks on us.
+    I have no skill to cut the long and mend the short,
+    No strategy to diminish here and increase there.
+    Bo Yi and Shu Qi starved and died young, while Robber Zhi lived long in wealth.
+    The Qin and Sui rose suddenly; Zhou and Lu fell into poverty.
+    The virtuous do not always live long, nor do the worthy always gain position.
+    The wicked do not always suffer calamity, nor do the good always receive blessing.
+    Old Heaven hangs silent above it all—
+    Why should I alone sit here in sorrow?
+
+    Liu Ling and He Zhen—
+    Since ancient times they are called the first among the wise.
+    They loved nothing but pure wine never parted from their lips,
+    And saw all the ten thousand affairs of the world as mere externals.
+    Fame and fortune are but fisher's nets and snares,
+    With drunkenness as our home, our work is done.
+
+    Have you not seen the Four Gentlemen of old?
+    Simple-natured, they could not distinguish right from wrong.
+    When wine was there, they drank; when gone, they bought more.
+    Day after day they slurred and mumbled, ears burning hot with drink—
+    How is it their temples have turned white as snow?
+  footnotes:
+  - key: ''
+    value: Bo Yi and Shu Qi were virtuous ancient hermits who starved rather than serve unjust rulers. Robber Zhi was a bandit chieftain who lived a long and prosperous life despite his wickedness—illustrating the poet's point about virtue not guaranteeing reward.
+  - key: ''
+    value: Liu Ling and He Zhen (also known as He Zhangjiao) were famous drunken recluses from ancient China, celebrated for their indifference to worldly concerns and their dedication to wine.
+  - key: ''
+    value: The 'Four Gentlemen' (四佳老人) refers to legendary figures known for their carefree drunkenness and freedom from worldly attachments.

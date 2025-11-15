@@ -1,0 +1,83 @@
+canonical:
+  title: 童女詩
+  author: 金贊
+  language: lzh
+  text: 四海遑遑枕一家勑令東土進宮娥閨居恐未藏身密官選那堪閱眼多薄掃愁眉兩斂翠強擡羞面十分酡稚鶯欲囀辭深樹乳燕將飛失舊窠閬苑移花開頃刻廣寒添桂養婆娑行須緩緩氈車載欲發忩忩寶馬駞父母國遙魂正斷帝王城近淚猶沱絳紗繫後專恩寵彤管貽來合詠歌生子若敎鴻擧絶作妃當協鳳鳴和矧今下嫁周姬在彼此皇孫正匪他
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 童女詩
+  author: 金贊
+  language: lzh
+  text: 四海遑遑枕一家。勑令東土進宮娥。閨居恐未藏身密。官選那堪閱眼多。薄掃愁眉兩斂翠。強擡羞面十分酡。稚鶯欲囀辭深樹。乳燕將飛失舊窠。閬苑移花開頃刻。廣寒添桂養婆娑。行須緩緩氈車載。欲發忩忩寶馬駞。父母國遙魂正斷。帝王城近淚猶沱。絳紗繫後專恩寵。彤管貽來合詠歌。生子若敎鴻擧絶。作妃當協鳳鳴和。矧今下嫁周姬在。彼此皇孫正匪他。
+korean:
+  title: 동녀시
+  author: 김찬
+  language: kor
+  text: |-
+    사해가 모두 따라서 한 집이 되니
+    칙명으로 동토에서 궁녀를 바치라 한다
+    워낙 규중에 은밀히 감추었던 몸이라
+    더구나 관에서 선발할 제 여러 눈 어이 거칠꼬
+    시름겨운 두 눈썹은 내리깐 채 푸르고
+    억지로 쳐든 얼굴 부끄러워 홍당무
+    울며 나무를 하직하는 어리디 어린 꾀꼬리요
+    날아서 깃 떠나는 젖먹이 제비 새끼들
+    낭원(곤륜산(崑崙山)에 있는 신선의 화원)에 옮긴 꽃은 금시 활짝 핀다지
+    월궁에 심은 계수는 무럭무럭 자라리
+    가죽 수레에 실려서 천천히들 가거라
+    준마들은 떠나려고 총총히 날뛰누나
+    부모 나라 멀어지니 혼이 끊어지누나
+    제왕성이 가까와도 눈물 그냥 흐르리
+    붉은 사를 팔에 맨 두 은총 오롯하겠고
+    동관을 주시거든 노래를 읊어야지
+    아들 낳아 기러기 중천에 솟 듯하고
+    후비도 되어 봉황의 울음에 화합하리
+    하물며 지금은 황녀께서 하가 하니
+    피차에 황손들이라 남이 아니리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0220&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 동녀시(童女詩) : '
+    value: 지원(至元) 12년(1352 元 順帝 12년, 恭愍王 元年) 원나라에서 우리나라에 명령하여 양가(良家)집 딸 50명을 뽑아 데려갔으니, 대개 옛날 종주국(宗主國)ㆍ번국(藩國) 간의 혼인하는 뜻을 취한 것이다.
+  - key: '[주-D002] 붉은 …… 오롯하겠고 : '
+    value: 진 무제(晉武帝)가 아름다운 처녀를 선택하여 붉은 비단으로 팔을 매어 표를 해서 곧 궁중으로 데려 왔다.
+  - key: '[주-D003] 아들 …… 듯하고 : '
+    value: 한(漢)나라 고조(高祖)가 척부인(戚夫人)의 아들을 사랑하여 태자를 바꾸려 하였다가 상산(商山)의 사호(四皓)가 와서 태자를 보호하는 것을 보고 척부인에게 말하기를, “이제는 태자에게 우익(羽翼)이 생겼으니 움직이기 어렵다.” 하고 노래를 부르기를, “기러기가 높이 날았으니 그물을 칠 수 없네.” 하였다. 여기서는 우리나라 처녀들이 원나라에 가서 아들을 낳아 태자가 되게 하라는 뜻이다.
+  - key: '[주-D004] 후비도 …… 화합하리 : '
+    value: 춘추(春秋)시대 때에 진경중(陳敬仲)이 제(齊)나라에 망명하여 갔는데 의중(懿仲)이 그에게 딸을 주려고 점을 쳤더니 점괘에, “숫봉 암봉이 날아 화합하게 울음운다. 팔대(八代)를 지나면 더할 수 없이 높겠구나.” 하더니 과연 그 뒤에 그 자손이 제(齊)나라 임금이 되었다.
+english:
+  title: Song of the Maiden
+  author: Kim Chan
+  language: eng
+  text: |-
+    The four seas yield to one rule now,
+    And imperial decree demands the Eastern lands send palace maidens forth.
+    A girl raised in the women's quarters, guarded close,
+    How can she bear the scrutiny of officials' searching eyes?
+
+    Her brow, heavy with sorrow, drawn tight in twin shadows of jade,
+    Her face, flushed crimson though she struggles to compose it.
+    Like a young nightingale singing farewell to the deep woods,
+    Like a fledgling swallow leaving its nest for flight.
+
+    The flowers transplanted to the Paradise garden bloom in an instant,
+    The cinnamon tree planted in the Moon Palace flourishes.
+    Slowly, slowly the leather cart must bear her away,
+    While the prancing steeds grow restless to depart.
+
+    As her homeland grows distant, her soul begins to break,
+    Even as the Emperor's city draws near, her tears flow on.
+    Let crimson silk bind her arm to mark her favor,
+    And she shall compose songs should the brush be granted her.
+
+    May she bear sons who rise like wild geese to the sky,
+    May she become empress, harmonizing with the phoenix's cry.
+    And now, with the imperial princess herself going to be wed,
+    They are kin to one another—no strangers in this bond.
+  footnotes:
+  - key: ''
+    value: This poem commemorates the historical event of 1352, when the Yuan court demanded fifty maidens from good families in Korea to be sent to the imperial court, a practice reflecting the tributary relationship between the Yuan empire and the Goryeo kingdom.
+  - key: ''
+    value: The reference to the crimson silk binding derives from the historical account of the Jin emperor selecting maidens and marking them with red silk bands on their arms.
+  - key: ''
+    value: 'The imagery of sons rising like wild geese alludes to a famous passage from the Han dynasty, where the Four Immortals protected the heir apparent, leading the emperor to declare: ''The wild goose has risen high—no net can catch it now.'''

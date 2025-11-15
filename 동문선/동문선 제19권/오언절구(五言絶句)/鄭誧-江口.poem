@@ -1,0 +1,35 @@
+canonical:
+  title: 江口
+  author: 鄭誧
+  language: lzh
+  text: 移舟逢急雨倚棹望歸雲海闊疑無地山明喜有村
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 江口
+  author: 鄭誧
+  language: lzh
+  text: 移舟逢急雨。倚棹望歸雲。海闊疑無地。山明喜有村。
+korean:
+  title: 강구
+  author: 정포
+  language: kor
+  text: |-
+    배를 젓다가 급한 소나기를 만나
+    돛대에 기대 돌아가는 구름을 바라보네
+    바다가 넓어 땅이 없음을 의심했더니
+    산이 맑으며 마을이 보임을 기뻐하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: River's Mouth
+  author: Jeong Po
+  language: eng
+  text: |-
+    Rowing through sudden rain,
+    I lean upon the oar and gaze toward returning clouds.
+    The vast sea made me doubt there was any land—
+    But the clear mountains show a village, and joy returns.
+  footnotes:
+  - key: ''
+    value: The poem captures a moment of anxiety transformed by hope, as the speaker navigates uncertain waters only to discover shelter and civilization emerging from the mist.

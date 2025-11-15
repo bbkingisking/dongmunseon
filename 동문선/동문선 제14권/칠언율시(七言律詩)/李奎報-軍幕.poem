@@ -1,0 +1,48 @@
+canonical:
+  title: 軍幕
+  author: 李奎報
+  language: lzh
+  text: 紅旆飜風颺半天碧幢遮日卓高巓震空雷吼三軍鼓冠岫雲屯萬竈煙筆下檄章慚我鈍幕中籌策仗君賢何時縛致渠魁首一路垂楊奏凱旋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 軍幕
+  author: 李奎報
+  language: lzh
+  text: 紅旆飜風颺半天。碧幢遮日卓高巓。震空雷吼三軍鼓。冠岫雲屯萬竈煙。筆下檄章慚我鈍。幕中籌策仗君賢。何時縛致渠魁首。一路垂楊奏凱旋。
+korean:
+  title: 군막
+  author: 이규보
+  language: kor
+  text: |-
+    붉은 깃발이 바람에 번득여 반공에 펄렁
+    푸른 장막이 해를 가리어 산정에 우뚝
+    삼군의 북소리는 공중에 울리는 뇌성인 듯
+    만 굴뚝의 연기는 산 위에 뭉친 구름 같아라
+    붓 들어 쓰는 격문은 둔한 내가 부끄러워도
+    막중의 군략은 그대의 재주에 의지하네
+    어느 때 도적의 괴수를 결박하여
+    수양로 탄탄한 길에 개선가를 부를까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0160&viewSync=OT
+  footnotes: []
+english:
+  title: Military Encampment
+  author: Lee Kyubo
+  language: eng
+  text: |-
+    Red banners flutter and wave in the wind, filling half the sky,
+    Blue pavilions eclipse the sun, standing tall upon the mountain peak.
+    The drums of three armies thunder through the air like roaring lightning,
+    Smoke from ten thousand cookfires gathers above like clouds crowning the ridge.
+
+    Though my brush traces war proclamations, I blush at my own dullness,
+    Yet the strategies within this command tent rely upon your wisdom.
+    When at last we bind the chieftain's hands and lead him captive away,
+    We shall sing songs of victory along the willow-lined road of return.
+  footnotes:
+  - key: ''
+    value: The 'three armies' refers to the traditional division of military forces in East Asian warfare.
+  - key: ''
+    value: The image of willows lining the homeward path is a classical symbol of triumph and return in Chinese and Korean poetry.
+  - key: ''
+    value: Lee Kyubo (1168-1241) was a renowned Goryeo-era scholar-official and poet, often praised for his mastery of Chinese poetic forms.

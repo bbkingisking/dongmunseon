@@ -1,0 +1,46 @@
+canonical:
+  title: 首夏卽事
+  author: 朴宜中
+  language: lzh
+  text: 柳橋穿翠密花塢惜紅稀鑽改靑榆火裁新白苧衣桑踈蠶已老草茂馬初肥久客緣何事思歸未得歸
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 首夏卽事
+  author: 朴宜中
+  language: lzh
+  text: 柳橋穿翠密。花塢惜紅稀。鑽改靑榆火。裁新白苧衣。桑踈蠶已老。草茂馬初肥。久客緣何事。思歸未得歸。
+korean:
+  title: 수하 즉사
+  author: 박의중
+  language: kor
+  text: |-
+    버드나무 다리에는 빽빽한 푸른 것을 뚫고 다니고
+    꽃 언덕에는 붉은 것이 드물어가는 것을 아끼네
+    어느덧 느릅나무가 바뀌어
+    흰 모시옷이 새롭네
+    뽕잎이 성기매 누에는 이미 늙었고
+    풀이 무성하매 말이 비로소 살찌네
+    무슨 일로 오랜 길손이 되어
+    돌아가고파도 돌아가지 못하는고
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0670&viewSync=OT
+  footnotes: []
+english:
+  title: Early Summer Reflections
+  author: Park Ui-jung
+  language: eng
+  text: |-
+    Through the willow bridge, dense green abundance parts before me,
+    While on the flower slope, fading crimson petals grow sparse—
+    The elm has turned, and lo, it shifts to tender green,
+    As I fashion fresh robes of pristine ramie cloth.
+
+    The mulberry thins; the silkworms, already aged, grow weak,
+    The grass thickens; my horse at last begins to fatten.
+    For what reason have I lingered so long as a traveler?
+    Though my heart yearns for home, home remains beyond my reach.
+  footnotes:
+  - key: ''
+    value: The poem captures the transitional beauty of early summer (首夏) while exploring the melancholy of prolonged exile or travel. Each image marks a seasonal shift—from spring's abundance to summer's fullness—mirroring the speaker's own sense of temporal displacement.
+  - key: ''
+    value: The mention of silkworms and ramie cloth grounds the poem in the agricultural and domestic cycles of traditional East Asian life, emphasizing what the speaker has been separated from during their travels.

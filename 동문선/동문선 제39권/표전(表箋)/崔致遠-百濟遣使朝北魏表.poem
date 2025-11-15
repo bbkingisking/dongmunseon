@@ -1,0 +1,34 @@
+canonical:
+  title: 百濟遣使朝北魏表
+  author: 崔致遠
+  language: lzh
+  text: 臣立國東極豺狼隔路雖世承靈化莫由奉藩瞻望雲闕馳情罔極涼風微應伏惟皇帝陛下協和天休不勝係仰之情謹遣私署冠軍將軍駙馬都尉弗斯侯長史餘禮龍驤將軍帶方大守司馬張茂等設舫波阻搜徑玄津託命自然之運遣進萬一之誠兾神祗垂感皇靈洪覆克達天庭宣暢臣志雖旦聞夕歿永無餘恨
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 百濟遣使朝北魏表
+  author: 崔致遠
+  language: lzh
+  text: 臣立國東極。豺狼隔路。雖世承靈化。莫由奉藩。瞻望雲闕。馳情罔極。涼風微應。伏惟皇帝陛下。協和天休。不勝係仰之情。謹遣私署冠軍將軍駙馬都尉弗斯侯長史餘禮，龍驤將軍帶方大守司馬張茂等。設舫波阻。搜徑玄津。託命自然之運。遣進萬一之誠。兾神祗垂感。皇靈洪覆。克達天庭。宣暢臣志。雖旦聞夕歿。永無餘恨。
+korean:
+  title: 백제가 사자를 보내어 북위에 조공하는 표
+  author: 최치원
+  language: kor
+  text: 신이 동편 끝에 나라를 세운 이래 오랑캐가 중간에 길을 막아, 비록 대대로 영화(靈化)를 입었으나, 공물을 받들 길이 없어 대궐만을 아득히 바라보고 마음만 그지없이 달려가갑니다. 이즈음 서늘 바람이 적이 불어오는데, 엎드려 생각하건대, 황제폐하께서 어체(御體)가 하늘의 내린 복에 협화(協和)하신지, 앙모(仰慕)의 정을 이기지 못합니다.삼가 사서(私署)의 관군장군 부마도위 불사후 장사(冠軍將軍駙馬都尉弗斯侯長史) 여례(餘禮)와, 용양장군 대방태수 사마(龍驤將軍帶方大守司馬) 장무(張茂) 등을 보내어, 창파 만리에 배를 타고 아득한 바닷길에 나루를 찾아 자연의 운명에 목숨을 맡기고, 만분의 1이라도 정성을 나누고자 하니, 바라건대, 신명이 감동해 주시고 황령(皇靈)이 은혜를 내리시어 무사히 천정(天庭)에 도달하여 신의 뜻을 활짝 펼 수 있으면, 비록 아침에 주문(奏聞)되고 저녁에 죽는 한이 있어도 길이 여한이 없을까 합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0420_010_0020&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial of Baekje Dispatching Envoys to Pay Tribute to Northern Wei
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    Since establishing my realm at the eastern frontier, wild beasts have barred the path between us. Though my kingdom has received your benevolent transformation through countless generations, we lack the means to present our tribute. With longing gaze fixed upon your celestial palace, my heart yearns without measure. As the autumn wind now gently stirs, I humbly reflect that Your Imperial Majesty's person is harmonized with Heaven's abundant blessings, and I cannot restrain my admiration and reverence.
+
+    Accordingly, I humbly dispatch my officials—General of the Private Retinue, Imperial Son-in-law and Grand Commandant Yeo-rye, and Dragon-Soaring General, Prefect of Daebangg, Grand Administrator Zhang Mao, and others. Across ten thousand li of turbulent waters, we search for passage through the profound depths. Entrusting our fates to the course of Heaven itself, we offer the sincerest devotion of which we are capable. We pray that the divine spirits may be moved to respond, that the Imperial Spirit may extend its boundless protection, and that our embassy may safely reach the Celestial Court and thereby fully reveal my sovereign's intentions. Should we perish at dawn after this message reaches Your Majesty at dusk, we shall harbor no regret.
+  footnotes:
+  - key: ''
+    value: This is a formal tribute memorial (표, pyo) written in the name of Baekje addressing Northern Wei. The elaborate courtly language and diplomatic protocol reflect the formal registers of Classical Chinese official correspondence.
+  - key: ''
+    value: The reference to 'wild beasts barring the path' is a poetic circumlocution for the geographical and political obstacles preventing direct contact between the two realms.
+  - key: ''
+    value: The names of the envoys preserve their original titles and ranks in the diplomatic mission, reflecting the official nature of this document.

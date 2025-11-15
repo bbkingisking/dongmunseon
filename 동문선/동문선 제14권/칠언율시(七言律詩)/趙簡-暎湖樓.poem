@@ -1,0 +1,47 @@
+canonical:
+  title: 暎湖樓
+  author: 趙簡
+  language: lzh
+  text: 此樓風景惱人多八咏雙溪不敢加旗盖影交樵牧路管絃聲落吏民家跨空簷豁膚生粟照水軒危眼昡花玉斧修成廣寒殿飄然還訝上仙槎
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 暎湖樓
+  author: 趙簡
+  language: lzh
+  text: 此樓風景惱人多。八咏雙溪不敢加。旗盖影交樵牧路。管絃聲落吏民家。跨空簷豁膚生粟。照水軒危眼昡花。玉斧修成廣寒殿。飄然還訝上仙槎。
+korean:
+  title: 영호루
+  author: 조간
+  language: kor
+  text: |-
+    이 누각의 풍경이 사람을 흠뻑 녹이나니
+    팔영ㆍ쌍계도 이보다 낫지 못하리
+    깃발과 수레가 초부ㆍ목동의 길에 섞갈리고
+    관현 소리가 아전ㆍ백성의 집에 떨어지네
+    반공에 솟은 추녀 끝은 위태로워 보여서 몸에 소름 오싹하고
+    물을 임한 높은 난간은 눈에 현기증 나서 아찔해라
+    옥도끼로 깎아 놓은 광한전이 아닌가
+    이 몸이 표연히 신선 떼 타고 오른 듯하여라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0840&viewSync=OT
+  footnotes: []
+english:
+  title: Viewing Lake Tower
+  author: Cho Kan
+  language: eng
+  text: |-
+    The landscape of this tower melts the heart completely—
+    Even the Eight Chants and Twin Streams cannot compare.
+    Banners and carriages mingle on paths of woodcutters and shepherds,
+    While zither melodies drift down to the homes of clerks and common folk.
+    The eaves that tower into emptiness make the body bristle with awe,
+    The high railings overlooking water dazzle the eyes with vertigo.
+    Is this not the Guanghan Palace carved by a jade axe?
+    Floating thus, I seem to arrive on celestial boats with immortals.
+  footnotes:
+  - key: ''
+    value: The Eight Chants and Twin Streams (八咏・雙溪) refer to celebrated scenic locations in Chinese literature, establishing a comparison between this Korean tower and famous Chinese landscapes.
+  - key: ''
+    value: The Guanghan Palace (廣寒殿) is the palace of the Moon Goddess in Chinese mythology, suggesting the tower reaches toward the heavens.
+  - key: ''
+    value: The celestial boats (仙槎) alludes to the mythical boat that travels to heaven, conveying a sense of transcendence through experiencing this earthly beauty.

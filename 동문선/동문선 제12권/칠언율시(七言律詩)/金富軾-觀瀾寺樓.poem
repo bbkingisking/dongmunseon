@@ -1,0 +1,47 @@
+canonical:
+  title: 觀瀾寺樓
+  author: 金富軾
+  language: lzh
+  text: 六月人間暑氣融江樓終日足淸風山容水色無今古俗態人情有異同舴艋獨行明鏡裏鷺鷥雙去畫圖中堪嗟世事如銜勒不放衰遲一禿翁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 觀瀾寺樓
+  author: 金富軾
+  language: lzh
+  text: 六月人間暑氣融。江樓終日足淸風。山容水色無今古。俗態人情有異同。舴艋獨行明鏡裏。鷺鷥雙去畫圖中。堪嗟世事如銜勒。不放衰遲一禿翁。
+korean:
+  title: 관란사루
+  author: 김부식
+  language: kor
+  text: |-
+    6월 인간에 더위가 한창인데
+    강 다락엔 온종일 서늘바람 족하네
+    산 모양 물 빛은 예나 지금이나 일반인데
+    인정과 속태는 다르기도 같기도 해라
+    쪽배는 홀로 가누나 환한 거울 속으로
+    해오리 쌍으로 가니 그림 같구나
+    아아 세상 일은 자갈과 굴레런가
+    대머리 다 늙은 나를 놓아주지 않네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: The Tower of Gwanran Temple
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    June swelters across the human realm,
+    yet the river tower enjoys cool winds all day long.
+    Mountain shapes and water's gleam remain unchanged—
+    ancient times and now are one and the same.
+    Still, human nature and common ways drift and differ.
+
+    A lone boat glides through the mirror-bright water,
+    herons in pairs depart like brushstrokes on silk.
+    Alas, the affairs of this world are like reins and bridles,
+    never releasing an old man, worn and gray.
+  footnotes:
+  - key: ''
+    value: The temple tower provides refuge from worldly cares, its natural surroundings offering timeless beauty independent of human change.
+  - key: ''
+    value: The speaker, despite the peaceful scene, remains trapped by the constraints of the world and the burdens of age—a subtle tension between external serenity and internal weariness.

@@ -1,0 +1,43 @@
+canonical:
+  title: 郊外
+  author: 金克己
+  language: lzh
+  text: 膏澤未周恐失三登之望血誠無已恭陳再瀆之儀兾枉靈歆遄加善救油然雲霈然雨坐見時行比如櫛崇如墉終臻歲稔
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 郊外
+  author: 金克己
+  language: lzh
+  text: 膏澤未周。恐失三登之望。血誠無已。恭陳再瀆之儀。兾枉靈歆。遄加善救。油然雲霈然雨。坐見時行。比如櫛崇如墉。終臻歲稔。
+korean:
+  title: 다시 교외
+  author: 김극기
+  language: kor
+  text: 우로(雨露)의 은택이 고루 미치지 아니하여 삼곡(三穀)이 풍년들기를 바라던 것이 실패할까 두려워합니다. 진심에서 솟아나는 정성을 누를 수 없어서 공손히 거듭 기원하는 제의(祭儀)를 베푸오니, 바라건대, 신령은 굽어 흠향하시고, 신속히 착한 구제를 내리시어 유연(油然)히 구름이 일고 패연(霈然)히 비가 쏟아져서, 앉은 자리에서 비가 내림을 보게 하여, 곡식이 빗[櫛]과 같이 가지런하고 곡식이 쌓여 원장(垣墻)과 같게 하여서 마침내 풍년이 들게 하소서.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1130_020_0040&viewSync=OT
+  footnotes: []
+english:
+  title: The Suburbs
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    The rain and dew have not fallen evenly upon the land,
+    and I fear the hope for a harvest of three grains will perish.
+    My heart overflows with sincere devotion that cannot be contained—
+    I offer again this humble ritual of prayer.
+
+    I beseech you, spirits of heaven, to deign to hear this offering
+    and swiftly bestow your merciful salvation.
+    Let the clouds rise like oil upon water,
+    let the rain pour down in torrents,
+    that sitting here we shall witness the waters fall.
+
+    May the grain stand as straight as the teeth of a comb,
+    may it pile high as fortress walls,
+    until at last the fields ripen into abundance.
+  footnotes:
+  - key: ''
+    value: The 'three grains' (三穀) traditionally refers to millet, beans, and wheat—the staple crops of ancient agriculture.
+  - key: ''
+    value: The imagery of 'oil rising' and 'rain pouring' uses classical poetic diction to evoke the gradual gathering and then sudden release of heaven's blessing.

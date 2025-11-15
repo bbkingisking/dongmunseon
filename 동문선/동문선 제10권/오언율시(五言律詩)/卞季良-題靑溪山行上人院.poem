@@ -1,0 +1,47 @@
+canonical:
+  title: 題靑溪山行上人院
+  author: 卞季良
+  language: lzh
+  text: 石路千崖盡香煙一室淸客來求煮茗僧坐自飜經樹老何年種鍾殘半夜聲悟空人事絶高臥樂無生
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題靑溪山行上人院
+  author: 卞季良
+  language: lzh
+  text: 石路千崖盡。香煙一室淸。客來求煮茗。僧坐自飜經。樹老何年種。鍾殘半夜聲。悟空人事絶。高臥樂無生。
+korean:
+  title: 제 청계산 행 상인원
+  author: 변계량
+  language: kor
+  text: |-
+    돌 길은 천길 절벽에서 끝났는데
+    향 연기 떠오르는 맑디맑은 한 방
+    손은 와서 차를 끓여달라 청하고
+    중은 앉아 스스로 경을 뒤적이네
+    나무는 늙었으니 어느 해에 심었나
+    종은 잦아지니 밤중 이어라
+    공을 깨달아 속세를 잊고
+    높이 누워 무생을 즐기노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0860&viewSync=OT
+  footnotes: []
+english:
+  title: On Visiting a Wandering Monk's Dwelling in the Blue Stream Mountains
+  author: Byeon Gyeryang
+  language: eng
+  text: |-
+    Stone paths end at a thousand-fathom cliff,
+    Incense smoke rises through the chamber, clear and crystalline.
+    A guest arrives and asks the monk to brew tea,
+    While the monk sits, turning the sutras by himself.
+    The ancient trees—in what year were they planted?
+    The temple bell fades—its voice in the middle of night.
+    Awakenment empties all worldly affairs,
+    High on his bed he savors the joy of non-becoming.
+  footnotes:
+  - key: ''
+    value: The 'blue stream' (青溪) refers to a location known for its natural beauty and spiritual significance in Buddhist mountain temples
+  - key: ''
+    value: The progression from material hospitality (tea) to spiritual practice (sutra reading) to transcendence reflects the Buddhist path of enlightenment
+  - key: ''
+    value: '''Non-becoming'' (無生) is a Buddhist philosophical term referring to the unconditioned, timeless state beyond the cycle of birth and death'

@@ -1,0 +1,40 @@
+canonical:
+  title: 物狀
+  author: 金坵
+  language: lzh
+  text: 梯航萬國爭先庭實之輸蓬艾一區敢後山塵之補前件物等塉地之産單裝所齎雖慙羞薦之微尙兾悃誠之達
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 物狀
+  author: 金坵
+  language: lzh
+  text: 梯航萬國。爭先庭實之輸。蓬艾一區。敢後山塵之補。前件物等。塉地之産。單裝所齎。雖慙羞薦之微。尙兾悃誠之達。
+korean:
+  title: 물장
+  author: 김구
+  language: kor
+  text: 제항(梯航)으로 온 만국(萬國)이 먼저를 다투며 왕께 뜰에 공물(貢物)을 바치는데 봉애(逢艾) 일구(一區)인들 감히 티끌로 산을 보탬에 뒤지겠습니까. 앞의 물건들은 척지(瘠地)의 산물이요, 단장(單裝)으로 가져 가는 것으로서 비록 바치는 물건은 보잘것없사오나, 정성의 표시로 상달(上達)하옵나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0350_010_0040&viewSync=OT
+  footnotes: []
+english:
+  title: A Presentation of Tribute
+  author: Kim Gu
+  language: eng
+  text: |-
+    From distant seas come ten thousand nations,
+    vying to be first in bringing forth their gifts
+    upon the palace courtyard.
+
+    Shall we, from this humble corner of the earth,
+    fear to add our dust to the mountain of tribute?
+
+    These offerings spring from poor, thin soil,
+    carried in simple vessels, simply dressed.
+    Though what we present is meager and unworthy,
+    let this sincere heart reach the throne above.
+  footnotes:
+  - key: ''
+    value: The poem employs the conventional language of tributary diplomatic submissions, presenting humble local goods as tribute to a superior authority.
+  - key: ''
+    value: The contrast between 'ten thousand nations' and 'this humble corner' emphasizes both the universal scope of the tributary system and the speaker's modest, peripheral position within it.

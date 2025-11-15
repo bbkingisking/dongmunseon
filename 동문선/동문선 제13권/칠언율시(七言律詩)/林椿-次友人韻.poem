@@ -1,0 +1,57 @@
+canonical:
+  title: 次友人韻
+  author: 林椿
+  language: lzh
+  text: 十載崎嶇面撲埃長遭造物小兒猜問津路遠槎難到燒藥功遅鼎不開科第未消羅隱恨離騷空寄屈平哀襄陽自是無知己明主何曾棄不才
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次友人韻
+  author: 林椿
+  language: lzh
+  text: 十載崎嶇面撲埃。長遭造物小兒猜。問津路遠槎難到。燒藥功遅鼎不開。科第未消羅隱恨。離騷空寄屈平哀。襄陽自是無知己。明主何曾棄不才。
+korean:
+  title: 친구의 시에 차운하다
+  author: 임춘
+  language: kor
+  text: |-
+    얼굴에 먼지 가득 10년간 기구한 신세
+    조물 애녀석이 나를 늘 시기했네
+    나루 길은 멀어 떼로 이르기 어렵고
+    선단은 언제 익으리 솥을 상기 못 열었네
+    과거는 아직도 나은의 한을 지녔고
+    이소에 부질없이 굴원의 설움을 부쳤것다
+    양양이 제 워낙 지기가 없은 게지
+    명주가 언제 일찍이 재주 없다 버리셨는가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0160&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 나은(羅隱)의 한(恨) : '
+    value: 당말(唐末) 시인. 여러번 과거에 응했으나 급제하지 못하였다.
+  - key: '[주-D002] 이소(離騷)에 …… 부쳤것다 : '
+    value: 초사(楚辭)의 한 편(篇), 굴원(屈原)의 작. 굴원이 초(楚)나라의 종실(宗室)과 대부(大夫)의 참소 때문에 쫓겨나 근심하고 시름하여 지은 것이다. 이(離)는 만남[遭]이요, 소(騷)는 근심이니, ‘근심을 만나 지은 글’이란 뜻이다.
+  - key: '[주-D003] 양양(襄陽)이 …… 없은 게지 : '
+    value: 당(唐)나라 시인 맹호연(孟浩然)은 양양(襄陽) 사람이다. 오언(五言)시에 능하였다. 그가 서울에 왔을 때에 왕유(王維)가 내서(內署)에 숙직하면서 그를 청하여 놀았더니, 현종(玄宗)이 창졸에 나오므로 호연이 상 밑에 숨었는데, 현종이 물으므로 왕유가 사실대로 아뢰니 기뻐하여 불러내어 그의 시를 외우라 하였다. 그는, “재주가 없으니 맹주가 버리시고, 병이 많으매 친구도 성겨지누나.[不才明主棄 多病故人疏]”란 구를 외우니, 현종이, “경이 짐(朕)에게 구하지 않았었으니 짐이 일찍 경을 버린 적이 없는데.”라고 하면서 놓아보내었다.
+english:
+  title: Responding to a Friend's Poem
+  author: Lim Chun
+  language: eng
+  text: |-
+    Ten years of hardship have ground dust into my face.
+    The petty child of creation has always envied me.
+    The ford lies distant, the raft cannot reach that shore,
+    And the elixir's slow cooking—the cauldron remains sealed.
+
+    The civil service exam has not dispelled the sorrow of Luo Yin,
+    While the Lament fallen empty carries only Qu Yuan's grief.
+    Xiangyang itself has never known a kindred spirit—
+    Has any wise ruler ever cast away the talentless so soon?
+
+    Yet I ask: when did the enlightened lord reject me?
+    When have I truly sought? Perhaps never at all.
+  footnotes:
+  - key: ''
+    value: Luo Yin was a late Tang poet who repeatedly sat for the imperial examination but never passed, becoming a symbol of unrewarded talent.
+  - key: ''
+    value: The Lament (Li Sao) is a masterwork by Qu Yuan, composed in grief after being slandered and banished from the court of Chu.
+  - key: ''
+    value: 'This alludes to the poet Meng Haoran of Xiangyang, whose modesty in declining imperial favor paradoxically led to the emperor''s regard. The poem''s final lines echo Meng''s famous couplet: ''The ruler rejects the talentless, and friends grow distant in illness''—yet the emperor countered that Meng had never sought his favor, so how could he have rejected him?'

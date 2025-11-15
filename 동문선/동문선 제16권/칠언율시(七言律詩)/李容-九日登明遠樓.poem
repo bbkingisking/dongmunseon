@@ -1,0 +1,50 @@
+canonical:
+  title: 九日登明遠樓
+  author: 李容
+  language: lzh
+  text: 新樓突兀鳥飛回懷抱登臨得好開異縣故人難再會今年此日不重來溪虛日影搖歌扇山近秋光落酒杯五十二年成底事可堪千里獨徘徊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九日登明遠樓
+  author: 李容
+  language: lzh
+  text: 新樓突兀鳥飛回。懷抱登臨得好開。異縣故人難再會。今年此日不重來。溪虛日影搖歌扇。山近秋光落酒杯。五十二年成底事。可堪千里獨徘徊。
+korean:
+  title: 구일 등 명원루
+  author: 이용
+  language: kor
+  text: |-
+    우뚝 높은 새 다락 새도 날아오르다가 못 미치고 돌아오는데
+    올라서니 회포가 활짝 열리누나
+    딴 고을의 옛 친구는 되 만나기 어렵고
+    올해 이 날은 거듭 다시 오지 않네
+    시내가 헌칠한데 햇살이 노래 부채에 흔들리고
+    산이 가까우니 가을빛이 술잔에 지는구나
+    52년 간에 무슨 일을 이루었나
+    천 리에 혼자 헤매니 이 신세를 어찌하리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: Climbing Myeongwon Tower on the Ninth Day of the Ninth Moon
+  author: Lee Yong
+  language: eng
+  text: |-
+    The new tower rises sharp and steep—even birds turn back mid-flight, unable to reach its heights.
+    Yet climbing here, my heart opens wide with joy.
+
+    Friends from other provinces are hard to meet again,
+    and this day of the year will not return.
+    The empty valley shimmers as sunlight trembles on the singing fan,
+    the nearby mountains cast autumn light into my wine cup.
+
+    Fifty-two years—what have I accomplished?
+    Thousand miles from home, wandering alone—
+    how long must I endure this fate?
+  footnotes:
+  - key: ''
+    value: The ninth day of the ninth lunar month was celebrated in East Asian tradition as a festival of reunion and reflection, often marked by climbing heights and drinking chrysanthemum wine.
+  - key: ''
+    value: The 'singing fan' evokes the poetic tradition of wind-stirred objects reflecting the passage of time and emotion.
+  - key: ''
+    value: The specific mention of fifty-two years suggests the poet's personal age or a significant life milestone, lending the poem an autobiographical weight.

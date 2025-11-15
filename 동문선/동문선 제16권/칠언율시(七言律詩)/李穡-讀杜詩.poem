@@ -1,0 +1,56 @@
+canonical:
+  title: 讀杜詩
+  author: 李穡
+  language: lzh
+  text: 錦里先生豈是貧桑麻杜曲又回春鉤簾丸藥身無病畫紙敲針意更眞偶値亂離增節義肯因衰老損精神古今絶唱誰能繼賸馥殘膏丐後人
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀杜詩
+  author: 李穡
+  language: lzh
+  text: 錦里先生豈是貧。桑麻杜曲又回春。鉤簾丸藥身無病。畫紙敲針意更眞。偶値亂離增節義。肯因衰老損精神。古今絶唱誰能繼。賸馥殘膏丐後人。
+korean:
+  title: 독두시
+  author: 이색
+  language: kor
+  text: |-
+    금리 선생이 어찌 가난할쏜가
+    두릉 뽕밭ㆍ삼밭에 또 봄이 돌아왔네
+    발 드리우고 환약지으니 몸에 병은 없고
+    종이에 바둑판 긋고 긴 바늘 두들겨 낚시 만드니 천진도 하구나
+    난리를 우연히 만나 절의를 더할망정
+    쇠하고 늙었기로 정신이야 덜릴쏜가
+    고금의 절창을 뉘라서 이으리
+    남은 향기 남은 기름을 후인에게 빌리누나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0670&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 금리(錦里) 선생이 …… 가난할쏜가 : '
+    value: 금관성(錦官城 현 사천성 성도현(成都縣) 서남). 두보(杜甫)가 거기 살며 자칭 금리선생이라 했다. 그의 시 “금리 선생이 오각건을 쓰고 동산에서 토란과 밤을 거두니 온전히 가난하지는 않구나.[錦里先生烏角巾 園收芋栗未全貧]”라는 시가 있다.
+  - key: '[주-D002] 발[簾] 드리우고 …… 병은 없고 : '
+    value: 두보의 시에 발과 약에 관한 구절이 많다.
+  - key: '[주-D003] 종이에 …… 천진도 하구나 : '
+    value: 두보의 시에, “늙은 아내는 종이를 그어 바둑판을 만들고 어린 자식은 바늘을 두드려 낚시를 만든다.”는 구절이 있다.
+  - key: '[주-D004] 남은 향기 …… 빌리누나 : '
+    value: 원미지(元微之)가 두보의 시를 칭찬하며, “남은 기름과 남은 향기가 후세의 시인에게까지 혜택을 준다.” 하였다.
+english:
+  title: Reading the Poetry of Du Fu
+  author: Lee Saek
+  language: eng
+  text: |-
+    How could the Master of Brocade Lane know poverty?
+    In the mulberry and hemp fields of Du Tomb, spring returns once more.
+    With curtains drawn and medicines made, the body knows no disease,
+    Ruling squares on paper, tapping needles to forge fishhooks—such innocent craft.
+
+    Though he chanced upon chaos and strengthened his resolve,
+    Could age and decline ever diminish his spirit?
+    Who in all ages past and present could continue his sublime song?
+    I beg the lingering fragrance, the remnant oil, to grace those who come after.
+  footnotes:
+  - key: ''
+    value: Du Fu, the great Tang poet, lived in the Brocade Official region (modern-day Chengdu) and called himself the 'Master of Brocade Lane.' This poem honors his resilience and creativity even in humble circumstances.
+  - key: ''
+    value: The curtains, medicines, drawn grids for games, and forged fishhooks allude to passages in Du Fu's own poetry describing his family's resourceful simplicity.
+  - key: ''
+    value: 'The final couplet echoes Yuan Zhen''s praise of Du Fu: that his poetic legacy—like lingering fragrance and oil—continues to nourish later generations of poets.'

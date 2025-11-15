@@ -1,0 +1,48 @@
+canonical:
+  title: 嗚呼島弔田橫
+  author: 鄭道傳
+  language: lzh
+  text: 曉日出海赤直照孤島中夫子一片心正與此日同相去曠千載嗚呼感予衷毛髮竪如竹凜凜吹英風
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 嗚呼島弔田橫
+  author: 鄭道傳
+  language: lzh
+  text: 曉日出海赤。直照孤島中。夫子一片心。正與此日同。相去曠千載。嗚呼感予衷。毛髮竪如竹。凜凜吹英風。
+korean:
+  title: 오호도에서 전횡을 조상하며
+  author: 정도전
+  language: kor
+  text: |-
+    새벽 해가 바다에서 붉게 솟아
+    바로 의로운 섬 가운데 비치니
+    부자의 한 조각 마음이
+    바로 이 해와 같도다
+    시대가 서로 떨어지기 천 년이 넘었는데
+    슬프게 내 마음에 느껴진다
+    모발은 대 같이 일어서고
+    영풍이 늠름하게 불어온다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 오호도(嗚呼島) : '
+    value: 한 고조(漢高祖)가 항우(項羽)를 죽이고 천하를 통일하자 제왕(齊王)전횡(田橫)이 손 5백 명을 데리고 동해 바다의 섬 속에 들어가 있었다. 고조가 사람을 보내어 전횡을 부르기를, “오면 왕후(王侯)로 봉할 것이요, 오지 않으면 군사를 보내어 쳐서 죽이리라.” 하니, 전횡이 오다가 낙양(洛陽 한(漢)의 초기 수도)에 30리를 못 미쳐서 말하기를, “내가 한왕(漢王)과 같이 왕이라고 칭하다가 이제 와서 한왕의 신하가 될 수 없다.” 하고, 목을 찔러 자살하니, 섬 속에 남아 있던 손 5백 명이 그 소식을 듣고 일시에 모두 자살하였다. 그러므로 그 섬을 오호도(嗚呼島)라고 부른다.
+english:
+  title: Lament for Tian Heng on the Island of Alas
+  author: Jung Do-jeon
+  language: eng
+  text: |-
+    The dawn sun rises crimson from the sea,
+    Shining straight upon that lonely island's heart.
+    The Master's single, steadfast heart—
+    It mirrors this very sun.
+
+    Though a thousand years divide us now,
+    Alas, his spirit moves my breast.
+    My hair stands up like bamboo stalks,
+    As noble winds blow fierce and chill.
+  footnotes:
+  - key: ''
+    value: Tian Heng was a King of Qi who, rather than submit to the Han dynasty after its unification, fled to an island in the Eastern Sea with five hundred followers. When summoned by the Han emperor with threats, he chose death over servitude, and his followers followed him in death. The island became known as the 'Island of Alas' (Woho Island) in commemoration of their collective sacrifice.
+  - key: ''
+    value: The 'Master' (夫子) refers to Tian Heng and his exemplary integrity—a theme of particular resonance in Korean Confucian thought, where moral constancy and righteous resistance to unjust authority were deeply valued.

@@ -1,0 +1,50 @@
+canonical:
+  title: 病後將赴善山舟過驪州登淸心樓不與主人遇徑還舟中悤悤次稼亭韻
+  author: 金宗直
+  language: lzh
+  text: 維舟茅舍蕀蘺端魚鳥何曾識我顔病後猶能撰杖屨謫來纔得賞江山十年世事孤吟裏八月秋容亂樹間一霎倚闌仍北望水師催載不敎閑
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病後將赴善山舟過驪州登淸心樓不與主人遇徑還舟中悤悤次稼亭韻
+  author: 金宗直
+  language: lzh
+  text: 維舟茅舍蕀蘺端。魚鳥何曾識我顔。病後猶能撰杖屨。謫來纔得賞江山。十年世事孤吟裏。八月秋容亂樹間。一霎倚闌仍北望。水師催載不敎閑。
+korean:
+  title: 병 후 선산에 부임하려 배로 여주를 지나 청심루에 올랐으나 주인을 만나지 못해 배로 돌아와 총총히 가정운을 차운함
+  author: 김종직
+  language: kor
+  text: |-
+    띠집의 가시 울타리 끝에 배를 매었노니
+    고기와 새들이 어찌 일찍 내 얼굴을 알았으랴
+    앓고 난 뒤라도 지팡이와 신을 갖출 수 있어
+    귀양 오매 겨우 강산을 구경할 수 있구나
+    10년의 세상 일은 외로이 읊조리는 속에서 지났는데
+    8월의 가을 모양은 어지러운 나무 사이에 있다
+    잠깐 난간에 기대었다가 이내 북쪽을 바라보나니
+    뱃사공은 타기를 재촉하여 한가롭지 못하게 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0650&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 蕀 : '
+    value: 棘
+english:
+  title: Passing Yeoju by Boat on the Way to Take Office in Seoнsan After Illness—Climbing Cheongshim Tower but Missing the Host, I Return Hastily to the Boat and Compose Verses Following the Rhyme Scheme of Gajeong
+  author: Kim Jong-jik
+  language: eng
+  text: |-
+    My boat is moored at the edge of a thatched house, where thorns form the fence.
+    How could fish and birds have known my face so long ago?
+    After my illness, I can still gather staff and shoes,
+    And in my exile, I am only now granted a glimpse of these mountains.
+
+    Ten years of worldly affairs have passed in lonely verses,
+    While August's autumn colors scatter through the tangled trees.
+    For a moment I lean against the railing, gazing northward,
+    But the boatman urges departure—I am not allowed to rest.
+  footnotes:
+  - key: ''
+    value: This poem was written during Kim Jong-jik's journey to assume a new official position after recovering from illness. The speaker's inability to meet the host at Cheongshim Tower and his hurried return to the boat become occasions for reflection on exile, aging, and the fleeting nature of freedom to wander.
+  - key: ''
+    value: The reference to 'ten years' and exile suggests the poet's difficult political circumstances and sense of displacement, common themes in Korean literati poetry of this period.
+  - key: ''
+    value: The final image of the boatman's urging conveys both the practical constraints of travel and a deeper sense of life's relentless forward motion—the speaker cannot linger even in moments of beauty and contemplation.

@@ -1,0 +1,45 @@
+canonical:
+  title: 使宋過泗州龜山寺
+  author: 朴寅亮
+  language: lzh
+  text: 巉巖怪石疊成山上有蓮坊水四環塔影倒江翻浪底磬聲搖月落雲閒門前客棹洪濤疾竹下僧碁白日閑一奉皇華堪惜別更留詩句約重攀
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 使宋過泗州龜山寺
+  author: 朴寅亮
+  language: lzh
+  text: 巉巖怪石疊成山。上有蓮坊水四環。塔影倒江翻浪底。磬聲搖月落雲閒。門前客棹洪濤疾。竹下僧碁白日閑。一奉皇華堪惜別。更留詩句約重攀。
+korean:
+  title: 송나라에 사신으로 갔다가 사주 귀산사를 지나며
+  author: 박인량
+  language: kor
+  text: |-
+    험한 바위 괴상한 돌이 겹쳐 산이 되었는데
+    그 위에 연당이 있어 물이 사방에 둘렸네
+    탑 그림자가 강에 거꾸러져 물결 속에 일렁이고
+    종소리가 달을 흔들며 구름 새에 떨어지누나
+    문 앞 나그네 탄 배엔 파도가 센데
+    대 아래 중의 바둑은 한낮이 한가롭네
+    사신으로 오가는 몸 이별이 아까우니
+    시 한 수 써두고 가며 다시 찾기 기약하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0460&viewSync=OT
+  footnotes: []
+english:
+  title: Passing by Guisan Temple at Sizhou on a Diplomatic Mission to Song
+  author: Park In-ryang
+  language: eng
+  text: |-
+    Jagged cliffs and grotesque stones pile upon each other to form a mountain.
+    Above it stands a lotus pavilion, waters embracing it from all sides.
+    The tower's shadow tumbles into the river, rippling through the waves below.
+    The bell's voice shakes the moon, falling between the clouds.
+    Before the gate, the traveler's boat cuts through fierce tides,
+    While beneath the bamboo, the monk's chess game stretches through the idle day.
+    As an envoy passing through, parting weighs heavy on my heart—
+    I leave behind these verses, a promise to return and climb again.
+  footnotes:
+  - key: ''
+    value: The poem marks a moment during an official diplomatic journey, a common subject in classical Korean poetry where political duty and personal attachment to beautiful places create poignant tension.
+  - key: ''
+    value: The lotus pavilion and temple imagery suggest Buddhist contemplation amid the traveler's worldly responsibilities, a recurring theme in East Asian literati poetry.

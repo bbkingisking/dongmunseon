@@ -1,0 +1,48 @@
+canonical:
+  title: 題剛中家梅竹蓮海棠四詠
+  author: 朴彭年
+  language: lzh
+  text: 剛中吾執友嗜好異尋常竹愛霜餘靜梅唫臈底香水明搖淨植風嫋泛崇光揮洒閑中興黃庭一兩章
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題剛中家梅竹蓮海棠四詠
+  author: 朴彭年
+  language: lzh
+  text: 剛中吾執友。嗜好異尋常。竹愛霜餘靜。梅唫臈底香。水明搖淨植。風嫋泛崇光。揮洒閑中興。黃庭一兩章。
+korean:
+  title: 제 강중가 매 죽 연 해당 사영
+  author: 박팽년
+  language: kor
+  text: |-
+    강중은 내 친구인데
+    취미가 유다르네
+    대에는 서리 내린 뒤 고요한 것을 사랑하고
+    매화에는 섣달의 향기를 읊조리네
+    물이 맑으니 깨끗한 줄기 흔들고
+    바람이 나긋하여 화한 빛깔을 띠우네
+    한가한 가운데 내 흥으로 글씨 쓰니
+    황정경의 한두 장
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_1110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 황정경(黃庭經) : '
+    value: 황정경은 신선(神仙)의 장생법(長生法)을 말한 경(經)인데, 칠언시(七言詩)로 되어 있다.
+english:
+  title: Four Verses on Kangzhong's Plum, Bamboo, Lotus, and Crabapple
+  author: Park Peng-nyeon
+  language: eng
+  text: |-
+    Kangzhong is my cherished friend,
+    Whose tastes run beyond the common way.
+    Bamboo he loves for its quiet grace
+    When frost has passed,
+    Plum blossoms he sings of,
+    Their fragrance deep as winter's breath.
+    Waters gleam, their clean stems swaying,
+    Breezes drift in wisps of radiance.
+    With leisure's inspiration,
+    I write—a page or two
+    From the Yellow Court Classic.
+  footnotes:
+  - key: ''
+    value: The Yellow Court Classic (黃庭經) is a Taoist scripture in seven-character verse form, teaching the methods of immortals for attaining longevity.

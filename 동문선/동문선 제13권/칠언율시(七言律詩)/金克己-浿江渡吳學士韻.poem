@@ -1,0 +1,48 @@
+canonical:
+  title: 浿江渡吳學士韻
+  author: 金克己
+  language: lzh
+  text: 渡口前驅擁劒檛驚風卷地曉飛沙寒髯颯颯冰凝穟病眼濛濛雪眩花鄕思望雲增宛轉客行隨岸幾欹斜隔林隱隱看靑旆遙認前村酒可賖
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 浿江渡吳學士韻
+  author: 金克己
+  language: lzh
+  text: 渡口前驅擁劒檛。驚風卷地曉飛沙。寒髯颯颯冰凝穟。病眼濛濛雪眩花。鄕思望雲增宛轉。客行隨岸幾欹斜。隔林隱隱看靑旆。遙認前村酒可賖。
+korean:
+  title: 패강 나루터에서 오학사의 운
+  author: 김극기
+  language: kor
+  text: |-
+    전구가 나루에서 검과 말채찍 끼고 건너니
+    회오리바람이 땅을 말아 새벽 모래 흩날리네
+    찬 수염에는 주렁주렁 고드름이 매달리고
+    병든 눈은 흐릿흐릿 눈빛에 어지럽네
+    고향 생각에 바라보니 구름 더욱 정답구나
+    나그네길은 기슭을 따라 몇 번이나 비스듬한고
+    저 건너 수풀 사이에 푸른 기가 펄렁이니
+    마을이 분명 있으리 술을 사서 마시세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0470&viewSync=OT
+  footnotes: []
+english:
+  title: Crossing the Paekgang River, Following Wu Scholar's Rhyme
+  author: Kim Geuk-gi
+  language: eng
+  text: |-
+    At the ferry crossing, the vanguard girds sword and whip,
+    Whirlwind sweeps the earth, dawn sand scatters in flight.
+    Frost clings in wisps to my graying beard,
+    Myopic eyes swim dizzy in the glare of snow.
+
+    Gazing at clouds, homesickness deepens its turning,
+    The wanderer's path bends along the shore, wavering left and right.
+    Beyond the distant grove, a blue banner flutters—
+    A village surely lies there. Perhaps there's wine to purchase and drink.
+  footnotes:
+  - key: ''
+    value: The Paekgang (浿江) is a river in Korean geography, suggesting this poem may commemorate an actual crossing or journey.
+  - key: ''
+    value: The poem employs physical hardship—ice-laden beard, snow-blind eyes, winding paths—as emblems of the speaker's emotional displacement as a traveler far from home.
+  - key: ''
+    value: The blue banner likely signals a tavern or inn, offering both practical refuge and symbolic hope at journey's end.

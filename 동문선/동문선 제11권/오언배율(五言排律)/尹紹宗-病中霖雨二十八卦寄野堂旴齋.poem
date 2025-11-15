@@ -1,0 +1,102 @@
+canonical:
+  title: 病中霖雨二十八卦寄野堂旴齋
+  author: 尹紹宗
+  language: lzh
+  text: 少年敦素履無日不淵臨射策升華秩非才復陸沉流離思舊寵交泰夢相尋妄比鴻冥弋未隨鴉滿林困貧無後患恒疾負初心節苦介如石觀殊塵視金睽孤幾半百蒙暗惜分陰鶚萃鸞凰逝鴻漸燕雀侵家人飢盡墨行旅淚盈襟休向巫咸問誰知子晉音益齡公餌在遯世道情深何夕屯雲解乾淸同苦吟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 病中霖雨二十八卦寄野堂旴齋
+  author: 尹紹宗
+  language: lzh
+  text: 少年敦素履。無日不淵臨。射策升華秩。非才復陸沉。流離思舊寵。交泰夢相尋。妄比鴻冥弋。未隨鴉滿林。困貧無後患。恒疾負初心。節苦介如石。觀殊塵視金。睽孤幾半百。蒙暗惜分陰。鶚萃鸞凰逝。鴻漸燕雀侵。家人飢盡墨。行旅淚盈襟。休向巫咸問。誰知子晉音。益齡公餌在。遯世道情深。何夕屯雲解。乾淸同苦吟。
+korean:
+  title: 병중임우 이십팔괘기 야당 우재
+  author: 윤소종
+  language: kor
+  text: |-
+    소년 때 평소의 조리를 삼가
+    날마다 연못에 임한 듯했네
+    장원으로 화려한 벼슬에 승하였다가
+    재주 없어 다시 육침하였네
+    유리하니 생각은 옛날의 총애
+    교태를 꿈에도 잊지 못하네
+    높은 하늘 기러기에 망령되이 스스로 비하여
+    수풀의 까마귀를 내 안 따르니
+    빈곤은 후환 없으나
+    병에 항상 걸려서 처음 뜻 저버렸네
+    절개는 굳어서 돌덩이 같고
+    관이 달라 금을 흙으로 보네
+    어긋나 외로운 신세 거의 반백 살
+    몽매하니 분음을 아낄 수 밖에
+    독수리가 모이니 난봉이 가고
+    기러기가 점차 나니 연작이 침노
+    집안 사람 굶어서 시커먼 얼굴
+    나그네로 다니니 옷깃에 눈물
+    무함에게 신수를 물을 것 없네
+    왕자 진의 피리 소리 누가 알건가
+    나이를 더함[오래삶]에는 약이 있고
+    세상을 도망하니 도정이 깊네
+    둔친 구름장이 언제나 풀려
+    맑은 하늘 밑에서 함께 읊을까
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0140_010_0380&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이십팔괘(二十八卦) : '
+    value: 주역(周易) 64괘(六十四卦)의 3분의 1인 28괘의 괘자(卦字)를 구(句)마다 넣어서 28구(句)의 시를 지었는데, 구마다 괘자를 표시하였다.
+  - key: '[주-D002] 연못에 임(臨)한 듯 : '
+    value: “공경[敬]하고 조심하기를 깊은 못에 임한 것같이 하고, 엷은 얼음을 밟는 것같이 하라.”는 구절이《시경》에 있다.
+  - key: '[주-D003] 교태(交泰) : '
+    value: 태(泰)는 하늘과 땅이 사귀어 만물이 형통하는 괘인데, 여기서는 군신이 서로 합함을 뜻한다.
+  - key: '[주-D004] 높은 하늘 기러기 : '
+    value: 벼슬을 우습게 보는 고사(高士)의 비유이다. 가물가물 나는 기러기를 활 쏘는 사람이 어찌 잡으랴. 《法言》
+  - key: '[주-D005] 절개(節介)는 …… 돌덩이 같고 : '
+    value: 절개는 돌보다 굳다는 뜻이다.
+  - key: '[주-D006] 무함(巫咸) : '
+    value: 고대(古代)의 대표적인 무당이다.
+  - key: '[주-D007] 왕자(王子) 진(晋) : '
+    value: 주 영왕(周靈王)의 태자 진(晋). 피리[笙]를 잘 불어 봉의 울음 소리를 냄. 뒤에 후령(緱嶺)에서 신선이 되어 백학(白鶴)을 타고 갔다 함. 《列仙傳》
+  - key: '[주-D008] 둔(屯)친 구름장 : '
+    value: 뭉친 구름인데, 궂은 운명의 상징이다.
+english:
+  title: 'Twenty-Eight Hexagrams in Illness: Rain Sent to Wild Hermitage and Wujai'
+  author: Yun Sojong
+  language: eng
+  text: |-
+    In youth I guarded the simple path with care,
+    Each day as reverent as standing by still water.
+    Through merit I ascended to bright office—
+    Yet lacking talent, I sank once more to obscurity.
+
+    Wandering, I recall the favor once bestowed,
+    In dreams the harmonies of power still pursue.
+    Vainly I compare myself to cranes in flight,
+    But cannot follow the ravens that crowd the wood.
+
+    Poverty brings no later sorrows,
+    Yet chronic illness makes me betray my first intent.
+    My integrity hardened like stone,
+    My sight so changed—gold looks like earth.
+
+    Divided and alone, now half a century,
+    In darkness I can only cherish the moments that pass.
+    Eagles gather, phoenixes depart,
+    Wild geese advance, sparrows invade.
+
+    At home, my family's faces grow dark with hunger,
+    As I wander, tears flood my collar.
+    I'll not ask the shamans their counsel,
+    Who could know the music of Prince Jin晋's pipe?
+
+    There is medicine in the years that extend life,
+    But fleeing the world—that runs deeper still.
+    When will these crowded storm clouds break?
+    That we might sing together beneath a clear sky.
+  footnotes:
+  - key: ''
+    value: 'This poem employs a structural conceit: each of its twenty-eight lines incorporates one of the sixty-four I Ching hexagrams, using exactly twenty-eight of them as a poetic framework.'
+  - key: ''
+    value: The opening image of standing by still water invokes the Confucian virtue of respectful reverence, drawing from a passage in the Book of Poetry.
+  - key: ''
+    value: 'The cranes and ravens are traditional symbols: cranes represent lofty hermits indifferent to office, while ravens suggest the common crowd. The speaker''s inability to follow the ravens suggests his alienation from ordinary life.'
+  - key: ''
+    value: Prince Jin晋, son of the Zhou king, was legendary for his mastery of the pipes—his music was so exquisite it eventually led him to immortality. The allusion suggests a longing for transcendence beyond mortal suffering.

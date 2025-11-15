@@ -1,0 +1,48 @@
+canonical:
+  title: 西江雜興
+  author: 鄭誧
+  language: lzh
+  text: 靑山似畫滿蓬窓細雨如絲灑石矼已是夜闌淸不寐舟人更唱禮成江樂府有禮成江曲江村秋後轉多蠅對案時時食不能早晚雨晴天氣好飄然一棹過昌陵
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 西江雜興
+  author: 鄭誧
+  language: lzh
+  text: |-
+    靑山似畫滿蓬窓。細雨如絲灑石矼。已是夜闌淸不寐。舟人更唱禮成江。樂府。有禮成江曲。
+    江村秋後轉多蠅。對案時時食不能。早晚雨晴天氣好。飄然一棹過昌陵。
+korean:
+  title: 서강잡흥
+  author: 정포
+  language: kor
+  text: |-
+    그림 같은 푸른 산은 봉창에 가득 들고
+    실 같은 가는 빗발 돌다리에 뿌리누나
+    그 때문에 밤 깊도록 잠들지 못하거니
+    뱃사람은 다시 예성강을 노래하네 악부에 예성강곡이 있다.
+    가을 지난 강마을엔 파리가 더욱 많아
+    밥상을 대하여도 먹을 수 없네
+    조만간 비가 개고 날씨가 좋아지면
+    표연히 한 돛대로 창릉을 지나리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0790&viewSync=OT
+  footnotes: []
+english:
+  title: Miscellaneous Verses on the Western River
+  author: Jung Po
+  language: eng
+  text: |-
+    Green mountains like paintings fill my cottage window,
+    Fine rain like silk threads falls upon the stone bridge.
+    The night deepens and sleep eludes me still—
+    The boatman sings again of the Yesŏng River.
+
+    Autumn passes through the river village, flies grow thick,
+    Food before me, yet I cannot eat.
+    When rain clears and fair weather comes,
+    I shall drift alone on a single sail past Changnŭng.
+  footnotes:
+  - key: ''
+    value: The Yesŏng River (禮成江) was known for its boatmen's songs, referenced in the yuefu (樂府) tradition of Chinese folk music.
+  - key: ''
+    value: Changnŭng (昌陵) likely refers to a location along the Western River in the Korean peninsula.

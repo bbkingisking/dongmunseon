@@ -1,0 +1,47 @@
+canonical:
+  title: 寓居天龍寺
+  author: 李奎報
+  language: lzh
+  text: 全家來寄碧山傍矮帽輕衫卧一床肺渴更知村酒好睡昏聊喜野茶香竹根逬地龍腰曲蕉葉當䆫鳳尾長三伏早休民訟少不妨時復事空王
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 寓居天龍寺
+  author: 李奎報
+  language: lzh
+  text: 全家來寄碧山傍。矮帽輕衫卧一床。肺渴更知村酒好。睡昏聊喜野茶香。竹根逬地龍腰曲。蕉葉當䆫鳳尾長。三伏早休民訟少。不妨時復事空王。
+korean:
+  title: 우거 천룡사
+  author: 이규보
+  language: kor
+  text: |-
+    온 식구가 푸른 산 옆에 살림을 붙여
+    납작한 모자, 가벼운 적삼으로 내가 상에 누웠네
+    목마르니 촌 술이 진정 맛 좋아라
+    잠이 올 때 들차가 한껏 향기로워
+    땅에 흩어진 대뿌리는 용의 허린 듯 구불구불
+    창을 막는 파초잎은 봉의 꼬린 양 너훌너훌
+    삼복에 일찍 퇴근, 백성의 송사도 적으니
+    이따금 다시 부처님 섬기어도 좋으리
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0080&viewSync=OT
+  footnotes: []
+english:
+  title: Dwelling at Cheonryong Temple
+  author: Lee Gyubo
+  language: eng
+  text: |-
+    My whole family settles by the verdant mountain,
+    In flat cap and light robe, I lie upon my bed.
+    Thirsty, I find the village wine tastes sweetly true,
+    As sleep comes on, the wild tea's fragrance draws me near.
+    Bamboo roots scatter on the earth like dragon's spine in coils,
+    Banana leaves frame my window like a phoenix's curled tail.
+    In the heat of summer, I retire early and lawsuits grow few—
+    So what's the harm in tending to the Buddha's realm again?
+  footnotes:
+  - key: ''
+    value: 'Cheonryong Temple (天龍寺): A Buddhist temple where the poet took up temporary residence'
+  - key: ''
+    value: 'Three Summers (三伏): The hottest period of the year in the lunar calendar'
+  - key: ''
+    value: 'Empty King (空王): A reference to the Buddha, emphasizing the emptiness at the heart of Buddhist teaching'

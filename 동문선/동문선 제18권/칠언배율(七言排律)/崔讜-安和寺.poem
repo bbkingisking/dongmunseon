@@ -1,0 +1,75 @@
+canonical:
+  title: 安和寺
+  author: 崔讜
+  language: lzh
+  text: 紅葉秋山錦作層依稀仙境鳳麟洲紺筵初罷葆光殿綺宴還開花萼樓菊染霜黃攻却老草含秋綠勸忘憂嵐霑翠葆風飜重洞闢靑霄日射幽繡岸丹楓新富貴舞簷蒼檜舊風流月明石壁猿啼夜露冷瑤階鶴警秋宵旰勤勞吟外歇水雲嘉勝望中收鴒原懿戚承三接鷺序名臣從一遊電擧金觴千日醞星羅玉俎八珍羞不才濫仄忠嘉宴眩視空懷海鳥愁
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 安和寺
+  author: 崔讜
+  language: lzh
+  text: 紅葉秋山錦作層。依稀仙境鳳麟洲。紺筵初罷葆光殿。綺宴還開花萼樓。菊染霜黃攻却老。草含秋綠勸忘憂。嵐霑翠葆風飜重。洞闢靑霄日射幽。繡岸丹楓新富貴。舞簷蒼檜舊風流。月明石壁猿啼夜。露冷瑤階鶴警秋。宵旰勤勞吟外歇。水雲嘉勝望中收。鴒原懿戚承三接。鷺序名臣從一遊。電擧金觴千日醞。星羅玉俎八珍羞。不才濫仄忠嘉宴。眩視空懷海鳥愁。
+korean:
+  title: 안화사
+  author: 최당
+  language: kor
+  text: |-
+    가을 산에 단풍 들어 층층이 비단인데
+    절승한 선경이 봉린주(신선이 사는 주(洲)의 하나)와 비슷하구나
+    감연을 처음 보광전서 파하고 나서
+    화려한 잔치를 다시 화악루(花萼樓)서 열었네
+    서리맞은 누른 국화는 오래 사는 약이 되고
+    가을에 푸른 훤초(망우초)는 근심 잊기 권하네
+    안개 젖은 일산은 바람에 무겁게 펄럭이고
+    하늘 닿게 열린 골엔 해가 아늑히 비치는데
+    언덕에 수놓은 단풍은 호화로운 새 부귀요
+    처마에 춤추는 전나무는 그 전대로의 멋진 풍류
+    달 밝은 석벽에 잔나비가 밤에 울고
+    이슬 찬 요계엔 학이 가을을 외치네
+    소의 간식 바쁘신 일에 시 읊으며 쉬시고
+    백운녹수 좋은 경치를 눈 앞에서 거두시네
+    우애좋은 형제를 하루 세 번 접하시고
+    반열 지은 명신들은 한 번 놀이 모시었네
+    번개치듯 드는 잔은 천일주가 아니런가
+    별처럼 놓인 옥도마엔 팔진미가 쌓였는데
+    서툰 재주로써 높은 잔치에 참예하니
+    이 몸은 바다새의 시름 품었네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0210_010_0200&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 화악루(花萼樓) : '
+    value: 당나라 양황제(讓皇帝)가 흥경궁(興慶宮) 서남쪽에 다락을 짓고 ‘화악상휘지루(花萼相輝之樓)’라 제액(題額)하였다. 제왕(諸王)들이 풍류를 아뢰면 반드시 곧 불러 다락에 오르라 하여 같은 탑(榻)에 앉아 즐겼다. 화악(花萼)이란 이름은 대개 《시경》에 있는 상체의 꽃[常棣之華]의 뜻을 취한 것인데 상체꽃은 형제의 우애(友愛)에 비유한 것이다.
+  - key: '[주-D002] 한 번 놀이 : '
+    value: 《맹자(孟子)》에, “임금이 나가서 농민의 실정을 순시하여 봄에는 심는 것을 보고, 가을에는 거두는 것을 살펴 부족한 것을 보조하므로, 한 번 놀고[一遊] 한 번 즐김이 법도가 된다.” 하였다.
+  - key: '[주-D003] 바다새 : '
+    value: 노(魯)나라에 원거(爰居)라는 바다새가 동문(東門)에 왔는데 사람들이 그 새에게 좋은 음식으로 제사를 드리니 그 새는 받아먹지 못하고 근심만 하였다 한다.
+english:
+  title: Anhua Temple
+  author: Choi Dang
+  language: eng
+  text: |-
+    Crimson leaves on autumn mountains layer like brocade,
+    A mystic realm resembling the isles of immortals.
+    The indigo feast ends at the Palace of Precious Light,
+    A splendid banquet opens anew at the Tower of Floral Petals.
+    Chrysanthemums touched by frost turn golden, the elixir of long life,
+    Autumn grasses whisper in green, bidding care to fade away.
+    Mist-dampened parasols flutter heavy in the wind,
+    The cavern opens to the jade heavens, sunlight touching hidden depths.
+    The embroidered banks glow with crimson maples, newly wealthy and noble,
+    Pine branches dance at the eaves, maintaining their ancient elegance.
+    On the moonlit stone walls, gibbons cry through the night,
+    Frost-kissed jade steps echo with the crane's autumn call.
+    Yet in busyness's grip, rest comes through composing verse,
+    Water and clouds, beauty's bounty, fill the watching eye.
+    Brothers of goodwill meet thrice in a single day,
+    Famed ministers in rank join once in this graceful outing.
+    The goblet raised swift as lightning—is it not thousand-day wine?
+    Jade platters gleaming like stars heaped high with eight delicacies.
+    This untalented wretch, invited to such noble feasting,
+    Can only harbor the melancholy sighs of a wandering seabird.
+  footnotes:
+  - key: ''
+    value: The Tower of Floral Petals (花萼樓) evokes the Tang dynasty court where imperial brothers gathered in harmony, symbolizing familial bonds through the metaphor of flower petals joined together.
+  - key: ''
+    value: The reference to the wandering seabird alludes to an ancient parable of a bird too anxious to accept sustenance, expressing the poet's humble sense of unworthiness amid such grandeur.

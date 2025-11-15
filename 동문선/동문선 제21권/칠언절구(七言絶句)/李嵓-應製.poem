@@ -1,0 +1,39 @@
+canonical:
+  title: 應製
+  author: 李嵓
+  language: lzh
+  text: 玉輦親臨松嶺上靈芝秀發石亭間吾王盛德那能說先賀天齡等此山
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 應製
+  author: 李嵓
+  language: lzh
+  text: 玉輦親臨松嶺上。靈芝秀發石亭間。吾王盛德那能說。先賀天齡等此山。
+korean:
+  title: 응제
+  author: 이암
+  language: kor
+  text: |-
+    옥련이 친히 송악에 다다르니
+    영지(불로초(不老草))는 돌정자 사이에 빼어났구나
+    우리 왕의 거룩한 덕을 어찌 다 말하겠노
+    먼저 그 천령이 이 산과 같기를 축하하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0180&viewSync=OT
+  footnotes: []
+english:
+  title: In Response to the Royal Commission
+  author: Lee Am
+  language: eng
+  text: |-
+    The jade palanquin descends upon Songnak's heights,
+    Where immortal fungus blooms between stone pavilions.
+    How could words capture our sovereign's sacred virtue?
+    First, I celebrate that Heaven's blessings match this mountain's eternal span.
+  footnotes:
+  - key: ''
+    value: 'Songnak (松嶺/송악): A sacred mountain, often associated with imperial journeys and blessings'
+  - key: ''
+    value: The jade palanquin and immortal fungus are traditional symbols of imperial majesty and longevity in East Asian court poetry
+  - key: ''
+    value: This appears to be a court poem commissioned to commemorate a royal visit, a common literary form in classical Korean kingdoms

@@ -1,0 +1,50 @@
+canonical:
+  title: 扈駕奉元殿夜醮
+  author: 陳澕
+  language: lzh
+  text: 香宮稽顙扣瓊宮霓旌羽節排寒空嬰香噴作篆文曲紙錢窸窣呼天風夜深月悄人語絶時聞玉漏聲丁東王母歸來獻天壽千年老樹挑花紅
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 扈駕奉元殿夜醮
+  author: 陳澕
+  language: lzh
+  text: 香宮稽顙扣瓊宮。霓旌羽節排寒空。嬰香噴作篆文曲。紙錢窸窣呼天風。夜深月悄人語絶。時聞玉漏聲丁東。王母歸來獻天壽。千年老樹挑花紅。
+korean:
+  title: 호가 봉원전 야초
+  author: 진화
+  language: kor
+  text: |-
+    향궁에 이마를 조아리고 경궁을 두드리니
+    무지개 깃발과 우절이 찬 하늘에 벌여 있네
+    향을 피우매 연기가 무늬를 뿜어 내고
+    종이 돈은 바싹바싹 하늘 바람에 소리난다
+    밤 깊고 달은 고요하니 사람 소리 끊겼는데
+    때때로 차고 맑은 옥루 소리 들린다
+    왕모가 돌아와 하늘 수를 바치나니
+    천 년 늙은 나무에 복숭아꽃 붉도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0210&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 왕모(王母)가 …… 바치나니 : '
+    value: 서왕모(西王母)는 곤륜산(崑崙山)에 있는 선녀(仙女)인데, 한 무제(漢武帝)에게 와서 복숭아를 드린 일이 있다. 그 복숭아는 반도(蟠桃)라는 것인데 3천 년에 한 번씩 익는다 한다.
+  - key: '[주-D001] 挑 : '
+    value: 桃
+english:
+  title: Night Ceremony at the Hall of Primordial Essence During the Imperial Procession
+  author: Chen Hua
+  language: eng
+  text: |-
+    At the fragrant shrine, foreheads bow to strike the jade palace gates,
+    Rainbow banners and feathered insignia spread across the cold sky.
+    Incense curls upward, smoke patterns etched like sacred characters,
+    Spirit money rustles and whispers, summoning the wind of heaven.
+
+    As night deepens, the moon stills and human voices fade away,
+    While the clear jade clepsydra marks time with its delicate chime.
+    The Western Queen Mother returns to offer blessings for celestial longevity,
+    And thousand-year peach blossoms glow red upon the ancient tree.
+  footnotes:
+  - key: ''
+    value: The Western Queen Mother (西王母) is a celestial immortal dwelling on Mount Kunlun, famed for presenting peaches to the Han Emperor. These 'pantalao' (蟠桃) ripen only once every three thousand years and grant eternal life to those who partake.
+  - key: ''
+    value: The poem employs classical Daoist ritual imagery, with incense smoke, spirit money, and the water clock (clepsydra) marking the sacred ceremony that unfolds between heaven and earth.

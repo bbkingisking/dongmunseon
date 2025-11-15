@@ -1,0 +1,47 @@
+canonical:
+  title: 歲暮雜術
+  author: 偰長壽
+  language: lzh
+  text: 漢江槎不至鵠嶺思還仍野闊時舒眺樓高每倦登群烏飛落日獨木蔓寒藤却把三山興都懷萬里鵬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 歲暮雜術
+  author: 偰長壽
+  language: lzh
+  text: 漢江槎不至。鵠嶺思還仍。野闊時舒眺。樓高每倦登。群烏飛落日。獨木蔓寒藤。却把三山興。都懷萬里鵬。
+korean:
+  title: 세모 잡술
+  author: 설장수
+  language: kor
+  text: |-
+    한강에 떼배가 이르지 못하고
+    곡령에 생각이 그대로이네
+    들이 넓으니 때로 시원히 바라보고
+    다락이 높아 매양 오르기에 게으르네
+    뭇 까마귀들은 저녁빛에 날고
+    외로운 나무에는 찬 나무덩굴이 얽히었네
+    문득 삼산의 흥을 가지고
+    만 리 붕새의 꿈을 품어 보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0720&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 만 리 붕새[鵬] : '
+    value: 북해에 큰 물고기가 화(化)해 새가 되어 이름은 붕(鵬)인데, 그 등[背]이 몇 천 리인지 모른다. 장차 남해로 옮겨 갈 적에 날개로 물을 3천 리나 치고 바람을 타고 구만리(九萬里)로 오른다. 《莊子》
+english:
+  title: Miscellaneous Musings on Year's End
+  author: Seol Jangsu
+  language: eng
+  text: |-
+    The raft on the Han River arrives not.
+    Yet still my thoughts linger at Gokryeong.
+    Across the broad field, sometimes I gaze afar with ease,
+    But the high tower—I grow weary of its climb.
+    Crows scatter into the falling sun,
+    While on a solitary tree cold vines entwine.
+    Suddenly I grasp the spirit of the Three Mountains,
+    And harbor the dreams of the Peng bird's ten-thousand-li flight.
+  footnotes:
+  - key: ''
+    value: 'Gokryeong (곡령): A mountain peak, likely referring to a place of longing or aspiration.'
+  - key: ''
+    value: 'The Peng bird (鵬): From the Zhuangzi, a mythical bird of immense size whose back stretches thousands of li. It rises ninety thousand li into the sky on the winds, symbolizing transcendence and boundless ambition.'

@@ -1,0 +1,53 @@
+canonical:
+  title: 無題二首
+  author: 金時習
+  language: lzh
+  text: 不須偸得未央丸境靜偏知我自閑命僕竹筒連野澗一條飛玉細珊珊十錢新買小魚船搖棹歸來水竹邊占得江湖風雨夢箇中淸興與誰傳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 無題二首
+  author: 金時習
+  language: lzh
+  text: 不須偸得未央丸。境靜偏知我自閑。命僕竹筒連野澗。一條飛玉細珊珊。十錢新買小魚船。搖棹歸來水竹邊。占得江湖風雨夢。箇中淸興與誰傳。
+korean:
+  title: 무제 이수
+  author: 김시습
+  language: kor
+  text: |-
+    구태어  미앙환을 탐해 얻은 것 없나니
+    경계가 고요하매 너무나 내가 스스로 한 줄을 알겠다
+    하인에게 명령해서 대홈통을 들개울에 이어 놓으매
+    한 줄기 날으는 옥이 가늘어 산산하다
+    10전으로 작은 고기잡이 배를 새로 사서
+    노를 저어 수죽 곁에 돌아왔노라
+    강호의 바람과 비의 꿈을 차지해 얻었나니
+    그 가운데 맑은 흥취를 누구에게 전할꼬
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0670&viewSync=OT
+  footnotes: []
+english:
+  title: Two Untitled Poems
+  author: Kim Si-seup
+  language: eng
+  text: |-
+    I need not steal the pill of eternal youth—
+    when stillness settles on the world, I find
+    I am already free, already at peace.
+    I command my servant: lay bamboo pipes
+    across the mountain stream,
+    and see how a single thread of water
+    falls like jade, delicate and shimmering.
+
+    With ten coins I bought a small fishing boat,
+    and rowing back through waters lined with bamboo,
+    I have claimed the dreams of rivers and lakes—
+    all their wind and rain made mine.
+    But how can I share this clarity of spirit
+    with another soul?
+  footnotes:
+  - key: ''
+    value: The pill of eternal youth (未央丸, mijangwhwan) refers to Taoist immortality elixirs, representing worldly desires and ambitions the poet has transcended.
+  - key: ''
+    value: The image of jade water falling through bamboo suggests the poet's refined aesthetic appreciation of simple natural phenomena.
+  - key: ''
+    value: The fishing boat and waters represent the poet's chosen life of retreat and contemplation, far from court politics and worldly ambition.

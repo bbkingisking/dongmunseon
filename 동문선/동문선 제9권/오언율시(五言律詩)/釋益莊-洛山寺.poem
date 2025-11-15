@@ -1,0 +1,58 @@
+canonical:
+  title: 洛山寺
+  author: 釋益莊
+  language: lzh
+  text: 海岸高絶處中有洛迦峯大聖住無住普門封不封明珠非我欲靑鳥是人逢但願洪波上親瞻滿月容
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 洛山寺
+  author: 釋益莊
+  language: lzh
+  text: 海岸高絶處。中有洛迦峯。大聖住無住。普門封不封。明珠非我欲。靑鳥是人逢。但願洪波上。親瞻滿月容。
+korean:
+  title: 낙산사
+  author: 석익장
+  language: kor
+  text: |-
+    석익장
+    해안 깎아지른 곳에
+    그 가운데 낙가봉 있네
+    대성은 머물지 않는 것으로 머무르고
+    보문(불법을 깨닫도록 열어 놓은 문)은 봉했네
+    명주는 내 욕망이 아니로세
+    푸른 새는 그 분이사 만나네
+    다만 원하기는 넓은 물결 위에
+    만월용을 친히 한 번 뵈옵과저
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0620&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 석익장(釋益莊) : '
+    value: 《여지승람》(권44 襄陽 佛宇)에는 이 시를 유자량(庾資諒)의 작으로 적었으나, 제6권 시인봉(是人逢)에 의하면 이 책이 옳은 듯하다.
+  - key: '[주-D002] 대성(大聖)은 …… 머무르고 : '
+    value: 낙산사 바닷가의 굴(窟)은 관음대사가 머무르는 곳이라 하는데, 불법(佛法)에는 주(住)함이 없다 하였다. 그러므로 관음보살이 머물러도 머무르는 상(相)이 없다는 뜻이다.
+  - key: '[주-D003] 명주(明珠) : '
+    value: “신라 의상(義湘)법사가 낙산사 바다 돌 위에서 27일을 정근(精勤)하다가 몸을 바다에 던지니, 동해의용이 붙들어 돌 위에 올려 놓고 대성(大聖)이 굴 안에서 팔을 뻗쳐 손수 수정(水精) 염주를 주고 용도 또한 여의주(如意珠)와 옥을 바쳤는데, 절에 보배로 간직해 전해온다.” 이 시의 작자 익장(益莊)의 〈낙산사기(洛山寺記)〉에 이렇게 썼다. 《여지승람 권44:襄陽 佛宇》
+  - key: '[주-D004] 푸른 새 : '
+    value: 세상에서 전하기를, 굴 앞에 가서 지성으로 절하고 조아리면 푸른 새가 나타난다 한다. 《여지승람》
+english:
+  title: Naksansa Temple
+  author: Seok Igjang
+  language: eng
+  text: |-
+    Where the seacoast rises sharp and sheer,
+    Stands Nakga Peak in that sacred sphere.
+    The Great Saint dwells in non-dwelling place,
+    The Gateway sealed, yet boundless grace.
+    The bright pearl springs not from my desire—
+    The blue bird comes when hearts aspire.
+    My only wish upon the rolling tide:
+    To glimpse the full moon's face at eventide.
+  footnotes:
+  - key: ''
+    value: The 'Great Saint' refers to Avalokiteshvara (Guanyin), believed to reside in a cave by the sea at Naksansa. The paradox of 'dwelling in non-dwelling' reflects Buddhist teaching that enlightened beings transcend fixed abode.
+  - key: ''
+    value: 'The ''bright pearl'' alludes to a legendary account: Master Uisang practiced austerities at Naksansa for twenty-seven days, then cast himself into the sea. A dragon caught him and placed him on a rock, while Avalokiteshvara emerged from the cave to present him with prayer beads of crystal and precious jewels.'
+  - key: ''
+    value: The 'blue bird' is said to appear to those who approach the cave with sincere devotion and prostration.
+  - key: ''
+    value: The 'full moon's face' (manjwol-yong) refers to Avalokiteshvara's manifestation, symbolizing the revelation of Buddhist truth.

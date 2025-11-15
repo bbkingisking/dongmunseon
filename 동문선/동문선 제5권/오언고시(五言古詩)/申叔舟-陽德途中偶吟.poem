@@ -1,0 +1,52 @@
+canonical:
+  title: 陽德途中偶吟
+  author: 申叔舟
+  language: lzh
+  text: 前年一齒落今年一髮白固知老不免奈此便相迫役役猶未休萬里事劒戟功業無足取虛名亦已極庶幾謝簪紱歸來保迂拙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 陽德途中偶吟
+  author: 申叔舟
+  language: lzh
+  text: 前年一齒落。今年一髮白。固知老不免。奈此便相迫。役役猶未休。萬里事劒戟。功業無足取。虛名亦已極。庶幾謝簪紱。歸來保迂拙。
+korean:
+  title: 양덕 가는 길에서 우연히 읊조리어
+  author: 신숙주
+  language: kor
+  text: |-
+    작년에는 이 한 개가 빠졌더니
+    금년에는 털 하나가 세었다
+    늙어짐은 면치 못할 줄 알지마는
+    이렇게 서로 재촉하는 것을 어찌하리
+    분주하여 오히려 쉬지 못하고
+    만 리 밖에 검극을 일삼는다
+    공업은 취할 것이 못되고
+    헛된 이름은 이미 극진하도다
+    아마도 벼슬을 사양하고
+    돌아가 오활하고 졸함을 보전하리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0080_010_0570&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem Composed by Chance on the Road to Yangdeok
+  author: Shin Suk-ju
+  language: eng
+  text: |-
+    Last year a tooth fell away,
+    This year a strand of hair turned white.
+    I know well that age cannot be escaped—
+    Yet how to bear its relentless pace?
+
+    Busy, ever busy, I find no rest,
+    Chasing ambition across ten thousand miles,
+    Wielding sword and spear for hollow deeds.
+    No true achievement do I possess,
+    And empty fame has reached its limit.
+
+    Perhaps I should renounce my office,
+    Return home and cherish my simple, unpolished self.
+  footnotes:
+  - key: ''
+    value: Yangdeok (陽德) was a region in medieval Korea, likely the location where the poet composed this reflection on aging and the vanity of worldly pursuits.
+  - key: ''
+    value: The poem's meditation on a tooth falling and hair whitening serves as a meditation on the inevitable physical decay of age, contrasted with the fruitless ambitions of official life.

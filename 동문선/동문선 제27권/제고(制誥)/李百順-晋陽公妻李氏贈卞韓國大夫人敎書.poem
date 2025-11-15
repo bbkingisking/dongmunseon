@@ -1,0 +1,34 @@
+canonical:
+  title: 晋陽公妻李氏贈卞韓國大夫人敎書
+  author: 李百順
+  language: lzh
+  text: 敎大臣成定國之功恩必及於家室賢婦受從夫之爵寵豈殊於死生汝出自慶源歸于貴閥而爾身飭閨門之懿行亦乃公有社稷之殊庸肆推策立之儀以極哀榮之典
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 晋陽公妻李氏贈卞韓國大夫人敎書
+  author: 李百順
+  language: lzh
+  text: 敎。大臣成定國之功。恩必及於家室。賢婦受從夫之爵。寵豈殊於死生。汝出自慶源。歸于貴閥。而爾身飭閨門之懿行。亦乃公有社稷之殊庸。肆推策立之儀。以極哀榮之典。
+korean:
+  title: 진양공 처 이씨 증 변한국 대부인 교서
+  author: 이백순
+  language: kor
+  text: 교(敎)하노라. 대신(大臣)이 나라를 안정시키는 공을 이루면, 국가에서 내리는 은전이 반드시 아내에게 미치는 법이고, 어진 부인이 남편에 따르는 벼슬을 받는 데는 총애하는 영광이 어찌 사생(死生)에 따라 다르겠는가. 그대는 가계가 경원에서 나왔고, 귀한 가문으로 시집왔다. 그대 몸은 규문의 아름다운 행실을 닦았고, 그대 남편은 사직에 특수한 공이 있었다. 이에 책립(策立)하는 의식을 미루어 죽은 뒤에 내리는 은전을 극진히 하노라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0300_010_0010&viewSync=OT
+  footnotes: []
+english:
+  title: Instructive Letter from Lady Lee, Wife of the Duke of Jinyang, Bestowing Honors upon the Grand Lady of Han State
+  author: Lee Baek-soon
+  language: eng
+  text: |-
+    I hereby instruct you:
+
+    When a great minister accomplishes deeds that bring stability to the realm, the sovereign's grace inevitably extends to his household. When a virtuous lady receives noble rank through her husband's service, such honor does not diminish whether in life or in death. You descend from the noble house of Gyeongwon and have married into a house of distinction. Your own person has cultivated the beautiful virtues of the inner chamber, while your husband has demonstrated exceptional merit in service to the state. Therefore, I perform the ceremony of formal appointment and bestow upon you the fullest honors and recognition, even beyond this earthly life.
+  footnotes:
+  - key: ''
+    value: This letter was written to commemorate the elevation of a woman to the rank of Grand Lady (대부인) of Han State, likely following her husband's death or retirement from service.
+  - key: ''
+    value: The reference to Gyeongwon (경원) suggests an illustrious ancestral lineage, marking the recipient as coming from an established noble family.
+  - key: ''
+    value: The phrase 'whether in life or in death' emphasizes the perpetual nature of the honors being conferred, transcending temporal limitations.

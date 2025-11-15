@@ -1,0 +1,53 @@
+canonical:
+  title: 遊橘島
+  author: 洪彦忠
+  language: lzh
+  text: 海外還爲海外人始知身世更無鄰逢迎魑魅新相識邂逅江山舊見親鞭石擬窮烏兎窟乘槎直泛斗牛津平生此興元非淺何用離騷學楚臣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 遊橘島
+  author: 洪彦忠
+  language: lzh
+  text: 海外還爲海外人。始知身世更無鄰。逢迎魑魅新相識。邂逅江山舊見親。鞭石擬窮烏兎窟。乘槎直泛斗牛津。平生此興元非淺。何用離騷學楚臣。
+korean:
+  title: 유귤도
+  author: 홍언충
+  language: kor
+  text: |-
+    바다 밖에서 다시 바다 밖의 사람이 되매
+    비로소 신세가 다시 이웃이 없음을 알겠구나
+    마중 나온 이매는 새로이 서로 알고
+    강산은 옛 친구를 본 듯이 친하네
+    돌을 채찍질해 오토의 굴을 엿보려 하고
+    떼배를 타면 바로 직녀의 나루에 뜨리
+    평생에 흥취가 원래 옅은 것이 아니거니
+    무엇하러 이소 지어 초나라 신하를 배울건가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1440_010_0430&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 마중 나온 이매(魑魅) : '
+    value: 소동파(蘇東坡)가 먼 곳으로 귀양가서 임금에게 올린 글에, “이매(魑魅 도깨비같은 귀신들)가 바다 위에 마중 나왔으니, 어찌 살아서 돌아가기를 바라리이까.”는 구절이 있다.
+  - key: '[주-D002] 오토(烏兎) : '
+    value: 진시황(秦始皇)이 동해(東海)에 놀러 와서 해 뜨는 곳을 보겠다고 돌을 채찍질하여 절로 가게 하여 다리를 놓았다 한다. 오(烏)는 해를 금오(金烏)라 하고 토(兎)는 달을 옥토(玉兎)라 한 것이다.
+  - key: '[주-D003] 이소(離騷) 지어 : '
+    value: 초(楚)나라 굴원(屈原)이 나라가 망하는 것을 차마 볼 수 없어서 임금에게 바른 말을 아뢰다가 쫓겨남을 당하여, 상강(湘江) 가를 돌아다니면서 이소(離騷)라는 애절(哀切)한 글을 짓고는 물에 몸을 던졌다.
+english:
+  title: Excursion to Orange Island
+  author: Hong Eon-jung
+  language: eng
+  text: |-
+    Beyond the sea I remain a man beyond the sea,
+    Only now do I understand that solitude knows no neighbor.
+    The demons come to greet me as if we were newly acquainted,
+    While mountains and rivers welcome me like an ancient friend.
+    I whip the stones, seeking glimpses of the sun and moon's dwelling,
+    Riding a raft, I drift directly to the stars' crossing.
+    A lifetime's wandering spirit was never meant to be shallow—
+    Why should I learn the sorrowful verses of exiled princes?
+  footnotes:
+  - key: ''
+    value: The 'demons' (魑魅) alludes to Su Dongpo's exile poem, where supernatural spirits greet the banished official on the sea—a metaphor for encountering the unknown in distant lands.
+  - key: ''
+    value: The 'sun and moon's dwelling' (烏兎窟) references the legendary emperor's pilgrimage to watch the sunrise, attempting to command nature itself through the whipping of stones.
+  - key: ''
+    value: The final couplet rejects the path of Qu Yuan, the Chu minister who composed the mournful 'Lament' (離騷) before drowning himself—instead affirming a lighter spirit of wandering.

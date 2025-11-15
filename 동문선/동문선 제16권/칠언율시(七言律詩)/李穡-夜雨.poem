@@ -1,0 +1,50 @@
+canonical:
+  title: 夜雨
+  author: 李穡
+  language: lzh
+  text: 夜雨空階滴不休病餘情興轉悠悠神仙已遠誰靑骨天地無窮我白頭頗信殘年如下瀨可憐當日欲東周祗今心跡誰能辨高卧元龍百尺樓
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 夜雨
+  author: 李穡
+  language: lzh
+  text: 夜雨空階滴不休。病餘情興轉悠悠。神仙已遠誰靑骨。天地無窮我白頭。頗信殘年如下瀨。可憐當日欲東周。祗今心跡誰能辨。高卧元龍百尺樓。
+korean:
+  title: 야우
+  author: 이색
+  language: kor
+  text: |-
+    밤비가 빈 뜰에 주룩주룩 내리는데
+    앓고 난 뒤 정흥이 더욱 무료해
+    신선이 어디 갔나 누구 뼈가 푸르더뇨
+    천지가 무궁한데 내 머리는 희었네
+    정녕 늘그막의 세월은 여울로 내려가는 배
+    가엾어라 당시에 동주를 만들려던 마음
+    지금에 이 마음을 뉘라서 알아주리
+    원룡의 백 척 다락에 높이 누워 있노라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0750&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 당시에 …… 마음 : '
+    value: 공자(孔子)가 말하기를, “만일 나를 쓰는 자가 있다면 나는 동방의 주나라[東周]를 만들겠다.” 하였다. 《論語》
+  - key: '[주-D002] 원룡(元龍) : '
+    value: 후한(後漢)  진등(陳登)의 자(字). 세상을 붙들고 백성을 구할 큰 뜻이 있었다. 허사(許汜)가 유비(劉備)와 천하의 인물을 논할 때 사가 말하기를, “전에 하비(下邳)를 지나며 진원룡을 찾아가니 그가 주객(主客)의 예가 없이 저는 큰 침상에 올라가 자고 객을 아랫 상에 눕히더군.[無主客禮 自上大狀似 使客以下床]” 하니, 비가 말하기를, “자네가 국사(國士)의 이름을 가지고 나라를 구함에는 유의치 않고, 밭을 구(求)하고 집이나 물으니 들을 가치가 없는지라 마땅히 백척 다락 위에 눕고 그대를 땅에 눕히리니, 어찌 다만 높은 평상, 낮은 평상 사이 뿐일 것이냐.” 하였다.
+english:
+  title: Night Rain
+  author: Lee Saeuk
+  language: eng
+  text: |-
+    Night rain drips endlessly on the empty courtyard,
+    And after my illness, my spirit drifts in endless melancholy.
+    The immortals have gone far—whose bones turn green?
+    While heaven and earth stretch infinite, my head has turned white.
+
+    True, the years of age flow like rapids downstream,
+    Pitiful, the ambition I once harbored to build a new order.
+    But who now can fathom this heart of mine?
+    I lie high in my hundred-foot tower, like Yuan Long in his lofty bed.
+  footnotes:
+  - key: ''
+    value: Yuan Long (陳登) was a man of great vision in the Eastern Han who aspired to save the world. When Liu Bei questioned him about his worthiness, Yuan Long received him while lying on his high bed, relegating his guest to a lower one. Liu Bei rebuked him, saying that if Yuan Long truly deserved the reputation of a 'man of talent,' he would better serve the nation than resort to such arrogance.
+  - key: ''
+    value: The reference to building 'a new order' alludes to Confucius's statement that if someone were to employ him, he would establish an Eastern Zhou—representing the poet's youthful ambitions for statecraft and reform.

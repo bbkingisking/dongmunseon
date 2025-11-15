@@ -1,0 +1,57 @@
+canonical:
+  title: 慧照國師眞贊
+  author: 李資玄
+  language: lzh
+  text: 承聞國老坐滅禪龕雲歸碧嶠月落澄潭御筆讚兮揄揚實美御香焚兮芬馥伽藍滿城士女兮僉來瞻敬目擊袖儀兮稽首和南
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 慧照國師眞贊
+  author: 李資玄
+  language: lzh
+  text: 承聞國老。坐滅禪龕。雲歸碧嶠。月落澄潭。御筆讚兮揄揚實美。御香焚兮芬馥伽藍。滿城士女兮僉來瞻敬。目擊袖儀兮稽首和南。
+korean:
+  title: 혜조국사진 찬
+  author: 이자현
+  language: kor
+  text: |-
+    소문을 듣자하니 국사님은
+    선감에 앉은 채 입적하였다고
+    구름은 푸른 뫼로 돌아가고
+    달은 맑은 못에 잠겼구려
+    어필의 찬은
+    추켜올려 실로 아름답고
+    어향을 피우니
+    가람이 향기롭네
+    온 서울 남녀들이
+    모두 와서 바라보고 공경하네
+    수의를 친히 보고
+    머리를 조아리며 절을 하네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0530_030_0040&viewSync=OT
+  footnotes: []
+english:
+  title: Eulogy for National Preceptor Huejjo
+  author: Lee Ja-hyeon
+  language: eng
+  text: |-
+    I hear tell of the National Preceptor—
+    seated in his meditation chamber, he passed into nirvana.
+    Clouds return to the blue peaks,
+    the moon sinks into the clear pond.
+
+    The royal brush writes his eulogy,
+    raising up what is truly beautiful.
+    Royal incense burns,
+    filling the temple with fragrance.
+
+    All the men and women of the capital
+    come streaming forth to gaze and bow.
+    Stealing glimpses of his robes,
+    they clasp their hands and offer homage.
+  footnotes:
+  - key: ''
+    value: The meditation chamber (禪龕) represents the place of enlightenment; his passing here signifies death achieved in perfect spiritual composure.
+  - key: ''
+    value: The imagery of clouds and moon suggests the dispersal of his earthly form and the clarity of enlightenment left behind.
+  - key: ''
+    value: Royal involvement in the eulogy and incense offerings indicates the preceptor's high status and influence in the court.

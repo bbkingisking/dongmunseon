@@ -1,0 +1,72 @@
+canonical:
+  title: 讀韓信傳
+  author: 李仁老
+  language: lzh
+  text: 王孫朝飢依漂母國士無雙心自許不將一劒輕少年還把千金購降虜當時破齊足自王可憐與噲終爲伍從來鳥盡弓必藏不用追思蒯生語
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 讀韓信傳
+  author: 李仁老
+  language: lzh
+  text: 王孫朝飢依漂母。國士無雙心自許。不將一劒輕少年。還把千金購降虜。當時破齊足自王。可憐與噲終爲伍。從來鳥盡弓必藏。不用追思蒯生語。
+korean:
+  title: 독 한신전
+  author: 이인로
+  language: kor
+  text: |-
+    왕손이 아침에 굶주려 표모에게 의지하고
+    국사로 짝이 없다고 마음으로 인정하였다
+    한 칼로써 소년들의 모욕을 보복하지 않더니
+    도리어 천 금을 써서 항복한 포로를 찾았다
+    그때에 제나라를 부수어 스스로 왕이 되었더니
+    가여워라 마침내 번쾌와 한 무리가 되었구나
+    원래 새가 없어지면 활은 감추어지나니
+    괴생의 말을 듣지 않다가 후회하였다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0100&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 왕손(王孫)이 …… 의지하고 : '
+    value: 한신(韓信)이 처음에 집이 가난하여 굶고 성(城) 밑에서 낚시질을 하고 있었는데, 빨래하는 여인[漂母]이 한신에게 여러날 밥을 주므로 감사하여, “뒤에 이 은혜를 중하게 갚겠소.” 하니, 표모(漂母)가 말하기를, “왕손(王孫 존칭(尊稱))의 굶는 것을 가엾게 여긴 것이지 어찌 후일을 바라겠소.” 하였다.
+  - key: '[주-D002] 국사(國士)로 …… 인정하였다 : '
+    value: 소하(蕭何)가 한왕(漢王)에게 한신(韓信)을 천거하되, “한신은 국사(國士)라 견줄 만한 짝이 없습니다.” 하였다. 《史記 券92 淮陰侯傳》
+  - key: '[주-D003] 한 칼로써 …… 않더니 : '
+    value: 한신이 처음 천하게 살 때에 회음(淮陰) 시중(市中)에 갔더니 백정[屠中] 소년들이 한신을 모욕하여 가랑이를 벌리고 서서, “한신이 네가 죽음으로 결단하려거든 너의 찬 칼로 나를 찌르고 그렇지 못하거던 나의 가랑이 밑으로 기어 나가거라.” 하니, 한신이 적이 보다가 가랑이 밑으로 기어 나가니 시중(市中)의 사람들이 모두 한신을 비겁하다고 웃었다. 그 뒤에 한신이 초왕(楚王)이 된 뒤에 그 소년들을 불러서 “그 때에 한 칼로 죽이기는 어렵지 않았으나 죽이는 것이 이름이 없는 것이므로 참았다.” 하였다.
+  - key: '[주-D004] 도리어 …… 찾았다 : '
+    value: 한신이 한(漢)의 대장이 되어 조(趙)나라를 칠 때에 조(趙)의 광무군(廣武君) 이좌거(李左車)가 대장 진여(陳餘)에게 한신을 파(破)할 기이한 계책을 말하니 진여가 듣지 않았다. 한신이 간첩(間諜)을 시켜 정탐하여 이좌거의 계책이 쓰여지지 않음을 알고는 조(趙)나라를 공격하여 부수었다. 군중(軍中)에 영을 내려, “광무군을 생금(生擒)하여 오는 자가 있으면 천금(千金)을 주겠다.” 하여 광무군을 찾아서는 그에게 절하고 계책을 물었다.
+  - key: '[주-D005] 그때에 …… 되었더니 : '
+    value: 한신이 제(齊)를 격파하고는 한왕(漢王)에게 청하여 제왕(齊王)이 되었다.
+  - key: '[주-D006] 번쾌(樊噲)와 …… 되었구나 : '
+    value: 한신이 공을 이루어 초왕(楚王)으로 봉함을 받은 뒤에 반역한다고 무고(誣告)하는 자가 있으므로 한고제(漢高帝)가 한신을 속여서 생포(生捕)하여 회음후(淮陰侯)로 강등시켰다. 하루는 번쾌(樊噲)의 집에 갔다 오다가 문에 나와서 탄식하기를 “내가 번쾌의 무리와 동렬(同列)이 된단 말인가.” 하였다.
+  - key: '[주-D007] 원래 …… 감추어지나니 : '
+    value: 한신이 한고제(漢高帝)에게 속아서 잡힐 적에, “높은 새를 다 잡고 나면 좋은 활이 감추어지고 토끼를 다잡고 나면 사냥개를 삶아 먹는다 하더니, 과연 그렇구나 천하가 평정되고나니 내가 죽게 되는구나.” 하였다.
+  - key: '[주-D008] 괴생(蒯生)의 …… 후회하였다 : '
+    value: 한신이 제왕(齊王)으로 있을 적에 변사(辯士) 괴통(蒯通)이 한신을 달래기를, “장군이 한왕(漢王)을 위하여 항우(項羽)를 공격할 것이 아니라 중립을 지켜서 천하를 삼분(三分)하시오.” 하였으나, 한신이 한왕의 은혜를 배반하지 못하여 그 말을 듣지 않았다가 뒤에 목베 죽음을 당하면서, “괴통의 계책을 쓰지 않은 것이 후회된다.” 하였다.
+english:
+  title: Reading the Biography of Han Xin
+  author: Lee In-ro
+  language: eng
+  text: |-
+    A noble once starved and relied upon a washerwoman's kindness,
+    A peerless talent, recognized by those who saw his worth.
+    He did not draw his blade to answer boyish insults,
+    Instead spent a thousand pieces of gold to seek out a wise captive.
+
+    When he shattered Qi and claimed a kingdom for himself,
+    Alas, he found himself ranked among the common rabble.
+    Since ancient times, when birds are gone the bow is hidden away—
+    He should have heeded Kuai Sheng's words, but learned too late.
+  footnotes:
+  - key: ''
+    value: The 'washerwoman's kindness' refers to the woman who fed Han Xin during his poverty, asking nothing in return. This act of compassion was repaid by Han Xin with gold when he rose to power.
+  - key: ''
+    value: The 'peerless talent' alludes to Xiao He's endorsement of Han Xin to the Han King, declaring him without equal among military strategists.
+  - key: ''
+    value: The refusal to draw his blade refers to Han Xin's humiliation in the marketplace when he chose to crawl beneath a bully's legs rather than kill him—an act he later explained as refusing to gain fame through murder.
+  - key: ''
+    value: The 'thousand pieces of gold' and 'wise captive' refers to Han Xin's respectful treatment of Li Zuoche, whose strategic advice he sought after capturing him during the conquest of Zhao.
+  - key: ''
+    value: After achieving great victories, Han Xin was eventually betrayed and degraded from King of Chu to Marquis of Huaiyin, prompting his bitter reflection that even common soldiers of rank seemed his superiors.
+  - key: ''
+    value: The metaphor of the hidden bow reflects the tragic fate of useful generals who are cast aside once their services are no longer needed—a timeless tragedy of those who serve.
+  - key: ''
+    value: Kuai Sheng (Kuai Tong) was a persuasive strategist who advised Han Xin to declare independence and divide the empire into three powers. Han Xin refused, remaining loyal to the Han King, but faced execution regretting his choice not to heed this counsel.

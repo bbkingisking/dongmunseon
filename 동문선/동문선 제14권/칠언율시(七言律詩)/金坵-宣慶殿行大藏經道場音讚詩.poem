@@ -1,0 +1,71 @@
+canonical:
+  title: 宣慶殿行大藏經道場音讚詩
+  author: 金坵
+  language: lzh
+  text: 一藏全勝百萬師故應魔外不容窺揀來龍象渾無畏掃去豺狼更莫疑晝講杵頭舂玉屑夜談梭腹吐金絲願王已輦千祥至社稷升平自可知一會莊嚴是鷲峯百爐香動瑞煙濃講唇走玉飜三藏譚舌飛珠演五宗端信覺皇分着力定敎兵騎不留蹤龍天亦感宸誠切導洒眞泠靧國容
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 宣慶殿行大藏經道場音讚詩
+  author: 金坵
+  language: lzh
+  text: |
+    一藏全勝百萬師。故應魔外不容窺。揀來龍象渾無畏。掃去豺狼更莫疑。晝講杵頭舂玉屑。夜談梭腹吐金絲。願王已輦千祥至。社稷升平自可知。
+    一會莊嚴是鷲峯。百爐香動瑞煙濃。講唇走玉飜三藏。譚舌飛珠演五宗。端信覺皇分着力。定敎兵騎不留蹤。龍天亦感宸誠切。導洒眞泠靧國容。
+korean:
+  title: 선경전 행대장경도량 음찬시
+  author: 김구
+  language: kor
+  text: |-
+    한 장이 전혀 백만 군사보다 나으니
+    마군ㆍ외도가 제 감히 못 엿보네
+    용상들을 골라 왔으니 두려움 없어
+    의심 마소 시랑을 휩쓸어 낼 줄을
+    낮 강설은 공이 머리로 옥가루를 찧고
+    밤 경론은 북 속에서 근심을 토하듯
+    원왕이 천 가지 상서를 몰고 오니
+    어버이 나라 태평을 스스로 알리로다
+
+    장엄한 이 모임이 바로 취봉이 아닌가
+    일백 화로에 향 오르고 서연이 무르녹네
+    설법은 옥 굴리듯 삼장(불전(佛典)의 경(經)ㆍ율(律)ㆍ논(論)이다)을 꿰고
+    강설은 구슬 날리듯 오종을 연설하네
+    부처님의 내리시는 힘을 믿으면
+    병기가 저절로 자취를 감추리
+    우리 임금 정성을 용과 하늘이 느끼어서
+    서늘한 비를 뿌려 나라의 얼굴 씻어주네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0600&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 두려움 없어 :'
+    value: 불교(佛敎)의 설법(說法)에 두려움 없는 네 가지[四無畏]가 있으니, 모든 보살(菩薩)들이 모든 것을 잘 기억하는 것, 모든 사람의 마음과 자질을 다 알고 있는 것, 문답(問答)을 잘하는 것, 모든 사람의 의심되는 것을 해결하여 주는 것이다.
+  - key: '주-D002] 옥가루를 찧고 :'
+    value: 옥가루를 찧는다는 것은 설법이 옥가루처럼 출출 쏟아져 나오는 것을 비유한 것이다.
+  - key: '[주-D003] 오종(五宗) :'
+    value: 불교 대승(大乘)의 오종(五宗)은 천태종(天台宗)ㆍ화엄종(華嚴宗)ㆍ법상종(法相宗)ㆍ삼론종(三論宗)ㆍ율종(律宗) 등이다.
+english:
+  title: A Poem of Musical Praise for the Grand Scripture Recitation Ceremony at the Xuanqing Hall
+  author: Kim Ku
+  language: eng
+  text: |-
+    One complete scripture surpasses a million soldiers in strength,
+    So demons and false doctrines dare not cast their gaze upon it.
+    The dragons and elephants gathered here stand without fear,
+    The jackals and wolves swept away—doubt dissolves.
+    By day, the lectures rain down like jade dust from the pestle,
+    By night, the teachings flow like golden threads from the shuttle.
+    May the king bring forth a thousand auspicious signs,
+    And peace reign over the realm for all to witness.
+
+    This solemn gathering—is it not the assembly on Vulture Peak itself?
+    From hundred censers, fragrant smoke rises in verdant haze.
+    The dharma flows like rolling pearls through the Three Baskets,
+    The discourse cascades like jewels expounding the Five Schools.
+    Faith in the Buddha's power working through our sovereign's resolve,
+    And weapons vanish, leaving not a trace.
+    Dragons and heaven sense the sincerity of the imperial heart,
+    And send down cool rains to wash the nation's face anew.
+  footnotes:
+  - key: ''
+    value: 'Dragons and elephants: In Buddhist terminology, these represent bodhisattvas and enlightened beings of great spiritual power.'
+  - key: ''
+    value: 'Pestle and shuttle: Poetic metaphors for the ceaseless flow of dharmic teaching, as refined and precious as jade dust and golden threads.'

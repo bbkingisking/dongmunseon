@@ -1,0 +1,38 @@
+canonical:
+  title: 同前呈馬場使臣狀
+  author: 李奎報
+  language: lzh
+  text: 天使之臨孰非傾仰儒仙所莅倍切欣歡其爲巷歌悉若家曉恭惟某官江河器度錦繡肝膓縱轡通衢早奮凌雲之氣乘軒列郡廵觀逐日之蹄勢同揀選於人材行必品題於天部某等分憂小邑待罪下風竚瞻玉樹之光祗奉錦牋之問
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 同前呈馬場使臣狀
+  author: 李奎報
+  language: lzh
+  text: 天使之臨。孰非傾仰。儒仙所莅。倍切欣歡。其爲巷歌。悉若家曉。恭惟某官。江河器度。錦繡肝膓。縱轡通衢。早奮凌雲之氣。乘軒列郡。廵觀逐日之蹄。勢同揀選於人材。行必品題於天部。某等分憂小邑。待罪下風。竚瞻玉樹之光。祗奉錦牋之問。
+korean:
+  title: 동전 정 마장사신 장
+  author: 이규보
+  language: kor
+  text: 천사(天使)의 행차인데 어느 누가 경도하지 않으리까. 유선(儒仙)이 다다른 곳에 더욱 환성이 간절할 것이며, 골목마다 노래를 부르게 되니, 이집 저집 찾아 깨우친 것 같습니다. 삼가 생각하건대, 모관(某官)은 하해(河海) 같은 도량이요, 금수(錦繡) 같은 간장(肝腸)으로, 한길에 말달리듯 진작 구름을 솟구칠 기운을 떨쳤고, 수레로 열읍(列邑)을 돌며 해[日]를 쫓는 준마(駿馬)를 구경하니, 형세가 인재를 선발하는 것 같음에 장차 천부(天部)에서 등급이 정해질 것입니다. 모(某) 등은 작은 고을 수령으로서 장차 존관(尊官)의 처분을 기다리며 옥수(玉樹)의 빛을 뵙게 되었으니 삼가 금전(錦牋)의 문안을 드리나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0490&viewSync=OT
+  footnotes: []
+english:
+  title: Memorial to the Celestial Emissary, Inspector of the Royal Stables
+  author: Lee Kyou-bo
+  language: eng
+  text: |-
+    When the Celestial Emissary arrives, who would not bow in reverence? Where the Sage-Immortal treads, joy swells ever deeper—through every street and alley, songs arise as if each household had received enlightenment.
+
+    I humbly reflect upon Your Excellency: your wisdom flows vast as rivers and seas, your heart shines bright as damask silk. Riding forth upon the thoroughfare, you have long stirred the winds that scale the clouds. Touring the provinces in your carriage, you pursue each day like a thoroughbred racing against the sun. Your influence seems to select the worthy among men, and surely Heaven's register shall record your merit.
+
+    We humble magistrates of small counties wait in deference below, hoping to glimpse the radiance of jade and virtue, and respectfully offer this modest note of greeting.
+  footnotes:
+  - key: ''
+    value: 天使 (Celestial Emissary) likely refers to an imperial envoy or high official inspector.
+  - key: ''
+    value: 儒仙 (Sage-Immortal) combines Confucian scholarship with transcendent virtue, a honorific for the distinguished official being praised.
+  - key: ''
+    value: 江河器度 and 錦繡肝膓 are conventional poetic metaphors for expansive wisdom and sincere virtue.
+  - key: ''
+    value: This is a formal memorial (狀) written in the elaborate style of court petitions, employing parallelism and allusion typical of official Korean-Chinese prose.

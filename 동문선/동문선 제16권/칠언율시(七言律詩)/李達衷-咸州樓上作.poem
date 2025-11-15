@@ -1,0 +1,53 @@
+canonical:
+  title: 咸州樓上作
+  author: 李達衷
+  language: lzh
+  text: 我家劣能唯簡篇匡時節鉞非靑氈文明日久略戎事誤恩山重羞蚊肩禪僧飛鷹已可笑盲人瞎馬尤堪憐空餘耿耿寸心赤籌邊樓高仰前賢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 咸州樓上作
+  author: 李達衷
+  language: lzh
+  text: 我家劣能唯簡篇。匡時節鉞非靑氈。文明日久略戎事。誤恩山重羞蚊肩。禪僧飛鷹已可笑。盲人瞎馬尤堪憐。空餘耿耿寸心赤。籌邊樓高仰前賢。
+korean:
+  title: 함주루상 작
+  author: 이달충
+  language: kor
+  text: |-
+    우리 가문의 어지간히 능한 것은 오직 글 뿐이라
+    무로 시국을 평정함은 청전이 아니로세
+    문명을 오래 숭상하여 무비가 소홀해졌는데
+    나라 은혜 산같이 무거우니 모기 어깨 부끄러워라
+    선승이 매를 날림은 이미 우스운 일
+    장님이 눈 먼 말을 탔으니 더욱 불쌍해라
+    오직 남은 건 한 조각 붉은 마음
+    주변루 높은 데 올라 전현들을 우러르네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0310&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 청전(靑氈) : '
+    value: 전래물(傳來物), 유업(遺業). 진(晋) 왕헌지(王獻之) 고사. 그가 도둑에게 한 말, “다른 것은 다 가져가더라도 푸른 전[靑氈]은 우리 집 옛 물건이니 특별히 두어두게.” 하였다.
+  - key: '[주-D002] 선승(禪僧)이 매(鷹)를 날림 : '
+    value: 선승(禪僧)이 매(鷹)를 날리는 것은 옛 사람이 열거(列擧)한 살풍경(殺風景) 몇 가지 중에 하나로 친다.
+  - key: '[주-D003] 장님이 눈 먼 말[馬]을 탔으니 : '
+    value: 진(晋) 환현(桓玄)이 은중감(殷仲堪)과 더불어 위태로운 말 내기[危語]를 할 때 자리에 있던 한 참군(參軍)이 말하되, “장님이 눈 먼 말을 타고 밤중에 깊은 연못에 다다른 것.”이라 하였다.
+english:
+  title: Composed on the Tower at Hamju
+  author: Lee Dal-choong
+  language: eng
+  text: |-
+    My family's sole talent lies in letters and words—
+    Not in wielding the brush of state to quell the times.
+    Long have we honored the arts of civilization,
+    Forgetful of martial vigor; ashamed before Heaven's weight.
+    A monk releasing hawks in flight—a jest already worn,
+    A blind man astride a blind horse—how much more pitiable.
+    Yet remains this one scarlet heart, undiminished and true,
+    Climbing high this tower at the border's edge to revere the ancients.
+  footnotes:
+  - key: ''
+    value: 'The reference to the ''blue felt'' alludes to the ancient noble Wang Xianzi of the Jin dynasty, who told a thief: ''Take what you will, but leave the blue felt—it is our family''s heirloom.'' This evokes the tension between preserving inherited virtue and losing martial capability.'
+  - key: ''
+    value: A monk flying hawks was considered by ancients as quintessentially lacking in refinement and grace—an example of what ruins the mood.
+  - key: ''
+    value: The image of a blind man on a blind horse, from a dangerous jest recorded in Jin history, represents the peril of leading when both wisdom and capability are compromised.

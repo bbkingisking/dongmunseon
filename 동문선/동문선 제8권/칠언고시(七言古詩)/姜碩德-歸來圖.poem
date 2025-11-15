@@ -1,0 +1,72 @@
+canonical:
+  title: 歸來圖
+  author: 姜碩德
+  language: lzh
+  text: 先生初非避俗翁誰知千載之英豪偶尒隨雲出林壑鄕里小兒非吾曹歸來三徑任蕪沒恰有琴樽供笑傲環堵蕭然臥北䆫羲皇上人興陶陶眼中忽見山河移書晉甲子寸心勞豈但高義凌天衢忠憤直與秋雲俱何如處士節獨高當時廊廟多俊髦余今撫圖重嘆息淸風颯颯吹鬢毛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 歸來圖
+  author: 姜碩德
+  language: lzh
+  text: 先生初非避俗翁。誰知千載之英豪。偶尒隨雲出林壑。鄕里小兒非吾曹。歸來三徑任蕪沒。恰有琴樽供笑傲。環堵蕭然臥北䆫。羲皇上人興陶陶。眼中忽見山河移。書晉甲子寸心勞。豈但高義凌天衢。忠憤直與秋雲俱。何如處士節獨高。當時廊廟多俊髦。余今撫圖重嘆息。淸風颯颯吹鬢毛。
+korean:
+  title: 귀래도
+  author: 강석덕
+  language: kor
+  text: |-
+    선생이 원래 세속 피하는 늙은이가 아니어니
+    뉘라서 알리, 천재의 호걸임을
+    우연히 구름 따라 산에서 나갔더니
+    향리의 어린애(독우(督郵))는 나의 무리가 아니었네
+    돌아오니, 세 길은 다 거칠어졌는데
+    마침 거문고와 술 있어 웃고 즐기누나
+    빈 듯한 집안 북창에 누우니
+    희황상인인 듯, 흥이 도도하구나
+    눈앞을 문득 보니 옮겨지는 산하
+    진의 갑자를 쓰는 마음이 괴로웠네
+    높은 의리 하늘에까지 닿았을 뿐인가
+    그 충분 바로 가을 바람에 비길 만하네
+    이 처사, 이 절개, 우뚝한 사람뿐
+    당시 조정에 호준들도 많았건만
+    내 이제 그림 보고 거듭 탄식하노니
+    청풍이 와스스 불어 귀밑머리를 날리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0510&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 우연히 …… 나갔더니 : '
+    value: 〈귀거래사(歸去來辭)〉에, “구름은 무심히 산에서 나오고, 새는 날기에 지쳐서 돌아온다[雲無心而出岫 鳥倦飛而知還].” 하였는데, 자기가 구름처럼 무심히 나갔다가 지친 새처럼 돌아온 데 비유한 것이라 한다.
+  - key: '[주-D002] 희황상인(羲皇時代) : '
+    value: 도연명이 5월 더울 때에 북창(北窓)에 누워서 맑은 바람이 불어 들면 스스로 태고의 희황 시대(羲皇上人) 이상의 걱정 없고 편안한 사람이라 하였다.
+  - key: '[주-D003] 진(晉)의 …… 쓰는 : '
+    value: 도연명(陶淵明)이 시(詩)를 지은 연(年)ㆍ월(月)을 기록하는데, 진(晉)나라 망하기 전에는 연호(年號)를 썼고, 망하고 송(宋)나라가 된 후에는 갑자만 썼다 한다.
+english:
+  title: Return Home
+  author: Kang Seok-deok
+  language: eng
+  text: |-
+    The master was never one who fled the world as a recluse,
+    Yet who knew he harbored the valor of ages?
+    Following clouds, he wandered from mountain gorges—
+    The petty officials of his village were not his kind.
+
+    Returning home, the three garden paths lay overgrown,
+    Yet how fortunate: lute and wine remained for laughter and joy.
+    In his bare dwelling by the northern window he reclines,
+    Spirit soaring like the ancients of old, carefree and light.
+
+    Before his eyes, suddenly, mountains and rivers shift,
+    And the burden of recording time weighs upon his heart.
+    Not merely does his noble purpose reach heaven's vault—
+    His righteous passion rivals the autumn wind itself.
+
+    Such a man of principle, standing alone and resolute!
+    Yet in those times, the court was filled with many talents too.
+    Today, gazing upon this portrait, I sigh again,
+    As the pure wind whispers softly through my graying hair.
+  footnotes:
+  - key: ''
+    value: The image of clouds and returning refers to Tao Yuanming's 'Return Home' prose poem, where clouds drift mindlessly from mountains and weary birds return—a metaphor for the poet's own journey and homecoming.
+  - key: ''
+    value: The northern window and ancient peace evoke Tao Yuanming's famous moment of contentment, when sitting by the north window with cool breezes, he felt himself living in the ageless simplicity of primordial times.
+  - key: ''
+    value: 'The record of dates alludes to Tao Yuanming''s dating of his poems: before Jin dynasty fell, official reign titles were used; afterward, only cyclical characters remained—a poignant marker of historical transition and loss.'

@@ -1,0 +1,60 @@
+canonical:
+  title: 半月城
+  author: 李仁老
+  language: lzh
+  text: 孤城微彎像半月荊棘半掩猩㹳穴鵠嶺靑松氣欝葱雞林黃葉秋蕭瑟自從大阿倒柄後中原鹿死何人手江女空傳玉樹花春風幾拂金堤柳
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 半月城
+  author: 李仁老
+  language: lzh
+  text: 孤城微彎像半月。荊棘半掩猩㹳穴。鵠嶺靑松氣欝葱。雞林黃葉秋蕭瑟。自從大阿倒柄後。中原鹿死何人手。江女空傳玉樹花。春風幾拂金堤柳。
+korean:
+  title: 반월성
+  author: 이인로
+  language: kor
+  text: |-
+    외로운 성 약간 굽어 반달을 닮았는데
+    가시덤불은 다람쥐 굴을 반쯤 가리웠구나
+    곡령의 푸른 솔은 항상 울창한데
+    계림의 누른 잎은 가을엔 쓸쓸하다
+    태아의 자루를 거꾸로 잡은 뒤에
+    중원의 사슴은 누구 손에 죽었던고
+    강가의 여자들은 속절없이 옥수화를 전하는데
+    봄바람은 몇 번이나 금제의 버들을 떨쳤던가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 곡령(鵠嶺)의 …… 쓸쓸하다 : '
+    value: 신라 말기(末期)에 최치원(崔致遠)이 고려 태조 왕건(王建)에게 글을 보냈는데, “곡령의 푸른 솔이요, 계림의 누른 잎이라.” 하는 문구가 있었다. 이것은 “송도(松都)는 일어나고 경주(慶州)는 망하리라.”는 뜻이다.
+  - key: '[주-D002] 태아(太阿)의 …… 잡은 : '
+    value: 태아는 보검(寶劍)의 이름으로 한(漢)나라 유향(劉向)의 상소(上疏)에, “태아를 거꾸로 쥐고서 칼 자루를 남의 손에 쥐어 주었다.” 하는 말이 있는데, 그것은 임금이 정권(政權)을 남에게 맡긴 데 비유한 말이다.
+  - key: '[주-D003] 중원(中原)의 …… 죽었던고 : '
+    value: 진(秦)나라 간신(姦臣)  조고(趙高)가 임금에게 사슴을 몰고 와서 말[馬]이라 속였다. 그 뒤에 변사(辯士) 괴철(蒯徹)이, “진나라가 사슴을 놓쳤으매 여러 사람들이 쫓는데 발이 날랜 자가 먼저 얻는다.” 하였다. 이것은 조고(趙高)의 사슴에 관한 이야기를 인용하여 진나라가 나라를 잃은 데에 비유하였다.
+  - key: '[주-D004] 강가의 …… 전하는데 : '
+    value: 진(陳)나라가 망할 때에 후주(後主)가 밤낮으로 술과 여색에 미혹하여 옥수후정화(玉樹後庭花)라는 음란한 곡조를 불렀다. 당나라 시인 두목지(杜牧之)가 그의 고도(古都)를 지나다가, “장사치 계집들은 나라 망한 한(恨)도 모르고 강가에서 아직도 정화를 부른다[尙女不知亡國恨 隔江猶唱後庭花].”라는 시를 지었다.
+  - key: '[주-D005] 봄바람은 …… 떨쳤던가 : '
+    value: 수양제(隋煬帝)가 변하(汴河)에 행궁(行宮)을 짓고 강 언덕에 버들을 많이 심어서 음란하게 놀아, 나라가 망한 뒤에 버들만이 남아 있었다.
+english:
+  title: The Crescent Fortress
+  author: Lee In-no
+  language: eng
+  text: |
+    A solitary fortress bends in shadow, curved like a crescent moon.
+    Thorn-tangled brambles half conceal the burrows of wild beasts.
+    At곡령's ridge, green pines stand ever verdant and thick—
+    Yet Gyerim's yellow leaves turn desolate when autumn comes.
+
+    Since the great sword was reversed and its hilt surrendered,
+    Who seized the deer of the Middle Kingdom with their hand?
+    The river's daughters still pass down the jade-tree's flower—
+    How many times has the spring wind stirred the golden dike's willows?
+  footnotes:
+  - key: ''
+    value: The 'green pines' and 'yellow leaves' reference a prophetic verse foretelling Songdo's rise and Gyeongju's fall—symbolizing the transition from Silla to Goryeo.
+  - key: ''
+    value: The 'great sword reversed' alludes to loss of power, when the ruler yields authority to another's hands.
+  - key: ''
+    value: The 'deer of the Middle Kingdom' evokes the fall of dynasties, borrowed from the tale of Zhao Gao deceiving his emperor—a metaphor for the nation's collapse.
+  - key: ''
+    value: The 'jade-tree's flower' and 'golden dike's willows' reference the songs of fallen kingdoms, hinting at pleasures indulged as empires crumbled.

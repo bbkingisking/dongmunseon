@@ -1,0 +1,49 @@
+canonical:
+  title: 書案銘
+  author: 金馹孫
+  language: lzh
+  text: 丌而閣經也史也賢業與聖功也憑而夢羲皇也周公也木其質不文予欲爾同也靜其用無方朝夕對此翁也
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 書案銘
+  author: 金馹孫
+  language: lzh
+  text: 丌而閣。經也史也。賢業與聖功也。憑而夢。羲皇也周公也。木其質不文。予欲爾同也。靜其用無方。朝夕對此翁也。
+korean:
+  title: 서안명
+  author: 김일손
+  language: kor
+  text: |-
+    가득히 쌓아 올린 것은
+    경사와 현업과 성공이요
+    기대고 꿈꾸는 것은
+    희황과 주공이로세
+    그 바탕이 나무라 화려하지 않으니
+    나는 너와 같이 하련다
+    고요히 있지만 용도는 제한이 없어
+    아침 저녁으로 이 늙은일 대하노나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1470_040_0080&viewSync=OT
+  footnotes: []
+english:
+  title: Inscription on a Desk
+  author: Kim Il-son
+  language: eng
+  text: |-
+    Stacked high upon you:
+    the classics and histories,
+    the deeds of the wise and the works of the sage.
+
+    Leaning against you, I dream:
+    of Fu Xi, of the Duke of Zhou.
+
+    Your substance is wood, unadorned—
+    I wish to be like you.
+    Quiet you stand, yet boundless your purpose.
+    Morning and evening, I face you,
+    this old man and his weathered companion.
+  footnotes:
+  - key: ''
+    value: Fu Xi (希皇) and the Duke of Zhou (周公) represent idealized models of virtuous rulership in Chinese tradition—the legendary sage-king and the exemplary minister-prince respectively.
+  - key: ''
+    value: This inscription celebrates the desk as both repository of wisdom through texts and mirror for the author's own aspiration toward humble integrity.

@@ -1,0 +1,41 @@
+canonical:
+  title: 傷春二首
+  author: 成俔
+  language: lzh
+  text: 緋桃縞李一時新萬室涵烟不覺貧可笑春光非我有等閑分屬少年人狼籍群紅雜雨零連階草色入簾靑病中尙有探春意折得繁技揷小缾
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 傷春二首
+  author: 成俔
+  language: lzh
+  text: 緋桃縞李一時新。萬室涵烟不覺貧。可笑春光非我有。等閑分屬少年人。狼籍群紅雜雨零。連階草色入簾靑。病中尙有探春意。折得繁技揷小缾。
+korean:
+  title: 상춘 이수
+  author: 성현
+  language: kor
+  text: |-
+    붉은 복숭아꽃과 흰 오얏꽃이 한꺼번에 새롭고
+    집집마다 연기에 잠겨 가난을 깨닫지 못하겠네
+    우스워라 봄빛이 내 소유가 아닌 것을
+    아무 마음 없이 젊은이들에게 나누어 붙여 준다
+    낭자한 온갖 꽃은 비에 섞여 떨어지는데
+    뜰에 잇닿은 풀빛은 발에 들어와 푸르다
+    앓으면서도 오히려 봄을 찾는 뜻이 있어
+    무성한 가지를 꺾어 작은 병에 꽂아 본다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1450_020_0820&viewSync=OT
+  footnotes: []
+english:
+  title: 'Lamenting Spring: Two Poems'
+  author: Sung Hyun
+  language: eng
+  text: |-
+    Crimson peach and white plum blossom forth as one—
+    Every house breathes mist, and none feel poor.
+    How I laugh that spring's radiance is not mine,
+    Casually given to the young without thought.
+
+    Scattered petals tangle with the falling rain,
+    While grass creeping up the steps turns the curtain green.
+    Even in sickness, my heart still seeks spring—
+    I break a luxuriant branch and place it in a slender vase.

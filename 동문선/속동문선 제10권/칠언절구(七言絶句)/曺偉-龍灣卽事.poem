@@ -1,0 +1,37 @@
+canonical:
+  title: 龍灣卽事
+  author: 曺偉
+  language: lzh
+  text: 雪壓深簷夜未央寒燈生暈柝聲長此時危坐心千里爇盡床頭一炷香
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 龍灣卽事
+  author: 曺偉
+  language: lzh
+  text: 雪壓深簷夜未央。寒燈生暈柝聲長。此時危坐心千里。爇盡床頭一炷香。
+korean:
+  title: 용만 즉사
+  author: 조위
+  language: kor
+  text: |-
+    깊은 처마 눈 덮이고 밤은 아직 깊지 않아
+    차운 등불 컴컴하고 목탁 소리 끊이잖네
+    이때에 곧추 앉아 마음만 천리 예고
+    상머리 한 줄기 향불 다 타곤 말았더라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1460_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 목탁(木柝) : '
+    value: 요즈음에 야경돌 때 치고 다니는 딱딱이같은 것이다.
+english:
+  title: 'Longwan: Immediate Scene'
+  author: Jo Wi
+  language: eng
+  text: |-
+    Snow weighs upon the deep eaves; the night has not yet grown old.
+    The cold lamp dims and hazes; the wooden clapper's call rings on.
+    Sitting upright in this moment, my heart travels a thousand miles away.
+    The single stick of incense upon my bedside burns down to ash.
+  footnotes:
+  - key: ''
+    value: The wooden clapper (moktak) is a percussion instrument traditionally used by night watchmen to mark the hours with rhythmic tapping sounds.

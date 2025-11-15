@@ -1,0 +1,47 @@
+canonical:
+  title: 丹陽翠雲樓
+  author: 朴允文
+  language: lzh
+  text: 奉使關東一上樓松陰十里最深幽蔭程老樹童童立遶郭長江衮衮流橫麓斷煙迷犢卧滿軒涼吹勸人留此行未暇登臨賞他月重來載酒遊
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 丹陽翠雲樓
+  author: 朴允文
+  language: lzh
+  text: 奉使關東一上樓。松陰十里最深幽。蔭程老樹童童立。遶郭長江衮衮流。橫麓斷煙迷犢卧。滿軒涼吹勸人留。此行未暇登臨賞。他月重來載酒遊。
+korean:
+  title: 단양 취운루
+  author: 박윤문
+  language: kor
+  text: |-
+    관동에 봉사했다가 이 다락에 오르니
+    10리 솔 그늘이 가장 깊고 그윽하네
+    길을 덮은 노목들은 오똑오똑 서 있고
+    성을 두른 긴 강은 늠실늠실 흐르네
+    산 밑 비낀 이내 속에 길 잃은 송아지가 누웠고
+    난간에 가득한 서늘 바람은 가는 사람 만류하네
+    행색이 총총하여 구경할 여가 없으니
+    다른 날 거듭 오거든 술 싣고 노닐리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0060&viewSync=OT
+  footnotes: []
+english:
+  title: Daneyang's Jade Cloud Pavilion
+  author: Park Yun-mun
+  language: eng
+  text: |-
+    On official business to the Eastern Realm, I climb this tower—
+    Ten leagues of pine shadow stretch in deepest mystery.
+    Ancient trees stand leafy-crowned along the path,
+    While the long river coiling round the walls flows endless.
+    Through scattered mist along the slopes, a wandering calf lies sleeping;
+    Cool wind fills the rails and bids the traveler stay.
+    Yet pressed for time, I cannot linger to admire this beauty—
+    When I return another day, I'll bring wine and wander free.
+  footnotes:
+  - key: ''
+    value: Daneyang is a region in present-day South Korea, known for its scenic beauty along the Namhangang River.
+  - key: ''
+    value: The 'Eastern Realm' (關東) refers to the eastern provinces of Korea, visited by the poet in his official capacity.
+  - key: ''
+    value: The contrast between the speaker's enforced haste and the landscape's invitation to leisure creates the poem's central tension—a common theme in Korean travel poetry.

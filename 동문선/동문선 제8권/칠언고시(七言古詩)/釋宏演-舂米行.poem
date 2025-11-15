@@ -1,0 +1,97 @@
+canonical:
+  title: 舂米行
+  author: 釋宏演
+  language: lzh
+  text: 大婦舂東臼小婦舂西臼小郞舂南臼大郞舂北臼幼女護力攀碓頭幼兒弄米飜柳斗靑裙大婦雲鬟高氣猛脚健踏碓牢大郞小婦驚相問謔浪笑傲聲嘈嘈汗流浹背時蹔息以手挼看白未白欲白未白還更舂努力辛勤眞可惜天之降材非爾殊奈何貧富不同途雖然由此勞逸異一治一養還相須去年秋熟米價落今年麻麥殊兩獲那堪政又减科徭婦簸夫篩良不惡或舂或揄或蹂簸釋之叟叟蒸浮浮大雅蒸民歌后稷功奏萬古何時休只今閭閻逢歲樂四海淸和塵不起但願年年世太平斗米三錢差可擬
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 舂米行
+  author: 釋宏演
+  language: lzh
+  text: 大婦舂東臼。小婦舂西臼。小郞舂南臼。大郞舂北臼。幼女護力攀碓頭。幼兒弄米飜柳斗。靑裙大婦雲鬟高。氣猛脚健踏碓牢。大郞小婦驚相問。謔浪笑傲聲嘈嘈。汗流浹背時蹔息。以手挼看白未白。欲白未白還更舂。努力辛勤眞可惜。天之降材非爾殊。奈何貧富不同途。雖然由此勞逸異。一治一養還相須。去年秋熟米價落。今年麻麥殊兩獲。那堪政又减科徭。婦簸夫篩良不惡。或舂或揄或蹂簸。釋之叟叟蒸浮浮。大雅蒸民歌后稷。功奏萬古何時休。只今閭閻逢歲樂。四海淸和塵不起。但願年年世太平。斗米三錢差可擬。
+korean:
+  title: 쌀 찧는 소리
+  author: 석굉연
+  language: kor
+  text: |-
+    큰 색시는 동편 방아
+    작은 색시는 서편 방아
+    작은 서방님 남쪽 방아
+    큰 서방님 북쪽 방아
+    어린 딸은 거들어 방아머리 잡고
+    어린애는 쌀 장난, 키를 뒤집고
+    푸른 치마 큰 아낙네 높직한 머리 쪽찌
+    기운 센 다리로 방아를 밟고
+    큰 서방, 작은 색시 놀래어 서로 물으며
+    익살로 웃음으로 악왁그르
+    등에 철철 흐르는 땀 이따금 쉬며
+    쌀 집어 흰가 안 흰가 들여다보네
+    쌀은 아직 흰 듯 만 듯 다시 찧으니
+    애쓰는 고생이야 어떻다 하리
+    하늘이 준 재능은 별반 다름없건만
+    어쩌다 빈부가 이다지도 갈리나
+    비록 그것으로 고생ㆍ편안 다르나
+    벼슬하는 군자의 다스림과 농삿집 사람의 노동함이 서로 의존되는 것
+    작년엔 풍년 들어 쌀값이 쌌고
+    금년엔 삼과 밀이 모두 잘 되었네
+    더구나 나라에서 세를 감하여
+    아낙네 키, 남정네 체가 모두 흐뭇해
+    찧거니, 날리거니, 까부르거니
+    설렁설렁 일어서 이글이글 끓이네
+    대아의 증민에도 후직의 노래
+    만고에 그 공이 그지 없어라
+    지금엔 농촌이 풍년 만나고
+    사해가 평안하여 먼지 안 이네
+    바라기는 해마다 세상 태평하여서
+    쌀 한 말 돈 서푼 옛말대로 됐으면
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0110_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 증민(烝民) : '
+    value: 《시경(詩經)》 대아(大雅) 중의 편(篇) 이름으로 주(周)의 시조(始祖)  후직(后稷)의 공덕을 칭송한 글인데, 후직은 농사를 발달시켰으므로 후세에 곡식의 신[穀神]으로 받든다.
+  - key: '[주-D002] 쌀 …… 서푼 : '
+    value: 옛날에는 쌀값이 쌀수록 백성이 살기가 좋다는 것이다.
+english:
+  title: The Sound of Pounding Rice
+  author: Seok Hwang-yeon
+  language: eng
+  text: |-
+    The eldest wife pounds at the eastern mortar,
+    The younger wife at the western mortar,
+    The younger husband at the southern mortar,
+    The eldest husband at the northern mortar.
+    A little daughter steadies the pestle head,
+    A small boy plays with the rice, turning the winnow.
+
+    In her green skirt, the elder woman's hair piled high,
+    Strong legs driving the mortar down steadily,
+    The husbands and wives call out in surprise,
+    Jesting and laughing, voices rising in a din.
+    Sweat drenches their backs as they pause for breath,
+    Pickingup grains to see—not quite white, not quite white.
+    Still not white enough, so they pound once more,
+    What toil, what labor—truly it moves the heart.
+
+    Yet Heaven grants talent no man lacks,
+    So why must poverty and wealth divide our paths?
+    Though hardship and ease fall differently by lot,
+    The scholar's rule and the farmer's work depend upon each other.
+
+    Last autumn's harvest brought cheap rice to market,
+    This year the hemp and wheat have flourished equally.
+    The government lightens the people's burden,
+    The women's winnows and men's baskets overflow with ease.
+    Some pound, some winnow, some toss and scatter,
+    Steam rises gently, rice billows and floats.
+
+    The great odes sing of Yu's people, of Hou Ji's praise—
+    His gifts endure for ten thousand ages unending.
+    Now the villages gather their harvest bounty,
+    The four seas rest in peace, not a speck of dust rises.
+    I pray each year brings the world such harmony,
+    That rice costs but three coins—as the ancients wished.
+  footnotes:
+  - key: ''
+    value: 'Yu''s people (增民) and Hou Ji (后稷): References to classical Chinese poetry celebrating agricultural prosperity and the legendary culture hero who developed agriculture, venerated as the grain god.'
+  - key: ''
+    value: 'Three coins: An allusion to an ancient standard for rice prices; cheap rice symbolized prosperity and the people''s well-being.'

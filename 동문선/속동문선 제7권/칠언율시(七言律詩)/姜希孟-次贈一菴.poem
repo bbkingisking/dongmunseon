@@ -1,0 +1,45 @@
+canonical:
+  title: 次贈一菴
+  author: 姜希孟
+  language: lzh
+  text: 老多貧病詎非癡不問天工肯問醫雙鬢暗驚飄雪縷頑顔漸恠變鷄皮飽經冷暖饒新味粗有親朋是好期愛伴空門遺世事一菴終始是心知
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次贈一菴
+  author: 姜希孟
+  language: lzh
+  text: 老多貧病詎非癡。不問天工肯問醫。雙鬢暗驚飄雪縷。頑顔漸恠變鷄皮。飽經冷暖饒新味。粗有親朋是好期。愛伴空門遺世事。一菴終始是心知。
+korean:
+  title: 차증 일암
+  author: 강희맹
+  language: kor
+  text: |-
+    늙어서 가난과 병이 많은데 어찌 어리석지 않은가
+    하늘에는 묻지 않고 의사에게 즐겨 물었다
+    두 살쩍이 눈발처럼 나부끼는 것에 가만히 놀라고
+    뻣뻣한 얼굴 점점 닭껍질로 변하는 것을 괴상히 여긴다
+    차갑고 따뜻함을 한껏 겪었으매 새로운 맛에 배부르고
+    매우 친한 벗이 있으매 바로 좋은 기약이다
+    즐겨 공문에서 벗이 되어 세상일 버렸나니
+    일암은 마침내 이 마음을 알리라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1430_010_0500&viewSync=OT
+  footnotes: []
+english:
+  title: A Poem to Present to Ilam
+  author: Kang Hee-meng
+  language: eng
+  text: |-
+    Old age brings poverty and sickness—is this not foolishness?
+    I do not question Heaven, but eagerly consult the physician.
+    My temples startle me, snow-white strands drifting loose,
+    And my weathered face grows strange, transforming into chicken skin.
+    Having endured much cold and warmth, I am satiated with new flavors,
+    And with dear companions near, I have what is truly precious.
+    I delight in finding refuge in the empty gate, abandoning worldly affairs—
+    Ilam, you alone shall know this heart at last.
+  footnotes:
+  - key: ''
+    value: Ilam (一菴) refers to a Buddhist hermitage or retreat, likely the residence of the poem's recipient
+  - key: ''
+    value: The 'empty gate' (空門) is a Buddhist metaphor for spiritual liberation and renunciation of worldly concerns

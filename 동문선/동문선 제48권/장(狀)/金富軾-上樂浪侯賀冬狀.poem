@@ -1,0 +1,46 @@
+canonical:
+  title: 上樂浪侯賀冬狀
+  author: 金富軾
+  language: lzh
+  text: 璿璣觀象知日躔之在牛寶曆授時喜天正之立子恭惟大師令公親賢並極德行雙豐作藩屛於王家藹聲華於宗室履一陽之來復迓萬慶於交叢某等限守官箴阻趨賓席
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 上樂浪侯賀冬狀
+  author: 金富軾
+  language: lzh
+  text: 璿璣觀象。知日躔之在牛。寶曆授時。喜天正之立子。恭惟大師令公。親賢並極。德行雙豐。作藩屛於王家。藹聲華於宗室。履一陽之來復。迓萬慶於交叢。某等限守官箴。阻趨賓席。
+korean:
+  title: 상 낙랑후 하동 장
+  author: 김부식
+  language: kor
+  text: 선기(璿璣)로 상(象)을 관찰함에 일전(日躔)이 두우(斗牛 두성(斗星)과 우성(牛星))에 있음을 알 수 있었고, 보력(寶曆)으로 때를 지시함에 천정(天正)이 자(子)의 방위에 선 것을 알아 기뻐합니다. 삼가 생각건대, 대사(大師)영공(令公)은 친(親)과 현(賢)이 아울러 지극하고, 덕과 행실이 모두 풍부하시어 왕가(王家)의 번병(藩屛)이 되시고 종실(宗室)의 성화(聲華)가 꽃다우십니다. 일양(一陽)이 내왕[來復]하는 때를 당하여, 온갖 경사를 맞이하소서. 모(某) 등은 관규(官規)에 얽매여, 빈석(賓席)에 나아가 절을 드리지 못합니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0080&viewSync=OT
+  footnotes: []
+english:
+  title: A Congratulatory Dispatch to the Marquis of Naktrang on the Winter Solstice
+  author: Kim Bu-sik
+  language: eng
+  text: |-
+    Through the celestial sphere we observe the heavens,
+    and know the sun's path lies in the mansion of Ox and Dipper.
+    With the sacred calendar marking the seasons,
+    we rejoice that Heaven's gate opens at the Child direction.
+
+    With reverence we consider the great Master and Lord:
+    uniting kinship and virtue in perfect measure,
+    abounding in both moral character and noble conduct.
+    You are the screen and bulwark of the royal house,
+    the splendor and grace adorning the imperial clan.
+
+    As the single yang returns and the world is renewed,
+    may ten thousand blessings converge upon you.
+    Yet we remain bound by our official duties,
+    unable to leave our posts and bow before your honored seat.
+  footnotes:
+  - key: ''
+    value: The celestial sphere and sun's path references refer to traditional Chinese astronomical observation, where the sun's position at winter solstice in the Ox-Dipper mansion marks the beginning of the new astrological year.
+  - key: ''
+    value: The 'Child direction' (자 방위) refers to north in the traditional eight trigrams system, associated with winter and renewal.
+  - key: ''
+    value: The 'single yang' (일양) refers to the cosmological principle that begins the new cycle at winter solstice, when yang begins to grow anew from the depths of yin.

@@ -1,0 +1,39 @@
+canonical:
+  title: 冬至
+  author: 朴浩
+  language: lzh
+  text: 乍輟庭班邈叨閫寄手操雙節奈拘走集之行目極重輪每竭瞻傾之抱
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 冬至
+  author: 朴浩
+  language: lzh
+  text: 乍輟庭班。邈叨閫寄。手操雙節。奈拘走集之行。目極重輪。每竭瞻傾之抱。
+korean:
+  title: 동지
+  author: 박호
+  language: kor
+  text: 잠깐 조정의 반열(班列)에서 물러나 멀리 외방의 군문(軍門)에서 봉직하나이다. 손에 쌍절(雙節)을 잡은 몸이라 마음대로 달려가 뵈옵지 못하고, 눈으로 중륜(重輪)을 한껏 바라보며 충성을 기울여 우러르는 회포를 다하나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0340_010_0300&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 손에 …… 몸이라 : '
+    value: 대장은 쌍절(雙節)을 짚는다.
+  - key: '[주-D002] 중륜(重輪) : '
+    value: 일중광(日重光)ㆍ월중륜(月重輪)ㆍ성중휘(星重輝)ㆍ해중윤(海重潤)은 한(漢)나라 광무제(光武帝)의 태자를 위하여 바친 악장(樂章)인 소위 사중가(四重歌)다.
+english:
+  title: Winter Solstice
+  author: Park Ho
+  language: eng
+  text: |-
+    I have stepped back from the ranks of the court,
+    posted far in an outland garrison.
+    With the dual scepter of command in hand,
+    I cannot rush freely to pay my respects.
+    Yet my eyes ever strain toward the palace wheels,
+    my heart overflowing with devoted reverence.
+  footnotes:
+  - key: ''
+    value: The 'dual scepter' (雙節) refers to the symbols of military authority carried by a commander.
+  - key: ''
+    value: The 'palace wheels' (重輪) alludes to the court and imperial authority, invoking the classical four-part song of praise traditionally composed for the heir of the Han dynasty.

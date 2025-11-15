@@ -1,0 +1,51 @@
+canonical:
+  title: 順興府使座上賦詩
+  author: 鄭道傳
+  language: lzh
+  text: 路長山有雪村暝水生煙乘興尋安道吟詩似浩然別離三載外談笑一尊前此曲難堪聽蒼茫歲暮天
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 順興府使座上賦詩
+  author: 鄭道傳
+  language: lzh
+  text: 路長山有雪。村暝水生煙。乘興尋安道。吟詩似浩然。別離三載外。談笑一尊前。此曲難堪聽。蒼茫歲暮天。
+korean:
+  title: 순흥 부사 좌상부시
+  author: 정도전
+  language: kor
+  text: |-
+    길이 먼데 산에는 눈이 있고
+    마을이 어둑하매 물 위에서 연기가 나네
+    흥을 타서는 대안도를 찾고
+    시를 읊는 것은 마치 맹호연 같구나
+    이별한 지 삼 년을 넘었더니
+    웃고 말하는 한 술병 앞이어라
+    이 곡을 차마 듣기 어려워라
+    창망한 세모의 하늘이네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0630&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 흥을 타서는 대안도(戴安道)를 찾고 : '
+    value: 진(晉)나라 왕자유(王子猷)가 산음(山陰)에 있을 때에 밤에 설월(雪月)이 밝은 것을 보고 문득 흥이 나서, 섬계(剡溪)에 있는 대안도(戴安道)를 생각하고 밤새도록 배를 저어 가서, 그 집 문앞까지 갔다가 다시 돌아왔다. 사람들이 물으니 답하기를, “흥을 타서 왔다가 흥이 다하면 돌아가는 것이지, 하필 안도를 보아야 하는가.” 하였다.
+  - key: '[주-D002] 시를 읊는 것은 마치 맹호연(孟浩然) 같구나 : '
+    value: 맹호연이 눈 속에서 나귀를 타고 매화를 찾으며 시를 지었다.
+english:
+  title: A Poem Composed at the Gathering of the Provincial Governor of Sunheung
+  author: Jung Do-jeon
+  language: eng
+  text: |-
+    The road stretches long, snow clings to the mountains,
+    The village grows dark, mist rises from the water.
+    Following inspiration's call, I seek out Dai Andao,
+    Reciting verses as though I were Meng Haoran.
+    Three years have passed since we parted ways,
+    Yet here we sit laughing before a cup of wine.
+    This song is hard for the heart to bear—
+    The desolate sky of year's end stretches on.
+  footnotes:
+  - key: ''
+    value: 'Dai Andao refers to a celebrated incident from the Jin Dynasty: Wang Ziyu, moved by a snowy moonlit night, impulsively rowed all night to visit Dai Andao, only to turn back at his door. When asked why he didn''t enter, he replied, ''I came on inspiration; now that it has spent itself, I return. Why must I see Andao?'' This represents the romantic pursuit of spontaneous aesthetic experience.'
+  - key: ''
+    value: Meng Haoran was a Tang Dynasty poet known for composing verses while riding on a donkey through snow to seek plum blossoms, embodying the ideal of the poet-wanderer in nature.
+  - key: ''
+    value: The poem uses these references to capture a bittersweet reunion after three years of separation, where the joy of inspiration and companionship is tempered by the melancholy of time's passage.

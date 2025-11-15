@@ -1,0 +1,35 @@
+canonical:
+  title: 晩望
+  author: 李奎報
+  language: lzh
+  text: 李杜嘲啾後乾坤寂寞中江山自閑暇片月掛長空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 晩望
+  author: 李奎報
+  language: lzh
+  text: 李杜嘲啾後。乾坤寂寞中。江山自閑暇。片月掛長空。
+korean:
+  title: 만망
+  author: 이규보
+  language: kor
+  text: |-
+    이태백ㆍ두자미 지껄이고 간 뒤에
+    건곤은 적막한 속일세
+    강산이 절로 한가한지라
+    조각달이 장공에 걸렸네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_010_0260&viewSync=OT
+  footnotes: []
+english:
+  title: Evening Prospect
+  author: Lee Gyeongbo
+  language: eng
+  text: |-
+    After Li Bai and Du Fu have finished their jesting and departed,
+    The cosmos rests in silence and solitude.
+    The mountains and rivers find their own leisure,
+    A crescent moon hangs in the vast sky.
+  footnotes:
+  - key: ''
+    value: Li Bai and Du Fu were Tang dynasty poets considered the greatest in Chinese literary history. The poem playfully imagines their absence, leaving nature to its own quiet contemplation.

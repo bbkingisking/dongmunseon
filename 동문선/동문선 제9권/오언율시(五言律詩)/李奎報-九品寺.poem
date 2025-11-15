@@ -1,0 +1,46 @@
+canonical:
+  title: 九品寺
+  author: 李奎報
+  language: lzh
+  text: 山險馬頻蹶路長人易疲驚鼯時入草宿鳥已安枝虛閣秋來早危峯月上遲僧閑無一事除却點茶時
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 九品寺
+  author: 李奎報
+  language: lzh
+  text: 山險馬頻蹶。路長人易疲。驚鼯時入草。宿鳥已安枝。虛閣秋來早。危峯月上遲。僧閑無一事。除却點茶時。
+korean:
+  title: 구품사
+  author: 이규보
+  language: kor
+  text: |-
+    산이 험하니 말[馬]이 자주 미끄러지고
+    길이 머니 사람이 쉬 피곤하네
+    놀란 다람쥐는 가끔 풀로 들어가고
+    잘[宿] 새는 벌써 제 가지에 앉았구나
+    텅 빈 각에 가을이 일찍 오고
+    가파른 봉에 달도 늦게 올라오네
+    중은 한가하여 아무 일도 없구나
+    점다(물을 끓인 다음에 차를 넣는 것)할 때를 제하곤
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0120_010_0610&viewSync=OT
+  footnotes: []
+english:
+  title: Nine-Grade Temple
+  author: Lee Gyeou-bo
+  language: eng
+  text: |-
+    The mountain is steep, and horses stumble again and again.
+    The path is long, and travelers grow weary.
+    Startled squirrels dart into the grass,
+    While roosting birds already settle on their branches.
+
+    Autumn arrives early at the empty pavilion,
+    And the moon rises late over the jagged peaks.
+    The monk knows leisure, with nothing to do—
+    Except when he pauses to prepare the tea.
+  footnotes:
+  - key: ''
+    value: Nine-Grade Temple (Guipum-sa) likely refers to a Buddhist temple associated with the Nine Grades of rebirth in Pure Land Buddhism, a significant concept in East Asian Buddhism.
+  - key: ''
+    value: The tea preparation (jeomda) represents a meditative ritual in Buddhist practice, marking the only meaningful activity in the monk's day of solitude.

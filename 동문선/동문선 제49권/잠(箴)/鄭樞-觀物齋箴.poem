@@ -1,0 +1,53 @@
+canonical:
+  title: 觀物齋箴
+  author: 鄭樞
+  language: lzh
+  text: 物兮本靜各得其正由我有我來相撓挭卽動而安稱之曰聖其能匪他盡物之性格物有道顧諟天命天命維何白梅紅杏勖哉夫子純亦不已物止于止備于身矣
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 觀物齋箴
+  author: 鄭樞
+  language: lzh
+  text: 物兮本靜。各得其正。由我有我。來相撓挭。卽動而安。稱之曰聖。其能匪他。盡物之性。格物有道。顧諟天命。天命維何。白梅紅杏。勖哉夫子。純亦不已。物止于止。備于身矣。
+korean:
+  title: 관물재 잠
+  author: 정추
+  language: kor
+  text: 물(物)이 본시 고요하여 제각기 바른 것을 얻었다. 내[我]가 있으므로 물(物)이 달려들어 서로 괴롭힌다. 물의 움직임에 동요하지 않고 안정함을 성인(聖人)이라 한다. 그것은 별 다른 것이 아니요, 물의 성(性)을 극진하게 하는 것[盡物之性]이다. 물의 이치를 아는데는 도리가 있으니 천명(天命)을 돌아보는 것이다. 천명이란 무엇인가. 매화는 희고, 살구는 붉도다. 힘쓸지어다, 선생이여. 순일(純一)하여 쉬지 않는다. 물이 그칠 때 그치나니 내 몸에 갖추어 있나니라.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0520_030_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 물의 성(性)을 …… 하는 것 : '
+    value: 《맹자(孟子)》는 “자신의 착한 본성대로 다하는 이는 물(物)의 성(性)도 다할 수 있다.” 하였다.
+  - key: '[주-D002] 매화는 희고 살구는 붉도다 : '
+    value: 매화는 희고 살구 꽃은 붉은 자연(自然) 그것이 모두 하늘이 명(命)한 것의 표현이란 뜻이다.
+english:
+  title: Admonition for the Hall of Observing Things
+  author: Jeong Chu
+  language: eng
+  text: |-
+    Things in their essence are still,
+    Each has found its proper place.
+    Yet I exist, and so they come,
+    Turbulent, vexing what was calm.
+
+    To move without disturbance,
+    To remain serene amid the flux—
+    This is what we call the sage.
+    No mystery dwells in it:
+    Only the fullness of each thing's nature.
+
+    To comprehend the way of things,
+    One must attend to Heaven's Mandate.
+    What is this Mandate?
+    The plum blossom, white;
+    The apricot, red.
+    Strive onward, Master!
+    Pure and never ceasing,
+    When things come to rest, they rest,
+    And all is gathered in the self.
+  footnotes:
+  - key: ''
+    value: 'The fulfillment of each thing''s nature echoes Mencius: ''He who exhausts his own goodness can exhaust the nature of all things.'''
+  - key: ''
+    value: The white plum and red apricot are expressions of Heaven's Mandate made manifest in nature—each displays its appointed color spontaneously.

@@ -1,0 +1,37 @@
+canonical:
+  title: 新雪
+  author: 鄭知常
+  language: lzh
+  text: 昨夜紛紛瑞雪新曉來鵷鷺賀中宸輕風不起陰雲捲白玉花開萬樹春
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 新雪
+  author: 鄭知常
+  language: lzh
+  text: 昨夜紛紛瑞雪新。曉來鵷鷺賀中宸。輕風不起陰雲捲。白玉花開萬樹春。
+korean:
+  title: 신설
+  author: 정지상
+  language: kor
+  text: |-
+    어젯밤 펄펄 내린 서설이 새로워라
+    새벽에 완로(鵷鷺)가 중신(임금이 거처하는 위(位))을 하례하네
+    가벼운 바람도 없이 어둔 구름 걷히고
+    흰 구슬꽃 피니 일만 나무 봄이로세
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0490&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 완로(鵷鷺) : '
+    value: 벼슬아치들이 조회(朝會)할 때에 반열을 지어 봉의 새끼[鵷]와 해오리처럼 벌여 서는 것을 말한다.
+english:
+  title: Fresh Snow
+  author: Jung Jiksang
+  language: eng
+  text: |-
+    Last night the auspicious snow fell thick and new,
+    At dawn the courtiers gather to honor the throne.
+    Without a whisper of wind the dark clouds part,
+    White jade blossoms open—ten thousand trees in spring.
+  footnotes:
+  - key: ''
+    value: The courtiers mentioned in the second line reference the formal arrangement of officials in court proceedings, standing in pairs like cranes and herons—an image of order and reverence before the royal presence.

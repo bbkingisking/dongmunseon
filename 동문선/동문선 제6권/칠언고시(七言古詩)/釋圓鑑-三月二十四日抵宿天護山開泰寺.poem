@@ -1,0 +1,49 @@
+canonical:
+  title: 三月二十四日抵宿天護山開泰寺
+  author: 釋圓鑑
+  language: lzh
+  text: 一年三過天護山天護山中白雲白白雲自負山中閑應笑山前遠行客寄語白雲毋笑我我行無可無不可安知不卜好林壑歸來與子相酬酢
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 三月二十四日抵宿天護山開泰寺
+  author: 釋圓鑑
+  language: lzh
+  text: 一年三過天護山。天護山中白雲白。白雲自負山中閑。應笑山前遠行客。寄語白雲毋笑我。我行無可無不可。安知不卜好林壑。歸來與子相酬酢。
+korean:
+  title: 3월 24일 천호산 개태사에서 자며
+  author: 석원감
+  language: kor
+  text: |-
+    지난해에 세 번 천호산을 지났나니
+    천호산 가운데는 흰 구름이 희더라
+    흰 구름은 산중에서 한가하다고 자랑하며
+    아마 산으로 지나가는 먼 손을 보고 웃으리라
+    말하노니 흰 구름이여 나를 웃지 말과저
+    내 걸음은 옳은 것도 없고 옳지 않은 것도 없다
+    어찌 아리 좋은 산수에 터를 잡아 짓고 살면서
+    돌아와서는 자네와 함께 서로 수작하는지를
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0090_010_0400&viewSync=OT
+  footnotes: []
+english:
+  title: Arriving at Gaetae Temple on Cheonho Mountain on the Twenty-Fourth Day of the Third Month
+  author: Seok Won-gam
+  language: eng
+  text: |-
+    Three times this year I have passed through Cheonho Mountain.
+    Within Cheonho Mountain, white clouds drift and drift.
+    The white clouds boast of their leisure in the mountain's heart—
+    they surely laugh at the weary traveler passing below.
+
+    I speak to you, white clouds: do not mock me.
+    My path knows no right or wrong.
+    How do I know that one day I shall not settle
+    in these fair hills and valleys,
+    and return to share stories with you?
+  footnotes:
+  - key: ''
+    value: Seok Won-gam was a Buddhist monk of the Joseon period; the temple mentioned (Gaetae Temple) was located on Cheonho Mountain
+  - key: ''
+    value: The poem reflects on the speaker's repeated journeys through the same landscape, contrasting the clouds' static contentment with the speaker's wandering state
+  - key: ''
+    value: The final lines express the Buddhist-influenced philosophy of non-attachment and the possibility of future dwelling in nature

@@ -1,0 +1,48 @@
+canonical:
+  title: 渡渤海
+  author: 鄭夢周
+  language: lzh
+  text: 之罘山下片帆張不覺須臾入渺茫雲接蓬萊仙闕遠月明遼海客衣凉百年天地身如粟兩字功名鬢欲霜何日長歌賦歸去蓬牎終日寸心傷
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 渡渤海
+  author: 鄭夢周
+  language: lzh
+  text: 之罘山下片帆張。不覺須臾入渺茫。雲接蓬萊仙闕遠。月明遼海客衣凉。百年天地身如粟。兩字功名鬢欲霜。何日長歌賦歸去。蓬牎終日寸心傷。
+korean:
+  title: 도발해
+  author: 정몽주
+  language: kor
+  text: |-
+    지부산 밑에 조각 돛을 펼치니
+    어느덧 순식간에 망망 대해에 드누나
+    구름 저편 봉래에 신선 궁궐 먼데
+    달 밝은 요해에 나그네 옷 서늘해라
+    천지간 백 년 사이 몸은 〈바다에 뜬〉 한 낱 좁쌀알
+    공명 두 자에 얽매어 귀밑머리 서리로세
+    언제나 긴 노래로 귀거래사 읊을까
+    온종일 봉창 안에서 마음 속이 쓰리네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0820&viewSync=OT
+  footnotes: []
+english:
+  title: Crossing the Bohai Sea
+  author: Jung Mong-ju
+  language: eng
+  text: |-
+    Beneath Mount Zhifu, I unfurl a sliver of sail,
+    and suddenly find myself adrift in the boundless deep.
+    Beyond the clouds, Penglai's palace of immortals recedes,
+    while moonlight on the Liaodong Sea chills the wanderer's robe.
+
+    A hundred years within heaven and earth—my body mere millet grain,
+    bound by two characters of fame, my temples graying with frost.
+    When shall I sing at length of homecoming and return?
+    All day within these window curtains, my heart aches with longing.
+  footnotes:
+  - key: ''
+    value: 'Penglai: In Chinese mythology, a legendary island of immortals in the Eastern Sea, symbolizing an unattainable paradise.'
+  - key: ''
+    value: The two characters of 'fame' (功名) represent worldly ambition and official status, which bind the speaker to earthly concerns.
+  - key: ''
+    value: The reference to 'returning' alludes to Tao Yuanming's 'Return to the Fields' (歸去來辭), a classical poem expressing the desire to abandon public life for solitude.

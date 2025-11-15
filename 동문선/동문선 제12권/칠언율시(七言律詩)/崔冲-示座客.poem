@@ -1,0 +1,48 @@
+canonical:
+  title: 示座客
+  author: 崔冲
+  language: lzh
+  text: 水閣風欞苦見招簿書叢裏度流年朱櫻紫笋時將過紅槿丹榴態亦姸病久却嫌邀客飮性慵偏喜聽鶯眠良辰健日終難再急趁花開作醉仙
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 示座客
+  author: 崔冲
+  language: lzh
+  text: 水閣風欞苦見招。簿書叢裏度流年。朱櫻紫笋時將過。紅槿丹榴態亦姸。病久却嫌邀客飮。性慵偏喜聽鶯眠。良辰健日終難再。急趁花開作醉仙。
+korean:
+  title: 좌객에게 보임
+  author: 최충
+  language: kor
+  text: |-
+    수정 시원한 난간이 나한테는 인연 멀어
+    문서 더미 속에 세월을 보내누나
+    붉은 앵두 자주 죽순 철이 지나려네그려
+    무궁화와 석류가 태가 역시 곱군그래
+    오랜 병에 손을 청해 마시지를 못했네
+    성질이 게을러서 꾀꼬리 들으며 잠자기를 좋아하네
+    좋은 시절 몸 성한 때가 다시 오기 어려우니
+    때마침 꽃 피었을 적 취선이 되어 보세나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0410&viewSync=OT
+  footnotes: []
+english:
+  title: Shown to the Guests in My Hall
+  author: Choe Chung
+  language: eng
+  text: |-
+    The water pavilion's cool railings—distant from my fate,
+    I waste away the years among stacks of documents.
+    Red cherries and purple bamboo shoots—their season fades,
+    Hibiscus and pomegranate still wear their beauty well.
+
+    Long illness keeps me from accepting wine with guests,
+    My lazy nature loves to sleep while nightingales sing.
+    These blessed days of health return but rarely to us all—
+    Let me seize this moment when flowers bloom and become a drunken immortal.
+  footnotes:
+  - key: ''
+    value: The 'water pavilion' and 'cool railings' represent the scholar's retreat, yet remain inaccessible to him due to bureaucratic duties.
+  - key: ''
+    value: '''Drunken immortal'' (취선) refers to the Daoist ideal of transcendence through wine and nature, suggesting the speaker seeks spiritual liberation through intoxication and communion with the natural world.'
+  - key: ''
+    value: The poem contrasts the passage of seasonal beauty with the speaker's physical decline, emphasizing the urgency of seizing fleeting moments of wellness.

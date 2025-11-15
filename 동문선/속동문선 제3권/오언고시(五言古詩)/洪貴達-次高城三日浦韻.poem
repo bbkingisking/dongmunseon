@@ -1,0 +1,61 @@
+canonical:
+  title: 次高城三日浦韻
+  author: 洪貴達
+  language: lzh
+  text: 昔聞三日浦今上四仙亭水拍白銀盤山圍蒼玉屛天空綵雲立石老秋光淸仙人去已遠古亭今無楹當時游戲處雲外笙簫聲千載復吾人六字看猶明風高永郞湖月上安相汀孤尊泊舟處此固云蓬瀛
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 次高城三日浦韻
+  author: 洪貴達
+  language: lzh
+  text: 昔聞三日浦。今上四仙亭。水拍白銀盤。山圍蒼玉屛。天空綵雲立。石老秋光淸。仙人去已遠。古亭今無楹。當時游戲處。雲外笙簫聲。千載復吾人。六字看猶明。風高永郞湖。月上安相汀。孤尊泊舟處。此固云蓬瀛。
+korean:
+  title: 차 고성 삼일포운
+  author: 홍귀달
+  language: kor
+  text: |-
+    옛날부터 들었던 삼일포
+    이제야 올랐구나 사선정
+    물은 백은반을 치는 듯
+    산은 창옥병을 두른 듯
+    텅 빈 하늘에 오색 구름 서있고
+    해묵은 바위에 가을 빛이 밝구나
+    신선들 간지 이미 오래어
+    낡은 정자엔 지금 난간도 없네
+    당시에 신선들 노니던 곳
+    구름밖에 피릿소리 들리는 듯
+    천 년 뒤에 다시 온 우리들
+    여섯 자 단서가 아직도 분명
+    영랑호에 바람은 높이 불고
+    안상정 물가에 달이 떠오르네
+    배를 대고 술잔을 기울이니
+    예가 진정 봉래ㆍ영주 아닌가
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1390_010_0360&viewSync=OT
+  footnotes: []
+english:
+  title: Rhyming on Sanil Islet at Gosung Fortress
+  author: Hong Gwi-dal
+  language: eng
+  text: |-
+    Since ancient times I heard of Sanil Islet,
+    Today at last I climb to the Pavilion of Four Immortals.
+    Waters strike like silver platters,
+    Mountains embrace like screens of jade.
+    Empty sky holds embroidered clouds aloft,
+    Aged stone glows with autumn's crystalline light.
+    The immortals departed long ago—
+    Their old pavilion now stands without railings.
+    Where once they wandered in their revels,
+    Beyond the clouds drift notes of pipes and flutes.
+    A thousand years have passed, yet we have come,
+    Six characters still gleam in clarity.
+    High winds sweep across Yeongrang Lake,
+    Moonlight rises over Ansang Shore.
+    With solitary cup, I moor my boat—
+    Isn't this truly Penglai and Yingzhou?
+  footnotes:
+  - key: ''
+    value: The Six Characters likely refers to an inscription related to the legendary immortals or the place itself
+  - key: ''
+    value: Penglai and Yingzhou are mythical islands of the immortals in classical Chinese cosmology, suggesting this place embodies that sacred essence

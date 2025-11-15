@@ -1,0 +1,48 @@
+canonical:
+  title: 靈通寺
+  author: 釋月窓
+  language: lzh
+  text: 岩泉一派曲通林老樹當軒積翠陰秋至洞門偏洒落雲還松嶺轉幽深苔碑勝迹傳從昔素壁新詩記自今坐久精神更淸爽磬聲搖月夜沉沉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 靈通寺
+  author: 釋月窓
+  language: lzh
+  text: 岩泉一派曲通林。老樹當軒積翠陰。秋至洞門偏洒落。雲還松嶺轉幽深。苔碑勝迹傳從昔。素壁新詩記自今。坐久精神更淸爽。磬聲搖月夜沉沉。
+korean:
+  title: 영통사
+  author: 석월창
+  language: kor
+  text: |-
+    바위 틈 한 줄기 샘이 구불어져 숲 사이로
+    난간 앞의 늙은 나무 푸른 그늘 짙었구나
+    가을이 오니 동구가 더욱 산뜻하고
+    구름이 돌아오니 소나무 고개가 더욱 그윽하네
+    이끼 낀 옛 비석은 예대로 전해오나
+    흰 벽의 새 시는 지금부터 처음 적네
+    한참 앉았으니 정신이 더욱 상쾌한데
+    경 소리 달에 흔들려 밤이 침침하구나
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: Yeongjeong Temple
+  author: Seok Wolchan
+  language: eng
+  text: |-
+    Through the forest curves a spring from rocky hollows,
+    Before the railing, the ancient tree casts emerald shade.
+    When autumn arrives, the temple gate grows crisp and clear,
+    As clouds return, the pine-crowned ridge deepens into mystery.
+
+    Moss-worn stone tablets pass down the sacred traces of old,
+    White walls hold new verses inscribed for the first time today.
+    Long seated here, my spirit grows ever more serene,
+    The temple bell's resonance sways the moon—the night grows still and deep.
+  footnotes:
+  - key: ''
+    value: The poem celebrates Yeongjeong Temple, likely a Buddhist monastery, blending natural landscape imagery with spiritual reflection.
+  - key: ''
+    value: The progression from external description (spring, forest, ancient tree) to internal transformation (spirit becoming serene) reflects the contemplative purpose of temple visits in Korean Buddhist tradition.
+  - key: ''
+    value: The final image of the bell swaying the moon suggests the timeless, transcendent nature of spiritual practice—sound and celestial light merging in the profound stillness of night.

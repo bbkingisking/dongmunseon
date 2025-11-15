@@ -1,0 +1,40 @@
+canonical:
+  title: 送慶尙鄭按廉
+  author: 李仁復
+  language: lzh
+  text: 聞說先賢按嶺南動將絲竹醉厭厭近來物議君知否淸似夷齊謂不廉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 送慶尙鄭按廉
+  author: 李仁復
+  language: lzh
+  text: 聞說先賢按嶺南。動將絲竹醉厭厭。近來物議君知否。淸似夷齊謂不廉。
+korean:
+  title: 송경상정안렴
+  author: 이인복
+  language: kor
+  text: |-
+    내 들으니 선현들이 영남을 순찰할 때에
+    나가면 사죽을 모두 움직여 한껏 취한다 하네
+    요사이의 물의를 그대는 혹 아는가
+    맑기를 이제같이 하되 그래도 청렴하지 않다고 한다네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0370&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 이제(夷齊) : '
+    value: 백이(伯夷)와 숙제(叔齊)는 청렴(淸廉)하기로 천하에 제일이었다. 여기서 시대가 전과 다르므로 술과 음악으로 노는 것을 조심하라고 충고하는 뜻이다.
+english:
+  title: Farewell to Inspector Jeong of Gyeongsang Province
+  author: Lee In-bok
+  language: eng
+  text: |-
+    I have heard that the virtuous ancients, when sent to inspect the southern provinces,
+    Would set the strings and winds dancing, lost in wine and revelry.
+    But tell me, do you know what gossip stirs in the world today?
+    Though you shine pure as Bo Yi and Shu Qi themselves,
+    Still they whisper you lack integrity.
+  footnotes:
+  - key: ''
+    value: Bo Yi and Shu Qi were legendary exemplars of moral integrity and frugality in ancient China, known as the most honorable in the realm.
+  - key: ''
+    value: 'The poem contains an ironic critique: the inspector is warned that even perfect virtue (compared to these ancient paragons) may be misinterpreted if he indulges too freely in music and wine, as custom permits for officials on inspection tours.'

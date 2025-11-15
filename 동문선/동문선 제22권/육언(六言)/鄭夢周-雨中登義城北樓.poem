@@ -1,0 +1,46 @@
+canonical:
+  title: 雨中登義城北樓
+  author: 鄭夢周
+  language: lzh
+  text: 聞韶郡樓佳處避雨來登日科草色靑連驛路桃花爛覆人家春愁正濃似酒世味漸薄如紗惆悵江南行客蹇驢又向京華
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 雨中登義城北樓
+  author: 鄭夢周
+  language: lzh
+  text: 聞韶郡樓佳處。避雨來登日科。草色靑連驛路。桃花爛覆人家。春愁正濃似酒。世味漸薄如紗。惆悵江南行客。蹇驢又向京華。
+korean:
+  title: 우중 등 의성북루
+  author: 정몽주
+  language: kor
+  text: |-
+    문소군루 아름다운 곳에
+    비를 피해 올라오니 해는 기우네
+    풀빛은 역길에 이어 있고
+    복숭아꽃은 난만하여 인가를 덮었구나
+    봄 시름은 술처럼 한창 무르익는데
+    세상 맛은 사처럼 점점 엷어만 가네
+    슬프다, 강남의 나그네여
+    다리 저는 나귀로 다시 경화(京華)를 향해 가네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0250_020_0020&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 경화(京華) : '
+    value: 섬서(陝西)의 화산(華山) 근처에 있는 지명이다.
+english:
+  title: Ascending the Northern Tower of Uisung in the Rain
+  author: Jeong Mongju
+  language: eng
+  text: |-
+    I hear the tower in Shogun prefects a fine place,
+    So I climb to escape the rain—the sun already sinking.
+    Grass-green stretches unbroken along the relay road,
+    And peach blossoms bloom wild, draping over farmhouses.
+
+    Spring sorrow ripens thick as wine within me,
+    While worldly pleasures grow thin and translucent as gauze.
+    Sad wanderer of the Yangzi lands,
+    On a limping donkey you turn again toward the capital.
+  footnotes:
+  - key: ''
+    value: Jinghua (京華) refers to the region near Mount Hua in Shaanxi province, representing the capital or the distant journey home.

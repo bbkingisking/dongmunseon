@@ -1,0 +1,51 @@
+canonical:
+  title: 作者
+  author: 林椿
+  language: lzh
+  text: 紅粧待曉帖金鈿爲被催呼上綺筵不怕長官嚴號令謾嗔行客惡因緣乘樓未作吹簫伴奔月還爲竊藥仙寄語靑雲賢學士仁心不用示蒲鞭
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 作者
+  author: 林椿
+  language: lzh
+  text: 紅粧待曉帖金鈿。爲被催呼上綺筵。不怕長官嚴號令。謾嗔行客惡因緣。乘樓未作吹簫伴。奔月還爲竊藥仙。寄語靑雲賢學士。仁心不用示蒲鞭。
+korean:
+  title: 장난삼아 밀주 원님에게 주다[戱贈密州倅] 작자
+  author: 임춘
+  language: kor
+  text: |-
+    새벽에 단장하고 금비녀 꽂고서
+    재촉해 불리워서 잔치 자리에 올랐네
+    원님의 엄하신 호령은 안 무섭고
+    부질없는 과객의 궂은 인연을 탓할 뿐
+    누에는 올랐어도 퉁소 부는 짝이 되어주지 않고
+    달로 달아나 약 도적한 선녀가 되는구나
+    청운의 학사님께 말 부치노니
+    어진 마음으로 부들포 채찍을 제발 쓰지 마옵소
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0160_010_0130&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 퉁소 부는 짝 : '
+    value: 춘추 때 진목공(秦穆公)이 딸 농옥(弄玉)이 피리를 잘 부는 소사(簫史)를 좋아하여 그에게 시집가 날마다 피리불기를 배워 봉(鳳)을 오게 하여 부부가 봉을 타고 하늘로 올라 신선이 되었다 한다.
+  - key: '[주-D002] 달[月]로 …… 도적한 선녀 : '
+    value: 유궁후(有窮后) 예(羿)의 처 항아(姮娥)가 남편이 서왕모(西王母)에게서 얻어온 선약(仙藥)을 훔쳐 먹고 신선이 되어 월궁(月宮)으로 달아났다.
+english:
+  title: A Playful Gift to the Administrator of Mizhou
+  author: Lim Chun
+  language: eng
+  text: |-
+    At dawn she adorns herself, gold hairpin gleaming,
+    Summoned urgently to the feast's grand hall.
+    The magistrate's stern commands hold no terror—
+    Only the traveler's cruel fate draws her complaint.
+    Climbing the tower, she finds no flute-playing mate,
+    But flees to the moon instead, a jade thief become immortal.
+    A word to you, scholar of azure clouds:
+    Let not the wise heart wield the cruel whip.
+  footnotes:
+  - key: ''
+    value: 'The reference to a flute-playing mate alludes to the legend of the immortal couple: the goddess plays upon a heavenly pipe while her lover ascends on the phoenix.'
+  - key: ''
+    value: The jade thief refers to Chang'e, who stole the elixir of immortality and fled to the moon palace, becoming forever separated from the mortal realm.
+  - key: ''
+    value: This poem appears to be addressed to an official, playfully rebuking excessive severity through mythological allusion, suggesting that compassion befits those of virtue.

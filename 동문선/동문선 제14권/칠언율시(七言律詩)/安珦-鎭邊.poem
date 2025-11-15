@@ -1,0 +1,47 @@
+canonical:
+  title: 鎭邊
+  author: 安珦
+  language: lzh
+  text: 夏初分鉞海邊來吟過三庚致遠臺驛使雷馳傳密旨文闈火迫選賢才星山暴潦乘槎渡月窟涼飈養桂催預想奏名開慶席鳳笙檀板錦千堆
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鎭邊
+  author: 安珦
+  language: lzh
+  text: 夏初分鉞海邊來。吟過三庚致遠臺。驛使雷馳傳密旨。文闈火迫選賢才。星山暴潦乘槎渡。月窟涼飈養桂催。預想奏名開慶席。鳳笙檀板錦千堆。
+korean:
+  title: 갑오년 가을 진변
+  author: 안향
+  language: kor
+  text: |-
+    첫 여름 바닷가에 진수하러왔다가
+    한창 더위에 치원대를 읊으며 지났네
+    역사들 빗발처럼 달려와 전하는 밀지
+    현재들 뽑는 과기가 불일간 닥쳐온다고
+    성산(경상도(慶尙道)  성주(星州)의 옛이름)의 장마 물을 떼 타고 건넌 것은
+    월궁 서늘 바람에 계수꽃을 재촉하네
+    이름 아뢰고 경석 열 일 미리 생각하니
+    눈앞에 봉생과 단판, 비단 천 필이 선하이
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0170_010_0720&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 치원대(致遠臺) : '
+    value: 동래(東萊) 해운대(海雲臺)혹은 마산(馬山) 월영대(月影臺). 둘 다 최치원(崔致遠)이 놀았다는 유명한 대(臺)이다.
+english:
+  title: Guarding the Frontier
+  author: An Hyang
+  language: eng
+  text: |-
+    Early summer brings me to garrison the seashore,
+    While fierce heat gives way, I compose verses at Chiryeon Terrace.
+    Relays of messengers thunder swift with secret dispatches,
+    Examiners press forward, selecting the worthy without rest.
+    Star Mountain's torrential floods I cross by floating timber,
+    Moon Palace's cool breeze hastens the laurel blossoms forth.
+    Already I envision my name proclaimed at the royal celebration,
+    Fenix pipes and sandalwood clappers—a thousand bolts of brocade piled high.
+  footnotes:
+  - key: ''
+    value: Chiryeon Terrace refers to a famous scenic overlook associated with the historical figure Choe Chi-won, located either at Haeundae in Dongnae or at Wol-yeong Terrace in Masan.
+  - key: ''
+    value: The poem celebrates both military duty on the frontier and the anticipation of success in the civil service examination, two intertwined themes of honor in classical Korean and Chinese literatures.

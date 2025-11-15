@@ -1,0 +1,45 @@
+canonical:
+  title: 權大夫鎬靜亭詩次韻
+  author: 楊以時
+  language: lzh
+  text: 新亭逈出塵埃外大隱不離城市中萬瓦參差分上下衆山盤屈抱南東怳如避世遊眞境政可披襟快北風靜裏高懷誰認得乾坤應與是心同
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 權大夫鎬靜亭詩次韻
+  author: 楊以時
+  language: lzh
+  text: 新亭逈出塵埃外。大隱不離城市中。萬瓦參差分上下。衆山盤屈抱南東。怳如避世遊眞境。政可披襟快北風。靜裏高懷誰認得。乾坤應與是心同。
+korean:
+  title: 권대부 호의 정정에 차운하다
+  author: 양이시
+  language: kor
+  text: |-
+    새 정자가 티끌세상 밖에 우뚝 솟았는데
+    큰 은자는 워낙 성시를 안 떠나는 것
+    만 채 기와집 위 아래로 올망졸망 보이고
+    뭇 산이 구불구불 남쪽 동쪽 안고 있네
+    어허 세상을 피해 신선 고장에 노니는 듯
+    이봐 옷깃을 펼치니 북풍이 시원하군
+    고요한 중 높은 회포를 그 누가 이해할꼬
+    마음이 응당 천지와 하나가 되리로다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0190_010_0540&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 큰 은자(隱者)는 …… 떠나는 것 : '
+    value: 작은 은자는 숲 속에 숨고 큰 은자는 조시(朝市)에 숨는다는 글이 있다.
+english:
+  title: Rhyming with a Poem on Minister Kwon's Peaceful Pavilion
+  author: Yang Yi-si
+  language: eng
+  text: |-
+    A new pavilion rises pristine, beyond the dust of the mortal realm,
+    Yet the great recluse need not abandon the bustling market.
+    Ten thousand roof tiles scatter in disarray above and below,
+    While countless mountains coil and embrace the southern and eastern horizons.
+    It feels as though wandering in paradise, escaped from this world—
+    See how the north wind freshens when one opens one's robes.
+    Who in stillness can fathom such lofty sentiments?
+    The heart surely becomes one with heaven and earth.
+  footnotes:
+  - key: ''
+    value: 'The ''great recluse'' is a classical paradox: the lesser recluse hides in the forest, while the greater recluse hides within the bustling marketplace, suggesting true spiritual detachment transcends physical location.'

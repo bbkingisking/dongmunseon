@@ -1,0 +1,52 @@
+canonical:
+  title: 偶吟
+  author: 李穡
+  language: lzh
+  text: 桑海眞朝暮浮生况有涯陶潛方愛酒江揔未還家小雨山光活微風柳影斜勾回還游意獨坐賞年華
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 偶吟
+  author: 李穡
+  language: lzh
+  text: 桑海眞朝暮。浮生况有涯。陶潛方愛酒。江揔未還家。小雨山光活。微風柳影斜。勾回還游意。獨坐賞年華。
+korean:
+  title: 우음
+  author: 이색
+  language: kor
+  text: |-
+    상전벽해가 참으로 아침저녁인데
+    하물며 부생은 가이 있음에랴
+    도잠은 바야흐로 술을 사랑하고
+    강총은 집으로 돌아가지 못하네
+    가랑비가 지나니 산빛이 살았고
+    가는 바람에 버들 그림자가 비낀다
+    멀리 놀러 가려던 뜻을 돌려
+    혼자 앉아 풍경을 보내네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0130_010_0290&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 부생(浮生)은 가이 있음에랴 : '
+    value: 사람의 생(生)에는 가[涯 마지막 한도]가 있다. 그러므로 생애(生涯)라 한다.
+  - key: '[주-D002] 강총(江摠)은 집으로 돌아가지 못하네 : '
+    value: 양(梁)나라 문인(文人)  강총(江摠)이 난리를 만나서 고향을 떠나, 그의 외숙이 있는 영남(嶺南)으로 가서 의탁하였는데, 오랫동안 돌아오지 못하고 고향을 그리워하는 시를 지었다.
+english:
+  title: A Casual Verse
+  author: Lee Sek
+  language: eng
+  text: |-
+    The Sang and Hai transform—truly morning and evening pass.
+    How much more fleeting is this floating life, which has its bounds.
+    Tao Qian has learned to cherish wine,
+    yet Jiang Zong cannot find his way back home.
+
+    The sparse rain brings the mountain light alive,
+    the gentle breeze tilts the willow's shadow.
+    I turn back the wandering heart that yearned to roam,
+    and sit alone to watch the hours drift away.
+  footnotes:
+  - key: ''
+    value: 'Sang and Hai (桑海): An allusion to the dramatic geological transformations described in Chinese philosophy, symbolizing the impermanence of all things.'
+  - key: ''
+    value: 'Tao Qian: The Eastern Jin poet famous for his love of wine and his return to simple rural life.'
+  - key: ''
+    value: 'Jiang Zong: A Liang dynasty literatus who fled his homeland during turmoil and was unable to return home, becoming a symbol of exile and longing.'

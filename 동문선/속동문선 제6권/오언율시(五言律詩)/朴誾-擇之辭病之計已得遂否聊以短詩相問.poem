@@ -1,0 +1,48 @@
+canonical:
+  title: 擇之辭病之計已得遂否聊以短詩相問
+  author: 朴誾
+  language: lzh
+  text: 宦路忌孤立天公憎兩眸本無當世志倂與一官休出處須料理飢寒難自謀依然菊花月似是舊山秋
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 擇之辭病之計已得遂否聊以短詩相問
+  author: 朴誾
+  language: lzh
+  text: 宦路忌孤立。天公憎兩眸。本無當世志。倂與一官休。出處須料理。飢寒難自謀。依然菊花月。似是舊山秋。
+korean:
+  title: 택지 사병지계 이득수부 요이단시 상문
+  author: 박은
+  language: kor
+  text: |-
+    벼슬길이란 외로움을 꺼리고
+    하늘의 신은 두 눈동자 미워한다
+    본래부터 이 세상에 뜻 없더니
+    아울러 한 가지 벼슬조차 쉬려 하네
+    나아가고 머무름을 잘 처리하라
+    굶고 떨기 스스로 도모하기 어렵나니
+    국화 철은 여전히 변함이 없어
+    바로 고향의 가을과 같도다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_1420_010_0950&viewSync=OT
+  footnotes: []
+english:
+  title: 'On Choosing Wisely: Words on Sickness and Strategy, Whether Success or Failure—A Brief Poem to Query'
+  author: Park Eun
+  language: eng
+  text: |-
+    The official path abhors solitude,
+    and Heaven's gaze despises the ambitious eye.
+    I came with no designs for this world,
+    yet even one small office I would relinquish.
+
+    To advance or withdraw requires careful measure—
+    how difficult to escape hunger and cold alone.
+    Still the chrysanthemum blooms in its season,
+    echo of autumn in my native hills.
+  footnotes:
+  - key: ''
+    value: The title suggests this is a poem of inquiry posed to someone struggling with decisions about public service and retirement.
+  - key: ''
+    value: The 'two eyes' (兩眸) may reference ambition or the gaze of judgment—the poet disclaims such worldly hunger.
+  - key: ''
+    value: The chrysanthemum and autumn evoke classical associations with retirement from office and the unchanging beauty of nature.

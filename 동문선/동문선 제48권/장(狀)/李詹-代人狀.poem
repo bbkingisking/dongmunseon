@@ -1,0 +1,31 @@
+canonical:
+  title: 代人狀
+  author: 李詹
+  language: lzh
+  text: 江陵道爲國之紀必用其人京兆公受天之綸來寧雅俗敷施初政允勰衆情恭惟履用端莊襟懷沖邈挺儒宮之講訓評民局之諍論皇皇者華雖未遑啓處嘽嘽駱馬豈不敢懷歸伏念性本孱庸材非俊逸顧乏友賢之德猥承容物之仁位在下風別有二天之望勢難越境遙傳一扎之緘
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 代人狀
+  author: 李詹
+  language: lzh
+  text: 江陵道爲國之紀。必用其人。京兆公受天之綸。來寧雅俗。敷施初政。允勰衆情。恭惟履用端莊。襟懷沖邈。挺儒宮之講訓。評民局之諍論。皇皇者華。雖未遑啓處。嘽嘽駱馬。豈不敢懷歸。伏念性本孱庸。材非俊逸。顧乏友賢之德。猥承容物之仁。位在下風。別有二天之望。勢難越境。遙傳一扎之緘。
+korean:
+  title: 대인장
+  author: 이첨
+  language: kor
+  text: 강릉도(江陵道)는 나라의 중요한 땅이라서 반드시 적격자를 써야 하므로, 경조공(京兆公 부윤)이 임금의 명령을 받고 와서 풍속을 바로잡게 되셨으니, 첫 정사를 베푸심에 진실로 민심에 흡족합니다. 삼가 생각하건대, 행실이 단정하고 마음이 담박하며, 유궁(儒宮)의 강훈(講訓)을 바로세우고 민국(民局)의 굳센 의논을 평판을 내실 것입니다. 임금의 사명을 띠고 오신 몸이시기에 비록 휴식할 겨를이 없으시겠지만, 잘 달리는 준마를 타셨으니 어찌 돌아가기를 생각하지 않겠습니까. 엎드려 생각하건대, 저는 성품이 본시 용렬하고 생김새도 훤칠하지 못하여 어진 이를 벗할 만한 덕이 없다고 생각되었는데 외람되이 용납해 주시는 인(仁)을 입었으며 직위가 치하(治下)에 매여 있습니다. 그러나 서로 하늘을 바라보고 있으니, 형세가 지경을 넘어서기 어려워 멀리 한 장의 편지를 올리나이다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0510_010_0580&viewSync=OT
+  footnotes: []
+english:
+  title: A Missive on Behalf of Another
+  author: Lee Cham
+  language: eng
+  text: 'Gangneung Province stands as a vital keystone of the realm, requiring always the worthiest of hands. The Duke of Jingzhao, bearing heaven''s mandate, has come to restore propriety to our customs. In his maiden governance, he truly wins the hearts of our people. I humbly reflect upon his virtues: his conduct is steadfast and pure, his spirit serene and untroubled. He shall elevate the teachings within the halls of learning and give judgment upon the earnest counsel of the common offices. Though sent upon the royal commission, and thus lacking leisure for rest, he rides swift steeds—how then could his heart not turn homeward? Yet I must confess my own insufficiency: my nature is humble and plain, my talents unremarkable. I lack the virtue to stand as a worthy companion, and yet I have received his generosity and benevolence. Though my station remains humble beneath his, we gaze toward the same heaven together. Yet circumstance forbids me to cross such boundaries—and so I send this distant missive to you.'
+  footnotes:
+  - key: ''
+    value: This piece appears to be a formal recommendation or testimonial written on behalf of someone else, likely for an official position, hence the title 'A Missive on Behalf of Another.'
+  - key: ''
+    value: '''The Duke of Jingzhao'' refers to the addressee who has been appointed to govern Gangneung Province.'
+  - key: ''
+    value: '''Gazing toward the same heaven'' is a classical metaphor expressing shared aspirations and mutual respect despite differences in station.'

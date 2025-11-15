@@ -1,0 +1,38 @@
+canonical:
+  title: 鏡
+  author: 朴浩
+  language: lzh
+  text: 明如日月淸如水外照姸蚩內照心我鑑圓通長不變可憐群動自浮沉
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鏡
+  author: 朴浩
+  language: lzh
+  text: 明如日月淸如水。外照姸蚩內照心。我鑑圓通長不變。可憐群動自浮沉。
+korean:
+  title: 경
+  author: 박호
+  language: kor
+  text: |-
+    밝기는 일월 같고 맑기는 물 같은 것이
+    바깥으론 곱고 미운 것을 비치며 안으론 마음을 비치네
+    내 거울은 원통하여 길이 변하지 않는데
+    가련하다 뭇 움직임은 스스로 뜨고 잠기네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0220_020_0530&viewSync=OT
+  footnotes: []
+english:
+  title: The Mirror
+  author: Park Ho
+  language: eng
+  text: |-
+    Bright as sun and moon, clear as water,
+    Outward it reflects beauty and ugliness alike,
+    Inward it illuminates the heart.
+    My mirror is perfectly round and whole,
+    Eternal and unchanging—
+    Yet how pitiful: all things that move
+    Rise and sink of their own accord.
+  footnotes:
+  - key: ''
+    value: The mirror serves as a metaphor for the mind or enlightened consciousness in Buddhist and Daoist philosophy, reflecting both external phenomena and internal states without alteration or judgment.

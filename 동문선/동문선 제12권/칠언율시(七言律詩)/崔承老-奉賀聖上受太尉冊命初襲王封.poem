@@ -1,0 +1,52 @@
+canonical:
+  title: 奉賀聖上受太尉冊命初襲王封
+  author: 崔承老
+  language: lzh
+  text: 漢皇東注意偏深美我君王事大心八道詔書天上降九霄星騎日邊臨雲蒸紫殿浮佳瑞雷動彤庭布德音多幸微臣在朝列不勝歡慶貢巴吟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 奉賀聖上受太尉冊命初襲王封
+  author: 崔承老
+  language: lzh
+  text: 漢皇東注意偏深。美我君王事大心。八道詔書天上降。九霄星騎日邊臨。雲蒸紫殿浮佳瑞。雷動彤庭布德音。多幸微臣在朝列。不勝歡慶貢巴吟。
+korean:
+  title: 성상이 태위의 책명을 받아 처음 왕으로 이어 봉해짐을 받들어 하례하며
+  author: 최승로
+  language: kor
+  text: |-
+    한황께서 동녘을 권고하시는 뜻이 깊어
+    우리 임금 사대 정성을 갸륵히 여기셨네
+    팔도 조서가 하늘에서 내려와
+    구소(하늘이 가장 높은 곳)의 사신이 해 가에 임하였네
+    대궐에 뜬 서기는 구름같이 엉기었고
+    붉은 뜰에 윤음 선포되네
+    미신이 다행히 반열에 참예하여
+    끝없는 기쁨으로 서툰 시를 바치옵네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0150_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 성상(聖上)이 …… 봉(封)해짐 : '
+    value: 고려왕이 원나라로부터 책봉을 받았다.
+  - key: '[주-D002] 한황(漢皇) : '
+    value: 여기서는 중국 황제의 범칭(汎稱)으로 썼는데, 중국에서 중세에는 한나라가 대표적인 왕조(王朝)이다.
+  - key: '[주-D003] 윤음(綸音) : '
+    value: 천자(天子)의 유지(諭旨)를 말하는데, 《시경》에, “왕의 말씀이 실과 같아, 그 나옴이 윤(綸)과 같다[王言如絲 其出如綸].”는 구절이 있다.
+english:
+  title: Offering Congratulations as the Sovereign Receives the Appointment of Grand Commandant and is Invested with Royal Honors
+  author: Choi Seung-ro
+  language: eng
+  text: |-
+    The Emperor of Han turns his gaze eastward with profound care,
+    Approving how our sovereign shows such devotion to the great.
+    Edicts from all eight provinces descend from heaven above,
+    While celestial messengers arrive at the very edge of the sun.
+
+    Upon the purple palace, auspicious clouds gather and steam,
+    As thunder rolls across the crimson courtyard, proclaiming virtue's voice.
+    How fortunate this humble minister to stand among the assembly,
+    Offering clumsy verses in gratitude beyond measure.
+  footnotes:
+  - key: ''
+    value: The sovereign here refers to the Korean king receiving investiture from the Yuan Dynasty.
+  - key: ''
+    value: 綸音 (the imperial utterance) refers to the pronouncements of the Son of Heaven, traditionally likened to silk threads for their preciousness and formal authority.

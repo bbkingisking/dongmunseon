@@ -1,0 +1,38 @@
+canonical:
+  title: 謝借舫子狀
+  author: 崔致遠
+  language: lzh
+  text: 客司奉傳處分借賜舫子安下者某方脫窮鱗得攀畫鷁自慙跡在塵吏忽訝身爲水仙則彼甘寧割錦䌫而呈奢顧愷假布帆而無恙豈若榮捿德宇又泛仙舟風波無失所之憂煙月有搜吟之暇况淸流滿望暑氣銷威每當定志安神則乃銘肌刻骨謹課七言長句詩一首齊沐上獻干黷台堦下情無任荷戴兢惕之至
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 謝借舫子狀
+  author: 崔致遠
+  language: lzh
+  text: 客司奉傳處分。借賜舫子安下者。某方脫窮鱗。得攀畫鷁。自慙跡在塵吏。忽訝身爲水仙。則彼甘寧割錦䌫而呈奢。顧愷假布帆而無恙。豈若榮捿德宇。又泛仙舟。風波無失所之憂。煙月有搜吟之暇。况淸流滿望。暑氣銷威。每當定志安神。則乃銘肌刻骨。謹課七言長句詩一首。齊沐上獻。干黷台堦。下情無任荷戴兢惕之至。
+korean:
+  title: 사 차방자 장
+  author: 최치원
+  language: kor
+  text: 객사(客司)에서 전달하는 처분을 받들었는데 배[舫子]를 빌려주어 편히 거처하게 한다는 것이었습니다.모(某)는 바야흐로 궁린(窮鱗 물에 궁한 물고기)에서 벗어나, 화익(畵鷁 배의 이칭)을 더위잡게 되었으니, 스스로 부끄럽기는 자취가 티끌 속에 있는 관리로서 갑자기 물 위에 있는 신선이 된 듯합니다. 저 감녕(甘寧)이 금람(錦纜)으로 풍석을 만들어 화사함을 자랑했고, 고개지(顧愷之)는 포범(布帆)을 빌리어 탈이 없이 영광스럽게 덕문(德門)에 깃들었고, 또 선주(仙舟)를 띄워 풍파 속에서도 처소를 잃어버릴 염려가 없었는데 연월(煙月)을 구경하며 시를 지을 겨를이 있는 것만 같겠습니까.하물며 맑은 물결이 소망에 만족하고, 더운 기운은 그 위력을 잃으므로 매양 심신이 안정되니, 참으로 뼈에 새겨 잊을 수 없습니다. 삼가 칠언장구(七言長句)로 된 시 한 수를 지어 올리어 태계(台堦)를 번거롭게 하며, 지극히 감사하고 황송한 마음을 누를 길 없습니다.
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0500_010_0110&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 감녕(甘寧)이 금람(錦纜) : '
+    value: 감녕(甘寧)은 오(吳)나라 손권(孫權)의 장수인데, 일찍이 금람(錦纜)으로 풍석[帆]을 만들었다.
+  - key: '[주-D002] 고개지(顧愷之)는 포범(布帆) : '
+    value: 고개지는 진(晉)나라 사람인데 그림을 잘 그렸다. 일찍이 은중감(殷仲堪)의 참군(參軍)이 되었을 때, 고개지는 휴가를 얻어 동으로 가는데 은중감은 특별히 포범(布帆)을 빌려 주었던바, 풍랑을 만났으나 탈이 없었다.
+english:
+  title: A Letter of Gratitude for the Loan of a Boat
+  author: Choi Chi-won
+  language: eng
+  text: |-
+    I have received the directive transmitted through the Guest Quarters office, granting me the use of a boat for my dwelling. Thus have I escaped the plight of a fish gasping in shallow waters, and now I grasp the painted prow of a vessel. Yet I am ashamed—a mere dust-covered clerk transformed in an instant into a water immortal.
+
+    Didst not Kan Ning adorn his silk hawsers with lavish pride? And Ku K'ai-chih, borrowing humble canvas sails, dwelt unharmed in the halls of virtue, floating his celestial craft upon waters where no storm could rob him of shelter. How much more—with clear streams fulfilling my gaze and summer's heat surrendering its force—when heart and spirit find their rest, does this kindness etch itself upon my very bones, indelible as carved jade.
+
+    Thus do I humbly compose a poem in the seven-character regulated form and offer it up, transgressing upon the imperial threshold. My gratitude knows no bounds, my reverence no limit.
+  footnotes:
+  - key: ''
+    value: Kan Ning (甘寧) was a general of the kingdom of Wu under Sun Quan, famous for adorning his boat's sails with golden silk brocade (錦纜) as a display of wealth and status.
+  - key: ''
+    value: Ku K'ai-chih (顧愷之) was a painter of the Jin dynasty. When serving as aide to Yin Zhongkan, he obtained leave to travel east; Yin specially lent him a boat with canvas sails, and though Ku encountered stormy waters, he arrived safely.

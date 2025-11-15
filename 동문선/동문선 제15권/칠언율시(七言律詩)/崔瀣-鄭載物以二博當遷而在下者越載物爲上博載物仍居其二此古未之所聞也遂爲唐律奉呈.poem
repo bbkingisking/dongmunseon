@@ -1,0 +1,54 @@
+canonical:
+  title: 鄭載物以二博當遷而在下者越載物爲上博載物仍居其二此古未之所聞也遂爲唐律奉呈
+  author: 崔瀣
+  language: lzh
+  text: 丈夫行止有天公壟上曾嗟燕與鴻任我自迷芳餌下恠君仍在積薪中已知與奪由今日莫倚文章繼古風猶勝雞林狂處士十年咄咄坐書空
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 鄭載物以二博當遷而在下者越載物爲上博載物仍居其二此古未之所聞也遂爲唐律奉呈
+  author: 崔瀣
+  language: lzh
+  text: 丈夫行止有天公。壟上曾嗟燕與鴻。任我自迷芳餌下。恠君仍在積薪中。已知與奪由今日。莫倚文章繼古風。猶勝雞林狂處士。十年咄咄坐書空。
+korean:
+  title: 정재물이 이박으로 마땅히 벼슬이 승차되어야 하는데, 밑에 있는 자가 재물을 건너뛰어 상박이 되고 재물은 그대로 둘째에 있게 되니, 이는 옛날에 듣지 못한 일이다. 드디어 율시를 지어 받들어 드리다.
+  author: 최해
+  language: kor
+  text: |-
+    장부의 행지는 하늘이 주장하니
+    일찍이 밭둑 위에 제비와 기러기를 탄식한 일도 있네
+    나같은 사람은 냄새좋은 미끼 아래 헤매지만
+    자네는 어이 아직도 장작더미 속에 있는가
+    주고 빼앗음이 지금 사람에 달린 것 알았으니
+    문장이 고풍을 이었다고 믿지 마세
+    그래도 낫네, 계림의 미친 처사는
+    10년 동안 앉아서 허공에 글자만 쓰던 것보다는
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0030&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 밭둑 …… 탄식한 일 : '
+    value: 진말(秦末)에 진승(陳勝)이 큰 뜻을 품었으나 가난하여 품팔이로 밭을 갈다가 밭둑에 앉아 쉬면서, “왕후(王侯)와 장상(將相)이 어찌 종자가 있으랴.” 하고 탄식하니, 곁에 사람이 비웃었다. 그가 말하기를, “제비가 어찌 기러기ㆍ따오기의 뜻을 알까보냐.” 하였다.
+  - key: '[주-D002] 자네는 어이 …… 있는가 : '
+    value: 한 무제(漢武帝)가 사람을 쓰는데 먼저 벼슬한 사람보다 뒤에 벼슬한 사람을 높여서 쓰니 급암(汲黯)이, “폐하의 사람쓰는 것은 장작을 쌓는 것과 같아서 뒤에 온 자가 위에 올라갑니다.” 하였다.
+  - key: '[주-D003] 10년 동안 앉아서 …… 쓰던 것 : '
+    value: 진(晉)나라 은호(殷浩)가 파면되자 온종일 공중에 글자를 쓰고 앉아 있었는데, 누가 엿보니, ‘돌돌괴사(咄咄怪事)’ 넉 자만 자꾸 쓸 뿐이었다.
+english:
+  title: A Regulated Verse on the Unusual Promotion of Jeong Jae-mul, Presented in Remonstrance
+  author: Choe Hae
+  language: eng
+  text: |-
+    A man's rise and fall rest in Heaven's hands.
+    Once by the field's edge, I sighed at swallows and geese—
+    I, a fool, still stumble beneath sweet baits,
+    Yet you remain trapped within the woodpile.
+
+    Now I know that fortune flows from men alone,
+    So trust not that your writings inherit the ancient way.
+    Still, it surpasses that madman of Gyerim,
+    Who sat ten years scrawling empty words in air.
+  footnotes:
+  - key: ''
+    value: The swallows and geese reference alludes to Chen Sheng of Qin, who labored as a field hand and mused upon becoming a king or general, asking 'How could a swallow know the ambitions of eagles?'—a parable about recognizing greatness in humble circumstances.
+  - key: ''
+    value: The woodpile metaphor draws from the critique of Emperor Wu of Han's appointment practices by Ji'an, who compared the emperor's habit of promoting later appointees over earlier ones to stacking wood, where the topmost piece is always the newest.
+  - key: ''
+    value: The madman of Gyerim (ancient Korea) refers to Yin Hao of Jin, who after dismissal spent days writing characters in the air, compulsively repeating only the phrase 'How strange!' (咄咄怪事)—a symbol of futile despair and wasted talent.

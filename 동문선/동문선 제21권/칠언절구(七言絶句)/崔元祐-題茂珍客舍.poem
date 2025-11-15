@@ -1,0 +1,37 @@
+canonical:
+  title: 題茂珍客舍
+  author: 崔元祐
+  language: lzh
+  text: 脩竹家家翡翠啼雨催寒食水生溪蒼苔小草官橋路怕見殘紅入馬蹄
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 題茂珍客舍
+  author: 崔元祐
+  language: lzh
+  text: 脩竹家家翡翠啼。雨催寒食水生溪。蒼苔小草官橋路。怕見殘紅入馬蹄。
+korean:
+  title: 제무진객사
+  author: 최원우
+  language: kor
+  text: |-
+    대수풀 집집마다 비취가 우는데
+    비는 한식을 재촉해 시내에 물이 나네
+    푸른 이끼와 잔 풀이 돋은 관교의 길에
+    쇠잔한 꽃이 말발굽에 들어가는 것을 볼까 두려워한다
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0240_010_0520&viewSync=OT
+  footnotes: []
+english:
+  title: On the Guest House of Mao Zhen
+  author: Choi Won-woo
+  language: eng
+  text: |-
+    Graceful bamboo groves—in every home the jade-green orioles sing.
+    Rain urges on the cold feast season, swelling waters in the creek.
+    Across the official bridge, blue moss and tender grass take root,
+    And I fear to see the fading blossoms trampled beneath the horse's hooves.
+  footnotes:
+  - key: ''
+    value: The 'cold feast season' (한식) refers to the traditional Korean observance around early spring when visits to ancestral graves occur.
+  - key: ''
+    value: The official bridge and the imagery of decay suggest a meditation on transience and the cyclical nature of seasons and life.

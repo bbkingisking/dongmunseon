@@ -1,0 +1,49 @@
+canonical:
+  title: 多景樓陪權一齋用古人韻同賦
+  author: 李齊賢
+  language: lzh
+  text: 楊子津南古潤州幾番歡樂幾番愁佞臣謀國魚貪餌黠吏憂民鳥養羞風鐸夜喧潮入浦煙蓑暝立雨侵樓中流擊楫非吾事閑望天涯范蠡舟
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 多景樓陪權一齋用古人韻同賦
+  author: 李齊賢
+  language: lzh
+  text: 楊子津南古潤州。幾番歡樂幾番愁。佞臣謀國魚貪餌。黠吏憂民鳥養羞。風鐸夜喧潮入浦。煙蓑暝立雨侵樓。中流擊楫非吾事。閑望天涯范蠡舟。
+korean:
+  title: 다경루에서 권일재를 모시고 옛사람의 운으로 함께 지음
+  author: 이제현
+  language: kor
+  text: |-
+    양자강 남쪽, 옛 윤주
+    환락은 몇 번이고 시름은 얼마였던고
+    고기가 미끼를 탐하듯 나랏일 본 영신들
+    새가 모이를 기르듯이 백성 걱정하는 간리들
+    바람에 풍경이 뎅겅, 밀물이 포구에 들고
+    어둠속에 누역 오뚝, 비가 다락에 휘뿌리네
+    중류에 돛대를 침은 내 일이 아니로세
+    하늘 가 범려의 배를 한가히 바라보네
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0180_010_0470&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 중류에 돛대를 침 : '
+    value: 진(晉) 조적(狙逖)이 원제(元帝)에게 청하여 군사를 통합해서 북벌(北伐)할 때 양자강을 건너며 돛대를 치면서 맹세하기를, “중원을 밝히지 못하고 다시 건너면 이 강과 같으리라.” 했다. 드디어 그가 석륵(石勒)을 격파하고 황하 이남의 땅을 회복했다.
+  - key: '[주-D002] 범려(范蠡)의 배 : '
+    value: 범려(范蠡)가 계교를 써 오(吳)를 멸한 뒤에 벼슬을 버리고 미인 서시(西施)를 데리고 오호(五湖)에 떠 놀았다 한다.
+english:
+  title: At the Duojing Pavilion, Composing in Harmony with Ancient Rhymes in the Company of Kwon Il-jae
+  author: Lee Je-hyeon
+  language: eng
+  text: |-
+    South of the Yangzi, where ancient Runzhou once stood,
+    How many times did joy arrive? How many times did sorrow brood?
+    Corrupt ministers scheme for the realm like fish that crave the bait,
+    While conscientious officials tend their people like birds that guard their fate.
+    Wind chimes clang through the night as tides sweep into the inlet's mouth,
+    Smoke-shrouded boatmen stand in darkness as rain beats down from south.
+    To strike my oar mid-current is no longer mine to do—
+    I gaze afar, content, toward Fan Li's boat upon the boundless blue.
+  footnotes:
+  - key: ''
+    value: To strike one's oar mid-current refers to the oath of the Jin general Zu Ti, who vowed to drive back barbarian invaders and recover the Central Plain while crossing the Yangzi River. This poem contrasts such martial ambition with the speaker's deliberate withdrawal from worldly affairs.
+  - key: ''
+    value: Fan Li was a sage who, after helping to vanquish the state of Wu through wisdom and strategy, abandoned his official position and sailed away with the beauty Xi Shi to live freely among the Five Lakes—an image of the superior person's retreat from a corrupt world.
