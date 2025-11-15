@@ -1,0 +1,32 @@
+name: Validate Poems
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Clone poem-schema repository
+        run: git clone https://github.com/bbkingisking/poem-schema.git
+
+      - name: Build Rust validator
+        run: |
+          cd poem-schema/validators/rust
+          cargo build --release
+
+      - name: Validate all poems
+        run: |
+          find . -name "*.poem" -type f | while read -r poem_file; do
+            echo "Validating: $poem_file"
+            ./poem-schema/validators/rust/target/release/validate-poem "$poem_file"
+          done
+
