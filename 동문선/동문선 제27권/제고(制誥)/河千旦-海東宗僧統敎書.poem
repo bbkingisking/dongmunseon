@@ -23,9 +23,6 @@ english:
   language: eng
   text: 'The proclamation speaks as follows: Names illuminate truth, and positions are marked by virtue. Thus we select from the esteemed wishes of the monastic community, bestowing upon you the highest honor among the ordained. Now we grant you the official seal of Sangha Administrator—receive it with reverence.'
   footnotes:
-  - key: ''
-    value: Sangha Administrator (僧統) was an official ecclesiastical position in Korean Buddhism
-  - key: ''
-    value: The 'Eastern Tradition' refers to Buddhism in Korea
-  - key: ''
-    value: This appears to be a formal administrative document investing someone with monastic authority
+    - Sangha Administrator (僧統) was an official ecclesiastical position in Korean Buddhism
+    - The 'Eastern Tradition' refers to Buddhism in Korea
+    - This appears to be a formal administrative document investing someone with monastic authority

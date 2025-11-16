@@ -43,7 +43,5 @@ english:
     My homeland shimmers three thousand leagues away,
     A butterfly in dreams, I flutter through the night to find it.
   footnotes:
-  - key: ''
-    value: 'Zhuang Shi: A scholar from Yue during the Warring States period who took service in Chu but fell ill, yearning for his homeland.'
-  - key: ''
-    value: 'Zhong Xuan (Wang Can): A renowned poet of the Wei kingdom whose "Climbing Tower Rhapsody" was composed at Yueyang Tower, later known as Zhong Xuan''s Tower.'
+    - 'Zhuang Shi: A scholar from Yue during the Warring States period who took service in Chu but fell ill, yearning for his homeland.'
+    - 'Zhong Xuan (Wang Can): A renowned poet of the Wei kingdom whose "Climbing Tower Rhapsody" was composed at Yueyang Tower, later known as Zhong Xuan''s Tower.'

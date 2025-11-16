@@ -41,7 +41,5 @@ english:
     Half my life now spent in wandering exile,
     I read the verses of Chu, again and again.
   footnotes:
-  - key: ''
-    value: The 'palace gates' (北闕) refer to the royal court to the north, following the traditional Chinese orientation where the emperor faces south.
-  - key: ''
-    value: The 'verses of Chu' alludes to the Lisao (離騷), the classical elegy by Qu Yuan of the Chu kingdom, itself a meditation on exile and political displacement.
+    - The 'palace gates' (北闕) refer to the royal court to the north, following the traditional Chinese orientation where the emperor faces south.
+    - The 'verses of Chu' alludes to the Lisao (離騷), the classical elegy by Qu Yuan of the Chu kingdom, itself a meditation on exile and political displacement.

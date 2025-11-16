@@ -130,9 +130,6 @@ english:
 
     Beyond this, I know not what more to say.
   footnotes:
-  - key: ''
-    value: This piece is a memorial seeking patronage, employing numerous historical exemplars of noble patrons recognizing talented individuals despite their low circumstances.
-  - key: ''
-    value: The author, Im Chun (林椿), was a Goryeo scholar-official who fell from favor and sought restoration through this eloquent petition.
-  - key: ''
-    value: The repeated references to ancient worthy men—Zixia, Cao Can, Zhuge Liang, and others—establish a tradition of virtue transcending worldly rank, forming the philosophical foundation for the petition.
+    - This piece is a memorial seeking patronage, employing numerous historical exemplars of noble patrons recognizing talented individuals despite their low circumstances.
+    - The author, Im Chun (林椿), was a Goryeo scholar-official who fell from favor and sought restoration through this eloquent petition.
+    - The repeated references to ancient worthy men—Zixia, Cao Can, Zhuge Liang, and others—establish a tradition of virtue transcending worldly rank, forming the philosophical foundation for the petition.

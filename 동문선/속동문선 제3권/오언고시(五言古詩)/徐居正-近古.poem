@@ -43,7 +43,5 @@ english:
     Thrice I sigh, and sigh again,
     and so commit this sorrow to verse.
   footnotes:
-  - key: ''
-    value: The three calamities mentioned are heavy rain, drought, and violent winds—natural disasters that struck the capital during the summer of 1473.
-  - key: ''
-    value: The poem's structure moves from the tolerable to the intolerable, mirroring how each disaster, while destructive in isolation, becomes overwhelming when combined.
+    - The three calamities mentioned are heavy rain, drought, and violent winds—natural disasters that struck the capital during the summer of 1473.
+    - The poem's structure moves from the tolerable to the intolerable, mirroring how each disaster, while destructive in isolation, becomes overwhelming when combined.

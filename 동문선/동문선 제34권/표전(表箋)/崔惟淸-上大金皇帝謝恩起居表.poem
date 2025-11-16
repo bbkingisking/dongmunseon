@@ -27,7 +27,5 @@ english:
   language: eng
   text: Bound to the eastern frontier, my form cannot attend the court where jade and silk are offered in tribute. Yet my heart hangs fixed upon the northern palace, watching only for the gathering of wind and cloud.
   footnotes:
-  - key: ''
-    value: Jade and silk offerings refer to the ritual gifts presented by vassal princes when paying court to the Son of Heaven.
-  - key: ''
-    value: 'The gathering of wind and cloud alludes to the Classic of Changes: ''Clouds follow the dragon, wind follows the tiger''—a metaphor for the minister''s devoted following of the sovereign.'
+    - Jade and silk offerings refer to the ritual gifts presented by vassal princes when paying court to the Son of Heaven.
+    - 'The gathering of wind and cloud alludes to the Classic of Changes: ''Clouds follow the dragon, wind follows the tiger''—a metaphor for the minister''s devoted following of the sovereign.'

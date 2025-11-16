@@ -23,9 +23,6 @@ english:
   language: eng
   text: Long have I received your benevolent grace, humbly inheriting my ancestor's legacy in this distant land. From afar, I send forth my earnest devotion, yearning to behold the embroidered robes of imperial majesty in the heavens above.
   footnotes:
-  - key: ''
-    value: '箕裘 (Qi Qiu): A metaphor for inheriting and continuing one''s ancestors'' work and position, derived from the image of winnowing baskets and leather bellows passed down through generations'
-  - key: ''
-    value: '黼黻 (Fu Fu): Embroidered patterns symbolic of imperial authority and virtue, representing the dignity of imperial court'
-  - key: ''
-    value: '重霄 (Zhong Xiao): The layered heavens, a poetic reference to the celestial realm where imperial majesty dwells'
+    - '箕裘 (Qi Qiu): A metaphor for inheriting and continuing one''s ancestors'' work and position, derived from the image of winnowing baskets and leather bellows passed down through generations'
+    - '黼黻 (Fu Fu): Embroidered patterns symbolic of imperial authority and virtue, representing the dignity of imperial court'
+    - '重霄 (Zhong Xiao): The layered heavens, a poetic reference to the celestial realm where imperial majesty dwells'

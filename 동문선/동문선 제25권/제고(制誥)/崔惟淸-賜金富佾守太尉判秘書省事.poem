@@ -23,7 +23,5 @@ english:
   language: eng
   text: 'Thus it is decreed: You bear the weight of the realm upon your shoulders and stand as a teacher to all scholars. Yet claiming ailment, you seek to lay down the burdens of office. Therefore, we raise your rank and assign you to a post of lighter duties, granting you a position of serene authority. Know that when the heart is still, the spirit finds harmony. Go forth and receive this extraordinary grace.'
   footnotes:
-  - key: ''
-    value: The 'edict of appointment' (敎) was an official form of imperial or high-level bureaucratic communication in Classical Chinese governance
-  - key: ''
-    value: The reference to 'heart still, spirit harmonious' (心靜則氣平) reflects Neo-Confucian philosophical principles about inner cultivation and outer governance
+    - The 'edict of appointment' (敎) was an official form of imperial or high-level bureaucratic communication in Classical Chinese governance
+    - The reference to 'heart still, spirit harmonious' (心靜則氣平) reflects Neo-Confucian philosophical principles about inner cultivation and outer governance

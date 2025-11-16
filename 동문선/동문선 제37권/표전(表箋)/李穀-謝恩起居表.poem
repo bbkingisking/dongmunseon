@@ -23,9 +23,6 @@ english:
   language: eng
   text: Three years have passed since I inherited my position, yet no merit in governance and preservation of the realm can be discerned. As I offer wishes for ten thousand years of blessing, my heart ever races toward the virtue of humble repose.
   footnotes:
-  - key: ''
-    value: '習封 (seup-bong): inheriting or succeeding to an official position'
-  - key: ''
-    value: '垂拱 (su-gong): a Confucian ideal of virtuous rulership through non-action, literally ''hanging one''s arms in repose'''
-  - key: ''
-    value: This memorial appears to be written in the formal style of court documents, blending humble self-deprecation with aspirational Confucian ideals
+    - '習封 (seup-bong): inheriting or succeeding to an official position'
+    - '垂拱 (su-gong): a Confucian ideal of virtuous rulership through non-action, literally ''hanging one''s arms in repose'''
+    - This memorial appears to be written in the formal style of court documents, blending humble self-deprecation with aspirational Confucian ideals

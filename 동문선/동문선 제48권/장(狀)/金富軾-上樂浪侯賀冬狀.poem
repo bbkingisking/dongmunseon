@@ -38,9 +38,6 @@ english:
     Yet we remain bound by our official duties,
     unable to leave our posts and bow before your honored seat.
   footnotes:
-  - key: ''
-    value: The celestial sphere and sun's path references refer to traditional Chinese astronomical observation, where the sun's position at winter solstice in the Ox-Dipper mansion marks the beginning of the new astrological year.
-  - key: ''
-    value: The 'Child direction' (자 방위) refers to north in the traditional eight trigrams system, associated with winter and renewal.
-  - key: ''
-    value: The 'single yang' (일양) refers to the cosmological principle that begins the new cycle at winter solstice, when yang begins to grow anew from the depths of yin.
+    - The celestial sphere and sun's path references refer to traditional Chinese astronomical observation, where the sun's position at winter solstice in the Ox-Dipper mansion marks the beginning of the new astrological year.
+    - The 'Child direction' (자 방위) refers to north in the traditional eight trigrams system, associated with winter and renewal.
+    - The 'single yang' (일양) refers to the cosmological principle that begins the new cycle at winter solstice, when yang begins to grow anew from the depths of yin.

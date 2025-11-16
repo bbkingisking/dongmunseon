@@ -25,5 +25,4 @@ english:
   language: eng
   text: My qin has no fixed tune. What is the shang note, what is the gong? What manner of thing is this instrument, and whence comes its voice? Those crystalline, trickling tones—do they borrow their sound from the rapids between stones? Those whispering, rustling notes—do they steal their music from the wind through pines? Yet if we return the trickling sounds to the rapids, the rustling notes to the pines, what remains? Only silence. Only the great emptiness to which all returns.
   footnotes:
-  - key: ''
-    value: The five notes of Chinese music are gong (궁), shang (상), jiao (각), zhi (치), and yu (우). The poem alludes to this classical framework while questioning whether any fixed musical system can contain the instrument's true voice.
+    - The five notes of Chinese music are gong (궁), shang (상), jiao (각), zhi (치), and yu (우). The poem alludes to this classical framework while questioning whether any fixed musical system can contain the instrument's true voice.

@@ -40,7 +40,5 @@ english:
     Only now do I understand yesterday's mistakes,
     and see that nothing unfolds as I had hoped.
   footnotes:
-  - key: ''
-    value: The 'narrow hat' and 'sparse lamplight' evoke both the literal conditions of a traveler's journey and the poet's inner desolation
-  - key: ''
-    value: '''Silver thread'' is a classical image for aging, emphasizing the passage of time and loss'
+    - The 'narrow hat' and 'sparse lamplight' evoke both the literal conditions of a traveler's journey and the poet's inner desolation
+    - '''Silver thread'' is a classical image for aging, emphasizing the passage of time and loss'

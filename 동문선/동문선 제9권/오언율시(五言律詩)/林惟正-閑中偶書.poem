@@ -49,9 +49,6 @@ english:
     Whether fortune comes or stays away,
     Dufu's way.
   footnotes:
-  - key: ''
-    value: This poem is composed of literary allusions and quoted lines from celebrated Chinese poets, each attribution noted in the original. The work creates a meditation on transience and contentment through these borrowed voices.
-  - key: ''
-    value: The named locations (Clear Waters, Awarded Halls) appear to reference actual places or literary references known to the educated Korean reader of the period.
-  - key: ''
-    value: Dufu's name appears twice, suggesting the poet's particular affinity for this Tang master's philosophical perspective on life and acceptance.
+    - This poem is composed of literary allusions and quoted lines from celebrated Chinese poets, each attribution noted in the original. The work creates a meditation on transience and contentment through these borrowed voices.
+    - The named locations (Clear Waters, Awarded Halls) appear to reference actual places or literary references known to the educated Korean reader of the period.
+    - Dufu's name appears twice, suggesting the poet's particular affinity for this Tang master's philosophical perspective on life and acceptance.

@@ -23,7 +23,5 @@ english:
   language: eng
   text: Though earth divides us into south and north, marked by the mountains and rivers of Yu's domain, heaven encompasses both near and far alike, bestowing upon us the same sun and moon as the Han. As circumstances now bring us to correspond, I send this letter alongside my words, hoping that you may receive abundant blessings and thus fulfill the deep expectations I have long held for you.
   footnotes:
-  - key: ''
-    value: Yu's domain (禹蹟) refers to the territories controlled by Yu the Great in ancient Chinese mythology, here representing the division of land and geography.
-  - key: ''
-    value: Han family's sun and moon (漢家之日月) is an idiomatic expression suggesting universal illumination and impartial benevolence that transcends geographical boundaries.
+    - Yu's domain (禹蹟) refers to the territories controlled by Yu the Great in ancient Chinese mythology, here representing the division of land and geography.
+    - Han family's sun and moon (漢家之日月) is an idiomatic expression suggesting universal illumination and impartial benevolence that transcends geographical boundaries.

@@ -23,7 +23,5 @@ english:
   language: eng
   text: Guarding my distant fief upon the eastern seas, I cannot myself make the journey to pay my respects. Yet my thoughts reach toward the halls of the inner court, and my yearning gaze and reverent heart remain ever fervent.
   footnotes:
-  - key: ''
-    value: This is a formal memorial (표, biao) submitted to the Queen Dowager during the New Year season, a genre of official court correspondence common in medieval Korean and Chinese bureaucracy.
-  - key: ''
-    value: The 'eastern seas' refers to the author's provincial posting, away from the capital, emphasizing both his distance and his loyalty despite the separation.
+    - This is a formal memorial (표, biao) submitted to the Queen Dowager during the New Year season, a genre of official court correspondence common in medieval Korean and Chinese bureaucracy.
+    - The 'eastern seas' refers to the author's provincial posting, away from the capital, emphasizing both his distance and his loyalty despite the separation.

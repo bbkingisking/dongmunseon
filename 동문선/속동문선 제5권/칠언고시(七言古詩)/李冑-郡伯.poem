@@ -71,7 +71,5 @@ english:
     A small scholar in the mountains, witnessing this,
     Wishes to write it down, but finds no room left on the page.
   footnotes:
-  - key: ''
-    value: The 'painted horn' (畫角) is a military instrument that signals the hunt's beginning.
-  - key: ''
-    value: The final image of the scholar unable to fit his account on one page is a playful commentary on the grandeur of the general's achievement—its magnitude exceeds what mere paper can contain.
+    - The 'painted horn' (畫角) is a military instrument that signals the hunt's beginning.
+    - The final image of the scholar unable to fit his account on one page is a playful commentary on the grandeur of the general's achievement—its magnitude exceeds what mere paper can contain.

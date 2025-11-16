@@ -41,7 +41,5 @@ english:
     As night deepens, a peculiar melancholy stirs the heart:
     From distant heights, a cuckoo's cry pierces the air.
   footnotes:
-  - key: ''
-    value: 'This poem is composed as a linked-verse work (연구체), with each line attributed to different classical poets, both Chinese and Korean. The names in parentheses reference the literary masters whose style or sentiment each line evokes: Ouyang Xiu (子固), Bai Juyi (樂天), and others.'
-  - key: ''
-    value: The cuckoo (뻐꾸기/子規) traditionally symbolizes sorrow and longing in East Asian poetry, particularly associated with separation and the passage of time.
+    - 'This poem is composed as a linked-verse work (연구체), with each line attributed to different classical poets, both Chinese and Korean. The names in parentheses reference the literary masters whose style or sentiment each line evokes: Ouyang Xiu (子固), Bai Juyi (樂天), and others.'
+    - The cuckoo (뻐꾸기/子規) traditionally symbolizes sorrow and longing in East Asian poetry, particularly associated with separation and the passage of time.

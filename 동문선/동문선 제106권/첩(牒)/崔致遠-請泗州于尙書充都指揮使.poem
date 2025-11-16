@@ -23,9 +23,6 @@ english:
   language: eng
   text: "A memorial to the Minister of State:\n\nThe Minister has mastered the Classics of Confucius and widely studied the treatises on warfare. With aspirations stretching ten thousand li distant, he served three years as prefect of a remote province. Upon his banner flew the swift hawk; upon his carriage lay the skin of the deer. He comforted the weary people through benevolent governance and defended them against brigands through wise strategy. He restored the precious pearls to Hepu and scattered the multitudes of Qu Di. \n\nNow, as the remnants of the Xu Rong grow bold in their ravages, and the keen blades of Chu prepare to sweep them away, we shall not weep like Shen Bao-xu pleading for aid, nor shall we seize the armies of Jin Bi through force. Rather, let those swift as hunting dogs display their valor, and those fierce as bears and badgers take their place in formation. Yet all awaits his command. Then shall they unleash their prowess in assault and defense. Thus must real authority rest in his hands, that he may possess full command and control. Let the soldiers look upon his horse's head and know the proper course of advance and retreat. Let the enemy be forever vanquished, and let the laws of right and wrong be made clear. Therefore he must be appointed Commander-in-Chief. All the regional commanders and the garrison leaders of Ninghuai, Xuyi, and Huaiyin shall receive his directives."
   footnotes:
-  - key: ''
-    value: 'Shen Bao-xu: A historical figure from ancient China known for weeping at the gates of Qin, seeking aid for his homeland of Chu—here evoking a desperate plea for help'
-  - key: ''
-    value: 'Jin Bi: A general of ancient China whose forces were seized through deception—the text contrasts legitimate authority with obtaining power through cunning'
-  - key: ''
-    value: 'Hepu and Qu Di: References to famous instances of good governance restoring prosperity and managing populations'
+    - 'Shen Bao-xu: A historical figure from ancient China known for weeping at the gates of Qin, seeking aid for his homeland of Chu—here evoking a desperate plea for help'
+    - 'Jin Bi: A general of ancient China whose forces were seized through deception—the text contrasts legitimate authority with obtaining power through cunning'
+    - 'Hepu and Qu Di: References to famous instances of good governance restoring prosperity and managing populations'

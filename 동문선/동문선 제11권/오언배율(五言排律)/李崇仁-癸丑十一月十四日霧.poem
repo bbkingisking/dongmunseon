@@ -56,7 +56,5 @@ english:
     So let me simply sip a cup of wine,
     And let the fog do what it will.
   footnotes:
-  - key: ''
-    value: 'Five Marquises: A reference to the Later Han dynasty, when the Wang family was granted five marquisates, and a thick yellow fog covered the land all day.'
-  - key: ''
-    value: 'Three li of mist: The Daoist sage Zhang Kai was said to have conjured a five-li fog, while his contemporary Pei You created a three-li fog—legendary feats of mystical arts recorded in the History of the Later Han.'
+    - 'Five Marquises: A reference to the Later Han dynasty, when the Wang family was granted five marquisates, and a thick yellow fog covered the land all day.'
+    - 'Three li of mist: The Daoist sage Zhang Kai was said to have conjured a five-li fog, while his contemporary Pei You created a three-li fog—legendary feats of mystical arts recorded in the History of the Later Han.'

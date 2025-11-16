@@ -76,9 +76,6 @@ english:
     Returning to my emerald study, I read them again,
     The bright moon settles softly on my desk.
   footnotes:
-  - key: ''
-    value: 'Wang Can (王粲, 177-217): A celebrated poet of the Three Kingdoms period, known for his exceptional literary talent.'
-  - key: ''
-    value: 'Yongjai (容齋): Likely refers to Hong Sun-hap (홍순합), a contemporary scholar and poet esteemed for his literary and moral character.'
-  - key: ''
-    value: 'The Songs of Chu (楚亂): A reference to the Chu Ci (楚辭), the classical collection of southern Chinese poetry known for its passionate and ornate style.'
+    - 'Wang Can (王粲, 177-217): A celebrated poet of the Three Kingdoms period, known for his exceptional literary talent.'
+    - 'Yongjai (容齋): Likely refers to Hong Sun-hap (홍순합), a contemporary scholar and poet esteemed for his literary and moral character.'
+    - 'The Songs of Chu (楚亂): A reference to the Chu Ci (楚辭), the classical collection of southern Chinese poetry known for its passionate and ornate style.'

@@ -232,7 +232,5 @@ english:
     who in this world truly understands
     the poetry that dwells within?
   footnotes:
-  - key: ''
-    value: 'Xi Shi: A legendary beauty from the state of Yue whose frown was said to be as beautiful as her smile, establishing a classical trope in Chinese aesthetics where even the slightest gesture of beauty surpasses ordinary perfection.'
-  - key: ''
-    value: 'Meng Haoran: A renowned Tang dynasty poet known for his landscape poetry and reclusive nature, referenced here as a touchstone for poetic sensibility that transcends the merely visual.'
+    - 'Xi Shi: A legendary beauty from the state of Yue whose frown was said to be as beautiful as her smile, establishing a classical trope in Chinese aesthetics where even the slightest gesture of beauty surpasses ordinary perfection.'
+    - 'Meng Haoran: A renowned Tang dynasty poet known for his landscape poetry and reclusive nature, referenced here as a touchstone for poetic sensibility that transcends the merely visual.'

@@ -55,9 +55,6 @@ english:
 
     Accept our reverent offering.
   footnotes:
-  - key: ''
-    value: This poem was written as a prayer to the rain deity before a military campaign against Japanese pirates (倭奴), who were frequent raiders on the Korean coast during the Joseon period.
-  - key: ''
-    value: The metaphors of flushing out rabbits and toppling bird nests represent the complete destruction of enemy forces.
-  - key: ''
-    value: The request for dry weather reflects practical military concerns of the time—armor and weapons needed to remain dry and functional for combat effectiveness.
+    - This poem was written as a prayer to the rain deity before a military campaign against Japanese pirates (倭奴), who were frequent raiders on the Korean coast during the Joseon period.
+    - The metaphors of flushing out rabbits and toppling bird nests represent the complete destruction of enemy forces.
+    - The request for dry weather reflects practical military concerns of the time—armor and weapons needed to remain dry and functional for combat effectiveness.

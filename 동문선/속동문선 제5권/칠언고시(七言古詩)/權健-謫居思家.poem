@@ -44,9 +44,6 @@ english:
     shines only through the inner chamber,
     leaving my wife to weep without purpose.
   footnotes:
-  - key: ''
-    value: 'Jinlou (黔婁): A virtuous sage of ancient Qi during the Spring and Autumn period, remembered for maintaining noble principles despite extreme poverty.'
-  - key: ''
-    value: 'Bozong: A figure from classical Chinese literature known for his steadfast moral character even in adversity.'
-  - key: ''
-    value: 'Chang''an: The ancient capital of China, representing the seat of power and civilization from which the exiled poet is separated.'
+    - 'Jinlou (黔婁): A virtuous sage of ancient Qi during the Spring and Autumn period, remembered for maintaining noble principles despite extreme poverty.'
+    - 'Bozong: A figure from classical Chinese literature known for his steadfast moral character even in adversity.'
+    - 'Chang''an: The ancient capital of China, representing the seat of power and civilization from which the exiled poet is separated.'

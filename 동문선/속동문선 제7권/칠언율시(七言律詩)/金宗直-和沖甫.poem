@@ -46,9 +46,6 @@ english:
     If the North Star still holds true to Yao's serene governance,
     then with all the common people, I shall lay down my sorrows.
   footnotes:
-  - key: ''
-    value: 'Fu Xi and Shen Nong: Legendary sage-rulers of ancient China, the first to domesticate animals and practice agriculture respectively. Their names evoke the golden age of wise rule.'
-  - key: ''
-    value: 'The Dipper (北斗): The Big Dipper constellation, traditionally regarded as the throne of heaven and a symbol of imperial authority.'
-  - key: ''
-    value: 'The North Star: Here used as a metaphor for the ruler, suggesting that just governance by the throne brings peace to the realm.'
+    - 'Fu Xi and Shen Nong: Legendary sage-rulers of ancient China, the first to domesticate animals and practice agriculture respectively. Their names evoke the golden age of wise rule.'
+    - 'The Dipper (北斗): The Big Dipper constellation, traditionally regarded as the throne of heaven and a symbol of imperial authority.'
+    - 'The North Star: Here used as a metaphor for the ruler, suggesting that just governance by the throne brings peace to the realm.'

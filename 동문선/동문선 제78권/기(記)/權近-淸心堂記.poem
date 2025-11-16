@@ -28,9 +28,6 @@ english:
 
     Written in the summer, fifth month of the Hongwu era, year Bingzi.
   footnotes:
-  - key: ''
-    value: 'Mencius (372-289 BCE): The quote references Mencius 7B35, a foundational text in Neo-Confucian thought about moral cultivation.'
-  - key: ''
-    value: 'Three talents (三才): A cosmological concept referring to heaven, earth, and humanity as the three fundamental dimensions of existence.'
-  - key: ''
-    value: 'Human desire versus Heaven''s principle (人欲/天理): A key Neo-Confucian distinction between selfish impulses and the natural moral order of the universe.'
+    - 'Mencius (372-289 BCE): The quote references Mencius 7B35, a foundational text in Neo-Confucian thought about moral cultivation.'
+    - 'Three talents (三才): A cosmological concept referring to heaven, earth, and humanity as the three fundamental dimensions of existence.'
+    - 'Human desire versus Heaven''s principle (人欲/天理): A key Neo-Confucian distinction between selfish impulses and the natural moral order of the universe.'

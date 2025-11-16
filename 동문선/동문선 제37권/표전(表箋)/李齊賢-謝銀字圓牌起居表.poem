@@ -23,7 +23,5 @@ english:
   language: eng
   text: With the Eastern Sea as my domain's boundary, I have received this gracious appointment. In my humble station beneath the Northern Star, I pledge my unwavering loyalty.
   footnotes:
-  - key: ''
-    value: The Eastern Sea (東海) refers to the eastern frontier of the Korean peninsula, likely indicating the author's provincial posting.
-  - key: ''
-    value: The Northern Star (北辰) is a traditional metaphor for the ruler, derived from Confucian imagery of the sage-king as the fixed pole around which all things revolve.
+    - The Eastern Sea (東海) refers to the eastern frontier of the Korean peninsula, likely indicating the author's provincial posting.
+    - The Northern Star (北辰) is a traditional metaphor for the ruler, derived from Confucian imagery of the sage-king as the fixed pole around which all things revolve.

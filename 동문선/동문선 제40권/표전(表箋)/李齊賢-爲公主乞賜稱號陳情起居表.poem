@@ -29,9 +29,6 @@ english:
   language: eng
   text: Guarding the green lands of the eastern realm, I am thrice denied the audience with the sovereign each day; yet in offering prayers to the palace, I forever echo the ten-thousand cheers that once rang from sacred peaks.
   footnotes:
-  - key: ''
-    value: The 'green lands' (靑社) refer to the eastern territories, as green corresponds to the east among the five cardinal colors.
-  - key: ''
-    value: The 'thrice daily audience' (晉接) derives from the Book of Changes, which describes the sovereign receiving ministers three times daily.
-  - key: ''
-    value: The 'sacred cheers' (嵩呼) refers to the ceremonial acclamation used to honor the ruler, originating from the account of the Han Emperor ascending Mount Song, where officers and soldiers cried out 'ten thousand years' in joyous celebration.
+    - The 'green lands' (靑社) refer to the eastern territories, as green corresponds to the east among the five cardinal colors.
+    - The 'thrice daily audience' (晉接) derives from the Book of Changes, which describes the sovereign receiving ministers three times daily.
+    - The 'sacred cheers' (嵩呼) refers to the ceremonial acclamation used to honor the ruler, originating from the account of the Han Emperor ascending Mount Song, where officers and soldiers cried out 'ten thousand years' in joyous celebration.

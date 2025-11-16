@@ -63,7 +63,5 @@ english:
     A subject's noble deeds gather in one body:
     Three thousand miles between imperial audience and filial return.
   footnotes:
-  - key: ''
-    value: The 'herald's star' alludes to a celestial omen announcing the dispatch of imperial messengers, drawing on the legend of the Han dynasty's secret inspectors whose arrival was predicted through astronomical observation.
-  - key: ''
-    value: The 'Embroidered Censor' refers to the special honor of imperial censors appointed by the Han emperor, who were distinguished by embroidered robes as a mark of imperial favor.
+    - The 'herald's star' alludes to a celestial omen announcing the dispatch of imperial messengers, drawing on the legend of the Han dynasty's secret inspectors whose arrival was predicted through astronomical observation.
+    - The 'Embroidered Censor' refers to the special honor of imperial censors appointed by the Han emperor, who were distinguished by embroidered robes as a mark of imperial favor.

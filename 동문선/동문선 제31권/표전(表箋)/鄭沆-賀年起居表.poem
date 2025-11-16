@@ -23,7 +23,5 @@ english:
   language: eng
   text: That I maintain my post as a provincial governor flows from Your Majesty's gracious favor toward me. My heart, ever drawn toward the capital, can only deepen in devoted longing for the throne.
   footnotes:
-  - key: ''
-    value: '箕封 (Qi Feng): A reference to a provincial post or territory, drawn from classical precedent of worthy officials governing distant lands.'
-  - key: ''
-    value: '魏闕 (Wei Que): The palace gates of the capital, symbolizing the seat of royal authority and the writer''s loyalty to the throne.'
+    - '箕封 (Qi Feng): A reference to a provincial post or territory, drawn from classical precedent of worthy officials governing distant lands.'
+    - '魏闕 (Wei Que): The palace gates of the capital, symbolizing the seat of royal authority and the writer''s loyalty to the throne.'

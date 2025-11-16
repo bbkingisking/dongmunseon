@@ -40,9 +40,6 @@ english:
     where does that single cry of barbarian flute come from,
     rousing sorrow in the hearts of men?
   footnotes:
-  - key: ''
-    value: 'Dengzhou: A historical fortress city in northern China, strategically important during various dynasties'
-  - key: ''
-    value: The poem employs the classical 'ruins' genre (怀古), reflecting on the fall of dynasties and the futility of human ambition through the decay of once-great fortifications
-  - key: ''
-    value: The 'barbarian flute' (羌笛) evokes the sounds of northern invasions and the vulnerability of the frontier
+    - 'Dengzhou: A historical fortress city in northern China, strategically important during various dynasties'
+    - The poem employs the classical 'ruins' genre (怀古), reflecting on the fall of dynasties and the futility of human ambition through the decay of once-great fortifications
+    - The 'barbarian flute' (羌笛) evokes the sounds of northern invasions and the vulnerability of the frontier

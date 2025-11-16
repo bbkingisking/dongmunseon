@@ -69,7 +69,5 @@ english:
     No promise of a future meeting day,
     So here I linger, unable to turn away.
   footnotes:
-  - key: ''
-    value: 'The reference to ancient poetry expresses a famous couplet: ''There is no greater joy than newly knowing a friend, and no greater sorrow than parting in life.'''
-  - key: ''
-    value: The goose imagery alludes to someone who departs to distant heights, beyond reach.
+    - 'The reference to ancient poetry expresses a famous couplet: ''There is no greater joy than newly knowing a friend, and no greater sorrow than parting in life.'''
+    - The goose imagery alludes to someone who departs to distant heights, beyond reach.

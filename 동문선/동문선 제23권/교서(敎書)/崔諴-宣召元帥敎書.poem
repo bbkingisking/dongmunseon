@@ -34,7 +34,5 @@ english:
 
     As spring's warmth arrives, I trust you are in good health. Words cannot convey all that this letter would say.
   footnotes:
-  - key: ''
-    value: The Chinese character for 'martial' (武) is composed of 'stop' (止) and 'weapon' (戈), signifying that true martial virtue lies in ending conflict rather than perpetuating it.
-  - key: ''
-    value: The phrase 'swift-and-cunning' (拙速) alludes to military treatises attributed to Sun Tzu and Wu Qi, which hold that swift, even imperfect execution surpasses slow, refined deliberation.
+    - The Chinese character for 'martial' (武) is composed of 'stop' (止) and 'weapon' (戈), signifying that true martial virtue lies in ending conflict rather than perpetuating it.
+    - The phrase 'swift-and-cunning' (拙速) alludes to military treatises attributed to Sun Tzu and Wu Qi, which hold that swift, even imperfect execution surpasses slow, refined deliberation.

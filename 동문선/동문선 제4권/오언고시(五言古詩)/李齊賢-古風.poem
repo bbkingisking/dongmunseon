@@ -94,9 +94,6 @@ english:
     I return to my yellow books,
     Laugh once, and smile to myself again.
   footnotes:
-  - key: ''
-    value: The 'yellow books' refer to classical texts, the precious pursuits of the scholarly recluse.
-  - key: ''
-    value: This poem reflects the literati ideal of withdrawing from official service to pursue a life of contemplation, wine, and harmony with nature.
-  - key: ''
-    value: Lee Je-hyeon (1287-1367) was a Goryeo scholar-official who exemplified the Confucian literatus balancing service with the Daoist and Buddhist ideals of renunciation.
+    - The 'yellow books' refer to classical texts, the precious pursuits of the scholarly recluse.
+    - This poem reflects the literati ideal of withdrawing from official service to pursue a life of contemplation, wine, and harmony with nature.
+    - Lee Je-hyeon (1287-1367) was a Goryeo scholar-official who exemplified the Confucian literatus balancing service with the Daoist and Buddhist ideals of renunciation.

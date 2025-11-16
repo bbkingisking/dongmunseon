@@ -111,11 +111,7 @@ english:
     I write these verses and sigh three times through—
     let hardship endured burn deep in memory's shrine.
   footnotes:
-  - key: ''
-    value: 'White Peak: A mountain in Shanxi where the Han emperor was besieged by the Xiongnu for seven days'
-  - key: ''
-    value: 'Red Cliff: Where the general Zhou Yu destroyed Cao Cao''s fleet through fire attack'
-  - key: ''
-    value: 'Kunyang: Where the Han general defeated a million of Wang Mang''s forces'
-  - key: ''
-    value: 'Wuan: A city that experienced catastrophic wind damage during a military campaign'
+    - 'White Peak: A mountain in Shanxi where the Han emperor was besieged by the Xiongnu for seven days'
+    - 'Red Cliff: Where the general Zhou Yu destroyed Cao Cao''s fleet through fire attack'
+    - 'Kunyang: Where the Han general defeated a million of Wang Mang''s forces'
+    - 'Wuan: A city that experienced catastrophic wind damage during a military campaign'

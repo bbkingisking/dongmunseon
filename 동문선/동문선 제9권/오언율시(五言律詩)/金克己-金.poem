@@ -40,7 +40,5 @@ english:
     That melody—is it not "Falling Plum Blossoms"?
     Each note, each note severs the wanderer's heart.
   footnotes:
-  - key: ''
-    value: '"Falling Plum Blossoms" (落梅花曲) is a traditional Chinese tune often played on the flute, associated with melancholy and parting.'
-  - key: ''
-    value: The poem employs the traditional motif of the traveler on an evening journey, using natural imagery and distant music to evoke the ache of separation and homesickness.
+    - '"Falling Plum Blossoms" (落梅花曲) is a traditional Chinese tune often played on the flute, associated with melancholy and parting.'
+    - The poem employs the traditional motif of the traveler on an evening journey, using natural imagery and distant music to evoke the ache of separation and homesickness.

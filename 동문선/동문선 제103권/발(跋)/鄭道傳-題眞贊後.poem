@@ -23,9 +23,6 @@ english:
   language: eng
   text: The two eulogies above were composed by Gwon Ka-won of Yangchon. Though the subject lacks sufficient merit to honor the brush of such a master, I confess I am deeply ashamed that his words exceed what is fitting. Yet since we have studied together for so long, our mutual observation has grown equally deep—can there not be truth in what escapes refutation? The eulogy by Master Choi captures the spirit that transcends the painted form itself. Therefore I record this to show to my descendants.
   footnotes:
-  - key: ''
-    value: Yangchon (陽村) refers to Gwon Ka-won, whose courtesy name was Yangchon.
-  - key: ''
-    value: The 'two eulogies' were prose tributes written to accompany portraits, a common literary genre in classical East Asia.
-  - key: ''
-    value: The reference to 'painting beyond the painting' (畫外傳神) is a classical aesthetic principle suggesting that true artistic merit lies in capturing essence rather than mere appearance.
+    - Yangchon (陽村) refers to Gwon Ka-won, whose courtesy name was Yangchon.
+    - The 'two eulogies' were prose tributes written to accompany portraits, a common literary genre in classical East Asia.
+    - The reference to 'painting beyond the painting' (畫外傳神) is a classical aesthetic principle suggesting that true artistic merit lies in capturing essence rather than mere appearance.

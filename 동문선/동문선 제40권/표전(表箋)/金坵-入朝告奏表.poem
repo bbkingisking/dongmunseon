@@ -23,7 +23,5 @@ english:
   language: eng
   text: Though heaven stretches distant, my devotion as a subject redoubles my urgency to hasten forth. Wherever the North Star's light falls, still do I envision the imperial palace, my gaze forever lifted in reverence.
   footnotes:
-  - key: ''
-    value: The North Star (北斗) traditionally symbolizes the emperor's throne in Chinese and Korean poetry, representing the axis around which all things revolve.
-  - key: ''
-    value: The memorial form (表) was a formal petition or statement presented to the throne, typically expressing loyalty and commitment to service.
+    - The North Star (北斗) traditionally symbolizes the emperor's throne in Chinese and Korean poetry, representing the axis around which all things revolve.
+    - The memorial form (表) was a formal petition or statement presented to the throne, typically expressing loyalty and commitment to service.

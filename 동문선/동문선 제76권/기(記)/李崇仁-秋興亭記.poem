@@ -50,11 +50,7 @@ english:
 
     So I write this record.
   footnotes:
-  - key: ''
-    value: 'Zengzi spoke: a reference to the famous passage where Confucius''s disciple Zengzi expresses his ambition to wander freely among mountains and waters.'
-  - key: ''
-    value: 'Liezi riding the wind: a Daoist sage said to ride upon the wind, representing perfect freedom and harmony with nature.'
-  - key: ''
-    value: 'Shanzhong: a famous scenic region in ancient China known for its natural beauty, associated with the poet Wang Ziyou''s impromptu journey in snow.'
-  - key: ''
-    value: 'Roushou: the autumn deity in Chinese cosmology, representing the western direction and the season''s clearing influence on the human spirit.'
+    - 'Zengzi spoke: a reference to the famous passage where Confucius''s disciple Zengzi expresses his ambition to wander freely among mountains and waters.'
+    - 'Liezi riding the wind: a Daoist sage said to ride upon the wind, representing perfect freedom and harmony with nature.'
+    - 'Shanzhong: a famous scenic region in ancient China known for its natural beauty, associated with the poet Wang Ziyou''s impromptu journey in snow.'
+    - 'Roushou: the autumn deity in Chinese cosmology, representing the western direction and the season''s clearing influence on the human spirit.'

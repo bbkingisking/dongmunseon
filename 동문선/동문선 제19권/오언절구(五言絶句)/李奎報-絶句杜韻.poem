@@ -35,7 +35,5 @@ english:
     As evening fades, scattered silk streamers drift,
     When rain grows fierce, confused pearls leap and dance.
   footnotes:
-  - key: ''
-    value: This poem follows the rhyme scheme of Du Fu (杜甫), the great Tang Dynasty poet, as indicated by the title.
-  - key: ''
-    value: The image of scattered silk and pearls alludes to imagery found in classical Chinese poetry, evoking both natural beauty and the transience of the moment.
+    - This poem follows the rhyme scheme of Du Fu (杜甫), the great Tang Dynasty poet, as indicated by the title.
+    - The image of scattered silk and pearls alludes to imagery found in classical Chinese poetry, evoking both natural beauty and the transience of the moment.

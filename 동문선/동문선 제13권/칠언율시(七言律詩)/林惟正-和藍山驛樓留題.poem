@@ -39,7 +39,5 @@ english:
     At dawn I speak to the moon hanging west of this tower:
     Why not linger a moment longer for the sake of poetry?
   footnotes:
-  - key: ''
-    value: This is a collaborative poem (唱和詩), where each line was written by a different poet in response to previous verses. The names in parentheses indicate the original authors of each couplet being echoed.
-  - key: ''
-    value: Lanshan (藍山) Relay Station was a famous historical waystation where poets would gather and leave commemorative verses.
+    - This is a collaborative poem (唱和詩), where each line was written by a different poet in response to previous verses. The names in parentheses indicate the original authors of each couplet being echoed.
+    - Lanshan (藍山) Relay Station was a famous historical waystation where poets would gather and leave commemorative verses.

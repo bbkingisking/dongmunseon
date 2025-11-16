@@ -42,7 +42,5 @@ english:
 
     Written in the twelfth month.
   footnotes:
-  - key: ''
-    value: 'The reference to ''that ancient sage''s desire'' alludes to Confucian teachings: when Confucius asked his disciples about their aspirations, while others spoke of ambition and service, the sage Zengdian described simply walking in the spring breeze, bathing in streams, and returning home—a vision of spiritual contentment that Confucius himself praised. This pavilion thus becomes a place where such profound simplicity might be attained.'
-  - key: ''
-    value: The mention of wind-swept trees falling to provide excellent timber suggests providential aid to the construction, a detail that elevates the pavilion from mere human effort to something aided by nature itself.
+    - 'The reference to ''that ancient sage''s desire'' alludes to Confucian teachings: when Confucius asked his disciples about their aspirations, while others spoke of ambition and service, the sage Zengdian described simply walking in the spring breeze, bathing in streams, and returning home—a vision of spiritual contentment that Confucius himself praised. This pavilion thus becomes a place where such profound simplicity might be attained.'
+    - The mention of wind-swept trees falling to provide excellent timber suggests providential aid to the construction, a detail that elevates the pavilion from mere human effort to something aided by nature itself.

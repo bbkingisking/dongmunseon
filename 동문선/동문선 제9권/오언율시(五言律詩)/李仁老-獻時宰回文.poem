@@ -57,9 +57,6 @@ english:
     My poems achieved, all labor wrought in vain—
     I sought office through early study's toil.
   footnotes:
-  - key: ''
-    value: This is a huimun (回文) or palindromic poem, a Korean poetic form where the second half mirrors and reverses the first half. The work demonstrates the virtuosity characteristic of Goryeo literary culture.
-  - key: ''
-    value: The 'withered fish' (枯鱗) is a metaphor for the poet's own impoverished condition and his hope for patronage and aid.
-  - key: ''
-    value: The poem laments the gap between scholarly ambition and material hardship, expressing both gratitude for past support and anxiety about survival.
+    - This is a huimun (回文) or palindromic poem, a Korean poetic form where the second half mirrors and reverses the first half. The work demonstrates the virtuosity characteristic of Goryeo literary culture.
+    - The 'withered fish' (枯鱗) is a metaphor for the poet's own impoverished condition and his hope for patronage and aid.
+    - The poem laments the gap between scholarly ambition and material hardship, expressing both gratitude for past support and anxiety about survival.

@@ -39,9 +39,6 @@ english:
     There is a hidden scholar dwelling south of here,
     And in our chance meetings, we have become true friends.
   footnotes:
-  - key: ''
-    value: This poem is composed of quoted lines, with attributions to various literary figures. Each couplet or phrase credits different poets and writers, creating a collaborative work that weaves together their voices.
-  - key: ''
-    value: The references include Tang poet Bai Juyi (樂天), Song literati Om Sukkyeong (舜欽), Ou Yangxiu (永叔), and other classical scholars, reflecting the author's engagement with both Chinese and Korean literary traditions.
-  - key: ''
-    value: The work addresses Official Li (李注簿), likely a government functionary, using seasonal imagery and philosophical leisure as themes for contemplation.
+    - This poem is composed of quoted lines, with attributions to various literary figures. Each couplet or phrase credits different poets and writers, creating a collaborative work that weaves together their voices.
+    - The references include Tang poet Bai Juyi (樂天), Song literati Om Sukkyeong (舜欽), Ou Yangxiu (永叔), and other classical scholars, reflecting the author's engagement with both Chinese and Korean literary traditions.
+    - The work addresses Official Li (李注簿), likely a government functionary, using seasonal imagery and philosophical leisure as themes for contemplation.

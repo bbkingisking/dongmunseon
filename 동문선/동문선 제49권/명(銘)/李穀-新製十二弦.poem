@@ -27,7 +27,5 @@ english:
   language: eng
   text: Neither refined nor common, neither ancient nor modern. Since it cannot be called a zither, who would dare name it a qin? It ranks below the manufacture of the zheng and the chu, and occupies a middle ground between the music of Shao and that of the Jurchen. Thus it falls short of being worthy for the sacrifices at heaven and the ancestral temple, or for the feasts of lords and ministers. Yet it remains capable of cleansing the dust-laden ear and refreshing the weary heart.
   footnotes:
-  - key: ''
-    value: The zheng and chu are ancient stringed instruments; the music of Shao refers to the legendary compositions of Emperor Shun, while the music of the Jurchen peoples represents more distant, foreign traditions.
-  - key: ''
-    value: Sacrifices at heaven (jiao) and ancestral temples (miao) represent the highest ceremonial uses of music in classical East Asian culture.
+    - The zheng and chu are ancient stringed instruments; the music of Shao refers to the legendary compositions of Emperor Shun, while the music of the Jurchen peoples represents more distant, foreign traditions.
+    - Sacrifices at heaven (jiao) and ancestral temples (miao) represent the highest ceremonial uses of music in classical East Asian culture.

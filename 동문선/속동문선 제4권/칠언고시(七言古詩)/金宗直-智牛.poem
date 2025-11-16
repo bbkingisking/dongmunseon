@@ -128,7 +128,5 @@ english:
 
     Ah, who could fathom the depths of my heart?
   footnotes:
-  - key: ''
-    value: 'Ren-zi-weng (Human-Salted-Fish-Jar): A treacherous section of the Yangtze River known for shipwrecks, named darkly for its danger.'
-  - key: ''
-    value: 'Mei-pi: The Tang poet Cen Shen and his brother famously took pleasure boating at Mei-pi, inspiring Du Fu''s poem ''Journey to Mei-pi.'''
+    - 'Ren-zi-weng (Human-Salted-Fish-Jar): A treacherous section of the Yangtze River known for shipwrecks, named darkly for its danger.'
+    - 'Mei-pi: The Tang poet Cen Shen and his brother famously took pleasure boating at Mei-pi, inspiring Du Fu''s poem ''Journey to Mei-pi.'''

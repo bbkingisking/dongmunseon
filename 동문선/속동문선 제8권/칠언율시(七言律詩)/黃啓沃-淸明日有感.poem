@@ -46,9 +46,6 @@ english:
     Clear and Bright has come and gone, yet I perceive nothing.
     Not the Lord of Spring's betrayal, but my own blindness.
   footnotes:
-  - key: ''
-    value: Clear and Bright (Qingming/청명) is a traditional festival marking the spring equinox, traditionally a day for tomb-sweeping and reflection
-  - key: ''
-    value: The morning and evening hours referenced (卯申) represent the typical official working hours of a government servant
-  - key: ''
-    value: The Lord of Spring (東君) is a personification of spring itself in classical Chinese poetry
+    - Clear and Bright (Qingming/청명) is a traditional festival marking the spring equinox, traditionally a day for tomb-sweeping and reflection
+    - The morning and evening hours referenced (卯申) represent the typical official working hours of a government servant
+    - The Lord of Spring (東君) is a personification of spring itself in classical Chinese poetry

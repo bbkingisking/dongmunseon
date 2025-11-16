@@ -49,9 +49,6 @@ english:
     I must return and ask the hermits of Deer Gate—
     what is the secret to their peace?
   footnotes:
-  - key: ''
-    value: 'Tao Yuanming (陶令): The famous recluse poet of the Jin dynasty, known for his contentment with simple living and his love of wine.'
-  - key: ''
-    value: 'Feng Wan (馮湲): A historical figure known for his resourcefulness—though without a carriage, his clever song earned him one from his patron, the Lord of Mengshang.'
-  - key: ''
-    value: 'Deer Gate (鹿門): A mountain retreat where the sage Pang Degong withdrew from the world during the late Han dynasty, never to be persuaded to take office.'
+    - 'Tao Yuanming (陶令): The famous recluse poet of the Jin dynasty, known for his contentment with simple living and his love of wine.'
+    - 'Feng Wan (馮湲): A historical figure known for his resourcefulness—though without a carriage, his clever song earned him one from his patron, the Lord of Mengshang.'
+    - 'Deer Gate (鹿門): A mountain retreat where the sage Pang Degong withdrew from the world during the late Han dynasty, never to be persuaded to take office.'

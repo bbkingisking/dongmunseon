@@ -23,7 +23,5 @@ english:
   language: eng
   text: Heaven and earth, vast as they are, leave nothing unembracèd. What the frost and dew have touched, each region faithfully presents as tribute. Thus it is said. Though my selection is meager and my craftsmanship crude, I merely seek to express the humble sentiments of those below. How could I dare presume these offerings worthy of the imperial treasury?
   footnotes:
-  - key: ''
-    value: '職貢 (duty-tribute): refers to the traditional system of regional tribute presented to the court'
-  - key: ''
-    value: '內帑 (inner treasury): the imperial treasury, suggesting deference to the emperor''s judgment'
+    - '職貢 (duty-tribute): refers to the traditional system of regional tribute presented to the court'
+    - '內帑 (inner treasury): the imperial treasury, suggesting deference to the emperor''s judgment'

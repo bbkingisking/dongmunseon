@@ -58,7 +58,5 @@ english:
     Unable to see Chang'an, I feel myself grow old,
     while solitary clouds and setting sun merge into obscurity.
   footnotes:
-  - key: ''
-    value: Double Ninth (中陽) refers to the ninth day of the ninth lunar month, a traditional East Asian festival celebrated on high places.
-  - key: ''
-    value: Chang'an (長安) refers to the ancient capital, symbolizing home and a place of belonging.
+    - Double Ninth (中陽) refers to the ninth day of the ninth lunar month, a traditional East Asian festival celebrated on high places.
+    - Chang'an (長安) refers to the ancient capital, symbolizing home and a place of belonging.
