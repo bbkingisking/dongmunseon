@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This repository contains all 4897 works from the [Dongmunseon (東文選)](https://en.namu.wiki/w/%EB%8F%99%EB%AC%B8%EC%84%A0), which is “a collection of historical poetry in Korea created during the Joseon Dynasty”. The compilation of the Dongmunseon was completed in 1478 and it contains works from the late Unified Silla period (9th century) all the way up to the compilation of the Dongmunseon itself (late 15th century).
+This repository contains 4897 works from the [Dongmunseon (東文選)](https://en.namu.wiki/w/%EB%8F%99%EB%AC%B8%EC%84%A0), which is “a collection of historical poetry in Korea created during the Joseon Dynasty”. The compilation of the Dongmunseon was completed in 1478 and it contains works from the late Unified Silla period (9th century) all the way up to the compilation of the Dongmunseon itself (late 15th century).
 
 In this repository, each work in the collection has four versions:
 
