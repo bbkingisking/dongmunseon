@@ -1,0 +1,62 @@
+canonical:
+  title: 送草亭員外歸京師
+  author: 金倫
+  language: lzh
+  text: 靈山辛夫子一代稱有聞芳年取高第擧足騰靑雲遷移更右職光彩動乾文開筵辭故舊鞍馬何糾紛臨觴不能飮離恨徒云云此去調鼎鼐竭力輸忠勤餘波及鰈海未老歸桑枌
+  rtl: true
+  vertical: true
+lzh_formatted:
+  title: 관명
+  author: 金倫
+  language: lzh
+  text: 靈山辛夫子。一代稱有聞。芳年取高第。擧足騰靑雲。遷移更右職。光彩動乾文。開筵辭故舊。鞍馬何糾紛。臨觴不能飮。離恨徒云云。此去調鼎鼐。竭力輸忠勤。餘波及鰈海。未老歸桑枌。
+korean:
+  title: 북경으로 돌아가는 초정 원외
+  author: 김륜
+  language: kor
+  text: |-
+    영산의 신부자는
+    일대에 유명하네
+    젊은 나이에 높은 과거에 오르고
+    발을 들어 청운에 올랐었거니
+    자리 옮길 때마다 직위 오르고
+    그 광채는 천문을 움직이었네
+    자리 베풀어 고향 친구 하직할 때
+    안장 얹은 말들은 어이 시끄러운고
+    술잔 앞에 놓고 마시지 못하며
+    이별 설움 속절없이 하소하네
+    지금 가거든 정내를 조화하여
+    힘을 다해 충성 바치라
+    남은 덕택이 첩해에 미치게 하고
+    부디 늙기 전에 전원으로 돌아오라
+  url: https://db.itkc.or.kr/dir/item?itemId=BT#dir/node?dataId=ITKC_BT_1365A_0070_010_0400&viewSync=OT
+  footnotes:
+  - key: '[주-D001] 정내(鼎鼐) : '
+    value: 솥[鼎]이 발이 셋이므로 삼공(三公)에 비유한다.
+  - key: '[주-D002] 첩해(鰈海) : '
+    value: 우리나라 바다에 첩어(鰈魚)가 난다 하여, 우리나라를 첩해(鰈海)니 첩역(鰈域)이니 한다.
+english:
+  title: Farewell to Chochung Won-oi Returning to Beijing
+  author: Kim Ryun
+  language: eng
+  text: |-
+    The worthy Shin of Yongsan
+    has earned his name throughout the age.
+    In his prime years he rose through the highest examinations,
+    and with a single step ascended to the azure clouds.
+    With each promotion his rank advanced,
+    and his brilliance set the very heavens in motion.
+    When the feast was laid to bid farewell to friends of old,
+    the saddled horses gathered in such tumultuous crowd.
+    Before the cup I cannot drink,
+    and in this parting, sorrow flows without end.
+
+    Go now and master the affairs of state,
+    devote yourself with all your strength to loyal service.
+    Let your remaining virtue extend to all the seas,
+    and may you return to your fields before old age takes hold.
+  footnotes:
+    - 'Yongsan (靈山): a reference to the subject''s native place or origin'
+    - 'Azure clouds (靑雲): a classical metaphor for high official position and advancement'
+    - 'Master the affairs of state (調鼎鼐): a reference to the highest ministerial duties, comparing governance to the balancing of a sacred tripod vessel'
+    - 'All the seas (鰈海): a poetic reference to Korea, alluding to the flatfish that inhabit Korean waters'
